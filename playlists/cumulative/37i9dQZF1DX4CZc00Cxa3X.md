@@ -4,7 +4,7 @@
 
 > Inspired by Listening Bars around the world, a finely chosen selection of Ambient to create your very own.
 
-146 songs - 12 hr 12 min - [published](https://open.spotify.com/playlist/5A1SI2B6RgO6SGlWTiXlLb)
+147 songs - 12 hr 15 min - [published](https://open.spotify.com/playlist/5A1SI2B6RgO6SGlWTiXlLb)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,7 +71,7 @@
 | [La tristeza de una ciudad](https://open.spotify.com/track/5RhexhsWN9cboUH9Qo1EuK) | [David Cordero](https://open.spotify.com/artist/5yE5AG06GxRrh6Hw9qSJOQ) | [Honne \(本 音\)](https://open.spotify.com/album/3UAS7VNUKdxLx6GB1Gabpw) | 4:15 | 2022-03-17 | 2022-07-29 |
 | [Lago Escondido](https://open.spotify.com/track/5iUOejpBYg3sXiwD8poRAq) | [Samuel Aguilar](https://open.spotify.com/artist/1gXqzPzUGPeM2E1rixPWrj), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Lago Escondido](https://open.spotify.com/album/0wMehjx81rurqgjDHKheRI) | 3:56 | 2022-03-17 |  |
 | [Light in Phases](https://open.spotify.com/track/46cgCeZNqCMTmzlBKtFPin) | [Carmen Villain](https://open.spotify.com/artist/4Ps6q34DtWOueT2tJtwE5l) | [Sketch for Winter IX: Perlita](https://open.spotify.com/album/4v9uUlcfLWHzhZfmoTjAz8) | 4:26 | 2022-03-17 |  |
-| [Lil Bub's Story](https://open.spotify.com/track/6910PssSMId7YtYot1aI43) | [Tomasz Bednarczyk](https://open.spotify.com/artist/3OBZFNaAHGXOZ7PWgbkwPT) | [Nothing Much Happens](https://open.spotify.com/album/67fSoRFG74IY2PfXeFkhGH) | 7:02 | 2022-03-17 |  |
+| [Lil Bub's Story](https://open.spotify.com/track/6910PssSMId7YtYot1aI43) | [Tomasz Bednarczyk](https://open.spotify.com/artist/3OBZFNaAHGXOZ7PWgbkwPT) | [Nothing Much Happens](https://open.spotify.com/album/67fSoRFG74IY2PfXeFkhGH) | 7:02 | 2022-03-17 | 2022-10-10 |
 | [Love Is The Tune](https://open.spotify.com/track/2xoYBFFq1q9gf7DRTsxouk) | [Mary Lattimore](https://open.spotify.com/artist/38MKhZmMRHAZRz8LqtKIBw) | [Love Is The Tune](https://open.spotify.com/album/4fu1ECnqoaH0HxnmFYlRzJ) | 3:40 | 2022-03-17 |  |
 | [Lumi](https://open.spotify.com/track/4JwgaqEc7cFmKsBxhNqRSt) | [Aukai](https://open.spotify.com/artist/2AyLrA3GFbgbrjOjVnGcny) | [Lumi](https://open.spotify.com/album/0PaJNCdv9ME8mJkrI1OX0W) | 2:44 | 2022-08-05 |  |
 | [Magdalena](https://open.spotify.com/track/3gxRNUi2suxMo7QV7maZcu) | [Sarah Davachi](https://open.spotify.com/artist/2Swn6We5XXpyDz1YxRkprA) | [Antiphonals](https://open.spotify.com/album/0Nha8uIw64SpmOukz4zLYh) | 10:19 | 2022-03-30 | 2022-09-13 |
@@ -91,6 +91,7 @@
 | [Objects With Intent \- Heathered Pearls Remix](https://open.spotify.com/track/5LS0asKEyjsjXmbC4EYSlB) | [Dotlights](https://open.spotify.com/artist/5HoxUV5njSmYDj1U9i9zHY), [Heathered Pearls](https://open.spotify.com/artist/1o949goAYc4vD4IqN0zhVV) | [Objects With Intent \(Heathered Pearls Remix\)](https://open.spotify.com/album/3ElI4A720abHnbeJi0Kf2P) | 4:35 | 2022-03-17 | 2022-09-21 |
 | [On Plateau](https://open.spotify.com/track/5SpQc9ByjLPrycqSBdPRKU) | [Suso Saiz](https://open.spotify.com/artist/5gdvIKIFREcJmy3LV6yhBh), [Suzanne Kraft](https://open.spotify.com/artist/1FTn5osUbCr8n7WgYmbK5m) | [Between No Things](https://open.spotify.com/album/6OQwiuvocNlEp7D9nIBOjj) | 3:55 | 2022-03-17 |  |
 | [One Day Early](https://open.spotify.com/track/2XUYOwgUAVzxYNfZX4lPIj) | [Low Flung](https://open.spotify.com/artist/7FRTM6sphATqwmzvNrGezw) | [One Day Early](https://open.spotify.com/album/4UPKKJk7iQsYauHS72tkeF) | 27:53 | 2022-03-17 | 2022-07-28 |
+| [Open Handed](https://open.spotify.com/track/7fBI4qaCF4LTisfqxyCjFX) | [From Somewhere Quiet](https://open.spotify.com/artist/7rwEdsO6VoIZMiaI1uvZBQ), [We Dream of Eden](https://open.spotify.com/artist/55dhSq6LQ1N5JlHF5DlbFf) | [Open Handed](https://open.spotify.com/album/0OMRDlt8V9W7kjybKUbwSi) | 3:24 | 2022-10-04 |  |
 | [Open Mind](https://open.spotify.com/track/2ffxaPccRoZmT99U5wgJQJ) | [gonima](https://open.spotify.com/artist/77dTJotJTJA8XS3Y4gBp80) | [Strands](https://open.spotify.com/album/5SMyZhcjGy4v1VXskIa0hn) | 2:35 | 2022-09-07 |  |
 | [Orizzontale Verticale](https://open.spotify.com/track/0rpFR0DN8k47KPO4q1hT02) | [Loris S\. Sarid](https://open.spotify.com/artist/0gYheMncGk0zhnDEwpRidl) | [Music for Tomato Plants](https://open.spotify.com/album/4UvdKF7LlJmxCh3U3VWjKb) | 4:26 | 2022-08-17 |  |
 | [Overlay \- KMRU Remix](https://open.spotify.com/track/0AJojYxlKDwZgDpz4WGfw8) | [Koki Nakano](https://open.spotify.com/artist/0BuB6oNX1squsfXbtkO5JE), [KMRU](https://open.spotify.com/artist/5blZUSGq0z7HhuSldSXV3a) | [Overlay \(KMRU Remix\)](https://open.spotify.com/album/0FmXDaoU4rJXla1BUC36AY) | 5:05 | 2022-03-17 | 2022-09-13 |

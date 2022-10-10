@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTL4zPbYeMFs.md) - [plain]
 
 > A perfect mix for your Mehendi evening.
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,879 likes - 40 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,022 likes - 40 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTL4zPbYeMFs.md) - [plain]
 | 7 | [Navrai Majhi](https://open.spotify.com/track/73b9wDijCUpicQUzrc47EY) | [Sunidhi Chauhan](https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v), [Swanand Kirkire](https://open.spotify.com/artist/4q7O0NIvhz0G1IgyfOmdcz), [Neelambari Kirkire](https://open.spotify.com/artist/6alTCEe35NN3busJ9xGAlU), [Natali Di Luccio](https://open.spotify.com/artist/672316o5Y63QCzOkXIth5w) | [English Vinglish](https://open.spotify.com/album/2uT4K3kAtYkmvzxVDNKc6U) | 4:22 |
 | 8 | [Mehndi](https://open.spotify.com/track/7GnO1WjNfc0BjHwwbkmsAn) | [Miss Pooja](https://open.spotify.com/artist/0DyXyd0D6fMUsuD6yONANx), [DJ KSR](https://open.spotify.com/artist/5Vo22DmP2xVFg9dwnAZapU) | [Mehndi](https://open.spotify.com/album/5GbJKpHQ3UIKqZLSUZlj0x) | 2:52 |
 | 9 | [Mehndi Hai Rachnewali](https://open.spotify.com/track/0lCdndc8chDOcAQqfLvCyE) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Alka Yagnik](https://open.spotify.com/artist/3gBKY0y3dFFVRqicLnVZYz) | [Zubeidaa \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5t0wkaiJ86D3MtdBhUevkd) | 4:26 |
-| 10 | [Shagna Di Mehndi](https://open.spotify.com/track/5sleet26J1GCHLL42Dn6OV) | [Gurdas Maan](https://open.spotify.com/artist/3ttzOzBpRWRBzhn6thqhdT), [Sunidhi Chauhan](https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v) | [Nankana](https://open.spotify.com/album/1t6NDICI2JD505CLOLT0WV) | 3:32 |
+| 10 | [](https://open.spotify.com/track/5sleet26J1GCHLL42Dn6OV) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [Nankana](https://open.spotify.com/album/1t6NDICI2JD505CLOLT0WV) | 0:00 |
 | 11 | [Banarasiya](https://open.spotify.com/track/5h6O8kOSivahcPg4Rlgp15) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy) | [Raanjhanaa \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/24C47633GRlozws7WBth7t) | 4:49 |
 | 12 | [Kala Sha Kala](https://open.spotify.com/track/48QEqHpLNEBpzW2Ef4LryG) | [Annamika](https://open.spotify.com/artist/4nRfn9j9OQZh1DXwmP3iA4) | [Bollywood to Bhangra](https://open.spotify.com/album/7zDbRVfHFjw7RqSIOedXWM) | 4:10 |
 | 13 | [Sun Sohniye \- From "Afsar"](https://open.spotify.com/track/0Sf6tCf1PpIXrG5htibftj) | [Ranjit Bawa](https://open.spotify.com/artist/6pU5oz09VUYtnFTd4P1Mxn), [Nimrat Khaira](https://open.spotify.com/artist/0ea0y5ZxnN5TbEDzNtx5Fk) | [Sun Sohniye \(From "Afsar"\)](https://open.spotify.com/album/1lotYHh1TgHkdt28VVUfSF) | 2:38 |

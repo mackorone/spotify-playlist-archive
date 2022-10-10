@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "For the Hard Rock and full volume lovers. Cover: The Smashing Pumpkins",
+  "description": "For the Hard Rock and full volume lovers. Cover: Paramore",
   "name": "Hard Rock",
   "published_playlist_ids": [
     "2HA2QQOzqVmyF0ys9hz4Cw"
@@ -277,7 +277,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 186173,
       "name": "Antagonist",
       "url": "https://open.spotify.com/track/3XRknZ0U5NKW8r5g44ptA6"
@@ -425,6 +425,24 @@
       "duration_ms": 206257,
       "name": "Bella from Hell",
       "url": "https://open.spotify.com/track/1lg9tzQWH89iV7ZPiszEID"
+    },
+    {
+      "album": {
+        "name": "Best at Being the Worst",
+        "url": "https://open.spotify.com/album/7bMF7TAiaTukL81wkGq3QB"
+      },
+      "artists": [
+        {
+          "name": "Unlike Pluto",
+          "url": "https://open.spotify.com/artist/4zjO8Jhi2pciJJzd8Q6rga"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240203,
+      "name": "Best at Being the Worst",
+      "url": "https://open.spotify.com/track/5icnQhZE9x54UqAxBK9po3"
     },
     {
       "album": {
@@ -785,7 +803,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 173931,
       "name": "City Of The Dead",
       "url": "https://open.spotify.com/track/39sHS8PN9SDZSZ7w1wjRYb"
@@ -1614,6 +1632,24 @@
     },
     {
       "album": {
+        "name": "Find Life",
+        "url": "https://open.spotify.com/album/4FcALGqDUHyWIhEnkIm3qs"
+      },
+      "artists": [
+        {
+          "name": "Amaranthe",
+          "url": "https://open.spotify.com/artist/2KaW48xlLnXC2v8tvyhWsa"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184346,
+      "name": "Find Life",
+      "url": "https://open.spotify.com/track/0GJfvZyqNIzNC47NZh5O5u"
+    },
+    {
+      "album": {
         "name": "Fire In The Sky",
         "url": "https://open.spotify.com/album/1ojfq5VQ5yjJZntEGMtzoK"
       },
@@ -2307,7 +2343,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 285962,
       "name": "It Ends Tonight",
       "url": "https://open.spotify.com/track/1V1QWXnUZZlfcjqmdkylP9"
@@ -2765,6 +2801,28 @@
       "duration_ms": 299050,
       "name": "Miracle",
       "url": "https://open.spotify.com/track/136RZz52ah69tPa3k7HLT3"
+    },
+    {
+      "album": {
+        "name": "MODERN META MEDICINE (feat. Jesse Leach of Killswitch Engage)",
+        "url": "https://open.spotify.com/album/16zuCh6AvPoS058XshhseX"
+      },
+      "artists": [
+        {
+          "name": "Anti-Flag",
+          "url": "https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT"
+        },
+        {
+          "name": "Jesse Leach",
+          "url": "https://open.spotify.com/artist/1Lwi01HS3nSZxM9u9zr3CT"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216000,
+      "name": "MODERN META MEDICINE (feat. Jesse Leach of Killswitch Engage)",
+      "url": "https://open.spotify.com/track/2fPKdiqwKvEdhtytC0kDED"
     },
     {
       "album": {
@@ -3793,7 +3851,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 211440,
       "name": "Set You Free",
       "url": "https://open.spotify.com/track/3YLbIF9J9jtbmIeuBvzN4j"
@@ -4495,10 +4553,28 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-07",
       "duration_ms": 203586,
       "name": "The Dying Song (Time To Sing)",
       "url": "https://open.spotify.com/track/5Lqk8Z6MnfIyeTchmMaPEG"
+    },
+    {
+      "album": {
+        "name": "The End, So Far",
+        "url": "https://open.spotify.com/album/3hWTXO0w02D6YpVRyLRmQz"
+      },
+      "artists": [
+        {
+          "name": "Slipknot",
+          "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203586,
+      "name": "The Dying Song (Time To Sing)",
+      "url": "https://open.spotify.com/track/6rsoBvxrlxdmqJyGPPciyq"
     },
     {
       "album": {
@@ -5225,6 +5301,24 @@
       "duration_ms": 185502,
       "name": "Untouchable",
       "url": "https://open.spotify.com/track/2dWqxUeIO2kM45lHMLOz9J"
+    },
+    {
+      "album": {
+        "name": "<COPINGMECHANISM>",
+        "url": "https://open.spotify.com/album/0oMXn0MNLNyvB4iJPZXOuV"
+      },
+      "artists": [
+        {
+          "name": "WILLOW",
+          "url": "https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125901,
+      "name": "ur a <stranger>",
+      "url": "https://open.spotify.com/track/4OvlUfaJKuZ9aJVAJWmwyE"
     },
     {
       "album": {

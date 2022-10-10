@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3JL4x1IApCd.md) - [plain]
 
 ### [Gengeton Fire Presents..\. Best Gengetone Songs Of 2021](https://open.spotify.com/playlist/37i9dQZF1DX3JL4x1IApCd)
 
-> Editor's pick: The best of Gengetone songs of 2021\. Cover: "https://open.spotify.com/artist/3MNSiKXQ08jmcwzhQD5JFv?si=ah1amS0nQ3iTfMhqoXh4Ow">Mbuzi Gang'</a>
+> Editor's pick: The best of Gengetone songs of 2021\. Cover: Mbuzi Gang
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,359 likes - 100 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,362 likes - 100 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3JL4x1IApCd.md) - [plain]
 | 99 | [Bad Manners](https://open.spotify.com/track/4yLLLdUwGvmK5XipEGu3Tw) | [Gwaash](https://open.spotify.com/artist/1F6HFgzRxozLXpqb188uD7) | [Bad Manners](https://open.spotify.com/album/25TTGozgEjwVcY4TG6YgUv) | 4:39 |
 | 100 | [HIVI NA HIVO](https://open.spotify.com/track/0lbf1IBDUh0ZRfSefOpFZT) | [Maandy](https://open.spotify.com/artist/3AaXIAk5OkIRmHnoEP4XmP) | [HIVI NA HIVO](https://open.spotify.com/album/2qkkyBXKPpsFw4Lkb0qafh) | 3:07 |
 
-Snapshot ID: `MTYzODM2NjU4MSwwMDAwMDAwMDFiOTcxYWNhNzliYzNiYTg2N2VlOGIyNGJlN2FjMzUz`
+Snapshot ID: `MTY2NTE0MDQzMSwwMDAwMDAwMGRlOTEyNzAyNzc4OTRkYTA0NWQxYjA1ZDZiYTIyOGRk`

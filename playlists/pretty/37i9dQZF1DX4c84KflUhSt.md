@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4c84KflUhSt.md) - [plain]
 
 > The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 107,220 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 107,384 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4c84KflUhSt.md) - [plain]
 | 49 | [It Had To Be You](https://open.spotify.com/track/7dwEFJGLcO6sQJtw9AxUq4) | [Tony Bennett](https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV) | [When Lights Are Low](https://open.spotify.com/album/1WT9HorENIY0JeMlb3OqhX) | 3:15 |
 | 50 | [All The Things You Are](https://open.spotify.com/track/7dW9KIZvcQJnjQb3vy5Q6i) | [Tony Bennett](https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV), [Bill Charlap](https://open.spotify.com/artist/2QX8yUROOnWTSLFg4sZ9Gg) | [The Silver Lining \- The Songs of Jerome Kern](https://open.spotify.com/album/6HT89sSe135gyyxJhaLs2m) | 4:37 |
 
-Snapshot ID: `MTY2MzMxNTAzNywwMDAwMDAwMDhlYmU5YzYyNGY3OTMxNjNhYzQ1ZDNjNjQ1YjhiNGUz`
+Snapshot ID: `MTY2NTEyOTA5MCwwMDAwMDAwMDVkNzM0ZWMwYjdlOTUxYzdiNzEyYTQwZWZjN2M0ZDA1`

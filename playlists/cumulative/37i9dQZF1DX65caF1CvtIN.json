@@ -732,6 +732,24 @@
     },
     {
       "album": {
+        "name": "Fordi jeg vil",
+        "url": "https://open.spotify.com/album/6cz5dR8Q4uHCGmqaZDENSo"
+      },
+      "artists": [
+        {
+          "name": "Eline Neteland",
+          "url": "https://open.spotify.com/artist/4EXNBWhy685Yit4VemEbR6"
+        }
+      ],
+      "date_added": "2022-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163282,
+      "name": "Fordi jeg vil",
+      "url": "https://open.spotify.com/track/1GwBsmxZo3knfuxkIIoSCs"
+    },
+    {
+      "album": {
         "name": "Glitter",
         "url": "https://open.spotify.com/album/0L8EQKHSBRT1ZjeB8bH8vX"
       },
@@ -801,6 +819,24 @@
       "duration_ms": 167624,
       "name": "Hiemalis",
       "url": "https://open.spotify.com/track/0UcRrIl4Ti4xSdp314ZASI"
+    },
+    {
+      "album": {
+        "name": "Hind / Aska (Harpa Sessions)",
+        "url": "https://open.spotify.com/album/4wMVESeu9wtxdBBUteIKV2"
+      },
+      "artists": [
+        {
+          "name": "Gabr\u00edel \u00d3lafs",
+          "url": "https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB"
+        }
+      ],
+      "date_added": "2022-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 98000,
+      "name": "Hind - Voiceless - Harpa Sessions",
+      "url": "https://open.spotify.com/track/3xgrIw8JY1aqdD5yNAB5OH"
     },
     {
       "album": {
@@ -1241,6 +1277,24 @@
     {
       "album": {
         "name": "Mirror Lake",
+        "url": "https://open.spotify.com/album/5tTymJqGUyFkmklHSyRRRU"
+      },
+      "artists": [
+        {
+          "name": "Angus MacRae",
+          "url": "https://open.spotify.com/artist/461sVAxk7a1yog2yExyBRX"
+        }
+      ],
+      "date_added": "2022-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271374,
+      "name": "Mirror Lake",
+      "url": "https://open.spotify.com/track/4Mwv1IAyhdh9oWMcUHB0Vc"
+    },
+    {
+      "album": {
+        "name": "Mirror Lake",
         "url": "https://open.spotify.com/album/6nLZCWMmgvuvIL54FspRll"
       },
       "artists": [
@@ -1251,7 +1305,7 @@
       ],
       "date_added": "2022-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-05",
       "duration_ms": 271387,
       "name": "Mirror Lake",
       "url": "https://open.spotify.com/track/1eVJInWM1ElhWTAFbCAQS9"
@@ -1363,6 +1417,28 @@
       "duration_ms": 173553,
       "name": "Nocturne I",
       "url": "https://open.spotify.com/track/6f9DfXmjSQ7u2D9AzwA6l2"
+    },
+    {
+      "album": {
+        "name": "Old Letter",
+        "url": "https://open.spotify.com/album/00PzQJppWlGGLdMCmBQtfy"
+      },
+      "artists": [
+        {
+          "name": "Guido Heeneman",
+          "url": "https://open.spotify.com/artist/2e4x0REh1E5gnXL9fNkidv"
+        },
+        {
+          "name": "GUIDO",
+          "url": "https://open.spotify.com/artist/04epIWC7DF8bFAwQW6nLfp"
+        }
+      ],
+      "date_added": "2022-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234500,
+      "name": "Old Letter",
+      "url": "https://open.spotify.com/track/3Ou4VHEilRM3CLJ4TkxBzY"
     },
     {
       "album": {

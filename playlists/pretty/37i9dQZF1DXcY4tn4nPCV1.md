@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcY4tn4nPCV1.md) - [plain]
 
 > A calm, instrumental reading playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 166,664 likes - 222 songs - 9 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 166,819 likes - 222 songs - 9 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,7 +58,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcY4tn4nPCV1.md) - [plain]
 | 48 | [Whereabouts](https://open.spotify.com/track/4BWkwMwvllPPl0XKxPxRad) | [Portia Price](https://open.spotify.com/artist/7IwKtpUI6EW84PJLgzmlP7) | [Whereabouts](https://open.spotify.com/album/3riGY3qnZxMyCp01hgMCnd) | 3:09 |
 | 49 | [Kokachin](https://open.spotify.com/track/2pzrTJSU6bTqEmZ7Zv5XLM) | [Flóki](https://open.spotify.com/artist/6IEWnUlDDKygVlZVX8iLHT) | [Kokachin](https://open.spotify.com/album/0D5XBOqxs8fW0dU0MgQM8G) | 4:02 |
 | 50 | [Sunnebovals](https://open.spotify.com/track/0ob3wzPe3R3NpJtUEz0wUQ) | [Christian Peterson\-Bergling](https://open.spotify.com/artist/0jXPRVmiApahArJiibipfH) | [Sunnebovals](https://open.spotify.com/album/7HFD5GTgPyDOGNaFZKdecx) | 2:53 |
-| 51 | [Wandering Life](https://open.spotify.com/track/0oOXM7PiPK9BduPyCTEiYT) | [Matías Efraím León](https://open.spotify.com/artist/1QVjgeS6L4NPdIazWBRSJX), [Thomas Derry](https://open.spotify.com/artist/03kJMjnglfUqv8ReOql96z), [Esther Dutch](https://open.spotify.com/artist/5dE53rEeytVtDqFaOViuZ7) | [Wandering Life](https://open.spotify.com/album/2z6SjaPPbE141LTrDcxS38) | 1:38 |
+| 51 | [Wandering Life](https://open.spotify.com/track/0oOXM7PiPK9BduPyCTEiYT) | [Matías Efraím León](https://open.spotify.com/artist/1QVjgeS6L4NPdIazWBRSJX), [Esther Dutch](https://open.spotify.com/artist/5dE53rEeytVtDqFaOViuZ7), [Matías León](https://open.spotify.com/artist/55pax7nWiHFl6lErm3SH0I) | [Wandering Life](https://open.spotify.com/album/2z6SjaPPbE141LTrDcxS38) | 1:38 |
 | 52 | [Irreversible](https://open.spotify.com/track/3iGoaawn0i6d0IUESJxM0f) | [Karl Hasselfors](https://open.spotify.com/artist/0oTXHaCCC8C2xvKLRxDgtC) | [Irreversible](https://open.spotify.com/album/0MQWtPXU0Rxr4PAf5k1hmh) | 2:16 |
 | 53 | [Dahlias](https://open.spotify.com/track/0r0z0VyDa8X5fu3Kl6ybYi) | [Moldoveanu](https://open.spotify.com/artist/4eyw3Zvban1yje7bF3ha4O) | [Dahlias](https://open.spotify.com/album/22hBdp6pvyZzEI3Fu8x58n) | 2:11 |
 | 54 | [Delicate](https://open.spotify.com/track/648uIXFNwQBgemMz1kk1Be) | [Max Arnolds](https://open.spotify.com/artist/272NYvyxL9shy4vUzsvz23) | [Delicate](https://open.spotify.com/album/56DezvcqC1Ar63BjQ5mqCJ) | 2:34 |

@@ -2,9 +2,9 @@
 
 ### [The Core](https://open.spotify.com/playlist/37i9dQZF1DWXIcbzpLauPS)
 
-> This is the new Core at its finest\. Cover: Lorna Shore
+> This is the new Core at its finest\. Cover: From Ashes to New feat\. Matty Mullins
 
-582 songs - 1 day 12 hr 42 min - [published](https://open.spotify.com/playlist/3WEyotDPwbgzHjigMpDgbN)
+584 songs - 1 day 12 hr 49 min - [published](https://open.spotify.com/playlist/3WEyotDPwbgzHjigMpDgbN)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -142,6 +142,7 @@
 | [Dead Inside](https://open.spotify.com/track/4hZIolup6cgYhrzzGq46aq) | [Future Palace](https://open.spotify.com/artist/4QnuZOyl4C9d1keyOZXJ21) | [Run](https://open.spotify.com/album/3PsbQWb1jzu1TieGQwvjd7) | 3:24 | 2022-06-10 |  |
 | [Dead Man's Diary](https://open.spotify.com/track/0W6JBOQRxYwwr4IDwfmdQg) | [Paleface](https://open.spotify.com/artist/467M2s2YxXdlL2ZpDUNL3A), [LANDMVRKS](https://open.spotify.com/artist/6G43CiunIxMwb2tQ12vNP6) | [Dead Man's Diary](https://open.spotify.com/album/1gvLe7lqcMsNmiiggAqDbn) | 4:39 | 2022-07-13 | 2022-07-23 |
 | [Deadlock](https://open.spotify.com/track/2etljcSPMGHn4xvBW2MKV6) | [InVisions](https://open.spotify.com/artist/1QQDWitxJcOcNAivxpuKcR) | [Deadlock](https://open.spotify.com/album/0mqqElHOV09nN5sMXd3g9i) | 4:15 | 2022-01-14 | 2022-04-23 |
+| [Deadly Potential](https://open.spotify.com/track/1JZx2mGv66ttbIExCIDytp) | [Unseen Faith](https://open.spotify.com/artist/0jxsB41mcHVlqUygQZ9o7V), [Siamese](https://open.spotify.com/artist/0Hx4gv3eoiodtu6XYHF1X0) | [Deadly Potential](https://open.spotify.com/album/3MQj3V69ZtkWi9mLV3lcmy) | 3:04 | 2022-10-08 |  |
 | [Deadman](https://open.spotify.com/track/06OJVnoWmumCvMhAgi1zga) | [Smash Into Pieces](https://open.spotify.com/artist/2vhrwzjf9H3icunkVFi9tq) | [Deadman](https://open.spotify.com/album/5UyRUec6G8ArrTXgIkfDGs) | 3:29 | 2022-01-28 | 2022-04-09 |
 | [Dear Wendy](https://open.spotify.com/track/0eD0Svr1TOFx8QgNkpTBsT) | [Attack Attack!](https://open.spotify.com/artist/1FcRUsTmnEQfVCH5OIKSpb) | [Long Time, No Sea \(Expanded Edition\)](https://open.spotify.com/album/7LgruFgKT9Vg00mymfEyf7) | 3:27 | 2021-12-17 | 2022-07-23 |
 | [Death](https://open.spotify.com/track/2kfSeL9vDusN2hHnMJXbgs) | [LANDMVRKS](https://open.spotify.com/artist/6G43CiunIxMwb2tQ12vNP6), [DR€W ¥ORK](https://open.spotify.com/artist/4E7k7fQ89SmXCLHHvpMNHu) | [Death](https://open.spotify.com/album/7lwudJOqfQ3cmBWBsbOjt1) | 3:43 | 2022-01-14 | 2022-07-23 |
@@ -321,7 +322,7 @@
 | [Lost](https://open.spotify.com/track/6WMFC3iy36DscTJEG0huzK) | [Secrets](https://open.spotify.com/artist/1TRVqozKc5Qk1cjwRdWBSl) | [The Collapse](https://open.spotify.com/album/4np2KGjQ8ARvYgHz5o0pAr) | 3:30 | 2022-06-10 |  |
 | [Lost Boy](https://open.spotify.com/track/5jFuZGmz1VmEmx31wP7lDy) | [Whitechapel](https://open.spotify.com/artist/5274obTQJjzjyycRyJlfml) | [Lost Boy](https://open.spotify.com/album/3ZULFLjv3iyEZCgOzmmKHp) | 3:58 | 2022-07-13 | 2022-07-23 |
 | [Lost In Doubt](https://open.spotify.com/track/0VUnK5QjwA7t5r5B15S0K7) | [Fame on Fire](https://open.spotify.com/artist/10Z7WzKMeIdNBKexi1YarP) | [Lost In Doubt](https://open.spotify.com/album/4MTpanFO4qaYv9OMltyt4e) | 2:37 | 2022-03-11 | 2022-05-14 |
-| [Low](https://open.spotify.com/track/1HG4TOUb5ETGmd6mJAwQrZ) | [Cabin Boy Jumped Ship](https://open.spotify.com/artist/4DgFNYd8vdx6ew57alHC0S) | [Sentiments](https://open.spotify.com/album/7lMBWUI1LBTAEIY4RiKu6m) | 4:12 | 2022-05-27 |  |
+| [Low](https://open.spotify.com/track/1HG4TOUb5ETGmd6mJAwQrZ) | [Cabin Boy Jumped Ship](https://open.spotify.com/artist/4DgFNYd8vdx6ew57alHC0S) | [Sentiments](https://open.spotify.com/album/7lMBWUI1LBTAEIY4RiKu6m) | 4:12 | 2022-05-27 | 2022-10-08 |
 | [Lowborn](https://open.spotify.com/track/7nGc6tq27wHwpF7iFdUaWr) | [Wolves At The Gate](https://open.spotify.com/artist/0Z88iXWc4YVhtu1eFtsGk6) | [Lowborn](https://open.spotify.com/album/2VUudJnXj6o9SR1m0OlcXL) | 4:25 | 2021-12-17 | 2022-02-11 |
 | [Lucy](https://open.spotify.com/track/1tHk8blCzRJQKQd10K6i8I) | [Windwaker](https://open.spotify.com/artist/46le9d4IkW3C6zTxhkuxIS) | [Lucy](https://open.spotify.com/album/78Aw9KMCkXDEOwogJ6h5lE) | 3:36 | 2022-03-03 | 2022-07-23 |
 | [Lust](https://open.spotify.com/track/0g9rKVt9lXwne5bhy0ptbU) | [Kneel Before the Death](https://open.spotify.com/artist/3Gd8aErwIatbB6fw735SNK) | [Lust](https://open.spotify.com/album/1BVCpyEynUaxaLYtsdOaYt) | 3:41 | 2022-07-13 | 2022-07-16 |
@@ -362,7 +363,7 @@
 | [No Dignity](https://open.spotify.com/track/3lN5zEux9kS6wuAOynFQlO) | [Acranius](https://open.spotify.com/artist/3pQynkPJgCgmfoIQnGvZKG) | [No Dignity](https://open.spotify.com/album/0d1OWLprMSKHi4aeeIhpEZ) | 3:29 | 2022-07-13 | 2022-07-20 |
 | [NO HELP](https://open.spotify.com/track/2yxjtF4f1Yw2GpKELclHw3) | [Our Last Night](https://open.spotify.com/artist/00YTqRClk82aMchQQpYMd5) | [NO HELP](https://open.spotify.com/album/65SYISbipzVUmmoeAzsYtP) | 2:53 | 2022-04-15 | 2022-05-21 |
 | [No Hope 'Til Now](https://open.spotify.com/track/0rsn2sc8LlIfTyePLigY8w) | [The Veer Union](https://open.spotify.com/artist/2WQQRKpu2PMLsHSrUJmyCS) | [No Hope 'Til Now](https://open.spotify.com/album/6q6eyYT6oipY8ixkers5Ed) | 3:59 | 2022-07-08 |  |
-| [No King Rules Forever](https://open.spotify.com/track/33a56ZdHf1SrYxgbGLf14n) | [Alex Yarmak](https://open.spotify.com/artist/7BxvbZy8vMWGskAEh3uueA) | [No King Rules Forever](https://open.spotify.com/album/10vHHRoQupZXltyWiDozNI) | 3:12 | 2022-06-17 | 2022-10-01 |
+| [No King Rules Forever](https://open.spotify.com/track/33a56ZdHf1SrYxgbGLf14n) | [Alex Yarmak](https://open.spotify.com/artist/7BxvbZy8vMWGskAEh3uueA) | [No King Rules Forever](https://open.spotify.com/album/10vHHRoQupZXltyWiDozNI) | 3:12 | 2022-06-17 | 2022-10-06 |
 | [No One's Above](https://open.spotify.com/track/1tL1eSbnVwjhttYr8ixETm) | [Abbie Falls](https://open.spotify.com/artist/5nSlRGZqJVAORU3SsSD0YU) | [No One's Above](https://open.spotify.com/album/3KUNHE5rZUUSLnLIcudqbH) | 3:33 | 2022-07-13 | 2022-07-23 |
 | [No Time To Suffer](https://open.spotify.com/track/3a4afK7qfkQyhZbjxHHuXE) | [Awakening Sun](https://open.spotify.com/artist/1cEjFjoSrq4vgbB3vnWU9v) | [No Time To Suffer](https://open.spotify.com/album/0cIFoaXSemx7TYiqC6EI9n) | 3:55 | 2022-07-13 | 2022-07-16 |
 | [No Vacancy](https://open.spotify.com/track/1kQCufzKsVuA4mcFhBRMWG) | [Righteous Vendetta](https://open.spotify.com/artist/0H9lbVkJq2aj6SbqJKBVy5) | [No Vacancy](https://open.spotify.com/album/0RQf8be7RCvMrRCL9aVYJ2) | 3:23 | 2022-01-07 | 2022-07-23 |
@@ -536,7 +537,7 @@
 | [Total Protonic Reversal](https://open.spotify.com/track/69lvjewaJxRQloAi5j7hma) | [Killitorous](https://open.spotify.com/artist/0aiK7nPFPKzrpv3R3pWOIw) | [Total Protonic Reversal](https://open.spotify.com/album/5Jf0ykUIAgOPZpSWTzCfOT) | 3:50 | 2022-07-13 | 2022-07-20 |
 | [Toxicant](https://open.spotify.com/track/39OtaFg1VC0Ae5s9QByKH1) | [Sunfall](https://open.spotify.com/artist/740XnUGK1y8DMyMZSgRjVN) | [Toxicant](https://open.spotify.com/album/6DhFyCsqxvVJOVvq0cYbiO) | 4:41 | 2022-07-13 | 2022-07-22 |
 | [Transcendent](https://open.spotify.com/track/5oWgLIrSTgqqNRh1AhsiQ1) | [Aviana](https://open.spotify.com/artist/1AvLltBsz1HdAtZeucm9zy) | [Transcendent](https://open.spotify.com/album/3YMpCrGOIp8ZXy0ft4piEA) | 3:37 | 2022-03-11 | 2022-05-14 |
-| [Trapped](https://open.spotify.com/track/2rggHX6x7fQUmo4WXTBzMQ) | [Suasion](https://open.spotify.com/artist/3By3NlIbjZW9Uqlph8kcgK) | [Trapped](https://open.spotify.com/album/3qKY0taBBsvUZaSSblJtrf) | 3:24 | 2022-06-17 | 2022-09-23 |
+| [Trapped](https://open.spotify.com/track/2rggHX6x7fQUmo4WXTBzMQ) | [Suasion](https://open.spotify.com/artist/3By3NlIbjZW9Uqlph8kcgK) | [Trapped](https://open.spotify.com/album/3qKY0taBBsvUZaSSblJtrf) | 3:24 | 2022-06-17 | 2022-10-08 |
 | [Trapped](https://open.spotify.com/track/4XbVasB4Gwwgvdua5fmI8l) | [The Amsterdam Red Light District](https://open.spotify.com/artist/1ptorm1HpGuBCrIE5BLijx) | [Trapped](https://open.spotify.com/album/5ACncvxgoQCS5YJpCtuDj1) | 3:20 | 2022-04-08 | 2022-06-24 |
 | [Truly Deprived](https://open.spotify.com/track/2BsTfpWMvFFsCV9RHfdBPJ) | [Amoura](https://open.spotify.com/artist/5HnOeFjaoIdjavGtQluzbh), [Chad Ruhlig](https://open.spotify.com/artist/3nCpQY8lOa5g72k9tA8tUb) | [Truly Deprived](https://open.spotify.com/album/0qLEtJ5xuUazymrEcHCfHL) | 3:34 | 2021-12-17 | 2022-02-18 |
 | [Turning 23](https://open.spotify.com/track/7djUbBYcFHXuTf3psVNBnQ) | [Until the Dead Walk](https://open.spotify.com/artist/4Zr17aIvRu0LjH3Zf8QDRb), [Coldharbour](https://open.spotify.com/artist/7eVTOU3R6iKKMVric5JaUo) | [Untitled](https://open.spotify.com/album/4tModRmtwGx1rjRVbfrhCz) | 3:33 | 2022-07-13 | 2022-07-19 |
@@ -548,6 +549,7 @@
 | [Unconquered](https://open.spotify.com/track/5624sQ4FhCXJRQpYwhkvt8) | [Miss May I](https://open.spotify.com/artist/2OTuoIi28WybVbVcykc237) | [Unconquered](https://open.spotify.com/album/0zx4zzB4EheppuadoyXLN0) | 3:35 | 2022-03-11 | 2022-05-14 |
 | [Uninstall](https://open.spotify.com/track/3j6PTmfO14WXI7LuHnfucf) | [Our Last Night](https://open.spotify.com/artist/00YTqRClk82aMchQQpYMd5) | [Uninstall](https://open.spotify.com/album/5Y8ghgaAGkjSMeVwSHRgK2) | 2:35 | 2022-05-20 | 2022-07-23 |
 | [Unspoken](https://open.spotify.com/track/45A5LSkr8lptp6M1JYfpPo) | [War Of Ages](https://open.spotify.com/artist/4s407eN0H9FQyRMc1n3Spx) | [Rhema](https://open.spotify.com/album/1UMemAsPkhn8gtMvv9nq9f) | 4:22 | 2021-12-17 | 2022-02-11 |
+| [Until We Break \(feat\. Matty Mullins of Memphis Mayfire\)](https://open.spotify.com/track/3uRuVa1eBgOjfsCegIq1lb) | [From Ashes to New](https://open.spotify.com/artist/4HrkLxQHZ5mgCtIVpiH5QX), [Memphis May Fire](https://open.spotify.com/artist/7cNNNhdJDrt3vgQjwSavNf) | [Until We Break \(feat\. Matty Mullins of Memphis May Fire\)](https://open.spotify.com/album/5RcDVFgqW9VHShesfquQER) | 3:34 | 2022-10-08 |  |
 | [Until We Die](https://open.spotify.com/track/0Fz4ivzoq6nk4a9r3vgWyq) | [Axty](https://open.spotify.com/artist/4zVeGdifjxGkC3eCSmCo0H) | [Helpless](https://open.spotify.com/album/4GWIhEKHz9pJcclysehZ93) | 3:38 | 2021-12-17 | 2022-01-15 |
 | [UPS AND DOWNS](https://open.spotify.com/track/2lKoPdYVhWsTiZpi23BBdH) | [Manafest](https://open.spotify.com/artist/4uOFEWy9mIcvQbr03IbPcL) | [UPS AND DOWNS](https://open.spotify.com/album/5rzvZkbnpeKjE8nBnvq7dL) | 3:14 | 2022-01-28 | 2022-07-22 |
 | [VAMPYR](https://open.spotify.com/track/3ZqfaP23vRTS4tSre8HAwk) | [Void Of Vision](https://open.spotify.com/artist/7bpJe59fkklnlfHPxCMvF1) | [VAMPYR](https://open.spotify.com/album/3A9Pi2b6Svur1Ij3j9Lnz7) | 3:34 | 2021-12-17 | 2022-01-15 |
@@ -573,7 +575,7 @@
 | [When The World Awakens](https://open.spotify.com/track/0EykvSNrnnaC6usNnkIuVN) | [The Veer Union](https://open.spotify.com/artist/2WQQRKpu2PMLsHSrUJmyCS) | [When The World Awakens](https://open.spotify.com/album/2aL557gcof6jc3qMEuqwD4) | 3:17 | 2022-03-11 | 2022-04-09 |
 | [Where Millions Have Come to Die](https://open.spotify.com/track/52af9CWTZlmXbkR0qLUCdi) | [Shadow of Intent](https://open.spotify.com/artist/76xrrejizyQpKukBIhnf3D), [Phil Bozeman](https://open.spotify.com/artist/4xwTN5RGJpScAcnlwVNU4y) | [Where Millions Have Come to Die](https://open.spotify.com/album/39etS8zmHojH5CgZ8urdGl) | 4:23 | 2022-07-13 | 2022-07-23 |
 | [White Eyes](https://open.spotify.com/track/0fCgvtJC4QOubRHtN5Pi2y) | [Hopes Die Last](https://open.spotify.com/artist/7lDZOczH1YscXoadzACAil) | [White Eyes](https://open.spotify.com/album/2BGuP04VfkgzhpUY1SxdNo) | 3:36 | 2022-06-24 |  |
-| [White Rabbit](https://open.spotify.com/track/48gotqEngeagErLW3C1FUs) | [Saving Vice](https://open.spotify.com/artist/1bN0Zx15XhmvTjNF2cPs0b) | [White Rabbit](https://open.spotify.com/album/7MpFnrbyOhfoaZKFypWdci) | 3:50 | 2022-05-13 |  |
+| [White Rabbit](https://open.spotify.com/track/48gotqEngeagErLW3C1FUs) | [Saving Vice](https://open.spotify.com/artist/1bN0Zx15XhmvTjNF2cPs0b) | [White Rabbit](https://open.spotify.com/album/7MpFnrbyOhfoaZKFypWdci) | 3:50 | 2022-05-13 | 2022-10-05 |
 | [White Washed \- 2022](https://open.spotify.com/track/6Aco1hY5ciwgaWPFm7sTd1) | [August Burns Red](https://open.spotify.com/artist/5p9CTsn5ueGU4oScNX1axu) | [White Washed & Composure 2022](https://open.spotify.com/album/6zaOIfy2Fy8ez7UnAv1ZJ8) | 3:57 | 2022-07-01 |  |
 | [Who's fault?](https://open.spotify.com/track/24ScjFWnIcKFU47ye9qN87) | [DEXCORE](https://open.spotify.com/artist/5M8Z8Dlx2uLSH88WgxLlG4) | [\-18\-](https://open.spotify.com/album/4njBljf92NKv5NBIh6xA9s) | 4:35 | 2022-01-21 | 2022-04-09 |
 | [Wide Open](https://open.spotify.com/track/6Td517jDDCCvHKo7vk7mnP) | [Ov Sulfur](https://open.spotify.com/artist/7DZ58DvASCdGxYBdET8fbC) | [Wide Open](https://open.spotify.com/album/0B7QibJPKamPw36p7FY79u) | 5:17 | 2022-07-13 | 2022-07-23 |

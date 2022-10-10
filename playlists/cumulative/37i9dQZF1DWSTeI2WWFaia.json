@@ -935,7 +935,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-03",
+      "date_removed": "2022-10-09",
       "duration_ms": 222307,
       "name": "Bricks & Bags",
       "url": "https://open.spotify.com/track/3XhRkia2pZ0apnY1Yp2DfK"
@@ -1851,7 +1851,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 165000,
       "name": "Escapism",
       "url": "https://open.spotify.com/track/6mO6V4QcFQOYUAq4NUk5L5"
@@ -2627,7 +2627,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-26",
+      "date_removed": null,
       "duration_ms": 312653,
       "name": "Help Me God",
       "url": "https://open.spotify.com/track/4bboBH2tBue5ANUrURizjV"
@@ -2837,7 +2837,7 @@
       ],
       "date_added": "2022-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 165185,
       "name": "I Love The Game",
       "url": "https://open.spotify.com/track/5glyXTacEKGIJ2GcNVlxSl"
@@ -3055,7 +3055,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 212013,
       "name": "Is This Love ('09) (feat. 50 Cent)",
       "url": "https://open.spotify.com/track/7rK0iM6jwuo1oizdx8suQA"
@@ -3316,6 +3316,24 @@
     },
     {
       "album": {
+        "name": "A Quarter Til",
+        "url": "https://open.spotify.com/album/1pH42Rw6Ug6qxBwWFc00Z8"
+      },
+      "artists": [
+        {
+          "name": "A$AP Twelvyy",
+          "url": "https://open.spotify.com/artist/0tPjSrb43a58uznKru1k2P"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 92000,
+      "name": "Jus Lef Phoenix",
+      "url": "https://open.spotify.com/track/67ildkjzEsv38VbiUoCVnc"
+    },
+    {
+      "album": {
         "name": "It's Almost Dry",
         "url": "https://open.spotify.com/album/6o38CdD7CUlZDCFhjZYLDH"
       },
@@ -3433,7 +3451,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 152641,
       "name": "Kids Gotta Eat",
       "url": "https://open.spotify.com/track/2g9AyNY8HsHtJvZBR8NhLa"
@@ -4225,7 +4243,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-03",
+      "date_removed": null,
       "duration_ms": 177949,
       "name": "NAOMI",
       "url": "https://open.spotify.com/track/2q4Vq5gPgWIHeAXEWKZELu"
@@ -4495,11 +4513,19 @@
         {
           "name": "Run The Jewels",
           "url": "https://open.spotify.com/artist/4RnBFZRiMLRyZy0AzzTg2C"
+        },
+        {
+          "name": "El-P",
+          "url": "https://open.spotify.com/artist/57UnSUpae3SbRekxNa5Kgl"
+        },
+        {
+          "name": "Killer Mike",
+          "url": "https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI"
         }
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": null,
       "duration_ms": 195240,
       "name": "No Save Point - From \"Cyberpunk 2077\"",
       "url": "https://open.spotify.com/track/27SjutLnh1PXRYDjmSDs78"
@@ -4731,7 +4757,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 217872,
       "name": "Pandemic Flow",
       "url": "https://open.spotify.com/track/4gEgs7S6XAT4dxgOXaMYJ9"
@@ -5099,6 +5125,28 @@
       "duration_ms": 222786,
       "name": "Ratchets",
       "url": "https://open.spotify.com/track/51scKFIVavfzXbtxexkUgr"
+    },
+    {
+      "album": {
+        "name": "Survivor\u2019s Remorse: A Side",
+        "url": "https://open.spotify.com/album/11KPzNJd5GlFhb1R11cZVr"
+      },
+      "artists": [
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        },
+        {
+          "name": "Benny The Butcher",
+          "url": "https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193250,
+      "name": "Real Rap (with Benny The Butcher)",
+      "url": "https://open.spotify.com/track/5hdA7lwFFxba4XU32OMmmL"
     },
     {
       "album": {
@@ -5567,7 +5615,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 140214,
       "name": "Sign Language",
       "url": "https://open.spotify.com/track/4wGAMAf3eUM0TKY4CbGvvT"
@@ -6209,7 +6257,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 140373,
       "name": "TALK2ME",
       "url": "https://open.spotify.com/track/3argucLqn1gBoVSBe6M7Cz"
@@ -6713,7 +6761,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 161963,
       "name": "THROUGH 2 U",
       "url": "https://open.spotify.com/track/5FLpZcyK0v3SFkIZZ8YPQP"
@@ -6787,7 +6835,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-02",
+      "date_removed": null,
       "duration_ms": 201128,
       "name": "Times Is Rough",
       "url": "https://open.spotify.com/track/1EzmTNUSKb0J5eXGgrP6wy"
@@ -7271,7 +7319,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 142409,
       "name": "Wimbledon",
       "url": "https://open.spotify.com/track/7AUXScBeRD7EXEFOsglJag"
@@ -7355,6 +7403,24 @@
       "duration_ms": 147692,
       "name": "Wraith",
       "url": "https://open.spotify.com/track/4GSyA0YDBON0qD8fvqmPan"
+    },
+    {
+      "album": {
+        "name": "Incrementum",
+        "url": "https://open.spotify.com/album/3aLjR6JIlVbHFtajRHtMsR"
+      },
+      "artists": [
+        {
+          "name": "Tre' Amani",
+          "url": "https://open.spotify.com/artist/48Py72qV4J4hzvJXXRDNz0"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193629,
+      "name": "Xpensive",
+      "url": "https://open.spotify.com/track/57MTexDSwasDyOT7ydwJze"
     },
     {
       "album": {

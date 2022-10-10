@@ -4,7 +4,7 @@
 
 > All new, all blues\. Cover: Dylan Triplett
 
-155 songs - 9 hr 4 min - [published](https://open.spotify.com/playlist/4T4Ls1NqL9xqUmBTXE8Kgz)
+156 songs - 9 hr 8 min - [published](https://open.spotify.com/playlist/4T4Ls1NqL9xqUmBTXE8Kgz)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -130,6 +130,7 @@
 | [Stay away from me](https://open.spotify.com/track/77iBCaVqdOSmXtHk5OcwUg) | [Puff Kennedy](https://open.spotify.com/artist/6xmuIAos2H2ElKQl0ipsdw) | [Stay away from me](https://open.spotify.com/album/443tvXMsfPqlt82b5VmyzT) | 2:42 | 2022-04-08 |  |
 | [Stay away from me](https://open.spotify.com/track/7EaZMdAtVy23yoa8HELJgF) | [Puff Kennedy](https://open.spotify.com/artist/6xmuIAos2H2ElKQl0ipsdw) | [Stay away from me](https://open.spotify.com/album/2B1YbPhjd2tp1KAcwM26Ra) | 2:42 | 2022-04-08 | 2022-08-05 |
 | [Storms from My Eyes](https://open.spotify.com/track/5ZWk8lQd6PHrJUCEQJkFGj) | [Angelique Francis](https://open.spotify.com/artist/3AoZtg3XjzbONsDfAXCene) | [Long River](https://open.spotify.com/album/5i3kWvr8Yj4iETRXlrQNVN) | 4:54 | 2022-03-11 |  |
+| [Strike Gold](https://open.spotify.com/track/3g3vayoe4Y10leAHdrvTnM) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Strike Gold](https://open.spotify.com/album/5M6sqKBlKeBTACwzWexteZ) | 3:20 | 2022-10-07 |  |
 | [Sunlight Lover \(Moonshine Lover\)](https://open.spotify.com/track/55xFE3JPlWpKoqRGg9j4L0) | [Soldier Story](https://open.spotify.com/artist/6xUcGgLH1IwXKSoYe2EMr0) | [Sunlight Lover \(Moonshine Lover\)](https://open.spotify.com/album/20qgm11dR7wDnfauXFeuMx) | 2:13 | 2022-09-02 |  |
 | [Sunshine Blue](https://open.spotify.com/track/0BkwABV25tQHoh5s2C8rAw) | [Freedust](https://open.spotify.com/artist/5ToWfy4enD67CmqGlb7TZ5), [Bardo](https://open.spotify.com/artist/3oLUvU7PEhrBC6cieTRbYv) | [Sunshine Blue](https://open.spotify.com/album/3hGa85ef9Eo14ihzTHLEOC) | 2:40 | 2022-04-08 |  |
 | [Surrender](https://open.spotify.com/track/6RyLEghWsRDVcDuRxDg2FN) | [Ash Grunwald](https://open.spotify.com/artist/04HjibunL2jGRLEqVEMfZY) | [Shout Into The Noise](https://open.spotify.com/album/3xyQGSWqRqQGOe3tvz2t8t) | 3:36 | 2022-03-11 | 2022-06-19 |

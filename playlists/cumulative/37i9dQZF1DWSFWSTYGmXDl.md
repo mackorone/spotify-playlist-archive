@@ -4,7 +4,7 @@
 
 > Soft and warm Christmas songs from recent years\. Cover: Gwen Stefani.
 
-149 songs - 8 hr 7 min - [published](https://open.spotify.com/playlist/4qlASBhliKQ4TWTc8zqP2C)
+150 songs - 8 hr 10 min - [published](https://open.spotify.com/playlist/4qlASBhliKQ4TWTc8zqP2C)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,7 +96,8 @@
 | [Loneliest Time Of Year](https://open.spotify.com/track/7dfWGm8f6joB6tLnZN2avh) | [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4) | [Loneliest Time Of Year](https://open.spotify.com/album/4AKesH5kCVXdZKeWuAHVUQ) | 3:22 | 2021-12-12 |  |
 | [lonely christmas \(feat\. Justin Bieber & Poo Bear\)](https://open.spotify.com/track/5FZNkiHoC7fbc30acoRpfb) | [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Poo Bear](https://open.spotify.com/artist/3JXpwnHbLvXxY99EuXqFPX) | [A Different Christmas](https://open.spotify.com/album/52QMK9SFNjiuz3ipkuVVZu) | 3:50 | 2021-12-12 |  |
 | [Lonely on Christmas](https://open.spotify.com/track/1ymYAFOzqMPDffrFq40jnR) | [JUJ](https://open.spotify.com/artist/7lZrzIQbiKFehHNTXCMP6z) | [Lonely on Christmas](https://open.spotify.com/album/6qwyxxLw94FSOPCY2wG5da) | 3:03 | 2021-12-12 | 2022-07-29 |
-| [Lonely on Christmas](https://open.spotify.com/track/413BayIMRQRXKnbq33qbcR) | [JUJ](https://open.spotify.com/artist/7lZrzIQbiKFehHNTXCMP6z) | [Lonely on Christmas](https://open.spotify.com/album/7FMXqdSk2EJbNjnG4o4a1V) | 3:03 | 2021-12-12 |  |
+| [Lonely on Christmas](https://open.spotify.com/track/413BayIMRQRXKnbq33qbcR) | [JUJ](https://open.spotify.com/artist/7lZrzIQbiKFehHNTXCMP6z) | [Lonely on Christmas](https://open.spotify.com/album/7FMXqdSk2EJbNjnG4o4a1V) | 3:03 | 2021-12-12 | 2022-10-09 |
+| [Lonely on Christmas](https://open.spotify.com/track/7oO4kVfkhcwKfEAKm9sWfN) | [JUJ](https://open.spotify.com/artist/7lZrzIQbiKFehHNTXCMP6z) | [Lonely on Christmas](https://open.spotify.com/album/7LVvUXICGDvSo9DIjDIQb9) | 3:03 | 2021-12-12 |  |
 | [Love in the Winter](https://open.spotify.com/track/2Ruq4kM3aFUm0h6ao8xepw) | [Miki Ratsula](https://open.spotify.com/artist/3Yq0Ww7oAbgxcoOxthlS30) | [Love in the Winter](https://open.spotify.com/album/5wNiZOdIPxCGkVMAohsshj) | 2:29 | 2021-12-12 | 2022-07-29 |
 | [Love in the Winter](https://open.spotify.com/track/3LPWkKJL62Rnqr2862pt2T) | [Miki Ratsula](https://open.spotify.com/artist/3Yq0Ww7oAbgxcoOxthlS30) | [Love in the Winter](https://open.spotify.com/album/1ZosF50PwxWJqSDJcdnsBg) | 2:29 | 2021-12-12 |  |
 | [Love Is Christmas](https://open.spotify.com/track/2cbqHk1Ty7BAvChQTkqFWT) | [Rosie Darling](https://open.spotify.com/artist/6kDXH8d9LugUAsHIozzDAI) | [Love Is Christmas](https://open.spotify.com/album/6N3EV1cYMQvUZXQjzsB4al) | 2:46 | 2021-12-12 | 2022-07-29 |

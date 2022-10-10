@@ -4,7 +4,7 @@
 
 > This is Singeli\. High energy dance music echoing throughout the streets of Tanzania
 
-51 songs - 3 hr 42 min - not published yet
+52 songs - 3 hr 48 min - [published](https://open.spotify.com/playlist/0LIqSNHuW7rSqStgtXBh7j)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,7 +30,8 @@
 | [Linga Linga \- feat\. Makaveli](https://open.spotify.com/track/0SdkwQbcTyK99k3jExpWre) | [Bamba Pana, Makaveli](https://open.spotify.com/artist/5pNtipGqlJhqyNscXUwaST) | [Poaa](https://open.spotify.com/album/4SkM8MD6ClaCC3e8ePKehm) | 4:38 | 2022-08-05 |  |
 | [Madanga Ya Mke Wangu](https://open.spotify.com/track/1abvlwDvZmuhopVyIBsNSt) | [Meja Kunta](https://open.spotify.com/artist/3yvoOWoxvT5Pq5OHc2Mjku), [D Voice](https://open.spotify.com/artist/1IHsv9k444AnzTuju82Asm) | [Madanga Ya Mke Wangu](https://open.spotify.com/album/49mM3VMjzLhG2sa4JLwLVD) | 5:37 | 2022-08-05 |  |
 | [Mamu Remix \- Remix](https://open.spotify.com/track/7pzSnR2pGiDsjDjjBYOP7O) | [Meja Kunta](https://open.spotify.com/artist/3yvoOWoxvT5Pq5OHc2Mjku), [Mr Blue](https://open.spotify.com/artist/6LZKOSFfFwfHgZAYXmbfi9) | [Mamu Remix](https://open.spotify.com/album/0BLcM5UfOvQHCmDTHSfdkK) | 6:11 | 2022-08-05 |  |
-| [Miss Buza](https://open.spotify.com/track/0dJlBA59qFQYj5qCXftBDa) | [Rayvanny](https://open.spotify.com/artist/7G9dCn1mqomAa0ucJoBm6J) | [Vanny Boy](https://open.spotify.com/album/3fhna2FmjpHFePlDXn6voT) | 5:20 | 2022-08-05 |  |
+| [Miss Buza](https://open.spotify.com/track/0dJlBA59qFQYj5qCXftBDa) | [Rayvanny](https://open.spotify.com/artist/7G9dCn1mqomAa0ucJoBm6J) | [Vanny Boy](https://open.spotify.com/album/3fhna2FmjpHFePlDXn6voT) | 5:20 | 2022-08-05 | 2022-10-07 |
+| [Miss Buza \(feat\. Dulla Makabila\)](https://open.spotify.com/track/5Ls1bXyqTFdV8QJvrXfudi) | [Rayvanny](https://open.spotify.com/artist/7G9dCn1mqomAa0ucJoBm6J), [Dulla Makabila](https://open.spotify.com/artist/1rVjPBFl9JlzgEO5P0RL8u) | [Miss Buza \(feat\. Dulla Makabila\)](https://open.spotify.com/album/5HudXaLc6wYZ1MS1crbmJW) | 5:20 | 2022-08-05 |  |
 | [Motoni Kumedamshi](https://open.spotify.com/track/3eCOOpxrRmvg75JbRW3pwG) | [Dulla Makabila](https://open.spotify.com/artist/1rVjPBFl9JlzgEO5P0RL8u) | [Motoni Kumedamshi](https://open.spotify.com/album/17ZjsAclkfC2OGlx5Xt6nc) | 4:10 | 2022-08-05 |  |
 | [Mwali Wangu](https://open.spotify.com/track/6KaDPQZYoQ9Kx9P9OxF3UI) | [Seneta Kilaka](https://open.spotify.com/artist/08cahcqwOPJ75FlSiFaRP8), [Aisha Vuvuzela](https://open.spotify.com/artist/57pc1NOorcVi1XccYNwr6v) | [Mwali Wangu](https://open.spotify.com/album/4B3R522Kd7mlGqeK1z1M2q) | 3:50 | 2022-08-05 |  |
 | [Naijua Iyo](https://open.spotify.com/track/4pQMjjsGtqvLzayIyhValX) | [Meja Kunta](https://open.spotify.com/artist/3yvoOWoxvT5Pq5OHc2Mjku), [Mchina Mweusi](https://open.spotify.com/artist/6wqKfNDWH5xwAuwOnoGPQe) | [Naijua Iyo](https://open.spotify.com/album/5hFZHndJ4KsuuO8I3BWiuj) | 3:46 | 2022-08-05 |  |

@@ -1470,6 +1470,24 @@
     },
     {
       "album": {
+        "name": "Can I",
+        "url": "https://open.spotify.com/album/2dWNwyF7ac8Q5LWxAXhup1"
+      },
+      "artists": [
+        {
+          "name": "Genevieve Stokes",
+          "url": "https://open.spotify.com/artist/2uaMjmR0IE0K3oKTQrNZVQ"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180935,
+      "name": "Can I",
+      "url": "https://open.spotify.com/track/3iykpxKSHzIBd3EWkkWhfN"
+    },
+    {
+      "album": {
         "name": "Can't Fight",
         "url": "https://open.spotify.com/album/6WvLHMNGRawv4mzu1HZzFq"
       },
@@ -9507,6 +9525,24 @@
       "duration_ms": 195215,
       "name": "Snow",
       "url": "https://open.spotify.com/track/0mxbKFPnLLZaSxRZuubdPu"
+    },
+    {
+      "album": {
+        "name": "a study of the human experience volume two",
+        "url": "https://open.spotify.com/album/4k9Mz7WO4U1rx3JIRF3iFz"
+      },
+      "artists": [
+        {
+          "name": "GAYLE",
+          "url": "https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210239,
+      "name": "snow angels",
+      "url": "https://open.spotify.com/track/4tyD9sivpD8NGM8KEEabAl"
     },
     {
       "album": {

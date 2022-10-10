@@ -56,6 +56,32 @@
     },
     {
       "album": {
+        "name": "Sibelius: Emotions",
+        "url": "https://open.spotify.com/album/2UYc0P8bIMFKFHFQ9kAmQp"
+      },
+      "artists": [
+        {
+          "name": "Jean Sibelius",
+          "url": "https://open.spotify.com/artist/7jzR5qj8vFnSu5JHaXgFEr"
+        },
+        {
+          "name": "Jian Wang",
+          "url": "https://open.spotify.com/artist/4DcpgOrxEYPTulZEeJhAJ5"
+        },
+        {
+          "name": "G\u00f6ran S\u00f6llscher",
+          "url": "https://open.spotify.com/artist/5jF2METFutHd3av3ITYTrL"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168786,
+      "name": "13 Pieces for Piano, Op. 76: II. Etude",
+      "url": "https://open.spotify.com/track/1EkysSaxZtCkHe7TRB4bKF"
+    },
+    {
+      "album": {
         "name": "Brahms: 21 Hungarian Dances, WoO 1 & 16 Waltzes, Op. 39",
         "url": "https://open.spotify.com/album/3D17O5qP9yOhyBThdhBYKY"
       },
@@ -179,7 +205,7 @@
       ],
       "date_added": "2020-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-04",
       "duration_ms": 221000,
       "name": "3 Gymnopedies (orch. Debussy): Gymnopedie No. 2",
       "url": "https://open.spotify.com/track/2euauaTvztPp2Ae6rCeTri"
@@ -3097,7 +3123,7 @@
       ],
       "date_added": "2020-06-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-21",
+      "date_removed": "2022-10-05",
       "duration_ms": 376440,
       "name": "Nocturnes, Op. 27: No. 2 in D-Flat Major",
       "url": "https://open.spotify.com/track/1nGDsTkP1npeWj4hJ9s9pw"
@@ -3583,7 +3609,7 @@
       ],
       "date_added": "2020-06-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": "2022-10-10",
       "duration_ms": 361493,
       "name": "Piano Concerto No. 6 in B-Flat Major, K. 238: II. Andante un poco adagio",
       "url": "https://open.spotify.com/track/0Bg70fyCFqNJpERbu9UaxJ"
@@ -4309,7 +4335,7 @@
       ],
       "date_added": "2020-06-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-30",
+      "date_removed": null,
       "duration_ms": 152906,
       "name": "Soli",
       "url": "https://open.spotify.com/track/54UyP0Ap9OYjlFrkgmStVH"
@@ -4353,7 +4379,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 187000,
       "name": "Sonata in G major, Wq. 62/19: 2. Andante",
       "url": "https://open.spotify.com/track/6oZVIIJC4qaVmV59msx8wQ"
@@ -4523,7 +4549,7 @@
       ],
       "date_added": "2020-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-07",
       "duration_ms": 218114,
       "name": "Spirituals for Orchestra: II. Sermon",
       "url": "https://open.spotify.com/track/1pvdhULiFFPXxLL3bGHaq7"
@@ -4741,7 +4767,7 @@
       ],
       "date_added": "2020-06-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-29",
+      "date_removed": null,
       "duration_ms": 96293,
       "name": "Suite in D Minor, HWV 447: Allemande",
       "url": "https://open.spotify.com/track/6k0PPC5BDLBvkBcikB3BBv"
@@ -5573,7 +5599,7 @@
       ],
       "date_added": "2020-06-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-11",
+      "date_removed": "2022-10-09",
       "duration_ms": 291013,
       "name": "\u4e16\u4fd7\u30ab\u30f3\u30bf\u30fc\u30bf, BWV 208: ''\u7f8a\u306f\u5b89\u3089\u304b\u306b\u8349\u3092\u306f\u307f''",
       "url": "https://open.spotify.com/track/6qhic2KXq2evfe8KkXJcCr"

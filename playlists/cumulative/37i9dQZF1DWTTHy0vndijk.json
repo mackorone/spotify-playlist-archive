@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Max out your sugar content with these pure and aegyo tracks from our favorite ladies. Cover: ADORA (\uc544\ub3c4\ub77c) (\uc0c1\ud07c\ud558\uace0 \ubc1c\ub784, \uccad\uc21c\ud55c \uc5ec\uc544\uc774\ub3cc\uc758 \uc138\uacc4\uc5d0 \ube60\uc838\ubcf4\uc138\uc694!)",
+  "description": "Max out your sugar content with these pure and aegyo tracks from our favorite ladies. Cover: Serri (\uc138\ub9ac) (\uc0c1\ud07c\ud558\uace0 \ubc1c\ub784, \uccad\uc21c\ud55c \uc5ec\uc544\uc774\ub3cc\uc758 \uc138\uacc4\uc5d0 \ube60\uc838\ubcf4\uc138\uc694!)",
   "name": "Satang Mix (\uc0ac\ud0d5 \ubbf9\uc2a4)",
   "published_playlist_ids": [
     "54sOlxCE1pFDWuNfDv9xNV"
@@ -793,7 +793,7 @@
       ],
       "date_added": "2022-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 193153,
       "name": "Catallena",
       "url": "https://open.spotify.com/track/5fWKr5p15BTazjflJ6HX5j"
@@ -2493,6 +2493,24 @@
       "duration_ms": 178133,
       "name": "Life's Too Short (English Version)",
       "url": "https://open.spotify.com/track/2mgzUVvDpb1zMSB4glLQ6T"
+    },
+    {
+      "album": {
+        "name": "SLEEP",
+        "url": "https://open.spotify.com/album/7roSNEb22dwOVwdxbqL9By"
+      },
+      "artists": [
+        {
+          "name": "Serri",
+          "url": "https://open.spotify.com/artist/38oZ3lMBfgejBalxm1GDgc"
+        }
+      ],
+      "date_added": "2022-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186202,
+      "name": "LIKE",
+      "url": "https://open.spotify.com/track/38d2AabK6k4Ct4iQk80MI5"
     },
     {
       "album": {
@@ -4511,7 +4529,7 @@
       ],
       "date_added": "2021-11-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-26",
+      "date_removed": "2022-10-08",
       "duration_ms": 216488,
       "name": "Sunrise",
       "url": "https://open.spotify.com/track/1e7eOq89QU6vGYCJp9yW2L"

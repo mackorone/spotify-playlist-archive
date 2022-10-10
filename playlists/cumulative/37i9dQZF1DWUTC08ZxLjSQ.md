@@ -2,20 +2,22 @@
 
 ### [Fresh Finds Arabia](https://open.spotify.com/playlist/37i9dQZF1DWUTC08ZxLjSQ)
 
-> The best new music by independent artists and labels from the MENA region\. Updates every Wednesday\. Cover: Abri, Artwork: Isu Kim
+> The best new music by independent artists and labels from the MENA region\. Updates every Wednesday\. Cover: Yvzid, Artwork: Isu Kim
 
-56 songs - 3 hr 0 min - [published](https://open.spotify.com/playlist/5WHUFzJa9ZzmLS4KcMCdPY)
+60 songs - 3 hr 17 min - [published](https://open.spotify.com/playlist/5WHUFzJa9ZzmLS4KcMCdPY)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Afkar Galbi](https://open.spotify.com/track/17oyrFSekVUCCx4YoFhsGR) | [Ghada Sheri](https://open.spotify.com/artist/7c1eMleZFWsvk2Z0PCrai0) | [Afkar Galbi](https://open.spotify.com/album/75PZWlpBqgRcZa1LHCSmvk) | 4:32 | 2022-09-20 |  |
-| [All On You](https://open.spotify.com/track/76CER1W49x9F01Z7ZwJ6Oa) | [Nawal](https://open.spotify.com/artist/4I7cv8uAvHYwNrMgHer9bV) | [All On You](https://open.spotify.com/album/4x1NJpdoUhSKs1yXag2zXy) | 3:07 | 2022-09-20 |  |
+| [All On You](https://open.spotify.com/track/76CER1W49x9F01Z7ZwJ6Oa) | [Nawal](https://open.spotify.com/artist/4I7cv8uAvHYwNrMgHer9bV) | [All On You](https://open.spotify.com/album/4x1NJpdoUhSKs1yXag2zXy) | 3:07 | 2022-09-20 | 2022-10-05 |
+| [Back to you](https://open.spotify.com/track/334zuvClv7JYENjupg71GT) | [THE SVNH](https://open.spotify.com/artist/5uPlfGiZu46QlnaDYkcbAm) | [Back to you](https://open.spotify.com/album/7umWTAON78uAbqlZlVLuFO) | 3:05 | 2022-10-04 |  |
 | [Bako](https://open.spotify.com/track/5nO62GzQVuXyos3rrh4v7f) | [Mvndila](https://open.spotify.com/artist/4xChDGJOSeebJva9pcvmSJ) | [Bako](https://open.spotify.com/album/57iBcfM3UGV6AaNYjDbmcc) | 3:03 | 2022-09-20 |  |
 | [Balaleen](https://open.spotify.com/track/081geJirqbAxZUJE0u7ca7) | [Zatara](https://open.spotify.com/artist/5WOif35LUAZ7VfSmpELcQF) | [Balaleen](https://open.spotify.com/album/7MmRjxq4Nca5nBqSDMqNwS) | 3:12 | 2022-09-20 |  |
 | [Bin Nass](https://open.spotify.com/track/60WuyNSGd6SxDYoPviKHj0) | [Sofco](https://open.spotify.com/artist/3E9ui9b6vhr7yVLpcw0tK0), [Plylist](https://open.spotify.com/artist/3s2IJ6our3HssoUtzDd4QW) | [Bin Nass](https://open.spotify.com/album/3kvL2ysRWdUI73adglwS6P) | 3:58 | 2022-09-20 |  |
+| [Bouhdi](https://open.spotify.com/track/2NRaSmTlbNmwYYDsDMlgYR) | [Yvzid](https://open.spotify.com/artist/1hiAzHtDperYB5FhcWzJsW) | [Méditerranée](https://open.spotify.com/album/1HJzInrgb53YvdUXMbfiSt) | 3:07 | 2022-10-04 |  |
 | [Breathe](https://open.spotify.com/track/2bvF4YCECIcSSplYinvLfD) | [Fell'g](https://open.spotify.com/artist/2GZ2Ds7aWRKK1sgfZGwhmv) | [Breathe](https://open.spotify.com/album/0QRPtbmSN78AztDmyK10Ij) | 2:26 | 2022-09-20 |  |
 | [Breaze](https://open.spotify.com/track/6RJB9x8Dc1u22AbEMr2rH6) | [Tamer ElDerini](https://open.spotify.com/artist/6FWjqnwmfy9SqMJk40jpcW) | [Breaze](https://open.spotify.com/album/3xDxCUg4lEY0bmk84YmGKe) | 5:00 | 2022-09-20 |  |
-| [Bye](https://open.spotify.com/track/66odrdtPiGyJNXLFvUdY0A) | [Roy YunGod](https://open.spotify.com/artist/0krZz1kM4FvOmrzu0QR3w7) | [Bye](https://open.spotify.com/album/1kBHLeaFo0wYhBydVKDzbJ) | 1:45 | 2022-09-20 |  |
+| [Bye](https://open.spotify.com/track/66odrdtPiGyJNXLFvUdY0A) | [Roy YunGod](https://open.spotify.com/artist/0krZz1kM4FvOmrzu0QR3w7) | [Bye](https://open.spotify.com/album/1kBHLeaFo0wYhBydVKDzbJ) | 1:45 | 2022-09-20 | 2022-10-05 |
 | [Bye Bye](https://open.spotify.com/track/4hwAXMumToo9gB29mY65TV) | [Sandra Sahi](https://open.spotify.com/artist/6vsINxrcRKcYHdOvruIgfy) | [Bye Bye](https://open.spotify.com/album/4Tk57fBzUK6VOLXExtFWFe) | 2:29 | 2022-09-27 |  |
 | [Cabana](https://open.spotify.com/track/5KpdhAgDR2JCY8xu11RLTg) | [77](https://open.spotify.com/artist/2yOrzp26sCzukpaG23nI9U), [Soulja](https://open.spotify.com/artist/4LmdLhcTV6FR8omNKEOtuN), [Swani](https://open.spotify.com/artist/0MMq3ksIvp1PtO6nYZOToA) | [Cabana](https://open.spotify.com/album/5RbpvPnE2WOPoxX065eXYl) | 2:57 | 2022-09-20 |  |
 | [Caravan Flow](https://open.spotify.com/track/30Rtf40QgpCP1NAQTpmOJX) | [Soof](https://open.spotify.com/artist/2ubCUPUvkTug5bB3vRNrQo) | [Caravan Flow](https://open.spotify.com/album/39S4YTM2k91hwLIBVhIeSI) | 2:43 | 2022-09-20 |  |
@@ -29,12 +31,12 @@
 | [Hamdulilah](https://open.spotify.com/track/55AuNDR0b8EZCeCqMeKPRP) | [Saint Levant](https://open.spotify.com/artist/5ZZsFnpO7frU8h5xH1wtjT), [Bayou](https://open.spotify.com/artist/09ff0T1Qio2d5f04uGKeL3) | [Hamdulilah](https://open.spotify.com/album/014GFV5SvxywYplmNGON2c) | 2:03 | 2022-09-20 |  |
 | [Hammouda](https://open.spotify.com/track/2IgzQGOfEExzrkQclnt3JQ) | [Farouk Sen](https://open.spotify.com/artist/3TT4bOipuMdmB6MOr9RlRh), [Abdellah Stitou](https://open.spotify.com/artist/63SrIY9ixkSjv6CDjqkJaK) | [Hammouda](https://open.spotify.com/album/2n66xZ8ZBgZryfMv8GwBMH) | 2:31 | 2022-09-20 |  |
 | [Higher \(Breathe Easy\)](https://open.spotify.com/track/3yilsAnbDMSTMRA5AR1Eg3) | [ABRI](https://open.spotify.com/artist/0HaOYwL5NsXcaTGebbW06I) | [Higher \(Breathe Easy\)](https://open.spotify.com/album/7b5DtLjl7shhLIkkq3Q1UN) | 3:26 | 2022-09-20 |  |
-| [Hnaya](https://open.spotify.com/track/37fxraGklh1llULoyhcFCz) | [Nada](https://open.spotify.com/artist/4SQSwL1HBTwXTLM7F1fj3G) | [Hnaya](https://open.spotify.com/album/6gAe8rYARE5foXpzmhT30U) | 3:08 | 2022-09-20 |  |
+| [Hnaya](https://open.spotify.com/track/37fxraGklh1llULoyhcFCz) | [Nada](https://open.spotify.com/artist/4SQSwL1HBTwXTLM7F1fj3G) | [Hnaya](https://open.spotify.com/album/6gAe8rYARE5foXpzmhT30U) | 3:08 | 2022-09-20 | 2022-10-05 |
 | [Hold On](https://open.spotify.com/track/25xfmkU1otdXjgVfVwQR8i) | [Riiiiko](https://open.spotify.com/artist/6XbUbADSRCbfgMjYrPGfbN), [B\-Element](https://open.spotify.com/artist/2sSKCGvBkxCr5LOXxYGtqa) | [Hold On](https://open.spotify.com/album/1VOPosTnkaFRJLTpfNh9MF) | 2:34 | 2022-09-20 |  |
 | [Hope](https://open.spotify.com/track/6RJ5fDIAfT6edvjVgp3Wbh) | [Malket](https://open.spotify.com/artist/4SniWApo3km8jt2PVMnyEK), [MMT](https://open.spotify.com/artist/03KOcUfBqKsh9spQfwyoF4) | [Hope](https://open.spotify.com/album/3kEjGrGuSJUWjcE8tvm4rK) | 3:52 | 2022-09-20 |  |
 | [i love you](https://open.spotify.com/track/1QLQFaLF0zpqwg4wRfjBkq) | [LOSTBOY](https://open.spotify.com/artist/26USkQ8B5oOMnis7a29yNV), [Offkaktus](https://open.spotify.com/artist/27sdwOFwx0GPw3sdTuEpqh) | [Lost Garden](https://open.spotify.com/album/0i4vvfosTiRqEpaiBrSMq1) | 3:24 | 2022-09-20 |  |
 | [Is She](https://open.spotify.com/track/6WNPUcjJTBF43YjS6A0EYg) | [Rama](https://open.spotify.com/artist/3Hsg7WOEMVJPOXLXWbG2iy) | [A 249 Experience Vol.2](https://open.spotify.com/album/5VCBKCYOGdb6DeghFDwehF) | 2:10 | 2022-09-27 |  |
-| [Lina](https://open.spotify.com/track/2ig3Y0b35whG1FrAVG27tv) | [Yvzid](https://open.spotify.com/artist/1hiAzHtDperYB5FhcWzJsW) | [Lina](https://open.spotify.com/album/11CqECgUKAF3kZCsAPTMmo) | 2:15 | 2022-09-20 |  |
+| [Lina](https://open.spotify.com/track/2ig3Y0b35whG1FrAVG27tv) | [Yvzid](https://open.spotify.com/artist/1hiAzHtDperYB5FhcWzJsW) | [Lina](https://open.spotify.com/album/11CqECgUKAF3kZCsAPTMmo) | 2:15 | 2022-09-20 | 2022-10-05 |
 | [Living Hell](https://open.spotify.com/track/15bKspAx2YSj1Ce0TdeVRH) | [Abra Salem](https://open.spotify.com/artist/5FO7kzy6wVe7lGKOOGZ1y6) | [Living Hell](https://open.spotify.com/album/4gpNHmz52QOOfQzGvFGFNh) | 2:01 | 2022-09-20 |  |
 | [LOGAN](https://open.spotify.com/track/3TFIDBWstsKUbXBGedJAWO) | [FL EX](https://open.spotify.com/artist/4rACOXTxSYqwgynYKJJpDX) | [MESAMA3EEN](https://open.spotify.com/album/45VlLbu11muNolrvvu3vGo) | 2:06 | 2022-09-20 |  |
 | [Masquerading Crowd](https://open.spotify.com/track/0zaMCsXxqGXrz1quaVDBtP) | [Skeleton Crowd](https://open.spotify.com/artist/35q8gwzaxeJGQQImnaF0Fo) | [Molly Crapton](https://open.spotify.com/album/2FiCEJT0xGOZJn5s2I00KK) | 3:50 | 2022-09-20 |  |
@@ -47,6 +49,7 @@
 | [On Sight](https://open.spotify.com/track/0S5zLiOfQJPCr7RVj6HFRq) | [Bbnbooda](https://open.spotify.com/artist/7qSpIerjnYf4qu9ShXRPlV) | [On Sight](https://open.spotify.com/album/4LxPwuFcp3IOfBnYWKj368) | 3:17 | 2022-09-20 |  |
 | [Ouda](https://open.spotify.com/track/6Q6AWOfZQbKLGrEqJj0HTZ) | [Tayar \- تيّار](https://open.spotify.com/artist/6ntwC60sylc4u0Npjoj6GM) | [Ouda](https://open.spotify.com/album/0uelvlu1wNTweumpauIrPJ) | 5:08 | 2022-09-20 |  |
 | [Pura Vida](https://open.spotify.com/track/5UVeoZzAMgosQFFdsfGbBM) | [Nader Khalil](https://open.spotify.com/artist/1rBA9ijYVAVzqbBCet7hDi) | [Nader Khalil 2](https://open.spotify.com/album/4LZsJJZQ6SqqxGp5ukMnEj) | 2:13 | 2022-09-20 |  |
+| [Purity](https://open.spotify.com/track/5DR6vuwwCEBg9kAgJB2zG8) | [Nour](https://open.spotify.com/artist/5Sn6yiM4zeSnszRUMQxfo0) | [Purity](https://open.spotify.com/album/2tHTsIjHACxiXGtN7Hi2aC) | 7:54 | 2022-10-04 |  |
 | [Sami Khedira](https://open.spotify.com/track/4HcVDgbzBtzrvzDFaui3Op) | [El Batsh](https://open.spotify.com/artist/0bDjrJ7Jy8Dx0vumq98wTk), [8ight](https://open.spotify.com/artist/0R6EyWUEFnAzrWvDat1mgO) | [3al Zamer](https://open.spotify.com/album/3RtcEf9VR0A2HYOdMSAa5g) | 3:30 | 2022-09-20 |  |
 | [Self Love ///](https://open.spotify.com/track/5sUuqMLhZA7TzoqyVCaz5h) | [Hadi](https://open.spotify.com/artist/6IoMp72EAMD3JogASNYTLa) | [Self Love ///](https://open.spotify.com/album/2qbhjnZgeJGJavfiqhDNnE) | 2:20 | 2022-09-20 | 2022-09-28 |
 | [Serdab](https://open.spotify.com/track/63gRTsaJBdsmGeC6Lijs0Z) | [Moudy Afifi](https://open.spotify.com/artist/0huJhkXubgznG9o4lhKZIn), [Virgo](https://open.spotify.com/artist/2ByXYkrbs6o7fQGrn17gZt) | [Serdab](https://open.spotify.com/album/1dSrSAjrpgcH1EkE0PY8LZ) | 2:59 | 2022-09-20 |  |
@@ -59,10 +62,11 @@
 | [Who Pulled Up? \(feat\. Jeed\)](https://open.spotify.com/track/4DkNc7OeBsd4a95Sb86Xnt) | [Kali\-B](https://open.spotify.com/artist/62s7RLFRZJV8CcJWidmQ1j), [Jeed](https://open.spotify.com/artist/6O5okGW7N019Tinwive4IF) | [Who Pulled Up? \(feat\. Jeed\)](https://open.spotify.com/album/7FYFckeLTVNxOzCHsMLuNC) | 2:18 | 2022-09-20 | 2022-09-28 |
 | [Words](https://open.spotify.com/track/675Tylxj87tk6TGGubnmT4) | [Nora Toutain](https://open.spotify.com/artist/7LXP2eZLFZYdpUi29xOF1A) | [Words](https://open.spotify.com/album/3qUeC7YPgYsC38OjSkZ7vK) | 6:37 | 2022-09-20 |  |
 | [Yabki Wa Yadhak](https://open.spotify.com/track/6eQpjNP77wurPhX40EO8rV) | [SHAH \(EG\)](https://open.spotify.com/artist/7MUIbP7XLg9nsftAV4Eclq), [Obada](https://open.spotify.com/artist/6NeBmluEiGgPZdmGzqpSPq) | [Yabki Wa Yadhak](https://open.spotify.com/album/7uM3myz2mW7peXJQB8r8PA) | 6:46 | 2022-09-27 |  |
-| [Zahma](https://open.spotify.com/track/56gIBbVdJGpKTzU9clIGfZ) | [Lella Fadda](https://open.spotify.com/artist/2yV4zQzvNPMyHncf60u9sr) | [Zahma](https://open.spotify.com/album/6w7utjblhnH3POCa7XuGEz) | 2:36 | 2022-09-27 | 2022-09-29 |
+| [Zahma](https://open.spotify.com/track/56gIBbVdJGpKTzU9clIGfZ) | [Lella Fadda](https://open.spotify.com/artist/2yV4zQzvNPMyHncf60u9sr) | [Zahma](https://open.spotify.com/album/6w7utjblhnH3POCa7XuGEz) | 2:36 | 2022-09-27 |  |
 | [ZAWIA](https://open.spotify.com/track/22lAfAno0RJ1nYCdV2jeS9) | [Haris Hamza](https://open.spotify.com/artist/2CepAx2BXQje58hok8K7Tu) | [ZAWIA](https://open.spotify.com/album/4LKrtQBfgDW6fu6UEYttgb) | 2:23 | 2022-09-20 |  |
 | [بسيط ايفكتڤ](https://open.spotify.com/track/0AHVNC8und8XJU61876q0o) | [Dattune](https://open.spotify.com/artist/7KV81tK9fACDT7gCl4pFmj), [DZEEZ دزيز](https://open.spotify.com/artist/0NwIwzq4fV5i0LNEC7Vtwg) | [بسيط ايفكتڤ](https://open.spotify.com/album/4Gf35Uc9uEEi5M9qWKGA5c) | 1:35 | 2022-09-20 | 2022-09-28 |
 | [دنیا](https://open.spotify.com/track/3DZh4G7frGfIp4z4qRBew9) | [MARCELINA](https://open.spotify.com/artist/40uwOoRjkCTQY2hlBr0qQi) | [دنیا](https://open.spotify.com/album/3xppr5g8VXteFX9DQGzizx) | 3:39 | 2022-09-20 |  |
 | [عمل فني](https://open.spotify.com/track/19pRKlcApnYlaRmffunH6j) | [Omar Dafencii](https://open.spotify.com/artist/6tiw0jaXjPqUqupLzCCfiv), [Mshakil](https://open.spotify.com/artist/7rEHTsxNUpE6DSntwxhAqL) | [عمل فني](https://open.spotify.com/album/3AsxD44bLyQxefLvLj3cy0) | 2:49 | 2022-09-20 |  |
+| [محي الدين مصدق](https://open.spotify.com/track/4QoMYFOzWgOgOIz5KhYAe8) | [TUL8TE](https://open.spotify.com/artist/0t2z174ebyjYSPHy7Yzgb9) | [محي الدين مصدق](https://open.spotify.com/album/753aDZAO4IINS5sZRFtChk) | 2:30 | 2022-10-04 |  |
 
 \*This playlist was first scraped on 2022-09-21. Prior content cannot be recovered.

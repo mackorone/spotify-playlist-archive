@@ -4,7 +4,7 @@
 
 > Breathe\. Sense\. Feel\. Transcend.
 
-418 songs - 21 hr 50 min - [published](https://open.spotify.com/playlist/1a9OD5PvttwSZSpUE20NrJ)
+420 songs - 21 hr 55 min - [published](https://open.spotify.com/playlist/1a9OD5PvttwSZSpUE20NrJ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -187,6 +187,7 @@
 | [It Matters](https://open.spotify.com/track/0oCxeVzo0X6D0MIgB3c6Bj) | [Mikael Arvo](https://open.spotify.com/artist/2RlRTTL9u7o7tf8dGgb78C) | [Introversion](https://open.spotify.com/album/5F8DCSOMEhSRn3ysLn6cjb) | 5:06 | 2020-09-30\* | 2022-08-13 |
 | [Jocelyn](https://open.spotify.com/track/1Vv5St0rzB3054EvkADdQi) | [Lost Wings](https://open.spotify.com/artist/5GneKGEamDH29m9tE0zzwo) | [Jocelyn](https://open.spotify.com/album/4WBRH5wwDwGnIHbuVHA1dO) | 2:26 | 2020-09-30\* | 2021-09-14 |
 | [Kebnekajse](https://open.spotify.com/track/6WkXlCEHH8wkQ5xGytORl6) | [Tranquil Cove](https://open.spotify.com/artist/7wcYGhAdnlsglHP4ty9b26) | [Ambient Hits](https://open.spotify.com/album/6BVBcOJXOcrihLn9YSmEWQ) | 2:43 | 2020-09-30\* | 2021-09-14 |
+| [Kingdom Field](https://open.spotify.com/track/6sTI7FojXhPgnop4jcUaKj) | [Neo Almeida](https://open.spotify.com/artist/0okFnsrTnCo13g1zCevMG4) | [Dreamland](https://open.spotify.com/album/1gpDvZi33tHyJwsZ9J3ETN) | 2:16 | 2022-10-08 |  |
 | [Kustlijnen](https://open.spotify.com/track/6LT6ucr7adcngXzRlUdvgz) | [Ebba Dekker](https://open.spotify.com/artist/1IyHF3iElYVD2QGDF0zZKg) | [Kustlijnen](https://open.spotify.com/album/3Y9r2EA6hru4h1v8UEuZii) | 2:34 | 2021-09-09 |  |
 | [Kvikkjokk](https://open.spotify.com/track/5fqtStRCkILhIDMdQFyg9K) | [Ström](https://open.spotify.com/artist/0GrHUOaxUA1EUn8UlzeHBS) | [Skanderna](https://open.spotify.com/album/1iQ0WNFcTUjZFWg63oBf84) | 3:21 | 2020-09-30\* | 2021-09-14 |
 | [Kyoto](https://open.spotify.com/track/5DuALA01mvSWTNM9xi2Rqm) | [Kumbhaka](https://open.spotify.com/artist/51Uvstdjh6X74kTzxdopzO) | [Yoga Music](https://open.spotify.com/album/3midw5wgEjQrtSeNv7MVwx) | 2:42 | 2020-09-30\* | 2021-09-14 |
@@ -419,6 +420,7 @@
 | [Wild Soul](https://open.spotify.com/track/0PSoQovKUDaVl7TBVGAmt4) | [The Aural Healer](https://open.spotify.com/artist/5aS55avvX9UAYN3LVTRwyr) | [Dream Catcher](https://open.spotify.com/album/3JTj8NXeqCzU8DzEbEgp1S) | 3:29 | 2020-09-30\* | 2021-07-14 |
 | [Will you be there when I wake up](https://open.spotify.com/track/0MrDqmqbP0xS9sGedtiuAC) | [Gemma Casimaty](https://open.spotify.com/artist/4i2qe6NHlNFfwcQpi6dpFC) | [Will you be there when I wake up](https://open.spotify.com/album/1NIKFZsRIEASlBY2s20mTP) | 2:44 | 2020-09-30\* | 2022-08-13 |
 | [Winds of Haryana](https://open.spotify.com/track/5M2vSYhLSDww1n3x2zB1qN) | [Muni Yogi](https://open.spotify.com/artist/5VMpyeQNlYtPipmkNpxRt0) | [Winds of Haryana](https://open.spotify.com/album/1RR1WACNqmE89FmqtAUW07) | 2:56 | 2020-09-30\* | 2021-10-21 |
+| [With Every Breath I Breathe](https://open.spotify.com/track/7bpnfbTaoPGzCdvyRAEW0E) | [Manny Chu](https://open.spotify.com/artist/5cqGSR5Eyh5XSYtlSStmmF) | [With Every Breath I Breathe](https://open.spotify.com/album/0tB9FyhrB5N3lusDO1yBKf) | 3:19 | 2022-10-08 |  |
 | [Without](https://open.spotify.com/track/1MTVl5IOywFaOQWcFvVpIs) | [Bodil Blanche](https://open.spotify.com/artist/0WxATzoERy4WPwWO9OD4o3) | [Without](https://open.spotify.com/album/3Oy7KDrGK2OgF2ZE1jeLI3) | 4:04 | 2020-09-30\* | 2021-07-14 |
 | [Wondrous](https://open.spotify.com/track/3Ig5ZkwQNxBnSONh5cKI6Z) | [Magnetic Sky](https://open.spotify.com/artist/2YiNWdSsFnrHWK9uMKbRoY) | [Wondrous](https://open.spotify.com/album/1qCiFW4cc2Q3T3ZKmakWXn) | 2:55 | 2022-02-25 |  |
 | [Wren](https://open.spotify.com/track/2BNIB51vC5Xf4s14N57VTH) | [S.A\. Karl](https://open.spotify.com/artist/5wvtkvwPR6pF2h7H6f08tM) | [Near Dawn](https://open.spotify.com/album/1kwA8Ztf4Na8mlGciyedSS) | 3:36 | 2020-09-30\* | 2022-08-13 |

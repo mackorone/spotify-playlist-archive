@@ -1,12 +1,12 @@
 {
   "description": "Lo nuevo del popet\u00f3n y reggaet\u00f3n emergente en MX. Foto: Big Soto, Be\u00e9le",
-  "num_followers": 55162,
+  "num_followers": 55161,
   "original_name": "Urbano Fresh",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDQ5NDI5NywwMDAwMDAwMDJmMjNkZDNmNmJmMzYwMjg1NzZkMzIxMmM4ZjE5NjU4",
+  "snapshot_id": "MTY2NDQ5NDI5NywwMDAwMDAwMDQ1NGM1ZDBjN2E5M2ViN2MzYjc5ZWFjNTU5NjVjMDQ4",
   "tracks": [
     {
       "added_at": "2022-09-29 23:31:37",
@@ -151,26 +151,6 @@
     {
       "added_at": "2022-09-29 23:31:37",
       "album": {
-        "name": "BORRACHA",
-        "url": "https://open.spotify.com/album/2dS81EdC1fIj8XX0X0O9Ex"
-      },
-      "artists": [
-        {
-          "name": "Felix Klain",
-          "url": "https://open.spotify.com/artist/5cqI53b15GRiXRfls7DWMP"
-        },
-        {
-          "name": "Ovy On The Drums",
-          "url": "https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA"
-        }
-      ],
-      "duration_ms": 204981,
-      "name": "BORRACHA",
-      "url": "https://open.spotify.com/track/3JWKzfp6YX4LXFk2ybAfql"
-    },
-    {
-      "added_at": "2022-09-29 23:31:37",
-      "album": {
         "name": "Toketeo",
         "url": "https://open.spotify.com/album/42gM3PcVUatLaI2izJ6jmz"
       },
@@ -195,18 +175,22 @@
     {
       "added_at": "2022-09-29 23:31:37",
       "album": {
-        "name": "INESTABLE",
-        "url": "https://open.spotify.com/album/2m45lXuEtPji0HTrS3Vdw3"
+        "name": "BORRACHA",
+        "url": "https://open.spotify.com/album/2dS81EdC1fIj8XX0X0O9Ex"
       },
       "artists": [
         {
-          "name": "Callejo",
-          "url": "https://open.spotify.com/artist/3uYSSIZzcfieOd4qFmB551"
+          "name": "Felix Klain",
+          "url": "https://open.spotify.com/artist/5cqI53b15GRiXRfls7DWMP"
+        },
+        {
+          "name": "Ovy On The Drums",
+          "url": "https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA"
         }
       ],
-      "duration_ms": 148000,
-      "name": "INESTABLE",
-      "url": "https://open.spotify.com/track/4Uxd6PAp9jeau7FfA22RIc"
+      "duration_ms": 204981,
+      "name": "BORRACHA",
+      "url": "https://open.spotify.com/track/3JWKzfp6YX4LXFk2ybAfql"
     },
     {
       "added_at": "2022-09-29 23:31:37",
@@ -227,22 +211,18 @@
     {
       "added_at": "2022-09-29 23:31:37",
       "album": {
-        "name": "Pa' Eso Se Hizo",
-        "url": "https://open.spotify.com/album/5pZsQEEC6uSa7zvJst7tSN"
+        "name": "INESTABLE",
+        "url": "https://open.spotify.com/album/2m45lXuEtPji0HTrS3Vdw3"
       },
       "artists": [
         {
-          "name": "Kim Loaiza",
-          "url": "https://open.spotify.com/artist/1QivQCLVipV61DiQiyV14A"
-        },
-        {
-          "name": "Mr. Pig",
-          "url": "https://open.spotify.com/artist/4psozRvxjEJEOANLHTwA7J"
+          "name": "Callejo",
+          "url": "https://open.spotify.com/artist/3uYSSIZzcfieOd4qFmB551"
         }
       ],
-      "duration_ms": 149600,
-      "name": "Pa' Eso Se Hizo",
-      "url": "https://open.spotify.com/track/1LdMkXElKMDTB8mvgyvTKe"
+      "duration_ms": 148000,
+      "name": "INESTABLE",
+      "url": "https://open.spotify.com/track/4Uxd6PAp9jeau7FfA22RIc"
     },
     {
       "added_at": "2022-09-29 23:31:37",
@@ -283,6 +263,26 @@
     {
       "added_at": "2022-09-29 23:31:37",
       "album": {
+        "name": "Pa' Eso Se Hizo",
+        "url": "https://open.spotify.com/album/5pZsQEEC6uSa7zvJst7tSN"
+      },
+      "artists": [
+        {
+          "name": "Kim Loaiza",
+          "url": "https://open.spotify.com/artist/1QivQCLVipV61DiQiyV14A"
+        },
+        {
+          "name": "Mr. Pig",
+          "url": "https://open.spotify.com/artist/4psozRvxjEJEOANLHTwA7J"
+        }
+      ],
+      "duration_ms": 149600,
+      "name": "Pa' Eso Se Hizo",
+      "url": "https://open.spotify.com/track/1LdMkXElKMDTB8mvgyvTKe"
+    },
+    {
+      "added_at": "2022-09-29 23:31:37",
+      "album": {
         "name": "B-Day",
         "url": "https://open.spotify.com/album/6BUQPa8GoGOLYCsAkuMryh"
       },
@@ -295,6 +295,22 @@
       "duration_ms": 248000,
       "name": "B-Day",
       "url": "https://open.spotify.com/track/7bYs6rdrNdpidWjJJtJMsm"
+    },
+    {
+      "added_at": "2022-09-29 23:31:37",
+      "album": {
+        "name": "Uy K Raro",
+        "url": "https://open.spotify.com/album/5FqitTSr4aw1i56OFbbbhn"
+      },
+      "artists": [
+        {
+          "name": "Mont",
+          "url": "https://open.spotify.com/artist/41gFAk6ZyYdt7Q1Ir4cbH0"
+        }
+      ],
+      "duration_ms": 127264,
+      "name": "Uy K Raro",
+      "url": "https://open.spotify.com/track/526lL7I17vKOuiD9Wd2vMt"
     },
     {
       "added_at": "2022-09-29 23:31:37",
@@ -355,6 +371,26 @@
     {
       "added_at": "2022-09-29 23:31:37",
       "album": {
+        "name": "Ya No Somos",
+        "url": "https://open.spotify.com/album/5CGjusSMsLJwCCe0rn2cv8"
+      },
+      "artists": [
+        {
+          "name": "Kim Loaiza",
+          "url": "https://open.spotify.com/artist/1QivQCLVipV61DiQiyV14A"
+        },
+        {
+          "name": "Ovy On The Drums",
+          "url": "https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA"
+        }
+      ],
+      "duration_ms": 189152,
+      "name": "Ya No Somos",
+      "url": "https://open.spotify.com/track/7s6yrTbRWxKo9z42M3OP17"
+    },
+    {
+      "added_at": "2022-09-29 23:31:37",
+      "album": {
         "name": "Me Doli\u00f3",
         "url": "https://open.spotify.com/album/6bXPqEZYKWCRzZrq5a44Z2"
       },
@@ -379,42 +415,6 @@
       "duration_ms": 163608,
       "name": "Me Doli\u00f3",
       "url": "https://open.spotify.com/track/6GohKuqUmoVmuZJ148PEjN"
-    },
-    {
-      "added_at": "2022-09-29 23:31:37",
-      "album": {
-        "name": "Uy K Raro",
-        "url": "https://open.spotify.com/album/5FqitTSr4aw1i56OFbbbhn"
-      },
-      "artists": [
-        {
-          "name": "Mont",
-          "url": "https://open.spotify.com/artist/41gFAk6ZyYdt7Q1Ir4cbH0"
-        }
-      ],
-      "duration_ms": 127264,
-      "name": "Uy K Raro",
-      "url": "https://open.spotify.com/track/526lL7I17vKOuiD9Wd2vMt"
-    },
-    {
-      "added_at": "2022-09-29 23:31:37",
-      "album": {
-        "name": "Ya No Somos",
-        "url": "https://open.spotify.com/album/5CGjusSMsLJwCCe0rn2cv8"
-      },
-      "artists": [
-        {
-          "name": "Kim Loaiza",
-          "url": "https://open.spotify.com/artist/1QivQCLVipV61DiQiyV14A"
-        },
-        {
-          "name": "Ovy On The Drums",
-          "url": "https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA"
-        }
-      ],
-      "duration_ms": 189152,
-      "name": "Ya No Somos",
-      "url": "https://open.spotify.com/track/7s6yrTbRWxKo9z42M3OP17"
     },
     {
       "added_at": "2022-09-29 23:31:37",
@@ -491,6 +491,26 @@
     {
       "added_at": "2022-09-29 23:31:37",
       "album": {
+        "name": "Salvaje",
+        "url": "https://open.spotify.com/album/52ZUclHV8eBvrdRMsfGjkb"
+      },
+      "artists": [
+        {
+          "name": "Kim Loaiza",
+          "url": "https://open.spotify.com/artist/1QivQCLVipV61DiQiyV14A"
+        },
+        {
+          "name": "Ely Blancarte",
+          "url": "https://open.spotify.com/artist/1IncEJiDn0fbUO0rDQkqB2"
+        }
+      ],
+      "duration_ms": 177570,
+      "name": "Salvaje",
+      "url": "https://open.spotify.com/track/0KLIB8E9BhIE9FTqFeu3a7"
+    },
+    {
+      "added_at": "2022-09-29 23:31:37",
+      "album": {
         "name": "Gitana Kamp, Vol. I",
         "url": "https://open.spotify.com/album/2pgf9362aDcXAR8V5pE2A2"
       },
@@ -511,26 +531,6 @@
       "duration_ms": 146840,
       "name": "Se Siente Bien",
       "url": "https://open.spotify.com/track/1XEmFjZdshi5oQ6qsV44TQ"
-    },
-    {
-      "added_at": "2022-09-29 23:31:37",
-      "album": {
-        "name": "Salvaje",
-        "url": "https://open.spotify.com/album/52ZUclHV8eBvrdRMsfGjkb"
-      },
-      "artists": [
-        {
-          "name": "Kim Loaiza",
-          "url": "https://open.spotify.com/artist/1QivQCLVipV61DiQiyV14A"
-        },
-        {
-          "name": "Ely Blancarte",
-          "url": "https://open.spotify.com/artist/1IncEJiDn0fbUO0rDQkqB2"
-        }
-      ],
-      "duration_ms": 177570,
-      "name": "Salvaje",
-      "url": "https://open.spotify.com/track/0KLIB8E9BhIE9FTqFeu3a7"
     },
     {
       "added_at": "2022-09-29 23:31:37",
@@ -571,22 +571,6 @@
     {
       "added_at": "2022-09-29 23:31:37",
       "album": {
-        "name": "Los Tweets",
-        "url": "https://open.spotify.com/album/4Rrdn0CXxUWpiCQqssrdRX"
-      },
-      "artists": [
-        {
-          "name": "Corina Smith",
-          "url": "https://open.spotify.com/artist/7mXfsy3lF4kU0f2KTNKSr8"
-        }
-      ],
-      "duration_ms": 157580,
-      "name": "Los Tweets",
-      "url": "https://open.spotify.com/track/1Jh7skKg0LaCQHGXRtLf2g"
-    },
-    {
-      "added_at": "2022-09-29 23:31:37",
-      "album": {
         "name": "Dm",
         "url": "https://open.spotify.com/album/1ZFsAQSEvEv7eczKu7kaSA"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 183956,
       "name": "Dm",
       "url": "https://open.spotify.com/track/2HMCrWscGOkbUel0sCW0Bp"
+    },
+    {
+      "added_at": "2022-09-29 23:31:37",
+      "album": {
+        "name": "Los Tweets",
+        "url": "https://open.spotify.com/album/4Rrdn0CXxUWpiCQqssrdRX"
+      },
+      "artists": [
+        {
+          "name": "Corina Smith",
+          "url": "https://open.spotify.com/artist/7mXfsy3lF4kU0f2KTNKSr8"
+        }
+      ],
+      "duration_ms": 157580,
+      "name": "Los Tweets",
+      "url": "https://open.spotify.com/track/1Jh7skKg0LaCQHGXRtLf2g"
     },
     {
       "added_at": "2022-09-29 23:31:37",
@@ -679,22 +679,6 @@
     {
       "added_at": "2022-09-29 23:31:37",
       "album": {
-        "name": "SESENTAYNUEVE",
-        "url": "https://open.spotify.com/album/6oSklR7vWOmzc7yD6OaEET"
-      },
-      "artists": [
-        {
-          "name": "Alan Wittels",
-          "url": "https://open.spotify.com/artist/5JZYv0z6YzsztblsEpst8g"
-        }
-      ],
-      "duration_ms": 122986,
-      "name": "SESENTAYNUEVE",
-      "url": "https://open.spotify.com/track/1jlmhmxdbTUI4jY4Rbkeqs"
-    },
-    {
-      "added_at": "2022-09-29 23:31:37",
-      "album": {
         "name": "Morena M\u00eda",
         "url": "https://open.spotify.com/album/5oBKjHnCEXWK1KlaqcFpH0"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 163626,
       "name": "Morena M\u00eda",
       "url": "https://open.spotify.com/track/5ppm2LDV6yqf7cxjKHOqkG"
+    },
+    {
+      "added_at": "2022-09-29 23:31:37",
+      "album": {
+        "name": "SESENTAYNUEVE",
+        "url": "https://open.spotify.com/album/6oSklR7vWOmzc7yD6OaEET"
+      },
+      "artists": [
+        {
+          "name": "Alan Wittels",
+          "url": "https://open.spotify.com/artist/5JZYv0z6YzsztblsEpst8g"
+        }
+      ],
+      "duration_ms": 122986,
+      "name": "SESENTAYNUEVE",
+      "url": "https://open.spotify.com/track/1jlmhmxdbTUI4jY4Rbkeqs"
     },
     {
       "added_at": "2022-09-29 23:31:37",
@@ -775,22 +775,6 @@
     {
       "added_at": "2022-09-29 23:31:37",
       "album": {
-        "name": "Pa' Siempre",
-        "url": "https://open.spotify.com/album/5IFJYKAOgcxrzAA4VPbmrM"
-      },
-      "artists": [
-        {
-          "name": "Daniel Vargas",
-          "url": "https://open.spotify.com/artist/5HQUcb8L2YyV1NHeT0lFF5"
-        }
-      ],
-      "duration_ms": 139026,
-      "name": "Pa' Siempre",
-      "url": "https://open.spotify.com/track/5vfTt52xIBWcTvYLYmcWuz"
-    },
-    {
-      "added_at": "2022-09-29 23:31:37",
-      "album": {
         "name": "Como Antes",
         "url": "https://open.spotify.com/album/7rNprFES6lD2zMTaK2Vf2A"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 170494,
       "name": "Como Antes",
       "url": "https://open.spotify.com/track/1zX8ub9Zy31pkCgb2xBr4E"
+    },
+    {
+      "added_at": "2022-09-29 23:31:37",
+      "album": {
+        "name": "Pa' Siempre",
+        "url": "https://open.spotify.com/album/5IFJYKAOgcxrzAA4VPbmrM"
+      },
+      "artists": [
+        {
+          "name": "Daniel Vargas",
+          "url": "https://open.spotify.com/artist/5HQUcb8L2YyV1NHeT0lFF5"
+        }
+      ],
+      "duration_ms": 139026,
+      "name": "Pa' Siempre",
+      "url": "https://open.spotify.com/track/5vfTt52xIBWcTvYLYmcWuz"
     },
     {
       "added_at": "2022-09-29 23:31:37",
@@ -831,6 +831,22 @@
     {
       "added_at": "2022-09-29 23:31:37",
       "album": {
+        "name": "KRMA",
+        "url": "https://open.spotify.com/album/0TuPGs0QmDGRWWkg4woomQ"
+      },
+      "artists": [
+        {
+          "name": "Nicole Horts",
+          "url": "https://open.spotify.com/artist/1PdyY069YiAkmKdnx6odux"
+        }
+      ],
+      "duration_ms": 160386,
+      "name": "KRMA",
+      "url": "https://open.spotify.com/track/4okYg73pQX4BWiarAKE6Nz"
+    },
+    {
+      "added_at": "2022-09-29 23:31:37",
+      "album": {
         "name": "Mi Plan B",
         "url": "https://open.spotify.com/album/0pMF3ZiXOvh5ZDvfMfjvT9"
       },
@@ -847,22 +863,6 @@
       "duration_ms": 197142,
       "name": "Mi Plan B",
       "url": "https://open.spotify.com/track/3Tv8aAhY0OkchvVeBRpgk0"
-    },
-    {
-      "added_at": "2022-09-29 23:31:37",
-      "album": {
-        "name": "KRMA",
-        "url": "https://open.spotify.com/album/0TuPGs0QmDGRWWkg4woomQ"
-      },
-      "artists": [
-        {
-          "name": "Nicole Horts",
-          "url": "https://open.spotify.com/artist/1PdyY069YiAkmKdnx6odux"
-        }
-      ],
-      "duration_ms": 160386,
-      "name": "KRMA",
-      "url": "https://open.spotify.com/track/4okYg73pQX4BWiarAKE6Nz"
     },
     {
       "added_at": "2022-09-29 23:31:37",

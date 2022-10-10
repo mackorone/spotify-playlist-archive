@@ -98,6 +98,24 @@
     },
     {
       "album": {
+        "name": "Anchored",
+        "url": "https://open.spotify.com/album/1JFzFl3R3za0aJ4YJKZf77"
+      },
+      "artists": [
+        {
+          "name": "Kaleah Lee",
+          "url": "https://open.spotify.com/artist/6JgC582KHI4BpHIhbFHVAQ"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239374,
+      "name": "Anchored",
+      "url": "https://open.spotify.com/track/2kNsGj6pRhA6MfHsk9WDp8"
+    },
+    {
+      "album": {
         "name": "And (Sam Sarty's Version)",
         "url": "https://open.spotify.com/album/28DI3Mg5t9QXqIopQrvrHO"
       },
@@ -928,6 +946,50 @@
     },
     {
       "album": {
+        "name": "The Hardest Part",
+        "url": "https://open.spotify.com/album/0CIYj6AV180SmLAEONb2DW"
+      },
+      "artists": [
+        {
+          "name": "Noah Cyrus",
+          "url": "https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW"
+        },
+        {
+          "name": "Benjamin Gibbard",
+          "url": "https://open.spotify.com/artist/4CvZd3qzC2HbLxAoAEBRIL"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-07",
+      "duration_ms": 150491,
+      "name": "Every Beginning Ends",
+      "url": "https://open.spotify.com/track/16fxWByj3xZ3yWxwZieyD7"
+    },
+    {
+      "album": {
+        "name": "The Hardest Part",
+        "url": "https://open.spotify.com/album/340COGAWuXWO66Qc4TxJuN"
+      },
+      "artists": [
+        {
+          "name": "Noah Cyrus",
+          "url": "https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW"
+        },
+        {
+          "name": "Benjamin Gibbard",
+          "url": "https://open.spotify.com/artist/4CvZd3qzC2HbLxAoAEBRIL"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150491,
+      "name": "Every Beginning Ends",
+      "url": "https://open.spotify.com/track/1cO3IDkpPFM8hk1l9zG9aL"
+    },
+    {
+      "album": {
         "name": "Every Beginning Ends",
         "url": "https://open.spotify.com/album/7pHo5Tov9GyzVnBLxPuHYB"
       },
@@ -943,7 +1005,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-06",
       "duration_ms": 150491,
       "name": "Every Beginning Ends",
       "url": "https://open.spotify.com/track/7lagLMBTqqOkta5eqRfNXc"
@@ -2552,6 +2614,24 @@
     },
     {
       "album": {
+        "name": "Problem Child",
+        "url": "https://open.spotify.com/album/7LNrFvPGv94exp02DZ14kC"
+      },
+      "artists": [
+        {
+          "name": "Shirley Hurt",
+          "url": "https://open.spotify.com/artist/0yVyy0jaHPJex2snbCJj0B"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222312,
+      "name": "Problem Child",
+      "url": "https://open.spotify.com/track/6EFCZDhBYd12DBzvrJZXMl"
+    },
+    {
+      "album": {
         "name": "1969",
         "url": "https://open.spotify.com/album/2NEtbWNxBAfOjMf0WPV38q"
       },
@@ -2773,7 +2853,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 207253,
       "name": "See This Through",
       "url": "https://open.spotify.com/track/1Wk4JJfIWWM2ZAWC6b1yit"
@@ -3254,6 +3334,24 @@
     },
     {
       "album": {
+        "name": "Imposter Syndrome",
+        "url": "https://open.spotify.com/album/1cpwcFs4tQW37SOSxC2Zv3"
+      },
+      "artists": [
+        {
+          "name": "Barbra Lica",
+          "url": "https://open.spotify.com/artist/1LWWCHWErOO9KZfcwrmS9D"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215381,
+      "name": "Take Care of You",
+      "url": "https://open.spotify.com/track/2qBCc8sGAcYZJOb2sfxYMy"
+    },
+    {
+      "album": {
         "name": "Stay In Touch",
         "url": "https://open.spotify.com/album/3FocbWHJtfvMRhUWmhJTh4"
       },
@@ -3355,7 +3453,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 193462,
       "name": "The Ghost of Me",
       "url": "https://open.spotify.com/track/5ZfIKnOgvBmHNj8s3g5nKd"

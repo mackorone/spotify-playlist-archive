@@ -4,7 +4,7 @@
 
 > The best in blues right now\. Cover: Buddy Guy
 
-231 songs - 15 hr 31 min - [published](https://open.spotify.com/playlist/6WXBnoSHTaV1fXgP91Rwcb)
+232 songs - 15 hr 37 min - [published](https://open.spotify.com/playlist/6WXBnoSHTaV1fXgP91Rwcb)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,6 +45,7 @@
 | [Dear America](https://open.spotify.com/track/6DYaFGcyQyX87He1OxZeOg) | [Eric Bibb](https://open.spotify.com/artist/2uNcfNhlVJUyEX0t0NG1m1) | [Dear America](https://open.spotify.com/album/0IwmHFrTRo5Em6d72VNbs3) | 3:47 | 2021-09-10 | 2022-07-29 |
 | [Death Don't Have No Mercy](https://open.spotify.com/track/1npPaN1uAdOSGnPnOcgQ82) | [Gina Sicilia](https://open.spotify.com/artist/5G7a5hIfomqVuXlk4D3WfQ) | [Death Don't Have No Mercy](https://open.spotify.com/album/7CPRD2SlzBhChwXEUZSmg5) | 6:18 | 2022-04-08 | 2022-04-29 |
 | [Didn’t We Have a Time](https://open.spotify.com/track/5Lz6UnJghksQvUAz54yBv9) | [North Mississippi Allstars](https://open.spotify.com/artist/714osTgzZrkyf3SGjggpfY) | [Didn’t We Have a Time](https://open.spotify.com/album/2pI0kBzadx6e9hYFBisRKL) | 6:04 | 2021-12-24 | 2022-01-15 |
+| [Dirty Grease](https://open.spotify.com/track/1Nd89XqdXUj1zv9meZbPYR) | [David Garfield](https://open.spotify.com/artist/3RPnyf7t9phTwwSzQgaZYb), [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ), [Robben Ford](https://open.spotify.com/artist/7C1CFA2GWGFc51SrvX5Bvy), [Doug Bossi](https://open.spotify.com/artist/6I8Aan08YoXLddBSwCbCI4) | [Dirty Grease](https://open.spotify.com/album/2uJDg09aX2m6hZznK6KTyd) | 6:16 | 2022-10-07 |  |
 | [Don't You Forget About Me](https://open.spotify.com/track/6p1Sim61QcZgVWIEq5s5n7) | [Janiva Magness](https://open.spotify.com/artist/3igRFmvurYBLvQ4aYliwXg) | [Don't You Forget About Me](https://open.spotify.com/album/2zxmGfJwrZ6BhaMLrpV8EK) | 3:27 | 2022-04-29 | 2022-05-28 |
 | [Don't You Wish It Was True](https://open.spotify.com/track/232W8a3C1Kjz9Mr9OjXOhl) | [Janiva Magness](https://open.spotify.com/artist/3igRFmvurYBLvQ4aYliwXg), [Taj Mahal](https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp) | [Don't You Wish It Was True](https://open.spotify.com/album/4SdB0aFLlvQtlV1uxnQmqO) | 4:22 | 2020-12-14 | 2022-02-26 |
 | [Down in Mississippi](https://open.spotify.com/track/3GC6jhvSskDuRpL9XZ4bdJ) | [Bobby Rush](https://open.spotify.com/artist/7LdFlcnzWpySPKngmFCnLi) | [Rawer Than Raw](https://open.spotify.com/album/0Ar6NKv30rwDh3mhZha61I) | 3:23 | 2020-12-14 | 2022-02-26 |

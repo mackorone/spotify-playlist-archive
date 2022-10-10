@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-26",
-  "description": "Los temas m\u00e1s sabrosos del momento suenan aqu\u00ed. Foto: Gilberto Santa Rosa",
+  "description": "Los temas m\u00e1s sabrosos del momento suenan aqu\u00ed. Foto: Grupo Niche",
   "name": "Pura Salsa",
   "published_playlist_ids": [
     "2tB1ux7wGPv1Xl4KlF6iA7"
@@ -960,6 +960,24 @@
     },
     {
       "album": {
+        "name": "La Peruana",
+        "url": "https://open.spotify.com/album/69yHTiNzBYqJVtzYj1fOT1"
+      },
+      "artists": [
+        {
+          "name": "Combinacion De La Habana",
+          "url": "https://open.spotify.com/artist/3hfczsQRbhO3io1UwQFM1y"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232355,
+      "name": "La Peruana",
+      "url": "https://open.spotify.com/track/3GwmnvymwiVxTQ02d1wWB1"
+    },
+    {
+      "album": {
         "name": "En Barranquilla Me Quedo (Homenaje a Joe Arroyo)",
         "url": "https://open.spotify.com/album/6OjhfiVCYhYx1Qne6IfChP"
       },
@@ -1015,6 +1033,24 @@
       "duration_ms": 289053,
       "name": "Lo Que Tengo Yo",
       "url": "https://open.spotify.com/track/3Af6NLEVmK2mKyLyGEavu2"
+    },
+    {
+      "album": {
+        "name": "Soy la Generaci\u00f3n",
+        "url": "https://open.spotify.com/album/68OC8H6MlIrTIrOdTqO2tt"
+      },
+      "artists": [
+        {
+          "name": "Manyoma Brothers",
+          "url": "https://open.spotify.com/artist/1jriNjegHWOysnyACg9Qe3"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267541,
+      "name": "Logr\u00e9 Olvidar",
+      "url": "https://open.spotify.com/track/6jH9HbI5VQAhHT9Srddivo"
     },
     {
       "album": {
@@ -1311,7 +1347,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 272527,
       "name": "Nunca Es Suficiente",
       "url": "https://open.spotify.com/track/5bNZVcZIPFX9eyeCzsjEUz"
@@ -1597,7 +1633,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 236248,
       "name": "Qu\u00e9 Bello - Versi\u00f3n Salsa",
       "url": "https://open.spotify.com/track/3yeIWitSXgDRkBBuQWDbQZ"
@@ -1771,7 +1807,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 236654,
       "name": "Te Dejo Libre",
       "url": "https://open.spotify.com/track/4fBugAURiDBsuyDPCUaAL6"
@@ -1829,6 +1865,24 @@
       "duration_ms": 328257,
       "name": "Te Hubieras Ido Antes",
       "url": "https://open.spotify.com/track/5npRVbAfQveZ57Od4e1j66"
+    },
+    {
+      "album": {
+        "name": "Tocando el Cielo Con las Manos",
+        "url": "https://open.spotify.com/album/7lQolVdhEBRtv8Ayzhi2p4"
+      },
+      "artists": [
+        {
+          "name": "Grupo Niche",
+          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287441,
+      "name": "Tocando el Cielo Con las Manos",
+      "url": "https://open.spotify.com/track/4QhxN9hf5LWvYIqJcjwxQ6"
     },
     {
       "album": {

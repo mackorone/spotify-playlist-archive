@@ -4,7 +4,7 @@
 
 > Listen to the top Christian and worship hits of 2022 featuring Hillsong Worship, Maverick City, Kari Jobe, Chris Tomlin and more\.  Cover: Brooke Ligertwood
 
-200 songs - 18 hr 37 min - [published](https://open.spotify.com/playlist/6X7c0KxMq4eDep6Ky35UDy)
+201 songs - 18 hr 47 min - [published](https://open.spotify.com/playlist/6X7c0KxMq4eDep6Ky35UDy)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,7 +67,8 @@
 | [God So Loved \- Live](https://open.spotify.com/track/0Jwf9brF7OlBaVaeGHcB0y) | [We The Kingdom](https://open.spotify.com/artist/5Ye2QWN2Wl9zTn947eaest), [Dante Bowe](https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz) | [God So Loved \(Live\)](https://open.spotify.com/album/2Ds1jNOWJ4dZFxe91Sw0fz) | 5:55 | 2022-03-02 | 2022-04-05 |
 | [God Song](https://open.spotify.com/track/460oUWkGwaNZM2ZrJzJAMK) | [Hillsong UNITED](https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM), [Hannah Hobbs](https://open.spotify.com/artist/7DfCVb2hqPHt6gEMkTJh5h), [Benjamin William Hastings](https://open.spotify.com/artist/6CK4CBL0n07VdVZmfh40nm) | [Are We There Yet?](https://open.spotify.com/album/5Ol7XeGGIlNkihAl0ucpmk) | 6:46 | 2022-04-08 |  |
 | [God, You’re So Good \- Live](https://open.spotify.com/track/3AHWbUsTaYecnT4aTEU0ut) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Kristian Stanfill](https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx), [Melodie Malone](https://open.spotify.com/artist/0ex9uIrMyFOJ64RCl0yuB3) | [Whole Heart \(Live\)](https://open.spotify.com/album/6pB6iYIiowe4OHN9wP6kky) | 7:06 | 2022-05-27 |  |
-| [Good \(Can't Be Anything Else\) \- Live](https://open.spotify.com/track/77kvkHuxOiV491BKllJ6gn) | [Cody Carnes](https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0) | [Good \(Can't Be Anything Else\) \[Live\]](https://open.spotify.com/album/4r1aFYazY78g3DGyQuiFh3) | 9:52 | 2022-08-19 |  |
+| [Good \(Can't Be Anything Else\) \- Live](https://open.spotify.com/track/6QaXUzg0sPFw1F2R6Fxfq6) | [Cody Carnes](https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0) | [God Is Good! \(Live\)](https://open.spotify.com/album/4qZwzswmv5lNwLftPcVNBH) | 9:52 | 2022-10-04 |  |
+| [Good \(Can't Be Anything Else\) \- Live](https://open.spotify.com/track/77kvkHuxOiV491BKllJ6gn) | [Cody Carnes](https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0) | [Good \(Can't Be Anything Else\) \[Live\]](https://open.spotify.com/album/4r1aFYazY78g3DGyQuiFh3) | 9:52 | 2022-08-19 | 2022-10-05 |
 | [Good Good Father](https://open.spotify.com/track/1mWdyqs6Zvg8b1lKjDc8yB) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [The Ultimate Playlist](https://open.spotify.com/album/2XOKt6AVcxdBs1Za7AxGj2) | 4:53 | 2022-02-17 |  |
 | [Good News \- Live](https://open.spotify.com/track/6oAeuX4aPwjmmsZUA3BWHc) | [Bryan & Katie Torwalt](https://open.spotify.com/artist/7bvAtcPT3evvSeHDyu2zBC) | [Good News \(Live\)](https://open.spotify.com/album/4P3woB9qsP0Ww6L9TwV4Li) | 4:26 | 2022-04-15 |  |
 | [Goodness Of God \- Live](https://open.spotify.com/track/5VpzCWRBKUhm50jtafbKu2) | [Church of the City](https://open.spotify.com/artist/0JEaOx0otT35qgkj1w4oBw), [Worship Together](https://open.spotify.com/artist/3DMbpVPUYdZnft4OoqHqPc), [Ileia Sharaé](https://open.spotify.com/artist/4jt2b9I1RDXCiZujdiXaQr) | [Goodness Of God \(Live\)](https://open.spotify.com/album/7KgAz06YJmhpSPLl5Nfc44) | 5:47 | 2022-02-17 |  |

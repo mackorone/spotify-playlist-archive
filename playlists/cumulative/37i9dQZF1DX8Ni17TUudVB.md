@@ -4,7 +4,7 @@
 
 > Enérgicos beats para musicalizar tu rutina diaria de ejercicio.
 
-181 songs - 9 hr 34 min - [published](https://open.spotify.com/playlist/6i54Gc32OBgUQz8RjwMK3M)
+182 songs - 9 hr 37 min - [published](https://open.spotify.com/playlist/6i54Gc32OBgUQz8RjwMK3M)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,6 +53,7 @@
 | [Dark](https://open.spotify.com/track/2PudL6cRt6arYtuLHGcG32) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t) | [Dark](https://open.spotify.com/album/600wdbuRpaK6uJWA63oqii) | 2:03 | 2022-03-09 | 2022-08-17 |
 | [Dark Times](https://open.spotify.com/track/6t8QfeAAYhgmSMV3rOvIRw) | [DUNNOWHO](https://open.spotify.com/artist/5hopiq3ryZicsodQkx8dGn) | [Dark Times](https://open.spotify.com/album/1KJ728YDU2jma0wgngWYaw) | 3:00 | 2022-01-04 | 2022-07-27 |
 | [Death Rail](https://open.spotify.com/track/0gtuo2bvKsqW8yiqQvvtcr) | [Hi I'm Ghost](https://open.spotify.com/artist/7IyxUmBgkkV4jh7kHoip34) | [Death Rail](https://open.spotify.com/album/2LrqZEdBSCA2yKt0fs5Q8H) | 2:31 | 2022-01-04 | 2022-09-18 |
+| [Death Rail](https://open.spotify.com/track/6ZI5UgjEGb82o1XaAZKLJ2) | [Hi I'm Ghost](https://open.spotify.com/artist/7IyxUmBgkkV4jh7kHoip34) | [Death Rail](https://open.spotify.com/album/4C0vIxaCTSloENgeyOFgZ8) | 2:31 | 2022-08-16 |  |
 | [Deep Lies](https://open.spotify.com/track/1uzLk7oQmjOcH1qtexmNXM) | [Tadeo Fernandez](https://open.spotify.com/artist/1I1aQjuoAOBT8eW2FYQtQS), [BW](https://open.spotify.com/artist/1i44h6fV8ef3hIb9tF2Lvp), [Criminal Sounds](https://open.spotify.com/artist/5njfytLYZKkzutruHPuSVj), [Onyra](https://open.spotify.com/artist/6C4TTq7NEdvKLUmBaSqAMb) | [Deep Lies](https://open.spotify.com/album/48n5az0Eky1MyA3LQMNRLz) | 3:25 | 2022-01-04 | 2022-07-29 |
 | [Dished \(Male Stripper\)](https://open.spotify.com/track/2pe0COHvmpJVsddI9tN3oe) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4) | [Dished \(Male Stripper\)](https://open.spotify.com/album/1pCSmbAlvWIgoVOY5MuYqQ) | 4:13 | 2022-01-04 | 2022-07-29 |
 | [Dished \(Male Stripper\)](https://open.spotify.com/track/4DIspILFDWAlU7bViTMqhS) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4) | [Dished \(Male Stripper\)](https://open.spotify.com/album/6RzHkehHgF4kgwFrZJX5D4) | 4:13 | 2022-07-26 |  |
@@ -108,7 +109,7 @@
 | [La Rana](https://open.spotify.com/track/1Cv6h7fvpqwwhwzFghwfwP) | [SBM](https://open.spotify.com/artist/10sogTUsGzLPeCcrOcEPF1), [Holy Pig](https://open.spotify.com/artist/5noU5w3Au49jwWgCXih5IE) | [La Rana](https://open.spotify.com/album/4bT2Rj4nZ6eemoACXDBgMm) | 4:40 | 2022-01-04 | 2022-07-29 |
 | [Leave Me](https://open.spotify.com/track/4HwCOHAttt18YbphVEt2Tc) | [Faruk Orman](https://open.spotify.com/artist/53ZTq0HA8Ay02PiMs4e4Sq) | [Leave Me](https://open.spotify.com/album/5V4BXvi7L2x0mZuUyzOQlG) | 2:19 | 2022-01-04 | 2022-07-29 |
 | [Levels \- Radio Edit](https://open.spotify.com/track/5UqCQaDshqbIk3pkhy4Pjg) | [Avicii](https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6) | [Levels](https://open.spotify.com/album/1OEGfToF7QbjUgyxMAnGXg) | 3:19 | 2022-01-04 |  |
-| [Light Me Up](https://open.spotify.com/track/6xfT4ubp1ETiqfDtUbdYHI) | [SNO](https://open.spotify.com/artist/3qTRZI4zjqH8jPXvmUNu10) | [Light Me Up](https://open.spotify.com/album/4EohvRPYKOWpgugn2n3DTi) | 3:04 | 2022-03-29 |  |
+| [Light Me Up](https://open.spotify.com/track/6xfT4ubp1ETiqfDtUbdYHI) | [SNO](https://open.spotify.com/artist/3qTRZI4zjqH8jPXvmUNu10) | [Light Me Up](https://open.spotify.com/album/4EohvRPYKOWpgugn2n3DTi) | 3:04 | 2022-03-29 | 2022-10-05 |
 | [Like Wooh Wooh](https://open.spotify.com/track/2DjZ7Ytv2UDKXSoQXTXPkN) | [Rnbstylerz](https://open.spotify.com/artist/3qkIL3op4KtFFUHj19LuLg) | [Like Wooh Wooh](https://open.spotify.com/album/2tPlR2MrouxMfxuumYUzIb) | 3:16 | 2022-08-16 |  |
 | [Loco Contigo \(feat\. J\. Balvin & Tyga\)](https://open.spotify.com/track/6osaMSJh9NguagEDQcZaKx) | [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Carte Blanche](https://open.spotify.com/album/2MFS6WG6jnPAgvJpV3PehR) | 3:05 | 2022-01-04 |  |
 | [Lokito](https://open.spotify.com/track/3wl6blcXqnpPI7f6UNH4II) | [Los Dutis](https://open.spotify.com/artist/7euy0eWE4fAyce469eL2fi) | [Lokito](https://open.spotify.com/album/6jX07JnOXrVcySLBHh7qbB) | 3:01 | 2022-01-04 | 2022-07-29 |

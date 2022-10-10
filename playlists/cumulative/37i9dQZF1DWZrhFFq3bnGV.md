@@ -4,7 +4,7 @@
 
 > Terbuai dengan musik Jazz dari negeri sendiri\. Cover: Joey Alexander
 
-76 songs - 5 hr 11 min - [published](https://open.spotify.com/playlist/50nx8bYWnlzdoNtPoX5a5I)
+77 songs - 5 hr 13 min - [published](https://open.spotify.com/playlist/50nx8bYWnlzdoNtPoX5a5I)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,7 +38,8 @@
 | [Hidup](https://open.spotify.com/track/61pIoGz4vXugNa5Cc9Fh47) | [January Christy](https://open.spotify.com/artist/6r6dOSjeTf5AjwywbRqSIX) | [Unreleased Tracks from 1985](https://open.spotify.com/album/26rn9d3WodFSvOVSsd8N8S) | 2:52 | 2022-09-02 |  |
 | [I Am The Bass](https://open.spotify.com/track/3Oj6SHWTkRpJOOE8AIkjZG) | [Bondan Prakoso](https://open.spotify.com/artist/7b4mucf6X53D3pEaY1jWl6), [Barry Likumahuwa](https://open.spotify.com/artist/2AdFUyPR5XxpgOI6QYfVDz) | [I Am The Bass](https://open.spotify.com/album/0qMcpjxXi0tQP9SmjZtOED) | 3:30 | 2022-09-02 |  |
 | [I'm Not the Only One](https://open.spotify.com/track/4AKbie1DHQL98d3kRi5P00) | [Nenei](https://open.spotify.com/artist/7675AXKo73FqKM9RDrGbf7) | [I'm Not the Only One](https://open.spotify.com/album/14nkRY04tLRasVaYcmFzRN) | 3:46 | 2022-09-02 |  |
-| [Irene](https://open.spotify.com/track/5bF3msuuAcyU316UptpKRg) | [Jordy Waelauruw](https://open.spotify.com/artist/3oECPG2Aqe2bo0LrcSJQ0H) | [Colo Colo 1](https://open.spotify.com/album/2zpVHyMwkO320BFTdx1XJb) | 2:13 | 2022-09-02 |  |
+| [Irene](https://open.spotify.com/track/3X4MD6lxv735qEsBi3A28I) | [Jordy Waelauruw](https://open.spotify.com/artist/3oECPG2Aqe2bo0LrcSJQ0H) | [Colo Colo 1](https://open.spotify.com/album/446K6I2l2siYhS7mEW5I9q) | 2:13 | 2022-09-22 |  |
+| [Irene](https://open.spotify.com/track/5bF3msuuAcyU316UptpKRg) | [Jordy Waelauruw](https://open.spotify.com/artist/3oECPG2Aqe2bo0LrcSJQ0H) | [Colo Colo 1](https://open.spotify.com/album/2zpVHyMwkO320BFTdx1XJb) | 2:13 | 2022-09-02 | 2022-10-09 |
 | [Kejar Waktu](https://open.spotify.com/track/1Eo6TNhL7ydD7HFHPFc9bE) | [Marini Nainggolan](https://open.spotify.com/artist/68CRp4uznB4jlgbcNEqbTp) | [Kejar Waktu](https://open.spotify.com/album/3Q8ZezQuRlmq8xsVfYsw3F) | 4:36 | 2022-09-02 |  |
 | [Kembali Bersama](https://open.spotify.com/track/5uCEXd94GXJrediRWmF9Mx) | [Sequoia Projects](https://open.spotify.com/artist/3yyjWdipsrJk6edPtRUpfF), [Danto](https://open.spotify.com/artist/63mbkvcPnMSd4vmPNsASSZ) | [Kembali Bersama](https://open.spotify.com/album/41fNuj0KJtHoR3Rger2nfL) | 4:00 | 2022-09-02 |  |
 | [Last Day of Summer](https://open.spotify.com/track/4oUIfcycGoAKSDYhgeiFLA) | [Krista Monica](https://open.spotify.com/artist/0PC42l4h2xINrF0wCqX6zz) | [Last Day of Summer](https://open.spotify.com/album/7rqSiJ0ZaTI1nNWhGCdItB) | 3:02 | 2022-09-02 |  |

@@ -1,12 +1,12 @@
 {
   "description": "The best in blues right now. Cover: Buddy Guy",
-  "num_followers": 40259,
+  "num_followers": 40440,
   "original_name": "Got Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDUxMDQ2MCwwMDAwMDAwMGQzMTQxMzZhM2ZiODYwNmY4ZTE5NjU3ZjNlYWM2NzJj",
+  "snapshot_id": "MTY2NTExNTI2MCwwMDAwMDAwMGUzNzliNDM3NjkxZmU2MDYwM2Q3NDg0ZTNjNTQ5NDNj",
   "tracks": [
     {
       "added_at": "2022-09-30 04:01:00",
@@ -91,6 +91,34 @@
       "duration_ms": 302053,
       "name": "Risin' Up",
       "url": "https://open.spotify.com/track/3SwzJIkMEbLjAK97hEaaLV"
+    },
+    {
+      "added_at": "2022-10-07 04:01:00",
+      "album": {
+        "name": "Dirty Grease",
+        "url": "https://open.spotify.com/album/2uJDg09aX2m6hZznK6KTyd"
+      },
+      "artists": [
+        {
+          "name": "David Garfield",
+          "url": "https://open.spotify.com/artist/3RPnyf7t9phTwwSzQgaZYb"
+        },
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        },
+        {
+          "name": "Robben Ford",
+          "url": "https://open.spotify.com/artist/7C1CFA2GWGFc51SrvX5Bvy"
+        },
+        {
+          "name": "Doug Bossi",
+          "url": "https://open.spotify.com/artist/6I8Aan08YoXLddBSwCbCI4"
+        }
+      ],
+      "duration_ms": 376646,
+      "name": "Dirty Grease",
+      "url": "https://open.spotify.com/track/1Nd89XqdXUj1zv9meZbPYR"
     },
     {
       "added_at": "2022-09-23 04:00:00",

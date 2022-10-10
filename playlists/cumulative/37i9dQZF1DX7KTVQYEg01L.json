@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-02",
-  "description": "Comece o dia com grandes hits!",
+  "description": "Comece o dia com grandes hits! Foto: Giulia Be",
   "name": "Tenha um \u00d3timo Dia!",
   "published_playlist_ids": [
     "6HOgxEfC8AsoGg8rgt63pw"
@@ -59,6 +59,24 @@
       "duration_ms": 157989,
       "name": "(n\u00e3o) era amor",
       "url": "https://open.spotify.com/track/7DmZMqXYgQ1oI3z3bGUEbi"
+    },
+    {
+      "album": {
+        "name": "solta",
+        "url": "https://open.spotify.com/album/4DMZLRmAYZ3vDfD6Mv5cIy"
+      },
+      "artists": [
+        {
+          "name": "GIULIA BE",
+          "url": "https://open.spotify.com/artist/0kjGPGtoyKwKVOZAKmv5K6"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157991,
+      "name": "(n\u00e3o) era amor",
+      "url": "https://open.spotify.com/track/1xm6rsUXIuGVjuKJJDLjzX"
     },
     {
       "album": {
@@ -2029,7 +2047,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 212093,
       "name": "Holy (feat. Chance The Rapper)",
       "url": "https://open.spotify.com/track/5u1n1kITHCxxp8twBcZxWy"

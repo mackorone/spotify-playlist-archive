@@ -1,12 +1,12 @@
 {
   "description": "The bluesy side of jazz",
-  "num_followers": 65399,
+  "num_followers": 66042,
   "original_name": "Jazz-Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0ODQ5OTIzMSwwMDAwMDAwMGVlMzczZDEyYTZmZThiNjkxMjE5OTdhYmJiY2JiNDMz",
+  "snapshot_id": "MTY0ODQ5OTIzMSwwMDAwMDAwMDRhZmFhMjQxNTg2NmNjZDkzZjg3OTgxODVhYTMwMjM3",
   "tracks": [
     {
       "added_at": "2020-10-12 18:15:54",
@@ -187,22 +187,18 @@
     {
       "added_at": "2020-10-12 18:15:54",
       "album": {
-        "name": "Duke Ellington & John Coltrane",
-        "url": "https://open.spotify.com/album/1OvmilWKtrabJGEpPRlgK5"
+        "name": "Now\u2019s The Time: The Genius Of Charlie Parker #3",
+        "url": "https://open.spotify.com/album/7KLwxAG5safFwMgxd0XlH3"
       },
       "artists": [
         {
-          "name": "Duke Ellington",
-          "url": "https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A"
-        },
-        {
-          "name": "John Coltrane",
-          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
+          "name": "Charlie Parker Quartet",
+          "url": "https://open.spotify.com/artist/5GBe2GMfPm3IFagD5XuKKs"
         }
       ],
-      "duration_ms": 282600,
-      "name": "Take The Coltrane",
-      "url": "https://open.spotify.com/track/6aNnVdpAQu8R0qGq5NMXyZ"
+      "duration_ms": 181706,
+      "name": "Now's The Time",
+      "url": "https://open.spotify.com/track/0cvA7oe0YMEOl5L017P9lq"
     },
     {
       "added_at": "2020-10-12 18:15:54",
@@ -223,18 +219,22 @@
     {
       "added_at": "2020-10-12 18:15:54",
       "album": {
-        "name": "Now\u2019s The Time: The Genius Of Charlie Parker #3",
-        "url": "https://open.spotify.com/album/7KLwxAG5safFwMgxd0XlH3"
+        "name": "Duke Ellington & John Coltrane",
+        "url": "https://open.spotify.com/album/1OvmilWKtrabJGEpPRlgK5"
       },
       "artists": [
         {
-          "name": "Charlie Parker Quartet",
-          "url": "https://open.spotify.com/artist/5GBe2GMfPm3IFagD5XuKKs"
+          "name": "Duke Ellington",
+          "url": "https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A"
+        },
+        {
+          "name": "John Coltrane",
+          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
         }
       ],
-      "duration_ms": 181706,
-      "name": "Now's The Time",
-      "url": "https://open.spotify.com/track/0cvA7oe0YMEOl5L017P9lq"
+      "duration_ms": 282600,
+      "name": "Take The Coltrane",
+      "url": "https://open.spotify.com/track/6aNnVdpAQu8R0qGq5NMXyZ"
     },
     {
       "added_at": "2020-10-12 18:15:54",
@@ -287,6 +287,22 @@
     {
       "added_at": "2020-10-12 18:15:54",
       "album": {
+        "name": "Blues In The Closet",
+        "url": "https://open.spotify.com/album/3Cc05AU0t3tZjWhYrYsK2V"
+      },
+      "artists": [
+        {
+          "name": "Bud Powell",
+          "url": "https://open.spotify.com/artist/570vCzcespB48HIQyTbDO6"
+        }
+      ],
+      "duration_ms": 180533,
+      "name": "Blues In The Closet",
+      "url": "https://open.spotify.com/track/5JyG1qNpWmCKXiEqPUdOXK"
+    },
+    {
+      "added_at": "2020-10-12 18:15:54",
+      "album": {
         "name": "Art Pepper Meets The Rhythm Section (OJC Remaster)",
         "url": "https://open.spotify.com/album/0KVlRrpun0BBnfJFeVTLfX"
       },
@@ -299,6 +315,54 @@
       "duration_ms": 220520,
       "name": "Red Pepper Blues",
       "url": "https://open.spotify.com/track/2w3DhdtQDnAzeNNH39kfpJ"
+    },
+    {
+      "added_at": "2020-10-12 18:15:54",
+      "album": {
+        "name": "Underground",
+        "url": "https://open.spotify.com/album/5rA4Fhdeq0an7JZR2JRSDn"
+      },
+      "artists": [
+        {
+          "name": "Thelonious Monk",
+          "url": "https://open.spotify.com/artist/4PDpGtF16XpqvXxsrFwQnN"
+        }
+      ],
+      "duration_ms": 277373,
+      "name": "Raise Four",
+      "url": "https://open.spotify.com/track/5anYdzYJguGLEcbgL6G2Qm"
+    },
+    {
+      "added_at": "2020-10-12 18:15:54",
+      "album": {
+        "name": "Naima",
+        "url": "https://open.spotify.com/album/4N6QrNl4RvEjyaPtUilwRD"
+      },
+      "artists": [
+        {
+          "name": "John Coltrane",
+          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
+        }
+      ],
+      "duration_ms": 487279,
+      "name": "Equinox",
+      "url": "https://open.spotify.com/track/56elAIX47Q7vSQ1bpKNhHo"
+    },
+    {
+      "added_at": "2020-10-12 18:15:54",
+      "album": {
+        "name": "Night Train (Expanded Edition)",
+        "url": "https://open.spotify.com/album/3gPOWmWT0q7Ygp95Xiuw1v"
+      },
+      "artists": [
+        {
+          "name": "Oscar Peterson Trio",
+          "url": "https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A"
+        }
+      ],
+      "duration_ms": 276133,
+      "name": "Things Ain't What They Used To Be",
+      "url": "https://open.spotify.com/track/69enZcR3Rr9Bg3fNzHEp9y"
     },
     {
       "added_at": "2020-10-12 18:15:54",
@@ -323,54 +387,6 @@
     {
       "added_at": "2020-10-12 18:15:54",
       "album": {
-        "name": "Naima",
-        "url": "https://open.spotify.com/album/4N6QrNl4RvEjyaPtUilwRD"
-      },
-      "artists": [
-        {
-          "name": "John Coltrane",
-          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
-        }
-      ],
-      "duration_ms": 487279,
-      "name": "Equinox",
-      "url": "https://open.spotify.com/track/56elAIX47Q7vSQ1bpKNhHo"
-    },
-    {
-      "added_at": "2020-10-12 18:15:54",
-      "album": {
-        "name": "Underground",
-        "url": "https://open.spotify.com/album/5rA4Fhdeq0an7JZR2JRSDn"
-      },
-      "artists": [
-        {
-          "name": "Thelonious Monk",
-          "url": "https://open.spotify.com/artist/4PDpGtF16XpqvXxsrFwQnN"
-        }
-      ],
-      "duration_ms": 277373,
-      "name": "Raise Four",
-      "url": "https://open.spotify.com/track/5anYdzYJguGLEcbgL6G2Qm"
-    },
-    {
-      "added_at": "2020-10-12 18:15:54",
-      "album": {
-        "name": "Night Train (Expanded Edition)",
-        "url": "https://open.spotify.com/album/3gPOWmWT0q7Ygp95Xiuw1v"
-      },
-      "artists": [
-        {
-          "name": "Oscar Peterson Trio",
-          "url": "https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A"
-        }
-      ],
-      "duration_ms": 276133,
-      "name": "Things Ain't What They Used To Be",
-      "url": "https://open.spotify.com/track/69enZcR3Rr9Bg3fNzHEp9y"
-    },
-    {
-      "added_at": "2020-10-12 18:15:54",
-      "album": {
         "name": "Swedish Schnapps: The Genius Of Charlie Parker #8 (Expanded Edition)",
         "url": "https://open.spotify.com/album/1mQ11XRLltORPc1bAJv9tt"
       },
@@ -383,22 +399,6 @@
       "duration_ms": 166613,
       "name": "Blues For Alice",
       "url": "https://open.spotify.com/track/6uVi3VWCVMfXviWa8DTCwN"
-    },
-    {
-      "added_at": "2020-10-12 18:15:54",
-      "album": {
-        "name": "The Very Best",
-        "url": "https://open.spotify.com/album/4xuegUilqM4eMcAH9FdxRR"
-      },
-      "artists": [
-        {
-          "name": "Horace Silver",
-          "url": "https://open.spotify.com/artist/5ZATfKurLqflrBhv2FLht5"
-        }
-      ],
-      "duration_ms": 421853,
-      "name": "Senor Blues",
-      "url": "https://open.spotify.com/track/3MiHG7FiEk56qiHNuWaZiz"
     },
     {
       "added_at": "2020-10-12 18:15:54",
@@ -419,6 +419,22 @@
     {
       "added_at": "2020-10-12 18:15:54",
       "album": {
+        "name": "The Very Best",
+        "url": "https://open.spotify.com/album/4xuegUilqM4eMcAH9FdxRR"
+      },
+      "artists": [
+        {
+          "name": "Horace Silver",
+          "url": "https://open.spotify.com/artist/5ZATfKurLqflrBhv2FLht5"
+        }
+      ],
+      "duration_ms": 421853,
+      "name": "Senor Blues",
+      "url": "https://open.spotify.com/track/3MiHG7FiEk56qiHNuWaZiz"
+    },
+    {
+      "added_at": "2020-10-12 18:15:54",
+      "album": {
         "name": "Swiss Nights, Vol. 3",
         "url": "https://open.spotify.com/album/6NHprN57mZWEj3ELnR2RY4"
       },
@@ -431,70 +447,6 @@
       "duration_ms": 762666,
       "name": "Tenor madness",
       "url": "https://open.spotify.com/track/3FbVaUe0hFeLKun8dHAOls"
-    },
-    {
-      "added_at": "2020-10-12 18:15:54",
-      "album": {
-        "name": "Verve Jazz Masters 10: Dizzy Gillespie",
-        "url": "https://open.spotify.com/album/1nhJMRUIhJhSl6vshTJvGH"
-      },
-      "artists": [
-        {
-          "name": "Dizzy Gillespie",
-          "url": "https://open.spotify.com/artist/5RzjqfPS0Bu4bUMkyNNDpn"
-        }
-      ],
-      "duration_ms": 297493,
-      "name": "Birks' Works",
-      "url": "https://open.spotify.com/track/189Ut7anuQjKNbiHIHBOaa"
-    },
-    {
-      "added_at": "2020-10-12 18:15:54",
-      "album": {
-        "name": "The Freelance Years",
-        "url": "https://open.spotify.com/album/7DcaNJJvSm4m9POLPopa8x"
-      },
-      "artists": [
-        {
-          "name": "Sonny Rollins",
-          "url": "https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR"
-        }
-      ],
-      "duration_ms": 546000,
-      "name": "Sonnymoon For Two",
-      "url": "https://open.spotify.com/track/58auzrd6rwCLuWleG4bCAy"
-    },
-    {
-      "added_at": "2020-10-12 18:15:54",
-      "album": {
-        "name": "Horace Silver And The Jazz Messengers",
-        "url": "https://open.spotify.com/album/6ChBNNT405wL5eQz8be9Q9"
-      },
-      "artists": [
-        {
-          "name": "Horace Silver",
-          "url": "https://open.spotify.com/artist/5ZATfKurLqflrBhv2FLht5"
-        }
-      ],
-      "duration_ms": 405653,
-      "name": "Doodlin' - Remastered",
-      "url": "https://open.spotify.com/track/5TMVNGCCHS01ub7oOLzyFW"
-    },
-    {
-      "added_at": "2020-10-12 18:15:54",
-      "album": {
-        "name": "Workin'",
-        "url": "https://open.spotify.com/album/7buLIJn2VuqsVORghMEvli"
-      },
-      "artists": [
-        {
-          "name": "Miles Davis Quintet",
-          "url": "https://open.spotify.com/artist/71Ur25Abq58vksqJINpGdx"
-        }
-      ],
-      "duration_ms": 512146,
-      "name": "Trane's Blues",
-      "url": "https://open.spotify.com/track/2jArAY0sRtdIN8r9oS0ryO"
     },
     {
       "added_at": "2020-10-12 18:15:54",
@@ -515,34 +467,66 @@
     {
       "added_at": "2020-10-12 18:15:54",
       "album": {
-        "name": "The Savoy 10-inch LP Collection",
-        "url": "https://open.spotify.com/album/6hwIz13Z6GkWOdhQFgDQJ4"
+        "name": "The Freelance Years",
+        "url": "https://open.spotify.com/album/7DcaNJJvSm4m9POLPopa8x"
       },
       "artists": [
         {
-          "name": "Charlie Parker",
-          "url": "https://open.spotify.com/artist/4Ww5mwS7BWYjoZTUIrMHfC"
+          "name": "Sonny Rollins",
+          "url": "https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR"
         }
       ],
-      "duration_ms": 180533,
-      "name": "Cheryl",
-      "url": "https://open.spotify.com/track/1AMqC4GiDjbfwpl40kEWpX"
+      "duration_ms": 546000,
+      "name": "Sonnymoon For Two",
+      "url": "https://open.spotify.com/track/58auzrd6rwCLuWleG4bCAy"
     },
     {
       "added_at": "2020-10-12 18:15:54",
       "album": {
-        "name": "Blues In The Closet",
-        "url": "https://open.spotify.com/album/3Cc05AU0t3tZjWhYrYsK2V"
+        "name": "Verve Jazz Masters 10: Dizzy Gillespie",
+        "url": "https://open.spotify.com/album/1nhJMRUIhJhSl6vshTJvGH"
       },
       "artists": [
         {
-          "name": "Bud Powell",
-          "url": "https://open.spotify.com/artist/570vCzcespB48HIQyTbDO6"
+          "name": "Dizzy Gillespie",
+          "url": "https://open.spotify.com/artist/5RzjqfPS0Bu4bUMkyNNDpn"
         }
       ],
-      "duration_ms": 180533,
-      "name": "Blues In The Closet",
-      "url": "https://open.spotify.com/track/5JyG1qNpWmCKXiEqPUdOXK"
+      "duration_ms": 297493,
+      "name": "Birks' Works",
+      "url": "https://open.spotify.com/track/189Ut7anuQjKNbiHIHBOaa"
+    },
+    {
+      "added_at": "2020-10-12 18:15:54",
+      "album": {
+        "name": "Workin'",
+        "url": "https://open.spotify.com/album/7buLIJn2VuqsVORghMEvli"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis Quintet",
+          "url": "https://open.spotify.com/artist/71Ur25Abq58vksqJINpGdx"
+        }
+      ],
+      "duration_ms": 512146,
+      "name": "Trane's Blues",
+      "url": "https://open.spotify.com/track/2jArAY0sRtdIN8r9oS0ryO"
+    },
+    {
+      "added_at": "2020-10-12 18:15:54",
+      "album": {
+        "name": "Horace Silver And The Jazz Messengers",
+        "url": "https://open.spotify.com/album/6ChBNNT405wL5eQz8be9Q9"
+      },
+      "artists": [
+        {
+          "name": "Horace Silver",
+          "url": "https://open.spotify.com/artist/5ZATfKurLqflrBhv2FLht5"
+        }
+      ],
+      "duration_ms": 405653,
+      "name": "Doodlin' - Remastered",
+      "url": "https://open.spotify.com/track/5TMVNGCCHS01ub7oOLzyFW"
     },
     {
       "added_at": "2020-10-12 18:15:54",
@@ -579,6 +563,26 @@
     {
       "added_at": "2020-10-12 18:15:54",
       "album": {
+        "name": "The Savoy 10-inch LP Collection",
+        "url": "https://open.spotify.com/album/6hwIz13Z6GkWOdhQFgDQJ4"
+      },
+      "artists": [
+        {
+          "name": "Charlie Parker",
+          "url": "https://open.spotify.com/artist/4Ww5mwS7BWYjoZTUIrMHfC"
+        },
+        {
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+        }
+      ],
+      "duration_ms": 180533,
+      "name": "Cheryl",
+      "url": "https://open.spotify.com/track/1AMqC4GiDjbfwpl40kEWpX"
+    },
+    {
+      "added_at": "2020-10-12 18:15:54",
+      "album": {
         "name": "Clifford Brown And Max Roach",
         "url": "https://open.spotify.com/album/2EKn6vs5MXWjMubeBhqgKG"
       },
@@ -595,38 +599,6 @@
       "duration_ms": 414266,
       "name": "The Blues Walk",
       "url": "https://open.spotify.com/track/10pXPSiE2qtzLMyeic3Vdm"
-    },
-    {
-      "added_at": "2020-10-12 18:15:54",
-      "album": {
-        "name": "Cookin' With The Miles Davis Quintet",
-        "url": "https://open.spotify.com/album/6QPFCq6SHAOhBI1Vf14G0y"
-      },
-      "artists": [
-        {
-          "name": "Miles Davis Quintet",
-          "url": "https://open.spotify.com/artist/71Ur25Abq58vksqJINpGdx"
-        }
-      ],
-      "duration_ms": 592506,
-      "name": "Blues By Five - Rudy Van Gelder Remaster",
-      "url": "https://open.spotify.com/track/06HwBSKPrMyC6HdiEMeKNX"
-    },
-    {
-      "added_at": "2020-10-12 18:15:54",
-      "album": {
-        "name": "Monk's Music",
-        "url": "https://open.spotify.com/album/5VTHqe7GnSKHRqq9qF8O5G"
-      },
-      "artists": [
-        {
-          "name": "Thelonious Monk Septet",
-          "url": "https://open.spotify.com/artist/56koGOp6EpWHZYOfuTTxRB"
-        }
-      ],
-      "duration_ms": 682173,
-      "name": "Well You Needn't",
-      "url": "https://open.spotify.com/track/6UR3pf66R1zloruniAFkp1"
     },
     {
       "added_at": "2020-10-12 18:15:54",
@@ -675,18 +647,34 @@
     {
       "added_at": "2020-10-12 18:15:54",
       "album": {
-        "name": "Kelly Blue (Keepnews Collection)",
-        "url": "https://open.spotify.com/album/0mgUrEyxaymxq5hCKqNQ9B"
+        "name": "Inner Urge (The Rudy Van Gelder Edition)",
+        "url": "https://open.spotify.com/album/2Amg9J3U9jEUUJUxCW5OgI"
       },
       "artists": [
         {
-          "name": "Wynton Kelly",
-          "url": "https://open.spotify.com/artist/5ncBRFyyylFng7kQJaRXN0"
+          "name": "Joe Henderson",
+          "url": "https://open.spotify.com/artist/3BG0nwVh3Gc7cuT4XdsLtt"
         }
       ],
-      "duration_ms": 650466,
-      "name": "Kelly Blue",
-      "url": "https://open.spotify.com/track/2w2S61Es3uLMVHE41u1pev"
+      "duration_ms": 556226,
+      "name": "Isotope - Rudy Van Gelder Edition / 2004 Digital Remaster",
+      "url": "https://open.spotify.com/track/4tmApkhSLqUAE7x70CVI2L"
+    },
+    {
+      "added_at": "2020-10-12 18:15:54",
+      "album": {
+        "name": "Monk's Music",
+        "url": "https://open.spotify.com/album/5VTHqe7GnSKHRqq9qF8O5G"
+      },
+      "artists": [
+        {
+          "name": "Thelonious Monk Septet",
+          "url": "https://open.spotify.com/artist/56koGOp6EpWHZYOfuTTxRB"
+        }
+      ],
+      "duration_ms": 682173,
+      "name": "Well You Needn't",
+      "url": "https://open.spotify.com/track/6UR3pf66R1zloruniAFkp1"
     },
     {
       "added_at": "2020-10-12 18:15:54",
@@ -707,18 +695,34 @@
     {
       "added_at": "2020-10-12 18:15:54",
       "album": {
-        "name": "Inner Urge (The Rudy Van Gelder Edition)",
-        "url": "https://open.spotify.com/album/2Amg9J3U9jEUUJUxCW5OgI"
+        "name": "Cookin' With The Miles Davis Quintet",
+        "url": "https://open.spotify.com/album/6QPFCq6SHAOhBI1Vf14G0y"
       },
       "artists": [
         {
-          "name": "Joe Henderson",
-          "url": "https://open.spotify.com/artist/3BG0nwVh3Gc7cuT4XdsLtt"
+          "name": "Miles Davis Quintet",
+          "url": "https://open.spotify.com/artist/71Ur25Abq58vksqJINpGdx"
         }
       ],
-      "duration_ms": 556226,
-      "name": "Isotope - Rudy Van Gelder Edition / 2004 Digital Remaster",
-      "url": "https://open.spotify.com/track/4tmApkhSLqUAE7x70CVI2L"
+      "duration_ms": 592506,
+      "name": "Blues By Five - Rudy Van Gelder Remaster",
+      "url": "https://open.spotify.com/track/06HwBSKPrMyC6HdiEMeKNX"
+    },
+    {
+      "added_at": "2020-10-12 18:15:54",
+      "album": {
+        "name": "Kelly Blue (Keepnews Collection)",
+        "url": "https://open.spotify.com/album/0mgUrEyxaymxq5hCKqNQ9B"
+      },
+      "artists": [
+        {
+          "name": "Wynton Kelly",
+          "url": "https://open.spotify.com/artist/5ncBRFyyylFng7kQJaRXN0"
+        }
+      ],
+      "duration_ms": 650466,
+      "name": "Kelly Blue",
+      "url": "https://open.spotify.com/track/2w2S61Es3uLMVHE41u1pev"
     },
     {
       "added_at": "2020-10-12 18:15:54",

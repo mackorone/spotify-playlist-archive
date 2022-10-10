@@ -1,12 +1,12 @@
 {
   "description": "Classic blues for a blue summer day.",
-  "num_followers": 14283,
+  "num_followers": 14304,
   "original_name": "Summertime Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU4ODU4NDcyMywwMDAwMDAwMGY0MGI3ZTE5MDQzZjJiZTM5M2VkYmZkOTc2ZjcwYjdl",
+  "snapshot_id": "MTU4ODU4NDcyMywwMDAwMDAwMDM3ZTlkNTVkMWZjNDk1MTQ2MWQxZTg3NWU0OWFmYmU5",
   "tracks": [
     {
       "added_at": "2020-05-03 08:57:28",
@@ -27,22 +27,6 @@
     {
       "added_at": "2020-05-03 08:57:28",
       "album": {
-        "name": "At Last!",
-        "url": "https://open.spotify.com/album/7rd4PorIOPjPTy7qdUeeCt"
-      },
-      "artists": [
-        {
-          "name": "Etta James",
-          "url": "https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb"
-        }
-      ],
-      "duration_ms": 185626,
-      "name": "I Just Want To Make Love To You - Single Version",
-      "url": "https://open.spotify.com/track/3QnHWkNMY2mpy494Bis0ly"
-    },
-    {
-      "added_at": "2020-05-03 08:57:28",
-      "album": {
         "name": "Completely Well",
         "url": "https://open.spotify.com/album/7gzkgAWjOjEf5o6sIvBvT1"
       },
@@ -59,18 +43,18 @@
     {
       "added_at": "2020-05-03 08:57:28",
       "album": {
-        "name": "More Real Folk Blues",
-        "url": "https://open.spotify.com/album/5KTyzShPViB2hPWgzkCunV"
+        "name": "At Last!",
+        "url": "https://open.spotify.com/album/7rd4PorIOPjPTy7qdUeeCt"
       },
       "artists": [
         {
-          "name": "Sonny Boy Williamson II",
-          "url": "https://open.spotify.com/artist/69VgCcXFV59QuQWEXSTxfK"
+          "name": "Etta James",
+          "url": "https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb"
         }
       ],
-      "duration_ms": 188200,
-      "name": "Help Me",
-      "url": "https://open.spotify.com/track/5bC6ONDsL88snGN6QasjZH"
+      "duration_ms": 185626,
+      "name": "I Just Want To Make Love To You - Single Version",
+      "url": "https://open.spotify.com/track/3QnHWkNMY2mpy494Bis0ly"
     },
     {
       "added_at": "2020-05-03 08:57:28",
@@ -87,6 +71,22 @@
       "duration_ms": 204333,
       "name": "Going Down",
       "url": "https://open.spotify.com/track/2wnjZXcAT3rCjjqxLeHjv7"
+    },
+    {
+      "added_at": "2020-05-03 08:57:28",
+      "album": {
+        "name": "More Real Folk Blues",
+        "url": "https://open.spotify.com/album/5KTyzShPViB2hPWgzkCunV"
+      },
+      "artists": [
+        {
+          "name": "Sonny Boy Williamson II",
+          "url": "https://open.spotify.com/artist/69VgCcXFV59QuQWEXSTxfK"
+        }
+      ],
+      "duration_ms": 188200,
+      "name": "Help Me",
+      "url": "https://open.spotify.com/track/5bC6ONDsL88snGN6QasjZH"
     },
     {
       "added_at": "2020-05-03 08:57:28",
@@ -235,6 +235,22 @@
     {
       "added_at": "2020-05-03 08:57:28",
       "album": {
+        "name": "The Real Folk Blues",
+        "url": "https://open.spotify.com/album/02H7GlBPL5ur7WBXHna8W0"
+      },
+      "artists": [
+        {
+          "name": "Howlin' Wolf",
+          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
+        }
+      ],
+      "duration_ms": 172826,
+      "name": "Killing Floor",
+      "url": "https://open.spotify.com/track/1a8vVeidOsauNu6rQmHBRS"
+    },
+    {
+      "added_at": "2020-05-03 08:57:28",
+      "album": {
         "name": "Bad News Is Coming",
         "url": "https://open.spotify.com/album/7wTiVd5wU0aFVXxceOsvHT"
       },
@@ -247,6 +263,22 @@
       "duration_ms": 445533,
       "name": "Bad News Is Coming",
       "url": "https://open.spotify.com/track/1TRIYxcVJYPki5AX2hZzZT"
+    },
+    {
+      "added_at": "2020-05-03 08:57:28",
+      "album": {
+        "name": "Blues Ballads",
+        "url": "https://open.spotify.com/album/1nTzKUnHcWvrDDWxvuUYbi"
+      },
+      "artists": [
+        {
+          "name": "LaVern Baker",
+          "url": "https://open.spotify.com/artist/0V6zo2mJw9FdwWLClKC9yw"
+        }
+      ],
+      "duration_ms": 114946,
+      "name": "Love Me Right",
+      "url": "https://open.spotify.com/track/5cdHRbjhYzNUSvzWWDfKcC"
     },
     {
       "added_at": "2020-05-03 08:57:28",
@@ -283,38 +315,6 @@
     {
       "added_at": "2020-05-03 08:57:28",
       "album": {
-        "name": "The Real Folk Blues",
-        "url": "https://open.spotify.com/album/02H7GlBPL5ur7WBXHna8W0"
-      },
-      "artists": [
-        {
-          "name": "Howlin' Wolf",
-          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
-        }
-      ],
-      "duration_ms": 172826,
-      "name": "Killing Floor",
-      "url": "https://open.spotify.com/track/1a8vVeidOsauNu6rQmHBRS"
-    },
-    {
-      "added_at": "2020-05-03 08:57:28",
-      "album": {
-        "name": "Blues Ballads",
-        "url": "https://open.spotify.com/album/1nTzKUnHcWvrDDWxvuUYbi"
-      },
-      "artists": [
-        {
-          "name": "LaVern Baker",
-          "url": "https://open.spotify.com/artist/0V6zo2mJw9FdwWLClKC9yw"
-        }
-      ],
-      "duration_ms": 114946,
-      "name": "Love Me Right",
-      "url": "https://open.spotify.com/track/5cdHRbjhYzNUSvzWWDfKcC"
-    },
-    {
-      "added_at": "2020-05-03 08:57:28",
-      "album": {
         "name": "Chicago Bound",
         "url": "https://open.spotify.com/album/2FDltONvqb5rhPjNSWMupo"
       },
@@ -347,22 +347,6 @@
     {
       "added_at": "2020-05-03 08:57:28",
       "album": {
-        "name": "I Was Walking Through The Woods (Expanded Edition)",
-        "url": "https://open.spotify.com/album/0eE5l0Q2pRLlKsrt7sOEPk"
-      },
-      "artists": [
-        {
-          "name": "Buddy Guy",
-          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
-        }
-      ],
-      "duration_ms": 431853,
-      "name": "Stone Crazy",
-      "url": "https://open.spotify.com/track/5goa9CsIDXc9G0Df9dL9ft"
-    },
-    {
-      "added_at": "2020-05-03 08:57:28",
-      "album": {
         "name": "Poet Of the Blues (Mojo Workin'- Blues For The Next Generation)",
         "url": "https://open.spotify.com/album/5kOOtdwY3JI17osYqWEbnD"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 399173,
       "name": "I Can't Quit You Baby",
       "url": "https://open.spotify.com/track/2PcbVKT28p9mOlWBDL371J"
+    },
+    {
+      "added_at": "2020-05-03 08:57:28",
+      "album": {
+        "name": "I Was Walking Through The Woods (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0eE5l0Q2pRLlKsrt7sOEPk"
+      },
+      "artists": [
+        {
+          "name": "Buddy Guy",
+          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
+        }
+      ],
+      "duration_ms": 431853,
+      "name": "Stone Crazy",
+      "url": "https://open.spotify.com/track/5goa9CsIDXc9G0Df9dL9ft"
     },
     {
       "added_at": "2020-05-03 08:57:28",
@@ -459,6 +459,22 @@
     {
       "added_at": "2020-05-03 08:57:28",
       "album": {
+        "name": "Sings Raining In My Heart",
+        "url": "https://open.spotify.com/album/5DqktKLSuwx51XACoKu1Hg"
+      },
+      "artists": [
+        {
+          "name": "Slim Harpo",
+          "url": "https://open.spotify.com/artist/36hwOoNPgnsKnhoMBYpJrJ"
+        }
+      ],
+      "duration_ms": 182440,
+      "name": "I'm A King Bee",
+      "url": "https://open.spotify.com/track/2DbjWyRtXmbOGyN1C1Kdbp"
+    },
+    {
+      "added_at": "2020-05-03 08:57:28",
+      "album": {
         "name": "Texas Sensation",
         "url": "https://open.spotify.com/album/4umKoGiZh0ddpdQZHqTPVA"
       },
@@ -491,18 +507,18 @@
     {
       "added_at": "2020-05-03 08:57:28",
       "album": {
-        "name": "Sings Raining In My Heart",
-        "url": "https://open.spotify.com/album/5DqktKLSuwx51XACoKu1Hg"
+        "name": "The Chess Box",
+        "url": "https://open.spotify.com/album/182PeD4zms8Cup3oZcACOB"
       },
       "artists": [
         {
-          "name": "Slim Harpo",
-          "url": "https://open.spotify.com/artist/36hwOoNPgnsKnhoMBYpJrJ"
+          "name": "Muddy Waters",
+          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
         }
       ],
-      "duration_ms": 182440,
-      "name": "I'm A King Bee",
-      "url": "https://open.spotify.com/track/2DbjWyRtXmbOGyN1C1Kdbp"
+      "duration_ms": 172059,
+      "name": "Got My Mojo Working",
+      "url": "https://open.spotify.com/track/18n0zch7bRo453Iwq98xYf"
     },
     {
       "added_at": "2020-05-03 08:57:28",
@@ -523,22 +539,6 @@
     {
       "added_at": "2020-05-03 08:57:28",
       "album": {
-        "name": "The Chess Box",
-        "url": "https://open.spotify.com/album/182PeD4zms8Cup3oZcACOB"
-      },
-      "artists": [
-        {
-          "name": "Muddy Waters",
-          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
-        }
-      ],
-      "duration_ms": 172059,
-      "name": "Got My Mojo Working",
-      "url": "https://open.spotify.com/track/18n0zch7bRo453Iwq98xYf"
-    },
-    {
-      "added_at": "2020-05-03 08:57:28",
-      "album": {
         "name": "Deluxe Edition",
         "url": "https://open.spotify.com/album/0Jvj3KAEiuS4bAFiPmiNFH"
       },
@@ -551,22 +551,6 @@
       "duration_ms": 228200,
       "name": "Voodoo Woman",
       "url": "https://open.spotify.com/track/0nko6BnrANIqS303Ynl53p"
-    },
-    {
-      "added_at": "2020-05-03 08:57:28",
-      "album": {
-        "name": "Blues, Candy & Big Maybelle",
-        "url": "https://open.spotify.com/album/0fr2opmItHMvdy1N01XcLh"
-      },
-      "artists": [
-        {
-          "name": "Big Maybelle",
-          "url": "https://open.spotify.com/artist/7yJXicqUOMPY5Iofua29C0"
-        }
-      ],
-      "duration_ms": 155706,
-      "name": "That's A Pretty Good Love",
-      "url": "https://open.spotify.com/track/0rWLWREgsqvU5hC5nytLtN"
     },
     {
       "added_at": "2020-05-03 08:57:28",
@@ -587,6 +571,22 @@
       "duration_ms": 193560,
       "name": "Hideaway - Mono Instrumental",
       "url": "https://open.spotify.com/track/43FVOV48LHhXOhZ0t5picb"
+    },
+    {
+      "added_at": "2020-05-03 08:57:28",
+      "album": {
+        "name": "Blues, Candy & Big Maybelle",
+        "url": "https://open.spotify.com/album/0fr2opmItHMvdy1N01XcLh"
+      },
+      "artists": [
+        {
+          "name": "Big Maybelle",
+          "url": "https://open.spotify.com/artist/7yJXicqUOMPY5Iofua29C0"
+        }
+      ],
+      "duration_ms": 155706,
+      "name": "That's A Pretty Good Love",
+      "url": "https://open.spotify.com/track/0rWLWREgsqvU5hC5nytLtN"
     },
     {
       "added_at": "2020-05-03 08:57:28",
@@ -691,6 +691,22 @@
     {
       "added_at": "2020-05-03 08:57:28",
       "album": {
+        "name": "I Pity The Fool: The Duke Recordings, Vol. One",
+        "url": "https://open.spotify.com/album/58DNpB9P4aUKPtaTiZmjK6"
+      },
+      "artists": [
+        {
+          "name": "Bobby \"Blue\" Bland",
+          "url": "https://open.spotify.com/artist/48nwxUvPJZkm8uPa7xMzmj"
+        }
+      ],
+      "duration_ms": 177306,
+      "name": "Farther Up The Road",
+      "url": "https://open.spotify.com/track/2hPyG7NMpHAmOrmlSziAx2"
+    },
+    {
+      "added_at": "2020-05-03 08:57:28",
+      "album": {
         "name": "West Side Soul (Deluxe Edition)",
         "url": "https://open.spotify.com/album/2bonSc9cW7a0YcFBiH9naX"
       },
@@ -719,22 +735,6 @@
       "duration_ms": 197466,
       "name": "Lookin' Good",
       "url": "https://open.spotify.com/track/1Lw0Oi8JapLOIU8bfZV7PW"
-    },
-    {
-      "added_at": "2020-05-03 08:57:28",
-      "album": {
-        "name": "I Pity The Fool: The Duke Recordings, Vol. One",
-        "url": "https://open.spotify.com/album/58DNpB9P4aUKPtaTiZmjK6"
-      },
-      "artists": [
-        {
-          "name": "Bobby \"Blue\" Bland",
-          "url": "https://open.spotify.com/artist/48nwxUvPJZkm8uPa7xMzmj"
-        }
-      ],
-      "duration_ms": 177306,
-      "name": "Farther Up The Road",
-      "url": "https://open.spotify.com/track/2hPyG7NMpHAmOrmlSziAx2"
     },
     {
       "added_at": "2020-05-03 08:57:28",

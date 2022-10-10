@@ -1400,6 +1400,36 @@
     },
     {
       "album": {
+        "name": "November Songs",
+        "url": "https://open.spotify.com/album/1GRwT3QAIDEAmAUwmpv1TG"
+      },
+      "artists": [
+        {
+          "name": "Shadowlands",
+          "url": "https://open.spotify.com/artist/1qwYptsAoTdF79AffnMnpe"
+        },
+        {
+          "name": "Luke Laird",
+          "url": "https://open.spotify.com/artist/68TC0JwoMubeom8X4c7UVI"
+        },
+        {
+          "name": "Sandra McCracken",
+          "url": "https://open.spotify.com/artist/435UmkDo0uchwmDeHdKWGN"
+        },
+        {
+          "name": "Brett Taylor",
+          "url": "https://open.spotify.com/artist/1qw1LjONRwzcP0oFHuuPJy"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224591,
+      "name": "Let My Heart Be Moved",
+      "url": "https://open.spotify.com/track/2pESp2B7x0b0sAIJGoxZS9"
+    },
+    {
+      "album": {
         "name": "Chief",
         "url": "https://open.spotify.com/album/5dtw6CoMhbrSj01YUvdQOF"
       },

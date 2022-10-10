@@ -1135,7 +1135,7 @@
       ],
       "date_added": "2022-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-07",
       "duration_ms": 121904,
       "name": "Fetti",
       "url": "https://open.spotify.com/track/7EKvaYorWWn9ZyKMDjQvhi"
@@ -2119,7 +2119,7 @@
       ],
       "date_added": "2022-05-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-29",
+      "date_removed": null,
       "duration_ms": 148494,
       "name": "longwayhome",
       "url": "https://open.spotify.com/track/5xOVRRvIkoI6xqfSAXLMew"
@@ -2652,6 +2652,28 @@
     },
     {
       "album": {
+        "name": "The Chauncey Hollis Project",
+        "url": "https://open.spotify.com/album/0cda8nWy3lOWTGVYATsaeD"
+      },
+      "artists": [
+        {
+          "name": "Hit-Boy",
+          "url": "https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed"
+        },
+        {
+          "name": "Dom Kennedy",
+          "url": "https://open.spotify.com/artist/3s8alQfNnY0roAHaJh7Xxt"
+        }
+      ],
+      "date_added": "2022-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195348,
+      "name": "Nominated",
+      "url": "https://open.spotify.com/track/2qSyFWqgSms1CNj6Iyg6kn"
+    },
+    {
+      "album": {
         "name": "On Read",
         "url": "https://open.spotify.com/album/5ZV2mOXze7s9k3PA8kGMve"
       },
@@ -2975,7 +2997,7 @@
       ],
       "date_added": "2022-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-05",
       "duration_ms": 182124,
       "name": "RAT RACE",
       "url": "https://open.spotify.com/track/236H3YkhvEVYG5BRMyiKr2"

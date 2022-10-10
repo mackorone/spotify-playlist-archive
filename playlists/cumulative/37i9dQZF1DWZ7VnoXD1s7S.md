@@ -4,11 +4,12 @@
 
 > no\-clip out of <a href="https://en.wikipedia.org/wiki/The\_Backrooms">reality</a>.
 
-74 songs - 3 hr 27 min - [published](https://open.spotify.com/playlist/6dPjrd3A0KFEWg2AfbxWij)
+75 songs - 3 hr 30 min - [published](https://open.spotify.com/playlist/6dPjrd3A0KFEWg2AfbxWij)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [13 Angels Standing Guard 'Round The Side Of Your Bed](https://open.spotify.com/track/7jbLjvNlKbfCRUoFWKo5TR) | [Silver Mt\. Zion](https://open.spotify.com/artist/0bRpSBtMd3stO4J6TWclMb) | [He Has Left Us Alone But Shafts Of Light Sometimes Grace The Corner Of Our Rooms](https://open.spotify.com/album/298tKa2DPLT9GNmY8vsvLj) | 7:22 | 2022-08-22 | 2022-09-21 |
+| [\[Untitled\]](https://open.spotify.com/track/2qQjc7iFLNkyKm9GeetnDJ) | [Nuno Canavarro](https://open.spotify.com/artist/1Af916mBj2FbJyBEB3U13b) | [Plux Quba](https://open.spotify.com/album/5RXy2dzARyTcyXn4Vwomzr) | 2:45 | 2022-10-03 |  |
 | [A Burning Memory](https://open.spotify.com/track/5p6VPBwZsP3q6shk54Jc0n) | [Reece Moseley](https://open.spotify.com/artist/0m2hCGAmJdkSFBXzrD3vNE) | [Mist](https://open.spotify.com/album/73kfSMiQB5qRFkG9Rdvggl) | 3:09 | 2022-08-22 |  |
 | [All I Need](https://open.spotify.com/track/0FLFE8mxBn1yWAX8s2L8ru) | [Clams Casino](https://open.spotify.com/artist/5vSQUyT33qxr1xAX2Tkf3A) | [Instrumentals](https://open.spotify.com/album/1qeXFTaqknEjieQD8my4Hr) | 3:44 | 2022-08-22 | 2022-09-21 |
 | [backroom labyrinth](https://open.spotify.com/track/0HRk2U8OCDkS2asQEt22wf) | [Oliver Buckland](https://open.spotify.com/artist/3anMc1UITbY6dg3XIdip5b) | [backroom labyrinth](https://open.spotify.com/album/5gQk4x96WeNGcnwLMj8Wlk) | 2:48 | 2022-08-22 | 2022-08-24 |

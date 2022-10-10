@@ -145,7 +145,7 @@
       ],
       "date_added": "2022-09-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-01",
+      "date_removed": "2022-10-08",
       "duration_ms": 98866,
       "name": "Art Official",
       "url": "https://open.spotify.com/track/1d51f4Xw1FjpwVTC8gsAHk"
@@ -289,7 +289,7 @@
       ],
       "date_added": "2022-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-05",
       "duration_ms": 128946,
       "name": "DNA",
       "url": "https://open.spotify.com/track/5OHvfgN01RehNXl84nT9Pa"
@@ -325,10 +325,28 @@
       ],
       "date_added": "2022-09-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-30",
+      "date_removed": null,
       "duration_ms": 136830,
       "name": "Exit Row",
       "url": "https://open.spotify.com/track/0gUiVIie3uU4zKNwtjSmZE"
+    },
+    {
+      "album": {
+        "name": "Parting the Sea Between Brightness and Me",
+        "url": "https://open.spotify.com/album/3IcaDZx8NwboAOJItYq6lh"
+      },
+      "artists": [
+        {
+          "name": "Touch\u00e9 Amor\u00e9",
+          "url": "https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB"
+        }
+      ],
+      "date_added": "2022-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140986,
+      "name": "Face Ghost",
+      "url": "https://open.spotify.com/track/6W6I5rGZstGt35nJvRpWK2"
     },
     {
       "album": {
@@ -383,7 +401,7 @@
       ],
       "date_added": "2022-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-05",
       "duration_ms": 140821,
       "name": "Game of Pricks",
       "url": "https://open.spotify.com/track/38273IlTEes0F91y4R2PZE"
@@ -819,7 +837,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-09",
       "duration_ms": 176242,
       "name": "Savoring",
       "url": "https://open.spotify.com/track/78PPN8ZdlhotO6wvNaA9IV"
@@ -844,6 +862,24 @@
     },
     {
       "album": {
+        "name": "Is Survived By",
+        "url": "https://open.spotify.com/album/2Qs1H2KjF6Bk2lSgFjQpOj"
+      },
+      "artists": [
+        {
+          "name": "Touch\u00e9 Amor\u00e9",
+          "url": "https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB"
+        }
+      ],
+      "date_added": "2022-10-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-07",
+      "duration_ms": 183533,
+      "name": "Social Caterpillar",
+      "url": "https://open.spotify.com/track/3ST2MhuSUaSbDv9G4edwDU"
+    },
+    {
+      "album": {
         "name": "Stage Four (Deluxe Edition)",
         "url": "https://open.spotify.com/album/6KiS2t3EapTmHSt9xGUqe7"
       },
@@ -855,7 +891,7 @@
       ],
       "date_added": "2022-09-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-21",
+      "date_removed": "2022-10-07",
       "duration_ms": 115946,
       "name": "Softer Spoken",
       "url": "https://open.spotify.com/track/7aoOy4QXKGhecDODluw2c6"
@@ -873,7 +909,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-02",
+      "date_removed": null,
       "duration_ms": 158480,
       "name": "Steps",
       "url": "https://open.spotify.com/track/66tkJursjOgAkQ94z7Vtn5"
@@ -945,7 +981,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-07",
       "duration_ms": 140080,
       "name": "Throwing Copper (Anniversary Version)",
       "url": "https://open.spotify.com/track/15kxOx6AWB1BzmuBiflGGp"
@@ -981,7 +1017,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-09",
       "duration_ms": 66226,
       "name": "Uppers / Downers",
       "url": "https://open.spotify.com/track/047jxhoDnbSg8mviStkR0Z"

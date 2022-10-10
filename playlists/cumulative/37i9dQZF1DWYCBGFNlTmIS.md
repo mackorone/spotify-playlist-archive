@@ -4,7 +4,7 @@
 
 > 生命中有各種離別時刻，在告別前，你會點播那一首歌給那位聽？
 
-84 songs - 5 hr 35 min - [published](https://open.spotify.com/playlist/1af8ylc64pqspENKOOMB8c)
+85 songs - 5 hr 38 min - [published](https://open.spotify.com/playlist/1af8ylc64pqspENKOOMB8c)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,7 +79,8 @@
 | [背山望海離不開 \(Live\)](https://open.spotify.com/track/1aPcUstxFJaBRRgrUrwSt9) | [Kay Tse](https://open.spotify.com/artist/6XtWdWAC7rNqXwbs8hGqP9), [Room307](https://open.spotify.com/artist/0DlQgBmj0XzrSsOknlxUHw) | [背山望海離不開 \(Live\)](https://open.spotify.com/album/2nFpKxx7b9kRx3JvsAAkZd) | 6:45 | 2022-01-13 |  |
 | [誰能明白我](https://open.spotify.com/track/07Qp5JcnS1gCfFbOzdyOWU) | [George Lam](https://open.spotify.com/artist/7rxRHujzUzobMEbtoE297s) | [最愛 40 \- Beloved 40](https://open.spotify.com/album/4KH6yrlyQ7PgJzy3HHxEwB) | 3:22 | 2022-01-13 |  |
 | [返屋企](https://open.spotify.com/track/7Ep3R67pdK7SSGTKJQIaAT) | [LMF](https://open.spotify.com/artist/65epDBv5elxypoA07rXg29) | [Crazy Children \(2nd Version\)](https://open.spotify.com/album/0HlPIzA2LwiGH0m8dgsynt) | 5:00 | 2022-01-13 |  |
-| [逐個逐個](https://open.spotify.com/track/1yQwV08EuKDeAcV9HHL4Gd) | [Jan Curious](https://open.spotify.com/artist/1DxU7yGnE1XPeLYzOHdKSy) | [亞水](https://open.spotify.com/album/5BIynFkSbcq2esNGgH4YwO) | 3:17 | 2022-04-13 |  |
+| [逐個逐個](https://open.spotify.com/track/1yQwV08EuKDeAcV9HHL4Gd) | [Jan Curious](https://open.spotify.com/artist/1DxU7yGnE1XPeLYzOHdKSy) | [亞水](https://open.spotify.com/album/5BIynFkSbcq2esNGgH4YwO) | 3:17 | 2022-04-13 | 2022-10-10 |
+| [逐個逐個](https://open.spotify.com/track/2m1oTvhKULLdLHKNRCKp3J) | [Jan Curious](https://open.spotify.com/artist/1DxU7yGnE1XPeLYzOHdKSy) | [亞水](https://open.spotify.com/album/3Tq4VEvtEoMpG3qh8fR145) | 3:17 | 2022-04-13 |  |
 | [過客別墅](https://open.spotify.com/track/5JSjWeWojWIEP6jLjPrqON) | [Hins Cheung](https://open.spotify.com/artist/2MVfNjocvNrE03cQuxpsWK) | [過客別墅](https://open.spotify.com/album/0dM0tnmzxRo7gDpNy2u09U) | 4:32 | 2022-01-13 |  |
 | [還有48小時](https://open.spotify.com/track/2zwtWWdKR4d2pw6upUlox0) | [C AllStar](https://open.spotify.com/artist/0ip5ivJzpy0v4DWVVKxc4D) | [還有48小時](https://open.spotify.com/album/5c8mB5gW8mQvYQdmQFrnXJ) | 4:07 | 2022-01-13 |  |
 | [那邊見](https://open.spotify.com/track/7sFMX70IkeDA7O9zM6qd9l) | [Swing](https://open.spotify.com/artist/6LdLJ6nh1qFyveuaXwxdXQ) | [Swing 到盡](https://open.spotify.com/album/1ynk9pR2lVVN0yOi8i8Rr6) | 4:13 | 2022-01-13 |  |

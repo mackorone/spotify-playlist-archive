@@ -4,7 +4,7 @@
 
 > Sweet lullabies on guitar for little dreamers.
 
-122 songs - 4 hr 14 min - [published](https://open.spotify.com/playlist/0w5GCTe5oFicPO0HaemBhO)
+123 songs - 4 hr 16 min - [published](https://open.spotify.com/playlist/0w5GCTe5oFicPO0HaemBhO)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,7 +53,8 @@
 | [Golden Slumbers](https://open.spotify.com/track/0clBn1cAI0fdRLrZYgt7NE) | [Nippy Naps](https://open.spotify.com/artist/0qN4BVnmOvXHzKLEVAfL3a) | [Golden Slumbers](https://open.spotify.com/album/5vYQUfJWTIbxYTxQ5Wezui) | 1:51 | 2021-11-11 |  |
 | [Good Night Hug](https://open.spotify.com/track/5wiOuGEIWtgcBrt134k4lF) | [Bella Wonder](https://open.spotify.com/artist/4anNtmalUlxmPp1vCwLS8a) | [Good Night Hug](https://open.spotify.com/album/4S6vHbsrpruKvkyQBqB4yD) | 1:56 | 2021-11-11 |  |
 | [Goodnight Mr Bear](https://open.spotify.com/track/55LyKRj9oRi4HVHJsILhDf) | [Espen Knuts](https://open.spotify.com/artist/0Fw24xJ3unietYYhx6jcwS) | [Goodnight Mr Bear](https://open.spotify.com/album/5jBxQMaffyQjCA7TmFJ8Fi) | 1:50 | 2021-11-11 |  |
-| [Gymnopedie No\. 1](https://open.spotify.com/track/0GPd82b6UWTpAxl6qk2Zic) | [The Lullaby Minstrel](https://open.spotify.com/artist/5jvlg5xpRicJbcuvyZx1Kb) | [Gentle Guitar Lullabies for Sleep: Soothing Melodies to Calm Your Children for Bedtime](https://open.spotify.com/album/7fhZEguQ78stjH3Qf8uma2) | 1:51 | 2021-11-11 |  |
+| [Gymnopedie No\. 1](https://open.spotify.com/track/0GPd82b6UWTpAxl6qk2Zic) | [The Lullaby Minstrel](https://open.spotify.com/artist/5jvlg5xpRicJbcuvyZx1Kb) | [Gentle Guitar Lullabies for Sleep: Soothing Melodies to Calm Your Children for Bedtime](https://open.spotify.com/album/7fhZEguQ78stjH3Qf8uma2) | 1:51 | 2021-11-11 | 2022-10-08 |
+| [Gymnopedie No\. 1](https://open.spotify.com/track/2RNTTudMu6XvPUDuYJFdvW) | [The Lullaby Minstrel](https://open.spotify.com/artist/5jvlg5xpRicJbcuvyZx1Kb) | [Gentle Guitar Lullabies for Sleep: Soothing Melodies to Calm Your Children for Bedtime](https://open.spotify.com/album/4hzafnxDtzvzQd3oZIulHU) | 1:51 | 2022-09-22 |  |
 | [Hot Cross Buns](https://open.spotify.com/track/2ASy1nwrKUW7ABUwS7e5HF) | [The Magic Guitar](https://open.spotify.com/artist/2lETErpujLR6ngyVsrSj2v) | [Hickory Dickory Dock](https://open.spotify.com/album/3WbnWHxYO9nEhsLd2Y13cV) | 2:35 | 2022-01-21 |  |
 | [Humpty Dumpty](https://open.spotify.com/track/7uOmSCgwje1TQsMKDHx8ci) | [Micci Rogers](https://open.spotify.com/artist/5ne1I2oi3j1HJTWK2Luk9z) | [Lavender's Blue](https://open.spotify.com/album/7iNFN6AA89RPAG0Vrvwqkh) | 2:16 | 2022-01-21 |  |
 | [Humpty Dumpty \- Guitar Version](https://open.spotify.com/track/1bw4NIIPZeNLPgP7zEPRJ3) | [Nursery Rhymes Loulou and Lou](https://open.spotify.com/artist/4a7qFKjbjVWXmF8U8Hx5Ko), [Baby Lullabies Baby Music](https://open.spotify.com/artist/0zT3lQaHhMCd1uN5LQSHnC), [Little Baby Music](https://open.spotify.com/artist/62dWrY8RsBqou3RoubeTRa) | [Baby Lullabies Guitar Music](https://open.spotify.com/album/3ZRvviLe9ei9HbwtmXv7jZ) | 0:52 | 2021-11-11 | 2022-01-22 |

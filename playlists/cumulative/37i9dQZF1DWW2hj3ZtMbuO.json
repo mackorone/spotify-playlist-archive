@@ -401,7 +401,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-07",
       "duration_ms": 202219,
       "name": "Bad Thing",
       "url": "https://open.spotify.com/track/4jqxfm3BEhHPJ4awPsQ3Sl"
@@ -999,7 +999,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 282400,
       "name": "Deep Sea",
       "url": "https://open.spotify.com/track/2XahOyXiU6o0ODpsINxG0B"
@@ -1183,6 +1183,24 @@
       "duration_ms": 307013,
       "name": "Everyday",
       "url": "https://open.spotify.com/track/2VYqgye3Wf9ySE4qYM3iJn"
+    },
+    {
+      "album": {
+        "name": "F.O.O.F.",
+        "url": "https://open.spotify.com/album/5i5HuSf0QVHoyeWIcJxP3Z"
+      },
+      "artists": [
+        {
+          "name": "Frankie Cosmos",
+          "url": "https://open.spotify.com/artist/0x4xCoWaOFd3WsKarzaxnW"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128384,
+      "name": "F.O.O.F.",
+      "url": "https://open.spotify.com/track/2Yo3BxnzxMeWkvTx1QKBo9"
     },
     {
       "album": {
@@ -1511,7 +1529,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-07",
       "duration_ms": 236350,
       "name": "Girls Like You",
       "url": "https://open.spotify.com/track/2PyQEokiumnwdhRfUBJmEv"
@@ -1569,6 +1587,24 @@
       "duration_ms": 190188,
       "name": "gold star",
       "url": "https://open.spotify.com/track/3YHoMklQkLBN3F64kRnVRx"
+    },
+    {
+      "album": {
+        "name": "Hot Mess",
+        "url": "https://open.spotify.com/album/6yvRliUS1i3Dxro7UckrHO"
+      },
+      "artists": [
+        {
+          "name": "dodie",
+          "url": "https://open.spotify.com/artist/21TinSsF5ytwsfdyz5VSVS"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202435,
+      "name": "Got Weird",
+      "url": "https://open.spotify.com/track/3sTZqO3R6OT1SSScoaL1U6"
     },
     {
       "album": {
@@ -2463,7 +2499,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-07",
       "duration_ms": 190692,
       "name": "Loose Garment",
       "url": "https://open.spotify.com/track/1CE5yIkftpwJ3dhtfc3ndl"
@@ -2953,7 +2989,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-07",
       "duration_ms": 116483,
       "name": "No Face",
       "url": "https://open.spotify.com/track/0uLlFekr8nKMj960xHKPYx"
@@ -3299,7 +3335,7 @@
       ],
       "date_added": "2022-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-07",
       "duration_ms": 306440,
       "name": "Possibility",
       "url": "https://open.spotify.com/track/39Odj4vLKRarATkCA31gaW"
@@ -4103,7 +4139,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-16",
+      "date_removed": null,
       "duration_ms": 207720,
       "name": "Talia",
       "url": "https://open.spotify.com/track/53jbdPQBaH6WaQvW0zmGBs"
@@ -4615,7 +4651,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-25",
+      "date_removed": null,
       "duration_ms": 184153,
       "name": "we fell in love in october",
       "url": "https://open.spotify.com/track/1BYZxKSf0aTxp8ZFoeyM3d"

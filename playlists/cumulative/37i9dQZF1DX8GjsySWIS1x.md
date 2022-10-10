@@ -4,7 +4,7 @@
 
 > The latest in gamer music.
 
-753 songs - 1 day 17 hr 54 min - [published](https://open.spotify.com/playlist/2JpGV57sJHq5GKNwF0vuUD)
+754 songs - 1 day 17 hr 58 min - [published](https://open.spotify.com/playlist/2JpGV57sJHq5GKNwF0vuUD)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -302,6 +302,7 @@
 | [Halo](https://open.spotify.com/track/4xbrgqQF8bzy22K8JhtFM9) | [Martin O'Donnell](https://open.spotify.com/artist/5oERdzrfb6kmNMzPNINZib), [Michael Salvatori](https://open.spotify.com/artist/7Ir0wjCeuhkHUyPAfNJi2X) | [Halo: Combat Evolved \(Original Soundtrack\)](https://open.spotify.com/album/78tWR5P0I53edR7PeXpDfF) | 4:22 | 2021-11-16 | 2022-04-28 |
 | [Halo Theme \- Mjolnir Mix](https://open.spotify.com/track/3qTlLb4rAPvpiR84Tyk3xA) | [Martin O'Donnell](https://open.spotify.com/artist/5oERdzrfb6kmNMzPNINZib), [Michael Salvatori](https://open.spotify.com/artist/7Ir0wjCeuhkHUyPAfNJi2X) | [Halo 2 Volume 1: Original Soundtrack](https://open.spotify.com/album/0RItIZR9MqkKUigSjKEpyL) | 4:11 | 2019-09-29\* | 2021-03-14 |
 | [Halo Theme Gungnir Mix \(feat\. Steve Vai\)](https://open.spotify.com/track/34xc1dojd9WPO76ZabmfQP) | [Paul Lipson](https://open.spotify.com/artist/4fnFOZI8IZ2fWJzi4GeoCy), [Lennie Moore](https://open.spotify.com/artist/4jhqmfdj5qiutSpoXgiIMo), [Tom Salta](https://open.spotify.com/artist/0KFl3wbs0hvoKlKDPcXODj), [Brian Trifon](https://open.spotify.com/artist/5roHoQDH1kb3zzN0bwssLq), [Brian Lee White](https://open.spotify.com/artist/7LakJrf2SSmt2Dk747CphC), [Steve Vai](https://open.spotify.com/artist/32Jb1X3wSmmoHj2epZReZA) | [Halo 2 Anniversary Original Soundtrack](https://open.spotify.com/album/0d3WYvJcvTr8nvsISzHF0w) | 4:15 | 2019-09-29\* | 2021-03-11 |
+| [happy](https://open.spotify.com/track/0exExEyKJnVIwgF8MyHVNP) | [LilyPichu](https://open.spotify.com/artist/6maAVJxVTGW1xA3LokpQm8) | [happy](https://open.spotify.com/album/7HHWePvIYmj0qGCvfSlzwj) | 3:36 | 2022-10-04 |  |
 | [HARLEY](https://open.spotify.com/track/3Gr5Ss7kUhPE6MecejKZTB) | [Orrin](https://open.spotify.com/artist/57MSCk9ocHFyzO9phFgPt0) | [NO ADLIB](https://open.spotify.com/album/01JM6u0oehM9D9UOoeYjGo) | 1:57 | 2021-04-05 | 2021-04-06 |
 | [He](https://open.spotify.com/track/6ysRK6One7O5GiRVvrs0x1) | [Jai Paul](https://open.spotify.com/artist/53wZLCnhshZKDRs3uopFBc) | [Do You Love Her Now / He](https://open.spotify.com/album/6DnxZc9FT5qSMKKFDdviO2) | 4:28 | 2021-05-22 | 2021-10-22 |
 | [He's a Pirate](https://open.spotify.com/track/08QaHlMPWuO5PUxjl61bXn) | [Klaus Badelt](https://open.spotify.com/artist/03GruNQP8X25PCoWzdvIGZ) | [Pirates of the Caribbean: The Curse of the Black Pearl \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4Qe057XqKloVNhnPohj6Yo) | 1:30 | 2020-06-12 | 2021-03-14 |

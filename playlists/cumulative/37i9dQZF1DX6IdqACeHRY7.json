@@ -1160,6 +1160,24 @@
     },
     {
       "album": {
+        "name": "Ivory",
+        "url": "https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv"
+      },
+      "artists": [
+        {
+          "name": "Omar Apollo",
+          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216680,
+      "name": "Evergreen (You Didn\u2019t Deserve Me At All)",
+      "url": "https://open.spotify.com/track/2TktkzfozZifbQhXjT6I33"
+    },
+    {
+      "album": {
         "name": "Everywhere",
         "url": "https://open.spotify.com/album/5v9oN5sH5EU1ps44izmjBk"
       },
@@ -2815,7 +2833,7 @@
       },
       "artists": [
         {
-          "name": "SHY Martin",
+          "name": "shy martin",
           "url": "https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM"
         }
       ],
@@ -3073,7 +3091,7 @@
       ],
       "date_added": "2021-01-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 212051,
       "name": "Lying To Yourself",
       "url": "https://open.spotify.com/track/7jpLx7Y8GCLvXwSQZ6qhQf"
@@ -3695,7 +3713,7 @@
       },
       "artists": [
         {
-          "name": "SHY Martin",
+          "name": "shy martin",
           "url": "https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM"
         }
       ],
@@ -4231,7 +4249,7 @@
       ],
       "date_added": "2020-10-06",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 237857,
       "name": "Scars To Your Beautiful",
       "url": "https://open.spotify.com/track/19f6MVdX9dLFerHynoM5im"
@@ -4267,7 +4285,7 @@
       ],
       "date_added": "2022-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-07",
       "duration_ms": 219012,
       "name": "Silence",
       "url": "https://open.spotify.com/track/0Q1QQ3R3s6VbX7ZB8shmvp"
@@ -4454,6 +4472,24 @@
     },
     {
       "album": {
+        "name": "Something in the Orange",
+        "url": "https://open.spotify.com/album/1CmTOKCeyz1aHH04OwvTPv"
+      },
+      "artists": [
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228013,
+      "name": "Something in the Orange",
+      "url": "https://open.spotify.com/track/3WMj8moIAXJhHsyLaqIIHI"
+    },
+    {
+      "album": {
         "name": "Sorry (Live)",
         "url": "https://open.spotify.com/album/5wg6xwIm3iM5Fy1Et1KJH4"
       },
@@ -4535,7 +4571,7 @@
       },
       "artists": [
         {
-          "name": "SHY Martin",
+          "name": "shy martin",
           "url": "https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM"
         },
         {
@@ -4779,7 +4815,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-03",
       "duration_ms": 199133,
       "name": "The Best You Had - Acoustic Version",
       "url": "https://open.spotify.com/track/3DUuf2LE8BBuWZUFuwFGkf"
@@ -5631,7 +5667,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-02",
+      "date_removed": null,
       "duration_ms": 283696,
       "name": "What Am I Here For",
       "url": "https://open.spotify.com/track/5qLAeqSwTN5Cdrpjs6TnG6"
@@ -6009,7 +6045,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-07",
       "duration_ms": 212933,
       "name": "You Give Me Something",
       "url": "https://open.spotify.com/track/28euH5Ny1JXxZAt2KjWp62"

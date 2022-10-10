@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "O batid\u00e3o dos funks mais bombados pra agitar a pista do seu baile!",
+  "description": "O batid\u00e3o dos funks mais bombados pra agitar a pista do seu baile! Foto: Mc Jacar\u00e9",
   "name": "Segue o Baile",
   "published_playlist_ids": [
     "0gFxWIMRmT9sGRD0RQtCOA"
@@ -345,7 +345,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-19",
+      "date_removed": null,
       "duration_ms": 108987,
       "name": "Bota pra Tremer - Remix",
       "url": "https://open.spotify.com/track/7mxJfqH9F3GmgS0YbaKzUA"
@@ -1075,7 +1075,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 232255,
       "name": "Lelalaue",
       "url": "https://open.spotify.com/track/3NBeihcw8SR7rXI0Amd6LH"
@@ -2099,6 +2099,28 @@
       "duration_ms": 188388,
       "name": "Vem Me Satisfazer",
       "url": "https://open.spotify.com/track/63SHcJzckFykS8faA5zojY"
+    },
+    {
+      "album": {
+        "name": "Vento Forte",
+        "url": "https://open.spotify.com/album/6eqgOX2XCH1I0LdJIMtMtT"
+      },
+      "artists": [
+        {
+          "name": "Mc Jacare\u0301",
+          "url": "https://open.spotify.com/artist/6qrqAYlS6lUj2BVXax7SZW"
+        },
+        {
+          "name": "Dj Tk",
+          "url": "https://open.spotify.com/artist/0mfeoleda752Uj4JbEZDIN"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123711,
+      "name": "Vento Forte",
+      "url": "https://open.spotify.com/track/5PSkF3QpVMlAx8U5Inxj39"
     },
     {
       "album": {

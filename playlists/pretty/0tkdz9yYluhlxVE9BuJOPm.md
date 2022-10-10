@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0tkdz9yYluhlxVE9BuJOPm.md) - [plain]
 
 > A collection of live, exclusive performances from the most exciting artists in the world.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,478 likes - 397 songs - 1 day 1 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,477 likes - 397 songs - 1 day 1 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

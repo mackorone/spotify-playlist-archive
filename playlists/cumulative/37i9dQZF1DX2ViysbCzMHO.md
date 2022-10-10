@@ -4,7 +4,7 @@
 
 > Acoustic country songs from the heart of Nashville \- stripped down to the basics.
 
-196 songs - 10 hr 50 min - [published](https://open.spotify.com/playlist/4Z4CwXpklCxiou1hH4tneE)
+197 songs - 10 hr 54 min - [published](https://open.spotify.com/playlist/4Z4CwXpklCxiou1hH4tneE)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -124,7 +124,7 @@
 | [Next Girl \- Live](https://open.spotify.com/track/2ooUIGpVzp1ShWDUnc1CPa) | [Carly Pearce](https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72) | [Next Girl \(Live\)](https://open.spotify.com/album/6Tlu6gZUgwBuSlrcSsxH44) | 2:43 | 2021-12-17 | 2022-07-27 |
 | [No Daylight](https://open.spotify.com/track/1TPLR8pO3aE6KnG2Wj7SmO) | [Caroline Jones](https://open.spotify.com/artist/3xl6isKUFqJNui79kpdT0Y) | [No Daylight](https://open.spotify.com/album/0Olp5J32pg0Gcq1GDDUzKj) | 4:15 | 2021-12-17 | 2022-07-29 |
 | [No Now](https://open.spotify.com/track/6QqXvIQk3T9jLQq6aSynAU) | [Cassadee Pope](https://open.spotify.com/artist/7ahuvq1mbb4idwG1iJbSFG) | [Thrive](https://open.spotify.com/album/403UrghdFYpOMzKF1QfYzQ) | 3:37 | 2021-12-17 | 2022-07-19 |
-| [Not Supposed To Know Each Other \(Sad Version\)](https://open.spotify.com/track/6v6niH1eUT1B58fX1wTn4l) | [Taylor Edwards](https://open.spotify.com/artist/2LMvoFcHZ0G38iO4Jra8ki) | [Not Supposed To Know Each Other \(Sad Version\)](https://open.spotify.com/album/00zKd4qk05rhksfR7qhlgr) | 2:44 | 2022-03-11 |  |
+| [Not Supposed To Know Each Other \(Sad Version\)](https://open.spotify.com/track/6v6niH1eUT1B58fX1wTn4l) | [Taylor Edwards](https://open.spotify.com/artist/2LMvoFcHZ0G38iO4Jra8ki) | [Not Supposed To Know Each Other \(Sad Version\)](https://open.spotify.com/album/00zKd4qk05rhksfR7qhlgr) | 2:44 | 2022-03-11 | 2022-10-08 |
 | [Nothing's Better \(stripped\)](https://open.spotify.com/track/7LrZr7EXh5KRqE9s6Tl1Te) | [Filmore](https://open.spotify.com/artist/0FvJm0y2eHw0aPkLLU3sIG) | [Nothing's Better \(stripped\)](https://open.spotify.com/album/330eJ14qrFWqFF3gcKgs1r) | 3:01 | 2021-12-17 | 2022-07-29 |
 | [One Of These Days \- sad piano version](https://open.spotify.com/track/6y9Zf5yNGmLPOQhjUuAAP9) | [Sophia Scott](https://open.spotify.com/artist/3lNLsfeVJSiSyjk2tXnPAp) | [One Of These Days \(sad piano version\)](https://open.spotify.com/album/4mi2BDMTw7pfqhGibxmmBJ) | 3:38 | 2022-04-29 | 2022-08-08 |
 | [One Percent \(Acoustic\)](https://open.spotify.com/track/3TTwYDjHcheOMwJO1f79dp) | [Canaan Cox](https://open.spotify.com/artist/6LcdklijxllKGfl4FWiv3D) | [One Percent \(Acoustic\)](https://open.spotify.com/album/2Gu6f6gkopG6PBM59XGJR9) | 3:24 | 2021-12-17 | 2022-08-13 |
@@ -137,6 +137,7 @@
 | [Rock and A Hard Place \- Acoustic](https://open.spotify.com/track/1QLMOpJ9hjifk5pEiJdXMN) | [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf) | [Rock and A Hard Place \(Acoustic\)](https://open.spotify.com/album/1jp5itCaZpsTO6aK9KQH4R) | 3:27 | 2022-07-15 |  |
 | [Secret \- Gravel Drive Sounds](https://open.spotify.com/track/0LKQRiJgwtxYNNnlB4djQp) | [Tyler Braden](https://open.spotify.com/artist/63wjVVauFUQ4gBw6QXTT5N) | [Secret \(Gravel Drive Sounds\)](https://open.spotify.com/album/2ZUh3hF6Q1jX3PEgWhqZqG) | 3:45 | 2021-12-17 |  |
 | [Settling Down \- Acoustic](https://open.spotify.com/track/3qiFXINhnsIAkaE5AKPiKO) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Settling Down \(Acoustic\)](https://open.spotify.com/album/5aoAYHBddUsvs2tkDfNDJL) | 2:27 | 2021-12-17 |  |
+| [She Had Me At Heads Carolina \- Acoustic](https://open.spotify.com/track/143NxyffZRHXdVD1MaO5u3) | [Cole Swindell](https://open.spotify.com/artist/1mfDfLsMxYcOOZkzBxvSVW) | [She Had Me At Heads Carolina \(Acoustic\)](https://open.spotify.com/album/4w9hMFWcxHwVkJlJfrJfIa) | 3:16 | 2022-10-07 |  |
 | [She's Mine \(Acoustic\)](https://open.spotify.com/track/1hFQtqqucaLg96GiK4zQLI) | [Lauren Weintraub](https://open.spotify.com/artist/0eYsDVXAe2mc4F8QrBLHAq) | [She's Mine \(Acoustic\)](https://open.spotify.com/album/4Xb4L0bd5tEFwDMjoK1nwQ) | 3:09 | 2021-12-17 | 2022-07-13 |
 | [Simple Things \- Piano Version](https://open.spotify.com/track/4wKvuWdzyKtXim12tL9JJj) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Simple Things \(Piano Version\)](https://open.spotify.com/album/7EjIKCV3OsHJqXObEbdGbz) | 3:06 | 2021-12-17 |  |
 | [Slow Dance In A Parking Lot \- Acoustic](https://open.spotify.com/track/2obDcF1vgEom76Mj3UZGxw) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [Slow Dance In A Parking Lot \(Acoustic\)](https://open.spotify.com/album/7JG2UFjGvdHMQ6Zes4lclo) | 2:58 | 2021-12-17 |  |

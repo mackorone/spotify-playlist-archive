@@ -1,12 +1,12 @@
 {
   "description": "All live, all jazz. Cover: Erroll Garner",
-  "num_followers": 3447,
+  "num_followers": 3526,
   "original_name": "Jazz Live & Loud",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDUxMDQ2MCwwMDAwMDAwMGIyMzIzMTBkZDNjODA3MzRmM2NlZTMyZDJkNTMyYmE3",
+  "snapshot_id": "MTY2NTExNTI2MCwwMDAwMDAwMDE3NGUwNzYzMTE3MjY2M2E5ODE0YmQxODkyY2Y1OTIz",
   "tracks": [
     {
       "added_at": "2022-09-23 04:01:00",
@@ -55,6 +55,22 @@
       "duration_ms": 850557,
       "name": "Mali (Live)",
       "url": "https://open.spotify.com/track/7xgveO0ftVy4VcKt6gCGBu"
+    },
+    {
+      "added_at": "2022-10-07 04:01:00",
+      "album": {
+        "name": "Live at Fabrik, Hamburg, 1987",
+        "url": "https://open.spotify.com/album/3zV3pERmVFEntiv4j9MCKB"
+      },
+      "artists": [
+        {
+          "name": "Michael Brecker",
+          "url": "https://open.spotify.com/artist/5IkynsVZoak9UR2Xt8qsMj"
+        }
+      ],
+      "duration_ms": 612600,
+      "name": "My One and Only Love - Live",
+      "url": "https://open.spotify.com/track/6eO4Uudsw3t79uCQJFtrta"
     },
     {
       "added_at": "2022-08-12 04:02:00",
@@ -115,6 +131,22 @@
       "duration_ms": 405425,
       "name": "What It Is - Live at Theatre St-Denis, Montreal, Canada - July 7, 1983",
       "url": "https://open.spotify.com/track/3oNcGjNy8kWNrORs3LGfrL"
+    },
+    {
+      "added_at": "2022-10-07 04:01:00",
+      "album": {
+        "name": "Keiko's Birthday March (Live at Pookie's Pub, 1967)",
+        "url": "https://open.spotify.com/album/7h87oqgzri0jSb7eLTO3ow"
+      },
+      "artists": [
+        {
+          "name": "Elvin Jones",
+          "url": "https://open.spotify.com/artist/4dUMhhUjQ2YcNTvab29hYF"
+        }
+      ],
+      "duration_ms": 1272020,
+      "name": "Keiko's Birthday March - Live at Pookie's Pub, 1967",
+      "url": "https://open.spotify.com/track/3MSUAw9uYQ85vsJqrnh6WW"
     },
     {
       "added_at": "2022-06-17 04:02:00",
@@ -183,8 +215,8 @@
     {
       "added_at": "2022-07-01 04:02:00",
       "album": {
-        "name": "Some Funkyness",
-        "url": "https://open.spotify.com/album/0yRE0UMYhstY8Yh1bf1Dr7"
+        "name": "There's a Reason for Things to Do (Live)",
+        "url": "https://open.spotify.com/album/6TTm8BfUM3bK3hZOJSX9m1"
       },
       "artists": [
         {
@@ -202,7 +234,7 @@
       ],
       "duration_ms": 429466,
       "name": "Heart Song - Live",
-      "url": "https://open.spotify.com/track/15masYlUIQwqPAHpiE2DmN"
+      "url": "https://open.spotify.com/track/1tcpNKH7NWjoPZaELScpd2"
     },
     {
       "added_at": "2022-04-29 04:02:00",

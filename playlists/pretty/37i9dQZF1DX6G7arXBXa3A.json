@@ -1,12 +1,12 @@
 {
   "description": "Big bands, big sounds.",
-  "num_followers": 371305,
+  "num_followers": 371589,
   "original_name": "Big Band",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzkwNTY2MCwwMDAwMDAwMDNmODFhOGJjNGZlNWVmZjcyOTgyMGNiNmQ0NzhmZGEz",
+  "snapshot_id": "MTY2MzkwNTY2MCwwMDAwMDAwMGI4NThjYWM1NzU2YjE5MWMwOGUyMjU4YjZiN2E4Y2M4",
   "tracks": [
     {
       "added_at": "2022-09-23 04:01:00",
@@ -171,22 +171,6 @@
     {
       "added_at": "2020-03-06 16:28:56",
       "album": {
-        "name": "Begin The Beguine",
-        "url": "https://open.spotify.com/album/3uXjIDVSLPp8niomuVDd5h"
-      },
-      "artists": [
-        {
-          "name": "Artie Shaw",
-          "url": "https://open.spotify.com/artist/5wam12nGWDBIrLDV78TNSF"
-        }
-      ],
-      "duration_ms": 196160,
-      "name": "Begin the Beguine",
-      "url": "https://open.spotify.com/track/0YJAz1QqMNrPhJ2vhHupcZ"
-    },
-    {
-      "added_at": "2020-03-06 16:28:56",
-      "album": {
         "name": "B. G. In Hi Fi",
         "url": "https://open.spotify.com/album/33oCBSZiLbfqyOnTTQ4Tct"
       },
@@ -199,6 +183,22 @@
       "duration_ms": 195533,
       "name": "Stompin At The Savoy",
       "url": "https://open.spotify.com/track/1xUJ1mdLAysxNBtO9w3J2g"
+    },
+    {
+      "added_at": "2020-03-06 16:28:56",
+      "album": {
+        "name": "Begin The Beguine",
+        "url": "https://open.spotify.com/album/3uXjIDVSLPp8niomuVDd5h"
+      },
+      "artists": [
+        {
+          "name": "Artie Shaw",
+          "url": "https://open.spotify.com/artist/5wam12nGWDBIrLDV78TNSF"
+        }
+      ],
+      "duration_ms": 196160,
+      "name": "Begin the Beguine",
+      "url": "https://open.spotify.com/track/0YJAz1QqMNrPhJ2vhHupcZ"
     },
     {
       "added_at": "2020-03-06 16:28:56",
@@ -307,38 +307,6 @@
     {
       "added_at": "2020-03-06 16:28:56",
       "album": {
-        "name": "To Ella With Love",
-        "url": "https://open.spotify.com/album/6glj5wRmAtkj3pgDUkZstz"
-      },
-      "artists": [
-        {
-          "name": "Ann Hampton Callaway",
-          "url": "https://open.spotify.com/artist/5wHvUotfxzSccrzX9x9g6e"
-        }
-      ],
-      "duration_ms": 166960,
-      "name": "Let's Fall In Love",
-      "url": "https://open.spotify.com/track/1b9gNirS4wUJwYg8X8l9jK"
-    },
-    {
-      "added_at": "2020-03-06 16:28:56",
-      "album": {
-        "name": "The Essential Benny Goodman",
-        "url": "https://open.spotify.com/album/7ykWEOYdt8gyA4seOlwtWK"
-      },
-      "artists": [
-        {
-          "name": "Benny Goodman",
-          "url": "https://open.spotify.com/artist/1pBuKaLHJlIlqYxQQaflve"
-        }
-      ],
-      "duration_ms": 520293,
-      "name": "Sing, Sing, Sing",
-      "url": "https://open.spotify.com/track/5L8ta4ECl5zeA6bGqY7G38"
-    },
-    {
-      "added_at": "2020-03-06 16:28:56",
-      "album": {
         "name": "Bing-His Legendary Years 1931-1957",
         "url": "https://open.spotify.com/album/2KDC9MOVhSPFY3ANMB6aDw"
       },
@@ -359,6 +327,38 @@
       "duration_ms": 183000,
       "name": "Pistol Packin' Mama - Single Version",
       "url": "https://open.spotify.com/track/2Pn1HP6ZTVpBaew1jHcs87"
+    },
+    {
+      "added_at": "2020-03-06 16:28:56",
+      "album": {
+        "name": "The Essential Benny Goodman",
+        "url": "https://open.spotify.com/album/7ykWEOYdt8gyA4seOlwtWK"
+      },
+      "artists": [
+        {
+          "name": "Benny Goodman",
+          "url": "https://open.spotify.com/artist/1pBuKaLHJlIlqYxQQaflve"
+        }
+      ],
+      "duration_ms": 520293,
+      "name": "Sing, Sing, Sing",
+      "url": "https://open.spotify.com/track/5L8ta4ECl5zeA6bGqY7G38"
+    },
+    {
+      "added_at": "2020-03-06 16:28:56",
+      "album": {
+        "name": "To Ella With Love",
+        "url": "https://open.spotify.com/album/6glj5wRmAtkj3pgDUkZstz"
+      },
+      "artists": [
+        {
+          "name": "Ann Hampton Callaway",
+          "url": "https://open.spotify.com/artist/5wHvUotfxzSccrzX9x9g6e"
+        }
+      ],
+      "duration_ms": 166960,
+      "name": "Let's Fall In Love",
+      "url": "https://open.spotify.com/track/1b9gNirS4wUJwYg8X8l9jK"
     },
     {
       "added_at": "2020-03-06 16:28:56",
@@ -591,22 +591,6 @@
     {
       "added_at": "2020-03-06 16:28:56",
       "album": {
-        "name": "Jumpin' Jive (Remastered 1999)",
-        "url": "https://open.spotify.com/album/7spQJsP6dimhGMNgsBYaRO"
-      },
-      "artists": [
-        {
-          "name": "Joe Jackson",
-          "url": "https://open.spotify.com/artist/6KOqPxwfNAmZPkiCnDE9yT"
-        }
-      ],
-      "duration_ms": 167666,
-      "name": "Jack, You're Dead!",
-      "url": "https://open.spotify.com/track/1EbSCkFjbaTncuamPWPq11"
-    },
-    {
-      "added_at": "2020-03-06 16:28:56",
-      "album": {
         "name": "The World Of Nat King Cole (Expanded Edition)",
         "url": "https://open.spotify.com/album/1z5Ut9gopzeYwM7QsseZtP"
       },
@@ -627,6 +611,22 @@
     {
       "added_at": "2020-03-06 16:28:56",
       "album": {
+        "name": "Jumpin' Jive (Remastered 1999)",
+        "url": "https://open.spotify.com/album/7spQJsP6dimhGMNgsBYaRO"
+      },
+      "artists": [
+        {
+          "name": "Joe Jackson",
+          "url": "https://open.spotify.com/artist/6KOqPxwfNAmZPkiCnDE9yT"
+        }
+      ],
+      "duration_ms": 167666,
+      "name": "Jack, You're Dead!",
+      "url": "https://open.spotify.com/track/1EbSCkFjbaTncuamPWPq11"
+    },
+    {
+      "added_at": "2020-03-06 16:28:56",
+      "album": {
         "name": "The Great American Songbook",
         "url": "https://open.spotify.com/album/3AiEMTv9oFDRaDjqv93mOU"
       },
@@ -639,22 +639,6 @@
       "duration_ms": 183960,
       "name": "I Can't Believe That You're In Love With Me",
       "url": "https://open.spotify.com/track/57sdRcA5sfIFOKFjReXp2P"
-    },
-    {
-      "added_at": "2020-03-06 16:28:56",
-      "album": {
-        "name": "Contrasts",
-        "url": "https://open.spotify.com/album/6Td0cXeGPSZ6urzMTKbPEf"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Dorsey & His Orchestra",
-          "url": "https://open.spotify.com/artist/3z5VqEvu6RJ4Abtah3lTsg"
-        }
-      ],
-      "duration_ms": 185333,
-      "name": "I Got Rhythm",
-      "url": "https://open.spotify.com/track/1IjZmiq8MrgzEsHgb0ubLA"
     },
     {
       "added_at": "2020-03-06 16:28:56",
@@ -675,6 +659,22 @@
       "duration_ms": 163122,
       "name": "Are You Having Any Fun",
       "url": "https://open.spotify.com/track/7J15xzJsmb6ikExnnMO7MP"
+    },
+    {
+      "added_at": "2020-03-06 16:28:56",
+      "album": {
+        "name": "Contrasts",
+        "url": "https://open.spotify.com/album/6Td0cXeGPSZ6urzMTKbPEf"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Dorsey & His Orchestra",
+          "url": "https://open.spotify.com/artist/3z5VqEvu6RJ4Abtah3lTsg"
+        }
+      ],
+      "duration_ms": 185333,
+      "name": "I Got Rhythm",
+      "url": "https://open.spotify.com/track/1IjZmiq8MrgzEsHgb0ubLA"
     },
     {
       "added_at": "2020-03-06 16:28:56",
@@ -731,22 +731,6 @@
     {
       "added_at": "2020-03-06 16:28:56",
       "album": {
-        "name": "Inspiration (A Tribute To Nat King Cole)",
-        "url": "https://open.spotify.com/album/7CVBlFmDZnYjHyP6G0aj0m"
-      },
-      "artists": [
-        {
-          "name": "George Benson",
-          "url": "https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv"
-        }
-      ],
-      "duration_ms": 162080,
-      "name": "Just One Of Those Things",
-      "url": "https://open.spotify.com/track/6QZ4ZhD8hGVTfwoN2Ypl4Z"
-    },
-    {
-      "added_at": "2020-03-06 16:28:56",
-      "album": {
         "name": "More Smiles",
         "url": "https://open.spotify.com/album/4Pyfz10lCoDGuFISUxLZmg"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 254413,
       "name": "Lullaby of the Leaves",
       "url": "https://open.spotify.com/track/6FyP9sU6l9JhHIPW2yfJnu"
+    },
+    {
+      "added_at": "2020-03-06 16:28:56",
+      "album": {
+        "name": "Inspiration (A Tribute To Nat King Cole)",
+        "url": "https://open.spotify.com/album/7CVBlFmDZnYjHyP6G0aj0m"
+      },
+      "artists": [
+        {
+          "name": "George Benson",
+          "url": "https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv"
+        }
+      ],
+      "duration_ms": 162080,
+      "name": "Just One Of Those Things",
+      "url": "https://open.spotify.com/track/6QZ4ZhD8hGVTfwoN2Ypl4Z"
     },
     {
       "added_at": "2020-03-06 16:28:56",
@@ -795,22 +795,6 @@
       "duration_ms": 582509,
       "name": "The Waltz I Blew for You",
       "url": "https://open.spotify.com/track/3dx30dESDnNEglqLAVknpX"
-    },
-    {
-      "added_at": "2020-03-06 16:28:56",
-      "album": {
-        "name": "Birks Works: The Verve Big-Band Sessions",
-        "url": "https://open.spotify.com/album/7yyH8DozyrWFMEAWhCV2oS"
-      },
-      "artists": [
-        {
-          "name": "Dizzy Gillespie",
-          "url": "https://open.spotify.com/artist/5RzjqfPS0Bu4bUMkyNNDpn"
-        }
-      ],
-      "duration_ms": 235866,
-      "name": "Doodlin'",
-      "url": "https://open.spotify.com/track/2jb1Abu8FOdpIAICSnV6C6"
     },
     {
       "added_at": "2020-03-06 16:28:56",
@@ -867,6 +851,22 @@
       "duration_ms": 186598,
       "name": "Your Mind Is on Vacation",
       "url": "https://open.spotify.com/track/7F0owhC3XEnUACoLcnyCHJ"
+    },
+    {
+      "added_at": "2020-03-06 16:28:56",
+      "album": {
+        "name": "Birks Works: The Verve Big-Band Sessions",
+        "url": "https://open.spotify.com/album/7yyH8DozyrWFMEAWhCV2oS"
+      },
+      "artists": [
+        {
+          "name": "Dizzy Gillespie",
+          "url": "https://open.spotify.com/artist/5RzjqfPS0Bu4bUMkyNNDpn"
+        }
+      ],
+      "duration_ms": 235866,
+      "name": "Doodlin'",
+      "url": "https://open.spotify.com/track/2jb1Abu8FOdpIAICSnV6C6"
     },
     {
       "added_at": "2021-02-26 05:01:00",

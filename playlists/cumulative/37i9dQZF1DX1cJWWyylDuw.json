@@ -578,6 +578,24 @@
     },
     {
       "album": {
+        "name": "Kostolom",
+        "url": "https://open.spotify.com/album/37XaKB6rpfLrR4572PBCSs"
+      },
+      "artists": [
+        {
+          "name": "Slaughter to Prevail",
+          "url": "https://open.spotify.com/artist/24Oiw7BlvO1BETecDLJt6m"
+        }
+      ],
+      "date_added": "2022-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255000,
+      "name": "Baba Yaga",
+      "url": "https://open.spotify.com/track/0RSkbK5eWAPY5W5l5Q08zf"
+    },
+    {
+      "album": {
         "name": "Baba Yaga",
         "url": "https://open.spotify.com/album/1fUP56lgqAS5bzycn35WAl"
       },
@@ -607,7 +625,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-04",
       "duration_ms": 255000,
       "name": "Baba Yaga",
       "url": "https://open.spotify.com/track/3BI1nr32dmrPTTMmywXZZp"
@@ -701,7 +719,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-07",
       "duration_ms": 240000,
       "name": "Bathe in the Flame",
       "url": "https://open.spotify.com/track/3fJWw5Od5tGvKlyh02jLib"
@@ -1249,7 +1267,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-03",
       "duration_ms": 200500,
       "name": "Chasm",
       "url": "https://open.spotify.com/track/6BHqiA6bAdo544sqdeCTvy"
@@ -3243,7 +3261,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-02",
+      "date_removed": null,
       "duration_ms": 221810,
       "name": "Hellmouth",
       "url": "https://open.spotify.com/track/1w73E5RFnn02GBW4iZHuD6"
@@ -5342,6 +5360,28 @@
     },
     {
       "album": {
+        "name": "Burn in the Flood",
+        "url": "https://open.spotify.com/album/1qBh6vpLqGU19T3ICllOp2"
+      },
+      "artists": [
+        {
+          "name": "Our Hollow, Our Home",
+          "url": "https://open.spotify.com/artist/6zrSK4adBQJaCJuhGNKJEl"
+        },
+        {
+          "name": "Ryo Kinoshita",
+          "url": "https://open.spotify.com/artist/0hFOSb4sdsDLsAhwwSheWH"
+        }
+      ],
+      "date_added": "2022-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210840,
+      "name": "Remember Me",
+      "url": "https://open.spotify.com/track/5JSpp4LKuqnaR3f5MZVWrc"
+    },
+    {
+      "album": {
         "name": "Remenissions",
         "url": "https://open.spotify.com/album/24gge9fvwFfzWwV8ZV4j3D"
       },
@@ -5443,7 +5483,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 115000,
       "name": "Resurrection",
       "url": "https://open.spotify.com/track/72dkgRQtmQlG9u5Kx3wZDG"
@@ -6497,6 +6537,24 @@
       "duration_ms": 264652,
       "name": "The Sea of Tragic Beasts",
       "url": "https://open.spotify.com/track/79yvAWlqVukArNOxtyyKCI"
+    },
+    {
+      "album": {
+        "name": "The Servant",
+        "url": "https://open.spotify.com/album/00csdb1K13QsTHTImL15em"
+      },
+      "artists": [
+        {
+          "name": "Defamed",
+          "url": "https://open.spotify.com/artist/5Yu9Nd4YF69bAfAaoqIg5r"
+        }
+      ],
+      "date_added": "2022-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219706,
+      "name": "The Servant",
+      "url": "https://open.spotify.com/track/1RPmmTSJhDfMg1V6qTHA0u"
     },
     {
       "album": {

@@ -225,7 +225,7 @@
       ],
       "date_added": "2021-12-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-30",
+      "date_removed": null,
       "duration_ms": 326314,
       "name": "All My Life",
       "url": "https://open.spotify.com/track/1uAYzAogqtmB63DDrikfQE"
@@ -467,7 +467,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-09",
       "duration_ms": 200262,
       "name": "Bluebelle Mountain",
       "url": "https://open.spotify.com/track/02nxCFRn4cmbfKQB4mUFP5"
@@ -1789,7 +1789,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 263080,
       "name": "Most of the Time",
       "url": "https://open.spotify.com/track/2PixfzvK60AWzXRDLeElhb"
@@ -1897,7 +1897,7 @@
       ],
       "date_added": "2021-12-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-30",
+      "date_removed": null,
       "duration_ms": 155213,
       "name": "Oh God",
       "url": "https://open.spotify.com/track/3LHSrehhdEgEvQRpFpc0VC"
@@ -2597,7 +2597,7 @@
       ],
       "date_added": "2022-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-10",
       "duration_ms": 236480,
       "name": "Tran\u00f8y fyr",
       "url": "https://open.spotify.com/track/1ZiY38qhaI4HF6lilr2FV8"
@@ -2955,6 +2955,24 @@
       "duration_ms": 241933,
       "name": "Wild Dreams",
       "url": "https://open.spotify.com/track/63aqcGJGsqwa0e1jFazRcy"
+    },
+    {
+      "album": {
+        "name": "Tommy Tokyo",
+        "url": "https://open.spotify.com/album/0tUMc8Y4q7K0k496h3Cmyk"
+      },
+      "artists": [
+        {
+          "name": "Tommy Tokyo",
+          "url": "https://open.spotify.com/artist/5s3vQbwoPdhIvMffVJbOya"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216826,
+      "name": "Wings of Good Fortune",
+      "url": "https://open.spotify.com/track/3Yqw90nc4zZJnyAMdqE7Hu"
     },
     {
       "album": {

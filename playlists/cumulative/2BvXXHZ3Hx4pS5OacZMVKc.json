@@ -48,6 +48,24 @@
     },
     {
       "album": {
+        "name": "All Access",
+        "url": "https://open.spotify.com/album/151Lb7EhuJUIfFTLWkeuI4"
+      },
+      "artists": [
+        {
+          "name": "JOXION",
+          "url": "https://open.spotify.com/artist/4c0rN45hGTsmOVu0qg5x6U"
+        }
+      ],
+      "date_added": "2022-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161250,
+      "name": "All Access",
+      "url": "https://open.spotify.com/track/77PGjBzaXsRnmuxV9tBLU3"
+    },
+    {
+      "album": {
         "name": "Alone EP",
         "url": "https://open.spotify.com/album/3QS6cvgnMj7JuA0gB12Lq8"
       },
@@ -1265,6 +1283,24 @@
       "duration_ms": 170236,
       "name": "For Good",
       "url": "https://open.spotify.com/track/4sarKZgklpsCrHEDLueslH"
+    },
+    {
+      "album": {
+        "name": "For You",
+        "url": "https://open.spotify.com/album/4ctt7ZN6LoY2Brr7efh52M"
+      },
+      "artists": [
+        {
+          "name": "CHENDA",
+          "url": "https://open.spotify.com/artist/38HqxBtUpMunEP3kKLjEby"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269955,
+      "name": "For You",
+      "url": "https://open.spotify.com/track/1uDsU3oY2XBYGKMe0i7BLB"
     },
     {
       "album": {
@@ -3456,6 +3492,28 @@
     },
     {
       "album": {
+        "name": "Sweet",
+        "url": "https://open.spotify.com/album/3JiNug3c3xJbvhIGHzuBcl"
+      },
+      "artists": [
+        {
+          "name": "Raptures.",
+          "url": "https://open.spotify.com/artist/37H2zWHT07jLwDF8ddpu6m"
+        },
+        {
+          "name": "MAZAN",
+          "url": "https://open.spotify.com/artist/0y0mNvcQKUUsbRlOcekXG4"
+        }
+      ],
+      "date_added": "2022-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160730,
+      "name": "Sweet",
+      "url": "https://open.spotify.com/track/7zheGycYrMgijrwtHEGsu5"
+    },
+    {
+      "album": {
         "name": "Symbolism pt. III",
         "url": "https://open.spotify.com/album/2W3HSyUgF9aoXOUIxB5xyx"
       },
@@ -3493,6 +3551,28 @@
       "duration_ms": 204482,
       "name": "Take It Easy - DNB Edit",
       "url": "https://open.spotify.com/track/0ixRU1IxaGqqPR6b4dUtek"
+    },
+    {
+      "album": {
+        "name": "Take It or Leave It",
+        "url": "https://open.spotify.com/album/10F8ssQIhAa8r6fNM63bcL"
+      },
+      "artists": [
+        {
+          "name": "Aeden",
+          "url": "https://open.spotify.com/artist/2WIFU5KpTGyYWZs039dQPn"
+        },
+        {
+          "name": "Sketchez",
+          "url": "https://open.spotify.com/artist/3i1DZLmhjic0xxPoAhwSY6"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166595,
+      "name": "Take It or Leave It",
+      "url": "https://open.spotify.com/track/02Jm97ALc0atbXRpiwCLba"
     },
     {
       "album": {

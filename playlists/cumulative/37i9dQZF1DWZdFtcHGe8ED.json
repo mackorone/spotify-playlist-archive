@@ -1353,7 +1353,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-09",
       "duration_ms": 264506,
       "name": "Death Squad",
       "url": "https://open.spotify.com/track/6HxVWqnbWUiKimNRPz1K8l"
@@ -4017,7 +4017,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-30",
+      "date_removed": null,
       "duration_ms": 219242,
       "name": "Perpetual Chaos",
       "url": "https://open.spotify.com/track/0twaN8lzgWZVbBBBWJsEkh"
@@ -4161,7 +4161,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-05",
       "duration_ms": 300266,
       "name": "Possessed by Fire",
       "url": "https://open.spotify.com/track/6wiuSleBg7fx2C5B0HwtLy"
@@ -4667,6 +4667,24 @@
       "duration_ms": 330986,
       "name": "Semtex Revolution",
       "url": "https://open.spotify.com/track/7mTceRxYae4a5xkEhTgdqq"
+    },
+    {
+      "album": {
+        "name": "Seven Words",
+        "url": "https://open.spotify.com/album/0K1aAagoaaplNXP2vHRSkM"
+      },
+      "artists": [
+        {
+          "name": "Xentrix",
+          "url": "https://open.spotify.com/artist/5lYOBorQmZgCCPxJYCjSmO"
+        }
+      ],
+      "date_added": "2022-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236893,
+      "name": "Seven Words",
+      "url": "https://open.spotify.com/track/1OBphi1GDxcPMNExEvNIh5"
     },
     {
       "album": {

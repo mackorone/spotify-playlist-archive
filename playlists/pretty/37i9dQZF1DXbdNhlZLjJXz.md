@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbdNhlZLjJXz.md) - [plain]
 
 > Soundtrack your 2022 resolutions with Mia Lind.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,992 likes - 86 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,001 likes - 86 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

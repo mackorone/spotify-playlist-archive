@@ -1688,6 +1688,24 @@
     },
     {
       "album": {
+        "name": "Don't Say",
+        "url": "https://open.spotify.com/album/5zjEdsCxqIh5e3q3yPSbl3"
+      },
+      "artists": [
+        {
+          "name": "LULLANAS",
+          "url": "https://open.spotify.com/artist/3b8jXMWK6VSV8FlQ4hbVkd"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-09",
+      "duration_ms": 204336,
+      "name": "Don't Say",
+      "url": "https://open.spotify.com/track/41bZyIzMjq7wx5JxJbc0Dl"
+    },
+    {
+      "album": {
         "name": "Don't You Cry For Me",
         "url": "https://open.spotify.com/album/4TjQW7GIImS6INJyhjuANs"
       },
@@ -1969,7 +1987,7 @@
       ],
       "date_added": "2019-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-04",
       "duration_ms": 235240,
       "name": "Expectations",
       "url": "https://open.spotify.com/track/7sIONDBUsDWYUll2uwnjY9"
@@ -3667,7 +3685,7 @@
       ],
       "date_added": "2020-07-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-28",
+      "date_removed": "2022-10-05",
       "duration_ms": 239586,
       "name": "Johnny",
       "url": "https://open.spotify.com/track/4WDtGj1M2HFlcjvYIiRFug"
@@ -6445,7 +6463,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-26",
+      "date_removed": "2022-10-08",
       "duration_ms": 182973,
       "name": "Swing",
       "url": "https://open.spotify.com/track/3UKIiR93VUGPRcrAmCHU2Y"
@@ -6995,6 +7013,24 @@
       "duration_ms": 165613,
       "name": "Thirteen Sad Farewells",
       "url": "https://open.spotify.com/track/4ddQlwDGMpXylyxbYvPRab"
+    },
+    {
+      "album": {
+        "name": "Vagabond",
+        "url": "https://open.spotify.com/album/3uphRkVItHVdeK9EVStwiM"
+      },
+      "artists": [
+        {
+          "name": "Stu Larsen",
+          "url": "https://open.spotify.com/artist/44M8i4BCwuBbmcQWwMaOfH"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165613,
+      "name": "Thirteen Sad Farewells",
+      "url": "https://open.spotify.com/track/4hcEsAXv3vAcUsRT4Tgd1H"
     },
     {
       "album": {

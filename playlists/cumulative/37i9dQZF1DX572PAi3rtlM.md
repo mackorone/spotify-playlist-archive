@@ -4,7 +4,7 @@
 
 > That summer in the city feeling, any day of the week.
 
-138 songs - 12 hr 36 min - [published](https://open.spotify.com/playlist/3WIgMYDQC96eGhgOWOnDY8)
+139 songs - 12 hr 43 min - [published](https://open.spotify.com/playlist/3WIgMYDQC96eGhgOWOnDY8)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,6 +62,7 @@
 | [I Heard the Voice of Music Say](https://open.spotify.com/track/16eL3Zw084d3CjDTaP8Xdf) | [Sunbear](https://open.spotify.com/artist/6PR1LVsphqrgunxIxhn3c9) | [Sunbear](https://open.spotify.com/album/3qXzp3FxW9nHlvEoJKij8R) | 5:03 | 2021-09-01 | 2022-07-25 |
 | [I Miss Having Someone To Talk To](https://open.spotify.com/track/0y5D6gtFl3WNx06rOXLWJ6) | [Folamour](https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS), [Liv East](https://open.spotify.com/artist/12Yeojvul63OHxXXI6Z5x7) | [I Miss Having Someone To Talk To](https://open.spotify.com/album/17PBUuvBGmmwD0L6CtKtPR) | 3:43 | 2021-09-01 |  |
 | [Industry \(Green Light/Fun Night Breaks Mix\) \- Edit](https://open.spotify.com/track/0W1T5IlmEnh79pWQ4Wj211) | [Nathan Micay](https://open.spotify.com/artist/6U7MOIhacysUEnfJ41WfhC) | [Industry \(Green Light/Fun Night Breaks Mix\)](https://open.spotify.com/album/4b74MpyaUcYTGkFCZ0vNGd) | 3:43 | 2021-09-01 | 2022-07-28 |
+| [Is It All Over My Face? \- Female Version](https://open.spotify.com/track/0QIl1aNSEMQL7BryNIi6dB) | [Loose Joints](https://open.spotify.com/artist/0eoOgNAKS0g3piTJlFY173) | [Is It All Over My Face?](https://open.spotify.com/album/5bAVzhdknkLZTmByjTJ14N) | 7:07 | 2021-09-01 |  |
 | [It Feels Good](https://open.spotify.com/track/47IC40BjFN6EkbwMx1KHUm) | [Joel Holmes](https://open.spotify.com/artist/3ix3uHPWkVMdu4oKABHQ4j) | [It Feels Good](https://open.spotify.com/album/6DhfBvhuoEmrsIXPErjt1h) | 4:26 | 2021-09-01 | 2022-07-29 |
 | [Je Vulesse](https://open.spotify.com/track/7FPtdpiBHIFyiUoFTEDfRd) | [Nu Genea](https://open.spotify.com/artist/77J3V0V7sEOf5ifCDBSNaJ) | [Nuova Napoli](https://open.spotify.com/album/1NuMP2jrBeyxR3MqwengWD) | 4:48 | 2021-09-01 |  |
 | [Jerky Rhythm](https://open.spotify.com/track/0quQLx03FmhJhQXHLA4osL) | [Erotic Drum Band](https://open.spotify.com/artist/3cziflTbMxH9cQY4RvhtVg) | [Action 78](https://open.spotify.com/album/3O0VpTEdahLcXgx6KJsQlI) | 9:10 | 2021-09-01 | 2022-07-28 |
@@ -80,7 +81,7 @@
 | [Mars 500](https://open.spotify.com/track/7KU1k3MVP8eFj81U3L85i8) | [Chloé \(Thévenin\)](https://open.spotify.com/artist/0W8ZVf53GqJkTOPRWQaaBq) | [Mars 500](https://open.spotify.com/album/7lfXilxttazWRwNcThahfc) | 6:52 | 2021-09-01 |  |
 | [Minnoch](https://open.spotify.com/track/6GdyEMYwaCWCPFKTUCsBjF) | [Hunee](https://open.spotify.com/artist/6uElH4moADg7AGB3DCGOwy) | [Tide / Minnoch](https://open.spotify.com/album/5xlIE5AFZb7p6eIK4exIKU) | 5:44 | 2021-09-01 | 2022-07-29 |
 | [Modern Romance](https://open.spotify.com/track/4CL7IheP2ryGEcMVOoAOUZ) | [Catz 'n Dogz](https://open.spotify.com/artist/5tYqFEuFELxnJZgGmmsfSh), [Gerd Janson](https://open.spotify.com/artist/4jLpm91Tyk2TRgv43bMfZO) | [Modern Romance](https://open.spotify.com/album/5JPxDmfJuWSErtOyRTeYuz) | 3:34 | 2021-09-01 |  |
-| [Morning Shift](https://open.spotify.com/track/0DtvmA9qyTtrcCW4CcobHl) | [Project Pablo](https://open.spotify.com/artist/2OHzpRiwkpxGE7IA0hnSko) | [Scented Trip](https://open.spotify.com/album/1c9o8AiaQTSCCmJw81GRxO) | 6:20 | 2021-09-01 |  |
+| [Morning Shift](https://open.spotify.com/track/0DtvmA9qyTtrcCW4CcobHl) | [Project Pablo](https://open.spotify.com/artist/2OHzpRiwkpxGE7IA0hnSko) | [Scented Trip](https://open.spotify.com/album/1c9o8AiaQTSCCmJw81GRxO) | 6:20 | 2021-09-01 | 2022-10-05 |
 | [Most Precious Love](https://open.spotify.com/track/47UPyhVOYi13lDCabh0V8s) | [House Gospel Choir](https://open.spotify.com/artist/1ilcpQQeF5mmvfO682aDgJ) | [RE//CHOIRED](https://open.spotify.com/album/5JMcyXM7mWafx7jpT7XQka) | 3:54 | 2021-09-01 |  |
 | [Music Trance](https://open.spotify.com/track/3iLXg9PLuHxFNGQrNv2vlZ) | [Ben E\. King](https://open.spotify.com/artist/3plJVWt88EqjvtuB4ZDRV3) | [Music Trance](https://open.spotify.com/album/7gr9gLflbW5DrgGQB9kcen) | 5:56 | 2021-09-01 | 2022-07-29 |
 | [Must Be Love \(feat\. Electric Fields\)](https://open.spotify.com/track/4sVKF8qaWjwt9WatIfXAHU) | [Tseba](https://open.spotify.com/artist/5GDVlpxmmh7VMNQMVpxRjf), [Electric Fields](https://open.spotify.com/artist/06SobozDGSP0TMCYgMW0M5) | [Must Be Love \(feat\. Electric Fields\)](https://open.spotify.com/album/1PR80skl33OD99DCwsZRlo) | 4:30 | 2021-09-01 |  |

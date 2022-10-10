@@ -828,6 +828,28 @@
     },
     {
       "album": {
+        "name": "Workout Smash",
+        "url": "https://open.spotify.com/album/3pdVbAFT80CR3BjoGDJfI0"
+      },
+      "artists": [
+        {
+          "name": "Maroon 5",
+          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
+        },
+        {
+          "name": "Christina Aguilera",
+          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
+        }
+      ],
+      "date_added": "2020-06-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-09",
+      "duration_ms": 202859,
+      "name": "Moves Like Jagger - Studio Recording From \"The Voice\" Performance",
+      "url": "https://open.spotify.com/track/34QFw3Wud1eOHOVtvDkOtd"
+    },
+    {
+      "album": {
         "name": "Romance",
         "url": "https://open.spotify.com/album/3Vsbl0diFGw8HNSjG8ue9m"
       },

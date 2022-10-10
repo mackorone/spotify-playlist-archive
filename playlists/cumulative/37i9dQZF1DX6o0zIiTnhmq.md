@@ -4,7 +4,7 @@
 
 > Mantras for meditation
 
-51 songs - 17 hr 13 min - [published](https://open.spotify.com/playlist/0ZArVYnALiXKBCImTtYEH2)
+52 songs - 17 hr 14 min - [published](https://open.spotify.com/playlist/0ZArVYnALiXKBCImTtYEH2)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,7 +49,8 @@
 | [Pran Sutra: Dhan Dhan Ram Das Gur](https://open.spotify.com/track/1zIQf4PoAGoL48ZhUdaye0) | [Meditative Mind](https://open.spotify.com/artist/1PTLyE54UyxphMo43yaSc7) | [Mantras & Chants](https://open.spotify.com/album/0Yr36b0evAmbg8VQVrdSnN) | 11:12 | 2022-01-24 |  |
 | [Pranayaam Mantra](https://open.spotify.com/track/5hOkUTeiG7SDMBWuTy58ez) | [Sadhana Sargam](https://open.spotify.com/artist/1HGMG8RHvcu1mfdM9MeTek), [Ravindra Sathe](https://open.spotify.com/artist/4I5QgST39jQbLzuWTgUKcX) | [Mantras To Start the Day](https://open.spotify.com/album/6x7FhEL7eSa4Ld0kHu24oL) | 0:38 | 2022-01-24 |  |
 | [Resonance Meditation with Omkaar \- at 432 Hz](https://open.spotify.com/track/0MuPr9td6KGDdOSK660vcM) | [Rajan Mishra](https://open.spotify.com/artist/5ctgUVR3rh12mXvFckKVp9), [Sajan Mishra](https://open.spotify.com/artist/4s03GMsBoEBO7LnPhawd9p), [Rupa Tiwary](https://open.spotify.com/artist/6dwI4WlkGItwJ7bwDNeLzm) | [Chants of Moksha \- Omkaar \- at 432 Hz](https://open.spotify.com/album/1qp14fQUPcdOoadYpYZ27s) | 9:57 | 2022-01-24 |  |
-| [Restorative Mantras](https://open.spotify.com/track/7jB2WjGFOiaH5zk6XijoYp) | [Zen Healing Music Collective](https://open.spotify.com/artist/40VM3yuQwPc2smHc4vvtok) | [Healing Mantras: Gentle Rhythms for Yoga, Relaxation and Calm in an Anxious World](https://open.spotify.com/album/0sHBRGUwClkWlEDadjt0eo) | 1:39 | 2022-01-24 |  |
+| [Restorative Mantras](https://open.spotify.com/track/6Mp8hiNPzsvsCXxAmmUK2d) | [Zen Healing Music Collective](https://open.spotify.com/artist/40VM3yuQwPc2smHc4vvtok) | [Healing Mantras: Gentle Rhythms for Yoga, Relaxation and Calm in an Anxious World](https://open.spotify.com/album/0OZgLEU0uhjVxIPpNlrIfL) | 1:39 | 2022-08-05 |  |
+| [Restorative Mantras](https://open.spotify.com/track/7jB2WjGFOiaH5zk6XijoYp) | [Zen Healing Music Collective](https://open.spotify.com/artist/40VM3yuQwPc2smHc4vvtok) | [Healing Mantras: Gentle Rhythms for Yoga, Relaxation and Calm in an Anxious World](https://open.spotify.com/album/0sHBRGUwClkWlEDadjt0eo) | 1:39 | 2022-01-24 | 2022-10-09 |
 | [Sarvesham Svastir Bhavatu](https://open.spotify.com/track/10hYBr0KXyCNtuvc388Rn8) | [Meditative Mind](https://open.spotify.com/artist/1PTLyE54UyxphMo43yaSc7) | [Mantras for Deep Inner Peace](https://open.spotify.com/album/1RRMH04ndZk2LWEgDAkUG7) | 45:17 | 2022-01-24 | 2022-07-29 |
 | [Sarvesham Svastir Bhavtu](https://open.spotify.com/track/0ttVqRISNySDktBhdJsJZv) | [Meditative Mind](https://open.spotify.com/artist/1PTLyE54UyxphMo43yaSc7) | [Magical Mantras for Meditation \- Volume Two](https://open.spotify.com/album/2SyTtRLOHedCwGOBNiQcU4) | 45:17 | 2022-01-24 |  |
 | [Surya Namaskar Mantra](https://open.spotify.com/track/2bluDkLDqccMQZT9igz2Jq) | [Uma Mohan](https://open.spotify.com/artist/3IJsrpcwlIt9wYIFISmc4q) | [Surya Namaskar Mantra](https://open.spotify.com/album/5ieRV5tHmeh7te16fj4xeJ) | 6:33 | 2022-01-24 | 2022-07-29 |

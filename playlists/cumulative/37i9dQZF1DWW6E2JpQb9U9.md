@@ -4,7 +4,7 @@
 
 > Rock en vivo de la A a la Z, de ayer, de hoy y de siempre..\. ¡Canten ustedes! Foto: Rata Blanca
 
-264 songs - 19 hr 24 min - [published](https://open.spotify.com/playlist/3HYsIAc7oXByJ2AOHakeY7)
+265 songs - 19 hr 29 min - [published](https://open.spotify.com/playlist/3HYsIAc7oXByJ2AOHakeY7)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -225,6 +225,7 @@
 | [Solo](https://open.spotify.com/track/5FpCjtZiQ1fEBcsJFdOrtU) | [No Te Va Gustar](https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j) | [Otras Canciones en Vivo en Latinoamérica](https://open.spotify.com/album/4UGpnKpfb814RkAWPUtSVP) | 3:52 | 2022-04-01 | 2022-07-20 |
 | [Solo \- En Vivo](https://open.spotify.com/track/1jWR7BjkDfuZ8pYI5XsspE) | [No Te Va Gustar](https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j) | [MVD/05/03/05 \(En Vivo\)](https://open.spotify.com/album/3fV0us97rc1lbhjWVWQO2U) | 4:27 | 2022-06-24 | 2022-07-26 |
 | [Solo Voy \- En Vivo](https://open.spotify.com/track/6iFOuRmcqjqOKiM8daR9P6) | [La 25](https://open.spotify.com/artist/6UAMLsapd2AyfEAEVFaxmc) | [Vivo X la 25](https://open.spotify.com/album/3ALjIJVwq4AKqMaVPPSIM2) | 4:22 | 2022-04-01 | 2022-07-29 |
+| [Sorojchi \- En Vivo en La Ballena Azul](https://open.spotify.com/track/6rBDvf4uw2TQq1WFa8TfBD) | [Eruca Sativa](https://open.spotify.com/artist/2RPNbhguRnI9uqahGYcUc6) | [Seremos Primavera en Vivo en La Ballena Azul](https://open.spotify.com/album/7DKXSTitkkj1Rm7NcY27zv) | 4:58 | 2022-09-23 | 2022-10-06 |
 | [Soy Animal \- Live Usina del Arte](https://open.spotify.com/track/4S2enajs4ZHxiTXpwCRbBG) | [Adicta](https://open.spotify.com/artist/0BntHNt56FCbTMjSWq2iIG), [Zeta Bosio](https://open.spotify.com/artist/4IV0sLaMj3z30QiPFhonSd), [Fabio Rey](https://open.spotify.com/artist/4oB80tqG4R95ykA6PDrZLL) | [Soy Animal \(Live Usina del Arte\)](https://open.spotify.com/album/4YhNDyXQpdhDKgd0cku5Ia) | 3:43 | 2022-04-01 | 2022-07-29 |
 | [Strangerdanger \- En Vivo](https://open.spotify.com/track/16KeH2DTffqLuGOtOnHxLZ) | [Indio Solari](https://open.spotify.com/artist/0nUGkxUncFeXt0Dr0hhrc4), [Los Fundamentalistas del Aire Acondicionado](https://open.spotify.com/artist/1SKA2QwV2fwGgoMlx16FXO) | [Strangerdanger \(En Vivo\)](https://open.spotify.com/album/01GM7YDRe55MZHxHgjFgG7) | 3:04 | 2022-04-01 |  |
 | [Sucio y Desprolijo \- En Vivo Cosquín Rock](https://open.spotify.com/track/76Bt5vjnbxyr0JmxZKToTW) | [Pappo](https://open.spotify.com/artist/1db5TWniHR7iqwXer7AiQ2), [Charly García](https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo) | [Sucio y Desprolijo \(En Vivo Cosquín Rock\)](https://open.spotify.com/album/1PFc4pnap71P8RBNYxCfvR) | 5:33 | 2022-04-01 | 2022-07-29 |

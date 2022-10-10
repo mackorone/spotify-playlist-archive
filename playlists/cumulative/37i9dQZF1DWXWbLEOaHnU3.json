@@ -198,6 +198,24 @@
     },
     {
       "album": {
+        "name": "Altaria",
+        "url": "https://open.spotify.com/album/73HrRrtbJM0HBsJdi4I4Qc"
+      },
+      "artists": [
+        {
+          "name": "Dimatik",
+          "url": "https://open.spotify.com/artist/2Zvo5BEkHyaHD1zk180kMz"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167746,
+      "name": "Altaria",
+      "url": "https://open.spotify.com/track/07Lh4wRSYJ8uSYP9j14sD1"
+    },
+    {
+      "album": {
         "name": "Ancient Aum",
         "url": "https://open.spotify.com/album/7mXrF1il8uoZBOPpbbfvJ5"
       },
@@ -985,7 +1003,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-05",
+      "date_removed": "2022-10-07",
       "duration_ms": 379130,
       "name": "Dark Oscillator",
       "url": "https://open.spotify.com/track/4ioCpFK3ZYGHCLwIIV3NOW"
@@ -1222,6 +1240,32 @@
     },
     {
       "album": {
+        "name": "Euphoria",
+        "url": "https://open.spotify.com/album/1DoRi80ZXtwNN6gxsxhejL"
+      },
+      "artists": [
+        {
+          "name": "Alchimyst",
+          "url": "https://open.spotify.com/artist/2yrruLNIgKetksilWBdJHy"
+        },
+        {
+          "name": "Gproject",
+          "url": "https://open.spotify.com/artist/4hTA1aFIjHiyJhDb5sPW7P"
+        },
+        {
+          "name": "HYBIT",
+          "url": "https://open.spotify.com/artist/7JvI8sDHJ3vnAkfqS4XPW2"
+        }
+      ],
+      "date_added": "2022-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204961,
+      "name": "Euphoria",
+      "url": "https://open.spotify.com/track/79uWqZaYE5s0tq09FiEyMp"
+    },
+    {
+      "album": {
         "name": "Falling Down",
         "url": "https://open.spotify.com/album/4qWKZYFGNAJ7kaP5iwA3hH"
       },
@@ -1383,7 +1427,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-07",
       "duration_ms": 448695,
       "name": "Fragments of Insanity",
       "url": "https://open.spotify.com/track/3wzc6WSnx2HvJLHm5URrU3"
@@ -1946,6 +1990,28 @@
     },
     {
       "album": {
+        "name": "In Your Brain",
+        "url": "https://open.spotify.com/album/3sACaSs1m3josmsFSl7l4F"
+      },
+      "artists": [
+        {
+          "name": "Liquid Soul",
+          "url": "https://open.spotify.com/artist/64nL3MP8zmuLqUq8DDaIKS"
+        },
+        {
+          "name": "Silent Sphere",
+          "url": "https://open.spotify.com/artist/3ORNJm3rK0dgRXe8xndiph"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 462608,
+      "name": "In Your Brain - Original mix",
+      "url": "https://open.spotify.com/track/3RTs5J1MG8vWqs9TjBlhke"
+    },
+    {
+      "album": {
         "name": "Indian Spirit",
         "url": "https://open.spotify.com/album/3PLWnnpSMWdr1zU0Y0ex2P"
       },
@@ -2211,7 +2277,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-10",
       "duration_ms": 344350,
       "name": "Mad Ancestors",
       "url": "https://open.spotify.com/track/2xqspo1QaN7gGPwgnf3sWz"
@@ -2703,7 +2769,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 404317,
       "name": "Parallels",
       "url": "https://open.spotify.com/track/1yJ6dZFRecONfZHGnIrYru"
@@ -3317,7 +3383,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-06",
       "duration_ms": 263218,
       "name": "Smooth Operator",
       "url": "https://open.spotify.com/track/3wY0DLyit5UboF17RzhaTw"
@@ -3537,6 +3603,32 @@
       "duration_ms": 418285,
       "name": "Summer Never Ends",
       "url": "https://open.spotify.com/track/2TIPueGSHKcRuvsKf7VJmI"
+    },
+    {
+      "album": {
+        "name": "Sun & Moon (Blastoyz Remix)",
+        "url": "https://open.spotify.com/album/7ySVLJX79BVx2eCAu0oUQG"
+      },
+      "artists": [
+        {
+          "name": "Above & Beyond",
+          "url": "https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe"
+        },
+        {
+          "name": "Richard Bedford",
+          "url": "https://open.spotify.com/artist/5JbD3IL6449LrMT8ct6KTB"
+        },
+        {
+          "name": "Blastoyz",
+          "url": "https://open.spotify.com/artist/6WLP1sraOcF3Gaxp7xBa4p"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211002,
+      "name": "Sun & Moon - Blastoyz Remix",
+      "url": "https://open.spotify.com/track/4co3il6gimSyfEgN9MV4cl"
     },
     {
       "album": {
@@ -3899,7 +3991,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-05",
       "duration_ms": 257142,
       "name": "Transparent",
       "url": "https://open.spotify.com/track/4MRwMKUwl3ognSdlzQyZ9f"
@@ -4023,6 +4115,28 @@
       "duration_ms": 150909,
       "name": "Viera",
       "url": "https://open.spotify.com/track/1WLomcEjsvUCsjAnALioxF"
+    },
+    {
+      "album": {
+        "name": "Vikings",
+        "url": "https://open.spotify.com/album/1cjtiYZGIm7ItJbJMLIjul"
+      },
+      "artists": [
+        {
+          "name": "Raz",
+          "url": "https://open.spotify.com/artist/6AaKVN1QdU3HMRWH7tDva3"
+        },
+        {
+          "name": "Henrique Camacho",
+          "url": "https://open.spotify.com/artist/2NTtIgPZyELENThAeqfvR6"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 325962,
+      "name": "Vikings",
+      "url": "https://open.spotify.com/track/4ZkFgEWxurnQt1IA2nKL8z"
     },
     {
       "album": {

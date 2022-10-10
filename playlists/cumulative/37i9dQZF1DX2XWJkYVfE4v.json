@@ -1990,6 +1990,32 @@
     },
     {
       "album": {
+        "name": "An Evening of Classical: Rachmaninoff",
+        "url": "https://open.spotify.com/album/60BBEb4tEIL2tdBl4NKIeK"
+      },
+      "artists": [
+        {
+          "name": "Sergei Rachmaninoff",
+          "url": "https://open.spotify.com/artist/0Kekt6CKSo0m5mivKcoH51"
+        },
+        {
+          "name": "Alisa Weilerstein",
+          "url": "https://open.spotify.com/artist/342cJoM4xzPrRfLb8fYkuh"
+        },
+        {
+          "name": "Inon Barnatan",
+          "url": "https://open.spotify.com/artist/5ejziTkhdpyMUJvawZWuS2"
+        }
+      ],
+      "date_added": "2022-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 359266,
+      "name": "Vocalise, Op 34, No. 14",
+      "url": "https://open.spotify.com/track/4uJgG0wWIWtrChWI85YuPH"
+    },
+    {
+      "album": {
         "name": "A Season of Music: Rachmaninoff",
         "url": "https://open.spotify.com/album/3T4yr1uLXK4ppBXk3yWOBc"
       },
@@ -2009,7 +2035,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-09",
       "duration_ms": 359266,
       "name": "Vocalise, Op 34, No. 14",
       "url": "https://open.spotify.com/track/6m68bzPaSl2OZI2sTSQmK0"

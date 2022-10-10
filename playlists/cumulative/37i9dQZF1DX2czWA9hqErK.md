@@ -4,7 +4,7 @@
 
 > Laid back sounds to see you through your day.
 
-379 songs - 21 hr 28 min - [published](https://open.spotify.com/playlist/395pTXWBe61bIiK2GSpSLA)
+380 songs - 21 hr 31 min - [published](https://open.spotify.com/playlist/395pTXWBe61bIiK2GSpSLA)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,12 +67,12 @@
 | [California](https://open.spotify.com/track/3IVu2L2hITRxJedtpjbeSB) | [Toby Johnson](https://open.spotify.com/artist/6aWiYkCceJsc6lorPBdvIg) | [California](https://open.spotify.com/album/1bOhzCexdGpt6MKJYm3sjw) | 3:13 | 2022-01-17 | 2022-03-28 |
 | [Call Me A Dreamer](https://open.spotify.com/track/5PMp84lVFm0SWEWOx1aQsw) | [Kings Elliot](https://open.spotify.com/artist/3iUGCPBBseYhEhwqCG7PNy) | [Call Me A Dreamer](https://open.spotify.com/album/3zKpAuwGhuBpavexvu6ySj) | 3:48 | 2021-12-16 |  |
 | [call u mine](https://open.spotify.com/track/3wF0hfaYIMz9t47pGXGIXb) | [SAPPHIRE](https://open.spotify.com/artist/3lszNiPaTVlTlfsGuLgX9J) | [call u mine](https://open.spotify.com/album/4Ez0kzzreXaOpoWDJ6hzS4) | 3:46 | 2022-03-25 | 2022-04-21 |
-| [Called You Out](https://open.spotify.com/track/2I0hkWJEy3BhVBvkWsnW5S) | [Tamzene](https://open.spotify.com/artist/77YCAroJisD7uOECsiPcAL) | [Called You Out](https://open.spotify.com/album/50rX4SnIONzFzZD9kh94JL) | 2:35 | 2022-02-21 |  |
+| [Called You Out](https://open.spotify.com/track/2I0hkWJEy3BhVBvkWsnW5S) | [Tamzene](https://open.spotify.com/artist/77YCAroJisD7uOECsiPcAL) | [Called You Out](https://open.spotify.com/album/50rX4SnIONzFzZD9kh94JL) | 2:35 | 2022-02-21 | 2022-10-09 |
 | [Calm](https://open.spotify.com/track/6Oa5Syttsum4NuqohIMYwI) | [Hemes](https://open.spotify.com/artist/5vvJXaobeLAyZvQ9jLSOzl) | [Calm](https://open.spotify.com/album/0srwXjUXSLbrUIRtCgPGYK) | 2:57 | 2022-03-25 | 2022-04-05 |
 | [Camden](https://open.spotify.com/track/4w3vwDfM8CYyXlw3TWiCDV) | [Matilda Cole](https://open.spotify.com/artist/3E9GBigbPYos8ocrppL8OI) | [Camden](https://open.spotify.com/album/1pXZRsCDKgKDlhwS2vQzA6) | 4:09 | 2022-03-25 | 2022-04-04 |
 | [Change Your Mind](https://open.spotify.com/track/6rb8nnxO6NcPM6kl9iF8Ij) | [Poppy Ajudha](https://open.spotify.com/artist/6oPQiSj92N4mk5jXLtX1bl) | [Change Your Mind](https://open.spotify.com/album/6OFGEm1peWfbGKV1IouC7W) | 4:07 | 2022-02-21 | 2022-07-29 |
 | [chaotic](https://open.spotify.com/track/2bdqU7C4softKNcMYDFi96) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [chaotic](https://open.spotify.com/album/1nZmxiUXBgZZ82fy5A0yau) | 2:58 | 2022-03-29 |  |
-| [Chosen Family \(with Elton John\)](https://open.spotify.com/track/02XbzKFSMItMn60v2MmChs) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5), [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Chosen Family \(with Elton John\)](https://open.spotify.com/album/7iV4NiIjNFK2QvamKHGU8i) | 4:39 | 2021-12-16 | 2022-07-29 |
+| [Chosen Family \(with Elton John\)](https://open.spotify.com/track/02XbzKFSMItMn60v2MmChs) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5), [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Chosen Family \(with Elton John\)](https://open.spotify.com/album/7iV4NiIjNFK2QvamKHGU8i) | 4:39 | 2021-12-16 |  |
 | [christmas morning](https://open.spotify.com/track/2SAoJ45i8qWirGdSmCoabR) | [Luz](https://open.spotify.com/artist/3cdI6SvJ24KsOcvYyBwH9c) | [christmas morning](https://open.spotify.com/album/7CDTHxK6bLW45oOxRk5PJv) | 3:52 | 2021-12-16 | 2022-07-29 |
 | [Circles](https://open.spotify.com/track/6NzE4VCzkOJqhvu50petzp) | [Gavin James](https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE) | [Circles](https://open.spotify.com/album/759nAWr8uZcHeW5klHVE7T) | 3:04 | 2022-04-04 | 2022-07-29 |
 | [closed doors](https://open.spotify.com/track/6SzZkHnTey3zSPZwSxP2wK) | [emie nathan](https://open.spotify.com/artist/6vFlOaLfKZPqqJuJ3YWhAB) | [closed doors](https://open.spotify.com/album/576Xi5hfuVniNkeLdIapkb) | 3:13 | 2022-03-25 | 2022-05-04 |
@@ -161,7 +161,8 @@
 | [Hurtless](https://open.spotify.com/track/6HJizCbaqaEQG1eLjn341Z) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [Hurtless](https://open.spotify.com/album/1WKIR7hhHN1DvJPn09gIST) | 3:00 | 2022-04-04 |  |
 | [Hymn for Her \(feat\. Lydia Clowes\)](https://open.spotify.com/track/2mKl6EfVpKxrCIdAmMAruF) | [Tom Speight](https://open.spotify.com/artist/02U4dXZhGSo07f66l8JZ91), [Lydia Clowes](https://open.spotify.com/artist/4KNIAGw8aeV4ZgMxzjqkeH) | [Hymn for Her](https://open.spotify.com/album/4PYpVd1NV1nT6fpkWzhGIC) | 3:18 | 2021-12-16 | 2022-03-28 |
 | [I Burned LA Down](https://open.spotify.com/track/34Mg7rSCT7nRsf1kVCAvgz) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [I Burned LA Down](https://open.spotify.com/album/71EPoeTo5QAlsr2OWCRNhM) | 3:15 | 2022-04-11 | 2022-09-15 |
-| [I Burned LA Down](https://open.spotify.com/track/6HCE76ilvGMSibu8eki1nI) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [The Hardest Part](https://open.spotify.com/album/0CIYj6AV180SmLAEONb2DW) | 3:15 | 2022-09-13 |  |
+| [I Burned LA Down](https://open.spotify.com/track/5z8F06wTZvUOR5DzyWJ0L6) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [The Hardest Part](https://open.spotify.com/album/340COGAWuXWO66Qc4TxJuN) | 3:15 | 2022-09-13 |  |
+| [I Burned LA Down](https://open.spotify.com/track/6HCE76ilvGMSibu8eki1nI) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [The Hardest Part](https://open.spotify.com/album/0CIYj6AV180SmLAEONb2DW) | 3:15 | 2022-09-13 | 2022-10-07 |
 | [I Burned LA Down](https://open.spotify.com/track/7HCk1IxbjrRcQEAiMxAAFl) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [Every Beginning Ends](https://open.spotify.com/album/7pHo5Tov9GyzVnBLxPuHYB) | 3:15 | 2022-09-13 | 2022-09-20 |
 | [I Don't Think I Love You Anymore](https://open.spotify.com/track/0TS3G3xKO8B7guR0WrfxGO) | [Julia Church](https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727) | [I Don't Think I Love You Anymore](https://open.spotify.com/album/6YmBn9Xe8Hbt0baBDxCfMF) | 2:52 | 2022-04-04 | 2022-07-29 |
 | [I hate myself in <3](https://open.spotify.com/track/0yweXXrfN9PGizKifL7A78) | [MaZz](https://open.spotify.com/artist/107O5LIqkinsrUzpFr9gu7) | [I hate myself in <3](https://open.spotify.com/album/4Bq7ZqDJBsWZGsENcioZjX) | 3:56 | 2022-03-29 | 2022-04-20 |
@@ -347,7 +348,7 @@
 | [To Love A Man](https://open.spotify.com/track/659179UI47crJGFp0RrCwU) | [Celeste](https://open.spotify.com/artist/49HlOY4gkHqsYG9GCuhkcc) | [To Love A Man](https://open.spotify.com/album/2irkzjkPar5WAwxtoraDRU) | 2:41 | 2022-03-29 |  |
 | [Tomorrow](https://open.spotify.com/track/6Wzdn7uAFO9NU0SElyAvNZ) | [Paddy Keyes](https://open.spotify.com/artist/35yS9RQrpgVRsvPmIz1sGm) | [Tomorrow](https://open.spotify.com/album/1IfGMGxi8pA9obGmr5XTsN) | 4:15 | 2022-04-04 | 2022-07-09 |
 | [Tonsillitis](https://open.spotify.com/track/2TzV4l4LaElGyOdYGnJA7B) | [Michael Aldag](https://open.spotify.com/artist/2e1NO2tyaMZajNoWe71ZiJ) | [Tonsillitis](https://open.spotify.com/album/6S3kKtrp7v2TvEqz2FJ1Nd) | 3:45 | 2022-02-21 | 2022-03-01 |
-| [Tractor](https://open.spotify.com/track/6N1Nrd9oHFRAHsrEZPkxAR) | [Tom Rosenthal](https://open.spotify.com/artist/1AgxgADPuRIW1wyaA4OKcB) | [Tractor](https://open.spotify.com/album/1p0cwpoCTRfDYEvE5hoaRs) | 3:26 | 2022-03-25 | 2022-04-21 |
+| [Tractor](https://open.spotify.com/track/6N1Nrd9oHFRAHsrEZPkxAR) | [Tom Rosenthal](https://open.spotify.com/artist/1AgxgADPuRIW1wyaA4OKcB) | [Tractor](https://open.spotify.com/album/1p0cwpoCTRfDYEvE5hoaRs) | 3:26 | 2022-03-25 | 2022-10-10 |
 | [Trouble \- from ‘Three Months’](https://open.spotify.com/track/4lM46UnoFn4FP074aYWGxS) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP), [Jay Som](https://open.spotify.com/artist/1wmiQ6ytATiGnJs6uFluKO) | [Trouble \(from ‘Three Months’\)](https://open.spotify.com/album/4CVZnoqlaAEqSX6c1QQUI8) | 3:23 | 2022-02-21 |  |
 | [Trust Nobody](https://open.spotify.com/track/60noSWJZxLxgZBzmOKxckF) | [Ama Lou](https://open.spotify.com/artist/2tAqnHDAgnGtjnlzyoa38L) | [Trust Nobody](https://open.spotify.com/album/3Ysfk40yB4vJNCjflkD7tZ) | 3:15 | 2022-03-25 | 2022-04-12 |
 | [Twin](https://open.spotify.com/track/17MuSO2Pp6sZ3Dnrc4BTxu) | [Anna Mieke](https://open.spotify.com/artist/52HjDHLlkCYt5Pemr9wefL) | [Twin](https://open.spotify.com/album/5TyFSfaDYsFcXBlofHXNiq) | 5:17 | 2022-09-13 |  |

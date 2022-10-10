@@ -2,9 +2,9 @@
 
 ### [Indigo](https://open.spotify.com/playlist/37i9dQZF1DWUgBy0IJPlHq)
 
-> A new shade of Country\. Cover: Tyler Childers
+> A new shade of Country\. Cover: Warren Zeiders
 
-335 songs - 20 hr 37 min - [published](https://open.spotify.com/playlist/3YetB26RqGyFH6Ypx3VTr9)
+337 songs - 20 hr 43 min - [published](https://open.spotify.com/playlist/3YetB26RqGyFH6Ypx3VTr9)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,7 +66,7 @@
 | [Circles Around This Town](https://open.spotify.com/track/13G5xv1wUKvJYbK0wYmioN) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [Circles Around This Town](https://open.spotify.com/album/2MeNs8IOs7udC2CuiFKmlZ) | 3:15 | 2022-01-07 | 2022-05-28 |
 | [Collecting Dust](https://open.spotify.com/track/0Tm0JeMRDBd4AZr13eDclx) | [Bo Armstrong](https://open.spotify.com/artist/0fQXuVLddGG08vaJrDJQmv) | [Collecting Dust](https://open.spotify.com/album/5rICmJCVw98Yuu3cA7ItA4) | 2:58 | 2022-04-08 | 2022-07-30 |
 | [Colorado Blues](https://open.spotify.com/track/2a1YnK5daxSlKjfYEdTveh) | [Ryan Culwell](https://open.spotify.com/artist/40IqnqvUuwdqvOflDfyWZ6) | [Colorado Blues](https://open.spotify.com/album/13KX0b4NxsVYMWg1akI80F) | 2:37 | 2022-02-18 | 2022-07-29 |
-| [Colorado Blues](https://open.spotify.com/track/2uug7N1S3J0IXW8LaytlDO) | [Ryan Culwell](https://open.spotify.com/artist/40IqnqvUuwdqvOflDfyWZ6) | [Run Like a Bull](https://open.spotify.com/album/61PLAYtZkCVhS8PeOBMSZm) | 2:37 | 2022-07-22 |  |
+| [Colorado Blues](https://open.spotify.com/track/2uug7N1S3J0IXW8LaytlDO) | [Ryan Culwell](https://open.spotify.com/artist/40IqnqvUuwdqvOflDfyWZ6) | [Run Like a Bull](https://open.spotify.com/album/61PLAYtZkCVhS8PeOBMSZm) | 2:37 | 2022-07-22 | 2022-10-08 |
 | [Comeback Kid](https://open.spotify.com/track/1ViNv171bw5aC5rcD9MC4M) | [Town Mountain](https://open.spotify.com/artist/5cudslRGWg0GsXaN79Wifs) | [Comeback Kid](https://open.spotify.com/album/7vs8zVEytvdxIhIsgVYWgl) | 4:16 | 2022-09-16 |  |
 | [Common Law](https://open.spotify.com/track/5aImc0JnM01Y2LYNbdAx5T) | [Zoe Cummins](https://open.spotify.com/artist/6JQwJ01NpI4KojdmsN7Omh), [Gabe Lee](https://open.spotify.com/artist/4d7vxlNVahWbjoKO3ZBHD4) | [Common Law](https://open.spotify.com/album/2l8tS2MaLm9XUkmmWhmPZi) | 3:03 | 2022-07-08 |  |
 | [Country & Western](https://open.spotify.com/track/5HOg65WRx6rttRDRrRSW2E) | [Joshua Hedley](https://open.spotify.com/artist/6OJg4GNkAEtu0cfDVRbnjh) | [Neon Blue](https://open.spotify.com/album/4CHT5gYJygDJ1IzF1hPslk) | 3:04 | 2022-04-22 | 2022-09-24 |
@@ -87,7 +87,7 @@
 | [Dishes Ain't Done](https://open.spotify.com/track/5lxv6M8r1PW1r2f0nxZIRG) | [King Margo](https://open.spotify.com/artist/4nU1TOkubLd1C3dMnPLkiR), [Gabe Lee](https://open.spotify.com/artist/4d7vxlNVahWbjoKO3ZBHD4) | [Dishes Ain't Done](https://open.spotify.com/album/1rrYOXPzEqjg9brzMGzGMc) | 3:13 | 2022-08-19 |  |
 | [Doin' This](https://open.spotify.com/track/4GyD3o5hWoyCuYpdlzZlRL) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Doin' This](https://open.spotify.com/album/6bpCbQ5GTNZ9IE1nvJ0zQA) | 4:14 | 2021-12-17 | 2022-08-06 |
 | [Don't Blame It on Me](https://open.spotify.com/track/1XVLwPLqU18l5DRqNQS7m7) | [Kimberly Kelly](https://open.spotify.com/artist/5lXFUPKLFCgdpsP7WJ3Czc) | ["I'll Tell You What's Gonna Happen"](https://open.spotify.com/album/5H6WsuIbCm7xkRkDEmDTxN) | 3:37 | 2022-07-08 | 2022-09-10 |
-| [Don't Do It In Texas](https://open.spotify.com/track/0fCzJ0moRAJyt03FFbdZT3) | [Catie Offerman](https://open.spotify.com/artist/5uB8p8cO6UniAn2rnOsaXT) | [Don't Do It In Texas](https://open.spotify.com/album/2jPUGtTyhOEhG9V6sy5SeP) | 4:25 | 2022-05-20 |  |
+| [Don't Do It In Texas](https://open.spotify.com/track/0fCzJ0moRAJyt03FFbdZT3) | [Catie Offerman](https://open.spotify.com/artist/5uB8p8cO6UniAn2rnOsaXT) | [Don't Do It In Texas](https://open.spotify.com/album/2jPUGtTyhOEhG9V6sy5SeP) | 4:25 | 2022-05-20 | 2022-10-08 |
 | [Don't Tell Me How to Drink \(feat\. Chris Stapleton\)](https://open.spotify.com/track/6j92VOeYfbdPHAfKLiDYRz) | [Kendell Marvel](https://open.spotify.com/artist/7l77Y7qC5sVTsVoU2MymGX), [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Don't Tell Me How to Drink \(feat\. Chris Stapleton\)](https://open.spotify.com/album/24zjf4zpsjGhoiIZPyiiQv) | 3:15 | 2022-08-26 |  |
 | [Dooley's Farm \(feat\. Billy Strings\)](https://open.spotify.com/track/6mfq2McYfeiVIBa1tPA2gU) | [Molly Tuttle & Golden Highway](https://open.spotify.com/artist/1KVw3QwEmC8QMrpz0SV05n), [Molly Tuttle](https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE), [Billy Strings](https://open.spotify.com/artist/1ZN1c1qWEGZNX1pGeKCPpf) | [Crooked Tree](https://open.spotify.com/album/1lIZUzexPXR4Q7exPmNqCc) | 3:41 | 2022-04-01 |  |
 | [Dooley's Farm \(feat\. Billy Strings\)](https://open.spotify.com/track/6zy5mComj7NwXGSBQ9VVEd) | [Molly Tuttle & Golden Highway](https://open.spotify.com/artist/1KVw3QwEmC8QMrpz0SV05n), [Molly Tuttle](https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE), [Billy Strings](https://open.spotify.com/artist/1ZN1c1qWEGZNX1pGeKCPpf) | [Dooley's Farm \(feat\. Billy Strings\)](https://open.spotify.com/album/7j4q31uhuHLZb4tzVHhdkp) | 3:41 | 2022-02-25 | 2022-04-02 |
@@ -183,6 +183,7 @@
 | [Live Off](https://open.spotify.com/track/62NCBgd9im9741RNTVNahK) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Live Off](https://open.spotify.com/album/6H501XrhEEyC0ptAfiWO1C) | 3:35 | 2022-09-23 |  |
 | [Live With Me](https://open.spotify.com/track/0XvNERkCNQXBfnlwYLOLma) | [Sheryl Crow](https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD) | [Live With Me](https://open.spotify.com/album/4BE1HH4fHulpfVc2XGd4iL) | 3:23 | 2022-04-15 | 2022-06-04 |
 | [Long Game](https://open.spotify.com/track/0fE8J2qGiRxq2ybixfBygG) | [Emily Nenni](https://open.spotify.com/artist/63BuZ8jcRTEc8SLZdGlXQy) | [Long Game](https://open.spotify.com/album/0FbB9CA6nnPmFmz1Ka0zQy) | 3:00 | 2021-12-17 | 2022-03-05 |
+| [Long Journey Home](https://open.spotify.com/track/1LSTsFWHtku4E76HlIAOYm) | [Billy Strings](https://open.spotify.com/artist/1ZN1c1qWEGZNX1pGeKCPpf) | [Long Journey Home / Life To Go](https://open.spotify.com/album/5d7E0CoRDHwdPE0i3JW53C) | 2:57 | 2022-10-07 |  |
 | [Long, Long Year](https://open.spotify.com/track/0pLsmdx3085wYk87iU2A8T) | [Chris Shiflett](https://open.spotify.com/artist/5tv5SsSRqR7uLtpKZgcRrg) | [Long, Long Year](https://open.spotify.com/album/3vkg2n1PUlk9V4Q6jBRze8) | 4:19 | 2022-07-29 |  |
 | [Longneck Way To Go](https://open.spotify.com/track/5GZpFMMargJUqhbLoI94Tz) | [Midland](https://open.spotify.com/artist/1DTZRmlVZBxx2wRQBtx6yi), [Jon Pardi](https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN) | [Longneck Way To Go](https://open.spotify.com/album/37OKIJQT1W3fjkPkY6kyjg) | 3:08 | 2022-04-29 |  |
 | [Look At The Mess I'm In](https://open.spotify.com/track/4wWkQCynfdPWrjIIZZVBOD) | [Danielle Bradbery](https://open.spotify.com/artist/5iqStkZi6QmG8sgQZQrfGN) | [In Between: The Collection](https://open.spotify.com/album/3h2bg4Jw8gdCgrdtIXtLFz) | 3:00 | 2022-03-04 | 2022-10-01 |
@@ -207,6 +208,7 @@
 | [No Mistakes](https://open.spotify.com/track/2PXCc6js8bDejt118mTfKk) | [Sarah Shook & the Disarmers](https://open.spotify.com/artist/6ahZTaoJs2D0gcscsEx64r) | [No Mistakes](https://open.spotify.com/album/2NOEHe54jdS5JgyaVoggqd) | 2:52 | 2021-12-17 | 2022-02-12 |
 | [No Reservations](https://open.spotify.com/track/79AEKFhmY4nu5sdPYBWxMy) | [Alex Williams](https://open.spotify.com/artist/5cbi8Etv86wgoqJW2jfSyl) | [No Reservations](https://open.spotify.com/album/62g1Wa2a6lKjl4wRvzTyqq) | 3:44 | 2022-08-05 |  |
 | [Oklahoma Smokeshow](https://open.spotify.com/track/0OWhKvvsHptt6vnnNUSM9a) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Summertime Blues](https://open.spotify.com/album/2qPki6xBkJ1Mbra43t7hnA) | 3:31 | 2022-08-19 |  |
+| [Old Before My Time](https://open.spotify.com/track/1QaFCynmvTvyipCwY8d2s0) | [Alex Williams](https://open.spotify.com/artist/5cbi8Etv86wgoqJW2jfSyl) | [Old Before My Time](https://open.spotify.com/album/2x9OgHhWx59NIU7JV8iTd4) | 3:36 | 2022-10-07 |  |
 | [Old Enough to Know](https://open.spotify.com/track/1vpiutisvVInbnpeVDkALo) | [Blackberry Smoke](https://open.spotify.com/artist/5P1oS9DUTPEqcrmXDmX4p8) | [You Hear Georgia](https://open.spotify.com/album/4RTNA0EiZA2ZXkJnX6mt7g) | 3:28 | 2021-12-17 |  |
 | [On The Ranch](https://open.spotify.com/track/0mHgo4idHJkSRsv1z7Tuje) | [Emily Nenni](https://open.spotify.com/artist/63BuZ8jcRTEc8SLZdGlXQy) | [On The Ranch](https://open.spotify.com/album/5YTaHXkz05dmQdFVbB1JiS) | 2:48 | 2022-08-05 |  |
 | [On the Roof](https://open.spotify.com/track/1E3anxRwTDfSt4ORRzugNi) | [Sarah Buxton](https://open.spotify.com/artist/2xTlb6eueddQmWsxImpDbP) | [Moonriser](https://open.spotify.com/album/1bUNx1cbXakYu9pjfDbZsp) | 3:32 | 2022-03-04 | 2022-07-09 |

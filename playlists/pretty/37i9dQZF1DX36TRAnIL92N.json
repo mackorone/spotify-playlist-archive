@@ -1,12 +1,12 @@
 {
   "description": "High energy Techno to boost your workout.",
-  "num_followers": 38503,
+  "num_followers": 41749,
   "original_name": "Techno Workout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDU0MjUxMiwwMDAwMDAwMGI5ZmMxZTZlNGE2YjI0ODU2N2ZhMjdmOGU1Nzg0YzIy",
+  "snapshot_id": "MTY2NDU0MjUxMiwwMDAwMDAwMDliNmFjODczMzFlYTQ5ZjhlZmU2OTIzNTQ4ZmUzNmI0",
   "tracks": [
     {
       "added_at": "2022-09-09 16:00:00",
@@ -51,22 +51,6 @@
     {
       "added_at": "2022-09-09 16:00:00",
       "album": {
-        "name": "Silence EP",
-        "url": "https://open.spotify.com/album/0jk2PButBmv8Kqvu5x9Yys"
-      },
-      "artists": [
-        {
-          "name": "Enrico Sangiuliano",
-          "url": "https://open.spotify.com/artist/1u7DsNFbakULvxnDGtMm90"
-        }
-      ],
-      "duration_ms": 509090,
-      "name": "Future Dust - Original Mix",
-      "url": "https://open.spotify.com/track/3dwDBE5AMcHLxemIAEp2xb"
-    },
-    {
-      "added_at": "2022-09-09 16:00:00",
-      "album": {
         "name": "Mercury",
         "url": "https://open.spotify.com/album/5q2bsjSrluBoWf3F61Fofp"
       },
@@ -87,6 +71,22 @@
       "duration_ms": 225346,
       "name": "Mercury",
       "url": "https://open.spotify.com/track/25dFcH5EsCJLMSmFDDJLT3"
+    },
+    {
+      "added_at": "2022-09-09 16:00:00",
+      "album": {
+        "name": "Silence EP",
+        "url": "https://open.spotify.com/album/0jk2PButBmv8Kqvu5x9Yys"
+      },
+      "artists": [
+        {
+          "name": "Enrico Sangiuliano",
+          "url": "https://open.spotify.com/artist/1u7DsNFbakULvxnDGtMm90"
+        }
+      ],
+      "duration_ms": 509090,
+      "name": "Future Dust - Original Mix",
+      "url": "https://open.spotify.com/track/3dwDBE5AMcHLxemIAEp2xb"
     },
     {
       "added_at": "2022-09-09 16:00:00",
@@ -191,26 +191,6 @@
     {
       "added_at": "2022-09-09 16:00:00",
       "album": {
-        "name": "Choir Of Spirits",
-        "url": "https://open.spotify.com/album/7yGPNpwNMQmMb6ufCztgnd"
-      },
-      "artists": [
-        {
-          "name": "Push",
-          "url": "https://open.spotify.com/artist/2Xy6YLSsHR6TdBUFm5bnLR"
-        },
-        {
-          "name": "Joyhauser",
-          "url": "https://open.spotify.com/artist/59a1Bp0JQfL2mGnpL0lW2Y"
-        }
-      ],
-      "duration_ms": 405439,
-      "name": "Choir Of Spirits",
-      "url": "https://open.spotify.com/track/0V6GWgubCBR8955ZWtJ4WR"
-    },
-    {
-      "added_at": "2022-09-09 16:00:00",
-      "album": {
         "name": "Rock With Me",
         "url": "https://open.spotify.com/album/7g7DbWfA0XSpsnFsyrvRlP"
       },
@@ -241,7 +221,27 @@
       "url": "https://open.spotify.com/track/3YR7XdHKPA21815NjqWZeB"
     },
     {
-      "added_at": "2022-10-02 01:44:11",
+      "added_at": "2022-09-09 16:00:00",
+      "album": {
+        "name": "Choir Of Spirits",
+        "url": "https://open.spotify.com/album/7yGPNpwNMQmMb6ufCztgnd"
+      },
+      "artists": [
+        {
+          "name": "Push",
+          "url": "https://open.spotify.com/artist/2Xy6YLSsHR6TdBUFm5bnLR"
+        },
+        {
+          "name": "Joyhauser",
+          "url": "https://open.spotify.com/artist/59a1Bp0JQfL2mGnpL0lW2Y"
+        }
+      ],
+      "duration_ms": 405439,
+      "name": "Choir Of Spirits",
+      "url": "https://open.spotify.com/track/0V6GWgubCBR8955ZWtJ4WR"
+    },
+    {
+      "added_at": "2022-10-10 01:43:17",
       "album": {
         "name": "Lonely Traveller",
         "url": "https://open.spotify.com/album/4i9RkTe3UWHPknzuGLHHit"
@@ -255,6 +255,22 @@
       "duration_ms": 366038,
       "name": "Lonely Traveller",
       "url": "https://open.spotify.com/track/2tfiF1GUsv0z78VraiNU5A"
+    },
+    {
+      "added_at": "2022-09-09 16:00:00",
+      "album": {
+        "name": "Believe",
+        "url": "https://open.spotify.com/album/3vUbTHFU39OGMaJ3VGD98N"
+      },
+      "artists": [
+        {
+          "name": "Eli Brown",
+          "url": "https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU"
+        }
+      ],
+      "duration_ms": 408669,
+      "name": "Believe",
+      "url": "https://open.spotify.com/track/40up5wCfwQXTDXyE18hJbJ"
     },
     {
       "added_at": "2022-09-09 16:00:00",
@@ -281,23 +297,7 @@
       "url": "https://open.spotify.com/track/2XWBbVold8LNroIDyeockI"
     },
     {
-      "added_at": "2022-09-09 16:00:00",
-      "album": {
-        "name": "Believe",
-        "url": "https://open.spotify.com/album/3vUbTHFU39OGMaJ3VGD98N"
-      },
-      "artists": [
-        {
-          "name": "Eli Brown",
-          "url": "https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU"
-        }
-      ],
-      "duration_ms": 408669,
-      "name": "Believe",
-      "url": "https://open.spotify.com/track/40up5wCfwQXTDXyE18hJbJ"
-    },
-    {
-      "added_at": "2022-10-02 01:44:11",
+      "added_at": "2022-10-10 01:43:17",
       "album": {
         "name": "Human Race",
         "url": "https://open.spotify.com/album/3MzWSjySATxEmYtzbJKsUD"
@@ -335,18 +335,18 @@
     {
       "added_at": "2022-09-09 16:00:00",
       "album": {
-        "name": "The Door",
-        "url": "https://open.spotify.com/album/66aDv1U1CYdiipT7fS4Z17"
+        "name": "You Can't Stop Us",
+        "url": "https://open.spotify.com/album/2ysLpJ6RrQzrZQU3ZpO5rM"
       },
       "artists": [
         {
-          "name": "Space 92",
-          "url": "https://open.spotify.com/artist/6TVdVlY6irsNPkMHT2HkfD"
+          "name": "Denise Schneider",
+          "url": "https://open.spotify.com/artist/4SEeGhPJv9I6WQl2loHMmI"
         }
       ],
-      "duration_ms": 378184,
-      "name": "The Door",
-      "url": "https://open.spotify.com/track/2R5j17Th87vImCG2YEQY6p"
+      "duration_ms": 142153,
+      "name": "You Can't Stop Us",
+      "url": "https://open.spotify.com/track/39stAgopu3xQH0ZpEiNNw3"
     },
     {
       "added_at": "2022-09-09 16:00:00",
@@ -371,18 +371,18 @@
     {
       "added_at": "2022-09-09 16:00:00",
       "album": {
-        "name": "You Can't Stop Us",
-        "url": "https://open.spotify.com/album/2ysLpJ6RrQzrZQU3ZpO5rM"
+        "name": "The Door",
+        "url": "https://open.spotify.com/album/66aDv1U1CYdiipT7fS4Z17"
       },
       "artists": [
         {
-          "name": "Denise Schneider",
-          "url": "https://open.spotify.com/artist/4SEeGhPJv9I6WQl2loHMmI"
+          "name": "Space 92",
+          "url": "https://open.spotify.com/artist/6TVdVlY6irsNPkMHT2HkfD"
         }
       ],
-      "duration_ms": 142153,
-      "name": "You Can't Stop Us",
-      "url": "https://open.spotify.com/track/39stAgopu3xQH0ZpEiNNw3"
+      "duration_ms": 378184,
+      "name": "The Door",
+      "url": "https://open.spotify.com/track/2R5j17Th87vImCG2YEQY6p"
     },
     {
       "added_at": "2022-09-09 16:00:00",
@@ -443,22 +443,6 @@
     {
       "added_at": "2022-09-09 16:00:00",
       "album": {
-        "name": "In Trance",
-        "url": "https://open.spotify.com/album/2kbVZWawvUewEVkbuNhri7"
-      },
-      "artists": [
-        {
-          "name": "Dominik Saltevski",
-          "url": "https://open.spotify.com/artist/5SRcKErsuBLiDZDfFtOBGN"
-        }
-      ],
-      "duration_ms": 357305,
-      "name": "In Trance",
-      "url": "https://open.spotify.com/track/3YcuaBQ6HJGwPPmiJ2UEiL"
-    },
-    {
-      "added_at": "2022-09-09 16:00:00",
-      "album": {
         "name": "Digital Age",
         "url": "https://open.spotify.com/album/1FS174VHssFFCmZajvmQ6t"
       },
@@ -475,62 +459,18 @@
     {
       "added_at": "2022-09-09 16:00:00",
       "album": {
-        "name": "Control",
-        "url": "https://open.spotify.com/album/5G6vurrV89G90eb1EVINKF"
+        "name": "In Trance",
+        "url": "https://open.spotify.com/album/2kbVZWawvUewEVkbuNhri7"
       },
       "artists": [
         {
-          "name": "UMEK",
-          "url": "https://open.spotify.com/artist/5Hini2nQyoglzpdKe41cZt"
-        },
-        {
-          "name": "Popof",
-          "url": "https://open.spotify.com/artist/4f2K0RSYyxP4TUyZu1azYB"
-        },
-        {
-          "name": "Space 92",
-          "url": "https://open.spotify.com/artist/6TVdVlY6irsNPkMHT2HkfD"
+          "name": "Dominik Saltevski",
+          "url": "https://open.spotify.com/artist/5SRcKErsuBLiDZDfFtOBGN"
         }
       ],
-      "duration_ms": 387807,
-      "name": "Control - Original Mix",
-      "url": "https://open.spotify.com/track/3cwXKrP3RuQ6vlwvwUMJcZ"
-    },
-    {
-      "added_at": "2022-09-09 16:00:00",
-      "album": {
-        "name": "Adrenaline",
-        "url": "https://open.spotify.com/album/6LLsf3g5lH1Up0v09IXajh"
-      },
-      "artists": [
-        {
-          "name": "Deborah de Luca",
-          "url": "https://open.spotify.com/artist/144HzhpLjcR9k37w5Ico9B"
-        }
-      ],
-      "duration_ms": 413538,
-      "name": "Adrenaline",
-      "url": "https://open.spotify.com/track/110oOecgIEMdjl5kOLtPCd"
-    },
-    {
-      "added_at": "2022-09-09 16:00:00",
-      "album": {
-        "name": "ME/AN",
-        "url": "https://open.spotify.com/album/501Goc9jbp4cFU1PN7HRVR"
-      },
-      "artists": [
-        {
-          "name": "Marco V",
-          "url": "https://open.spotify.com/artist/24xpaWFyBOwoB8lBBolWzv"
-        },
-        {
-          "name": "Vision 20/20",
-          "url": "https://open.spotify.com/artist/2H3YaPmQxrV9eHZ9lcmvoM"
-        }
-      ],
-      "duration_ms": 229545,
-      "name": "ME/AN",
-      "url": "https://open.spotify.com/track/1SyfZAsQpy1ITVx96ZCjZy"
+      "duration_ms": 357305,
+      "name": "In Trance",
+      "url": "https://open.spotify.com/track/3YcuaBQ6HJGwPPmiJ2UEiL"
     },
     {
       "added_at": "2022-09-09 16:00:00",
@@ -567,6 +507,30 @@
     {
       "added_at": "2022-09-09 16:00:00",
       "album": {
+        "name": "Control",
+        "url": "https://open.spotify.com/album/5G6vurrV89G90eb1EVINKF"
+      },
+      "artists": [
+        {
+          "name": "UMEK",
+          "url": "https://open.spotify.com/artist/5Hini2nQyoglzpdKe41cZt"
+        },
+        {
+          "name": "Popof",
+          "url": "https://open.spotify.com/artist/4f2K0RSYyxP4TUyZu1azYB"
+        },
+        {
+          "name": "Space 92",
+          "url": "https://open.spotify.com/artist/6TVdVlY6irsNPkMHT2HkfD"
+        }
+      ],
+      "duration_ms": 387807,
+      "name": "Control - Original Mix",
+      "url": "https://open.spotify.com/track/3cwXKrP3RuQ6vlwvwUMJcZ"
+    },
+    {
+      "added_at": "2022-09-09 16:00:00",
+      "album": {
         "name": "Together One Time",
         "url": "https://open.spotify.com/album/3lj2pp5dJlBCLS1rHD2MHM"
       },
@@ -579,6 +543,42 @@
       "duration_ms": 288671,
       "name": "Together One Time",
       "url": "https://open.spotify.com/track/5J7b7SmcTkhmO31mF0tEja"
+    },
+    {
+      "added_at": "2022-09-09 16:00:00",
+      "album": {
+        "name": "ME/AN",
+        "url": "https://open.spotify.com/album/501Goc9jbp4cFU1PN7HRVR"
+      },
+      "artists": [
+        {
+          "name": "Marco V",
+          "url": "https://open.spotify.com/artist/24xpaWFyBOwoB8lBBolWzv"
+        },
+        {
+          "name": "Vision 20/20",
+          "url": "https://open.spotify.com/artist/2H3YaPmQxrV9eHZ9lcmvoM"
+        }
+      ],
+      "duration_ms": 229545,
+      "name": "ME/AN",
+      "url": "https://open.spotify.com/track/1SyfZAsQpy1ITVx96ZCjZy"
+    },
+    {
+      "added_at": "2022-09-09 16:00:00",
+      "album": {
+        "name": "Adrenaline",
+        "url": "https://open.spotify.com/album/6LLsf3g5lH1Up0v09IXajh"
+      },
+      "artists": [
+        {
+          "name": "Deborah de Luca",
+          "url": "https://open.spotify.com/artist/144HzhpLjcR9k37w5Ico9B"
+        }
+      ],
+      "duration_ms": 413538,
+      "name": "Adrenaline",
+      "url": "https://open.spotify.com/track/110oOecgIEMdjl5kOLtPCd"
     },
     {
       "added_at": "2022-09-09 16:00:00",
@@ -615,42 +615,6 @@
       "duration_ms": 390000,
       "name": "Little Hero",
       "url": "https://open.spotify.com/track/73Z9bB6pDnpj4pQhzScrWm"
-    },
-    {
-      "added_at": "2022-09-09 16:00:00",
-      "album": {
-        "name": "Sentinel",
-        "url": "https://open.spotify.com/album/6NW9OxkPQGEJxMeOXOwWDC"
-      },
-      "artists": [
-        {
-          "name": "Clap Codex",
-          "url": "https://open.spotify.com/artist/56e9JiuPAOzwsOa8TDe3xj"
-        },
-        {
-          "name": "Julien Riess",
-          "url": "https://open.spotify.com/artist/2qmoexIy9YzYFb0xmjzh4N"
-        }
-      ],
-      "duration_ms": 388500,
-      "name": "Sentinel - Original Mix",
-      "url": "https://open.spotify.com/track/4aWmC3OCOyPqm6JzqF2LYf"
-    },
-    {
-      "added_at": "2022-09-09 16:00:00",
-      "album": {
-        "name": "Portal",
-        "url": "https://open.spotify.com/album/6T5CoNOEybQMMYcbQhJl3G"
-      },
-      "artists": [
-        {
-          "name": "Daniel Levak",
-          "url": "https://open.spotify.com/artist/0M9vCRnHAMGWUi9i89LLeh"
-        }
-      ],
-      "duration_ms": 384000,
-      "name": "Portal",
-      "url": "https://open.spotify.com/track/1TcRzgi5McBcFnvCmO5tTd"
     },
     {
       "added_at": "2022-09-09 16:00:00",
@@ -711,6 +675,42 @@
     {
       "added_at": "2022-09-09 16:00:00",
       "album": {
+        "name": "Sentinel",
+        "url": "https://open.spotify.com/album/6NW9OxkPQGEJxMeOXOwWDC"
+      },
+      "artists": [
+        {
+          "name": "Clap Codex",
+          "url": "https://open.spotify.com/artist/56e9JiuPAOzwsOa8TDe3xj"
+        },
+        {
+          "name": "Julien Riess",
+          "url": "https://open.spotify.com/artist/2qmoexIy9YzYFb0xmjzh4N"
+        }
+      ],
+      "duration_ms": 388500,
+      "name": "Sentinel - Original Mix",
+      "url": "https://open.spotify.com/track/4aWmC3OCOyPqm6JzqF2LYf"
+    },
+    {
+      "added_at": "2022-09-09 16:00:00",
+      "album": {
+        "name": "Portal",
+        "url": "https://open.spotify.com/album/6T5CoNOEybQMMYcbQhJl3G"
+      },
+      "artists": [
+        {
+          "name": "Daniel Levak",
+          "url": "https://open.spotify.com/artist/0M9vCRnHAMGWUi9i89LLeh"
+        }
+      ],
+      "duration_ms": 384000,
+      "name": "Portal",
+      "url": "https://open.spotify.com/track/1TcRzgi5McBcFnvCmO5tTd"
+    },
+    {
+      "added_at": "2022-09-09 16:00:00",
+      "album": {
         "name": "Back for Rave",
         "url": "https://open.spotify.com/album/4UrzT4RqWT6yLzcy66yHGE"
       },
@@ -727,18 +727,18 @@
     {
       "added_at": "2022-09-09 16:00:00",
       "album": {
-        "name": "Huys",
-        "url": "https://open.spotify.com/album/2sS1FtLIaTlF841XRlvtZK"
+        "name": "We Control",
+        "url": "https://open.spotify.com/album/5F2AxyNUfQ9jVfsVJMG9jl"
       },
       "artists": [
         {
-          "name": "Anahit Vardanyan",
-          "url": "https://open.spotify.com/artist/3B0Z2WunAUciyiCc3DsnAa"
+          "name": "Lilly Palmer",
+          "url": "https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU"
         }
       ],
-      "duration_ms": 440454,
-      "name": "Huys",
-      "url": "https://open.spotify.com/track/2gHhVQLkEn5HdKrfxMrXQM"
+      "duration_ms": 231437,
+      "name": "Don't Look Back",
+      "url": "https://open.spotify.com/track/6Z2NosTNVXFCTqKG3HmB04"
     },
     {
       "added_at": "2022-09-09 16:00:00",
@@ -779,18 +779,18 @@
     {
       "added_at": "2022-09-09 16:00:00",
       "album": {
-        "name": "Hercules",
-        "url": "https://open.spotify.com/album/4ovF2Pg29wZVZDPCSqYIRV"
+        "name": "Aura",
+        "url": "https://open.spotify.com/album/2G1zDCzWRHxouEiscYuz6D"
       },
       "artists": [
         {
-          "name": "AKKI (DE)",
-          "url": "https://open.spotify.com/artist/0hReHYoLJG38QBwYIZ8zKs"
+          "name": "Horisone",
+          "url": "https://open.spotify.com/artist/4QK6kc57qNZNCb8DZ68tOr"
         }
       ],
-      "duration_ms": 392008,
-      "name": "Hercules",
-      "url": "https://open.spotify.com/track/56fFmIpNTFTcQSrfCNxeyu"
+      "duration_ms": 412498,
+      "name": "Aura",
+      "url": "https://open.spotify.com/track/1fg0Cj0VYuMue9IWcEKtVP"
     },
     {
       "added_at": "2022-09-09 16:00:00",
@@ -807,54 +807,6 @@
       "duration_ms": 400172,
       "name": "Rebirth",
       "url": "https://open.spotify.com/track/1c3OaOeSogCpXTa8BhnBEq"
-    },
-    {
-      "added_at": "2022-09-09 16:00:00",
-      "album": {
-        "name": "We Control",
-        "url": "https://open.spotify.com/album/5F2AxyNUfQ9jVfsVJMG9jl"
-      },
-      "artists": [
-        {
-          "name": "Lilly Palmer",
-          "url": "https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU"
-        }
-      ],
-      "duration_ms": 231437,
-      "name": "Don't Look Back",
-      "url": "https://open.spotify.com/track/6Z2NosTNVXFCTqKG3HmB04"
-    },
-    {
-      "added_at": "2022-09-09 16:00:00",
-      "album": {
-        "name": "Attention",
-        "url": "https://open.spotify.com/album/11gyGSY3EFkKd0g9y4aY8O"
-      },
-      "artists": [
-        {
-          "name": "Warp Brothers",
-          "url": "https://open.spotify.com/artist/1npPQS3PDH4xmOhYxB2L0T"
-        }
-      ],
-      "duration_ms": 357227,
-      "name": "Attention",
-      "url": "https://open.spotify.com/track/1qvzL0oWnc4msWpcDiAmGG"
-    },
-    {
-      "added_at": "2022-09-09 16:00:00",
-      "album": {
-        "name": "Aura",
-        "url": "https://open.spotify.com/album/2G1zDCzWRHxouEiscYuz6D"
-      },
-      "artists": [
-        {
-          "name": "Horisone",
-          "url": "https://open.spotify.com/artist/4QK6kc57qNZNCb8DZ68tOr"
-        }
-      ],
-      "duration_ms": 412498,
-      "name": "Aura",
-      "url": "https://open.spotify.com/track/1fg0Cj0VYuMue9IWcEKtVP"
     },
     {
       "added_at": "2022-09-09 16:00:00",
@@ -891,6 +843,54 @@
       "duration_ms": 220488,
       "name": "Deep Down",
       "url": "https://open.spotify.com/track/4Lt27VZ8plZTjllm4jeb3x"
+    },
+    {
+      "added_at": "2022-09-09 16:00:00",
+      "album": {
+        "name": "Hercules",
+        "url": "https://open.spotify.com/album/4ovF2Pg29wZVZDPCSqYIRV"
+      },
+      "artists": [
+        {
+          "name": "AKKI (DE)",
+          "url": "https://open.spotify.com/artist/0hReHYoLJG38QBwYIZ8zKs"
+        }
+      ],
+      "duration_ms": 392008,
+      "name": "Hercules",
+      "url": "https://open.spotify.com/track/56fFmIpNTFTcQSrfCNxeyu"
+    },
+    {
+      "added_at": "2022-09-09 16:00:00",
+      "album": {
+        "name": "Attention",
+        "url": "https://open.spotify.com/album/11gyGSY3EFkKd0g9y4aY8O"
+      },
+      "artists": [
+        {
+          "name": "Warp Brothers",
+          "url": "https://open.spotify.com/artist/1npPQS3PDH4xmOhYxB2L0T"
+        }
+      ],
+      "duration_ms": 357227,
+      "name": "Attention",
+      "url": "https://open.spotify.com/track/1qvzL0oWnc4msWpcDiAmGG"
+    },
+    {
+      "added_at": "2022-09-09 16:00:00",
+      "album": {
+        "name": "Huys",
+        "url": "https://open.spotify.com/album/2sS1FtLIaTlF841XRlvtZK"
+      },
+      "artists": [
+        {
+          "name": "Anahit Vardanyan",
+          "url": "https://open.spotify.com/artist/3B0Z2WunAUciyiCc3DsnAa"
+        }
+      ],
+      "duration_ms": 440454,
+      "name": "Huys",
+      "url": "https://open.spotify.com/track/2gHhVQLkEn5HdKrfxMrXQM"
     }
   ],
   "unique_name": "Techno Workout",

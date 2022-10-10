@@ -4,7 +4,7 @@
 
 > 只有散步，我們才是真正聊天。邊首廣東歌，令你諗起同你散步嘅佢？
 
-88 songs - 5 hr 29 min - [published](https://open.spotify.com/playlist/40APne10sJapUUxupUCyA9)
+89 songs - 5 hr 33 min - [published](https://open.spotify.com/playlist/40APne10sJapUUxupUCyA9)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,7 +62,8 @@
 | [我在流浮山滴眼水.jpg](https://open.spotify.com/track/5x9Clj56YLmklm3Zikx2iF) | [Serrini](https://open.spotify.com/artist/0u3m5Sy2zsq4Gk0aduH9s7) | [我在流浮山滴眼水.jpg](https://open.spotify.com/album/4O5Xl1fqOvpIfahlYWWndA) | 4:15 | 2022-04-11 |  |
 | [我歌...故我在](https://open.spotify.com/track/3pruLLJGqp1kptGJkpy4U4) | [Kay Tse](https://open.spotify.com/artist/6XtWdWAC7rNqXwbs8hGqP9) | [Kay One](https://open.spotify.com/album/1LDyfgkBcAMRIzKGUfiDoF) | 4:15 | 2022-04-11 |  |
 | [我的日記](https://open.spotify.com/track/2h16JePtYmFmTFHpecFS7F) | [野仔](https://open.spotify.com/artist/6Nt2UPCCDXsFlY3lEZ3zpx) | [Rock 'n' Wild Never Die](https://open.spotify.com/album/6XGM6IxoqeErG8w0rUH69V) | 4:30 | 2022-04-11 |  |
-| [早晨 \(feat\. Eric Kot\)](https://open.spotify.com/track/27sNF04M9kZJ5hO9b6aSws) | [Jan Curious](https://open.spotify.com/artist/1DxU7yGnE1XPeLYzOHdKSy), [葛民輝](https://open.spotify.com/artist/11lwiMBYOFjrom9mwWNK1K) | [亞水](https://open.spotify.com/album/5BIynFkSbcq2esNGgH4YwO) | 4:07 | 2022-04-11 |  |
+| [早晨 \(feat\. Eric Kot\)](https://open.spotify.com/track/7wEPNiTuG6LrNwBByWTNxx) | [Jan Curious](https://open.spotify.com/artist/1DxU7yGnE1XPeLYzOHdKSy), [Eric Kot](https://open.spotify.com/artist/7IbWEU61yGFiosm9FHPOfZ) | [亞水](https://open.spotify.com/album/3Tq4VEvtEoMpG3qh8fR145) | 4:07 | 2022-09-20 |  |
+| [早晨 \(feat\. Eric Kot\)](https://open.spotify.com/track/27sNF04M9kZJ5hO9b6aSws) | [Jan Curious](https://open.spotify.com/artist/1DxU7yGnE1XPeLYzOHdKSy), [葛民輝](https://open.spotify.com/artist/11lwiMBYOFjrom9mwWNK1K) | [亞水](https://open.spotify.com/album/5BIynFkSbcq2esNGgH4YwO) | 4:07 | 2022-04-11 | 2022-10-09 |
 | [明年見 \- Duet Version](https://open.spotify.com/track/1SvgBClOuipapA4pPgToDW) | [ONE PROMISE](https://open.spotify.com/artist/3GwQM8FuFMkdHSPu4qvKli), [Jer 柳應廷](https://open.spotify.com/artist/6FH5vFm7hqDm3UzEAYuizY) | [明年見 \(Duet Version\)](https://open.spotify.com/album/5P1ROMSpZ92Y5l19RrIv9g) | 3:45 | 2022-04-11 |  |
 | [最佳位置](https://open.spotify.com/track/6nyZs944tlz4TtYeJ2OEMr) | [Bondy Chiu](https://open.spotify.com/artist/0JI4jLIt8LAfUID400KRl7) | [鑑聽天碟](https://open.spotify.com/album/6RjVCJ4qHoeeIj8I94HEDY) | 3:52 | 2022-04-11 |  |
 | [最難唱的情歌](https://open.spotify.com/track/6LMRfMFk97tM79lWJYTdAW) | [At17](https://open.spotify.com/artist/21Ep61xfoCPTDMMPPy0i0z) | [Threesome](https://open.spotify.com/album/4Bn7uXDjOqkHZ1atMprNF0) | 3:24 | 2022-04-11 |  |

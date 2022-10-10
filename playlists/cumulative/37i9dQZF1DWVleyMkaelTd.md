@@ -4,7 +4,7 @@
 
 > Soundtrack your cozy dinner with bossa nova jazz.
 
-119 songs - 7 hr 33 min - [published](https://open.spotify.com/playlist/00GgJo3w4SYrEnE4bIAXpT)
+120 songs - 7 hr 37 min - [published](https://open.spotify.com/playlist/00GgJo3w4SYrEnE4bIAXpT)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,7 +52,7 @@
 | [Enjoy Your Cigar](https://open.spotify.com/track/5WaOOx9Q5BJhJAfQaxnaaN) | [Magnus Ringblom Quartet](https://open.spotify.com/artist/253IbsVCS7UKpL61Dv5hru) | [Sunset Martini](https://open.spotify.com/album/7wVdlgOP7d5mRO64fvspVb) | 3:42 | 2022-08-10 |  |
 | [Escada Infinita](https://open.spotify.com/track/22tlsA8FUS6wDbGjqioZnq) | [Danny Mandalay](https://open.spotify.com/artist/34aetUeuJ0C1phjVY5F4vl) | [Novo Bossa Nova](https://open.spotify.com/album/3SZQaNaCS69Nvos8Ix5jzM) | 3:20 | 2022-04-26 |  |
 | [Esqueleto](https://open.spotify.com/track/60MvQP2d1MtTkcLZXbw0wn) | [Elevador](https://open.spotify.com/artist/7oZpGYjTZ3Jkw8ugYlJf7E) | [Cão Vadio](https://open.spotify.com/album/0SXFiAavVPGoaTbeRtsMt1) | 3:50 | 2022-04-26 |  |
-| [Essa é Pro João](https://open.spotify.com/track/26S40PKjEz1FZZJabKRVch) | [Rosa Passos](https://open.spotify.com/artist/1ztbuuZdlymbE7XnHlj0nP) | [Amorosa](https://open.spotify.com/album/7cT8aPmqRKH72T0HwwIckz) | 3:01 | 2022-04-26 |  |
+| [Essa é Pro João](https://open.spotify.com/track/26S40PKjEz1FZZJabKRVch) | [Rosa Passos](https://open.spotify.com/artist/1ztbuuZdlymbE7XnHlj0nP) | [Amorosa](https://open.spotify.com/album/7cT8aPmqRKH72T0HwwIckz) | 3:01 | 2022-04-26 | 2022-10-07 |
 | [Estamos Ái](https://open.spotify.com/track/4EcIXzbnuTibtjTL5UxL0N) | [Xavier Mendoza](https://open.spotify.com/artist/7nhIjZfce2dcORg7gWGp73) | [Estamos Ái](https://open.spotify.com/album/69GvftuW0XyTcVKRWxrcP7) | 3:25 | 2022-08-30 |  |
 | [Estate](https://open.spotify.com/track/4gzyWqG3sEWGOpe8DhIdS1) | [da Suécia](https://open.spotify.com/artist/4oOtPyWe8TK5mn4gKJDNse) | [Estate](https://open.spotify.com/album/2aAHY1D8FLEOu0nPSMxmRQ) | 4:32 | 2022-04-26 |  |
 | [Estate](https://open.spotify.com/track/5zAGy79fGOXmJILqCGf0Q1) | [Eugene Lambert](https://open.spotify.com/artist/0Qgio0Sb91TA2BZMDmaIvl) | [House Of Jade](https://open.spotify.com/album/6yZpRJ5kwvKg67eiI8uRZR) | 7:22 | 2022-04-26 |  |
@@ -89,6 +89,7 @@
 | [O Que Será](https://open.spotify.com/track/4ETY0pZlXh8rgVixElVF1E) | [Red Room Rio Band](https://open.spotify.com/artist/6DcYlMfcRxVRZAdGU6fpOh) | [Eu vim da Bahia](https://open.spotify.com/album/1tQ1u6Kms69YAw9tjWMdF3) | 3:45 | 2022-04-26 |  |
 | [O Sabor Mais Doce](https://open.spotify.com/track/0hWp43PwXj9zQl6ZZDFYRm) | [Jeferson Rios](https://open.spotify.com/artist/4PswPp5S57DQ5RJ39Y5Fj6) | [O Sabor Mais Doce](https://open.spotify.com/album/1sdxkpmLhPsz8JI1dunCFo) | 3:03 | 2022-04-26 |  |
 | [O Viajante](https://open.spotify.com/track/1chb80aIieV42kYzBVQwTK) | [Jeferson Rios](https://open.spotify.com/artist/4PswPp5S57DQ5RJ39Y5Fj6) | [O Sabor Mais Doce](https://open.spotify.com/album/1sdxkpmLhPsz8JI1dunCFo) | 2:55 | 2022-04-26 |  |
+| [Ocean Love](https://open.spotify.com/track/76Y1aQHyjMst7Fm6rvjzvc) | [Xavier Mendoza](https://open.spotify.com/artist/7nhIjZfce2dcORg7gWGp73) | [Ocean Love](https://open.spotify.com/album/3j6NuIuIVKR6UxCOVqV7rA) | 3:55 | 2022-10-06 |  |
 | [Once Forgotten](https://open.spotify.com/track/2aPO4B3PM4hPhNsUdITCWr) | [Steve Luke & Holloway](https://open.spotify.com/artist/4rK2sefIZVrvpsz6MoXKvY) | [Once Forgotten](https://open.spotify.com/album/5X2xPJhl0fOdxCvjFp0i7v) | 4:07 | 2022-04-26 |  |
 | [Once I Loved](https://open.spotify.com/track/3dtb16fVorx31i70fUkJMA) | [Leland Stein Quartet](https://open.spotify.com/artist/4P0NAt5XSbTNfm9Wsx2Fa0) | [Good Bait](https://open.spotify.com/album/5A6inRzYr8S4GB2X3zoOrB) | 2:50 | 2022-04-26 |  |
 | [Once I Loved](https://open.spotify.com/track/0M6auxy6hLBXBhniH5UR2U) | [Logan Perez Trio](https://open.spotify.com/artist/1LkgOk5uGieE5FGkTxGNIw) | [Once I Loved](https://open.spotify.com/album/0MyW4ebA1Otb0YYXeVOtnP) | 7:14 | 2022-04-26 |  |

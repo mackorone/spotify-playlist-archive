@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "\u0627\u0643\u062a\u0634\u0641 \u0627\u0644\u0623\u063a\u0627\u0646\u064a \u0627\u0644\u0645\u0635\u0631\u064a\u0629 \u0627\u0644\u062c\u062f\u064a\u062f\u0629! \u0627\u0644\u063a\u0644\u0627\u0641: \u0628\u0644\u0642\u064a\u0633 ",
+  "description": " \u0627\u0643\u062a\u0634\u0641 \u0627\u0644\u0623\u063a\u0627\u0646\u064a \u0627\u0644\u0645\u0635\u0631\u064a\u0629 \u0627\u0644\u062c\u062f\u064a\u062f\u0629! \u0627\u0644\u063a\u0644\u0627\u0641: \u0634\u0627\u0631\u0645\u0648\u0641\u0631\u0632 \u0648 \u062d\u0633\u0646 \u0634\u0627\u0643\u0648\u0634",
   "name": "\u0623\u062c\u062f\u062f \u0627\u0644\u0623\u063a\u0627\u0646\u064a",
   "published_playlist_ids": [
     "7rd0UNTK9BBzffp6c0LMpx"
@@ -766,6 +766,32 @@
     },
     {
       "album": {
+        "name": "Di Halawa",
+        "url": "https://open.spotify.com/album/7hy7jpcDzPXmIde1fICTvT"
+      },
+      "artists": [
+        {
+          "name": "Ahmed Bahaa",
+          "url": "https://open.spotify.com/artist/0YYLDpbsExW7PI14mRJPfx"
+        },
+        {
+          "name": "Hassan Shakosh",
+          "url": "https://open.spotify.com/artist/62IUrFqq28x2SbRdzm9sQt"
+        },
+        {
+          "name": "Sary Hany",
+          "url": "https://open.spotify.com/artist/1eTh9xZZfmBuobcE0oQFEK"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196952,
+      "name": "Di Halawa",
+      "url": "https://open.spotify.com/track/3BW4RcvJUYGtnPOzppeVW9"
+    },
+    {
+      "album": {
         "name": "Dom Dom",
         "url": "https://open.spotify.com/album/0b5kI7IIsYfVsAXawB2dak"
       },
@@ -831,7 +857,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 193066,
       "name": "Eiish Ahla Snin",
       "url": "https://open.spotify.com/track/5cTeuErPw3vt8SBga9YAfM"
@@ -1457,7 +1483,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 155998,
       "name": "Habitha Ya Nas - From Bhabak",
       "url": "https://open.spotify.com/track/2SeSRjNj2SJF7Ieo8Q1vnj"
@@ -1817,7 +1843,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-07",
       "duration_ms": 172173,
       "name": "Kharbana",
       "url": "https://open.spotify.com/track/5asPnTcsdinMO66GmZhDC3"
@@ -2005,6 +2031,28 @@
       "duration_ms": 186777,
       "name": "Latina",
       "url": "https://open.spotify.com/track/42d62TnY6q3qVR5RiyaEps"
+    },
+    {
+      "album": {
+        "name": "Law Bas Nergaa",
+        "url": "https://open.spotify.com/album/7mxi6m5tjRolq6U2HTTlq2"
+      },
+      "artists": [
+        {
+          "name": "Muslim - \u0645\u064f\u0633\u0644\u0650\u0645",
+          "url": "https://open.spotify.com/artist/2PM82jOCB674w4BL08zFVS"
+        },
+        {
+          "name": "Hady Moamer",
+          "url": "https://open.spotify.com/artist/0jPg8Ugy7n2JrD9jBaBptD"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163073,
+      "name": "Law Bas Nergaa",
+      "url": "https://open.spotify.com/track/7ogQhlO9miA7gt18l0tlRT"
     },
     {
       "album": {
@@ -3355,7 +3403,7 @@
       ],
       "date_added": "2022-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-07",
       "duration_ms": 187602,
       "name": "Tigi - \u062a\u064a\u062c\u064a",
       "url": "https://open.spotify.com/track/49QGBrI182c8yb2ZG3ipoB"
@@ -3471,6 +3519,24 @@
       "duration_ms": 281624,
       "name": "Wahdani",
       "url": "https://open.spotify.com/track/7MtjVTe38tcotyQwr7piOX"
+    },
+    {
+      "album": {
+        "name": "Walad",
+        "url": "https://open.spotify.com/album/6SdAmxpejR61XJnjJqErLj"
+      },
+      "artists": [
+        {
+          "name": "Haifa Wehbe",
+          "url": "https://open.spotify.com/artist/05ai8foZsZwk0cni0IOuNj"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189795,
+      "name": "Walad",
+      "url": "https://open.spotify.com/track/4ICngUihhBxci0OHQIL0uu"
     },
     {
       "album": {

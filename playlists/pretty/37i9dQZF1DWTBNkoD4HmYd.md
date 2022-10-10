@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBNkoD4HmYd.md) - [plain]
 
 > A selection of highlights from Vivaldi's celebrated concertos and choral works, proving there's way more to this red\-headed baroque legend than just The Four Seasons.
 
-[Spotify](https://open.spotify.com/user/spotify) - 297,214 likes - 65 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 298,612 likes - 65 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

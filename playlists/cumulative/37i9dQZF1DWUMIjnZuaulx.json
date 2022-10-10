@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-01",
-  "description": "New songs from some of the latest and greatest Gospel music artists.  Cover:  JJ Hairston",
+  "description": "New songs from some of the latest and greatest Gospel music artists.  Cover:  Israel & New Breed",
   "name": "Fresh Gospel",
   "published_playlist_ids": [
     "6tbQcvssGqLrTKMvWwo62Y"
@@ -1324,6 +1324,40 @@
     },
     {
       "album": {
+        "name": "Healing",
+        "url": "https://open.spotify.com/album/5HKYJ8Lavx1XLP0NQ98NgY"
+      },
+      "artists": [
+        {
+          "name": "Common Hymnal",
+          "url": "https://open.spotify.com/artist/1q6xQXmuTccwh7gBR7ToUN"
+        },
+        {
+          "name": "Village-Music",
+          "url": "https://open.spotify.com/artist/6J0dVnO9dYcyQkVjVI8KFV"
+        },
+        {
+          "name": "Jalen Seawright",
+          "url": "https://open.spotify.com/artist/5puI4C97ehRfRMIYD1jmdY"
+        },
+        {
+          "name": "Ashlee Moss",
+          "url": "https://open.spotify.com/artist/3L3MS4nggDhaUZqXSjBnvJ"
+        },
+        {
+          "name": "Alina Oliver Emeribe",
+          "url": "https://open.spotify.com/artist/58ESnXSGitotN6hVfgUVTK"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273882,
+      "name": "Healing",
+      "url": "https://open.spotify.com/track/3W1pqFKzE6Boihiw2MIk63"
+    },
+    {
+      "album": {
         "name": "Heartbeat (Live)",
         "url": "https://open.spotify.com/album/0oXvXE4iVb0dSIEeuFnN1C"
       },
@@ -1832,6 +1866,32 @@
     },
     {
       "album": {
+        "name": "Hymns (Live)",
+        "url": "https://open.spotify.com/album/1ZecqYyaNHmlU7zXhkuk6u"
+      },
+      "artists": [
+        {
+          "name": "Tasha Cobbs Leonard",
+          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
+        },
+        {
+          "name": "Jennifer Hudson",
+          "url": "https://open.spotify.com/artist/35GL8Cu2GKTcHzKGi75xl5"
+        },
+        {
+          "name": "Ricky Dillard",
+          "url": "https://open.spotify.com/artist/3EDwVZensg15abkTt5zfTM"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 426733,
+      "name": "It Is Well - Live",
+      "url": "https://open.spotify.com/track/09ZvDOJkKi76sig28txpQn"
+    },
+    {
+      "album": {
         "name": "It's Already Done",
         "url": "https://open.spotify.com/album/1Jj9fxM3zLA0qykFOAiC1u"
       },
@@ -1904,7 +1964,7 @@
     },
     {
       "album": {
-        "name": "Jesus (feat. Le'Andria Johnson)",
+        "name": "Jesus (feat. Le'andria Johnson)",
         "url": "https://open.spotify.com/album/2O1Bu8dQtT2X1ZrJ2mC16r"
       },
       "artists": [
@@ -1945,7 +2005,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 539136,
       "name": "Jesus Lover Of My Soul - Live",
       "url": "https://open.spotify.com/track/5ndRS9n7ojy6IoAQZ9R5n7"
@@ -3133,14 +3193,14 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 294796,
       "name": "Secret Place",
       "url": "https://open.spotify.com/track/639aMJotRbNr4OU3jycPRh"
     },
     {
       "album": {
-        "name": "Shelter",
+        "name": "Shelter (Live At The Manor)",
         "url": "https://open.spotify.com/album/4NuBHIUYsoqYiTN2EhnET4"
       },
       "artists": [
@@ -3165,7 +3225,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 278780,
-      "name": "Shelter",
+      "name": "Shelter - Live",
       "url": "https://open.spotify.com/track/52jQuLW0VoSfnJ7YXQ0xcy"
     },
     {
@@ -3203,6 +3263,24 @@
       "duration_ms": 157780,
       "name": "Single & I Love It",
       "url": "https://open.spotify.com/track/68MMQ3Gbf1n8uQqqNaNbuZ"
+    },
+    {
+      "album": {
+        "name": "Nothing Else Matters (Instead of Complaining, Praise Him)",
+        "url": "https://open.spotify.com/album/2gpmw0WN8nQTmDxKfczPEE"
+      },
+      "artists": [
+        {
+          "name": "Brent Jones",
+          "url": "https://open.spotify.com/artist/2b9paaAwb2Xd3iR1LSnCDN"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240433,
+      "name": "So Good to Me",
+      "url": "https://open.spotify.com/track/7lsHTcbrV6XkSIbTmBCoeN"
     },
     {
       "album": {
@@ -3479,10 +3557,28 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 303429,
       "name": "Testify",
       "url": "https://open.spotify.com/track/3yFSCi5cT3BoZmQLPilRVL"
+    },
+    {
+      "album": {
+        "name": "Thank Him",
+        "url": "https://open.spotify.com/album/31B6RB0Rmk5ofDM5aTkoCf"
+      },
+      "artists": [
+        {
+          "name": "Ted & Sheri",
+          "url": "https://open.spotify.com/artist/1SMjYoloIpz6BwCJKgqjEN"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243158,
+      "name": "Thank Him",
+      "url": "https://open.spotify.com/track/4XsjiumgbNRKmROyuxa9is"
     },
     {
       "album": {
@@ -4113,7 +4209,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 219065,
       "name": "Whole World In His Hands - Radio Edit",
       "url": "https://open.spotify.com/track/0rjbJ8JndyEfNt1CpG3Axo"
@@ -4157,6 +4253,28 @@
       "duration_ms": 350000,
       "name": "With My Hands",
       "url": "https://open.spotify.com/track/5Lqz5GyhOwfwbSQLX7KJGp"
+    },
+    {
+      "album": {
+        "name": "Worship Anywhere: Live from Camp NewBreed",
+        "url": "https://open.spotify.com/album/5BCKzBSDLSpS7RHBgmgExp"
+      },
+      "artists": [
+        {
+          "name": "Israel & New Breed",
+          "url": "https://open.spotify.com/artist/77HU1Zb1VDIFvWKteJii0E"
+        },
+        {
+          "name": "Cristabel Clack",
+          "url": "https://open.spotify.com/artist/56Yt4ZJKPJohGDQmn32w4Y"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 664573,
+      "name": "Witness (Live)",
+      "url": "https://open.spotify.com/track/53aiBMhVOXiS01zVGcuzPF"
     },
     {
       "album": {
@@ -4219,7 +4337,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 393306,
       "name": "Wrong About You (Live)",
       "url": "https://open.spotify.com/track/0FKLNnBomURjpw6pKIvS3E"

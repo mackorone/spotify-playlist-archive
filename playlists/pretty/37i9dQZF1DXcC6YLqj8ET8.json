@@ -1,12 +1,12 @@
 {
   "description": "Electronic Trap House with Arab spices. Cover: DJ KABOO.",
-  "num_followers": 173919,
+  "num_followers": 174701,
   "original_name": "Arabic Trap",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDUzNjgxMSwwMDAwMDAwMDM3MGFjYzY0N2VkNmU2OWM5ZjU0ZDZkMDExNzFhYjU4",
+  "snapshot_id": "MTY2NDUzNjgxMSwwMDAwMDAwMDE3ZTBjNDJkOWMyMGQ5YWUwNjJkZjg5YjExYWEyYzkx",
   "tracks": [
     {
       "added_at": "2022-09-30 11:20:11",
@@ -147,6 +147,22 @@
     {
       "added_at": "2022-09-30 11:20:11",
       "album": {
+        "name": "Morocco",
+        "url": "https://open.spotify.com/album/1kP5zGZ3TdujqaBRgzp3FQ"
+      },
+      "artists": [
+        {
+          "name": "Cris Taylor",
+          "url": "https://open.spotify.com/artist/35IHRUK5Kx426lQ2KeIB0o"
+        }
+      ],
+      "duration_ms": 163248,
+      "name": "Morocco",
+      "url": "https://open.spotify.com/track/19pxMtNvRkNPYqoaCtCR5l"
+    },
+    {
+      "added_at": "2022-09-30 11:20:11",
+      "album": {
         "name": "Arabic Trap, Pt. 2",
         "url": "https://open.spotify.com/album/3ssgRjMtcAE8F2pJhZ8MGk"
       },
@@ -163,18 +179,18 @@
     {
       "added_at": "2022-09-30 11:20:11",
       "album": {
-        "name": "Morocco",
-        "url": "https://open.spotify.com/album/1kP5zGZ3TdujqaBRgzp3FQ"
+        "name": "Arab Trap: Made in Egypt",
+        "url": "https://open.spotify.com/album/2ZYdkTjXsKXajkPiwUTgQ7"
       },
       "artists": [
         {
-          "name": "Cris Taylor",
-          "url": "https://open.spotify.com/artist/35IHRUK5Kx426lQ2KeIB0o"
+          "name": "DJ KABOO",
+          "url": "https://open.spotify.com/artist/4XL8KSBe0v3k483R9Tv49Q"
         }
       ],
-      "duration_ms": 163248,
-      "name": "Morocco",
-      "url": "https://open.spotify.com/track/19pxMtNvRkNPYqoaCtCR5l"
+      "duration_ms": 154711,
+      "name": "Arab Trap: Made in Egypt",
+      "url": "https://open.spotify.com/track/2DBU3G7bYWcLKxKNtsXJ5h"
     },
     {
       "added_at": "2022-09-30 11:20:11",
@@ -215,22 +231,6 @@
     {
       "added_at": "2022-09-30 11:20:11",
       "album": {
-        "name": "Arab Trap: Made in Egypt",
-        "url": "https://open.spotify.com/album/2ZYdkTjXsKXajkPiwUTgQ7"
-      },
-      "artists": [
-        {
-          "name": "DJ KABOO",
-          "url": "https://open.spotify.com/artist/4XL8KSBe0v3k483R9Tv49Q"
-        }
-      ],
-      "duration_ms": 154711,
-      "name": "Arab Trap: Made in Egypt",
-      "url": "https://open.spotify.com/track/2DBU3G7bYWcLKxKNtsXJ5h"
-    },
-    {
-      "added_at": "2022-09-30 11:20:11",
-      "album": {
         "name": "Odyssey",
         "url": "https://open.spotify.com/album/7s5B41oZCupzZr5XnXge3g"
       },
@@ -263,22 +263,6 @@
     {
       "added_at": "2022-09-30 11:20:11",
       "album": {
-        "name": "Dam",
-        "url": "https://open.spotify.com/album/3u0OvKGvYRQhn0ICKs5iOQ"
-      },
-      "artists": [
-        {
-          "name": "Amorf",
-          "url": "https://open.spotify.com/artist/235rIOpga6eYnAP03JD444"
-        }
-      ],
-      "duration_ms": 134408,
-      "name": "Dam",
-      "url": "https://open.spotify.com/track/6rPiKdPNCMmjRoSkHDxu8G"
-    },
-    {
-      "added_at": "2022-09-30 11:20:11",
-      "album": {
         "name": "GHADAB",
         "url": "https://open.spotify.com/album/3CJnkIETq3FgJVHyfSSQZG"
       },
@@ -291,6 +275,22 @@
       "duration_ms": 151158,
       "name": "GHADAB",
       "url": "https://open.spotify.com/track/5xY9zklrXn7jmdJYJIXQDU"
+    },
+    {
+      "added_at": "2022-09-30 11:20:11",
+      "album": {
+        "name": "Dam",
+        "url": "https://open.spotify.com/album/3u0OvKGvYRQhn0ICKs5iOQ"
+      },
+      "artists": [
+        {
+          "name": "Amorf",
+          "url": "https://open.spotify.com/artist/235rIOpga6eYnAP03JD444"
+        }
+      ],
+      "duration_ms": 134408,
+      "name": "Dam",
+      "url": "https://open.spotify.com/track/6rPiKdPNCMmjRoSkHDxu8G"
     },
     {
       "added_at": "2022-09-30 11:20:11",
@@ -311,6 +311,22 @@
     {
       "added_at": "2022-09-30 11:20:11",
       "album": {
+        "name": "Drop It Again",
+        "url": "https://open.spotify.com/album/2DTyk0x1qem3lw71ZWVo9Q"
+      },
+      "artists": [
+        {
+          "name": "YZKN",
+          "url": "https://open.spotify.com/artist/7mU3kpBBx4OCYdNJhjcKxy"
+        }
+      ],
+      "duration_ms": 162821,
+      "name": "Drop It Again",
+      "url": "https://open.spotify.com/track/3PUjFJPKqz1j5MHV0MihsW"
+    },
+    {
+      "added_at": "2022-09-30 11:20:11",
+      "album": {
         "name": "Omri",
         "url": "https://open.spotify.com/album/56vp0qNFa0zIsdW7D2iaUL"
       },
@@ -323,6 +339,70 @@
       "duration_ms": 196585,
       "name": "Omri",
       "url": "https://open.spotify.com/track/33XbI355jYdBpCabA0wp6U"
+    },
+    {
+      "added_at": "2022-09-30 11:20:11",
+      "album": {
+        "name": "Arabic Trap, Pt. 2",
+        "url": "https://open.spotify.com/album/3ssgRjMtcAE8F2pJhZ8MGk"
+      },
+      "artists": [
+        {
+          "name": "VFM Style",
+          "url": "https://open.spotify.com/artist/4ulXFvFK1pjsKvk61NQtPF"
+        }
+      ],
+      "duration_ms": 200466,
+      "name": "Maqlooba",
+      "url": "https://open.spotify.com/track/2APpdfoLJELmv3sh8T4Ve8"
+    },
+    {
+      "added_at": "2022-09-30 11:20:11",
+      "album": {
+        "name": "Kyojin",
+        "url": "https://open.spotify.com/album/4YQ0JrLRfkX96ssIe2mylq"
+      },
+      "artists": [
+        {
+          "name": "MVGMVR",
+          "url": "https://open.spotify.com/artist/4awPepWH6Qom61mJvUCe3u"
+        }
+      ],
+      "duration_ms": 150875,
+      "name": "Kyojin",
+      "url": "https://open.spotify.com/track/3G6fFwzSObu9BS5XhkJzWA"
+    },
+    {
+      "added_at": "2022-09-30 11:20:11",
+      "album": {
+        "name": "Dulce",
+        "url": "https://open.spotify.com/album/01f58ABTNjb0quUNprou4v"
+      },
+      "artists": [
+        {
+          "name": "FG",
+          "url": "https://open.spotify.com/artist/7dGG5t1lq8eRel7cRvLj0F"
+        }
+      ],
+      "duration_ms": 193959,
+      "name": "Dulce",
+      "url": "https://open.spotify.com/track/6pROMUI7CBvoe6zhP85OjV"
+    },
+    {
+      "added_at": "2022-09-30 11:20:11",
+      "album": {
+        "name": "Marrakech",
+        "url": "https://open.spotify.com/album/7xQd6Ieb1fD6prQWJyOGbv"
+      },
+      "artists": [
+        {
+          "name": "T\u00fcrk\u00fcm",
+          "url": "https://open.spotify.com/artist/6OmEJA1myxyRYNgU016xHY"
+        }
+      ],
+      "duration_ms": 140571,
+      "name": "Marrakech",
+      "url": "https://open.spotify.com/track/42bzfcGVgYcpjo2kebQZXh"
     },
     {
       "added_at": "2022-09-30 11:20:11",
@@ -347,86 +427,6 @@
     {
       "added_at": "2022-09-30 11:20:11",
       "album": {
-        "name": "Kyojin",
-        "url": "https://open.spotify.com/album/4YQ0JrLRfkX96ssIe2mylq"
-      },
-      "artists": [
-        {
-          "name": "MVGMVR",
-          "url": "https://open.spotify.com/artist/4awPepWH6Qom61mJvUCe3u"
-        }
-      ],
-      "duration_ms": 150875,
-      "name": "Kyojin",
-      "url": "https://open.spotify.com/track/3G6fFwzSObu9BS5XhkJzWA"
-    },
-    {
-      "added_at": "2022-09-30 11:20:11",
-      "album": {
-        "name": "Drop It Again",
-        "url": "https://open.spotify.com/album/2DTyk0x1qem3lw71ZWVo9Q"
-      },
-      "artists": [
-        {
-          "name": "YZKN",
-          "url": "https://open.spotify.com/artist/7mU3kpBBx4OCYdNJhjcKxy"
-        }
-      ],
-      "duration_ms": 162821,
-      "name": "Drop It Again",
-      "url": "https://open.spotify.com/track/3PUjFJPKqz1j5MHV0MihsW"
-    },
-    {
-      "added_at": "2022-09-30 11:20:11",
-      "album": {
-        "name": "Dulce",
-        "url": "https://open.spotify.com/album/01f58ABTNjb0quUNprou4v"
-      },
-      "artists": [
-        {
-          "name": "FG",
-          "url": "https://open.spotify.com/artist/7dGG5t1lq8eRel7cRvLj0F"
-        }
-      ],
-      "duration_ms": 193959,
-      "name": "Dulce",
-      "url": "https://open.spotify.com/track/6pROMUI7CBvoe6zhP85OjV"
-    },
-    {
-      "added_at": "2022-09-30 11:20:11",
-      "album": {
-        "name": "Arabic Trap, Pt. 2",
-        "url": "https://open.spotify.com/album/3ssgRjMtcAE8F2pJhZ8MGk"
-      },
-      "artists": [
-        {
-          "name": "VFM Style",
-          "url": "https://open.spotify.com/artist/4ulXFvFK1pjsKvk61NQtPF"
-        }
-      ],
-      "duration_ms": 200466,
-      "name": "Maqlooba",
-      "url": "https://open.spotify.com/track/2APpdfoLJELmv3sh8T4Ve8"
-    },
-    {
-      "added_at": "2022-09-30 11:20:11",
-      "album": {
-        "name": "Marrakech",
-        "url": "https://open.spotify.com/album/7xQd6Ieb1fD6prQWJyOGbv"
-      },
-      "artists": [
-        {
-          "name": "T\u00fcrk\u00fcm",
-          "url": "https://open.spotify.com/artist/6OmEJA1myxyRYNgU016xHY"
-        }
-      ],
-      "duration_ms": 140571,
-      "name": "Marrakech",
-      "url": "https://open.spotify.com/track/42bzfcGVgYcpjo2kebQZXh"
-    },
-    {
-      "added_at": "2022-09-30 11:20:11",
-      "album": {
         "name": "Fury",
         "url": "https://open.spotify.com/album/2yi1kgX5WPvyb6S37ujxDW"
       },
@@ -443,22 +443,6 @@
     {
       "added_at": "2022-09-30 11:20:11",
       "album": {
-        "name": "After Life",
-        "url": "https://open.spotify.com/album/3mibBHWq5uBgzJnWGWtXgZ"
-      },
-      "artists": [
-        {
-          "name": "NIN9",
-          "url": "https://open.spotify.com/artist/0DJeag58upLxC4iA5Ju7MO"
-        }
-      ],
-      "duration_ms": 217441,
-      "name": "After Life",
-      "url": "https://open.spotify.com/track/6f3C47PALxUOq7VjRSyx7M"
-    },
-    {
-      "added_at": "2022-09-30 11:20:11",
-      "album": {
         "name": "Khal\u012bfah \u062e\u0644\u064a\u0641\u0629",
         "url": "https://open.spotify.com/album/69U97qF3lUP5SUFSwzkbIV"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 232750,
       "name": "Khal\u012bfah \u062e\u0644\u064a\u0641\u0629",
       "url": "https://open.spotify.com/track/6Tug6cAjUEfmKJvvrJcauP"
+    },
+    {
+      "added_at": "2022-09-30 11:20:11",
+      "album": {
+        "name": "After Life",
+        "url": "https://open.spotify.com/album/3mibBHWq5uBgzJnWGWtXgZ"
+      },
+      "artists": [
+        {
+          "name": "NIN9",
+          "url": "https://open.spotify.com/artist/0DJeag58upLxC4iA5Ju7MO"
+        }
+      ],
+      "duration_ms": 217441,
+      "name": "After Life",
+      "url": "https://open.spotify.com/track/6f3C47PALxUOq7VjRSyx7M"
     },
     {
       "added_at": "2022-09-30 11:20:11",
@@ -559,6 +559,22 @@
     {
       "added_at": "2022-09-30 11:20:11",
       "album": {
+        "name": "Cataclysm \u062c\u0627\u0626\u062d\u0629",
+        "url": "https://open.spotify.com/album/5cO6vLIAow8tq0YX4NiD4I"
+      },
+      "artists": [
+        {
+          "name": "Gillionaire",
+          "url": "https://open.spotify.com/artist/74rsMLFnDYIf54HLWuKAty"
+        }
+      ],
+      "duration_ms": 139043,
+      "name": "Cataclysm \u062c\u0627\u0626\u062d\u0629",
+      "url": "https://open.spotify.com/track/55DEy5jBZJcm75JpGZTlyC"
+    },
+    {
+      "added_at": "2022-09-30 11:20:11",
+      "album": {
         "name": "Exxxtra Pack",
         "url": "https://open.spotify.com/album/4HPPW1pl0kBnnpDHtpoPs8"
       },
@@ -591,54 +607,6 @@
     {
       "added_at": "2022-09-30 11:20:11",
       "album": {
-        "name": "Nouba",
-        "url": "https://open.spotify.com/album/4rwwa6ZVK3K8MuGbopfXi7"
-      },
-      "artists": [
-        {
-          "name": "RAMSSEY",
-          "url": "https://open.spotify.com/artist/7etLZ7TIK2RgDuArlZfCRk"
-        }
-      ],
-      "duration_ms": 178187,
-      "name": "Nouba",
-      "url": "https://open.spotify.com/track/1mlJgASSQPfbhryiYlgbTg"
-    },
-    {
-      "added_at": "2022-09-30 11:20:11",
-      "album": {
-        "name": "Cataclysm \u062c\u0627\u0626\u062d\u0629",
-        "url": "https://open.spotify.com/album/5cO6vLIAow8tq0YX4NiD4I"
-      },
-      "artists": [
-        {
-          "name": "Gillionaire",
-          "url": "https://open.spotify.com/artist/74rsMLFnDYIf54HLWuKAty"
-        }
-      ],
-      "duration_ms": 139043,
-      "name": "Cataclysm \u062c\u0627\u0626\u062d\u0629",
-      "url": "https://open.spotify.com/track/55DEy5jBZJcm75JpGZTlyC"
-    },
-    {
-      "added_at": "2022-09-30 11:20:11",
-      "album": {
-        "name": "In Peace",
-        "url": "https://open.spotify.com/album/6c1b7pIkqXWuE5HqGOXj7p"
-      },
-      "artists": [
-        {
-          "name": "Dav the Ninja",
-          "url": "https://open.spotify.com/artist/0Ddd55lzvz41th2dA7Limg"
-        }
-      ],
-      "duration_ms": 219428,
-      "name": "Tribe",
-      "url": "https://open.spotify.com/track/3A1fJKVctpV28WnnW5xOsX"
-    },
-    {
-      "added_at": "2022-09-30 11:20:11",
-      "album": {
         "name": "INVASION",
         "url": "https://open.spotify.com/album/2zua6hf4PwprRmsUaS1ooj"
       },
@@ -659,22 +627,50 @@
     {
       "added_at": "2022-09-30 11:20:11",
       "album": {
-        "name": "Steady Stackin' 4",
-        "url": "https://open.spotify.com/album/2AqCYSOBNAyLB9Y6nzKc0M"
+        "name": "Nouba",
+        "url": "https://open.spotify.com/album/4rwwa6ZVK3K8MuGbopfXi7"
       },
       "artists": [
         {
-          "name": "Wizard",
-          "url": "https://open.spotify.com/artist/1XU1ToFmD2t1nbuh5T6QB3"
-        },
-        {
-          "name": "NextRO",
-          "url": "https://open.spotify.com/artist/6Y63ciwphfXsHoWQOur7gq"
+          "name": "RAMSSEY",
+          "url": "https://open.spotify.com/artist/7etLZ7TIK2RgDuArlZfCRk"
         }
       ],
-      "duration_ms": 212000,
-      "name": "Royal",
-      "url": "https://open.spotify.com/track/7uU2778ZAltQTEFcwUmydt"
+      "duration_ms": 178187,
+      "name": "Nouba",
+      "url": "https://open.spotify.com/track/1mlJgASSQPfbhryiYlgbTg"
+    },
+    {
+      "added_at": "2022-09-30 11:20:11",
+      "album": {
+        "name": "In Peace",
+        "url": "https://open.spotify.com/album/6c1b7pIkqXWuE5HqGOXj7p"
+      },
+      "artists": [
+        {
+          "name": "Dav the Ninja",
+          "url": "https://open.spotify.com/artist/0Ddd55lzvz41th2dA7Limg"
+        }
+      ],
+      "duration_ms": 219428,
+      "name": "Tribe",
+      "url": "https://open.spotify.com/track/3A1fJKVctpV28WnnW5xOsX"
+    },
+    {
+      "added_at": "2022-09-30 11:20:11",
+      "album": {
+        "name": "Golden",
+        "url": "https://open.spotify.com/album/214Aa5BZhPB2AUbXmBx59S"
+      },
+      "artists": [
+        {
+          "name": "BoyPanda",
+          "url": "https://open.spotify.com/artist/5ef7ha77ippshsIdZzGnaN"
+        }
+      ],
+      "duration_ms": 210000,
+      "name": "Golden",
+      "url": "https://open.spotify.com/track/6gItxgLiMUYV5n3ityPec4"
     },
     {
       "added_at": "2022-09-30 11:20:11",
@@ -695,18 +691,22 @@
     {
       "added_at": "2022-09-30 11:20:11",
       "album": {
-        "name": "Golden",
-        "url": "https://open.spotify.com/album/214Aa5BZhPB2AUbXmBx59S"
+        "name": "Steady Stackin' 4",
+        "url": "https://open.spotify.com/album/2AqCYSOBNAyLB9Y6nzKc0M"
       },
       "artists": [
         {
-          "name": "BoyPanda",
-          "url": "https://open.spotify.com/artist/5ef7ha77ippshsIdZzGnaN"
+          "name": "Wizard",
+          "url": "https://open.spotify.com/artist/1XU1ToFmD2t1nbuh5T6QB3"
+        },
+        {
+          "name": "NextRO",
+          "url": "https://open.spotify.com/artist/6Y63ciwphfXsHoWQOur7gq"
         }
       ],
-      "duration_ms": 210000,
-      "name": "Golden",
-      "url": "https://open.spotify.com/track/6gItxgLiMUYV5n3ityPec4"
+      "duration_ms": 212000,
+      "name": "Royal",
+      "url": "https://open.spotify.com/track/7uU2778ZAltQTEFcwUmydt"
     },
     {
       "added_at": "2022-09-30 11:20:11",
@@ -815,6 +815,22 @@
     {
       "added_at": "2022-09-30 11:20:11",
       "album": {
+        "name": "Dystopia",
+        "url": "https://open.spotify.com/album/2OkBDPfWUdeDjsWumFazvZ"
+      },
+      "artists": [
+        {
+          "name": "Ahmed Romel",
+          "url": "https://open.spotify.com/artist/5hp5V0IfVuZWmYeUqomqEs"
+        }
+      ],
+      "duration_ms": 212307,
+      "name": "Dystopia",
+      "url": "https://open.spotify.com/track/25N0bGioFvZgujpnpYH4qV"
+    },
+    {
+      "added_at": "2022-09-30 11:20:11",
+      "album": {
         "name": "Ankh",
         "url": "https://open.spotify.com/album/6Sz6N6aIGSh7R4pGfmVpD3"
       },
@@ -831,18 +847,38 @@
     {
       "added_at": "2022-09-30 11:20:11",
       "album": {
-        "name": "Dystopia",
-        "url": "https://open.spotify.com/album/2OkBDPfWUdeDjsWumFazvZ"
+        "name": "Ares",
+        "url": "https://open.spotify.com/album/6ITmhXGA9NdbKI60F9N8Cx"
       },
       "artists": [
         {
-          "name": "Ahmed Romel",
-          "url": "https://open.spotify.com/artist/5hp5V0IfVuZWmYeUqomqEs"
+          "name": "TORU",
+          "url": "https://open.spotify.com/artist/7nKMI2etaVYFW6r9cTXKto"
+        },
+        {
+          "name": "TH3 DARP",
+          "url": "https://open.spotify.com/artist/10W6SIbkGGVlY8yYrUxwmw"
         }
       ],
-      "duration_ms": 212307,
-      "name": "Dystopia",
-      "url": "https://open.spotify.com/track/25N0bGioFvZgujpnpYH4qV"
+      "duration_ms": 189542,
+      "name": "Ares",
+      "url": "https://open.spotify.com/track/09Ltdtsh3FFIGAppCJj0HD"
+    },
+    {
+      "added_at": "2022-09-30 11:20:11",
+      "album": {
+        "name": "Lights Out",
+        "url": "https://open.spotify.com/album/0y2PgWYSdanYnwxSmIW64U"
+      },
+      "artists": [
+        {
+          "name": "Naffar",
+          "url": "https://open.spotify.com/artist/3QIEbSFF0qzlYo0EDcr7r9"
+        }
+      ],
+      "duration_ms": 185600,
+      "name": "Lights Out",
+      "url": "https://open.spotify.com/track/7DKBMH4BQ18GAWYtqpjGhE"
     },
     {
       "added_at": "2022-09-30 11:20:11",
@@ -871,26 +907,6 @@
     {
       "added_at": "2022-09-30 11:20:11",
       "album": {
-        "name": "Ares",
-        "url": "https://open.spotify.com/album/6ITmhXGA9NdbKI60F9N8Cx"
-      },
-      "artists": [
-        {
-          "name": "TORU",
-          "url": "https://open.spotify.com/artist/7nKMI2etaVYFW6r9cTXKto"
-        },
-        {
-          "name": "TH3 DARP",
-          "url": "https://open.spotify.com/artist/10W6SIbkGGVlY8yYrUxwmw"
-        }
-      ],
-      "duration_ms": 189542,
-      "name": "Ares",
-      "url": "https://open.spotify.com/track/09Ltdtsh3FFIGAppCJj0HD"
-    },
-    {
-      "added_at": "2022-09-30 11:20:11",
-      "album": {
         "name": "Tomb (feat. Rasha Kamal)",
         "url": "https://open.spotify.com/album/4aifbVzyNA4yp2ENybRQFX"
       },
@@ -911,22 +927,6 @@
       "duration_ms": 177293,
       "name": "Tomb (feat. Rasha Kamal)",
       "url": "https://open.spotify.com/track/1VDWeFIMVzEtosr7g8nlNA"
-    },
-    {
-      "added_at": "2022-09-30 11:20:11",
-      "album": {
-        "name": "Lights Out",
-        "url": "https://open.spotify.com/album/0y2PgWYSdanYnwxSmIW64U"
-      },
-      "artists": [
-        {
-          "name": "Naffar",
-          "url": "https://open.spotify.com/artist/3QIEbSFF0qzlYo0EDcr7r9"
-        }
-      ],
-      "duration_ms": 185600,
-      "name": "Lights Out",
-      "url": "https://open.spotify.com/track/7DKBMH4BQ18GAWYtqpjGhE"
     },
     {
       "added_at": "2022-09-30 11:20:11",

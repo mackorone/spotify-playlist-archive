@@ -4,7 +4,7 @@
 
 > Songs by Asian Americans calling for self\-empowerment, self\-determination, solidarity, and fighting erasure\. Built in partnership with <a href="https://hateisavirus.org/">Hate Is A Virus</a> & <a href="https://www.traktivist.com/">TRAKTIVIST</a>.
 
-53 songs - 3 hr 22 min - [published](https://open.spotify.com/playlist/2FvEkfftaPKO88puFMO8ny)
+54 songs - 3 hr 25 min - [published](https://open.spotify.com/playlist/2FvEkfftaPKO88puFMO8ny)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,8 @@
 | [Beautiful \(feat\. Ruby Ibarra\)](https://open.spotify.com/track/6XBX6AjzXMqg0le8huwMg9) | [Jason Chu](https://open.spotify.com/artist/4iYrlt4ga3CGYF7Z2mUDxV), [Alan Z](https://open.spotify.com/artist/2sSwCAZDFSHkjrhh6M0ycx), [Ruby Ibarra](https://open.spotify.com/artist/5y1a3x8WQZLTsmLPowFnkj) | [Face Value](https://open.spotify.com/album/1K78QdpLozITjad2U5vZ2V) | 2:24 | 2021-06-11 |  |
 | [Brown Babies](https://open.spotify.com/track/1GRf9hbyi7pc4Eq23MCGJj) | [Rocky Rivera](https://open.spotify.com/artist/2GYpVuQKY90oIhLSA07G18) | [Nom de Guerre](https://open.spotify.com/album/5qByEOI2odxa5GxTmWZV29) | 3:06 | 2021-06-11 | 2022-07-29 |
 | [Brown Babies](https://open.spotify.com/track/4KQqpqEpGXDItKSQ3AqUTO) | [Rocky Rivera](https://open.spotify.com/artist/2GYpVuQKY90oIhLSA07G18) | [Nom de Guerre](https://open.spotify.com/album/4fIMCyVQ0QBfMijYuQas9S) | 3:06 | 2021-06-11 |  |
-| [But I Still Love You](https://open.spotify.com/track/6QvetRaPY4MCsghMH2vsJq) | [Bohan Phoenix](https://open.spotify.com/artist/18YneNJbsTdMUWiKQDiD9P) | [But I Still Love You](https://open.spotify.com/album/5SukzyHhDSktcKNEFbr5Ss) | 3:03 | 2021-06-11 |  |
+| [But I Still Love You](https://open.spotify.com/track/4F4znseeaLF0lYI7W8sxIt) | [Bohan Phoenix](https://open.spotify.com/artist/18YneNJbsTdMUWiKQDiD9P) | [But I Still Love You](https://open.spotify.com/album/2VX4ENH4qGabCrAyPN0qTb) | 3:03 | 2021-06-11 |  |
+| [But I Still Love You](https://open.spotify.com/track/6QvetRaPY4MCsghMH2vsJq) | [Bohan Phoenix](https://open.spotify.com/artist/18YneNJbsTdMUWiKQDiD9P) | [But I Still Love You](https://open.spotify.com/album/5SukzyHhDSktcKNEFbr5Ss) | 3:03 | 2021-06-11 | 2022-10-06 |
 | [Captain America](https://open.spotify.com/track/2OBzikeg3F6tHNxzkev6j8) | [YEAR OF THE OX](https://open.spotify.com/artist/614kirduDphBL5NZebU3Zi) | [Captain America](https://open.spotify.com/album/0qX5XZI6aYjjuvmnTCBhRM) | 3:44 | 2021-06-11 |  |
 | [Colorblind](https://open.spotify.com/track/2M06pMzuVTUMIpZ16BjJmU) | [HeeSun Lee](https://open.spotify.com/artist/6T86uN02MAjAayagSHKIpA) | [Colorblind](https://open.spotify.com/album/0Z9mB9JDXBiqmMaYcUz0pN) | 2:53 | 2021-06-11 |  |
 | [Death To White Supremacy](https://open.spotify.com/track/48nOoECmqjr9RJLZM7eU1Q) | [OG Moose](https://open.spotify.com/artist/0K414ZbENjqYWIB3gXjUYF) | [Nuthin'](https://open.spotify.com/album/16GnE5g0W99H38fZhP170x) | 1:49 | 2021-06-11 |  |

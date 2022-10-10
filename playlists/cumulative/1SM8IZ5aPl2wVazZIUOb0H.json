@@ -44,6 +44,24 @@
     },
     {
       "album": {
+        "name": "No Blues",
+        "url": "https://open.spotify.com/album/0Gl5s4REVZwJ74WEZmh7Lp"
+      },
+      "artists": [
+        {
+          "name": "Los Campesinos!",
+          "url": "https://open.spotify.com/artist/6FlOCziOXI157pvUREAh3E"
+        }
+      ],
+      "date_added": "2022-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276201,
+      "name": "Avocado, Baby",
+      "url": "https://open.spotify.com/track/6zcUwPk6JqBjntBY7sAAF9"
+    },
+    {
+      "album": {
         "name": "In Between Dreams",
         "url": "https://open.spotify.com/album/7tTc46dNdE6GGuiQsssWxo"
       },
@@ -581,6 +599,24 @@
       "duration_ms": 173693,
       "name": "Rawnald Gregory Erickson the Second",
       "url": "https://open.spotify.com/track/4j4pPKE3xAblPIbhxScC1j"
+    },
+    {
+      "album": {
+        "name": "Romance Is Boring",
+        "url": "https://open.spotify.com/album/3KYRkyw2dIMm5LS3ufPtNa"
+      },
+      "artists": [
+        {
+          "name": "Los Campesinos!",
+          "url": "https://open.spotify.com/artist/6FlOCziOXI157pvUREAh3E"
+        }
+      ],
+      "date_added": "2022-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155853,
+      "name": "Romance Is Boring",
+      "url": "https://open.spotify.com/track/79jQsuUX9NAaVXKTXZ2DLJ"
     },
     {
       "album": {

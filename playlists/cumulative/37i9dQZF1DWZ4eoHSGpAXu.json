@@ -1282,6 +1282,24 @@
     },
     {
       "album": {
+        "name": "Life Again",
+        "url": "https://open.spotify.com/album/5BI5Wl8TCjrIczfZMQpU0u"
+      },
+      "artists": [
+        {
+          "name": "Brad & Rebekah",
+          "url": "https://open.spotify.com/artist/1ef7Y06MRVT7HfRdJDHBOG"
+        }
+      ],
+      "date_added": "2019-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242647,
+      "name": "Rejoice",
+      "url": "https://open.spotify.com/track/2lJnLe5B0RSr8H5DpSktER"
+    },
+    {
+      "album": {
         "name": "Rejoice",
         "url": "https://open.spotify.com/album/0k5NWjpgHJb4AW22CcE6PP"
       },
@@ -1293,7 +1311,7 @@
       ],
       "date_added": "2019-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-09",
       "duration_ms": 243720,
       "name": "Rejoice",
       "url": "https://open.spotify.com/track/6UEX4PS9R0HjfN3iG0mm7G"

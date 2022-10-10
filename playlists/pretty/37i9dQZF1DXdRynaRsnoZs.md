@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdRynaRsnoZs.md) - [plain]
 
 > Gentle instrumental versions of holiday classics to help your little one relax when Christmas excitement is in full swing.
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,949 likes - 45 songs - 2 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,039 likes - 45 songs - 2 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdRynaRsnoZs.md) - [plain]
 | 23 | [Angels From The Realms Of Glory](https://open.spotify.com/track/4xKthebrMWpRlfCdqGjfZk) | [Eric Nordhoff](https://open.spotify.com/artist/6egf9BaYi17rYFHpsrELXd) | [Quietime \- Peace On Earth](https://open.spotify.com/album/5cVsi9sRldx6HLChLxTZcz) | 3:47 |
 | 24 | [I Saw Three Ships](https://open.spotify.com/track/6yJoCZIFEUx0UFhVmE2QDm) | [Eric Nordhoff](https://open.spotify.com/artist/6egf9BaYi17rYFHpsrELXd) | [Quietime \- Peace On Earth](https://open.spotify.com/album/5cVsi9sRldx6HLChLxTZcz) | 3:27 |
 | 25 | [Hark! The Herald Angels Sing \- Piano](https://open.spotify.com/track/6kE9hyVw6pX9BMuI6PHYfY) | [Anders Roy](https://open.spotify.com/artist/0GLWOkUqKDMF6foWDMzOy0) | [Holiday Piano Classics](https://open.spotify.com/album/0ZRzneVliO3pRj1qTLOlo8) | 2:24 |
-| 26 | [Away in a Manger](https://open.spotify.com/track/2UxcPu3rstLUhbaCT6skKN) | [J.L\. Marshall](https://open.spotify.com/artist/2hNdUwIbMMpMPG2jWfE6ZB) | [Merry Christmas \(Favorite Holiday Piano Music for a Festive Occasion\)](https://open.spotify.com/album/2HYyewW2RWQx43ZnVFFfrM) | 1:16 |
+| 26 | [Away in a Manger](https://open.spotify.com/track/3aZp9EJxHM6EPTuipC1whs) | [J.L\. Marshall](https://open.spotify.com/artist/2hNdUwIbMMpMPG2jWfE6ZB) | [Merry Christmas \(Favorite Holiday Piano Music for a Festive Occasion\)](https://open.spotify.com/album/5xRd9gJJ47uB3cXtMqw741) | 1:16 |
 | 27 | [Lo, How a Rose E'er Blooming \(Instrumental Version\)](https://open.spotify.com/track/3sDAasJyBhCo7swSa9MHrk) | [The O'Neill Brothers Group](https://open.spotify.com/artist/0cylxW7HGdK9xMdubw2oYW) | [Christmas Sounds on Harp](https://open.spotify.com/album/4jiBc5Y3OuHOlllmKb0zb3) | 2:37 |
 | 28 | [Away in a Manger](https://open.spotify.com/track/4oBbsBouyrXW33ZbGiPnlH) | [The Masked Guitarist](https://open.spotify.com/artist/60JboBXHFYFoJk6e1TrtZT) | [Away in a Manger](https://open.spotify.com/album/02EzVlaMiFQspWECiEBYLd) | 1:47 |
 | 29 | [Deck The Halls](https://open.spotify.com/track/4Ryb9cUEenvCPcL5V66x9Z) | [Karen Joyce](https://open.spotify.com/artist/7yb60ZMXVj2XWFhMH8Yuxd) | [Christmas Harp For Babies](https://open.spotify.com/album/3kL1zKzvQYnnZbClSPZCoy) | 1:05 |
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdRynaRsnoZs.md) - [plain]
 | 44 | [Silent Night](https://open.spotify.com/track/4JV9zSuayX7Ee7sE5N4g0C) | [Tetra String Quartet](https://open.spotify.com/artist/2BbGMsh39jP6OWlY9JQDv7) | [Tetra String Quartet Christmas](https://open.spotify.com/album/27c7vgqaJ2SQgO41lZacXK) | 3:20 |
 | 45 | [Silent Night](https://open.spotify.com/track/58nFp57WdGVDm5hXNtnfLW) | [US Two](https://open.spotify.com/artist/6diA719p2OaW6zQnXCbRO9) | [Silent Night](https://open.spotify.com/album/7knQWBv9dQ3HUgZ3zHB6rH) | 3:03 |
 
-Snapshot ID: `MTY2Mzg2MDIxNiwwMDAwMDAwMDFjZjBjMDNjMTg2MTIwNTI4ZmYyNmQ1Mjk0MjYzOTE2`
+Snapshot ID: `MTY2Mzg2MDIxNiwwMDAwMDAwMGVlMzUwNzE0MGUyYzY3YTRkZGFkM2RiYzA0NzQyYTc3`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6LUikHsZgw4VLRsYg49YU0.md) - [plain]
 
 > The sound of gaming\. All bangers, no fillers ft\. <a href="spotify:artist:5zctI4wO9XSKS8XwcnqEHk">Lil Mosey</a>, <a href="spotify:artist:6USMTwO0MNDnKte5a5h0xx"></a><a href="https://eur01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fopen.spotify.com%2Fartist%2F6USMTwO0MNDnKte5a5h0xx%3Fsi%3DrYO\-FnyhSpWWpvV5QmYq\-g&data=02%7C01%7Cmelissa.curley%40sonymusic.com%7Cf7292187fe18476bb90508d7ac08ae4c%7Cf0aff3b791a54aaeaf71c63e1dda2049%7C0%7C0%7C637167025585657109&sdata=9h70tOcCiWeTwsuWQdB%2F9nGODM4TwKxRWY0nua2i3qY%3D&reserved=0">Y2K</a> &amp; more
 
-[Filtr US](https://open.spotify.com/user/myplay.com) - 3,930 likes - 58 songs - 2 hr 51 min
+[Filtr US](https://open.spotify.com/user/myplay.com) - 3,927 likes - 58 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

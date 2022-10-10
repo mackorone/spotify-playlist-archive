@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXca9fdfkadHF.md) - [plain]
 
 > ¡A rockear con los titanes de Perú! Foto: Afrodisiaco
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,211 likes - 60 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,647 likes - 60 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [El Tiempo](https://open.spotify.com/track/4X2IwER8pyOAnqO17PMd1B) | [Afrodisiaco](https://open.spotify.com/artist/184bX1ApmIMyWU3TcpTy93) | [Love](https://open.spotify.com/album/123qwjmrd4Kt1hkRJRffbJ) | 3:14 |
 | 2 | [Un Vino, Una Cerveza](https://open.spotify.com/track/5Q2J37xbIR60z6ifswoGKe) | [Pedro Suárez\-Vértiz](https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg) | [Degeneracion Actual](https://open.spotify.com/album/6uvZ1iuFftQCFX3xuzbGJx) | 4:35 |
-| 3 | [Las Torres](https://open.spotify.com/track/3sC6meZ0JVduBUG2DDhbHk) | [NSQNSC](https://open.spotify.com/artist/2Ov6O6PFkYV4xjgSW6b9ht) | [Más Peruanos Que el Rock, Vol\. 1](https://open.spotify.com/album/35aOC07jH0evroYonYZjZh) | 3:20 |
+| 3 | [Las Torres](https://open.spotify.com/track/0sN4ERM2Q2UBKyePqfcgv9) | [Nosequien y los Nosecuantos](https://open.spotify.com/artist/53NElDuSIPdjifOGOcvqqe) | [XX Larga Duración](https://open.spotify.com/album/1EGY0YnV5576fW6v8mw9pK) | 3:21 |
 | 4 | [Los Buenos Tiempos](https://open.spotify.com/track/01HnBtxksndufRZ0G4P78H) | [Imágenes](https://open.spotify.com/artist/21FhK40xTF3XpUPXZgdV7Q) | [Peruvian Rock Anthology: Original Masterpieces, Vol\. 2 \(1982\-1992\)](https://open.spotify.com/album/0sKdSlr1ui53Ar4hX71Ntd) | 4:32 |
 | 5 | [Lo Peor de Todo](https://open.spotify.com/track/7cnUsQVdrZFNdtIBKZBMb5) | [Rio](https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E) | [Lo Peor de Todo \(Remasterizado\)](https://open.spotify.com/album/6yupnkuEaW58l51gic72Cb) | 4:03 |
 | 6 | [Suna](https://open.spotify.com/track/4udGuDY6x5WzWdMiVe3yea) | [Mar de Copas](https://open.spotify.com/artist/01CPQQGyqdgTqtyLxPrPur) | [Todos los Singles 1993\-2006](https://open.spotify.com/album/6OthgAS7EYRLPuGJKTitu8) | 4:04 |
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXca9fdfkadHF.md) - [plain]
 | 12 | [Avenida Larco](https://open.spotify.com/track/1UC6KI4TujcN8L8VZtrbec) | [Frágil](https://open.spotify.com/artist/7rfZNBKo6a84PsygWV4aDc) | [Avenida Larco](https://open.spotify.com/album/3I17ylhxcI0v3Okk3WtiE6) | 3:47 |
 | 13 | [Triciclo Perú](https://open.spotify.com/track/5GUPHcl11vUeOf1OwDjJb5) | [Los Mojarras](https://open.spotify.com/artist/1q7dN4c3Py4QbovlM01xYX) | [Rock Urbano](https://open.spotify.com/album/63VlyjU1ReBl1ZZaDyBJqr) | 3:38 |
 | 14 | [Decir Adiós](https://open.spotify.com/track/66U8FfBAkIIDdRbYDHaHS8) | [Amén](https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp) | [Libre](https://open.spotify.com/album/68FFuQiwhIsrtH32l5TyWe) | 3:52 |
-| 15 | [Me Resfrié en Brasil](https://open.spotify.com/track/55XIDf97GN2y8cwCrJoJEH) | [Arena Hash](https://open.spotify.com/artist/4AGALQQLo0S46FUlhJ25V0) | [Más Peruanos Que el Rock, Vol\. 1](https://open.spotify.com/album/35aOC07jH0evroYonYZjZh) | 3:47 |
+| 15 | [Me Resfrié en Brasil](https://open.spotify.com/track/6owthHOJo06koXPXe7xBG9) | [Arena Hash](https://open.spotify.com/artist/4AGALQQLo0S46FUlhJ25V0) | [Peruvian Rock Anthology: Original Masterpieces, Vol\. 3 \(1993 \- 2001\)](https://open.spotify.com/album/4NptflPTkngrCanK5RZb2Y) | 3:47 |
 | 16 | [Nuestro Viejo Hotel](https://open.spotify.com/track/12ybnfIatnLWEC2S6BYmas) | [Plutonio de Alto Grado](https://open.spotify.com/artist/5E1vOnaDVuBXGt21yY7f01) | [Nuestro Viejo Hotel](https://open.spotify.com/album/5jSoD1MdnqYhfjU5tUyDIJ) | 3:32 |
 | 17 | [La Chata](https://open.spotify.com/track/3jzpdDnLaQcsuGCw4JwVYS) | [Amén](https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp) | [Infectado](https://open.spotify.com/album/2zAl9NEyqqhmupC1MFtlHK) | 3:26 |
 | 18 | [Quédate](https://open.spotify.com/track/5WbgDeqVRo5C6mzJYIxlHn) | [Zen](https://open.spotify.com/artist/2sEmBklSbXkHge8Bx8zQzF) | [Aquí y Ahora](https://open.spotify.com/album/0xvLmAbqSOxIbRLJmWaIiQ) | 3:37 |
@@ -64,9 +64,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXca9fdfkadHF.md) - [plain]
 | 54 | [Gris](https://open.spotify.com/track/1xDTqhyb1FhvhCGjcaW6j5) | [Campo De Almas.](https://open.spotify.com/artist/2kdLC1HSTszF0mr5rH8vAf) | [Adicción](https://open.spotify.com/album/4OT78VlrNDMDDwMCnD1pbv) | 3:18 |
 | 55 | [El Umbral](https://open.spotify.com/track/4A8FFbP2EEW5blEINK0PF8) | [Plutonio de Alto Grado](https://open.spotify.com/artist/5E1vOnaDVuBXGt21yY7f01) | [Desvío Alcázar](https://open.spotify.com/album/4QuDEdQx24FbtN6YtfmfwT) | 3:44 |
 | 56 | [Fugitivos](https://open.spotify.com/track/1AfCj3oLpV8sX8tv65s5zg) | [Los Rancheros](https://open.spotify.com/artist/5zAgd4w0pUkadSSRAz9Z7Q) | [Fugitivos](https://open.spotify.com/album/3ukqeYP9wEZQ7E4RcwuhCd) | 3:51 |
-| 57 | [Tú y Yo](https://open.spotify.com/track/6EesgMPcFrCTh4AqMmC2LO) | [Los Zopilotes](https://open.spotify.com/artist/3LjNoICptpY8EE21CHv46E) | [Más Peruanos Que el Rock, Vol\. 1](https://open.spotify.com/album/35aOC07jH0evroYonYZjZh) | 2:19 |
+| 57 | [Tú y Yo](https://open.spotify.com/track/76LGvZPmgiiOx5NUbhUZtH) | [Los Zopilotes](https://open.spotify.com/artist/3LjNoICptpY8EE21CHv46E) | [Peruvian Rock Anthology: Original Masterpieces, Vol\. 3 \(1993 \- 2001\)](https://open.spotify.com/album/4NptflPTkngrCanK5RZb2Y) | 2:18 |
 | 58 | [Pasajeros](https://open.spotify.com/track/0gFDB5hdEFf3VMdvvgX68B) | [Cementerio Club](https://open.spotify.com/artist/3LEwFZc846sAmu2QRFaRGY) | [Pasajeros](https://open.spotify.com/album/3Iwp3SvVegjZ1Ek9o96SAk) | 3:37 |
 | 59 | [Confusión](https://open.spotify.com/track/6SiQcAM3WKVf9eP2WQZ0Ok) | [Zen](https://open.spotify.com/artist/2sEmBklSbXkHge8Bx8zQzF) | [Confusión](https://open.spotify.com/album/39JBhk7OBHt3Zv61nZcFte) | 2:46 |
 | 60 | [Los Finos](https://open.spotify.com/track/2VZF5V2UtGkcxVsynxLxoE) | [Amén](https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp) | [2020](https://open.spotify.com/album/2XXSSuTZwjCGyI0yshXmJv) | 4:08 |
 
-Snapshot ID: `MTY0ODc4OTIwMCwwMDAwMDAwMGMzY2NiYjFhY2FmOTA1NjEzNjg3NjFhZjA5NjkxZGNk`
+Snapshot ID: `MTY0ODc4OTIwMCwwMDAwMDAwMGRkYTM3NDlmOGQ5OWE0MDlmMjcwNTJmZGE0OTJlM2Vi`

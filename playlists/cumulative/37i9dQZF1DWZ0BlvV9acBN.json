@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-09-15",
-  "description": "Grandes sucessos e novidades do rock Crist\u00e3o. Foto: Theo Rubia, Felipe Vilela",
+  "description": "Grandes sucessos e novidades do rock Crist\u00e3o. Foto: Brun\u00e3o Morada",
   "name": "Templo do Rock",
   "published_playlist_ids": [
     "7oTc2fOi3oZW5UpwamTP2u"
@@ -576,6 +576,24 @@
     },
     {
       "album": {
+        "name": "Vida/Eternidade",
+        "url": "https://open.spotify.com/album/3upWhnmQOjNyyUyFnIO4PP"
+      },
+      "artists": [
+        {
+          "name": "verboemcarne",
+          "url": "https://open.spotify.com/artist/1VroOoldHXjh6NJxDE4rSY"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258700,
+      "name": "Jo\u00e3o 1 - VEC",
+      "url": "https://open.spotify.com/track/4uruuwLWdKR34haz31Ptzk"
+    },
+    {
+      "album": {
         "name": "justi\u00e7a, paz, alegria",
         "url": "https://open.spotify.com/album/2xtFRJflfGl6hkMIoZ1fKS"
       },
@@ -591,7 +609,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 270996,
       "name": "justi\u00e7a, paz, alegria",
       "url": "https://open.spotify.com/track/0uFxeF9GqOOOlYAwHQVOjW"

@@ -1700,6 +1700,28 @@
     },
     {
       "album": {
+        "name": "Please Come Home for Christmas (feat. Rodney Good)",
+        "url": "https://open.spotify.com/album/6q72QzOdroMd0CXaO7Bdl4"
+      },
+      "artists": [
+        {
+          "name": "Jamie O'Neal",
+          "url": "https://open.spotify.com/artist/6sQVeggRv1AhrMzuCjhCZe"
+        },
+        {
+          "name": "Rodney Good",
+          "url": "https://open.spotify.com/artist/7cgtMzLMFaAQETR9PAL4ct"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188637,
+      "name": "Please Come Home for Christmas",
+      "url": "https://open.spotify.com/track/2PjMTWirUB90kmUHvN1gBH"
+    },
+    {
+      "album": {
         "name": "Christmas",
         "url": "https://open.spotify.com/album/7FTOK16cl28fhMAY0oLbqf"
       },

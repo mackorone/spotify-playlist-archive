@@ -624,6 +624,24 @@
     },
     {
       "album": {
+        "name": "EDIN",
+        "url": "https://open.spotify.com/album/50py568QonJj2aTffsp4Qm"
+      },
+      "artists": [
+        {
+          "name": "Karen Lee Andrews",
+          "url": "https://open.spotify.com/artist/3GBnhIpKY4jSuD6uAKxN20"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223551,
+      "name": "Digging up Graves",
+      "url": "https://open.spotify.com/track/1P2dAOEpNQzC1eXW5er10B"
+    },
+    {
+      "album": {
         "name": "Breakfast",
         "url": "https://open.spotify.com/album/7zRCJCgUmYNYZvTJDTRItd"
       },
@@ -653,7 +671,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 253108,
       "name": "Don't Be Afraid",
       "url": "https://open.spotify.com/track/6BT17vBMR1gXKziGubn3Vy"
@@ -895,7 +913,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 266930,
       "name": "Feel My Soul",
       "url": "https://open.spotify.com/track/4DZ245N8mr2TWSfvn3mzpy"
@@ -1011,6 +1029,24 @@
       "duration_ms": 235791,
       "name": "Forget Me Not",
       "url": "https://open.spotify.com/track/4GGy6xG1PIp1RXUNC2Tea3"
+    },
+    {
+      "album": {
+        "name": "Prism",
+        "url": "https://open.spotify.com/album/7FYVjCHeJAhgDi2zFmDV3n"
+      },
+      "artists": [
+        {
+          "name": "Say She She",
+          "url": "https://open.spotify.com/artist/1WGb8nCPGJA0RyriSDIQfC"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199577,
+      "name": "Fortune Teller",
+      "url": "https://open.spotify.com/track/2G01T828C7rQXDjn0v24Ku"
     },
     {
       "album": {
@@ -1231,7 +1267,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 289514,
       "name": "Half at Home in Love",
       "url": "https://open.spotify.com/track/5Fc7tNYVtof24BmrbUjVqM"
@@ -1926,6 +1962,24 @@
     },
     {
       "album": {
+        "name": "Long Gone",
+        "url": "https://open.spotify.com/album/44nTzEQoPoYAWBVwVDKcxx"
+      },
+      "artists": [
+        {
+          "name": "Claire Davis",
+          "url": "https://open.spotify.com/artist/7k4BeoQINC5sC1p7P4UBLA"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163786,
+      "name": "Long Gone",
+      "url": "https://open.spotify.com/track/1ovRvPWwCmdmmO4RKxMSgO"
+    },
+    {
+      "album": {
         "name": "Party For One / Looking For Moses",
         "url": "https://open.spotify.com/album/1RmGdBJcGcO9dse9IdL8XN"
       },
@@ -2517,7 +2571,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-09",
       "duration_ms": 232477,
       "name": "Prism",
       "url": "https://open.spotify.com/track/4Sqnq8upurWk6ZS4zOVZvC"
@@ -2753,7 +2807,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 224680,
       "name": "Ruthless - Live",
       "url": "https://open.spotify.com/track/7A7QkjZh12bwLueervFQb5"
@@ -2944,6 +2998,24 @@
     },
     {
       "album": {
+        "name": "Run Home Slow",
+        "url": "https://open.spotify.com/album/1kAEI20bjSPsByL6LNIyCT"
+      },
+      "artists": [
+        {
+          "name": "The Teskey Brothers",
+          "url": "https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228553,
+      "name": "So Caught Up",
+      "url": "https://open.spotify.com/track/2SrTIQZs2Dzv9WC538a8xM"
+    },
+    {
+      "album": {
         "name": "Son Of A Beach",
         "url": "https://open.spotify.com/album/2CjQdKNaJxSVEV3vlbQ0fp"
       },
@@ -2973,7 +3045,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 220037,
       "name": "Solution",
       "url": "https://open.spotify.com/track/6TMNizvP8FeJ4SaWxZ45f3"
@@ -3462,6 +3534,24 @@
     },
     {
       "album": {
+        "name": "Tumblin'",
+        "url": "https://open.spotify.com/album/536eb9O1GK0eskekcGh9i8"
+      },
+      "artists": [
+        {
+          "name": "The California Honeydrops",
+          "url": "https://open.spotify.com/artist/21t0aavYGSGFkYYFhu6urk"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224626,
+      "name": "Tumblin'",
+      "url": "https://open.spotify.com/track/6KjXOo6ViBjRuibYNwCzdV"
+    },
+    {
+      "album": {
         "name": "Thank You",
         "url": "https://open.spotify.com/album/5e9eqwm0zjc9FLaRhVfdTo"
       },
@@ -3491,7 +3581,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-28",
+      "date_removed": null,
       "duration_ms": 201501,
       "name": "Under The Sun",
       "url": "https://open.spotify.com/track/2RX7oNugjq7hYgWW0yhqQv"

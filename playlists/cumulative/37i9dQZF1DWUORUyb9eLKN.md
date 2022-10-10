@@ -4,7 +4,7 @@
 
 > Emerging DJ & producer <a href="spotify:artist:0bGDTQ78MVgI5Snqo9KJZw">Qrion</a> demonstrates her talent with an emotive and mellifluous mix.
 
-15 songs - 59 min 47 sec - not published yet
+15 songs - 59 min 47 sec - [published](https://open.spotify.com/playlist/6ZBob7PUjDCt5C9APv9GIa)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

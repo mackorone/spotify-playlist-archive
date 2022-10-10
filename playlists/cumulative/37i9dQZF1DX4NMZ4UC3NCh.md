@@ -4,10 +4,11 @@
 
 > Happiness! This is Red Velvet! The ReVe Festival 2022 is here!
 
-131 songs - 7 hr 40 min - [published](https://open.spotify.com/playlist/4k3z85A5Fsbx0TjazYclfQ)
+132 songs - 7 hr 43 min - [published](https://open.spotify.com/playlist/4k3z85A5Fsbx0TjazYclfQ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [28 Reasons](https://open.spotify.com/track/1dfsPqH09vnzUWEOsN98Ex) | [SEULGI](https://open.spotify.com/artist/2QM5S4yO6xHgnNvF0nbZZq) | [28 Reasons \- The 1st Mini Album](https://open.spotify.com/album/1t5a29WYbJj83iy3RNICHw) | 3:09 | 2022-10-04 |  |
 | [7월 7일 One Of These Nights](https://open.spotify.com/track/6koMMQlsRWBwHZXdtWxgUk) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [The Velvet \- The 2nd Mini Album](https://open.spotify.com/album/2qgl7dAgslqL1w2l2wQhMA) | 4:21 | 2022-03-22 |  |
 | [7월 7일 One Of These Nights](https://open.spotify.com/track/6uu8lid35aTGzbLXlNjOVO) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [The Velvet \- The 2nd Mini Album](https://open.spotify.com/album/3ZkPccW7mkSC7BCulcPFJs) | 4:21 | 2022-03-22 | 2022-07-29 |
 | [About Love](https://open.spotify.com/track/2aSoUIBolhj734OqGn5ave) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [Perfect Velvet \- The 2nd Album](https://open.spotify.com/album/0rvrbZvaDX5S9ZBhwOwFfH) | 3:25 | 2022-03-22 |  |

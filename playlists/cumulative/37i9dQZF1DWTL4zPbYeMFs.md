@@ -4,10 +4,11 @@
 
 > A perfect mix for your Mehendi evening.
 
-44 songs - 3 hr 43 min - [published](https://open.spotify.com/playlist/7oiZrfdRzIQ2ploR2YcUiu)
+44 songs - 3 hr 39 min - [published](https://open.spotify.com/playlist/7oiZrfdRzIQ2ploR2YcUiu)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [](https://open.spotify.com/track/5sleet26J1GCHLL42Dn6OV) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [Nankana](https://open.spotify.com/album/1t6NDICI2JD505CLOLT0WV) | 0:00 | 2022-03-14 |  |
 | [Ambarsariya](https://open.spotify.com/track/4qRcjFkFqSpLBzcbLDt7HL) | [Sona Mohapatra](https://open.spotify.com/artist/5bv6NvAYNuvd2Vq13nHdG3) | [Fukrey](https://open.spotify.com/album/5PWhrKKFYTMnutQ4x5DqHd) | 4:08 | 2022-03-14 |  |
 | [Baari Barsi](https://open.spotify.com/track/16168M9xvIA5FqGlurQfsv) | [Salim–Sulaiman](https://open.spotify.com/artist/6ohaQzKaXrobAL8paLSaxq), [Harshdeep Kaur](https://open.spotify.com/artist/3xU8YsNNkmWSPewlB18NUz), [Labh Janjua](https://open.spotify.com/artist/3DWbhNPz642SpTneSTHJv7), [Amitabh Bhattacharya](https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx) | [Band Baaja Baaraat](https://open.spotify.com/album/7AYweNv9TK4bWe1zP2rcRU) | 4:42 | 2022-03-14 |  |
 | [Bajre Da Sitta](https://open.spotify.com/track/7xC3WCYXbpCGuTsjGswxjB) | [Neha Bhasin](https://open.spotify.com/artist/4E5oyNFcB3uXLkLdjYmP9Z) | [Bajre Da Sitta \- Single](https://open.spotify.com/album/0l6n0qKap0pqC3NJROpB7z) | 2:58 | 2022-03-14 |  |
@@ -47,7 +48,6 @@
 | [Punjabi Wedding Song](https://open.spotify.com/track/69iDTIABXobqbl8zJOp8dq) | [Vishal\-Shekhar](https://open.spotify.com/artist/6Mv8GjQa7LKUGCAqa9qqdb), [Sunidhi Chauhan](https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v), [Benny Dayal](https://open.spotify.com/artist/61if35zz1W11GejEkxTLEQ) | [Hasee Toh Phasee \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3PxXJhlxSQkj8JO7IXy0FE) | 3:53 | 2022-03-14 |  |
 | [Rola Pe Gaya](https://open.spotify.com/track/2CYjOJhjqxU3IzYWnDmz8A) | [Mahalakshmi Iyer](https://open.spotify.com/artist/0Yb0T3wUUNiIvHjqnfkbuH), [Hard Kaur](https://open.spotify.com/artist/1Xoow41U5fn5DwlMlYt7Gw), [Shankar Mahadevan](https://open.spotify.com/artist/1SJOL9HJ08YOn92lFcYf8a), [Earl](https://open.spotify.com/artist/0pnNFaArjbh5wsCVJwUlld), [Master Saleem](https://open.spotify.com/artist/0BEr6nvOOHQMy53md08n9Y) | [Patiala House](https://open.spotify.com/album/1DgIFH0yAPRPGBeCiJBvDv) | 4:28 | 2022-03-14 |  |
 | [Sajh Dhaj Ke](https://open.spotify.com/track/5HJGzB7sZleFrrDvr0pRo4) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Mika Singh](https://open.spotify.com/artist/5T2I75UlGBcWd5nVyfmL13), [Pankaj Kapur](https://open.spotify.com/artist/2o8YweTDrUygJuPWOFDN62) | [Mausam](https://open.spotify.com/album/6IXC7pxtf6QKK7BVQUvIxP) | 4:52 | 2022-03-14 |  |
-| [Shagna Di Mehndi](https://open.spotify.com/track/5sleet26J1GCHLL42Dn6OV) | [Gurdas Maan](https://open.spotify.com/artist/3ttzOzBpRWRBzhn6thqhdT), [Sunidhi Chauhan](https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v) | [Nankana](https://open.spotify.com/album/1t6NDICI2JD505CLOLT0WV) | 3:32 | 2022-03-14 |  |
 | [Sun Sohniye \- From "Afsar"](https://open.spotify.com/track/0Sf6tCf1PpIXrG5htibftj) | [Ranjit Bawa](https://open.spotify.com/artist/6pU5oz09VUYtnFTd4P1Mxn), [Nimrat Khaira](https://open.spotify.com/artist/0ea0y5ZxnN5TbEDzNtx5Fk) | [Sun Sohniye \(From "Afsar"\)](https://open.spotify.com/album/1lotYHh1TgHkdt28VVUfSF) | 2:38 | 2022-03-14 |  |
 | [Taar Bijli](https://open.spotify.com/track/2mMW4YtrF03h5h4NaXCDsS) | [Sharda Sinha](https://open.spotify.com/artist/0us5gjkn3JwkrYuvCK6gJ2) | [Gangs Of Wasseypur \- 2](https://open.spotify.com/album/7DBbDXQbei6e4X6EdXOyz2) | 6:52 | 2022-03-14 |  |
 | [Thoda Thoda Pyar](https://open.spotify.com/track/0tHgJvMHEy3tQUxGqs8zTb) | [Sunidhi Chauhan](https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v) | [Love Aaj Kal \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7CIIJ9TXRdX5bMrvO0vC3v) | 4:02 | 2022-03-14 |  |

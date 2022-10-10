@@ -4,7 +4,7 @@
 
 > Sophisticated palates only\. Curated by: Eve Fairley\-Chickwe
 
-48 songs - 2 hr 33 min - not published yet
+48 songs - 2 hr 33 min - [published](https://open.spotify.com/playlist/5v6HJgBAe39wmbvpUxa1an)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

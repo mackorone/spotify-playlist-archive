@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:30FDJPN3RtwJZ20g5YGCRX">Yung Bae</a> blesses us with a funky fun mix this summer!
 
-24 songs - 57 min 41 sec - [published](https://open.spotify.com/playlist/6bmULwlBHZns78X4uzO6Jh)
+25 songs - 1 hr 0 min - [published](https://open.spotify.com/playlist/6bmULwlBHZns78X4uzO6Jh)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [Magic \- Mixed](https://open.spotify.com/track/6Wq3MunUO61qwvStSDzDX1) | [Yung Bae](https://open.spotify.com/artist/30FDJPN3RtwJZ20g5YGCRX) | [Magic \(Mixed\)](https://open.spotify.com/album/6wCUwMEDOGZW2zMvDBanWf) | 3:16 | 2022-08-03 |  |
 | [Memory \- Mixed](https://open.spotify.com/track/1M2k0X5demPWw1IH9B9B0p) | [Haywyre](https://open.spotify.com/artist/7aUSp5cOZlwEtd5zPC795k) | [Memory \(Mixed\)](https://open.spotify.com/album/7xizosSS9HOSdN2sTj2I71) | 2:26 | 2022-08-03 |  |
 | [Must Be Love \- Mixed](https://open.spotify.com/track/0Nu7WKMOdUjqPXsYtjcwlw) | [Yung Bae](https://open.spotify.com/artist/30FDJPN3RtwJZ20g5YGCRX) | [Must Be Love \(Mixed\)](https://open.spotify.com/album/3kfV5oGkLlo9BQt8YGfVWa) | 2:07 | 2022-08-03 |  |
+| [PROBLEMZ \- Mixed](https://open.spotify.com/track/0EX28c6hXYasg6PUjznRRZ) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [PROBLEMZ \(Mixed\)](https://open.spotify.com/album/3ZakUEHGTgzqZUayuEVs3h) | 2:53 | 2022-10-06 |  |
 | [Run It Up \- Mixed](https://open.spotify.com/track/2WuGcXeZo1w7zSrqjX7Z8N) | [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V), [Snakehips](https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP) | [Run It Up \(Mixed\)](https://open.spotify.com/album/4UtrH1hqDZuM23NP3g6dsG) | 3:00 | 2022-08-03 |  |
 | [September \- Mixed](https://open.spotify.com/track/1lILFAOIC0sdX6UfXTAwZb) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg) | [September \(Mixed\)](https://open.spotify.com/album/5F9FUSWef6SF9bIM9OoNcd) | 2:22 | 2022-08-03 |  |
 | [Slam Jam! \- Mixed](https://open.spotify.com/track/2dR44FCzMehnQCkBHG1O3e) | [Luca Lush](https://open.spotify.com/artist/5oAjLXTvB7VDWn3Up9LYcQ), [Yung Bae](https://open.spotify.com/artist/30FDJPN3RtwJZ20g5YGCRX) | [Slam Jam! \(Mixed\)](https://open.spotify.com/album/5TUa9tqhZHCE8kOMw4YnXa) | 2:53 | 2022-08-03 |  |

@@ -392,6 +392,24 @@
     },
     {
       "album": {
+        "name": "Smiling Faces & Different Places",
+        "url": "https://open.spotify.com/album/6DxIJfgKCZkfcojIPoIjdo"
+      },
+      "artists": [
+        {
+          "name": "Betty Fisher",
+          "url": "https://open.spotify.com/artist/37JcV5BAEqxOfKkeKQf9pr"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204682,
+      "name": "Home to the Mountains",
+      "url": "https://open.spotify.com/track/57sK732mNfISkoPhiHVlfc"
+    },
+    {
+      "album": {
         "name": "The Stanley Brothers And The Clinch Mountain Boys",
         "url": "https://open.spotify.com/album/4g3jAc1BMq3LCl0YuY6Asz"
       },
@@ -819,6 +837,28 @@
       "duration_ms": 160133,
       "name": "Nine Pound Hammer Is Too Heavy",
       "url": "https://open.spotify.com/track/23XllLrWH3QweaZ88w6Bxa"
+    },
+    {
+      "album": {
+        "name": "Your Requests",
+        "url": "https://open.spotify.com/album/1VDe4RTsD9IefuLu5aAoqc"
+      },
+      "artists": [
+        {
+          "name": "Hubert Cox",
+          "url": "https://open.spotify.com/artist/5LGQeUvliIiwY557PnfwTj"
+        },
+        {
+          "name": "The Southern Grass",
+          "url": "https://open.spotify.com/artist/2e5sKadYYbrCBlOhIPuYQB"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170000,
+      "name": "Old Home Place",
+      "url": "https://open.spotify.com/track/27NYrTdi2Xch1tT9rPtTeX"
     },
     {
       "album": {

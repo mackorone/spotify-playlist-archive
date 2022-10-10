@@ -4,7 +4,7 @@
 
 > Calm ambient music with gentle nature sounds.
 
-223 songs - 11 hr 53 min - [published](https://open.spotify.com/playlist/4UKPCLqX4EvanNUvCpP9Yx)
+224 songs - 11 hr 56 min - [published](https://open.spotify.com/playlist/4UKPCLqX4EvanNUvCpP9Yx)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -177,6 +177,7 @@
 | [Secret Garden](https://open.spotify.com/track/5J3JVWp8y6lQxVvBZTuh1p) | [Aura Lynx](https://open.spotify.com/artist/44mPTx3kx8S0Qj5SyliYIK) | [Secret Garden](https://open.spotify.com/album/6s3bRbsI8pjlH5kEemB1FS) | 3:28 | 2021-12-17 |  |
 | [Selcouth](https://open.spotify.com/track/5NJqnJDQV6lFBeNfRu7Buq) | [Næturkall](https://open.spotify.com/artist/57KgCAQY3AIYMaC0g2jOKb) | [Selcouth](https://open.spotify.com/album/5sl7oD9uD1yWLzGjxVrnal) | 2:27 | 2021-12-17 |  |
 | [Self\-Healing, Vol\. 2 \- Pt\. 13 \(subliminal\)](https://open.spotify.com/track/26IT74ZDpOmplNGd68E1de) | [Steven Halpern](https://open.spotify.com/artist/2J3qGaj5UzHvu0fjlLgb8k) | [Self\-Healing, Vol\. 2 \(42nd Anniversary Edition\)](https://open.spotify.com/album/1o4kAe5qOn2GXIOZ6vLZjD) | 4:31 | 2022-07-15 |  |
+| [Shimmering Above](https://open.spotify.com/track/4PfPTKjMjno9TcIIZmQMQ1) | [Atmospheric Lights](https://open.spotify.com/artist/65IYpN2ZX0vQzO3JRCpNHX) | [Shimmering Above](https://open.spotify.com/album/1y0JUuIhpBp708Mbl6YUFe) | 2:57 | 2022-10-07 |  |
 | [Shiny Drops](https://open.spotify.com/track/4sv4mSEO8uVdXrkm8tErXL) | [Oneironautics](https://open.spotify.com/artist/6VYV0dDe760s66s9973L1Q) | [Vibrational States](https://open.spotify.com/album/2zxejdOhHvXcY832gLyU6L) | 2:03 | 2021-12-17 |  |
 | [Shoreline Waves](https://open.spotify.com/track/1AvYFqAsQjo2ZTg4S2GBA8) | [Adam By Nature](https://open.spotify.com/artist/24FFkUJXOJMxw4WRVlLng1) | [Break Of Day](https://open.spotify.com/album/1xWwVHZmuwV9DJCRbR2Hlc) | 4:00 | 2021-12-17 |  |
 | [Silver Lining](https://open.spotify.com/track/18ASLynW0wviGgoxqceQNB) | [Zoniacs](https://open.spotify.com/artist/6IiJPhO9buoldoCLSG4foO) | [Silver Lining](https://open.spotify.com/album/4xvs942AlHntixf72xQeSs) | 3:30 | 2021-12-17 |  |

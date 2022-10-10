@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-05",
-  "description": "Stripped-down versions of all your favorite pop hits. Cover: OneRepublic",
+  "description": "Stripped-down versions of all your favorite pop hits. Cover: Demi Lovato",
   "name": "Unplugged",
   "published_playlist_ids": [
     "6HVsDWyBbAUBPhu4S7Fnez"
@@ -26,6 +26,24 @@
     },
     {
       "album": {
+        "name": "29 (Stripped)",
+        "url": "https://open.spotify.com/album/03JZ828bZucFZsbVmgZfGa"
+      },
+      "artists": [
+        {
+          "name": "Demi Lovato",
+          "url": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
+        }
+      ],
+      "date_added": "2022-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152842,
+      "name": "29 - Stripped",
+      "url": "https://open.spotify.com/track/2qfFLxiCWqQarHQ9cVoXKy"
+    },
+    {
+      "album": {
         "name": "Alien (Acoustic)",
         "url": "https://open.spotify.com/album/12Nm1go9iMaJPcGcBzOHFU"
       },
@@ -41,6 +59,28 @@
       "duration_ms": 140810,
       "name": "Alien - Acoustic",
       "url": "https://open.spotify.com/track/5IYKZF1nw5V0GtxQN7mspQ"
+    },
+    {
+      "album": {
+        "name": "All That Really Matters (Stripped Version)",
+        "url": "https://open.spotify.com/album/7qTaZSmNrPdj909ayvnalM"
+      },
+      "artists": [
+        {
+          "name": "ILLENIUM",
+          "url": "https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg"
+        },
+        {
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
+        }
+      ],
+      "date_added": "2022-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198568,
+      "name": "All That Really Matters - Stripped Version",
+      "url": "https://open.spotify.com/track/3fPc9bBcho6PKnaIkQs87u"
     },
     {
       "album": {
@@ -425,7 +465,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-09",
       "duration_ms": 226250,
       "name": "Crashing (ft. Bahari) \u2013 Stripped",
       "url": "https://open.spotify.com/track/1SreIFDe15GQC4BrdZW2Hh"
@@ -685,7 +725,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-09",
       "duration_ms": 176106,
       "name": "Giants - Guitar",
       "url": "https://open.spotify.com/track/73bMIXlioc1cKjgMdEiKps"
@@ -1144,6 +1184,28 @@
     },
     {
       "album": {
+        "name": "IT'S YOU (feat. keshi) [Stripped Version]",
+        "url": "https://open.spotify.com/album/5jHyTMPIvcjpjqkdqmSEmP"
+      },
+      "artists": [
+        {
+          "name": "MAX",
+          "url": "https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8"
+        },
+        {
+          "name": "keshi",
+          "url": "https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO"
+        }
+      ],
+      "date_added": "2022-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158742,
+      "name": "IT'S YOU (feat. keshi) - Stripped Version",
+      "url": "https://open.spotify.com/track/5XhyWkCp2jcYo3bJJoYASW"
+    },
+    {
+      "album": {
         "name": "Joke's On You (Acoustic)",
         "url": "https://open.spotify.com/album/3q6Z33KE8wBWCDvvm2FrYQ"
       },
@@ -1195,6 +1257,24 @@
       "duration_ms": 188026,
       "name": "Just About Over You - Acoustic Version",
       "url": "https://open.spotify.com/track/51SIaNorTKeEpmtFBC948L"
+    },
+    {
+      "album": {
+        "name": "Kiss Me (Guitar)",
+        "url": "https://open.spotify.com/album/64YI1ILJJXcVpgJfJcLbPL"
+      },
+      "artists": [
+        {
+          "name": "Dermot Kennedy",
+          "url": "https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ"
+        }
+      ],
+      "date_added": "2022-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218449,
+      "name": "Kiss Me - Guitar",
+      "url": "https://open.spotify.com/track/3Sf2bgJlNZQwkv3VpoT3Zp"
     },
     {
       "album": {
@@ -1397,7 +1477,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-09",
       "duration_ms": 228506,
       "name": "Love Me Now - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/2pPRgFEENF3LtuxYUPuT24"
@@ -1629,7 +1709,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-09",
       "duration_ms": 300174,
       "name": "Never Seen The Rain - Alternate Version",
       "url": "https://open.spotify.com/track/6MYNfMiLwCmA3bRdfzvfcs"
@@ -1911,7 +1991,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-07",
       "duration_ms": 208066,
       "name": "SNAP - Acoustic",
       "url": "https://open.spotify.com/track/1Kg4T22aL4CyoJO1nbAEPe"
@@ -1933,6 +2013,24 @@
       "duration_ms": 208066,
       "name": "SNAP - Acoustic",
       "url": "https://open.spotify.com/track/4cJfy4NKPrgJuT95gruimF"
+    },
+    {
+      "album": {
+        "name": "SNAP PACK",
+        "url": "https://open.spotify.com/album/3CVEB0FPk25Ds64ALgxjH7"
+      },
+      "artists": [
+        {
+          "name": "Rosa Linn",
+          "url": "https://open.spotify.com/artist/46xBNx0j6cwY6sD9LgMTm1"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208066,
+      "name": "SNAP - Acoustic",
+      "url": "https://open.spotify.com/track/6OQ84LoCVGxLkH95LOjIC1"
     },
     {
       "album": {
@@ -2037,7 +2135,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-09",
       "duration_ms": 204290,
       "name": "Start Walking - Acoustic Version",
       "url": "https://open.spotify.com/track/7gFoo5dFwUmy219QoPEjAR"
@@ -2233,6 +2331,24 @@
       "duration_ms": 218915,
       "name": "Trampoline - Stripped",
       "url": "https://open.spotify.com/track/7HHSCN8qAcPBKqNolT5qBg"
+    },
+    {
+      "album": {
+        "name": "Victoria\u2019s Secret (Piano Stripped)",
+        "url": "https://open.spotify.com/album/7cKckU7FmpUFnt94PUibaU"
+      },
+      "artists": [
+        {
+          "name": "Jax",
+          "url": "https://open.spotify.com/artist/7DQYAz99eM3Y5PkP9WtUew"
+        }
+      ],
+      "date_added": "2022-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175423,
+      "name": "Victoria\u2019s Secret - Piano Stripped",
+      "url": "https://open.spotify.com/track/50skDNkr45SubYkVWC4YOi"
     },
     {
       "album": {

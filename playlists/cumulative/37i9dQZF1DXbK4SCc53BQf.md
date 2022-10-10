@@ -4,7 +4,7 @@
 
 > ¡Aqui están todas las esenciales Tropicales de adoración!
 
-75 songs - 4 hr 56 min - [published](https://open.spotify.com/playlist/1P9HnMPWIfefmYhkHJJ7tn)
+76 songs - 5 hr 0 min - [published](https://open.spotify.com/playlist/1P9HnMPWIfefmYhkHJJ7tn)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,7 +34,7 @@
 | [Es Imposible](https://open.spotify.com/track/2E32QoPYNwwQLpwlSCyIhX) | [Funky](https://open.spotify.com/artist/4B4YYJ0BAYBK86yxqQV7mu) | [Indestructible](https://open.spotify.com/album/01DU4Brb6WmObvkqdsVWiN) | 3:31 | 2020-11-24 |  |
 | [Fiesta](https://open.spotify.com/track/5BoyMsxh4nET9KiiWW1BgX) | [Su Presencia](https://open.spotify.com/artist/2gaFnEQydJdWNkT17NLZm3) | [Fiel](https://open.spotify.com/album/0jPkJNUVPwugoSZWs63orG) | 4:38 | 2020-11-24 |  |
 | [Good Good Father \(feat\. Avion Blackman\)](https://open.spotify.com/track/2ZlaPNCTkfbyOn29z3DrSo) | [Christafari](https://open.spotify.com/artist/5397Q0lxSvxsQkkYiyQGeO), [Avion Blackman](https://open.spotify.com/artist/0lEo8Bgl7QGsRRZXZr8mWO) | [Original Love](https://open.spotify.com/album/1MWefbBiKCxIX3n7NyAhzO) | 4:08 | 2020-11-24 |  |
-| [Hay Un Lugar](https://open.spotify.com/track/5tulhFuDxAUP9v8n0UkDup) | [Kathy Cristina](https://open.spotify.com/artist/287HBPD9OBO14J8gsG0Da4) | [Vestida De Adoracion](https://open.spotify.com/album/3HL5KhmbzAuVBSPQoaUwZu) | 4:44 | 2020-11-24 | 2022-08-30 |
+| [Hay Un Lugar](https://open.spotify.com/track/5tulhFuDxAUP9v8n0UkDup) | [Kathy Cristina](https://open.spotify.com/artist/287HBPD9OBO14J8gsG0Da4) | [Vestida De Adoracion](https://open.spotify.com/album/3HL5KhmbzAuVBSPQoaUwZu) | 4:44 | 2020-11-24 | 2022-10-10 |
 | [Hermoso Nombre](https://open.spotify.com/track/2xz5VHm0Wa0YKVlbIwtOU5) | [Kevin Ceballo](https://open.spotify.com/artist/41xsiEh9qfWhieXgsoI43v) | [Ven Te Estado Esperando](https://open.spotify.com/album/3odRdzPRVRi3yHzwl1h71d) | 5:49 | 2020-11-24 | 2022-07-29 |
 | [Hora de Cantar](https://open.spotify.com/track/5o4vm04U4p8r4ViAOChKtT) | [Gilvan Santana](https://open.spotify.com/artist/7yCl5PCByfPpREKqgiiyds) | [Redenção e Liberdade](https://open.spotify.com/album/0HQK2BQHcScsqFtagdDCVr) | 3:36 | 2020-11-24 | 2022-07-29 |
 | [Hoy Veré Su Gloria](https://open.spotify.com/track/3A7r0LzUXp0pxWR4AfhLV5) | [Kevin Ceballo](https://open.spotify.com/artist/41xsiEh9qfWhieXgsoI43v) | [Hoy Veré Su Gloria](https://open.spotify.com/album/1xCt6Bwx2DPoSh6EGBIlOv) | 4:34 | 2020-11-24 |  |
@@ -54,8 +54,9 @@
 | [Renuevame](https://open.spotify.com/track/5y8KU2x7B5DEpxP66I1Ghz) | [Puchi Colon](https://open.spotify.com/artist/2SuLNlSmriMddkk59UkOdi) | [Lo Mejor De Mi, Para El](https://open.spotify.com/album/1e1CABBw5I7ZK8vUPcl3JG) | 5:16 | 2020-11-24 |  |
 | [Ritmo del Cielo](https://open.spotify.com/track/35OtIIqxDHdw3GGAfSbe9b) | [Michael Pratts](https://open.spotify.com/artist/0zdgPYpK8lYxpW8g5uNlxp) | [Conteo Regresivo](https://open.spotify.com/album/1XI94IJgnTzwPjT3NNsRFy) | 3:49 | 2020-11-24 | 2022-07-29 |
 | [Ritmo Del Cielo](https://open.spotify.com/track/78A0tsRzfFHAdyLWd1S5cA) | [Michael Pratts](https://open.spotify.com/artist/0zdgPYpK8lYxpW8g5uNlxp) | [Conteo Regresivo](https://open.spotify.com/album/4u5WBcNF0IolTEzYBjLKHg) | 3:49 | 2020-11-24 |  |
-| [Si Estoy Contigo](https://open.spotify.com/track/2mIoPDYldAD7tctsGmmA45) | [Alex Campos](https://open.spotify.com/artist/6slyJwua5e5GuhuP82sTHR), [Barak](https://open.spotify.com/artist/2IzxJqK9NbSIdw7rQVW03P) | [Derroche De Amor](https://open.spotify.com/album/6jiDmi9u09NcvLlYUNpSkR) | 4:11 | 2020-11-24 |  |
+| [Si Estoy Contigo](https://open.spotify.com/track/2mIoPDYldAD7tctsGmmA45) | [Alex Campos](https://open.spotify.com/artist/6slyJwua5e5GuhuP82sTHR), [Barak](https://open.spotify.com/artist/2IzxJqK9NbSIdw7rQVW03P) | [Derroche De Amor](https://open.spotify.com/album/6jiDmi9u09NcvLlYUNpSkR) | 4:11 | 2020-11-24 | 2022-10-07 |
 | [Si Estoy Contigo \(feat\. Barak\)](https://open.spotify.com/track/2BBG9wMbDrxmb4wEipFel1) | [Alex Campos](https://open.spotify.com/artist/6slyJwua5e5GuhuP82sTHR), [Barak](https://open.spotify.com/artist/2IzxJqK9NbSIdw7rQVW03P) | [Derroche De Amor](https://open.spotify.com/album/12cJ3nCmHehDX1zvK2LWWe) | 4:09 | 2020-11-24 | 2022-07-29 |
+| [Si Estoy Contigo \- En Vivo](https://open.spotify.com/track/1ZAqiTFbsiv9OYSiDQsIv8) | [Alex Campos](https://open.spotify.com/artist/6slyJwua5e5GuhuP82sTHR), [Barak](https://open.spotify.com/artist/2IzxJqK9NbSIdw7rQVW03P) | [Alex Campos y Sus Amigos \(En Vivo\)](https://open.spotify.com/album/1XEQDxwovn8C0l6qb2NSnz) | 4:11 | 2020-11-24 |  |
 | [Si Te Vas](https://open.spotify.com/track/13zI0iUXyWpiHIPVte2cD2) | [Omy Alka](https://open.spotify.com/artist/6dBxV47XdYFxRPmDGSyhgh) | [Si Te Vas](https://open.spotify.com/album/5obRq2pwQQHNOeG3Tp1Tv0) | 3:10 | 2020-11-24 |  |
 | [Si Te Vas](https://open.spotify.com/track/47NXoEc8bJd8OISRir1JLW) | [Omy Alka](https://open.spotify.com/artist/6dBxV47XdYFxRPmDGSyhgh) | [Si Te Vas](https://open.spotify.com/album/33qpBmuqANVwD2WmRlg32y) | 3:10 | 2020-11-24 | 2022-07-29 |
 | [Sin Ti](https://open.spotify.com/track/08PHbleBCzVQqiHeLi3631) | [Alex Zurdo](https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd) | [Sin Ti](https://open.spotify.com/album/74TJfLPvOdH3Pn04Vt7jjH) | 4:24 | 2020-11-24 |  |

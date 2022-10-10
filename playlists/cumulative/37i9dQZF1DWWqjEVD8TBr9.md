@@ -2,9 +2,9 @@
 
 ### [This Is Stray Kids](https://open.spotify.com/playlist/37i9dQZF1DWWqjEVD8TBr9)
 
-> Stray Kids everywhere all around the world\. You make Stray Kids STAY.
+> Stray Kids everywhere all around the world\. You make Stray Kids STAY\. 1\-4\-3, I LOVE YOU!
 
-197 songs - 10 hr 58 min - [published](https://open.spotify.com/playlist/0Vxp66pxUmZYhcNuoMA3LI)
+205 songs - 11 hr 25 min - [published](https://open.spotify.com/playlist/0Vxp66pxUmZYhcNuoMA3LI)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [19](https://open.spotify.com/track/4FIEtn5MqtRyAHpPJDsDkj) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [SKZ2020](https://open.spotify.com/album/6QIWJVJPPgAA5c4aIb1zCA) | 3:26 | 2022-03-18 |  |
 | [24 to 25](https://open.spotify.com/track/6WM7pRXIeXuZ3Wowi9v1Wr) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [Christmas EveL](https://open.spotify.com/album/1qVuQI0WRn2Mczbdxx54Ih) | 3:36 | 2022-03-18 |  |
 | [24 to 25](https://open.spotify.com/track/7cRYXWQjXyLg6C1Hu9uc1S) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [Christmas EveL](https://open.spotify.com/album/6bW2FgR93NYexY1fuHtUyi) | 3:36 | 2022-03-18 | 2022-07-29 |
+| [3RACHA \(Bang Chan, Changbin, HAN\)](https://open.spotify.com/track/6T4o4xEh61CpgM9v4jG5DJ) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [MAXIDENT](https://open.spotify.com/album/0T6hYH0UyDjNraWZk2mZWi) | 3:28 | 2022-10-07 |  |
 | [3rd Eye](https://open.spotify.com/track/26TIfStHIKPlgzr4PkTB0i) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [SKZ2021](https://open.spotify.com/album/3sMj0uu8dKNRnyqQozC1Xv) | 4:03 | 2022-03-18 |  |
 | [3rd Eye](https://open.spotify.com/track/5KjcsZHtCTxrrbr2bZluHZ) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [SKZ2021](https://open.spotify.com/album/3fFV6XeOkB9gGgMmZUij5e) | 4:03 | 2022-03-18 | 2022-07-29 |
 | [Airplane](https://open.spotify.com/track/45GRs2YmGzTKp2MmafqCjG) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [GO LIVE](https://open.spotify.com/album/7B3Rmyws1KcAxQfYPoInEZ) | 3:34 | 2022-03-18 | 2022-07-29 |
@@ -48,15 +49,19 @@
 | [Broken Compass](https://open.spotify.com/track/1HIak6kcz3MRcMuMjKEMiY) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [SKZ2021](https://open.spotify.com/album/3fFV6XeOkB9gGgMmZUij5e) | 3:41 | 2022-03-18 | 2022-07-29 |
 | [Broken Compass](https://open.spotify.com/track/5IqYohaBtPHl30pE07RGqO) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [SKZ2021](https://open.spotify.com/album/3sMj0uu8dKNRnyqQozC1Xv) | 3:41 | 2022-03-18 |  |
 | [CALL](https://open.spotify.com/track/40eQ3f56CJ34Io5JXKn5rF) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [Scars / ソリクン \-Japanese ver.\-](https://open.spotify.com/album/5hsCdHPhvg7mOo0OVzn5O0) | 2:47 | 2022-03-18 |  |
+| [Can't Stop \(Seungmin, I.N\)](https://open.spotify.com/track/33vfE5bxDMHpOFHMSgxehR) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [MAXIDENT](https://open.spotify.com/album/0T6hYH0UyDjNraWZk2mZWi) | 3:29 | 2022-10-07 |  |
+| [CASE 143](https://open.spotify.com/track/3O8G8eVrhfXTGttyQ1xVuq) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [MAXIDENT](https://open.spotify.com/album/0T6hYH0UyDjNraWZk2mZWi) | 3:11 | 2022-10-07 |  |
 | [Charmer](https://open.spotify.com/track/4QDpsNBlllaLGj8zbF2EE0) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [ODDINARY](https://open.spotify.com/album/0Gmf4pfe0POEQq2FgGAj2q) | 3:08 | 2022-03-18 |  |
 | [Charmer](https://open.spotify.com/track/5PyqnR2KX6a6qwf6l9rgpj) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [ODDINARY](https://open.spotify.com/album/1byOOf9U3IiQN1cVHqRqEF) | 3:08 | 2022-03-18 | 2022-07-29 |
 | [CHEESE](https://open.spotify.com/track/5Kllw7Fco57MHtMEGgRdoc) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [NOEASY](https://open.spotify.com/album/5fNA1Hs2ddXrf8CWJk1Ww7) | 3:02 | 2022-03-18 | 2022-07-29 |
 | [CHEESE](https://open.spotify.com/track/7qpSatdWQcRHA3hpedL2u4) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [NOEASY](https://open.spotify.com/album/558tpdCejjVQNFAumRAeQj) | 3:02 | 2022-03-18 |  |
+| [CHILL](https://open.spotify.com/track/1HshHZrFIF5MRXWCZntOPr) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [MAXIDENT](https://open.spotify.com/album/0T6hYH0UyDjNraWZk2mZWi) | 3:15 | 2022-10-07 |  |
 | [Christmas EveL](https://open.spotify.com/track/0hnsWcb5a4H3IpAbSXeLPg) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [Christmas EveL](https://open.spotify.com/album/6bW2FgR93NYexY1fuHtUyi) | 2:58 | 2022-03-18 | 2022-07-29 |
 | [Christmas EveL](https://open.spotify.com/track/5npCUsfrlhdyjxyCa32maW) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [Christmas EveL](https://open.spotify.com/album/1qVuQI0WRn2Mczbdxx54Ih) | 2:58 | 2022-03-18 |  |
 | [Chronosaurus](https://open.spotify.com/track/4ugyIuBiZNcbaWQFnpVHqb) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [SKZ2020](https://open.spotify.com/album/4hk05fFLNquJc8w5htXZDi) | 3:20 | 2022-03-18 | 2022-07-29 |
 | [Chronosaurus](https://open.spotify.com/track/58epKNTOOt4RDWObkR9e43) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [SKZ2020](https://open.spotify.com/album/6QIWJVJPPgAA5c4aIb1zCA) | 3:20 | 2022-03-18 |  |
 | [CIRCUS](https://open.spotify.com/track/2uw2ftfyS4yJLWiTtbxasE) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [CIRCUS](https://open.spotify.com/album/4IQHY28D4aHus9lGDlSdPp) | 3:14 | 2022-06-09 |  |
+| [CIRCUS \(Korean Ver.\)](https://open.spotify.com/track/3JeLa5o0NxQjQHhVYaTLV0) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [MAXIDENT](https://open.spotify.com/album/0T6hYH0UyDjNraWZk2mZWi) | 3:14 | 2022-10-07 |  |
 | [District 9](https://open.spotify.com/track/430IfeGHWJxnZOkhBYACt9) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [SKZ2020](https://open.spotify.com/album/6QIWJVJPPgAA5c4aIb1zCA) | 3:33 | 2022-03-18 |  |
 | [District 9](https://open.spotify.com/track/58XXaW1pFAiXZRouc7ulaJ) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [SKZ2020](https://open.spotify.com/album/4hk05fFLNquJc8w5htXZDi) | 3:33 | 2022-03-18 | 2022-07-29 |
 | [DOMINO](https://open.spotify.com/track/6Ib6RkvLBMD85bov85apSL) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [NOEASY](https://open.spotify.com/album/558tpdCejjVQNFAumRAeQj) | 3:18 | 2022-03-18 |  |
@@ -76,6 +81,7 @@
 | [FREEZE](https://open.spotify.com/track/2plJdCLTDrATAlL7pU8SeA) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [ODDINARY](https://open.spotify.com/album/1byOOf9U3IiQN1cVHqRqEF) | 2:58 | 2022-03-18 | 2022-07-29 |
 | [Get Cool](https://open.spotify.com/track/0uUOYmOu7V6v18XLkVtjDF) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [SKZ2020](https://open.spotify.com/album/6QIWJVJPPgAA5c4aIb1zCA) | 3:16 | 2022-03-18 |  |
 | [Get Cool](https://open.spotify.com/track/6TCQ5kYMTXFrrCobvXqUxY) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [SKZ2020](https://open.spotify.com/album/4hk05fFLNquJc8w5htXZDi) | 3:16 | 2022-03-18 | 2022-07-29 |
+| [Give Me Your TMI](https://open.spotify.com/track/7CQhZA3qNDZBoTKWqjD7gR) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [MAXIDENT](https://open.spotify.com/album/0T6hYH0UyDjNraWZk2mZWi) | 3:18 | 2022-10-07 |  |
 | [GO LIVE](https://open.spotify.com/track/1M9qmt6EFa0RJJV8C7Y3HO) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [GO LIVE](https://open.spotify.com/album/7B3Rmyws1KcAxQfYPoInEZ) | 1:50 | 2022-03-18 | 2022-07-29 |
 | [GO LIVE](https://open.spotify.com/track/65AJTgtczHH8LjbCfauT4n) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [GO LIVE](https://open.spotify.com/album/6DWLIzvmiLPAuDWYZqrLQo) | 1:50 | 2022-03-18 |  |
 | [God’s Menu](https://open.spotify.com/track/0RzT9tBLcQhofW2TNiHP9B) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [GO LIVE](https://open.spotify.com/album/7B3Rmyws1KcAxQfYPoInEZ) | 2:47 | 2022-03-18 | 2022-07-29 |
@@ -169,10 +175,12 @@
 | [STOP](https://open.spotify.com/track/5rqvgt4X1q8M6PYDQm7PCg) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [Clé : LEVANTER](https://open.spotify.com/album/5tCOElmd7wcBGbt1f8bFYR) | 3:09 | 2022-03-18 | 2022-07-29 |
 | [Sunshine](https://open.spotify.com/track/2wpiWR4tTz4ewnYV1v4KQC) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [Clé : LEVANTER](https://open.spotify.com/album/5tCOElmd7wcBGbt1f8bFYR) | 3:42 | 2022-03-18 | 2022-07-29 |
 | [Sunshine](https://open.spotify.com/track/3GYmjbJ1EU4TOMEYuVMXu0) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [Clé : LEVANTER](https://open.spotify.com/album/0st9OqpsKmmtwUz6cS14Fj) | 3:42 | 2022-03-18 |  |
+| [SUPER BOARD](https://open.spotify.com/track/078fJxqEUz0LvbHSM6AoXJ) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [MAXIDENT](https://open.spotify.com/album/0T6hYH0UyDjNraWZk2mZWi) | 3:05 | 2022-10-07 |  |
 | [Surfin' \(Lee Know, Changbin, Felix\)](https://open.spotify.com/track/27DbIP4CqfrHgZqSybcmyr) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [NOEASY](https://open.spotify.com/album/5fNA1Hs2ddXrf8CWJk1Ww7) | 3:11 | 2022-03-18 | 2022-07-29 |
 | [Surfin’ \(Lee Know, Changbin, Felix\)](https://open.spotify.com/track/1FdnsU6An1Ye3uBJe8j23c) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [NOEASY](https://open.spotify.com/album/558tpdCejjVQNFAumRAeQj) | 3:11 | 2022-03-18 |  |
 | [TA](https://open.spotify.com/track/0I952Ff5CiRpdtfpSGUuA9) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [GO LIVE](https://open.spotify.com/album/7B3Rmyws1KcAxQfYPoInEZ) | 3:28 | 2022-03-18 | 2022-07-29 |
 | [TA](https://open.spotify.com/track/1DOBBWtkabIjo955KkMLuQ) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [GO LIVE](https://open.spotify.com/album/6DWLIzvmiLPAuDWYZqrLQo) | 3:28 | 2022-03-18 |  |
+| [TASTE \(Lee Know, Hyunjin, Felix\)](https://open.spotify.com/track/05ib88vsMeLfwlAfrZyz99) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [MAXIDENT](https://open.spotify.com/album/0T6hYH0UyDjNraWZk2mZWi) | 3:36 | 2022-10-07 |  |
 | [The Tortoise and the Hare](https://open.spotify.com/track/1Zv6xilw5El5P6frlNnYcH) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [IN LIFE](https://open.spotify.com/album/0aERWcI2KYSCM4biUihB9X) | 3:44 | 2022-03-18 |  |
 | [The Tortoise and the Hare](https://open.spotify.com/track/68nztiBbdiddgbCUgXlCs5) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [IN LIFE](https://open.spotify.com/album/1fOJ6SHLXOLnsuuwiLyzft) | 3:44 | 2022-03-18 | 2022-07-29 |
 | [The View](https://open.spotify.com/track/5FM1V3qjHroqsXRBbL57rW) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [NOEASY](https://open.spotify.com/album/558tpdCejjVQNFAumRAeQj) | 3:21 | 2022-03-18 |  |

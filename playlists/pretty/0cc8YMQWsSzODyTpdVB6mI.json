@@ -1,13 +1,81 @@
 {
   "description": "The best NEW Music right now, curated by Kitsun\u00e9 Musique and\u00a0added to one HOT playlist : a FRESH selection updated every Monday, Wednesday &amp; Friday. ",
-  "num_followers": 43386,
+  "num_followers": 43526,
   "original_name": "Kitsun\u00e9's New, Hot & Fresh",
   "owner": {
     "name": "Kitsun\u00e9 Musique",
     "url": "https://open.spotify.com/user/maisonkitsune"
   },
-  "snapshot_id": "Mjk2NixkZDkzYzhjOGJhNTZkZjdhYjZjODBmZjQ0YmI0MWM3ZTgwMGFjMWE3",
+  "snapshot_id": "Mjk3NiwzMTJiZTgzNzJhYWFmYzE4YWYwNTY2YmVmMzAyMmVhYTE2MjUyNzNl",
   "tracks": [
+    {
+      "added_at": "2022-10-07 08:15:41",
+      "album": {
+        "name": "Run",
+        "url": "https://open.spotify.com/album/0ngsAnIsTVjlXzgRtJcLJg"
+      },
+      "artists": [
+        {
+          "name": "Ultraflex",
+          "url": "https://open.spotify.com/artist/0GX25ns6c6gNoBmZyb0Sqg"
+        }
+      ],
+      "duration_ms": 118597,
+      "name": "Run",
+      "url": "https://open.spotify.com/track/3g8OkwMxW6PJ4CWgEN6R1H"
+    },
+    {
+      "added_at": "2022-10-06 10:03:09",
+      "album": {
+        "name": "mynameisleonidas",
+        "url": "https://open.spotify.com/album/2r9YXXiFLz4VB4oSsVYA2h"
+      },
+      "artists": [
+        {
+          "name": "mynameisleonidas",
+          "url": "https://open.spotify.com/artist/0Jjoj2QyL1AtZ08H6LTTVe"
+        }
+      ],
+      "duration_ms": 206310,
+      "name": "poseidon",
+      "url": "https://open.spotify.com/track/4qpFTWOjbrKueLNSDdjigo"
+    },
+    {
+      "added_at": "2022-10-05 08:33:28",
+      "album": {
+        "name": "SUE\u00d1O",
+        "url": "https://open.spotify.com/album/1df1ycciEzdrKGmzsnEEtX"
+      },
+      "artists": [
+        {
+          "name": "MATVE\u00cf",
+          "url": "https://open.spotify.com/artist/2c8JocB8eI6cCGaF5xGoT1"
+        }
+      ],
+      "duration_ms": 146660,
+      "name": "SUE\u00d1O",
+      "url": "https://open.spotify.com/track/1iV2awZB7fKegkMmgbhHaV"
+    },
+    {
+      "added_at": "2022-10-03 07:58:09",
+      "album": {
+        "name": "Everything Is Changing",
+        "url": "https://open.spotify.com/album/02yAJpRDnL6aMkVenvEUlt"
+      },
+      "artists": [
+        {
+          "name": "Crazy Fluke",
+          "url": "https://open.spotify.com/artist/1mVwhF4BGCmj165LyEHVKT"
+        },
+        {
+          "name": "The Melody Men",
+          "url": "https://open.spotify.com/artist/6PSmjKj0zyXGZ4TXoq4dSG"
+        }
+      ],
+      "duration_ms": 191250,
+      "name": "Everything Is Changing - Radio Edit",
+      "url": "https://open.spotify.com/track/5aTCZ0Hc3GtpqcC6mCKTyY"
+    },
     {
       "added_at": "2022-09-28 08:38:42",
       "album": {
@@ -363,70 +431,6 @@
       "duration_ms": 221000,
       "name": "AMBIANCE",
       "url": "https://open.spotify.com/track/4NhiYKMp8tiPsb5oYOgLjo"
-    },
-    {
-      "added_at": "2022-07-15 09:23:34",
-      "album": {
-        "name": "We Are Shadows",
-        "url": "https://open.spotify.com/album/6f9UikQyxUq3sYTc6TY2aX"
-      },
-      "artists": [
-        {
-          "name": "PRESSYES",
-          "url": "https://open.spotify.com/artist/35RtE46owXOQK7XjE1Sxop"
-        }
-      ],
-      "duration_ms": 219436,
-      "name": "We Are Shadows",
-      "url": "https://open.spotify.com/track/6vpb43NMPkwvX4znUepjhD"
-    },
-    {
-      "added_at": "2022-09-28 09:25:44",
-      "album": {
-        "name": "Opposites",
-        "url": "https://open.spotify.com/album/2O7ykDuK6mv9nh4UQttmJW"
-      },
-      "artists": [
-        {
-          "name": "Ade",
-          "url": "https://open.spotify.com/artist/2QpgfGNDMwaugmjkVNEWtb"
-        }
-      ],
-      "duration_ms": 219081,
-      "name": "Opposites",
-      "url": "https://open.spotify.com/track/3h3QqLaFYJR4XlIROuFkb1"
-    },
-    {
-      "added_at": "2022-09-28 09:25:54",
-      "album": {
-        "name": "Worship",
-        "url": "https://open.spotify.com/album/5RjcxA4BGTJfkcVK2bPyDF"
-      },
-      "artists": [
-        {
-          "name": "Pecas",
-          "url": "https://open.spotify.com/artist/6EWKuUzmkUekywt78dM2oU"
-        }
-      ],
-      "duration_ms": 266000,
-      "name": "Worship",
-      "url": "https://open.spotify.com/track/7bNJSUTF1XreWJYN11YnuY"
-    },
-    {
-      "added_at": "2022-09-28 09:25:50",
-      "album": {
-        "name": "Be Grateful",
-        "url": "https://open.spotify.com/album/1rX527XeBVn4tkNwVgUXu9"
-      },
-      "artists": [
-        {
-          "name": "Hans.",
-          "url": "https://open.spotify.com/artist/41azuh0IUq4g2UPySoYp8A"
-        }
-      ],
-      "duration_ms": 167812,
-      "name": "Be Grateful",
-      "url": "https://open.spotify.com/track/1wzmKX0ppikXpAdA7O5BRp"
     },
     {
       "added_at": "2021-11-05 15:47:43",

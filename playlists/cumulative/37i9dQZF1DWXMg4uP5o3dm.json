@@ -233,7 +233,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-09",
       "duration_ms": 131440,
       "name": "Bang",
       "url": "https://open.spotify.com/track/5GbK9am1svakX356ltRPcm"
@@ -1142,6 +1142,24 @@
     },
     {
       "album": {
+        "name": "Tomorrows",
+        "url": "https://open.spotify.com/album/6DiDjfJEnfAjEZAhbSiQSV"
+      },
+      "artists": [
+        {
+          "name": "Crooked Colours",
+          "url": "https://open.spotify.com/artist/0aA1GTrIMutjIh4GlPPUVN"
+        }
+      ],
+      "date_added": "2022-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231851,
+      "name": "Feel It",
+      "url": "https://open.spotify.com/track/1ARuHk4XNA0FJXuCOIassd"
+    },
+    {
+      "album": {
         "name": "Feel Real Pretty (Remixes)",
         "url": "https://open.spotify.com/album/5uM5JzzgYV0obfBY4Ebm2b"
       },
@@ -1157,6 +1175,24 @@
       "duration_ms": 183127,
       "name": "Feel Real Pretty",
       "url": "https://open.spotify.com/track/2nRcQbL9FZYFii3fFLKPSp"
+    },
+    {
+      "album": {
+        "name": "Feel Real Pretty",
+        "url": "https://open.spotify.com/album/6zLwTLoaEO41zOMSY64MSD"
+      },
+      "artists": [
+        {
+          "name": "Paper Idol",
+          "url": "https://open.spotify.com/artist/6dewigIOIcG6m1XGsG4Mc3"
+        }
+      ],
+      "date_added": "2022-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183127,
+      "name": "Feel Real Pretty",
+      "url": "https://open.spotify.com/track/3RcoIYZ9HOJ8nhKLRV9c4e"
     },
     {
       "album": {
@@ -1813,7 +1849,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-03",
       "duration_ms": 177746,
       "name": "I Like to Party",
       "url": "https://open.spotify.com/track/51cjBkdTwUsoZMz0XcPNd7"
@@ -2685,7 +2721,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 146823,
       "name": "Perfect",
       "url": "https://open.spotify.com/track/3h4NC7LmDnz05P5rv1DGRK"
@@ -2929,7 +2965,7 @@
       ],
       "date_added": "2022-03-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-02",
+      "date_removed": "2022-10-06",
       "duration_ms": 190819,
       "name": "S.O.A.G.",
       "url": "https://open.spotify.com/track/7yBkmyHcSTEkauXdQotxMz"
@@ -3221,7 +3257,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-05",
       "duration_ms": 240044,
       "name": "Superhuman (with K.Flay)",
       "url": "https://open.spotify.com/track/0rWQ4sqTFJoPdIXDahOUPX"

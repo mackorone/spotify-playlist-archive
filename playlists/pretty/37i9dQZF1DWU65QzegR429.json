@@ -1,29 +1,13 @@
 {
   "description": "Latin music making waves. Cover: Jenn Morel",
-  "num_followers": 4902,
+  "num_followers": 4963,
   "original_name": "Latin Frequency",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzA3NTI5MCwwMDAwMDAwMGFkZDQ3ZGM2NGJkMzExMTFkZjJlYzY3ZmRhYzBmNTFj",
+  "snapshot_id": "MTY2MzA3NTI5MCwwMDAwMDAwMDU5MTIwNWUyZmQ1MzdmOTUyMjI0N2VkYzQwYzNhNDQ2",
   "tracks": [
-    {
-      "added_at": "2022-09-13 13:21:30",
-      "album": {
-        "name": "Noche de Teteo",
-        "url": "https://open.spotify.com/album/5Qt0bEk7a3RONCNxHJIFdx"
-      },
-      "artists": [
-        {
-          "name": "Sech",
-          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
-        }
-      ],
-      "duration_ms": 202600,
-      "name": "Noche de Teteo",
-      "url": "https://open.spotify.com/track/5YBvKoQDMAd7IjonxPQYFN"
-    },
     {
       "added_at": "2022-09-13 13:21:30",
       "album": {
@@ -39,6 +23,22 @@
       "duration_ms": 177240,
       "name": "Feliz",
       "url": "https://open.spotify.com/track/2mzDRrBn6M6rWX4bGzd1uQ"
+    },
+    {
+      "added_at": "2022-09-13 13:21:30",
+      "album": {
+        "name": "Noche de Teteo",
+        "url": "https://open.spotify.com/album/5Qt0bEk7a3RONCNxHJIFdx"
+      },
+      "artists": [
+        {
+          "name": "Sech",
+          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
+        }
+      ],
+      "duration_ms": 202600,
+      "name": "Noche de Teteo",
+      "url": "https://open.spotify.com/track/5YBvKoQDMAd7IjonxPQYFN"
     },
     {
       "added_at": "2022-09-13 13:21:30",
@@ -183,22 +183,6 @@
     {
       "added_at": "2022-09-13 13:21:30",
       "album": {
-        "name": "El Toro",
-        "url": "https://open.spotify.com/album/77cUCnK4xklADFgpBcJDtk"
-      },
-      "artists": [
-        {
-          "name": "Nino Freestyle",
-          "url": "https://open.spotify.com/artist/1AACxWCwNIa3ecOBQJnXRV"
-        }
-      ],
-      "duration_ms": 160093,
-      "name": "El Toro",
-      "url": "https://open.spotify.com/track/5fCLXGmn6hq4XhWLwoWJyv"
-    },
-    {
-      "added_at": "2022-09-13 13:21:30",
-      "album": {
         "name": "G Wagon",
         "url": "https://open.spotify.com/album/7CSrNfB7tAWOMcvqv8r3rq"
       },
@@ -211,6 +195,22 @@
       "duration_ms": 209680,
       "name": "G Wagon",
       "url": "https://open.spotify.com/track/008aqmngiiKe5jrPSNyV6n"
+    },
+    {
+      "added_at": "2022-09-13 13:21:30",
+      "album": {
+        "name": "El Toro",
+        "url": "https://open.spotify.com/album/77cUCnK4xklADFgpBcJDtk"
+      },
+      "artists": [
+        {
+          "name": "Nino Freestyle",
+          "url": "https://open.spotify.com/artist/1AACxWCwNIa3ecOBQJnXRV"
+        }
+      ],
+      "duration_ms": 160093,
+      "name": "El Toro",
+      "url": "https://open.spotify.com/track/5fCLXGmn6hq4XhWLwoWJyv"
     },
     {
       "added_at": "2022-09-13 13:21:30",
@@ -247,22 +247,6 @@
     {
       "added_at": "2022-09-13 13:21:30",
       "album": {
-        "name": "LYKE MIKE",
-        "url": "https://open.spotify.com/album/5qhxJXwhtjXAmCr22FXG3Q"
-      },
-      "artists": [
-        {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
-        }
-      ],
-      "duration_ms": 159572,
-      "name": "PIN PIN",
-      "url": "https://open.spotify.com/track/51tMYALx6Lkrte41DoWIPq"
-    },
-    {
-      "added_at": "2022-09-13 13:21:30",
-      "album": {
         "name": "They Love Us",
         "url": "https://open.spotify.com/album/5tXi8xJTaE7lkHsdJq0AYb"
       },
@@ -275,6 +259,38 @@
       "duration_ms": 174013,
       "name": "Triple H",
       "url": "https://open.spotify.com/track/1QnfogT4dMmH37TZvxP2ao"
+    },
+    {
+      "added_at": "2022-09-13 13:21:30",
+      "album": {
+        "name": "Bitcoin",
+        "url": "https://open.spotify.com/album/0hEC9LcZJT7HvZRzK4ysjC"
+      },
+      "artists": [
+        {
+          "name": "ChocQuibTown",
+          "url": "https://open.spotify.com/artist/6tkyhGe9hGI3Lcfo4gVh6Z"
+        }
+      ],
+      "duration_ms": 201370,
+      "name": "Bitcoin",
+      "url": "https://open.spotify.com/track/7edR9E5WUTG1DUN4K8bNgH"
+    },
+    {
+      "added_at": "2022-09-13 13:21:30",
+      "album": {
+        "name": "LYKE MIKE",
+        "url": "https://open.spotify.com/album/5qhxJXwhtjXAmCr22FXG3Q"
+      },
+      "artists": [
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        }
+      ],
+      "duration_ms": 159572,
+      "name": "PIN PIN",
+      "url": "https://open.spotify.com/track/51tMYALx6Lkrte41DoWIPq"
     },
     {
       "added_at": "2022-09-13 13:21:30",
@@ -311,38 +327,6 @@
     {
       "added_at": "2022-09-13 13:21:30",
       "album": {
-        "name": "Bitcoin",
-        "url": "https://open.spotify.com/album/0hEC9LcZJT7HvZRzK4ysjC"
-      },
-      "artists": [
-        {
-          "name": "ChocQuibTown",
-          "url": "https://open.spotify.com/artist/6tkyhGe9hGI3Lcfo4gVh6Z"
-        }
-      ],
-      "duration_ms": 201370,
-      "name": "Bitcoin",
-      "url": "https://open.spotify.com/track/7edR9E5WUTG1DUN4K8bNgH"
-    },
-    {
-      "added_at": "2022-09-13 13:21:30",
-      "album": {
-        "name": "Otra Vez",
-        "url": "https://open.spotify.com/album/1b50tBHDr0LWi7GAOHPwey"
-      },
-      "artists": [
-        {
-          "name": "Chavi Leons",
-          "url": "https://open.spotify.com/artist/2NpvOJUmcKkw4BEVsVbUcx"
-        }
-      ],
-      "duration_ms": 150071,
-      "name": "Otra Vez",
-      "url": "https://open.spotify.com/track/5iwezY285OvcvpWZ5DOwHc"
-    },
-    {
-      "added_at": "2022-09-13 13:21:30",
-      "album": {
         "name": "Gimme Light",
         "url": "https://open.spotify.com/album/4FHDVRc9bE0EYRSfdfxozr"
       },
@@ -355,22 +339,6 @@
       "duration_ms": 149000,
       "name": "Gimme Light",
       "url": "https://open.spotify.com/track/6OebtUbp6bdEzH2eFYvY7m"
-    },
-    {
-      "added_at": "2022-09-13 13:21:30",
-      "album": {
-        "name": "\u00dasame",
-        "url": "https://open.spotify.com/album/4ASrjbSq9D0CuHkAHsAhNc"
-      },
-      "artists": [
-        {
-          "name": "LATENIGHTJIGGY",
-          "url": "https://open.spotify.com/artist/34OTRVwyaE8DkOrGMQa7Ah"
-        }
-      ],
-      "duration_ms": 203294,
-      "name": "\u00dasame",
-      "url": "https://open.spotify.com/track/4HDa866zFSzwOkEhgNHx6F"
     },
     {
       "added_at": "2022-09-13 13:21:30",
@@ -391,18 +359,34 @@
     {
       "added_at": "2022-09-13 13:21:30",
       "album": {
-        "name": "Sigue y Sigue",
-        "url": "https://open.spotify.com/album/2UyuskfWq1BFbUKutvE3jS"
+        "name": "Otra Vez",
+        "url": "https://open.spotify.com/album/1b50tBHDr0LWi7GAOHPwey"
       },
       "artists": [
         {
-          "name": "Jenn Morel",
-          "url": "https://open.spotify.com/artist/7iWWbIVw66I3hHVy9crw6a"
+          "name": "Chavi Leons",
+          "url": "https://open.spotify.com/artist/2NpvOJUmcKkw4BEVsVbUcx"
         }
       ],
-      "duration_ms": 146269,
-      "name": "Sigue y Sigue",
-      "url": "https://open.spotify.com/track/35orhhCkn3yT4Ijbb9gdxA"
+      "duration_ms": 150071,
+      "name": "Otra Vez",
+      "url": "https://open.spotify.com/track/5iwezY285OvcvpWZ5DOwHc"
+    },
+    {
+      "added_at": "2022-09-13 13:21:30",
+      "album": {
+        "name": "\u00dasame",
+        "url": "https://open.spotify.com/album/4ASrjbSq9D0CuHkAHsAhNc"
+      },
+      "artists": [
+        {
+          "name": "LATENIGHTJIGGY",
+          "url": "https://open.spotify.com/artist/34OTRVwyaE8DkOrGMQa7Ah"
+        }
+      ],
+      "duration_ms": 203294,
+      "name": "\u00dasame",
+      "url": "https://open.spotify.com/track/4HDa866zFSzwOkEhgNHx6F"
     },
     {
       "added_at": "2022-09-13 13:21:30",
@@ -423,6 +407,22 @@
     {
       "added_at": "2022-09-13 13:21:30",
       "album": {
+        "name": "Sigue y Sigue",
+        "url": "https://open.spotify.com/album/2UyuskfWq1BFbUKutvE3jS"
+      },
+      "artists": [
+        {
+          "name": "Jenn Morel",
+          "url": "https://open.spotify.com/artist/7iWWbIVw66I3hHVy9crw6a"
+        }
+      ],
+      "duration_ms": 146269,
+      "name": "Sigue y Sigue",
+      "url": "https://open.spotify.com/track/35orhhCkn3yT4Ijbb9gdxA"
+    },
+    {
+      "added_at": "2022-09-13 13:21:30",
+      "album": {
         "name": "Las II Torres",
         "url": "https://open.spotify.com/album/2IyzVWMQv5cHl9oN8tth6H"
       },
@@ -435,6 +435,22 @@
       "duration_ms": 222510,
       "name": "Doble Filo",
       "url": "https://open.spotify.com/track/1rOY4cLGxByL0VTaYIx6pD"
+    },
+    {
+      "added_at": "2022-09-13 13:21:30",
+      "album": {
+        "name": "Vete Y Dile",
+        "url": "https://open.spotify.com/album/69O1NzZp4mbrzY8Iz7RIeJ"
+      },
+      "artists": [
+        {
+          "name": "Chucky73",
+          "url": "https://open.spotify.com/artist/38epWdyauFwdRkldqUMfWE"
+        }
+      ],
+      "duration_ms": 147535,
+      "name": "Vete Y Dile",
+      "url": "https://open.spotify.com/track/5iRtsyKiVD35YwEBKTETd5"
     },
     {
       "added_at": "2022-09-13 13:21:30",
@@ -455,22 +471,6 @@
       "duration_ms": 173098,
       "name": "Na Pa Ti (feat. Kofi)",
       "url": "https://open.spotify.com/track/0BdFIT81iB6Irf3XjiBUjk"
-    },
-    {
-      "added_at": "2022-09-13 13:21:30",
-      "album": {
-        "name": "Vete Y Dile",
-        "url": "https://open.spotify.com/album/69O1NzZp4mbrzY8Iz7RIeJ"
-      },
-      "artists": [
-        {
-          "name": "Chucky73",
-          "url": "https://open.spotify.com/artist/38epWdyauFwdRkldqUMfWE"
-        }
-      ],
-      "duration_ms": 147535,
-      "name": "Vete Y Dile",
-      "url": "https://open.spotify.com/track/5iRtsyKiVD35YwEBKTETd5"
     },
     {
       "added_at": "2022-09-13 13:21:30",
@@ -579,22 +579,6 @@
     {
       "added_at": "2022-09-13 13:21:30",
       "album": {
-        "name": "Florecer",
-        "url": "https://open.spotify.com/album/46K5ezI95o13Nb3boUDTbT"
-      },
-      "artists": [
-        {
-          "name": "Immasoul",
-          "url": "https://open.spotify.com/artist/21neefJLiFuSR6sQlHDblG"
-        }
-      ],
-      "duration_ms": 146966,
-      "name": "Florecer",
-      "url": "https://open.spotify.com/track/5FumP2gv0p2x3LiWWamCXg"
-    },
-    {
-      "added_at": "2022-09-13 13:21:30",
-      "album": {
         "name": "Haters y Fan\u00e1ticos",
         "url": "https://open.spotify.com/album/5ozdJlbZNDyinRp5MGXqsb"
       },
@@ -643,6 +627,22 @@
     {
       "added_at": "2022-09-13 13:21:30",
       "album": {
+        "name": "Florecer",
+        "url": "https://open.spotify.com/album/46K5ezI95o13Nb3boUDTbT"
+      },
+      "artists": [
+        {
+          "name": "Immasoul",
+          "url": "https://open.spotify.com/artist/21neefJLiFuSR6sQlHDblG"
+        }
+      ],
+      "duration_ms": 146966,
+      "name": "Florecer",
+      "url": "https://open.spotify.com/track/5FumP2gv0p2x3LiWWamCXg"
+    },
+    {
+      "added_at": "2022-09-13 13:21:30",
+      "album": {
         "name": "Duelo",
         "url": "https://open.spotify.com/album/6TztCAG3KjvaQXkpi7Wx2L"
       },
@@ -659,22 +659,6 @@
     {
       "added_at": "2022-09-13 13:21:30",
       "album": {
-        "name": "Lucky 7",
-        "url": "https://open.spotify.com/album/3b2Zck8DtLyhMYxUgVDyho"
-      },
-      "artists": [
-        {
-          "name": "Luchy DR",
-          "url": "https://open.spotify.com/artist/0SbiXy5hZuC7ZjOXNXygql"
-        }
-      ],
-      "duration_ms": 196000,
-      "name": "Soy",
-      "url": "https://open.spotify.com/track/6sBBmnwoII25pWOpy6TmLK"
-    },
-    {
-      "added_at": "2022-09-13 13:21:30",
-      "album": {
         "name": "Estyland EP",
         "url": "https://open.spotify.com/album/5ippOikp37VeZaOJBhsUCN"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 173904,
       "name": "7heaven",
       "url": "https://open.spotify.com/track/7DCnJTsmnN25Xzu8gR8sAa"
+    },
+    {
+      "added_at": "2022-09-13 13:21:30",
+      "album": {
+        "name": "Lucky 7",
+        "url": "https://open.spotify.com/album/3b2Zck8DtLyhMYxUgVDyho"
+      },
+      "artists": [
+        {
+          "name": "Luchy DR",
+          "url": "https://open.spotify.com/artist/0SbiXy5hZuC7ZjOXNXygql"
+        }
+      ],
+      "duration_ms": 196000,
+      "name": "Soy",
+      "url": "https://open.spotify.com/track/6sBBmnwoII25pWOpy6TmLK"
     },
     {
       "added_at": "2022-09-13 13:21:30",

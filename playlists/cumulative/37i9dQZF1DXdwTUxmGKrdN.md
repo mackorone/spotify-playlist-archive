@@ -4,7 +4,7 @@
 
 > Smooth, relaxing as jazz can be, here's the soothing magic in the thick of night from the middle of the light...
 
-187 songs - 13 hr 51 min - [published](https://open.spotify.com/playlist/1s0nnW1GT4rUSPV8jIty04)
+188 songs - 13 hr 55 min - [published](https://open.spotify.com/playlist/1s0nnW1GT4rUSPV8jIty04)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,7 +24,7 @@
 | [Be Without You](https://open.spotify.com/track/5JQbLxZhpnc1YvLTMKACzy) | [Eric Darius](https://open.spotify.com/artist/39HDjLbYtWrCQrqpl9sOX8) | [Goin' All Out](https://open.spotify.com/album/119TqT324LissrAdkAKxf9) | 4:07 | 2022-08-15 |  |
 | [Because Of You](https://open.spotify.com/track/6neOhWrEXAny5DKmVGnlHo) | [Gerald Albright](https://open.spotify.com/artist/3bhckpkRmz8mqONUceSutp) | [Slam Dunk](https://open.spotify.com/album/4abjBabp4Ce9MIShgUqsBy) | 5:16 | 2022-07-18 |  |
 | [Because Of You](https://open.spotify.com/track/2bHolL4D662FmrebKPp1qO) | [Gerald Albright](https://open.spotify.com/artist/3bhckpkRmz8mqONUceSutp) | [Slam Dunk](https://open.spotify.com/album/5cWMjZcZwARnijnPG2Qx4T) | 5:16 | 2021-12-27 | 2022-07-29 |
-| [Big Shot](https://open.spotify.com/track/0NTs96jeKN0YCKOb3tyGZl) | [3rd Force](https://open.spotify.com/artist/3t0v2PRYA41acAC7z17tSm) | [Global Force](https://open.spotify.com/album/2r2L2zvM4SUfckGJ25sth7) | 4:24 | 2022-04-11 | 2022-09-19 |
+| [Big Shot](https://open.spotify.com/track/0NTs96jeKN0YCKOb3tyGZl) | [3rd Force](https://open.spotify.com/artist/3t0v2PRYA41acAC7z17tSm) | [Global Force](https://open.spotify.com/album/2r2L2zvM4SUfckGJ25sth7) | 4:24 | 2022-04-11 |  |
 | [Bittersweet](https://open.spotify.com/track/6Sw0KXcoIOtBl4OrXMxe9U) | [Skinny Hightower](https://open.spotify.com/artist/0rfUpMmPFYv5s0dF6hyYrx) | [Bittersweet](https://open.spotify.com/album/7H9XuHrHpGiknmAdjO3epZ) | 4:04 | 2021-12-27 | 2022-07-27 |
 | [Black Dynamite](https://open.spotify.com/track/0Of0fM7dwXt3xQfQ0GKVpu) | [Julian Vaughn](https://open.spotify.com/artist/6NS4Qt4ISw27NC9tIN9jgg), [Donald Hayes](https://open.spotify.com/artist/6RAJ9Jyvs0fR96ybRd44wk) | [Supreme](https://open.spotify.com/album/4MNKiHJkFX4fJKOhJnAwVj) | 4:31 | 2022-04-11 | 2022-04-19 |
 | [Bliss](https://open.spotify.com/track/0fOtanczwW8mMxg9tnIeDc) | [Cindy Bradley](https://open.spotify.com/artist/5qiEZz19psMDf9UPQUao4J) | [Bliss](https://open.spotify.com/album/6HSCZiP4hxorBB2gOIQlxe) | 5:14 | 2022-07-18 |  |
@@ -95,6 +95,7 @@
 | [It's All Love](https://open.spotify.com/track/18WVeMD5nxYgy2O6Pj9AFO) | [Chris "Big Dog" Davis](https://open.spotify.com/artist/057eeHuaF5QTCQ76X2PRZ5), [Dave Koz](https://open.spotify.com/artist/0ZcJXldoq09BRIMl0Qh1Vm) | [Focus](https://open.spotify.com/album/1eVlUYjKr4SlUidmQeIvbh) | 3:25 | 2021-12-27 | 2022-07-28 |
 | [It's All Love](https://open.spotify.com/track/5popJgopB341MpiXxfmFB5) | [Chris "Big Dog" Davis](https://open.spotify.com/artist/057eeHuaF5QTCQ76X2PRZ5), [Dave Koz](https://open.spotify.com/artist/0ZcJXldoq09BRIMl0Qh1Vm) | [Focus](https://open.spotify.com/album/2HPhFHjp8sp4q06IxjLyxH) | 3:25 | 2022-07-18 |  |
 | [It's On Now](https://open.spotify.com/track/7qXLWmM1TzvksNaXOpjkB5) | [Willie Bradley](https://open.spotify.com/artist/4gbsj58PegOOgFxc5OfIt3), [Ragan Whiteside](https://open.spotify.com/artist/4cvyvGmavtDowPmJMHMlUq) | [It's On Now](https://open.spotify.com/album/2HeoztjYZv8uZ1Vpsv9ZZG) | 3:47 | 2021-12-27 | 2022-07-29 |
+| [It's On Now \(feat\. Ragan Whiteside\)](https://open.spotify.com/track/4kP4fo9eEjsx5DocPSu3YV) | [Willie Bradley](https://open.spotify.com/artist/4gbsj58PegOOgFxc5OfIt3), [Ragan Whiteside](https://open.spotify.com/artist/4cvyvGmavtDowPmJMHMlUq) | [It's My Time](https://open.spotify.com/album/5Q3khADDwTMYXoPkVBrBdZ) | 3:48 | 2022-10-03 |  |
 | [It's Too Late](https://open.spotify.com/track/3Zwphwi81qVI7ucNusDSRq) | [Michael Lington](https://open.spotify.com/artist/23P8kVBVyDkO8s6sn1QDre) | [A Song For You](https://open.spotify.com/album/51ilWc2VBkdoBQOUIohhil) | 4:41 | 2022-01-03 |  |
 | [JJ's Strut \(Radio Single\)](https://open.spotify.com/track/7m0H1Tri64Gs7ndu2giQXI) | [Ragan Whiteside](https://open.spotify.com/artist/4cvyvGmavtDowPmJMHMlUq) | [JJ's Strut \(Radio Single\)](https://open.spotify.com/album/7cFYasV6tFxybojZKXm4sN) | 4:11 | 2021-12-27 |  |
 | [Just Between Us](https://open.spotify.com/track/4pa23KNAU2ul1REZDMJsAz) | [Norman Brown](https://open.spotify.com/artist/79kOOyVKcrCOKDnzcDHsia) | [Just Between Us](https://open.spotify.com/album/1nRaXHXH4pT2yfyHAhCsx5) | 5:08 | 2022-07-18 |  |
@@ -149,7 +150,7 @@
 | [Seventh Heaven \(feat\. Jeff Golub\)](https://open.spotify.com/track/2ZZ6st5XTa8wDNqsE1bHa7) | [Avenue Blue \(Featuring Jeff Golub\)](https://open.spotify.com/artist/2TQGAlirZ6ePbgec2TvLK9) | [Nightlife](https://open.spotify.com/album/2EnhcAGKSkoGRFiY6xd1ke) | 5:10 | 2021-12-27 |  |
 | [Shine](https://open.spotify.com/track/50yHsbUVQzuEy22CxpFutn) | [Jarez](https://open.spotify.com/artist/4QXyNrZiA9bnaEM1vrXBjr) | [J Funk City](https://open.spotify.com/album/7bdm8TNgtQwmlHYiJHSSmy) | 4:08 | 2021-12-27 | 2022-06-12 |
 | [SHINE!](https://open.spotify.com/track/0oqWJG5i5f01tKY4e3P3ux) | [Kim Scott](https://open.spotify.com/artist/68nDtoCQKhf7AxQP0q3wSP), [Blake Aaron](https://open.spotify.com/artist/5DnSgdQvmYD6yU1Sp7Ik56) | [SHINE!](https://open.spotify.com/album/6xscPJ4QR4Acjq1zhJatbL) | 4:21 | 2022-05-23 | 2022-07-29 |
-| [Sippin the Yak](https://open.spotify.com/track/1UdgrocwAGRoQ6M8V7eQmu) | [Michael J Thomas](https://open.spotify.com/artist/2jeiNrIK545gXuj6yv3VR0) | [Sippin the Yak](https://open.spotify.com/album/7KeUO1iqx1u1C57fZb5GHx) | 4:27 | 2021-12-27 |  |
+| [Sippin the Yak](https://open.spotify.com/track/1UdgrocwAGRoQ6M8V7eQmu) | [Michael J Thomas](https://open.spotify.com/artist/2jeiNrIK545gXuj6yv3VR0) | [Sippin the Yak](https://open.spotify.com/album/7KeUO1iqx1u1C57fZb5GHx) | 4:27 | 2021-12-27 | 2022-10-04 |
 | [Sky Watcher](https://open.spotify.com/track/6M5Zlr1uSlLksVBVy5q6uq) | [Brian Simpson](https://open.spotify.com/artist/4uIdP3jwyR0xifCS2FYS3o) | [Out Of A Dream](https://open.spotify.com/album/3e1fT9twS7LjpTQdtqGNDN) | 4:02 | 2022-07-18 |  |
 | [Sky Watcher](https://open.spotify.com/track/6fL5Bg8dzMTnmYz9NVnFGf) | [Brian Simpson](https://open.spotify.com/artist/4uIdP3jwyR0xifCS2FYS3o) | [Out Of A Dream](https://open.spotify.com/album/6zHqMQut7wD5vAnyDf78pt) | 4:02 | 2022-04-11 | 2022-04-21 |
 | [Sliver Moon](https://open.spotify.com/track/4IXhfpRsjaIocu1YOXSVpF) | [Dwight Sills](https://open.spotify.com/artist/6MtRZ8y10C26lLb1LZ9xiH) | [Easy](https://open.spotify.com/album/7ccpGuH9fqMtC5nH65NdHS) | 5:13 | 2022-04-11 | 2022-04-13 |
@@ -158,7 +159,7 @@
 | [Something About You](https://open.spotify.com/track/2rtiJtfuR6nMofzbdq1y5V) | [Brian Simpson](https://open.spotify.com/artist/4uIdP3jwyR0xifCS2FYS3o) | [Something About You](https://open.spotify.com/album/1DAKxl6tghAvbXoGWtEixv) | 5:13 | 2021-12-27 | 2022-07-29 |
 | [Soul Dream](https://open.spotify.com/track/7LdSiHHU6cynBDc7j3DDoc) | [Tim Bowman](https://open.spotify.com/artist/0lVHG6dLy7suf4FaubTzF5) | [Tim Bowman](https://open.spotify.com/album/0j6ODbG302rX09vrgDoA3e) | 5:02 | 2022-09-26 |  |
 | [Soul Vibration](https://open.spotify.com/track/5KaSTemL2bEHw5HDFFIZyB) | [Chris Standring](https://open.spotify.com/artist/1XeMzpgjVKU2dR5xXaZLut) | [Ten](https://open.spotify.com/album/6vw1IOlxgQy2otoKPOng7e) | 4:26 | 2021-12-27 |  |
-| [Soulfood Sunday](https://open.spotify.com/track/7CkzM33RNqE8PyUdsVUBBZ) | [Ben Tankard](https://open.spotify.com/artist/60nfj9O2pKtlqIPfxp3FEg) | [Shine!](https://open.spotify.com/album/1TFKjCxkfw8XVb6nh7o9VY) | 4:02 | 2022-01-03 |  |
+| [Soulfood Sunday](https://open.spotify.com/track/7CkzM33RNqE8PyUdsVUBBZ) | [Ben Tankard](https://open.spotify.com/artist/60nfj9O2pKtlqIPfxp3FEg) | [Shine!](https://open.spotify.com/album/1TFKjCxkfw8XVb6nh7o9VY) | 4:02 | 2022-01-03 | 2022-10-03 |
 | [Soulfully](https://open.spotify.com/track/6QIv6nsWBk84KgNbN618O8) | [Ryan Montano](https://open.spotify.com/artist/60c1zWUz1UhsnemRwziySF) | [Soulfully](https://open.spotify.com/album/4bRm3UKAKAmfLJ6bWuDigT) | 4:10 | 2021-12-27 |  |
 | [Southern Style](https://open.spotify.com/track/18xGFscyHeMxrlgyti66gX) | [Jeffery Smith](https://open.spotify.com/artist/7CW9qPfjuZqNDJsJqT9iM2) | [Smooth Grooves, Vol\. 2](https://open.spotify.com/album/2dWhDa6kTyZlw7ip13EhTm) | 6:05 | 2022-08-29 |  |
 | [Spray Bay](https://open.spotify.com/track/3KHLV5FTalpbnNmmznJcVk) | [Jeremy Sean Hector](https://open.spotify.com/artist/1akYcPyDtIQAN54HFVHbWR) | [Ascension](https://open.spotify.com/album/5wZPP4EBzRTbOltJNGPdDi) | 4:47 | 2022-04-11 | 2022-04-20 |

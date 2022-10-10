@@ -1,12 +1,12 @@
 {
   "description": "Rock unplugged. Cover: Wolf Alice",
-  "num_followers": 286537,
+  "num_followers": 287266,
   "original_name": "Stripped Down",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzkwNTY2MCwwMDAwMDAwMDc1ZTQyNWVmYmJkM2VmZWMxZDMwNDljZjY5NTM0MmEy",
+  "snapshot_id": "MTY2MzkwNTY2MCwwMDAwMDAwMGYzYjQ4YzIyYzM2MmM4ODUzYWVjNDJjYzdkNmEwMDEy",
   "tracks": [
     {
       "added_at": "2022-09-23 04:01:00",
@@ -387,22 +387,6 @@
     {
       "added_at": "2022-09-23 04:01:00",
       "album": {
-        "name": "Patience",
-        "url": "https://open.spotify.com/album/6EEv3516e4dH7sAPPUq9oo"
-      },
-      "artists": [
-        {
-          "name": "Chris Cornell",
-          "url": "https://open.spotify.com/artist/0XHiH53dHrvbwfjYM7en7I"
-        }
-      ],
-      "duration_ms": 253120,
-      "name": "Patience",
-      "url": "https://open.spotify.com/track/7n3u7RrzdXGVcclBEp9aSa"
-    },
-    {
-      "added_at": "2022-09-23 04:01:00",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/2XW8Jn1nXmHCPbawvmJ2JC"
       },
@@ -419,34 +403,18 @@
     {
       "added_at": "2022-09-23 04:01:00",
       "album": {
-        "name": "Unearthed",
-        "url": "https://open.spotify.com/album/5xeMctXQWNmMq4aAjwuR3e"
+        "name": "Patience",
+        "url": "https://open.spotify.com/album/6EEv3516e4dH7sAPPUq9oo"
       },
       "artists": [
         {
-          "name": "Johnny Cash",
-          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
+          "name": "Chris Cornell",
+          "url": "https://open.spotify.com/artist/0XHiH53dHrvbwfjYM7en7I"
         }
       ],
-      "duration_ms": 216533,
-      "name": "Hurt",
-      "url": "https://open.spotify.com/track/5rpRzNcJZqKQXk9PIjreB6"
-    },
-    {
-      "added_at": "2022-09-23 04:01:00",
-      "album": {
-        "name": "abcdefu (chill)",
-        "url": "https://open.spotify.com/album/1OSCnHPc1R2PLGCXXms9K0"
-      },
-      "artists": [
-        {
-          "name": "GAYLE",
-          "url": "https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9"
-        }
-      ],
-      "duration_ms": 176765,
-      "name": "abcdefu (chill)",
-      "url": "https://open.spotify.com/track/6tH1lxPcQConWuvlh85yFT"
+      "duration_ms": 253120,
+      "name": "Patience",
+      "url": "https://open.spotify.com/track/7n3u7RrzdXGVcclBEp9aSa"
     },
     {
       "added_at": "2022-09-23 04:01:00",
@@ -467,18 +435,34 @@
     {
       "added_at": "2022-09-23 04:01:00",
       "album": {
-        "name": "Songbook",
-        "url": "https://open.spotify.com/album/24QtdNLprYc0U57zdMcQoc"
+        "name": "abcdefu (chill)",
+        "url": "https://open.spotify.com/album/1OSCnHPc1R2PLGCXXms9K0"
       },
       "artists": [
         {
-          "name": "Chris Cornell",
-          "url": "https://open.spotify.com/artist/0XHiH53dHrvbwfjYM7en7I"
+          "name": "GAYLE",
+          "url": "https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9"
         }
       ],
-      "duration_ms": 277733,
-      "name": "Black Hole Sun - Recorded Live At Red Robinson Show Theatre, Vancouver, Canada on April 30, 2011",
-      "url": "https://open.spotify.com/track/5p0s4na5wJHnaNw9azmiQm"
+      "duration_ms": 176765,
+      "name": "abcdefu (chill)",
+      "url": "https://open.spotify.com/track/6tH1lxPcQConWuvlh85yFT"
+    },
+    {
+      "added_at": "2022-09-23 04:01:00",
+      "album": {
+        "name": "Unearthed",
+        "url": "https://open.spotify.com/album/5xeMctXQWNmMq4aAjwuR3e"
+      },
+      "artists": [
+        {
+          "name": "Johnny Cash",
+          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
+        }
+      ],
+      "duration_ms": 216533,
+      "name": "Hurt",
+      "url": "https://open.spotify.com/track/5rpRzNcJZqKQXk9PIjreB6"
     },
     {
       "added_at": "2022-09-23 04:01:00",
@@ -499,6 +483,22 @@
     {
       "added_at": "2022-09-23 04:01:00",
       "album": {
+        "name": "Synchronize (Acoustic Version)",
+        "url": "https://open.spotify.com/album/0OKRhsvtbTpL0pXOSyyd9L"
+      },
+      "artists": [
+        {
+          "name": "Milky Chance",
+          "url": "https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs"
+        }
+      ],
+      "duration_ms": 163120,
+      "name": "Synchronize - Acoustic Version",
+      "url": "https://open.spotify.com/track/3PIs1vosCm2jxHX3E7Q1M0"
+    },
+    {
+      "added_at": "2022-09-23 04:01:00",
+      "album": {
         "name": "Surface Sounds",
         "url": "https://open.spotify.com/album/1ZuNUNl8jvYmW4w1lR2CW3"
       },
@@ -511,6 +511,22 @@
       "duration_ms": 232529,
       "name": "Backbone",
       "url": "https://open.spotify.com/track/2mVblJ1gaLw0TZz822Oy31"
+    },
+    {
+      "added_at": "2022-09-23 04:01:00",
+      "album": {
+        "name": "Songbook",
+        "url": "https://open.spotify.com/album/24QtdNLprYc0U57zdMcQoc"
+      },
+      "artists": [
+        {
+          "name": "Chris Cornell",
+          "url": "https://open.spotify.com/artist/0XHiH53dHrvbwfjYM7en7I"
+        }
+      ],
+      "duration_ms": 277733,
+      "name": "Black Hole Sun - Recorded Live At Red Robinson Show Theatre, Vancouver, Canada on April 30, 2011",
+      "url": "https://open.spotify.com/track/5p0s4na5wJHnaNw9azmiQm"
     },
     {
       "added_at": "2022-09-23 04:01:00",
@@ -531,18 +547,18 @@
     {
       "added_at": "2022-09-23 04:01:00",
       "album": {
-        "name": "Synchronize (Acoustic Version)",
-        "url": "https://open.spotify.com/album/0OKRhsvtbTpL0pXOSyyd9L"
+        "name": "Broken Machine (Deluxe)",
+        "url": "https://open.spotify.com/album/0r7wrRVD77lNrD9t2QgZrq"
       },
       "artists": [
         {
-          "name": "Milky Chance",
-          "url": "https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs"
+          "name": "Nothing But Thieves",
+          "url": "https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp"
         }
       ],
-      "duration_ms": 163120,
-      "name": "Synchronize - Acoustic Version",
-      "url": "https://open.spotify.com/track/3PIs1vosCm2jxHX3E7Q1M0"
+      "duration_ms": 214413,
+      "name": "Sorry - Acoustic",
+      "url": "https://open.spotify.com/track/0Akytll1e5KvwNKvhqIZFn"
     },
     {
       "added_at": "2022-09-23 04:01:00",
@@ -563,38 +579,6 @@
     {
       "added_at": "2022-09-23 04:01:00",
       "album": {
-        "name": "Stay With Me",
-        "url": "https://open.spotify.com/album/0fsWxXjjgHAnFLCEAGWHS5"
-      },
-      "artists": [
-        {
-          "name": "You Me At Six",
-          "url": "https://open.spotify.com/artist/1kNQXvepPjaPgUfeDAF2h6"
-        }
-      ],
-      "duration_ms": 198573,
-      "name": "Stay With Me - Acoustic Version",
-      "url": "https://open.spotify.com/track/39IX2P1yPA5opcTaHXLPlW"
-    },
-    {
-      "added_at": "2022-09-23 04:01:00",
-      "album": {
-        "name": "Broken Machine (Deluxe)",
-        "url": "https://open.spotify.com/album/0r7wrRVD77lNrD9t2QgZrq"
-      },
-      "artists": [
-        {
-          "name": "Nothing But Thieves",
-          "url": "https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp"
-        }
-      ],
-      "duration_ms": 214413,
-      "name": "Sorry - Acoustic",
-      "url": "https://open.spotify.com/track/0Akytll1e5KvwNKvhqIZFn"
-    },
-    {
-      "added_at": "2022-09-23 04:01:00",
-      "album": {
         "name": "Between the Bars",
         "url": "https://open.spotify.com/album/64Z8bWSUBB1Vhox2K5EdBe"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 260053,
       "name": "Billie Jean",
       "url": "https://open.spotify.com/track/4YKhIH7BhFErLoV9dgHupm"
+    },
+    {
+      "added_at": "2022-09-23 04:01:00",
+      "album": {
+        "name": "Stay With Me",
+        "url": "https://open.spotify.com/album/0fsWxXjjgHAnFLCEAGWHS5"
+      },
+      "artists": [
+        {
+          "name": "You Me At Six",
+          "url": "https://open.spotify.com/artist/1kNQXvepPjaPgUfeDAF2h6"
+        }
+      ],
+      "duration_ms": 198573,
+      "name": "Stay With Me - Acoustic Version",
+      "url": "https://open.spotify.com/track/39IX2P1yPA5opcTaHXLPlW"
     },
     {
       "added_at": "2022-09-23 04:01:00",
@@ -627,22 +627,6 @@
     {
       "added_at": "2022-09-23 04:01:00",
       "album": {
-        "name": "Garage, Inc.",
-        "url": "https://open.spotify.com/album/5b7HQ04lPT7eGJQ7fmVsjC"
-      },
-      "artists": [
-        {
-          "name": "Metallica",
-          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
-        }
-      ],
-      "duration_ms": 545733,
-      "name": "Tuesday's Gone",
-      "url": "https://open.spotify.com/track/3kjrWJMt1j9nl3favBZQIH"
-    },
-    {
-      "added_at": "2022-09-23 04:01:00",
-      "album": {
         "name": "How Did You Love",
         "url": "https://open.spotify.com/album/0PFYjO7SxBpUUtwR91gvJP"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 185955,
       "name": "How Did You Love - Acoustic",
       "url": "https://open.spotify.com/track/4bUbgl5yiMEfGFy8CQNnXB"
+    },
+    {
+      "added_at": "2022-09-23 04:01:00",
+      "album": {
+        "name": "Garage, Inc.",
+        "url": "https://open.spotify.com/album/5b7HQ04lPT7eGJQ7fmVsjC"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "duration_ms": 545733,
+      "name": "Tuesday's Gone",
+      "url": "https://open.spotify.com/track/3kjrWJMt1j9nl3favBZQIH"
     },
     {
       "added_at": "2022-09-23 04:01:00",
@@ -723,22 +723,6 @@
     {
       "added_at": "2022-09-23 04:01:00",
       "album": {
-        "name": "Just Say When (Version 2.0)",
-        "url": "https://open.spotify.com/album/0YQxKT6so33kUPPvrS5FfC"
-      },
-      "artists": [
-        {
-          "name": "NOTHING MORE",
-          "url": "https://open.spotify.com/artist/39VNwvlQTqE9SvgPjjnMpc"
-        }
-      ],
-      "duration_ms": 224343,
-      "name": "Just Say When (Version 2.0)",
-      "url": "https://open.spotify.com/track/4JtUz0ZcInSokkKBalijhd"
-    },
-    {
-      "added_at": "2022-09-23 04:01:00",
-      "album": {
         "name": "A Thousand Suns",
         "url": "https://open.spotify.com/album/113yjuFZEqkkbuLi4sEBxo"
       },
@@ -771,18 +755,18 @@
     {
       "added_at": "2022-09-23 04:01:00",
       "album": {
-        "name": "Scumbag (Acoustic)",
-        "url": "https://open.spotify.com/album/3bauwJBwUAGFxVCoajMIKv"
+        "name": "Just Say When (Version 2.0)",
+        "url": "https://open.spotify.com/album/0YQxKT6so33kUPPvrS5FfC"
       },
       "artists": [
         {
-          "name": "Goody Grace",
-          "url": "https://open.spotify.com/artist/1iH2Yx2Ea0kZ0zKI3Nlk30"
+          "name": "NOTHING MORE",
+          "url": "https://open.spotify.com/artist/39VNwvlQTqE9SvgPjjnMpc"
         }
       ],
-      "duration_ms": 209420,
-      "name": "Scumbag - Acoustic",
-      "url": "https://open.spotify.com/track/37Eb16TFeVB2dxkoEnzW4W"
+      "duration_ms": 224343,
+      "name": "Just Say When (Version 2.0)",
+      "url": "https://open.spotify.com/track/4JtUz0ZcInSokkKBalijhd"
     },
     {
       "added_at": "2022-09-23 04:01:00",
@@ -803,6 +787,22 @@
       "duration_ms": 195857,
       "name": "bloody valentine - Acoustic",
       "url": "https://open.spotify.com/track/4Uah1pyFsLEsw4eauJvuNF"
+    },
+    {
+      "added_at": "2022-09-23 04:01:00",
+      "album": {
+        "name": "Scumbag (Acoustic)",
+        "url": "https://open.spotify.com/album/3bauwJBwUAGFxVCoajMIKv"
+      },
+      "artists": [
+        {
+          "name": "Goody Grace",
+          "url": "https://open.spotify.com/artist/1iH2Yx2Ea0kZ0zKI3Nlk30"
+        }
+      ],
+      "duration_ms": 209420,
+      "name": "Scumbag - Acoustic",
+      "url": "https://open.spotify.com/track/37Eb16TFeVB2dxkoEnzW4W"
     },
     {
       "added_at": "2022-09-23 04:01:00",

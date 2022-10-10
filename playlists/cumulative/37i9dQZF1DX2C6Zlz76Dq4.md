@@ -4,7 +4,7 @@
 
 > Country's legendary artists singing your favorite Christmas Classics\.  Cover: Dolly Parton
 
-151 songs - 7 hr 49 min - [published](https://open.spotify.com/playlist/0WF5q0vWVSEHA7PeU0PIAB)
+152 songs - 7 hr 53 min - [published](https://open.spotify.com/playlist/0WF5q0vWVSEHA7PeU0PIAB)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -100,6 +100,7 @@
 | [Old Time Christmas](https://open.spotify.com/track/64ArvdniI0ku7QdYORA7Td) | [Randy Travis](https://open.spotify.com/artist/1pTuR132U5b4Rizal2Pr7m) | [An Old Time Christmas](https://open.spotify.com/album/1Qzf0DMEMbVw1ATW7uYdZ9) | 3:13 | 2021-12-16 |  |
 | [Old Time Christmas \(2021 Remaster\)](https://open.spotify.com/track/0raTNC16IOr7k1iGVVxBtE) | [Randy Travis](https://open.spotify.com/artist/1pTuR132U5b4Rizal2Pr7m) | [An Old Time Christmas \(Deluxe Edition\)](https://open.spotify.com/album/6SwiA8jen7umxi9L8y1Oy4) | 3:17 | 2021-12-16 |  |
 | [Old Toy Trains \- Single Version](https://open.spotify.com/track/5A6wl06KscRjwC6aeTo7HF) | [Roger Miller](https://open.spotify.com/artist/1RP2UpEaRzkF0Id3JigqD8) | [The Best Of Roger Miller, Volume One: Country Tunesmith](https://open.spotify.com/album/0Yq4i1S5gtO6iBAvSntaUf) | 2:03 | 2021-12-16 |  |
+| [Please Come Home for Christmas](https://open.spotify.com/track/2PjMTWirUB90kmUHvN1gBH) | [Jamie O'Neal](https://open.spotify.com/artist/6sQVeggRv1AhrMzuCjhCZe), [Rodney Good](https://open.spotify.com/artist/7cgtMzLMFaAQETR9PAL4ct) | [Please Come Home for Christmas \(feat\. Rodney Good\)](https://open.spotify.com/album/6q72QzOdroMd0CXaO7Bdl4) | 3:08 | 2022-10-07 |  |
 | [Pretty Paper](https://open.spotify.com/track/5Plhm4yLvzIy3XU8rNnm7q) | [Glen Campbell](https://open.spotify.com/artist/59hLmB5DrdihCYtNeFeW1U) | [Christmas](https://open.spotify.com/album/7FTOK16cl28fhMAY0oLbqf) | 2:33 | 2021-12-16 |  |
 | [Pretty Paper](https://open.spotify.com/track/6vw0fFogTD5yIE5TWjZ0gM) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Pretty Paper](https://open.spotify.com/album/5Vdf8rMX6hBLQ0AQPunYQx) | 2:24 | 2021-12-16 |  |
 | [Rockin' Around The Christmas Tree](https://open.spotify.com/track/2yxTGxTDbgcbMN0Ae102bn) | [Brenda Lee](https://open.spotify.com/artist/4cPHsZM98sKzmV26wlwD2W) | [Rockin' Around The Christmas Tree/The Decca Christmas Recordings](https://open.spotify.com/album/1gAceSZFd4irbzRRHLof8U) | 2:06 | 2021-12-16 |  |

@@ -4,7 +4,7 @@
 
 > Kindie tunes for the whole family.
 
-171 songs - 8 hr 7 min - [published](https://open.spotify.com/playlist/2fSDwPEhE0n4j5X4Sjm87h)
+172 songs - 8 hr 11 min - [published](https://open.spotify.com/playlist/2fSDwPEhE0n4j5X4Sjm87h)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -109,6 +109,7 @@
 | [My Brother Did It](https://open.spotify.com/track/6YTHeIrfYS6UgIXcVAKvIg) | [Justin Roberts](https://open.spotify.com/artist/0gPiY8YtQXCp3arXBVFUk5) | [Meltdown!](https://open.spotify.com/album/27bJ6ZG5pa5m23p1Pc9wC1) | 3:00 | 2022-04-15 | 2022-07-29 |
 | [My Brother Did It](https://open.spotify.com/track/6yslYkPiVo8aTGifnmcXW9) | [Justin Roberts](https://open.spotify.com/artist/0gPiY8YtQXCp3arXBVFUk5) | [Meltdown!](https://open.spotify.com/album/3hKog0xgoyRMl3XuZKsbdK) | 3:00 | 2022-04-15 |  |
 | [My Favourite Hat](https://open.spotify.com/track/1WGl0HoEAAsZ1TK0PtnmV0) | [The Relative Minors](https://open.spotify.com/artist/6uaZMwvefKqumCrbYSksId) | [My Favourite Hat](https://open.spotify.com/album/1zFnqvIHQdWnHUj6gNB0j7) | 3:50 | 2022-04-15 |  |
+| [Neighbor](https://open.spotify.com/track/1t0zKQvPW6iQPHGnUikbgC) | [JJ Heller](https://open.spotify.com/artist/7dq8KEwf0kQXJhM79iwcPh) | [Neighbor](https://open.spotify.com/album/3QG5NYtfW5HsUNRHoLVirX) | 3:56 | 2022-10-07 |  |
 | [One Step](https://open.spotify.com/track/45xXszCUN8xRJWZuc2e23m) | [The Laurie Berkner Band](https://open.spotify.com/artist/6T2pk5T8c4Wi61x1v84sUa) | [Let's Go!](https://open.spotify.com/album/6ffmeWb1QvrjbIK4k0MsTq) | 1:21 | 2022-04-15 |  |
 | [Over The Rainbow / What A Wonderful World \- Medley](https://open.spotify.com/track/2FascIdnScQIoGNFrxwN9Y) | [Israel Kamakawiwo'ole](https://open.spotify.com/artist/4ogvuDRerGhZfSf7TtzHlr) | [Over The Rainbow](https://open.spotify.com/album/1Qb4LtVKSP7micmjUmH5kG) | 5:06 | 2022-04-15 | 2022-07-29 |
 | [Park Song](https://open.spotify.com/track/53l1wPXST3OIOM4ezwV7i1) | [The Zing Zangs](https://open.spotify.com/artist/2SWcpBbgCZbpKV3FtGafez) | [Park Song](https://open.spotify.com/album/2DsDQ7NJWOd8yXHjp5mlho) | 2:04 | 2022-04-15 |  |

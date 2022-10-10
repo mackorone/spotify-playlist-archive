@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2r0FByV5U4C.md) - [plain]
 
 > Saluting the songs and artists that have filled us with pride.
 
-[Spotify](https://open.spotify.com/user/spotify) - 261,775 likes - 26 songs - 1 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 261,777 likes - 26 songs - 1 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

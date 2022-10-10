@@ -2361,7 +2361,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-06",
       "duration_ms": 184000,
       "name": "Fire Out",
       "url": "https://open.spotify.com/track/4hYTiJcNgQLXi4556RAr7L"
@@ -3302,6 +3302,24 @@
     },
     {
       "album": {
+        "name": "HOW DID WE GET HERE?",
+        "url": "https://open.spotify.com/album/7AWw0QFEj9pezKu5hu1l4j"
+      },
+      "artists": [
+        {
+          "name": "young friend",
+          "url": "https://open.spotify.com/artist/7cq0a4di5dOeKU8sicemd1"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160941,
+      "name": "i don't care - bonus track",
+      "url": "https://open.spotify.com/track/3pM7NQahwmilUQ2JSBJOzA"
+    },
+    {
+      "album": {
         "name": "i don't care anymore",
         "url": "https://open.spotify.com/album/7LnEcQaGiZbDAjpnoU9NlU"
       },
@@ -3737,7 +3755,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 153624,
       "name": "i will follow you into the dark - Spotify Singles",
       "url": "https://open.spotify.com/track/7lxfdfIocUHefodQ8JLyfk"
@@ -4429,7 +4447,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-03",
+      "date_removed": null,
       "duration_ms": 318266,
       "name": "Jesus Christ",
       "url": "https://open.spotify.com/track/72ccSGl5YcEWm0vhtVpi25"
@@ -8305,7 +8323,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 171066,
       "name": "Trashfire",
       "url": "https://open.spotify.com/track/1s3QzfNw4sIhpw7H2bDYll"
@@ -8641,6 +8659,28 @@
       "duration_ms": 93644,
       "name": "watch me bleed",
       "url": "https://open.spotify.com/track/5h7CTZmFFuApY6jJWW4RTj"
+    },
+    {
+      "album": {
+        "name": "watch me miss (feat. Jomie)",
+        "url": "https://open.spotify.com/album/70nZHV8zM4LY8Jm1WtJOaZ"
+      },
+      "artists": [
+        {
+          "name": "Powfu",
+          "url": "https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn"
+        },
+        {
+          "name": "Jomie",
+          "url": "https://open.spotify.com/artist/5F4cFdG9NvJMnHXJkmqw9g"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156585,
+      "name": "watch me miss (feat. Jomie)",
+      "url": "https://open.spotify.com/track/72fp5rYlQIZ3Dqtwq2uVy0"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Soft piano lullaby versions of Jazz classics to lull your baby to sleep.
 
-83 songs - 4 hr 26 min - [published](https://open.spotify.com/playlist/3lfP3rLqd7IKI2XgczwAsS)
+85 songs - 4 hr 31 min - [published](https://open.spotify.com/playlist/3lfP3rLqd7IKI2XgczwAsS)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,6 +64,7 @@
 | [Sangfroid](https://open.spotify.com/track/68fAT62Ccoh6KdjV3gnM8z) | [Infinity Ripple](https://open.spotify.com/artist/43BCjiV6q327zly4HaH8QL) | [Wax Figures](https://open.spotify.com/album/34Xfn5YawRW1BmaVzgrtFt) | 2:57 | 2022-04-12 | 2022-07-29 |
 | [Skylark](https://open.spotify.com/track/3gDXxFjx7S85a3jCOIVYHx) | [Jesse Nielsen](https://open.spotify.com/artist/28hL1CMeKSmGDu43cUqsWW) | [Jazz Standard Lullabies](https://open.spotify.com/album/4SgbBMJb2slZ0mSnWJblIb) | 2:27 | 2022-05-24 |  |
 | [Sleep](https://open.spotify.com/track/1ioBY89B2OmRRO9sPrClGw) | [Dave Brubeck](https://open.spotify.com/artist/3kUKwTJdH8FuWzF8p6Dg9E) | [Lullabies](https://open.spotify.com/album/3hq11SFFr5N1GiPUkx4xWZ) | 2:22 | 2022-04-12 |  |
+| [Slow Beating](https://open.spotify.com/track/4s3QLbtj2wqWKd2FLwFt7z) | [Gabe Bacci](https://open.spotify.com/artist/5L3DHS5kxkPeyMqddjxsc7) | [Slow Beating](https://open.spotify.com/album/2YuV2c38SCT7oX7I8lVp6f) | 2:32 | 2022-10-06 |  |
 | [Smile](https://open.spotify.com/track/5UbnuRgMvmJXNfVQwtnMeJ) | [Maurice Font](https://open.spotify.com/artist/6yQ1L2SHtnSTXctzGsKsPC) | [Smile](https://open.spotify.com/album/264uDpoSYiQWeHXvwQcAa0) | 3:50 | 2022-04-12 |  |
 | [Smoke Gets In Your Eyes](https://open.spotify.com/track/6LJWQLh4DaQqiYrimdO5Ep) | [Dee Burton](https://open.spotify.com/artist/0Rthp208KPBZuFO10YIVkL) | [Smoke Gets In Your Eyes](https://open.spotify.com/album/4ZY1K4JlzmoxdCJF6M18O5) | 4:40 | 2022-04-12 |  |
 | [some other time](https://open.spotify.com/track/4LgRqskD0OohOTxfZRqV8E) | [Bruno Sanders](https://open.spotify.com/artist/4gsIYNl0tbPrqyHBwvGcDe) | [ballads by midnight](https://open.spotify.com/album/07J4OkfknpIgmcVducHkbk) | 5:14 | 2022-04-12 |  |
@@ -80,6 +81,7 @@
 | [These Foolish Things](https://open.spotify.com/track/0CXDipwJc206zISTQqO5y6) | [Rudy Winston](https://open.spotify.com/artist/0eg5Y6qtyXmuDqBqEHbJ6L) | [These Foolish Things](https://open.spotify.com/album/2bePbAVM2pnJoZKimuHZzw) | 4:57 | 2022-04-12 |  |
 | [Till There Was You](https://open.spotify.com/track/2UDtRV70lU0JbFNLeznfOJ) | [Julian Byrd](https://open.spotify.com/artist/6xuFoS81N7OFQKHhhCdeVC) | [Till There Was You](https://open.spotify.com/album/5f1XIM1Hp0TiZEC1H3UBRV) | 1:47 | 2022-05-05 |  |
 | [Time After Time](https://open.spotify.com/track/0MljxuIuG5VkNEhZy0Wn1j) | [Lester Rosin](https://open.spotify.com/artist/0A2nXJBdV4EkQ7fiQPkELE) | [You Stepped Out of a Dream](https://open.spotify.com/album/0xuRscRx1FotSIRc6JeKTM) | 2:17 | 2022-04-12 |  |
+| [Under the Mango Tree](https://open.spotify.com/track/33KChiNPI0s6An3lRKjcQV) | [Erika Stevenson](https://open.spotify.com/artist/3qqiQwpDv5suNnRA8lCMAE) | [Under the Mango Tree](https://open.spotify.com/album/0oBtirMIo2gIJiK2m6zyHj) | 2:08 | 2022-10-06 |  |
 | [Very Early](https://open.spotify.com/track/233mHTkvc7567uCXc7XsHR) | [Ottilie Lebau](https://open.spotify.com/artist/361nXBd8zOp4m6PB7Gjnie) | [Very Early](https://open.spotify.com/album/0Gdo0WpxqvA4s8UGxFO3Hf) | 2:10 | 2022-04-12 |  |
 | [What a Difference a Day Made](https://open.spotify.com/track/4CameIqIIPcQzNgIY4iCXi) | [Jazz for Babies](https://open.spotify.com/artist/6HTqDlK6LS0Ju7P58XXW2T) | [The Piano Album](https://open.spotify.com/album/0eBs49NdPsqdca0VztAB4K) | 3:07 | 2022-04-12 | 2022-06-23 |
 | [What a Difference a Day Makes](https://open.spotify.com/track/2leHkcbJyZho0oEWfCzt11) | [Ted Gaupt](https://open.spotify.com/artist/3VhxsWlOY8nQqDOZG6Mq4c) | [Twinkle Twinkle Little Star](https://open.spotify.com/album/5d32AriMFyj1woEPOUoNMz) | 2:58 | 2022-06-22 |  |

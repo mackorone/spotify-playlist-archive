@@ -4,7 +4,7 @@
 
 > have yourself a chill and lofi xmas
 
-136 songs - 5 hr 19 min - [published](https://open.spotify.com/playlist/1iD0LJ237Mwsk85XtyHKDf)
+139 songs - 5 hr 25 min - [published](https://open.spotify.com/playlist/1iD0LJ237Mwsk85XtyHKDf)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,8 @@
 | [Auld Lang Syne](https://open.spotify.com/track/57J4SCSsiHBsWifOeUSVsq) | [Jobii](https://open.spotify.com/artist/2MGL4XU2LCJC47c7VvSwuE) | [Jingle Bells](https://open.spotify.com/album/1nb65nP4yprMjJPSUEjxK0) | 2:30 | 2021-12-20 |  |
 | [Bells R Ringin](https://open.spotify.com/track/6BQlF26EIaqZqvOvo0YOtX) | [Guustavv](https://open.spotify.com/artist/4ztOXfl03SlHkzRIsrvWmX) | [A Merry Lofi Christmas](https://open.spotify.com/album/13vGKM3it9EuTEGVg0CJuG) | 2:08 | 2021-12-20 |  |
 | [Blue Christmas](https://open.spotify.com/track/2OFVwMiH725wXcsTJUQ2fK) | [JeMeNeZ](https://open.spotify.com/artist/6VKOJ18yv76jy2D3Kjw4nG) | [Blue Christmas](https://open.spotify.com/album/4f0zmlGGxhpinwTBUbybxX) | 2:39 | 2021-12-20 |  |
-| [Cherish Every Moment](https://open.spotify.com/track/0AeqHfQ1WNfTzfLo3b8B6x) | [Hevi](https://open.spotify.com/artist/4vv1FFVqxnHyQFLmWxjizb) | [A Christmas Tale](https://open.spotify.com/album/3ABLquk4WVfZvo7tdQpBPM) | 1:38 | 2021-12-20 |  |
+| [Cherish Every Moment](https://open.spotify.com/track/0AeqHfQ1WNfTzfLo3b8B6x) | [Hevi](https://open.spotify.com/artist/4vv1FFVqxnHyQFLmWxjizb) | [A Christmas Tale](https://open.spotify.com/album/3ABLquk4WVfZvo7tdQpBPM) | 1:38 | 2021-12-20 | 2022-10-09 |
+| [Cherish Every Moment](https://open.spotify.com/track/7L7jIuLqLIjvliJv03AAVv) | [Hevi](https://open.spotify.com/artist/4vv1FFVqxnHyQFLmWxjizb) | [A Christmas Tale](https://open.spotify.com/album/28akD7EJeH8H29YcvS9fRd) | 1:38 | 2022-09-30 |  |
 | [Christmas by the Fireplace](https://open.spotify.com/track/2CM0NiI2NDZnxBRtRj6jx2) | [Sleepy Tom](https://open.spotify.com/artist/03Tk5nZMEoqaWZOXoiN7Km) | [Christmas Lofi](https://open.spotify.com/album/7gmQbKGOCPJUY9mmKv7f01) | 1:33 | 2021-12-20 |  |
 | [Christmas Carol \- Lofi Beats](https://open.spotify.com/track/64nQEHzSQ9O2dBq1zbqn6w) | [lofi geek](https://open.spotify.com/artist/1hqeRW1EQZ1flf02acnGVU) | [A Christmas with Mask \(Lo\-fi beats\)](https://open.spotify.com/album/2gbclE5it5AW1psl1HWk9v) | 3:09 | 2021-12-20 |  |
 | [Christmas chill Lofi](https://open.spotify.com/track/5bWhc0nwWpfPnigzzA6OBv) | [vatto Lofi](https://open.spotify.com/artist/1Axzw0JFLOkd1fADgbEJGt) | [Christmas chill Lofi](https://open.spotify.com/album/0ned5EBVltE6eFjo9sAOHi) | 2:27 | 2021-12-20 | 2022-07-29 |
@@ -63,7 +64,8 @@
 | [Ice Town](https://open.spotify.com/track/21xsIpj7Oooy2qp9IHoL1k) | [Yellowbase](https://open.spotify.com/artist/08RrRBdcoplP0QFGopcJfC) | [Not Your Normal Christmas](https://open.spotify.com/album/3qOW1s02oYct01T5zpmyB3) | 3:02 | 2021-12-20 |  |
 | [It's Beginning to look a lot like Christmas](https://open.spotify.com/track/4zZ0lH4eRt8cvD2t3h9tcs) | [Iván Rosa](https://open.spotify.com/artist/7i6BoVBVFvAbmIOT7GDvDF) | [Otra Navidad Lo\-Fi en México](https://open.spotify.com/album/15ZmZRWGFgikieNcj2l0Nu) | 2:48 | 2021-12-20 |  |
 | [It's Beginning To Look A Lot Like Christmas](https://open.spotify.com/track/69S8yy1MWbPS5DhQQtaYM2) | [Praizee](https://open.spotify.com/artist/04zAPci2CXOZnrVNw9PWaC) | [It's Beginning To Look A Lot Like Christmas](https://open.spotify.com/album/2ZCCymvBytLBj8rspLh7le) | 2:03 | 2021-12-20 |  |
-| [It's Snowing Outside](https://open.spotify.com/track/1N0GS46qGpwDNohfAsn9wj) | [Pusaloa](https://open.spotify.com/artist/6fCE48c53nH0iHGaXHNNpE) | [A Christmas Tale](https://open.spotify.com/album/3ABLquk4WVfZvo7tdQpBPM) | 2:13 | 2021-12-20 |  |
+| [It's Snowing Outside](https://open.spotify.com/track/1N0GS46qGpwDNohfAsn9wj) | [Pusaloa](https://open.spotify.com/artist/6fCE48c53nH0iHGaXHNNpE) | [A Christmas Tale](https://open.spotify.com/album/3ABLquk4WVfZvo7tdQpBPM) | 2:13 | 2021-12-20 | 2022-10-09 |
+| [It's Snowing Outside](https://open.spotify.com/track/5oLf8u96mITUpx9Bwxqyww) | [Pusaloa](https://open.spotify.com/artist/6fCE48c53nH0iHGaXHNNpE) | [A Christmas Tale](https://open.spotify.com/album/28akD7EJeH8H29YcvS9fRd) | 2:14 | 2022-09-30 |  |
 | [It's Still Christmas](https://open.spotify.com/track/6S2IIsjOIe45GgnsClwzgB) | [Dylan Sitts](https://open.spotify.com/artist/6quCxsPM8fOxowmqOx5j93) | [Xmas In My Heart](https://open.spotify.com/album/3JjTtv9g7oNQkiz3eXv6n6) | 2:12 | 2021-12-20 |  |
 | [It's That Time](https://open.spotify.com/track/7akjfnAd7sYaxqSThguSWl) | [Bluewerks](https://open.spotify.com/artist/4ELcaEK7UaF0mUoodoVBfn), [Sebastian Kamae](https://open.spotify.com/artist/7GsvnIE0bUBu6WZXO3ryJe) | [Bluewerks Vol\. 5: Warm Up](https://open.spotify.com/album/4S7q5icPiLQmsb0OrkxBDo) | 2:31 | 2021-12-20 |  |
 | [Jazz Christmas](https://open.spotify.com/track/2uQqLMwJdzjUm6bfrQSt56) | [Grakch](https://open.spotify.com/artist/0WF4RZFPpsA3ALDjF8qFFw) | [Jazz Christmas](https://open.spotify.com/album/35w5gduX4ljSm2fbKA2g7B) | 1:53 | 2021-12-20 |  |
@@ -106,7 +108,8 @@
 | [Rudolph](https://open.spotify.com/track/0Gd6rqeF64wzJ0eBXDLZr7) | [Anatomy Park](https://open.spotify.com/artist/3XuDZrvJBvhTEGb8uXubgN) | [The Lofi Xmas Tape](https://open.spotify.com/album/68blApWYmZVuExE0JxSgpH) | 2:00 | 2021-12-20 |  |
 | [Sad Christmas](https://open.spotify.com/track/29YiYdVtTiELW6UO5Es59x) | [Justnormal](https://open.spotify.com/artist/2YCz7aHoRoAZ435UDLOKOs) | [Not Your Normal Christmas](https://open.spotify.com/album/3qOW1s02oYct01T5zpmyB3) | 2:11 | 2021-12-20 |  |
 | [Santa Baby](https://open.spotify.com/track/3DGHKbAxjULWbOZDLDdj71) | [Dippie Moon](https://open.spotify.com/artist/5c764NOMWRwarAlKX2Dd8L) | [Santa Baby](https://open.spotify.com/album/47upBPzqSGKTX5Yy2YPEWY) | 2:42 | 2021-12-20 |  |
-| [Santa Vibe](https://open.spotify.com/track/6sMQOPi6P05lI8RgnczToj) | [JazzyCal](https://open.spotify.com/artist/2xJEE7AyFH4DwefFkWjcPd) | [A Christmas Tale](https://open.spotify.com/album/3ABLquk4WVfZvo7tdQpBPM) | 2:17 | 2021-12-20 |  |
+| [Santa Vibe](https://open.spotify.com/track/6sMQOPi6P05lI8RgnczToj) | [JazzyCal](https://open.spotify.com/artist/2xJEE7AyFH4DwefFkWjcPd) | [A Christmas Tale](https://open.spotify.com/album/3ABLquk4WVfZvo7tdQpBPM) | 2:17 | 2021-12-20 | 2022-10-09 |
+| [Santa Vibe](https://open.spotify.com/track/6naWvP6zAPpNam8GhQrYf1) | [JazzyCal](https://open.spotify.com/artist/2xJEE7AyFH4DwefFkWjcPd) | [A Christmas Tale](https://open.spotify.com/album/28akD7EJeH8H29YcvS9fRd) | 2:17 | 2022-09-30 |  |
 | [Santas Coming](https://open.spotify.com/track/0CtSFxqyI6JtPhKJxgAUSp) | [Cruel Buddhist](https://open.spotify.com/artist/54lvPJJ966M1TPYz0ccBdX) | [A Lofi Christmas](https://open.spotify.com/album/1M60uCrecXQMYGH6iJPiwb) | 2:12 | 2021-12-20 |  |
 | [Shopping Spree](https://open.spotify.com/track/3QH5nm30Qb6NtAGtufIuNv) | [Purrple Cat](https://open.spotify.com/artist/73aKnLT4O8G2pBEfdlQzrE) | [Snowbound](https://open.spotify.com/album/6joo22r88KqXxvOgEORO9R) | 2:16 | 2021-12-20 |  |
 | [should go christmas shopping](https://open.spotify.com/track/5Nk2T3FhYxcRLPzJoKKVzj) | [Bassti](https://open.spotify.com/artist/0tFVT92PBHTTLoKmS8WbFP) | [Winter \- EP](https://open.spotify.com/album/3cZL9q3RB7wpIXwes9a9FL) | 1:30 | 2021-12-20 |  |

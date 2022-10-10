@@ -4,7 +4,7 @@
 
 > Trending lofi beats from across the World Wide Web.
 
-89 songs - 3 hr 30 min - [published](https://open.spotify.com/playlist/7rmX5cFyNiQXXEqbWIw0Ho)
+91 songs - 3 hr 36 min - [published](https://open.spotify.com/playlist/7rmX5cFyNiQXXEqbWIw0Ho)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,8 +44,9 @@
 | [Is It Too Much to Ask For](https://open.spotify.com/track/5KPSKv02jtAsI7fmpT7enC) | [me7k](https://open.spotify.com/artist/5yXMtEjaBVEtGSyICT1w2b) | [Is It Too Much to Ask For](https://open.spotify.com/album/0IzYrQln8FJY0XwfYq3X6c) | 1:40 | 2022-09-09 |  |
 | [Jashne Bahara \- Lofi Flip](https://open.spotify.com/track/21hHDH6amg7qm9QR9vfqb9) | [Jammy Weirdo](https://open.spotify.com/artist/64QCKFA8kD38Waf5EXbSRp), [Mig](https://open.spotify.com/artist/7omB2Vc993xt3mpwAcosYe) | [Jashne Bahara \(Lofi Flip\)](https://open.spotify.com/album/55bGbfX2eC1SECIotOJrD2) | 3:04 | 2022-09-09 |  |
 | [just friends](https://open.spotify.com/track/5Mn3siu0XehRb9kTEPqotX) | [potsu](https://open.spotify.com/artist/5XE0fiZWGbq9TcSuWwJ1fA) | [just friends](https://open.spotify.com/album/16Plc6F8ZjKVlaqEkbCKfr) | 2:52 | 2022-09-09 |  |
+| [Kya Mujhe Pyaar Hai \(LoFi Flip\)](https://open.spotify.com/track/76mGXrB0IiySJaDVePVFB4) | [Dj Vicky Belgaum](https://open.spotify.com/artist/6siFtgDx2JelAyqUsn1JmY) | [Kya Mujhe Pyaar Hai \(LoFi Flip\)](https://open.spotify.com/album/2Mx02ZYosQ9v6Fuhfrj1ci) | 3:04 | 2022-09-23 | 2022-10-04 |
 | [Kya Mujhe Pyaar Hai \(LoFi Flip\)](https://open.spotify.com/track/3GJTFYJKyOBuJoWpsfowXe) | [Dj Vicky Belgaum](https://open.spotify.com/artist/3iZYzGUWgZKf8yoKLWKlxy) | [Kya Mujhe Pyaar Hai \(LoFi Flip\)](https://open.spotify.com/album/63tA1oIiubxZf1qHKWSQ1V) | 3:39 | 2022-09-09 |  |
-| [Kya Mujhe Pyaar Hai \- Lofi KK](https://open.spotify.com/track/18mtdSxEPm52HXsl0LbVFN) | [Arnab Maity](https://open.spotify.com/artist/5EISGLKYtFDJzae6rtMhKU) | [Kya Mujhe Pyaar Hai \- Lofi KK](https://open.spotify.com/album/3nQe8Zke0H0KSO8iCQAn9c) | 2:33 | 2022-09-09 |  |
+| [Kya Mujhe Pyaar Hai \- Lofi KK](https://open.spotify.com/track/18mtdSxEPm52HXsl0LbVFN) | [Arnab Maity](https://open.spotify.com/artist/5EISGLKYtFDJzae6rtMhKU) | [Kya Mujhe Pyaar Hai \- Lofi KK](https://open.spotify.com/album/3nQe8Zke0H0KSO8iCQAn9c) | 2:33 | 2022-09-09 | 2022-10-07 |
 | [Laaree Chootee](https://open.spotify.com/track/0HnbfIzOu6eLF8Kb1mT9Wl) | [WORMONO](https://open.spotify.com/artist/5osbiefpwljgv3pRQNmbFO), [Tejas R.H](https://open.spotify.com/artist/4cP3ymK1Xo0dqBLp98g95J) | [Laaree Chootee](https://open.spotify.com/album/6DRQUIGYsV228eyPt9VokG) | 2:10 | 2022-09-09 |  |
 | [late nights](https://open.spotify.com/track/48iQKnYSE8eQUXuBqF7eQ2) | [Linearwave](https://open.spotify.com/artist/2wIeBTEs0AsPb74kYdEcNk) | [late nights](https://open.spotify.com/album/3D5cqKAqlXUtVnX4hATADb) | 2:08 | 2022-09-09 |  |
 | [Let Me Down Slowly X Aaya Na Tu \- Lofi Mix](https://open.spotify.com/track/3ksl6hn7Ya34q5K3cl7w9I) | [It's DPK](https://open.spotify.com/artist/72alqzixeOnANB0JmmYUoi) | [Let Me Down Slowly X Aaya Na Tu \(Lofi Mix\)](https://open.spotify.com/album/0ldVxOOtaHjanNazGIhWl3) | 2:59 | 2022-09-23 |  |
@@ -96,6 +97,7 @@
 | [Watercolors](https://open.spotify.com/track/1Pc51j567gmnRvTBQuChYY) | [Oatmello](https://open.spotify.com/artist/0YAkOkbeAPiS35qyouiM4O) | [Watercolors](https://open.spotify.com/album/0s4uklHAfPCgyHwqJ3hYh7) | 1:53 | 2022-09-16 |  |
 | [Woh Lamhe Woh Baatein \- LoFi](https://open.spotify.com/track/0nBF9RgXqVi1oiQL6JSigs) | [Poorvesh Dave](https://open.spotify.com/artist/3U4ZRBChsjzagb4wcEXutU) | [Lofi Songs](https://open.spotify.com/album/3QuunYLIrBCrdrDlQgaLAe) | 2:21 | 2022-09-09 |  |
 | [Yellow](https://open.spotify.com/track/3S9kCBYnWg7jSSV1XAYL6Q) | [Lofi Fruits Music](https://open.spotify.com/artist/1dABGukgZ8XKKOdd2rVSHM), [Chill Fruits Music](https://open.spotify.com/artist/34b7j3TqM5ramjmt2mc8tB) | [Yellow](https://open.spotify.com/album/4C5iCxq8RjQOqLoXaBXWLO) | 1:42 | 2022-09-09 |  |
+| [You're from Delhi](https://open.spotify.com/track/1tEgMBCOycJ4ASpTpOsRdU) | [Radha Mandal](https://open.spotify.com/artist/79WdxNsSF0WXOiCEryUAyB) | [Our Dreams](https://open.spotify.com/album/3qlSOExbRywIGbnyRNPKfu) | 2:34 | 2022-09-23 |  |
 | [You're in My Head](https://open.spotify.com/track/4gz5ioUWuYkmtBGKXVZkXY) | [moow](https://open.spotify.com/artist/4dGUoQuMs1zVpafybz4O9d), [Lotte Kestner](https://open.spotify.com/artist/0LmmhAkoebSsbFfgCybcGI) | [I Can't Tell You How Much It Hurts](https://open.spotify.com/album/3f046S4KzdvS5pEmSDMofP) | 1:37 | 2022-09-23 |  |
 
 \*This playlist was first scraped on 2022-09-09. Prior content cannot be recovered.

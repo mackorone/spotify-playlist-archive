@@ -759,7 +759,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-06",
       "duration_ms": 320200,
       "name": "DKD",
       "url": "https://open.spotify.com/track/3M8CoZcFebNLowVqgYuahA"
@@ -2253,7 +2253,7 @@
           "url": "https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L"
         }
       ],
-      "date_added": "2022-10-01",
+      "date_added": "2022-09-30",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 277239,
@@ -2313,6 +2313,24 @@
       "duration_ms": 236101,
       "name": "Proud",
       "url": "https://open.spotify.com/track/5COxPQbNaVMsLEr3tuicvp"
+    },
+    {
+      "album": {
+        "name": "Puppy (Feel The Beat Mix)",
+        "url": "https://open.spotify.com/album/4zhm1wulT9LUeC4NnSJu0N"
+      },
+      "artists": [
+        {
+          "name": "Doss",
+          "url": "https://open.spotify.com/artist/7bQLFALIEawxhkyFiiLVhM"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216000,
+      "name": "Puppy - Feel The Beat Mix",
+      "url": "https://open.spotify.com/track/5TLfNLsPBWYZ3PkSkkb5To"
     },
     {
       "album": {

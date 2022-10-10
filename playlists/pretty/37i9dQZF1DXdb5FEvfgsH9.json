@@ -1,13 +1,49 @@
 {
   "description": "Grooves so crispy you can snack on them. Cover: Donny Ben\u00e9t",
-  "num_followers": 9101,
+  "num_followers": 9417,
   "original_name": "Crisp",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDUxMDQ2MCwwMDAwMDAwMDFlY2U5YmQ0NjBhOTcxNTVkYTExMTY2ZmVkNTRiZmM4",
+  "snapshot_id": "MTY2NTExNTI2MCwwMDAwMDAwMGZjNmJiNGE4YWY2MDQ3ZDYxYmZiMWNiZmU3MGYxYmUw",
   "tracks": [
+    {
+      "added_at": "2022-10-07 04:01:00",
+      "album": {
+        "name": "EASY",
+        "url": "https://open.spotify.com/album/2WmCRXYf2dwf16YIzLXxgJ"
+      },
+      "artists": [
+        {
+          "name": "Johnny Burgos",
+          "url": "https://open.spotify.com/artist/1dmBfZXCP98HFGOl5zgOWe"
+        },
+        {
+          "name": "Oxygn",
+          "url": "https://open.spotify.com/artist/3N7jdkJ4iU9SK7Yg8ly2AX"
+        }
+      ],
+      "duration_ms": 201613,
+      "name": "EASY",
+      "url": "https://open.spotify.com/track/3B16U6o3GwWvIdubqArXfT"
+    },
+    {
+      "added_at": "2022-10-07 04:01:00",
+      "album": {
+        "name": "Ugh, So Good!",
+        "url": "https://open.spotify.com/album/4Pd42T8XOtOf2G7ZFUXmEk"
+      },
+      "artists": [
+        {
+          "name": "c a n d i d !",
+          "url": "https://open.spotify.com/artist/40eScT09blR2WOpG2zbe9o"
+        }
+      ],
+      "duration_ms": 215124,
+      "name": "Ugh, So Good!",
+      "url": "https://open.spotify.com/track/3jtASBOuKjzKR6AKtf2CuS"
+    },
     {
       "added_at": "2022-09-23 04:00:00",
       "album": {
@@ -1427,30 +1463,6 @@
       "duration_ms": 231652,
       "name": "Dangerous",
       "url": "https://open.spotify.com/track/3WOB7zFoez5ziVhUHtqqD9"
-    },
-    {
-      "added_at": "2021-07-26 17:42:45",
-      "album": {
-        "name": "Retroflection Remixed",
-        "url": "https://open.spotify.com/album/6W5TD4Bt2OcjDDFlFNx2wq"
-      },
-      "artists": [
-        {
-          "name": "Reel People",
-          "url": "https://open.spotify.com/artist/7JCiEoZpn0yghisiVNvl4X"
-        },
-        {
-          "name": "Angie Stone",
-          "url": "https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM"
-        },
-        {
-          "name": "Art of Tones",
-          "url": "https://open.spotify.com/artist/4TSLRQcJGybQuNA8ybueEy"
-        }
-      ],
-      "duration_ms": 327796,
-      "name": "Don't Stop The Music - Art Of Tones Modern Disco Mix",
-      "url": "https://open.spotify.com/track/5Palg39d9eAEgi43NHKSKz"
     },
     {
       "added_at": "2021-07-26 17:42:45",

@@ -4,7 +4,7 @@
 
 > Al cien en la mamalona!
 
-191 songs - 9 hr 54 min - [published](https://open.spotify.com/playlist/4uNSdy9xu9zOvUZNzYyJAZ)
+192 songs - 9 hr 57 min - [published](https://open.spotify.com/playlist/4uNSdy9xu9zOvUZNzYyJAZ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,12 +49,13 @@
 | [Delincuente](https://open.spotify.com/track/7t5hD3O8KBrr4yGAgHyn6F) | [Colocho y Su Eminencia](https://open.spotify.com/artist/6c61IOPGx9WFbMgtHvm8wz) | [Goat](https://open.spotify.com/album/2AbamYOdWkv83fvlev7qfx) | 2:58 | 2022-05-13 | 2022-09-03 |
 | [Descansando](https://open.spotify.com/track/3QXBaUQ8iwP2WI1GpQIP18) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Descansando](https://open.spotify.com/album/4n05Mdr8HuetVr4V6TWnWI) | 3:45 | 2022-05-13 |  |
 | [Desde Abajo](https://open.spotify.com/track/73zqylPsXYARg3tesE0Kfm) | [Grupo Maximo Grado](https://open.spotify.com/artist/0ssx5sZQzc1nZZF2Ks8qXZ), [Jesus Ojeda](https://open.spotify.com/artist/34wCbs9ngJ1JODEESTindr) | [Desde Abajo](https://open.spotify.com/album/0zZqoFO424Fz2mTBqSGNQe) | 3:38 | 2022-05-13 |  |
+| [Desde Morro](https://open.spotify.com/track/4F0wyvl0ot7RrZ8P9IzMME) | [Justin Morales](https://open.spotify.com/artist/5D7x9esAF6twPxuOqSMkeO) | [Desde Morro](https://open.spotify.com/album/2DWCXF8yMB1zyeDuoWJsMR) | 2:26 | 2022-09-23 |  |
 | [Desde Morro](https://open.spotify.com/track/1I7FBJDOWgKtqyTGfuzsr8) | [Justin Morales](https://open.spotify.com/artist/5D7x9esAF6twPxuOqSMkeO) | [Desde Morro](https://open.spotify.com/album/3KT9y7xZJrMLHuI03ueDze) | 2:26 | 2022-05-13 | 2022-07-29 |
 | [Desde Morro](https://open.spotify.com/track/2bWpJItGLLM9cj8dvU2a0U) | [Justin Morales](https://open.spotify.com/artist/5D7x9esAF6twPxuOqSMkeO) | [Desde Morro](https://open.spotify.com/album/0rYYFBxcXHqlz0Xqk8V3ux) | 2:26 | 2022-07-14 | 2022-09-22 |
 | [Disfruto Lo Malo](https://open.spotify.com/track/7LH2UUuyMHt7035PLZQ8wx) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is), [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [Corridos Tumbados](https://open.spotify.com/album/0Pr7tJefVMQCh8hy1n8OLr) | 3:07 | 2022-05-13 | 2022-09-03 |
 | [El 50](https://open.spotify.com/track/4fuXs2iGbUPp7ReStvNegS) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Corridos Bélicos, Vol\. 2](https://open.spotify.com/album/5WWAwbRCM3CyiZNO9rsfWS) | 3:22 | 2022-05-13 | 2022-07-30 |
 | [El Buho](https://open.spotify.com/track/20b6XSI5iFhvmis8YwszrL) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Corridos Belicos](https://open.spotify.com/album/4SaM1i0w9dhbRkIadAPX3c) | 2:57 | 2022-05-13 |  |
-| [El Capitán](https://open.spotify.com/track/65wr2H4YXdNbgYWuprFicA) | [Grupo Rocket](https://open.spotify.com/artist/5DcpgbwetMYJL7RFIUbRsV) | [El Capitán](https://open.spotify.com/album/4xBSMVWrg3hQoDrGYbtiuj) | 3:05 | 2022-07-01 |  |
+| [El Capitán](https://open.spotify.com/track/65wr2H4YXdNbgYWuprFicA) | [Grupo Rocket](https://open.spotify.com/artist/5DcpgbwetMYJL7RFIUbRsV) | [El Capitán](https://open.spotify.com/album/4xBSMVWrg3hQoDrGYbtiuj) | 3:05 | 2022-07-01 | 2022-10-09 |
 | [El Carrito](https://open.spotify.com/track/073rXJBr0SdO7s6yEhMQXP) | [Calle 24](https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR) | [El Carrito](https://open.spotify.com/album/1Dg8iAxvKPx5jhzHWEgf98) | 2:58 | 2022-05-13 |  |
 | [El Centenario](https://open.spotify.com/track/65PXVu64xyXCpKczg4K9Cz) | [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK) | [15 Primeros Exitos Vol\. 1](https://open.spotify.com/album/4xxr8BlUMAKDdVRmDIyDjq) | 2:36 | 2022-09-02 |  |
 | [El Chili Willy](https://open.spotify.com/track/4TBinkhZWTRdjio4DCHtCm) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ) | [El 7 De La Suerte](https://open.spotify.com/album/5p6nXo6us9G1aTqaHLDJV1) | 3:37 | 2022-05-13 |  |

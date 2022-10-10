@@ -4,13 +4,14 @@
 
 > The sweet sounds of Tunisia.
 
-89 songs - 5 hr 31 min - [published](https://open.spotify.com/playlist/62mwpd1Oiz7ftZFyQ4kKDf)
+91 songs - 5 hr 39 min - [published](https://open.spotify.com/playlist/62mwpd1Oiz7ftZFyQ4kKDf)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [3allamni Ellil](https://open.spotify.com/track/1RBZj4TSUCsaIdapBU8wOv) | [Cheb Bachir](https://open.spotify.com/artist/52tue7QYDGQeyJM4e5U6KZ), [Artmasta](https://open.spotify.com/artist/5nIOjs6hpgOxasVYbKOAui) | [3allamni Ellil](https://open.spotify.com/album/2p0a7Xcqk98IW1QgHqSiuy) | 3:26 | 2021-12-10 |  |
 | [3arbouch](https://open.spotify.com/track/01CJo2bZ28t0rtcWxmfGfw) | [NORDO](https://open.spotify.com/artist/44qTyRXwTktHVC0X1FGnJn) | [3arbouch](https://open.spotify.com/album/1xlz69ZMzryJjXvdJnpy0H) | 3:04 | 2021-12-10 | 2022-07-12 |
 | [7elma](https://open.spotify.com/track/2Dbvw3R3GqaF4ucrbe4dTs) | [Balti](https://open.spotify.com/artist/4cgw3nEf6uOQ2NqHwSXErR) | [7elma](https://open.spotify.com/album/27l6Sbd25Oy7dhrNxItLJQ) | 4:02 | 2021-12-10 |  |
+| [9al w 9il](https://open.spotify.com/track/3GDQzysNN5JUDclQHMtvHG) | [A.L.A](https://open.spotify.com/artist/3MKpGPhBp9KeXjGooKHNDX) | [Balance](https://open.spotify.com/album/4CqnL9u5Vb1mtRTrk9C02x) | 3:02 | 2022-10-04 |  |
 | [Aal Hit](https://open.spotify.com/track/5bmskSTrIQF9AG3QRNcRs7) | [Gultrah Sound System](https://open.spotify.com/artist/3ifW3hBoqUFSwwwjGrQtba) | [PRELUDE](https://open.spotify.com/album/1F9rHP1TBv73QVgvxqfF9R) | 5:42 | 2022-04-14 | 2022-09-09 |
 | [Ahla Snin \- أحلى سنين](https://open.spotify.com/track/5ir8hEkSEKRDSjkCqxus04) | [Adam](https://open.spotify.com/artist/2VXNaPH6tQXdoLbU3PrRVz), [Balti](https://open.spotify.com/artist/4cgw3nEf6uOQ2NqHwSXErR), [Jimmy H.](https://open.spotify.com/artist/6MHcMsdioNgN4XXoXk9J4e) | [Ahla Snin \(أحلى سنين\)](https://open.spotify.com/album/7eWYBxxxai1vRBcY5qW8ne) | 3:50 | 2021-12-10 | 2022-03-01 |
 | [Aini Fi Ainik](https://open.spotify.com/track/5uMzLIfazXkkR4Y4vDJDwH) | [JenJoon](https://open.spotify.com/artist/5EueujjeEpYjmaQbAuaetK) | [Aini Fi Ainik](https://open.spotify.com/album/3Sx1Q724f8iVGOZ3jggG5V) | 2:47 | 2021-12-10 | 2022-04-01 |
@@ -58,11 +59,12 @@
 | [Ma Saab](https://open.spotify.com/track/2lvt3ournLiAlPcwkggOVl) | [Tati G13](https://open.spotify.com/artist/0U33TLQaAlL1uLccEYAXnI), [Rayen Youssef](https://open.spotify.com/artist/3rN1K1PmBAEbbdg2sOP2Pk) | [Ma Saab](https://open.spotify.com/album/0B6maLCCMJNGbZ83z5hpEa) | 3:35 | 2021-12-10 |  |
 | [Ma3lich](https://open.spotify.com/track/7rmqhAZGOeVNPW8gA1vU1T) | [Samara](https://open.spotify.com/artist/0WfKB7Lqqykt6gdtirYJUm) | [Ma3lich](https://open.spotify.com/album/5Sh5EZ5VJoJufLgXZgxfRa) | 4:09 | 2021-12-10 | 2022-07-12 |
 | [Maghrebins](https://open.spotify.com/track/75Nob0UozvGENGUaaMkbgi) | [Mister You](https://open.spotify.com/artist/74YbW6s8CZdaYLxJU9HeS7), [Balti](https://open.spotify.com/artist/4cgw3nEf6uOQ2NqHwSXErR) | [Maghrebins](https://open.spotify.com/album/1etFNKjDP2lFtXd6NGTzwF) | 3:23 | 2021-12-10 | 2022-07-12 |
-| [Mani Wlidek](https://open.spotify.com/track/3sWOuPS3srcCShuoYjd6hG) | [Artmasta](https://open.spotify.com/artist/5nIOjs6hpgOxasVYbKOAui), [Nordo](https://open.spotify.com/artist/4UNykXoF5SxUpgyX4nSOVC) | [Mani Wlidek](https://open.spotify.com/album/7cRWMRusoJ6juDguMnq7pI) | 2:56 | 2021-12-10 |  |
+| [Mani Wlidek](https://open.spotify.com/track/3sWOuPS3srcCShuoYjd6hG) | [Artmasta](https://open.spotify.com/artist/5nIOjs6hpgOxasVYbKOAui), [Nordo](https://open.spotify.com/artist/4UNykXoF5SxUpgyX4nSOVC) | [Mani Wlidek](https://open.spotify.com/album/7cRWMRusoJ6juDguMnq7pI) | 2:56 | 2021-12-10 | 2022-10-05 |
 | [Mathi](https://open.spotify.com/track/2BUzhyKaCLs3uqeN5HUWHE) | [Si Lemhaf](https://open.spotify.com/artist/3wOVvUvge4HJNiAgSMPNox), [Kemo](https://open.spotify.com/artist/2xfujkJKqTg2T4b1vbLKdY) | [Mathi](https://open.spotify.com/album/7F5Iqxhgk9qNwuMNtoBgdb) | 3:24 | 2022-02-03 |  |
 | [Mdayda](https://open.spotify.com/track/1ijxKmMQEF3gMcCW5irUUe) | [JenJoon](https://open.spotify.com/artist/5EueujjeEpYjmaQbAuaetK) | [Mdayda](https://open.spotify.com/album/03Ii9iQ6ScfiiliYXhjfaD) | 3:49 | 2021-12-10 | 2022-05-14 |
 | [Mouj El Bahar](https://open.spotify.com/track/2SL62n2nNp0dY332iKc8Th) | [Saif ElRezgui](https://open.spotify.com/artist/77oNTNdel3zaotNHdI4x65), [In\-s](https://open.spotify.com/artist/5JfeJl3VqY6UcwAKZVXKQM) | [Mouj El Bahar](https://open.spotify.com/album/1rcEdLVrSG3vaI3RnJqDu4) | 3:29 | 2021-12-10 | 2022-02-23 |
 | [Move](https://open.spotify.com/track/5XnU6fppfaCp8cJCM0SXxe) | [A.L.A](https://open.spotify.com/artist/3MKpGPhBp9KeXjGooKHNDX) | [Move](https://open.spotify.com/album/717IhcEaucsFqL7YlM3aUa) | 3:03 | 2021-12-10 |  |
+| [Nansa](https://open.spotify.com/track/3evFZBD8uSlXvqBYWuUfri) | [A.L.A](https://open.spotify.com/artist/3MKpGPhBp9KeXjGooKHNDX) | [Balance](https://open.spotify.com/album/4CqnL9u5Vb1mtRTrk9C02x) | 4:10 | 2022-10-04 |  |
 | [Nawara](https://open.spotify.com/track/0oO79isQFRKI7hZx7Xt2fa) | [Akram Mag](https://open.spotify.com/artist/2RN3sars5oJnOWYJYLFzU1) | [Nawara](https://open.spotify.com/album/7MTBwPr1K0vUsyetOHPXgM) | 3:28 | 2021-12-10 |  |
 | [Netfakarna Sghar](https://open.spotify.com/track/5SXmbTghHaWfLJCAFBqX0a) | [Kaso](https://open.spotify.com/artist/1Brdq29oq6t0jyJeeLLMx0) | [Grow Up](https://open.spotify.com/album/2QEUmVsZvzKaCn9kGah2AR) | 4:00 | 2022-07-11 |  |
 | [Netfakarna Sghar](https://open.spotify.com/track/70TSRrLk6BQmII9Er1EFTB) | [Kaso](https://open.spotify.com/artist/1Brdq29oq6t0jyJeeLLMx0) | [Netfakarna Sghar](https://open.spotify.com/album/0Ts679QMb1TVqilC2gMmAl) | 4:00 | 2021-12-10 | 2022-07-29 |

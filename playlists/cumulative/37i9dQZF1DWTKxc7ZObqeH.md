@@ -4,7 +4,7 @@
 
 > Relaxing Jazz on a warm summer day.
 
-183 songs - 11 hr 58 min - [published](https://open.spotify.com/playlist/66JAt3sdiNPtvzJv9rg7XC)
+185 songs - 12 hr 4 min - [published](https://open.spotify.com/playlist/66JAt3sdiNPtvzJv9rg7XC)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,7 +49,7 @@
 | [Gentileza](https://open.spotify.com/track/2b5sr8aUAAoY7waDSB4KRX) | [Ximena & Antonio](https://open.spotify.com/artist/4GTpu88l1iZwuSyY2UXW70) | [Gentileza](https://open.spotify.com/album/13Nf9wlDHpcboyd0LM7px6) | 4:25 | 2022-02-16 |  |
 | [Gentle rain](https://open.spotify.com/track/78S8rCKCJ3MUoGF3LCnpo4) | [The Blue Green](https://open.spotify.com/artist/2MV5ORkK9NtSHyy4WbwY80) | [Jessica](https://open.spotify.com/album/4bDZq3KMHTqKIj9Rhkjgwl) | 4:16 | 2022-02-16 |  |
 | [Georgia On My Mind](https://open.spotify.com/track/15c6okmVGsMQYb7PkKi5v3) | [Nouveau Jazz Trio](https://open.spotify.com/artist/2uE6h3IWob2rgVJmUCz6D2) | [Georgia On My Mind](https://open.spotify.com/album/113L3LCtjrI2vA7xe8DCLq) | 3:12 | 2022-02-16 |  |
-| [Girl From Ipanema](https://open.spotify.com/track/352nageWZMwwi1rIidMzdJ) | [Oscar Peterson Trio](https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A) | [Oscar Peterson: Hits & Rarities](https://open.spotify.com/album/1STwUIMVbwDRey6aEYvXec) | 3:53 | 2022-09-29 | 2022-10-02 |
+| [Girl From Ipanema](https://open.spotify.com/track/352nageWZMwwi1rIidMzdJ) | [Oscar Peterson Trio](https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A) | [Oscar Peterson: Hits & Rarities](https://open.spotify.com/album/1STwUIMVbwDRey6aEYvXec) | 3:53 | 2022-09-29 | 2022-10-10 |
 | [Girl From Ipanema](https://open.spotify.com/track/04n2zZCoMIw7r0NNTN1hMg) | [Oscar Peterson Trio](https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A) | [We Get Requests](https://open.spotify.com/album/7BVfV9OGD9tYdy7Jr5JLbt) | 3:55 | 2022-02-16 | 2022-07-29 |
 | [Have You Met Miss Jones](https://open.spotify.com/track/3hS9SHf90Uyt2ejCTuO4Jo) | [Nordic Light Trio](https://open.spotify.com/artist/2BcQKRbEFJJaMcad1CRZ35) | [Have You Met Miss Jones](https://open.spotify.com/album/3dBfU9Aecon59ibocb2nkE) | 3:08 | 2022-05-17 |  |
 | [Have You Seen Me Lately](https://open.spotify.com/track/6aaYBpzYrY3bGS3eIDOG5s) | [Gillian Spencer Trio](https://open.spotify.com/artist/4NopJ2j5J608OXktrn5IAM) | [Have You Seen Me Lately](https://open.spotify.com/album/0QTxZxJKxQhTOLpoZLxjgp) | 2:11 | 2022-06-28 |  |
@@ -77,6 +77,7 @@
 | [I´ll Be Around](https://open.spotify.com/track/4axKyMqOx8NIyGsfKBA7Cv) | [Andreas Gidlund](https://open.spotify.com/artist/1i1prvKQoU8d7eTrRHIMtO) | [I´ll Be Around](https://open.spotify.com/album/50XozG3HbIyUJWTJ9Fsoao) | 3:35 | 2022-04-12 |  |
 | [I´m Glad There Is You](https://open.spotify.com/track/5aSfAExWXaU5P4wuPkBINx) | [Carlton Maison Quartet](https://open.spotify.com/artist/0Tq1tUZV3Vw3CUvNwIjxpm) | [I´m Glad There Is You](https://open.spotify.com/album/5S8DO23pBgOdUIIfeup4IT) | 4:29 | 2022-02-16 |  |
 | [Jardin du Luxembourg](https://open.spotify.com/track/78qHrGoXAPNGip2OFzKpLp) | [Benjamine Leroy Quartet](https://open.spotify.com/artist/0HsfmmG8LqKOxS2LBIO9bM) | [Jardin du Luxembourg](https://open.spotify.com/album/39JBgmbpRckZqhiqnlX5wp) | 4:07 | 2022-08-10 |  |
+| [Just A Piece of My Heart](https://open.spotify.com/track/2XYa5MJShUKZ8wjnrVa2z6) | [6th Street Jazz](https://open.spotify.com/artist/1EQvOf7PPTDB3s0q1y9eD1) | [Romeo's Mood](https://open.spotify.com/album/2KVvscZOAVN4PwSo76HyjI) | 2:53 | 2022-10-06 |  |
 | [Keep It Simple](https://open.spotify.com/track/6aJUOfoLUBcZqc1emenF1F) | [Ray Horne Trio](https://open.spotify.com/artist/51XvvMJ1TNAQpuGnDlwmUT) | [Keep It Simple](https://open.spotify.com/album/4pwU7mmJ6jB0K2LdjzfVPZ) | 3:43 | 2022-06-28 |  |
 | [La Libertad](https://open.spotify.com/track/3BGvwaiA1ovpsyAj0uytZ8) | [Martin Hoper](https://open.spotify.com/artist/6WkApyKcrvkGbgyASLSVbc) | [La Libertad](https://open.spotify.com/album/2tH7CSK6nIN8Y0mFeUut93) | 3:21 | 2022-05-31 |  |
 | [La Vie en rose](https://open.spotify.com/track/5E5quIvMG1ZlnwFqSolvhx) | [Tate Jackson Trio](https://open.spotify.com/artist/2xOmrHsNNnSQQwav65tSwZ) | [La Vie en rose](https://open.spotify.com/album/5FHVsjOvLsFzLPyxWBmM9E) | 2:48 | 2022-05-24 |  |
@@ -165,7 +166,8 @@
 | [The Good Life \- Remastered 2000/Rudy Van Gelder Edition](https://open.spotify.com/track/4ZNx7AMUbhIo7DFkhWlrdy) | [Hank Mobley](https://open.spotify.com/artist/5cbutZUQE7SUCA6MsEMbBv) | [The Turnaround](https://open.spotify.com/album/2FR2NZXhXDbCTCeUUdHEJr) | 5:08 | 2022-02-16 | 2022-08-11 |
 | [The Law of Attraction](https://open.spotify.com/track/5f2btCjcN87enR8OBijRBz) | [Southside Trio](https://open.spotify.com/artist/2XVJkKNBPA834yV4NKISBw) | [The Law of Attraction](https://open.spotify.com/album/2otEcJ7pOUvnnX4nO34aJL) | 2:31 | 2022-02-16 |  |
 | [The More I See You](https://open.spotify.com/track/2upj2OVsilwcGnXdOpbMl6) | [The North Sea Trio](https://open.spotify.com/artist/1aalpsSEZpG1wLuLvXcCco) | [The More I See You](https://open.spotify.com/album/694IJJZVQL9d6UY1IqwWKC) | 4:22 | 2022-02-16 |  |
-| [The Nearness of You](https://open.spotify.com/track/7LW4z8fGphTuqFsacBAVLb) | [Massimo Faraò](https://open.spotify.com/artist/04qLma4TvriHyGJ0YlK6XI), [Byron Wookie Landham](https://open.spotify.com/artist/6c2vJaxrETpoaPzewoljB4), [John Webber](https://open.spotify.com/artist/2DcPd1TuEWKCjnokl3EIO5) | [A Drums Comes True](https://open.spotify.com/album/6bey4hwrgdVRopI07dKfsr) | 7:45 | 2022-02-16 |  |
+| [The Nearness of You](https://open.spotify.com/track/7LW4z8fGphTuqFsacBAVLb) | [Massimo Faraò](https://open.spotify.com/artist/04qLma4TvriHyGJ0YlK6XI), [Byron Wookie Landham](https://open.spotify.com/artist/6c2vJaxrETpoaPzewoljB4), [John Webber](https://open.spotify.com/artist/2DcPd1TuEWKCjnokl3EIO5) | [A Drums Comes True](https://open.spotify.com/album/6bey4hwrgdVRopI07dKfsr) | 7:45 | 2022-02-16 | 2022-10-07 |
+| [The Night We Called It A Day](https://open.spotify.com/track/6ltEJhAuJ2ofBl63qbHVN0) | [Odo Lefebvre](https://open.spotify.com/artist/7lLtsVLpDbuhSvr5UE6HIU) | [The Night We Called It A Day](https://open.spotify.com/album/6l6Z60Wy6MTZtbrBrJT5Cw) | 3:32 | 2022-10-06 |  |
 | [There Is No Greater Love](https://open.spotify.com/track/3npmUkmkDOhavOSuGdXUuQ) | [Red Dolphin Band](https://open.spotify.com/artist/2146aIqR8VvP36dLIjIxow) | [Just Friends](https://open.spotify.com/album/0qI3au2rZyG61TCw79DLjU) | 5:53 | 2022-02-16 |  |
 | [There's A Small Hotel](https://open.spotify.com/track/1vd6bplZvB2edAjNd9bR7l) | [Bill Charlap Trio](https://open.spotify.com/artist/5isSr1JUeHt5cgh8oWz1Ja) | [Uptown, Downtown](https://open.spotify.com/album/5sLAAuNixDNK7b91imiLfM) | 6:41 | 2022-02-16 | 2022-08-31 |
 | [These Foolish Things](https://open.spotify.com/track/73LXSkZdpjWC4XUDTju8LK) | [Tribute Trio](https://open.spotify.com/artist/3PuxIr3757alJvpconHY1C) | [These Foolish Things](https://open.spotify.com/album/06BC4Bp7zymTxVWhCZfXBy) | 4:50 | 2022-02-16 |  |

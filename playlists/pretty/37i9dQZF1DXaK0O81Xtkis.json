@@ -1,13 +1,61 @@
 {
-  "description": "make it pop! cover: 5 Seconds of Summer",
-  "num_followers": 198854,
+  "description": "make it pop! cover: AJR",
+  "num_followers": 199041,
   "original_name": "soda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDU3MDc5MywwMDAwMDAwMGM5MDAyMDViNTVjYzkwMTQwNGMwMjQ4YzI1NmVhOWJk",
+  "snapshot_id": "MTY2NTE2NDYyMiwwMDAwMDAwMDk0NThiMThjMTg3YzA1NzlkOTgyMTYzNzJiODdkYmYw",
   "tracks": [
+    {
+      "added_at": "2022-09-30 20:46:33",
+      "album": {
+        "name": "OK ORCHESTRA",
+        "url": "https://open.spotify.com/album/1y2AzG31F4CuCKQ1rpIzaI"
+      },
+      "artists": [
+        {
+          "name": "AJR",
+          "url": "https://open.spotify.com/artist/6s22t5Y3prQHyaHWUN1R1C"
+        }
+      ],
+      "duration_ms": 180742,
+      "name": "World's Smallest Violin",
+      "url": "https://open.spotify.com/track/3jHBgKdLCf46aP3HRI0WYv"
+    },
+    {
+      "added_at": "2022-09-23 04:00:00",
+      "album": {
+        "name": "the rainbow cassette",
+        "url": "https://open.spotify.com/album/7uzmNefPoRgc5Pi9DS00CC"
+      },
+      "artists": [
+        {
+          "name": "mazie",
+          "url": "https://open.spotify.com/artist/4adSXA1GDOxNG7Zw89YHyz"
+        }
+      ],
+      "duration_ms": 125256,
+      "name": "dumb dumb",
+      "url": "https://open.spotify.com/track/4qbEaaJ29p32GI8EWQmm6R"
+    },
+    {
+      "added_at": "2022-10-07 04:00:00",
+      "album": {
+        "name": "People In Motion",
+        "url": "https://open.spotify.com/album/6qXDmHqkVW2O8FQUKWiHh4"
+      },
+      "artists": [
+        {
+          "name": "Dayglow",
+          "url": "https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm"
+        }
+      ],
+      "duration_ms": 194800,
+      "name": "Radio",
+      "url": "https://open.spotify.com/track/10SOOaAA0JVdnroFkcZT7w"
+    },
     {
       "added_at": "2022-09-23 04:00:00",
       "album": {
@@ -25,20 +73,68 @@
       "url": "https://open.spotify.com/track/2ovVwEXwcRYuIfnfJedGnQ"
     },
     {
-      "added_at": "2022-09-30 20:46:33",
+      "added_at": "2022-10-07 04:00:00",
       "album": {
-        "name": "OK ORCHESTRA",
-        "url": "https://open.spotify.com/album/1y2AzG31F4CuCKQ1rpIzaI"
+        "name": "Mistake",
+        "url": "https://open.spotify.com/album/0C9TJmoKVNAcdnQxr6BmHh"
       },
       "artists": [
         {
-          "name": "AJR",
-          "url": "https://open.spotify.com/artist/6s22t5Y3prQHyaHWUN1R1C"
+          "name": "Sawyer",
+          "url": "https://open.spotify.com/artist/0kWDZRay8upBU5u89Kmc7F"
         }
       ],
-      "duration_ms": 180742,
-      "name": "World's Smallest Violin",
-      "url": "https://open.spotify.com/track/3jHBgKdLCf46aP3HRI0WYv"
+      "duration_ms": 148757,
+      "name": "Mistake",
+      "url": "https://open.spotify.com/track/3cKEPwsUlavywIrz3yjfw4"
+    },
+    {
+      "added_at": "2022-10-07 17:43:42",
+      "album": {
+        "name": "The Problem Song",
+        "url": "https://open.spotify.com/album/4EVTxuDyTxsS7w9W5AC0kX"
+      },
+      "artists": [
+        {
+          "name": "Valley",
+          "url": "https://open.spotify.com/artist/7blXVKBSxdFZsIqlhdViKc"
+        }
+      ],
+      "duration_ms": 157570,
+      "name": "The Problem Song",
+      "url": "https://open.spotify.com/track/7flrjP7Dag40j2Fw8TX4iC"
+    },
+    {
+      "added_at": "2022-10-07 04:00:00",
+      "album": {
+        "name": "I'm Alright If You're Ok",
+        "url": "https://open.spotify.com/album/7wfUtM6zAEcjj7dVYWjfGD"
+      },
+      "artists": [
+        {
+          "name": "Aidan Bissett",
+          "url": "https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe"
+        }
+      ],
+      "duration_ms": 192393,
+      "name": "All That I'm Craving",
+      "url": "https://open.spotify.com/track/2O2xeI5k7i1aGJTkQOyNpG"
+    },
+    {
+      "added_at": "2022-10-07 04:00:00",
+      "album": {
+        "name": "Gelato",
+        "url": "https://open.spotify.com/album/2JFOcEr9K5Wm4IJ3A8JNQp"
+      },
+      "artists": [
+        {
+          "name": "Echosmith",
+          "url": "https://open.spotify.com/artist/1PbBg2aYjWLKRk84zJK15x"
+        }
+      ],
+      "duration_ms": 184800,
+      "name": "Gelato",
+      "url": "https://open.spotify.com/track/1FOVnwpspev8ASJOylLPP7"
     },
     {
       "added_at": "2022-09-30 04:21:58",
@@ -61,6 +157,86 @@
       "url": "https://open.spotify.com/track/5IXdkgrT4lb9sKIb8tbOQ3"
     },
     {
+      "added_at": "2022-09-30 04:21:58",
+      "album": {
+        "name": "stupid i miss u",
+        "url": "https://open.spotify.com/album/0DGQGsxX73rGXQtpq52PuA"
+      },
+      "artists": [
+        {
+          "name": "Forrest Nolan",
+          "url": "https://open.spotify.com/artist/3M8UUCqb0mIEn5S2lO13yv"
+        }
+      ],
+      "duration_ms": 140826,
+      "name": "stupid i miss u",
+      "url": "https://open.spotify.com/track/6rhdKbAlGnmRVfdGnvIyb8"
+    },
+    {
+      "added_at": "2022-09-23 04:00:00",
+      "album": {
+        "name": "Destination",
+        "url": "https://open.spotify.com/album/3HNG2SeXfTjlK6uB714dns"
+      },
+      "artists": [
+        {
+          "name": "Crash Adams",
+          "url": "https://open.spotify.com/artist/6d8NscVVbeMVINZwJDOoN5"
+        }
+      ],
+      "duration_ms": 163543,
+      "name": "Destination",
+      "url": "https://open.spotify.com/track/7C7bJ7Y8ifewQHwWJn0cHj"
+    },
+    {
+      "added_at": "2022-10-07 04:00:00",
+      "album": {
+        "name": "star tripping",
+        "url": "https://open.spotify.com/album/4hohZtRQRa3Iz76pJPwJwR"
+      },
+      "artists": [
+        {
+          "name": "Kevin Atwater",
+          "url": "https://open.spotify.com/artist/6ZBM319vNIirp7FOvvLVD6"
+        }
+      ],
+      "duration_ms": 154054,
+      "name": "star tripping",
+      "url": "https://open.spotify.com/track/1ozWhltP7jnU01qOMWYBXH"
+    },
+    {
+      "added_at": "2022-09-30 20:46:33",
+      "album": {
+        "name": "I Can't Grow Up",
+        "url": "https://open.spotify.com/album/0yQuEAGDMu7hJKLWfX11Vm"
+      },
+      "artists": [
+        {
+          "name": "Tegan and Sara",
+          "url": "https://open.spotify.com/artist/5e1BZulIiYWPRm8yogwUYH"
+        }
+      ],
+      "duration_ms": 200213,
+      "name": "I Can\u2019t Grow Up",
+      "url": "https://open.spotify.com/track/5b2teiHzEXQQJJfa0btYpF"
+    },
+    {
+      "added_at": "2022-10-07 04:00:00",
+      "album": {
+        "name": "i\u2019m sorry for everything",
+        "url": "https://open.spotify.com/album/779EcXlno6YlpYStO2Sz2m"
+      },
+      "artists": [
+        {
+          "name": "gabby start",
+          "url": "https://open.spotify.com/artist/33L1klom7IXmoAP8fjrGm9"
+        }
+      ],
+      "duration_ms": 160613,
+      "name": "i\u2019m sorry for everything",
+      "url": "https://open.spotify.com/track/2oQcWuQ41tSHKPo2UN83qe"
+    },
+    {
       "added_at": "2022-09-09 19:32:26",
       "album": {
         "name": "Coast",
@@ -81,6 +257,38 @@
       "url": "https://open.spotify.com/track/1l4iQsOZ5sOXZPMQLvouaB"
     },
     {
+      "added_at": "2022-09-09 19:32:26",
+      "album": {
+        "name": "FIRST HELLO",
+        "url": "https://open.spotify.com/album/6g7aDEkCteSnfHx2ZSOZYU"
+      },
+      "artists": [
+        {
+          "name": "Grant Knoche",
+          "url": "https://open.spotify.com/artist/4uLexEsM3MDb1sermSib4J"
+        }
+      ],
+      "duration_ms": 197569,
+      "name": "FIRST HELLO",
+      "url": "https://open.spotify.com/track/2ONSelZb6rxDw98aIzTLHt"
+    },
+    {
+      "added_at": "2022-09-16 04:01:00",
+      "album": {
+        "name": "HDTV",
+        "url": "https://open.spotify.com/album/6TIzz9Z4n03E5USTDzBweS"
+      },
+      "artists": [
+        {
+          "name": "Tai Verdes",
+          "url": "https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I"
+        }
+      ],
+      "duration_ms": 175613,
+      "name": "TWO SUGARS",
+      "url": "https://open.spotify.com/track/5rZrM1ppBHmHogxLcw8wtH"
+    },
+    {
       "added_at": "2022-09-30 04:21:58",
       "album": {
         "name": "OH NO!",
@@ -97,22 +305,6 @@
       "url": "https://open.spotify.com/track/5NDjk4GOodIGmrQxSjExEr"
     },
     {
-      "added_at": "2022-09-23 04:00:00",
-      "album": {
-        "name": "the rainbow cassette",
-        "url": "https://open.spotify.com/album/7uzmNefPoRgc5Pi9DS00CC"
-      },
-      "artists": [
-        {
-          "name": "mazie",
-          "url": "https://open.spotify.com/artist/4adSXA1GDOxNG7Zw89YHyz"
-        }
-      ],
-      "duration_ms": 125256,
-      "name": "dumb dumb",
-      "url": "https://open.spotify.com/track/4qbEaaJ29p32GI8EWQmm6R"
-    },
-    {
       "added_at": "2022-09-30 04:21:58",
       "album": {
         "name": "Trail Mix Tape",
@@ -127,54 +319,6 @@
       "duration_ms": 187850,
       "name": "Day By Day",
       "url": "https://open.spotify.com/track/7t6NSZQArTCYimaQmfwS0S"
-    },
-    {
-      "added_at": "2022-09-23 04:00:00",
-      "album": {
-        "name": "Destination",
-        "url": "https://open.spotify.com/album/3HNG2SeXfTjlK6uB714dns"
-      },
-      "artists": [
-        {
-          "name": "Crash Adams",
-          "url": "https://open.spotify.com/artist/6d8NscVVbeMVINZwJDOoN5"
-        }
-      ],
-      "duration_ms": 163543,
-      "name": "Destination",
-      "url": "https://open.spotify.com/track/7C7bJ7Y8ifewQHwWJn0cHj"
-    },
-    {
-      "added_at": "2022-09-30 20:46:33",
-      "album": {
-        "name": "I Can't Grow Up",
-        "url": "https://open.spotify.com/album/0yQuEAGDMu7hJKLWfX11Vm"
-      },
-      "artists": [
-        {
-          "name": "Tegan and Sara",
-          "url": "https://open.spotify.com/artist/5e1BZulIiYWPRm8yogwUYH"
-        }
-      ],
-      "duration_ms": 200213,
-      "name": "I Can\u2019t Grow Up",
-      "url": "https://open.spotify.com/track/5b2teiHzEXQQJJfa0btYpF"
-    },
-    {
-      "added_at": "2022-09-30 04:21:58",
-      "album": {
-        "name": "stupid i miss u",
-        "url": "https://open.spotify.com/album/0DGQGsxX73rGXQtpq52PuA"
-      },
-      "artists": [
-        {
-          "name": "Forrest Nolan",
-          "url": "https://open.spotify.com/artist/3M8UUCqb0mIEn5S2lO13yv"
-        }
-      ],
-      "duration_ms": 140826,
-      "name": "stupid i miss u",
-      "url": "https://open.spotify.com/track/6rhdKbAlGnmRVfdGnvIyb8"
     },
     {
       "added_at": "2022-09-16 04:01:00",
@@ -261,22 +405,6 @@
       "url": "https://open.spotify.com/track/6kI1yeiuf4DbAhrRb4Hq4v"
     },
     {
-      "added_at": "2022-09-16 04:01:00",
-      "album": {
-        "name": "HDTV",
-        "url": "https://open.spotify.com/album/6TIzz9Z4n03E5USTDzBweS"
-      },
-      "artists": [
-        {
-          "name": "Tai Verdes",
-          "url": "https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I"
-        }
-      ],
-      "duration_ms": 175613,
-      "name": "TWO SUGARS",
-      "url": "https://open.spotify.com/track/5rZrM1ppBHmHogxLcw8wtH"
-    },
-    {
       "added_at": "2022-09-23 04:00:00",
       "album": {
         "name": "saddest soundtrack",
@@ -307,22 +435,6 @@
       "duration_ms": 184285,
       "name": "Sneakers",
       "url": "https://open.spotify.com/track/3eLfICfDzCQrP8pOajVGiJ"
-    },
-    {
-      "added_at": "2022-09-09 19:32:26",
-      "album": {
-        "name": "FIRST HELLO",
-        "url": "https://open.spotify.com/album/6g7aDEkCteSnfHx2ZSOZYU"
-      },
-      "artists": [
-        {
-          "name": "Grant Knoche",
-          "url": "https://open.spotify.com/artist/4uLexEsM3MDb1sermSib4J"
-        }
-      ],
-      "duration_ms": 197569,
-      "name": "FIRST HELLO",
-      "url": "https://open.spotify.com/track/2ONSelZb6rxDw98aIzTLHt"
     },
     {
       "added_at": "2022-09-09 19:32:26",
@@ -404,7 +516,7 @@
           "url": "https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P"
         }
       ],
-      "duration_ms": 183893,
+      "duration_ms": 183895,
       "name": "ONLY ONE",
       "url": "https://open.spotify.com/track/04xnC2Uwq38RPrwCLv6f0G"
     },
@@ -524,7 +636,7 @@
       "added_at": "2022-09-16 04:01:00",
       "album": {
         "name": "The Hardest Part",
-        "url": "https://open.spotify.com/album/0CIYj6AV180SmLAEONb2DW"
+        "url": "https://open.spotify.com/album/340COGAWuXWO66Qc4TxJuN"
       },
       "artists": [
         {
@@ -534,7 +646,7 @@
       ],
       "duration_ms": 201463,
       "name": "I Just Want a Lover",
-      "url": "https://open.spotify.com/track/1rwMM6ixKWnsRQMUeRbXeT"
+      "url": "https://open.spotify.com/track/0FgUAGSUZr5KKt3brc9Vi0"
     },
     {
       "added_at": "2022-09-09 19:32:26",
@@ -755,22 +867,6 @@
     {
       "added_at": "2022-09-09 19:32:26",
       "album": {
-        "name": "I Won't",
-        "url": "https://open.spotify.com/album/7vXjnE5noLdqc9EIsOhLpQ"
-      },
-      "artists": [
-        {
-          "name": "AJR",
-          "url": "https://open.spotify.com/artist/6s22t5Y3prQHyaHWUN1R1C"
-        }
-      ],
-      "duration_ms": 168552,
-      "name": "I Won't",
-      "url": "https://open.spotify.com/track/1y8ooe9Zr1PMIxrOwNeeOi"
-    },
-    {
-      "added_at": "2022-09-09 19:32:26",
-      "album": {
         "name": "Hold On Baby",
         "url": "https://open.spotify.com/album/3Q998ztjKK3ybjToj0QL9c"
       },
@@ -967,22 +1063,6 @@
       "duration_ms": 184166,
       "name": "Love You When You\u2019re Gone",
       "url": "https://open.spotify.com/track/4a5a4NpPcsp8lKLjsGqks2"
-    },
-    {
-      "added_at": "2022-09-09 19:32:26",
-      "album": {
-        "name": "Stick Season",
-        "url": "https://open.spotify.com/album/1fMRg0CNLKdnrXD0WPc2Ju"
-      },
-      "artists": [
-        {
-          "name": "Noah Kahan",
-          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
-        }
-      ],
-      "duration_ms": 182346,
-      "name": "Stick Season",
-      "url": "https://open.spotify.com/track/0GNVXNz7Jkicfk2mp5OyG5"
     },
     {
       "added_at": "2022-09-09 19:32:26",

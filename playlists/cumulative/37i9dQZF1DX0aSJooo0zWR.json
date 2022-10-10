@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Electrified jazz, complex beats and virtuoso playing. Cover: Chick Corea",
+  "description": "Electrified jazz, complex beats and virtuoso playing. Cover: Chick Corea & Nino Josele",
   "name": "Fusion Fest",
   "published_playlist_ids": [
     "6VNcN9Rm3QVGsJM7Qz2ea6"
@@ -215,7 +215,7 @@
       ],
       "date_added": "2021-02-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-02",
+      "date_removed": "2022-10-05",
       "duration_ms": 378927,
       "name": "Aslan",
       "url": "https://open.spotify.com/track/3zAhM2peL0ztwt20uzLC8x"
@@ -573,7 +573,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 289851,
       "name": "close tail",
       "url": "https://open.spotify.com/track/6pEh6OWcqZNXrY6eHjyksA"
@@ -871,10 +871,32 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-04",
       "duration_ms": 230374,
       "name": "Funkdombe - edit",
       "url": "https://open.spotify.com/track/7sOEgNweXVf2N4ae7hzKMU"
+    },
+    {
+      "album": {
+        "name": "Galaxias",
+        "url": "https://open.spotify.com/album/30utofoN4gEgd6ulk1qXEP"
+      },
+      "artists": [
+        {
+          "name": "Nino Josele",
+          "url": "https://open.spotify.com/artist/7KPoRAFSOQXa0jX1Pad5wT"
+        },
+        {
+          "name": "Chick Corea",
+          "url": "https://open.spotify.com/artist/5olDKSsFhhmwh8UCWwKtpq"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236905,
+      "name": "Galaxias (Radio Edit)",
+      "url": "https://open.spotify.com/track/4u8xcocvv2wQ1EN44UYzlt"
     },
     {
       "album": {
@@ -1135,7 +1157,7 @@
       ],
       "date_added": "2021-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-03",
       "duration_ms": 422882,
       "name": "Hunting Heads",
       "url": "https://open.spotify.com/track/5euz3r8UPd1b8YYstR3nDH"
@@ -1327,6 +1349,28 @@
       "duration_ms": 318205,
       "name": "Lockdown Boogie",
       "url": "https://open.spotify.com/track/44m5C5PwRPijazjXQJESGG"
+    },
+    {
+      "album": {
+        "name": "Legacy",
+        "url": "https://open.spotify.com/album/3nHbEmj9rc6mvJSAm1RXDm"
+      },
+      "artists": [
+        {
+          "name": "Adam Blackstone",
+          "url": "https://open.spotify.com/artist/01qe6O86TULkQwNofn1zgs"
+        },
+        {
+          "name": "John Scofield",
+          "url": "https://open.spotify.com/artist/14RXohtx6NiBGFTW8IdmAK"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 356243,
+      "name": "Lost",
+      "url": "https://open.spotify.com/track/3jlF4rXXNxK8JRMkfwRYcc"
     },
     {
       "album": {
@@ -2353,6 +2397,28 @@
       "duration_ms": 179480,
       "name": "The Careening Prism Within (Parable 43)",
       "url": "https://open.spotify.com/track/4VWYPC8tE87K2sLAsKVhZW"
+    },
+    {
+      "album": {
+        "name": "Common Ground",
+        "url": "https://open.spotify.com/album/1TxksZoZOYltLztkow77CS"
+      },
+      "artists": [
+        {
+          "name": "Robben Ford",
+          "url": "https://open.spotify.com/artist/7C1CFA2GWGFc51SrvX5Bvy"
+        },
+        {
+          "name": "Bill Evans",
+          "url": "https://open.spotify.com/artist/2PyoC81N6Uz8xs5Lzaquje"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 406453,
+      "name": "The Little Boxer",
+      "url": "https://open.spotify.com/track/6x7mEZbbec6EPOJVWYvmve"
     },
     {
       "album": {

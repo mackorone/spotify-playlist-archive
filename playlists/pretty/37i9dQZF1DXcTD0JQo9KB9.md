@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcTD0JQo9KB9.md) - [plain]
 
 > 每日都有咁多壞消息，我心情真係好肉酸呀！只可以同自己講聲「撐住」！
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,468 likes - 87 songs - 5 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,542 likes - 87 songs - 5 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,11 +89,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcTD0JQo9KB9.md) - [plain]
 | 79 | [重生](https://open.spotify.com/track/0ICWLdBQR09jm2cQO9FPX0) | [陳健安](https://open.spotify.com/artist/5g1lCXhXTqGf2QNpyQXh9S) | [本原](https://open.spotify.com/album/4UjWCkscIVWISArC7rfvoi) | 5:17 |
 | 80 | [Warrior](https://open.spotify.com/track/3jBI3hvc9Z0FUcdyj7spEm) | [Mirror](https://open.spotify.com/artist/6B9YF4eOv99klogeZUzkYM) | [Warrior](https://open.spotify.com/album/2YvFttJM4ejmuoe7V8IuBz) | 4:07 |
 | 81 | [撐著](https://open.spotify.com/track/3beXcn7mFyG0X9aQKABOO6) | [黎曉陽](https://open.spotify.com/artist/4iB0GWec0wyODZvOatQMM9) | [上上下下左右左右 B A Start](https://open.spotify.com/album/38S43x73XDmOq58hNQqfek) | 3:37 |
-| 82 | [人間有愛](https://open.spotify.com/track/1A82lER0hubY5nEQlV5glC) | [R.O.O.T](https://open.spotify.com/artist/0EUSaBjG1G6lMFm9FFZfNj) | [人間有愛](https://open.spotify.com/album/1Ol0nJXt9NeabxeisaDbG1) | 3:32 |
+| 82 | [人間有愛](https://open.spotify.com/track/5V0p5mAIDgMTwlC5xtTt5B) | [R.O.O.T](https://open.spotify.com/artist/0EUSaBjG1G6lMFm9FFZfNj) | [人間有愛](https://open.spotify.com/album/4A9qg8Q4J20FBqyuhVHC3M) | 3:32 |
 | 83 | [白日夢一場](https://open.spotify.com/track/4yA1wA3ncst6Ihc2dxmZ49) | [Triple G ](https://open.spotify.com/artist/7bsSAU7uvQhgZTBZ4jtMLv) | [淺藍色的號角](https://open.spotify.com/album/61MuBBu3HpPKGngw0Sa3Ha) | 3:38 |
 | 84 | [若世界在明日結束](https://open.spotify.com/track/6TW6Q5BnQph1zkR5shovqx) | [粉紅A](https://open.spotify.com/artist/2EzbvLK5Q66fXB66NRfs8C) | [為藝術犧牲](https://open.spotify.com/album/5td7IpItIQBQbVzBFeXCu6) | 4:31 |
 | 85 | [見字飲水](https://open.spotify.com/track/4qVOU5UXelKdNIiYdosFS4) | [Lam1Hey](https://open.spotify.com/artist/5VYb36tskZeBekEyPPgEBV) | [見字飲水](https://open.spotify.com/album/29sqfKwN73ZQbOWAliIFuR) | 3:11 |
 | 86 | [水花四濺](https://open.spotify.com/track/6W8mNQAQ1KCImOwk2iCdwJ) | [Denise Ho](https://open.spotify.com/artist/4yN0M1P08hXwuDi81G6O5U) | [Hocc2](https://open.spotify.com/album/1PdlpIshEOqK48gms7JFd7) | 4:16 |
 | 87 | [哲學家](https://open.spotify.com/track/1wdPW3bn0ysQVdRhWET6XL) | [Candy Lo](https://open.spotify.com/artist/51ZbCFgOspWvhBjd1DUYEV) | [哲學家](https://open.spotify.com/album/3bI27pOCKevhTpBHTDPTdW) | 4:34 |
 
-Snapshot ID: `MTY1NjA1MTAzMCwwMDAwMDAwMGJjYzUyNjRiNzg4NGZhYmEzNDhhYTU0MTE4YzIxMDVi`
+Snapshot ID: `MTY1NjA1MTAzMCwwMDAwMDAwMGI0ZGJmM2E1NmI3Y2U4ZTE0NTVmOTgyMDY0ODY2ZWM2`

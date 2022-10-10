@@ -4,7 +4,7 @@
 
 > A collection of powerful voices and alluring siren songs.
 
-123 songs - 7 hr 28 min - [published](https://open.spotify.com/playlist/4TFPubUIaS3b8U0Aq9oe9J)
+124 songs - 7 hr 31 min - [published](https://open.spotify.com/playlist/4TFPubUIaS3b8U0Aq9oe9J)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -112,12 +112,13 @@
 | [San Andreas' Fault](https://open.spotify.com/track/2jVIOVCin4pVYNSfPzaG4Z) | [Kathleen](https://open.spotify.com/artist/6UqUYZ8pMGiYhuyIcsH61y) | [San Andreas' Fault](https://open.spotify.com/album/1cBv7tS0NsZAlTxd6qLelN) | 3:44 | 2021-06-04 |  |
 | [Send Your Youth](https://open.spotify.com/track/6G8IXeXQlpMiMe648itjW0) | [Cold Specks](https://open.spotify.com/artist/2DMHBCdboDAYJWzt2lDSP5) | [I Predict A Graceful Expulsion](https://open.spotify.com/album/1Maf4PxCcedkBNNdVIDu4M) | 3:48 | 2021-06-04 | 2022-07-16 |
 | [Serious Love](https://open.spotify.com/track/5QPXi2dKDMQIpgDHxHODFt) | [Anya Marina](https://open.spotify.com/artist/6xYBLeSMu1AqPsnUzEvx5n) | [Serious Love](https://open.spotify.com/album/3Bfuqp7jMJ6lxrh5ZfVS3I) | 4:13 | 2021-06-04 |  |
-| [Should I Stay Or Should I Go \- From The TV Show "Wicked City"](https://open.spotify.com/track/04wrnpT0QumuU3GPWbf0VV) | [KT Tunstall](https://open.spotify.com/artist/5zzrJD2jXrE9dZ1AklRFcL) | [Should I Stay Or Should I Go \(From The TV Show "Wicked City"\)](https://open.spotify.com/album/1ivkZkfGqLU1Rf8E92hxwf) | 4:03 | 2021-06-04 |  |
+| [Should I Stay Or Should I Go \- From The TV Show "Wicked City"](https://open.spotify.com/track/04wrnpT0QumuU3GPWbf0VV) | [KT Tunstall](https://open.spotify.com/artist/5zzrJD2jXrE9dZ1AklRFcL) | [Should I Stay Or Should I Go \(From The TV Show "Wicked City"\)](https://open.spotify.com/album/1ivkZkfGqLU1Rf8E92hxwf) | 4:03 | 2021-06-04 | 2022-10-06 |
 | [Spider in the Roses \(feat\. Rob the Man\)](https://open.spotify.com/track/7GRjFivuEaOyRMYcKGryXz) | [Sonia Leigh](https://open.spotify.com/artist/6xezzx8L2FAC0MsGZSRLxg), [Daphne Willis](https://open.spotify.com/artist/40Qm9cpj6FlrkoL1sziJ2S), [Rob the Man](https://open.spotify.com/artist/3jO133hmnKXdj74oUVnEyr) | [Spider in the Roses \(feat\. Rob the Man\)](https://open.spotify.com/album/6gyyN6PWr0zYPg5y3EUOwf) | 3:22 | 2021-06-04 |  |
 | [Stompa](https://open.spotify.com/track/4kGcW4Tn87Lm9s6pp5a5vM) | [Serena Ryder](https://open.spotify.com/artist/3jmxkI8Jhv8bHOd2qSiU9j) | [Harmony](https://open.spotify.com/album/3SvhxjlhwjIc8KkZcBNd0y) | 3:39 | 2021-06-04 | 2022-05-04 |
 | [Stompa](https://open.spotify.com/track/3zIEvMYvCM0jiszho8jaFH) | [Serena Ryder](https://open.spotify.com/artist/3jmxkI8Jhv8bHOd2qSiU9j) | [Harmony \(Deluxe\)](https://open.spotify.com/album/41GCX8kXBOD5gJbv9d2BD7) | 3:41 | 2022-07-22 |  |
 | [Tell That Devil](https://open.spotify.com/track/4wU4XL8nX0we6MXgmFAmnh) | [Jill Andrews](https://open.spotify.com/artist/35VpsbV6V2NdfTeNZEbKfc) | [Tell That Devil](https://open.spotify.com/album/4SUzxP2sBgdjiogiNlbSaw) | 2:38 | 2021-06-04 |  |
 | [The Dark](https://open.spotify.com/track/1YEFAgWvotBS9MumZj20Sx) | [ZZ Ward](https://open.spotify.com/artist/7aJSIsbI5wV8aFi2kkFfPi) | [The Dark](https://open.spotify.com/album/7FlhRjt9wm2R7Kxypf6K9j) | 2:59 | 2021-06-04 | 2022-09-22 |
+| [The Dark](https://open.spotify.com/track/14e2jOLYQO9xPLqQKU9dCW) | [ZZ Ward](https://open.spotify.com/artist/7aJSIsbI5wV8aFi2kkFfPi) | [The Dark](https://open.spotify.com/album/3SA0R1i0Edc7JOvvhqni06) | 3:01 | 2022-07-22 |  |
 | [The High Road](https://open.spotify.com/track/3fOJ7Wp6b7Gg6vpX3OAFLM) | [Joss Stone](https://open.spotify.com/artist/7bvcQXJHkFiN1ppIN3q4fi) | [The Soul Sessions, Vol\. 2 \(Deluxe Edition\)](https://open.spotify.com/album/1KOK73mQjuJraMMAJFNBxO) | 4:39 | 2021-06-04 | 2022-07-24 |
 | [The High Road](https://open.spotify.com/track/4pzFGh9NGkmnaZnFiTAoFb) | [Joss Stone](https://open.spotify.com/artist/7bvcQXJHkFiN1ppIN3q4fi) | [The Soul Sessions, Vol\. 2 \(Deluxe Edition\)](https://open.spotify.com/album/5zkhFfJEVeDAIZUMt5evAd) | 4:39 | 2022-07-22 |  |
 | [The Touch](https://open.spotify.com/track/5uUv74gkYBFYMGkS0D4cuW) | [Cathy Davey](https://open.spotify.com/artist/1HwEmZUm1VIh3VLmyMLa3g) | [The Nameless \(expanded edition\)](https://open.spotify.com/album/2gOdx3I0TgGLYynQmR876n) | 3:56 | 2021-06-04 |  |

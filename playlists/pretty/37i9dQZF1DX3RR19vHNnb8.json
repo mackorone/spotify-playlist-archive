@@ -1,12 +1,12 @@
 {
   "description": "Hip hop tracks to kick your workout up a notch",
-  "num_followers": 4120,
+  "num_followers": 4292,
   "original_name": "Pump it Up ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDUzNDU4MiwwMDAwMDAwMDUwN2M0NGIxYWEwMWY4MzRhOWRhZjg2MGM3MGJiY2Q0",
+  "snapshot_id": "MTY2NDUzNDU4MiwwMDAwMDAwMDQ1NGJiYTBlOGY0Y2E4YjNlNzY1OGYzYTkxZTc5Nzc2",
   "tracks": [
     {
       "added_at": "2022-07-28 23:00:00",
@@ -45,6 +45,22 @@
       "url": "https://open.spotify.com/track/531KGXtBroSrOX9LVmiIgc"
     },
     {
+      "added_at": "2021-02-22 19:09:40",
+      "album": {
+        "name": "ASTROWORLD",
+        "url": "https://open.spotify.com/album/41GuZcammIkupMPKH2OJ6I"
+      },
+      "artists": [
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        }
+      ],
+      "duration_ms": 190557,
+      "name": "BUTTERFLY EFFECT",
+      "url": "https://open.spotify.com/track/2cYqizR4lgvp4Qu6IQ3qGN"
+    },
+    {
       "added_at": "2022-06-30 23:00:00",
       "album": {
         "name": "Hot Shit (feat. Ye & Lil Durk)",
@@ -67,22 +83,6 @@
       "duration_ms": 211649,
       "name": "Hot Shit (feat. Ye & Lil Durk)",
       "url": "https://open.spotify.com/track/3uJFmluXzYedoJcvhpC1AW"
-    },
-    {
-      "added_at": "2021-02-22 19:09:40",
-      "album": {
-        "name": "ASTROWORLD",
-        "url": "https://open.spotify.com/album/41GuZcammIkupMPKH2OJ6I"
-      },
-      "artists": [
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
-        }
-      ],
-      "duration_ms": 190557,
-      "name": "BUTTERFLY EFFECT",
-      "url": "https://open.spotify.com/track/2cYqizR4lgvp4Qu6IQ3qGN"
     },
     {
       "added_at": "2022-08-25 23:00:00",
@@ -173,46 +173,6 @@
       "url": "https://open.spotify.com/track/5vhrsx08dHh2QcVh1Rsiwt"
     },
     {
-      "added_at": "2022-02-03 23:02:00",
-      "album": {
-        "name": "Do We Have A Problem?",
-        "url": "https://open.spotify.com/album/1fDcx48pkgRmOXQ3weT0ct"
-      },
-      "artists": [
-        {
-          "name": "Nicki Minaj",
-          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
-        },
-        {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
-        }
-      ],
-      "duration_ms": 207065,
-      "name": "Do We Have A Problem?",
-      "url": "https://open.spotify.com/track/1PNs0uGru3TcrA94kpyGnc"
-    },
-    {
-      "added_at": "2022-01-27 23:00:00",
-      "album": {
-        "name": "Rumors (feat. Lil Durk)",
-        "url": "https://open.spotify.com/album/7x2jRqKRTESzM0A8vBOJIM"
-      },
-      "artists": [
-        {
-          "name": "Gucci Mane",
-          "url": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
-        },
-        {
-          "name": "Lil Durk",
-          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
-        }
-      ],
-      "duration_ms": 185855,
-      "name": "Rumors (feat. Lil Durk)",
-      "url": "https://open.spotify.com/track/0P2P1AxcRYhiZvoF5MyRmM"
-    },
-    {
       "added_at": "2021-07-09 00:00:00",
       "album": {
         "name": "Clash (feat. Stormzy)",
@@ -233,24 +193,24 @@
       "url": "https://open.spotify.com/track/2oUwMN5VfdGX10XeQJLBBi"
     },
     {
-      "added_at": "2021-09-09 23:00:00",
+      "added_at": "2022-01-27 23:00:00",
       "album": {
-        "name": "Lonely (with Lil Wayne)",
-        "url": "https://open.spotify.com/album/6PwnWA19E1JThqWMdRrj6l"
+        "name": "Rumors (feat. Lil Durk)",
+        "url": "https://open.spotify.com/album/7x2jRqKRTESzM0A8vBOJIM"
       },
       "artists": [
         {
-          "name": "DaBaby",
-          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
+          "name": "Gucci Mane",
+          "url": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
         },
         {
-          "name": "Lil Wayne",
-          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
         }
       ],
-      "duration_ms": 154432,
-      "name": "Lonely (with Lil Wayne)",
-      "url": "https://open.spotify.com/track/6pmNoWKk0r6zfIjWneJRxR"
+      "duration_ms": 185855,
+      "name": "Rumors (feat. Lil Durk)",
+      "url": "https://open.spotify.com/track/0P2P1AxcRYhiZvoF5MyRmM"
     },
     {
       "added_at": "2022-08-25 23:00:00",
@@ -275,6 +235,46 @@
       "duration_ms": 170197,
       "name": "IT AIN'T SAFE (feat. Nardo Wick & Kodak Black)",
       "url": "https://open.spotify.com/track/2d4XHh61JufZpNdm88TXXx"
+    },
+    {
+      "added_at": "2022-02-03 23:02:00",
+      "album": {
+        "name": "Do We Have A Problem?",
+        "url": "https://open.spotify.com/album/1fDcx48pkgRmOXQ3weT0ct"
+      },
+      "artists": [
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        },
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "duration_ms": 207065,
+      "name": "Do We Have A Problem?",
+      "url": "https://open.spotify.com/track/1PNs0uGru3TcrA94kpyGnc"
+    },
+    {
+      "added_at": "2021-09-09 23:00:00",
+      "album": {
+        "name": "Lonely (with Lil Wayne)",
+        "url": "https://open.spotify.com/album/6PwnWA19E1JThqWMdRrj6l"
+      },
+      "artists": [
+        {
+          "name": "DaBaby",
+          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
+        },
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        }
+      ],
+      "duration_ms": 154432,
+      "name": "Lonely (with Lil Wayne)",
+      "url": "https://open.spotify.com/track/6pmNoWKk0r6zfIjWneJRxR"
     },
     {
       "added_at": "2021-07-09 00:00:00",
@@ -337,7 +337,7 @@
       "url": "https://open.spotify.com/track/7pXNFEzqeZB8rIbcFtYTop"
     },
     {
-      "added_at": "2022-10-02 01:44:54",
+      "added_at": "2022-10-10 01:43:48",
       "album": {
         "name": "Yenda",
         "url": "https://open.spotify.com/album/1baZLRUcO2HmEXWrxoG5Mp"
@@ -397,6 +397,46 @@
       "url": "https://open.spotify.com/track/4wvnXoQqjIOoEis5eyTbCl"
     },
     {
+      "added_at": "2021-10-01 05:37:36",
+      "album": {
+        "name": "Want It All (feat. Polo G)",
+        "url": "https://open.spotify.com/album/4sfZvwEahjF7he9xtv3Ftf"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        },
+        {
+          "name": "Polo G",
+          "url": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
+        }
+      ],
+      "duration_ms": 232500,
+      "name": "Want It All (feat. Polo G)",
+      "url": "https://open.spotify.com/track/45s98gUcOcj5nJeFDNLH2g"
+    },
+    {
+      "added_at": "2021-08-20 00:00:00",
+      "album": {
+        "name": "Wid It",
+        "url": "https://open.spotify.com/album/5qsRFx2DlnekN322qt1UZM"
+      },
+      "artists": [
+        {
+          "name": "Tion Wayne",
+          "url": "https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt"
+        },
+        {
+          "name": "ArrDee",
+          "url": "https://open.spotify.com/artist/7m0BsF0t3K9WQFgKoPejfk"
+        }
+      ],
+      "duration_ms": 181058,
+      "name": "Wid It",
+      "url": "https://open.spotify.com/track/4Go2u6SexdY2Qxo0oHMIzE"
+    },
+    {
       "added_at": "2022-06-23 23:09:00",
       "album": {
         "name": "Montega",
@@ -421,26 +461,6 @@
       "url": "https://open.spotify.com/track/6UX9WrpJFv5LZW4hTH6svZ"
     },
     {
-      "added_at": "2021-08-20 00:00:00",
-      "album": {
-        "name": "Wid It",
-        "url": "https://open.spotify.com/album/5qsRFx2DlnekN322qt1UZM"
-      },
-      "artists": [
-        {
-          "name": "Tion Wayne",
-          "url": "https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt"
-        },
-        {
-          "name": "ArrDee",
-          "url": "https://open.spotify.com/artist/7m0BsF0t3K9WQFgKoPejfk"
-        }
-      ],
-      "duration_ms": 181058,
-      "name": "Wid It",
-      "url": "https://open.spotify.com/track/4Go2u6SexdY2Qxo0oHMIzE"
-    },
-    {
       "added_at": "2022-02-24 23:00:00",
       "album": {
         "name": "Always (feat. Black Sherif)",
@@ -459,6 +479,26 @@
       "duration_ms": 154957,
       "name": "Always (feat. Black Sherif)",
       "url": "https://open.spotify.com/track/2koM4vqlpUzeRbNkjsDBwF"
+    },
+    {
+      "added_at": "2021-12-09 23:01:00",
+      "album": {
+        "name": "Second Sermon (Remix)",
+        "url": "https://open.spotify.com/album/2YaqeghqhsIi2u9fQjGBsq"
+      },
+      "artists": [
+        {
+          "name": "Black Sherif",
+          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
+        },
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "duration_ms": 194863,
+      "name": "Second Sermon - Remix",
+      "url": "https://open.spotify.com/track/574QNMkQGedluLOgr275s9"
     },
     {
       "added_at": "2022-02-11 00:00:00",
@@ -499,46 +539,6 @@
       "duration_ms": 183333,
       "name": "Poke It Out (feat. J. Cole)",
       "url": "https://open.spotify.com/track/1IeCWMwZs4rCmwPOjZYWN7"
-    },
-    {
-      "added_at": "2021-10-01 05:37:36",
-      "album": {
-        "name": "Want It All (feat. Polo G)",
-        "url": "https://open.spotify.com/album/4sfZvwEahjF7he9xtv3Ftf"
-      },
-      "artists": [
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        },
-        {
-          "name": "Polo G",
-          "url": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
-        }
-      ],
-      "duration_ms": 232500,
-      "name": "Want It All (feat. Polo G)",
-      "url": "https://open.spotify.com/track/45s98gUcOcj5nJeFDNLH2g"
-    },
-    {
-      "added_at": "2021-12-09 23:01:00",
-      "album": {
-        "name": "Second Sermon (Remix)",
-        "url": "https://open.spotify.com/album/2YaqeghqhsIi2u9fQjGBsq"
-      },
-      "artists": [
-        {
-          "name": "Black Sherif",
-          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
-        },
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        }
-      ],
-      "duration_ms": 194863,
-      "name": "Second Sermon - Remix",
-      "url": "https://open.spotify.com/track/574QNMkQGedluLOgr275s9"
     },
     {
       "added_at": "2021-06-07 14:17:55",
@@ -593,6 +593,42 @@
       "url": "https://open.spotify.com/track/1neQ0MJbFV4O1eYwa7Hj2x"
     },
     {
+      "added_at": "2022-01-27 23:00:00",
+      "album": {
+        "name": "Cold Shoulder",
+        "url": "https://open.spotify.com/album/0bWnbeYmuDqmzJNTbhijub"
+      },
+      "artists": [
+        {
+          "name": "Central Cee",
+          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
+        }
+      ],
+      "duration_ms": 192340,
+      "name": "Cold Shoulder",
+      "url": "https://open.spotify.com/track/0Ezi0P8N5aVQNaOKnJ3MHz"
+    },
+    {
+      "added_at": "2021-09-09 23:00:00",
+      "album": {
+        "name": "Blue Notes 2 (feat. Lil Uzi Vert)",
+        "url": "https://open.spotify.com/album/3QvNSOIhsgI8od9CMLbMye"
+      },
+      "artists": [
+        {
+          "name": "Meek Mill",
+          "url": "https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc"
+        },
+        {
+          "name": "Lil Uzi Vert",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+        }
+      ],
+      "duration_ms": 230400,
+      "name": "Blue Notes 2 (feat. Lil Uzi Vert)",
+      "url": "https://open.spotify.com/track/488HG8lR11JswT2YgcWGRB"
+    },
+    {
       "added_at": "2022-08-05 07:55:34",
       "album": {
         "name": "STAYING ALIVE (feat. Drake & Lil Baby)",
@@ -617,22 +653,6 @@
       "url": "https://open.spotify.com/track/36YpCIK6NmhC9i6bvcwcdm"
     },
     {
-      "added_at": "2022-01-27 23:00:00",
-      "album": {
-        "name": "Cold Shoulder",
-        "url": "https://open.spotify.com/album/0bWnbeYmuDqmzJNTbhijub"
-      },
-      "artists": [
-        {
-          "name": "Central Cee",
-          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
-        }
-      ],
-      "duration_ms": 192340,
-      "name": "Cold Shoulder",
-      "url": "https://open.spotify.com/track/0Ezi0P8N5aVQNaOKnJ3MHz"
-    },
-    {
       "added_at": "2022-06-30 23:00:00",
       "album": {
         "name": "Bigger Than Life",
@@ -651,6 +671,26 @@
       "duration_ms": 160106,
       "name": "Bigger Than Life",
       "url": "https://open.spotify.com/track/5PqO45k0bwz7idhZYdbHSY"
+    },
+    {
+      "added_at": "2021-02-22 19:09:40",
+      "album": {
+        "name": "Made In Lagos",
+        "url": "https://open.spotify.com/album/6HpMdN52TfJAwVbmkrFeBN"
+      },
+      "artists": [
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        },
+        {
+          "name": "Skepta",
+          "url": "https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN"
+        }
+      ],
+      "duration_ms": 239893,
+      "name": "Longtime (feat. Skepta)",
+      "url": "https://open.spotify.com/track/1JiR4RJaZlbZ5b3HG8jkeL"
     },
     {
       "added_at": "2022-04-07 23:00:00",
@@ -675,46 +715,6 @@
       "duration_ms": 209314,
       "name": "Neck & Wrist (feat. JAY-Z & Pharrell)",
       "url": "https://open.spotify.com/track/5QNW6Vx14N4OfJ7D0eDg0d"
-    },
-    {
-      "added_at": "2021-09-09 23:00:00",
-      "album": {
-        "name": "Blue Notes 2 (feat. Lil Uzi Vert)",
-        "url": "https://open.spotify.com/album/3QvNSOIhsgI8od9CMLbMye"
-      },
-      "artists": [
-        {
-          "name": "Meek Mill",
-          "url": "https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc"
-        },
-        {
-          "name": "Lil Uzi Vert",
-          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
-        }
-      ],
-      "duration_ms": 230400,
-      "name": "Blue Notes 2 (feat. Lil Uzi Vert)",
-      "url": "https://open.spotify.com/track/488HG8lR11JswT2YgcWGRB"
-    },
-    {
-      "added_at": "2021-02-22 19:09:40",
-      "album": {
-        "name": "Made In Lagos",
-        "url": "https://open.spotify.com/album/6HpMdN52TfJAwVbmkrFeBN"
-      },
-      "artists": [
-        {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        },
-        {
-          "name": "Skepta",
-          "url": "https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN"
-        }
-      ],
-      "duration_ms": 239893,
-      "name": "Longtime (feat. Skepta)",
-      "url": "https://open.spotify.com/track/1JiR4RJaZlbZ5b3HG8jkeL"
     },
     {
       "added_at": "2021-07-16 00:00:00",
@@ -809,6 +809,22 @@
       "url": "https://open.spotify.com/track/3vMItL2i0J010aWIw1YUwr"
     },
     {
+      "added_at": "2021-06-07 14:17:55",
+      "album": {
+        "name": "First Sermon",
+        "url": "https://open.spotify.com/album/5U2r0XU9TAO8nASyLMC8GC"
+      },
+      "artists": [
+        {
+          "name": "Black Sherif",
+          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
+        }
+      ],
+      "duration_ms": 185362,
+      "name": "First Sermon",
+      "url": "https://open.spotify.com/track/1eJ1pgxRJWi0LYPbS9CxS3"
+    },
+    {
       "added_at": "2022-02-24 23:00:00",
       "album": {
         "name": "Hate Me",
@@ -849,26 +865,6 @@
       "url": "https://open.spotify.com/track/5laAdwuT8EEvkIXrmrhRSB"
     },
     {
-      "added_at": "2021-02-22 19:09:40",
-      "album": {
-        "name": "EDNA (Deluxe)",
-        "url": "https://open.spotify.com/album/4KxJRAHWvrJSIeftGB9PHP"
-      },
-      "artists": [
-        {
-          "name": "Headie One",
-          "url": "https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh"
-        },
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        }
-      ],
-      "duration_ms": 173493,
-      "name": "Siberia (feat. Burna Boy)",
-      "url": "https://open.spotify.com/track/0lgUn1bN5txujF60W7YAbv"
-    },
-    {
       "added_at": "2021-12-02 23:01:00",
       "album": {
         "name": "Connecting the Dots",
@@ -901,20 +897,24 @@
       "url": "https://open.spotify.com/track/7eWoPZVIC0RzgFghNDrLbQ"
     },
     {
-      "added_at": "2021-06-07 14:17:55",
+      "added_at": "2021-02-22 19:09:40",
       "album": {
-        "name": "First Sermon",
-        "url": "https://open.spotify.com/album/5U2r0XU9TAO8nASyLMC8GC"
+        "name": "EDNA (Deluxe)",
+        "url": "https://open.spotify.com/album/4KxJRAHWvrJSIeftGB9PHP"
       },
       "artists": [
         {
-          "name": "Black Sherif",
-          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
+          "name": "Headie One",
+          "url": "https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh"
+        },
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
         }
       ],
-      "duration_ms": 185362,
-      "name": "First Sermon",
-      "url": "https://open.spotify.com/track/1eJ1pgxRJWi0LYPbS9CxS3"
+      "duration_ms": 173493,
+      "name": "Siberia (feat. Burna Boy)",
+      "url": "https://open.spotify.com/track/0lgUn1bN5txujF60W7YAbv"
     },
     {
       "added_at": "2022-04-14 23:00:00",
@@ -935,26 +935,6 @@
       "duration_ms": 195590,
       "name": "Last One Left (feat. Roddy Ricch)",
       "url": "https://open.spotify.com/track/6hUoVMWls2K9oYSNBFlYU6"
-    },
-    {
-      "added_at": "2021-09-17 04:29:51",
-      "album": {
-        "name": "Green With Envy",
-        "url": "https://open.spotify.com/album/4YWgs2cK2u6lrIzM9Ve2wc"
-      },
-      "artists": [
-        {
-          "name": "Tion Wayne",
-          "url": "https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt"
-        },
-        {
-          "name": "NSG",
-          "url": "https://open.spotify.com/artist/31Ua7zSTJxegjyd49ujbSA"
-        }
-      ],
-      "duration_ms": 258950,
-      "name": "Loyal (feat. NSG)",
-      "url": "https://open.spotify.com/track/5XDJOlzaw1FCsz75I6Vjuh"
     },
     {
       "added_at": "2021-11-18 23:01:00",
@@ -981,6 +961,26 @@
       "url": "https://open.spotify.com/track/1Crv7EI1sdcy07OlvvoA2Y"
     },
     {
+      "added_at": "2022-09-30 06:48:44",
+      "album": {
+        "name": "O Di Dan Dan",
+        "url": "https://open.spotify.com/album/3g0AJa6WAwfArIjzyGR6yh"
+      },
+      "artists": [
+        {
+          "name": "Offica",
+          "url": "https://open.spotify.com/artist/3z9G13I73VCCZgf2j7i8q2"
+        },
+        {
+          "name": "D'banj",
+          "url": "https://open.spotify.com/artist/5RCdjio4ASMQ8CFaSuAl6C"
+        }
+      ],
+      "duration_ms": 135000,
+      "name": "O Di Dan Dan",
+      "url": "https://open.spotify.com/track/4Acj2QINn1T6kewzEmQKZu"
+    },
+    {
       "added_at": "2022-07-28 23:00:00",
       "album": {
         "name": "Unload",
@@ -1001,20 +1001,24 @@
       "url": "https://open.spotify.com/track/0be1HYcKx12wNtKMV8u9RE"
     },
     {
-      "added_at": "2022-04-21 23:00:00",
+      "added_at": "2021-09-17 04:29:51",
       "album": {
-        "name": "SKI",
-        "url": "https://open.spotify.com/album/24rTvY9feCnZe0SLsLdzbF"
+        "name": "Green With Envy",
+        "url": "https://open.spotify.com/album/4YWgs2cK2u6lrIzM9Ve2wc"
       },
       "artists": [
         {
-          "name": "Khaid",
-          "url": "https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP"
+          "name": "Tion Wayne",
+          "url": "https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt"
+        },
+        {
+          "name": "NSG",
+          "url": "https://open.spotify.com/artist/31Ua7zSTJxegjyd49ujbSA"
         }
       ],
-      "duration_ms": 154285,
-      "name": "SKI",
-      "url": "https://open.spotify.com/track/1vE1nV0Q3t9gcw6ZlZ0yJT"
+      "duration_ms": 258950,
+      "name": "Loyal (feat. NSG)",
+      "url": "https://open.spotify.com/track/5XDJOlzaw1FCsz75I6Vjuh"
     }
   ],
   "unique_name": "Pump it Up ",

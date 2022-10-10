@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The hottest new pop with the all the drops. Cover: ella jane",
+  "description": "The hottest new pop with the all the drops. Cover: Alok, Ellie Goulding and Sigala",
   "name": "Fresh Dance Pop",
   "published_playlist_ids": [
     "0Wt1WNhsHEp62QHeiMAcMq"
@@ -269,6 +269,32 @@
       "duration_ms": 165858,
       "name": "Alien",
       "url": "https://open.spotify.com/track/6VBLbFCArFuTTEXFlQFZZs"
+    },
+    {
+      "album": {
+        "name": "All By Myself",
+        "url": "https://open.spotify.com/album/3lAmnw0gNntYuTltwETnSn"
+      },
+      "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "Sigala",
+          "url": "https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN"
+        },
+        {
+          "name": "Ellie Goulding",
+          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171747,
+      "name": "All By Myself",
+      "url": "https://open.spotify.com/track/5Hp4xFihdOE2dmDzxWcBFb"
     },
     {
       "album": {
@@ -3928,6 +3954,24 @@
     },
     {
       "album": {
+        "name": "Lovesick",
+        "url": "https://open.spotify.com/album/7aGIguck0AadCRMNP5fEZX"
+      },
+      "artists": [
+        {
+          "name": "Non\u00f4",
+          "url": "https://open.spotify.com/artist/2izgj6WOKJsuCRCQUKOoVO"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151024,
+      "name": "Lovesick",
+      "url": "https://open.spotify.com/track/2bsygdSQc5XZfvRm1BA0H5"
+    },
+    {
+      "album": {
         "name": "MADELINE",
         "url": "https://open.spotify.com/album/5x9JJzj5K9J6IldkIMonXM"
       },
@@ -4031,6 +4075,24 @@
       "duration_ms": 206000,
       "name": "Make You Say",
       "url": "https://open.spotify.com/track/1elhmWW7Bv0MOQj2gAsyoV"
+    },
+    {
+      "album": {
+        "name": "Man Down",
+        "url": "https://open.spotify.com/album/6TUYPHDNBAmuKnnlo2em1U"
+      },
+      "artists": [
+        {
+          "name": "CuteBad",
+          "url": "https://open.spotify.com/artist/09FEhj90tAtYK9WDdWfgeP"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206640,
+      "name": "Man Down",
+      "url": "https://open.spotify.com/track/1JtT3iKqfQLZJufR9L965v"
     },
     {
       "album": {
@@ -5248,6 +5310,24 @@
     },
     {
       "album": {
+        "name": "Rich B!tch",
+        "url": "https://open.spotify.com/album/0rN9Wp6354C9lyGGP5jWZd"
+      },
+      "artists": [
+        {
+          "name": "Rosse",
+          "url": "https://open.spotify.com/artist/0rUWPf3mbRGeUusm1P3Z4i"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159384,
+      "name": "Rich B!tch",
+      "url": "https://open.spotify.com/track/1SNNwV0FOTPZK32dLoqdQg"
+    },
+    {
+      "album": {
         "name": "Riptide",
         "url": "https://open.spotify.com/album/2iwWXnXWMxBKOT9248uBAG"
       },
@@ -5670,6 +5750,28 @@
     },
     {
       "album": {
+        "name": "Scandalous (with Tinashe)",
+        "url": "https://open.spotify.com/album/2EHnywdcT0XROIxAK8VIoP"
+      },
+      "artists": [
+        {
+          "name": "Gryffin",
+          "url": "https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh"
+        },
+        {
+          "name": "Tinashe",
+          "url": "https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159252,
+      "name": "Scandalous (with Tinashe)",
+      "url": "https://open.spotify.com/track/0HoDk4kVVbMfdBm5yy8jZq"
+    },
+    {
+      "album": {
         "name": "Sci-Fi",
         "url": "https://open.spotify.com/album/1aVp3b9xC3Wrc0du10sDBu"
       },
@@ -5933,7 +6035,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 191098,
       "name": "Somebody Like U",
       "url": "https://open.spotify.com/track/2uDyv5rw4333xY5obTeByt"
@@ -6009,6 +6111,28 @@
       "duration_ms": 171887,
       "name": "State of Mind",
       "url": "https://open.spotify.com/track/0aE9iWVdcwjffBjuydP2Em"
+    },
+    {
+      "album": {
+        "name": "State Of My Heart",
+        "url": "https://open.spotify.com/album/7wShfmCoQeQI9abSH3zlN5"
+      },
+      "artists": [
+        {
+          "name": "Surf Mesa",
+          "url": "https://open.spotify.com/artist/1lmU3giNF3CSbkVSQmLpHQ"
+        },
+        {
+          "name": "Nat Dunn",
+          "url": "https://open.spotify.com/artist/6uNiUxDeo17yUnA472Zhni"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176122,
+      "name": "State Of My Heart",
+      "url": "https://open.spotify.com/track/2wPG888F5AMkxILKc9Pc3Q"
     },
     {
       "album": {
@@ -6841,10 +6965,28 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-07",
       "duration_ms": 171880,
       "name": "Twennies",
       "url": "https://open.spotify.com/track/28LNs1oQ8met8Ul8p8RHbe"
+    },
+    {
+      "album": {
+        "name": "Twennies",
+        "url": "https://open.spotify.com/album/0WTmYak2Ws78H1nxSJim9m"
+      },
+      "artists": [
+        {
+          "name": "Dragonette",
+          "url": "https://open.spotify.com/artist/4GLJPBj5Cdr9AgLKvLWM4n"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171880,
+      "name": "Twennies",
+      "url": "https://open.spotify.com/track/2JKUKfXVAGuaEHLZKEzXFH"
     },
     {
       "album": {

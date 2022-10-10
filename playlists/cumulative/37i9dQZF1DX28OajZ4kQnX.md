@@ -4,7 +4,7 @@
 
 > Kick it with some of the hottest bars from Uganda +256
 
-50 songs - 2 hr 45 min - not published yet
+50 songs - 2 hr 45 min - [published](https://open.spotify.com/playlist/6huaxOIVGcotGlqbksbqmW)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

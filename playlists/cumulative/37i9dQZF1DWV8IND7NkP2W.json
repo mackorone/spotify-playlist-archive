@@ -3430,6 +3430,42 @@
     },
     {
       "album": {
+        "name": "Water",
+        "url": "https://open.spotify.com/album/3Tye56Yi85arJp0l5LT6IC"
+      },
+      "artists": [
+        {
+          "name": "ORANCHA",
+          "url": "https://open.spotify.com/artist/2qF0nxmV3bJDUBGwnJ0xSp"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-08",
+      "duration_ms": 224000,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/3wysWXmxGlyI6IiY3prpYK"
+    },
+    {
+      "album": {
+        "name": "Water",
+        "url": "https://open.spotify.com/album/410FsKhVRXwSwirbTh7e4I"
+      },
+      "artists": [
+        {
+          "name": "ORANCHA",
+          "url": "https://open.spotify.com/artist/2qF0nxmV3bJDUBGwnJ0xSp"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224000,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/4sSfjd21b8ipFXaJfM5mV0"
+    },
+    {
+      "album": {
         "name": "Nostalgic Rain",
         "url": "https://open.spotify.com/album/2Npx9E4iJAg08fHM5sIZf5"
       },
@@ -3719,7 +3755,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-11",
+      "date_removed": null,
       "duration_ms": 184000,
       "name": "ingenuity",
       "url": "https://open.spotify.com/track/7Fc6xaWktLjTFh2pkXPWPs"
@@ -3759,7 +3795,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-23",
+      "date_removed": null,
       "duration_ms": 176303,
       "name": "INNER CHILD",
       "url": "https://open.spotify.com/track/0UN76wlPdYnG5O6V0qORZq"
@@ -6971,7 +7007,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-02",
+      "date_removed": "2022-10-09",
       "duration_ms": 121379,
       "name": "Roses",
       "url": "https://open.spotify.com/track/4forOnJFDg4OZt8b7exjET"
@@ -7644,6 +7680,24 @@
     },
     {
       "album": {
+        "name": "Lonely Girl",
+        "url": "https://open.spotify.com/album/4ni82roXtsWZccH6LDOAVO"
+      },
+      "artists": [
+        {
+          "name": "maeshima soshi",
+          "url": "https://open.spotify.com/artist/4O49GHbECmNppFvzK0WZXf"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198000,
+      "name": "sora no kanata",
+      "url": "https://open.spotify.com/track/220qwCrb8vPdRPQqzzG24l"
+    },
+    {
+      "album": {
         "name": "sora no kanata",
         "url": "https://open.spotify.com/album/35qhWebItQ3GV3QS7o56Cw"
       },
@@ -8013,7 +8067,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-04",
       "duration_ms": 125130,
       "name": "stricta",
       "url": "https://open.spotify.com/track/6sToZx4pAeSkSyfxR1RX5c"
@@ -8075,7 +8129,7 @@
       ],
       "date_added": "2022-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-09",
       "duration_ms": 170109,
       "name": "Summer",
       "url": "https://open.spotify.com/track/5MiOE2c54a1YLuQ23ClpKv"
@@ -8277,7 +8331,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-07",
       "duration_ms": 158117,
       "name": "Swing",
       "url": "https://open.spotify.com/track/03EMUB8q3QAkssNRXzTC6f"
@@ -9205,7 +9259,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-09",
       "duration_ms": 144950,
       "name": "Watermelon",
       "url": "https://open.spotify.com/track/0TvOd8xIdLDskPEgrpb0XF"

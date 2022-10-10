@@ -567,6 +567,24 @@
     {
       "album": {
         "name": "Leylines",
+        "url": "https://open.spotify.com/album/4gwfotwBZc0PPZ2evoPh2G"
+      },
+      "artists": [
+        {
+          "name": "Rising Appalachia",
+          "url": "https://open.spotify.com/artist/3I6e2ZqqoxQhXc9z7Tp5ci"
+        }
+      ],
+      "date_added": "2020-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 307880,
+      "name": "Harmonize",
+      "url": "https://open.spotify.com/track/646D2x7itBIgPstjfGB2Mh"
+    },
+    {
+      "album": {
+        "name": "Leylines",
         "url": "https://open.spotify.com/album/6nGSseeEzhTHlK2z4R2xQE"
       },
       "artists": [
@@ -649,7 +667,7 @@
       ],
       "date_added": "2020-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-03",
       "duration_ms": 242789,
       "name": "I'll Be There",
       "url": "https://open.spotify.com/track/0p4Zer7G4eU6vN87qPqq6M"
@@ -1131,6 +1149,24 @@
     {
       "album": {
         "name": "Sometimes I",
+        "url": "https://open.spotify.com/album/3acnEcu23lZXhYda51Nzpp"
+      },
+      "artists": [
+        {
+          "name": "Rising Appalachia",
+          "url": "https://open.spotify.com/artist/3I6e2ZqqoxQhXc9z7Tp5ci"
+        }
+      ],
+      "date_added": "2020-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 377258,
+      "name": "Sometimes I",
+      "url": "https://open.spotify.com/track/4lS9Ni8jEjk5ffXDTSYkSp"
+    },
+    {
+      "album": {
+        "name": "Sometimes I",
         "url": "https://open.spotify.com/album/16bQ6nIkVt3GrGNFOyiGIX"
       },
       "artists": [
@@ -1489,7 +1525,7 @@
       ],
       "date_added": "2020-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-09",
       "duration_ms": 260171,
       "name": "Uneven Days",
       "url": "https://open.spotify.com/track/5NQhbua3fjGBeIUDDq1ozD"
@@ -1543,7 +1579,7 @@
       ],
       "date_added": "2020-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-03",
       "duration_ms": 233978,
       "name": "Warm Under the Light",
       "url": "https://open.spotify.com/track/5p4ydBPTPRhhQ6mWTWswXJ"
@@ -1561,7 +1597,7 @@
       ],
       "date_added": "2020-11-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-02",
+      "date_removed": null,
       "duration_ms": 234000,
       "name": "Warm Under the Light",
       "url": "https://open.spotify.com/track/0BKLqsA3UH88WgyGGhJy6W"

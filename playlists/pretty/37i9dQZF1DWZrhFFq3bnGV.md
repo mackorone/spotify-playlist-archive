@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZrhFFq3bnGV.md) - [plain]
 
 > Terbuai dengan musik Jazz dari negeri sendiri\. Cover: Joey Alexander
 
-[Spotify](https://open.spotify.com/user/spotify) - 97,482 likes - 76 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 97,573 likes - 76 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZrhFFq3bnGV.md) - [plain]
 | 3 | [Sangfroid](https://open.spotify.com/track/7tng7M3wHsQSLBslv2i9Nd) | [Littlefingers](https://open.spotify.com/artist/7lNcVBJDzjh6sKNIiuh9kU) | [Sangfroid](https://open.spotify.com/album/6jnZR9Unzi708wR0T3vMHe) | 5:00 |
 | 4 | [The Way You Make Me Feel](https://open.spotify.com/track/7sncCClNIeE5i54JrkirGI) | [Nenei](https://open.spotify.com/artist/7675AXKo73FqKM9RDrGbf7), [Jazzystics](https://open.spotify.com/artist/593TG88zhlcUxEYmhMYeIG) | [The Way You Make Me Feel](https://open.spotify.com/album/3RjLQCopcBOikdCe19NVtH) | 3:40 |
 | 5 | [Kembali Bersama](https://open.spotify.com/track/5uCEXd94GXJrediRWmF9Mx) | [Sequoia Projects](https://open.spotify.com/artist/3yyjWdipsrJk6edPtRUpfF), [Danto](https://open.spotify.com/artist/63mbkvcPnMSd4vmPNsASSZ) | [Kembali Bersama](https://open.spotify.com/album/41fNuj0KJtHoR3Rger2nfL) | 4:00 |
-| 6 | [Irene](https://open.spotify.com/track/5bF3msuuAcyU316UptpKRg) | [Jordy Waelauruw](https://open.spotify.com/artist/3oECPG2Aqe2bo0LrcSJQ0H) | [Colo Colo 1](https://open.spotify.com/album/2zpVHyMwkO320BFTdx1XJb) | 2:13 |
+| 6 | [Irene](https://open.spotify.com/track/3X4MD6lxv735qEsBi3A28I) | [Jordy Waelauruw](https://open.spotify.com/artist/3oECPG2Aqe2bo0LrcSJQ0H) | [Colo Colo 1](https://open.spotify.com/album/446K6I2l2siYhS7mEW5I9q) | 2:13 |
 | 7 | [Wait for the Dawn](https://open.spotify.com/track/5xXqZbC3DMdMRUAgMHWDnK) | [Echa Soemantri](https://open.spotify.com/artist/4iiKBvCYsDz8Jes3XX04JX) | [Wait for the Dawn](https://open.spotify.com/album/2H8Q69oCxEXHGQR5cRx4Ee) | 4:58 |
 | 8 | [Little Bit Simple \- Instrumental Version](https://open.spotify.com/track/0vlnOeaiMERE83zsDwV1i5) | [Harif Santoso](https://open.spotify.com/artist/7E6DDaLrcTuOodp5meW12r) | [Little Bit Simple \(Instrumental Version\)](https://open.spotify.com/album/3dYqureVrHc38jE6m4EqRH) | 3:17 |
 | 9 | [Propulsion](https://open.spotify.com/track/3DL4O5muk2DjIxnMAEtYq3) | [Batavia Collective](https://open.spotify.com/artist/5codNlJ0krrWfPHbRMKHEJ) | [Propulsion](https://open.spotify.com/album/51ZCUc5WzCZWOU9XG2fbEk) | 4:30 |
@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZrhFFq3bnGV.md) - [plain]
 | 75 | [Melawan Takdir](https://open.spotify.com/track/5NT81HlBEmoi8IEhL5jV8m) | [Hezky Jo](https://open.spotify.com/artist/4xJoIawErbqny2Yj6X6xdy), [Azizah Hanum](https://open.spotify.com/artist/5mEePWMgxiwAULqU0nrQig) | [Melawan Takdir](https://open.spotify.com/album/32Rr9t1JgFxjFAXLXY1vmQ) | 3:09 |
 | 76 | [Piccadilly](https://open.spotify.com/track/4an0lMBXVVuvjp62nNiAJT) | [Dua Empat](https://open.spotify.com/artist/5dPAU1hj01l7evl47KdU9L), [Marini Nainggolan](https://open.spotify.com/artist/68CRp4uznB4jlgbcNEqbTp) | [Two of a Kind](https://open.spotify.com/album/5Wv1AZE2RhdRLhKmrL1jtm) | 4:36 |
 
-Snapshot ID: `MTY2Mzg2NjAwMCwwMDAwMDAwMDRjY2ZkODg3YmMzMGMxNjkxMTAyNjE4ODY4ZTExYTQ4`
+Snapshot ID: `MTY2Mzg2NjAwMCwwMDAwMDAwMGEyNmYyYTA5ODJlYWM1NTZkMWEyYmE1OTdlOTdjZDA3`

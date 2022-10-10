@@ -2,9 +2,9 @@
 
 ### [Alternative Rock's Most Precious Gems](https://open.spotify.com/playlist/37i9dQZF1DXcKHVXMYcCuJ)
 
-> Favorite rock and gems.
+> An introduction to some of alt\-rock’s most seminal tracks.
 
-245 songs - 15 hr 15 min - [published](https://open.spotify.com/playlist/4PqfAnZqku8Zl2uq9Q1NkX)
+246 songs - 15 hr 19 min - [published](https://open.spotify.com/playlist/4PqfAnZqku8Zl2uq9Q1NkX)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,9 +19,9 @@
 | [Always](https://open.spotify.com/track/7ARF5nMaEIwAvGNoY5V5DT) | [Fatherson](https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9) | [Open Book](https://open.spotify.com/album/3QtRa1ioVt6XegDsxMK8MH) | 3:11 | 2021-12-15 |  |
 | [Always: Your Way](https://open.spotify.com/track/3CxozMCXI2BBT58uQYXK7q) | [My Vitriol](https://open.spotify.com/artist/75SjeTpGbsxZDpwPeVGERn) | [Finelines](https://open.spotify.com/album/4c2WjXHuK2BbKapEeAX10R) | 3:49 | 2021-12-15 |  |
 | [Am I Awake?](https://open.spotify.com/track/67IapYDY67HwxyU0NXBxff) | [On Histories of Rosenberg](https://open.spotify.com/artist/1msTuM5Z3k68OPmBYkGcoN) | [On Histories of Rosenberg](https://open.spotify.com/album/6YHlnNIAXX8A1UhQ1wbty7) | 5:06 | 2022-01-11 | 2022-01-19 |
-| [Amateur Cartography](https://open.spotify.com/track/1sS7YyG4IEz0WjCuTmz224) | [Dowsing](https://open.spotify.com/artist/0VvySnLLgB17dDSn0i4LVC) | [All I Could Find Was You](https://open.spotify.com/album/7AfAYOFV5QNrQksCTayutI) | 2:06 | 2021-12-15 | 2022-10-01 |
+| [Amateur Cartography](https://open.spotify.com/track/1sS7YyG4IEz0WjCuTmz224) | [Dowsing](https://open.spotify.com/artist/0VvySnLLgB17dDSn0i4LVC) | [All I Could Find Was You](https://open.spotify.com/album/7AfAYOFV5QNrQksCTayutI) | 2:06 | 2021-12-15 | 2022-10-07 |
 | [Another Space Song](https://open.spotify.com/track/50iBJRkGjjht3RiwD0VqLA) | [Failure](https://open.spotify.com/artist/3grvcGPaLhfrD5CYsecr4j) | [Fantastic Planet](https://open.spotify.com/album/5hbxMCegyQPhpycfjtlW6I) | 5:10 | 2021-12-15 | 2022-02-03 |
-| [Anyways](https://open.spotify.com/track/4up4dWG8xOET2Uo5aoOLAm) | [The Starting Line](https://open.spotify.com/artist/3E3xrZtBU5ORqcmX78v5YZ) | [Anyways](https://open.spotify.com/album/4khFn2Fi43Wl2Aje2uk7bh) | 2:57 | 2022-09-21 |  |
+| [Anyways](https://open.spotify.com/track/4up4dWG8xOET2Uo5aoOLAm) | [The Starting Line](https://open.spotify.com/artist/3E3xrZtBU5ORqcmX78v5YZ) | [Anyways](https://open.spotify.com/album/4khFn2Fi43Wl2Aje2uk7bh) | 2:57 | 2022-09-21 | 2022-10-03 |
 | [Anyways](https://open.spotify.com/track/2lnwXQojOIFk9AQX166wix) | [The Starting Line](https://open.spotify.com/artist/3E3xrZtBU5ORqcmX78v5YZ) | [Anyways \- EP](https://open.spotify.com/album/7EdF72Mn8YxTeAZyHlEoR7) | 2:59 | 2021-12-15 | 2022-07-27 |
 | [Aquasun](https://open.spotify.com/track/0qUdIt9DmD5znk3aghrdy4) | [Basement](https://open.spotify.com/artist/4DUQBYAyOTZotSEdKhaf6c) | [Promise Everything \(Deluxe\)](https://open.spotify.com/album/2Ic7SVaZu6loRXczS4VfYP) | 3:42 | 2021-12-15 |  |
 | [Around The Railing](https://open.spotify.com/track/2Fcz9olH3OgfFMj3auXTjA) | [Superheaven](https://open.spotify.com/artist/1IHjrY7ygKbmLVoUV1VcXc) | [Jar](https://open.spotify.com/album/6JLO3HVtVEKLHqbgs6ujdw) | 5:09 | 2022-06-23 |  |
@@ -73,6 +73,7 @@
 | [Feel the Burn](https://open.spotify.com/track/3Ns3L4FiaTOvNHzj42dCiN) | [Elm Tree Circle](https://open.spotify.com/artist/0exWPi1dCLZq8QlHCLTZh4) | [The Good Life](https://open.spotify.com/album/0H6OGmAxBhBAIMqmarWdqt) | 2:52 | 2022-02-02 | 2022-04-21 |
 | [Fireflies](https://open.spotify.com/track/65SgwW4bzyNhApmK2kzrqt) | [Finch](https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za) | [Say Hello To Sunshine](https://open.spotify.com/album/2sTszHEtxhh9GkHtl3SU9N) | 3:28 | 2021-12-15 | 2022-07-13 |
 | [Fix Me](https://open.spotify.com/track/420jQEuw2uFBy0k7B4nkhl) | [Gnarlah](https://open.spotify.com/artist/5PWdH4Kq3yHxP0CwaDFBB4) | [Fix Me](https://open.spotify.com/album/2Z7lZ7Al0gg5qrLrllGeFe) | 2:57 | 2021-12-15 | 2022-07-29 |
+| [Fixed It All](https://open.spotify.com/track/19UtO7hBxFYhqYMqFePsjv) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [Fixed It All](https://open.spotify.com/album/5F9Aavpfp58NVEnDqtNU6W) | 4:21 | 2022-09-26 |  |
 | [Fixed It All](https://open.spotify.com/track/3P5MuE6h9d9Rrf8kEA9FmS) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [Fixed It All](https://open.spotify.com/album/3wL067SoyL83W04AcNwb8x) | 4:21 | 2022-01-28 | 2022-07-28 |
 | [Follow](https://open.spotify.com/track/4osnZvjbd0nDYYLotiP4ps) | [Fangclub](https://open.spotify.com/artist/1rT2DYzj3q6QnrxaqF4jnN) | [Coma Happy](https://open.spotify.com/album/6QhOK8ASSEafbqLRoifCnn) | 3:41 | 2021-12-15 |  |
 | [Freddy Kreuger](https://open.spotify.com/track/3hhp5rMoOALDwkHMrkt8Wo) | [Reuben](https://open.spotify.com/artist/2qmpmvIJ66AWEdW0VOVlzS) | [Racecar Is Racecar Backwards \(Tenth Anniversary Deluxe Edition\)](https://open.spotify.com/album/62gx45kIMLQC8vtPdinqaK) | 2:28 | 2021-12-15 | 2022-07-29 |

@@ -4,7 +4,7 @@
 
 > Welcome, you belong here.
 
-147 songs - 9 hr 59 min - [published](https://open.spotify.com/playlist/187ScON8KrrWo7kYQuCuMH)
+148 songs - 10 hr 1 min - [published](https://open.spotify.com/playlist/187ScON8KrrWo7kYQuCuMH)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,9 +53,10 @@
 | [Fiction Of A Sea](https://open.spotify.com/track/29EEhEuPZ009M4Cjt0YLm1) | [Panoram](https://open.spotify.com/artist/69sdy5pLF8VHpUAHL5lKO7) | [Acrobatic Thoughts](https://open.spotify.com/album/3rPskmtLpjAgGtbh1aZUXN) | 3:29 | 2022-01-14 | 2022-09-22 |
 | [Forecast](https://open.spotify.com/track/4SJbP61kwGbrjFABXlhprD) | [Motion Graphics](https://open.spotify.com/artist/0vmZnQdyuSYbU9F61oApmi) | [Motion Graphics](https://open.spotify.com/album/6pB6PQ1biJp8MFlUMTabEn) | 1:31 | 2021-10-06 |  |
 | [GIRL](https://open.spotify.com/track/4w5jdncM0hAJKQPkAe4KhW) | [Mark Guiliana](https://open.spotify.com/artist/798TUNb6IfpsZzMkkzVGu1) | [GIRL](https://open.spotify.com/album/2uMPmTBUG37wuAr4t3D2RN) | 5:05 | 2021-10-06 |  |
+| [Guava](https://open.spotify.com/track/2NKAEjMD5MBrWLArCjMMMd) | [Arjuna Oakes](https://open.spotify.com/artist/724Bei6TsAHJYvnLHGdEAF), [Serebii](https://open.spotify.com/artist/7JKAIlZcxCK8hSIHiSp4ms) | [Guava](https://open.spotify.com/album/1UzJjnrIjP8zghjx2Wq87A) | 2:09 | 2022-10-06 |  |
 | [Have You Felt Lately?](https://open.spotify.com/track/2v7b1jWrpXzHRkeLmHE81K) | [Kaitlyn Aurelia Smith](https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH) | [Let's Turn It Into Sound](https://open.spotify.com/album/6OejvHOkJc24k5Psvw2kS3) | 3:54 | 2022-08-31 |  |
 | [Have You Felt Lately?](https://open.spotify.com/track/6UQAuCPxNBIbVcKG2cgAsX) | [Kaitlyn Aurelia Smith](https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH) | [Have You Felt Lately?](https://open.spotify.com/album/2xJpkYv3kleK0HDFznrpn9) | 3:54 | 2022-08-03 | 2022-09-01 |
-| [I Can't Die as Well](https://open.spotify.com/track/2raPU3XehkE9fu9i7nPm45) | [Fire\-Toolz](https://open.spotify.com/artist/7nJawFIm90c4jAQFLabc1o) | [I Can't Die as Well](https://open.spotify.com/album/2EnPEXGeSR82AuXVVUA7ok) | 2:25 | 2022-04-12 |  |
+| [I Can't Die as Well](https://open.spotify.com/track/2raPU3XehkE9fu9i7nPm45) | [Fire\-Toolz](https://open.spotify.com/artist/7nJawFIm90c4jAQFLabc1o) | [I Can't Die as Well](https://open.spotify.com/album/2EnPEXGeSR82AuXVVUA7ok) | 2:25 | 2022-04-12 | 2022-10-06 |
 | [In der Stadt und auf dem Land](https://open.spotify.com/track/5RpoUzFpBM0EMSet3Mzldw) | [Kosmischer Läufer](https://open.spotify.com/artist/4ZRufjj25YMXohtTIlg44B) | [The Secret Cosmic Music of the East German Olympic Program 1972\-83, Vol\. 3](https://open.spotify.com/album/4ZAtlPjTyeQeptFlp38oez) | 2:16 | 2021-10-06 |  |
 | [Interdimensional Chocobo](https://open.spotify.com/track/6ILY97rvLDplKnuOcnZf7e) | [GOLDEN LIVING ROOM](https://open.spotify.com/artist/2HrvfucjJcyvbBBU33i7EL) | [Post\-Internet](https://open.spotify.com/album/5cOakygPBULXevk7wu0fPp) | 2:57 | 2021-10-06 | 2022-07-29 |
 | [Interdimensional Chocobo](https://open.spotify.com/track/53gyk1hW2ecJWXoy2WpvsQ) | [GOLDEN LIVING ROOM](https://open.spotify.com/artist/2HrvfucjJcyvbBBU33i7EL) | [Post\-Internet](https://open.spotify.com/album/4KHYr2C5MPHXMwZljGauaF) | 2:57 | 2021-10-06 |  |

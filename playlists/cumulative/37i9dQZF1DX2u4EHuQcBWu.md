@@ -4,7 +4,7 @@
 
 > Himnos de Resistencia: Somos un pueblo fuerte que no se calla.
 
-268 songs - 17 hr 42 min - [published](https://open.spotify.com/playlist/4VI0QwtK5l8tDmnnmgumH5)
+269 songs - 17 hr 45 min - [published](https://open.spotify.com/playlist/4VI0QwtK5l8tDmnnmgumH5)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,7 +84,7 @@
 | [El Baile De Los Que Sobran](https://open.spotify.com/track/15T3otpUnJKin5njR8x0Tx) | [Los Prisioneros](https://open.spotify.com/artist/2mSHY8JOR0nRi3mtHqVa04) | [Pateando Piedras](https://open.spotify.com/album/6RctuyYdvP65YaFZMwv9Xo) | 5:43 | 2021-09-24 | 2022-07-29 |
 | [El Barzón](https://open.spotify.com/track/7M4mRIorxuEm0lV27cuOii) | [Maldita Vecindad Y Los Hijos Del 5to\. Patio](https://open.spotify.com/artist/6WvDtNFHOWHfiNy8NVHujT) | [Mostros](https://open.spotify.com/album/4gcc4CQKB7Dttr8bMkhhjA) | 4:26 | 2021-09-24 |  |
 | [El Billetico](https://open.spotify.com/track/0lHGAgLlG3s0KX34iGlQeb) | [Cabuya](https://open.spotify.com/artist/3XSg2R8eOt7fWiRmBYv2fA) | [Con Letra Pequeña](https://open.spotify.com/album/2Oj3KJYukTYh5KdWshwe2a) | 4:02 | 2021-09-24 | 2022-07-28 |
-| [El Club de la Resistencia](https://open.spotify.com/track/4r1iDL65vPJBdPtKiBVOS2) | [LosPetitFellas](https://open.spotify.com/artist/0KuSKX95imv2ymBDqrixLv) | [Souvenir](https://open.spotify.com/album/45ZghnmhUZlf7DWdlgKODE) | 3:30 | 2021-09-24 |  |
+| [El Club de la Resistencia](https://open.spotify.com/track/4r1iDL65vPJBdPtKiBVOS2) | [LosPetitFellas](https://open.spotify.com/artist/0KuSKX95imv2ymBDqrixLv) | [Souvenir](https://open.spotify.com/album/45ZghnmhUZlf7DWdlgKODE) | 3:30 | 2021-09-24 | 2022-10-10 |
 | [El Club de la Resistencia](https://open.spotify.com/track/7MZ5FFiWtyhyoJOwOnUmhQ) | [LosPetitFellas](https://open.spotify.com/artist/0KuSKX95imv2ymBDqrixLv) | [Souvenir](https://open.spotify.com/album/1vIBTn32h0aUsoImVURqEP) | 3:30 | 2021-09-24 | 2022-07-28 |
 | [El Corazón Vivo](https://open.spotify.com/track/0YvCQiiu3VAhCOu19NA6xV) | [Isabel Parra](https://open.spotify.com/artist/2aRPBh4HSVPmevvlsCySOt) | [El Corazón Vivo](https://open.spotify.com/album/1vtqXBzQkeFeKJY3foAk5Y) | 4:59 | 2021-09-24 | 2022-07-14 |
 | [El Corrido de Milo Vela](https://open.spotify.com/track/1FvNYJei932TIqXsyHkAhG) | [Vivir Quintana](https://open.spotify.com/artist/3Z3OTfxYdBnJKMXFbRjmU2) | [El Corrido de Milo Vela](https://open.spotify.com/album/4wSDu2770UGHS1FH3yjF43) | 3:30 | 2022-04-28 | 2022-08-22 |
@@ -193,6 +193,7 @@
 | [OjoxOjo](https://open.spotify.com/track/4drsa9wk7jamFo12KbLsBh) | [Nano Stern](https://open.spotify.com/artist/6WcoLUYMQyttg3fFIkou6X), [Waikil](https://open.spotify.com/artist/189qjfWGFO4zb5aDu5lFCk) | [OjoxOjo](https://open.spotify.com/album/0dnLO8O0VP5vKorPYzQ7Ft) | 3:35 | 2021-09-24 | 2022-07-28 |
 | [Otra Humanidad](https://open.spotify.com/track/3eVZky3RqaMnVXZAXeCvws) | [Marta](https://open.spotify.com/artist/6gqr3AeZrJMU7J2alQlN8Q) | [Marta](https://open.spotify.com/album/0iH9r1Rzfa961VMQx9gFsR) | 3:27 | 2021-09-24 | 2022-07-26 |
 | [Otros Nosotros](https://open.spotify.com/track/7Klq4wBMnMUeBADEBYfKPf) | [Sax](https://open.spotify.com/artist/5h0ng91IU5Pv8LDpamqVN1), [Salvador Moreno](https://open.spotify.com/artist/3SjK2DHQbnpcAHyebi1UPs) | [Otros Nosotros](https://open.spotify.com/album/6nLleEGPcDbvgiNxa392nQ) | 3:34 | 2021-09-24 | 2022-07-25 |
+| [Paco Vampiro](https://open.spotify.com/track/1d8izQZm0HT6s49oOm235o) | [Alex Anwandter](https://open.spotify.com/artist/0M8uC0u1YRUGCieOKmQF02) | [Paco Vampiro](https://open.spotify.com/album/71wsgoCJ3gvOV7zh9sjbLX) | 3:21 | 2021-09-24 |  |
 | [Paco Vampiro](https://open.spotify.com/track/2otUwrengshAA1KlSTCZvR) | [Alex Anwandter](https://open.spotify.com/artist/0M8uC0u1YRUGCieOKmQF02) | [Paco Vampiro](https://open.spotify.com/album/02ETw0EbNXJGl6LlBjgdUm) | 3:21 | 2021-09-24 | 2022-09-11 |
 | [Papá Se Fue en un Barco](https://open.spotify.com/track/58okzh74KT9IIFnPNSsF7A) | [Patiño](https://open.spotify.com/artist/4eepaYCA8Byw10I7CuXhgx), [Arroba Nat](https://open.spotify.com/artist/4Srl3qf5e1RfnXi5wBlIL4) | [Papá Se Fue en un Barco](https://open.spotify.com/album/6yIl7k6CkwUF5xhIiOCJPv) | 3:06 | 2021-09-24 | 2022-07-28 |
 | [Para Que Nunca Mas](https://open.spotify.com/track/3hucW9oJIdJkxjaNxAc6wd) | [Sol y Lluvia](https://open.spotify.com/artist/6iGoMyoSIjyTxbCRyHREtI) | [Antología del Canto Nuevo Vol\. 2](https://open.spotify.com/album/6ABGUSzgpN1gX8vIW4abGu) | 2:27 | 2021-09-24 |  |

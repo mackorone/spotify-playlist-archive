@@ -4,13 +4,14 @@
 
 > Soothing drones, ambient piano and new age music.
 
-263 songs - 13 hr 42 min - [published](https://open.spotify.com/playlist/1tJP4oFBS9EBb2EwWUOI1D)
+267 songs - 13 hr 54 min - [published](https://open.spotify.com/playlist/1tJP4oFBS9EBb2EwWUOI1D)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A Cabinet With Phosphorescence](https://open.spotify.com/track/4PO5kkTwxCqpumXdDAFQVw) | [Genevieve Bertram](https://open.spotify.com/artist/10ODqXnN38l7oy4TaMbsGO) | [A Cabinet With Phosphorescence](https://open.spotify.com/album/1QU2tdTMOOBv0DUkiMeoeR) | 3:28 | 2022-05-25 |  |
 | [A New Day](https://open.spotify.com/track/2YmHA1zfrkam6TaO5mkQgZ) | [Cooper Sams](https://open.spotify.com/artist/5dQtzw5YaP9ZCMv0GWymws) | [A New Day](https://open.spotify.com/album/0yfSVnunzAXRjdc89P502Q) | 4:15 | 2022-05-25 | 2022-09-28 |
 | [A Soft Echo](https://open.spotify.com/track/0p4YqnuGL81qRn6UNg4mxN) | [Lusciousness](https://open.spotify.com/artist/5mFwFCtioyQoqFUYY3VKtf) | [A Soft Echo](https://open.spotify.com/album/38a7MUTk2Rl9Za9HlGAB1O) | 3:53 | 2022-05-25 |  |
+| [A Warm Welcoming 432 Hz](https://open.spotify.com/track/7k3AUCixyOTdwGCc5u0JKN) | [Joni Ende](https://open.spotify.com/artist/1Ufx5KF5HaWoZD6stEKlD4) | [Pearls](https://open.spotify.com/album/3cWfXIIpbZe37wFkG671iP) | 2:48 | 2022-10-07 |  |
 | [Aan de andere kant](https://open.spotify.com/track/0pIQQqzZpzh00oTnY1VhXi) | [Cyrano Brussee](https://open.spotify.com/artist/7tlxZyGtbGvlr4TPWLhJx6) | [Aan de andere kant](https://open.spotify.com/album/1QaSWd0iizfIrmRKuuqfIM) | 4:06 | 2022-05-25 | 2022-10-01 |
 | [Acceptance](https://open.spotify.com/track/303e6fTCQ5d3ljcg1TQrkC) | [Johann Eder](https://open.spotify.com/artist/0aCbxLi0ypSIj30oAT4T3o) | [Acceptance](https://open.spotify.com/album/5TifGwgK5S9VTApf5z4Qfx) | 2:54 | 2022-05-25 | 2022-09-28 |
 | [Across the Sky](https://open.spotify.com/track/2LqrkTxO7V6R0xoLEdtyaQ) | [Jenna Talenti](https://open.spotify.com/artist/2TxLRhRwH3hU4CVooipJbo) | [Across the Sky](https://open.spotify.com/album/2h7RIAyJ3vvnW4Wl8vnklD) | 2:09 | 2022-05-25 |  |
@@ -142,7 +143,9 @@
 | [Matterhorn Mountain](https://open.spotify.com/track/60jmPhNn2QVUPRfpjZZUB4) | [Moments of Clarity](https://open.spotify.com/artist/752MndEnUavC68pPM6NtxB) | [Mindful Sleep](https://open.spotify.com/album/2kFyWqR5s7lvq8uNYGx6mj) | 3:34 | 2022-05-25 |  |
 | [Meditación y Relajación](https://open.spotify.com/track/30ZnWr4gkenAaSFIa733gl) | [Calamantos](https://open.spotify.com/artist/4sk5GtqBchPEuDVcOASDXy) | [Relajación y Meditación](https://open.spotify.com/album/7lf9GNRElS8xe9isYjh3bL) | 3:06 | 2022-05-25 |  |
 | [Mellow](https://open.spotify.com/track/15SJMsBLp7GR8FH9WvamuG) | [Boreal Embla](https://open.spotify.com/artist/1TIIwr7wiRuFavs4zUlYQU) | [Mellow](https://open.spotify.com/album/4OFhOIJLN66pFGa4n5eEto) | 3:33 | 2022-05-25 |  |
+| [Midnight Relief](https://open.spotify.com/track/3lzrmp1ug1AEu5KQ3AkzO6) | [Astral Wonder](https://open.spotify.com/artist/24JkKS4b8yp9usUXPL0I3G) | [Midnight Relief](https://open.spotify.com/album/5S9SpAQQFbgO5edXpXYd8A) | 3:06 | 2022-10-07 |  |
 | [Mind Cleansing](https://open.spotify.com/track/0V1vo7jIvwW2QIeuKJFAg4) | [Calma](https://open.spotify.com/artist/0UFMDihal5NxeE9xM8jsHz) | [Astral Plane](https://open.spotify.com/album/5xNBsj69xWMQgxqVSo6uAC) | 3:03 | 2022-05-25 | 2022-09-28 |
+| [Mint Green 528 Hz](https://open.spotify.com/track/7CoNMmP4XciExedSMAQkM4) | [Lo Amber](https://open.spotify.com/artist/6KHAX77UjY8HXrbGJjZNtI) | [Mint Green 528 Hz](https://open.spotify.com/album/7eWrcerVgh2dHudoXMJvzn) | 2:14 | 2022-10-07 |  |
 | [Miuys](https://open.spotify.com/track/6gM3YgCJV3tBzbnYG2ydge) | [Calma Interiore](https://open.spotify.com/artist/1OmJlIsNDkAVfdkmHbvQFM) | [Miuys](https://open.spotify.com/album/1yoIxMWtpZxCUrFysAZ1Ll) | 3:00 | 2022-08-23 |  |
 | [Mollusca](https://open.spotify.com/track/63kG8LOsD5GLmjW62S2rBA) | [Ferndale](https://open.spotify.com/artist/3RXfYE9FOxd2Mgxf46ZMb9) | [Gabriel](https://open.spotify.com/album/6EKSmGzGQ7ODZmqdHVXpa1) | 3:28 | 2022-05-25 |  |
 | [Moonlight](https://open.spotify.com/track/7d3KZr4HSC2Pt3r4a9Jx91) | [M1ND](https://open.spotify.com/artist/3opgcftoLQXdBYFrwP8xoR) | [At Peace](https://open.spotify.com/album/6T8GQaam618kI3vbP74FXP) | 2:29 | 2022-05-25 | 2022-09-28 |
@@ -172,6 +175,7 @@
 | [Owls](https://open.spotify.com/track/6PVUZBg7qJv94rC8EoWXrL) | [Ebb & Flod](https://open.spotify.com/artist/2thIq9dFmnfUClzXEjDIMr) | [Moonrise](https://open.spotify.com/album/217hUO8Iila5lozKvwmElh) | 2:26 | 2022-07-15 | 2022-09-28 |
 | [Pads of Redemption](https://open.spotify.com/track/5I3JZ3zvxKQMdp9rEcGkiR) | [Masala Roo](https://open.spotify.com/artist/3A81JSAePWWFgyybGr8zIE) | [Pads of Redemption](https://open.spotify.com/album/2XCWjHkbcCvT4WXFwnY253) | 2:48 | 2022-05-25 | 2022-09-28 |
 | [Peace and Quiet](https://open.spotify.com/track/6fKAXHHXXu0IrgNbOASoFS) | [Zen Atlas](https://open.spotify.com/artist/6KjzMG22RTsrSCmy71Ok0N) | [Peace and Quiet](https://open.spotify.com/album/1VA2ltU2TnJ3uAFpXG1DZ0) | 3:30 | 2022-05-25 | 2022-09-28 |
+| [Peaceful Dreams](https://open.spotify.com/track/4dXeSoH8k8iq8uQz2ZZZSK) | [Menidia](https://open.spotify.com/artist/4scbgnFpSTNWZgSaxcXLS8) | [The Far Distance](https://open.spotify.com/album/4BsjkgUXT2QBtig8ONnvks) | 3:27 | 2022-10-07 |  |
 | [Peaceful Harmony](https://open.spotify.com/track/5YXMvnrosh3tVYusmR8lyb) | [Jasmine Bordeaux](https://open.spotify.com/artist/5kxIHAETC8i2dwHZOASyVD) | [Peaceful Harmony](https://open.spotify.com/album/6yigwF9cIfuoVoWwhf1YET) | 2:15 | 2022-05-25 |  |
 | [Peaceful Sundown](https://open.spotify.com/track/03o9SRxgQAu7lpmvqePASW) | [Buddha’s Sleep](https://open.spotify.com/artist/32JsxZpT1TFmRtCJzr7lg2) | [Peaceful Sundown](https://open.spotify.com/album/7owwupvVS9cNFJLvI1hQKI) | 2:34 | 2022-09-27 |  |
 | [Petribungi](https://open.spotify.com/track/57kdkW0uoj8wZkKj6J6ucp) | [Numerorum mysteria](https://open.spotify.com/artist/3DAhwqtZw5k7ygr3JxFuKL) | [Petribungi](https://open.spotify.com/album/5QTxoUuOXKWxpeXbLKyRhP) | 3:36 | 2022-05-25 |  |

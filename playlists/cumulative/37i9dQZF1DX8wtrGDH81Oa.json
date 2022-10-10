@@ -1254,6 +1254,24 @@
     },
     {
       "album": {
+        "name": "Get Some",
+        "url": "https://open.spotify.com/album/51oJ57HrL19pMlpZahQlSU"
+      },
+      "artists": [
+        {
+          "name": "Soul to Speak",
+          "url": "https://open.spotify.com/artist/0uYPjw4NSVY5IiZZd6kHdd"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188869,
+      "name": "Get Some",
+      "url": "https://open.spotify.com/track/6XCmzgE6hueMNCeq7EEAgh"
+    },
+    {
+      "album": {
         "name": "glitched persona",
         "url": "https://open.spotify.com/album/69thvbzNrILEUNRA3F2q16"
       },
@@ -1337,7 +1355,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 237659,
       "name": "Guybrush",
       "url": "https://open.spotify.com/track/5Uk37TLnoOQzOh5tH6iaDb"
@@ -2327,7 +2345,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 158406,
       "name": "running emotion",
       "url": "https://open.spotify.com/track/50qTed10S2KaDtGAYbD4dr"

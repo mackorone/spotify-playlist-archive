@@ -26,6 +26,24 @@
     },
     {
       "album": {
+        "name": "Born in July (The Album)",
+        "url": "https://open.spotify.com/album/6Xz5OPkS6RCcmQ1hA7JUaO"
+      },
+      "artists": [
+        {
+          "name": "Taylor Edwards",
+          "url": "https://open.spotify.com/artist/2LMvoFcHZ0G38iO4Jra8ki"
+        }
+      ],
+      "date_added": "2022-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160913,
+      "name": "8 Months",
+      "url": "https://open.spotify.com/track/0T5l2AP5TL84CK1KQ499B7"
+    },
+    {
+      "album": {
         "name": "8 Months",
         "url": "https://open.spotify.com/album/78e0sWg0gWKZ9UaQmb6ZlT"
       },
@@ -37,7 +55,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-03",
       "duration_ms": 160913,
       "name": "8 Months",
       "url": "https://open.spotify.com/track/34FV8dxL8QyrVgRPzB6Qzf"
@@ -250,6 +268,28 @@
     },
     {
       "album": {
+        "name": "Feel Free",
+        "url": "https://open.spotify.com/album/5UjIjX0L2nzxLJdTl12TD2"
+      },
+      "artists": [
+        {
+          "name": "Band\u0113s",
+          "url": "https://open.spotify.com/artist/7vcT2s2G1IlCiIP3OBA8Af"
+        },
+        {
+          "name": "Emily Falvey",
+          "url": "https://open.spotify.com/artist/6w24INVHBGMRpk6xn6xIpi"
+        }
+      ],
+      "date_added": "2022-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202682,
+      "name": "Feel Free",
+      "url": "https://open.spotify.com/track/7mQECZHQmEBEdXbpaBZNSH"
+    },
+    {
+      "album": {
         "name": "Firehazard",
         "url": "https://open.spotify.com/album/7m72310c756Nzu7duj09Ib"
       },
@@ -305,10 +345,28 @@
       ],
       "date_added": "2022-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-03",
       "duration_ms": 182326,
       "name": "Girl Wonder",
       "url": "https://open.spotify.com/track/2g3vOIC3J9uYfSu6yi74rI"
+    },
+    {
+      "album": {
+        "name": "Born in July (The Album)",
+        "url": "https://open.spotify.com/album/6Xz5OPkS6RCcmQ1hA7JUaO"
+      },
+      "artists": [
+        {
+          "name": "Taylor Edwards",
+          "url": "https://open.spotify.com/artist/2LMvoFcHZ0G38iO4Jra8ki"
+        }
+      ],
+      "date_added": "2022-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182326,
+      "name": "Girl Wonder",
+      "url": "https://open.spotify.com/track/3hNFCHrMfOpjwE6p517XX4"
     },
     {
       "album": {
@@ -489,6 +547,24 @@
       "duration_ms": 210510,
       "name": "I'm Still Breathing",
       "url": "https://open.spotify.com/track/6saWL01T4ENiamU9HyBMmb"
+    },
+    {
+      "album": {
+        "name": "If You Only Knew",
+        "url": "https://open.spotify.com/album/0QYjygDiIDvVRdicdoTrvk"
+      },
+      "artists": [
+        {
+          "name": "Liz Huett",
+          "url": "https://open.spotify.com/artist/4wh5xUIEU8YlGPXZHV6klA"
+        }
+      ],
+      "date_added": "2022-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212694,
+      "name": "If You Only Knew",
+      "url": "https://open.spotify.com/track/1Sa8stvZa1DDMXWirp34XB"
     },
     {
       "album": {

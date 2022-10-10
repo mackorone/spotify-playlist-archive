@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5JOn3LSfpbCrOQ7azB4S6C.md) - [plain]
 
 > The latest singles on Spotify all in one playlist\. Updated weekly.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,708 likes - 80 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,707 likes - 80 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

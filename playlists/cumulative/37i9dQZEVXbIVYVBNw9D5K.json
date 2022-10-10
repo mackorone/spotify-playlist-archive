@@ -327,7 +327,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-02",
+      "date_removed": null,
       "duration_ms": 190055,
       "name": "Ah Can\u0131m Sevgilim - Demo",
       "url": "https://open.spotify.com/track/5kpkEb0M49YM516trGUSWS"
@@ -349,6 +349,24 @@
       "duration_ms": 180000,
       "name": "Ah Ellerim K\u0131r\u0131layd\u0131",
       "url": "https://open.spotify.com/track/4D36ZNHfLE3joglWbDLn5X"
+    },
+    {
+      "album": {
+        "name": "Aksiyon",
+        "url": "https://open.spotify.com/album/4dr2xGbBSqKzd5yjVpHjkQ"
+      },
+      "artists": [
+        {
+          "name": "ElMusto",
+          "url": "https://open.spotify.com/artist/1Tjaa3WWIVU00kfZ8Dvpcl"
+        }
+      ],
+      "date_added": "2022-10-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-06",
+      "duration_ms": 145020,
+      "name": "Aksiyon",
+      "url": "https://open.spotify.com/track/79Ux1fGDomunbzofc6vDVr"
     },
     {
       "album": {
@@ -1323,7 +1341,7 @@
       ],
       "date_added": "2022-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-03",
       "duration_ms": 182189,
       "name": "Bela",
       "url": "https://open.spotify.com/track/0pIa1YAqWLOP7gFpDKzqlo"
@@ -1605,6 +1623,24 @@
       "duration_ms": 215488,
       "name": "Beyaz Skandal\u0131m",
       "url": "https://open.spotify.com/track/7gI0722sWUhVpI0xOpejmZ"
+    },
+    {
+      "album": {
+        "name": "Beyo\u011flu",
+        "url": "https://open.spotify.com/album/3g9In29GTvJJK6uPMpoNdX"
+      },
+      "artists": [
+        {
+          "name": "Emir Can \u0130\u011frek",
+          "url": "https://open.spotify.com/artist/4XP7cGw4t8BqZ8Du5q3bHg"
+        }
+      ],
+      "date_added": "2022-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148402,
+      "name": "Beyo\u011flu",
+      "url": "https://open.spotify.com/track/1qFiddLkQ7saFavoVIBpsF"
     },
     {
       "album": {
@@ -4217,7 +4253,7 @@
       ],
       "date_added": "2022-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-03",
       "duration_ms": 140859,
       "name": "Harmandal\u0131",
       "url": "https://open.spotify.com/track/0Jen57hUkke7H6AbZY3W5d"
@@ -4793,7 +4829,7 @@
       ],
       "date_added": "2022-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-05",
       "duration_ms": 136119,
       "name": "\u0130mdat",
       "url": "https://open.spotify.com/track/0SCtkG26IEKCKxJ7UmWZWa"
@@ -4939,7 +4975,7 @@
       ],
       "date_added": "2022-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-03",
       "duration_ms": 198425,
       "name": "\u0130STEMEM",
       "url": "https://open.spotify.com/track/4FOVdn9oZhxH6AOEhL78BR"
@@ -7199,7 +7235,7 @@
       ],
       "date_added": "2022-07-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-31",
+      "date_removed": null,
       "duration_ms": 192694,
       "name": "Outro",
       "url": "https://open.spotify.com/track/4PUniKS3Cywu23xjdtoji5"
@@ -7715,7 +7751,7 @@
       ],
       "date_added": "2022-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-04",
       "duration_ms": 167372,
       "name": "RARRii",
       "url": "https://open.spotify.com/track/0RPEhK1UCgtLb9Nc97lA4R"
@@ -8115,7 +8151,7 @@
       ],
       "date_added": "2022-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-02",
+      "date_removed": "2022-10-07",
       "duration_ms": 151520,
       "name": "Sava\u015ft\u0131m Harbiden",
       "url": "https://open.spotify.com/track/082Z8aWrikvq4JA8qpgcgX"
@@ -8223,7 +8259,7 @@
       ],
       "date_added": "2022-06-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-30",
+      "date_removed": "2022-10-09",
       "duration_ms": 173250,
       "name": "Seni K\u0131rm\u0131\u015flar",
       "url": "https://open.spotify.com/track/5zALCdtPOOz1SX7uHwp6En"
@@ -9012,6 +9048,28 @@
     },
     {
       "album": {
+        "name": "Unholy (feat. Kim Petras)",
+        "url": "https://open.spotify.com/album/0gX9tkL5njRax8ymWcXARi"
+      },
+      "artists": [
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        },
+        {
+          "name": "Kim Petras",
+          "url": "https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J"
+        }
+      ],
+      "date_added": "2022-10-04",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-09",
+      "duration_ms": 156943,
+      "name": "Unholy (feat. Kim Petras)",
+      "url": "https://open.spotify.com/track/3nqQXoyQOWXiESFLlDF1hG"
+    },
+    {
+      "album": {
         "name": "Unutmak \u00d6yle Kolay M\u0131 Sand\u0131n",
         "url": "https://open.spotify.com/album/1aa3sNKu8ulpGRTBVl2ck2"
       },
@@ -9499,7 +9557,7 @@
       ],
       "date_added": "2022-01-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-02",
+      "date_removed": null,
       "duration_ms": 183612,
       "name": "Yar\u0131m Kalan Sigara",
       "url": "https://open.spotify.com/track/0HbKbkAMK7Wnps5vpZW4j2"
@@ -9989,6 +10047,28 @@
       "duration_ms": 229421,
       "name": "\u00d6lebilirim",
       "url": "https://open.spotify.com/track/5jtqm1ZWbtyaUfhX9zc0ls"
+    },
+    {
+      "album": {
+        "name": "\u00d6l\u00fcmle Ya\u015fam Aras\u0131nda",
+        "url": "https://open.spotify.com/album/61FFY1aI5DXTbAV5SJn95C"
+      },
+      "artists": [
+        {
+          "name": "Mavi Gri",
+          "url": "https://open.spotify.com/artist/4otJVkrLLqDF8OxFJOigme"
+        },
+        {
+          "name": "Ahmet Hatipo\u011flu",
+          "url": "https://open.spotify.com/artist/2sOq4hJZRAybcz8AvKjDK4"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176052,
+      "name": "\u00d6l\u00fcmle Ya\u015fam Aras\u0131nda",
+      "url": "https://open.spotify.com/track/3ABGx9FyeEdMCjDR5TyfdV"
     },
     {
       "album": {

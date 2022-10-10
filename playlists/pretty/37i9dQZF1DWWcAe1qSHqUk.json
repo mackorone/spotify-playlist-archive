@@ -1,12 +1,12 @@
 {
   "description": "\u7235\u58eb\u5c31\u662f\u4e00\u500b\u8072\u97f3\u7684\u7d33\u58eb\uff0c\u6709\u6b4c\u8072\u52d5\u4eba\u3001\u6709\u6f14\u594f\u512a\u96c5\uff0c\u65cb\u5f8b\u7f8e\u5999\u4e4b\u9918\u9084\u6fc3\u6fc3\u60c5\u610f\uff01",
-  "num_followers": 52685,
+  "num_followers": 52838,
   "original_name": "\u7235\u58eb\u60c5\u6b4c",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDE3Njk1MiwwMDAwMDAwMDM5MWUxM2IzMDE3MjRmMTQxYjQyZWY2ZDVmMTVhNDQ3",
+  "snapshot_id": "MTY2NDE3Njk1MiwwMDAwMDAwMDZjM2UzNDU3MDI0YjAwYzlhNmRmNTE1MGJkZjBlODM4",
   "tracks": [
     {
       "added_at": "2022-09-26 07:22:32",
@@ -75,22 +75,6 @@
     {
       "added_at": "2022-09-26 07:22:32",
       "album": {
-        "name": "Twentysomething",
-        "url": "https://open.spotify.com/album/6FbhvZweI6o9Szb2j9ls9o"
-      },
-      "artists": [
-        {
-          "name": "Jamie Cullum",
-          "url": "https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o"
-        }
-      ],
-      "duration_ms": 309693,
-      "name": "What A Difference A Day Made",
-      "url": "https://open.spotify.com/track/5PbSvsljhgxijSYV5cG5xU"
-    },
-    {
-      "added_at": "2022-09-26 07:22:32",
-      "album": {
         "name": "Rarities, Outtakes & Other Delights, Vol. 2",
         "url": "https://open.spotify.com/album/29DNH3Fggk7fkLZebFkcH8"
       },
@@ -123,6 +107,22 @@
       "duration_ms": 233544,
       "name": "S\u00f3 Tinha De Ser Com Voc\u00ea",
       "url": "https://open.spotify.com/track/209ucYTS6vWEV5iydrHiOt"
+    },
+    {
+      "added_at": "2022-09-26 07:22:32",
+      "album": {
+        "name": "Twentysomething",
+        "url": "https://open.spotify.com/album/6FbhvZweI6o9Szb2j9ls9o"
+      },
+      "artists": [
+        {
+          "name": "Jamie Cullum",
+          "url": "https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o"
+        }
+      ],
+      "duration_ms": 309693,
+      "name": "What A Difference A Day Made",
+      "url": "https://open.spotify.com/track/5PbSvsljhgxijSYV5cG5xU"
     },
     {
       "added_at": "2022-09-26 07:22:32",
@@ -175,26 +175,6 @@
     {
       "added_at": "2022-09-26 07:22:32",
       "album": {
-        "name": "Skylark (Std. Version)",
-        "url": "https://open.spotify.com/album/46FYQKraT48SZMaZRg7IOP"
-      },
-      "artists": [
-        {
-          "name": "Renee Olstead",
-          "url": "https://open.spotify.com/artist/19B0pJt4UEl3fUijGTRzxB"
-        },
-        {
-          "name": "Chris Botti",
-          "url": "https://open.spotify.com/artist/3eFo5fMv53RYZBYlvT5Z6a"
-        }
-      ],
-      "duration_ms": 283093,
-      "name": "When I Fall in Love (feat. Chris Botti)",
-      "url": "https://open.spotify.com/track/7wwDhqPS3gxRDenfX2GtiT"
-    },
-    {
-      "added_at": "2022-09-26 07:22:32",
-      "album": {
         "name": "Duets II",
         "url": "https://open.spotify.com/album/5ktAYFq8wJ1hcWHaxl6AQf"
       },
@@ -211,6 +191,26 @@
       "duration_ms": 200586,
       "name": "Body and Soul",
       "url": "https://open.spotify.com/track/01hJnhpAmjzg85Etnz2ECH"
+    },
+    {
+      "added_at": "2022-09-26 07:22:32",
+      "album": {
+        "name": "Skylark (Std. Version)",
+        "url": "https://open.spotify.com/album/46FYQKraT48SZMaZRg7IOP"
+      },
+      "artists": [
+        {
+          "name": "Renee Olstead",
+          "url": "https://open.spotify.com/artist/19B0pJt4UEl3fUijGTRzxB"
+        },
+        {
+          "name": "Chris Botti",
+          "url": "https://open.spotify.com/artist/3eFo5fMv53RYZBYlvT5Z6a"
+        }
+      ],
+      "duration_ms": 283093,
+      "name": "When I Fall in Love (feat. Chris Botti)",
+      "url": "https://open.spotify.com/track/7wwDhqPS3gxRDenfX2GtiT"
     },
     {
       "added_at": "2022-09-26 07:22:32",
@@ -247,22 +247,6 @@
     {
       "added_at": "2022-09-26 07:22:32",
       "album": {
-        "name": "The Very Thought of You",
-        "url": "https://open.spotify.com/album/58CRSHezL90l3bMuC23ZoP"
-      },
-      "artists": [
-        {
-          "name": "Emilie-Claire Barlow",
-          "url": "https://open.spotify.com/artist/4doI7TR51c6DTaveTwpIkg"
-        }
-      ],
-      "duration_ms": 286423,
-      "name": "Les yeux ouverts (dream a little dream of me)",
-      "url": "https://open.spotify.com/track/2RcwqefTH11THzlwJHoS6D"
-    },
-    {
-      "added_at": "2022-09-26 07:22:32",
-      "album": {
         "name": "As Time Goes By",
         "url": "https://open.spotify.com/album/2Jr81lF1N4Lq9rGzroCQQR"
       },
@@ -291,6 +275,22 @@
       "duration_ms": 216573,
       "name": "Misty",
       "url": "https://open.spotify.com/track/4uxsv9PjV3Yeyn51RdWvGJ"
+    },
+    {
+      "added_at": "2022-09-26 07:22:32",
+      "album": {
+        "name": "The Very Thought of You",
+        "url": "https://open.spotify.com/album/58CRSHezL90l3bMuC23ZoP"
+      },
+      "artists": [
+        {
+          "name": "Emilie-Claire Barlow",
+          "url": "https://open.spotify.com/artist/4doI7TR51c6DTaveTwpIkg"
+        }
+      ],
+      "duration_ms": 286423,
+      "name": "Les yeux ouverts (dream a little dream of me)",
+      "url": "https://open.spotify.com/track/2RcwqefTH11THzlwJHoS6D"
     },
     {
       "added_at": "2022-09-26 07:22:32",
@@ -343,22 +343,6 @@
     {
       "added_at": "2022-09-26 07:22:32",
       "album": {
-        "name": "Por Pouco (Bit Box)",
-        "url": "https://open.spotify.com/album/0h4xTADMMdMSOQraeakiEC"
-      },
-      "artists": [
-        {
-          "name": "Mundo Livre S/A",
-          "url": "https://open.spotify.com/artist/7dLXGClVfy10Ug57dZE0iC"
-        }
-      ],
-      "duration_ms": 259480,
-      "name": "Meu Esquema",
-      "url": "https://open.spotify.com/track/5hO3HgwIygwqjkGsw6wdP3"
-    },
-    {
-      "added_at": "2022-09-26 07:22:32",
-      "album": {
         "name": "The Look Of Love",
         "url": "https://open.spotify.com/album/4nmjBh2Td9I9x9JDncrQr3"
       },
@@ -371,6 +355,22 @@
       "duration_ms": 268760,
       "name": "'S Wonderful",
       "url": "https://open.spotify.com/track/3VZwP7d1U7tuQjb9JZrSRF"
+    },
+    {
+      "added_at": "2022-09-26 07:22:32",
+      "album": {
+        "name": "Por Pouco (Bit Box)",
+        "url": "https://open.spotify.com/album/0h4xTADMMdMSOQraeakiEC"
+      },
+      "artists": [
+        {
+          "name": "Mundo Livre S/A",
+          "url": "https://open.spotify.com/artist/7dLXGClVfy10Ug57dZE0iC"
+        }
+      ],
+      "duration_ms": 259480,
+      "name": "Meu Esquema",
+      "url": "https://open.spotify.com/track/5hO3HgwIygwqjkGsw6wdP3"
     },
     {
       "added_at": "2022-09-26 07:22:32",
@@ -407,6 +407,22 @@
       "duration_ms": 223066,
       "name": "This Guy's In Love With You",
       "url": "https://open.spotify.com/track/3l91QxfQ9vyxq5AJU4D1FC"
+    },
+    {
+      "added_at": "2022-09-26 07:22:32",
+      "album": {
+        "name": "Travelin' Light",
+        "url": "https://open.spotify.com/album/3C1Lr4lVx6EGTiWljHCfSD"
+      },
+      "artists": [
+        {
+          "name": "Shirley Horn",
+          "url": "https://open.spotify.com/artist/0x9L9ChXVAf3hFOb0CbRmd"
+        }
+      ],
+      "duration_ms": 149640,
+      "name": "And I Love Him",
+      "url": "https://open.spotify.com/track/02y0x44un8HW3zsxrS1oQL"
     },
     {
       "added_at": "2022-09-26 07:22:32",
@@ -455,22 +471,6 @@
       "duration_ms": 152933,
       "name": "Este Seu Olhar",
       "url": "https://open.spotify.com/track/7ws9U1clOAmsZmc0LAQxFt"
-    },
-    {
-      "added_at": "2022-09-26 07:22:32",
-      "album": {
-        "name": "Travelin' Light",
-        "url": "https://open.spotify.com/album/3C1Lr4lVx6EGTiWljHCfSD"
-      },
-      "artists": [
-        {
-          "name": "Shirley Horn",
-          "url": "https://open.spotify.com/artist/0x9L9ChXVAf3hFOb0CbRmd"
-        }
-      ],
-      "duration_ms": 149640,
-      "name": "And I Love Him",
-      "url": "https://open.spotify.com/track/02y0x44un8HW3zsxrS1oQL"
     },
     {
       "added_at": "2022-09-26 07:22:32",
@@ -539,22 +539,6 @@
     {
       "added_at": "2022-09-26 07:22:32",
       "album": {
-        "name": "Hooray For Love",
-        "url": "https://open.spotify.com/album/6LrheEX4HOEDjAh5oj4Q9c"
-      },
-      "artists": [
-        {
-          "name": "Curtis Stigers",
-          "url": "https://open.spotify.com/artist/2bNtosg6E8tvmN6wYxPCfu"
-        }
-      ],
-      "duration_ms": 259573,
-      "name": "Love Is Here To Stay",
-      "url": "https://open.spotify.com/track/2bUK1EW5FPfpNDLO42XKqV"
-    },
-    {
-      "added_at": "2022-09-26 07:22:32",
-      "album": {
         "name": "Flirting With Twilight",
         "url": "https://open.spotify.com/album/29To8wt9d5MB8JWsq0XYum"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 262026,
       "name": "Moonlight Serenade",
       "url": "https://open.spotify.com/track/1kRbi9kqF11JCDCPlQVSnc"
+    },
+    {
+      "added_at": "2022-09-26 07:22:32",
+      "album": {
+        "name": "Hooray For Love",
+        "url": "https://open.spotify.com/album/6LrheEX4HOEDjAh5oj4Q9c"
+      },
+      "artists": [
+        {
+          "name": "Curtis Stigers",
+          "url": "https://open.spotify.com/artist/2bNtosg6E8tvmN6wYxPCfu"
+        }
+      ],
+      "duration_ms": 259573,
+      "name": "Love Is Here To Stay",
+      "url": "https://open.spotify.com/track/2bUK1EW5FPfpNDLO42XKqV"
     },
     {
       "added_at": "2022-09-26 07:22:32",
@@ -635,22 +635,6 @@
     {
       "added_at": "2022-09-26 07:22:32",
       "album": {
-        "name": "Roadhouse",
-        "url": "https://open.spotify.com/album/1hOiFphQN0xvJS9gNGWaqx"
-      },
-      "artists": [
-        {
-          "name": "Ruth Cameron",
-          "url": "https://open.spotify.com/artist/6xU3elxz1hWVmeToFlgB0v"
-        }
-      ],
-      "duration_ms": 292973,
-      "name": "A Sunday Kind Of Love",
-      "url": "https://open.spotify.com/track/5MtTR1jjNpaYbutc0ZY6hp"
-    },
-    {
-      "added_at": "2022-09-26 07:22:32",
-      "album": {
         "name": "Language of Love",
         "url": "https://open.spotify.com/album/02ST3umR7z95MJsoaeuLf1"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 296586,
       "name": "That\u2019s My Desire",
       "url": "https://open.spotify.com/track/76UAKQQF3AylDr39Sm9uY6"
+    },
+    {
+      "added_at": "2022-09-26 07:22:32",
+      "album": {
+        "name": "Roadhouse",
+        "url": "https://open.spotify.com/album/1hOiFphQN0xvJS9gNGWaqx"
+      },
+      "artists": [
+        {
+          "name": "Ruth Cameron",
+          "url": "https://open.spotify.com/artist/6xU3elxz1hWVmeToFlgB0v"
+        }
+      ],
+      "duration_ms": 292973,
+      "name": "A Sunday Kind Of Love",
+      "url": "https://open.spotify.com/track/5MtTR1jjNpaYbutc0ZY6hp"
     },
     {
       "added_at": "2022-09-26 07:22:32",
@@ -735,6 +735,22 @@
     {
       "added_at": "2022-09-26 07:22:32",
       "album": {
+        "name": "Memories of You: A Tribute to Benny Goodman",
+        "url": "https://open.spotify.com/album/6HkIihEq6W1ScwbmyC5gH9"
+      },
+      "artists": [
+        {
+          "name": "Carol Welsman",
+          "url": "https://open.spotify.com/artist/5nw4wMgfImhoebM0e2MzSR"
+        }
+      ],
+      "duration_ms": 290653,
+      "name": "Memories of You",
+      "url": "https://open.spotify.com/track/27MP3QeTblV0W6ZnDtBk5r"
+    },
+    {
+      "added_at": "2022-09-26 07:22:32",
+      "album": {
         "name": "This Foolish Heart Could Love You",
         "url": "https://open.spotify.com/album/3drTurehf6fmDXx6nPqxl2"
       },
@@ -751,22 +767,6 @@
       "duration_ms": 212826,
       "name": "This Foolish Heart Could Love You",
       "url": "https://open.spotify.com/track/002LxxV7VTy5JkvkmmGanl"
-    },
-    {
-      "added_at": "2022-09-26 07:22:32",
-      "album": {
-        "name": "Memories of You: A Tribute to Benny Goodman",
-        "url": "https://open.spotify.com/album/6HkIihEq6W1ScwbmyC5gH9"
-      },
-      "artists": [
-        {
-          "name": "Carol Welsman",
-          "url": "https://open.spotify.com/artist/5nw4wMgfImhoebM0e2MzSR"
-        }
-      ],
-      "duration_ms": 290653,
-      "name": "Memories of You",
-      "url": "https://open.spotify.com/track/27MP3QeTblV0W6ZnDtBk5r"
     },
     {
       "added_at": "2022-09-26 07:22:32",
@@ -855,54 +855,6 @@
     {
       "added_at": "2022-09-26 07:22:32",
       "album": {
-        "name": "Voices Of Love",
-        "url": "https://open.spotify.com/album/3vyGVRUQaAS4g2ztBZX9t9"
-      },
-      "artists": [
-        {
-          "name": "Ann Sally",
-          "url": "https://open.spotify.com/artist/1g9zG323vBvafWMplgUEQx"
-        }
-      ],
-      "duration_ms": 258346,
-      "name": "I Wish You Love",
-      "url": "https://open.spotify.com/track/5Uc0WlK2e5B5NYvS72fCHp"
-    },
-    {
-      "added_at": "2022-09-26 07:22:32",
-      "album": {
-        "name": "Tuck + Cover",
-        "url": "https://open.spotify.com/album/3ldm7w3EdQXyMHJHUmizvk"
-      },
-      "artists": [
-        {
-          "name": "Hailey Tuck",
-          "url": "https://open.spotify.com/artist/31xWBejhhuVdm9zRmCQuse"
-        }
-      ],
-      "duration_ms": 208767,
-      "name": "Love On Top",
-      "url": "https://open.spotify.com/track/7409tRO6Y8sLLIlSRZyXiu"
-    },
-    {
-      "added_at": "2022-09-26 07:22:32",
-      "album": {
-        "name": "The Very Thought of You",
-        "url": "https://open.spotify.com/album/6R6CLCrX0PblFlg8kj1KsO"
-      },
-      "artists": [
-        {
-          "name": "Nicole Henry",
-          "url": "https://open.spotify.com/artist/17lVE8O9nHn3WWc6Csy2Sn"
-        }
-      ],
-      "duration_ms": 316453,
-      "name": "Make It Last",
-      "url": "https://open.spotify.com/track/69Di4YxK4PB1ivkRdeglt5"
-    },
-    {
-      "added_at": "2022-09-26 07:22:32",
-      "album": {
         "name": "Full Moon",
         "url": "https://open.spotify.com/album/6IFHK7RBdfloqcLW53wroM"
       },
@@ -923,18 +875,34 @@
     {
       "added_at": "2022-09-26 07:22:32",
       "album": {
-        "name": "Can\u00e7\u00f5es de Caymmi",
-        "url": "https://open.spotify.com/album/4cLmwrthVvhIYcOcrVDUaX"
+        "name": "Voices Of Love",
+        "url": "https://open.spotify.com/album/3vyGVRUQaAS4g2ztBZX9t9"
       },
       "artists": [
         {
-          "name": "Jussara Silveira",
-          "url": "https://open.spotify.com/artist/59RULa3Jap6Q7Pj1o9tb7T"
+          "name": "Ann Sally",
+          "url": "https://open.spotify.com/artist/1g9zG323vBvafWMplgUEQx"
         }
       ],
-      "duration_ms": 242866,
-      "name": "L\u00e1 Vem a Baiana",
-      "url": "https://open.spotify.com/track/1n441XV55b21VveSUSA1SA"
+      "duration_ms": 258346,
+      "name": "I Wish You Love",
+      "url": "https://open.spotify.com/track/5Uc0WlK2e5B5NYvS72fCHp"
+    },
+    {
+      "added_at": "2022-09-26 07:22:32",
+      "album": {
+        "name": "The Very Thought of You",
+        "url": "https://open.spotify.com/album/6R6CLCrX0PblFlg8kj1KsO"
+      },
+      "artists": [
+        {
+          "name": "Nicole Henry",
+          "url": "https://open.spotify.com/artist/17lVE8O9nHn3WWc6Csy2Sn"
+        }
+      ],
+      "duration_ms": 316453,
+      "name": "Make It Last",
+      "url": "https://open.spotify.com/track/69Di4YxK4PB1ivkRdeglt5"
     },
     {
       "added_at": "2022-09-26 07:22:32",
@@ -951,6 +919,70 @@
       "duration_ms": 277065,
       "name": "12th Avenue",
       "url": "https://open.spotify.com/track/2x5Rw8dR4Vi0tHSHk3ApNc"
+    },
+    {
+      "added_at": "2022-09-26 07:22:32",
+      "album": {
+        "name": "Tuck + Cover",
+        "url": "https://open.spotify.com/album/3ldm7w3EdQXyMHJHUmizvk"
+      },
+      "artists": [
+        {
+          "name": "Hailey Tuck",
+          "url": "https://open.spotify.com/artist/31xWBejhhuVdm9zRmCQuse"
+        }
+      ],
+      "duration_ms": 208767,
+      "name": "Love On Top",
+      "url": "https://open.spotify.com/track/7409tRO6Y8sLLIlSRZyXiu"
+    },
+    {
+      "added_at": "2022-09-26 07:22:32",
+      "album": {
+        "name": "Can\u00e7\u00f5es de Caymmi",
+        "url": "https://open.spotify.com/album/4cLmwrthVvhIYcOcrVDUaX"
+      },
+      "artists": [
+        {
+          "name": "Jussara Silveira",
+          "url": "https://open.spotify.com/artist/59RULa3Jap6Q7Pj1o9tb7T"
+        }
+      ],
+      "duration_ms": 242866,
+      "name": "L\u00e1 Vem a Baiana",
+      "url": "https://open.spotify.com/track/1n441XV55b21VveSUSA1SA"
+    },
+    {
+      "added_at": "2022-09-26 07:22:32",
+      "album": {
+        "name": "Sunshine Moonlight",
+        "url": "https://open.spotify.com/album/4qDJU53dUWCr9SAsVGXf6t"
+      },
+      "artists": [
+        {
+          "name": "melissa elliotte",
+          "url": "https://open.spotify.com/artist/2OYO7c5glKNbgbp5kMpGXB"
+        }
+      ],
+      "duration_ms": 193386,
+      "name": "It Must Be Love",
+      "url": "https://open.spotify.com/track/735WbySbM7FJGrdFHeGKXl"
+    },
+    {
+      "added_at": "2022-09-26 07:22:32",
+      "album": {
+        "name": "On My Way to You",
+        "url": "https://open.spotify.com/album/1HQrW5oQigjeWcKwR3HkNX"
+      },
+      "artists": [
+        {
+          "name": "Rigmor Gustafsson",
+          "url": "https://open.spotify.com/artist/4PVhLylgFzJbW165GuwMzU"
+        }
+      ],
+      "duration_ms": 357013,
+      "name": "What Are You Doing The Rest Of Your Life",
+      "url": "https://open.spotify.com/track/4cZS6Zsn3H7Srg42UX7v5W"
     },
     {
       "added_at": "2022-09-26 07:22:32",
@@ -979,66 +1011,18 @@
     {
       "added_at": "2022-09-26 07:22:32",
       "album": {
-        "name": "Sunshine Moonlight",
-        "url": "https://open.spotify.com/album/4qDJU53dUWCr9SAsVGXf6t"
+        "name": "Take To The Sky",
+        "url": "https://open.spotify.com/album/1MqGJoEKazTWPX0HaA17L2"
       },
       "artists": [
         {
-          "name": "melissa elliotte",
-          "url": "https://open.spotify.com/artist/2OYO7c5glKNbgbp5kMpGXB"
+          "name": "Kat Edmonson",
+          "url": "https://open.spotify.com/artist/6WxegST7d2jCYjq7SR8Bds"
         }
       ],
-      "duration_ms": 193386,
-      "name": "It Must Be Love",
-      "url": "https://open.spotify.com/track/735WbySbM7FJGrdFHeGKXl"
-    },
-    {
-      "added_at": "2022-09-26 07:22:32",
-      "album": {
-        "name": "The Beatles Nova",
-        "url": "https://open.spotify.com/album/50DPfVGnhbQdLMy5tKQEAR"
-      },
-      "artists": [
-        {
-          "name": "Grazyna Auguscik",
-          "url": "https://open.spotify.com/artist/3miAXkP8aIGDA3OKydtBNQ"
-        },
-        {
-          "name": "Paulinho Garcia",
-          "url": "https://open.spotify.com/artist/43Q9oS0K3TSjq7fU3yi4rD"
-        },
-        {
-          "name": "Heitor Garcia",
-          "url": "https://open.spotify.com/artist/2j8zk6kqtHS1yvPZpDzhtx"
-        },
-        {
-          "name": "Brett Benteler",
-          "url": "https://open.spotify.com/artist/197YboJZQFinGtaHG53zUF"
-        },
-        {
-          "name": "Steve Eisen",
-          "url": "https://open.spotify.com/artist/4wSnxqNo9DjIkb2WwwDk7c"
-        }
-      ],
-      "duration_ms": 183226,
-      "name": "When I'm 64",
-      "url": "https://open.spotify.com/track/3J5HOK2P66j1S7pjMV99w8"
-    },
-    {
-      "added_at": "2022-09-26 07:22:32",
-      "album": {
-        "name": "On My Way to You",
-        "url": "https://open.spotify.com/album/1HQrW5oQigjeWcKwR3HkNX"
-      },
-      "artists": [
-        {
-          "name": "Rigmor Gustafsson",
-          "url": "https://open.spotify.com/artist/4PVhLylgFzJbW165GuwMzU"
-        }
-      ],
-      "duration_ms": 357013,
-      "name": "What Are You Doing The Rest Of Your Life",
-      "url": "https://open.spotify.com/track/4cZS6Zsn3H7Srg42UX7v5W"
+      "duration_ms": 312293,
+      "name": "Summertime",
+      "url": "https://open.spotify.com/track/7hPTKT0j7mEn9lBKerFtit"
     },
     {
       "added_at": "2022-09-26 07:22:32",
@@ -1075,18 +1059,34 @@
     {
       "added_at": "2022-09-26 07:22:32",
       "album": {
-        "name": "Take To The Sky",
-        "url": "https://open.spotify.com/album/1MqGJoEKazTWPX0HaA17L2"
+        "name": "The Beatles Nova",
+        "url": "https://open.spotify.com/album/50DPfVGnhbQdLMy5tKQEAR"
       },
       "artists": [
         {
-          "name": "Kat Edmonson",
-          "url": "https://open.spotify.com/artist/6WxegST7d2jCYjq7SR8Bds"
+          "name": "Grazyna Auguscik",
+          "url": "https://open.spotify.com/artist/3miAXkP8aIGDA3OKydtBNQ"
+        },
+        {
+          "name": "Paulinho Garcia",
+          "url": "https://open.spotify.com/artist/43Q9oS0K3TSjq7fU3yi4rD"
+        },
+        {
+          "name": "Heitor Garcia",
+          "url": "https://open.spotify.com/artist/2j8zk6kqtHS1yvPZpDzhtx"
+        },
+        {
+          "name": "Brett Benteler",
+          "url": "https://open.spotify.com/artist/197YboJZQFinGtaHG53zUF"
+        },
+        {
+          "name": "Steve Eisen",
+          "url": "https://open.spotify.com/artist/4wSnxqNo9DjIkb2WwwDk7c"
         }
       ],
-      "duration_ms": 312293,
-      "name": "Summertime",
-      "url": "https://open.spotify.com/track/7hPTKT0j7mEn9lBKerFtit"
+      "duration_ms": 183226,
+      "name": "When I'm 64",
+      "url": "https://open.spotify.com/track/3J5HOK2P66j1S7pjMV99w8"
     },
     {
       "added_at": "2022-09-26 07:22:32",
@@ -1139,42 +1139,6 @@
     {
       "added_at": "2022-09-26 07:22:32",
       "album": {
-        "name": "A Wonderful World",
-        "url": "https://open.spotify.com/album/626Y44MkmT99wZsqs5R8vY"
-      },
-      "artists": [
-        {
-          "name": "Tony Bennett",
-          "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
-        },
-        {
-          "name": "k.d. lang",
-          "url": "https://open.spotify.com/artist/6W1BHDF0T4a4KYcSwzD586"
-        }
-      ],
-      "duration_ms": 203893,
-      "name": "A Kiss to Build a Dream On",
-      "url": "https://open.spotify.com/track/4xsJ6KEsIjsHKWJA7D8GAI"
-    },
-    {
-      "added_at": "2022-09-26 07:22:32",
-      "album": {
-        "name": "Relaxing Bossa Lounge",
-        "url": "https://open.spotify.com/album/1XMQvpAQLEQB1rdDtB7Thw"
-      },
-      "artists": [
-        {
-          "name": "Monique Kessous",
-          "url": "https://open.spotify.com/artist/2iI3XJh51N8lfWhmrO5CFI"
-        }
-      ],
-      "duration_ms": 158931,
-      "name": "A Hard Day\u00b4s Night (Bossa Version)",
-      "url": "https://open.spotify.com/track/1SE6dKoxp3X9gnHQmoer4J"
-    },
-    {
-      "added_at": "2022-09-26 07:22:32",
-      "album": {
         "name": "Love for Sale",
         "url": "https://open.spotify.com/album/2NQRFZ6kUkN35JuB8SeGM9"
       },
@@ -1199,34 +1163,38 @@
     {
       "added_at": "2022-09-26 07:22:32",
       "album": {
-        "name": "Shades of Delight",
-        "url": "https://open.spotify.com/album/1TmyQu2ABmq5cHbH6Ds2n8"
+        "name": "Relaxing Bossa Lounge",
+        "url": "https://open.spotify.com/album/1XMQvpAQLEQB1rdDtB7Thw"
       },
       "artists": [
         {
-          "name": "Lyambiko",
-          "url": "https://open.spotify.com/artist/6ffhnheAv6MHO3B0ybBpnK"
+          "name": "Monique Kessous",
+          "url": "https://open.spotify.com/artist/2iI3XJh51N8lfWhmrO5CFI"
         }
       ],
-      "duration_ms": 292056,
-      "name": "Malaika",
-      "url": "https://open.spotify.com/track/5ZMoyCcee60Omi3bNklKvQ"
+      "duration_ms": 158931,
+      "name": "A Hard Day\u00b4s Night (Bossa Version)",
+      "url": "https://open.spotify.com/track/1SE6dKoxp3X9gnHQmoer4J"
     },
     {
       "added_at": "2022-09-26 07:22:32",
       "album": {
-        "name": "Kandace Springs",
-        "url": "https://open.spotify.com/album/3sgO2YhnSjDNGCkcm3tjrr"
+        "name": "A Wonderful World",
+        "url": "https://open.spotify.com/album/626Y44MkmT99wZsqs5R8vY"
       },
       "artists": [
         {
-          "name": "Kandace Springs",
-          "url": "https://open.spotify.com/artist/19j0iFmJ5A6CMT0MVZZU4O"
+          "name": "Tony Bennett",
+          "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
+        },
+        {
+          "name": "k.d. lang",
+          "url": "https://open.spotify.com/artist/6W1BHDF0T4a4KYcSwzD586"
         }
       ],
-      "duration_ms": 196844,
-      "name": "Forbidden Fruit",
-      "url": "https://open.spotify.com/track/5Whmxb8uv9XCLz0daWbOVr"
+      "duration_ms": 203893,
+      "name": "A Kiss to Build a Dream On",
+      "url": "https://open.spotify.com/track/4xsJ6KEsIjsHKWJA7D8GAI"
     },
     {
       "added_at": "2022-09-26 07:22:32",
@@ -1247,6 +1215,38 @@
     {
       "added_at": "2022-09-26 07:22:32",
       "album": {
+        "name": "Kandace Springs",
+        "url": "https://open.spotify.com/album/3sgO2YhnSjDNGCkcm3tjrr"
+      },
+      "artists": [
+        {
+          "name": "Kandace Springs",
+          "url": "https://open.spotify.com/artist/19j0iFmJ5A6CMT0MVZZU4O"
+        }
+      ],
+      "duration_ms": 196844,
+      "name": "Forbidden Fruit",
+      "url": "https://open.spotify.com/track/5Whmxb8uv9XCLz0daWbOVr"
+    },
+    {
+      "added_at": "2022-09-26 07:22:32",
+      "album": {
+        "name": "Shades of Delight",
+        "url": "https://open.spotify.com/album/1TmyQu2ABmq5cHbH6Ds2n8"
+      },
+      "artists": [
+        {
+          "name": "Lyambiko",
+          "url": "https://open.spotify.com/artist/6ffhnheAv6MHO3B0ybBpnK"
+        }
+      ],
+      "duration_ms": 292056,
+      "name": "Malaika",
+      "url": "https://open.spotify.com/track/5ZMoyCcee60Omi3bNklKvQ"
+    },
+    {
+      "added_at": "2022-09-26 07:22:32",
+      "album": {
         "name": "After Dark",
         "url": "https://open.spotify.com/album/1jHMh9wZHmRbBAnRpi8KLL"
       },
@@ -1263,22 +1263,18 @@
     {
       "added_at": "2022-09-26 07:22:32",
       "album": {
-        "name": "The Promise",
-        "url": "https://open.spotify.com/album/3BeSTlo1dAa4bdPqUaXATy"
+        "name": "Baby Breeze (Expanded Edition)",
+        "url": "https://open.spotify.com/album/4FwmVb94KamiFQNi2uslNM"
       },
       "artists": [
         {
-          "name": "Jamie Lancaster",
-          "url": "https://open.spotify.com/artist/0iRoi077zFrRThy27nP4GR"
-        },
-        {
-          "name": "Lizette",
-          "url": "https://open.spotify.com/artist/5W2wSFP3ZxgYAColX5r3wT"
+          "name": "Chet Baker",
+          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
         }
       ],
-      "duration_ms": 157786,
-      "name": "The Promise",
-      "url": "https://open.spotify.com/track/3xvCyI2J1nSvl85kOmPcK6"
+      "duration_ms": 162733,
+      "name": "The Touch Of Your Lips",
+      "url": "https://open.spotify.com/track/5LLWrf6UdvgH9o1PGkNeYP"
     }
   ],
   "unique_name": "\u7235\u58eb\u60c5\u6b4c",

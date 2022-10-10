@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-27",
-  "description": "Aquele som que \u00e9 pura brisa. \ud83c\udf43 Foto: 3030",
+  "description": "Aquele som que \u00e9 pura brisa. \ud83c\udf43 Foto: Papatinho\n",
   "name": "brisa",
   "published_playlist_ids": [
     "6jQhl9g0LTyG58hELgK7FX"
@@ -437,6 +437,24 @@
       "duration_ms": 161784,
       "name": "A\u00e7a\u00ed",
       "url": "https://open.spotify.com/track/1ETkQX4nDyZHZtLfns6mcS"
+    },
+    {
+      "album": {
+        "name": "Baixinha Marrenta",
+        "url": "https://open.spotify.com/album/0l1tEXSTHyGjDKiLIrYKl1"
+      },
+      "artists": [
+        {
+          "name": "Micael",
+          "url": "https://open.spotify.com/artist/6GebSQv9yjXJND5hHIaQfY"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184615,
+      "name": "Baixinha Marrenta",
+      "url": "https://open.spotify.com/track/30mYXNYklxnOvARxXYUkgQ"
     },
     {
       "album": {
@@ -908,6 +926,32 @@
     },
     {
       "album": {
+        "name": "Ela",
+        "url": "https://open.spotify.com/album/6hgMAiw5faQUZgStrv3EDg"
+      },
+      "artists": [
+        {
+          "name": "LUTHULY",
+          "url": "https://open.spotify.com/artist/60FCr24uBUSiwk75v0vfVS"
+        },
+        {
+          "name": "Bivolt",
+          "url": "https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ"
+        },
+        {
+          "name": "Nave",
+          "url": "https://open.spotify.com/artist/2Xpiwporhsl8LXdC96Xs8J"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160687,
+      "name": "Ela",
+      "url": "https://open.spotify.com/track/1xFt2EA1GMkU4vJfac124M"
+    },
+    {
+      "album": {
         "name": "Ela Partiu",
         "url": "https://open.spotify.com/album/6wFFievQBoOnIwDk5sPzXA"
       },
@@ -1127,6 +1171,32 @@
       "duration_ms": 122263,
       "name": "Falando Dela 2",
       "url": "https://open.spotify.com/track/1ebphlBWJHENEs1StX3FYP"
+    },
+    {
+      "album": {
+        "name": "Final de Semana",
+        "url": "https://open.spotify.com/album/7oGa4f5RYS54efYTLmrCHu"
+      },
+      "artists": [
+        {
+          "name": "Papatinho",
+          "url": "https://open.spotify.com/artist/0iZz25uH5PLaShpqq84uYv"
+        },
+        {
+          "name": "Seu Jorge",
+          "url": "https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo"
+        },
+        {
+          "name": "Black Alien",
+          "url": "https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201682,
+      "name": "Final de Semana",
+      "url": "https://open.spotify.com/track/41sjmSYBlafAQrfcxt5387"
     },
     {
       "album": {
@@ -2407,7 +2477,7 @@
       ],
       "date_added": "2022-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 140624,
       "name": "PRIMEIRA VISTA",
       "url": "https://open.spotify.com/track/46qcIwcdt2NSuiH8hHJVob"
@@ -2591,7 +2661,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 166927,
       "name": "Sabotagem",
       "url": "https://open.spotify.com/track/1oKeFnoD4jIQ9EiUyW4msF"
@@ -2765,7 +2835,7 @@
       ],
       "date_added": "2022-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 206451,
       "name": "Sentir Saudade",
       "url": "https://open.spotify.com/track/4LuSl1ajXHPZB1gGWQ069n"

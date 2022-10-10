@@ -709,7 +709,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 274096,
       "name": "Busta Move",
       "url": "https://open.spotify.com/track/4SHv5Chn9bYy55YtUzwmqF"
@@ -1211,7 +1211,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-06",
       "duration_ms": 216550,
       "name": "Dig It",
       "url": "https://open.spotify.com/track/2zhLDKuqClyWEJJfHVGe2y"
@@ -2039,7 +2039,7 @@
           "url": "https://open.spotify.com/artist/099uBIWpdGDTtJ7daCuCyX"
         }
       ],
-      "date_added": "2022-10-01",
+      "date_added": "2022-09-30",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 253720,
@@ -2175,7 +2175,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-21",
+      "date_removed": "2022-10-08",
       "duration_ms": 374536,
       "name": "Honest",
       "url": "https://open.spotify.com/track/3GJ5EcLudl4JrUld9sfD7o"
@@ -2840,6 +2840,24 @@
     },
     {
       "album": {
+        "name": "Look Both Ways",
+        "url": "https://open.spotify.com/album/6S2AOidMcHGkQDOiDpAxrj"
+      },
+      "artists": [
+        {
+          "name": "Ken Navarro",
+          "url": "https://open.spotify.com/artist/6qA8zAyPYgmtPQtQz2G96a"
+        }
+      ],
+      "date_added": "2022-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283760,
+      "name": "Look Both Ways",
+      "url": "https://open.spotify.com/track/1v1SJOhvTYwMbamGubPw34"
+    },
+    {
+      "album": {
         "name": "With Every Turn",
         "url": "https://open.spotify.com/album/3ycJd6p1aJd3KebLEijD2G"
       },
@@ -3081,6 +3099,28 @@
       "duration_ms": 254734,
       "name": "Monday",
       "url": "https://open.spotify.com/track/0rviXYk3XxKRrQgBmAxNIm"
+    },
+    {
+      "album": {
+        "name": "Free",
+        "url": "https://open.spotify.com/album/1JsNa5M9CjJcK56SbXlcsU"
+      },
+      "artists": [
+        {
+          "name": "J. White",
+          "url": "https://open.spotify.com/artist/10LN78B3CGfkHBYptZGbov"
+        },
+        {
+          "name": "Lin Rountree",
+          "url": "https://open.spotify.com/artist/4SVXSNL59kiSLgjwZeEfDg"
+        }
+      ],
+      "date_added": "2022-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264573,
+      "name": "Motor City Moves (feat. Lin Rountree)",
+      "url": "https://open.spotify.com/track/5P8qx52DAW0ZQ4qijSHePN"
     },
     {
       "album": {
@@ -4275,7 +4315,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-05",
       "duration_ms": 228102,
       "name": "Soul to Soul - 2022 Version",
       "url": "https://open.spotify.com/track/78y37Rtf5UXolH7LqUNjF7"
@@ -5027,7 +5067,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-02",
+      "date_removed": null,
       "duration_ms": 323500,
       "name": "Ticket to Pittsburgh",
       "url": "https://open.spotify.com/track/108rbeIEFrj81JWNXXWsX4"

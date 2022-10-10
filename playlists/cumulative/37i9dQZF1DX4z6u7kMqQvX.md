@@ -4,7 +4,7 @@
 
 > Sin ataduras, pero con amor: la medida justa de romance independiente.
 
-386 songs - 22 hr 4 min - [published](https://open.spotify.com/playlist/05X6LIr2loTOLIj7GqiZl1)
+387 songs - 22 hr 7 min - [published](https://open.spotify.com/playlist/05X6LIr2loTOLIj7GqiZl1)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,7 @@
 | [A Dónde Vamos?](https://open.spotify.com/track/1IHqTQujYdLIGhd0fHgoxa) | [Dromedarios Mágicos](https://open.spotify.com/artist/3UP83Ekm9Jse6j0dWZJlH9), [Alex Cuba](https://open.spotify.com/artist/7gZRUp2WL6r11PXTv309P1) | [A Dónde Vamos?](https://open.spotify.com/album/5v2DHcwUNxPBLC4qNZDw2T) | 3:22 | 2022-01-07 |  |
 | [A la Vez](https://open.spotify.com/track/5C9IeDOtfwkDUGd9aF2ELI) | [Conociendo Rusia](https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2) | [A la Vez](https://open.spotify.com/album/7MUsxK6X6NkL21K3yrjuQs) | 3:02 | 2022-01-07 |  |
 | [a lifetime with you](https://open.spotify.com/track/4TpbCnB3xgDYm2uhGLuQwV) | [Salt Cathedral](https://open.spotify.com/artist/1HhSYZFNNPTTZuOlSfZUJP) | [CARISMA](https://open.spotify.com/album/62TQ8Q7gaq5T4eUzYr3YXQ) | 3:07 | 2022-01-28 | 2022-04-18 |
-| [Abriendo Latidos](https://open.spotify.com/track/5PnoR6ebAhK7paJET1iv6a) | [LARÓ](https://open.spotify.com/artist/30BfEIsC9RFTPJDIVy43ri) | [Abriendo Latidos](https://open.spotify.com/album/5aA6xXb2YJGRjyPhx0orry) | 3:14 | 2022-01-07 |  |
+| [Abriendo Latidos](https://open.spotify.com/track/5PnoR6ebAhK7paJET1iv6a) | [LARÓ](https://open.spotify.com/artist/30BfEIsC9RFTPJDIVy43ri) | [Abriendo Latidos](https://open.spotify.com/album/5aA6xXb2YJGRjyPhx0orry) | 3:14 | 2022-01-07 | 2022-10-03 |
 | [Acercarme a Vos](https://open.spotify.com/track/6RKnz9l63EErn17rCGx5y9) | [Nico Peña](https://open.spotify.com/artist/3JE1nspmOIMZ6VWFIMb3Ea) | [Acercarme a Vos](https://open.spotify.com/album/2zXBH1Z22x1hST8AdQB4W1) | 4:01 | 2022-01-28 | 2022-07-29 |
 | [Acercate a Mí](https://open.spotify.com/track/2iv6mpRnSTJjE9z8fpxSNR) | [VANZA](https://open.spotify.com/artist/6vA9LVoLAIimgnQp0XfMLQ) | [Cuerpos en Fuga](https://open.spotify.com/album/0Ek2iA2MTEb9ecB9SMbWZF) | 3:50 | 2022-01-28 | 2022-06-24 |
 | [Acicálame](https://open.spotify.com/track/5Ew6ieSRFMoGZlF3rWtDNM) | [Tessa Ia](https://open.spotify.com/artist/2Bo0gW1bqWSjD27xOcVtjg) | [Correspondencia](https://open.spotify.com/album/1AYrH8rgkrGL2MBZZiaCSa) | 3:22 | 2022-01-07 |  |
@@ -234,6 +234,7 @@
 | [Matemática sentimental](https://open.spotify.com/track/3mRxdRzBEcydtMyUDxjRc6) | [Los Besos](https://open.spotify.com/artist/7nbOE0RhCrS1GrDEaVUVee) | [Matemática sentimental](https://open.spotify.com/album/77pcWgYSez4zAM8VoRXLB1) | 2:58 | 2022-04-01 | 2022-04-25 |
 | [Me Conecto \(feat\. Jorge Drexler\)](https://open.spotify.com/track/6X99UPXCpHWCih4OcZN9pg) | [Salvapantallas](https://open.spotify.com/artist/1VZQhmsaBc4voNvRGvFUgK), [Jorge Drexler](https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt) | [SMS](https://open.spotify.com/album/2D2JNUc0IzRwyiDR8X2sHh) | 3:08 | 2022-01-07 |  |
 | [Me Enamoré Muy Fácil](https://open.spotify.com/track/7MlqR8FMlCuCPDeSsxcAmd) | [FLORIAN](https://open.spotify.com/artist/6C3bLjpIfVoapHjMfpYAy2) | [Me Enamoré Muy Fácil](https://open.spotify.com/album/0uUcyrBYVxD7h3pCFJabXb) | 3:21 | 2022-01-07 | 2022-07-28 |
+| [Me Gustas Tú](https://open.spotify.com/track/5rKuJ17ulyXWrqtLKS4sFM) | [Javiera Mena](https://open.spotify.com/artist/6c0qylj1D1gqcUUN2P8Ofp) | [Nocturna](https://open.spotify.com/album/5vU4ilAXgThxcO2wEuPuk3) | 2:29 | 2022-09-30 |  |
 | [Me hace bien](https://open.spotify.com/track/5eLyocmado1OAnuua5kNlS) | [Los Hermanos Morgan](https://open.spotify.com/artist/4hgrhLThMxBSxW5h0gMfoe) | [Me hace bien](https://open.spotify.com/album/4rXrbWylVd16oQXQ78GSiY) | 3:10 | 2022-04-01 | 2022-04-13 |
 | [Mejor Sin Miedo](https://open.spotify.com/track/4nbkZq5yLjPh4Zy7kEqOGX) | [La Gente del Bien](https://open.spotify.com/artist/0M7YLSxwvd6kNKHbH8eQUw) | [Mejor Sin Miedo](https://open.spotify.com/album/7wG8LczSGRTbiwFW5Hqjgs) | 3:08 | 2022-07-15 | 2022-07-25 |
 | [Melodía de Extrañar](https://open.spotify.com/track/5R332yPmr1HnfvevX73Tb0) | [Lara Pedrosa](https://open.spotify.com/artist/1FnX7FGjz4cjIvo6rmMK8N), [Santiago Motorizado](https://open.spotify.com/artist/1ldpEB62bhHdKBLnaYYLvs) | [Melodía de Extrañar](https://open.spotify.com/album/6iwm50gytq0b0BMuWcXNiR) | 2:46 | 2022-04-01 | 2022-05-25 |

@@ -412,6 +412,24 @@
     },
     {
       "album": {
+        "name": "Brand New - The 1st Mini Album",
+        "url": "https://open.spotify.com/album/2cmaMDT5b91omh5W6ilQ2R"
+      },
+      "artists": [
+        {
+          "name": "XIUMIN",
+          "url": "https://open.spotify.com/artist/5t0Js3X9t4wpgXGlaiTFe6"
+        }
+      ],
+      "date_added": "2022-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184493,
+      "name": "Brand New",
+      "url": "https://open.spotify.com/track/1ueAM35cpUd8EjbrIq26AD"
+    },
+    {
+      "album": {
         "name": "California Love",
         "url": "https://open.spotify.com/album/1p8UR9GqDhao1x8msg29gL"
       },
@@ -1099,7 +1117,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-05",
       "duration_ms": 183896,
       "name": "Hate this love",
       "url": "https://open.spotify.com/track/216Q6SYsRfTCU5FOZWedT0"
@@ -1389,7 +1407,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-10",
       "duration_ms": 240000,
       "name": "I thought it was love.",
       "url": "https://open.spotify.com/track/37dIoyzhDmVq4Zz1Ps1SgU"
@@ -1469,6 +1487,24 @@
       "duration_ms": 251000,
       "name": "In Paris (feat. Kaya)",
       "url": "https://open.spotify.com/track/0Q0swUf6gyh1u8gocCTpFl"
+    },
+    {
+      "album": {
+        "name": "Je N\u2032aime Que Toi",
+        "url": "https://open.spotify.com/album/7uVRKea8NWn4gkMSEyQjcX"
+      },
+      "artists": [
+        {
+          "name": "oftn",
+          "url": "https://open.spotify.com/artist/2uVkd9g6fvjvPnCQ6zkrhf"
+        }
+      ],
+      "date_added": "2022-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196666,
+      "name": "Je N\u2032aime Que Toi",
+      "url": "https://open.spotify.com/track/5ziZpT9la4h3sjfvitLc1A"
     },
     {
       "album": {
@@ -1755,7 +1791,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-09",
       "duration_ms": 198875,
       "name": "Love like a bouquet,",
       "url": "https://open.spotify.com/track/7es4VhC71wFHRaVjkdQ5rK"
@@ -2325,6 +2361,24 @@
       "duration_ms": 144113,
       "name": "Reset",
       "url": "https://open.spotify.com/track/1GH0sHRBwLYJwuyqBPsf0q"
+    },
+    {
+      "album": {
+        "name": "right now",
+        "url": "https://open.spotify.com/album/0outmoEBf1z970iFwCEPBs"
+      },
+      "artists": [
+        {
+          "name": "RIPLEY",
+          "url": "https://open.spotify.com/artist/226NgMhCe19mK7xFekn3TZ"
+        }
+      ],
+      "date_added": "2022-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135750,
+      "name": "right now",
+      "url": "https://open.spotify.com/track/1nEHkqPpdcYimQBcksbpFe"
     },
     {
       "album": {

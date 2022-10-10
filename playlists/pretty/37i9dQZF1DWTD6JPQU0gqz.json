@@ -1,12 +1,12 @@
 {
   "description": "Celebrando a los m\u00fasicos Afro-Latinos. Cover: Tego Calderon",
-  "num_followers": 44813,
+  "num_followers": 44816,
   "original_name": "Orgullo Afro-Latino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzA3NTI1NywwMDAwMDAwMGIwY2FjMDY4MGM3MWQzZDNjNTFiZjhmYjcwNTdjMzc2",
+  "snapshot_id": "MTY2MzA3NTI1NywwMDAwMDAwMDMwYWZiYWJhNGI2MmU0ZDUwNDhkYmViNGMwM2Y4NWNk",
   "tracks": [
     {
       "added_at": "2022-09-13 13:20:57",
@@ -143,22 +143,6 @@
     {
       "added_at": "2022-09-13 13:20:57",
       "album": {
-        "name": "Noche de Teteo",
-        "url": "https://open.spotify.com/album/5Qt0bEk7a3RONCNxHJIFdx"
-      },
-      "artists": [
-        {
-          "name": "Sech",
-          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
-        }
-      ],
-      "duration_ms": 202600,
-      "name": "Noche de Teteo",
-      "url": "https://open.spotify.com/track/5YBvKoQDMAd7IjonxPQYFN"
-    },
-    {
-      "added_at": "2022-09-13 13:20:57",
-      "album": {
         "name": "Feliz",
         "url": "https://open.spotify.com/album/17AsbbuIO3w4PYPS83SmV8"
       },
@@ -171,6 +155,22 @@
       "duration_ms": 177240,
       "name": "Feliz",
       "url": "https://open.spotify.com/track/2mzDRrBn6M6rWX4bGzd1uQ"
+    },
+    {
+      "added_at": "2022-09-13 13:20:57",
+      "album": {
+        "name": "Noche de Teteo",
+        "url": "https://open.spotify.com/album/5Qt0bEk7a3RONCNxHJIFdx"
+      },
+      "artists": [
+        {
+          "name": "Sech",
+          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
+        }
+      ],
+      "duration_ms": 202600,
+      "name": "Noche de Teteo",
+      "url": "https://open.spotify.com/track/5YBvKoQDMAd7IjonxPQYFN"
     },
     {
       "added_at": "2022-09-13 13:20:57",
@@ -275,22 +275,6 @@
     {
       "added_at": "2022-09-13 13:20:57",
       "album": {
-        "name": "42",
-        "url": "https://open.spotify.com/album/3tRrovXWGrSfBU3MYHqsVJ"
-      },
-      "artists": [
-        {
-          "name": "Sech",
-          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
-        }
-      ],
-      "duration_ms": 216510,
-      "name": "Sal y Perrea",
-      "url": "https://open.spotify.com/track/5u7twkeask1VIyDeNTElSU"
-    },
-    {
-      "added_at": "2022-09-13 13:20:57",
-      "album": {
         "name": "LYKE MIKE",
         "url": "https://open.spotify.com/album/5qhxJXwhtjXAmCr22FXG3Q"
       },
@@ -347,6 +331,22 @@
     {
       "added_at": "2022-09-13 13:20:57",
       "album": {
+        "name": "42",
+        "url": "https://open.spotify.com/album/3tRrovXWGrSfBU3MYHqsVJ"
+      },
+      "artists": [
+        {
+          "name": "Sech",
+          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
+        }
+      ],
+      "duration_ms": 216510,
+      "name": "Sal y Perrea",
+      "url": "https://open.spotify.com/track/5u7twkeask1VIyDeNTElSU"
+    },
+    {
+      "added_at": "2022-09-13 13:20:57",
+      "album": {
         "name": "BLACKsummers'night (2009)",
         "url": "https://open.spotify.com/album/1cXFSOdjxmS13cOTtnNQAo"
       },
@@ -363,22 +363,6 @@
     {
       "added_at": "2022-09-13 13:20:57",
       "album": {
-        "name": "Caramelo",
-        "url": "https://open.spotify.com/album/6HZe6aICWesZsze5OKlvMD"
-      },
-      "artists": [
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        }
-      ],
-      "duration_ms": 217546,
-      "name": "Caramelo",
-      "url": "https://open.spotify.com/track/3gD4J3RUHy4OUuZ3qAiaiG"
-    },
-    {
-      "added_at": "2022-09-13 13:20:57",
-      "album": {
         "name": "KI-KI",
         "url": "https://open.spotify.com/album/5UcTxoImmX1zOTnk0AvKD1"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 141335,
       "name": "KI-KI",
       "url": "https://open.spotify.com/track/3Yu5XohK3sDfSg5os4ARFm"
+    },
+    {
+      "added_at": "2022-09-13 13:20:57",
+      "album": {
+        "name": "LYKE MIKE",
+        "url": "https://open.spotify.com/album/5qhxJXwhtjXAmCr22FXG3Q"
+      },
+      "artists": [
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        }
+      ],
+      "duration_ms": 159572,
+      "name": "PIN PIN",
+      "url": "https://open.spotify.com/track/51tMYALx6Lkrte41DoWIPq"
     },
     {
       "added_at": "2022-09-13 13:20:57",
@@ -435,6 +435,22 @@
     {
       "added_at": "2022-09-13 13:20:57",
       "album": {
+        "name": "Caramelo",
+        "url": "https://open.spotify.com/album/6HZe6aICWesZsze5OKlvMD"
+      },
+      "artists": [
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        }
+      ],
+      "duration_ms": 217546,
+      "name": "Caramelo",
+      "url": "https://open.spotify.com/track/3gD4J3RUHy4OUuZ3qAiaiG"
+    },
+    {
+      "added_at": "2022-09-13 13:20:57",
+      "album": {
         "name": "Pilot (Extended Version)",
         "url": "https://open.spotify.com/album/75DDvdNMm1S83v3iefTbtu"
       },
@@ -463,22 +479,6 @@
       "duration_ms": 249720,
       "name": "Guajira (I Love U 2 Much)",
       "url": "https://open.spotify.com/track/6LuKwOlk7P0ZpR9L6c9b4y"
-    },
-    {
-      "added_at": "2022-09-13 13:20:57",
-      "album": {
-        "name": "LYKE MIKE",
-        "url": "https://open.spotify.com/album/5qhxJXwhtjXAmCr22FXG3Q"
-      },
-      "artists": [
-        {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
-        }
-      ],
-      "duration_ms": 159572,
-      "name": "PIN PIN",
-      "url": "https://open.spotify.com/track/51tMYALx6Lkrte41DoWIPq"
     },
     {
       "added_at": "2022-09-13 13:20:57",
@@ -515,26 +515,6 @@
     {
       "added_at": "2022-09-13 13:20:57",
       "album": {
-        "name": "Aura",
-        "url": "https://open.spotify.com/album/0SukGZiXMtmsZoxstkBtNR"
-      },
-      "artists": [
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        },
-        {
-          "name": "Cardi B",
-          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
-        }
-      ],
-      "duration_ms": 255506,
-      "name": "La Modelo",
-      "url": "https://open.spotify.com/track/2SbzdGpOKlH3HIAGTWTbwU"
-    },
-    {
-      "added_at": "2022-09-13 13:20:57",
-      "album": {
         "name": "They Love Us",
         "url": "https://open.spotify.com/album/5tXi8xJTaE7lkHsdJq0AYb"
       },
@@ -551,18 +531,22 @@
     {
       "added_at": "2022-09-13 13:20:57",
       "album": {
-        "name": "Otra Vez",
-        "url": "https://open.spotify.com/album/1b50tBHDr0LWi7GAOHPwey"
+        "name": "Aura",
+        "url": "https://open.spotify.com/album/0SukGZiXMtmsZoxstkBtNR"
       },
       "artists": [
         {
-          "name": "Chavi Leons",
-          "url": "https://open.spotify.com/artist/2NpvOJUmcKkw4BEVsVbUcx"
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        },
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
         }
       ],
-      "duration_ms": 150071,
-      "name": "Otra Vez",
-      "url": "https://open.spotify.com/track/5iwezY285OvcvpWZ5DOwHc"
+      "duration_ms": 255506,
+      "name": "La Modelo",
+      "url": "https://open.spotify.com/track/2SbzdGpOKlH3HIAGTWTbwU"
     },
     {
       "added_at": "2022-09-13 13:20:57",
@@ -603,6 +587,22 @@
     {
       "added_at": "2022-09-13 13:20:57",
       "album": {
+        "name": "Otra Vez",
+        "url": "https://open.spotify.com/album/1b50tBHDr0LWi7GAOHPwey"
+      },
+      "artists": [
+        {
+          "name": "Chavi Leons",
+          "url": "https://open.spotify.com/artist/2NpvOJUmcKkw4BEVsVbUcx"
+        }
+      ],
+      "duration_ms": 150071,
+      "name": "Otra Vez",
+      "url": "https://open.spotify.com/track/5iwezY285OvcvpWZ5DOwHc"
+    },
+    {
+      "added_at": "2022-09-13 13:20:57",
+      "album": {
         "name": "20 Exitos",
         "url": "https://open.spotify.com/album/1EfoYpgTD1HtuKIYHrrZei"
       },
@@ -615,22 +615,6 @@
       "duration_ms": 302373,
       "name": "Tiburon",
       "url": "https://open.spotify.com/track/3eoZ06E3Pmf6jfgWHM0m5X"
-    },
-    {
-      "added_at": "2022-09-13 13:20:57",
-      "album": {
-        "name": "G Wagon",
-        "url": "https://open.spotify.com/album/7CSrNfB7tAWOMcvqv8r3rq"
-      },
-      "artists": [
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        }
-      ],
-      "duration_ms": 209680,
-      "name": "G Wagon",
-      "url": "https://open.spotify.com/track/008aqmngiiKe5jrPSNyV6n"
     },
     {
       "added_at": "2022-09-13 13:20:57",
@@ -667,6 +651,42 @@
     {
       "added_at": "2022-09-13 13:20:57",
       "album": {
+        "name": "Qu\u00e9 L\u00e1stima",
+        "url": "https://open.spotify.com/album/2JLM2HtL1xnfZ6WuJF9lgv"
+      },
+      "artists": [
+        {
+          "name": "ChocQuibTown",
+          "url": "https://open.spotify.com/artist/6tkyhGe9hGI3Lcfo4gVh6Z"
+        },
+        {
+          "name": "Sech",
+          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
+        }
+      ],
+      "duration_ms": 224869,
+      "name": "Qu\u00e9 L\u00e1stima",
+      "url": "https://open.spotify.com/track/0ojvxgSTugVPVlNWka3hOb"
+    },
+    {
+      "added_at": "2022-09-13 13:20:57",
+      "album": {
+        "name": "G Wagon",
+        "url": "https://open.spotify.com/album/7CSrNfB7tAWOMcvqv8r3rq"
+      },
+      "artists": [
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        }
+      ],
+      "duration_ms": 209680,
+      "name": "G Wagon",
+      "url": "https://open.spotify.com/track/008aqmngiiKe5jrPSNyV6n"
+    },
+    {
+      "added_at": "2022-09-13 13:20:57",
+      "album": {
         "name": "Na Na Na",
         "url": "https://open.spotify.com/album/3ipzv1k3UkOVxIKOeJXZv1"
       },
@@ -679,22 +699,6 @@
       "duration_ms": 138626,
       "name": "Na Na Na",
       "url": "https://open.spotify.com/track/68s5zs7NWOgy3NyJ7U1uzA"
-    },
-    {
-      "added_at": "2022-09-13 13:20:57",
-      "album": {
-        "name": "Gimme Light",
-        "url": "https://open.spotify.com/album/4FHDVRc9bE0EYRSfdfxozr"
-      },
-      "artists": [
-        {
-          "name": "Cyn Santana",
-          "url": "https://open.spotify.com/artist/4XiX7SyOMb1rbMIbOhTnwf"
-        }
-      ],
-      "duration_ms": 149000,
-      "name": "Gimme Light",
-      "url": "https://open.spotify.com/track/6OebtUbp6bdEzH2eFYvY7m"
     },
     {
       "added_at": "2022-09-13 13:20:57",
@@ -731,38 +735,18 @@
     {
       "added_at": "2022-09-13 13:20:57",
       "album": {
-        "name": "Qu\u00e9 L\u00e1stima",
-        "url": "https://open.spotify.com/album/2JLM2HtL1xnfZ6WuJF9lgv"
+        "name": "Gimme Light",
+        "url": "https://open.spotify.com/album/4FHDVRc9bE0EYRSfdfxozr"
       },
       "artists": [
         {
-          "name": "ChocQuibTown",
-          "url": "https://open.spotify.com/artist/6tkyhGe9hGI3Lcfo4gVh6Z"
-        },
-        {
-          "name": "Sech",
-          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
+          "name": "Cyn Santana",
+          "url": "https://open.spotify.com/artist/4XiX7SyOMb1rbMIbOhTnwf"
         }
       ],
-      "duration_ms": 224869,
-      "name": "Qu\u00e9 L\u00e1stima",
-      "url": "https://open.spotify.com/track/0ojvxgSTugVPVlNWka3hOb"
-    },
-    {
-      "added_at": "2022-09-13 13:20:57",
-      "album": {
-        "name": "\u00dasame",
-        "url": "https://open.spotify.com/album/4ASrjbSq9D0CuHkAHsAhNc"
-      },
-      "artists": [
-        {
-          "name": "LATENIGHTJIGGY",
-          "url": "https://open.spotify.com/artist/34OTRVwyaE8DkOrGMQa7Ah"
-        }
-      ],
-      "duration_ms": 203294,
-      "name": "\u00dasame",
-      "url": "https://open.spotify.com/track/4HDa866zFSzwOkEhgNHx6F"
+      "duration_ms": 149000,
+      "name": "Gimme Light",
+      "url": "https://open.spotify.com/track/6OebtUbp6bdEzH2eFYvY7m"
     },
     {
       "added_at": "2022-09-13 13:20:57",
@@ -779,6 +763,22 @@
       "duration_ms": 194402,
       "name": "P\u00e1rrafo 8",
       "url": "https://open.spotify.com/track/3RGOpwcyaMvgiuRyFrfVtc"
+    },
+    {
+      "added_at": "2022-09-13 13:20:57",
+      "album": {
+        "name": "\u00dasame",
+        "url": "https://open.spotify.com/album/4ASrjbSq9D0CuHkAHsAhNc"
+      },
+      "artists": [
+        {
+          "name": "LATENIGHTJIGGY",
+          "url": "https://open.spotify.com/artist/34OTRVwyaE8DkOrGMQa7Ah"
+        }
+      ],
+      "duration_ms": 203294,
+      "name": "\u00dasame",
+      "url": "https://open.spotify.com/track/4HDa866zFSzwOkEhgNHx6F"
     },
     {
       "added_at": "2022-09-13 13:20:57",
@@ -815,22 +815,18 @@
     {
       "added_at": "2022-09-13 13:20:57",
       "album": {
-        "name": "Na Pa Ti (feat. Kofi)",
-        "url": "https://open.spotify.com/album/3UefdYQA4lzyOOZ8SHFSyr"
+        "name": "Bonito que Canta",
+        "url": "https://open.spotify.com/album/0cFDDmABXYhxZygOjOFwSr"
       },
       "artists": [
         {
-          "name": "Immasoul",
-          "url": "https://open.spotify.com/artist/21neefJLiFuSR6sQlHDblG"
-        },
-        {
-          "name": "Kofi",
-          "url": "https://open.spotify.com/artist/2MjVr5NjCCoPSEkXnl92Ld"
+          "name": "Petrona Martinez",
+          "url": "https://open.spotify.com/artist/2RdqdnFd1SZmabqOfCBFCa"
         }
       ],
-      "duration_ms": 173098,
-      "name": "Na Pa Ti (feat. Kofi)",
-      "url": "https://open.spotify.com/track/0BdFIT81iB6Irf3XjiBUjk"
+      "duration_ms": 259000,
+      "name": "La Vida Vale la Pena",
+      "url": "https://open.spotify.com/track/6JOzfwVljrGuLdN7umkXQF"
     },
     {
       "added_at": "2022-09-13 13:20:57",
@@ -851,18 +847,22 @@
     {
       "added_at": "2022-09-13 13:20:57",
       "album": {
-        "name": "Bonito que Canta",
-        "url": "https://open.spotify.com/album/0cFDDmABXYhxZygOjOFwSr"
+        "name": "Na Pa Ti (feat. Kofi)",
+        "url": "https://open.spotify.com/album/3UefdYQA4lzyOOZ8SHFSyr"
       },
       "artists": [
         {
-          "name": "Petrona Martinez",
-          "url": "https://open.spotify.com/artist/2RdqdnFd1SZmabqOfCBFCa"
+          "name": "Immasoul",
+          "url": "https://open.spotify.com/artist/21neefJLiFuSR6sQlHDblG"
+        },
+        {
+          "name": "Kofi",
+          "url": "https://open.spotify.com/artist/2MjVr5NjCCoPSEkXnl92Ld"
         }
       ],
-      "duration_ms": 259000,
-      "name": "La Vida Vale la Pena",
-      "url": "https://open.spotify.com/track/6JOzfwVljrGuLdN7umkXQF"
+      "duration_ms": 173098,
+      "name": "Na Pa Ti (feat. Kofi)",
+      "url": "https://open.spotify.com/track/0BdFIT81iB6Irf3XjiBUjk"
     },
     {
       "added_at": "2022-09-13 13:20:57",
@@ -939,22 +939,6 @@
     {
       "added_at": "2022-09-13 13:20:57",
       "album": {
-        "name": "A Quien Pueda Interesar",
-        "url": "https://open.spotify.com/album/01ASF6lHKnCDcYOnVqxGTm"
-      },
-      "artists": [
-        {
-          "name": "Joyce Santana",
-          "url": "https://open.spotify.com/artist/4zOhMWD0LoBe2nP7s9cHhX"
-        }
-      ],
-      "duration_ms": 161739,
-      "name": "Dormir Sola",
-      "url": "https://open.spotify.com/track/5IJL0TAmAojNvWnNW5HRUd"
-    },
-    {
-      "added_at": "2022-09-13 13:20:57",
-      "album": {
         "name": "ChocQuib House",
         "url": "https://open.spotify.com/album/4lcEaPygjuFuB4ON8i2Vj2"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 200685,
       "name": "No Vuelvas a M\u00ed",
       "url": "https://open.spotify.com/track/0QtpKLa62AfLe5m0L2x3Gr"
+    },
+    {
+      "added_at": "2022-09-13 13:20:57",
+      "album": {
+        "name": "A Quien Pueda Interesar",
+        "url": "https://open.spotify.com/album/01ASF6lHKnCDcYOnVqxGTm"
+      },
+      "artists": [
+        {
+          "name": "Joyce Santana",
+          "url": "https://open.spotify.com/artist/4zOhMWD0LoBe2nP7s9cHhX"
+        }
+      ],
+      "duration_ms": 161739,
+      "name": "Dormir Sola",
+      "url": "https://open.spotify.com/track/5IJL0TAmAojNvWnNW5HRUd"
     },
     {
       "added_at": "2022-09-13 13:20:57",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2022-09-13 13:20:57",
       "album": {
-        "name": "Lucky 7",
-        "url": "https://open.spotify.com/album/3b2Zck8DtLyhMYxUgVDyho"
-      },
-      "artists": [
-        {
-          "name": "Luchy DR",
-          "url": "https://open.spotify.com/artist/0SbiXy5hZuC7ZjOXNXygql"
-        }
-      ],
-      "duration_ms": 196000,
-      "name": "Soy",
-      "url": "https://open.spotify.com/track/6sBBmnwoII25pWOpy6TmLK"
-    },
-    {
-      "added_at": "2022-09-13 13:20:57",
-      "album": {
         "name": "Estyland EP",
         "url": "https://open.spotify.com/album/5ippOikp37VeZaOJBhsUCN"
       },
@@ -1163,6 +1147,22 @@
       "duration_ms": 173904,
       "name": "7heaven",
       "url": "https://open.spotify.com/track/7DCnJTsmnN25Xzu8gR8sAa"
+    },
+    {
+      "added_at": "2022-09-13 13:20:57",
+      "album": {
+        "name": "Lucky 7",
+        "url": "https://open.spotify.com/album/3b2Zck8DtLyhMYxUgVDyho"
+      },
+      "artists": [
+        {
+          "name": "Luchy DR",
+          "url": "https://open.spotify.com/artist/0SbiXy5hZuC7ZjOXNXygql"
+        }
+      ],
+      "duration_ms": 196000,
+      "name": "Soy",
+      "url": "https://open.spotify.com/track/6sBBmnwoII25pWOpy6TmLK"
     },
     {
       "added_at": "2022-09-13 13:20:57",
@@ -1275,6 +1275,22 @@
     {
       "added_at": "2022-09-13 13:20:57",
       "album": {
+        "name": "Latinos",
+        "url": "https://open.spotify.com/album/4aRHR4cVo99A4Zp1XTgL30"
+      },
+      "artists": [
+        {
+          "name": "Aldo Ranks",
+          "url": "https://open.spotify.com/artist/0lsEtpjLWn4S7KBra82VG3"
+        }
+      ],
+      "duration_ms": 211722,
+      "name": "Latinos",
+      "url": "https://open.spotify.com/track/5Ym38eMwTsm4P4aEEMlxlJ"
+    },
+    {
+      "added_at": "2022-09-13 13:20:57",
+      "album": {
         "name": "Esa Flaca",
         "url": "https://open.spotify.com/album/2k3ZEVpOgGtzuqxXK2PhvV"
       },
@@ -1291,22 +1307,6 @@
       "duration_ms": 181080,
       "name": "Esa Flaca",
       "url": "https://open.spotify.com/track/2e0EnlrAtFtzo4q91sR38G"
-    },
-    {
-      "added_at": "2022-09-13 13:20:57",
-      "album": {
-        "name": "Latinos",
-        "url": "https://open.spotify.com/album/4aRHR4cVo99A4Zp1XTgL30"
-      },
-      "artists": [
-        {
-          "name": "Aldo Ranks",
-          "url": "https://open.spotify.com/artist/0lsEtpjLWn4S7KBra82VG3"
-        }
-      ],
-      "duration_ms": 211722,
-      "name": "Latinos",
-      "url": "https://open.spotify.com/track/5Ym38eMwTsm4P4aEEMlxlJ"
     },
     {
       "added_at": "2022-09-13 13:20:57",

@@ -1,12 +1,12 @@
 {
   "description": "Acid blues, psy-blues and the early pioneers of psychedelic rock.",
-  "num_followers": 113613,
+  "num_followers": 113759,
   "original_name": "Acid Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0ODQ5NTUwNCwwMDAwMDAwMDAxNTEwYTc4MGJlN2U0NGM3YmI4OGMxMzg3ZTFlNTUy",
+  "snapshot_id": "MTY0ODQ5NTUwNCwwMDAwMDAwMDczNjM4ZWU4NDE1ODhjMmQwYzFiYjAzNDAyMjUwNzlk",
   "tracks": [
     {
       "added_at": "2018-02-28 19:55:41",
@@ -109,22 +109,6 @@
       "url": "https://open.spotify.com/track/0hnlRgTh80b1emNnM0jmwt"
     },
     {
-      "added_at": "2018-02-28 19:55:41",
-      "album": {
-        "name": "Heavy",
-        "url": "https://open.spotify.com/album/1J2sJJSNlSoWAT9JWBEBeW"
-      },
-      "artists": [
-        {
-          "name": "Iron Butterfly",
-          "url": "https://open.spotify.com/artist/3cdvlbCYf4WoBdy89RWkNS"
-        }
-      ],
-      "duration_ms": 150533,
-      "name": "Unconscious Power",
-      "url": "https://open.spotify.com/track/1nE3arIIBRNwzzbBxhhSC4"
-    },
-    {
       "added_at": "2022-03-28 19:25:04",
       "album": {
         "name": "Boogie With Canned Heat",
@@ -139,6 +123,22 @@
       "duration_ms": 177520,
       "name": "Evil Woman",
       "url": "https://open.spotify.com/track/5hZHU4ODhJJhB28Q5MdQHa"
+    },
+    {
+      "added_at": "2018-02-28 19:55:41",
+      "album": {
+        "name": "Heavy",
+        "url": "https://open.spotify.com/album/1J2sJJSNlSoWAT9JWBEBeW"
+      },
+      "artists": [
+        {
+          "name": "Iron Butterfly",
+          "url": "https://open.spotify.com/artist/3cdvlbCYf4WoBdy89RWkNS"
+        }
+      ],
+      "duration_ms": 150533,
+      "name": "Unconscious Power",
+      "url": "https://open.spotify.com/track/1nE3arIIBRNwzzbBxhhSC4"
     },
     {
       "added_at": "2022-03-28 19:25:04",
@@ -271,22 +271,6 @@
     {
       "added_at": "2018-02-28 19:55:41",
       "album": {
-        "name": "Ultimate Spinach",
-        "url": "https://open.spotify.com/album/3g1Dzj83jWRcQMCtmLHTka"
-      },
-      "artists": [
-        {
-          "name": "Ultimate Spinach",
-          "url": "https://open.spotify.com/artist/38ULknnQK6G4oLJtTtPkkM"
-        }
-      ],
-      "duration_ms": 494933,
-      "name": "(BALLAD OF) THE HIP DEATH GODDESS",
-      "url": "https://open.spotify.com/track/1IQmZ2Hz0HEtb8rwXNci4i"
-    },
-    {
-      "added_at": "2018-02-28 19:55:41",
-      "album": {
         "name": "Blues Helping",
         "url": "https://open.spotify.com/album/08ihWWd9zFaUBPjF7Hs8PB"
       },
@@ -299,6 +283,22 @@
       "duration_ms": 310360,
       "name": "3 O'Clock Blues - 1999 RemasterStereo",
       "url": "https://open.spotify.com/track/41849X1PrqMv0elH2prPWp"
+    },
+    {
+      "added_at": "2018-02-28 19:55:41",
+      "album": {
+        "name": "Ultimate Spinach",
+        "url": "https://open.spotify.com/album/3g1Dzj83jWRcQMCtmLHTka"
+      },
+      "artists": [
+        {
+          "name": "Ultimate Spinach",
+          "url": "https://open.spotify.com/artist/38ULknnQK6G4oLJtTtPkkM"
+        }
+      ],
+      "duration_ms": 494933,
+      "name": "(BALLAD OF) THE HIP DEATH GODDESS",
+      "url": "https://open.spotify.com/track/1IQmZ2Hz0HEtb8rwXNci4i"
     },
     {
       "added_at": "2018-02-28 19:55:41",
@@ -319,22 +319,6 @@
     {
       "added_at": "2018-02-28 19:55:41",
       "album": {
-        "name": "Hibernated - Earth Omen",
-        "url": "https://open.spotify.com/album/6BCvuOvXBZmM68vSgtRR2F"
-      },
-      "artists": [
-        {
-          "name": "Frijid Pink",
-          "url": "https://open.spotify.com/artist/0K24Tk5QTxx6tkcCdnY3Od"
-        }
-      ],
-      "duration_ms": 384533,
-      "name": "Miss Evil",
-      "url": "https://open.spotify.com/track/0Ta7eXWE6geBJjuj9tAuzb"
-    },
-    {
-      "added_at": "2018-02-28 19:55:41",
-      "album": {
         "name": "Mk. II (Remastered)",
         "url": "https://open.spotify.com/album/1BSUQlD675LWJVS4owvcQn"
       },
@@ -351,22 +335,18 @@
     {
       "added_at": "2018-02-28 19:55:41",
       "album": {
-        "name": "Grace Slick & The Great Society",
-        "url": "https://open.spotify.com/album/74cJP3XQnuylRJDguGCRyY"
+        "name": "Hibernated - Earth Omen",
+        "url": "https://open.spotify.com/album/6BCvuOvXBZmM68vSgtRR2F"
       },
       "artists": [
         {
-          "name": "Grace Slick",
-          "url": "https://open.spotify.com/artist/3wNX7r7t4Vaahrx9XzyYIY"
-        },
-        {
-          "name": "The Great Society",
-          "url": "https://open.spotify.com/artist/2ukLYCAJW8XDlyobhmWQ8x"
+          "name": "Frijid Pink",
+          "url": "https://open.spotify.com/artist/0K24Tk5QTxx6tkcCdnY3Od"
         }
       ],
-      "duration_ms": 392000,
-      "name": "Sally Go 'Round the Roses",
-      "url": "https://open.spotify.com/track/1w7Gu4ohc5YLkgJMdRwin1"
+      "duration_ms": 384533,
+      "name": "Miss Evil",
+      "url": "https://open.spotify.com/track/0Ta7eXWE6geBJjuj9tAuzb"
     },
     {
       "added_at": "2022-03-28 19:25:04",
@@ -403,6 +383,26 @@
     {
       "added_at": "2018-02-28 19:55:41",
       "album": {
+        "name": "Grace Slick & The Great Society",
+        "url": "https://open.spotify.com/album/74cJP3XQnuylRJDguGCRyY"
+      },
+      "artists": [
+        {
+          "name": "Grace Slick",
+          "url": "https://open.spotify.com/artist/3wNX7r7t4Vaahrx9XzyYIY"
+        },
+        {
+          "name": "The Great Society",
+          "url": "https://open.spotify.com/artist/2ukLYCAJW8XDlyobhmWQ8x"
+        }
+      ],
+      "duration_ms": 392000,
+      "name": "Sally Go 'Round the Roses",
+      "url": "https://open.spotify.com/track/1w7Gu4ohc5YLkgJMdRwin1"
+    },
+    {
+      "added_at": "2018-02-28 19:55:41",
+      "album": {
         "name": "Psychedelic Drugstore - Remastered",
         "url": "https://open.spotify.com/album/6TrlKpZSlcw3qzdHc42QzP"
       },
@@ -415,22 +415,6 @@
       "duration_ms": 635271,
       "name": "Crimson & Clover",
       "url": "https://open.spotify.com/track/67kP4RjiGxSggSO5YniuLC"
-    },
-    {
-      "added_at": "2018-02-28 19:55:41",
-      "album": {
-        "name": "Psychotic Reaction",
-        "url": "https://open.spotify.com/album/7Mccdl5xR9mfqo00lgDVDA"
-      },
-      "artists": [
-        {
-          "name": "Count Five",
-          "url": "https://open.spotify.com/artist/57WXdjUf5Vlq3klNZegeTP"
-        }
-      ],
-      "duration_ms": 133133,
-      "name": "The World",
-      "url": "https://open.spotify.com/track/6URPlvJyBNQfASywtcLKKj"
     },
     {
       "added_at": "2018-02-28 19:55:41",
@@ -467,6 +451,22 @@
     {
       "added_at": "2018-02-28 19:55:41",
       "album": {
+        "name": "Psychotic Reaction",
+        "url": "https://open.spotify.com/album/7Mccdl5xR9mfqo00lgDVDA"
+      },
+      "artists": [
+        {
+          "name": "Count Five",
+          "url": "https://open.spotify.com/artist/57WXdjUf5Vlq3klNZegeTP"
+        }
+      ],
+      "duration_ms": 133133,
+      "name": "The World",
+      "url": "https://open.spotify.com/track/6URPlvJyBNQfASywtcLKKj"
+    },
+    {
+      "added_at": "2018-02-28 19:55:41",
+      "album": {
         "name": "Inkpot & Attila",
         "url": "https://open.spotify.com/album/5liqryZxZvie3pfCR21liP"
       },
@@ -495,22 +495,6 @@
       "duration_ms": 505266,
       "name": "The World's On Fire",
       "url": "https://open.spotify.com/track/5Osu3BeGYl2t0auN3IXHam"
-    },
-    {
-      "added_at": "2018-02-28 19:55:41",
-      "album": {
-        "name": "Psychedelic Resurrection",
-        "url": "https://open.spotify.com/album/1FzOC8f2m4Gc5vFQkufqwJ"
-      },
-      "artists": [
-        {
-          "name": "The Blues Magoos",
-          "url": "https://open.spotify.com/artist/7peASGSN6FkIFQ3XjLfBtB"
-        }
-      ],
-      "duration_ms": 137346,
-      "name": "We Ain't Got Nothin' yet",
-      "url": "https://open.spotify.com/track/7xwf45gey53Ftmo3duaAei"
     },
     {
       "added_at": "2022-03-28 19:25:04",
@@ -547,6 +531,38 @@
     {
       "added_at": "2018-02-28 19:55:41",
       "album": {
+        "name": "Good Times Are So Hard To Find",
+        "url": "https://open.spotify.com/album/7ecNoSQ9aRZnxAHwTCpVt9"
+      },
+      "artists": [
+        {
+          "name": "Blue Cheer",
+          "url": "https://open.spotify.com/artist/4PI5IHRvANLL76O5gRmGKL"
+        }
+      ],
+      "duration_ms": 198866,
+      "name": "Good Times Are So Hard To Find",
+      "url": "https://open.spotify.com/track/1RCaB8ZclzAsuw9jRi0SIx"
+    },
+    {
+      "added_at": "2018-02-28 19:55:41",
+      "album": {
+        "name": "Psychedelic Resurrection",
+        "url": "https://open.spotify.com/album/1FzOC8f2m4Gc5vFQkufqwJ"
+      },
+      "artists": [
+        {
+          "name": "The Blues Magoos",
+          "url": "https://open.spotify.com/artist/7peASGSN6FkIFQ3XjLfBtB"
+        }
+      ],
+      "duration_ms": 137346,
+      "name": "We Ain't Got Nothin' yet",
+      "url": "https://open.spotify.com/track/7xwf45gey53Ftmo3duaAei"
+    },
+    {
+      "added_at": "2018-02-28 19:55:41",
+      "album": {
         "name": "In Search of Space",
         "url": "https://open.spotify.com/album/1cgsYqtDTMTetu7FjEsIhI"
       },
@@ -579,22 +595,6 @@
     {
       "added_at": "2018-02-28 19:55:41",
       "album": {
-        "name": "Good Times Are So Hard To Find",
-        "url": "https://open.spotify.com/album/7ecNoSQ9aRZnxAHwTCpVt9"
-      },
-      "artists": [
-        {
-          "name": "Blue Cheer",
-          "url": "https://open.spotify.com/artist/4PI5IHRvANLL76O5gRmGKL"
-        }
-      ],
-      "duration_ms": 198866,
-      "name": "Good Times Are So Hard To Find",
-      "url": "https://open.spotify.com/track/1RCaB8ZclzAsuw9jRi0SIx"
-    },
-    {
-      "added_at": "2018-02-28 19:55:41",
-      "album": {
         "name": "The Pretty Things (Remastered)",
         "url": "https://open.spotify.com/album/2y4spnYViVnOtvdRLakH4q"
       },
@@ -607,38 +607,6 @@
       "duration_ms": 135026,
       "name": "Get Yourself Home - Remastered",
       "url": "https://open.spotify.com/track/1I6z0Y0PBQvDPJUmsV8Uk4"
-    },
-    {
-      "added_at": "2022-03-28 19:25:04",
-      "album": {
-        "name": "Psychedelic Lollipop",
-        "url": "https://open.spotify.com/album/5WSiEiH8BtgVil5xR2pYEX"
-      },
-      "artists": [
-        {
-          "name": "The Blues Magoos",
-          "url": "https://open.spotify.com/artist/7peASGSN6FkIFQ3XjLfBtB"
-        }
-      ],
-      "duration_ms": 250960,
-      "name": "Sometimes I Think About",
-      "url": "https://open.spotify.com/track/23fMtT3EAnM0Nz3DPVKQxL"
-    },
-    {
-      "added_at": "2018-02-28 19:55:41",
-      "album": {
-        "name": "Don't Call Us, We'll Call You (Re-Recorded)",
-        "url": "https://open.spotify.com/album/6uQESzHRJ2UBK9EEK5Hvic"
-      },
-      "artists": [
-        {
-          "name": "Sugarloaf",
-          "url": "https://open.spotify.com/artist/1T3RPiMH711kvoXymKUTYH"
-        }
-      ],
-      "duration_ms": 202304,
-      "name": "Don't Call Us, We'll Call You (Re-Recorded / Remastered)",
-      "url": "https://open.spotify.com/track/6Hrik94vQpSpxSjMfFKGfC"
     },
     {
       "added_at": "2018-02-28 19:55:41",
@@ -659,6 +627,22 @@
     {
       "added_at": "2018-02-28 19:55:41",
       "album": {
+        "name": "Don't Call Us, We'll Call You (Re-Recorded)",
+        "url": "https://open.spotify.com/album/6uQESzHRJ2UBK9EEK5Hvic"
+      },
+      "artists": [
+        {
+          "name": "Sugarloaf",
+          "url": "https://open.spotify.com/artist/1T3RPiMH711kvoXymKUTYH"
+        }
+      ],
+      "duration_ms": 202304,
+      "name": "Don't Call Us, We'll Call You (Re-Recorded / Remastered)",
+      "url": "https://open.spotify.com/track/6Hrik94vQpSpxSjMfFKGfC"
+    },
+    {
+      "added_at": "2018-02-28 19:55:41",
+      "album": {
         "name": "Fuzz Freakout 1970-1971",
         "url": "https://open.spotify.com/album/2jUV53kqy8Y04JLKXNdZU5"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 162893,
       "name": "Lucille (1970 BBC Top Gear Radio Broadcast)",
       "url": "https://open.spotify.com/track/2oRsUm3jbPiZNp3cIs6cOP"
+    },
+    {
+      "added_at": "2022-03-28 19:25:04",
+      "album": {
+        "name": "Psychedelic Lollipop",
+        "url": "https://open.spotify.com/album/5WSiEiH8BtgVil5xR2pYEX"
+      },
+      "artists": [
+        {
+          "name": "The Blues Magoos",
+          "url": "https://open.spotify.com/artist/7peASGSN6FkIFQ3XjLfBtB"
+        }
+      ],
+      "duration_ms": 250960,
+      "name": "Sometimes I Think About",
+      "url": "https://open.spotify.com/track/23fMtT3EAnM0Nz3DPVKQxL"
     },
     {
       "added_at": "2018-02-28 19:55:41",
@@ -787,22 +787,6 @@
     {
       "added_at": "2018-02-28 19:55:41",
       "album": {
-        "name": "Level with Me",
-        "url": "https://open.spotify.com/album/0hURuklitZ9QZFg6OBnWCM"
-      },
-      "artists": [
-        {
-          "name": "Barry Melton",
-          "url": "https://open.spotify.com/artist/1ugWCcIaInMcgJN2ghXfXi"
-        }
-      ],
-      "duration_ms": 159133,
-      "name": "I Can't Dance",
-      "url": "https://open.spotify.com/track/4MT7JJWn6AOcUHvakxSbpN"
-    },
-    {
-      "added_at": "2018-02-28 19:55:41",
-      "album": {
         "name": "Sov Gott Rose-Mari",
         "url": "https://open.spotify.com/album/4ORvCABBxkkKdYS2TCYIeQ"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 100253,
       "name": "It's Only Love",
       "url": "https://open.spotify.com/track/1rxnKNmNwu6LSEKZ71LFBQ"
+    },
+    {
+      "added_at": "2018-02-28 19:55:41",
+      "album": {
+        "name": "Level with Me",
+        "url": "https://open.spotify.com/album/0hURuklitZ9QZFg6OBnWCM"
+      },
+      "artists": [
+        {
+          "name": "Barry Melton",
+          "url": "https://open.spotify.com/artist/1ugWCcIaInMcgJN2ghXfXi"
+        }
+      ],
+      "duration_ms": 159133,
+      "name": "I Can't Dance",
+      "url": "https://open.spotify.com/track/4MT7JJWn6AOcUHvakxSbpN"
     }
   ],
   "unique_name": "Acid Blues",

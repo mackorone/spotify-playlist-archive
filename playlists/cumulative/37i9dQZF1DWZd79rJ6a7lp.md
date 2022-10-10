@@ -4,7 +4,7 @@
 
 > Gentle ambient piano to help you fall asleep.
 
-678 songs - 1 day 10 hr 29 min - [published](https://open.spotify.com/playlist/6Os0B0cFHuLYh517afaioq)
+684 songs - 1 day 10 hr 48 min - [published](https://open.spotify.com/playlist/6Os0B0cFHuLYh517afaioq)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,6 +66,7 @@
 | [Aurora](https://open.spotify.com/track/6LTIZenP15l2VvkvPF2lFM) | [Chandeller](https://open.spotify.com/artist/0LzWeBGGtEazh0mJmyxFXi) | [Aurora](https://open.spotify.com/album/3eK38YOTl32ByPy2cgkmoy) | 3:05 | 2020-11-21 | 2021-10-23 |
 | [Aurora](https://open.spotify.com/track/0CwVkwUUCZPYZdj7SafQYL) | [The Destination](https://open.spotify.com/artist/5LqmDSsJGx12mu0u8vmj1w) | [Aurora](https://open.spotify.com/album/4Sgl6em7yRdXxbnn3AVhOP) | 3:05 | 2021-02-06 | 2021-06-16 |
 | [Aurore](https://open.spotify.com/track/0Qdj3Fw4Jn71PtIksAuEGD) | [Octave Rivière](https://open.spotify.com/artist/5ZeZs2oMxl3vROqHlYCKJy) | [Aurore](https://open.spotify.com/album/7fNUSTFRhIyxtH7nyBlBv1) | 3:00 | 2020-10-20\* | 2021-03-14 |
+| [Awake is Beauty](https://open.spotify.com/track/6Vwch7baK3sLDpAjbcL0wK) | [Malviti](https://open.spotify.com/artist/7vJXWasyMwsr0wU5akcu2x) | [Pranava](https://open.spotify.com/album/2T2jIUI1VmcMTAR3z9JvWU) | 4:30 | 2022-10-07 |  |
 | [añoranza](https://open.spotify.com/track/3BT26VlYwls5iE6pXsNpvW) | [Ezechiel Almonte](https://open.spotify.com/artist/0v5fZ2O6PA8HBHeiIALNx9) | [añoranza](https://open.spotify.com/album/67ZoYGq3uLPCIP5CJiO3lB) | 2:53 | 2020-10-20\* | 2021-02-06 |
 | [Barndomsminnen](https://open.spotify.com/track/48h858tfEFlh8CzaB8l3j1) | [Sanja Göransson](https://open.spotify.com/artist/1bMBJo82A2IeRahsh3JsQn) | [Barndomsminnen](https://open.spotify.com/album/3L66SIHZgd6Zv1e4d8vkwZ) | 3:09 | 2020-10-20\* | 2021-03-14 |
 | [Beatific](https://open.spotify.com/track/3ggQqaU6hdn5udlJEGt5Ut) | [Caius Biel](https://open.spotify.com/artist/7HFBFAbRfdiaHWUXzU1Vsq) | [Beatific](https://open.spotify.com/album/4reMaKYbd4T46jVORffBF4) | 3:16 | 2021-06-16 |  |
@@ -151,6 +152,7 @@
 | [Cuidada](https://open.spotify.com/track/0DjPkjHwrelEO2WEfoaxOM) | [Lucinda Pasillas](https://open.spotify.com/artist/1VIx3IfD02xy9yWri9U0Ac) | [Cuidada](https://open.spotify.com/album/2q0u4ZvLivxNchLRUJ6Su9) | 2:52 | 2022-09-13 |  |
 | [Curves](https://open.spotify.com/track/50dqV0dmuAMzLtEbt09SCp) | [Norrona](https://open.spotify.com/artist/0A4UAFw5R9u5z9doUYX0WM) | [Curves](https://open.spotify.com/album/3hWEeTtdq80mcLvCt73koZ) | 3:14 | 2020-12-22 | 2021-03-14 |
 | [Cycles](https://open.spotify.com/track/4ULNG1akkcpMrHrjIUXsfZ) | [Jamie Troy](https://open.spotify.com/artist/6NJWSp0xcJQQPzR375b8B3) | [Cycles](https://open.spotify.com/album/04kIZM3pPCOgFxdXIPbPNR) | 2:24 | 2020-10-20\* | 2021-05-04 |
+| [Dans Le Maintenant](https://open.spotify.com/track/0tw6S8qTrvkqASUMxtqP3h) | [Michael Szonja](https://open.spotify.com/artist/3gnRflW7ax20AhBEKnfrhF) | [Dans Le Maintenant](https://open.spotify.com/album/6vYvqxYs7rgxRypV8NhoMi) | 2:52 | 2022-10-07 |  |
 | [Dans le noir](https://open.spotify.com/track/6oL6yOWVL8zJfwg2mlkMag) | [Charmaine D'Avis](https://open.spotify.com/artist/62nJsaKqTjBj5aHPE1RyqZ) | [Dans le noir](https://open.spotify.com/album/3xz6IHjv56jfGLIVTsgS1p) | 2:58 | 2022-01-21 |  |
 | [Dark Blue](https://open.spotify.com/track/2BTJLOrqvYeLLeEub0IDJx) | [Palace Flower](https://open.spotify.com/artist/1uU27K4D96Hn0ws2lULjHp) | [Dark Blue](https://open.spotify.com/album/4RlbWH1eu5h1ICu4zeA35n) | 2:54 | 2021-10-06 | 2021-10-30 |
 | [Dark Lights](https://open.spotify.com/track/7hb9cJh5t16WJiRWVPbzMZ) | [Emmitt Howard](https://open.spotify.com/artist/4ZWPxlJt6aJXZ6ZqtSKsDe) | [Dark Lights](https://open.spotify.com/album/24jHwcu0OnEKV4DCiiCxRF) | 2:37 | 2021-03-14 | 2021-10-23 |
@@ -227,6 +229,7 @@
 | [Evening's peace](https://open.spotify.com/track/2JvLy4Sn0HHPMDY3zAx3nE) | [Ann Windsor](https://open.spotify.com/artist/0v2xcXKJMnxbrBP3d83evx) | [Evening's peace](https://open.spotify.com/album/6ejJZyYDesDEeTmnKbwj41) | 3:25 | 2020-10-20\* | 2020-12-12 |
 | [Ever Since You](https://open.spotify.com/track/35Yml7NjICscuKAGuX3iZx) | [Ethan Beckett](https://open.spotify.com/artist/35PZNZuBewGvF2MycMMNNa) | [Ever Since You](https://open.spotify.com/album/2K7cEgnd8671eQfCqyMWMe) | 2:22 | 2020-10-20\* | 2021-10-23 |
 | [Everything is Different](https://open.spotify.com/track/2ELGnSdAgGJ39GcymZPUdO) | [Nadia Pugh](https://open.spotify.com/artist/6FPNWbIpDzyIeOMFdAQXL6) | [Everything is Different](https://open.spotify.com/album/4mPGHru1buIU18RXBhJbzX) | 3:06 | 2021-03-14 | 2022-03-25 |
+| [Exploring](https://open.spotify.com/track/61Iykx3EETKUhv43tdveAe) | [Émile Aumont](https://open.spotify.com/artist/0FXNd3apEnHFlr8WDVgjBc) | [Le Silence](https://open.spotify.com/album/16Qso1h2XYl6Jxtm2iQi1c) | 2:43 | 2022-10-07 |  |
 | [Eyes of Redemption](https://open.spotify.com/track/4sgncJrSzijkzs0oEEyOcn) | [Dolores Fernel](https://open.spotify.com/artist/6eKcmeh4aN49TVfRmNI3cw) | [Eyes of Redemption](https://open.spotify.com/album/1fhB9ZPMq9JfSIEq0RSR17) | 3:03 | 2020-10-20\* | 2021-05-04 |
 | [éternité](https://open.spotify.com/track/1UH0Sxy2Ahx7T8XQ6csGku) | [Eric Ardouin](https://open.spotify.com/artist/6OgJnPHALT6sZtk9En6QHj) | [éternité](https://open.spotify.com/album/4X3h5iylTfBFKTpjpsEWLc) | 3:19 | 2021-06-16 |  |
 | [Fading Light](https://open.spotify.com/track/4pfEpQwqTU5F5YHyoAQ8DS) | [Vanessa Van Buren](https://open.spotify.com/artist/4C5XHAOKbmIkmfBeCja1jd) | [Fading Light](https://open.spotify.com/album/6whuZ248Ri3bsTRL6ZqLtf) | 3:03 | 2020-10-20\* | 2021-06-16 |
@@ -398,6 +401,7 @@
 | [Moving On](https://open.spotify.com/track/1jap0U96d4528KaolN2nnz) | [Dayonas Dream](https://open.spotify.com/artist/46iZlIvXWYhgSp8geA7Ea3) | [Angel Wings](https://open.spotify.com/album/4psQ5TZuuI03EmVtmuHkR4) | 3:04 | 2020-10-20\* | 2021-05-04 |
 | [Muna](https://open.spotify.com/track/1thTEQDLz5G6hr2Cp3pA4g) | [Arnkatla](https://open.spotify.com/artist/66neAkEGsYZ4onMSMHMSbC) | [Muna](https://open.spotify.com/album/3okHfzFp1PVS3A57JF4D3S) | 3:08 | 2022-09-02 |  |
 | [Mussidia](https://open.spotify.com/track/2mj5YHtlPbn4ojOKTn581M) | [Reverend XYZ](https://open.spotify.com/artist/6v9oylddGLLp2ZQMgx3NoW) | [Baggy Green](https://open.spotify.com/album/2G9MQhLpC9FrL2pttKyatT) | 3:52 | 2020-10-20\* | 2021-02-06 |
+| [My Better Half](https://open.spotify.com/track/2pvqbFiWVpWSsky68vLn1G) | [Manny Chu](https://open.spotify.com/artist/5cqGSR5Eyh5XSYtlSStmmF) | [With Every Breath I Breathe](https://open.spotify.com/album/0tB9FyhrB5N3lusDO1yBKf) | 3:07 | 2022-10-07 |  |
 | [My Sleeping Rose](https://open.spotify.com/track/7vfYsS34eZojVLXsknEj1J) | [Havanna Chandri](https://open.spotify.com/artist/7L19dBW5AbTgQvjXFGaOF6) | [My Sleeping Rose](https://open.spotify.com/album/7ApqGcvgxT7rQ5ukCqgh6w) | 2:07 | 2020-10-20\* | 2021-05-04 |
 | [Mångata](https://open.spotify.com/track/1dpvthn5aYPgBmk7LiKOsl) | [Ardah](https://open.spotify.com/artist/6mQg8hTrGBvS36Jjl7Ajr2) | [Mångata](https://open.spotify.com/album/1qzSfgjTCYGysekMKLqxdi) | 2:57 | 2022-02-25 |  |
 | [Mångata](https://open.spotify.com/track/4TPp6xOTaRNv7AmDQG9oc8) | [Nathanael Ekström](https://open.spotify.com/artist/6qaR7CUv9sfW87JDpjqw9Y) | [Mångata](https://open.spotify.com/album/30Vq6qtcwda6feJPc2FFEe) | 2:26 | 2020-10-20\* | 2021-03-14 |
@@ -428,6 +432,7 @@
 | [Oko marries Eb](https://open.spotify.com/track/2RU8cVyW2Js19dwySkLdFb) | [Rim\-Shaz](https://open.spotify.com/artist/5n4T8k6ARS41dwOCoWEcIg), [Shibb](https://open.spotify.com/artist/3S9OW04ZfXbQUjzGvjAlPZ), [Mihail Holland](https://open.spotify.com/artist/0sZ56cw6KfDxiDmNR76eHC) | [Oko Marries Eb](https://open.spotify.com/album/2KD6oJxMadbwqdHndNSxK1) | 3:25 | 2021-03-14 | 2021-09-03 |
 | [Old Station Atmos](https://open.spotify.com/track/02uEjuRG2GnzUVvyL0KWro) | [Xavier Ortando](https://open.spotify.com/artist/5DUWKbIv5XlkqcmXNqZYme) | [Old Station Atmos](https://open.spotify.com/album/75tGA9NBEDDoidb2YJbfUv) | 3:31 | 2021-03-14 | 2021-09-03 |
 | [Omniscient](https://open.spotify.com/track/3MG6fFcoFduAh2sjRmIYZg) | [Geneviève Corin](https://open.spotify.com/artist/2OZcj5SwwY93YZWnNdzD38) | [Omniscient](https://open.spotify.com/album/4nyurPRXDeFSQl7VYAl979) | 2:37 | 2022-05-19 |  |
+| [On The Surface](https://open.spotify.com/track/3KNdyoMQqMxmVDAMN22ws9) | [Marlowe Coleman](https://open.spotify.com/artist/19Ezl9iEvMupXpC5XMgZBR) | [On The Surface](https://open.spotify.com/album/5EhjBdDETEVrPjqfAdiWXu) | 2:03 | 2022-10-07 |  |
 | [One And The Same](https://open.spotify.com/track/3xZwZ9yujCluOe5mlDzD7r) | [Rouge Haven](https://open.spotify.com/artist/7iLEu7Ib4kevZUat8dJkvR) | [One And The Same](https://open.spotify.com/album/1XE0fJg07FtFY562bz76w2) | 2:37 | 2022-08-15 |  |
 | [One More Star](https://open.spotify.com/track/63MzmVZAxZ0iPrm9NPHUxj) | [Monorie](https://open.spotify.com/artist/1JZno0x00fpuTL7Kw6uUMD) | [One More Star](https://open.spotify.com/album/2eC7jLyOVw6Xec0JqGbLkA) | 2:54 | 2020-10-20\* | 2020-12-12 |
 | [Ons](https://open.spotify.com/track/07UDTaRYJAsIhUZTyZSUzM) | [Huma](https://open.spotify.com/artist/518pvehpCn4yp3oJJbr6zA) | [Ons](https://open.spotify.com/album/2cdvRClGJPAHpK0ACSFSfu) | 3:13 | 2021-10-30 |  |
@@ -676,6 +681,7 @@
 | [Will you be there when I wake up](https://open.spotify.com/track/0MrDqmqbP0xS9sGedtiuAC) | [Gemma Casimaty](https://open.spotify.com/artist/4i2qe6NHlNFfwcQpi6dpFC) | [Will you be there when I wake up](https://open.spotify.com/album/1NIKFZsRIEASlBY2s20mTP) | 2:44 | 2020-10-20\* | 2021-05-04 |
 | [Window To My Mind](https://open.spotify.com/track/1wE9HgRDTAlL5zsw1V3ThR) | [Konradism](https://open.spotify.com/artist/4uA8U0JA9Wg48FEmhekfFk) | [Window To My Mind](https://open.spotify.com/album/5nO2GGiIIYGRR4ZvnxsMXB) | 2:47 | 2021-10-30 | 2022-03-25 |
 | [Wishing to Dream](https://open.spotify.com/track/2Iwa4VlmFChLkfy1kLk4js) | [Gemma Casimaty](https://open.spotify.com/artist/4i2qe6NHlNFfwcQpi6dpFC) | [Wishing to Dream](https://open.spotify.com/album/0SvHuutnF3D6rb9LrOaqdh) | 2:50 | 2020-10-20\* | 2021-06-16 |
+| [With Every Breath I Breathe](https://open.spotify.com/track/7bpnfbTaoPGzCdvyRAEW0E) | [Manny Chu](https://open.spotify.com/artist/5cqGSR5Eyh5XSYtlSStmmF) | [With Every Breath I Breathe](https://open.spotify.com/album/0tB9FyhrB5N3lusDO1yBKf) | 3:19 | 2022-10-07 |  |
 | [Within the Light](https://open.spotify.com/track/6Di2mEmryP7AAak4VZMLVJ) | [Mia Pandosa](https://open.spotify.com/artist/1bLfERJJqbxHMdNMdDtpAL) | [Within the Light \(Ambient Version\)](https://open.spotify.com/album/4qJ6aOT7ZWniQnKQVbIDK8) | 2:29 | 2021-05-04 |  |
 | [Yakamoz](https://open.spotify.com/track/0HZeMwreNsUSEWX1ykYKum) | [Esin Pierce](https://open.spotify.com/artist/6enPYAFFkQmIlyV4aUs0Pn) | [Yakamoz](https://open.spotify.com/album/5rhxCNJmUnWyQckR4Zy5CL) | 3:12 | 2021-03-14 | 2021-08-17 |
 | [Yearning](https://open.spotify.com/track/2eEmTR3Z7KnbZ6wkctRIjO) | [Samira Tesfay](https://open.spotify.com/artist/353EbCGpBHIyVTPMgttcSy) | [Yearning](https://open.spotify.com/album/6LyHuxpp4ZHCzqizxMr6bQ) | 2:24 | 2020-10-20\* | 2021-06-16 |

@@ -2,9 +2,9 @@
 
 ### [Top Brasil](https://open.spotify.com/playlist/37i9dQZF1DX0FOF1IUWK1W)
 
-> Guilherme & Benuto com Xand Avião e os maiores hits do país\. O que tá bombando tá aqui.
+> Gustavo Mioto com Mari Fernandez e os maiores hits do país\. O que tá bombando tá aqui.
 
-147 songs - 7 hr 31 min - [published](https://open.spotify.com/playlist/6OWNwCnpZnna609PoaFgfo)
+148 songs - 7 hr 34 min - [published](https://open.spotify.com/playlist/6OWNwCnpZnna609PoaFgfo)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -101,7 +101,7 @@
 | [Metflix](https://open.spotify.com/track/3ZtHHGpAPSWC7Gnios4lmK) | [Mc Poze do Rodo](https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M), [Mainstreet](https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd), [Ajaxx](https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt) | [Metflix](https://open.spotify.com/album/36GkjPO0oYcbKFCYtbPEHj) | 2:13 | 2022-07-28 | 2022-09-16 |
 | [Meu Número \- Ao Vivo](https://open.spotify.com/track/3XF598RmEUF3XW4XKo1lyP) | [Hugo & Guilherme](https://open.spotify.com/artist/1LIuN7ov1IBQDdLsU83ojl), [Jorge & Mateus](https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM) | [Próximo Passo \(Ao Vivo\)](https://open.spotify.com/album/2ybspxBvzQhRsdPR85s2s9) | 3:28 | 2022-04-21 |  |
 | [Meu Pedaço de Pecado](https://open.spotify.com/track/5dApIvFnEdEx0PZvPJF22d) | [João Gomes](https://open.spotify.com/artist/4JNo6Q5KdcRf1vtSX9mB0S) | [Meu Pedaço de Pecado](https://open.spotify.com/album/0ayims5WqqbKbfpktZEGe1) | 2:39 | 2022-01-17 | 2022-02-11 |
-| [Molhando o Volante](https://open.spotify.com/track/3ITkrUvAA6gzxer2UIom3P) | [Jorge & Mateus](https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM) | [Molhando o Volante](https://open.spotify.com/album/27M30wcfpfaDbTPeTI1H9l) | 2:42 | 2022-01-17 |  |
+| [Molhando o Volante](https://open.spotify.com/track/3ITkrUvAA6gzxer2UIom3P) | [Jorge & Mateus](https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM) | [Molhando o Volante](https://open.spotify.com/album/27M30wcfpfaDbTPeTI1H9l) | 2:42 | 2022-01-17 | 2022-10-07 |
 | [Nem Namorado e Nem Ficante \- Ao Vivo](https://open.spotify.com/track/5djAifHOVqTUDP61DCx8ti) | [Israel & Rodolffo](https://open.spotify.com/artist/41QLxRXlc2NwfJZkHGHKid), [Maiara & Maraisa](https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se) | [Nem Namorado e Nem Ficante \(Ao Vivo\)](https://open.spotify.com/album/715RY4qPqtYvtoYKaRCFpZ) | 2:46 | 2022-06-02 |  |
 | [NO CHÃO NOVINHA](https://open.spotify.com/track/7ARoqP7G8UYW8SyYPyPp7k) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [PEDRO SAMPAIO](https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1) | [NO CHÃO NOVINHA](https://open.spotify.com/album/6AyOkPbsH3YKjpxCLTmIgh) | 2:16 | 2022-01-17 | 2022-04-15 |
 | [No Ouvidinho](https://open.spotify.com/track/4QWumyD2uwiePBBha9XBHI) | [Felipe Amorim](https://open.spotify.com/artist/3CIIaeZuFYrAD6PRVyuO4U) | [No Ouvidinho](https://open.spotify.com/album/4Ljc7jLwnwltjgugXbGOoq) | 3:03 | 2022-04-01 |  |
@@ -110,6 +110,7 @@
 | [Não Me Arranha \- Ao Vivo](https://open.spotify.com/track/3eq6zwPwN5SAw0rZxNHI22) | [Gusttavo Lima](https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN) | [Buteco in Boston, Vol\. 1 \(Ao Vivo\)](https://open.spotify.com/album/6kqV2ortasb6HOA7pupoKs) | 2:39 | 2022-03-17 | 2022-04-22 |
 | [Não Pega Ninguém Ainda \(Ao Vivo\)](https://open.spotify.com/track/2LEV3lTRxKqLBfmt5BWkLj) | [Gusttavo Lima](https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN) | [Não Pega Ninguém Ainda \(Ao Vivo\)](https://open.spotify.com/album/74QtfHHV8sXA7CUKzRHfk2) | 2:55 | 2022-06-09 | 2022-07-22 |
 | [Não Vou Te Bloquear \- Ao vivo](https://open.spotify.com/track/5yRgMxdDhdYlbUQNCOlW3o) | [Mc Don Juan](https://open.spotify.com/artist/7Lmrb6KcIzfkmgbtokjsAL), [Tarcísio do Acordeon](https://open.spotify.com/artist/48HORs6F9P7IgdyKrk4MZC), [DG e Batidão Stronda](https://open.spotify.com/artist/7gIeuq2qBfYhO1budb6TSQ) | [Summer \(EP 1\) \[Ao vivo\]](https://open.spotify.com/album/1ZQq76qlDn4sTfz8dZvxUs) | 2:48 | 2022-01-27 | 2022-05-27 |
+| [NÉ SEGREDO](https://open.spotify.com/track/4pjznsLeoyimnxGlVpmyJI) | [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW), [Victor WAO](https://open.spotify.com/artist/1ew4rMO5r0Oon1R9xZxo8Q), [Bairro 13](https://open.spotify.com/artist/2ippo8G3HMB1qEEJvkj8PT) | [NÉ SEGREDO](https://open.spotify.com/album/0RrjNaFfi2X1qVLPSLXTwT) | 2:35 | 2022-10-06 |  |
 | [Oi, Como Ce Tá?](https://open.spotify.com/track/5Z4TYur0O9OxmxIo6GC2Gq) | [Vulgo FK](https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0), [Elenko Music](https://open.spotify.com/artist/6OAAuXhPzzofYSaiIGHasL), [WEY](https://open.spotify.com/artist/6nZ39vMOOOgXQ471Jy5jhR), [Wall Hein](https://open.spotify.com/artist/5wEgjH2s4SAiffRmzkBqHB) | [Oi, Como Ce Tá?](https://open.spotify.com/album/4Y0n73TdglcGIKQLuaRVou) | 2:36 | 2022-02-24 | 2022-05-20 |
 | [Pandora](https://open.spotify.com/track/0yL7K9MzC20uBesZTPY81r) | [DJ Matt D](https://open.spotify.com/artist/1rIc4yTieeRq25NA3T8RQ5), [Menor MC](https://open.spotify.com/artist/78Y1NpgD0yMKoBetaYlUzS), [MC GP](https://open.spotify.com/artist/5s27i7oqhNWIcE4HeoVdq0), [Vulgo FK](https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0) | [Pandora](https://open.spotify.com/album/25yqPTm5X7FXx62mPnjcsC) | 2:57 | 2022-01-17 | 2022-05-16 |
 | [Parada Louca](https://open.spotify.com/track/72g37RoelSnovZakG5MwnF) | [Mari Fernandez](https://open.spotify.com/artist/0BHm7qbh3ENxvXzkQAG7MP), [Marcynho Sensação](https://open.spotify.com/artist/4dnPDc045bVjibyATxVUOs) | [Parada Louca](https://open.spotify.com/album/3yHH2TjeBsCGSv5Nb2mNrn) | 2:59 | 2022-01-17 | 2022-09-30 |

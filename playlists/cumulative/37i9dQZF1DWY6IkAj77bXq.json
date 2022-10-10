@@ -109,7 +109,7 @@
       ],
       "date_added": "2022-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-06",
       "duration_ms": 184477,
       "name": "Air in the Morning",
       "url": "https://open.spotify.com/track/7GIEVoZu1C74OdyAPbg9hU"
@@ -829,7 +829,7 @@
       ],
       "date_added": "2022-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-09",
       "duration_ms": 178928,
       "name": "Heavenly",
       "url": "https://open.spotify.com/track/4TYAkHr7OjLZrERXYmvkAQ"
@@ -1517,7 +1517,7 @@
       ],
       "date_added": "2022-07-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-26",
+      "date_removed": null,
       "duration_ms": 145714,
       "name": "Sandy Foam",
       "url": "https://open.spotify.com/track/3eifjD5zwsrWjKkphFcr5i"
@@ -1571,7 +1571,7 @@
       ],
       "date_added": "2022-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-03",
       "duration_ms": 183529,
       "name": "Semblance",
       "url": "https://open.spotify.com/track/0X1V9oX92DjDYkXPdyNopH"
@@ -1755,6 +1755,24 @@
       "duration_ms": 180882,
       "name": "Sleep, Heavenly Sleep",
       "url": "https://open.spotify.com/track/36AM3FkKz49Iic9MkWvGr1"
+    },
+    {
+      "album": {
+        "name": "Sleeping Moons",
+        "url": "https://open.spotify.com/album/35fjYF6bpmPk6cuFkTzQiv"
+      },
+      "artists": [
+        {
+          "name": "Atmospheric Lights",
+          "url": "https://open.spotify.com/artist/65IYpN2ZX0vQzO3JRCpNHX"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191484,
+      "name": "Sleeping Moons",
+      "url": "https://open.spotify.com/track/4xS39N1i2nOU0n57Tw5bcz"
     },
     {
       "album": {
@@ -2129,7 +2147,7 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-15",
+      "date_removed": null,
       "duration_ms": 409616,
       "name": "World Peace",
       "url": "https://open.spotify.com/track/76Tn6TEnTFySc9CnzSOLx2"

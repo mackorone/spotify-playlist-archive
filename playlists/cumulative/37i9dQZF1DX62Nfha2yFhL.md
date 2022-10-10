@@ -4,10 +4,11 @@
 
 > Whether you're lounging at home or out with your friends, let this playlist provide your soundtrack.
 
-73 songs - 4 hr 13 min - [published](https://open.spotify.com/playlist/7okhrNisMIylwZHgFGUJed)
+75 songs - 4 hr 20 min - [published](https://open.spotify.com/playlist/7okhrNisMIylwZHgFGUJed)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [5 Minutes](https://open.spotify.com/track/5XUv1bnwbWqG59pzNVtocn) | [Allen Stone](https://open.spotify.com/artist/536osqBGKzeozje8BfcGsa) | [5 Minutes](https://open.spotify.com/album/50m0nBNNmLRfgF9DXtUSeL) | 3:15 | 2022-10-07 |  |
 | [All I Need \(with Mahalia & Ty Dolla $ign\)](https://open.spotify.com/track/68j5DYmCikBzcp60Sv6xWO) | [Jacob Collier](https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD), [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [All I Need \(with Mahalia & Ty Dolla $ign\)](https://open.spotify.com/album/4vSD7Y3Ob3H5nhfgWX8OPf) | 4:03 | 2021-10-22 | 2022-09-10 |
 | [all of your love](https://open.spotify.com/track/0E8GYDcN69ahYTUEQMTHNr) | [Luke James](https://open.spotify.com/artist/4E7AV8mtElSjHZP3xA9kyU) | [all of your love](https://open.spotify.com/album/3HEGCuxlqu4t5AYrjwLdR8) | 3:38 | 2021-10-22 |  |
 | [Angels & Queens](https://open.spotify.com/track/4KpqdNIQw7S6DlZz8RjBzO) | [Gabriels](https://open.spotify.com/artist/5tHs3fthucNRGAFpdE9rmz) | [Angels & Queens](https://open.spotify.com/album/1KIvBCWJuLhFYdXPvE8ExK) | 3:19 | 2022-09-09 |  |
@@ -50,6 +51,7 @@
 | [Love Me Like \(feat\. DUCKWRTH\)](https://open.spotify.com/track/1P9KFw6u4vX7hbFcFZd1yL) | [Rayana Jay](https://open.spotify.com/artist/1kh0AypxF3CxMMzmQyif2S), [Duckwrth](https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9) | [Love Me Like \(feat\. DUCKWRTH\)](https://open.spotify.com/album/2RZUiUCPzbh4hb0IJ9Bh7I) | 2:44 | 2021-10-22 |  |
 | [Love You Bad \(feat\. Phoelix\)](https://open.spotify.com/track/1BkK2fQUGALz7AaOSo7Swh) | [Terrace Martin](https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz), [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn), [9th Wonder](https://open.spotify.com/artist/4s8ZGMVf3OiPktSP4ulpqU), [Kamasi Washington](https://open.spotify.com/artist/6HQYnRM4OzToCYPpVBInuU), [Dinner Party](https://open.spotify.com/artist/6p70iKebfMSl8zbkiEwOtS), [Phoelix](https://open.spotify.com/artist/2TKC2gVUNBUAlFqfLUoaj0) | [Dinner Party](https://open.spotify.com/album/4Wq9dC08uEtSuGc8mFwC3r) | 2:48 | 2021-10-22 |  |
 | [Mariposa](https://open.spotify.com/track/0D15z5l7YWqwyJ8wkO2oaA) | [Radiant Children](https://open.spotify.com/artist/2e0Bkreg0zzfE5umvfKQXf) | [There's Only Being Yourself](https://open.spotify.com/album/39M0gBqg32iFT5unERsKXv) | 3:04 | 2021-10-22 |  |
+| [Message](https://open.spotify.com/track/0KIDpvQMzAAmwtsnSwBUN2) | [Arima Ederra](https://open.spotify.com/artist/0wJIP9Wlhn3aSLLaB31IK3) | [An Orange Colored Day](https://open.spotify.com/album/5nS7yXoaIU2y6xZ6I8hm8o) | 3:26 | 2022-10-07 |  |
 | [My Love](https://open.spotify.com/track/5MzQInSkVMQhfrSGIPE2JT) | [Greentea Peng](https://open.spotify.com/artist/5z9wLR0RGBcWMXr4fCZW0K) | [GREENZONE 108](https://open.spotify.com/album/2ygXPIqdYAq3qiTHjkPH0a) | 4:10 | 2022-09-09 |  |
 | [My Side](https://open.spotify.com/track/2m0BIvy0p9oCTxDmJkzMyl) | [lophiile](https://open.spotify.com/artist/5g5eVr2vAQnd12Q1XCJD7R), [NSTASIA](https://open.spotify.com/artist/2BBgFkNBBMln3m2G2Bm2bt) | [My Side](https://open.spotify.com/album/14Wn2OaKXs2xtm0jWEAk1B) | 3:26 | 2021-10-22 | 2022-07-29 |
 | [My Side](https://open.spotify.com/track/4DB4pVDQ2JR7EuNmSsO53T) | [lophiile](https://open.spotify.com/artist/5g5eVr2vAQnd12Q1XCJD7R), [NSTASIA](https://open.spotify.com/artist/2BBgFkNBBMln3m2G2Bm2bt) | [To Forgive](https://open.spotify.com/album/08Y2FNHDlpJsK5BPgF4teN) | 3:26 | 2022-02-18 |  |

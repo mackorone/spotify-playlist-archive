@@ -768,6 +768,24 @@
     },
     {
       "album": {
+        "name": "free",
+        "url": "https://open.spotify.com/album/1Twl9jb2ob9s2tGaWnLixh"
+      },
+      "artists": [
+        {
+          "name": "Crispy Candy",
+          "url": "https://open.spotify.com/artist/0q6FzJH9tH7ysqdLy7kXKp"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210429,
+      "name": "free",
+      "url": "https://open.spotify.com/track/4yiDLzimhW55rMSv0MeE8F"
+    },
+    {
+      "album": {
         "name": "Cygnus A",
         "url": "https://open.spotify.com/album/0YH8iHF3YgylIRIdlL6bGV"
       },
@@ -1402,6 +1420,24 @@
     },
     {
       "album": {
+        "name": "Magnolia",
+        "url": "https://open.spotify.com/album/6e93BRGJ8p6Gg7Elwbb5un"
+      },
+      "artists": [
+        {
+          "name": "Chakra Lounge",
+          "url": "https://open.spotify.com/artist/7Biy6OokTAlZOmGAIhx944"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193200,
+      "name": "Magnolia",
+      "url": "https://open.spotify.com/track/1awvT0baqmByEbazQVzm3W"
+    },
+    {
+      "album": {
         "name": "Make it Count",
         "url": "https://open.spotify.com/album/1OVrw11t0hkDglQPrjB4oq"
       },
@@ -1601,6 +1637,24 @@
       "duration_ms": 216811,
       "name": "On the Reef",
       "url": "https://open.spotify.com/track/4VlhhTSAslHLsVBSNYsiFZ"
+    },
+    {
+      "album": {
+        "name": "Open Fields",
+        "url": "https://open.spotify.com/album/2fgoswYqbGfQDGQOoS3oWO"
+      },
+      "artists": [
+        {
+          "name": "Toby Tech",
+          "url": "https://open.spotify.com/artist/3AIUmOlOCNpbVbYL9RirIM"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261000,
+      "name": "Open Fields",
+      "url": "https://open.spotify.com/track/6PsPRjRVQpuxltouIiGJfu"
     },
     {
       "album": {
@@ -2418,6 +2472,24 @@
     },
     {
       "album": {
+        "name": "White Sand",
+        "url": "https://open.spotify.com/album/1YEoHrS4r659ncmDAGU3rD"
+      },
+      "artists": [
+        {
+          "name": "Maurea",
+          "url": "https://open.spotify.com/artist/6GqXPQOxk9y94VmCzjZMEj"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159493,
+      "name": "White Sand",
+      "url": "https://open.spotify.com/track/5bJpgpe64yhSWpwtELoBh3"
+    },
+    {
+      "album": {
         "name": "With My Whole Heart",
         "url": "https://open.spotify.com/album/7DqXk7aQUle3M5qMtjq6zb"
       },
@@ -2469,6 +2541,24 @@
       "duration_ms": 151022,
       "name": "Yesterday's Dream",
       "url": "https://open.spotify.com/track/3eb9HO1cq8uzEmUdU7mNvs"
+    },
+    {
+      "album": {
+        "name": "Young Guns",
+        "url": "https://open.spotify.com/album/7yg546r9ibdZQXlDB3C8qr"
+      },
+      "artists": [
+        {
+          "name": "KD Simon",
+          "url": "https://open.spotify.com/artist/5vdDoo0msksIJMUMyTwoIe"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183394,
+      "name": "Young Guns",
+      "url": "https://open.spotify.com/track/6Inc6yOBo4kUlCltz75Y4K"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX3PKEfo9uS5R"

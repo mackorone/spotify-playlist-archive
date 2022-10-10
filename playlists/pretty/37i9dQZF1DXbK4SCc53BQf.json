@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Aqui est\u00e1n todas las esenciales Tropicales de adoraci\u00f3n!",
-  "num_followers": 74456,
+  "num_followers": 74859,
   "original_name": "Inspiraci\u00f3n Tropical",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYwNjIyNDIzNSwwMDAwMDAwMDM0ZmE5NzYxMGM4MTk4ODY4MmMxNDhkMjQzMTljNzEy",
+  "snapshot_id": "MTYwNjIyNDIzNSwwMDAwMDAwMGZkN2M4YWRhMGU1MmVmYjdiYzVlMGY0ZGY3YzgwNTc1",
   "tracks": [
     {
       "added_at": "2020-11-24 13:23:55",
@@ -155,26 +155,6 @@
     {
       "added_at": "2020-11-24 13:23:55",
       "album": {
-        "name": "Derroche De Amor",
-        "url": "https://open.spotify.com/album/6jiDmi9u09NcvLlYUNpSkR"
-      },
-      "artists": [
-        {
-          "name": "Alex Campos",
-          "url": "https://open.spotify.com/artist/6slyJwua5e5GuhuP82sTHR"
-        },
-        {
-          "name": "Barak",
-          "url": "https://open.spotify.com/artist/2IzxJqK9NbSIdw7rQVW03P"
-        }
-      ],
-      "duration_ms": 251013,
-      "name": "Si Estoy Contigo",
-      "url": "https://open.spotify.com/track/2mIoPDYldAD7tctsGmmA45"
-    },
-    {
-      "added_at": "2020-11-24 13:23:55",
-      "album": {
         "name": "Voy a Amarte",
         "url": "https://open.spotify.com/album/18PfvYdVeeRdXLi9VbtK71"
       },
@@ -187,6 +167,22 @@
       "duration_ms": 207360,
       "name": "Voy a Amarte",
       "url": "https://open.spotify.com/track/5bbOzB0tnW6aNPjt3gvFGi"
+    },
+    {
+      "added_at": "2020-11-24 13:23:55",
+      "album": {
+        "name": "De La a a La Z",
+        "url": "https://open.spotify.com/album/0LhQiVh7Hdi2qv5xGOOKIt"
+      },
+      "artists": [
+        {
+          "name": "Alex Zurdo",
+          "url": "https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd"
+        }
+      ],
+      "duration_ms": 187933,
+      "name": "Tengo Victoria",
+      "url": "https://open.spotify.com/track/7JIUI9bHyaifT8EAyNWqBU"
     },
     {
       "added_at": "2020-11-24 13:23:55",
@@ -227,38 +223,6 @@
     {
       "added_at": "2020-11-24 13:23:55",
       "album": {
-        "name": "De La a a La Z",
-        "url": "https://open.spotify.com/album/0LhQiVh7Hdi2qv5xGOOKIt"
-      },
-      "artists": [
-        {
-          "name": "Alex Zurdo",
-          "url": "https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd"
-        }
-      ],
-      "duration_ms": 187933,
-      "name": "Tengo Victoria",
-      "url": "https://open.spotify.com/track/7JIUI9bHyaifT8EAyNWqBU"
-    },
-    {
-      "added_at": "2020-11-24 13:23:55",
-      "album": {
-        "name": "Tercer Cielo",
-        "url": "https://open.spotify.com/album/23Zl6ea0vcawpR43mV6Ua0"
-      },
-      "artists": [
-        {
-          "name": "Tercer Cielo",
-          "url": "https://open.spotify.com/artist/2bimgkRmsxRhhuWsOnd5rz"
-        }
-      ],
-      "duration_ms": 219271,
-      "name": "Agua viva",
-      "url": "https://open.spotify.com/track/3wtOB6JSbO5clIrbSNjTCm"
-    },
-    {
-      "added_at": "2020-11-24 13:23:55",
-      "album": {
         "name": "Eres Merecedor",
         "url": "https://open.spotify.com/album/4zc7F9nicKZ6OWOedj0iGp"
       },
@@ -275,6 +239,38 @@
       "duration_ms": 221393,
       "name": "Eres Merecedor",
       "url": "https://open.spotify.com/track/1f2xoS6RAsYlHSFSsbyFDR"
+    },
+    {
+      "added_at": "2020-11-24 13:23:55",
+      "album": {
+        "name": "Enamorarme Mas",
+        "url": "https://open.spotify.com/album/3wkaAjJkem9YQO9l7SGmQa"
+      },
+      "artists": [
+        {
+          "name": "Christian Ray",
+          "url": "https://open.spotify.com/artist/31b011kEKkVK3I5v56GOig"
+        }
+      ],
+      "duration_ms": 275426,
+      "name": "Perfume a Tus Pies",
+      "url": "https://open.spotify.com/track/2yJyqIIEH2uBAyNqjXnDEM"
+    },
+    {
+      "added_at": "2020-11-24 13:23:55",
+      "album": {
+        "name": "Tercer Cielo",
+        "url": "https://open.spotify.com/album/23Zl6ea0vcawpR43mV6Ua0"
+      },
+      "artists": [
+        {
+          "name": "Tercer Cielo",
+          "url": "https://open.spotify.com/artist/2bimgkRmsxRhhuWsOnd5rz"
+        }
+      ],
+      "duration_ms": 219271,
+      "name": "Agua viva",
+      "url": "https://open.spotify.com/track/3wtOB6JSbO5clIrbSNjTCm"
     },
     {
       "added_at": "2020-11-24 13:23:55",
@@ -299,22 +295,6 @@
     {
       "added_at": "2020-11-24 13:23:55",
       "album": {
-        "name": "Enamorarme Mas",
-        "url": "https://open.spotify.com/album/3wkaAjJkem9YQO9l7SGmQa"
-      },
-      "artists": [
-        {
-          "name": "Christian Ray",
-          "url": "https://open.spotify.com/artist/31b011kEKkVK3I5v56GOig"
-        }
-      ],
-      "duration_ms": 275426,
-      "name": "Perfume a Tus Pies",
-      "url": "https://open.spotify.com/track/2yJyqIIEH2uBAyNqjXnDEM"
-    },
-    {
-      "added_at": "2020-11-24 13:23:55",
-      "album": {
         "name": "7",
         "url": "https://open.spotify.com/album/0SwG9W9WTQNhAJV8z4LYNU"
       },
@@ -335,34 +315,18 @@
     {
       "added_at": "2020-11-24 13:23:55",
       "album": {
-        "name": "This Is My Time",
-        "url": "https://open.spotify.com/album/0n71AqZVvgoRuxW1pSSTsA"
+        "name": "Al\u00e1bale Con Ritmo de Salsa",
+        "url": "https://open.spotify.com/album/4cmpSr90A0JzyVtngmxoMr"
       },
       "artists": [
         {
-          "name": "Mr. Don",
-          "url": "https://open.spotify.com/artist/12YP3RGVLp3c36Zi6lFRtR"
+          "name": "David Y Abraham",
+          "url": "https://open.spotify.com/artist/03bSnfVbCWNrwj4UfHzoc4"
         }
       ],
-      "duration_ms": 228089,
-      "name": "La Misma Mentira",
-      "url": "https://open.spotify.com/track/6wwRmRSc9OP9RdovSj7CZi"
-    },
-    {
-      "added_at": "2020-11-24 13:23:55",
-      "album": {
-        "name": "Los Revolucionarios",
-        "url": "https://open.spotify.com/album/3Z11QAKXolvX22BZhC4eaH"
-      },
-      "artists": [
-        {
-          "name": "Batuqueadora",
-          "url": "https://open.spotify.com/artist/47RBGFFiHJx1q4BageKWkw"
-        }
-      ],
-      "duration_ms": 235681,
-      "name": "Batugozo",
-      "url": "https://open.spotify.com/track/03XD6d7Lr9TJXdGBSZt6Ko"
+      "duration_ms": 282984,
+      "name": "Tengo un Nuevo Amor - Salsa",
+      "url": "https://open.spotify.com/track/6jtT0TU60r0ECBtRtNe335"
     },
     {
       "added_at": "2020-11-24 13:23:55",
@@ -383,18 +347,34 @@
     {
       "added_at": "2020-11-24 13:23:55",
       "album": {
-        "name": "Al\u00e1bale Con Ritmo de Salsa",
-        "url": "https://open.spotify.com/album/4cmpSr90A0JzyVtngmxoMr"
+        "name": "Los Revolucionarios",
+        "url": "https://open.spotify.com/album/3Z11QAKXolvX22BZhC4eaH"
       },
       "artists": [
         {
-          "name": "David Y Abraham",
-          "url": "https://open.spotify.com/artist/03bSnfVbCWNrwj4UfHzoc4"
+          "name": "Batuqueadora",
+          "url": "https://open.spotify.com/artist/47RBGFFiHJx1q4BageKWkw"
         }
       ],
-      "duration_ms": 282984,
-      "name": "Tengo un Nuevo Amor - Salsa",
-      "url": "https://open.spotify.com/track/6jtT0TU60r0ECBtRtNe335"
+      "duration_ms": 235681,
+      "name": "Batugozo",
+      "url": "https://open.spotify.com/track/03XD6d7Lr9TJXdGBSZt6Ko"
+    },
+    {
+      "added_at": "2020-11-24 13:23:55",
+      "album": {
+        "name": "This Is My Time",
+        "url": "https://open.spotify.com/album/0n71AqZVvgoRuxW1pSSTsA"
+      },
+      "artists": [
+        {
+          "name": "Mr. Don",
+          "url": "https://open.spotify.com/artist/12YP3RGVLp3c36Zi6lFRtR"
+        }
+      ],
+      "duration_ms": 228089,
+      "name": "La Misma Mentira",
+      "url": "https://open.spotify.com/track/6wwRmRSc9OP9RdovSj7CZi"
     },
     {
       "added_at": "2020-11-24 13:23:55",
@@ -451,22 +431,6 @@
     {
       "added_at": "2020-11-24 13:23:55",
       "album": {
-        "name": "Flaming Fire",
-        "url": "https://open.spotify.com/album/4MYWnUXEyqvznkPcIkaDMR"
-      },
-      "artists": [
-        {
-          "name": "Melvin Ayala",
-          "url": "https://open.spotify.com/artist/5EGSaehrI82YE3RpU6GkLS"
-        }
-      ],
-      "duration_ms": 212146,
-      "name": "Que No Faltes Tu",
-      "url": "https://open.spotify.com/track/4ct64YIDnmfCDYPiVidt8l"
-    },
-    {
-      "added_at": "2020-11-24 13:23:55",
-      "album": {
         "name": "Vuelve a So\u00f1ar - EP",
         "url": "https://open.spotify.com/album/7qtu9kgujZ7Ze82Cuj8zJv"
       },
@@ -487,6 +451,22 @@
     {
       "added_at": "2020-11-24 13:23:55",
       "album": {
+        "name": "Flaming Fire",
+        "url": "https://open.spotify.com/album/4MYWnUXEyqvznkPcIkaDMR"
+      },
+      "artists": [
+        {
+          "name": "Melvin Ayala",
+          "url": "https://open.spotify.com/artist/5EGSaehrI82YE3RpU6GkLS"
+        }
+      ],
+      "duration_ms": 212146,
+      "name": "Que No Faltes Tu",
+      "url": "https://open.spotify.com/track/4ct64YIDnmfCDYPiVidt8l"
+    },
+    {
+      "added_at": "2020-11-24 13:23:55",
+      "album": {
         "name": "Fiel",
         "url": "https://open.spotify.com/album/0jPkJNUVPwugoSZWs63orG"
       },
@@ -499,6 +479,26 @@
       "duration_ms": 278891,
       "name": "Fiesta",
       "url": "https://open.spotify.com/track/5BoyMsxh4nET9KiiWW1BgX"
+    },
+    {
+      "added_at": "2020-11-24 13:23:55",
+      "album": {
+        "name": "Colaboraciones de Ayer y Hoy",
+        "url": "https://open.spotify.com/album/5uu15dSyOKwEVPY9qRzT6t"
+      },
+      "artists": [
+        {
+          "name": "Rescate",
+          "url": "https://open.spotify.com/artist/1yIESehTCkR9hPmGFKxuV5"
+        },
+        {
+          "name": "Vico C",
+          "url": "https://open.spotify.com/artist/0GutRVONcyyBj1WduodFc6"
+        }
+      ],
+      "duration_ms": 241960,
+      "name": "Soy Jose",
+      "url": "https://open.spotify.com/track/5KNXGKonSOR13GtCdSluPS"
     },
     {
       "added_at": "2020-11-24 13:23:55",
@@ -535,22 +535,18 @@
     {
       "added_at": "2020-11-24 13:23:55",
       "album": {
-        "name": "Colaboraciones de Ayer y Hoy",
-        "url": "https://open.spotify.com/album/5uu15dSyOKwEVPY9qRzT6t"
+        "name": "30 Bachatas Cristianas Pegaditas",
+        "url": "https://open.spotify.com/album/7kK9agRpkwjNHsiCVE4hKt"
       },
       "artists": [
         {
-          "name": "Rescate",
-          "url": "https://open.spotify.com/artist/1yIESehTCkR9hPmGFKxuV5"
-        },
-        {
-          "name": "Vico C",
-          "url": "https://open.spotify.com/artist/0GutRVONcyyBj1WduodFc6"
+          "name": "Jhonny Rafael",
+          "url": "https://open.spotify.com/artist/5ignJ7cAgLFhc8Rp1sNhJW"
         }
       ],
-      "duration_ms": 241960,
-      "name": "Soy Jose",
-      "url": "https://open.spotify.com/track/5KNXGKonSOR13GtCdSluPS"
+      "duration_ms": 268613,
+      "name": "Sinceridad",
+      "url": "https://open.spotify.com/track/6N49H4sNWlPvytIiNmjVzB"
     },
     {
       "added_at": "2020-11-24 13:23:55",
@@ -571,38 +567,6 @@
     {
       "added_at": "2020-11-24 13:23:55",
       "album": {
-        "name": "Hoy Ver\u00e9 Su Gloria",
-        "url": "https://open.spotify.com/album/1xCt6Bwx2DPoSh6EGBIlOv"
-      },
-      "artists": [
-        {
-          "name": "Kevin Ceballo",
-          "url": "https://open.spotify.com/artist/41xsiEh9qfWhieXgsoI43v"
-        }
-      ],
-      "duration_ms": 274130,
-      "name": "Hoy Ver\u00e9 Su Gloria",
-      "url": "https://open.spotify.com/track/3A7r0LzUXp0pxWR4AfhLV5"
-    },
-    {
-      "added_at": "2020-11-24 13:23:55",
-      "album": {
-        "name": "30 Bachatas Cristianas Pegaditas",
-        "url": "https://open.spotify.com/album/7kK9agRpkwjNHsiCVE4hKt"
-      },
-      "artists": [
-        {
-          "name": "Jhonny Rafael",
-          "url": "https://open.spotify.com/artist/5ignJ7cAgLFhc8Rp1sNhJW"
-        }
-      ],
-      "duration_ms": 268613,
-      "name": "Sinceridad",
-      "url": "https://open.spotify.com/track/6N49H4sNWlPvytIiNmjVzB"
-    },
-    {
-      "added_at": "2020-11-24 13:23:55",
-      "album": {
         "name": "Vestida De Adoracion",
         "url": "https://open.spotify.com/album/3HL5KhmbzAuVBSPQoaUwZu"
       },
@@ -619,6 +583,22 @@
     {
       "added_at": "2020-11-24 13:23:55",
       "album": {
+        "name": "Hoy Ver\u00e9 Su Gloria",
+        "url": "https://open.spotify.com/album/1xCt6Bwx2DPoSh6EGBIlOv"
+      },
+      "artists": [
+        {
+          "name": "Kevin Ceballo",
+          "url": "https://open.spotify.com/artist/41xsiEh9qfWhieXgsoI43v"
+        }
+      ],
+      "duration_ms": 274130,
+      "name": "Hoy Ver\u00e9 Su Gloria",
+      "url": "https://open.spotify.com/track/3A7r0LzUXp0pxWR4AfhLV5"
+    },
+    {
+      "added_at": "2020-11-24 13:23:55",
+      "album": {
         "name": "Lo Mejor De Mi, Para El",
         "url": "https://open.spotify.com/album/1e1CABBw5I7ZK8vUPcl3JG"
       },
@@ -631,30 +611,6 @@
       "duration_ms": 316640,
       "name": "Renuevame",
       "url": "https://open.spotify.com/track/5y8KU2x7B5DEpxP66I1Ghz"
-    },
-    {
-      "added_at": "2020-11-24 13:23:55",
-      "album": {
-        "name": "Me Llevas M\u00e1s Alto (feat. Alex Campos & Redimi2)",
-        "url": "https://open.spotify.com/album/7fAjCNONQytoQTifBuDkwC"
-      },
-      "artists": [
-        {
-          "name": "DJ PV",
-          "url": "https://open.spotify.com/artist/6jdJKaM0mCqZzbUgeO5e0j"
-        },
-        {
-          "name": "Alex Campos",
-          "url": "https://open.spotify.com/artist/6slyJwua5e5GuhuP82sTHR"
-        },
-        {
-          "name": "Redimi2",
-          "url": "https://open.spotify.com/artist/0WZOmdnCln6FK6GM9e2tGm"
-        }
-      ],
-      "duration_ms": 199506,
-      "name": "Me Llevas M\u00e1s Alto (feat. Alex Campos & Redimi2)",
-      "url": "https://open.spotify.com/track/0IBSKqWL16eHHqXl6HoPWy"
     },
     {
       "added_at": "2020-11-24 13:23:55",
@@ -695,6 +651,30 @@
     {
       "added_at": "2020-11-24 13:23:55",
       "album": {
+        "name": "Me Llevas M\u00e1s Alto (feat. Alex Campos & Redimi2)",
+        "url": "https://open.spotify.com/album/7fAjCNONQytoQTifBuDkwC"
+      },
+      "artists": [
+        {
+          "name": "DJ PV",
+          "url": "https://open.spotify.com/artist/6jdJKaM0mCqZzbUgeO5e0j"
+        },
+        {
+          "name": "Alex Campos",
+          "url": "https://open.spotify.com/artist/6slyJwua5e5GuhuP82sTHR"
+        },
+        {
+          "name": "Redimi2",
+          "url": "https://open.spotify.com/artist/0WZOmdnCln6FK6GM9e2tGm"
+        }
+      ],
+      "duration_ms": 199506,
+      "name": "Me Llevas M\u00e1s Alto (feat. Alex Campos & Redimi2)",
+      "url": "https://open.spotify.com/track/0IBSKqWL16eHHqXl6HoPWy"
+    },
+    {
+      "added_at": "2020-11-24 13:23:55",
+      "album": {
         "name": "Desde Mi Alma",
         "url": "https://open.spotify.com/album/1AGbEgukntBYyagzUeuvOD"
       },
@@ -727,6 +707,22 @@
     {
       "added_at": "2020-11-24 13:23:55",
       "album": {
+        "name": "Si Te Vas",
+        "url": "https://open.spotify.com/album/5obRq2pwQQHNOeG3Tp1Tv0"
+      },
+      "artists": [
+        {
+          "name": "Omy Alka",
+          "url": "https://open.spotify.com/artist/6dBxV47XdYFxRPmDGSyhgh"
+        }
+      ],
+      "duration_ms": 190290,
+      "name": "Si Te Vas",
+      "url": "https://open.spotify.com/track/13zI0iUXyWpiHIPVte2cD2"
+    },
+    {
+      "added_at": "2020-11-24 13:23:55",
+      "album": {
         "name": "Conteo Regresivo",
         "url": "https://open.spotify.com/album/4u5WBcNF0IolTEzYBjLKHg"
       },
@@ -743,18 +739,18 @@
     {
       "added_at": "2020-11-24 13:23:55",
       "album": {
-        "name": "Si Te Vas",
-        "url": "https://open.spotify.com/album/5obRq2pwQQHNOeG3Tp1Tv0"
+        "name": "Vestida De Adoracion",
+        "url": "https://open.spotify.com/album/3HL5KhmbzAuVBSPQoaUwZu"
       },
       "artists": [
         {
-          "name": "Omy Alka",
-          "url": "https://open.spotify.com/artist/6dBxV47XdYFxRPmDGSyhgh"
+          "name": "Kathy Cristina",
+          "url": "https://open.spotify.com/artist/287HBPD9OBO14J8gsG0Da4"
         }
       ],
-      "duration_ms": 190290,
-      "name": "Si Te Vas",
-      "url": "https://open.spotify.com/track/13zI0iUXyWpiHIPVte2cD2"
+      "duration_ms": 257650,
+      "name": "Yo Te Adoro",
+      "url": "https://open.spotify.com/track/6RF34iBYJpnFGaYUXgIfvi"
     },
     {
       "added_at": "2020-11-24 13:23:55",
@@ -783,22 +779,6 @@
     {
       "added_at": "2020-11-24 13:23:55",
       "album": {
-        "name": "Vestida De Adoracion",
-        "url": "https://open.spotify.com/album/3HL5KhmbzAuVBSPQoaUwZu"
-      },
-      "artists": [
-        {
-          "name": "Kathy Cristina",
-          "url": "https://open.spotify.com/artist/287HBPD9OBO14J8gsG0Da4"
-        }
-      ],
-      "duration_ms": 257650,
-      "name": "Yo Te Adoro",
-      "url": "https://open.spotify.com/track/6RF34iBYJpnFGaYUXgIfvi"
-    },
-    {
-      "added_at": "2020-11-24 13:23:55",
-      "album": {
         "name": "Diez Mil Razones",
         "url": "https://open.spotify.com/album/1z18dSxKVxkeRZeK9Jp37H"
       },
@@ -811,6 +791,26 @@
       "duration_ms": 180069,
       "name": "Diez Mil Razones",
       "url": "https://open.spotify.com/track/6ZTC7BGLtPgjz8pcRDG88b"
+    },
+    {
+      "added_at": "2020-11-24 13:23:55",
+      "album": {
+        "name": "Alex Campos y Sus Amigos (En Vivo)",
+        "url": "https://open.spotify.com/album/1XEQDxwovn8C0l6qb2NSnz"
+      },
+      "artists": [
+        {
+          "name": "Alex Campos",
+          "url": "https://open.spotify.com/artist/6slyJwua5e5GuhuP82sTHR"
+        },
+        {
+          "name": "Barak",
+          "url": "https://open.spotify.com/artist/2IzxJqK9NbSIdw7rQVW03P"
+        }
+      ],
+      "duration_ms": 251013,
+      "name": "Si Estoy Contigo - En Vivo",
+      "url": "https://open.spotify.com/track/1ZAqiTFbsiv9OYSiDQsIv8"
     },
     {
       "added_at": "2020-11-24 13:23:55",

@@ -4,7 +4,7 @@
 
 > A collection of music from voice actors/ actresses in Japan./ 様々な感情を自在に表現し、登場人物に命を吹き込む声優たち。声のプロフェッショナルである彼らが紡ぐ歌の世界。Cover: 鬼頭明里
 
-120 songs - 8 hr 9 min - [published](https://open.spotify.com/playlist/5RQGiwmI9wGlhuVRQit3UC)
+121 songs - 8 hr 13 min - [published](https://open.spotify.com/playlist/5RQGiwmI9wGlhuVRQit3UC)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,7 +69,8 @@
 | [THE SHAPE OF](https://open.spotify.com/track/6yLpHWOoiT3lWPnZIXk1la) | [安月名莉子](https://open.spotify.com/artist/7ChJuYuw9pM8MqaZOAmvHX) | [OPENING THEME FROM TV SERIES MADE IN ABYSS ”THE GOLDEN CITY OF THE SCORCHING SUN” THE SHAPE OF](https://open.spotify.com/album/0tbPNaXiTK7G5V4LaZIjBQ) | 3:32 | 2022-08-30 |  |
 | [Tokimeki Rendez\-vous](https://open.spotify.com/track/2nSw47CKuDzoChZC5KbpCW) | [shami momo](https://open.spotify.com/artist/1ZUD2c0oZ3X1LbKquXsi5x) | [Yoikagen Tetragon/Tokimeki Rendez\-vous](https://open.spotify.com/album/7DeKG9rQN4KlYR1lAg4zvI) | 3:53 | 2022-07-13 | 2022-09-23 |
 | [Touch of Hope](https://open.spotify.com/track/1YULPeQbOrmIRx0QK8C1Mf) | [Yui Makino](https://open.spotify.com/artist/6EtarAFCJoZ2AvMuleZw0G) | [Touch of Hope](https://open.spotify.com/album/1J5tJNbVxypsb2lzi4mCs7) | 4:29 | 2022-05-31 | 2022-07-29 |
-| [Touch of Hope](https://open.spotify.com/track/2JCFV6qfvsOtUdHIuevDSW) | [Yui Makino](https://open.spotify.com/artist/6EtarAFCJoZ2AvMuleZw0G) | [Touch of Hope](https://open.spotify.com/album/5UDEytA8WSVNBJ15tjSkUJ) | 4:29 | 2022-07-13 |  |
+| [Touch of Hope](https://open.spotify.com/track/2JCFV6qfvsOtUdHIuevDSW) | [Yui Makino](https://open.spotify.com/artist/6EtarAFCJoZ2AvMuleZw0G) | [Touch of Hope](https://open.spotify.com/album/5UDEytA8WSVNBJ15tjSkUJ) | 4:29 | 2022-07-13 | 2022-10-08 |
+| [Touch of Hope](https://open.spotify.com/track/4GYQiYQkU4cDiA8NLRqLi4) | [Yui Makino](https://open.spotify.com/artist/6EtarAFCJoZ2AvMuleZw0G) | [Anata to Watashi wo Tsunagumono](https://open.spotify.com/album/5TL5jmTLrfk3KAplSZ4Uph) | 4:31 | 2022-09-22 |  |
 | [Uchu no Hosoku](https://open.spotify.com/track/3Dxlh8m144OueR45QfdeuW) | [Kiyono Yasuno](https://open.spotify.com/artist/2SdzLUuWOGCPXyQ5L7eXyd) | [A PIECE OF CAKE](https://open.spotify.com/album/4o9TQA0PoS0iea2MmA8ofx) | 4:13 | 2022-08-05 |  |
 | [Uh\-LaLa](https://open.spotify.com/track/0vM04JVmXvkG0KS1iUOBmE) | [Haruka Tomatsu](https://open.spotify.com/artist/17Xrh1jox4g1VQcUcIcgra) | [シャッフル \-Precious 4 Stars\-](https://open.spotify.com/album/1Tok6e8q3GraJP63lgmTSe) | 4:31 | 2022-05-31 | 2022-08-06 |
 | [WITH](https://open.spotify.com/track/4GMItu43RrWwvQ00gmfEqF) | [栗林みな実](https://open.spotify.com/artist/4HqHuqNCbQAqxAzzDZwpvz) | [WITH](https://open.spotify.com/album/0Ty6k0cwPsPgr2IGgWDSt9) | 4:03 | 2022-08-05 |  |

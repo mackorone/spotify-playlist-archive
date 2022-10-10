@@ -476,6 +476,36 @@
     },
     {
       "album": {
+        "name": "Azusa",
+        "url": "https://open.spotify.com/album/1rZSR3Wyyk7ZhCJLGbvjY9"
+      },
+      "artists": [
+        {
+          "name": "Miles Minnick",
+          "url": "https://open.spotify.com/artist/1VEtrxO5KlDXfYGKBI6Ldr"
+        },
+        {
+          "name": "CJ Emulous",
+          "url": "https://open.spotify.com/artist/5Jgv9sRXt4V3TwSU1H41eQ"
+        },
+        {
+          "name": "KidViz",
+          "url": "https://open.spotify.com/artist/0zdB6fxQincSsBOLaTmpEe"
+        },
+        {
+          "name": "NK4",
+          "url": "https://open.spotify.com/artist/1GRzvJv7AcvEnLnJYvpUgc"
+        }
+      ],
+      "date_added": "2022-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196571,
+      "name": "Azusa",
+      "url": "https://open.spotify.com/track/4K7SaRHg1R95srP3qkuIMc"
+    },
+    {
+      "album": {
         "name": "Bacha Drill",
         "url": "https://open.spotify.com/album/51v88qgd9pBDcreNctPsjr"
       },
@@ -531,7 +561,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-04",
       "duration_ms": 275710,
       "name": "BackFromTheDEAD",
       "url": "https://open.spotify.com/track/78C9EoGlquveRwSxGTMYWz"
@@ -1815,7 +1845,7 @@
       ],
       "date_added": "2022-07-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-01",
+      "date_removed": "2022-10-07",
       "duration_ms": 217652,
       "name": "Epic",
       "url": "https://open.spotify.com/track/7BqLZYzL8gWa27PsUdqRvp"
@@ -2067,7 +2097,7 @@
       ],
       "date_added": "2022-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-05",
       "duration_ms": 148436,
       "name": "Flashy",
       "url": "https://open.spotify.com/track/2AHoi03XAHDv5df9AJjLYs"
@@ -4861,7 +4891,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-04",
       "duration_ms": 160273,
       "name": "On Me",
       "url": "https://open.spotify.com/track/3hc5nXLo90dpU99yQOx5Yd"
@@ -6374,6 +6404,24 @@
     },
     {
       "album": {
+        "name": "Take Your Time",
+        "url": "https://open.spotify.com/album/0fyB1lP54sr5PHXzFwWVqt"
+      },
+      "artists": [
+        {
+          "name": "Joseph O'Brien",
+          "url": "https://open.spotify.com/artist/1ibVSKkKjRcDYXTJrUprGa"
+        }
+      ],
+      "date_added": "2022-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199066,
+      "name": "Take Your Time",
+      "url": "https://open.spotify.com/track/7EvHpaw8rCjbSpUp4qfu3F"
+    },
+    {
+      "album": {
         "name": "TEGUCCI",
         "url": "https://open.spotify.com/album/2ethrZPr6dQal5tUnemnSB"
       },
@@ -6759,7 +6807,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-10",
       "duration_ms": 193920,
       "name": "Ugh Ugh",
       "url": "https://open.spotify.com/track/12HVeLLj7WuSyA0S1aizzA"
@@ -7499,7 +7547,7 @@
       ],
       "date_added": "2022-05-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-02",
+      "date_removed": null,
       "duration_ms": 184335,
       "name": "Won't Stop - Reyer Remix",
       "url": "https://open.spotify.com/track/5scmtvav3joe03DAihMTd6"
@@ -7521,6 +7569,24 @@
       "duration_ms": 190480,
       "name": "Worship in the Moshpit",
       "url": "https://open.spotify.com/track/6MHQObYccj0fpYH3NnxewV"
+    },
+    {
+      "album": {
+        "name": "You Already Know",
+        "url": "https://open.spotify.com/album/27SPJ5FLfDryur5qRKbUhW"
+      },
+      "artists": [
+        {
+          "name": "Mike Teezy",
+          "url": "https://open.spotify.com/artist/6tO2zQcTIRfR2Xdsm9XnL7"
+        }
+      ],
+      "date_added": "2022-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135131,
+      "name": "You Already Know",
+      "url": "https://open.spotify.com/track/2aoKQriMD3ukMvGVylzMGs"
     },
     {
       "album": {

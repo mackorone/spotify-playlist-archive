@@ -4,7 +4,7 @@
 
 > Let your mind float away with these down\-tempo easy listening tracks\. Cover: Budjerah
 
-627 songs - 1 day 9 hr 52 min - [published](https://open.spotify.com/playlist/131I5jMqZujDbJb8JAE5m8)
+629 songs - 1 day 9 hr 58 min - [published](https://open.spotify.com/playlist/131I5jMqZujDbJb8JAE5m8)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,6 +83,7 @@
 | [BULLET TO THE HEART](https://open.spotify.com/track/1HMMRRcLsRARU4fzuycnRo) | [Jackson Wang](https://open.spotify.com/artist/1kfWoWgCugPkyxQP8lkRlY) | [BULLET TO THE HEART](https://open.spotify.com/album/4e2ISy1Q6CSMwlDNfnYXkO) | 2:25 | 2019-09-27 | 2020-02-12 |
 | [Butterflies](https://open.spotify.com/track/7eQHxigpuDJjCG50JyzU8v) | [MAX](https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8), [Ali Gatie](https://open.spotify.com/artist/4rTv3Ejc7hKMtmoBOK1B4T) | [Butterflies](https://open.spotify.com/album/4TENiEyNNnHbRixbSa0XKg) | 3:11 | 2021-06-25 |  |
 | [BYO](https://open.spotify.com/track/3cTnUzT5Xqwwlh6nnngmcQ) | [Ojikae](https://open.spotify.com/artist/3moDp3eFeUgBTCqUSxcPZF) | [3033](https://open.spotify.com/album/6t1Fw8UPVG4Q8699YLgKYs) | 3:19 | 2021-03-06 |  |
+| [Can I](https://open.spotify.com/track/3iykpxKSHzIBd3EWkkWhfN) | [Genevieve Stokes](https://open.spotify.com/artist/2uaMjmR0IE0K3oKTQrNZVQ) | [Can I](https://open.spotify.com/album/2dWNwyF7ac8Q5LWxAXhup1) | 3:00 | 2022-10-07 |  |
 | [Can't Fight](https://open.spotify.com/track/1zALEEIF3ipCSQMyHBzwPf) | [Lianne La Havas](https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt) | [Can't Fight](https://open.spotify.com/album/6WvLHMNGRawv4mzu1HZzFq) | 3:10 | 2020-05-22 | 2021-05-12 |
 | [Can't Give Up](https://open.spotify.com/track/24bUSn4O0HA8c3Y2mi5NqS) | [Ali Gatie](https://open.spotify.com/artist/4rTv3Ejc7hKMtmoBOK1B4T) | [Can't Give Up](https://open.spotify.com/album/3ToJTvBVx2Zg8VU0UELM52) | 2:43 | 2022-07-22 |  |
 | [Can't Let You Go](https://open.spotify.com/track/5RfrZ5Lgr3fdtgnvhh3va8) | [Ali Gatie](https://open.spotify.com/artist/4rTv3Ejc7hKMtmoBOK1B4T) | [Can't Let You Go](https://open.spotify.com/album/4Mxvm1AvvhrohYFo1VlhXZ) | 3:24 | 2021-03-16 |  |
@@ -507,6 +508,7 @@
 | [Smoke Signals \(feat\. Tessa Violet\)](https://open.spotify.com/track/07c66SO9kYqa5GSmvLsQZy) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8), [Tessa Violet](https://open.spotify.com/artist/5DD5GZd4ElmQTy9NleMvKJ) | [Smoke Signals \(feat\. Tessa Violet\)](https://open.spotify.com/album/0BcN30IU7guOqvKxVeXXqQ) | 3:28 | 2020-07-10 | 2021-05-12 |
 | [Smokin Out The Window](https://open.spotify.com/track/4iN16F8JtVxG2UTzp3avGl) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Silk Sonic](https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr) | [Smokin Out The Window](https://open.spotify.com/album/3BBsMXl00IfMxO7LCpYFU8) | 3:17 | 2021-11-06 |  |
 | [Snow](https://open.spotify.com/track/0mxbKFPnLLZaSxRZuubdPu) | [Dylan J](https://open.spotify.com/artist/1MbU9ik5RPjIzF90y1he0z) | [Snow](https://open.spotify.com/album/57aENVs14og7AO7IXFQpSO) | 3:15 | 2020-02-07 | 2021-05-12 |
+| [snow angels](https://open.spotify.com/track/4tyD9sivpD8NGM8KEEabAl) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [a study of the human experience volume two](https://open.spotify.com/album/4k9Mz7WO4U1rx3JIRF3iFz) | 3:30 | 2022-10-07 |  |
 | [Solitude](https://open.spotify.com/track/31AuJaUuJV7LI0grZeJM1y) | [JXN](https://open.spotify.com/artist/571VxoWCBMPacek7MmocqU) | [Solitude](https://open.spotify.com/album/6uhLzJ1bQ7BvavKtMl57DV) | 2:58 | 2019-08-27\* | 2021-12-04 |
 | [Some Type Of Way](https://open.spotify.com/track/36kx8fhVUnIkzMWatFPQob) | [Shanae](https://open.spotify.com/artist/6DThBRy7oFjMSWQyQoKY9p) | [Some Type Of Way](https://open.spotify.com/album/2Egeyjj4DTH0EpOQxv4osP) | 2:58 | 2021-06-12 |  |
 | [Somebody Else \(feat\. JoJo\)](https://open.spotify.com/track/2fpVvARsopfxhvNaUMwvS6) | [Tank](https://open.spotify.com/artist/4mwXUEKaW4ftbncf9Hi58l), [JoJo](https://open.spotify.com/artist/5xuNBZoM7z1Vv8IQ6uM0p6) | [ELEVATION](https://open.spotify.com/album/0S9DWXx2fextbZkqM9Xp5J) | 3:19 | 2019-10-25 | 2020-02-12 |

@@ -323,7 +323,7 @@
       ],
       "date_added": "2022-08-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-27",
+      "date_removed": "2022-10-07",
       "duration_ms": 180000,
       "name": "Guilty - 2008 Remaster",
       "url": "https://open.spotify.com/track/2QUpntd3v7cZQByy7Kyh4L"
@@ -529,7 +529,7 @@
       ],
       "date_added": "2022-08-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-02",
+      "date_removed": "2022-10-06",
       "duration_ms": 271133,
       "name": "I'm In The Mood",
       "url": "https://open.spotify.com/track/1W3QQa9SG6zaftNQJchWY7"
@@ -547,10 +547,28 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-02",
+      "date_removed": null,
       "duration_ms": 305160,
       "name": "Just Like That",
       "url": "https://open.spotify.com/track/4yYi79a3MEQ0pCRCvuxcuU"
+    },
+    {
+      "album": {
+        "name": "Big Easy Blues (Live New Orleans '77)",
+        "url": "https://open.spotify.com/album/39GnE6zq5cW9l1HG3itlVl"
+      },
+      "artists": [
+        {
+          "name": "Bonnie Raitt",
+          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-08",
+      "duration_ms": 249902,
+      "name": "Kokomo Blues - Live",
+      "url": "https://open.spotify.com/track/00mIBUDwzTSxCpAGjjgeA9"
     },
     {
       "album": {
@@ -565,7 +583,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-09",
       "duration_ms": 184760,
       "name": "Livin' for the Ones",
       "url": "https://open.spotify.com/track/37X2K4YYwEudXUnLA7xLrd"
@@ -623,7 +641,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-09",
       "duration_ms": 244560,
       "name": "Love Letter",
       "url": "https://open.spotify.com/track/6zmpnM7y0boAL61orTZ8gt"
@@ -645,7 +663,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-02",
+      "date_removed": null,
       "duration_ms": 240666,
       "name": "Love Letters",
       "url": "https://open.spotify.com/track/6pqNafE84udPaoFLGffd7E"
@@ -717,7 +735,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-06",
       "duration_ms": 260173,
       "name": "Mighty Tight Woman - 2008 Remaster",
       "url": "https://open.spotify.com/track/3kivvDedMfdapBPKKmLxVE"
@@ -793,6 +811,24 @@
       "duration_ms": 303800,
       "name": "Not The Only One",
       "url": "https://open.spotify.com/track/13p06XYJaV05Q65hSU87jW"
+    },
+    {
+      "album": {
+        "name": "Big Easy Blues (Live New Orleans '77)",
+        "url": "https://open.spotify.com/album/39GnE6zq5cW9l1HG3itlVl"
+      },
+      "artists": [
+        {
+          "name": "Bonnie Raitt",
+          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
+        }
+      ],
+      "date_added": "2022-10-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-07",
+      "duration_ms": 314455,
+      "name": "Nothing Seems To Matter - Live",
+      "url": "https://open.spotify.com/track/0pIP5yV3oXNapqJM3F0OnK"
     },
     {
       "album": {
@@ -915,7 +951,7 @@
       ],
       "date_added": "2022-08-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-02",
+      "date_removed": "2022-10-09",
       "duration_ms": 239600,
       "name": "Slow Ride",
       "url": "https://open.spotify.com/track/1GPDkspA12EOQRsoh1xXoH"
@@ -1041,7 +1077,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-02",
+      "date_removed": null,
       "duration_ms": 178733,
       "name": "Too Long at the Fair - 2008 Remaster",
       "url": "https://open.spotify.com/track/1oMhFBq8JndGlXmknlkSjp"

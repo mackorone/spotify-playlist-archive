@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-08-19",
-  "description": "Rave season is upon us. Cover: Tchami",
+  "description": "Rave season is upon us. Cover: Golden Features",
   "name": "Open Air",
   "published_playlist_ids": [
     "6LxQz3tR6jvzX341WLcVzk"
@@ -443,6 +443,28 @@
       "duration_ms": 178131,
       "name": "Boom Boom (feat. CHRSTPHR)",
       "url": "https://open.spotify.com/track/41Fq0oWTtuGes9RR6UhMw1"
+    },
+    {
+      "album": {
+        "name": "Booze & Pills",
+        "url": "https://open.spotify.com/album/2yiuvJoRA1fKm6b0bFNe8R"
+      },
+      "artists": [
+        {
+          "name": "Amine Edge & DANCE",
+          "url": "https://open.spotify.com/artist/7si9pFZZlPdZPeOclH9vgm"
+        },
+        {
+          "name": "Prok & Fitch",
+          "url": "https://open.spotify.com/artist/62akbR2hpk0ArA98zOYNys"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122948,
+      "name": "Booze & Pills",
+      "url": "https://open.spotify.com/track/4mtAJtZzd7wgjLNBpPv4IU"
     },
     {
       "album": {
@@ -921,7 +943,7 @@
       ],
       "date_added": "2022-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-07",
       "duration_ms": 218077,
       "name": "Dry & High - Edit",
       "url": "https://open.spotify.com/track/0hzEI361Ekv59mGaVxp4Us"
@@ -1355,7 +1377,7 @@
       ],
       "date_added": "2022-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-10",
       "duration_ms": 218880,
       "name": "Higher",
       "url": "https://open.spotify.com/track/7LcLYZ330ybUVStyPovt4y"
@@ -1435,7 +1457,7 @@
       ],
       "date_added": "2022-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-04",
       "duration_ms": 255000,
       "name": "Human Shape - warner case Remix",
       "url": "https://open.spotify.com/track/6JlDfotRZUlQ61TQSMfA1A"
@@ -1567,7 +1589,7 @@
       ],
       "date_added": "2022-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-07",
       "duration_ms": 226975,
       "name": "In Effect",
       "url": "https://open.spotify.com/track/4UOBs0qu2PIrKvoH9V1pXR"
@@ -1607,6 +1629,36 @@
       "duration_ms": 487680,
       "name": "In The Shadows",
       "url": "https://open.spotify.com/track/3I72hk46KJ6MFDtNBjJ99P"
+    },
+    {
+      "album": {
+        "name": "Remix EP",
+        "url": "https://open.spotify.com/album/2o4SFDvTSB7Kg1uFBoGK55"
+      },
+      "artists": [
+        {
+          "name": "Kosmo Kint",
+          "url": "https://open.spotify.com/artist/5xPHGeNecDlCoEezCF2bWn"
+        },
+        {
+          "name": "Sam Ruffillo",
+          "url": "https://open.spotify.com/artist/22x2iswjXGmDEkCJcUKYiy"
+        },
+        {
+          "name": "Kapote",
+          "url": "https://open.spotify.com/artist/3sySIHNL0hqR7eOlm3LNTH"
+        },
+        {
+          "name": "David Morales",
+          "url": "https://open.spotify.com/artist/6CwQfN34JdGHfo0A752Lts"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186741,
+      "name": "Invincible - David Morales Remix",
+      "url": "https://open.spotify.com/track/37hv4SnvsL9G47lIt8grBw"
     },
     {
       "album": {
@@ -1726,6 +1778,24 @@
     },
     {
       "album": {
+        "name": "Kammy (like i do)",
+        "url": "https://open.spotify.com/album/28ajXoSpiEOh1W4neVxxgS"
+      },
+      "artists": [
+        {
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238829,
+      "name": "Kammy (like i do)",
+      "url": "https://open.spotify.com/track/32DqQqnNiZI5VxozdaUUDu"
+    },
+    {
+      "album": {
         "name": "KILL DEM",
         "url": "https://open.spotify.com/album/71iqkeqFNSiCgum1gPfeZo"
       },
@@ -1777,10 +1847,36 @@
       ],
       "date_added": "2022-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-07",
       "duration_ms": 224500,
       "name": "Last Night Felt Like The Future",
       "url": "https://open.spotify.com/track/0O5Fe8Ik2nM4JpTuOqG3xM"
+    },
+    {
+      "album": {
+        "name": "let me know",
+        "url": "https://open.spotify.com/album/5COZC4BD2phovedc7V4on6"
+      },
+      "artists": [
+        {
+          "name": "warner case",
+          "url": "https://open.spotify.com/artist/106OuakzOxxbXTuigEEf01"
+        },
+        {
+          "name": "Vin Damato",
+          "url": "https://open.spotify.com/artist/4GZheXbY0Tx2Q2WNgTyOeD"
+        },
+        {
+          "name": "Just Because",
+          "url": "https://open.spotify.com/artist/5giHLR4kCj9DMuqQ5TP4K7"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202023,
+      "name": "let me know",
+      "url": "https://open.spotify.com/track/3dn0YLb6vOGNjls1TCnn7x"
     },
     {
       "album": {
@@ -1933,7 +2029,7 @@
       ],
       "date_added": "2022-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-09",
       "duration_ms": 134929,
       "name": "Luv 4 Real",
       "url": "https://open.spotify.com/track/54PGeitLMNZPRjA0Bhf6im"
@@ -2127,7 +2223,7 @@
       ],
       "date_added": "2022-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-07",
       "duration_ms": 412702,
       "name": "My Purple iPod Nano",
       "url": "https://open.spotify.com/track/0Zp9bIm1BeIyFiYNAof3Sm"
@@ -2153,6 +2249,28 @@
       "duration_ms": 232914,
       "name": "Nabi",
       "url": "https://open.spotify.com/track/3Bb6SjhcywQ4euKYT2jxmp"
+    },
+    {
+      "album": {
+        "name": "Power",
+        "url": "https://open.spotify.com/album/2c8F3AAuXBYz3npCbBmFRO"
+      },
+      "artists": [
+        {
+          "name": "AM\u00c9M\u00c9",
+          "url": "https://open.spotify.com/artist/1txb9Qg5lJ3KATxPcIYyvO"
+        },
+        {
+          "name": "Kosmo Kint",
+          "url": "https://open.spotify.com/artist/5xPHGeNecDlCoEezCF2bWn"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 365714,
+      "name": "Never Forget",
+      "url": "https://open.spotify.com/track/1TVnI6At2nP5bnWFKk2s5y"
     },
     {
       "album": {
@@ -2926,6 +3044,28 @@
     },
     {
       "album": {
+        "name": "Pressure",
+        "url": "https://open.spotify.com/album/6QEnHZniqvybsckdyptQql"
+      },
+      "artists": [
+        {
+          "name": "Dusky",
+          "url": "https://open.spotify.com/artist/5gqoUf9vKKv96b1c0GBKwu"
+        },
+        {
+          "name": "Mariella",
+          "url": "https://open.spotify.com/artist/1TRFZkvpFayTy7cveLinG6"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206000,
+      "name": "Stepper",
+      "url": "https://open.spotify.com/track/6LWnD63tBcpnkWJRlOegja"
+    },
+    {
+      "album": {
         "name": "breath tapes",
         "url": "https://open.spotify.com/album/1vdUANbVjD8diT0bPpdbva"
       },
@@ -3021,7 +3161,7 @@
       ],
       "date_added": "2022-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-07",
       "duration_ms": 193959,
       "name": "Sway",
       "url": "https://open.spotify.com/track/6pDxh4ccvoemuCgia0OgGf"
@@ -3355,7 +3495,7 @@
       ],
       "date_added": "2022-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-07",
       "duration_ms": 213528,
       "name": "Turn Off",
       "url": "https://open.spotify.com/track/0yZr5rcFiwyhx9xKo6b7bv"
@@ -3468,6 +3608,28 @@
     },
     {
       "album": {
+        "name": "Vigil (Human Movement Remix)",
+        "url": "https://open.spotify.com/album/2UIeVaFqw1U4LIse25FW4h"
+      },
+      "artists": [
+        {
+          "name": "Golden Features",
+          "url": "https://open.spotify.com/artist/2SrWifjYv7b5tR8EzEmn1x"
+        },
+        {
+          "name": "Human Movement",
+          "url": "https://open.spotify.com/artist/37dubgexq6dhyB4eCM3PHZ"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 353509,
+      "name": "Vigil - Human Movement Remix",
+      "url": "https://open.spotify.com/track/15W80LbunyilvdhJYWgdke"
+    },
+    {
+      "album": {
         "name": "Volar La Pluma",
         "url": "https://open.spotify.com/album/7l7RHfQTsMJ23yDq15KZ1i"
       },
@@ -3483,6 +3645,28 @@
       "duration_ms": 294198,
       "name": "Volar La Pluma",
       "url": "https://open.spotify.com/track/3hkp1bFwGrAAHbSTYnw2Bc"
+    },
+    {
+      "album": {
+        "name": "Water",
+        "url": "https://open.spotify.com/album/2IbvLEWok7hbkf5BBZaYBg"
+      },
+      "artists": [
+        {
+          "name": "Bicep",
+          "url": "https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga"
+        },
+        {
+          "name": "Clara La San",
+          "url": "https://open.spotify.com/artist/3u65Tx20y4WqxO7W7khEhj"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256898,
+      "name": "Water",
+      "url": "https://open.spotify.com/track/09cgbbadzZSKFd1hGN23p5"
     },
     {
       "album": {
@@ -3663,6 +3847,28 @@
       "duration_ms": 354404,
       "name": "You Run",
       "url": "https://open.spotify.com/track/02crxEctxfT2l3q1DsM9m2"
+    },
+    {
+      "album": {
+        "name": "MK 3.5: f1 racer & locked in | Zone 1 (24 Hours)",
+        "url": "https://open.spotify.com/album/3EHJQYoofSblgWCRqlvNRk"
+      },
+      "artists": [
+        {
+          "name": "Mount Kimbie",
+          "url": "https://open.spotify.com/artist/3NUtpWpGDoffm3RCGhSHtl"
+        },
+        {
+          "name": "Kai Campos",
+          "url": "https://open.spotify.com/artist/0ud7Vcl9BBEoOVwoWDqXIH"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 326146,
+      "name": "Zone 1 (24 Hours)",
+      "url": "https://open.spotify.com/track/0WBT2NT0p99t8c77aJGQUp"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Indie tunes for t\-shirt weather.
 
-279 songs - 15 hr 52 min - [published](https://open.spotify.com/playlist/6Y4ymtVT29RGI1Pm3fIQpf)
+280 songs - 15 hr 56 min - [published](https://open.spotify.com/playlist/6Y4ymtVT29RGI1Pm3fIQpf)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,7 +96,7 @@
 | [GOOD TIMES](https://open.spotify.com/track/1WeqJkPY5rDIfyOKWfyuf5) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [GOOD TIMES / PROBLEMZ](https://open.spotify.com/album/2j8Bsbbqb9EyS1ajAq3GME) | 3:01 | 2022-06-10 |  |
 | [Guard Down](https://open.spotify.com/track/4Qx7ThsDRXzhxxAaSPLlI6) | [Claud](https://open.spotify.com/artist/5MaQlvNGOaTj39apHsXVq1) | [Guard Down](https://open.spotify.com/album/5v6JyuSddGvPBgxxo04ljf) | 3:26 | 2021-08-13 | 2022-07-08 |
 | [Gummy](https://open.spotify.com/track/6c9ua26MdggFqHs5le1cTE) | [Will Joseph Cook](https://open.spotify.com/artist/3YO2a6i2cfdFbgxk2HDfPe) | [Every Single Thing](https://open.spotify.com/album/03h4StW2BAHz9c822kAPtG) | 3:01 | 2022-06-10 | 2022-07-29 |
-| [Hannah Montana](https://open.spotify.com/track/00ko8Vr9Hbw0hJC9laqBOj) | [flowerovlove](https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj) | [Hannah Montana](https://open.spotify.com/album/1rcZE2CoDdOF8W0XUC4Yjp) | 2:25 | 2022-06-10 | 2022-09-29 |
+| [Hannah Montana](https://open.spotify.com/track/00ko8Vr9Hbw0hJC9laqBOj) | [flowerovlove](https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj) | [Hannah Montana](https://open.spotify.com/album/1rcZE2CoDdOF8W0XUC4Yjp) | 2:25 | 2022-06-10 |  |
 | [Happy Ending](https://open.spotify.com/track/7cRZRBbNdODYhhTDaUVgJm) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [Better Off Without](https://open.spotify.com/album/35qpnR66pfCMPq2Li6ggK3) | 3:48 | 2022-07-11 | 2022-07-29 |
 | [Headphones Baby](https://open.spotify.com/track/1lD48THcebkuZPKIgoxADP) | [The Vaccines](https://open.spotify.com/artist/0Ak6DLKHtpR6TEEnmcorKA) | [Headphones Baby](https://open.spotify.com/album/43slz2Iv1l6poOSthffyVz) | 3:18 | 2021-08-13 | 2022-07-29 |
 | [Heat Waves](https://open.spotify.com/track/6CDzDgIUqeDY5g8ujExx2f) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [Heat Waves](https://open.spotify.com/album/69K1zrf6TkXHdYUO8n2qVi) | 3:58 | 2021-08-13 |  |
@@ -109,7 +109,7 @@
 | [honey](https://open.spotify.com/track/66SJQbiRXe6l8Fj7yi8tMt) | [url](https://open.spotify.com/artist/7vv006VlvTGA0JD2ybpvN2) | [honey](https://open.spotify.com/album/0o57RzFlG0Xn7tY4PEAizg) | 3:00 | 2021-08-13 | 2022-06-02 |
 | [Honeypie](https://open.spotify.com/track/1bt443XPmX5ZG5DjhMJ8Rh) | [JAWNY](https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP) | [For Abby](https://open.spotify.com/album/1DrYnUi6jx0ClomBVvbjAY) | 2:15 | 2022-03-24 |  |
 | [Hope It's Not](https://open.spotify.com/track/3L42aM6tcSceGg7qGPHGKY) | [Stevan](https://open.spotify.com/artist/24RDdXWdq95PlTMTpFTvC6) | [Hope It's Not](https://open.spotify.com/album/2USkXE4xBKBL0K5cV2LK7B) | 2:42 | 2022-03-24 | 2022-05-23 |
-| [Hot Crush Lover](https://open.spotify.com/track/2cBvJkneFRqK62VDL3yr0c) | [Blu DeTiger](https://open.spotify.com/artist/5NyCIBCeU080ynEj33S4hC) | [Hot Crush Lover](https://open.spotify.com/album/1KAtsKpFLwng34JEyge2hs) | 3:13 | 2022-05-06 |  |
+| [Hot Crush Lover](https://open.spotify.com/track/2cBvJkneFRqK62VDL3yr0c) | [Blu DeTiger](https://open.spotify.com/artist/5NyCIBCeU080ynEj33S4hC) | [Hot Crush Lover](https://open.spotify.com/album/1KAtsKpFLwng34JEyge2hs) | 3:13 | 2022-05-06 | 2022-10-10 |
 | [Houdini](https://open.spotify.com/track/5Fli1xRi01bvCjsZvKWro0) | [Foster The People](https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc) | [Torches](https://open.spotify.com/album/7Kmmw7Z5D2UD5MVwdm10sT) | 3:22 | 2021-08-13 |  |
 | [How Dare You Want More \- Verdine White of Earth, Wind & Fire Remix](https://open.spotify.com/track/6xhRei2Te4AccMPnAFWven) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI), [Verdine White](https://open.spotify.com/artist/4tMJliVd96wXoMVNdcOBHp) | [Stop Making This Hurt \(A\. G\. Cook Remix\) / How Dare You Want More \(Verdine White of Earth, Wind & Fire Remix\)](https://open.spotify.com/album/4dphMEA8aTNDk07kNjKLqv) | 2:59 | 2022-06-17 | 2022-07-29 |
 | [How Do I Cry?](https://open.spotify.com/track/4nrkr6IA1mPqLOU4Co67Vc) | [Fake Dad](https://open.spotify.com/artist/1PdmgC2URr5bdLpcS5YBdk) | [How Do I Cry?](https://open.spotify.com/album/7B6DIZbDBAWNJ5vTSp1vkj) | 3:01 | 2022-06-10 | 2022-07-18 |
@@ -200,7 +200,8 @@
 | [She Said](https://open.spotify.com/track/3ZJZjjKFxTqVGJ8QIYKMjp) | [Sundara Karma](https://open.spotify.com/artist/4fgXfJCQnK6c44u4KzAtQP) | [Youth is Only Ever Fun in Retrospect](https://open.spotify.com/album/3Hua29YXoJu25qVEhmssFb) | 3:45 | 2021-08-13 |  |
 | [Sick](https://open.spotify.com/track/1gKQL1gGEOvucV6zSjsY0P) | [Sea Girls](https://open.spotify.com/artist/45FqwUG4hTT6d39r2HUsUe) | [Sick](https://open.spotify.com/album/5l0kOd4WdDI44FLnEgpBkC) | 3:17 | 2021-08-13 | 2022-07-29 |
 | [Silhouettes](https://open.spotify.com/track/3asPRXvHMHqyxvLCkaW5k3) | [Friendly Fires](https://open.spotify.com/artist/3mZqziCJj4pq3P2VBpmK6p) | [Inflorescent](https://open.spotify.com/album/1rt1wud5H03IsmAx29ysJp) | 3:41 | 2022-03-24 | 2022-04-20 |
-| [Silk Chiffon](https://open.spotify.com/track/0BLY78hYpsH9NqP6X0N8CX) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Silk Chiffon](https://open.spotify.com/album/0tVci75UxNB1H29bpj86tj) | 3:26 | 2022-03-24 |  |
+| [Silk Chiffon](https://open.spotify.com/track/0BLY78hYpsH9NqP6X0N8CX) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Silk Chiffon](https://open.spotify.com/album/0tVci75UxNB1H29bpj86tj) | 3:26 | 2022-03-24 | 2022-10-07 |
+| [Silk Chiffon](https://open.spotify.com/track/5ECxiK4Vigo1yRRmAoZc1f) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [MUNA](https://open.spotify.com/album/4ndTvTrNwgUfRw4g1R2B4l) | 3:26 | 2022-08-25 |  |
 | [Slow](https://open.spotify.com/track/5Cf6NE8KN82o9U3oAeG3yB) | [Cassia](https://open.spotify.com/artist/2413I9w4sRbBz4zi5zgwjX) | [Magnifier](https://open.spotify.com/album/1Yk0ejrOruZAX1kHniWVIE) | 3:14 | 2021-08-13 | 2022-07-29 |
 | [Softly](https://open.spotify.com/track/3fpfQC77x3uwESSJ6VmUKM) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Softly](https://open.spotify.com/album/7qlt7zR5715v6Ey0lQsjcN) | 3:08 | 2022-03-24 |  |
 | [Solar Power](https://open.spotify.com/track/2OS5yRdzGqoYfzQ3o3W40V) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Solar Power \(Deluxe Edition\)](https://open.spotify.com/album/3lK2JRwfIOn2NaYtgEGTmZ) | 3:12 | 2022-03-22 | 2022-05-06 |
@@ -261,7 +262,7 @@
 | [Up To Something](https://open.spotify.com/track/1GcVyRrHS4g76on0l09DpX) | [49th & Main](https://open.spotify.com/artist/0nnF48t4C8uqGS5HPnCN3F) | [Up To Something](https://open.spotify.com/album/5m6zW9ofJz4uH2ZLfdlx8H) | 3:32 | 2022-07-14 | 2022-07-28 |
 | [Visitor](https://open.spotify.com/track/0z3Sa7vtRfn4ywaHzZzBLK) | [Of Monsters and Men](https://open.spotify.com/artist/4dwdTW1Lfiq0cM8nBAqIIz) | [Visitor](https://open.spotify.com/album/41oni1NWTzN3lOrGU4JxYf) | 3:27 | 2022-06-10 | 2022-07-09 |
 | [wachito rico](https://open.spotify.com/track/0OYf62rdwDouKohtCALD55) | [boy pablo](https://open.spotify.com/artist/7wbkl3zgDZEoZer357mVIw) | [Wachito Rico](https://open.spotify.com/album/3PwdobIILbq5GSoptbJrK5) | 3:34 | 2021-08-13 |  |
-| [Wake Me Up](https://open.spotify.com/track/4MDDOpA7BwGDjYclTmCTVw) | [Foals](https://open.spotify.com/artist/6FQqZYVfTNQ1pCqfkwVFEa) | [Wake Me Up](https://open.spotify.com/album/7MyrKdRkvj8hK20cLBj5jI) | 4:23 | 2022-03-22 | 2022-10-01 |
+| [Wake Me Up](https://open.spotify.com/track/4MDDOpA7BwGDjYclTmCTVw) | [Foals](https://open.spotify.com/artist/6FQqZYVfTNQ1pCqfkwVFEa) | [Wake Me Up](https://open.spotify.com/album/7MyrKdRkvj8hK20cLBj5jI) | 4:23 | 2022-03-22 | 2022-10-06 |
 | [Want](https://open.spotify.com/track/5yCnQBVvUXg4f3GHGCuc3Y) | [Q](https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3) | [Want](https://open.spotify.com/album/4QECHmiMhtkrT06Z1A6pTf) | 4:24 | 2021-08-13 | 2022-06-21 |
 | [Wasting Time](https://open.spotify.com/track/6TTD2b8DnGfv6HwitYu0hE) | [Post\-Party](https://open.spotify.com/artist/6Sg6gogb6FlpSMhqTL7XO9) | [Wasting Time](https://open.spotify.com/album/2pIuUTvKlHTajz5skj8a2a) | 2:47 | 2021-08-13 | 2022-07-26 |
 | [Watch Me Break Apart](https://open.spotify.com/track/2Jz1wxAIf1GMP4Zamk79En) | [Dead Nature](https://open.spotify.com/artist/1H5QzIYx4Bl7urDoSCMtcp) | [Watch Me Break Apart](https://open.spotify.com/album/6kjvqn8olE0GLWe3vSzOrF) | 3:55 | 2021-08-13 | 2022-05-11 |

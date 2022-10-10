@@ -4,7 +4,7 @@
 
 > Piérdete en el misterio del bosque y sus poderes sanadores.
 
-259 songs - 14 hr 42 min - [published](https://open.spotify.com/playlist/242qd1QUw3B0ykfcQKOcL5)
+261 songs - 14 hr 48 min - [published](https://open.spotify.com/playlist/242qd1QUw3B0ykfcQKOcL5)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -158,7 +158,7 @@
 | [Mellow](https://open.spotify.com/track/15SJMsBLp7GR8FH9WvamuG) | [Boreal Embla](https://open.spotify.com/artist/1TIIwr7wiRuFavs4zUlYQU) | [Mellow](https://open.spotify.com/album/4OFhOIJLN66pFGa4n5eEto) | 3:33 | 2022-06-29 |  |
 | [Memories](https://open.spotify.com/track/1ZmXjqlQ7JQBPOwIhaCjIZ) | [Undis](https://open.spotify.com/artist/6YjkEQuODblFDXN3AsCYKo) | [Memories](https://open.spotify.com/album/6tVdXbTtIuqU4u46XVI8PF) | 3:18 | 2022-06-29 |  |
 | [Midmorning in the Forest](https://open.spotify.com/track/1NURmoJ05vd6p3oGgwkG3D) | [The Relaxing Sounds of Swedish Nature](https://open.spotify.com/artist/3yQUKaHkSwdGxlk8LxN5iu) | [Forest Creeks](https://open.spotify.com/album/5EWRtulbrK9YidzqNYctjQ) | 2:35 | 2022-06-29 | 2022-07-29 |
-| [Midmorning in the Forest](https://open.spotify.com/track/49kxZ12f0I1RYCZBCKlCMK) | [The Relaxing Sounds of Swedish Nature](https://open.spotify.com/artist/3yQUKaHkSwdGxlk8LxN5iu) | [Forest Creeks](https://open.spotify.com/album/0v6HrufgzVstSVfet7u6Nf) | 2:35 | 2022-09-13 |  |
+| [Midmorning in the Forest](https://open.spotify.com/track/49kxZ12f0I1RYCZBCKlCMK) | [The Relaxing Sounds of Swedish Nature](https://open.spotify.com/artist/3yQUKaHkSwdGxlk8LxN5iu) | [Forest Creeks](https://open.spotify.com/album/0v6HrufgzVstSVfet7u6Nf) | 2:35 | 2022-09-13 | 2022-10-05 |
 | [Mist](https://open.spotify.com/track/3KfAvtNhKv10mmB1wxnUPg) | [Memory Bliss](https://open.spotify.com/artist/40y6ITSyELhZmpIrCTwcP5) | [Daydream](https://open.spotify.com/album/5UswlOAxw3EgvhjueVkYT1) | 2:34 | 2022-06-29 | 2022-07-29 |
 | [Mist](https://open.spotify.com/track/762jOXMpUQpiJ5pj4JMjuf) | [Memory Bliss](https://open.spotify.com/artist/40y6ITSyELhZmpIrCTwcP5) | [Daydream](https://open.spotify.com/album/3I5cQE29v5dMWbzxw2JwIb) | 2:34 | 2022-07-19 | 2022-09-03 |
 | [Molecular Beauty](https://open.spotify.com/track/2AorwcM25R5qsP3MLeOJcA) | [Binary One](https://open.spotify.com/artist/71mFIlyvSib2V4MnPKERi2) | [Our Living Universe](https://open.spotify.com/album/41UjWVgWP1Se9Pbov22EvX) | 4:38 | 2022-06-29 |  |
@@ -193,6 +193,7 @@
 | [Photophores](https://open.spotify.com/track/0t824TdL6NQj4G8HvDMlkc) | [Balearic Sea](https://open.spotify.com/artist/77y7sSZazaAjLRH7ZMaZT6) | [Intertidal](https://open.spotify.com/album/1wmJ9PxbMZX9desPZTNQ43) | 2:36 | 2022-06-29 |  |
 | [Planetary](https://open.spotify.com/track/75zUF417TzAmLMAmggqUhP) | [Jupiter Sorrow](https://open.spotify.com/artist/3jqblnBchsyc0UJrQ9YJMw) | [Planetary](https://open.spotify.com/album/61vJu9EPHpbWbs2R444Lr0) | 3:04 | 2022-07-19 | 2022-09-30 |
 | [Prad](https://open.spotify.com/track/6bVe3KvYlPjI20dqMYQz0n) | [Yann Tiersen](https://open.spotify.com/artist/00sazWvoTLOqg5MFwC68Um) | [ALL](https://open.spotify.com/album/3PvCbTrliFqZydFujweeiI) | 4:54 | 2022-06-29 | 2022-07-29 |
+| [Pulsating Ice Sheet.](https://open.spotify.com/track/0GT3SzJQdmsu2FfyrmcKu7) | [LFO Waves](https://open.spotify.com/artist/1JjFLJxtZ8Es5nRpz4146Z) | [Pulsating Ice Sheet.](https://open.spotify.com/album/3TnANB0VHxNh0O74gypVLN) | 3:30 | 2022-10-04 |  |
 | [Pulsating Ice Sheet.](https://open.spotify.com/track/3lRsr0NDeH4LJ7H3DbsBXf) | [LFO Waves](https://open.spotify.com/artist/1JjFLJxtZ8Es5nRpz4146Z) | [Pulsating Ice Sheet.](https://open.spotify.com/album/0bQETQwqsnXJvaMUpfADeX) | 3:30 | 2022-06-29 | 2022-07-29 |
 | [Resurrection](https://open.spotify.com/track/1m0uGPPwMV53Pkyb2fPTmi) | [My Wondrous Dream](https://open.spotify.com/artist/5SGJUpo1V3rwKSsVdZG72Q) | [Resurrection](https://open.spotify.com/album/4kPpK9D61o7w8LyqPUpc4O) | 3:00 | 2022-06-29 | 2022-07-29 |
 | [Resurrection](https://open.spotify.com/track/6yLO7nPmUpyPgzfXD9FbpX) | [My Wondrous Dream](https://open.spotify.com/artist/5SGJUpo1V3rwKSsVdZG72Q) | [Resurrection](https://open.spotify.com/album/5cdqw0PmirLemkUdjvgs2b) | 3:00 | 2022-07-19 |  |
@@ -225,7 +226,7 @@
 | [Spain](https://open.spotify.com/track/6A4RctQaBHHU9dmhecNgQy) | [Julie Byrne](https://open.spotify.com/artist/10duXbKJkvdGK5RgktEnxV), [Steve Sobs](https://open.spotify.com/artist/3mQWAx0NcLndQZrW96V5m0) | [S&S Presents: Dreams](https://open.spotify.com/album/6GSkekvuFxgPhTRNCYeADr) | 4:46 | 2022-06-29 | 2022-07-29 |
 | [Spain](https://open.spotify.com/track/7nBp9NMpOUUMTxyfQPlk2M) | [Julie Byrne](https://open.spotify.com/artist/10duXbKJkvdGK5RgktEnxV), [Steve Sobs](https://open.spotify.com/artist/3mQWAx0NcLndQZrW96V5m0) | [Spain](https://open.spotify.com/album/08vaZjMMQNppAfNg6ZfadL) | 4:46 | 2022-07-19 |  |
 | [Sparrow Meadow](https://open.spotify.com/track/1pYCC6TVtgVxumhsLNplbu) | [Min Sosa](https://open.spotify.com/artist/4kWvX0IhUr9j3XAM8RITX0) | [Sparrow Meadow](https://open.spotify.com/album/2kJFfzwMj8jdiXJ4OjBZc2) | 3:02 | 2022-06-29 | 2022-07-29 |
-| [Spectral Morning](https://open.spotify.com/track/2FA54LO1o2JPZSElOdru9V) | [Ivory Past](https://open.spotify.com/artist/2QBfUl1q5YCiTZfp8NDvtK) | [Spectral Morning](https://open.spotify.com/album/2gCK8eweTlSCMeZ3vyeSDN) | 4:00 | 2022-09-13 |  |
+| [Spectral Morning](https://open.spotify.com/track/2FA54LO1o2JPZSElOdru9V) | [Ivory Past](https://open.spotify.com/artist/2QBfUl1q5YCiTZfp8NDvtK) | [Spectral Morning](https://open.spotify.com/album/2gCK8eweTlSCMeZ3vyeSDN) | 4:00 | 2022-09-13 | 2022-10-04 |
 | [Spectral Morning](https://open.spotify.com/track/58BwA9Le9wc2DuQtvmd4lf) | [Ivory Past](https://open.spotify.com/artist/2QBfUl1q5YCiTZfp8NDvtK) | [Spectral Morning](https://open.spotify.com/album/0ZXFCRHBPXXdD9QScxkL1z) | 4:00 | 2022-06-29 | 2022-07-29 |
 | [Sphere](https://open.spotify.com/track/7E9TD2kl65jwvFGnRn7wgK) | [Osterous](https://open.spotify.com/artist/5hWATAqtCxxnFEVmU268YR) | [Sphere](https://open.spotify.com/album/3FMdumsEZZbW3pEUwL9k5m) | 3:15 | 2022-06-29 |  |
 | [String of Raindrops](https://open.spotify.com/track/5vosryofCmhWtisU0mLzy2) | [Oliver Hoffman](https://open.spotify.com/artist/317F1iW6iH9zh8WaLoI1d7) | [Catalogue of Emotions](https://open.spotify.com/album/6tzjxQtM9gj0aZy6WsYu4i) | 3:10 | 2022-06-29 |  |
@@ -249,6 +250,7 @@
 | [The Sounds of Nature](https://open.spotify.com/track/2pnF9tTiEf4kxKD81scld8) | [Forest Walks](https://open.spotify.com/artist/18InfiT5lp2g36MZgGqjZW) | [The Sounds of Nature](https://open.spotify.com/album/2FFBrD5XOhYuWvgcjkp9Rp) | 3:04 | 2022-06-29 |  |
 | [Timeline of the Magellan](https://open.spotify.com/track/6tmA9HzNzTa7wP2NxkaYHg) | [The Golden Islands](https://open.spotify.com/artist/63zpgua95FrMeht9L50MZf) | [Timeline of the Magellan](https://open.spotify.com/album/3lN0OcfkKbpIUw1DW6jlqV) | 3:03 | 2022-06-29 | 2022-07-29 |
 | [Toulouse](https://open.spotify.com/track/3xtVrtdGTnoYvDY0ra5MGY) | [xerLK](https://open.spotify.com/artist/5UI7y2lrDYhqcM7sdbTbQ9) | [Toulouse](https://open.spotify.com/album/5Oo8aMBO6zxhlUBrn9mdhj) | 2:22 | 2022-07-19 | 2022-07-29 |
+| [Toulouse](https://open.spotify.com/track/4wvMF7ZYxzd2lLUThMpSAg) | [xerLK](https://open.spotify.com/artist/5UI7y2lrDYhqcM7sdbTbQ9) | [Toulouse](https://open.spotify.com/album/0elj9tMQi6XMfd0FXlAdgj) | 2:22 | 2022-09-13 |  |
 | [Tranquillity](https://open.spotify.com/track/34tN9XGSKpJwaP5NM96UTW) | [My Wondrous Dream](https://open.spotify.com/artist/5SGJUpo1V3rwKSsVdZG72Q) | [Tranquillity](https://open.spotify.com/album/0Idd7AHuBso3AghHoahMBs) | 3:21 | 2022-07-19 |  |
 | [Tranquillity](https://open.spotify.com/track/4SicYFBGOGcfRHUG7YvJdg) | [My Wondrous Dream](https://open.spotify.com/artist/5SGJUpo1V3rwKSsVdZG72Q) | [Tranquillity](https://open.spotify.com/album/1EvF3Q8ZtqnOTKmjsbwvi0) | 3:21 | 2022-06-29 | 2022-07-29 |
 | [Transcendental Heart](https://open.spotify.com/track/0jNgAQRBtZ3YxG4DdlXolj) | [The Silent Minds](https://open.spotify.com/artist/5ioN868FnXtLM7eIwNqZtq) | [Transcendental Heart](https://open.spotify.com/album/6h3JRnJcVZsSZdaz8H3SXP) | 2:21 | 2022-06-29 | 2022-07-29 |

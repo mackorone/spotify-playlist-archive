@@ -1422,6 +1422,24 @@
     },
     {
       "album": {
+        "name": "My Left Hand (Wedding Version)",
+        "url": "https://open.spotify.com/album/59WB1DENlJgW6tC9mElV7Z"
+      },
+      "artists": [
+        {
+          "name": "Meghan Patrick",
+          "url": "https://open.spotify.com/artist/5bQxLohAAiOat0EMYuHjzJ"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186133,
+      "name": "My Left Hand (Wedding Version)",
+      "url": "https://open.spotify.com/track/2S7fxN0RqZwAqXuXkVi9Ij"
+    },
+    {
+      "album": {
         "name": "McGRAW (The Ultimate Collection)",
         "url": "https://open.spotify.com/album/3ytKtBtqdHsj6XzNu0sMCT"
       },

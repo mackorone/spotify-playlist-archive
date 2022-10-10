@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Underground indie rock gems. Cover: TOLEDO",
+  "description": "Underground indie rock gems. Cover: Sorry",
   "name": "undercurrents",
   "published_playlist_ids": [
     "4XA1SOQIX98lp2gcRgRzUr"
@@ -304,6 +304,28 @@
     },
     {
       "album": {
+        "name": "Nice Colors",
+        "url": "https://open.spotify.com/album/6D2n5YkLPQivZkvc4wEeRF"
+      },
+      "artists": [
+        {
+          "name": "khai dreams",
+          "url": "https://open.spotify.com/artist/0lawSNBxNgJFQYJnQzLH8c"
+        },
+        {
+          "name": "Atwood",
+          "url": "https://open.spotify.com/artist/3OR277QANTI19APHnC1XrK"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192414,
+      "name": "All I Need",
+      "url": "https://open.spotify.com/track/3oskfuB8woAgGFHSypaElq"
+    },
+    {
+      "album": {
         "name": "All That's Left Behind / Lullaby For You",
         "url": "https://open.spotify.com/album/50kARgynRJmltjkg5qSP7O"
       },
@@ -517,6 +539,24 @@
       "duration_ms": 239216,
       "name": "Anything Can Happen",
       "url": "https://open.spotify.com/track/2QCXtNjBWqTphicMcZTFxx"
+    },
+    {
+      "album": {
+        "name": "Apathy Patrol",
+        "url": "https://open.spotify.com/album/6hJejusjuZEbx4lZZY6YZx"
+      },
+      "artists": [
+        {
+          "name": "Suave Punk",
+          "url": "https://open.spotify.com/artist/7mHAXsMI3hAj3dUZMR4fnt"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221538,
+      "name": "Apathy Patrol",
+      "url": "https://open.spotify.com/track/6Qs8DLwsywG2RVRhl8J2jk"
     },
     {
       "album": {
@@ -1498,6 +1538,24 @@
     },
     {
       "album": {
+        "name": "Bull Believer",
+        "url": "https://open.spotify.com/album/7snO1rfm1c5QndkfgQVsFb"
+      },
+      "artists": [
+        {
+          "name": "Wednesday",
+          "url": "https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 510773,
+      "name": "Bull Believer",
+      "url": "https://open.spotify.com/track/6wYlN6ikOUsS0PQEI4XJMl"
+    },
+    {
+      "album": {
         "name": "bulletproof",
         "url": "https://open.spotify.com/album/2ia7IV4V3rGZH2Gi08IVuZ"
       },
@@ -2159,6 +2217,24 @@
       "duration_ms": 183644,
       "name": "Clear",
       "url": "https://open.spotify.com/track/12eZXTxOcrp9LAGxcgUMqB"
+    },
+    {
+      "album": {
+        "name": "Closer",
+        "url": "https://open.spotify.com/album/7BvDqcyGlPX14IH7L9dbNr"
+      },
+      "artists": [
+        {
+          "name": "Sorry",
+          "url": "https://open.spotify.com/artist/5eUda4BaWhUQWWJiP1ml5v"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226800,
+      "name": "Closer",
+      "url": "https://open.spotify.com/track/0pDssdjxNAmSmG2HtSBNOV"
     },
     {
       "album": {
@@ -3997,7 +4073,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 172043,
       "name": "Fred's Song",
       "url": "https://open.spotify.com/track/51KrVzQJbfPkvRlOI6h6W7"
@@ -4037,6 +4113,24 @@
       "duration_ms": 147000,
       "name": "Freight Yard",
       "url": "https://open.spotify.com/track/4l7VPmnud43dlONU9P1qhO"
+    },
+    {
+      "album": {
+        "name": "French Blonde",
+        "url": "https://open.spotify.com/album/2Kdza8BsRX3vGaZiveNp9Z"
+      },
+      "artists": [
+        {
+          "name": "joe p",
+          "url": "https://open.spotify.com/artist/3pIwImfumJioKb0zHHP61x"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266584,
+      "name": "French Blonde",
+      "url": "https://open.spotify.com/track/4S1kcKYVKQ5GGOuKHRi3AN"
     },
     {
       "album": {
@@ -4375,7 +4469,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 200586,
       "name": "Go Slow",
       "url": "https://open.spotify.com/track/7B7CJVHZq5EPzylyt87vB5"
@@ -4941,10 +5035,28 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-07",
       "duration_ms": 242484,
       "name": "Here With Me",
       "url": "https://open.spotify.com/track/4U4h7WNNyvhpdaDgHSdD4j"
+    },
+    {
+      "album": {
+        "name": "Here With Me",
+        "url": "https://open.spotify.com/album/0OuoHWf8yB0TPzoBWw1R1S"
+      },
+      "artists": [
+        {
+          "name": "d4vd",
+          "url": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242484,
+      "name": "Here With Me",
+      "url": "https://open.spotify.com/track/78Sw5GDo6AlGwTwanjXbGh"
     },
     {
       "album": {
@@ -5566,6 +5678,24 @@
     },
     {
       "album": {
+        "name": "I Shimmer",
+        "url": "https://open.spotify.com/album/6RglJDuv1mPMAe0honLo8A"
+      },
+      "artists": [
+        {
+          "name": "Jadu Heart",
+          "url": "https://open.spotify.com/artist/7vjRpVXoecwKTEsrb9iscj"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265278,
+      "name": "I Shimmer",
+      "url": "https://open.spotify.com/track/5iVcl5SBNcJsD9islOvnba"
+    },
+    {
+      "album": {
         "name": "It's All Over",
         "url": "https://open.spotify.com/album/4hn75SfcVKyIyqmTAAAwmb"
       },
@@ -5901,7 +6031,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 244105,
       "name": "Indie Girls",
       "url": "https://open.spotify.com/track/5mvCGhJTcJAGAhJiC1m7AO"
@@ -5919,7 +6049,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 244105,
       "name": "Indie Girls",
       "url": "https://open.spotify.com/track/73TENcqZwgGMDRxqR3sZMl"
@@ -7282,6 +7412,24 @@
     },
     {
       "album": {
+        "name": "Never Want to Leave",
+        "url": "https://open.spotify.com/album/4MBWusrHJl4N8FjXiWWbqT"
+      },
+      "artists": [
+        {
+          "name": "Ging",
+          "url": "https://open.spotify.com/artist/4140hprCX3y5AHFsZ2Tqe5"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154386,
+      "name": "Never Want to Leave",
+      "url": "https://open.spotify.com/track/5Cwh8m0uYNK7N2JfLOjoTA"
+    },
+    {
+      "album": {
         "name": "Homeschool: Book I",
         "url": "https://open.spotify.com/album/2UEeY64ypFb2LWPZHboPZf"
       },
@@ -7459,6 +7607,24 @@
       "duration_ms": 238663,
       "name": "No More Sports",
       "url": "https://open.spotify.com/track/2H29gcCEkBJWODlEJqjQi2"
+    },
+    {
+      "album": {
+        "name": "No Way",
+        "url": "https://open.spotify.com/album/1pIWJMmWJUwCrpK23LkN2v"
+      },
+      "artists": [
+        {
+          "name": "Lowertown",
+          "url": "https://open.spotify.com/artist/1yI0RRPnOA9BFJmiZ6cEzw"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285176,
+      "name": "No Way",
+      "url": "https://open.spotify.com/track/6JXDI67CRvdNnxBya3UXkB"
     },
     {
       "album": {
@@ -8428,6 +8594,28 @@
     },
     {
       "album": {
+        "name": "River",
+        "url": "https://open.spotify.com/album/4l0KCP3KC7tCeSfdzBQqb0"
+      },
+      "artists": [
+        {
+          "name": "The Song Confessional",
+          "url": "https://open.spotify.com/artist/3zM0frH8HgM7cK5OXpHu4E"
+        },
+        {
+          "name": "Pom Pom Squad",
+          "url": "https://open.spotify.com/artist/1yhTALwId0bpL1U1XRT3Zs"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271678,
+      "name": "River",
+      "url": "https://open.spotify.com/track/3HEhC2ZJYWBX8EtVHOnIdr"
+    },
+    {
+      "album": {
         "name": "Tchotchke",
         "url": "https://open.spotify.com/album/0hIl9YXPRu5ZlqakOREbna"
       },
@@ -8995,6 +9183,24 @@
       "duration_ms": 152594,
       "name": "Slow Angel",
       "url": "https://open.spotify.com/track/7CEvfOY6Sx35SGoareC0eV"
+    },
+    {
+      "album": {
+        "name": "Slowing Down",
+        "url": "https://open.spotify.com/album/4lFKMJASTntuvHbLhjt4g4"
+      },
+      "artists": [
+        {
+          "name": "The Backseat Lovers",
+          "url": "https://open.spotify.com/artist/6p2HnfM955TI1bX34dkLnI"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 320186,
+      "name": "Slowing Down",
+      "url": "https://open.spotify.com/track/5hP4E6151iBhUXsuNhuwfk"
     },
     {
       "album": {
@@ -10596,6 +10802,24 @@
     },
     {
       "album": {
+        "name": "True Altruism",
+        "url": "https://open.spotify.com/album/6TxDxN2b6HrXK3ftkgLCPH"
+      },
+      "artists": [
+        {
+          "name": "Chanel Beads",
+          "url": "https://open.spotify.com/artist/3x11XrMEnyP18hv73pmKRL"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132240,
+      "name": "True Altruism",
+      "url": "https://open.spotify.com/track/4WVmEolPx31V9q0rrkMMyB"
+    },
+    {
+      "album": {
         "name": "Gymnastics",
         "url": "https://open.spotify.com/album/1fHozeTsMeD2qq3ivDY8tA"
       },
@@ -11091,7 +11315,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 132824,
       "name": "Vanishing Coin",
       "url": "https://open.spotify.com/track/7uVeLwQeth846ImdUx1Xk7"

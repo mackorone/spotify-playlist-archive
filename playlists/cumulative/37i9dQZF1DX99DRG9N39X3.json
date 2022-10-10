@@ -849,6 +849,24 @@
     {
       "album": {
         "name": "Let the Vultures In",
+        "url": "https://open.spotify.com/album/0NvZagPSgA7PLFI7yydUTn"
+      },
+      "artists": [
+        {
+          "name": "Des Rocs",
+          "url": "https://open.spotify.com/artist/2kO6mP0olFJGGh6kvUdNC8"
+        }
+      ],
+      "date_added": "2022-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207141,
+      "name": "Let Me Live / Let Me Die",
+      "url": "https://open.spotify.com/track/0AVIswXP3Q5FnlorjU0DbI"
+    },
+    {
+      "album": {
+        "name": "Let the Vultures In",
         "url": "https://open.spotify.com/album/0fnAV8la7b1AZjAfY1oyXZ"
       },
       "artists": [
@@ -1381,7 +1399,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-03",
       "duration_ms": 181216,
       "name": "Summer Is a Curse",
       "url": "https://open.spotify.com/track/5WzgYEfub2pFJAAZfrOult"

@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Vive la salsa de los '80! Foto: Oscar D'Le\u00f3n",
-  "num_followers": 129527,
+  "num_followers": 130145,
   "original_name": "Salsa: Los '80",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU1MzYzMTY5NCwwMDAwMDAwMDhhNmQ1YjY3NjdiNzMyYjA2MzllODczYTY1NTI2MGY5",
+  "snapshot_id": "MTU1MzYzMTY5NCwwMDAwMDAwMGEyZGRlZmViOWQzMzVjNzUyZTgxZjhmYzNmZjQ0MTc4",
   "tracks": [
     {
       "added_at": "2019-02-21 18:14:14",
@@ -27,22 +27,6 @@
     {
       "added_at": "2019-02-21 18:14:14",
       "album": {
-        "name": "The Best",
-        "url": "https://open.spotify.com/album/1b2HgTcfv1ocO7J83D1eIm"
-      },
-      "artists": [
-        {
-          "name": "Grupo Niche",
-          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
-        }
-      ],
-      "duration_ms": 316093,
-      "name": "Una Aventura",
-      "url": "https://open.spotify.com/track/26ucR33snMkRD6JExhoD6I"
-    },
-    {
-      "added_at": "2019-02-21 18:14:14",
-      "album": {
         "name": "Oro Salsero",
         "url": "https://open.spotify.com/album/21W5Yp75UyOaWI2QALA7PS"
       },
@@ -55,6 +39,22 @@
       "duration_ms": 311400,
       "name": "Ven Dev\u00f3rame Otra Vez",
       "url": "https://open.spotify.com/track/2HbmLkHkkI15eES8kpWRuI"
+    },
+    {
+      "added_at": "2019-02-21 18:14:14",
+      "album": {
+        "name": "The Best",
+        "url": "https://open.spotify.com/album/1b2HgTcfv1ocO7J83D1eIm"
+      },
+      "artists": [
+        {
+          "name": "Grupo Niche",
+          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
+        }
+      ],
+      "duration_ms": 316093,
+      "name": "Una Aventura",
+      "url": "https://open.spotify.com/track/26ucR33snMkRD6JExhoD6I"
     },
     {
       "added_at": "2019-02-21 18:14:14",
@@ -219,6 +219,22 @@
     {
       "added_at": "2019-02-21 18:14:14",
       "album": {
+        "name": "Oro Salsero",
+        "url": "https://open.spotify.com/album/45jRKB7cqJYwk7vHyYgveo"
+      },
+      "artists": [
+        {
+          "name": "David Pabon",
+          "url": "https://open.spotify.com/artist/3L3YHYkS8b2vgAbnqBTXrE"
+        }
+      ],
+      "duration_ms": 308893,
+      "name": "Aqu\u00e9l Viejo Motel",
+      "url": "https://open.spotify.com/track/286NP8kXWzx2uHb5tr7TGv"
+    },
+    {
+      "added_at": "2019-02-21 18:14:14",
+      "album": {
         "name": "Por el Buen Camino",
         "url": "https://open.spotify.com/album/1fwcGFkXIXDmd3CJ1w5KM3"
       },
@@ -247,22 +263,6 @@
       "duration_ms": 302866,
       "name": "Hagamos Lo Que Diga El Coraz\u00f3n",
       "url": "https://open.spotify.com/track/5NR1LYf16E6K5t5AeSYP8P"
-    },
-    {
-      "added_at": "2019-02-21 18:14:14",
-      "album": {
-        "name": "Oro Salsero",
-        "url": "https://open.spotify.com/album/45jRKB7cqJYwk7vHyYgveo"
-      },
-      "artists": [
-        {
-          "name": "David Pabon",
-          "url": "https://open.spotify.com/artist/3L3YHYkS8b2vgAbnqBTXrE"
-        }
-      ],
-      "duration_ms": 308893,
-      "name": "Aqu\u00e9l Viejo Motel",
-      "url": "https://open.spotify.com/track/286NP8kXWzx2uHb5tr7TGv"
     },
     {
       "added_at": "2019-02-21 18:14:14",
@@ -331,6 +331,22 @@
     {
       "added_at": "2019-02-21 18:14:14",
       "album": {
+        "name": "Mejor Que Ayer",
+        "url": "https://open.spotify.com/album/2zf6kWIBrE5NOGLmy9vjCr"
+      },
+      "artists": [
+        {
+          "name": "David Pabon",
+          "url": "https://open.spotify.com/artist/3L3YHYkS8b2vgAbnqBTXrE"
+        }
+      ],
+      "duration_ms": 229746,
+      "name": "Y Nos Amamos",
+      "url": "https://open.spotify.com/track/1GJ81TUe0L0V8KpFC2Xobo"
+    },
+    {
+      "added_at": "2019-02-21 18:14:14",
+      "album": {
         "name": "Solo",
         "url": "https://open.spotify.com/album/5eT06qIRKZhsrONksaiZrP"
       },
@@ -379,6 +395,22 @@
     {
       "added_at": "2019-02-21 18:14:14",
       "album": {
+        "name": "Salsa Exitos",
+        "url": "https://open.spotify.com/album/7d6NQ9TSwDphlr9UExZMUW"
+      },
+      "artists": [
+        {
+          "name": "Pedro Conga",
+          "url": "https://open.spotify.com/artist/5AvuagpXeJtpvaq7OtBG1y"
+        }
+      ],
+      "duration_ms": 284240,
+      "name": "Me Niegas Tanto Amor",
+      "url": "https://open.spotify.com/track/5rZ4XYvFC48L2fw2rUNc3o"
+    },
+    {
+      "added_at": "2019-02-21 18:14:14",
+      "album": {
         "name": "Doble Energ\u00eda",
         "url": "https://open.spotify.com/album/1t9CWp3ykgHF83aO4uYYmU"
       },
@@ -399,22 +431,6 @@
     {
       "added_at": "2019-02-21 18:14:14",
       "album": {
-        "name": "Salsa Exitos",
-        "url": "https://open.spotify.com/album/7d6NQ9TSwDphlr9UExZMUW"
-      },
-      "artists": [
-        {
-          "name": "Pedro Conga",
-          "url": "https://open.spotify.com/artist/5AvuagpXeJtpvaq7OtBG1y"
-        }
-      ],
-      "duration_ms": 284240,
-      "name": "Me Niegas Tanto Amor",
-      "url": "https://open.spotify.com/track/5rZ4XYvFC48L2fw2rUNc3o"
-    },
-    {
-      "added_at": "2019-02-21 18:14:14",
-      "album": {
         "name": "Mejor Que Ayer",
         "url": "https://open.spotify.com/album/2zf6kWIBrE5NOGLmy9vjCr"
       },
@@ -424,9 +440,9 @@
           "url": "https://open.spotify.com/artist/3L3YHYkS8b2vgAbnqBTXrE"
         }
       ],
-      "duration_ms": 229746,
-      "name": "Y Nos Amamos",
-      "url": "https://open.spotify.com/track/1GJ81TUe0L0V8KpFC2Xobo"
+      "duration_ms": 317586,
+      "name": "Caradura",
+      "url": "https://open.spotify.com/track/1AAx4NAWkHhvYBwXXwcpkJ"
     },
     {
       "added_at": "2019-02-21 18:14:14",
@@ -511,38 +527,6 @@
     {
       "added_at": "2019-02-21 18:14:14",
       "album": {
-        "name": "Sexy Salsa",
-        "url": "https://open.spotify.com/album/5ggthPsE5zY3Jtv0ti5rdv"
-      },
-      "artists": [
-        {
-          "name": "Mario Ortiz Y Su Orquesta",
-          "url": "https://open.spotify.com/artist/2PdbGJ20Zy4ZxWMpRJarfO"
-        }
-      ],
-      "duration_ms": 300533,
-      "name": "A Fuego Lento",
-      "url": "https://open.spotify.com/track/1Srn5mpWz7eS0rdy0EtHxJ"
-    },
-    {
-      "added_at": "2019-02-21 18:14:14",
-      "album": {
-        "name": "Mejor Que Ayer",
-        "url": "https://open.spotify.com/album/2zf6kWIBrE5NOGLmy9vjCr"
-      },
-      "artists": [
-        {
-          "name": "David Pabon",
-          "url": "https://open.spotify.com/artist/3L3YHYkS8b2vgAbnqBTXrE"
-        }
-      ],
-      "duration_ms": 317586,
-      "name": "Caradura",
-      "url": "https://open.spotify.com/track/1AAx4NAWkHhvYBwXXwcpkJ"
-    },
-    {
-      "added_at": "2019-02-21 18:14:14",
-      "album": {
         "name": "Dueno del Soneo",
         "url": "https://open.spotify.com/album/2oiwyNGudQGaFxgMvKlFVq"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 338840,
       "name": "A Mi",
       "url": "https://open.spotify.com/track/3y3A0PQZqg6RiWMHRgqvFU"
+    },
+    {
+      "added_at": "2019-02-21 18:14:14",
+      "album": {
+        "name": "Sexy Salsa",
+        "url": "https://open.spotify.com/album/5ggthPsE5zY3Jtv0ti5rdv"
+      },
+      "artists": [
+        {
+          "name": "Mario Ortiz Y Su Orquesta",
+          "url": "https://open.spotify.com/artist/2PdbGJ20Zy4ZxWMpRJarfO"
+        }
+      ],
+      "duration_ms": 300533,
+      "name": "A Fuego Lento",
+      "url": "https://open.spotify.com/track/1Srn5mpWz7eS0rdy0EtHxJ"
     },
     {
       "added_at": "2019-02-21 18:14:14",
@@ -591,22 +591,6 @@
     {
       "added_at": "2019-02-21 18:14:14",
       "album": {
-        "name": "El Sonero Del Pueblo",
-        "url": "https://open.spotify.com/album/6YeEv44eWTl8P9w07G74JN"
-      },
-      "artists": [
-        {
-          "name": "Marvin Santiago",
-          "url": "https://open.spotify.com/artist/76h2ycGFYaAFYQgqdoOvVE"
-        }
-      ],
-      "duration_ms": 254360,
-      "name": "El Hombre Increible",
-      "url": "https://open.spotify.com/track/1i2yBsnCHSanfHCVmw3dE0"
-    },
-    {
-      "added_at": "2019-02-21 18:14:14",
-      "album": {
         "name": "Salsa Legends",
         "url": "https://open.spotify.com/album/2QuOloo4ttkd4SxYzgu5nT"
       },
@@ -627,22 +611,6 @@
     {
       "added_at": "2019-02-21 18:14:14",
       "album": {
-        "name": "Rom\u00e1ntico",
-        "url": "https://open.spotify.com/album/5vF1wkyOrXRdnu3o3QNjNk"
-      },
-      "artists": [
-        {
-          "name": "Beny Mor\u00e9",
-          "url": "https://open.spotify.com/artist/1Sp47peMTI9na8FTY4yHJw"
-        }
-      ],
-      "duration_ms": 176733,
-      "name": "Como Fue",
-      "url": "https://open.spotify.com/track/6BDI8tJZLePuf70SzCiX42"
-    },
-    {
-      "added_at": "2019-02-21 18:14:14",
-      "album": {
         "name": "Salvaje! 88",
         "url": "https://open.spotify.com/album/4PiTdf6je5V2m0yP1gxyX1"
       },
@@ -659,18 +627,34 @@
     {
       "added_at": "2019-02-21 18:14:14",
       "album": {
-        "name": "Lo Que Pas\u00f3... La Historia Del Pr\u00edncipe De La Salsa",
-        "url": "https://open.spotify.com/album/3fH9W32gXxYgka8q6SAtOW"
+        "name": "El Sonero Del Pueblo",
+        "url": "https://open.spotify.com/album/6YeEv44eWTl8P9w07G74JN"
       },
       "artists": [
         {
-          "name": "Luis Enrique",
-          "url": "https://open.spotify.com/artist/2mUI4K6csTQd3jieswcmiI"
+          "name": "Marvin Santiago",
+          "url": "https://open.spotify.com/artist/76h2ycGFYaAFYQgqdoOvVE"
         }
       ],
-      "duration_ms": 230026,
-      "name": "Desesperado",
-      "url": "https://open.spotify.com/track/3dH8qYlVlwR9xFdeIEfNWp"
+      "duration_ms": 254360,
+      "name": "El Hombre Increible",
+      "url": "https://open.spotify.com/track/1i2yBsnCHSanfHCVmw3dE0"
+    },
+    {
+      "added_at": "2019-02-21 18:14:14",
+      "album": {
+        "name": "Rom\u00e1ntico",
+        "url": "https://open.spotify.com/album/5vF1wkyOrXRdnu3o3QNjNk"
+      },
+      "artists": [
+        {
+          "name": "Beny Mor\u00e9",
+          "url": "https://open.spotify.com/artist/1Sp47peMTI9na8FTY4yHJw"
+        }
+      ],
+      "duration_ms": 176733,
+      "name": "Como Fue",
+      "url": "https://open.spotify.com/track/6BDI8tJZLePuf70SzCiX42"
     },
     {
       "added_at": "2019-02-21 18:14:14",
@@ -687,6 +671,22 @@
       "duration_ms": 279106,
       "name": "25 Rosas",
       "url": "https://open.spotify.com/track/7BxjRWadxvkrqxC0J3ZHxK"
+    },
+    {
+      "added_at": "2019-02-21 18:14:14",
+      "album": {
+        "name": "Lo Que Pas\u00f3... La Historia Del Pr\u00edncipe De La Salsa",
+        "url": "https://open.spotify.com/album/3fH9W32gXxYgka8q6SAtOW"
+      },
+      "artists": [
+        {
+          "name": "Luis Enrique",
+          "url": "https://open.spotify.com/artist/2mUI4K6csTQd3jieswcmiI"
+        }
+      ],
+      "duration_ms": 230026,
+      "name": "Desesperado",
+      "url": "https://open.spotify.com/track/3dH8qYlVlwR9xFdeIEfNWp"
     },
     {
       "added_at": "2019-02-21 18:14:14",
@@ -747,22 +747,6 @@
     {
       "added_at": "2019-02-21 18:14:14",
       "album": {
-        "name": "Simplemente... Lalo",
-        "url": "https://open.spotify.com/album/02BFzeqsPhtq8r9mEdrl2E"
-      },
-      "artists": [
-        {
-          "name": "Lalo Rodriguez",
-          "url": "https://open.spotify.com/artist/5LmwELEKyxDFxrbZzR8K4U"
-        }
-      ],
-      "duration_ms": 458760,
-      "name": "M\u00e1ximo Chamorro",
-      "url": "https://open.spotify.com/track/4KARXeRqsfk8ZbyrRhqKc5"
-    },
-    {
-      "added_at": "2019-02-21 18:14:14",
-      "album": {
         "name": "Ayer, Hoy, Ma\u00f1ana y Siempre",
         "url": "https://open.spotify.com/album/4IuAxOPErtywq5ZmTvZ4C0"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 251585,
       "name": "Dicelo a El",
       "url": "https://open.spotify.com/track/7I7LoiAzaDTCFN3XNnIboG"
+    },
+    {
+      "added_at": "2019-02-21 18:14:14",
+      "album": {
+        "name": "Simplemente... Lalo",
+        "url": "https://open.spotify.com/album/02BFzeqsPhtq8r9mEdrl2E"
+      },
+      "artists": [
+        {
+          "name": "Lalo Rodriguez",
+          "url": "https://open.spotify.com/artist/5LmwELEKyxDFxrbZzR8K4U"
+        }
+      ],
+      "duration_ms": 458760,
+      "name": "M\u00e1ximo Chamorro",
+      "url": "https://open.spotify.com/track/4KARXeRqsfk8ZbyrRhqKc5"
     },
     {
       "added_at": "2019-02-21 18:14:14",

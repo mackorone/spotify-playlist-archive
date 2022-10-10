@@ -8,6 +8,24 @@
   "tracks": [
     {
       "album": {
+        "name": "2 Things",
+        "url": "https://open.spotify.com/album/1oMVaSg26TMl1zJEWbi38S"
+      },
+      "artists": [
+        {
+          "name": "Don Diablo",
+          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191250,
+      "name": "2 Things",
+      "url": "https://open.spotify.com/track/23YAweZPLgWqOTJdpvSv1O"
+    },
+    {
+      "album": {
         "name": "4Ever",
         "url": "https://open.spotify.com/album/7pHLVCS4BQLtKLgMeX57Ib"
       },
@@ -1789,7 +1807,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 202885,
       "name": "Get This Party Jumpin'",
       "url": "https://open.spotify.com/track/4ynbqZykOfiYZx6OV5QJI2"
@@ -3987,7 +4005,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 179032,
       "name": "Problems",
       "url": "https://open.spotify.com/track/2dyrLrVopYKGc3H9oOYSmZ"
@@ -5419,7 +5437,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-01",
+      "date_removed": null,
       "duration_ms": 184271,
       "name": "Whisper (with James Yuill) - John Summit Remix",
       "url": "https://open.spotify.com/track/04mYhQGTujxxPjPzxRrgTL"

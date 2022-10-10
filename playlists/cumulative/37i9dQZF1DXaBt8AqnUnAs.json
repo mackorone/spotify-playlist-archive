@@ -1499,7 +1499,7 @@
       ],
       "date_added": "2022-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 188427,
       "name": "Ladra de Moletom",
       "url": "https://open.spotify.com/track/4GvMezy9QsvAfNfkazPdyy"
@@ -2535,10 +2535,36 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 204288,
       "name": "Qu\u00edmica",
       "url": "https://open.spotify.com/track/5ibpnsWL2cbPHZryVdZtHF"
+    },
+    {
+      "album": {
+        "name": "Rei de Gelo",
+        "url": "https://open.spotify.com/album/1SiPQYbYRAgwGFjBVXtEHQ"
+      },
+      "artists": [
+        {
+          "name": "Dracko",
+          "url": "https://open.spotify.com/artist/6gOq16KSO2ORGiVS7yDZHY"
+        },
+        {
+          "name": "Indie Space",
+          "url": "https://open.spotify.com/artist/0W1Rb8JlinMAExLtluwWxr"
+        },
+        {
+          "name": "Majewski",
+          "url": "https://open.spotify.com/artist/7rddKaBLeToWjektrVnUCm"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167090,
+      "name": "Rei de Gelo",
+      "url": "https://open.spotify.com/track/0qW5Y9jLq21f6FqqsSfaPD"
     },
     {
       "album": {
@@ -3111,6 +3137,28 @@
       "duration_ms": 142978,
       "name": "Tudo Que C\u00ea Quer",
       "url": "https://open.spotify.com/track/3owVuCE1JenyUfQxP5JHDt"
+    },
+    {
+      "album": {
+        "name": "Um Pouco De N\u00f3s",
+        "url": "https://open.spotify.com/album/5dI0cZ5OxiVU1bQKIzOloW"
+      },
+      "artists": [
+        {
+          "name": "J a u m",
+          "url": "https://open.spotify.com/artist/1IyuVaJ5TMJ9GYJBYVu5Di"
+        },
+        {
+          "name": "Indie Space",
+          "url": "https://open.spotify.com/artist/0W1Rb8JlinMAExLtluwWxr"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138369,
+      "name": "Um Pouco De N\u00f3s",
+      "url": "https://open.spotify.com/track/43QsY73MFWhouHc8SnWnrK"
     },
     {
       "album": {

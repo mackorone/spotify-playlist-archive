@@ -1,12 +1,12 @@
 {
   "description": "Soul to brighten up your day.",
-  "num_followers": 45063,
+  "num_followers": 45359,
   "original_name": "Soulful Day",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NDg2MjA0OCwwMDAwMDAwMDJmYTI5MTMzZDk4YmU2NTQ4ZDdkMGExNTA5ZTVlZDQy",
+  "snapshot_id": "MTY1NDg2MjA0OCwwMDAwMDAwMDViNDZjNzU1YmM1ZjI1MjFlYmRmMjNlNjlhYzI5Y2Qw",
   "tracks": [
     {
       "added_at": "2022-01-05 09:24:56",
@@ -27,22 +27,6 @@
     {
       "added_at": "2022-01-05 09:24:56",
       "album": {
-        "name": "Gossip In The Grain",
-        "url": "https://open.spotify.com/album/2CbLBSlkvh2vR4JRLDRQso"
-      },
-      "artists": [
-        {
-          "name": "Ray LaMontagne",
-          "url": "https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj"
-        }
-      ],
-      "duration_ms": 231840,
-      "name": "You Are the Best Thing",
-      "url": "https://open.spotify.com/track/1jyddn36UN4tVsJGtaJfem"
-    },
-    {
-      "added_at": "2022-01-05 09:24:56",
-      "album": {
         "name": "Naturally",
         "url": "https://open.spotify.com/album/1xwNW7Q1daqJ8LNgymY04y"
       },
@@ -55,6 +39,22 @@
       "duration_ms": 243760,
       "name": "How Long Do I Have to Wait for You?",
       "url": "https://open.spotify.com/track/113bLFbp3F9MVN0w2KJ1ma"
+    },
+    {
+      "added_at": "2022-01-05 09:24:56",
+      "album": {
+        "name": "Gossip In The Grain",
+        "url": "https://open.spotify.com/album/2CbLBSlkvh2vR4JRLDRQso"
+      },
+      "artists": [
+        {
+          "name": "Ray LaMontagne",
+          "url": "https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj"
+        }
+      ],
+      "duration_ms": 231840,
+      "name": "You Are the Best Thing",
+      "url": "https://open.spotify.com/track/1jyddn36UN4tVsJGtaJfem"
     },
     {
       "added_at": "2022-01-05 09:24:56",
@@ -163,22 +163,6 @@
     {
       "added_at": "2022-01-05 09:24:56",
       "album": {
-        "name": "Queen Alone",
-        "url": "https://open.spotify.com/album/6k2kl7wWK57baFDPkpN9It"
-      },
-      "artists": [
-        {
-          "name": "Lady Wray",
-          "url": "https://open.spotify.com/artist/1plioVQ0mcgAO7uhvWkJJy"
-        }
-      ],
-      "duration_ms": 214573,
-      "name": "Guilty",
-      "url": "https://open.spotify.com/track/3MLwKelG4PQ7rXkd8Qjz4g"
-    },
-    {
-      "added_at": "2022-01-05 09:24:56",
-      "album": {
         "name": "Floetic",
         "url": "https://open.spotify.com/album/37dLqaW3KP18Aeqesq0Exi"
       },
@@ -191,6 +175,22 @@
       "duration_ms": 268373,
       "name": "Say Yes",
       "url": "https://open.spotify.com/track/2fE4MbwX3QGMzNaMjGVhtw"
+    },
+    {
+      "added_at": "2022-01-05 09:24:56",
+      "album": {
+        "name": "Queen Alone",
+        "url": "https://open.spotify.com/album/6k2kl7wWK57baFDPkpN9It"
+      },
+      "artists": [
+        {
+          "name": "Lady Wray",
+          "url": "https://open.spotify.com/artist/1plioVQ0mcgAO7uhvWkJJy"
+        }
+      ],
+      "duration_ms": 214573,
+      "name": "Guilty",
+      "url": "https://open.spotify.com/track/3MLwKelG4PQ7rXkd8Qjz4g"
     },
     {
       "added_at": "2022-01-05 09:24:56",
@@ -227,18 +227,18 @@
     {
       "added_at": "2022-01-05 09:24:56",
       "album": {
-        "name": "Lazy Days",
-        "url": "https://open.spotify.com/album/3dsG1JN1wE7XL5DLuWNKk5"
+        "name": "Young Sick Camellia",
+        "url": "https://open.spotify.com/album/4EN9bVE0g7gUvQlNdPrUhL"
       },
       "artists": [
         {
-          "name": "Fat Night",
-          "url": "https://open.spotify.com/artist/0jUjkZEu17LkjSEQJmcqqi"
+          "name": "St. Paul & The Broken Bones",
+          "url": "https://open.spotify.com/artist/4fXkvh05wFhuH77MfD4m9o"
         }
       ],
-      "duration_ms": 222320,
-      "name": "Sun Go Down",
-      "url": "https://open.spotify.com/track/6UJThOHpnTSWu583jJ4dbo"
+      "duration_ms": 283879,
+      "name": "Apollo",
+      "url": "https://open.spotify.com/track/4lhhYqzREcts4uOOqWHjRJ"
     },
     {
       "added_at": "2022-01-05 09:24:56",
@@ -259,18 +259,34 @@
     {
       "added_at": "2022-01-05 09:24:56",
       "album": {
-        "name": "Young Sick Camellia",
-        "url": "https://open.spotify.com/album/4EN9bVE0g7gUvQlNdPrUhL"
+        "name": "Lazy Days",
+        "url": "https://open.spotify.com/album/3dsG1JN1wE7XL5DLuWNKk5"
       },
       "artists": [
         {
-          "name": "St. Paul & The Broken Bones",
-          "url": "https://open.spotify.com/artist/4fXkvh05wFhuH77MfD4m9o"
+          "name": "Fat Night",
+          "url": "https://open.spotify.com/artist/0jUjkZEu17LkjSEQJmcqqi"
         }
       ],
-      "duration_ms": 283879,
-      "name": "Apollo",
-      "url": "https://open.spotify.com/track/4lhhYqzREcts4uOOqWHjRJ"
+      "duration_ms": 222320,
+      "name": "Sun Go Down",
+      "url": "https://open.spotify.com/track/6UJThOHpnTSWu583jJ4dbo"
+    },
+    {
+      "added_at": "2022-01-05 09:24:56",
+      "album": {
+        "name": "Special Night",
+        "url": "https://open.spotify.com/album/02j4VRhJ7MKK0Jf3FtBBsD"
+      },
+      "artists": [
+        {
+          "name": "Lee Fields & The Expressions",
+          "url": "https://open.spotify.com/artist/2bToe6WyGvADJftreuXh2K"
+        }
+      ],
+      "duration_ms": 265003,
+      "name": "Never Be Another You",
+      "url": "https://open.spotify.com/track/25z7NYgTEt6MiA5qExNSH2"
     },
     {
       "added_at": "2022-01-05 09:24:56",
@@ -307,22 +323,6 @@
     {
       "added_at": "2022-01-05 09:24:56",
       "album": {
-        "name": "Special Night",
-        "url": "https://open.spotify.com/album/02j4VRhJ7MKK0Jf3FtBBsD"
-      },
-      "artists": [
-        {
-          "name": "Lee Fields & The Expressions",
-          "url": "https://open.spotify.com/artist/2bToe6WyGvADJftreuXh2K"
-        }
-      ],
-      "duration_ms": 265003,
-      "name": "Never Be Another You",
-      "url": "https://open.spotify.com/track/25z7NYgTEt6MiA5qExNSH2"
-    },
-    {
-      "added_at": "2022-01-05 09:24:56",
-      "album": {
         "name": "American Love Call",
         "url": "https://open.spotify.com/album/7FU0CDJvPwKDWRXtHYcsoY"
       },
@@ -355,38 +355,6 @@
     {
       "added_at": "2022-01-05 09:24:56",
       "album": {
-        "name": "Now",
-        "url": "https://open.spotify.com/album/3Ul8Nyuzr2AEwE8iSrQepC"
-      },
-      "artists": [
-        {
-          "name": "Maxwell",
-          "url": "https://open.spotify.com/artist/2AOt5htsbtyaHd5Eq3kl3j"
-        }
-      ],
-      "duration_ms": 329400,
-      "name": "Lifetime - Remastered 2021",
-      "url": "https://open.spotify.com/track/0tXq1ob3ysGZN2oK1abtyp"
-    },
-    {
-      "added_at": "2022-01-05 09:24:56",
-      "album": {
-        "name": "Run Home Slow",
-        "url": "https://open.spotify.com/album/2VXeD0hKkY9i8TyGb0chVi"
-      },
-      "artists": [
-        {
-          "name": "The Teskey Brothers",
-          "url": "https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh"
-        }
-      ],
-      "duration_ms": 228553,
-      "name": "So Caught Up",
-      "url": "https://open.spotify.com/track/6QvdMd39Vywf87kHx03xgX"
-    },
-    {
-      "added_at": "2022-01-05 09:24:56",
-      "album": {
         "name": "Avery*sunshine Album",
         "url": "https://open.spotify.com/album/3MqlTEkRsAntG8xBSeNcuB"
       },
@@ -403,18 +371,34 @@
     {
       "added_at": "2022-01-05 09:24:56",
       "album": {
-        "name": "Rahsaan Patterson",
-        "url": "https://open.spotify.com/album/1uMPGRwlgCjpIxjGTjg93c"
+        "name": "Soul of a Woman",
+        "url": "https://open.spotify.com/album/6dQ4PANge8QXfOywlHNd2J"
       },
       "artists": [
         {
-          "name": "Rahsaan Patterson",
-          "url": "https://open.spotify.com/artist/5jVkC5rSgdK2EPfRAmtbpH"
+          "name": "Sharon Jones & The Dap-Kings",
+          "url": "https://open.spotify.com/artist/6LufpoVlIYKQCu9Gjpk8B7"
         }
       ],
-      "duration_ms": 293400,
-      "name": "Spend The Night",
-      "url": "https://open.spotify.com/track/14VwBAL1qSlG4ovOSYUQF4"
+      "duration_ms": 176560,
+      "name": "Come and Be a Winner",
+      "url": "https://open.spotify.com/track/6oobvM9iZY1OF18kC36llz"
+    },
+    {
+      "added_at": "2022-01-05 09:24:56",
+      "album": {
+        "name": "Young Sick Camellia",
+        "url": "https://open.spotify.com/album/4EN9bVE0g7gUvQlNdPrUhL"
+      },
+      "artists": [
+        {
+          "name": "St. Paul & The Broken Bones",
+          "url": "https://open.spotify.com/artist/4fXkvh05wFhuH77MfD4m9o"
+        }
+      ],
+      "duration_ms": 290422,
+      "name": "GotItBad",
+      "url": "https://open.spotify.com/track/59s5vTB8LNV4tyZPp9HM3f"
     },
     {
       "added_at": "2022-01-05 09:24:56",
@@ -439,18 +423,18 @@
     {
       "added_at": "2022-01-05 09:24:56",
       "album": {
-        "name": "Soul of a Woman",
-        "url": "https://open.spotify.com/album/6dQ4PANge8QXfOywlHNd2J"
+        "name": "Now",
+        "url": "https://open.spotify.com/album/3Ul8Nyuzr2AEwE8iSrQepC"
       },
       "artists": [
         {
-          "name": "Sharon Jones & The Dap-Kings",
-          "url": "https://open.spotify.com/artist/6LufpoVlIYKQCu9Gjpk8B7"
+          "name": "Maxwell",
+          "url": "https://open.spotify.com/artist/2AOt5htsbtyaHd5Eq3kl3j"
         }
       ],
-      "duration_ms": 176560,
-      "name": "Come and Be a Winner",
-      "url": "https://open.spotify.com/track/6oobvM9iZY1OF18kC36llz"
+      "duration_ms": 329400,
+      "name": "Lifetime - Remastered 2021",
+      "url": "https://open.spotify.com/track/0tXq1ob3ysGZN2oK1abtyp"
     },
     {
       "added_at": "2022-01-05 09:24:56",
@@ -471,18 +455,34 @@
     {
       "added_at": "2022-01-05 09:24:56",
       "album": {
-        "name": "Young Sick Camellia",
-        "url": "https://open.spotify.com/album/4EN9bVE0g7gUvQlNdPrUhL"
+        "name": "Rahsaan Patterson",
+        "url": "https://open.spotify.com/album/1uMPGRwlgCjpIxjGTjg93c"
       },
       "artists": [
         {
-          "name": "St. Paul & The Broken Bones",
-          "url": "https://open.spotify.com/artist/4fXkvh05wFhuH77MfD4m9o"
+          "name": "Rahsaan Patterson",
+          "url": "https://open.spotify.com/artist/5jVkC5rSgdK2EPfRAmtbpH"
         }
       ],
-      "duration_ms": 290422,
-      "name": "GotItBad",
-      "url": "https://open.spotify.com/track/59s5vTB8LNV4tyZPp9HM3f"
+      "duration_ms": 293400,
+      "name": "Spend The Night",
+      "url": "https://open.spotify.com/track/14VwBAL1qSlG4ovOSYUQF4"
+    },
+    {
+      "added_at": "2022-01-05 09:24:56",
+      "album": {
+        "name": "Run Home Slow",
+        "url": "https://open.spotify.com/album/1kAEI20bjSPsByL6LNIyCT"
+      },
+      "artists": [
+        {
+          "name": "The Teskey Brothers",
+          "url": "https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh"
+        }
+      ],
+      "duration_ms": 228553,
+      "name": "So Caught Up",
+      "url": "https://open.spotify.com/track/2SrTIQZs2Dzv9WC538a8xM"
     },
     {
       "added_at": "2022-01-05 09:24:56",
@@ -519,18 +519,18 @@
     {
       "added_at": "2022-01-05 09:24:56",
       "album": {
-        "name": "Run Home Slow",
-        "url": "https://open.spotify.com/album/2VXeD0hKkY9i8TyGb0chVi"
+        "name": "Comin' From Where I'm From",
+        "url": "https://open.spotify.com/album/0qN4uk3SGen6vUOjImJ6em"
       },
       "artists": [
         {
-          "name": "The Teskey Brothers",
-          "url": "https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh"
+          "name": "Anthony Hamilton",
+          "url": "https://open.spotify.com/artist/2DzRMyWgjuMbYvt5BLbpCo"
         }
       ],
-      "duration_ms": 187973,
-      "name": "Hold Me",
-      "url": "https://open.spotify.com/track/3Rhfga08pNnhLMQVb2nRXp"
+      "duration_ms": 273893,
+      "name": "Cornbread, Fish & Collard Greens",
+      "url": "https://open.spotify.com/track/7km1tntASwmtyzGr8vaT0e"
     },
     {
       "added_at": "2022-01-05 09:24:56",
@@ -555,18 +555,18 @@
     {
       "added_at": "2022-01-05 09:24:56",
       "album": {
-        "name": "Comin' From Where I'm From",
-        "url": "https://open.spotify.com/album/0qN4uk3SGen6vUOjImJ6em"
+        "name": "The Way I Feel",
+        "url": "https://open.spotify.com/album/7mSNyOFmQg80PGsrVxYpa2"
       },
       "artists": [
         {
-          "name": "Anthony Hamilton",
-          "url": "https://open.spotify.com/artist/2DzRMyWgjuMbYvt5BLbpCo"
+          "name": "Remy Shand",
+          "url": "https://open.spotify.com/artist/0uPJNqmDRzjZJZXXG6HDtt"
         }
       ],
-      "duration_ms": 273893,
-      "name": "Cornbread, Fish & Collard Greens",
-      "url": "https://open.spotify.com/track/7km1tntASwmtyzGr8vaT0e"
+      "duration_ms": 301960,
+      "name": "The Way I Feel",
+      "url": "https://open.spotify.com/track/1HwgiZluTgktb8SOFqcKkh"
     },
     {
       "added_at": "2022-01-05 09:24:56",
@@ -591,18 +591,18 @@
     {
       "added_at": "2022-01-05 09:24:56",
       "album": {
-        "name": "The Way I Feel",
-        "url": "https://open.spotify.com/album/7mSNyOFmQg80PGsrVxYpa2"
+        "name": "Let My People Go",
+        "url": "https://open.spotify.com/album/3nD9Oab8M4sCLNmqmwSOdA"
       },
       "artists": [
         {
-          "name": "Remy Shand",
-          "url": "https://open.spotify.com/artist/0uPJNqmDRzjZJZXXG6HDtt"
+          "name": "Darondo",
+          "url": "https://open.spotify.com/artist/4JfFdF9Row7UXtdsKtT6tc"
         }
       ],
-      "duration_ms": 301960,
-      "name": "The Way I Feel",
-      "url": "https://open.spotify.com/track/1HwgiZluTgktb8SOFqcKkh"
+      "duration_ms": 238480,
+      "name": "Let My People Go",
+      "url": "https://open.spotify.com/track/260FtPzhpH7A0473nrMZ8R"
     },
     {
       "added_at": "2022-01-05 09:24:56",
@@ -643,38 +643,6 @@
     {
       "added_at": "2022-01-05 09:24:56",
       "album": {
-        "name": "Underneath the Surface",
-        "url": "https://open.spotify.com/album/6rIB87G63Jsdvg67vbHm35"
-      },
-      "artists": [
-        {
-          "name": "Sabrina Starke",
-          "url": "https://open.spotify.com/artist/1wTUsxee6HtnB6Z6QiUCub"
-        }
-      ],
-      "duration_ms": 254680,
-      "name": "Cards",
-      "url": "https://open.spotify.com/track/5QZdS4lYhW27Y8RJGSdPfV"
-    },
-    {
-      "added_at": "2022-01-05 09:24:56",
-      "album": {
-        "name": "Run Home Slow",
-        "url": "https://open.spotify.com/album/2VXeD0hKkY9i8TyGb0chVi"
-      },
-      "artists": [
-        {
-          "name": "The Teskey Brothers",
-          "url": "https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh"
-        }
-      ],
-      "duration_ms": 249693,
-      "name": "Man Of The Universe",
-      "url": "https://open.spotify.com/track/1FqOGWc280BYbpRwLiPn4P"
-    },
-    {
-      "added_at": "2022-01-05 09:24:56",
-      "album": {
         "name": "Take You There",
         "url": "https://open.spotify.com/album/6JFYDZX9PRfYrvQBrljBhR"
       },
@@ -695,18 +663,34 @@
     {
       "added_at": "2022-01-05 09:24:56",
       "album": {
-        "name": "Let My People Go",
-        "url": "https://open.spotify.com/album/3nD9Oab8M4sCLNmqmwSOdA"
+        "name": "Underneath the Surface",
+        "url": "https://open.spotify.com/album/6rIB87G63Jsdvg67vbHm35"
       },
       "artists": [
         {
-          "name": "Darondo",
-          "url": "https://open.spotify.com/artist/4JfFdF9Row7UXtdsKtT6tc"
+          "name": "Sabrina Starke",
+          "url": "https://open.spotify.com/artist/1wTUsxee6HtnB6Z6QiUCub"
         }
       ],
-      "duration_ms": 238480,
-      "name": "Let My People Go",
-      "url": "https://open.spotify.com/track/260FtPzhpH7A0473nrMZ8R"
+      "duration_ms": 254680,
+      "name": "Cards",
+      "url": "https://open.spotify.com/track/5QZdS4lYhW27Y8RJGSdPfV"
+    },
+    {
+      "added_at": "2022-01-05 09:24:56",
+      "album": {
+        "name": "Rahsaan Patterson",
+        "url": "https://open.spotify.com/album/1uMPGRwlgCjpIxjGTjg93c"
+      },
+      "artists": [
+        {
+          "name": "Rahsaan Patterson",
+          "url": "https://open.spotify.com/artist/5jVkC5rSgdK2EPfRAmtbpH"
+        }
+      ],
+      "duration_ms": 354093,
+      "name": "Stop By",
+      "url": "https://open.spotify.com/track/0Flm1lDGamEbFYLt674t3T"
     },
     {
       "added_at": "2022-01-05 09:24:56",
@@ -727,18 +711,34 @@
     {
       "added_at": "2022-01-05 09:24:56",
       "album": {
-        "name": "Rahsaan Patterson",
-        "url": "https://open.spotify.com/album/1uMPGRwlgCjpIxjGTjg93c"
+        "name": "L.A.B",
+        "url": "https://open.spotify.com/album/0bAw54Ih5LQ7SmC7uJ0IUv"
       },
       "artists": [
         {
-          "name": "Rahsaan Patterson",
-          "url": "https://open.spotify.com/artist/5jVkC5rSgdK2EPfRAmtbpH"
+          "name": "L.A.B.",
+          "url": "https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC"
         }
       ],
-      "duration_ms": 354093,
-      "name": "Stop By",
-      "url": "https://open.spotify.com/track/0Flm1lDGamEbFYLt674t3T"
+      "duration_ms": 280600,
+      "name": "Ain't No Use",
+      "url": "https://open.spotify.com/track/1k8AAfl7Eylt2alxE2qWAN"
+    },
+    {
+      "added_at": "2022-01-05 09:24:56",
+      "album": {
+        "name": "A Weird Kinda Wonderful",
+        "url": "https://open.spotify.com/album/0ZWWYHFwzCUKnOMatRoBRa"
+      },
+      "artists": [
+        {
+          "name": "N'Dambi",
+          "url": "https://open.spotify.com/artist/3Qq0yiyJZJu8L2PS5zpFVX"
+        }
+      ],
+      "duration_ms": 311453,
+      "name": "Can't Change Me",
+      "url": "https://open.spotify.com/track/5pPLXjXbpcRH5DNdWrnTo9"
     },
     {
       "added_at": "2022-01-05 09:24:56",
@@ -767,18 +767,18 @@
     {
       "added_at": "2022-01-05 09:24:56",
       "album": {
-        "name": "A Weird Kinda Wonderful",
-        "url": "https://open.spotify.com/album/0ZWWYHFwzCUKnOMatRoBRa"
+        "name": "Run Home Slow",
+        "url": "https://open.spotify.com/album/1kAEI20bjSPsByL6LNIyCT"
       },
       "artists": [
         {
-          "name": "N'Dambi",
-          "url": "https://open.spotify.com/artist/3Qq0yiyJZJu8L2PS5zpFVX"
+          "name": "The Teskey Brothers",
+          "url": "https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh"
         }
       ],
-      "duration_ms": 311453,
-      "name": "Can't Change Me",
-      "url": "https://open.spotify.com/track/5pPLXjXbpcRH5DNdWrnTo9"
+      "duration_ms": 187973,
+      "name": "Hold Me",
+      "url": "https://open.spotify.com/track/4QlhhWO6nq5BzSpfU4nJs0"
     },
     {
       "added_at": "2022-01-05 09:24:56",
@@ -795,6 +795,38 @@
       "duration_ms": 220613,
       "name": "These Eyes",
       "url": "https://open.spotify.com/track/03IhqVajoXFTIuqRu4w1B7"
+    },
+    {
+      "added_at": "2022-01-05 09:24:56",
+      "album": {
+        "name": "Sea of Noise",
+        "url": "https://open.spotify.com/album/2fRc3TJSXKXGFdnmcm17p2"
+      },
+      "artists": [
+        {
+          "name": "St. Paul & The Broken Bones",
+          "url": "https://open.spotify.com/artist/4fXkvh05wFhuH77MfD4m9o"
+        }
+      ],
+      "duration_ms": 209440,
+      "name": "All I Ever Wonder",
+      "url": "https://open.spotify.com/track/6kUfA51KpIMGdKYrzWLkbn"
+    },
+    {
+      "added_at": "2022-01-05 09:24:56",
+      "album": {
+        "name": "The SunRoom",
+        "url": "https://open.spotify.com/album/3XR4GTqZQ1eiVULjHQd38N"
+      },
+      "artists": [
+        {
+          "name": "Avery*Sunshine",
+          "url": "https://open.spotify.com/artist/4yMxdaUoKCalQPX9BMeeFf"
+        }
+      ],
+      "duration_ms": 271794,
+      "name": "Call My Name",
+      "url": "https://open.spotify.com/track/2KuATlpFox2DKUkRxViBH3"
     },
     {
       "added_at": "2022-01-05 09:24:56",
@@ -831,38 +863,6 @@
     {
       "added_at": "2022-01-05 09:24:56",
       "album": {
-        "name": "The SunRoom",
-        "url": "https://open.spotify.com/album/3XR4GTqZQ1eiVULjHQd38N"
-      },
-      "artists": [
-        {
-          "name": "Avery*Sunshine",
-          "url": "https://open.spotify.com/artist/4yMxdaUoKCalQPX9BMeeFf"
-        }
-      ],
-      "duration_ms": 271794,
-      "name": "Call My Name",
-      "url": "https://open.spotify.com/track/2KuATlpFox2DKUkRxViBH3"
-    },
-    {
-      "added_at": "2022-01-05 09:24:56",
-      "album": {
-        "name": "Sea of Noise",
-        "url": "https://open.spotify.com/album/2fRc3TJSXKXGFdnmcm17p2"
-      },
-      "artists": [
-        {
-          "name": "St. Paul & The Broken Bones",
-          "url": "https://open.spotify.com/artist/4fXkvh05wFhuH77MfD4m9o"
-        }
-      ],
-      "duration_ms": 209440,
-      "name": "All I Ever Wonder",
-      "url": "https://open.spotify.com/track/6kUfA51KpIMGdKYrzWLkbn"
-    },
-    {
-      "added_at": "2022-01-05 09:24:56",
-      "album": {
         "name": "New Magic",
         "url": "https://open.spotify.com/album/6wYeJwJU9Y4fuLQVfGyJk9"
       },
@@ -875,22 +875,6 @@
       "duration_ms": 213192,
       "name": "Blue Magic (Waikiki)",
       "url": "https://open.spotify.com/track/3auSQjs9kylJwN0aU7S5Qc"
-    },
-    {
-      "added_at": "2022-01-05 09:24:56",
-      "album": {
-        "name": "L.A.B",
-        "url": "https://open.spotify.com/album/0bAw54Ih5LQ7SmC7uJ0IUv"
-      },
-      "artists": [
-        {
-          "name": "L.A.B.",
-          "url": "https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC"
-        }
-      ],
-      "duration_ms": 280600,
-      "name": "Ain't No Use",
-      "url": "https://open.spotify.com/track/1k8AAfl7Eylt2alxE2qWAN"
     },
     {
       "added_at": "2022-01-05 09:24:56",
@@ -927,6 +911,22 @@
     {
       "added_at": "2022-01-05 09:24:56",
       "album": {
+        "name": "L.A.B",
+        "url": "https://open.spotify.com/album/0bAw54Ih5LQ7SmC7uJ0IUv"
+      },
+      "artists": [
+        {
+          "name": "L.A.B.",
+          "url": "https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC"
+        }
+      ],
+      "duration_ms": 258200,
+      "name": "Starry Eyes",
+      "url": "https://open.spotify.com/track/2eWG4GJSLwpDaRkOu2xatT"
+    },
+    {
+      "added_at": "2022-01-05 09:24:56",
+      "album": {
         "name": "Emma Jean",
         "url": "https://open.spotify.com/album/3u38Zm1pGlCrGZSsUk2396"
       },
@@ -947,6 +947,22 @@
     {
       "added_at": "2022-01-05 09:24:56",
       "album": {
+        "name": "Run Home Slow",
+        "url": "https://open.spotify.com/album/1kAEI20bjSPsByL6LNIyCT"
+      },
+      "artists": [
+        {
+          "name": "The Teskey Brothers",
+          "url": "https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh"
+        }
+      ],
+      "duration_ms": 249693,
+      "name": "Man of the Universe",
+      "url": "https://open.spotify.com/track/5LOqxE3oEe3tPTbIs6ytWM"
+    },
+    {
+      "added_at": "2022-01-05 09:24:56",
+      "album": {
         "name": "Addiction",
         "url": "https://open.spotify.com/album/0l3NCq2SpDb7JGBS92WRd5"
       },
@@ -959,22 +975,6 @@
       "duration_ms": 247560,
       "name": "Oh No (Man)",
       "url": "https://open.spotify.com/track/4Sb5YjpeDNMzEMFNfZTZuj"
-    },
-    {
-      "added_at": "2022-01-05 09:24:56",
-      "album": {
-        "name": "Make the Road By Walking",
-        "url": "https://open.spotify.com/album/6wdxaAC6P7f6w05QadHFcB"
-      },
-      "artists": [
-        {
-          "name": "Menahan Street Band",
-          "url": "https://open.spotify.com/artist/1PryMSya1JnSAlcwYawCxp"
-        }
-      ],
-      "duration_ms": 198786,
-      "name": "Montego Sunset",
-      "url": "https://open.spotify.com/track/0fsD8umgWm5PxXKY3h741i"
     },
     {
       "added_at": "2022-01-05 09:24:56",
@@ -995,18 +995,18 @@
     {
       "added_at": "2022-01-05 09:24:56",
       "album": {
-        "name": "A Love Story",
-        "url": "https://open.spotify.com/album/2M5NsF6DS8Uemk6WcMewV4"
+        "name": "Make the Road By Walking",
+        "url": "https://open.spotify.com/album/6wdxaAC6P7f6w05QadHFcB"
       },
       "artists": [
         {
-          "name": "Vivian Green",
-          "url": "https://open.spotify.com/artist/3t83f2J04dRWOpNBe9GTfs"
+          "name": "Menahan Street Band",
+          "url": "https://open.spotify.com/artist/1PryMSya1JnSAlcwYawCxp"
         }
       ],
-      "duration_ms": 252826,
-      "name": "Fanatic",
-      "url": "https://open.spotify.com/track/39wzkLXh3LZypQmWATLZ7j"
+      "duration_ms": 198786,
+      "name": "Montego Sunset",
+      "url": "https://open.spotify.com/track/0fsD8umgWm5PxXKY3h741i"
     },
     {
       "added_at": "2022-01-05 09:24:56",
@@ -1027,34 +1027,18 @@
     {
       "added_at": "2022-01-05 09:24:56",
       "album": {
-        "name": "L.A.B",
-        "url": "https://open.spotify.com/album/0bAw54Ih5LQ7SmC7uJ0IUv"
+        "name": "A Love Story",
+        "url": "https://open.spotify.com/album/2M5NsF6DS8Uemk6WcMewV4"
       },
       "artists": [
         {
-          "name": "L.A.B.",
-          "url": "https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC"
+          "name": "Vivian Green",
+          "url": "https://open.spotify.com/artist/3t83f2J04dRWOpNBe9GTfs"
         }
       ],
-      "duration_ms": 258200,
-      "name": "Starry Eyes",
-      "url": "https://open.spotify.com/track/2eWG4GJSLwpDaRkOu2xatT"
-    },
-    {
-      "added_at": "2022-01-05 09:24:56",
-      "album": {
-        "name": "Powerhouse",
-        "url": "https://open.spotify.com/album/7jge7It8TJ7XVSjcKFRFfE"
-      },
-      "artists": [
-        {
-          "name": "Jeff Floyd",
-          "url": "https://open.spotify.com/artist/4daynj4qj7K17EbBzEhtDe"
-        }
-      ],
-      "duration_ms": 453533,
-      "name": "I Found Love (On A Lonely Highway)",
-      "url": "https://open.spotify.com/track/0k7kfdefyPCDVHtHzgaq6t"
+      "duration_ms": 252826,
+      "name": "Fanatic",
+      "url": "https://open.spotify.com/track/39wzkLXh3LZypQmWATLZ7j"
     },
     {
       "added_at": "2022-01-05 09:24:56",
@@ -1071,6 +1055,22 @@
       "duration_ms": 286960,
       "name": "True",
       "url": "https://open.spotify.com/track/12Coc139hXMlwp2CinTQ2N"
+    },
+    {
+      "added_at": "2022-01-05 09:24:56",
+      "album": {
+        "name": "Powerhouse",
+        "url": "https://open.spotify.com/album/7jge7It8TJ7XVSjcKFRFfE"
+      },
+      "artists": [
+        {
+          "name": "Jeff Floyd",
+          "url": "https://open.spotify.com/artist/4daynj4qj7K17EbBzEhtDe"
+        }
+      ],
+      "duration_ms": 453533,
+      "name": "I Found Love (On A Lonely Highway)",
+      "url": "https://open.spotify.com/track/0k7kfdefyPCDVHtHzgaq6t"
     },
     {
       "added_at": "2022-01-05 09:24:56",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2022-01-05 09:24:56",
       "album": {
-        "name": "A Love Story",
-        "url": "https://open.spotify.com/album/2M5NsF6DS8Uemk6WcMewV4"
-      },
-      "artists": [
-        {
-          "name": "Vivian Green",
-          "url": "https://open.spotify.com/artist/3t83f2J04dRWOpNBe9GTfs"
-        }
-      ],
-      "duration_ms": 244840,
-      "name": "Wishful Thinking",
-      "url": "https://open.spotify.com/track/0edULMXqdv4qV7CcJ6Obvd"
-    },
-    {
-      "added_at": "2022-01-05 09:24:56",
-      "album": {
         "name": "Bruce Billups Southern Soul Mix (Re-Loaded)",
         "url": "https://open.spotify.com/album/6zT1CYxdMjosZQwBGGpEoD"
       },
@@ -1155,18 +1139,18 @@
     {
       "added_at": "2022-01-05 09:24:56",
       "album": {
-        "name": "Pink Elephant",
-        "url": "https://open.spotify.com/album/37yEdQQfpnEDpFHmCRj1AA"
+        "name": "A Love Story",
+        "url": "https://open.spotify.com/album/2M5NsF6DS8Uemk6WcMewV4"
       },
       "artists": [
         {
-          "name": "N'Dambi",
-          "url": "https://open.spotify.com/artist/3Qq0yiyJZJu8L2PS5zpFVX"
+          "name": "Vivian Green",
+          "url": "https://open.spotify.com/artist/3t83f2J04dRWOpNBe9GTfs"
         }
       ],
-      "duration_ms": 266386,
-      "name": "Can't Hardly Wait",
-      "url": "https://open.spotify.com/track/2rKurn6l70BBOZnkCRgkaX"
+      "duration_ms": 244840,
+      "name": "Wishful Thinking",
+      "url": "https://open.spotify.com/track/0edULMXqdv4qV7CcJ6Obvd"
     },
     {
       "added_at": "2022-01-05 09:24:56",
@@ -1185,20 +1169,20 @@
       "url": "https://open.spotify.com/track/2yTswsiLkNGzzzX54WroNS"
     },
     {
-      "added_at": "2022-04-27 13:12:05",
+      "added_at": "2022-01-05 09:24:56",
       "album": {
-        "name": "Stupid Mad Love",
-        "url": "https://open.spotify.com/album/01mhk58oxbUW8MIcNbv7MY"
+        "name": "Pink Elephant",
+        "url": "https://open.spotify.com/album/37yEdQQfpnEDpFHmCRj1AA"
       },
       "artists": [
         {
-          "name": "Jeverson",
-          "url": "https://open.spotify.com/artist/4sm6r5jbyfm1lq1ENy0SnX"
+          "name": "N'Dambi",
+          "url": "https://open.spotify.com/artist/3Qq0yiyJZJu8L2PS5zpFVX"
         }
       ],
-      "duration_ms": 213642,
-      "name": "Stupid Mad Love",
-      "url": "https://open.spotify.com/track/0EmeMBuxo7JYg6EMKMhng4"
+      "duration_ms": 266386,
+      "name": "Can't Hardly Wait",
+      "url": "https://open.spotify.com/track/2rKurn6l70BBOZnkCRgkaX"
     },
     {
       "added_at": "2022-01-05 09:24:56",
@@ -1249,20 +1233,36 @@
       "url": "https://open.spotify.com/track/7uqDPKBvbsyFigZjaS9wHn"
     },
     {
-      "added_at": "2022-01-05 09:24:56",
+      "added_at": "2022-04-27 13:12:05",
       "album": {
-        "name": "Bags & Suitcases",
-        "url": "https://open.spotify.com/album/3TwHPffWffk3jvRzgTHVWm"
+        "name": "Stupid Mad Love",
+        "url": "https://open.spotify.com/album/01mhk58oxbUW8MIcNbv7MY"
       },
       "artists": [
         {
-          "name": "Sabrina Starke",
-          "url": "https://open.spotify.com/artist/1wTUsxee6HtnB6Z6QiUCub"
+          "name": "Jeverson",
+          "url": "https://open.spotify.com/artist/4sm6r5jbyfm1lq1ENy0SnX"
         }
       ],
-      "duration_ms": 209386,
-      "name": "Sunny Days",
-      "url": "https://open.spotify.com/track/6FXis8xolZr1w66kY27zbs"
+      "duration_ms": 213642,
+      "name": "Stupid Mad Love",
+      "url": "https://open.spotify.com/track/0EmeMBuxo7JYg6EMKMhng4"
+    },
+    {
+      "added_at": "2022-01-05 09:24:56",
+      "album": {
+        "name": "Soul Power",
+        "url": "https://open.spotify.com/album/1aLiavRsS14I7FDHVTvE40"
+      },
+      "artists": [
+        {
+          "name": "Curtis Harding",
+          "url": "https://open.spotify.com/artist/0CUpzKPDfIVzYqMn47jiV3"
+        }
+      ],
+      "duration_ms": 270325,
+      "name": "Next Time",
+      "url": "https://open.spotify.com/track/3aJ0bZfRxG7WxuYfEp5GxD"
     },
     {
       "added_at": "2022-01-05 09:24:56",
@@ -1287,18 +1287,34 @@
     {
       "added_at": "2022-01-05 09:24:56",
       "album": {
-        "name": "Soul Power",
-        "url": "https://open.spotify.com/album/1aLiavRsS14I7FDHVTvE40"
+        "name": "Medicine 4 My Pain",
+        "url": "https://open.spotify.com/album/0wTxFbAFh9Ig1LgZ4axaIK"
       },
       "artists": [
         {
-          "name": "Curtis Harding",
-          "url": "https://open.spotify.com/artist/0CUpzKPDfIVzYqMn47jiV3"
+          "name": "Lynden David Hall",
+          "url": "https://open.spotify.com/artist/3fLIciFr0hJk9Mh0K6RLgQ"
         }
       ],
-      "duration_ms": 270325,
-      "name": "Next Time",
-      "url": "https://open.spotify.com/track/3aJ0bZfRxG7WxuYfEp5GxD"
+      "duration_ms": 316093,
+      "name": "There Goes My Sanity",
+      "url": "https://open.spotify.com/track/7HMe4VwDdDdGcTiKkJsamn"
+    },
+    {
+      "added_at": "2022-01-05 09:24:56",
+      "album": {
+        "name": "Bags & Suitcases",
+        "url": "https://open.spotify.com/album/3TwHPffWffk3jvRzgTHVWm"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Starke",
+          "url": "https://open.spotify.com/artist/1wTUsxee6HtnB6Z6QiUCub"
+        }
+      ],
+      "duration_ms": 209386,
+      "name": "Sunny Days",
+      "url": "https://open.spotify.com/track/6FXis8xolZr1w66kY27zbs"
     },
     {
       "added_at": "2022-04-08 07:52:50",
@@ -1315,22 +1331,6 @@
       "duration_ms": 213983,
       "name": "My Home (Love Brings Us Here)",
       "url": "https://open.spotify.com/track/425RXHH1ByViVaSslgfg0V"
-    },
-    {
-      "added_at": "2022-01-05 09:24:56",
-      "album": {
-        "name": "Soul Revolution",
-        "url": "https://open.spotify.com/album/04Jkig1VBtJLGssHJHsWDN"
-      },
-      "artists": [
-        {
-          "name": "Steffen Morrison",
-          "url": "https://open.spotify.com/artist/2KV4sKhTlyrtxaJWZTPj8r"
-        }
-      ],
-      "duration_ms": 195320,
-      "name": "Soul Revolution",
-      "url": "https://open.spotify.com/track/1Eu7WRMIg3lUhXtVAI2jCn"
     }
   ],
   "unique_name": "Soulful Day",

@@ -1,12 +1,12 @@
 {
   "description": "Late night chilled vibes, for those intimate moments.",
-  "num_followers": 335129,
+  "num_followers": 335302,
   "original_name": "Spotify & Chill",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTE1ODU1MiwwMDAwMDAwMDEzOWFhYzY1NzQzYmM5NzcyMzNjOTQ5OTk4ZjViZWMw",
+  "snapshot_id": "MTY2MTE1ODU1MiwwMDAwMDAwMGMzZjEwYWRmOTUxOTcyNjdmM2JlZDQ2YWMwZWJiMWRm",
   "tracks": [
     {
       "added_at": "2022-08-22 08:55:52",
@@ -151,46 +151,6 @@
     {
       "added_at": "2022-08-22 08:55:52",
       "album": {
-        "name": "Give Or Take",
-        "url": "https://open.spotify.com/album/64LkgCfNbLqjclQYCTid8L"
-      },
-      "artists": [
-        {
-          "name": "Giveon",
-          "url": "https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP"
-        }
-      ],
-      "duration_ms": 180953,
-      "name": "Lost Me",
-      "url": "https://open.spotify.com/track/6TSO4hwz9WGrEUY7ABGVim"
-    },
-    {
-      "added_at": "2022-08-22 08:55:52",
-      "album": {
-        "name": "Gravity (feat. Tyler, The Creator)",
-        "url": "https://open.spotify.com/album/6ymw9w3tGhxVGBskQAhsvm"
-      },
-      "artists": [
-        {
-          "name": "Brent Faiyaz",
-          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
-        },
-        {
-          "name": "DJ Dahi",
-          "url": "https://open.spotify.com/artist/5BozIJTTNCufaZpjhy2der"
-        },
-        {
-          "name": "Tyler, The Creator",
-          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
-        }
-      ],
-      "duration_ms": 214692,
-      "name": "Gravity (feat. Tyler, The Creator)",
-      "url": "https://open.spotify.com/track/6u3CPnFMKANYgfdiifFOiJ"
-    },
-    {
-      "added_at": "2022-08-22 08:55:52",
-      "album": {
         "name": "Breezy",
         "url": "https://open.spotify.com/album/5kfM4GlfOj2PdcvcRglN86"
       },
@@ -207,22 +167,6 @@
       "duration_ms": 146840,
       "name": "Call Me Every Day (feat. Wizkid)",
       "url": "https://open.spotify.com/track/1B5I5yqLpVI5EosZS6bJFs"
-    },
-    {
-      "added_at": "2022-08-22 08:55:52",
-      "album": {
-        "name": "Shameless / Dancing With The Devil",
-        "url": "https://open.spotify.com/album/0sqCZwAgWCRMFbMf0SPBgx"
-      },
-      "artists": [
-        {
-          "name": "Moko",
-          "url": "https://open.spotify.com/artist/1SNK64zmUMbnh5bVIVYARH"
-        }
-      ],
-      "duration_ms": 152884,
-      "name": "Shameless",
-      "url": "https://open.spotify.com/track/3F7wzgbp8cmewbUycgY0BI"
     },
     {
       "added_at": "2022-08-22 08:55:52",
@@ -263,6 +207,62 @@
     {
       "added_at": "2022-08-22 08:55:52",
       "album": {
+        "name": "Shameless / Dancing With The Devil",
+        "url": "https://open.spotify.com/album/0sqCZwAgWCRMFbMf0SPBgx"
+      },
+      "artists": [
+        {
+          "name": "Moko",
+          "url": "https://open.spotify.com/artist/1SNK64zmUMbnh5bVIVYARH"
+        }
+      ],
+      "duration_ms": 152884,
+      "name": "Shameless",
+      "url": "https://open.spotify.com/track/3F7wzgbp8cmewbUycgY0BI"
+    },
+    {
+      "added_at": "2022-08-22 08:55:52",
+      "album": {
+        "name": "Give Or Take",
+        "url": "https://open.spotify.com/album/64LkgCfNbLqjclQYCTid8L"
+      },
+      "artists": [
+        {
+          "name": "Giveon",
+          "url": "https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP"
+        }
+      ],
+      "duration_ms": 180953,
+      "name": "Lost Me",
+      "url": "https://open.spotify.com/track/6TSO4hwz9WGrEUY7ABGVim"
+    },
+    {
+      "added_at": "2022-08-22 08:55:52",
+      "album": {
+        "name": "Gravity (feat. Tyler, The Creator)",
+        "url": "https://open.spotify.com/album/6ymw9w3tGhxVGBskQAhsvm"
+      },
+      "artists": [
+        {
+          "name": "Brent Faiyaz",
+          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
+        },
+        {
+          "name": "DJ Dahi",
+          "url": "https://open.spotify.com/artist/5BozIJTTNCufaZpjhy2der"
+        },
+        {
+          "name": "Tyler, The Creator",
+          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+        }
+      ],
+      "duration_ms": 214692,
+      "name": "Gravity (feat. Tyler, The Creator)",
+      "url": "https://open.spotify.com/track/6u3CPnFMKANYgfdiifFOiJ"
+    },
+    {
+      "added_at": "2022-08-22 08:55:52",
+      "album": {
         "name": "Gemini Rights",
         "url": "https://open.spotify.com/album/3Ks0eeH0GWpY4AU20D5HPD"
       },
@@ -279,58 +279,6 @@
       "duration_ms": 293426,
       "name": "Sunshine (feat. Foushe\u00e9)",
       "url": "https://open.spotify.com/track/2FPmvXIMpjgzJQbUeJo8Iv"
-    },
-    {
-      "added_at": "2022-08-22 08:55:52",
-      "album": {
-        "name": "When It's All Said And Done... Take Time",
-        "url": "https://open.spotify.com/album/1otOJAtgvO5VCBL4Gykrrd"
-      },
-      "artists": [
-        {
-          "name": "Giveon",
-          "url": "https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP"
-        }
-      ],
-      "duration_ms": 127807,
-      "name": "All To Me",
-      "url": "https://open.spotify.com/track/5JycxhApZmzbA4xSwvqh6k"
-    },
-    {
-      "added_at": "2022-08-22 08:55:52",
-      "album": {
-        "name": "WASTELAND",
-        "url": "https://open.spotify.com/album/0PHMNbcgHfzSUALlfk7wGg"
-      },
-      "artists": [
-        {
-          "name": "Brent Faiyaz",
-          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
-        },
-        {
-          "name": "Alicia Keys",
-          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
-        }
-      ],
-      "duration_ms": 198005,
-      "name": "GHETTO GATSBY (FEAT. ALICIA KEYS)",
-      "url": "https://open.spotify.com/track/2krESug6AyfOL07tlaGwts"
-    },
-    {
-      "added_at": "2022-08-22 08:55:52",
-      "album": {
-        "name": "Look To Him",
-        "url": "https://open.spotify.com/album/6fN3UIZmBIbLJeXymGyXS1"
-      },
-      "artists": [
-        {
-          "name": "Greentea Peng",
-          "url": "https://open.spotify.com/artist/5z9wLR0RGBcWMXr4fCZW0K"
-        }
-      ],
-      "duration_ms": 251533,
-      "name": "Look To Him",
-      "url": "https://open.spotify.com/track/3FD9RZf2KvposxCLtu0joU"
     },
     {
       "added_at": "2022-08-22 08:55:52",
@@ -367,24 +315,24 @@
     {
       "added_at": "2022-08-22 08:55:52",
       "album": {
-        "name": "blue",
-        "url": "https://open.spotify.com/album/3GsV8bdcTiMKRlrRlnnHvo"
+        "name": "Look To Him",
+        "url": "https://open.spotify.com/album/6fN3UIZmBIbLJeXymGyXS1"
       },
       "artists": [
         {
-          "name": "Kamal.",
-          "url": "https://open.spotify.com/artist/2gIHyzlzKxntjQWf8xAGaI"
+          "name": "Greentea Peng",
+          "url": "https://open.spotify.com/artist/5z9wLR0RGBcWMXr4fCZW0K"
         }
       ],
-      "duration_ms": 184500,
-      "name": "blue",
-      "url": "https://open.spotify.com/track/7pt64sepCy5QmDrgy9wOJS"
+      "duration_ms": 251533,
+      "name": "Look To Him",
+      "url": "https://open.spotify.com/track/3FD9RZf2KvposxCLtu0joU"
     },
     {
       "added_at": "2022-08-22 08:55:52",
       "album": {
-        "name": "Give Or Take",
-        "url": "https://open.spotify.com/album/64LkgCfNbLqjclQYCTid8L"
+        "name": "When It's All Said And Done... Take Time",
+        "url": "https://open.spotify.com/album/1otOJAtgvO5VCBL4Gykrrd"
       },
       "artists": [
         {
@@ -392,9 +340,9 @@
           "url": "https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP"
         }
       ],
-      "duration_ms": 170653,
-      "name": "Tryna Be",
-      "url": "https://open.spotify.com/track/0h1ednFFd4xK5SCO8mXNOe"
+      "duration_ms": 127807,
+      "name": "All To Me",
+      "url": "https://open.spotify.com/track/5JycxhApZmzbA4xSwvqh6k"
     },
     {
       "added_at": "2022-08-22 08:55:52",
@@ -415,18 +363,38 @@
     {
       "added_at": "2022-08-22 08:55:52",
       "album": {
-        "name": "This Side",
-        "url": "https://open.spotify.com/album/5Vze5kztj3LK8OPzXUswf2"
+        "name": "WASTELAND",
+        "url": "https://open.spotify.com/album/0PHMNbcgHfzSUALlfk7wGg"
       },
       "artists": [
         {
-          "name": "Miles from Kinshasa",
-          "url": "https://open.spotify.com/artist/6ZWpMqNWzoiiQScsuzeBaE"
+          "name": "Brent Faiyaz",
+          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
+        },
+        {
+          "name": "Alicia Keys",
+          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
         }
       ],
-      "duration_ms": 181276,
-      "name": "This Side",
-      "url": "https://open.spotify.com/track/6XPG4Gk25Ml6QWWQw6axxC"
+      "duration_ms": 198005,
+      "name": "GHETTO GATSBY (FEAT. ALICIA KEYS)",
+      "url": "https://open.spotify.com/track/2krESug6AyfOL07tlaGwts"
+    },
+    {
+      "added_at": "2022-08-22 08:55:52",
+      "album": {
+        "name": "blue",
+        "url": "https://open.spotify.com/album/3GsV8bdcTiMKRlrRlnnHvo"
+      },
+      "artists": [
+        {
+          "name": "Kamal.",
+          "url": "https://open.spotify.com/artist/2gIHyzlzKxntjQWf8xAGaI"
+        }
+      ],
+      "duration_ms": 184500,
+      "name": "blue",
+      "url": "https://open.spotify.com/track/7pt64sepCy5QmDrgy9wOJS"
     },
     {
       "added_at": "2022-08-22 08:55:52",
@@ -447,54 +415,34 @@
     {
       "added_at": "2022-08-22 08:55:52",
       "album": {
-        "name": "just a boy",
-        "url": "https://open.spotify.com/album/6C2WtjbTyOmdMq7E8uTXcg"
+        "name": "This Side",
+        "url": "https://open.spotify.com/album/5Vze5kztj3LK8OPzXUswf2"
       },
       "artists": [
         {
-          "name": "Alaina Castillo",
-          "url": "https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp"
+          "name": "Miles from Kinshasa",
+          "url": "https://open.spotify.com/artist/6ZWpMqNWzoiiQScsuzeBaE"
         }
       ],
-      "duration_ms": 185681,
-      "name": "just a boy",
-      "url": "https://open.spotify.com/track/2fAeROYFSbWdvML6rbnCar"
+      "duration_ms": 181276,
+      "name": "This Side",
+      "url": "https://open.spotify.com/track/6XPG4Gk25Ml6QWWQw6axxC"
     },
     {
       "added_at": "2022-08-22 08:55:52",
       "album": {
-        "name": "Want U Around (feat. Ruel)",
-        "url": "https://open.spotify.com/album/5UKxiuiDgmjI35ZKYbAUPx"
+        "name": "Give Or Take",
+        "url": "https://open.spotify.com/album/64LkgCfNbLqjclQYCTid8L"
       },
       "artists": [
         {
-          "name": "Omar Apollo",
-          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
-        },
-        {
-          "name": "Ruel",
-          "url": "https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn"
+          "name": "Giveon",
+          "url": "https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP"
         }
       ],
-      "duration_ms": 247720,
-      "name": "Want U Around (feat. Ruel)",
-      "url": "https://open.spotify.com/track/5vprsDWNcHMEMH95sbJkH2"
-    },
-    {
-      "added_at": "2022-08-22 08:55:52",
-      "album": {
-        "name": "Hu Man",
-        "url": "https://open.spotify.com/album/1weDKnsUBvJMN9sdlaqC2W"
-      },
-      "artists": [
-        {
-          "name": "Greentea Peng",
-          "url": "https://open.spotify.com/artist/5z9wLR0RGBcWMXr4fCZW0K"
-        }
-      ],
-      "duration_ms": 203240,
-      "name": "Hu Man",
-      "url": "https://open.spotify.com/track/2ZfVt2skRwfEq1Wb3D7GmP"
+      "duration_ms": 170653,
+      "name": "Tryna Be",
+      "url": "https://open.spotify.com/track/0h1ednFFd4xK5SCO8mXNOe"
     },
     {
       "added_at": "2022-08-22 08:55:52",
@@ -519,6 +467,58 @@
     {
       "added_at": "2022-08-22 08:55:52",
       "album": {
+        "name": "just a boy",
+        "url": "https://open.spotify.com/album/6C2WtjbTyOmdMq7E8uTXcg"
+      },
+      "artists": [
+        {
+          "name": "Alaina Castillo",
+          "url": "https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp"
+        }
+      ],
+      "duration_ms": 185681,
+      "name": "just a boy",
+      "url": "https://open.spotify.com/track/2fAeROYFSbWdvML6rbnCar"
+    },
+    {
+      "added_at": "2022-08-22 08:55:52",
+      "album": {
+        "name": "Hu Man",
+        "url": "https://open.spotify.com/album/1weDKnsUBvJMN9sdlaqC2W"
+      },
+      "artists": [
+        {
+          "name": "Greentea Peng",
+          "url": "https://open.spotify.com/artist/5z9wLR0RGBcWMXr4fCZW0K"
+        }
+      ],
+      "duration_ms": 203240,
+      "name": "Hu Man",
+      "url": "https://open.spotify.com/track/2ZfVt2skRwfEq1Wb3D7GmP"
+    },
+    {
+      "added_at": "2022-08-22 08:55:52",
+      "album": {
+        "name": "Want U Around (feat. Ruel)",
+        "url": "https://open.spotify.com/album/5UKxiuiDgmjI35ZKYbAUPx"
+      },
+      "artists": [
+        {
+          "name": "Omar Apollo",
+          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
+        },
+        {
+          "name": "Ruel",
+          "url": "https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn"
+        }
+      ],
+      "duration_ms": 247720,
+      "name": "Want U Around (feat. Ruel)",
+      "url": "https://open.spotify.com/track/5vprsDWNcHMEMH95sbJkH2"
+    },
+    {
+      "added_at": "2022-08-22 08:55:52",
+      "album": {
         "name": "Be Right Back",
         "url": "https://open.spotify.com/album/7MbcxleVqx5qeZgXdw5FAi"
       },
@@ -535,18 +535,18 @@
     {
       "added_at": "2022-08-22 08:55:52",
       "album": {
-        "name": "Come Around EP",
-        "url": "https://open.spotify.com/album/4VQebFp9TEuKOaCu5lUUrC"
+        "name": "Morning Matters",
+        "url": "https://open.spotify.com/album/3VEmUbg3oFmZ2Bfn7b5bit"
       },
       "artists": [
         {
-          "name": "Jordan Mackampa",
-          "url": "https://open.spotify.com/artist/24WPEGLYPvEsmk4GSDFyST"
+          "name": "Yazmin Lacey",
+          "url": "https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg"
         }
       ],
-      "duration_ms": 228473,
-      "name": "Alibi",
-      "url": "https://open.spotify.com/track/7A9aASmJF3GtnBBri3Km23"
+      "duration_ms": 246800,
+      "name": "Morning Matters",
+      "url": "https://open.spotify.com/track/1EeS8SQ0BAhNrLVLCNrxrj"
     },
     {
       "added_at": "2022-08-22 08:55:52",
@@ -599,18 +599,18 @@
     {
       "added_at": "2022-08-22 08:55:52",
       "album": {
-        "name": "Somewhere In-Between",
-        "url": "https://open.spotify.com/album/6rV900qbJeP9I3QwrZMfsO"
+        "name": "Come Around EP",
+        "url": "https://open.spotify.com/album/4VQebFp9TEuKOaCu5lUUrC"
       },
       "artists": [
         {
-          "name": "Eloise",
-          "url": "https://open.spotify.com/artist/7LlIWfvgWlDBXfxCvCFbuC"
+          "name": "Jordan Mackampa",
+          "url": "https://open.spotify.com/artist/24WPEGLYPvEsmk4GSDFyST"
         }
       ],
-      "duration_ms": 161880,
-      "name": "Intertwined",
-      "url": "https://open.spotify.com/track/0P7GCKyCEugSVtpLOTl7v1"
+      "duration_ms": 228473,
+      "name": "Alibi",
+      "url": "https://open.spotify.com/track/7A9aASmJF3GtnBBri3Km23"
     },
     {
       "added_at": "2022-08-22 08:55:52",
@@ -627,70 +627,6 @@
       "duration_ms": 251132,
       "name": "Show U Off",
       "url": "https://open.spotify.com/track/00selpxxljfn9n5Pf4K3VR"
-    },
-    {
-      "added_at": "2022-08-22 08:55:52",
-      "album": {
-        "name": "Cigarettes & Alcohol",
-        "url": "https://open.spotify.com/album/5MLIpA3CQXoXukgGckiYdT"
-      },
-      "artists": [
-        {
-          "name": "Santino Le Saint",
-          "url": "https://open.spotify.com/artist/49WBtnIs3VA1tHR7jQG1F6"
-        }
-      ],
-      "duration_ms": 184090,
-      "name": "Cigarettes & Alcohol",
-      "url": "https://open.spotify.com/track/2A6vQ5l3fb9U1Ad7nKHUV0"
-    },
-    {
-      "added_at": "2022-08-22 08:55:52",
-      "album": {
-        "name": "By Any Means",
-        "url": "https://open.spotify.com/album/5KGU6dXP8K978diRu0eetZ"
-      },
-      "artists": [
-        {
-          "name": "Jorja Smith",
-          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
-        }
-      ],
-      "duration_ms": 225631,
-      "name": "By Any Means",
-      "url": "https://open.spotify.com/track/2UWnZrXLXIyfMgNvJr2KUa"
-    },
-    {
-      "added_at": "2022-08-22 08:55:52",
-      "album": {
-        "name": "My Own Person",
-        "url": "https://open.spotify.com/album/04D3qjBVzStR7FNHXFK373"
-      },
-      "artists": [
-        {
-          "name": "Ezra Williams",
-          "url": "https://open.spotify.com/artist/0vNuaHjk7DINrw3iRkYs48"
-        }
-      ],
-      "duration_ms": 264873,
-      "name": "My Own Person",
-      "url": "https://open.spotify.com/track/0o0BtyLhvu05czmflES2tH"
-    },
-    {
-      "added_at": "2022-08-22 08:55:52",
-      "album": {
-        "name": "Morning Matters",
-        "url": "https://open.spotify.com/album/3VEmUbg3oFmZ2Bfn7b5bit"
-      },
-      "artists": [
-        {
-          "name": "Yazmin Lacey",
-          "url": "https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg"
-        }
-      ],
-      "duration_ms": 246800,
-      "name": "Morning Matters",
-      "url": "https://open.spotify.com/track/1EeS8SQ0BAhNrLVLCNrxrj"
     },
     {
       "added_at": "2022-08-22 08:55:52",
@@ -715,6 +651,54 @@
     {
       "added_at": "2022-08-22 08:55:52",
       "album": {
+        "name": "By Any Means",
+        "url": "https://open.spotify.com/album/5KGU6dXP8K978diRu0eetZ"
+      },
+      "artists": [
+        {
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+        }
+      ],
+      "duration_ms": 225631,
+      "name": "By Any Means",
+      "url": "https://open.spotify.com/track/2UWnZrXLXIyfMgNvJr2KUa"
+    },
+    {
+      "added_at": "2022-08-22 08:55:52",
+      "album": {
+        "name": "Cigarettes & Alcohol",
+        "url": "https://open.spotify.com/album/5MLIpA3CQXoXukgGckiYdT"
+      },
+      "artists": [
+        {
+          "name": "Santino Le Saint",
+          "url": "https://open.spotify.com/artist/49WBtnIs3VA1tHR7jQG1F6"
+        }
+      ],
+      "duration_ms": 184090,
+      "name": "Cigarettes & Alcohol",
+      "url": "https://open.spotify.com/track/2A6vQ5l3fb9U1Ad7nKHUV0"
+    },
+    {
+      "added_at": "2022-08-22 08:55:52",
+      "album": {
+        "name": "My Own Person",
+        "url": "https://open.spotify.com/album/04D3qjBVzStR7FNHXFK373"
+      },
+      "artists": [
+        {
+          "name": "Ezra Williams",
+          "url": "https://open.spotify.com/artist/0vNuaHjk7DINrw3iRkYs48"
+        }
+      ],
+      "duration_ms": 264873,
+      "name": "My Own Person",
+      "url": "https://open.spotify.com/track/0o0BtyLhvu05czmflES2tH"
+    },
+    {
+      "added_at": "2022-08-22 08:55:52",
+      "album": {
         "name": "homebody",
         "url": "https://open.spotify.com/album/5sgzeY6Z2rZchiVFO1H80f"
       },
@@ -727,22 +711,6 @@
       "duration_ms": 189000,
       "name": "homebody",
       "url": "https://open.spotify.com/track/3I3ZmlSouhOYDHGWn3w0CW"
-    },
-    {
-      "added_at": "2022-08-22 08:55:52",
-      "album": {
-        "name": "Lost In June - EP",
-        "url": "https://open.spotify.com/album/1n2Qha9Jrppqk5FXnWxWSX"
-      },
-      "artists": [
-        {
-          "name": "Pip Millett",
-          "url": "https://open.spotify.com/artist/1QfEfvB62EEl4upf2ANKkR"
-        }
-      ],
-      "duration_ms": 239767,
-      "name": "Heavenly Mother",
-      "url": "https://open.spotify.com/track/328rLNs6WQPOlFSPpIUy7E"
     },
     {
       "added_at": "2022-08-22 08:55:52",
@@ -763,54 +731,18 @@
     {
       "added_at": "2022-08-22 08:55:52",
       "album": {
-        "name": "Be Right Back",
-        "url": "https://open.spotify.com/album/7MbcxleVqx5qeZgXdw5FAi"
+        "name": "Lost In June - EP",
+        "url": "https://open.spotify.com/album/1n2Qha9Jrppqk5FXnWxWSX"
       },
       "artists": [
         {
-          "name": "Jorja Smith",
-          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
-        },
-        {
-          "name": "Shaybo",
-          "url": "https://open.spotify.com/artist/5QdfW7A9eh0XjCyg9XAZpy"
+          "name": "Pip Millett",
+          "url": "https://open.spotify.com/artist/1QfEfvB62EEl4upf2ANKkR"
         }
       ],
-      "duration_ms": 201942,
-      "name": "Bussdown (feat. Shaybo)",
-      "url": "https://open.spotify.com/track/2gP19KH3V5JlR5MycAIL3R"
-    },
-    {
-      "added_at": "2022-08-22 08:55:52",
-      "album": {
-        "name": "in defense of my own happiness",
-        "url": "https://open.spotify.com/album/3dzxXQLyHYrhKYWcKrnFAZ"
-      },
-      "artists": [
-        {
-          "name": "Joy Oladokun",
-          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
-        }
-      ],
-      "duration_ms": 186760,
-      "name": "if you got a problem",
-      "url": "https://open.spotify.com/track/1wk5QI8DKu2iwDGpMfUSss"
-    },
-    {
-      "added_at": "2022-08-22 08:55:52",
-      "album": {
-        "name": "Flipside",
-        "url": "https://open.spotify.com/album/2c0TD1qSLFsAhKoAXb7qZd"
-      },
-      "artists": [
-        {
-          "name": "Tamera",
-          "url": "https://open.spotify.com/artist/4S68J6bchvHhqHO1Kp8W9X"
-        }
-      ],
-      "duration_ms": 191453,
-      "name": "Flipside",
-      "url": "https://open.spotify.com/track/6PBVyALVJlwRK97115oiED"
+      "duration_ms": 239767,
+      "name": "Heavenly Mother",
+      "url": "https://open.spotify.com/track/328rLNs6WQPOlFSPpIUy7E"
     },
     {
       "added_at": "2022-08-22 08:55:52",
@@ -827,6 +759,26 @@
       "duration_ms": 165009,
       "name": "Everybody Business",
       "url": "https://open.spotify.com/track/6TrdeNEgbKuBqIToRfdWMY"
+    },
+    {
+      "added_at": "2022-08-22 08:55:52",
+      "album": {
+        "name": "Everything",
+        "url": "https://open.spotify.com/album/7H2TlAwM0GMWeZbT3XGI0F"
+      },
+      "artists": [
+        {
+          "name": "Gotts Street Park",
+          "url": "https://open.spotify.com/artist/2hwy5DELim1AxB1sHPqn4y"
+        },
+        {
+          "name": "Rosie Lowe",
+          "url": "https://open.spotify.com/artist/3xGUleMP0VqmYNXcGBNhnI"
+        }
+      ],
+      "duration_ms": 215573,
+      "name": "Everything",
+      "url": "https://open.spotify.com/track/3ELZG2YLGrwCVesooFyF4e"
     },
     {
       "added_at": "2022-08-22 08:55:52",
@@ -851,6 +803,42 @@
     {
       "added_at": "2022-08-22 08:55:52",
       "album": {
+        "name": "in defense of my own happiness",
+        "url": "https://open.spotify.com/album/3dzxXQLyHYrhKYWcKrnFAZ"
+      },
+      "artists": [
+        {
+          "name": "Joy Oladokun",
+          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
+        }
+      ],
+      "duration_ms": 186760,
+      "name": "if you got a problem",
+      "url": "https://open.spotify.com/track/1wk5QI8DKu2iwDGpMfUSss"
+    },
+    {
+      "added_at": "2022-08-22 08:55:52",
+      "album": {
+        "name": "Be Right Back",
+        "url": "https://open.spotify.com/album/7MbcxleVqx5qeZgXdw5FAi"
+      },
+      "artists": [
+        {
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+        },
+        {
+          "name": "Shaybo",
+          "url": "https://open.spotify.com/artist/5QdfW7A9eh0XjCyg9XAZpy"
+        }
+      ],
+      "duration_ms": 201942,
+      "name": "Bussdown (feat. Shaybo)",
+      "url": "https://open.spotify.com/track/2gP19KH3V5JlR5MycAIL3R"
+    },
+    {
+      "added_at": "2022-08-22 08:55:52",
+      "album": {
         "name": "Isolation Tapes",
         "url": "https://open.spotify.com/album/3DB2RnzDwpcwQdXij6vLWI"
       },
@@ -863,6 +851,22 @@
       "duration_ms": 199533,
       "name": "Plastic Plants",
       "url": "https://open.spotify.com/track/68OnIh4v10tWxZYJTsHJWX"
+    },
+    {
+      "added_at": "2022-08-22 08:55:52",
+      "album": {
+        "name": "Wickedest",
+        "url": "https://open.spotify.com/album/5tnnQsnZmgGqIbTQH6MqLy"
+      },
+      "artists": [
+        {
+          "name": "Tamera",
+          "url": "https://open.spotify.com/artist/4S68J6bchvHhqHO1Kp8W9X"
+        }
+      ],
+      "duration_ms": 192880,
+      "name": "Wickedest",
+      "url": "https://open.spotify.com/track/0IbJBhAkIFqTHoYjWYxpzZ"
     }
   ],
   "unique_name": "Spotify & Chill",

@@ -254,6 +254,24 @@
     },
     {
       "album": {
+        "name": "The Platinum Collection (Greatest Hits I II & III - 2011 Remaster)",
+        "url": "https://open.spotify.com/album/60Yx1xATvlWpAMzsBMMTSE"
+      },
+      "artists": [
+        {
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        }
+      ],
+      "date_added": "2022-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249000,
+      "name": "Breakthru - Remastered 2011",
+      "url": "https://open.spotify.com/track/7kWFbgUpy1UvEQVhJA7GsK"
+    },
+    {
+      "album": {
         "name": "Celebrity Skin",
         "url": "https://open.spotify.com/album/2KE8WCHtD8qnAxXeIzNEId"
       },
@@ -1331,6 +1349,24 @@
       "duration_ms": 356066,
       "name": "Sweet Child O' Mine",
       "url": "https://open.spotify.com/track/50qma2LfxTfAILyNlZEnpP"
+    },
+    {
+      "album": {
+        "name": "The Miracle",
+        "url": "https://open.spotify.com/album/1v5l2sZRE5Rweew5PoNFP9"
+      },
+      "artists": [
+        {
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        }
+      ],
+      "date_added": "2022-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235973,
+      "name": "The Invisible Man",
+      "url": "https://open.spotify.com/track/0kf46oObVRf3L51fHIojEm"
     },
     {
       "album": {

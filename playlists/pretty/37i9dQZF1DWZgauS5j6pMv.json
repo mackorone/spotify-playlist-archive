@@ -1,12 +1,12 @@
 {
   "description": "The best of today's funk. Cover: Louis Cole",
-  "num_followers": 274528,
+  "num_followers": 275413,
   "original_name": "Nu-Funk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDUxMDQ2MCwwMDAwMDAwMDk4MmYzNTE4NDgyZTRiMzVmNmYxOGY3MWY2YjlhMTk2",
+  "snapshot_id": "MTY2NTExNTI2MCwwMDAwMDAwMDYzY2I5MDVmYjViNjMzZjA5ZWNkMTc4MTNhNTk5OGUx",
   "tracks": [
     {
       "added_at": "2022-09-30 04:01:00",
@@ -45,6 +45,22 @@
       "url": "https://open.spotify.com/track/3UmA9fMJcr6H8gJSKneZ1U"
     },
     {
+      "added_at": "2022-10-07 04:01:00",
+      "album": {
+        "name": "YeahYeahYeah",
+        "url": "https://open.spotify.com/album/3Js1lqJTK5j3fZaZGOixPU"
+      },
+      "artists": [
+        {
+          "name": "Candy Dulfer",
+          "url": "https://open.spotify.com/artist/287jMoxHzjERgHI6ja8TKa"
+        }
+      ],
+      "duration_ms": 317173,
+      "name": "YeahYeahYeah",
+      "url": "https://open.spotify.com/track/7vipNil0y3l3idt9cM3ehi"
+    },
+    {
       "added_at": "2022-09-23 04:00:00",
       "album": {
         "name": "Seventeen",
@@ -79,6 +95,26 @@
       "duration_ms": 198000,
       "name": "I Ain't Perfect",
       "url": "https://open.spotify.com/track/5aFmPqvtEPF8qYOJQZJ1Er"
+    },
+    {
+      "added_at": "2022-10-07 04:01:00",
+      "album": {
+        "name": "Thousand Knives - Thundercat Remodel",
+        "url": "https://open.spotify.com/album/2QiROj647TO8FCCoKoojnA"
+      },
+      "artists": [
+        {
+          "name": "Ryuichi Sakamoto",
+          "url": "https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA"
+        },
+        {
+          "name": "Thundercat",
+          "url": "https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw"
+        }
+      ],
+      "duration_ms": 326413,
+      "name": "Thousand Knives - Thundercat Remodel",
+      "url": "https://open.spotify.com/track/3yJ57qr7LOU4cauQQwe50N"
     },
     {
       "added_at": "2022-06-24 04:02:00",
@@ -583,22 +619,6 @@
       "duration_ms": 191234,
       "name": "Lost Without You",
       "url": "https://open.spotify.com/track/1gLlfABq3yvwEq0WoNery0"
-    },
-    {
-      "added_at": "2022-04-01 04:02:00",
-      "album": {
-        "name": "The Fool",
-        "url": "https://open.spotify.com/album/5bnoKgSgUtYn8RqviCM15H"
-      },
-      "artists": [
-        {
-          "name": "Cory Henry",
-          "url": "https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s"
-        }
-      ],
-      "duration_ms": 252725,
-      "name": "The Fool",
-      "url": "https://open.spotify.com/track/6efz8T0xsDossM5PEXxEqf"
     },
     {
       "added_at": "2022-06-10 04:02:00",
@@ -1727,22 +1747,6 @@
       "duration_ms": 196801,
       "name": "Soldiers - WheelUP Remix",
       "url": "https://open.spotify.com/track/0o0ZBQhwlBi6qRI4IcDqFN"
-    },
-    {
-      "added_at": "2021-09-03 04:01:00",
-      "album": {
-        "name": "Sis. He Wasn't the One",
-        "url": "https://open.spotify.com/album/4qffm0dKWKgFOP3Wwfghq1"
-      },
-      "artists": [
-        {
-          "name": "KIRBY",
-          "url": "https://open.spotify.com/artist/5lcDGoJUr5WY5bCFAfYbCU"
-        }
-      ],
-      "duration_ms": 121731,
-      "name": "Coconut Oil",
-      "url": "https://open.spotify.com/track/54C1z2GOnf08ZCykqMBiYc"
     },
     {
       "added_at": "2021-07-02 04:01:00",

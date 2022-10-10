@@ -4,11 +4,12 @@
 
 > The hottest alternative music from Nairobi to Dar!
 
-129 songs - 6 hr 50 min - [published](https://open.spotify.com/playlist/7E600XZpcoQhs1c0y9uDr3)
+130 songs - 6 hr 52 min - [published](https://open.spotify.com/playlist/7E600XZpcoQhs1c0y9uDr3)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [100 Times](https://open.spotify.com/track/2WgNtC3w0ACWDm7uQax1Hc) | [M\. Rumbi](https://open.spotify.com/artist/6ToQowXRJ5GkBPHDECCEoP), [Elani Boshoff](https://open.spotify.com/artist/5suRdrTilj7Ufg7eAwMnB9) | [Sorry](https://open.spotify.com/album/40i8dEUNnqec3hSKR9UytO) | 2:13 | 2022-03-10 |  |
+| [4 U](https://open.spotify.com/track/1sZFtAyyx16gmGz2wnp7ve) | [Ceee](https://open.spotify.com/artist/2lLAmI8Hqtx7lvD9tDSFgT) | [4 U](https://open.spotify.com/album/1MgRMCqug76YT5f3dMp4vk) | 2:15 | 2022-10-06 |  |
 | [A Seminar In Tokyo](https://open.spotify.com/track/0CFc37YTJa449oOe660cSU) | [Ondara](https://open.spotify.com/artist/33saQZHi434TBuDAXbyU2W) | [Spanish Villager No\. 3](https://open.spotify.com/album/1wTobCIdhZP6Y0pOSZK0IU) | 4:32 | 2022-09-22 |  |
 | [Alive](https://open.spotify.com/track/3a1aICYwrm7nwHfFT9Aomm) | [Lisa Oduor\-Noah](https://open.spotify.com/artist/2lzhfTv334wDq7W7tFyJHa) | [Alive](https://open.spotify.com/album/6FPn7GfYm4qUXtlnXp6gLq) | 2:34 | 2021-12-09 |  |
 | [All My Fault](https://open.spotify.com/track/7cG83GowP42UW1FOecUOe3) | [MAUIMØON](https://open.spotify.com/artist/6YrLXeCHt4gjrGx6cLCd4b), [La Soülchyld](https://open.spotify.com/artist/22kR1CajfNQ3ZmPcjKATyV), [Cxnrvd](https://open.spotify.com/artist/2hgk9A3fWriCu0wZQkUuwQ) | [All My Fault](https://open.spotify.com/album/4MVfWM1J9jPkg8dSExd4hB) | 3:06 | 2022-03-25 |  |
@@ -133,7 +134,7 @@
 | [Walk Away](https://open.spotify.com/track/6AkZmquckBmYmMh3bg4yCq) | [Mucyo](https://open.spotify.com/artist/3s38cQ7PO3JUUWYL7jasmi) | [Next Phase](https://open.spotify.com/album/6MUDZLoEXVwgZbLW30zVsE) | 3:04 | 2021-11-04 | 2022-05-06 |
 | [Weche \- Radio Edit](https://open.spotify.com/track/5FF4NmjTT0lMF2JTg8sgcM) | [Punk Mbedzi](https://open.spotify.com/artist/2QtRhwmMeDArLkKSwBHSvi), [Euggy](https://open.spotify.com/artist/0YptteJXaFS7w41fz81gsn), [Akoth Jumadi](https://open.spotify.com/artist/1yzpHN73mIqHg8uP8KnyYo) | [Weche](https://open.spotify.com/album/2ThbInwMUB3c1W6DlSkt29) | 3:37 | 2021-10-15 | 2022-04-28 |
 | [What To Expect When Expecting](https://open.spotify.com/track/3O9GGQXx5mi1ekYoCJbgXk) | [Flier](https://open.spotify.com/artist/4GG9mTTEeOa6zUYwO3YmgU) | [What To Expect When Expecting](https://open.spotify.com/album/2VkmTYOfZ1zTHQBhfK1Rbf) | 2:48 | 2022-09-08 |  |
-| [WHO’S LOVING YOU?](https://open.spotify.com/track/0ODyFLoeeVJwWhZCAzLyf1) | [Hamzaa](https://open.spotify.com/artist/3TXjnAw0sg1VVdnR9fGdBs) | [Full Circle](https://open.spotify.com/album/4PhEHRqWfgTnTwDXAVq4SN) | 2:34 | 2021-11-11 |  |
+| [WHO’S LOVING YOU?](https://open.spotify.com/track/0ODyFLoeeVJwWhZCAzLyf1) | [Hamzaa](https://open.spotify.com/artist/3TXjnAw0sg1VVdnR9fGdBs) | [Full Circle](https://open.spotify.com/album/4PhEHRqWfgTnTwDXAVq4SN) | 2:34 | 2021-11-11 | 2022-10-07 |
 | [Yearning \(Holy Waters\)](https://open.spotify.com/track/0pIjPNbkjUrhpJ3VMlSIQE) | [Mucyo](https://open.spotify.com/artist/3s38cQ7PO3JUUWYL7jasmi) | [The Waters](https://open.spotify.com/album/6sddINYuCb3Rfm6XH1WIMD) | 3:58 | 2021-10-15 | 2022-05-06 |
 | [Yesu Bambi \- Acoustic](https://open.spotify.com/track/2DfjhHcH0ZPxP2l6WKcSFu) | [Jesse10s](https://open.spotify.com/artist/6oOIGUtyWVdPoJmgOE1bGH), [Kingdmusic](https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL) | [Yesu Bambi \(Acoustic\)](https://open.spotify.com/album/1rvEvZJWpif6hAjpUHst8n) | 2:43 | 2021-10-29 | 2022-06-03 |
 | [Your Secret](https://open.spotify.com/track/3fdwsco6xvuzUjIMuxxdoY) | [Kingsley Ndegwa](https://open.spotify.com/artist/3tsG1yXbIKihK5LVPIaEz4) | [Your Secret](https://open.spotify.com/album/4iW3k6TT4RfCE6flNgbxPC) | 3:51 | 2021-10-15 | 2022-02-12 |

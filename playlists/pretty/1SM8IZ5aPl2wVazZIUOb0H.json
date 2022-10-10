@@ -6,7 +6,7 @@
     "name": "Telkin",
     "url": "https://open.spotify.com/user/5l15pz9djz62b4a6vpw5piae8"
   },
-  "snapshot_id": "NTAsMTg0M2VmZTg5NTRlMTk3MzFlZTg2N2RkNDc1MzgyYTdiMmYzNTEyNw==",
+  "snapshot_id": "NTIsMzgzYjIyMzQ1ODg1ZDY5N2Y4YjNlY2ZlYWFmNjYzYzA1YWQ0MjFkZA==",
   "tracks": [
     {
       "added_at": "2022-09-05 08:22:57",
@@ -779,6 +779,38 @@
       "duration_ms": 222106,
       "name": "Ruler of Everything",
       "url": "https://open.spotify.com/track/3vFZheR74pxUkzxqhXTZ2X"
+    },
+    {
+      "added_at": "2022-10-03 22:57:37",
+      "album": {
+        "name": "Romance Is Boring",
+        "url": "https://open.spotify.com/album/3KYRkyw2dIMm5LS3ufPtNa"
+      },
+      "artists": [
+        {
+          "name": "Los Campesinos!",
+          "url": "https://open.spotify.com/artist/6FlOCziOXI157pvUREAh3E"
+        }
+      ],
+      "duration_ms": 155853,
+      "name": "Romance Is Boring",
+      "url": "https://open.spotify.com/track/79jQsuUX9NAaVXKTXZ2DLJ"
+    },
+    {
+      "added_at": "2022-10-03 22:57:50",
+      "album": {
+        "name": "No Blues",
+        "url": "https://open.spotify.com/album/0Gl5s4REVZwJ74WEZmh7Lp"
+      },
+      "artists": [
+        {
+          "name": "Los Campesinos!",
+          "url": "https://open.spotify.com/artist/6FlOCziOXI157pvUREAh3E"
+        }
+      ],
+      "duration_ms": 276201,
+      "name": "Avocado, Baby",
+      "url": "https://open.spotify.com/track/6zcUwPk6JqBjntBY7sAAF9"
     }
   ],
   "unique_name": "Grindstone Mix v2",

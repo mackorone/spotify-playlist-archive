@@ -384,6 +384,32 @@
     },
     {
       "album": {
+        "name": "Spark Catchers",
+        "url": "https://open.spotify.com/album/1snEbQVEGGEQLylM7ndRAx"
+      },
+      "artists": [
+        {
+          "name": "Philip Herbert",
+          "url": "https://open.spotify.com/artist/5pyYvdMm2kgGydVZ1quf2U"
+        },
+        {
+          "name": "Chineke! Orchestra",
+          "url": "https://open.spotify.com/artist/7FKUsKktgY7Zf8iAL6wOls"
+        },
+        {
+          "name": "Anthony Parnther",
+          "url": "https://open.spotify.com/artist/7ra8Zt3B4DlqRDYMyT1Okx"
+        }
+      ],
+      "date_added": "2022-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 423220,
+      "name": "Elegy (In Memoriam Stephen Lawrence)",
+      "url": "https://open.spotify.com/track/52hHlP0sXRrpVPOHWzJhto"
+    },
+    {
+      "album": {
         "name": "El\u00e9gie in C Minor, Op. 24 (Arr. Parkin)",
         "url": "https://open.spotify.com/album/6448GplfJpNxV3euIIFYiy"
       },
@@ -1436,6 +1462,28 @@
     },
     {
       "album": {
+        "name": "Valentina Lisitsa Plays Philip Glass",
+        "url": "https://open.spotify.com/album/5sB0xqZBHO9JNenKE3TFmK"
+      },
+      "artists": [
+        {
+          "name": "Philip Glass",
+          "url": "https://open.spotify.com/artist/69lxxQvsfAIoQbB20bEPFC"
+        },
+        {
+          "name": "Valentina Lisitsa",
+          "url": "https://open.spotify.com/artist/0gOrXuu1vCBXe3pwTyb5Ca"
+        }
+      ],
+      "date_added": "2021-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160453,
+      "name": "The Truman Show: Truman Sleeps - Short Version",
+      "url": "https://open.spotify.com/track/3x5paczEO2SQyOVAcHpLGa"
+    },
+    {
+      "album": {
         "name": "Enchanted Isle",
         "url": "https://open.spotify.com/album/6oXgXpm6UC0kveOf8A8qrL"
       },
@@ -1463,28 +1511,6 @@
       "duration_ms": 250173,
       "name": "Theme from Harry's Game (Arr. Lawson)",
       "url": "https://open.spotify.com/track/5QXOy3U1mNvHg0IxHRSFBv"
-    },
-    {
-      "album": {
-        "name": "Valentina Lisitsa Plays Philip Glass",
-        "url": "https://open.spotify.com/album/5sB0xqZBHO9JNenKE3TFmK"
-      },
-      "artists": [
-        {
-          "name": "Philip Glass",
-          "url": "https://open.spotify.com/artist/69lxxQvsfAIoQbB20bEPFC"
-        },
-        {
-          "name": "Valentina Lisitsa",
-          "url": "https://open.spotify.com/artist/0gOrXuu1vCBXe3pwTyb5Ca"
-        }
-      ],
-      "date_added": "2021-10-18",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 160453,
-      "name": "Truman Sleeps - From \u201cThe Truman Show\u201d / Short Version",
-      "url": "https://open.spotify.com/track/3x5paczEO2SQyOVAcHpLGa"
     },
     {
       "album": {

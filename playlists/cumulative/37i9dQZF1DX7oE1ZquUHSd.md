@@ -4,7 +4,7 @@
 
 > El poder real del Hip Hop latinoamericano y español\. Foto: Cartel de Santa
 
-461 songs - 1 day 7 hr 28 min - [published](https://open.spotify.com/playlist/7edC6Keo79iDrg2lm86gJ3)
+462 songs - 1 day 7 hr 31 min - [published](https://open.spotify.com/playlist/7edC6Keo79iDrg2lm86gJ3)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -404,12 +404,13 @@
 | [Sin Culpa \(feat.DrefQuila\)](https://open.spotify.com/track/03PZ9C7f90TLbDk3dYjBd2) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [DrefQuila](https://open.spotify.com/artist/5pughe5rcsOq3GF0utMOs5) | [Sin Culpa \(feat\. DrefQuila\)](https://open.spotify.com/album/0saZWvAogHzd9Cf3mesXc4) | 4:04 | 2021-11-16 |  |
 | [Sin Proporciones!](https://open.spotify.com/track/608XfKEFAZGU5qDFVXm43q) | [C\-4](https://open.spotify.com/artist/67pafnH8RmmaUgKbXgLRGu) | [El Peso de una Pluma](https://open.spotify.com/album/12L1qmyQsoxAfGAFNWCGPW) | 3:26 | 2021-11-16 | 2022-06-22 |
 | [Snow Tha Product: Bzrp Music Sessions, Vol\. 39](https://open.spotify.com/track/3ke6it1vTmHtz2ApcIVUz5) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Snow Tha Product](https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj) | [Snow Tha Product: Bzrp Music Sessions, Vol\. 39](https://open.spotify.com/album/3GN1tT5enSZQ6lMDtls3an) | 2:57 | 2021-11-16 | 2022-10-02 |
+| [Snow Tha Product: Bzrp Music Sessions, Vol\. 39](https://open.spotify.com/track/5hpOBmnNc1mahkYGmte4NI) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Snow Tha Product](https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj) | [Snow Tha Product: Bzrp Music Sessions, Vol\. 39](https://open.spotify.com/album/4rEAYu2WaOofCf9KpyFKO7) | 2:57 | 2021-11-16 |  |
 | [Solo Como Amigos](https://open.spotify.com/track/0BgY6O6G7EtsneY6dAKZeI) | [La Banda Baston](https://open.spotify.com/artist/3vV4Tf1iC8vEP9fLOLGUfP), [McKlopedia](https://open.spotify.com/artist/1PNgAcUW6UgN59okEaTpvG) | [Luces Fantasma](https://open.spotify.com/album/59HfislZ5AH1pHZLUPy0Dm) | 4:33 | 2021-11-16 | 2022-07-29 |
 | [Solo Como Amigos](https://open.spotify.com/track/0LC8PbKuTyhCpsrdLtL3jz) | [La Banda Baston](https://open.spotify.com/artist/3vV4Tf1iC8vEP9fLOLGUfP), [McKlopedia](https://open.spotify.com/artist/1PNgAcUW6UgN59okEaTpvG) | [Luces Fantasma](https://open.spotify.com/album/0gzZ8kGuKfDlVtBVmDLNJj) | 4:33 | 2021-11-16 |  |
 | [Somos Humanos](https://open.spotify.com/track/02tYkxSXQiv6E3288DagUY) | [Sähkil Valysse](https://open.spotify.com/artist/529Uzpwi2OBcbzcuVh3zLe) | [¿Somos dualidad?](https://open.spotify.com/album/3gbDpmRXsOMSesO9Xvnmp9) | 3:39 | 2021-11-16 | 2022-07-24 |
 | [Soy](https://open.spotify.com/track/1XZ68E2kEhDEVHGmpQkCED) | [Pato Machete](https://open.spotify.com/artist/0Wvud7hEqI5zaI0o0iIkj2) | [33](https://open.spotify.com/album/35yKHPYCGKeXUkwScXldmZ) | 3:15 | 2021-11-16 | 2022-07-17 |
 | [Suelo soñar](https://open.spotify.com/track/3bUZA8syssxjVdvJDExkRi) | [Zenit](https://open.spotify.com/artist/7lN4AnSBcgqEyqVs5reCy2) | [Producto Infinito Version 0.4](https://open.spotify.com/album/0MoNYk7bMv3Vwt8VFyssME) | 4:58 | 2021-11-16 | 2022-07-18 |
-| [Suena](https://open.spotify.com/track/4HqvCLdcpiJtzxR82gH3qE) | [T\-Killa](https://open.spotify.com/artist/52QQ2BADyRwXsS8uqLu2Hl) | [Inksanidad](https://open.spotify.com/album/2amPdwaDwP9ftLGv0RNfIJ) | 3:39 | 2021-11-16 |  |
+| [Suena](https://open.spotify.com/track/4HqvCLdcpiJtzxR82gH3qE) | [T\-Killa](https://open.spotify.com/artist/52QQ2BADyRwXsS8uqLu2Hl) | [Inksanidad](https://open.spotify.com/album/2amPdwaDwP9ftLGv0RNfIJ) | 3:39 | 2021-11-16 | 2022-10-07 |
 | [Sueña](https://open.spotify.com/track/6ymrMRguWlj3RlxGluWEIf) | [T\-Killa](https://open.spotify.com/artist/52QQ2BADyRwXsS8uqLu2Hl) | [Inksanidad](https://open.spotify.com/album/67gDjKb0s6zw2HVCavctdm) | 3:39 | 2021-11-16 | 2022-07-27 |
 | [Sueño Eterno \(feat\. Canserbero\)](https://open.spotify.com/track/6eBNvVV17rsmC9JqPLVb6L) | [Tankeone](https://open.spotify.com/artist/6CJ0EnASyencrooPZNBpaB), [Tabernario](https://open.spotify.com/artist/2uG7vLSehD2quPeYSPkT73), [Canserbero](https://open.spotify.com/artist/1wGIhYkKWSq4yACtTkCkSX) | [La Nota Roja](https://open.spotify.com/album/0uabs9ZXeUBIhru5NDWBQe) | 4:05 | 2021-11-16 | 2022-07-28 |
 | [Super Jon\-Z \(Residente Challenge\)](https://open.spotify.com/track/2LzpOIEFP862EHojyakCS6) | [Jon Z](https://open.spotify.com/artist/5bWUlnPx9OYKsLiUJrhCA1) | [Super Jon\-Z \(Residente Challenge\)](https://open.spotify.com/album/1BgkC6yXnfmAhJdnCwE7vs) | 8:07 | 2021-11-16 |  |

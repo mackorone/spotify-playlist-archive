@@ -1,12 +1,12 @@
 {
   "description": "Releases from the legendary label.",
-  "num_followers": 15732,
+  "num_followers": 15815,
   "original_name": "Legendary Labels: Alligator",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYxOTY5MTIzMiwwMDAwMDAwMDliMDc0ZWQ5ODNkN2U3ZDJiODExM2Y5NWUxODhjZGZl",
+  "snapshot_id": "MTYxOTY5MTIzMiwwMDAwMDAwMGE5OTJhNzAwNDJiZmZmMjYwN2RmZDRjNjk1Y2MwZDlj",
   "tracks": [
     {
       "added_at": "2020-09-21 10:42:33",
@@ -95,6 +95,22 @@
     {
       "added_at": "2020-09-21 10:42:33",
       "album": {
+        "name": "3rd Degree (Remastered)",
+        "url": "https://open.spotify.com/album/1RcjOFCn7PDU8GZB97odnZ"
+      },
+      "artists": [
+        {
+          "name": "Johnny Winter",
+          "url": "https://open.spotify.com/artist/2ODUxmFxJSyvGiimNhMHbO"
+        }
+      ],
+      "duration_ms": 293293,
+      "name": "Mojo Boogie - Remastered",
+      "url": "https://open.spotify.com/track/6VbxpZ55Xv2L1CVKIO7Bul"
+    },
+    {
+      "added_at": "2020-09-21 10:42:33",
+      "album": {
         "name": "Hound Dog Taylor & The Houserockers",
         "url": "https://open.spotify.com/album/3whc6JMkDLZMngoWFIMJYV"
       },
@@ -111,18 +127,18 @@
     {
       "added_at": "2020-09-21 10:42:33",
       "album": {
-        "name": "3rd Degree (Remastered)",
-        "url": "https://open.spotify.com/album/1RcjOFCn7PDU8GZB97odnZ"
+        "name": "Hail To The Kings!",
+        "url": "https://open.spotify.com/album/6c78ccr3oXB3tYLtW8PrRA"
       },
       "artists": [
         {
-          "name": "Johnny Winter",
-          "url": "https://open.spotify.com/artist/2ODUxmFxJSyvGiimNhMHbO"
+          "name": "The Cash Box Kings",
+          "url": "https://open.spotify.com/artist/05eG6kRq0vo8hfQxW2sh8c"
         }
       ],
-      "duration_ms": 293293,
-      "name": "Mojo Boogie - Remastered",
-      "url": "https://open.spotify.com/track/6VbxpZ55Xv2L1CVKIO7Bul"
+      "duration_ms": 187893,
+      "name": "Ain't No Fun (When The Rabbit Got The Gun)",
+      "url": "https://open.spotify.com/track/4KhsLpDlV1TeeIbwBTTrc3"
     },
     {
       "added_at": "2020-09-21 10:42:33",
@@ -163,38 +179,6 @@
     {
       "added_at": "2020-09-21 10:42:33",
       "album": {
-        "name": "Turn The Heat Up!",
-        "url": "https://open.spotify.com/album/3OluM5Un09XiWdyrjwtAOX"
-      },
-      "artists": [
-        {
-          "name": "Shemekia Copeland",
-          "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
-        }
-      ],
-      "duration_ms": 432200,
-      "name": "Married To The Blues",
-      "url": "https://open.spotify.com/track/1wZpmkvPVQXdBLc6MnIpJi"
-    },
-    {
-      "added_at": "2020-09-21 10:42:33",
-      "album": {
-        "name": "Hail To The Kings!",
-        "url": "https://open.spotify.com/album/6c78ccr3oXB3tYLtW8PrRA"
-      },
-      "artists": [
-        {
-          "name": "The Cash Box Kings",
-          "url": "https://open.spotify.com/artist/05eG6kRq0vo8hfQxW2sh8c"
-        }
-      ],
-      "duration_ms": 187893,
-      "name": "Ain't No Fun (When The Rabbit Got The Gun)",
-      "url": "https://open.spotify.com/track/4KhsLpDlV1TeeIbwBTTrc3"
-    },
-    {
-      "added_at": "2020-09-21 10:42:33",
-      "album": {
         "name": "The Earthshaker",
         "url": "https://open.spotify.com/album/5bKSBUNWbszdKyzNwXt0nq"
       },
@@ -227,6 +211,22 @@
     {
       "added_at": "2020-09-21 10:42:33",
       "album": {
+        "name": "Turn The Heat Up!",
+        "url": "https://open.spotify.com/album/3OluM5Un09XiWdyrjwtAOX"
+      },
+      "artists": [
+        {
+          "name": "Shemekia Copeland",
+          "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
+        }
+      ],
+      "duration_ms": 432200,
+      "name": "Married To The Blues",
+      "url": "https://open.spotify.com/track/1wZpmkvPVQXdBLc6MnIpJi"
+    },
+    {
+      "added_at": "2020-09-21 10:42:33",
+      "album": {
         "name": "West Side Strut",
         "url": "https://open.spotify.com/album/7g3FhubXyKNZIFnlVEz73k"
       },
@@ -243,18 +243,18 @@
     {
       "added_at": "2020-09-21 10:42:33",
       "album": {
-        "name": "Let's Buzz",
-        "url": "https://open.spotify.com/album/3ECx5ku37cBY69C594AJEz"
+        "name": "Cold Snap (Remastered)",
+        "url": "https://open.spotify.com/album/4yybDfoKxyAey83ruCtTb9"
       },
       "artists": [
         {
-          "name": "The Paladins",
-          "url": "https://open.spotify.com/artist/5ecJGNE48l8ut59qMbP7ZF"
+          "name": "Albert Collins",
+          "url": "https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW"
         }
       ],
-      "duration_ms": 242933,
-      "name": "Keep On Lovin' Me Baby",
-      "url": "https://open.spotify.com/track/3jtaWKCISJEDBNl83CV9pw"
+      "duration_ms": 247400,
+      "name": "I Ain't Drunk - Remastered",
+      "url": "https://open.spotify.com/track/1pPrO5Lcx9UXNebcloGeHE"
     },
     {
       "added_at": "2020-09-21 10:42:33",
@@ -271,6 +271,22 @@
       "duration_ms": 395600,
       "name": "Third Degree - Remastered",
       "url": "https://open.spotify.com/track/2Z4UDFFs2kT5YS899suFz7"
+    },
+    {
+      "added_at": "2020-09-21 10:42:33",
+      "album": {
+        "name": "Let's Buzz",
+        "url": "https://open.spotify.com/album/3ECx5ku37cBY69C594AJEz"
+      },
+      "artists": [
+        {
+          "name": "The Paladins",
+          "url": "https://open.spotify.com/artist/5ecJGNE48l8ut59qMbP7ZF"
+        }
+      ],
+      "duration_ms": 242933,
+      "name": "Keep On Lovin' Me Baby",
+      "url": "https://open.spotify.com/track/3jtaWKCISJEDBNl83CV9pw"
     },
     {
       "added_at": "2020-09-21 10:42:33",
@@ -319,22 +335,6 @@
     {
       "added_at": "2020-09-21 10:42:33",
       "album": {
-        "name": "Cold Snap (Remastered)",
-        "url": "https://open.spotify.com/album/4yybDfoKxyAey83ruCtTb9"
-      },
-      "artists": [
-        {
-          "name": "Albert Collins",
-          "url": "https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW"
-        }
-      ],
-      "duration_ms": 247400,
-      "name": "I Ain't Drunk - Remastered",
-      "url": "https://open.spotify.com/track/1pPrO5Lcx9UXNebcloGeHE"
-    },
-    {
-      "added_at": "2020-09-21 10:42:33",
-      "album": {
         "name": "Winning Hand",
         "url": "https://open.spotify.com/album/0KcQqzRRmtu7hsPcEHJXXA"
       },
@@ -371,18 +371,50 @@
     {
       "added_at": "2020-09-21 10:42:33",
       "album": {
-        "name": "Force Of Nature",
-        "url": "https://open.spotify.com/album/2K1GPgXQm5WU0b623kN7ZN"
+        "name": "Ice Pickin'",
+        "url": "https://open.spotify.com/album/7K0AX1jtXt1iLCtPLM3dab"
       },
       "artists": [
         {
-          "name": "Koko Taylor",
-          "url": "https://open.spotify.com/artist/04qIJRFjTmvW5I1DMyGE1R"
+          "name": "Albert Collins",
+          "url": "https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW"
         }
       ],
-      "duration_ms": 369733,
-      "name": "Let The Juke Joint Jump",
-      "url": "https://open.spotify.com/track/6wgAmLxLzLmRm8sQ0REnn4"
+      "duration_ms": 188840,
+      "name": "Ice Pick",
+      "url": "https://open.spotify.com/track/7z3wUQAFexFWpUaKZDktZr"
+    },
+    {
+      "added_at": "2020-09-21 10:42:33",
+      "album": {
+        "name": "Wander This World",
+        "url": "https://open.spotify.com/album/4ZscZNV7mVZupyotq52wLG"
+      },
+      "artists": [
+        {
+          "name": "Jonny Lang",
+          "url": "https://open.spotify.com/artist/5rX1EodZfwxmW4fQX2Caot"
+        }
+      ],
+      "duration_ms": 210973,
+      "name": "Cherry Red Wine",
+      "url": "https://open.spotify.com/track/0WXi2cJGxMUhIXE0KXhC5k"
+    },
+    {
+      "added_at": "2020-09-21 10:42:33",
+      "album": {
+        "name": "Cotton Mouth Man",
+        "url": "https://open.spotify.com/album/6U2Fh67Pk4hme1KoSJlrdS"
+      },
+      "artists": [
+        {
+          "name": "James Cotton",
+          "url": "https://open.spotify.com/artist/6mY93oNfUaUwZq67yn3R8k"
+        }
+      ],
+      "duration_ms": 227373,
+      "name": "Cotton Mouth Man",
+      "url": "https://open.spotify.com/track/05OUC91VXFLsMddV7yKaZC"
     },
     {
       "added_at": "2020-09-21 10:42:33",
@@ -419,22 +451,6 @@
     {
       "added_at": "2020-09-21 10:42:33",
       "album": {
-        "name": "Wander This World",
-        "url": "https://open.spotify.com/album/4ZscZNV7mVZupyotq52wLG"
-      },
-      "artists": [
-        {
-          "name": "Jonny Lang",
-          "url": "https://open.spotify.com/artist/5rX1EodZfwxmW4fQX2Caot"
-        }
-      ],
-      "duration_ms": 210973,
-      "name": "Cherry Red Wine",
-      "url": "https://open.spotify.com/track/0WXi2cJGxMUhIXE0KXhC5k"
-    },
-    {
-      "added_at": "2020-09-21 10:42:33",
-      "album": {
         "name": "Roots And Branches - The Songs Of Little Walter",
         "url": "https://open.spotify.com/album/3MHdul04DePzuVe9iW9vBz"
       },
@@ -451,8 +467,8 @@
     {
       "added_at": "2020-09-21 10:42:33",
       "album": {
-        "name": "Ice Pickin'",
-        "url": "https://open.spotify.com/album/7K0AX1jtXt1iLCtPLM3dab"
+        "name": "Frostbite",
+        "url": "https://open.spotify.com/album/7C64occ2ChtDhSH5Wsj8mV"
       },
       "artists": [
         {
@@ -460,25 +476,25 @@
           "url": "https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW"
         }
       ],
-      "duration_ms": 188840,
-      "name": "Ice Pick",
-      "url": "https://open.spotify.com/track/7z3wUQAFexFWpUaKZDktZr"
+      "duration_ms": 248400,
+      "name": "If You Love Me Like You Say",
+      "url": "https://open.spotify.com/track/0t3BTxJpdQnnS52cz0ciw9"
     },
     {
       "added_at": "2020-09-21 10:42:33",
       "album": {
-        "name": "Cotton Mouth Man",
-        "url": "https://open.spotify.com/album/6U2Fh67Pk4hme1KoSJlrdS"
+        "name": "Force Of Nature",
+        "url": "https://open.spotify.com/album/2K1GPgXQm5WU0b623kN7ZN"
       },
       "artists": [
         {
-          "name": "James Cotton",
-          "url": "https://open.spotify.com/artist/6mY93oNfUaUwZq67yn3R8k"
+          "name": "Koko Taylor",
+          "url": "https://open.spotify.com/artist/04qIJRFjTmvW5I1DMyGE1R"
         }
       ],
-      "duration_ms": 227373,
-      "name": "Cotton Mouth Man",
-      "url": "https://open.spotify.com/track/05OUC91VXFLsMddV7yKaZC"
+      "duration_ms": 369733,
+      "name": "Let The Juke Joint Jump",
+      "url": "https://open.spotify.com/track/6wgAmLxLzLmRm8sQ0REnn4"
     },
     {
       "added_at": "2020-09-21 10:42:33",
@@ -503,6 +519,22 @@
     {
       "added_at": "2020-09-21 10:42:33",
       "album": {
+        "name": "Guitar Slinger",
+        "url": "https://open.spotify.com/album/2rwEAdpLYZEOuze2uukn7x"
+      },
+      "artists": [
+        {
+          "name": "Johnny Winter",
+          "url": "https://open.spotify.com/artist/2ODUxmFxJSyvGiimNhMHbO"
+        }
+      ],
+      "duration_ms": 250826,
+      "name": "It's My Life Baby - Remastered",
+      "url": "https://open.spotify.com/track/5glbZffXF1GNtPCMB7uVek"
+    },
+    {
+      "added_at": "2020-09-21 10:42:33",
+      "album": {
         "name": "Natural Boogie (Remastered)",
         "url": "https://open.spotify.com/album/6dI5D8AfYTzmzhjkb66m3X"
       },
@@ -519,18 +551,18 @@
     {
       "added_at": "2020-09-21 10:42:33",
       "album": {
-        "name": "Guitar Slinger",
-        "url": "https://open.spotify.com/album/2rwEAdpLYZEOuze2uukn7x"
+        "name": "Cotton Mouth Man",
+        "url": "https://open.spotify.com/album/6U2Fh67Pk4hme1KoSJlrdS"
       },
       "artists": [
         {
-          "name": "Johnny Winter",
-          "url": "https://open.spotify.com/artist/2ODUxmFxJSyvGiimNhMHbO"
+          "name": "James Cotton",
+          "url": "https://open.spotify.com/artist/6mY93oNfUaUwZq67yn3R8k"
         }
       ],
-      "duration_ms": 250826,
-      "name": "It's My Life Baby - Remastered",
-      "url": "https://open.spotify.com/track/5glbZffXF1GNtPCMB7uVek"
+      "duration_ms": 209013,
+      "name": "Midnight Train",
+      "url": "https://open.spotify.com/track/628wnZp93g4bnDnOFUyzMl"
     },
     {
       "added_at": "2020-09-21 10:42:33",
@@ -567,18 +599,18 @@
     {
       "added_at": "2020-09-21 10:42:33",
       "album": {
-        "name": "Frostbite",
-        "url": "https://open.spotify.com/album/7C64occ2ChtDhSH5Wsj8mV"
+        "name": "Guitar Slinger",
+        "url": "https://open.spotify.com/album/2rwEAdpLYZEOuze2uukn7x"
       },
       "artists": [
         {
-          "name": "Albert Collins",
-          "url": "https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW"
+          "name": "Johnny Winter",
+          "url": "https://open.spotify.com/artist/2ODUxmFxJSyvGiimNhMHbO"
         }
       ],
-      "duration_ms": 248400,
-      "name": "If You Love Me Like You Say",
-      "url": "https://open.spotify.com/track/0t3BTxJpdQnnS52cz0ciw9"
+      "duration_ms": 323986,
+      "name": "Don't Take Advantage Of Me - Remastered",
+      "url": "https://open.spotify.com/track/3sHgMnbPhxt5ZIm3CKXx0a"
     },
     {
       "added_at": "2020-09-21 10:42:33",
@@ -595,22 +627,6 @@
       "duration_ms": 201626,
       "name": "Never Trust A Man",
       "url": "https://open.spotify.com/track/1v8XplbAAZVasV2B56B6Po"
-    },
-    {
-      "added_at": "2020-09-21 10:42:33",
-      "album": {
-        "name": "Cotton Mouth Man",
-        "url": "https://open.spotify.com/album/6U2Fh67Pk4hme1KoSJlrdS"
-      },
-      "artists": [
-        {
-          "name": "James Cotton",
-          "url": "https://open.spotify.com/artist/6mY93oNfUaUwZq67yn3R8k"
-        }
-      ],
-      "duration_ms": 209013,
-      "name": "Midnight Train",
-      "url": "https://open.spotify.com/track/628wnZp93g4bnDnOFUyzMl"
     },
     {
       "added_at": "2020-09-21 10:42:33",
@@ -643,38 +659,6 @@
       "duration_ms": 131893,
       "name": "It's You, Baby",
       "url": "https://open.spotify.com/track/5VTgqXioNW6GJIRr1YQYla"
-    },
-    {
-      "added_at": "2020-09-21 10:42:33",
-      "album": {
-        "name": "Guitar Slinger",
-        "url": "https://open.spotify.com/album/2rwEAdpLYZEOuze2uukn7x"
-      },
-      "artists": [
-        {
-          "name": "Johnny Winter",
-          "url": "https://open.spotify.com/artist/2ODUxmFxJSyvGiimNhMHbO"
-        }
-      ],
-      "duration_ms": 323986,
-      "name": "Don't Take Advantage Of Me - Remastered",
-      "url": "https://open.spotify.com/track/3sHgMnbPhxt5ZIm3CKXx0a"
-    },
-    {
-      "added_at": "2020-09-21 10:42:33",
-      "album": {
-        "name": "The Alligator Records Years",
-        "url": "https://open.spotify.com/album/13MRYxSCSqfyJ1xvTE6TqI"
-      },
-      "artists": [
-        {
-          "name": "Koko Taylor",
-          "url": "https://open.spotify.com/artist/04qIJRFjTmvW5I1DMyGE1R"
-        }
-      ],
-      "duration_ms": 296333,
-      "name": "Born Under a Bad Sign",
-      "url": "https://open.spotify.com/track/7au83e4LJnF9ckB3fPAGkT"
     },
     {
       "added_at": "2020-09-21 10:42:33",
@@ -727,22 +711,6 @@
     {
       "added_at": "2020-09-21 10:42:33",
       "album": {
-        "name": "Wicked",
-        "url": "https://open.spotify.com/album/2kv1nahejxNevwCYdgZ8AQ"
-      },
-      "artists": [
-        {
-          "name": "Shemekia Copeland",
-          "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
-        }
-      ],
-      "duration_ms": 308093,
-      "name": "The Fool You're Looking For",
-      "url": "https://open.spotify.com/track/6OSTcwMHZyPJ8S62nXajYw"
-    },
-    {
-      "added_at": "2020-09-21 10:42:33",
-      "album": {
         "name": "Alligator Records 45th Anniversary Collection",
         "url": "https://open.spotify.com/album/6kpeOuu1Z7cbasKOurTs0B"
       },
@@ -759,6 +727,38 @@
       "duration_ms": 193893,
       "name": "The Road Is So Long",
       "url": "https://open.spotify.com/track/1QXLlIOl49faZia60gnrQT"
+    },
+    {
+      "added_at": "2020-09-21 10:42:33",
+      "album": {
+        "name": "The Alligator Records Years",
+        "url": "https://open.spotify.com/album/13MRYxSCSqfyJ1xvTE6TqI"
+      },
+      "artists": [
+        {
+          "name": "Koko Taylor",
+          "url": "https://open.spotify.com/artist/04qIJRFjTmvW5I1DMyGE1R"
+        }
+      ],
+      "duration_ms": 296333,
+      "name": "Born Under a Bad Sign",
+      "url": "https://open.spotify.com/track/7au83e4LJnF9ckB3fPAGkT"
+    },
+    {
+      "added_at": "2020-09-21 10:42:33",
+      "album": {
+        "name": "Wicked",
+        "url": "https://open.spotify.com/album/2kv1nahejxNevwCYdgZ8AQ"
+      },
+      "artists": [
+        {
+          "name": "Shemekia Copeland",
+          "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
+        }
+      ],
+      "duration_ms": 308093,
+      "name": "The Fool You're Looking For",
+      "url": "https://open.spotify.com/track/6OSTcwMHZyPJ8S62nXajYw"
     },
     {
       "added_at": "2020-09-21 10:42:33",

@@ -1,12 +1,12 @@
 {
   "description": "Music in the award-winning doc: The Black Power Mixtape 1967\u20131975.",
-  "num_followers": 639543,
+  "num_followers": 640805,
   "original_name": "The Black Power Mixtape 1967\u20131975",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYyOTk2NTQwMywwMDAwMDAwMDc5MDExNzQwYzBmNzM5NTFmNTNjM2YwYjg0YjlkMWEy",
+  "snapshot_id": "MTYyOTk2NTQwMywwMDAwMDAwMGJiNWU3NThjZjczN2ZlMDU2OWFlMzEzY2I0ODkzZTA3",
   "tracks": [
     {
       "added_at": "2021-04-29 10:16:48",
@@ -219,22 +219,6 @@
     {
       "added_at": "2021-04-29 10:16:48",
       "album": {
-        "name": "War And Peace",
-        "url": "https://open.spotify.com/album/26pzgagMwY4opUvVUdSuum"
-      },
-      "artists": [
-        {
-          "name": "Edwin Starr",
-          "url": "https://open.spotify.com/artist/1B8AXU6gIIafpyLEpbcv1u"
-        }
-      ],
-      "duration_ms": 200266,
-      "name": "War",
-      "url": "https://open.spotify.com/track/4ZEEcEMGjkWOfZNBcIB9yE"
-    },
-    {
-      "added_at": "2021-04-29 10:16:48",
-      "album": {
         "name": "Dusty In Memphis [Deluxe Edition]",
         "url": "https://open.spotify.com/album/6SNMenG3NjZyqgI5p4Hcmg"
       },
@@ -251,22 +235,6 @@
     {
       "added_at": "2021-04-29 10:16:48",
       "album": {
-        "name": "Knock On Wood",
-        "url": "https://open.spotify.com/album/07ojYfe9B08p7nmOL2kgNF"
-      },
-      "artists": [
-        {
-          "name": "Eddie Floyd",
-          "url": "https://open.spotify.com/artist/6Bfy6QzadCXS92y0T8dDZF"
-        }
-      ],
-      "duration_ms": 189840,
-      "name": "Knock on Wood",
-      "url": "https://open.spotify.com/track/3YJx77Xx8JSwEoxqrkQO5c"
-    },
-    {
-      "added_at": "2021-04-29 10:16:48",
-      "album": {
         "name": "Going To A Go-Go",
         "url": "https://open.spotify.com/album/2NT1Pc0MXlXORHLBkHyKQW"
       },
@@ -279,6 +247,38 @@
       "duration_ms": 174360,
       "name": "The Tracks Of My Tears",
       "url": "https://open.spotify.com/track/6QyQmdvQ1ywNccYa0pwLNQ"
+    },
+    {
+      "added_at": "2021-04-29 10:16:48",
+      "album": {
+        "name": "War And Peace",
+        "url": "https://open.spotify.com/album/26pzgagMwY4opUvVUdSuum"
+      },
+      "artists": [
+        {
+          "name": "Edwin Starr",
+          "url": "https://open.spotify.com/artist/1B8AXU6gIIafpyLEpbcv1u"
+        }
+      ],
+      "duration_ms": 200266,
+      "name": "War",
+      "url": "https://open.spotify.com/track/4ZEEcEMGjkWOfZNBcIB9yE"
+    },
+    {
+      "added_at": "2021-04-29 10:16:48",
+      "album": {
+        "name": "Knock On Wood",
+        "url": "https://open.spotify.com/album/07ojYfe9B08p7nmOL2kgNF"
+      },
+      "artists": [
+        {
+          "name": "Eddie Floyd",
+          "url": "https://open.spotify.com/artist/6Bfy6QzadCXS92y0T8dDZF"
+        }
+      ],
+      "duration_ms": 189840,
+      "name": "Knock on Wood",
+      "url": "https://open.spotify.com/track/3YJx77Xx8JSwEoxqrkQO5c"
     },
     {
       "added_at": "2021-04-29 10:16:48",
@@ -315,22 +315,6 @@
     {
       "added_at": "2021-04-29 10:16:48",
       "album": {
-        "name": "Ship Ahoy (Expanded Edition)",
-        "url": "https://open.spotify.com/album/0prtrB4HNL9tiEeAv57Bz8"
-      },
-      "artists": [
-        {
-          "name": "The O'Jays",
-          "url": "https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT"
-        }
-      ],
-      "duration_ms": 281200,
-      "name": "Now That We Found Love",
-      "url": "https://open.spotify.com/track/0qOkHfSClduvkvGk6fCu8l"
-    },
-    {
-      "added_at": "2021-04-29 10:16:48",
-      "album": {
         "name": "Erma Franklin: Piece Of Her Heart - The Epic And Shout Years",
         "url": "https://open.spotify.com/album/3GykoJmCI2qmvrgi8zQ7XW"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 157266,
       "name": "Piece of My Heart",
       "url": "https://open.spotify.com/track/2GbePPrWWSRxcmW6QRSPae"
+    },
+    {
+      "added_at": "2021-04-29 10:16:48",
+      "album": {
+        "name": "Ship Ahoy (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0prtrB4HNL9tiEeAv57Bz8"
+      },
+      "artists": [
+        {
+          "name": "The O'Jays",
+          "url": "https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT"
+        }
+      ],
+      "duration_ms": 281200,
+      "name": "Now That We Found Love",
+      "url": "https://open.spotify.com/track/0qOkHfSClduvkvGk6fCu8l"
     },
     {
       "added_at": "2021-04-29 10:16:48",
@@ -411,22 +411,6 @@
     {
       "added_at": "2021-04-29 10:16:48",
       "album": {
-        "name": "I've Got So Much To Give",
-        "url": "https://open.spotify.com/album/0ldkrsBFHXhKHlynq8tJVI"
-      },
-      "artists": [
-        {
-          "name": "Barry White",
-          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
-        }
-      ],
-      "duration_ms": 431506,
-      "name": "I'm Gonna Love You Just A Little More Baby",
-      "url": "https://open.spotify.com/track/1QR3Wcba5NBidmxEE8DW3w"
-    },
-    {
-      "added_at": "2021-04-29 10:16:48",
-      "album": {
         "name": "Be Thankful for What You Got",
         "url": "https://open.spotify.com/album/1SCaqfkBnsMXOvdJIZi93Z"
       },
@@ -443,18 +427,18 @@
     {
       "added_at": "2021-04-29 10:16:48",
       "album": {
-        "name": "Green Onions / Behave Yourself",
-        "url": "https://open.spotify.com/album/2kXlr7GzUOQxl3NLDF0DNe"
+        "name": "I've Got So Much To Give",
+        "url": "https://open.spotify.com/album/0ldkrsBFHXhKHlynq8tJVI"
       },
       "artists": [
         {
-          "name": "Booker T. & the M.G.'s",
-          "url": "https://open.spotify.com/artist/2vDV0T8sxx2ENnKXds75e5"
+          "name": "Barry White",
+          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
         }
       ],
-      "duration_ms": 167384,
-      "name": "Green Onions",
-      "url": "https://open.spotify.com/track/6KKcey1w86oP0qxN8frbfD"
+      "duration_ms": 431506,
+      "name": "I'm Gonna Love You Just A Little More Baby",
+      "url": "https://open.spotify.com/track/1QR3Wcba5NBidmxEE8DW3w"
     },
     {
       "added_at": "2021-04-29 10:16:48",
@@ -475,6 +459,22 @@
     {
       "added_at": "2021-04-29 10:16:48",
       "album": {
+        "name": "Green Onions / Behave Yourself",
+        "url": "https://open.spotify.com/album/2kXlr7GzUOQxl3NLDF0DNe"
+      },
+      "artists": [
+        {
+          "name": "Booker T. & the M.G.'s",
+          "url": "https://open.spotify.com/artist/2vDV0T8sxx2ENnKXds75e5"
+        }
+      ],
+      "duration_ms": 167384,
+      "name": "Green Onions",
+      "url": "https://open.spotify.com/track/6KKcey1w86oP0qxN8frbfD"
+    },
+    {
+      "added_at": "2021-04-29 10:16:48",
+      "album": {
         "name": "King Floyd",
         "url": "https://open.spotify.com/album/6r1VSCkbZaVj6FUhbh3aFQ"
       },
@@ -487,22 +487,6 @@
       "duration_ms": 183266,
       "name": "Groove Me",
       "url": "https://open.spotify.com/track/1sG3M0yjIYweejCR9Amyh6"
-    },
-    {
-      "added_at": "2021-04-29 10:16:48",
-      "album": {
-        "name": "The Undisputed Truth",
-        "url": "https://open.spotify.com/album/0HHW9b70iZmfWNcFfjOFEz"
-      },
-      "artists": [
-        {
-          "name": "The Undisputed Truth",
-          "url": "https://open.spotify.com/artist/2tkwWmcZOQPNbbIdknfBsw"
-        }
-      ],
-      "duration_ms": 198546,
-      "name": "Smiling Faces Sometimes",
-      "url": "https://open.spotify.com/track/5Vdg4tP25ffeGEC5GGmCwm"
     },
     {
       "added_at": "2021-04-29 10:16:48",
@@ -523,6 +507,22 @@
     {
       "added_at": "2021-04-29 10:16:48",
       "album": {
+        "name": "The Undisputed Truth",
+        "url": "https://open.spotify.com/album/0HHW9b70iZmfWNcFfjOFEz"
+      },
+      "artists": [
+        {
+          "name": "The Undisputed Truth",
+          "url": "https://open.spotify.com/artist/2tkwWmcZOQPNbbIdknfBsw"
+        }
+      ],
+      "duration_ms": 198546,
+      "name": "Smiling Faces Sometimes",
+      "url": "https://open.spotify.com/track/5Vdg4tP25ffeGEC5GGmCwm"
+    },
+    {
+      "added_at": "2021-04-29 10:16:48",
+      "album": {
         "name": "The Delfonics",
         "url": "https://open.spotify.com/album/6Ie6D0KslXxrbkOAr5sbyX"
       },
@@ -535,22 +535,6 @@
       "duration_ms": 201066,
       "name": "Didn't I (Blow Your Mind This Time)",
       "url": "https://open.spotify.com/track/1NeKY4qWsCnhY8fvhwQa7q"
-    },
-    {
-      "added_at": "2021-04-29 10:16:48",
-      "album": {
-        "name": "I Was Made To Love Her",
-        "url": "https://open.spotify.com/album/6thSjE17RxW8tJFtLyXA3B"
-      },
-      "artists": [
-        {
-          "name": "Stevie Wonder",
-          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
-        }
-      ],
-      "duration_ms": 156440,
-      "name": "I Was Made To Love Her",
-      "url": "https://open.spotify.com/track/2aCKBrLn7rbhStk5k4FwnF"
     },
     {
       "added_at": "2021-04-29 10:16:48",
@@ -571,18 +555,18 @@
     {
       "added_at": "2021-04-29 10:16:48",
       "album": {
-        "name": "Sings Top Ten",
-        "url": "https://open.spotify.com/album/5zRvMt37YxCPddq09ivuPV"
+        "name": "I Was Made To Love Her",
+        "url": "https://open.spotify.com/album/6thSjE17RxW8tJFtLyXA3B"
       },
       "artists": [
         {
-          "name": "Jimmy Ruffin",
-          "url": "https://open.spotify.com/artist/0hF0PwB04hnXfYMiZWfJzy"
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
         }
       ],
-      "duration_ms": 178440,
-      "name": "What Becomes Of The Brokenhearted",
-      "url": "https://open.spotify.com/track/0wBaPbJ2qsbGqgnGbqBDgP"
+      "duration_ms": 156440,
+      "name": "I Was Made To Love Her",
+      "url": "https://open.spotify.com/track/2aCKBrLn7rbhStk5k4FwnF"
     },
     {
       "added_at": "2021-04-29 10:16:48",
@@ -603,18 +587,18 @@
     {
       "added_at": "2021-04-29 10:16:48",
       "album": {
-        "name": "Tell It Like It Is",
-        "url": "https://open.spotify.com/album/01z00nqcQU6ffZVfx0SIeg"
+        "name": "Sings Top Ten",
+        "url": "https://open.spotify.com/album/5zRvMt37YxCPddq09ivuPV"
       },
       "artists": [
         {
-          "name": "Aaron Neville",
-          "url": "https://open.spotify.com/artist/57ALvbCBaCkNlgTOSiUPdT"
+          "name": "Jimmy Ruffin",
+          "url": "https://open.spotify.com/artist/0hF0PwB04hnXfYMiZWfJzy"
         }
       ],
-      "duration_ms": 249226,
-      "name": "Hercules",
-      "url": "https://open.spotify.com/track/0INkcALLD8NAM6tbn4qbMj"
+      "duration_ms": 178440,
+      "name": "What Becomes Of The Brokenhearted",
+      "url": "https://open.spotify.com/track/0wBaPbJ2qsbGqgnGbqBDgP"
     },
     {
       "added_at": "2021-04-29 10:16:48",
@@ -631,6 +615,22 @@
       "duration_ms": 185226,
       "name": "Cissy Strut",
       "url": "https://open.spotify.com/track/7b8s4Z0abQQ4x4jpct4GjR"
+    },
+    {
+      "added_at": "2021-04-29 10:16:48",
+      "album": {
+        "name": "Tell It Like It Is",
+        "url": "https://open.spotify.com/album/01z00nqcQU6ffZVfx0SIeg"
+      },
+      "artists": [
+        {
+          "name": "Aaron Neville",
+          "url": "https://open.spotify.com/artist/57ALvbCBaCkNlgTOSiUPdT"
+        }
+      ],
+      "duration_ms": 249226,
+      "name": "Hercules",
+      "url": "https://open.spotify.com/track/0INkcALLD8NAM6tbn4qbMj"
     },
     {
       "added_at": "2021-04-29 10:16:48",
@@ -767,22 +767,6 @@
     {
       "added_at": "2021-04-29 10:16:48",
       "album": {
-        "name": "(If Loving You Is Wrong) I Don't Want to Be Right",
-        "url": "https://open.spotify.com/album/3hiwk4q34fJTUJsAzrlNMD"
-      },
-      "artists": [
-        {
-          "name": "Luther Ingram",
-          "url": "https://open.spotify.com/artist/5Pek6HAr0BoHD9P1RuA7d5"
-        }
-      ],
-      "duration_ms": 216800,
-      "name": "(If Loving You Is Wrong) I Don't Want to Be Right",
-      "url": "https://open.spotify.com/track/54K7o2yNOMZYCtEDnfD6wI"
-    },
-    {
-      "added_at": "2021-04-29 10:16:48",
-      "album": {
         "name": "The Best Of William Bell",
         "url": "https://open.spotify.com/album/3qOZr2tczUvMFciKLk6lzb"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 138960,
       "name": "I Forgot To Be Your Lover",
       "url": "https://open.spotify.com/track/3PLKsooF2oGUBdGzblvOlI"
+    },
+    {
+      "added_at": "2021-04-29 10:16:48",
+      "album": {
+        "name": "(If Loving You Is Wrong) I Don't Want to Be Right",
+        "url": "https://open.spotify.com/album/3hiwk4q34fJTUJsAzrlNMD"
+      },
+      "artists": [
+        {
+          "name": "Luther Ingram",
+          "url": "https://open.spotify.com/artist/5Pek6HAr0BoHD9P1RuA7d5"
+        }
+      ],
+      "duration_ms": 216800,
+      "name": "(If Loving You Is Wrong) I Don't Want to Be Right",
+      "url": "https://open.spotify.com/track/54K7o2yNOMZYCtEDnfD6wI"
     },
     {
       "added_at": "2021-04-29 10:16:48",
@@ -815,22 +815,6 @@
     {
       "added_at": "2021-04-29 10:16:48",
       "album": {
-        "name": "At The Close Of A Century",
-        "url": "https://open.spotify.com/album/04giHQ9zptJUHUvtIyxL9Z"
-      },
-      "artists": [
-        {
-          "name": "Stevie Wonder",
-          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
-        }
-      ],
-      "duration_ms": 313266,
-      "name": "Boogie On Reggae Woman",
-      "url": "https://open.spotify.com/track/1xTfQiHbhB2Bj2B9dlAojb"
-    },
-    {
-      "added_at": "2021-04-29 10:16:48",
-      "album": {
         "name": "Ride Your Pony",
         "url": "https://open.spotify.com/album/7AmWUlNaYvQlK8UqmD4tvF"
       },
@@ -847,6 +831,22 @@
     {
       "added_at": "2021-04-29 10:16:48",
       "album": {
+        "name": "At The Close Of A Century",
+        "url": "https://open.spotify.com/album/04giHQ9zptJUHUvtIyxL9Z"
+      },
+      "artists": [
+        {
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+        }
+      ],
+      "duration_ms": 313266,
+      "name": "Boogie On Reggae Woman",
+      "url": "https://open.spotify.com/track/1xTfQiHbhB2Bj2B9dlAojb"
+    },
+    {
+      "added_at": "2021-04-29 10:16:48",
+      "album": {
         "name": "I Hear A Symphony",
         "url": "https://open.spotify.com/album/7vNmiLEdMqJYUlPxSx2zgg"
       },
@@ -859,6 +859,22 @@
       "duration_ms": 154426,
       "name": "My World Is Empty Without You",
       "url": "https://open.spotify.com/track/1kFCFfR5q4VO02KtYguXgh"
+    },
+    {
+      "added_at": "2021-04-29 10:16:48",
+      "album": {
+        "name": "See See Rider",
+        "url": "https://open.spotify.com/album/4ngkRpyw98uagKb7lOlQ03"
+      },
+      "artists": [
+        {
+          "name": "LaVern Baker",
+          "url": "https://open.spotify.com/artist/0V6zo2mJw9FdwWLClKC9yw"
+        }
+      ],
+      "duration_ms": 150426,
+      "name": "See See Rider",
+      "url": "https://open.spotify.com/track/1MW7hcqDWh0ODZA5hVunaO"
     },
     {
       "added_at": "2021-04-29 10:16:48",
@@ -891,22 +907,6 @@
       "duration_ms": 267173,
       "name": "If You're Ready (Come Go With Me)",
       "url": "https://open.spotify.com/track/5eX6j2j6gfaXEryl54oIKZ"
-    },
-    {
-      "added_at": "2021-04-29 10:16:48",
-      "album": {
-        "name": "See See Rider",
-        "url": "https://open.spotify.com/album/4ngkRpyw98uagKb7lOlQ03"
-      },
-      "artists": [
-        {
-          "name": "LaVern Baker",
-          "url": "https://open.spotify.com/artist/0V6zo2mJw9FdwWLClKC9yw"
-        }
-      ],
-      "duration_ms": 150426,
-      "name": "See See Rider",
-      "url": "https://open.spotify.com/track/1MW7hcqDWh0ODZA5hVunaO"
     },
     {
       "added_at": "2021-04-29 10:16:48",
@@ -947,22 +947,6 @@
     {
       "added_at": "2021-04-29 10:16:48",
       "album": {
-        "name": "Stax Chartbusters, Vol. 1",
-        "url": "https://open.spotify.com/album/4oEYZnyz2yqpWjjBcq7xLk"
-      },
-      "artists": [
-        {
-          "name": "Mel & Tim",
-          "url": "https://open.spotify.com/artist/2ubLClBEuddw29m7QRx4IL"
-        }
-      ],
-      "duration_ms": 230920,
-      "name": "Starting All Over Again",
-      "url": "https://open.spotify.com/track/7kFRgT3KKxU1y7USF8ZzIX"
-    },
-    {
-      "added_at": "2021-04-29 10:16:48",
-      "album": {
         "name": "Tell It Like It Is",
         "url": "https://open.spotify.com/album/01z00nqcQU6ffZVfx0SIeg"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 156680,
       "name": "Soul Man",
       "url": "https://open.spotify.com/track/0aebD8Phxpok5MG7pbwey5"
+    },
+    {
+      "added_at": "2021-04-29 10:16:48",
+      "album": {
+        "name": "Stax Chartbusters, Vol. 1",
+        "url": "https://open.spotify.com/album/4oEYZnyz2yqpWjjBcq7xLk"
+      },
+      "artists": [
+        {
+          "name": "Mel & Tim",
+          "url": "https://open.spotify.com/artist/2ubLClBEuddw29m7QRx4IL"
+        }
+      ],
+      "duration_ms": 230920,
+      "name": "Starting All Over Again",
+      "url": "https://open.spotify.com/track/7kFRgT3KKxU1y7USF8ZzIX"
     },
     {
       "added_at": "2021-04-29 10:16:48",

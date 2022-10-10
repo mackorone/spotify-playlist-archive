@@ -81,7 +81,7 @@
       ],
       "date_added": "2022-06-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-08",
+      "date_removed": "2022-10-09",
       "duration_ms": 262986,
       "name": "African Queen",
       "url": "https://open.spotify.com/track/4hM9jLSD1lgswviJTkHsPP"
@@ -121,7 +121,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-05",
       "duration_ms": 260986,
       "name": "African Queen - Remastered Version",
       "url": "https://open.spotify.com/track/5WrrKyhWgHbqelmd2ENpSf"
@@ -161,7 +161,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-01",
+      "date_removed": null,
       "duration_ms": 254119,
       "name": "Appreciate It",
       "url": "https://open.spotify.com/track/2mOcoUaBhqKmnpBxTptCMl"
@@ -633,7 +633,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-01",
+      "date_removed": null,
       "duration_ms": 261560,
       "name": "I Dey Feel Like",
       "url": "https://open.spotify.com/track/1sJ1sWNt98WLmGBZDwY884"
@@ -655,7 +655,7 @@
       ],
       "date_added": "2022-01-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-11",
+      "date_removed": null,
       "duration_ms": 183103,
       "name": "I Dey Hear Everything (feat. Olamide)",
       "url": "https://open.spotify.com/track/2E69eYTx63PA0iIx4akLbZ"
@@ -859,7 +859,7 @@
       ],
       "date_added": "2022-01-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-22",
+      "date_removed": "2022-10-07",
       "duration_ms": 225071,
       "name": "Kiss Of Life",
       "url": "https://open.spotify.com/track/6QRS80Nx3hIIL1Tg5HsZDF"
@@ -979,7 +979,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-09",
       "duration_ms": 271720,
       "name": "No Shakin",
       "url": "https://open.spotify.com/track/2I4PuUJLbVQUiGLnZpQRqV"
@@ -1001,7 +1001,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-26",
+      "date_removed": "2022-10-06",
       "duration_ms": 259173,
       "name": "Ocho",
       "url": "https://open.spotify.com/track/4SmPs1wEHUaxcM9M1qsNjI"
@@ -1019,10 +1019,32 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-09",
       "duration_ms": 187026,
       "name": "Officially Blind",
       "url": "https://open.spotify.com/track/1sEG4j3BPpYyT4hFBQ2M4N"
+    },
+    {
+      "album": {
+        "name": "Face 2 Face",
+        "url": "https://open.spotify.com/album/5K1zEMnLKKLcoFUbR4GEOw"
+      },
+      "artists": [
+        {
+          "name": "2Baba",
+          "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
+        },
+        {
+          "name": "Freestyle",
+          "url": "https://open.spotify.com/artist/6OjW9olmgqjpkqGCzQYT9D"
+        }
+      ],
+      "date_added": "2022-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291960,
+      "name": "Ole",
+      "url": "https://open.spotify.com/track/1aKQJXeEs0OyaFumj4W3WZ"
     },
     {
       "album": {
@@ -1041,7 +1063,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-05",
       "duration_ms": 290240,
       "name": "Ole - Remastered Version",
       "url": "https://open.spotify.com/track/4pPTKgTFyjU4VVT8BCHThZ"
@@ -1537,7 +1559,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-02",
+      "date_removed": "2022-10-08",
       "duration_ms": 265240,
       "name": "Thank U Lord - Remastered Version",
       "url": "https://open.spotify.com/track/0I7wgobSTGY7VL07NZcU0R"

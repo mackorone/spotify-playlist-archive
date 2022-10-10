@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/67uEKAhAdvMJvumeC8ZgjB.md) - [plain]
 
 > Unwind and enjoy the evening.
 
-[Spotify](https://open.spotify.com/user/spotify) - 216 likes - 26 songs - 1 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 215 likes - 26 songs - 1 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

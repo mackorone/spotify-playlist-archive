@@ -109,7 +109,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 139306,
       "name": "Angilalanga",
       "url": "https://open.spotify.com/track/5m9HkxDby88wW7IWiNymuX"
@@ -145,7 +145,7 @@
       ],
       "date_added": "2022-05-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-08",
+      "date_removed": "2022-10-09",
       "duration_ms": 135693,
       "name": "Baxabene Oxamu",
       "url": "https://open.spotify.com/track/0At7MOFjNWfAXhfbPy63Qe"
@@ -217,7 +217,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-01",
+      "date_removed": "2022-10-07",
       "duration_ms": 168600,
       "name": "Cannon (Mbayi, Mbayi)",
       "url": "https://open.spotify.com/track/0RDh1WoJ0FJwkkVvHK5DS7"
@@ -253,7 +253,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-09",
       "duration_ms": 137186,
       "name": "Click Song Number One - Mono Version",
       "url": "https://open.spotify.com/track/71i4tHW3VZk3Gow2SDkrQW"
@@ -645,7 +645,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-01",
+      "date_removed": null,
       "duration_ms": 147760,
       "name": "Intandane",
       "url": "https://open.spotify.com/track/2jMbbolEHHIzHlqg0ZNpiT"
@@ -699,7 +699,7 @@
       ],
       "date_added": "2022-08-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-02",
+      "date_removed": "2022-10-06",
       "duration_ms": 215133,
       "name": "Jeux interdits",
       "url": "https://open.spotify.com/track/5acbmHpQoANVHSfdD0DdF1"
@@ -717,7 +717,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-30",
+      "date_removed": null,
       "duration_ms": 178836,
       "name": "Jol'inkomo - Mono Version",
       "url": "https://open.spotify.com/track/5FTTPWCrARiEajTfdzr4D9"
@@ -778,6 +778,24 @@
     },
     {
       "album": {
+        "name": "Miriam Makeba et Bongi",
+        "url": "https://open.spotify.com/album/5YajkUlkBaW8J3nas4Mggf"
+      },
+      "artists": [
+        {
+          "name": "Miriam Makeba",
+          "url": "https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225893,
+      "name": "L'enfant et la gazelle",
+      "url": "https://open.spotify.com/track/1opJUefF9voKdJt8K25a2O"
+    },
+    {
+      "album": {
         "name": "The Guinea Years",
         "url": "https://open.spotify.com/album/2bL3sBngYPOBSOwZH1A90H"
       },
@@ -789,7 +807,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-06",
       "duration_ms": 225893,
       "name": "L'enfant et la gazelle",
       "url": "https://open.spotify.com/track/7wFA1UMkKQEh2c9Aqh6iuX"
@@ -879,7 +897,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-30",
+      "date_removed": "2022-10-06",
       "duration_ms": 207066,
       "name": "Love Tastes Like Strawberries",
       "url": "https://open.spotify.com/track/69ZOZ1T8cNSrX6yKYz2ONd"
@@ -1049,10 +1067,28 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-07",
       "duration_ms": 195866,
       "name": "Mas Que Nada",
       "url": "https://open.spotify.com/track/4ncRE1IYgkA7H6OO3hjBhp"
+    },
+    {
+      "album": {
+        "name": "Reflections",
+        "url": "https://open.spotify.com/album/4EGe5tRktJgNpbWjC6ijLn"
+      },
+      "artists": [
+        {
+          "name": "Miriam Makeba",
+          "url": "https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195866,
+      "name": "Mas Que Nada",
+      "url": "https://open.spotify.com/track/5Eyfond5T9ZcmXCydrAQii"
     },
     {
       "album": {
@@ -1085,7 +1121,7 @@
       ],
       "date_added": "2022-04-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-26",
+      "date_removed": "2022-10-05",
       "duration_ms": 202426,
       "name": "Mbube",
       "url": "https://open.spotify.com/track/2z3Zy3WnBBbHeXTBTdvJjd"
@@ -1186,6 +1222,24 @@
     },
     {
       "album": {
+        "name": "The Guinea Years",
+        "url": "https://open.spotify.com/album/75dcJ9u25tOpf2hfb5EL10"
+      },
+      "artists": [
+        {
+          "name": "Miriam Makeba",
+          "url": "https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W"
+        }
+      ],
+      "date_added": "2022-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216266,
+      "name": "Mo\u00f4louyame",
+      "url": "https://open.spotify.com/track/322aPb3GHH1HaHjzR7eBBJ"
+    },
+    {
+      "album": {
         "name": "An Evening With Belafonte/Makeba",
         "url": "https://open.spotify.com/album/27SMV8TOEzD5NvCI6dK7Xc"
       },
@@ -1255,7 +1309,7 @@
       ],
       "date_added": "2022-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-09",
       "duration_ms": 165236,
       "name": "Orlando",
       "url": "https://open.spotify.com/track/3062myCqbd64JVkqSYi5qg"
@@ -1483,7 +1537,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-02",
+      "date_removed": "2022-10-09",
       "duration_ms": 256680,
       "name": "Soweto Blues",
       "url": "https://open.spotify.com/track/7qb0KJZ0iXtS8LMSXCH353"
@@ -1501,7 +1555,7 @@
       ],
       "date_added": "2022-01-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-30",
+      "date_removed": "2022-10-07",
       "duration_ms": 164386,
       "name": "Suliram",
       "url": "https://open.spotify.com/track/3hMPRSk1vOYvMhTcCIqXMQ"
@@ -1577,10 +1631,28 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-09",
       "duration_ms": 294733,
       "name": "The Click Song a.k.a. Qongqothwane",
       "url": "https://open.spotify.com/track/1MC8rGCbqEIeeCRSwjz3Gj"
+    },
+    {
+      "album": {
+        "name": "Reflections",
+        "url": "https://open.spotify.com/album/4EGe5tRktJgNpbWjC6ijLn"
+      },
+      "artists": [
+        {
+          "name": "Miriam Makeba",
+          "url": "https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W"
+        }
+      ],
+      "date_added": "2022-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294733,
+      "name": "The Click Song a.k.a. Qongqothwane",
+      "url": "https://open.spotify.com/track/3hEjs6cSbz0lULe5HCZuhL"
     },
     {
       "album": {
@@ -1649,7 +1721,7 @@
       ],
       "date_added": "2022-09-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-29",
+      "date_removed": "2022-10-05",
       "duration_ms": 229041,
       "name": "The Naughty Little Flea",
       "url": "https://open.spotify.com/track/0xOsFeKE4n4qRk5GorMshu"
@@ -1729,7 +1801,7 @@
       ],
       "date_added": "2022-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-09",
       "duration_ms": 192480,
       "name": "Train Song - Mbombela",
       "url": "https://open.spotify.com/track/2M9sF8yOqMRNy7UoA73ZK0"
@@ -1863,6 +1935,24 @@
       "duration_ms": 162467,
       "name": "What Is Love - Mono Version",
       "url": "https://open.spotify.com/track/2k98GoB50T0xAoK3Tw0TUf"
+    },
+    {
+      "album": {
+        "name": "Goodbye to Africa",
+        "url": "https://open.spotify.com/album/307axQScWAWAOCzK1rc7fm"
+      },
+      "artists": [
+        {
+          "name": "Miriam Makeba",
+          "url": "https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W"
+        }
+      ],
+      "date_added": "2022-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152058,
+      "name": "Where Does It Lead?",
+      "url": "https://open.spotify.com/track/1lSy4teEJ9CaMCoYuEYFFF"
     },
     {
       "album": {

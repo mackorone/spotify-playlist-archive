@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-10",
-  "description": "Gazo au top de la premi\u00e8re playlist de rap fran\u00e7ais !",
+  "description": "Kalash & Damso au top de la premi\u00e8re playlist de rap fran\u00e7ais !",
   "name": "PVNCHLNRS",
   "published_playlist_ids": [
     "4EHhRKwzSbzJAtj2VPo7Qd"
@@ -627,7 +627,7 @@
       ],
       "date_added": "2022-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-07",
       "duration_ms": 213594,
       "name": "Fixette",
       "url": "https://open.spotify.com/track/5sLfmuQHJtPjSORQF2sbrJ"
@@ -1583,6 +1583,28 @@
       "duration_ms": 123846,
       "name": "PETETE",
       "url": "https://open.spotify.com/track/0z3bi63SNZ5ylyHOzb81Uq"
+    },
+    {
+      "album": {
+        "name": "Peur (feat. Ziak)",
+        "url": "https://open.spotify.com/album/5eL561zvNW6ZwbuOxGMSvR"
+      },
+      "artists": [
+        {
+          "name": "Kerchak",
+          "url": "https://open.spotify.com/artist/1nRbtbdYK51y71nVOxu332"
+        },
+        {
+          "name": "Ziak",
+          "url": "https://open.spotify.com/artist/2ubn2zwyYaLdHOCKnTouU2"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190213,
+      "name": "Peur (feat. Ziak)",
+      "url": "https://open.spotify.com/track/7IXQrRgmHxWYWitSlyFY7z"
     },
     {
       "album": {

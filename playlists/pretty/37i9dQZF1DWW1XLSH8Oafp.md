@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW1XLSH8Oafp.md) - [plain]
 
 ### [planet rave](https://open.spotify.com/playlist/37i9dQZF1DWW1XLSH8Oafp)
 
-> ur on the list bb 🪐 featuring venbee
+> ur on the list bb 🪐 featuring nia archives
 
-[Spotify](https://open.spotify.com/user/spotify) - 186,341 likes - 100 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 187,224 likes - 100 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW1XLSH8Oafp.md) - [plain]
 | 42 | [Buzzkill](https://open.spotify.com/track/4p9ROZgApJpuFRKl2Ffhbu) | [Take Van](https://open.spotify.com/artist/3BLx7avD36sNpMNA1nZ7Dj) | [Buzzkill](https://open.spotify.com/album/67kT2zXqPMCGVAfpEf82yo) | 2:54 |
 | 43 | [hello?](https://open.spotify.com/track/0iFY19PUAR7Tf4lUHPfoVE) | [TURQUOISEDEATH](https://open.spotify.com/artist/3TEsU8VzLEGC52THfNvh9B) | [hello?](https://open.spotify.com/album/7D8yPyGKXtZ4VCtGPoBfqt) | 1:22 |
 | 44 | [DESIIRE](https://open.spotify.com/track/3rWHOmqjQ5Rq8BAvklep7R) | [♥ GOJII ♥](https://open.spotify.com/artist/2uKlOWltMsAxTHTsh4UHJY) | [DESIIRE](https://open.spotify.com/album/4CAT5NIGLKgWkFKy2E7Sb7) | 5:04 |
-| 45 | [Open Air \- DJ HEARTSTRING Remix](https://open.spotify.com/track/3MPYfrBFJC6sRPRuObng6H) | [TDJ](https://open.spotify.com/artist/540RtWfpQokIlaRgMDjU9v), [fknsyd](https://open.spotify.com/artist/4fHFFvChjfjG7sAseTwiXd), [DJ HEARTSTRING](https://open.spotify.com/artist/5tcwaJBUyEdxQxvieuQxU7) | [TDJ123 DELUXE](https://open.spotify.com/album/05VFDqT4WtekPdQn8o6V1a) | 6:22 |
+| 45 | [Open Air \- DJ HEARTSTRING Remix](https://open.spotify.com/track/5MNYdLFPbE27xrmhDdZ5cH) | [TDJ](https://open.spotify.com/artist/540RtWfpQokIlaRgMDjU9v), [fknsyd](https://open.spotify.com/artist/4fHFFvChjfjG7sAseTwiXd), [DJ HEARTSTRING](https://open.spotify.com/artist/5tcwaJBUyEdxQxvieuQxU7) | [TDJ123 DELUXE](https://open.spotify.com/album/2x1Ox1a7MYTamrbp11Y6LA) | 6:22 |
 | 46 | [FUN \- yunè pinku Remix](https://open.spotify.com/track/7dUL7g3m05OdcGLcs3V0uS) | [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M), [yunè pinku](https://open.spotify.com/artist/2sY4BbYrbvNVgsNzo6HddD) | [FUN \(yunè pinku Remix\)](https://open.spotify.com/album/69fs5PB0bHIQ8UTUzUWpWo) | 2:51 |
 | 47 | [SUMMER GIRL](https://open.spotify.com/track/49ytn2JKSw0cv0zX4Taws3) | [glue70](https://open.spotify.com/artist/3AsWxxZTFPoCFxM1s8Lg1J) | [SUMMER GIRL](https://open.spotify.com/album/1DsE77o6wyp3Ozp6QFGHXI) | 2:32 |
 | 48 | [Anymore](https://open.spotify.com/track/0UYbhQk9tUzDeqjcsfDFRF) | [YAZ](https://open.spotify.com/artist/6VvnLfGL8XDQomLEa91WPk) | [Anymore](https://open.spotify.com/album/78Q3dFiGFA9wZwpm9OSocq) | 2:30 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW1XLSH8Oafp.md) - [plain]
 | 99 | [C\-C\-Come On](https://open.spotify.com/track/0M1c4H0xUfMzbw1RZD7D7R) | [Harmful Logic](https://open.spotify.com/artist/2bJhXmBzIW5xTAL2LGc6iw) | [C\-C\-Come On](https://open.spotify.com/album/1RZIuaEENRWBqVRDKtyHuW) | 3:39 |
 | 100 | [home](https://open.spotify.com/track/0fAuuR5hoWZtTMpuqqxAGy) | [Two Shell](https://open.spotify.com/artist/4mcHKwboFDmpDBQ4fiOrf3) | [home](https://open.spotify.com/album/1mjbcrgdY8PNeFDGBLsa55) | 4:05 |
 
-Snapshot ID: `MTY2NDUxMDQwMCwwMDAwMDAwMDlkNGE4YjVjYzYxNmU0NTRiNzJhNDczMzdmYWIxNjg3`
+Snapshot ID: `MTY2NTExNTIwMCwwMDAwMDAwMGIxMmI4MzU4OWRhMGFlZjNjM2Q5ZGNjMDBlNTUzNTdm`

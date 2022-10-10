@@ -2184,6 +2184,24 @@
     },
     {
       "album": {
+        "name": "Mera Safar",
+        "url": "https://open.spotify.com/album/5MaDDfFcO8Eao37Crt324Q"
+      },
+      "artists": [
+        {
+          "name": "Iqlipse Nova",
+          "url": "https://open.spotify.com/artist/5tVEtYVMATyQ6OVOetuZlk"
+        }
+      ],
+      "date_added": "2022-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190549,
+      "name": "Mera Safar",
+      "url": "https://open.spotify.com/track/2AB7fsbG0eZJjDGile69CQ"
+    },
+    {
+      "album": {
         "name": "Miracle",
         "url": "https://open.spotify.com/album/2OPof019rnmR6xThgEF71j"
       },
@@ -2298,7 +2316,7 @@
       "date_added": "2022-09-29",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 200000,
+      "duration_ms": 199354,
       "name": "Noor",
       "url": "https://open.spotify.com/track/2SzambF00WN62Gz99DlQxt"
     },
@@ -3251,7 +3269,7 @@
       ],
       "date_added": "2022-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-05",
       "duration_ms": 199000,
       "name": "That Morning",
       "url": "https://open.spotify.com/track/2ZNYeQ0yS3zjTOlvUrhdaW"

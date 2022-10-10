@@ -1,11 +1,65 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "Japanese female rock icons. Cover: BiSH",
+  "description": "Japanese female rock icons. Cover: LOVE PSYCHEDELICO",
   "name": "She Rocks",
   "published_playlist_ids": [
     "5oLzS8mnacSvAW2zqgcbrN"
   ],
   "tracks": [
+    {
+      "album": {
+        "name": "\u5915\u66ae\u308c\u306b\u6b4c\u3046",
+        "url": "https://open.spotify.com/album/7K1IgJV7PyhiFRNMzK0AmT"
+      },
+      "artists": [
+        {
+          "name": "\u30a2\u30ab\u30cd\u30b5\u30b9",
+          "url": "https://open.spotify.com/artist/7E61BhEMgngwg7EPgS17vl"
+        }
+      ],
+      "date_added": "2022-10-04",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-06",
+      "duration_ms": 291000,
+      "name": "0927",
+      "url": "https://open.spotify.com/track/2JcFTzarFRNj9BFdo0T2rW"
+    },
+    {
+      "album": {
+        "name": "Yugure ni Utau",
+        "url": "https://open.spotify.com/album/3K1hdtnC3tvwEDoZQ4Y0mX"
+      },
+      "artists": [
+        {
+          "name": "\u30a2\u30ab\u30cd\u30b5\u30b9",
+          "url": "https://open.spotify.com/artist/7E61BhEMgngwg7EPgS17vl"
+        }
+      ],
+      "date_added": "2022-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291000,
+      "name": "0927",
+      "url": "https://open.spotify.com/track/7wCH4EnCS0mafVPVDACOMG"
+    },
+    {
+      "album": {
+        "name": "1",
+        "url": "https://open.spotify.com/album/2SMgYY7Z70e06DAUNjmYWh"
+      },
+      "artists": [
+        {
+          "name": "MOB CHOIR",
+          "url": "https://open.spotify.com/artist/5HZsYhRCMH3zR0yndRcLVw"
+        }
+      ],
+      "date_added": "2022-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229613,
+      "name": "1",
+      "url": "https://open.spotify.com/track/2XKC1yPYhtI5zPBofGBbzQ"
+    },
     {
       "album": {
         "name": "10\u6708\u7121\u53e3\u306a\u541b\u3092\u5fd8\u308c\u308b",
@@ -163,7 +217,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-05",
       "duration_ms": 196017,
       "name": "Aiaru Sekai",
       "url": "https://open.spotify.com/track/7FzuvU29KpohVxXr4DFcEN"
@@ -1631,7 +1685,7 @@
       ],
       "date_added": "2022-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-05",
       "duration_ms": 206000,
       "name": "I was",
       "url": "https://open.spotify.com/track/7t1vX4bSTlw830w6j17Um0"
@@ -1764,6 +1818,24 @@
     },
     {
       "album": {
+        "name": "choyadoya",
+        "url": "https://open.spotify.com/album/5YJfk2yFzXn8JXXRicS4LZ"
+      },
+      "artists": [
+        {
+          "name": "superuwan",
+          "url": "https://open.spotify.com/artist/3kWDQ2gwxECBuLi7cSyQTH"
+        }
+      ],
+      "date_added": "2022-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188640,
+      "name": "inu",
+      "url": "https://open.spotify.com/track/3QFfhYe5yVWRR9Ot4N4Kev"
+    },
+    {
+      "album": {
         "name": "isari",
         "url": "https://open.spotify.com/album/0MTZoHujhXMBF4GEHBIcQC"
       },
@@ -1775,7 +1847,7 @@
       ],
       "date_added": "2022-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-05",
       "duration_ms": 315653,
       "name": "isari",
       "url": "https://open.spotify.com/track/3nEZ6pjQ17zwXMzT8rtFRy"
@@ -2536,6 +2608,24 @@
     },
     {
       "album": {
+        "name": "PEEK-A-BOO",
+        "url": "https://open.spotify.com/album/60y1SCzUqmL0Mbwh9UQcmi"
+      },
+      "artists": [
+        {
+          "name": "superuwan",
+          "url": "https://open.spotify.com/artist/3kWDQ2gwxECBuLi7cSyQTH"
+        }
+      ],
+      "date_added": "2022-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250080,
+      "name": "mune ga itai",
+      "url": "https://open.spotify.com/track/536FZx9JlrbYDDbGNbLkUp"
+    },
+    {
+      "album": {
         "name": "music",
         "url": "https://open.spotify.com/album/74f2abiQasJUuM0HlRTjM8"
       },
@@ -2677,7 +2767,7 @@
       ],
       "date_added": "2022-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-05",
       "duration_ms": 255313,
       "name": "Nocturne",
       "url": "https://open.spotify.com/track/236ak0krOCdUlhMFuP2Ujl"
@@ -2976,6 +3066,24 @@
     },
     {
       "album": {
+        "name": "POOL",
+        "url": "https://open.spotify.com/album/0jRklgtrDP6D8kMTnNJvhH"
+      },
+      "artists": [
+        {
+          "name": "\u30e4\u30e6\u30e8",
+          "url": "https://open.spotify.com/artist/0JUlkKazTRFzIGvtMe1d1c"
+        }
+      ],
+      "date_added": "2022-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271989,
+      "name": "POOL",
+      "url": "https://open.spotify.com/track/6hiLrjPj5RoC632xTspNtK"
+    },
+    {
+      "album": {
         "name": "Power",
         "url": "https://open.spotify.com/album/1ELo1NACe1pDRtJjsVC836"
       },
@@ -3027,6 +3135,42 @@
       "duration_ms": 266604,
       "name": "Q&A",
       "url": "https://open.spotify.com/track/1LxBNrw3vXh6U87t8kV3l0"
+    },
+    {
+      "album": {
+        "name": "A revolution",
+        "url": "https://open.spotify.com/album/6sUwn2TICQMSAdXBeiq6lL"
+      },
+      "artists": [
+        {
+          "name": "LOVE PSYCHEDELICO",
+          "url": "https://open.spotify.com/artist/5V7OCRPNS7vBRLRkrMVNqp"
+        }
+      ],
+      "date_added": "2022-10-04",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-06",
+      "duration_ms": 240133,
+      "name": "Radio song",
+      "url": "https://open.spotify.com/track/5Li7CiLPW0LxAXw16xys6F"
+    },
+    {
+      "album": {
+        "name": "A revolution",
+        "url": "https://open.spotify.com/album/4hQR4egbzyjzu0MchDMZAD"
+      },
+      "artists": [
+        {
+          "name": "LOVE PSYCHEDELICO",
+          "url": "https://open.spotify.com/artist/5V7OCRPNS7vBRLRkrMVNqp"
+        }
+      ],
+      "date_added": "2022-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240133,
+      "name": "Radio song",
+      "url": "https://open.spotify.com/track/6EzqEvGM8W0ipnjRkxM43X"
     },
     {
       "album": {
@@ -3974,6 +4118,24 @@
     },
     {
       "album": {
+        "name": "Tsuki ga Namida o Nagasuyoru",
+        "url": "https://open.spotify.com/album/1TnIqeOXBIJMLTz22atSjq"
+      },
+      "artists": [
+        {
+          "name": "Maica_n",
+          "url": "https://open.spotify.com/artist/5MDud7grDjx8ISAmWjLFeM"
+        }
+      ],
+      "date_added": "2022-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219666,
+      "name": "Tsuki ga Namida o Nagasuyoru",
+      "url": "https://open.spotify.com/track/2wiFirrejFmndoqcCupcmF"
+    },
+    {
+      "album": {
         "name": "Twilight",
         "url": "https://open.spotify.com/album/4CAyOGS199Ruq0TGxn221c"
       },
@@ -4021,7 +4183,7 @@
       ],
       "date_added": "2022-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-05",
       "duration_ms": 160000,
       "name": "Two minutes",
       "url": "https://open.spotify.com/track/1lwxpEsQQ2GIOg1Ar5rB38"
@@ -4793,7 +4955,7 @@
       ],
       "date_added": "2022-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-05",
       "duration_ms": 348346,
       "name": "\u304a\u3082\u3061\u3083\u7bb1\u306f\u30bf\u30a4\u30e0\u30de\u30b7\u30f3",
       "url": "https://open.spotify.com/track/0sg85QLa5f8Z0m1eWSqkyI"
@@ -5633,6 +5795,24 @@
       "duration_ms": 262266,
       "name": "\u30a2\u30a4\u30dc\u30ea\u30fc",
       "url": "https://open.spotify.com/track/4GMaIw82hDFLPIuqxsLv3A"
+    },
+    {
+      "album": {
+        "name": "\u30a2\u30af\u30a2\u30ea\u30a6\u30e0",
+        "url": "https://open.spotify.com/album/7yMYTapNfaKx4qmbR7QteL"
+      },
+      "artists": [
+        {
+          "name": "tricot",
+          "url": "https://open.spotify.com/artist/5IKKS7LhpdlmMwqIagqf3f"
+        }
+      ],
+      "date_added": "2022-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221400,
+      "name": "\u30a2\u30af\u30a2\u30ea\u30a6\u30e0",
+      "url": "https://open.spotify.com/track/0tU3Q2nmXeRthdgMSa8W0U"
     },
     {
       "album": {
@@ -7793,7 +7973,7 @@
       ],
       "date_added": "2022-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-05",
       "duration_ms": 264174,
       "name": "\u30ed\u30c3\u30af\u30f3\u30ed\u30fc\u30eb\u6b62\u3081\u306a\u3044\u3067",
       "url": "https://open.spotify.com/track/6kDbothbtMtxg1V6XYD8VR"
@@ -9057,7 +9237,7 @@
       ],
       "date_added": "2022-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 260320,
       "name": "\u60b2\u3057\u3044\u30e9\u30d6\u30bd\u30f3\u30b0",
       "url": "https://open.spotify.com/track/6exgbyrb2Bdjob70v2DhHx"
@@ -9479,6 +9659,24 @@
       "duration_ms": 129673,
       "name": "\u66ae\u3089\u3057",
       "url": "https://open.spotify.com/track/1Bo3mAZ6d0DFzvWDdDpUOM"
+    },
+    {
+      "album": {
+        "name": "\u6708\u304c\u6d99\u3092\u6d41\u3059\u591c",
+        "url": "https://open.spotify.com/album/7AyOi29A8SRAcDOojIJBCi"
+      },
+      "artists": [
+        {
+          "name": "Maica_n",
+          "url": "https://open.spotify.com/artist/5MDud7grDjx8ISAmWjLFeM"
+        }
+      ],
+      "date_added": "2022-10-04",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-06",
+      "duration_ms": 219666,
+      "name": "\u6708\u304c\u6d99\u3092\u6d41\u3059\u591c",
+      "url": "https://open.spotify.com/track/68CMuQlO03vyQrGVNHTle2"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe2zbyJVaPNZ.md) - [plain]
 
 > Ambient waves for ethereal days
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,000 likes - 98 songs - 7 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,619 likes - 98 songs - 7 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -107,4 +107,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe2zbyJVaPNZ.md) - [plain]
 | 97 | [Cosmic Dust](https://open.spotify.com/track/0yuKkb9X0PxKU5WWhpPD2i) | [Muffler](https://open.spotify.com/artist/4HSQ4ALTUXgWlSrhfc4LNA) | [Starburst](https://open.spotify.com/album/0lBv6vqeXWUSt8WKyIhv8j) | 3:51 |
 | 98 | [Iridescent Path](https://open.spotify.com/track/4tHjZx4Z77XSC64Zhai6MG) | [Hilyard](https://open.spotify.com/artist/6Eys8fI3z5ifobsUtZqbo0) | [Somnolent](https://open.spotify.com/album/7mtYE21I5eKozv4spdgauR) | 5:51 |
 
-Snapshot ID: `MTY2NDU2MDcyNSwwMDAwMDAwMGZmYzY3ODgzODQ4NmYzNjIzNTA0NmY2NmM5MTY5NDNh`
+Snapshot ID: `MTY2NDg4NzYyMywwMDAwMDAwMGM0NDUxYzkyZDQzNmI0ZGE2ODJiZjNhNjliMGZkOTdh`

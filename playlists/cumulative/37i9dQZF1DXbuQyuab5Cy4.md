@@ -4,7 +4,7 @@
 
 > Scary monsters and filthy drops.
 
-94 songs - 5 hr 43 min - [published](https://open.spotify.com/playlist/0Sw1qMD3QYX3Np7RcmZMZR)
+97 songs - 5 hr 53 min - [published](https://open.spotify.com/playlist/0Sw1qMD3QYX3Np7RcmZMZR)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [Blood](https://open.spotify.com/track/5TTX8tnS8kxYPPCSAFPsCg) | [WHIPPED CREAM](https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi) | [Blood](https://open.spotify.com/album/3u28SLBxnRI3cxwv9zwheu) | 3:00 | 2021-10-28 |  |
 | [Bloody Mary \(Harris & Ford Remix\)](https://open.spotify.com/track/62At4l9VMYuB8nJQPEQ1pd) | [Jebroer](https://open.spotify.com/artist/7jp5R1aY7kmwBYX3jIu9yk), [Harris & Ford](https://open.spotify.com/artist/4FDj6mh458K7m9Txwyj2rt) | [Bloody Mary \(Harris & Ford Remix\)](https://open.spotify.com/album/60wmmReuAG6SHfGkKNkY9V) | 3:08 | 2021-10-28 |  |
 | [Body Count](https://open.spotify.com/track/4L302vPKtjDaRyiXumrCxn) | [INF1N1TE](https://open.spotify.com/artist/3TbFfHyWvQdppfL0TpWufG), [Rico Act](https://open.spotify.com/artist/7MHhTZbxn2XRwXK4s2BFO6) | [Body Count](https://open.spotify.com/album/0TjVLFf4qJn584UIZKehXu) | 3:20 | 2021-10-28 |  |
+| [Bump This](https://open.spotify.com/track/2O5oAio774pIRQGe3mnh5T) | [Caspa](https://open.spotify.com/artist/4nMuaJ4kBLDJCRBizNESI6) | [Dubs In Limbo](https://open.spotify.com/album/3pmTlgjrJEYzS26fKhgshb) | 3:18 | 2022-10-07 |  |
 | [Candy Flip](https://open.spotify.com/track/3GbIAc1YF7taTuU6FG1W13) | [Slushii](https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We) | [Candy Flip](https://open.spotify.com/album/2zWd2Kv0sTPEj4Gae9GJyU) | 3:10 | 2021-10-28 |  |
 | [Cyberspace](https://open.spotify.com/track/5u1mRqeDEiNkLee97q458S) | [1788\-L](https://open.spotify.com/artist/7oB4pCSzvvRtZka6DxXUfN) | [Cyberspace](https://open.spotify.com/album/42Ul7pOsWYrg2OJlAiFB7i) | 4:50 | 2021-10-28 |  |
 | [Dance with Death](https://open.spotify.com/track/2icGHFD0MuDrfyok0hZC0A) | [Ghost Dance](https://open.spotify.com/artist/72xnwCGF31iOuRh3l5JIwZ), [Luz](https://open.spotify.com/artist/1eI0LIircIlC2KbRjJAswD) | [Dance with Death](https://open.spotify.com/album/6fE8CiM9Pmn3XPwx39LhWJ) | 5:52 | 2021-10-28 |  |
@@ -28,6 +29,7 @@
 | [ET](https://open.spotify.com/track/2XcIWtg0axDhkJ0TbpCdbN) | [Slushii](https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We), [RayRay](https://open.spotify.com/artist/4FS6bomikvJR2E9JHNwiAM) | [ET](https://open.spotify.com/album/44zUhPD7drtNUrSkGIAmLH) | 3:11 | 2021-10-28 |  |
 | [Evil Inside \- VIP](https://open.spotify.com/track/3WK7bi8adAzITYZdoSQuZz) | [Dirtyphonics](https://open.spotify.com/artist/4zymhxzJ0UJc74tMHGyoWs), [Bossfight](https://open.spotify.com/artist/1fILrc9B34DjHxSMkJmyBN) | [Evil Inside \(VIP\)](https://open.spotify.com/album/53dtE8qPToUhpY5U8HFzPc) | 3:10 | 2021-10-28 |  |
 | [Facetime](https://open.spotify.com/track/2tEIpLMEMAYXfBSXrqs89p) | [LAXX](https://open.spotify.com/artist/2kDv96OSt2CHxn9zx3pBwx) | [Facetime](https://open.spotify.com/album/4Dxbt4m9TKVhUx5YouFxNj) | 3:39 | 2021-10-28 |  |
+| [Frankenstein's Fury](https://open.spotify.com/track/10rmDaJ80PXKTN4BINMfh6) | [Figure](https://open.spotify.com/artist/5mADpqv2E8KIHDmEhH7wmr) | [Frankenstein's Fury](https://open.spotify.com/album/3l6DpMg71tQ15zQYfxbRF1) | 2:59 | 2022-10-07 |  |
 | [Fugue in D minor \- Spotify Singles](https://open.spotify.com/track/08ooPV5h25QXuoC6oerVuJ) | [Zeds Dead](https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh) | [Spotify Singles](https://open.spotify.com/album/4SZa061qdVYEZTTqE4DfwS) | 4:45 | 2022-09-30 |  |
 | [Ghost Voices](https://open.spotify.com/track/7ipGvvE90ROUNFw7ZBXBTO) | [Virtual Self](https://open.spotify.com/artist/0F52YLV7uWqaJfMMDgG737) | [Virtual Self](https://open.spotify.com/album/7I3PH61aLVNVj4EVvU16WG) | 4:26 | 2021-10-28 |  |
 | [Ghosts](https://open.spotify.com/track/5UALpuD8gWsDQwEnVXyuug) | [SIPPY](https://open.spotify.com/artist/4LLYqe8ogaK9wC1xHlvR5S) | [Ghosts](https://open.spotify.com/album/7AVSiVc6v0OR4aulmhxGro) | 2:40 | 2021-10-28 |  |
@@ -50,6 +52,7 @@
 | [Malice](https://open.spotify.com/track/3fiZLkRiH4AykInDTI4WDP) | [Drezo](https://open.spotify.com/artist/5uiDE9y1o7EEyDbNBo6vl9) | [Malice](https://open.spotify.com/album/1f5aLdBe54mRbZYrYcHpdd) | 4:22 | 2021-10-28 |  |
 | [Monster \- Robin Schulz Remix](https://open.spotify.com/track/4tknhO5RmXIxnpoipMKBmG) | [LUM!X](https://open.spotify.com/artist/0TKFPt9w0AAEnhB9bd0pLy), [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D), [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S) | [Monster \(Robin Schulz Remix\)](https://open.spotify.com/album/67PtnkGcMlHCa1RcYSzleO) | 2:45 | 2021-10-28 |  |
 | [Necromancer](https://open.spotify.com/track/2Qyh9G1sElqu3VzQjsh4Ii) | [Excision](https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb), [Dion Timmer](https://open.spotify.com/artist/06VibSJEr3GLxLBBZhRums) | [Subsidia Dusk: Vol\. 1](https://open.spotify.com/album/25dFd4bki0DXZp2SzAgUAv) | 3:13 | 2021-10-28 |  |
+| [NECROMANCER](https://open.spotify.com/track/4q6M0ocvDwZp0kbnWtYLaF) | [GHENGAR](https://open.spotify.com/artist/6g6OqIpMMbEkhhtEODZaGf), [GHASTLY](https://open.spotify.com/artist/2Sa4c9qKaI7ILJs8D6gUCh) | [NECROMANCER EP](https://open.spotify.com/album/0i5W06nlD4FXK2zLPXqp2w) | 3:48 | 2022-10-07 |  |
 | [Never Have I Felt This](https://open.spotify.com/track/0H7JHndcZJ2SFGx03pUnwp) | [Koven](https://open.spotify.com/artist/3UCbp6D1lvILlxRJT9LnFa) | [Never Have I Felt This](https://open.spotify.com/album/2SBwAsggOvWwOz8afrpUpx) | 4:06 | 2021-10-28 |  |
 | [Never Have I Felt This](https://open.spotify.com/track/1w2HhzB1ptdBzIeTh9NmxG) | [Koven](https://open.spotify.com/artist/3UCbp6D1lvILlxRJT9LnFa) | [Never Have I Felt This](https://open.spotify.com/album/54s0kvex9na7wTYAGWTztM) | 4:06 | 2021-10-28 | 2022-07-29 |
 | [Night Terror \(feat\. Of Mice & Men\)](https://open.spotify.com/track/5AhV1iYCYJfdz8gTaikr5L) | [Kayzo](https://open.spotify.com/artist/72iCiKwu6nu6Qq9emIwzYv), [YULTRON](https://open.spotify.com/artist/3n2H1XlCyS1WQ0vyVUFEma), [Of Mice & Men](https://open.spotify.com/artist/4tususHNaR68xdgLstlGBA) | [Unleashed](https://open.spotify.com/album/58RaTQA8XsNG9T7tl5n0ac) | 3:24 | 2021-10-28 |  |

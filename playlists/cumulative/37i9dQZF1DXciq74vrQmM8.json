@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "welcome to our \ud835\udd9a\ud835\udd93\ud835\udd8e\ud835\udd9b\ud835\udd8a\ud835\udd97\ud835\udd98\ud835\udd8a ft. red leather",
+  "description": "welcome to our \ud835\udd9a\ud835\udd93\ud835\udd8e\ud835\udd9b\ud835\udd8a\ud835\udd97\ud835\udd98\ud835\udd8a ft. scene queen",
   "name": "misfits 2.0",
   "published_playlist_ids": [
     "7v4i1kizdUXc9HxDt7gAmG"
@@ -37,7 +37,7 @@
       ],
       "date_added": "2022-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-07",
       "duration_ms": 159832,
       "name": "<maybe> it's my fault",
       "url": "https://open.spotify.com/track/4w5wkuwuCByenZ6QufdeQN"
@@ -55,7 +55,7 @@
       ],
       "date_added": "2022-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-07",
       "duration_ms": 151911,
       "name": "ABYSS",
       "url": "https://open.spotify.com/track/0oyLeHwK228pw76jx2VZNQ"
@@ -91,7 +91,7 @@
       ],
       "date_added": "2022-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-07",
       "duration_ms": 141500,
       "name": "Alice (Bodies Bodies Bodies)",
       "url": "https://open.spotify.com/track/3tlLXN7iwOhqLhOS6qHh1J"
@@ -243,7 +243,7 @@
       ],
       "date_added": "2022-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-07",
       "duration_ms": 194118,
       "name": "ANXIETY",
       "url": "https://open.spotify.com/track/2OBWPvxRkPHw898IApdrwe"
@@ -1666,7 +1666,7 @@
     },
     {
       "album": {
-        "name": "Fang Dummy",
+        "name": "FANG DUMMY",
         "url": "https://open.spotify.com/album/4qkuZszjUTkx0bVhtiGwMy"
       },
       "artists": [
@@ -1679,7 +1679,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 230672,
-      "name": "Fang Dummy",
+      "name": "FANG DUMMY",
       "url": "https://open.spotify.com/track/1l7f2QP8JcJDP0jAyxxjA7"
     },
     {
@@ -3530,6 +3530,24 @@
     },
     {
       "album": {
+        "name": "MIGRAINE",
+        "url": "https://open.spotify.com/album/2nsO3VsncuuvdWupY5obtR"
+      },
+      "artists": [
+        {
+          "name": "WHOKILLEDXIX",
+          "url": "https://open.spotify.com/artist/0RSogp4qeGu0ZM71JRTay3"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153882,
+      "name": "MIGRAINE",
+      "url": "https://open.spotify.com/track/0HFX1Lyaeu5i2J1jK5QH3f"
+    },
+    {
+      "album": {
         "name": "MIKE",
         "url": "https://open.spotify.com/album/15SUIAmkfSHSByyyH4Savt"
       },
@@ -3599,6 +3617,28 @@
       "duration_ms": 146474,
       "name": "Misfit",
       "url": "https://open.spotify.com/track/0VGRtiYYW4ch4SrkFkLlYJ"
+    },
+    {
+      "album": {
+        "name": "Misfits",
+        "url": "https://open.spotify.com/album/4aonTkl1RYvNVzJlOcIVVa"
+      },
+      "artists": [
+        {
+          "name": "Magnolia Park",
+          "url": "https://open.spotify.com/artist/7B76SsfzG0wWk1WEvGzCmY"
+        },
+        {
+          "name": "Taylor Acorn",
+          "url": "https://open.spotify.com/artist/1A0WloDoRE88uUwo3wensY"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178263,
+      "name": "Misfits",
+      "url": "https://open.spotify.com/track/0b7hOMh8Md7QaMC9Dhzo4n"
     },
     {
       "album": {
@@ -4381,6 +4421,24 @@
       "duration_ms": 163318,
       "name": "PLASTIC",
       "url": "https://open.spotify.com/track/7KF3yW2VZX7Ddu6gPREdUf"
+    },
+    {
+      "album": {
+        "name": "SUCKERPUNCH",
+        "url": "https://open.spotify.com/album/04fys4zcFF3rawoRTl1Lgw"
+      },
+      "artists": [
+        {
+          "name": "chloe moriondo",
+          "url": "https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143426,
+      "name": "Plastic Purse",
+      "url": "https://open.spotify.com/track/51XzyvRLe38bouIZCv5itX"
     },
     {
       "album": {
@@ -5715,6 +5773,24 @@
       "duration_ms": 131707,
       "name": "Underrated Popstar",
       "url": "https://open.spotify.com/track/03YAkNt5ctr4vQwqmNPybe"
+    },
+    {
+      "album": {
+        "name": "<COPINGMECHANISM>",
+        "url": "https://open.spotify.com/album/0oMXn0MNLNyvB4iJPZXOuV"
+      },
+      "artists": [
+        {
+          "name": "WILLOW",
+          "url": "https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125901,
+      "name": "ur a <stranger>",
+      "url": "https://open.spotify.com/track/4OvlUfaJKuZ9aJVAJWmwyE"
     },
     {
       "album": {

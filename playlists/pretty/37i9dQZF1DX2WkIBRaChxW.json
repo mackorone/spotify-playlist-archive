@@ -1,13 +1,29 @@
 {
-  "description": "What's happening in R&B, right now. Cover: dvsn \u2797",
-  "num_followers": 355402,
+  "description": "What's happening in R&B, right now. Cover: Bryson Tiller",
+  "num_followers": 355602,
   "original_name": "R&B Right Now",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDUxMDQwMCwwMDAwMDAwMDMwYWM3NGZiMmU0MjZlMmQxMWY1ODY2YjY4Njg1Y2Qw",
+  "snapshot_id": "MTY2NTExNTIwMCwwMDAwMDAwMDQ3YzlmY2M3MTdhMmE0YWM0MmYwZDhiNGQxNzEyOTE4",
   "tracks": [
+    {
+      "added_at": "2022-09-30 04:00:00",
+      "album": {
+        "name": "Outside",
+        "url": "https://open.spotify.com/album/2Wm8mlkUTt3yzDZ3qrPIe6"
+      },
+      "artists": [
+        {
+          "name": "Bryson Tiller",
+          "url": "https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs"
+        }
+      ],
+      "duration_ms": 188579,
+      "name": "Outside",
+      "url": "https://open.spotify.com/track/4VY32hdU4byJ6cpEBAXRul"
+    },
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
@@ -43,22 +59,6 @@
       "duration_ms": 156314,
       "name": "Many Men - Spotify Singles",
       "url": "https://open.spotify.com/track/6WnWJWHAEG1m2z8XgvVB1R"
-    },
-    {
-      "added_at": "2022-09-30 04:00:00",
-      "album": {
-        "name": "Outside",
-        "url": "https://open.spotify.com/album/2Wm8mlkUTt3yzDZ3qrPIe6"
-      },
-      "artists": [
-        {
-          "name": "Bryson Tiller",
-          "url": "https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs"
-        }
-      ],
-      "duration_ms": 188579,
-      "name": "Outside",
-      "url": "https://open.spotify.com/track/4VY32hdU4byJ6cpEBAXRul"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -137,6 +137,22 @@
       "url": "https://open.spotify.com/track/7aXpFdZ8WIvpSmvu1AW5X7"
     },
     {
+      "added_at": "2022-10-07 04:00:00",
+      "album": {
+        "name": "Trust",
+        "url": "https://open.spotify.com/album/4R536rrBEQjh7g1MrhasoS"
+      },
+      "artists": [
+        {
+          "name": "RealestK",
+          "url": "https://open.spotify.com/artist/35R1B97CfrqKFFI3QBkTDx"
+        }
+      ],
+      "duration_ms": 165419,
+      "name": "Trust",
+      "url": "https://open.spotify.com/track/6YecmNnABghHDPTNlG3md5"
+    },
+    {
       "added_at": "2022-09-30 04:00:00",
       "album": {
         "name": "Love, Damini",
@@ -172,7 +188,7 @@
           "url": "https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P"
         }
       ],
-      "duration_ms": 183893,
+      "duration_ms": 183895,
       "name": "ONLY ONE",
       "url": "https://open.spotify.com/track/04xnC2Uwq38RPrwCLv6f0G"
     },
@@ -227,22 +243,6 @@
       "duration_ms": 180953,
       "name": "Lost Me",
       "url": "https://open.spotify.com/track/6TSO4hwz9WGrEUY7ABGVim"
-    },
-    {
-      "added_at": "2022-09-30 04:00:00",
-      "album": {
-        "name": "Bruce Wayne",
-        "url": "https://open.spotify.com/album/5BOehCpbaZHz4WDpQVFUvb"
-      },
-      "artists": [
-        {
-          "name": "RealestK",
-          "url": "https://open.spotify.com/artist/35R1B97CfrqKFFI3QBkTDx"
-        }
-      ],
-      "duration_ms": 123629,
-      "name": "Bruce Wayne",
-      "url": "https://open.spotify.com/track/2POzxzlAyRJ2yEMD8XyV7a"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -536,7 +536,7 @@
           "url": "https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83"
         }
       ],
-      "duration_ms": 223160,
+      "duration_ms": 223157,
       "name": "FOREVER (with 6LACK)",
       "url": "https://open.spotify.com/track/2lVYLiHGIX6GajMqYXF1Un"
     },

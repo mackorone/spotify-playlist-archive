@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-04",
-  "description": "Brav\u00edas, rom\u00e1nticas y rancheras, las mejores canciones norte\u00f1as. Los Dos Carnales en portada.",
+  "description": "Brav\u00edas, rom\u00e1nticas y rancheras, las mejores canciones norte\u00f1as. Duelo en portada.",
   "name": "Norte\u00f1o 2022",
   "published_playlist_ids": [
     "4CWnohjaUvTAEcQVufM78y"
@@ -269,7 +269,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-27",
+      "date_removed": "2022-10-08",
       "duration_ms": 143146,
       "name": "Bola De Envidiosos",
       "url": "https://open.spotify.com/track/7Ke15MvpKaBJ1cdsVst69S"
@@ -341,7 +341,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-04",
       "duration_ms": 199197,
       "name": "Caricatura",
       "url": "https://open.spotify.com/track/2T5nAEkXMX49j29nMVt6qU"
@@ -413,7 +413,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-04",
       "duration_ms": 179226,
       "name": "Cuando Me Besas",
       "url": "https://open.spotify.com/track/6ZdXJXmzxsKFB4nKfpne5D"
@@ -503,7 +503,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-09",
       "duration_ms": 166040,
       "name": "Cu\u00e9ntame",
       "url": "https://open.spotify.com/track/2zJ1zCoUtHb6dt7C5Q7LqT"
@@ -1120,6 +1120,28 @@
     },
     {
       "album": {
+        "name": "El \u00c1rbol del Mayo",
+        "url": "https://open.spotify.com/album/4azUaJgvQzzZ13mRRfxx4j"
+      },
+      "artists": [
+        {
+          "name": "El Fantasma",
+          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
+        },
+        {
+          "name": "Enigma Norte\u00f1o",
+          "url": "https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236061,
+      "name": "El \u00c1rbol del Mayo",
+      "url": "https://open.spotify.com/track/3eU5K7wg8BSv70Jifvyf0A"
+    },
+    {
+      "album": {
         "name": "Enamorado",
         "url": "https://open.spotify.com/album/1JNPLcUJAcPHnkB6cgxU39"
       },
@@ -1565,7 +1587,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-01",
+      "date_removed": "2022-10-05",
       "duration_ms": 156595,
       "name": "La \u00daltima y Nos Vamos",
       "url": "https://open.spotify.com/track/3CqT8gjOHWBDaJ7yp4QtFb"
@@ -1695,10 +1717,28 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-06",
       "duration_ms": 187929,
       "name": "Mas Que Amigos - En vivo",
       "url": "https://open.spotify.com/track/2i6er0a1fHBsxibw8g3jNX"
+    },
+    {
+      "album": {
+        "name": "En Vivo, Vol.1",
+        "url": "https://open.spotify.com/album/6IowhUMQKAxWr2V7qyPbcM"
+      },
+      "artists": [
+        {
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187929,
+      "name": "Mas Que Amigos - En Vivo",
+      "url": "https://open.spotify.com/track/5x3RvunGAJ3Ws7r5yhFKeB"
     },
     {
       "album": {
@@ -1829,6 +1869,24 @@
       "duration_ms": 134785,
       "name": "Mi Trokita Cumbia",
       "url": "https://open.spotify.com/track/0TwWnaZ6JGfVuN4iZq2BzJ"
+    },
+    {
+      "album": {
+        "name": "Millennial",
+        "url": "https://open.spotify.com/album/2eTrKUYyEnLdvN6awc6PK4"
+      },
+      "artists": [
+        {
+          "name": "C\u00f3digo FN",
+          "url": "https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164400,
+      "name": "Millennial",
+      "url": "https://open.spotify.com/track/1XCotAsDLWl4Xv1hy9qaiG"
     },
     {
       "album": {
@@ -1980,6 +2038,24 @@
     },
     {
       "album": {
+        "name": "No Digas No",
+        "url": "https://open.spotify.com/album/1AUg2PEpmCRm9G82UH0NGb"
+      },
+      "artists": [
+        {
+          "name": "Duelo",
+          "url": "https://open.spotify.com/artist/0nnp7oJpY2J6yZOqtdKaWq"
+        }
+      ],
+      "date_added": "2022-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199298,
+      "name": "No Digas No",
+      "url": "https://open.spotify.com/track/16358eKjCVFsvHs7fy0UCC"
+    },
+    {
+      "album": {
         "name": "No Estar\u00e9 Aqu\u00ed",
         "url": "https://open.spotify.com/album/37w7YHhpXOlpSPpiXm4D0b"
       },
@@ -2089,10 +2165,28 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-07",
       "duration_ms": 194019,
       "name": "No Se Va",
       "url": "https://open.spotify.com/track/5TXLMRrIet3CQxkyBZc3yE"
+    },
+    {
+      "album": {
+        "name": "No Se Va (En Vivo)",
+        "url": "https://open.spotify.com/album/700G54RNkWryfdCZdfyw7A"
+      },
+      "artists": [
+        {
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+        }
+      ],
+      "date_added": "2022-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194019,
+      "name": "No Se Va - En Vivo",
+      "url": "https://open.spotify.com/track/5JhUm1v5AbI5Yu6jLKCPRO"
     },
     {
       "album": {
@@ -2783,7 +2877,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-06",
       "duration_ms": 173305,
       "name": "Super Poderes",
       "url": "https://open.spotify.com/track/0pDdSWpGQR3kHsKFU9BPvo"
@@ -2913,6 +3007,24 @@
       "duration_ms": 209742,
       "name": "Todav\u00eda No Sabe - Radio",
       "url": "https://open.spotify.com/track/3alt3dQHiothn0qCSZf5cJ"
+    },
+    {
+      "album": {
+        "name": "Tu C\u00e1rcel",
+        "url": "https://open.spotify.com/album/6TI145XlTYny1EKWi07Qvg"
+      },
+      "artists": [
+        {
+          "name": "La Alianza Norte\u00f1a",
+          "url": "https://open.spotify.com/artist/6RTbXTYbxbg4hHHwu12xdw"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157354,
+      "name": "Tu C\u00e1rcel",
+      "url": "https://open.spotify.com/track/7iIkdDkrVcyPulI2gXLTYP"
     },
     {
       "album": {

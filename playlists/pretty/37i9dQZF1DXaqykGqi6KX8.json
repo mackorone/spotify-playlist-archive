@@ -1,12 +1,12 @@
 {
   "description": "A collection of the best Arab metal.  Cover: <a href=\"spotify:artist:63U8atFXZ3sax4eeV212tq\">Coat Of Arms</a>",
-  "num_followers": 28823,
+  "num_followers": 29092,
   "original_name": "Arab Metal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzNDE5OTM2NywwMDAwMDAwMDdiY2E2Zjk2YWE5NzIzYzkzZjkwY2U2MzkwODcyZTY5",
+  "snapshot_id": "MTYzNDE5OTM2NywwMDAwMDAwMDkwOWQ0YWFjMGQ2M2M3MmZkOGQwYmM5MWNmZDBlNWNl",
   "tracks": [
     {
       "added_at": "2021-10-14 08:16:07",
@@ -171,22 +171,6 @@
     {
       "added_at": "2021-10-14 08:16:07",
       "album": {
-        "name": "Legacy",
-        "url": "https://open.spotify.com/album/7ocvxAkixEXHnmw88mhBjH"
-      },
-      "artists": [
-        {
-          "name": "Myrath",
-          "url": "https://open.spotify.com/artist/72500XOYPw5e7OgFWuW2Gl"
-        }
-      ],
-      "duration_ms": 108559,
-      "name": "Jasmin",
-      "url": "https://open.spotify.com/track/4TtBKEv55BOjuAGgcctDj9"
-    },
-    {
-      "added_at": "2021-10-14 08:16:07",
-      "album": {
         "name": "Betweenatna",
         "url": "https://open.spotify.com/album/33a4lA6Cx4c1XzygMiuru8"
       },
@@ -199,6 +183,22 @@
       "duration_ms": 242155,
       "name": "Lay chafi",
       "url": "https://open.spotify.com/track/5WCLyTCEPTz3f8Q4AnSZqm"
+    },
+    {
+      "added_at": "2021-10-14 08:16:07",
+      "album": {
+        "name": "Legacy",
+        "url": "https://open.spotify.com/album/7ocvxAkixEXHnmw88mhBjH"
+      },
+      "artists": [
+        {
+          "name": "Myrath",
+          "url": "https://open.spotify.com/artist/72500XOYPw5e7OgFWuW2Gl"
+        }
+      ],
+      "duration_ms": 108559,
+      "name": "Jasmin",
+      "url": "https://open.spotify.com/track/4TtBKEv55BOjuAGgcctDj9"
     },
     {
       "added_at": "2021-10-14 08:16:07",
@@ -219,18 +219,18 @@
     {
       "added_at": "2021-10-14 08:16:07",
       "album": {
-        "name": "Inferno",
-        "url": "https://open.spotify.com/album/2zj4b2QYe8CljpJiAWzvpp"
+        "name": "The Order of Amenti",
+        "url": "https://open.spotify.com/album/1F4dwcJKvBx6KOnQoWcv01"
       },
       "artists": [
         {
-          "name": "Coat Of Arms",
-          "url": "https://open.spotify.com/artist/63U8atFXZ3sax4eeV212tq"
+          "name": "Crescent",
+          "url": "https://open.spotify.com/artist/4VsnXbsjg8NzTZ2hEkgHvz"
         }
       ],
-      "duration_ms": 196344,
-      "name": "Inferno",
-      "url": "https://open.spotify.com/track/4ff0WAyXQHgij8hgk1HOGU"
+      "duration_ms": 240000,
+      "name": "The Twelfth Gate",
+      "url": "https://open.spotify.com/track/11SdDosI5yqCAe8G5nBOog"
     },
     {
       "added_at": "2021-10-14 08:16:07",
@@ -251,22 +251,6 @@
     {
       "added_at": "2021-10-14 08:16:07",
       "album": {
-        "name": "The Order of Amenti",
-        "url": "https://open.spotify.com/album/1F4dwcJKvBx6KOnQoWcv01"
-      },
-      "artists": [
-        {
-          "name": "Crescent",
-          "url": "https://open.spotify.com/artist/4VsnXbsjg8NzTZ2hEkgHvz"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "The Twelfth Gate",
-      "url": "https://open.spotify.com/track/11SdDosI5yqCAe8G5nBOog"
-    },
-    {
-      "added_at": "2021-10-14 08:16:07",
-      "album": {
         "name": "Wasted Years",
         "url": "https://open.spotify.com/album/4m9InB8pZlZLUy1DsFBmAw"
       },
@@ -283,18 +267,18 @@
     {
       "added_at": "2021-10-14 08:16:07",
       "album": {
-        "name": "Aftermath",
-        "url": "https://open.spotify.com/album/23VDqGZBZwUKvpaO03O0lq"
+        "name": "Inferno",
+        "url": "https://open.spotify.com/album/2zj4b2QYe8CljpJiAWzvpp"
       },
       "artists": [
         {
-          "name": "Acyl",
-          "url": "https://open.spotify.com/artist/3lNu61NAziC5x45j6vJv9F"
+          "name": "Coat Of Arms",
+          "url": "https://open.spotify.com/artist/63U8atFXZ3sax4eeV212tq"
         }
       ],
-      "duration_ms": 336346,
-      "name": "Son of Muhieddine",
-      "url": "https://open.spotify.com/track/4QRjuVSPlAIDZP3KfiBwt1"
+      "duration_ms": 196344,
+      "name": "Inferno",
+      "url": "https://open.spotify.com/track/4ff0WAyXQHgij8hgk1HOGU"
     },
     {
       "added_at": "2021-10-14 08:16:07",
@@ -331,6 +315,22 @@
     {
       "added_at": "2021-10-14 08:16:07",
       "album": {
+        "name": "Aftermath",
+        "url": "https://open.spotify.com/album/23VDqGZBZwUKvpaO03O0lq"
+      },
+      "artists": [
+        {
+          "name": "Acyl",
+          "url": "https://open.spotify.com/artist/3lNu61NAziC5x45j6vJv9F"
+        }
+      ],
+      "duration_ms": 336346,
+      "name": "Son of Muhieddine",
+      "url": "https://open.spotify.com/track/4QRjuVSPlAIDZP3KfiBwt1"
+    },
+    {
+      "added_at": "2021-10-14 08:16:07",
+      "album": {
         "name": "Znousland 2",
         "url": "https://open.spotify.com/album/0HXnt2qsur4HpiY1DlRI6e"
       },
@@ -343,6 +343,22 @@
       "duration_ms": 242000,
       "name": "Khoroto (Gultrah Sound System)",
       "url": "https://open.spotify.com/track/5JW5FWbRjkcANrIXxjHPJx"
+    },
+    {
+      "added_at": "2021-10-14 08:16:07",
+      "album": {
+        "name": "Ma Adesh Feeha (We've Had It)",
+        "url": "https://open.spotify.com/album/6eltMmaoFofuMEFYMp4TJW"
+      },
+      "artists": [
+        {
+          "name": "Khalas",
+          "url": "https://open.spotify.com/artist/5ScNEqoqJISrxyWLJSDVXX"
+        }
+      ],
+      "duration_ms": 239674,
+      "name": "Inta Omri (You Are My Life)",
+      "url": "https://open.spotify.com/track/3ooVc9kPY6DNpCxM2srJtb"
     },
     {
       "added_at": "2021-10-14 08:16:07",
@@ -379,22 +395,6 @@
     {
       "added_at": "2021-10-14 08:16:07",
       "album": {
-        "name": "Ma Adesh Feeha (We've Had It)",
-        "url": "https://open.spotify.com/album/6eltMmaoFofuMEFYMp4TJW"
-      },
-      "artists": [
-        {
-          "name": "Khalas",
-          "url": "https://open.spotify.com/artist/5ScNEqoqJISrxyWLJSDVXX"
-        }
-      ],
-      "duration_ms": 239674,
-      "name": "Inta Omri (You Are My Life)",
-      "url": "https://open.spotify.com/track/3ooVc9kPY6DNpCxM2srJtb"
-    },
-    {
-      "added_at": "2021-10-14 08:16:07",
-      "album": {
         "name": "Wa Ma Khufiya Kana A'atham",
         "url": "https://open.spotify.com/album/5AVtqTyC8BWXrHzHhfbk38"
       },
@@ -427,38 +427,6 @@
     {
       "added_at": "2021-10-14 08:16:07",
       "album": {
-        "name": "Gnawi",
-        "url": "https://open.spotify.com/album/41p0qWCRG9MT7Rtirx1y2B"
-      },
-      "artists": [
-        {
-          "name": "Al-Qasar",
-          "url": "https://open.spotify.com/artist/5YNogRtX8STIHo3YmOTR7r"
-        }
-      ],
-      "duration_ms": 357934,
-      "name": "Gnawi",
-      "url": "https://open.spotify.com/track/5dmikvdu7jfOtfUk9hu2el"
-    },
-    {
-      "added_at": "2021-10-14 08:16:07",
-      "album": {
-        "name": "Sidi Arbi 2",
-        "url": "https://open.spotify.com/album/26nQPOmPYYNujrR5CSPkQj"
-      },
-      "artists": [
-        {
-          "name": "Znous",
-          "url": "https://open.spotify.com/artist/3Z5dr3yRC0mbwGzkGoCYyx"
-        }
-      ],
-      "duration_ms": 231000,
-      "name": "Sidi Arbi 2",
-      "url": "https://open.spotify.com/track/1opJhxEOwxwbxMJCCojg1h"
-    },
-    {
-      "added_at": "2021-10-14 08:16:07",
-      "album": {
         "name": "Garden of Dystopia",
         "url": "https://open.spotify.com/album/01f26cqA6rP4x4YQ43phM9"
       },
@@ -487,6 +455,38 @@
       "duration_ms": 666510,
       "name": "I Am the Beast",
       "url": "https://open.spotify.com/track/3esEno7VbHhFQly6SYeBV8"
+    },
+    {
+      "added_at": "2021-10-14 08:16:07",
+      "album": {
+        "name": "Sidi Arbi 2",
+        "url": "https://open.spotify.com/album/26nQPOmPYYNujrR5CSPkQj"
+      },
+      "artists": [
+        {
+          "name": "Znous",
+          "url": "https://open.spotify.com/artist/3Z5dr3yRC0mbwGzkGoCYyx"
+        }
+      ],
+      "duration_ms": 231000,
+      "name": "Sidi Arbi 2",
+      "url": "https://open.spotify.com/track/1opJhxEOwxwbxMJCCojg1h"
+    },
+    {
+      "added_at": "2021-10-14 08:16:07",
+      "album": {
+        "name": "GILGAMESH",
+        "url": "https://open.spotify.com/album/4yfjrGtClK3NfmzXRuV20y"
+      },
+      "artists": [
+        {
+          "name": "Acrassicauda",
+          "url": "https://open.spotify.com/artist/3MN7LhOUWGVnrRAwc1vtvG"
+        }
+      ],
+      "duration_ms": 188734,
+      "name": "The Cost Of Everything And The Value Of Nothing",
+      "url": "https://open.spotify.com/track/34k1SirFGrzHpYUrwiFNAk"
     }
   ],
   "unique_name": "Arab Metal",

@@ -494,6 +494,24 @@
     },
     {
       "album": {
+        "name": "Blue",
+        "url": "https://open.spotify.com/album/67eKzGIohJwUN0to526eY8"
+      },
+      "artists": [
+        {
+          "name": "Sleepmoon",
+          "url": "https://open.spotify.com/artist/46ipcNL1MA2CAdElB0jki4"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108076,
+      "name": "Blue",
+      "url": "https://open.spotify.com/track/0nNHzlAaX6Rcg6MYXLSFkg"
+    },
+    {
+      "album": {
         "name": "Brahms Lullaby",
         "url": "https://open.spotify.com/album/78CVjmcZf59p7ouiZVEfhQ"
       },
@@ -581,6 +599,24 @@
       "duration_ms": 88038,
       "name": "Calm Story",
       "url": "https://open.spotify.com/track/2JfSBZNtR4RlzoTtuASeO7"
+    },
+    {
+      "album": {
+        "name": "Captain Adventure",
+        "url": "https://open.spotify.com/album/73UN2PPCs3a0JbPFbN1XTO"
+      },
+      "artists": [
+        {
+          "name": "Candy Pirates",
+          "url": "https://open.spotify.com/artist/5t0D8K9ZJUzi0tNnuwZTjn"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 94000,
+      "name": "Captain Adventure",
+      "url": "https://open.spotify.com/track/7MpoAKqBEqzUYlCUKseSZq"
     },
     {
       "album": {
@@ -1495,7 +1531,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 109935,
       "name": "My Bedtime Fairytale",
       "url": "https://open.spotify.com/track/6g1ykf0HVQpZwnNolxNZrK"
@@ -2204,6 +2240,24 @@
     },
     {
       "album": {
+        "name": "Teeny Tiny Fortress",
+        "url": "https://open.spotify.com/album/3IMKliBe95wlMROqgquHC3"
+      },
+      "artists": [
+        {
+          "name": "Laila Walton",
+          "url": "https://open.spotify.com/artist/6JuIEojmY6muknH6pXp4ZR"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 87000,
+      "name": "Teeny Tiny Fortress",
+      "url": "https://open.spotify.com/track/1sYRJMBcaS5TIfelrS4MXE"
+    },
+    {
+      "album": {
         "name": "Sailor Went To Sea",
         "url": "https://open.spotify.com/album/4pHl7jAk6iXfpnkCRIScw6"
       },
@@ -2219,6 +2273,24 @@
       "duration_ms": 46250,
       "name": "Ten Green Bottles",
       "url": "https://open.spotify.com/track/253pJVE3sYCzpEWZqteYZh"
+    },
+    {
+      "album": {
+        "name": "The Astronaut",
+        "url": "https://open.spotify.com/album/7AaVdOmjThttQc8PsP8bQV"
+      },
+      "artists": [
+        {
+          "name": "Three Potatoes",
+          "url": "https://open.spotify.com/artist/2mbvwbw8vinmBCmtNmTOTq"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 78000,
+      "name": "The Astronaut",
+      "url": "https://open.spotify.com/track/6fh2DF5RlwJwIuvpTUHSqw"
     },
     {
       "album": {

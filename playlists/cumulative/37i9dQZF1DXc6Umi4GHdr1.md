@@ -4,7 +4,7 @@
 
 > Free your mind and let your thoughts flow to the sounds of guitar.
 
-123 songs - 6 hr 0 min - [published](https://open.spotify.com/playlist/4HU2Rw6bNgsjgvEsWWL6e8)
+128 songs - 6 hr 13 min - [published](https://open.spotify.com/playlist/4HU2Rw6bNgsjgvEsWWL6e8)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [Anoranza](https://open.spotify.com/track/6aq1erKhdTigJdqnoeWCrz) | [Gabriella Vargas Luna](https://open.spotify.com/artist/1P3NtjxAwU5gdEev4Pd93O) | [Anoranza](https://open.spotify.com/album/29qvE6ctOnyrUJWZODkMhV) | 2:48 | 2021-12-10 |  |
 | [Arbonne](https://open.spotify.com/track/39lP6wfJd0sADo8QQVNuPo) | [Frederic Dupont](https://open.spotify.com/artist/1kG7NP29tzvsYI6dEmOZFF) | [Iara](https://open.spotify.com/album/0gPVXKxCJ2nkXFiG1HPMtb) | 3:17 | 2022-03-03 |  |
 | [As Long As You Are By My Side](https://open.spotify.com/track/2UrLjcS494QMLJbzYgOXht) | [Mike Hense](https://open.spotify.com/artist/3NU4JVUYY3da2SyQjksPDh) | [As Long As You Are By My Side](https://open.spotify.com/album/6V5508TydVNEnHXsgUeW0q) | 2:22 | 2021-12-10 | 2022-09-23 |
+| [Aurora](https://open.spotify.com/track/6uWXrNa4zpk4jWM0cDsoLR) | [Alexa Popov](https://open.spotify.com/artist/0qVJFO1tdBqdhHfwcBoHfE) | [Aurora](https://open.spotify.com/album/3nGBzed6ba1PIVvGDFTIaM) | 2:13 | 2022-10-07 |  |
 | [Bagatelle Valley](https://open.spotify.com/track/1JaFCtOHjdzp0X5ReBZj4g) | [Nylonwings](https://open.spotify.com/artist/2FLK3ubX0vLLfbU5ViuJTN) | [Lluvia Bienvenida](https://open.spotify.com/album/4TItwlcBMFW12yGES5lBCA) | 3:07 | 2021-12-10 |  |
 | [Ballerine de Cirque](https://open.spotify.com/track/47lZktZxd7KahwX8Xt5fYT) | [DeLand](https://open.spotify.com/artist/1Aop9zFg2iGOHdCIIbCWZ0) | [Ballerine de Cirque](https://open.spotify.com/album/4V3T2e9DkFCXJgmFftUmYG) | 2:47 | 2021-12-10 | 2022-04-22 |
 | [Barre des Écrins](https://open.spotify.com/track/72hU3FPZi4aiqzt5paPu7x) | [Rex Lopes](https://open.spotify.com/artist/45X82ZBJp4VUU6UkCXNm54) | [Saludo](https://open.spotify.com/album/6ZWaw4NPpuBF57v0ap05Ug) | 3:09 | 2021-12-10 | 2022-07-22 |
@@ -87,6 +88,7 @@
 | [Peace](https://open.spotify.com/track/6F0EP7RuYpUsIvppMg4NvY) | [Tim Hans](https://open.spotify.com/artist/432QjwpddzTUEL02W60QRg) | [Peace](https://open.spotify.com/album/6mwJ5ErXnK8ylr8AidBzsR) | 2:45 | 2022-03-03 | 2022-07-29 |
 | [Photos of the Sun](https://open.spotify.com/track/6pnuVKbhK0ROctyEzFpz5G) | [Lennox Lorenzo](https://open.spotify.com/artist/6t2AbQr1GudAPoxHZSsOTM) | [Photos of the Sun](https://open.spotify.com/album/6rKBI95x3OvQyTnyuNYXeH) | 2:53 | 2021-12-10 |  |
 | [Pinus Halepensis](https://open.spotify.com/track/5vHDaXBGHiN5AroXmGjucE) | [Mario Regio](https://open.spotify.com/artist/37J9hiCCgzUYyi8V46abD2) | [Pinus Halepensis](https://open.spotify.com/album/5VbSF6F1JbowAFGpB3YB9C) | 2:35 | 2021-12-10 | 2022-05-27 |
+| [Porto Fino](https://open.spotify.com/track/3GflHrUfFb7mQi5GYsQ1i5) | [Pavel Bittová](https://open.spotify.com/artist/6XfO8fz3xbhOyC53SuSiQ9) | [Porto Fino](https://open.spotify.com/album/08FqjkBw2J8PNV86G1o3Vf) | 2:35 | 2022-10-07 |  |
 | [Primrose](https://open.spotify.com/track/0LQs4d7gVIBlqKCbWuF2R1) | [Werner Ellis](https://open.spotify.com/artist/6ipIg3Lr5yMA3BhgN8D6ai) | [Primrose](https://open.spotify.com/album/5Gh7vqOzgceuNfyFBzR4nT) | 2:48 | 2021-12-10 |  |
 | [Purungeo](https://open.spotify.com/track/602kc4KIpZZ0D3wHRgfhEt) | [Moon Guitar](https://open.spotify.com/artist/2nvKK4Tioprvfztd0hbEQz) | [El Potrero](https://open.spotify.com/album/72dgfdG0wp3V71Tp15Mx5E) | 2:29 | 2021-12-10 |  |
 | [Quadratus](https://open.spotify.com/track/4fLFwoT3vSS0T91CoM3ret) | [Acusticalia](https://open.spotify.com/artist/0JsktCrX85DtrZ4PWbs3bv) | [Quadratus](https://open.spotify.com/album/3grqGdMjTua4nwiGXKc7GB) | 2:43 | 2021-12-10 | 2022-07-29 |
@@ -103,9 +105,11 @@
 | [Soon Enough](https://open.spotify.com/track/6W7rCXxaqacJGS4Lo6w3pf) | [Peder Falk](https://open.spotify.com/artist/1FwT2tXznx06RdocBzl16z) | [Soon Enough](https://open.spotify.com/album/3QQXybzOkugKZwfe9kX2lV) | 2:05 | 2022-03-03 |  |
 | [Southern](https://open.spotify.com/track/1MZDSZNmYSWR5IIRmmPCXm) | [Daniel Kaede](https://open.spotify.com/artist/6aup7uM4yUHX9NLba0sxmt) | [Southern](https://open.spotify.com/album/0s2CFBb8tEHleuDk01vwfz) | 2:38 | 2021-12-10 |  |
 | [Speak Once More](https://open.spotify.com/track/2HUIWdVfSsoLeC20cgX7YB) | [Katharina Becquer](https://open.spotify.com/artist/5BT146Y5PHI3f8l5ocNQCC) | [Speak Once More](https://open.spotify.com/album/4n0apJdJD2i8Z2xajNujPb) | 1:51 | 2022-06-24 | 2022-07-22 |
+| [Sternentanz](https://open.spotify.com/track/2o0rYiDgx8pxj4oMh75IUY) | [Michael Reiss](https://open.spotify.com/artist/0KuRSjM6OFX0mH6GW5Shvy) | [Polarlicht](https://open.spotify.com/album/58l5dLoV97z5mL6DBTPFVD) | 4:13 | 2022-10-07 |  |
 | [Stille Sommernacht](https://open.spotify.com/track/1cY7l6Dqj0Sq6qPlCHiepj) | [Michael Reiss](https://open.spotify.com/artist/0KuRSjM6OFX0mH6GW5Shvy) | [Mailand](https://open.spotify.com/album/09sikqypQw7jfncJ7EncKq) | 3:34 | 2022-05-27 |  |
 | [Summer Haze](https://open.spotify.com/track/1IrUtiuz3vvVGBrZBURdMh) | [Lennox Lorenzo](https://open.spotify.com/artist/6t2AbQr1GudAPoxHZSsOTM) | [Summer Haze](https://open.spotify.com/album/6b5M9uiTVphHivV0LrXWeO) | 1:38 | 2022-04-22 | 2022-07-22 |
 | [Sunday Breeze](https://open.spotify.com/track/0F2WP7hiDgw6rbFCxE1eyl) | [Cordell Zoe](https://open.spotify.com/artist/1HVeNsc2IF1ob1427YyiRc) | [Sunday Breeze](https://open.spotify.com/album/2fsb3S8QguRHHvLOzHLSLH) | 1:37 | 2022-08-19 |  |
+| [Sweather Weather](https://open.spotify.com/track/0sM1RkU751ViUxIAG9Qmll) | [Kit Sutton](https://open.spotify.com/artist/0mqyygSn1RlqnfLsUqOjCh) | [Sweather Weather](https://open.spotify.com/album/2aGfO5upajmF21AQ3RCwoH) | 2:31 | 2022-10-07 |  |
 | [Ternura](https://open.spotify.com/track/1iXvVzkyogXKfdr6IJqyd7) | [Kathekon](https://open.spotify.com/artist/6vRmfBellM9PLkqukd8s6w) | [Ternura](https://open.spotify.com/album/7rQKkMoi3oWcfpQzoBUQoE) | 1:45 | 2022-08-12 |  |
 | [The Autumn Travel](https://open.spotify.com/track/7LP1t5oBkzHKN7382egeou) | [Claude Amek](https://open.spotify.com/artist/4M0jA8df8J36E5xsqNGaAT) | [October Roads](https://open.spotify.com/album/3Ms99VQwBTFGwgxroh8Cpr) | 1:48 | 2021-12-10 |  |
 | [The beauty](https://open.spotify.com/track/1N35jodnlu7EdXVRn6xUSk) | [Juri van Saal](https://open.spotify.com/artist/4A2xXIV6Lb1Rn69X3sQanA) | [The beauty](https://open.spotify.com/album/2WckICyFQx4UBmaPNeDqik) | 2:52 | 2022-05-27 | 2022-07-22 |
@@ -120,6 +124,7 @@
 | [To Be Loved](https://open.spotify.com/track/3nrcRpG5QBCXITQMs2i5FL) | [Calvin Costa](https://open.spotify.com/artist/2DuNm4y5XDTQuFqIgv8rZP) | [Better Days](https://open.spotify.com/album/78Sv1TPZppB1jXVbmc2In3) | 2:30 | 2021-12-10 |  |
 | [Tree Circle](https://open.spotify.com/track/03CLghlf8FCjjjhvZg3OjC) | [Isato Nakagawa](https://open.spotify.com/artist/7H7kbnGiqnG8GYDtDALthl) | [Tree Circle](https://open.spotify.com/album/6scj26E3tVRTzcBkkx5qRB) | 3:08 | 2021-12-10 |  |
 | [Twin Lakes](https://open.spotify.com/track/5dRdpP3qiQXVfKqHZ5IQwr) | [Elijah Bisbee](https://open.spotify.com/artist/2C06lmmEcAw2OsGFUCOfPH), [Chris Bartels](https://open.spotify.com/artist/4RVdMNwTuWJAPTYpzBri7K), [Blurstem](https://open.spotify.com/artist/0FXk0xKcMcLfLjkGduqGkn) | [Twin Lakes](https://open.spotify.com/album/4PUnsy0zjlBSkhm7rI1hrS) | 4:01 | 2022-05-27 | 2022-07-22 |
+| [Ungebunden](https://open.spotify.com/track/6gzhnN8gcWTyyU9TRAEyCP) | [William Lynn](https://open.spotify.com/artist/1EQNBTXeMqy5nDpSlzcRwx) | [Ungebunden](https://open.spotify.com/album/4kmDAFoVpyDrDN70opmXnY) | 1:37 | 2022-10-07 |  |
 | [Unsung Heroes](https://open.spotify.com/track/79J4D5bHUepJ7MS7Tz3RH5) | [Dawa Sherpa](https://open.spotify.com/artist/16QnPlBSrFOGlH44k9L7nN) | [Unsung Heroes](https://open.spotify.com/album/7htqaGMhM1r263JYtSEgiQ) | 2:29 | 2022-01-07 | 2022-05-27 |
 | [Until Then](https://open.spotify.com/track/6AEU8t2mTdeVdfP5JyIUUf) | [Peder Falk](https://open.spotify.com/artist/1FwT2tXznx06RdocBzl16z) | [Soon Enough](https://open.spotify.com/album/3QQXybzOkugKZwfe9kX2lV) | 2:07 | 2022-03-03 |  |
 | [Valentine](https://open.spotify.com/track/2iRhWAN9jmQSb43ucKRiJJ) | [Adrian Strohm](https://open.spotify.com/artist/1Rs3hpkbsgsgFiavB9Id1i) | [Valentine](https://open.spotify.com/album/4gHQh1PpIXkBOd4VHtPG3i) | 2:18 | 2021-12-10 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdqxfWN3raU3.md) - [plain]
 
 > Disfruta del más fino R&B creado en el continente y España\. Foto: Yoss Bones
 
-[Spotify](https://open.spotify.com/user/spotify) - 88,221 likes - 100 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 88,451 likes - 100 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,7 +65,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdqxfWN3raU3.md) - [plain]
 | 55 | [Tu Papá Te Va a Llamar](https://open.spotify.com/track/5whRxHuzSIj35MUkIm0Op6) | [Ervin River](https://open.spotify.com/artist/5FJ0JzZcNCGhquRX2zPmbL) | [Protohombre](https://open.spotify.com/album/4jk57uh2vy7YFkEy7X2iaZ) | 3:40 |
 | 56 | [mira bien](https://open.spotify.com/track/2WzziudaeI02xFL38R4qk9) | [Nana Mendoza](https://open.spotify.com/artist/0f5pXcaEX3mou3QLNTdVaA) | [mira bien](https://open.spotify.com/album/3xws9ugMCUibdGIVbrWIpg) | 3:44 |
 | 57 | [ASMR](https://open.spotify.com/track/3d6GBK3VlzhluJrFUNlrEi) | [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW), [Bruses](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y) | [ASMR](https://open.spotify.com/album/1tc2XAQZqkW9wvUTe6H6En) | 3:01 |
-| 58 | [Loop](https://open.spotify.com/track/5wIplDRMg13vvFOmkLOPwG) | [Alex Gracia](https://open.spotify.com/artist/1NigV8ujfzVjZd5PVDjKNX) | [Memorias](https://open.spotify.com/album/3Qp9rzY87PqpkcYh3ePpCa) | 2:40 |
+| 58 | [Loop](https://open.spotify.com/track/6miE2oYUpQgUSUOS2jhEWk) | [Alex Gracia](https://open.spotify.com/artist/1NigV8ujfzVjZd5PVDjKNX) | [Memorias](https://open.spotify.com/album/4VEfY61c512LPilKX2W8lw) | 2:40 |
 | 59 | [amable](https://open.spotify.com/track/2UZUINJukkXWvBv4hpByAT) | [Marco Mares](https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ) | [amable](https://open.spotify.com/album/2yT1zEJgfTCy2uJJ2d6Zec) | 3:18 |
 | 60 | [Tus Ojos Me Hablaron](https://open.spotify.com/track/2lwPsHNyohO98CZY0ag3YQ) | [Desert Niños](https://open.spotify.com/artist/2Ch5zHsrWSpgq7g0WI2UFD), [Slim Ans](https://open.spotify.com/artist/4JFse8c35wKHAuzJO9BTqO), [Ms\. Ambar](https://open.spotify.com/artist/0jgJv4J29BJiJu1luw2SdA) | [Tus Ojos Me Hablaron](https://open.spotify.com/album/1DB93h9fw0dyrn9LOoYHeM) | 3:21 |
 | 61 | [Antítesis](https://open.spotify.com/track/2sOE1BdMO5iW9WTG4yWSJU) | [Valentina](https://open.spotify.com/artist/3ins7Wpq5xVFJi8wZdBAFI) | [Antítesis](https://open.spotify.com/album/05PPWZrJxJGPOYr9vkCDqP) | 3:05 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdqxfWN3raU3.md) - [plain]
 | 99 | [Taba](https://open.spotify.com/track/03FTvTBI4sBC9xbU83tlbE) | [La Era de Gomes](https://open.spotify.com/artist/2JsaY1GQhGPbIlFSrAncg0), [Pilar Pascual](https://open.spotify.com/artist/2I9yXr9A6I4IMV6aywoQf7) | [Taba](https://open.spotify.com/album/0RihlpLdBDnr3T9LApYotO) | 3:13 |
 | 100 | [Pieles](https://open.spotify.com/track/53P2WWtGXFQFyxS8u93RHK) | [Itzel Noyz](https://open.spotify.com/artist/2ID3ThfGon3XyLsuVXPgOh) | [Pieles](https://open.spotify.com/album/1uMhYncnSaolYPFuA15Y0R) | 2:51 |
 
-Snapshot ID: `MTY2Mzk0NDE3NiwwMDAwMDAwMDQ0YTViMDE0NmJmMGE5ZmYwMWQ5NzgyMDk0NDBkNWNm`
+Snapshot ID: `MTY2Mzk0NDE3NiwwMDAwMDAwMGZmOWU5OTg1OWU2NTBlMTU0YzJjZjBjYWUwM2EyZjk0`

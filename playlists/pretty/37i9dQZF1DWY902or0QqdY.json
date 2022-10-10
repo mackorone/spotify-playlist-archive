@@ -1,12 +1,12 @@
 {
   "description": "Cl\u00e1sicos que son el curita perfecto para tu coraz\u00f3n. ",
-  "num_followers": 49762,
+  "num_followers": 50311,
   "original_name": "El Club de los Corazones Rotos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYxMjk4MjU5NywwMDAwMDAwMDZlMWU3Y2U2Y2E1MjcxMmQyODMyZGQzNGFjMzA0ZTg2",
+  "snapshot_id": "MTYxMjk4MjU5NywwMDAwMDAwMDE5NWRjMTNkM2M4NjlhYjQ5MTE5YzkwNzM5Mjg3MjNl",
   "tracks": [
     {
       "added_at": "2021-02-10 18:43:17",
@@ -171,18 +171,18 @@
     {
       "added_at": "2021-02-10 18:43:17",
       "album": {
-        "name": "Piano Man (Legacy Edition)",
-        "url": "https://open.spotify.com/album/69wjSAZXZiD2EBia3b3gxL"
+        "name": "It Must Have Been Love",
+        "url": "https://open.spotify.com/album/3dWX1xFUaalRlaaVpe4EPF"
       },
       "artists": [
         {
-          "name": "Billy Joel",
-          "url": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
+          "name": "Roxette",
+          "url": "https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY"
         }
       ],
-      "duration_ms": 339000,
-      "name": "Piano Man",
-      "url": "https://open.spotify.com/track/70C4NyhjD5OZUMzvWZ3njJ"
+      "duration_ms": 258786,
+      "name": "It Must Have Been Love - From the Film \"Pretty Woman\"",
+      "url": "https://open.spotify.com/track/6kvoHl80mfCVTv7XnZkjQn"
     },
     {
       "added_at": "2021-02-10 18:43:17",
@@ -203,18 +203,18 @@
     {
       "added_at": "2021-02-10 18:43:17",
       "album": {
-        "name": "It Must Have Been Love",
-        "url": "https://open.spotify.com/album/3dWX1xFUaalRlaaVpe4EPF"
+        "name": "Piano Man (Legacy Edition)",
+        "url": "https://open.spotify.com/album/69wjSAZXZiD2EBia3b3gxL"
       },
       "artists": [
         {
-          "name": "Roxette",
-          "url": "https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY"
+          "name": "Billy Joel",
+          "url": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
         }
       ],
-      "duration_ms": 258786,
-      "name": "It Must Have Been Love - From the Film \"Pretty Woman\"",
-      "url": "https://open.spotify.com/track/6kvoHl80mfCVTv7XnZkjQn"
+      "duration_ms": 339000,
+      "name": "Piano Man",
+      "url": "https://open.spotify.com/track/70C4NyhjD5OZUMzvWZ3njJ"
     },
     {
       "added_at": "2021-02-10 18:43:17",
@@ -347,22 +347,6 @@
     {
       "added_at": "2021-02-10 18:43:17",
       "album": {
-        "name": "Words",
-        "url": "https://open.spotify.com/album/3FCGXFULVQiKJkFvo6hMFo"
-      },
-      "artists": [
-        {
-          "name": "F.R. David",
-          "url": "https://open.spotify.com/artist/6GnCucI2uDaYj1j39GFxkn"
-        }
-      ],
-      "duration_ms": 209013,
-      "name": "Words - Original Version 1983",
-      "url": "https://open.spotify.com/track/1HPJOoIVdUPuaebxzMrVaD"
-    },
-    {
-      "added_at": "2021-02-10 18:43:17",
-      "album": {
         "name": "Wednesday Morning, 3 A.M.",
         "url": "https://open.spotify.com/album/5pnJrocLlZ3FWEbcr2PTz0"
       },
@@ -379,6 +363,22 @@
     {
       "added_at": "2021-02-10 18:43:17",
       "album": {
+        "name": "Words",
+        "url": "https://open.spotify.com/album/3FCGXFULVQiKJkFvo6hMFo"
+      },
+      "artists": [
+        {
+          "name": "F.R. David",
+          "url": "https://open.spotify.com/artist/6GnCucI2uDaYj1j39GFxkn"
+        }
+      ],
+      "duration_ms": 209013,
+      "name": "Words - Original Version 1983",
+      "url": "https://open.spotify.com/track/1HPJOoIVdUPuaebxzMrVaD"
+    },
+    {
+      "added_at": "2021-02-10 18:43:17",
+      "album": {
         "name": "Goats Head Soup (Remastered 2009)",
         "url": "https://open.spotify.com/album/6iVOz2hudE6dv5Yrcsw2c9"
       },
@@ -391,6 +391,22 @@
       "duration_ms": 272000,
       "name": "Angie",
       "url": "https://open.spotify.com/track/1GcVa4jFySlun4jLSuMhiq"
+    },
+    {
+      "added_at": "2021-02-10 18:43:17",
+      "album": {
+        "name": "Super Trouper",
+        "url": "https://open.spotify.com/album/3ZdkT5buYFi1WQaB0XNNtf"
+      },
+      "artists": [
+        {
+          "name": "ABBA",
+          "url": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
+        }
+      ],
+      "duration_ms": 294720,
+      "name": "The Winner Takes It All",
+      "url": "https://open.spotify.com/track/3oEkrIfXfSh9zGnE7eBzSV"
     },
     {
       "added_at": "2021-02-10 18:43:17",
@@ -423,22 +439,6 @@
       "duration_ms": 239826,
       "name": "If I Could Turn Back Time",
       "url": "https://open.spotify.com/track/6mYrhCAGWzTdF8QnKuchXM"
-    },
-    {
-      "added_at": "2021-02-10 18:43:17",
-      "album": {
-        "name": "Super Trouper",
-        "url": "https://open.spotify.com/album/3ZdkT5buYFi1WQaB0XNNtf"
-      },
-      "artists": [
-        {
-          "name": "ABBA",
-          "url": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
-        }
-      ],
-      "duration_ms": 294720,
-      "name": "The Winner Takes It All",
-      "url": "https://open.spotify.com/track/3oEkrIfXfSh9zGnE7eBzSV"
     },
     {
       "added_at": "2021-02-10 18:43:17",
@@ -651,22 +651,6 @@
     {
       "added_at": "2021-02-10 18:43:17",
       "album": {
-        "name": "Three Imaginary Boys (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/7gPql7GFpBMOxeO80vMMsC"
-      },
-      "artists": [
-        {
-          "name": "The Cure",
-          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
-        }
-      ],
-      "duration_ms": 157533,
-      "name": "Boys Don't Cry - Single Version",
-      "url": "https://open.spotify.com/track/4dneV7C1yDt9UtyxrQY375"
-    },
-    {
-      "added_at": "2021-02-10 18:43:17",
-      "album": {
         "name": "All Out Of Love",
         "url": "https://open.spotify.com/album/1Z0JbC9RPMJNxE82vTQcIX"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 241373,
       "name": "All Out of Love",
       "url": "https://open.spotify.com/track/2lmcH6prYo3BlR8LfRUJc3"
+    },
+    {
+      "added_at": "2021-02-10 18:43:17",
+      "album": {
+        "name": "Three Imaginary Boys (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7gPql7GFpBMOxeO80vMMsC"
+      },
+      "artists": [
+        {
+          "name": "The Cure",
+          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+        }
+      ],
+      "duration_ms": 157533,
+      "name": "Boys Don't Cry - Single Version",
+      "url": "https://open.spotify.com/track/4dneV7C1yDt9UtyxrQY375"
     },
     {
       "added_at": "2021-02-10 18:43:17",
@@ -863,18 +863,18 @@
     {
       "added_at": "2021-02-10 18:43:17",
       "album": {
-        "name": "A New World Record",
-        "url": "https://open.spotify.com/album/7a35UzxXYuKQGMGImyB0Un"
+        "name": "Hair Of The Dog",
+        "url": "https://open.spotify.com/album/5Zwyrn62m3Pyc0nvRa9CHF"
       },
       "artists": [
         {
-          "name": "Electric Light Orchestra",
-          "url": "https://open.spotify.com/artist/7jefIIksOi1EazgRTfW2Pk"
+          "name": "Nazareth",
+          "url": "https://open.spotify.com/artist/6fvN9GmMCVKb5LY0WsnjFP"
         }
       ],
-      "duration_ms": 280360,
-      "name": "Telephone Line",
-      "url": "https://open.spotify.com/track/3SPcBPzvbmWLl8NU5efx4W"
+      "duration_ms": 233133,
+      "name": "Love Hurts",
+      "url": "https://open.spotify.com/track/1i5oEx2vFczQ2sCY3c6Kn5"
     },
     {
       "added_at": "2021-02-10 18:43:17",
@@ -895,22 +895,6 @@
     {
       "added_at": "2021-02-10 18:43:17",
       "album": {
-        "name": "Hair Of The Dog",
-        "url": "https://open.spotify.com/album/5Zwyrn62m3Pyc0nvRa9CHF"
-      },
-      "artists": [
-        {
-          "name": "Nazareth",
-          "url": "https://open.spotify.com/artist/6fvN9GmMCVKb5LY0WsnjFP"
-        }
-      ],
-      "duration_ms": 233133,
-      "name": "Love Hurts",
-      "url": "https://open.spotify.com/track/1i5oEx2vFczQ2sCY3c6Kn5"
-    },
-    {
-      "added_at": "2021-02-10 18:43:17",
-      "album": {
         "name": "20th Century Masters: The Millennium Collection: Best Of 10CC",
         "url": "https://open.spotify.com/album/0NdAeRKEfxR075pjL5Ecjl"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 368226,
       "name": "I'm Not In Love",
       "url": "https://open.spotify.com/track/1A6Kwtsg3JWKU2KWM2udpM"
+    },
+    {
+      "added_at": "2021-02-10 18:43:17",
+      "album": {
+        "name": "A New World Record",
+        "url": "https://open.spotify.com/album/7a35UzxXYuKQGMGImyB0Un"
+      },
+      "artists": [
+        {
+          "name": "Electric Light Orchestra",
+          "url": "https://open.spotify.com/artist/7jefIIksOi1EazgRTfW2Pk"
+        }
+      ],
+      "duration_ms": 280360,
+      "name": "Telephone Line",
+      "url": "https://open.spotify.com/track/3SPcBPzvbmWLl8NU5efx4W"
     },
     {
       "added_at": "2021-02-10 18:43:17",
@@ -975,6 +975,22 @@
     {
       "added_at": "2021-02-10 18:43:17",
       "album": {
+        "name": "Lost Without Your Love",
+        "url": "https://open.spotify.com/album/67VoVoP15uIXTKG7dqMlwW"
+      },
+      "artists": [
+        {
+          "name": "Bread",
+          "url": "https://open.spotify.com/artist/70ZTdbPEcEugBNay4MvxfL"
+        }
+      ],
+      "duration_ms": 176893,
+      "name": "Lost Without Your Love",
+      "url": "https://open.spotify.com/track/1aRncYBtdizYoVKcSt8oaY"
+    },
+    {
+      "added_at": "2021-02-10 18:43:17",
+      "album": {
         "name": "All Things Must Pass (Remastered 2014)",
         "url": "https://open.spotify.com/album/4I4xtHaIFOzhZfp1NIHkY6"
       },
@@ -1007,38 +1023,6 @@
     {
       "added_at": "2021-02-10 18:43:17",
       "album": {
-        "name": "Lost Without Your Love",
-        "url": "https://open.spotify.com/album/67VoVoP15uIXTKG7dqMlwW"
-      },
-      "artists": [
-        {
-          "name": "Bread",
-          "url": "https://open.spotify.com/artist/70ZTdbPEcEugBNay4MvxfL"
-        }
-      ],
-      "duration_ms": 176893,
-      "name": "Lost Without Your Love",
-      "url": "https://open.spotify.com/track/1aRncYBtdizYoVKcSt8oaY"
-    },
-    {
-      "added_at": "2021-02-10 18:43:17",
-      "album": {
-        "name": "Souvenir",
-        "url": "https://open.spotify.com/album/5CVouzgQnK0xK3M3YC8ncs"
-      },
-      "artists": [
-        {
-          "name": "Orchestral Manoeuvres In The Dark",
-          "url": "https://open.spotify.com/artist/7wJ9NwdRWtN92NunmXuwBk"
-        }
-      ],
-      "duration_ms": 269800,
-      "name": "If You Leave - 2019 Remaster",
-      "url": "https://open.spotify.com/track/38w6aqERgBYjyvWQsltcvs"
-    },
-    {
-      "added_at": "2021-02-10 18:43:17",
-      "album": {
         "name": "Ocean Rain",
         "url": "https://open.spotify.com/album/43jEYhOEU6eWL51lk4l3M7"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 328093,
       "name": "Listen To Your Heart",
       "url": "https://open.spotify.com/track/1qIKynV6YQZgocodkPdCy7"
+    },
+    {
+      "added_at": "2021-02-10 18:43:17",
+      "album": {
+        "name": "Souvenir",
+        "url": "https://open.spotify.com/album/5CVouzgQnK0xK3M3YC8ncs"
+      },
+      "artists": [
+        {
+          "name": "Orchestral Manoeuvres In The Dark",
+          "url": "https://open.spotify.com/artist/7wJ9NwdRWtN92NunmXuwBk"
+        }
+      ],
+      "duration_ms": 269800,
+      "name": "If You Leave - 2019 Remaster",
+      "url": "https://open.spotify.com/track/38w6aqERgBYjyvWQsltcvs"
     },
     {
       "added_at": "2021-02-10 18:43:17",

@@ -2,9 +2,9 @@
 
 ### [As Seen on TV](https://open.spotify.com/playlist/1Z8HPzXKTX3tVQk04JC9YE)
 
-> All your favorite tracks from the hottest TV shows, commercials, and movies! Prepare for the 2022 Emmys with this collection of hits and new favorites! Cover: Sofia Carson
+> All your favorite tracks from the hottest TV shows, commercials, and movies! Cover: Sofia Carson
 
-105 songs - 6 hr 51 min - [published](https://open.spotify.com/playlist/2cfy7Rm8LVljTMG1lEbl0m)
+106 songs - 6 hr 54 min - [published](https://open.spotify.com/playlist/2cfy7Rm8LVljTMG1lEbl0m)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -97,7 +97,7 @@
 | [Strange Brew](https://open.spotify.com/track/0plCazD5B9XGKqJgxhgRJm) | [Cream](https://open.spotify.com/artist/74oJ4qxwOZvX6oSsu1DGnw) | [Disraeli Gears \(Remastered\)](https://open.spotify.com/album/4SMNUQCyTvlO4vFEdXXG45) | 2:46 | 2022-08-15 |  |
 | [Such Great Heights](https://open.spotify.com/track/75z2YLg5Lkqf6qL9XOY8tV) | [The Postal Service](https://open.spotify.com/artist/5yV1qdnmxyIYiSFB02wpDj) | [Give Up](https://open.spotify.com/album/1BSwkKATGVCMgNuN8ve7mz) | 4:26 | 2021-11-11 | 2022-08-16 |
 | [Sugar, We're Goin Down](https://open.spotify.com/track/2TfSHkHiFO4gRztVIkggkE) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [From Under The Cork Tree](https://open.spotify.com/album/5nkUSlIhtoJZMOUlB0sNCp) | 3:49 | 2021-11-11 | 2022-08-16 |
-| [Sunglasses At Night](https://open.spotify.com/track/5uRsBdLhn91AYcsTCOGNOC) | [Corey Hart](https://open.spotify.com/artist/0smy8yDrRoI4CnhpOuthg0) | [First Offense](https://open.spotify.com/album/2cB87PuIi04CRdxhuNrRi5) | 5:20 | 2022-08-15 |  |
+| [Sunglasses At Night](https://open.spotify.com/track/5uRsBdLhn91AYcsTCOGNOC) | [Corey Hart](https://open.spotify.com/artist/0smy8yDrRoI4CnhpOuthg0) | [First Offense](https://open.spotify.com/album/2cB87PuIi04CRdxhuNrRi5) | 5:20 | 2022-08-15 | 2022-10-04 |
 | [That Smell](https://open.spotify.com/track/2mWHtCdn8AO4bSA1TTHSVw) | [Lynyrd Skynyrd](https://open.spotify.com/artist/4MVyzYMgTwdP7Z49wAZHx0) | [Street Survivors \(Expanded Edition\)](https://open.spotify.com/album/5ADDIz16lkYbhXA1b8cGhr) | 5:48 | 2022-08-15 |  |
 | [The Middle](https://open.spotify.com/track/3tJg7IxY8jPt2Dy3M8VXkt) | [Jimmy Eat World](https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s) | [00s Mixtape](https://open.spotify.com/album/2R7nSAPTn5Xpb9UAEC3oI9) | 2:45 | 2021-11-11 | 2022-08-16 |
 | [The Sweet Escape](https://open.spotify.com/track/66ZcOcouenzZEnzTJvoFmH) | [Gwen Stefani](https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [The Sweet Escape](https://open.spotify.com/album/7xnZ539lh8x6de9jzlpCJp) | 4:06 | 2021-11-11 | 2022-08-16 |
@@ -110,6 +110,7 @@
 | [Up Around The Bend](https://open.spotify.com/track/5XPv30nzEZOFS10mKGbtQ7) | [Creedence Clearwater Revival](https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd) | [Cosmo's Factory \(40th Anniversary Edition\)](https://open.spotify.com/album/1DUDtFZEobFATKMY5xY4Mj) | 2:41 | 2022-08-15 |  |
 | [Watercolor Eyes \- From “Euphoria” An HBO Original Series](https://open.spotify.com/track/1G1R0XgChe18Zr1o6tlmN6) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Watercolor Eyes \(From “Euphoria” An HBO Original Series\)](https://open.spotify.com/album/12fNudihprFoc3Jj5nGFkF) | 3:31 | 2022-08-15 |  |
 | [Where Is The Love?](https://open.spotify.com/track/3CNqo3gYrfexdrtjFmC9he) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS) | [Elephunk](https://open.spotify.com/album/4wBDclsxFzGnR4kVAAMI7K) | 4:32 | 2021-11-11 | 2022-08-16 |
+| [Will You Love Me Tomorrow](https://open.spotify.com/track/0GyUciHz53Hi4kuR5ITlD6) | [Lauren Spencer Smith](https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50) | [Meet Cute \(Motion Picture Soundtrack\)](https://open.spotify.com/album/6VB3I0wuKelQjLf5QUiNyI) | 2:55 | 2022-10-03 |  |
 | [Workin For A Livin](https://open.spotify.com/track/3gkH5q7qT0Ex08kua0KgrN) | [Huey Lewis & The News](https://open.spotify.com/artist/7A9yZMTrFZcgEWAX2kBfK6) | [Picture This](https://open.spotify.com/album/18ogoWl1E1HJA8GaqIRM2V) | 2:38 | 2022-08-15 |  |
 | [X Gon' Give It To Ya](https://open.spotify.com/track/1zzxoZVylsna2BQB65Ppcb) | [DMX](https://open.spotify.com/artist/1HwM5zlC5qNWhJtM00yXzG) | [The Definition Of X: Pick Of The Litter](https://open.spotify.com/album/2ge7Lk4Sl7hHs4AYxqDbf1) | 3:37 | 2022-08-15 |  |
 | [Yeah! \(feat\. Lil Jon & Ludacris\)](https://open.spotify.com/track/5rb9QrpfcKFHM1EUbSIurX) | [Usher](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj), [Lil Jon](https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK), [Ludacris](https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi) | [Confessions \(Expanded Edition\)](https://open.spotify.com/album/1RM6MGv6bcl6NrAG8PGoZk) | 4:10 | 2021-11-11 | 2022-08-16 |

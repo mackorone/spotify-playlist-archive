@@ -2201,7 +2201,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-07",
       "duration_ms": 206447,
       "name": "On My Mind",
       "url": "https://open.spotify.com/track/0Ret48IIcgcQdB54orjZKS"
@@ -2783,6 +2783,36 @@
       "duration_ms": 220213,
       "name": "Someday - Harris & Hurr Radio Edit",
       "url": "https://open.spotify.com/track/7xEZRa5g3guKLXDgPIDSJ7"
+    },
+    {
+      "album": {
+        "name": "Someday (Harris & Hurr Remix)",
+        "url": "https://open.spotify.com/album/0WIYfupY0GUkK0fdoDw89S"
+      },
+      "artists": [
+        {
+          "name": "Just Us",
+          "url": "https://open.spotify.com/artist/6gZBuGRyiyGkAVFCJAWdMk"
+        },
+        {
+          "name": "Eddy",
+          "url": "https://open.spotify.com/artist/0sbQ1fc2ccUXTTHCAhAo8I"
+        },
+        {
+          "name": "DJ Rae",
+          "url": "https://open.spotify.com/artist/746LyYgFU6Gni4CMVPlFNa"
+        },
+        {
+          "name": "Harris & Hurr",
+          "url": "https://open.spotify.com/artist/2aNn60ycgLbQIyhyxMQrNb"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220213,
+      "name": "Someday - Harris & Hurr Remix",
+      "url": "https://open.spotify.com/track/0ad5utq7FrurJIMujXWBwy"
     },
     {
       "album": {

@@ -41,7 +41,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-23",
+      "date_removed": null,
       "duration_ms": 442960,
       "name": "Agua que Cae del Cielo (Lluvia) (feat. Willie Rosario) - En Vivo desde Puerto Rico",
       "url": "https://open.spotify.com/track/39XBzvG6sBfwvNvhfD7bpA"
@@ -186,7 +186,7 @@
     },
     {
       "album": {
-        "name": "20 A\u00f1os - La Historia (En Vivo)",
+        "name": "20 A\u00f1os (La Historia) [En Vivo]",
         "url": "https://open.spotify.com/album/7BEr7vxhhJ3YTkIPnz4HLx"
       },
       "artists": [
@@ -295,7 +295,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-29",
+      "date_removed": null,
       "duration_ms": 177720,
       "name": "El Cantante - Live",
       "url": "https://open.spotify.com/track/1xKIjS9jwPmMBCa40RvoS1"
@@ -479,7 +479,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-10",
       "duration_ms": 422280,
       "name": "La Murga - Live",
       "url": "https://open.spotify.com/track/0rcL0bGZpeN9stj0dHE3f0"
@@ -823,7 +823,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-07",
       "duration_ms": 330800,
       "name": "Qui\u00e9reme Tal Como Soy - Live",
       "url": "https://open.spotify.com/track/75y9r2v3m3hOdNUJwWDzLZ"
@@ -845,6 +845,24 @@
       "duration_ms": 352853,
       "name": "Salsa Caliente del Jap\u00f3n - Live Version",
       "url": "https://open.spotify.com/track/5p7HPyHbMdOV7ytBzS9J2r"
+    },
+    {
+      "album": {
+        "name": "Ismael Miranda (En Vivo)",
+        "url": "https://open.spotify.com/album/40DjMiB2wSxUTCuXiX1Egk"
+      },
+      "artists": [
+        {
+          "name": "Ismael Miranda",
+          "url": "https://open.spotify.com/artist/5S3BxZrK4hYN3fwsw8oumq"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 330426,
+      "name": "Se\u00f1or Sereno - En Vivo",
+      "url": "https://open.spotify.com/track/5sGbO1yZxuXVGT6B7c7XP4"
     },
     {
       "album": {
@@ -1031,7 +1049,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-07",
       "duration_ms": 517666,
       "name": "Vivir Sin Ella - En Vivo Desde El Carnegie Hall Version",
       "url": "https://open.spotify.com/track/5uXxRpu20m2smwEsL1BTvj"

@@ -1,12 +1,12 @@
 {
   "description": "The ultimate seasonal (indie) playlist.",
-  "num_followers": 110061,
+  "num_followers": 110082,
   "original_name": "Indie Christmas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MTU2OTA3OSwwMDAwMDAwMDY4ODdhNDAzZTI1MTRiZGZkZDE4MjZjZTY4ZDE3N2Zh",
+  "snapshot_id": "MTY0MTU2OTA3OSwwMDAwMDAwMDRlMTZiOTA1YmQxOTQ5YWE0MGRhYTkzMmFiNzZlMTI0",
   "tracks": [
     {
       "added_at": "2021-11-12 17:11:33",
@@ -291,22 +291,6 @@
     {
       "added_at": "2021-11-12 17:11:33",
       "album": {
-        "name": "Winter Song",
-        "url": "https://open.spotify.com/album/7obocQT5bd9ObWl2GiMrBT"
-      },
-      "artists": [
-        {
-          "name": "Sam Fender",
-          "url": "https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc"
-        }
-      ],
-      "duration_ms": 254437,
-      "name": "Winter Song",
-      "url": "https://open.spotify.com/track/6bVIzKJOhSTD2Pw1cbLhBr"
-    },
-    {
-      "added_at": "2021-11-12 17:11:33",
-      "album": {
         "name": "If We Make It Through December",
         "url": "https://open.spotify.com/album/5c7rZDAKYf6PsA3MUfNZXL"
       },
@@ -319,6 +303,22 @@
       "duration_ms": 179074,
       "name": "If We Make It Through December",
       "url": "https://open.spotify.com/track/2vnVkHPckitpXFyC2Q2ULG"
+    },
+    {
+      "added_at": "2021-11-12 17:11:33",
+      "album": {
+        "name": "Winter Song",
+        "url": "https://open.spotify.com/album/7obocQT5bd9ObWl2GiMrBT"
+      },
+      "artists": [
+        {
+          "name": "Sam Fender",
+          "url": "https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc"
+        }
+      ],
+      "duration_ms": 254437,
+      "name": "Winter Song",
+      "url": "https://open.spotify.com/track/6bVIzKJOhSTD2Pw1cbLhBr"
     },
     {
       "added_at": "2021-11-12 17:11:33",
@@ -385,70 +385,6 @@
       "url": "https://open.spotify.com/track/7eTonpb9lXgerPaW6I1VnP"
     },
     {
-      "added_at": "2021-12-03 14:19:15",
-      "album": {
-        "name": "Linus n' Lucy (Theme from Peanuts)",
-        "url": "https://open.spotify.com/album/6l9FTzWX2NIHWYKeDPvCUc"
-      },
-      "artists": [
-        {
-          "name": "Ginger Root",
-          "url": "https://open.spotify.com/artist/4UAW69682T7N0wrABUhqx0"
-        }
-      ],
-      "duration_ms": 172207,
-      "name": "Linus n' Lucy (Theme from Peanuts)",
-      "url": "https://open.spotify.com/track/2TLoim0jaX21JnnnR3Rr7r"
-    },
-    {
-      "added_at": "2021-11-12 17:11:33",
-      "album": {
-        "name": "White Christmas",
-        "url": "https://open.spotify.com/album/4MWNtLj4EhEtuFg4b9qU14"
-      },
-      "artists": [
-        {
-          "name": "Billie Marten",
-          "url": "https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7"
-        }
-      ],
-      "duration_ms": 152426,
-      "name": "White Christmas",
-      "url": "https://open.spotify.com/track/6E6OI395lJ3uQnz9w8bqTD"
-    },
-    {
-      "added_at": "2021-11-12 17:11:33",
-      "album": {
-        "name": "XMAS 01",
-        "url": "https://open.spotify.com/album/3StuIrKZYryr4ZICoWRqqc"
-      },
-      "artists": [
-        {
-          "name": "Lyn Lapid",
-          "url": "https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v"
-        }
-      ],
-      "duration_ms": 141972,
-      "name": "Messed Up On Christmas",
-      "url": "https://open.spotify.com/track/1hVFvOisGooNd8z9B2AMIp"
-    },
-    {
-      "added_at": "2021-11-12 17:11:33",
-      "album": {
-        "name": "Christmas Party",
-        "url": "https://open.spotify.com/album/4s3vR4B3qPc9U5Gs1NPxLR"
-      },
-      "artists": [
-        {
-          "name": "She & Him",
-          "url": "https://open.spotify.com/artist/3CIRif6ZAedT7kZSPvj2A4"
-        }
-      ],
-      "duration_ms": 132453,
-      "name": "Let It Snow",
-      "url": "https://open.spotify.com/track/7Al57JVDx4Cgj0KMDxJNKF"
-    },
-    {
       "added_at": "2021-11-12 17:11:33",
       "album": {
         "name": "7 O'Clock News / Silent Night",
@@ -475,18 +411,18 @@
     {
       "added_at": "2021-11-12 17:11:33",
       "album": {
-        "name": "Christmas Time Is Here b/w La Peregrinaci\u00f3n",
-        "url": "https://open.spotify.com/album/6puZZH8FMsJbRR8bvQVAX2"
+        "name": "White Christmas",
+        "url": "https://open.spotify.com/album/4MWNtLj4EhEtuFg4b9qU14"
       },
       "artists": [
         {
-          "name": "This Is The Kit",
-          "url": "https://open.spotify.com/artist/0ZUyFEafMwocvApBjTXvdo"
+          "name": "Billie Marten",
+          "url": "https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7"
         }
       ],
-      "duration_ms": 181160,
-      "name": "Christmas Time Is Here",
-      "url": "https://open.spotify.com/track/4B0CilLLPrk9AnYxbMRMdv"
+      "duration_ms": 152426,
+      "name": "White Christmas",
+      "url": "https://open.spotify.com/track/6E6OI395lJ3uQnz9w8bqTD"
     },
     {
       "added_at": "2021-12-15 16:04:04",
@@ -503,6 +439,70 @@
       "duration_ms": 202903,
       "name": "I Dream Of Christmas",
       "url": "https://open.spotify.com/track/0OYglQniaQNazYF0fJblbV"
+    },
+    {
+      "added_at": "2021-11-12 17:11:33",
+      "album": {
+        "name": "Christmas Party",
+        "url": "https://open.spotify.com/album/4s3vR4B3qPc9U5Gs1NPxLR"
+      },
+      "artists": [
+        {
+          "name": "She & Him",
+          "url": "https://open.spotify.com/artist/3CIRif6ZAedT7kZSPvj2A4"
+        }
+      ],
+      "duration_ms": 132453,
+      "name": "Let It Snow",
+      "url": "https://open.spotify.com/track/7Al57JVDx4Cgj0KMDxJNKF"
+    },
+    {
+      "added_at": "2021-11-12 17:11:33",
+      "album": {
+        "name": "XMAS 01",
+        "url": "https://open.spotify.com/album/3StuIrKZYryr4ZICoWRqqc"
+      },
+      "artists": [
+        {
+          "name": "Lyn Lapid",
+          "url": "https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v"
+        }
+      ],
+      "duration_ms": 141972,
+      "name": "Messed Up On Christmas",
+      "url": "https://open.spotify.com/track/1hVFvOisGooNd8z9B2AMIp"
+    },
+    {
+      "added_at": "2021-11-12 17:11:33",
+      "album": {
+        "name": "Christmas Time Is Here b/w La Peregrinaci\u00f3n",
+        "url": "https://open.spotify.com/album/6puZZH8FMsJbRR8bvQVAX2"
+      },
+      "artists": [
+        {
+          "name": "This Is The Kit",
+          "url": "https://open.spotify.com/artist/0ZUyFEafMwocvApBjTXvdo"
+        }
+      ],
+      "duration_ms": 181160,
+      "name": "Christmas Time Is Here",
+      "url": "https://open.spotify.com/track/4B0CilLLPrk9AnYxbMRMdv"
+    },
+    {
+      "added_at": "2021-12-03 14:19:15",
+      "album": {
+        "name": "Linus n' Lucy (Theme from Peanuts)",
+        "url": "https://open.spotify.com/album/6l9FTzWX2NIHWYKeDPvCUc"
+      },
+      "artists": [
+        {
+          "name": "Ginger Root",
+          "url": "https://open.spotify.com/artist/4UAW69682T7N0wrABUhqx0"
+        }
+      ],
+      "duration_ms": 172207,
+      "name": "Linus n' Lucy (Theme from Peanuts)",
+      "url": "https://open.spotify.com/track/2TLoim0jaX21JnnnR3Rr7r"
     },
     {
       "added_at": "2021-12-03 14:19:15",
@@ -651,6 +651,22 @@
     {
       "added_at": "2021-11-12 17:11:33",
       "album": {
+        "name": "Home Alone, Too",
+        "url": "https://open.spotify.com/album/4y57bVmY8Jj0BK0RxcLRXb"
+      },
+      "artists": [
+        {
+          "name": "The Staves",
+          "url": "https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY"
+        }
+      ],
+      "duration_ms": 240233,
+      "name": "Home Alone, Too",
+      "url": "https://open.spotify.com/track/0DspUQUTwLtKeUO3Bb7LKK"
+    },
+    {
+      "added_at": "2021-11-12 17:11:33",
+      "album": {
         "name": "Songs For Christmas",
         "url": "https://open.spotify.com/album/2cuvGy1kWrtB3vX04Irpis"
       },
@@ -667,18 +683,18 @@
     {
       "added_at": "2021-11-12 17:11:33",
       "album": {
-        "name": "Home Alone, Too",
-        "url": "https://open.spotify.com/album/4y57bVmY8Jj0BK0RxcLRXb"
+        "name": "Have Yourself A Merry Little Christmas",
+        "url": "https://open.spotify.com/album/61AIHomKS1lF5ZgcXjvtFX"
       },
       "artists": [
         {
-          "name": "The Staves",
-          "url": "https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY"
+          "name": "Birdy",
+          "url": "https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP"
         }
       ],
-      "duration_ms": 240233,
-      "name": "Home Alone, Too",
-      "url": "https://open.spotify.com/track/0DspUQUTwLtKeUO3Bb7LKK"
+      "duration_ms": 128737,
+      "name": "Have Yourself A Merry Little Christmas",
+      "url": "https://open.spotify.com/track/6lsfG5fQhtkfIkqQIWfNns"
     },
     {
       "added_at": "2021-11-12 17:11:33",
@@ -711,22 +727,6 @@
       "duration_ms": 257842,
       "name": "Walking in the Air",
       "url": "https://open.spotify.com/track/0TPoPWvaSaHEuEaDHyEMKf"
-    },
-    {
-      "added_at": "2021-11-12 17:11:33",
-      "album": {
-        "name": "Have Yourself A Merry Little Christmas",
-        "url": "https://open.spotify.com/album/61AIHomKS1lF5ZgcXjvtFX"
-      },
-      "artists": [
-        {
-          "name": "Birdy",
-          "url": "https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP"
-        }
-      ],
-      "duration_ms": 128737,
-      "name": "Have Yourself A Merry Little Christmas",
-      "url": "https://open.spotify.com/track/6lsfG5fQhtkfIkqQIWfNns"
     },
     {
       "added_at": "2021-11-12 17:11:33",
@@ -809,22 +809,6 @@
       "url": "https://open.spotify.com/track/4UdfZoxXG46LSOIJYYzSWK"
     },
     {
-      "added_at": "2021-11-15 21:49:48",
-      "album": {
-        "name": "Sometimes I Sit and Think, and Sometimes I Just Sit",
-        "url": "https://open.spotify.com/album/6PosCDToF5fOdEjTI5PsDX"
-      },
-      "artists": [
-        {
-          "name": "Courtney Barnett",
-          "url": "https://open.spotify.com/artist/4OOlG5eBXSkSAAEeKjJb5Y"
-        }
-      ],
-      "duration_ms": 182062,
-      "name": "Boxing Day Blues",
-      "url": "https://open.spotify.com/track/2jNQBuhta3lE0GFOqb4Eo9"
-    },
-    {
       "added_at": "2021-11-12 17:14:44",
       "album": {
         "name": "Christmas Songs Vol. 1",
@@ -839,6 +823,22 @@
       "duration_ms": 284906,
       "name": "Silent Night",
       "url": "https://open.spotify.com/track/0hwGsJMbUwevJHPdg3YPRV"
+    },
+    {
+      "added_at": "2021-11-12 17:11:33",
+      "album": {
+        "name": "Rise Up Shepherd",
+        "url": "https://open.spotify.com/album/63nbzosqZcY6liU5TJc78i"
+      },
+      "artists": [
+        {
+          "name": "Twin Bandit",
+          "url": "https://open.spotify.com/artist/0PFFKJfJZU5TbgQXIw8cBr"
+        }
+      ],
+      "duration_ms": 147134,
+      "name": "Rise Up Shepherd",
+      "url": "https://open.spotify.com/track/4a1xXhmlbYXYtnjztED6wy"
     }
   ],
   "unique_name": "Indie Christmas",

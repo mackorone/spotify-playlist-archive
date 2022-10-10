@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-21",
-  "description": "\u00a1Mar\u00eda Cristina Plata y m\u00e1s mujeres, a todo volumen!",
+  "description": "\u00a1Bad Milk y m\u00e1s mujeres, a todo volumen!",
   "name": "EQUAL Colombia",
   "published_playlist_ids": [
     "4BjclhMki5D8Bs9ZwTy9s8"
@@ -59,6 +59,24 @@
       "duration_ms": 170228,
       "name": "Adicta al Perreo",
       "url": "https://open.spotify.com/track/7xj6vIyvd8qh9JjPzQhvHa"
+    },
+    {
+      "album": {
+        "name": "AL NATURAL",
+        "url": "https://open.spotify.com/album/1BmvwEPLkAqdVOeW19LW4t"
+      },
+      "artists": [
+        {
+          "name": "Bad Milk",
+          "url": "https://open.spotify.com/artist/5rMUEBZwYHovrlnuzggrVR"
+        }
+      ],
+      "date_added": "2022-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195275,
+      "name": "AL NATURAL",
+      "url": "https://open.spotify.com/track/2Hr2c6kxojvdyu5eJzq4NE"
     },
     {
       "album": {
@@ -943,7 +961,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-06",
       "duration_ms": 190901,
       "name": "La Macorina",
       "url": "https://open.spotify.com/track/3pske1T4sIKMsow2JqnNLK"

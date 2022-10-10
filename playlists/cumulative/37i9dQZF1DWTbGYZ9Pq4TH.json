@@ -650,6 +650,24 @@
     },
     {
       "album": {
+        "name": "Mainstream (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/11dh7pT3FRrGkI3TXl0e4k"
+      },
+      "artists": [
+        {
+          "name": "Calcutta ",
+          "url": "https://open.spotify.com/artist/582KhTHEVOONNQLmQ5612r"
+        }
+      ],
+      "date_added": "2021-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228480,
+      "name": "Del verde",
+      "url": "https://open.spotify.com/track/5jT6gl92pmDlKy9689oZSX"
+    },
+    {
+      "album": {
         "name": "Destri",
         "url": "https://open.spotify.com/album/6xIlY5dzwgDm4dVeTteILC"
       },
@@ -1405,7 +1423,7 @@
       ],
       "date_added": "2021-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-09",
       "duration_ms": 214520,
       "name": "L'Immenso",
       "url": "https://open.spotify.com/track/7bof4i0U5eYSJ6yhgtddK9"
@@ -2285,7 +2303,7 @@
       ],
       "date_added": "2021-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-04",
       "duration_ms": 238000,
       "name": "Posso (feat. Max Gazz\u00e9)",
       "url": "https://open.spotify.com/track/5N0nmOmc0MqPZTYKw4fVV6"
@@ -2937,7 +2955,7 @@
       ],
       "date_added": "2021-09-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-26",
+      "date_removed": null,
       "duration_ms": 169520,
       "name": "Ti ho voluto bene veramente",
       "url": "https://open.spotify.com/track/3z5eL4hQXaBWxSWZUTwI4e"

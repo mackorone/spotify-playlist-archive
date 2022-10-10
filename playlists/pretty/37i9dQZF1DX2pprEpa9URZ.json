@@ -1,12 +1,12 @@
 {
   "description": "A deep tribal sound, combining electronic elements and organic instrumentation, stemming from the folk music of Africa, Latin America and the Middle East.",
-  "num_followers": 646016,
+  "num_followers": 648179,
   "original_name": "Org\u00e1nica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDU2MTc0MCwwMDAwMDAwMDhmMmExMmJkODc1NjQwNzgyOGVlZDI0MjJjYTVkMWY4",
+  "snapshot_id": "MTY2NDU2MTc0MCwwMDAwMDAwMDI3ZDYyZDcxNTBhYTIzY2RjZTAwYjEwNDU0MjRkMTJl",
   "tracks": [
     {
       "added_at": "2022-09-09 16:00:00",
@@ -115,30 +115,6 @@
     {
       "added_at": "2022-09-09 16:00:00",
       "album": {
-        "name": "Aruna Chandra",
-        "url": "https://open.spotify.com/album/09jd5geuKV6itKwcvamNEn"
-      },
-      "artists": [
-        {
-          "name": "Mashti",
-          "url": "https://open.spotify.com/artist/0c2kLTUTikqUpkRjJOerzf"
-        },
-        {
-          "name": "Deep Dive Corp.",
-          "url": "https://open.spotify.com/artist/2Xn8Gef5Hv2QOWYlXs2gTb"
-        },
-        {
-          "name": "David Devanagari",
-          "url": "https://open.spotify.com/artist/5ht478srSMpYGDtKWMLQO3"
-        }
-      ],
-      "duration_ms": 538000,
-      "name": "Aruna Chandra",
-      "url": "https://open.spotify.com/track/20qCEmcOcBQC7DS2T70Pz4"
-    },
-    {
-      "added_at": "2022-09-09 16:00:00",
-      "album": {
         "name": "Drum 'N' Feels",
         "url": "https://open.spotify.com/album/5t2hYyJ6Rf0lSTTthWW2h8"
       },
@@ -159,18 +135,26 @@
     {
       "added_at": "2022-09-09 16:00:00",
       "album": {
-        "name": "Bahar",
-        "url": "https://open.spotify.com/album/2SAvFfuR31LlVxBl8MVErT"
+        "name": "Aruna Chandra",
+        "url": "https://open.spotify.com/album/09jd5geuKV6itKwcvamNEn"
       },
       "artists": [
         {
-          "name": "islandman",
-          "url": "https://open.spotify.com/artist/3So3vlAfrEh2FbpvG7sxO4"
+          "name": "Mashti",
+          "url": "https://open.spotify.com/artist/0c2kLTUTikqUpkRjJOerzf"
+        },
+        {
+          "name": "Deep Dive Corp.",
+          "url": "https://open.spotify.com/artist/2Xn8Gef5Hv2QOWYlXs2gTb"
+        },
+        {
+          "name": "David Devanagari",
+          "url": "https://open.spotify.com/artist/5ht478srSMpYGDtKWMLQO3"
         }
       ],
-      "duration_ms": 232600,
-      "name": "Bahar",
-      "url": "https://open.spotify.com/track/7FoNzgmqNTSotUSVemCsrj"
+      "duration_ms": 538000,
+      "name": "Aruna Chandra",
+      "url": "https://open.spotify.com/track/20qCEmcOcBQC7DS2T70Pz4"
     },
     {
       "added_at": "2022-09-09 16:00:00",
@@ -203,25 +187,37 @@
     {
       "added_at": "2022-09-09 16:00:00",
       "album": {
-        "name": "Maasai (Doctor Flake Remix)",
-        "url": "https://open.spotify.com/album/4cysb3VUt41H4YmApVHN9Q"
+        "name": "Bahar",
+        "url": "https://open.spotify.com/album/2SAvFfuR31LlVxBl8MVErT"
       },
       "artists": [
         {
-          "name": "Kutiman",
-          "url": "https://open.spotify.com/artist/0sDJfnuudhMaEmFPvALK2e"
-        },
-        {
-          "name": "Doctor Flake",
-          "url": "https://open.spotify.com/artist/5DZr9dQj9KPd62WuMeIPqK"
+          "name": "islandman",
+          "url": "https://open.spotify.com/artist/3So3vlAfrEh2FbpvG7sxO4"
         }
       ],
-      "duration_ms": 470837,
-      "name": "Maasai - Doctor Flake Remix",
-      "url": "https://open.spotify.com/track/5G2pbqhXrpVbGOYoWaz04J"
+      "duration_ms": 232600,
+      "name": "Bahar",
+      "url": "https://open.spotify.com/track/7FoNzgmqNTSotUSVemCsrj"
     },
     {
-      "added_at": "2022-10-02 01:43:32",
+      "added_at": "2022-09-09 16:00:00",
+      "album": {
+        "name": "Amazon",
+        "url": "https://open.spotify.com/album/2c3Jig1ItqfgOFQLwT0b9z"
+      },
+      "artists": [
+        {
+          "name": "Beyhude",
+          "url": "https://open.spotify.com/artist/65orViGnlMcbptdIGceZzo"
+        }
+      ],
+      "duration_ms": 544182,
+      "name": "Amazon",
+      "url": "https://open.spotify.com/track/1shr9FbwrECsQ3i9hJtz5y"
+    },
+    {
+      "added_at": "2022-10-10 01:42:33",
       "album": {
         "name": "Sayo EP",
         "url": "https://open.spotify.com/album/0PnS7YDXmt2qRdLU1RbdSV"
@@ -239,18 +235,22 @@
     {
       "added_at": "2022-09-09 16:00:00",
       "album": {
-        "name": "Amazon",
-        "url": "https://open.spotify.com/album/2c3Jig1ItqfgOFQLwT0b9z"
+        "name": "Maasai (Doctor Flake Remix)",
+        "url": "https://open.spotify.com/album/4cysb3VUt41H4YmApVHN9Q"
       },
       "artists": [
         {
-          "name": "Beyhude",
-          "url": "https://open.spotify.com/artist/65orViGnlMcbptdIGceZzo"
+          "name": "Kutiman",
+          "url": "https://open.spotify.com/artist/0sDJfnuudhMaEmFPvALK2e"
+        },
+        {
+          "name": "Doctor Flake",
+          "url": "https://open.spotify.com/artist/5DZr9dQj9KPd62WuMeIPqK"
         }
       ],
-      "duration_ms": 544182,
-      "name": "Amazon",
-      "url": "https://open.spotify.com/track/1shr9FbwrECsQ3i9hJtz5y"
+      "duration_ms": 470837,
+      "name": "Maasai - Doctor Flake Remix",
+      "url": "https://open.spotify.com/track/5G2pbqhXrpVbGOYoWaz04J"
     },
     {
       "added_at": "2022-09-09 16:00:00",
@@ -273,7 +273,7 @@
       "url": "https://open.spotify.com/track/6Bg9rnY8OXQZOG79lCveyu"
     },
     {
-      "added_at": "2022-10-02 01:43:32",
+      "added_at": "2022-10-10 01:42:33",
       "album": {
         "name": "Kinana",
         "url": "https://open.spotify.com/album/4XDWNwgH9XzcSs3dauolyV"
@@ -287,42 +287,6 @@
       "duration_ms": 376551,
       "name": "Kinana",
       "url": "https://open.spotify.com/track/7I2EDiR6JcLhHtt54bpSRh"
-    },
-    {
-      "added_at": "2022-09-09 16:00:00",
-      "album": {
-        "name": "Alongside",
-        "url": "https://open.spotify.com/album/6uCN30Zwc6nqxczXVcNQ36"
-      },
-      "artists": [
-        {
-          "name": "Nu",
-          "url": "https://open.spotify.com/artist/5tY2sa8I11tpMuhU9onQ6e"
-        },
-        {
-          "name": "Omeria",
-          "url": "https://open.spotify.com/artist/0Gn7ZHvOfbvZBxPoknZeYl"
-        }
-      ],
-      "duration_ms": 410000,
-      "name": "Alongside - Omeria & NU Edit",
-      "url": "https://open.spotify.com/track/2lAZJjUyFklZXQK5vDjzbp"
-    },
-    {
-      "added_at": "2022-09-09 16:00:00",
-      "album": {
-        "name": "Childhood",
-        "url": "https://open.spotify.com/album/2RIEITFTclNIsuDA6kibJ7"
-      },
-      "artists": [
-        {
-          "name": "KIDS\u00d8",
-          "url": "https://open.spotify.com/artist/7qJHwvMJBW2Da8kt79uexr"
-        }
-      ],
-      "duration_ms": 242145,
-      "name": "Childhood",
-      "url": "https://open.spotify.com/track/4QVosKlgWRXc1IEwYdOBEz"
     },
     {
       "added_at": "2022-09-09 16:00:00",
@@ -357,20 +321,20 @@
       "url": "https://open.spotify.com/track/1RiRfhBguCU7nmxkdK1cdW"
     },
     {
-      "added_at": "2022-10-02 01:43:32",
+      "added_at": "2022-09-09 16:00:00",
       "album": {
-        "name": "Citaro",
-        "url": "https://open.spotify.com/album/3iyjWU3JoS62LmjWfHn1M3"
+        "name": "Childhood",
+        "url": "https://open.spotify.com/album/2RIEITFTclNIsuDA6kibJ7"
       },
       "artists": [
         {
-          "name": "Qalander",
-          "url": "https://open.spotify.com/artist/1fgzNEfvwvl89CVNprnohN"
+          "name": "KIDS\u00d8",
+          "url": "https://open.spotify.com/artist/7qJHwvMJBW2Da8kt79uexr"
         }
       ],
-      "duration_ms": 165176,
-      "name": "Citaro",
-      "url": "https://open.spotify.com/track/2e2eg2gqeutT0wmdNEAOsq"
+      "duration_ms": 242145,
+      "name": "Childhood",
+      "url": "https://open.spotify.com/track/4QVosKlgWRXc1IEwYdOBEz"
     },
     {
       "added_at": "2022-09-09 16:00:00",
@@ -393,20 +357,40 @@
       "url": "https://open.spotify.com/track/3HIyzleWbghroY372GMajL"
     },
     {
-      "added_at": "2022-09-09 16:00:00",
+      "added_at": "2022-10-10 01:42:33",
       "album": {
-        "name": "Ancestry",
-        "url": "https://open.spotify.com/album/6oMwy9QzP1FzbKhR6BWABP"
+        "name": "Citaro",
+        "url": "https://open.spotify.com/album/3iyjWU3JoS62LmjWfHn1M3"
       },
       "artists": [
         {
-          "name": "Mux",
-          "url": "https://open.spotify.com/artist/0nqq006Uo7RuKoKdmLAOkE"
+          "name": "Qalander",
+          "url": "https://open.spotify.com/artist/1fgzNEfvwvl89CVNprnohN"
         }
       ],
-      "duration_ms": 294661,
-      "name": "El Dolor",
-      "url": "https://open.spotify.com/track/5cm8VSk6Iqkp8F1cB2S0Iu"
+      "duration_ms": 165176,
+      "name": "Citaro",
+      "url": "https://open.spotify.com/track/2e2eg2gqeutT0wmdNEAOsq"
+    },
+    {
+      "added_at": "2022-09-09 16:00:00",
+      "album": {
+        "name": "Alongside",
+        "url": "https://open.spotify.com/album/6uCN30Zwc6nqxczXVcNQ36"
+      },
+      "artists": [
+        {
+          "name": "Nu",
+          "url": "https://open.spotify.com/artist/5tY2sa8I11tpMuhU9onQ6e"
+        },
+        {
+          "name": "Omeria",
+          "url": "https://open.spotify.com/artist/0Gn7ZHvOfbvZBxPoknZeYl"
+        }
+      ],
+      "duration_ms": 410000,
+      "name": "Alongside - Omeria & NU Edit",
+      "url": "https://open.spotify.com/track/2lAZJjUyFklZXQK5vDjzbp"
     },
     {
       "added_at": "2022-09-09 16:00:00",
@@ -427,6 +411,22 @@
     {
       "added_at": "2022-09-09 16:00:00",
       "album": {
+        "name": "Ancestry",
+        "url": "https://open.spotify.com/album/6oMwy9QzP1FzbKhR6BWABP"
+      },
+      "artists": [
+        {
+          "name": "Mux",
+          "url": "https://open.spotify.com/artist/0nqq006Uo7RuKoKdmLAOkE"
+        }
+      ],
+      "duration_ms": 294661,
+      "name": "El Dolor",
+      "url": "https://open.spotify.com/track/5cm8VSk6Iqkp8F1cB2S0Iu"
+    },
+    {
+      "added_at": "2022-09-09 16:00:00",
+      "album": {
         "name": "Astavakra",
         "url": "https://open.spotify.com/album/1UjQXx7W5aoyUJi0wBgHZo"
       },
@@ -439,6 +439,26 @@
       "duration_ms": 420215,
       "name": "Astavakra",
       "url": "https://open.spotify.com/track/2vW8K1C2Vj81beuKOvBdf9"
+    },
+    {
+      "added_at": "2022-09-09 16:00:00",
+      "album": {
+        "name": "Between Dreams and Reality EP",
+        "url": "https://open.spotify.com/album/2UlAQEGL6LQ0G2KFP4x6e4"
+      },
+      "artists": [
+        {
+          "name": "Stereo Express",
+          "url": "https://open.spotify.com/artist/3j2zB13syOvCyrkJIomEA2"
+        },
+        {
+          "name": "Niko Schwind",
+          "url": "https://open.spotify.com/artist/4jPpDbD1ERO3zjBon97ECM"
+        }
+      ],
+      "duration_ms": 528410,
+      "name": "Between Dreams and Reality - Niko Schwind Remix",
+      "url": "https://open.spotify.com/track/3YJIq3N5IQy1hhkmUnt2NM"
     },
     {
       "added_at": "2022-09-09 16:00:00",
@@ -467,38 +487,18 @@
     {
       "added_at": "2022-09-09 16:00:00",
       "album": {
-        "name": "Between Dreams and Reality EP",
-        "url": "https://open.spotify.com/album/2UlAQEGL6LQ0G2KFP4x6e4"
+        "name": "Star Tripper",
+        "url": "https://open.spotify.com/album/4bil9t1emZ5tMxChSU364V"
       },
       "artists": [
         {
-          "name": "Stereo Express",
-          "url": "https://open.spotify.com/artist/3j2zB13syOvCyrkJIomEA2"
-        },
-        {
-          "name": "Niko Schwind",
-          "url": "https://open.spotify.com/artist/4jPpDbD1ERO3zjBon97ECM"
+          "name": "Depart",
+          "url": "https://open.spotify.com/artist/5Mqcuj649T5GFhMGlaNGHy"
         }
       ],
-      "duration_ms": 528410,
-      "name": "Between Dreams and Reality - Niko Schwind Remix",
-      "url": "https://open.spotify.com/track/3YJIq3N5IQy1hhkmUnt2NM"
-    },
-    {
-      "added_at": "2022-09-09 16:00:00",
-      "album": {
-        "name": "Fire in the Jungle",
-        "url": "https://open.spotify.com/album/0yGRysFayBSC8MZOyFW7ZH"
-      },
-      "artists": [
-        {
-          "name": "Oliver Koletzki",
-          "url": "https://open.spotify.com/artist/1WjBIvYAnZTkTh5UiZNwlR"
-        }
-      ],
-      "duration_ms": 331114,
-      "name": "Lenny in the Sea with Dolphins",
-      "url": "https://open.spotify.com/track/3T1kFqevhSk1AvF72lf3VL"
+      "duration_ms": 293888,
+      "name": "Star Tripper",
+      "url": "https://open.spotify.com/track/17httCRML11JQcFn0ng40I"
     },
     {
       "added_at": "2022-09-09 16:00:00",
@@ -519,6 +519,22 @@
       "duration_ms": 363765,
       "name": "Nterini - Sparrow & Barbossa Remix",
       "url": "https://open.spotify.com/track/6ZD6KxJrALrxyx0E01Rkgf"
+    },
+    {
+      "added_at": "2022-09-09 16:00:00",
+      "album": {
+        "name": "Fire in the Jungle",
+        "url": "https://open.spotify.com/album/0yGRysFayBSC8MZOyFW7ZH"
+      },
+      "artists": [
+        {
+          "name": "Oliver Koletzki",
+          "url": "https://open.spotify.com/artist/1WjBIvYAnZTkTh5UiZNwlR"
+        }
+      ],
+      "duration_ms": 331114,
+      "name": "Lenny in the Sea with Dolphins",
+      "url": "https://open.spotify.com/track/3T1kFqevhSk1AvF72lf3VL"
     },
     {
       "added_at": "2022-09-09 16:00:00",
@@ -555,22 +571,6 @@
     {
       "added_at": "2022-09-09 16:00:00",
       "album": {
-        "name": "Stateless",
-        "url": "https://open.spotify.com/album/31m9s1EjPMS3G9jvfhqngm"
-      },
-      "artists": [
-        {
-          "name": "Victor Norman",
-          "url": "https://open.spotify.com/artist/3R3CgKhPdCWFnE3ISN8zS9"
-        }
-      ],
-      "duration_ms": 468767,
-      "name": "Showdown",
-      "url": "https://open.spotify.com/track/07BZ5ASG2Pf9LhxfZhqi09"
-    },
-    {
-      "added_at": "2022-09-09 16:00:00",
-      "album": {
         "name": "Forlorn Hope",
         "url": "https://open.spotify.com/album/4HsVqD7Kd3nWAmeXFDHWTx"
       },
@@ -587,18 +587,34 @@
     {
       "added_at": "2022-09-09 16:00:00",
       "album": {
-        "name": "Star Tripper",
-        "url": "https://open.spotify.com/album/4bil9t1emZ5tMxChSU364V"
+        "name": "Global Entry 2",
+        "url": "https://open.spotify.com/album/69LMoWpK2ruprvAdiFPwSm"
       },
       "artists": [
         {
-          "name": "Depart",
-          "url": "https://open.spotify.com/artist/5Mqcuj649T5GFhMGlaNGHy"
+          "name": "Be Svendsen",
+          "url": "https://open.spotify.com/artist/4BaLB5aiExO29BEGVUisru"
         }
       ],
-      "duration_ms": 293888,
-      "name": "Star Tripper",
-      "url": "https://open.spotify.com/track/17httCRML11JQcFn0ng40I"
+      "duration_ms": 469335,
+      "name": "State the Obvious",
+      "url": "https://open.spotify.com/track/6WVvJAAzcrcYJhimrjqEIh"
+    },
+    {
+      "added_at": "2022-09-09 16:00:00",
+      "album": {
+        "name": "Stateless",
+        "url": "https://open.spotify.com/album/31m9s1EjPMS3G9jvfhqngm"
+      },
+      "artists": [
+        {
+          "name": "Victor Norman",
+          "url": "https://open.spotify.com/artist/3R3CgKhPdCWFnE3ISN8zS9"
+        }
+      ],
+      "duration_ms": 468767,
+      "name": "Showdown",
+      "url": "https://open.spotify.com/track/07BZ5ASG2Pf9LhxfZhqi09"
     },
     {
       "added_at": "2022-09-09 16:00:00",
@@ -627,18 +643,22 @@
     {
       "added_at": "2022-09-09 16:00:00",
       "album": {
-        "name": "Global Entry 2",
-        "url": "https://open.spotify.com/album/69LMoWpK2ruprvAdiFPwSm"
+        "name": "Velvet Desert Music Vol. 2",
+        "url": "https://open.spotify.com/album/1RBXK7nKxoZMKWPT2fexBW"
       },
       "artists": [
         {
-          "name": "Be Svendsen",
-          "url": "https://open.spotify.com/artist/4BaLB5aiExO29BEGVUisru"
+          "name": "Superpitcher",
+          "url": "https://open.spotify.com/artist/55BdmUTmTmoUNOFQxm54k5"
+        },
+        {
+          "name": "Daniel Maloso",
+          "url": "https://open.spotify.com/artist/7j5SLy2KUc3LVi3r7xKqIe"
         }
       ],
-      "duration_ms": 469335,
-      "name": "State the Obvious",
-      "url": "https://open.spotify.com/track/6WVvJAAzcrcYJhimrjqEIh"
+      "duration_ms": 453717,
+      "name": "Monterrey Paris Texas",
+      "url": "https://open.spotify.com/track/6MOgIsFOhxqKIodm1V5dd7"
     },
     {
       "added_at": "2022-09-09 16:00:00",
@@ -663,42 +683,6 @@
     {
       "added_at": "2022-09-09 16:00:00",
       "album": {
-        "name": "Velvet Desert Music Vol. 2",
-        "url": "https://open.spotify.com/album/1RBXK7nKxoZMKWPT2fexBW"
-      },
-      "artists": [
-        {
-          "name": "Superpitcher",
-          "url": "https://open.spotify.com/artist/55BdmUTmTmoUNOFQxm54k5"
-        },
-        {
-          "name": "Daniel Maloso",
-          "url": "https://open.spotify.com/artist/7j5SLy2KUc3LVi3r7xKqIe"
-        }
-      ],
-      "duration_ms": 453717,
-      "name": "Monterrey Paris Texas",
-      "url": "https://open.spotify.com/track/6MOgIsFOhxqKIodm1V5dd7"
-    },
-    {
-      "added_at": "2022-09-09 16:00:00",
-      "album": {
-        "name": "Osam",
-        "url": "https://open.spotify.com/album/48YFswdVKWAErJjA6IArbb"
-      },
-      "artists": [
-        {
-          "name": "Tosca",
-          "url": "https://open.spotify.com/artist/0TYvluyvV1Es8lTHiBfnAn"
-        }
-      ],
-      "duration_ms": 482715,
-      "name": "Entrecote",
-      "url": "https://open.spotify.com/track/2MBPUcMpWL4EJ709876js0"
-    },
-    {
-      "added_at": "2022-09-09 16:00:00",
-      "album": {
         "name": "Ma Gally",
         "url": "https://open.spotify.com/album/1komNaPBI0xb2FNDYRy6BC"
       },
@@ -719,34 +703,34 @@
     {
       "added_at": "2022-09-09 16:00:00",
       "album": {
-        "name": "Woods, Tales & Friends",
-        "url": "https://open.spotify.com/album/3Z9EKeISsOLgsfdMNZbUO4"
+        "name": "Osam",
+        "url": "https://open.spotify.com/album/48YFswdVKWAErJjA6IArbb"
       },
       "artists": [
         {
-          "name": "Mollono.Bass",
-          "url": "https://open.spotify.com/artist/27j5PRcPefcI6q8as58zWF"
+          "name": "Tosca",
+          "url": "https://open.spotify.com/artist/0TYvluyvV1Es8lTHiBfnAn"
         }
       ],
-      "duration_ms": 282520,
-      "name": "The Oracle",
-      "url": "https://open.spotify.com/track/0HcuetqlzCA2yDfhKuWrxz"
+      "duration_ms": 482715,
+      "name": "Entrecote",
+      "url": "https://open.spotify.com/track/2MBPUcMpWL4EJ709876js0"
     },
     {
       "added_at": "2022-09-09 16:00:00",
       "album": {
-        "name": "Ritmo",
-        "url": "https://open.spotify.com/album/00QDIAtrKiS45HPy6w2tLB"
+        "name": "Mirage",
+        "url": "https://open.spotify.com/album/3q7mbrmrkvkmAJNz9aRW1h"
       },
       "artists": [
         {
-          "name": "VHOOR",
-          "url": "https://open.spotify.com/artist/0aEDa47F4RWuk4Udm0SEoH"
+          "name": "Planet Caravan",
+          "url": "https://open.spotify.com/artist/1vL80BIxkjefhlD5Gc88r5"
         }
       ],
-      "duration_ms": 115090,
-      "name": "Terra",
-      "url": "https://open.spotify.com/track/13JC5nvIbCbxTrHqFLvwPM"
+      "duration_ms": 385702,
+      "name": "Flou",
+      "url": "https://open.spotify.com/track/6srLB9vOq6BxQmxYAVH0xy"
     },
     {
       "added_at": "2022-09-09 16:00:00",
@@ -767,18 +751,50 @@
     {
       "added_at": "2022-09-09 16:00:00",
       "album": {
-        "name": "Mirage",
-        "url": "https://open.spotify.com/album/3q7mbrmrkvkmAJNz9aRW1h"
+        "name": "Woods, Tales & Friends",
+        "url": "https://open.spotify.com/album/3Z9EKeISsOLgsfdMNZbUO4"
       },
       "artists": [
         {
-          "name": "Planet Caravan",
-          "url": "https://open.spotify.com/artist/1vL80BIxkjefhlD5Gc88r5"
+          "name": "Mollono.Bass",
+          "url": "https://open.spotify.com/artist/27j5PRcPefcI6q8as58zWF"
         }
       ],
-      "duration_ms": 385702,
-      "name": "Flou",
-      "url": "https://open.spotify.com/track/6srLB9vOq6BxQmxYAVH0xy"
+      "duration_ms": 282520,
+      "name": "The Oracle",
+      "url": "https://open.spotify.com/track/0HcuetqlzCA2yDfhKuWrxz"
+    },
+    {
+      "added_at": "2022-09-09 16:00:00",
+      "album": {
+        "name": "Quetzal",
+        "url": "https://open.spotify.com/album/0GB8eQGSI1PgdPqV7IrLMK"
+      },
+      "artists": [
+        {
+          "name": "Montezuma",
+          "url": "https://open.spotify.com/artist/6AgAUwug3IMyaejTUjnkhU"
+        }
+      ],
+      "duration_ms": 457843,
+      "name": "Quetzal",
+      "url": "https://open.spotify.com/track/3onp9CePJ7sNcJjIARM5YG"
+    },
+    {
+      "added_at": "2022-09-09 16:00:00",
+      "album": {
+        "name": "Ritmo",
+        "url": "https://open.spotify.com/album/00QDIAtrKiS45HPy6w2tLB"
+      },
+      "artists": [
+        {
+          "name": "VHOOR",
+          "url": "https://open.spotify.com/artist/0aEDa47F4RWuk4Udm0SEoH"
+        }
+      ],
+      "duration_ms": 115090,
+      "name": "Terra",
+      "url": "https://open.spotify.com/track/13JC5nvIbCbxTrHqFLvwPM"
     },
     {
       "added_at": "2022-09-09 16:00:00",
@@ -803,22 +819,6 @@
     {
       "added_at": "2022-09-09 16:00:00",
       "album": {
-        "name": "Quetzal",
-        "url": "https://open.spotify.com/album/0GB8eQGSI1PgdPqV7IrLMK"
-      },
-      "artists": [
-        {
-          "name": "Montezuma",
-          "url": "https://open.spotify.com/artist/6AgAUwug3IMyaejTUjnkhU"
-        }
-      ],
-      "duration_ms": 457843,
-      "name": "Quetzal",
-      "url": "https://open.spotify.com/track/3onp9CePJ7sNcJjIARM5YG"
-    },
-    {
-      "added_at": "2022-09-09 16:00:00",
-      "album": {
         "name": "Words Don't Come Easy, Pt. 6",
         "url": "https://open.spotify.com/album/0MhcYIMgVVrf3dusIES3ej"
       },
@@ -839,6 +839,22 @@
     {
       "added_at": "2022-09-09 16:00:00",
       "album": {
+        "name": "Bosque",
+        "url": "https://open.spotify.com/album/4HROnq4ngJRmaEfRX5YkRt"
+      },
+      "artists": [
+        {
+          "name": "Bosquemar",
+          "url": "https://open.spotify.com/artist/6GG1iBZgzl6OlPpfY7hyPY"
+        }
+      ],
+      "duration_ms": 393428,
+      "name": "Bosque",
+      "url": "https://open.spotify.com/track/48lLbEReLswTVWsZYhhPks"
+    },
+    {
+      "added_at": "2022-09-09 16:00:00",
+      "album": {
         "name": "Izivunguvungu (Chlo\u00e9 Remix)",
         "url": "https://open.spotify.com/album/4WMhthWOI1jzCIuRoP0jwB"
       },
@@ -855,6 +871,42 @@
       "duration_ms": 384330,
       "name": "Izivunguvungu - Chlo\u00e9 Remix",
       "url": "https://open.spotify.com/track/4smPVWbEXf5aq92BcNevXu"
+    },
+    {
+      "added_at": "2022-09-09 16:00:00",
+      "album": {
+        "name": "Endless Forest",
+        "url": "https://open.spotify.com/album/5EE1o6sPngmmoL68oGZcBb"
+      },
+      "artists": [
+        {
+          "name": "Zuma Dionys",
+          "url": "https://open.spotify.com/artist/7qqEqY1pR6Uj2Z41HNuszd"
+        }
+      ],
+      "duration_ms": 436857,
+      "name": "Gamora",
+      "url": "https://open.spotify.com/track/3urFlzQr5f0jlGMGt84m76"
+    },
+    {
+      "added_at": "2022-09-09 16:00:00",
+      "album": {
+        "name": "Take Me Back",
+        "url": "https://open.spotify.com/album/1dfGwYMf6rQJg1IQBl6p5y"
+      },
+      "artists": [
+        {
+          "name": "Marcel Vogel",
+          "url": "https://open.spotify.com/artist/58cSkLlJKQgbPGKph5569D"
+        },
+        {
+          "name": "Tim Jules",
+          "url": "https://open.spotify.com/artist/3YsW23aSl6MItRGwGBYGDk"
+        }
+      ],
+      "duration_ms": 286392,
+      "name": "Take Me Back",
+      "url": "https://open.spotify.com/track/1WaDwq1lUB69du6tuUnLIY"
     },
     {
       "added_at": "2022-09-09 16:00:00",
@@ -899,34 +951,18 @@
     {
       "added_at": "2022-09-09 16:00:00",
       "album": {
-        "name": "Bosque",
-        "url": "https://open.spotify.com/album/4HROnq4ngJRmaEfRX5YkRt"
+        "name": "Caminata",
+        "url": "https://open.spotify.com/album/7Iy8qNYQd5MfCWHEb0mSSl"
       },
       "artists": [
         {
-          "name": "Bosquemar",
-          "url": "https://open.spotify.com/artist/6GG1iBZgzl6OlPpfY7hyPY"
+          "name": "Montezuma",
+          "url": "https://open.spotify.com/artist/6AgAUwug3IMyaejTUjnkhU"
         }
       ],
-      "duration_ms": 393428,
-      "name": "Bosque",
-      "url": "https://open.spotify.com/track/48lLbEReLswTVWsZYhhPks"
-    },
-    {
-      "added_at": "2022-09-09 16:00:00",
-      "album": {
-        "name": "Endless Forest",
-        "url": "https://open.spotify.com/album/5EE1o6sPngmmoL68oGZcBb"
-      },
-      "artists": [
-        {
-          "name": "Zuma Dionys",
-          "url": "https://open.spotify.com/artist/7qqEqY1pR6Uj2Z41HNuszd"
-        }
-      ],
-      "duration_ms": 436857,
-      "name": "Gamora",
-      "url": "https://open.spotify.com/track/3urFlzQr5f0jlGMGt84m76"
+      "duration_ms": 416267,
+      "name": "Caminata",
+      "url": "https://open.spotify.com/track/5yNkX0lW8C2ccVN3Q1xRm9"
     },
     {
       "added_at": "2022-09-09 16:00:00",
@@ -951,42 +987,22 @@
     {
       "added_at": "2022-09-09 16:00:00",
       "album": {
-        "name": "Voodoo Guitar",
-        "url": "https://open.spotify.com/album/1fvW1MQTnRPKT0xqE5cKzI"
+        "name": "Leave the Bones",
+        "url": "https://open.spotify.com/album/30OeYX8aVRKtwzyUS9D1kZ"
       },
       "artists": [
         {
-          "name": "Dan Bay",
-          "url": "https://open.spotify.com/artist/1E9ev9hZVmtmeFkS3ZAyyw"
+          "name": "Lakou Mizik",
+          "url": "https://open.spotify.com/artist/2AzO6D2TXB9qEqL6UfUU8r"
         },
         {
-          "name": "Max Clouth",
-          "url": "https://open.spotify.com/artist/7EHVLFAxz7VPpkyUqEt4y1"
-        },
-        {
-          "name": "Timboletti",
-          "url": "https://open.spotify.com/artist/4i0bLWWYQMI3P1KFrTWsHG"
+          "name": "Joseph Ray",
+          "url": "https://open.spotify.com/artist/4O2IFXgH0FqMSHU4pzpqQX"
         }
       ],
-      "duration_ms": 637455,
-      "name": "Voodoo Guitar - Timboletti Remix",
-      "url": "https://open.spotify.com/track/73dICB4SbDjpD4ShzTyLM1"
-    },
-    {
-      "added_at": "2022-09-09 16:00:00",
-      "album": {
-        "name": "Caminata",
-        "url": "https://open.spotify.com/album/7Iy8qNYQd5MfCWHEb0mSSl"
-      },
-      "artists": [
-        {
-          "name": "Montezuma",
-          "url": "https://open.spotify.com/artist/6AgAUwug3IMyaejTUjnkhU"
-        }
-      ],
-      "duration_ms": 416267,
-      "name": "Caminata",
-      "url": "https://open.spotify.com/track/5yNkX0lW8C2ccVN3Q1xRm9"
+      "duration_ms": 354043,
+      "name": "Kite Zo A",
+      "url": "https://open.spotify.com/track/4oxWMQjQLpDZ3UOS0km3JB"
     },
     {
       "added_at": "2022-09-09 16:00:00",
@@ -1003,6 +1019,22 @@
       "duration_ms": 367636,
       "name": "Novicani",
       "url": "https://open.spotify.com/track/6slRjclAINlQeCkqjZkJQn"
+    },
+    {
+      "added_at": "2022-09-09 16:00:00",
+      "album": {
+        "name": "Graceland",
+        "url": "https://open.spotify.com/album/389FTo58PpF3FBb8rh7IlV"
+      },
+      "artists": [
+        {
+          "name": "Till Von Sein",
+          "url": "https://open.spotify.com/artist/5gRHhAWRxjeshuTGcFfEkI"
+        }
+      ],
+      "duration_ms": 405213,
+      "name": "Graceland",
+      "url": "https://open.spotify.com/track/4blmNPKr7Nkfaj6GDAKU5P"
     },
     {
       "added_at": "2022-09-09 16:00:00",
@@ -1031,74 +1063,46 @@
     {
       "added_at": "2022-09-09 16:00:00",
       "album": {
-        "name": "Leave the Bones",
-        "url": "https://open.spotify.com/album/30OeYX8aVRKtwzyUS9D1kZ"
+        "name": "Voodoo Guitar",
+        "url": "https://open.spotify.com/album/1fvW1MQTnRPKT0xqE5cKzI"
       },
       "artists": [
         {
-          "name": "Lakou Mizik",
-          "url": "https://open.spotify.com/artist/2AzO6D2TXB9qEqL6UfUU8r"
+          "name": "Dan Bay",
+          "url": "https://open.spotify.com/artist/1E9ev9hZVmtmeFkS3ZAyyw"
         },
         {
-          "name": "Joseph Ray",
-          "url": "https://open.spotify.com/artist/4O2IFXgH0FqMSHU4pzpqQX"
-        }
-      ],
-      "duration_ms": 354043,
-      "name": "Kite Zo A",
-      "url": "https://open.spotify.com/track/4oxWMQjQLpDZ3UOS0km3JB"
-    },
-    {
-      "added_at": "2022-09-09 16:00:00",
-      "album": {
-        "name": "Graceland",
-        "url": "https://open.spotify.com/album/389FTo58PpF3FBb8rh7IlV"
-      },
-      "artists": [
-        {
-          "name": "Till Von Sein",
-          "url": "https://open.spotify.com/artist/5gRHhAWRxjeshuTGcFfEkI"
-        }
-      ],
-      "duration_ms": 405213,
-      "name": "Graceland",
-      "url": "https://open.spotify.com/track/4blmNPKr7Nkfaj6GDAKU5P"
-    },
-    {
-      "added_at": "2022-09-09 16:00:00",
-      "album": {
-        "name": "Minimuzikhol Benefit Compilation",
-        "url": "https://open.spotify.com/album/3vOUDYcIWNLFAZzeWvwZQ9"
-      },
-      "artists": [
-        {
-          "name": "TUTAN",
-          "url": "https://open.spotify.com/artist/5tWW4zktUzz1kstvxZ2MMc"
-        }
-      ],
-      "duration_ms": 366886,
-      "name": "Mazbata",
-      "url": "https://open.spotify.com/track/3Lg0Kn4AXZCRRYclJWh9ce"
-    },
-    {
-      "added_at": "2022-09-09 16:00:00",
-      "album": {
-        "name": "Take Me Back",
-        "url": "https://open.spotify.com/album/1dfGwYMf6rQJg1IQBl6p5y"
-      },
-      "artists": [
-        {
-          "name": "Marcel Vogel",
-          "url": "https://open.spotify.com/artist/58cSkLlJKQgbPGKph5569D"
+          "name": "Max Clouth",
+          "url": "https://open.spotify.com/artist/7EHVLFAxz7VPpkyUqEt4y1"
         },
         {
-          "name": "Tim Jules",
-          "url": "https://open.spotify.com/artist/3YsW23aSl6MItRGwGBYGDk"
+          "name": "Timboletti",
+          "url": "https://open.spotify.com/artist/4i0bLWWYQMI3P1KFrTWsHG"
         }
       ],
-      "duration_ms": 286392,
-      "name": "Take Me Back",
-      "url": "https://open.spotify.com/track/1WaDwq1lUB69du6tuUnLIY"
+      "duration_ms": 637455,
+      "name": "Voodoo Guitar - Timboletti Remix",
+      "url": "https://open.spotify.com/track/73dICB4SbDjpD4ShzTyLM1"
+    },
+    {
+      "added_at": "2022-09-09 16:00:00",
+      "album": {
+        "name": "La Isla",
+        "url": "https://open.spotify.com/album/7bKPkGw5CJeqCegPqzuTG0"
+      },
+      "artists": [
+        {
+          "name": "Megablast",
+          "url": "https://open.spotify.com/artist/3FkAamTY6TR8lc6xOFO21T"
+        },
+        {
+          "name": "Eribertho Cruz",
+          "url": "https://open.spotify.com/artist/6dQxJRakmUNWvvWVH8nQdb"
+        }
+      ],
+      "duration_ms": 193306,
+      "name": "La Isla - Radio Version",
+      "url": "https://open.spotify.com/track/2bwr0a2bbCfx3txaJ1uGro"
     }
   ],
   "unique_name": "Org\u00e1nica",

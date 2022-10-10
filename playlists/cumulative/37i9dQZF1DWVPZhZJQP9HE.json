@@ -316,6 +316,28 @@
     },
     {
       "album": {
+        "name": "Anname",
+        "url": "https://open.spotify.com/album/6FoSUc4jffTbyd53AFQfA7"
+      },
+      "artists": [
+        {
+          "name": "Nivas",
+          "url": "https://open.spotify.com/artist/4xhaMczwBV4FBeTAxr6I7O"
+        },
+        {
+          "name": "Abhijith Ramaswami",
+          "url": "https://open.spotify.com/artist/71Rq1l3001C96Z3xNwKChs"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141900,
+      "name": "Anname",
+      "url": "https://open.spotify.com/track/1Ia2fRMFcmpWatE3qJMaDW"
+    },
+    {
+      "album": {
         "name": "Arugey Nee Pothumay - Single",
         "url": "https://open.spotify.com/album/4Hzjc66esQ4wvOjdfTrtDc"
       },
@@ -903,7 +925,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-07",
       "duration_ms": 188000,
       "name": "Hey Sagiye",
       "url": "https://open.spotify.com/track/5UoDP4lBVA2Cpdg3J9GqSe"
@@ -983,6 +1005,32 @@
       "duration_ms": 297000,
       "name": "Idhu Kadanthu Pogumae",
       "url": "https://open.spotify.com/track/6i1igvluV62CI1bQAB3cH2"
+    },
+    {
+      "album": {
+        "name": "Idhu Varai",
+        "url": "https://open.spotify.com/album/1IM0nAz6cvQ48gul0P7pf4"
+      },
+      "artists": [
+        {
+          "name": "Karthick Devaraj",
+          "url": "https://open.spotify.com/artist/3ddyHcnuLRbU4EhCOvEI1N"
+        },
+        {
+          "name": "Arun Naik",
+          "url": "https://open.spotify.com/artist/7lo4gKv8Vnlajo33ibBB7K"
+        },
+        {
+          "name": "Priyanka NK",
+          "url": "https://open.spotify.com/artist/2ur0GHc7zvYZXe0WjIKd2K"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258870,
+      "name": "Idhu Varai",
+      "url": "https://open.spotify.com/track/5K3D32FfrqVGyry1y8vhiJ"
     },
     {
       "album": {
@@ -1103,7 +1151,7 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-07",
       "duration_ms": 242568,
       "name": "Jangrila Jeera",
       "url": "https://open.spotify.com/track/5svRYPwYjBLYl87FKeUzMR"
@@ -1410,6 +1458,24 @@
     },
     {
       "album": {
+        "name": "Kadhalkaari",
+        "url": "https://open.spotify.com/album/6aBSApwk2kS4l0Z4FsavnW"
+      },
+      "artists": [
+        {
+          "name": "EJ Brothers",
+          "url": "https://open.spotify.com/artist/7KiWncdc8EYImIzqvgViUi"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268800,
+      "name": "Kadhalkaari",
+      "url": "https://open.spotify.com/track/1NxzU4MHV6PzdFWi3QA2hg"
+    },
+    {
+      "album": {
         "name": "Kai Veesi",
         "url": "https://open.spotify.com/album/1axo30VEMUBbPUUDpW1rXf"
       },
@@ -1543,7 +1609,7 @@
       ],
       "date_added": "2022-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-07",
       "duration_ms": 60188,
       "name": "Kanmaniye - 1 Min Music",
       "url": "https://open.spotify.com/track/4fpGDSMsi8h9gBk6jnpNMR"
@@ -1633,7 +1699,7 @@
       ],
       "date_added": "2022-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-07",
       "duration_ms": 250708,
       "name": "Karuppu Vellai",
       "url": "https://open.spotify.com/track/4ZlCVHcK4OEStP1MOMsddo"
@@ -3455,7 +3521,7 @@
       ],
       "date_added": "2022-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-07",
       "duration_ms": 211800,
       "name": "Tea Vibes",
       "url": "https://open.spotify.com/track/1iJV3JB2IjuVYE3dSdY9oA"
@@ -3525,7 +3591,7 @@
       ],
       "date_added": "2022-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-07",
       "duration_ms": 207820,
       "name": "Thalayaatti Bommai - From \"Think Originals\"",
       "url": "https://open.spotify.com/track/6AXVNRqao5TcomgIPWiWnm"
@@ -4377,6 +4443,32 @@
       "duration_ms": 239960,
       "name": "Yaaropole Neeyum Yaaropole Naanum (From \"Chota\")",
       "url": "https://open.spotify.com/track/14K8atqpMOPHkqwSVECjZJ"
+    },
+    {
+      "album": {
+        "name": "Yaavum Dooram",
+        "url": "https://open.spotify.com/album/2QN3nXN2namoXB6oKo3rN1"
+      },
+      "artists": [
+        {
+          "name": "Karthick Devaraj",
+          "url": "https://open.spotify.com/artist/3ddyHcnuLRbU4EhCOvEI1N"
+        },
+        {
+          "name": "Andrea Jeremiah",
+          "url": "https://open.spotify.com/artist/5yoqPvofOHrBc3Z6VZyTsj"
+        },
+        {
+          "name": "Uthara Pattathil",
+          "url": "https://open.spotify.com/artist/2UkwObB1pDRMsqq0lQnSPu"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194673,
+      "name": "Yaavum Dooram",
+      "url": "https://open.spotify.com/track/2lJgbECznMqSoeLr9u0Dfq"
     },
     {
       "album": {

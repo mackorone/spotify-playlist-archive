@@ -156,6 +156,24 @@
     },
     {
       "album": {
+        "name": "Magic Ship",
+        "url": "https://open.spotify.com/album/26ahuw4JsKSGyNN1PCZe83"
+      },
+      "artists": [
+        {
+          "name": "Mountain Man",
+          "url": "https://open.spotify.com/artist/5kmPNusdo1mCTyz4u1uEGm"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169333,
+      "name": "Baby Where You Are",
+      "url": "https://open.spotify.com/track/7tZwFmarYtM2Yxy8IRW8wb"
+    },
+    {
+      "album": {
         "name": "Somewhere",
         "url": "https://open.spotify.com/album/3tqWpScYda0eUqExXOqQnm"
       },
@@ -1265,7 +1283,7 @@
       ],
       "date_added": "2022-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 392106,
       "name": "I Had a Real Good Lover",
       "url": "https://open.spotify.com/track/1XMQ4v75bj65rHBCDwaBGc"
@@ -1955,6 +1973,24 @@
       "duration_ms": 274423,
       "name": "Low",
       "url": "https://open.spotify.com/track/3xeM8VBsUEcrCZK61hojGn"
+    },
+    {
+      "album": {
+        "name": "Forever & A Few",
+        "url": "https://open.spotify.com/album/1NHlnn47gB3IrP9fwahcjF"
+      },
+      "artists": [
+        {
+          "name": "Choker",
+          "url": "https://open.spotify.com/artist/5XQRfs0gXs30aWUn1Umves"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251034,
+      "name": "Lucky",
+      "url": "https://open.spotify.com/track/0mYslGmbnkbxuyr0ISIYtB"
     },
     {
       "album": {
@@ -3335,7 +3371,7 @@
       ],
       "date_added": "2021-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 194398,
       "name": "Twinkle",
       "url": "https://open.spotify.com/track/0HYx2H2vKfC3CqwdsmDWcf"
@@ -3476,6 +3512,24 @@
     },
     {
       "album": {
+        "name": "Lost On The River",
+        "url": "https://open.spotify.com/album/0P08GE8Ep1eBK9dOnaYdRq"
+      },
+      "artists": [
+        {
+          "name": "The New Basement Tapes",
+          "url": "https://open.spotify.com/artist/2oQpz9DEfhuSbuT8hjhTDK"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190400,
+      "name": "When I Get My Hands On You",
+      "url": "https://open.spotify.com/track/4Fs6KJzg4d0xrGZt7wrC0M"
+    },
+    {
+      "album": {
         "name": "Vide Noir",
         "url": "https://open.spotify.com/album/2oiJM8vFGpxrtGtFfJWhJv"
       },
@@ -3595,7 +3649,7 @@
       ],
       "date_added": "2022-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 246133,
       "name": "You Can't Always Get What You Want",
       "url": "https://open.spotify.com/track/31kL6SK7esUd0QRkrkjI8Q"

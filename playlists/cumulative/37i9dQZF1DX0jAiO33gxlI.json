@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-24",
-  "description": "Os lan\u00e7amentos e melhores sons do rap e trap nacionais. Foto: Kayode",
+  "description": "Os lan\u00e7amentos e melhores sons do rap e trap nacionais. Foto: Rapadura",
   "name": "Presen\u00e7a Hip Hop",
   "published_playlist_ids": [
     "07w2QUeYfgvUJ366SKbIpZ"
@@ -265,7 +265,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 163453,
       "name": "Algo \u00cdntimo",
       "url": "https://open.spotify.com/track/7e0DPzHixf5MyclQRCUkJa"
@@ -805,7 +805,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 198051,
       "name": "Clone",
       "url": "https://open.spotify.com/track/6qXLawiN099LNELEdzhZSP"
@@ -1726,6 +1726,28 @@
     },
     {
       "album": {
+        "name": "Flow Luva de Pedreiro",
+        "url": "https://open.spotify.com/album/3kBgXwgZVRHXtHT6IYPAIS"
+      },
+      "artists": [
+        {
+          "name": "Rapadura",
+          "url": "https://open.spotify.com/artist/4A1cX2TiUVTIaJMdWgpm4j"
+        },
+        {
+          "name": "Long beatz",
+          "url": "https://open.spotify.com/artist/1oBkccDqIDMTntIIHKlJBp"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200000,
+      "name": "Flow Luva de Pedreiro",
+      "url": "https://open.spotify.com/track/5AJkvpxuCIvGMm1RkltJqM"
+    },
+    {
+      "album": {
         "name": "Forasteiro",
         "url": "https://open.spotify.com/album/6EwhjSxrATQBHEoXGCppa1"
       },
@@ -1936,6 +1958,28 @@
     },
     {
       "album": {
+        "name": "Igual Jorge",
+        "url": "https://open.spotify.com/album/23VRvW4cKeh43v2rstycJ4"
+      },
+      "artists": [
+        {
+          "name": "Dukes1Soldado",
+          "url": "https://open.spotify.com/artist/2fOcfLmY2VQi6NEOMNKqdJ"
+        },
+        {
+          "name": "S\u00edntese",
+          "url": "https://open.spotify.com/artist/44A7vIMeuMh3AhjFTkj8B5"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204545,
+      "name": "Igual Jorge",
+      "url": "https://open.spotify.com/track/4ZefRVkBTNgc4mSmcoZ4nw"
+    },
+    {
+      "album": {
         "name": "Imprevisto",
         "url": "https://open.spotify.com/album/4KbiGCm9vDI0dLXwGGXktY"
       },
@@ -2081,6 +2125,14 @@
         {
           "name": "Elo Da Corrente",
           "url": "https://open.spotify.com/artist/208xLawVEQeZUnQe2FKrZe"
+        },
+        {
+          "name": "DJ Mako",
+          "url": "https://open.spotify.com/artist/2Ioqrv9nykVtIAf1Hk1H7g"
+        },
+        {
+          "name": "Iuri Rio Branco",
+          "url": "https://open.spotify.com/artist/7CDNHcDbOQU1gK1OxjZlcC"
         },
         {
           "name": "S\u00edntese",
@@ -3049,6 +3101,32 @@
       "duration_ms": 222772,
       "name": "No Baile",
       "url": "https://open.spotify.com/track/3UPNVNMvDKd7nLtzIPauN6"
+    },
+    {
+      "album": {
+        "name": "No Corre",
+        "url": "https://open.spotify.com/album/2BRH2zjETIcdj10WqZrsRm"
+      },
+      "artists": [
+        {
+          "name": "DJ Caique",
+          "url": "https://open.spotify.com/artist/7kWVfszPF9qI8Ms6PMhNvM"
+        },
+        {
+          "name": "Salvador Da Rima",
+          "url": "https://open.spotify.com/artist/3zUcyANWSbo98ikca4ugrV"
+        },
+        {
+          "name": "Lord ADL",
+          "url": "https://open.spotify.com/artist/7phpDFUX97M0DTGIcjXKRk"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230829,
+      "name": "No Corre",
+      "url": "https://open.spotify.com/track/0n0lxPI2cFPpqqRFbsLgjI"
     },
     {
       "album": {
@@ -4057,7 +4135,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 189764,
       "name": "Poseidon",
       "url": "https://open.spotify.com/track/1uN46XITdkRt2zdossY5Yg"
@@ -5115,7 +5193,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 180800,
       "name": "Te Proponho",
       "url": "https://open.spotify.com/track/23MHqq90J3w5FjgOxmT4NS"
@@ -5323,6 +5401,28 @@
       "duration_ms": 217793,
       "name": "Tudo Bem",
       "url": "https://open.spotify.com/track/7uBvXVse2YVcfQ65jp9u8m"
+    },
+    {
+      "album": {
+        "name": "Tukikis",
+        "url": "https://open.spotify.com/album/0NarRuAKpqlB8Aet14O24n"
+      },
+      "artists": [
+        {
+          "name": "Cristal",
+          "url": "https://open.spotify.com/artist/6i4nbGTS2gSP0e6emkTqdX"
+        },
+        {
+          "name": "MDN Beatz",
+          "url": "https://open.spotify.com/artist/6EaIRN2UvHGu9EdeBvfPo1"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174083,
+      "name": "Tukikis",
+      "url": "https://open.spotify.com/track/4yaZDkcert6F9kN4Bs51B7"
     },
     {
       "album": {

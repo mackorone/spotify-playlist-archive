@@ -2,9 +2,9 @@
 
 ### [Pop Leve](https://open.spotify.com/playlist/37i9dQZF1DX8mWv7JDZ0Ht)
 
-> Sucessos e novidades do pop calminho pra relaxar o seu dia! Foto: Giulia Be
+> Sucessos e novidades do pop calminho pra relaxar o seu dia! Foto: Vitor Kley
 
-159 songs - 8 hr 0 min - [published](https://open.spotify.com/playlist/5tkcffSh1F75PZZSEVmuv8)
+161 songs - 8 hr 6 min - [published](https://open.spotify.com/playlist/5tkcffSh1F75PZZSEVmuv8)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,11 +12,13 @@
 | [48K Apresenta \#4: Eu Ainda Te Amo](https://open.spotify.com/track/5UvrBOUdaADTBCV63v9cqD) | [48k](https://open.spotify.com/artist/607zxx4kUoATMyFz7FahmI), [Bia Marques](https://open.spotify.com/artist/0fUdNywWe3Nfb8eClIue8R) | [48K Apresenta \#4: Eu Ainda Te Amo](https://open.spotify.com/album/4oTmatehS94y8mIDCHACbx) | 2:43 | 2022-05-13 |  |
 | [A Vida Não Erra](https://open.spotify.com/track/1vT7MW3pMQfYC8ZsVbLIGD) | [Vicka](https://open.spotify.com/artist/5ITGPHkPyU6uvvrhMjCGai) | [A Vida Não Erra](https://open.spotify.com/album/71rL4hsd3a7mI0qQVNcfVM) | 3:05 | 2022-05-13 | 2022-07-29 |
 | [A Vida Não Erra](https://open.spotify.com/track/3JPTkwFCf0SHfRVWOpZetC) | [Vicka](https://open.spotify.com/artist/5ITGPHkPyU6uvvrhMjCGai) | [De Cabeça Pra Baixo](https://open.spotify.com/album/36mc8clQQYccyzD9HkzXPv) | 3:05 | 2022-07-01 |  |
-| [A Vida É Boa Com Você \- Voz E Violão](https://open.spotify.com/track/7w36CnYumoRl1ryZOWsJnk) | [Bryan Behr](https://open.spotify.com/artist/1nbIxJpSdhe1dzImxd8WfF) | [Simples](https://open.spotify.com/album/7xVxIAZOM8ac4viH06lVD9) | 2:50 | 2022-05-13 |  |
+| [A Vida É Boa Com Você \- Voz E Violão](https://open.spotify.com/track/7w36CnYumoRl1ryZOWsJnk) | [Bryan Behr](https://open.spotify.com/artist/1nbIxJpSdhe1dzImxd8WfF) | [Simples](https://open.spotify.com/album/7xVxIAZOM8ac4viH06lVD9) | 2:50 | 2022-05-13 | 2022-10-04 |
 | [Acorda Amor](https://open.spotify.com/track/3wcfLGyG8FRCWxZOO7NsII) | [MARCEL](https://open.spotify.com/artist/6u0K20qShucTXhhb9lOZjX) | [Acorda Amor](https://open.spotify.com/album/5qCDzPx6lP6XKlYO6sbHBx) | 2:27 | 2022-05-13 | 2022-06-15 |
 | [Adoro Amar Você](https://open.spotify.com/track/1Epc5aVhjQLAfF0tZJnDAZ) | [Daniel](https://open.spotify.com/artist/2wwWukJBsCikjlj7vlbQkM), [Vitor Kley](https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U) | [Adoro Amar Você](https://open.spotify.com/album/0dMtLl7Qgizyv3ry7MaZVl) | 4:33 | 2022-09-09 |  |
+| [Agridoce](https://open.spotify.com/track/7vMa1EWSLnbjSCcaniuZsL) | [Luiza Possi](https://open.spotify.com/artist/46P1tvf6evAk5wk2Rg3jOq), [Lulu Santos](https://open.spotify.com/artist/0A1oy7PC7fdzURgaLaWkL1) | [Agridoce](https://open.spotify.com/album/5N6IeS8Ebyiwk0qC20MItk) | 2:37 | 2022-09-30 |  |
 | [Aguei](https://open.spotify.com/track/3hCJ7bncN6wjLxWCxhUSkp) | [ANAVITÓRIA](https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe), [Jovem Dionisio](https://open.spotify.com/artist/4m5LghDfOKFZNEBZ0GO1OQ) | [Aguei](https://open.spotify.com/album/2vOz8ssYDr5H8LTusYbmzd) | 3:11 | 2022-05-13 |  |
 | [Ai Bebê](https://open.spotify.com/track/5cIAwDYkTTGyNFgXzXROdF) | [ALMAR](https://open.spotify.com/artist/4859dldHEllxxWOTQS1QKI), [João Mar](https://open.spotify.com/artist/2NV1SEgX1h3DIADJjzRrQy) | [Ai Bebê](https://open.spotify.com/album/5Ib7gIzkMJSFENH7ZzJCPX) | 2:44 | 2022-06-14 |  |
+| [Ainda Vou Morrer por Não Falar](https://open.spotify.com/track/3Lh9v1tenzstOMXEwL9Yar) | [Vitor Kley](https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U) | [Ainda Vou Morrer por Não Falar](https://open.spotify.com/album/4sZn8YVyraqukoODDWMpLM) | 3:12 | 2022-10-07 |  |
 | [Aliança](https://open.spotify.com/track/2tLfyFT8X6MmdYsyo9x5Gg) | [Gaab](https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut), [Maiara & Maraisa](https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se) | [Aliança](https://open.spotify.com/album/6xTuOYTLMwNqwbyNHTtAot) | 3:13 | 2022-06-14 | 2022-06-25 |
 | [Alto Mar](https://open.spotify.com/track/0UAeeeqIozUW3g5w86bp9m) | [Mariana Nolasco](https://open.spotify.com/artist/2DMXwm5MCyjDIQ7W3Zh7EH), [Vitor Kley](https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U) | [Alto Mar](https://open.spotify.com/album/7LevgNPvMOCz0xVDQ61wM0) | 3:17 | 2022-05-13 | 2022-07-29 |
 | [Alto Mar](https://open.spotify.com/track/7GwO8ewOutzHzL3HeMbxK4) | [Mariana Nolasco](https://open.spotify.com/artist/2DMXwm5MCyjDIQ7W3Zh7EH), [Vitor Kley](https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U) | [Alto Mar](https://open.spotify.com/album/6DahyEuFWlMu8ECGM2lrDX) | 3:17 | 2022-07-01 |  |
@@ -66,7 +68,7 @@
 | [EITA MENINA](https://open.spotify.com/track/2ItOwqddXxLZnOmQmlEbda) | [Lagum](https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD), [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C), [Mart'nália](https://open.spotify.com/artist/4EUuQxMNowMUEs5gu4BzBX) | [EITA MENINA](https://open.spotify.com/album/4NIEzSSeFxaLxa66ENiqaE) | 3:07 | 2022-05-13 | 2022-10-01 |
 | [Embriagado de Saudade](https://open.spotify.com/track/5efZJvbyTISLTujhMm3rcR) | [Gabriel Gonti](https://open.spotify.com/artist/7BPHTWFEfvH7HPfHLU1EOg) | [Embriagado de Saudade](https://open.spotify.com/album/2MgoX7Y7rP0JCb6Q3K5SUX) | 2:35 | 2022-08-05 |  |
 | [Então Volta](https://open.spotify.com/track/398kKBfVzVZk3WKgslVegy) | [Saulo](https://open.spotify.com/artist/0l82Lk1LX5X2qqYuPSXTuf), [Melly](https://open.spotify.com/artist/7a7n9ka0Mnevq19mOU8tcW) | [Então Volta](https://open.spotify.com/album/37DaFtlhCpwYVDiS8w5c69) | 3:09 | 2022-05-13 |  |
-| [Esteja Lá](https://open.spotify.com/track/7p0RUtuHrIdE7lKzohvEpQ) | [Zoo](https://open.spotify.com/artist/4ovLfdf8gtbnb7OCwEQMvH) | [DSLA \(Desperte Seu Lado Animal\)](https://open.spotify.com/album/4nuPJULeYU3Quk89kKpzxK) | 2:14 | 2022-09-23 |  |
+| [Esteja Lá](https://open.spotify.com/track/7p0RUtuHrIdE7lKzohvEpQ) | [Zoo](https://open.spotify.com/artist/4ovLfdf8gtbnb7OCwEQMvH) | [DSLA \(Desperte Seu Lado Animal\)](https://open.spotify.com/album/4nuPJULeYU3Quk89kKpzxK) | 2:14 | 2022-09-23 | 2022-10-08 |
 | [Eu e Eu Mesmo](https://open.spotify.com/track/4U4KZ4I0Hcvfc5UpoWVnoA) | [Gabriel Gonti](https://open.spotify.com/artist/7BPHTWFEfvH7HPfHLU1EOg), [Hotelo](https://open.spotify.com/artist/11LYUBREaqNaJcruqe26lH) | [Eu e Eu Mesmo](https://open.spotify.com/album/39jD0xScGXQHOVkwYjOVh1) | 3:00 | 2022-06-17 | 2022-09-03 |
 | [eu e você](https://open.spotify.com/track/5ISf8VHJdipHYcFwKDqVYA) | [João Klein](https://open.spotify.com/artist/0qHyRq7Ac4v4AXjvez82E1) | [eu e você](https://open.spotify.com/album/23wxiAL2q423z0IdsK1h3D) | 4:25 | 2022-05-13 | 2022-06-15 |
 | [eu me amo mais](https://open.spotify.com/track/0qfHRo7pVX4GMJlhG70NQs) | [GIULIA BE](https://open.spotify.com/artist/0kjGPGtoyKwKVOZAKmv5K6) | [solta](https://open.spotify.com/album/4DMZLRmAYZ3vDfD6Mv5cIy) | 2:13 | 2022-05-13 | 2022-09-03 |

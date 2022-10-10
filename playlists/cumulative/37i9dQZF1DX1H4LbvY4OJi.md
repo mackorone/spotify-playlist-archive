@@ -4,7 +4,7 @@
 
 > Embrace those happy vibes with these feel\-good hits!
 
-926 songs - 2 day 4 hr 22 min - [published](https://open.spotify.com/playlist/12cpPVut3uQWRqFuOfuatL)
+927 songs - 2 day 4 hr 26 min - [published](https://open.spotify.com/playlist/12cpPVut3uQWRqFuOfuatL)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -142,6 +142,7 @@
 | [Catch My Disease](https://open.spotify.com/track/4vqHz44pzFSfDNIE20QRBu) | [Ben Lee](https://open.spotify.com/artist/06y1hH4hu3rcTUXHJevPCf) | [Awake Is the New Sleep](https://open.spotify.com/album/4LiDSTPH86zTRUFnu7tYam) | 4:14 | 2019-08-02 | 2022-04-16 |
 | [Catching Feelings \(feat\. Six60\)](https://open.spotify.com/track/02VHspkXhhH1QCInRWWIfr) | [Drax Project](https://open.spotify.com/artist/6S0IvKlvPMX1RtAYtVpUV8), [SIX60](https://open.spotify.com/artist/1caoBfXJrbKCwIaTzGkyHn) | [Catching Feelings \(feat\. Six60\)](https://open.spotify.com/album/39qXV1tvwnmPEDnFUEFz5G) | 3:38 | 2019-09-11 | 2022-07-29 |
 | [Celebration \- Single Version](https://open.spotify.com/track/0CUEc6T65lrU6rVW3HVYsl) | [Kool & The Gang](https://open.spotify.com/artist/3VNITwohbvU5Wuy5PC6dsI) | [The Very Best Of Kool & The Gang \(Reissue\)](https://open.spotify.com/album/1rDjSDjjzVfpnsb3GgREFf) | 3:41 | 2019-07-29\* | 2022-04-17 |
+| [Celestial](https://open.spotify.com/track/4zrKN5Sv8JS5mqnbVcsul7) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Celestial](https://open.spotify.com/album/2W5VVBPNkGAduaArE4sX29) | 3:29 | 2022-09-29 |  |
 | [Chained To The Rhythm](https://open.spotify.com/track/6520aj0B4FSKGVuKNsOCOi) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X), [Skip Marley](https://open.spotify.com/artist/4ryoUS0W8qXokfMxrlJt6O) | [Witness](https://open.spotify.com/album/03ntx95u0wotf68NnE3aGw) | 3:57 | 2019-07-29\* | 2019-07-31 |
 | [Chameleon](https://open.spotify.com/track/4pbLMXPtU8ruMCMPmQNY4q) | [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u) | [Changa](https://open.spotify.com/album/4zZhV656BJMvD2hSAveA91) | 3:18 | 2021-03-07 | 2022-04-14 |
 | [Changa](https://open.spotify.com/track/3ehecZpp1cq7CFa8BHZPFj) | [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u) | [Changa](https://open.spotify.com/album/4zZhV656BJMvD2hSAveA91) | 3:25 | 2019-08-06 | 2021-03-19 |
@@ -656,7 +657,7 @@
 | [Quiet](https://open.spotify.com/track/3qWaAiJHBjplGoeHzXJDuz) | [SKAAR](https://open.spotify.com/artist/4NwacAakrdNGNinNP54KTQ) | [Quiet](https://open.spotify.com/album/3NRFoRUfGawHafwv4SbJyQ) | 2:47 | 2020-06-12 | 2022-04-20 |
 | [Rain On Me \(with Ariana Grande\)](https://open.spotify.com/track/24ySl2hOPGCDcxBxFIqWBu) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Rain On Me \(with Ariana Grande\)](https://open.spotify.com/album/4TqgXMSSTwP3RCo3MMSR6t) | 3:02 | 2020-05-26 | 2022-07-29 |
 | [Raise Your Glass](https://open.spotify.com/track/12lZTPlXwUtrQuhEty6098) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [Raise Your Glass](https://open.spotify.com/album/6Ozsat2gzIj9uXd6JMwYXz) | 3:23 | 2019-08-08 | 2021-03-10 |
-| [Ready For The Sky](https://open.spotify.com/track/3XOX3I1JNdxQNGbMvXjEPY) | [Budjerah](https://open.spotify.com/artist/4hOb2WdQMQWyG6RQAhR7iE) | [Ready For The Sky](https://open.spotify.com/album/6p57HASzXc9WVwpJTb0Pc4) | 3:17 | 2022-07-25 |  |
+| [Ready For The Sky](https://open.spotify.com/track/3XOX3I1JNdxQNGbMvXjEPY) | [Budjerah](https://open.spotify.com/artist/4hOb2WdQMQWyG6RQAhR7iE) | [Ready For The Sky](https://open.spotify.com/album/6p57HASzXc9WVwpJTb0Pc4) | 3:17 | 2022-07-25 | 2022-10-07 |
 | [Real Thing](https://open.spotify.com/track/072PI4U52gO1NasX4Lpv7Z) | [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [Real Thing](https://open.spotify.com/album/5nY5rwvNxKgCdKTaj6hOqU) | 3:12 | 2019-12-21 | 2021-03-23 |
 | [Regular Touch](https://open.spotify.com/track/0V1UrYfF9QmRwtpULzXQgw) | [Vera Blue](https://open.spotify.com/artist/5ujrA1eZLDHR7yQ6FZa2qA) | [Perennial](https://open.spotify.com/album/0YneCKu6aJCtBSkP9f8rrK) | 3:28 | 2019-08-04 | 2022-04-21 |
 | [RELATIONS](https://open.spotify.com/track/0twxxmLUAbRv9cwZWz9dWY) | [FELIX SANDMAN](https://open.spotify.com/artist/2M6dCv6FDYMum9nPnNB5Vy), [Astrid S](https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm) | [RELATIONS](https://open.spotify.com/album/198WTxiABRYFSvfUdzPQxh) | 2:44 | 2020-12-18 | 2022-04-20 |

@@ -1,12 +1,12 @@
 {
   "description": "Lovely, pop-filled, fun.",
-  "num_followers": 34894,
+  "num_followers": 34971,
   "original_name": "Wholesome",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Mzk1NDM4OSwwMDAwMDAwMDQ1OTE3ZDE5Nzg5YjQyMDU2YTMwZjM1ZjIxMTRiM2E2",
+  "snapshot_id": "MTY2Mzk1NDM4OSwwMDAwMDAwMDM5MTUwYTQwOTY5OWYwZmYyNGE1OTkzZDY0M2NiMDIx",
   "tracks": [
     {
       "added_at": "2022-09-23 17:33:09",
@@ -131,18 +131,18 @@
     {
       "added_at": "2022-09-23 17:33:09",
       "album": {
-        "name": "Fine Line",
-        "url": "https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml"
+        "name": "Nights Like This",
+        "url": "https://open.spotify.com/album/3zk9C1O8NXlF4wzc9hqzJi"
       },
       "artists": [
         {
-          "name": "Harry Styles",
-          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+          "name": "St. Lundi",
+          "url": "https://open.spotify.com/artist/3i94wxAKQqlJyiPLDmjNdH"
         }
       ],
-      "duration_ms": 197346,
-      "name": "Treat People With Kindness",
-      "url": "https://open.spotify.com/track/03mMSLEJCPoGJwQhHpN5y0"
+      "duration_ms": 190326,
+      "name": "Nights Like This",
+      "url": "https://open.spotify.com/track/583Fc6qU9thMdXu64j1Wus"
     },
     {
       "added_at": "2022-09-23 17:33:09",
@@ -167,18 +167,18 @@
     {
       "added_at": "2022-09-23 17:33:09",
       "album": {
-        "name": "Nights Like This",
-        "url": "https://open.spotify.com/album/3zk9C1O8NXlF4wzc9hqzJi"
+        "name": "Fine Line",
+        "url": "https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml"
       },
       "artists": [
         {
-          "name": "St. Lundi",
-          "url": "https://open.spotify.com/artist/3i94wxAKQqlJyiPLDmjNdH"
+          "name": "Harry Styles",
+          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
         }
       ],
-      "duration_ms": 190326,
-      "name": "Nights Like This",
-      "url": "https://open.spotify.com/track/583Fc6qU9thMdXu64j1Wus"
+      "duration_ms": 197346,
+      "name": "Treat People With Kindness",
+      "url": "https://open.spotify.com/track/03mMSLEJCPoGJwQhHpN5y0"
     },
     {
       "added_at": "2022-09-23 17:33:09",
@@ -267,26 +267,6 @@
     {
       "added_at": "2022-09-23 17:33:09",
       "album": {
-        "name": "Picture in my mind",
-        "url": "https://open.spotify.com/album/744TnMqUCSGWPa17iii3LU"
-      },
-      "artists": [
-        {
-          "name": "PinkPantheress",
-          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
-        },
-        {
-          "name": "Sam Gellaitry",
-          "url": "https://open.spotify.com/artist/07UJz804RJxqNvxFXC3h9H"
-        }
-      ],
-      "duration_ms": 176930,
-      "name": "Picture in my mind",
-      "url": "https://open.spotify.com/track/0z3YYobsavHguLTgqg5GC1"
-    },
-    {
-      "added_at": "2022-09-23 17:33:09",
-      "album": {
         "name": "Missing Piece",
         "url": "https://open.spotify.com/album/6zQCdokfVne8dFU5Z5BpS3"
       },
@@ -323,6 +303,26 @@
     {
       "added_at": "2022-09-23 17:33:09",
       "album": {
+        "name": "Picture in my mind",
+        "url": "https://open.spotify.com/album/744TnMqUCSGWPa17iii3LU"
+      },
+      "artists": [
+        {
+          "name": "PinkPantheress",
+          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
+        },
+        {
+          "name": "Sam Gellaitry",
+          "url": "https://open.spotify.com/artist/07UJz804RJxqNvxFXC3h9H"
+        }
+      ],
+      "duration_ms": 176930,
+      "name": "Picture in my mind",
+      "url": "https://open.spotify.com/track/0z3YYobsavHguLTgqg5GC1"
+    },
+    {
+      "added_at": "2022-09-23 17:33:09",
+      "album": {
         "name": "Scaled And Icy",
         "url": "https://open.spotify.com/album/0Q5XBpCYFgUWiG9DUWyAmJ"
       },
@@ -355,6 +355,22 @@
     {
       "added_at": "2022-09-23 17:33:09",
       "album": {
+        "name": "Girls Like Us",
+        "url": "https://open.spotify.com/album/5boy0Dm6JWz7YP8yIWdiyg"
+      },
+      "artists": [
+        {
+          "name": "Zoe Wees",
+          "url": "https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS"
+        }
+      ],
+      "duration_ms": 189000,
+      "name": "Girls Like Us",
+      "url": "https://open.spotify.com/track/5SFXOMJJ334Wn2PwBHeRZN"
+    },
+    {
+      "added_at": "2022-09-23 17:33:09",
+      "album": {
         "name": "Another Life",
         "url": "https://open.spotify.com/album/5NUs7V7ETbYhyArrEGxyPr"
       },
@@ -375,22 +391,6 @@
       "duration_ms": 162954,
       "name": "Another Life (feat. FLETCHER & Josh Golden)",
       "url": "https://open.spotify.com/track/3ng7epefERNazaZkkbwLdq"
-    },
-    {
-      "added_at": "2022-09-23 17:33:09",
-      "album": {
-        "name": "Girls Like Us",
-        "url": "https://open.spotify.com/album/5boy0Dm6JWz7YP8yIWdiyg"
-      },
-      "artists": [
-        {
-          "name": "Zoe Wees",
-          "url": "https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS"
-        }
-      ],
-      "duration_ms": 189000,
-      "name": "Girls Like Us",
-      "url": "https://open.spotify.com/track/5SFXOMJJ334Wn2PwBHeRZN"
     },
     {
       "added_at": "2022-09-23 17:33:09",
@@ -515,22 +515,6 @@
     {
       "added_at": "2022-09-23 17:33:09",
       "album": {
-        "name": "Thinking of You (Spotify Singles)",
-        "url": "https://open.spotify.com/album/4TOyAu2CWO1kPitP0AxAZV"
-      },
-      "artists": [
-        {
-          "name": "Joesef",
-          "url": "https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ"
-        }
-      ],
-      "duration_ms": 272125,
-      "name": "Thinking of You (Spotify Singles)",
-      "url": "https://open.spotify.com/track/0Muqa8sNqVvjEQo4yfBKXw"
-    },
-    {
-      "added_at": "2022-09-23 17:33:09",
-      "album": {
         "name": "roots",
         "url": "https://open.spotify.com/album/3igERXsCW4cXwDUmvVpGlx"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 214277,
       "name": "roots",
       "url": "https://open.spotify.com/track/5AllnsqFHeN3a08icQsKIb"
+    },
+    {
+      "added_at": "2022-09-23 17:33:09",
+      "album": {
+        "name": "Thinking of You (Spotify Singles)",
+        "url": "https://open.spotify.com/album/4TOyAu2CWO1kPitP0AxAZV"
+      },
+      "artists": [
+        {
+          "name": "Joesef",
+          "url": "https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ"
+        }
+      ],
+      "duration_ms": 272125,
+      "name": "Thinking of You (Spotify Singles)",
+      "url": "https://open.spotify.com/track/0Muqa8sNqVvjEQo4yfBKXw"
     },
     {
       "added_at": "2022-09-23 17:33:09",
@@ -563,22 +563,6 @@
     {
       "added_at": "2022-09-23 17:33:09",
       "album": {
-        "name": "Feet Don't Fail Me Now",
-        "url": "https://open.spotify.com/album/4AsNUFCul8wrgyUbvBJeQZ"
-      },
-      "artists": [
-        {
-          "name": "Joy Crookes",
-          "url": "https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS"
-        }
-      ],
-      "duration_ms": 198800,
-      "name": "Feet Don't Fail Me Now",
-      "url": "https://open.spotify.com/track/1GVkrFVc94CTjm9bdSmGjp"
-    },
-    {
-      "added_at": "2022-09-23 17:33:09",
-      "album": {
         "name": "Nothing Lasts Forever",
         "url": "https://open.spotify.com/album/0eeLFV76Mnl91MEXf893YQ"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 167550,
       "name": "Nothing Lasts Forever",
       "url": "https://open.spotify.com/track/6IzTSuvoY6w3QAhCfN1Sgb"
+    },
+    {
+      "added_at": "2022-09-23 17:33:09",
+      "album": {
+        "name": "Feet Don't Fail Me Now",
+        "url": "https://open.spotify.com/album/4AsNUFCul8wrgyUbvBJeQZ"
+      },
+      "artists": [
+        {
+          "name": "Joy Crookes",
+          "url": "https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS"
+        }
+      ],
+      "duration_ms": 198800,
+      "name": "Feet Don't Fail Me Now",
+      "url": "https://open.spotify.com/track/1GVkrFVc94CTjm9bdSmGjp"
     },
     {
       "added_at": "2022-09-23 17:33:09",
@@ -643,22 +643,6 @@
     {
       "added_at": "2022-09-23 17:33:09",
       "album": {
-        "name": "Sleep Tight",
-        "url": "https://open.spotify.com/album/35QXLfwiBbjR2kVNRSKM2R"
-      },
-      "artists": [
-        {
-          "name": "Holly Humberstone",
-          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
-        }
-      ],
-      "duration_ms": 218013,
-      "name": "Sleep Tight",
-      "url": "https://open.spotify.com/track/0YAmsr4FqG6on8KNfwxx76"
-    },
-    {
-      "added_at": "2022-09-23 17:33:09",
-      "album": {
         "name": "Feel Something",
         "url": "https://open.spotify.com/album/5hnjWGpT06tLDq8u8WxhGI"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 184640,
       "name": "Psycho",
       "url": "https://open.spotify.com/track/6YZwJSMNL7hB4ItxZtn7jx"
+    },
+    {
+      "added_at": "2022-09-23 17:33:09",
+      "album": {
+        "name": "Sleep Tight",
+        "url": "https://open.spotify.com/album/35QXLfwiBbjR2kVNRSKM2R"
+      },
+      "artists": [
+        {
+          "name": "Holly Humberstone",
+          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
+        }
+      ],
+      "duration_ms": 218013,
+      "name": "Sleep Tight",
+      "url": "https://open.spotify.com/track/0YAmsr4FqG6on8KNfwxx76"
     },
     {
       "added_at": "2022-09-23 17:33:09",
@@ -739,22 +739,6 @@
     {
       "added_at": "2022-09-23 17:33:09",
       "album": {
-        "name": "When The Lights Go Out",
-        "url": "https://open.spotify.com/album/65DJbbYsBRS0IK0KhZG4kv"
-      },
-      "artists": [
-        {
-          "name": "Gabrielle Aplin",
-          "url": "https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ"
-        }
-      ],
-      "duration_ms": 186053,
-      "name": "When The Lights Go Out",
-      "url": "https://open.spotify.com/track/2h3tbYCmuY6C2FM2GbAg2K"
-    },
-    {
-      "added_at": "2022-09-23 17:33:09",
-      "album": {
         "name": "Blue Skies",
         "url": "https://open.spotify.com/album/3RWu6OftP02gYbA5k0ixM0"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 159490,
       "name": "Blue Skies",
       "url": "https://open.spotify.com/track/4e11dFRYAcJyvIv9Y35ERA"
+    },
+    {
+      "added_at": "2022-09-23 17:33:09",
+      "album": {
+        "name": "When The Lights Go Out",
+        "url": "https://open.spotify.com/album/65DJbbYsBRS0IK0KhZG4kv"
+      },
+      "artists": [
+        {
+          "name": "Gabrielle Aplin",
+          "url": "https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ"
+        }
+      ],
+      "duration_ms": 186053,
+      "name": "When The Lights Go Out",
+      "url": "https://open.spotify.com/track/2h3tbYCmuY6C2FM2GbAg2K"
     },
     {
       "added_at": "2022-09-23 17:33:09",
@@ -787,22 +787,18 @@
     {
       "added_at": "2022-09-23 17:33:09",
       "album": {
-        "name": "1,000,000 X Better",
-        "url": "https://open.spotify.com/album/0FshbFuKCMWATy0iqIkzWQ"
+        "name": "One Foot in Front of the Other",
+        "url": "https://open.spotify.com/album/3MsmfBSepcDujGmqtlDHFw"
       },
       "artists": [
         {
           "name": "Griff",
           "url": "https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff"
-        },
-        {
-          "name": "HONNE",
-          "url": "https://open.spotify.com/artist/0Vw76uk7P8yVtTClWyOhac"
         }
       ],
-      "duration_ms": 191739,
-      "name": "1,000,000 X Better",
-      "url": "https://open.spotify.com/track/1wYHNvK8jXzA4TASd5bTMU"
+      "duration_ms": 192075,
+      "name": "One Foot in Front of the Other",
+      "url": "https://open.spotify.com/track/032DRv0baStN644jRO2lMV"
     },
     {
       "added_at": "2022-09-23 17:33:09",
@@ -819,6 +815,22 @@
       "duration_ms": 186963,
       "name": "Something in the Water",
       "url": "https://open.spotify.com/track/5z7wmSmPWHgTFz5iOKHhAz"
+    },
+    {
+      "added_at": "2022-09-23 17:33:09",
+      "album": {
+        "name": "Ros\u00e9",
+        "url": "https://open.spotify.com/album/75zIcxRfIZxxNEpSuqpCdX"
+      },
+      "artists": [
+        {
+          "name": "Call Me Loop",
+          "url": "https://open.spotify.com/artist/6NEekR0i3JC1r4BntSjskE"
+        }
+      ],
+      "duration_ms": 166160,
+      "name": "Ros\u00e9",
+      "url": "https://open.spotify.com/track/2vfl8V78ai2lyCyFn1cPWx"
     },
     {
       "added_at": "2022-09-23 17:33:09",
@@ -855,22 +867,6 @@
     {
       "added_at": "2022-09-23 17:33:09",
       "album": {
-        "name": "Ros\u00e9",
-        "url": "https://open.spotify.com/album/75zIcxRfIZxxNEpSuqpCdX"
-      },
-      "artists": [
-        {
-          "name": "Call Me Loop",
-          "url": "https://open.spotify.com/artist/6NEekR0i3JC1r4BntSjskE"
-        }
-      ],
-      "duration_ms": 166160,
-      "name": "Ros\u00e9",
-      "url": "https://open.spotify.com/track/2vfl8V78ai2lyCyFn1cPWx"
-    },
-    {
-      "added_at": "2022-09-23 17:33:09",
-      "album": {
         "name": "East End Coast",
         "url": "https://open.spotify.com/album/3mJR7KQuYUFP8ptWREijDy"
       },
@@ -903,22 +899,6 @@
     {
       "added_at": "2022-09-23 17:33:09",
       "album": {
-        "name": "One Foot in Front of the Other",
-        "url": "https://open.spotify.com/album/3MsmfBSepcDujGmqtlDHFw"
-      },
-      "artists": [
-        {
-          "name": "Griff",
-          "url": "https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff"
-        }
-      ],
-      "duration_ms": 192075,
-      "name": "One Foot in Front of the Other",
-      "url": "https://open.spotify.com/track/032DRv0baStN644jRO2lMV"
-    },
-    {
-      "added_at": "2022-09-23 17:33:09",
-      "album": {
         "name": "LUCID",
         "url": "https://open.spotify.com/album/77ouoghU4UrNpO63JWLR2C"
       },
@@ -931,6 +911,26 @@
       "duration_ms": 218108,
       "name": "LUCID",
       "url": "https://open.spotify.com/track/5DVATjQZPVsm5kWbrPmekU"
+    },
+    {
+      "added_at": "2022-09-23 17:33:09",
+      "album": {
+        "name": "1,000,000 X Better",
+        "url": "https://open.spotify.com/album/0FshbFuKCMWATy0iqIkzWQ"
+      },
+      "artists": [
+        {
+          "name": "Griff",
+          "url": "https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff"
+        },
+        {
+          "name": "HONNE",
+          "url": "https://open.spotify.com/artist/0Vw76uk7P8yVtTClWyOhac"
+        }
+      ],
+      "duration_ms": 191739,
+      "name": "1,000,000 X Better",
+      "url": "https://open.spotify.com/track/1wYHNvK8jXzA4TASd5bTMU"
     },
     {
       "added_at": "2022-09-23 17:33:09",
@@ -1119,6 +1119,22 @@
     {
       "added_at": "2022-09-23 17:33:09",
       "album": {
+        "name": "The Sun\u2019s Gonna Rise",
+        "url": "https://open.spotify.com/album/0E6xJ4XfgiqiassmXiS7IK"
+      },
+      "artists": [
+        {
+          "name": "Sam Ryder",
+          "url": "https://open.spotify.com/artist/1rvnJJghrxl1xakJZct08m"
+        }
+      ],
+      "duration_ms": 208197,
+      "name": "The Sun\u2019s Gonna Rise",
+      "url": "https://open.spotify.com/track/21RwRFSFMOuDcaIqy3aiIH"
+    },
+    {
+      "added_at": "2022-09-23 17:33:09",
+      "album": {
         "name": "Stormy Skies (Diamonds)",
         "url": "https://open.spotify.com/album/0bVupaVa9nDw44G0kBCDlv"
       },
@@ -1135,18 +1151,18 @@
     {
       "added_at": "2022-09-23 17:33:09",
       "album": {
-        "name": "The Sun\u2019s Gonna Rise",
-        "url": "https://open.spotify.com/album/0E6xJ4XfgiqiassmXiS7IK"
+        "name": "One & Only",
+        "url": "https://open.spotify.com/album/1yggNykuBhJfkYibz3hmhN"
       },
       "artists": [
         {
-          "name": "Sam Ryder",
-          "url": "https://open.spotify.com/artist/1rvnJJghrxl1xakJZct08m"
+          "name": "Bevan",
+          "url": "https://open.spotify.com/artist/7n4PxTryLarh0iSfBHsibu"
         }
       ],
-      "duration_ms": 208197,
-      "name": "The Sun\u2019s Gonna Rise",
-      "url": "https://open.spotify.com/track/21RwRFSFMOuDcaIqy3aiIH"
+      "duration_ms": 246750,
+      "name": "One & Only",
+      "url": "https://open.spotify.com/track/7pOYphM23vrb84EESH2cN7"
     },
     {
       "added_at": "2022-09-23 17:33:09",
@@ -1167,22 +1183,6 @@
     {
       "added_at": "2022-09-23 17:33:09",
       "album": {
-        "name": "Thinking About You",
-        "url": "https://open.spotify.com/album/7dv1qULsTHmYJMMZXsjNTu"
-      },
-      "artists": [
-        {
-          "name": "RVBY",
-          "url": "https://open.spotify.com/artist/0kqz7XXvCnxDLku3AfGnc2"
-        }
-      ],
-      "duration_ms": 201951,
-      "name": "Thinking About You",
-      "url": "https://open.spotify.com/track/4HMGAw9e1Re6ci4fChdEvj"
-    },
-    {
-      "added_at": "2022-09-23 17:33:09",
-      "album": {
         "name": "good thing",
         "url": "https://open.spotify.com/album/448Uhhw0zZBHdohVWZNCUJ"
       },
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2022-09-23 17:33:09",
       "album": {
-        "name": "Street Lights",
-        "url": "https://open.spotify.com/album/5ZjBO7Cg1sFL5AjHKPeVKi"
-      },
-      "artists": [
-        {
-          "name": "Florrie",
-          "url": "https://open.spotify.com/artist/2fkmfYw1KeOiDLA6MHDwU8"
-        }
-      ],
-      "duration_ms": 189666,
-      "name": "Street Lights",
-      "url": "https://open.spotify.com/track/3WtLTBXsK5rhp312oKlCpl"
-    },
-    {
-      "added_at": "2022-09-23 17:33:09",
-      "album": {
         "name": "Favourite Song",
         "url": "https://open.spotify.com/album/3sDbc2qra6qxybxmiiYMni"
       },
@@ -1227,6 +1211,38 @@
       "duration_ms": 219455,
       "name": "Favourite Song",
       "url": "https://open.spotify.com/track/1yF8WDLODa7w1ZbM8cC0Rt"
+    },
+    {
+      "added_at": "2022-09-23 17:33:09",
+      "album": {
+        "name": "Thinking About You",
+        "url": "https://open.spotify.com/album/7dv1qULsTHmYJMMZXsjNTu"
+      },
+      "artists": [
+        {
+          "name": "RVBY",
+          "url": "https://open.spotify.com/artist/0kqz7XXvCnxDLku3AfGnc2"
+        }
+      ],
+      "duration_ms": 201951,
+      "name": "Thinking About You",
+      "url": "https://open.spotify.com/track/4HMGAw9e1Re6ci4fChdEvj"
+    },
+    {
+      "added_at": "2022-09-23 17:33:09",
+      "album": {
+        "name": "Street Lights",
+        "url": "https://open.spotify.com/album/5ZjBO7Cg1sFL5AjHKPeVKi"
+      },
+      "artists": [
+        {
+          "name": "Florrie",
+          "url": "https://open.spotify.com/artist/2fkmfYw1KeOiDLA6MHDwU8"
+        }
+      ],
+      "duration_ms": 189666,
+      "name": "Street Lights",
+      "url": "https://open.spotify.com/track/3WtLTBXsK5rhp312oKlCpl"
     },
     {
       "added_at": "2022-09-23 17:33:09",
@@ -1263,22 +1279,6 @@
     {
       "added_at": "2022-09-23 17:33:09",
       "album": {
-        "name": "Everything's Waiting for You",
-        "url": "https://open.spotify.com/album/2v22a5ayFfHDy1Ez7J5cLk"
-      },
-      "artists": [
-        {
-          "name": "Tom Speight",
-          "url": "https://open.spotify.com/artist/02U4dXZhGSo07f66l8JZ91"
-        }
-      ],
-      "duration_ms": 213000,
-      "name": "Everything's Waiting for You",
-      "url": "https://open.spotify.com/track/4AegruZADaDC9t5AZpvgaf"
-    },
-    {
-      "added_at": "2022-09-23 17:33:09",
-      "album": {
         "name": "Runaway",
         "url": "https://open.spotify.com/album/3bPZWrouEC2p6bB9ddAoR4"
       },
@@ -1295,18 +1295,18 @@
     {
       "added_at": "2022-09-23 17:33:09",
       "album": {
-        "name": "One & Only",
-        "url": "https://open.spotify.com/album/1yggNykuBhJfkYibz3hmhN"
+        "name": "Everything's Waiting for You",
+        "url": "https://open.spotify.com/album/2v22a5ayFfHDy1Ez7J5cLk"
       },
       "artists": [
         {
-          "name": "Bevan",
-          "url": "https://open.spotify.com/artist/7n4PxTryLarh0iSfBHsibu"
+          "name": "Tom Speight",
+          "url": "https://open.spotify.com/artist/02U4dXZhGSo07f66l8JZ91"
         }
       ],
-      "duration_ms": 246750,
-      "name": "One & Only",
-      "url": "https://open.spotify.com/track/7pOYphM23vrb84EESH2cN7"
+      "duration_ms": 213000,
+      "name": "Everything's Waiting for You",
+      "url": "https://open.spotify.com/track/4AegruZADaDC9t5AZpvgaf"
     },
     {
       "added_at": "2022-09-23 17:33:09",

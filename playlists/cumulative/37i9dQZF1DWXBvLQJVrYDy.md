@@ -4,7 +4,7 @@
 
 > Smooth and cozy saxophone ballads for relaxing or focus.
 
-113 songs - 7 hr 43 min - [published](https://open.spotify.com/playlist/6nq7hWNk2cvvhG65Oqh64w)
+117 songs - 8 hr 0 min - [published](https://open.spotify.com/playlist/6nq7hWNk2cvvhG65Oqh64w)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [A Time For Love](https://open.spotify.com/track/5hlXjAmHmvbLNR169UW394) | [Hermie](https://open.spotify.com/artist/79egg74LRIcDzIxYb0XVSK) | [A Time For Love](https://open.spotify.com/album/5VQ209Y2ATo0ehJJbwpSi5) | 3:48 | 2022-09-29 |  |
 | [After Hours](https://open.spotify.com/track/3RoPN08vWMKxViEhdoqeuW) | [Eduard Landings](https://open.spotify.com/artist/6SF8oe9fw9X65MbLwQfkau) | [After Hours](https://open.spotify.com/album/3itxUrPWLTA7nUFpL3LiTS) | 3:32 | 2022-09-01 |  |
 | [All My Love](https://open.spotify.com/track/7ncpKFg4IUzVIjnSPTD98y) | [The Collective](https://open.spotify.com/artist/36tnEBoX2HE41bmQi1xWKP) | [All My Love](https://open.spotify.com/album/31hSeksEGpMamJ3hUKAmJ1) | 3:58 | 2022-09-29 |  |
+| [All That You Are](https://open.spotify.com/track/6vXRp9QutoS6wyaUO1fB6W) | [Elvin Vanguard](https://open.spotify.com/artist/1VDLEbjtzw7vCwMFlWe7xE) | [All That You Are](https://open.spotify.com/album/2IBRAvkNEKpAeJpnPrO3v2) | 4:00 | 2022-10-06 |  |
 | [All To Soon](https://open.spotify.com/track/6IhdygzBXr39qlNR0rLOE6) | [Long Island Quartet](https://open.spotify.com/artist/2fmPgnUqExSLjXIwIyigPR) | [All To Soon](https://open.spotify.com/album/4rYzfpEKqXD0aX3ZeVUvHi) | 4:13 | 2022-08-18 |  |
 | [Angela](https://open.spotify.com/track/7mzxizPHaVjzk90MGlreII) | [John B\. Stewart](https://open.spotify.com/artist/0hdiMvtIodxDuDN6Wq9Ibe) | [Angela](https://open.spotify.com/album/58n25NEK3FhOFptQbRvpbO) | 3:57 | 2022-08-18 |  |
 | [April In Paris](https://open.spotify.com/track/5rPMbUxXRXvWu89k0n6Sxj) | [Charlie Parker](https://open.spotify.com/artist/4Ww5mwS7BWYjoZTUIrMHfC) | [April In Paris: The Genius Of Charlie Parker \#2](https://open.spotify.com/album/7uifUApb0mUlqIxX5SkrVJ) | 3:07 | 2022-08-18 | 2022-09-09 |
@@ -45,6 +46,7 @@
 | [I Can´t Get Started](https://open.spotify.com/track/4WnIvYavScSqhquPBhSEof) | [Willowdale](https://open.spotify.com/artist/57UeAcyqrdUXJlNLqXFtIF) | [I Can´t Get Started](https://open.spotify.com/album/27ohKrlRWtHFV0Evzl2crp) | 3:28 | 2022-08-18 |  |
 | [I Still See You In My Dreams](https://open.spotify.com/track/0zBUB6TUdZNOeWrQphEP6J) | [Japari Park](https://open.spotify.com/artist/5waLCZV0AzAqjHOln3XZMW) | [I Still See You In My Dreams](https://open.spotify.com/album/37NCgGDRaxH8E7N4pxunDM) | 3:17 | 2022-09-29 |  |
 | [I Thought About Us](https://open.spotify.com/track/3WuYbFjNzxV1iHsopkRE5v) | [Andy Miller Group](https://open.spotify.com/artist/7prqikKsztTvb6GHaYVbku) | [I Thought About Us](https://open.spotify.com/album/0q97p3nKwoNzSsNxtWqFMN) | 3:57 | 2022-08-18 |  |
+| [I Will Wait For You](https://open.spotify.com/track/6oKlgwa71syBWyiFyGdmkR) | [Piper Williamson](https://open.spotify.com/artist/5ahbWWBc8VL95P5BG7Miai) | [Eternal Maze](https://open.spotify.com/album/4C3TtqzLArtYY9CuFGmeWV) | 3:59 | 2022-10-06 |  |
 | [I'll Be Seeing You](https://open.spotify.com/track/48w1IYrxtNKmm0bBMICOdu) | [Jenny Jones](https://open.spotify.com/artist/0HFVyPMlIufaMqeLgnz8Ec) | [I'll Be Seeing You](https://open.spotify.com/album/2gPUo8oL5vW9LC5o7SnCSU) | 3:33 | 2022-08-18 |  |
 | [I've Got It Bad And That Ain't Good](https://open.spotify.com/track/5ixYtWDtAaaj89KFMWbgEj) | [Johnny Hodges](https://open.spotify.com/artist/7lRFrrINQTY35g8hq0kXY5), [Billy Strayhorn](https://open.spotify.com/artist/6RbBDzGJqAROG0LP9TrXfW) | [Johnny Hodges With Billy Strayhorn And The Orchestra](https://open.spotify.com/album/5CGVW3S012Wp5KteaW61kG) | 3:35 | 2022-08-18 |  |
 | [I've Grown Accustomed To Your Face](https://open.spotify.com/track/5D9zI5bZ2XgFDEYdqGrHnP) | [John B\. Stewart](https://open.spotify.com/artist/0hdiMvtIodxDuDN6Wq9Ibe) | [I've Grown Accustomed To Your Face](https://open.spotify.com/album/3ecnXHWiMR4xIF94MCd9p2) | 3:13 | 2022-08-18 |  |
@@ -68,7 +70,7 @@
 | [Misty November](https://open.spotify.com/track/5LJcQXhDafjTy7GOqYLjJM) | [Kevin Waters Group](https://open.spotify.com/artist/57U22BNH5ClRbVtpNjVAoG) | [Misty November](https://open.spotify.com/album/6xxtWCf4X7qatxA0IPFWly) | 3:12 | 2022-08-18 |  |
 | [Monk's Mood](https://open.spotify.com/track/7ojUoFuu49TkZ8mvMEndt0) | [Billy Hicks Quartet](https://open.spotify.com/artist/4ICOVaHa5cPigwgMb9opB5) | [Monk's Mood](https://open.spotify.com/album/67IUq1LOpEnPXlJfyvnY4C) | 5:00 | 2022-08-18 |  |
 | [Mood Indigo](https://open.spotify.com/track/4FbyGU4nbHHioKAoCpYRzH) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A), [Coleman Hawkins](https://open.spotify.com/artist/0JM134st8VY7Ld9T2wQiH0) | [Duke Ellington Meets Coleman Hawkins](https://open.spotify.com/album/0Kggi4r3OcApji9xJI3olG) | 5:56 | 2022-08-18 |  |
-| [Moonbow](https://open.spotify.com/track/1l54HHTbA5ze9DnvBL93aw) | [Willowdale](https://open.spotify.com/artist/57UeAcyqrdUXJlNLqXFtIF) | [Moonbow](https://open.spotify.com/album/3vAnUbVPNlM5HZzoYUFh4t) | 3:52 | 2022-08-18 |  |
+| [Moonbow](https://open.spotify.com/track/1l54HHTbA5ze9DnvBL93aw) | [Willowdale](https://open.spotify.com/artist/57UeAcyqrdUXJlNLqXFtIF) | [Moonbow](https://open.spotify.com/album/3vAnUbVPNlM5HZzoYUFh4t) | 3:52 | 2022-08-18 | 2022-10-07 |
 | [Morning Star](https://open.spotify.com/track/7pu7cn7U9lvHYXRc2yrKBC) | [Yorkville](https://open.spotify.com/artist/6VR3RgGN43zxy9ckRugsXn) | [Morning Star](https://open.spotify.com/album/6WZgJAHNWZCDLVVOOiM4py) | 3:44 | 2022-08-18 |  |
 | [My Little Brown Book](https://open.spotify.com/track/2txEKqhpnuwmHS7a0YBYHE) | [Mitch Coleman](https://open.spotify.com/artist/5YyVZ8kxK9sRVEg1pBh1PV) | [My Little Brown Book](https://open.spotify.com/album/1anaHcKFfGvPfqhfaAEnmy) | 3:57 | 2022-09-29 |  |
 | [My Romance](https://open.spotify.com/track/4kjKUNTgMPWnzAD00cpd91) | [Ballroom Jazz Collective](https://open.spotify.com/artist/0i7Yh2vJ2r5pMEMUjgntGL) | [My Romance](https://open.spotify.com/album/0qoXES4Bc1uLeVjahn6ypA) | 3:48 | 2022-08-18 |  |
@@ -110,6 +112,7 @@
 | [Till There Was You](https://open.spotify.com/track/4MNtFvNn7MXXyiZjBgyuFo) | [Carla Anderson](https://open.spotify.com/artist/1TbIqBiSP0SseGrRStPd3o) | [A Song For You](https://open.spotify.com/album/1G6WFnEImR9Gnpt1kMsPHA) | 3:42 | 2022-08-18 |  |
 | [To Neville](https://open.spotify.com/track/5JOtxbSUTe2GjbcSDKDYAh) | [John B\. Stewart](https://open.spotify.com/artist/0hdiMvtIodxDuDN6Wq9Ibe) | [John B\. Stewart and friends Vol\. 1](https://open.spotify.com/album/2MiuqCoGcESaakS9BS5JAS) | 2:59 | 2022-08-18 |  |
 | [Trav'lin' Light](https://open.spotify.com/track/1qC105p6vhT7k9zP4pKHcU) | [Ben Webster](https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk), [Joe Zawinul](https://open.spotify.com/artist/3DkK9XA1CI1i7U7ovpAo1G) | [Soulmates](https://open.spotify.com/album/0PsjPYsAPEyLg8DAUaUVcG) | 6:10 | 2022-08-18 |  |
+| [Underbart Är Kort](https://open.spotify.com/track/0oEP3faX4gSyczncGt1CYs) | [Andy Miller Group](https://open.spotify.com/artist/7prqikKsztTvb6GHaYVbku) | [Underbart Är Kort](https://open.spotify.com/album/5ONqJB3570jk1QqYEb4X3A) | 3:53 | 2022-10-06 |  |
 | [Västerbotten](https://open.spotify.com/track/6zM6wh0b8QjJHoXzUZbPe8) | [Andreas Gidlund](https://open.spotify.com/artist/1i1prvKQoU8d7eTrRHIMtO) | [Västerbotten](https://open.spotify.com/album/1kc45nQdPEfUbk99ljLebi) | 3:25 | 2022-08-18 |  |
 | [Warm Valley](https://open.spotify.com/track/373cEVkcZ8HpP5WtgjSGq8) | [Johnny Hodges](https://open.spotify.com/artist/7lRFrrINQTY35g8hq0kXY5) | [Used To Be Duke](https://open.spotify.com/album/0FDIQRrWsQ8euHDTAYQiIZ) | 3:20 | 2022-08-18 |  |
 | [Watch What Happens](https://open.spotify.com/track/3C8LKleDein4hf61QPoWg5) | [Mornington](https://open.spotify.com/artist/1oC6eOjjixPdeV0HvUAviS) | [Crossways](https://open.spotify.com/album/5wS9f4r6IGfxyluF1ykXtG) | 2:57 | 2022-08-18 |  |
@@ -119,6 +122,7 @@
 | [When I Fall In Love](https://open.spotify.com/track/5qua84zdZZxV4dRI1v0WLN) | [Carlton Maison Quartet](https://open.spotify.com/artist/0Tq1tUZV3Vw3CUvNwIjxpm) | [When I Fall In Love](https://open.spotify.com/album/2TyUlWNdCzTFItxohR2PO2) | 4:23 | 2022-08-18 |  |
 | [Where Or When](https://open.spotify.com/track/3K7okDLoeWIb1BxsGDVrNl) | [Nelly Vernon](https://open.spotify.com/artist/2QTDEcFCA6jvoJwQsm3TpS) | [Where Or When](https://open.spotify.com/album/4Tiyb5NGvdSuWkfhHfstou) | 3:23 | 2022-08-18 |  |
 | [Windfall](https://open.spotify.com/track/56Vf0MpwUNFrkNkwSxHJyA) | [Mornington](https://open.spotify.com/artist/1oC6eOjjixPdeV0HvUAviS) | [Windfall](https://open.spotify.com/album/2tlBn0cUQfFlV2YUx2tOhM) | 3:48 | 2022-08-18 |  |
+| [Woodwind](https://open.spotify.com/track/0g1TBY3JUXO8fGD2iI1CM7) | [Jan Harbeck Quartet](https://open.spotify.com/artist/7JGHjWlWkG5A8cB7HzQL0x) | [Woodwind](https://open.spotify.com/album/5JwbjlP5BpJ7LouNT6tNxU) | 5:20 | 2022-10-06 |  |
 | [You Must Believe In Spring](https://open.spotify.com/track/0vVpu5nKzGGNRgnBhei5Vc) | [Piper Williamson](https://open.spotify.com/artist/5ahbWWBc8VL95P5BG7Miai) | [Earthshine](https://open.spotify.com/album/1CBELvMmpFlAwF0j2YiveM) | 3:42 | 2022-09-07 |  |
 | [You've Changed \- Remastered 2015](https://open.spotify.com/track/1tYMoCu2u5FCylI4Xn5T8Y) | [Dexter Gordon](https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ) | [Doin' Allright \(Remastered\)](https://open.spotify.com/album/14NlniwPg3t0wXuYTbeSyC) | 7:27 | 2022-08-18 |  |
 

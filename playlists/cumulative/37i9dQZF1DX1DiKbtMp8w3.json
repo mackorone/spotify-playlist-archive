@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-08-13",
-  "description": "Meet the lineup of Busan International Rock Festival, the longest-running rock festival in Korea! (\ud55c\uad6d \ucd5c\uc7a5\uc218 \uad6d\uc81c \ub85d \ud398\uc2a4\ud2f0\ubc8c\uc778 \ubd80\uc0b0 \ub85d \ud398\uc2a4\ud2f0\ubc8c\uc758 \ub77c\uc778\uc5c5\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
+  "description": "Meet the lineup & LIVE EXPERIENCE of Busan International Rock Festival, the longest-running rock festival in Korea! (\ud55c\uad6d \ucd5c\uc7a5\uc218 \uad6d\uc81c \ub85d \ud398\uc2a4\ud2f0\ubc8c\uc778 \ubd80\uc0b0 \ub85d \ud398\uc2a4\ud2f0\ubc8c\uc758 \ub77c\uc778\uc5c5\uacfc \ud604\uc7a5 \uacbd\ud5d8\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
   "name": "BUSAN International Rock Festival 2022",
   "published_playlist_ids": [
     "7jC47AMsHxfgse5RBvTx03"
@@ -91,10 +91,28 @@
       ],
       "date_added": "2022-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 341235,
       "name": "7000RPM",
       "url": "https://open.spotify.com/track/3byuqFayS7CCWFKJxJOLap"
+    },
+    {
+      "album": {
+        "name": "SuperBand2 - Episode.13",
+        "url": "https://open.spotify.com/album/2Bk9fmUzs6FTqi8ZSM5qbO"
+      },
+      "artists": [
+        {
+          "name": "KARDI",
+          "url": "https://open.spotify.com/artist/6v8xPUDPu5hQlu0GrYHyOE"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 341235,
+      "name": "7000RPM",
+      "url": "https://open.spotify.com/track/4qAyjztX1XDEO1LNJdW6NZ"
     },
     {
       "album": {
@@ -152,6 +170,24 @@
     },
     {
       "album": {
+        "name": "JANNABI's Small Pieces l",
+        "url": "https://open.spotify.com/album/39YkUaoy7BMzsFvGGMwugk"
+      },
+      "artists": [
+        {
+          "name": "JANNABI",
+          "url": "https://open.spotify.com/artist/2SY6OktZyMLdOnscX3DCyS"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187000,
+      "name": "A thought on an autumn night",
+      "url": "https://open.spotify.com/track/4YaKlkNVJNbrIqN82EKFsQ"
+    },
+    {
+      "album": {
         "name": "fam fam",
         "url": "https://open.spotify.com/album/1SBCieSwAZCs2d2ryUXlmQ"
       },
@@ -170,6 +206,24 @@
     },
     {
       "album": {
+        "name": "Ex-Girlfriend Club (Original Television Soundtrack), Pt. 1",
+        "url": "https://open.spotify.com/album/6UmJ77UqXsoGkyVpQdQYNW"
+      },
+      "artists": [
+        {
+          "name": "JANNABI",
+          "url": "https://open.spotify.com/artist/2SY6OktZyMLdOnscX3DCyS"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183000,
+      "name": "AlokDalok",
+      "url": "https://open.spotify.com/track/1Z5s7mb71LPjsPEELTypbY"
+    },
+    {
+      "album": {
         "name": "Let It Rain",
         "url": "https://open.spotify.com/album/6t1raUERDLYB8Xk0vc4HKY"
       },
@@ -181,10 +235,82 @@
       ],
       "date_added": "2022-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 295000,
       "name": "an untrustworthy promise",
       "url": "https://open.spotify.com/track/4lSpqM6GXznSMMYzJ1nKZa"
+    },
+    {
+      "album": {
+        "name": "Enlightenment",
+        "url": "https://open.spotify.com/album/5mfhM5hlMcZdpuR0h4No0D"
+      },
+      "artists": [
+        {
+          "name": "THORNAPPLE",
+          "url": "https://open.spotify.com/artist/6S4fsREHT1NEjTb3lYD2pG"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 314026,
+      "name": "As Above So Below",
+      "url": "https://open.spotify.com/track/3LuVwFkWHOKMIxqrdh5di9"
+    },
+    {
+      "album": {
+        "name": "Pole Dance",
+        "url": "https://open.spotify.com/album/2PYqZxuc86lS0DtCCh1sB7"
+      },
+      "artists": [
+        {
+          "name": "JANNABI",
+          "url": "https://open.spotify.com/artist/2SY6OktZyMLdOnscX3DCyS"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201653,
+      "name": "Baby I Need You",
+      "url": "https://open.spotify.com/track/4KU23Zay3Q1W0c0yJCNczH"
+    },
+    {
+      "album": {
+        "name": "LEGEND",
+        "url": "https://open.spotify.com/album/28GiIRNu9nEugqnUci3aIC"
+      },
+      "artists": [
+        {
+          "name": "JANNABI",
+          "url": "https://open.spotify.com/artist/2SY6OktZyMLdOnscX3DCyS"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292000,
+      "name": "bad dreams",
+      "url": "https://open.spotify.com/track/0EtiFHvYwpcaxYC5Y0EHTm"
+    },
+    {
+      "album": {
+        "name": "Beautiful days",
+        "url": "https://open.spotify.com/album/38b0Ivf0z7RQcT01oiuFqd"
+      },
+      "artists": [
+        {
+          "name": "\ubc34\ub4dc\uae30\ub9b0",
+          "url": "https://open.spotify.com/artist/1eIXaK6EOhmMncTZ2L1SWG"
+        }
+      ],
+      "date_added": "2022-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220843,
+      "name": "Beautiful days",
+      "url": "https://open.spotify.com/track/20aQQG44sUAjvVIhwAn5ES"
     },
     {
       "album": {
@@ -242,6 +368,204 @@
     },
     {
       "album": {
+        "name": "BUSAN INTERNATIONAL ROCK FESTIVAL",
+        "url": "https://open.spotify.com/album/67dY021WnfITvMc4ba8eSa"
+      },
+      "artists": [
+        {
+          "name": "Boowhal",
+          "url": "https://open.spotify.com/artist/3FhvgB7cIvT7kMV6ON5USS"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164000,
+      "name": "Boowhal(\ubd80\ud65c) - Stage Comment 1",
+      "url": "https://open.spotify.com/track/4K6hqEiUKdm9WlROgJiFUy"
+    },
+    {
+      "album": {
+        "name": "BUSAN INTERNATIONAL ROCK FESTIVAL",
+        "url": "https://open.spotify.com/album/67dY021WnfITvMc4ba8eSa"
+      },
+      "artists": [
+        {
+          "name": "Boowhal",
+          "url": "https://open.spotify.com/artist/3FhvgB7cIvT7kMV6ON5USS"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142250,
+      "name": "Boowhal(\ubd80\ud65c) - Stage Comment 2",
+      "url": "https://open.spotify.com/track/4NJfQw6UYQFdjAWJhqeXgX"
+    },
+    {
+      "album": {
+        "name": "BUSAN INTERNATIONAL ROCK FESTIVAL",
+        "url": "https://open.spotify.com/album/67dY021WnfITvMc4ba8eSa"
+      },
+      "artists": [
+        {
+          "name": "Boowhal",
+          "url": "https://open.spotify.com/artist/3FhvgB7cIvT7kMV6ON5USS"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 34000,
+      "name": "Boowhal(\ubd80\ud65c) - Stage Comment 3",
+      "url": "https://open.spotify.com/track/2znruZPbS3Tsa9q7bSitOi"
+    },
+    {
+      "album": {
+        "name": "BUSAN INTERNATIONAL ROCK FESTIVAL",
+        "url": "https://open.spotify.com/album/67dY021WnfITvMc4ba8eSa"
+      },
+      "artists": [
+        {
+          "name": "Boowhal",
+          "url": "https://open.spotify.com/artist/3FhvgB7cIvT7kMV6ON5USS"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 103000,
+      "name": "Boowhal(\ubd80\ud65c) - Stage Comment 4",
+      "url": "https://open.spotify.com/track/06g6XgfAVM2jSKoCEoS51N"
+    },
+    {
+      "album": {
+        "name": "BUSAN INTERNATIONAL ROCK FESTIVAL",
+        "url": "https://open.spotify.com/album/67dY021WnfITvMc4ba8eSa"
+      },
+      "artists": [
+        {
+          "name": "Boowhal",
+          "url": "https://open.spotify.com/artist/3FhvgB7cIvT7kMV6ON5USS"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 6500,
+      "name": "Boowhal(\ubd80\ud65c) - Stage Comment 5",
+      "url": "https://open.spotify.com/track/0VgcmYTIyyeWDRS4jfbvKV"
+    },
+    {
+      "album": {
+        "name": "BUSAN INTERNATIONAL ROCK FESTIVAL",
+        "url": "https://open.spotify.com/album/67dY021WnfITvMc4ba8eSa"
+      },
+      "artists": [
+        {
+          "name": "Boowhal",
+          "url": "https://open.spotify.com/artist/3FhvgB7cIvT7kMV6ON5USS"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199000,
+      "name": "Boowhal(\ubd80\ud65c) - Stage Comment 6",
+      "url": "https://open.spotify.com/track/4KD74zcYQGc4cm1bn2Gm6Q"
+    },
+    {
+      "album": {
+        "name": "BUSAN INTERNATIONAL ROCK FESTIVAL",
+        "url": "https://open.spotify.com/album/67dY021WnfITvMc4ba8eSa"
+      },
+      "artists": [
+        {
+          "name": "Boowhal",
+          "url": "https://open.spotify.com/artist/3FhvgB7cIvT7kMV6ON5USS"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 58000,
+      "name": "Boowhal(\ubd80\ud65c) - Stage Comment 7",
+      "url": "https://open.spotify.com/track/2MGdJKGEN9mireV7hudDDP"
+    },
+    {
+      "album": {
+        "name": "BUSAN INTERNATIONAL ROCK FESTIVAL",
+        "url": "https://open.spotify.com/album/67dY021WnfITvMc4ba8eSa"
+      },
+      "artists": [
+        {
+          "name": "Boowhal",
+          "url": "https://open.spotify.com/artist/3FhvgB7cIvT7kMV6ON5USS"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 7500,
+      "name": "Boowhal(\ubd80\ud65c) - Stage Comment 8",
+      "url": "https://open.spotify.com/track/66c3C1YCJgma9P4DoengeQ"
+    },
+    {
+      "album": {
+        "name": "Boy Loves Hayley",
+        "url": "https://open.spotify.com/album/2XouiD0O47Da4dVQ4Z8zGl"
+      },
+      "artists": [
+        {
+          "name": "hathaw9y",
+          "url": "https://open.spotify.com/artist/2G2Jiy00NjBxfbex9wXkeN"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226636,
+      "name": "boy",
+      "url": "https://open.spotify.com/track/3S2irTAEETI9q2SxNWNvPz"
+    },
+    {
+      "album": {
+        "name": "Frankly I\u2026",
+        "url": "https://open.spotify.com/album/3ceIIgqr4ot4QBpdCALSzJ"
+      },
+      "artists": [
+        {
+          "name": "FRankly",
+          "url": "https://open.spotify.com/artist/45hB81mVYnKWDGWPBX0mza"
+        }
+      ],
+      "date_added": "2022-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246736,
+      "name": "Burger",
+      "url": "https://open.spotify.com/track/4XvXox1Qjw5iadBBJkVRMv"
+    },
+    {
+      "album": {
+        "name": "Noise on Fire (Remastered)",
+        "url": "https://open.spotify.com/album/5OiizE4CuzR6iez0imn8lQ"
+      },
+      "artists": [
+        {
+          "name": "Galaxy Express",
+          "url": "https://open.spotify.com/artist/3HbmUr6CJxkk0YGkxeNpMp"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107933,
+      "name": "Bye Bye Planet",
+      "url": "https://open.spotify.com/track/1U48ZpowatBIEC22vdKkaw"
+    },
+    {
+      "album": {
         "name": "Sand",
         "url": "https://open.spotify.com/album/0SMqZWfB4WQkCJugCjbWnH"
       },
@@ -278,6 +602,248 @@
     },
     {
       "album": {
+        "name": "The Land of Fantasy",
+        "url": "https://open.spotify.com/album/3AqaCmFab2u1su982CnoQE"
+      },
+      "artists": [
+        {
+          "name": "JANNABI",
+          "url": "https://open.spotify.com/artist/2SY6OktZyMLdOnscX3DCyS"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201999,
+      "name": "Come Back Home",
+      "url": "https://open.spotify.com/track/7x05r7Fb67Qkk8G7sKPPyz"
+    },
+    {
+      "album": {
+        "name": "Running Man Fan Meeting : Project Running 9",
+        "url": "https://open.spotify.com/album/6hD6UWAxkjLU28xcI7ByzK"
+      },
+      "artists": [
+        {
+          "name": "Yoo Jae Seok",
+          "url": "https://open.spotify.com/artist/4zmCovcjfUoYP3VilaMGxb"
+        },
+        {
+          "name": "Jeon So Min",
+          "url": "https://open.spotify.com/artist/1J3BfBC9Z9VRIpEUB64Rbw"
+        },
+        {
+          "name": "SORAN",
+          "url": "https://open.spotify.com/artist/7eZGd0sv1TxpOwzyKc9P4R"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244253,
+      "name": "Confession of your love",
+      "url": "https://open.spotify.com/track/3K9l3DDKpbTmXFx59ICTr7"
+    },
+    {
+      "album": {
+        "name": "PANORAMA",
+        "url": "https://open.spotify.com/album/1kVaKFcXxNM6LPkJlDVGCE"
+      },
+      "artists": [
+        {
+          "name": "Oah!",
+          "url": "https://open.spotify.com/artist/5SH8ZbsJIqONusEcizNep3"
+        }
+      ],
+      "date_added": "2022-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206358,
+      "name": "Continent of Mu",
+      "url": "https://open.spotify.com/track/4v2IhNJLpJ3DPVbTZoEO77"
+    },
+    {
+      "album": {
+        "name": "BUSAN INTERNATIONAL ROCK FESTIVAL",
+        "url": "https://open.spotify.com/album/67dY021WnfITvMc4ba8eSa"
+      },
+      "artists": [
+        {
+          "name": "Crying Nut",
+          "url": "https://open.spotify.com/artist/0jg8QQ5BExafoPBy7ZyA5t"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 11000,
+      "name": "Crying Nut(\ud06c\ub77c\uc789\ub11b) - Stage Comment 1",
+      "url": "https://open.spotify.com/track/6YPf8MeNsKxqyuStlII7Vz"
+    },
+    {
+      "album": {
+        "name": "BUSAN INTERNATIONAL ROCK FESTIVAL",
+        "url": "https://open.spotify.com/album/67dY021WnfITvMc4ba8eSa"
+      },
+      "artists": [
+        {
+          "name": "Crying Nut",
+          "url": "https://open.spotify.com/artist/0jg8QQ5BExafoPBy7ZyA5t"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 66250,
+      "name": "Crying Nut(\ud06c\ub77c\uc789\ub11b) - Stage Comment 10",
+      "url": "https://open.spotify.com/track/1ohy6GKOERZbDCGQKVfXX3"
+    },
+    {
+      "album": {
+        "name": "BUSAN INTERNATIONAL ROCK FESTIVAL",
+        "url": "https://open.spotify.com/album/67dY021WnfITvMc4ba8eSa"
+      },
+      "artists": [
+        {
+          "name": "Crying Nut",
+          "url": "https://open.spotify.com/artist/0jg8QQ5BExafoPBy7ZyA5t"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 14500,
+      "name": "Crying Nut(\ud06c\ub77c\uc789\ub11b) - Stage Comment 2",
+      "url": "https://open.spotify.com/track/1GKdA67BRvGddMRDD5116m"
+    },
+    {
+      "album": {
+        "name": "BUSAN INTERNATIONAL ROCK FESTIVAL",
+        "url": "https://open.spotify.com/album/67dY021WnfITvMc4ba8eSa"
+      },
+      "artists": [
+        {
+          "name": "Crying Nut",
+          "url": "https://open.spotify.com/artist/0jg8QQ5BExafoPBy7ZyA5t"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 89000,
+      "name": "Crying Nut(\ud06c\ub77c\uc789\ub11b) - Stage Comment 3",
+      "url": "https://open.spotify.com/track/3alw84TJ4sMZSrIDr6KtEo"
+    },
+    {
+      "album": {
+        "name": "BUSAN INTERNATIONAL ROCK FESTIVAL",
+        "url": "https://open.spotify.com/album/67dY021WnfITvMc4ba8eSa"
+      },
+      "artists": [
+        {
+          "name": "Crying Nut",
+          "url": "https://open.spotify.com/artist/0jg8QQ5BExafoPBy7ZyA5t"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110000,
+      "name": "Crying Nut(\ud06c\ub77c\uc789\ub11b) - Stage Comment 4",
+      "url": "https://open.spotify.com/track/4Xc0nRIaIiBllEBDW0nDFy"
+    },
+    {
+      "album": {
+        "name": "BUSAN INTERNATIONAL ROCK FESTIVAL",
+        "url": "https://open.spotify.com/album/67dY021WnfITvMc4ba8eSa"
+      },
+      "artists": [
+        {
+          "name": "Crying Nut",
+          "url": "https://open.spotify.com/artist/0jg8QQ5BExafoPBy7ZyA5t"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 66000,
+      "name": "Crying Nut(\ud06c\ub77c\uc789\ub11b) - Stage Comment 5",
+      "url": "https://open.spotify.com/track/36aGOB0n0nSEIIBPhbxn56"
+    },
+    {
+      "album": {
+        "name": "BUSAN INTERNATIONAL ROCK FESTIVAL",
+        "url": "https://open.spotify.com/album/67dY021WnfITvMc4ba8eSa"
+      },
+      "artists": [
+        {
+          "name": "Crying Nut",
+          "url": "https://open.spotify.com/artist/0jg8QQ5BExafoPBy7ZyA5t"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 9000,
+      "name": "Crying Nut(\ud06c\ub77c\uc789\ub11b) - Stage Comment 6",
+      "url": "https://open.spotify.com/track/43sLvDzndxF2spunIX6hQm"
+    },
+    {
+      "album": {
+        "name": "BUSAN INTERNATIONAL ROCK FESTIVAL",
+        "url": "https://open.spotify.com/album/67dY021WnfITvMc4ba8eSa"
+      },
+      "artists": [
+        {
+          "name": "Crying Nut",
+          "url": "https://open.spotify.com/artist/0jg8QQ5BExafoPBy7ZyA5t"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 75000,
+      "name": "Crying Nut(\ud06c\ub77c\uc789\ub11b) - Stage Comment 7",
+      "url": "https://open.spotify.com/track/3kg9uDpLZHQ8kMm9NOSkdy"
+    },
+    {
+      "album": {
+        "name": "BUSAN INTERNATIONAL ROCK FESTIVAL",
+        "url": "https://open.spotify.com/album/67dY021WnfITvMc4ba8eSa"
+      },
+      "artists": [
+        {
+          "name": "Crying Nut",
+          "url": "https://open.spotify.com/artist/0jg8QQ5BExafoPBy7ZyA5t"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 46500,
+      "name": "Crying Nut(\ud06c\ub77c\uc789\ub11b) - Stage Comment 8",
+      "url": "https://open.spotify.com/track/65zNFGtTvEba6jiIx2hIV0"
+    },
+    {
+      "album": {
+        "name": "BUSAN INTERNATIONAL ROCK FESTIVAL",
+        "url": "https://open.spotify.com/album/67dY021WnfITvMc4ba8eSa"
+      },
+      "artists": [
+        {
+          "name": "Crying Nut",
+          "url": "https://open.spotify.com/artist/0jg8QQ5BExafoPBy7ZyA5t"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 6500,
+      "name": "Crying Nut(\ud06c\ub77c\uc789\ub11b) - Stage Comment 9",
+      "url": "https://open.spotify.com/track/4TMTZ9RHUwbKWXxEmAbPN2"
+    },
+    {
+      "album": {
         "name": "COBALT",
         "url": "https://open.spotify.com/album/72bVS9qjgmS4AZsEgJoyVE"
       },
@@ -293,6 +859,28 @@
       "duration_ms": 223088,
       "name": "Dancing in the rain",
       "url": "https://open.spotify.com/track/3d28TKE1fVNrG7D4xH7Q7k"
+    },
+    {
+      "album": {
+        "name": "Beloved",
+        "url": "https://open.spotify.com/album/3BYnEzSiJP33hiJE3JrTpu"
+      },
+      "artists": [
+        {
+          "name": "SORAN",
+          "url": "https://open.spotify.com/artist/7eZGd0sv1TxpOwzyKc9P4R"
+        },
+        {
+          "name": "Mongja",
+          "url": "https://open.spotify.com/artist/3xaCjiHwErbtitFGhEvc5a"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230586,
+      "name": "DANG! (Feat. Mongja)",
+      "url": "https://open.spotify.com/track/76tWhJQFEkxSJvjmlh5w6A"
     },
     {
       "album": {
@@ -404,6 +992,100 @@
     },
     {
       "album": {
+        "name": "LEGEND",
+        "url": "https://open.spotify.com/album/28GiIRNu9nEugqnUci3aIC"
+      },
+      "artists": [
+        {
+          "name": "JANNABI",
+          "url": "https://open.spotify.com/artist/2SY6OktZyMLdOnscX3DCyS"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297000,
+      "name": "dreams, books, power and walls",
+      "url": "https://open.spotify.com/track/1deQhoZakgMT5fw0t9zliD"
+    },
+    {
+      "album": {
+        "name": "E.D.E.N.",
+        "url": "https://open.spotify.com/album/7JSzqNy9KMamv6M3TW7aJE"
+      },
+      "artists": [
+        {
+          "name": "I Mean Us",
+          "url": "https://open.spotify.com/artist/6FGSUph2Uv0yi2oM1hDV78"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 384000,
+      "name": "E.D.E.N.",
+      "url": "https://open.spotify.com/track/4GRumphhF5ea8n3it2k8xG"
+    },
+    {
+      "album": {
+        "name": "A World Full Of Paper Planes & Balloons",
+        "url": "https://open.spotify.com/album/5QlrdfNsruHMELFrb9xEDd"
+      },
+      "artists": [
+        {
+          "name": "Dayangsung",
+          "url": "https://open.spotify.com/artist/3nVkLQWe6gkgmqia9kl89z"
+        }
+      ],
+      "date_added": "2022-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221509,
+      "name": "Evening Glow",
+      "url": "https://open.spotify.com/track/1Yuua9AnSRDl0taHxpVNzM"
+    },
+    {
+      "album": {
+        "name": "Silica Gel",
+        "url": "https://open.spotify.com/album/4BzGxha8bh9u2I2nEyUeE9"
+      },
+      "artists": [
+        {
+          "name": "Silica Gel",
+          "url": "https://open.spotify.com/artist/2kxVxKOgoefmgkwoHipHsn"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294000,
+      "name": "Everybody Does",
+      "url": "https://open.spotify.com/track/7s5Ow4bsVkU0eUlp71o8yn"
+    },
+    {
+      "album": {
+        "name": "CAKE",
+        "url": "https://open.spotify.com/album/1kh0R6MwB7zY10hWurPwX8"
+      },
+      "artists": [
+        {
+          "name": "SORAN",
+          "url": "https://open.spotify.com/artist/7eZGd0sv1TxpOwzyKc9P4R"
+        },
+        {
+          "name": "10cm",
+          "url": "https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208920,
+      "name": "Falling In Love (feat. 10cm)",
+      "url": "https://open.spotify.com/track/5dPYuKs7KoMjR1DQU2mpOX"
+    },
+    {
+      "album": {
         "name": "SUPER BAND 2 - Episode.14",
         "url": "https://open.spotify.com/album/2gir8gMdlpIkinnc061A3j"
       },
@@ -415,7 +1097,7 @@
       ],
       "date_added": "2022-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-09",
       "duration_ms": 382354,
       "name": "Far away",
       "url": "https://open.spotify.com/track/7CnILy2C8eB74SLa4NkVY7"
@@ -458,6 +1140,24 @@
     },
     {
       "album": {
+        "name": "LEGEND",
+        "url": "https://open.spotify.com/album/28GiIRNu9nEugqnUci3aIC"
+      },
+      "artists": [
+        {
+          "name": "JANNABI",
+          "url": "https://open.spotify.com/artist/2SY6OktZyMLdOnscX3DCyS"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265000,
+      "name": "for lovers who hesitate",
+      "url": "https://open.spotify.com/track/5BqwC9kOBbqYkzdOKeXFFk"
+    },
+    {
+      "album": {
         "name": "Friendzone",
         "url": "https://open.spotify.com/album/4WLwRi2w6XzOnCQfupjl2Q"
       },
@@ -477,6 +1177,42 @@
       "duration_ms": 222576,
       "name": "Friendzone (feat. BIG Naughty)",
       "url": "https://open.spotify.com/track/2rX3swM25DhNwg7mTjnzbG"
+    },
+    {
+      "album": {
+        "name": "BUSAN INTERNATIONAL ROCK FESTIVAL",
+        "url": "https://open.spotify.com/album/67dY021WnfITvMc4ba8eSa"
+      },
+      "artists": [
+        {
+          "name": "Galaxy Express",
+          "url": "https://open.spotify.com/artist/3HbmUr6CJxkk0YGkxeNpMp"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 30500,
+      "name": "Galaxy Express(\uac24\ub7ed\uc2dc \uc775\uc2a4\ud504\ub808\uc2a4) - Stage Comment 1",
+      "url": "https://open.spotify.com/track/5Bhd8VKSrNB87bmh2wfncM"
+    },
+    {
+      "album": {
+        "name": "BUSAN INTERNATIONAL ROCK FESTIVAL",
+        "url": "https://open.spotify.com/album/67dY021WnfITvMc4ba8eSa"
+      },
+      "artists": [
+        {
+          "name": "Galaxy Express",
+          "url": "https://open.spotify.com/artist/3HbmUr6CJxkk0YGkxeNpMp"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 14000,
+      "name": "Galaxy Express(\uac24\ub7ed\uc2dc \uc775\uc2a4\ud504\ub808\uc2a4) - Stage Comment 2",
+      "url": "https://open.spotify.com/track/43LVuViiakd7UvdTk6HUXr"
     },
     {
       "album": {
@@ -513,6 +1249,24 @@
       "duration_ms": 196773,
       "name": "Get Out",
       "url": "https://open.spotify.com/track/6rN0zooodUhaTrNM5MlT8L"
+    },
+    {
+      "album": {
+        "name": "Good Boy Twist",
+        "url": "https://open.spotify.com/album/4CUQidFTwTTbZadFIk7Uak"
+      },
+      "artists": [
+        {
+          "name": "JANNABI",
+          "url": "https://open.spotify.com/artist/2SY6OktZyMLdOnscX3DCyS"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182982,
+      "name": "Good Boy Twist",
+      "url": "https://open.spotify.com/track/5ONvPvTXMy9E8pVnI8RhzM"
     },
     {
       "album": {
@@ -610,6 +1364,114 @@
     },
     {
       "album": {
+        "name": "Share",
+        "url": "https://open.spotify.com/album/3opQW3I787I5em9lRZptCo"
+      },
+      "artists": [
+        {
+          "name": "SORAN",
+          "url": "https://open.spotify.com/artist/7eZGd0sv1TxpOwzyKc9P4R"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223050,
+      "name": "Happy",
+      "url": "https://open.spotify.com/track/6vvcXIVSKj5g9AGPNVA8is"
+    },
+    {
+      "album": {
+        "name": "BUSAN INTERNATIONAL ROCK FESTIVAL",
+        "url": "https://open.spotify.com/album/67dY021WnfITvMc4ba8eSa"
+      },
+      "artists": [
+        {
+          "name": "HATHAW9Y",
+          "url": "https://open.spotify.com/artist/3aEswXpdzZCn0wOlMG1bYb"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 5000,
+      "name": "HATHAW9Y - Stage Comment 1",
+      "url": "https://open.spotify.com/track/4mhe5skmnEX6qSXyg6S9e4"
+    },
+    {
+      "album": {
+        "name": "BUSAN INTERNATIONAL ROCK FESTIVAL",
+        "url": "https://open.spotify.com/album/67dY021WnfITvMc4ba8eSa"
+      },
+      "artists": [
+        {
+          "name": "HATHAW9Y",
+          "url": "https://open.spotify.com/artist/3aEswXpdzZCn0wOlMG1bYb"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 29500,
+      "name": "HATHAW9Y - Stage Comment 2",
+      "url": "https://open.spotify.com/track/1P4IsZHWDigRZZxRr7qrLO"
+    },
+    {
+      "album": {
+        "name": "BUSAN INTERNATIONAL ROCK FESTIVAL",
+        "url": "https://open.spotify.com/album/67dY021WnfITvMc4ba8eSa"
+      },
+      "artists": [
+        {
+          "name": "HATHAW9Y",
+          "url": "https://open.spotify.com/artist/3aEswXpdzZCn0wOlMG1bYb"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 20969,
+      "name": "HATHAW9Y - Stage Comment 3",
+      "url": "https://open.spotify.com/track/3db5DvqA16ozSfINDZc7TQ"
+    },
+    {
+      "album": {
+        "name": "BUSAN INTERNATIONAL ROCK FESTIVAL",
+        "url": "https://open.spotify.com/album/67dY021WnfITvMc4ba8eSa"
+      },
+      "artists": [
+        {
+          "name": "HATHAW9Y",
+          "url": "https://open.spotify.com/artist/3aEswXpdzZCn0wOlMG1bYb"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 59791,
+      "name": "HATHAW9Y - Stage Comment 4",
+      "url": "https://open.spotify.com/track/3nxaVV9x6AdXbEUuYKqqJB"
+    },
+    {
+      "album": {
+        "name": "BUSAN INTERNATIONAL ROCK FESTIVAL",
+        "url": "https://open.spotify.com/album/67dY021WnfITvMc4ba8eSa"
+      },
+      "artists": [
+        {
+          "name": "HATHAW9Y",
+          "url": "https://open.spotify.com/artist/3aEswXpdzZCn0wOlMG1bYb"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 47500,
+      "name": "HATHAW9Y - Stage Comment 5",
+      "url": "https://open.spotify.com/track/55blezdq49P8qlomXMSpVr"
+    },
+    {
+      "album": {
         "name": "Boy Loves Hayley",
         "url": "https://open.spotify.com/album/2XouiD0O47Da4dVQ4Z8zGl"
       },
@@ -664,6 +1526,42 @@
     },
     {
       "album": {
+        "name": "Capital Disease",
+        "url": "https://open.spotify.com/album/0glXbKYknQlnd2FnxsxWez"
+      },
+      "artists": [
+        {
+          "name": "THORNAPPLE",
+          "url": "https://open.spotify.com/artist/6S4fsREHT1NEjTb3lYD2pG"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205720,
+      "name": "High Noon",
+      "url": "https://open.spotify.com/track/2D7AA8KIUDgUoC8VFjIhLB"
+    },
+    {
+      "album": {
+        "name": "Into Innerverse",
+        "url": "https://open.spotify.com/album/0YCxq2nT2BLL9vSCsQEFNX"
+      },
+      "artists": [
+        {
+          "name": "I Mean Us",
+          "url": "https://open.spotify.com/artist/6FGSUph2Uv0yi2oM1hDV78"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295802,
+      "name": "I Dot Car",
+      "url": "https://open.spotify.com/track/4S6qpj3Tan7dbsg91Gk91u"
+    },
+    {
+      "album": {
         "name": "COLORFUL TRAUMA",
         "url": "https://open.spotify.com/album/2A3y4U3r7xzgicuJYisnOe"
       },
@@ -679,6 +1577,78 @@
       "duration_ms": 190000,
       "name": "I hate you",
       "url": "https://open.spotify.com/track/1XlSkQeITGEv8r6HIZfpfX"
+    },
+    {
+      "album": {
+        "name": "I Like Me",
+        "url": "https://open.spotify.com/album/4AQz2u4cY5AC2DLgcwhrDg"
+      },
+      "artists": [
+        {
+          "name": "Minsu",
+          "url": "https://open.spotify.com/artist/1o13ZguNtAOcOe1k0chkta"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192034,
+      "name": "I Like Me",
+      "url": "https://open.spotify.com/track/4WNWEl66OnjTcMP0WL0NZ5"
+    },
+    {
+      "album": {
+        "name": "BUSAN INTERNATIONAL ROCK FESTIVAL",
+        "url": "https://open.spotify.com/album/67dY021WnfITvMc4ba8eSa"
+      },
+      "artists": [
+        {
+          "name": "I Mean Us",
+          "url": "https://open.spotify.com/artist/6FGSUph2Uv0yi2oM1hDV78"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 80000,
+      "name": "I Mean Us - Stage Comment 1",
+      "url": "https://open.spotify.com/track/6mvr9d15mjlhfiRXhDBlOv"
+    },
+    {
+      "album": {
+        "name": "BUSAN INTERNATIONAL ROCK FESTIVAL",
+        "url": "https://open.spotify.com/album/67dY021WnfITvMc4ba8eSa"
+      },
+      "artists": [
+        {
+          "name": "I Mean Us",
+          "url": "https://open.spotify.com/artist/6FGSUph2Uv0yi2oM1hDV78"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134750,
+      "name": "I Mean Us - Stage Comment 2",
+      "url": "https://open.spotify.com/track/1bO9JCvF4mEaOowWctJvpx"
+    },
+    {
+      "album": {
+        "name": "BUSAN INTERNATIONAL ROCK FESTIVAL",
+        "url": "https://open.spotify.com/album/67dY021WnfITvMc4ba8eSa"
+      },
+      "artists": [
+        {
+          "name": "I Mean Us",
+          "url": "https://open.spotify.com/artist/6FGSUph2Uv0yi2oM1hDV78"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 8000,
+      "name": "I Mean Us - Stage Comment 3",
+      "url": "https://open.spotify.com/track/0kBtmdTc6OWJzuqkwYAgRG"
     },
     {
       "album": {
@@ -700,6 +1670,28 @@
     },
     {
       "album": {
+        "name": "I'MMORTAL",
+        "url": "https://open.spotify.com/album/6yuKLd2o2NAdlHe7EIRiiM"
+      },
+      "artists": [
+        {
+          "name": "Silica Gel",
+          "url": "https://open.spotify.com/artist/2kxVxKOgoefmgkwoHipHsn"
+        },
+        {
+          "name": "sogumm",
+          "url": "https://open.spotify.com/artist/50x9jHrP6wy9fo3jK5pNqS"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235413,
+      "name": "I'MMORTAL (feat. sogumm)",
+      "url": "https://open.spotify.com/track/7lNm1tvWp2EEKE6293Iuj8"
+    },
+    {
+      "album": {
         "name": "Ice Cream",
         "url": "https://open.spotify.com/album/1ENCa2OXJkr562zKFWWO4A"
       },
@@ -715,6 +1707,24 @@
       "duration_ms": 337353,
       "name": "Ice Cream",
       "url": "https://open.spotify.com/track/5ltjohuiVnUZragBIIkWGV"
+    },
+    {
+      "album": {
+        "name": "Suffering Repetition, But Tomorrow",
+        "url": "https://open.spotify.com/album/6tlEfSXtuiRUXjzAcpzlSe"
+      },
+      "artists": [
+        {
+          "name": "828",
+          "url": "https://open.spotify.com/artist/0TWjYNZU7pTssEBPuMiyXA"
+        }
+      ],
+      "date_added": "2022-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297080,
+      "name": "In My Mind",
+      "url": "https://open.spotify.com/track/0lXhyCQBqlEbperz8Ot6aZ"
     },
     {
       "album": {
@@ -736,6 +1746,204 @@
     },
     {
       "album": {
+        "name": "CRYING NUT 25th Anniversary Best Album",
+        "url": "https://open.spotify.com/album/3LCvmUeoynudUbGfTCPkko"
+      },
+      "artists": [
+        {
+          "name": "Crying Nut",
+          "url": "https://open.spotify.com/artist/0jg8QQ5BExafoPBy7ZyA5t"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262973,
+      "name": "Isn\u2019t That Good? - 25th Anniversary Version",
+      "url": "https://open.spotify.com/track/3Oy1Sp9v7EVll65sAzOfSh"
+    },
+    {
+      "album": {
+        "name": "BUSAN INTERNATIONAL ROCK FESTIVAL",
+        "url": "https://open.spotify.com/album/67dY021WnfITvMc4ba8eSa"
+      },
+      "artists": [
+        {
+          "name": "JANNABI",
+          "url": "https://open.spotify.com/artist/2SY6OktZyMLdOnscX3DCyS"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 17750,
+      "name": "JANNABI(\uc794\ub098\ube44) - Stage Comments 1",
+      "url": "https://open.spotify.com/track/2MX9t5Fsv36TTzBJD07Jrv"
+    },
+    {
+      "album": {
+        "name": "BUSAN INTERNATIONAL ROCK FESTIVAL",
+        "url": "https://open.spotify.com/album/67dY021WnfITvMc4ba8eSa"
+      },
+      "artists": [
+        {
+          "name": "JANNABI",
+          "url": "https://open.spotify.com/artist/2SY6OktZyMLdOnscX3DCyS"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 60874,
+      "name": "JANNABI(\uc794\ub098\ube44) - Stage Comments 2",
+      "url": "https://open.spotify.com/track/5V6YrIlQPXk8P4rIgCkICV"
+    },
+    {
+      "album": {
+        "name": "BUSAN INTERNATIONAL ROCK FESTIVAL",
+        "url": "https://open.spotify.com/album/67dY021WnfITvMc4ba8eSa"
+      },
+      "artists": [
+        {
+          "name": "JANNABI",
+          "url": "https://open.spotify.com/artist/2SY6OktZyMLdOnscX3DCyS"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 44000,
+      "name": "JANNABI(\uc794\ub098\ube44) - Stage Comments 3",
+      "url": "https://open.spotify.com/track/0vUOvYqvpmtWgOEsN9HvnW"
+    },
+    {
+      "album": {
+        "name": "BUSAN INTERNATIONAL ROCK FESTIVAL",
+        "url": "https://open.spotify.com/album/67dY021WnfITvMc4ba8eSa"
+      },
+      "artists": [
+        {
+          "name": "JANNABI",
+          "url": "https://open.spotify.com/artist/2SY6OktZyMLdOnscX3DCyS"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 41500,
+      "name": "JANNABI(\uc794\ub098\ube44) - Stage Comments 4",
+      "url": "https://open.spotify.com/track/0ZvEyPSKhEwdKvMPDdoX7n"
+    },
+    {
+      "album": {
+        "name": "BUSAN INTERNATIONAL ROCK FESTIVAL",
+        "url": "https://open.spotify.com/album/67dY021WnfITvMc4ba8eSa"
+      },
+      "artists": [
+        {
+          "name": "JANNABI",
+          "url": "https://open.spotify.com/artist/2SY6OktZyMLdOnscX3DCyS"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115000,
+      "name": "JANNABI(\uc794\ub098\ube44) - Stage Comments 5",
+      "url": "https://open.spotify.com/track/5jhIdnW4pgLKeCAp09L4A3"
+    },
+    {
+      "album": {
+        "name": "BUSAN INTERNATIONAL ROCK FESTIVAL",
+        "url": "https://open.spotify.com/album/67dY021WnfITvMc4ba8eSa"
+      },
+      "artists": [
+        {
+          "name": "JANNABI",
+          "url": "https://open.spotify.com/artist/2SY6OktZyMLdOnscX3DCyS"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 90000,
+      "name": "JANNABI(\uc794\ub098\ube44) - Stage Comments 6",
+      "url": "https://open.spotify.com/track/0ruGRa9iJ0KmYqgu7sZPxr"
+    },
+    {
+      "album": {
+        "name": "BUSAN INTERNATIONAL ROCK FESTIVAL",
+        "url": "https://open.spotify.com/album/67dY021WnfITvMc4ba8eSa"
+      },
+      "artists": [
+        {
+          "name": "JANNABI",
+          "url": "https://open.spotify.com/artist/2SY6OktZyMLdOnscX3DCyS"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 26000,
+      "name": "JANNABI(\uc794\ub098\ube44) - Stage Comments 7",
+      "url": "https://open.spotify.com/track/2HHIuujCj3HBPnTqCGAVow"
+    },
+    {
+      "album": {
+        "name": "BUSAN INTERNATIONAL ROCK FESTIVAL",
+        "url": "https://open.spotify.com/album/67dY021WnfITvMc4ba8eSa"
+      },
+      "artists": [
+        {
+          "name": "JANNABI",
+          "url": "https://open.spotify.com/artist/2SY6OktZyMLdOnscX3DCyS"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 37000,
+      "name": "JANNABI(\uc794\ub098\ube44) - Stage Comments 8",
+      "url": "https://open.spotify.com/track/0WPkz5b2ylVq8CvM2WVLZW"
+    },
+    {
+      "album": {
+        "name": "Once Upon a Time in the West (Spiel Mir Das Lied Vom Tod)",
+        "url": "https://open.spotify.com/album/1qKyioHhsVnE9VDOnFnNnG"
+      },
+      "artists": [
+        {
+          "name": "The Hollywood LA Soundtrack Orchestra",
+          "url": "https://open.spotify.com/artist/7AjHgPMs8gST9qpPuritzX"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195500,
+      "name": "Jill's Theme - From \"Once Upon a Time in the West\"",
+      "url": "https://open.spotify.com/track/6ffSbEqlh3UcyTDcYWMpL1"
+    },
+    {
+      "album": {
+        "name": "MONKEY HOTEL",
+        "url": "https://open.spotify.com/album/7l4uULQ4qODIw5MSlLDM3r"
+      },
+      "artists": [
+        {
+          "name": "JANNABI",
+          "url": "https://open.spotify.com/artist/2SY6OktZyMLdOnscX3DCyS"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189000,
+      "name": "JUNGLE",
+      "url": "https://open.spotify.com/track/2wFmUoCn1z1BFxUjUtW0Lc"
+    },
+    {
+      "album": {
         "name": "Noise on Fire (Remastered)",
         "url": "https://open.spotify.com/album/5OiizE4CuzR6iez0imn8lQ"
       },
@@ -751,6 +1959,42 @@
       "duration_ms": 159640,
       "name": "Jungle the Black",
       "url": "https://open.spotify.com/track/4F4arrk8iGRPBE76XCf4PL"
+    },
+    {
+      "album": {
+        "name": "Enlightenment",
+        "url": "https://open.spotify.com/album/5mfhM5hlMcZdpuR0h4No0D"
+      },
+      "artists": [
+        {
+          "name": "THORNAPPLE",
+          "url": "https://open.spotify.com/artist/6S4fsREHT1NEjTb3lYD2pG"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212826,
+      "name": "Kirin",
+      "url": "https://open.spotify.com/track/4BW4E5kn6EP1dLFXbidn19"
+    },
+    {
+      "album": {
+        "name": "Kyo181",
+        "url": "https://open.spotify.com/album/3N0IUl4bbHeBmLFaMAVgCW"
+      },
+      "artists": [
+        {
+          "name": "Silica Gel",
+          "url": "https://open.spotify.com/artist/2kxVxKOgoefmgkwoHipHsn"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253614,
+      "name": "Kyo181",
+      "url": "https://open.spotify.com/track/0jqrftVPDJaSWpa31kgDrf"
     },
     {
       "album": {
@@ -805,6 +2049,24 @@
       "duration_ms": 218592,
       "name": "Lonely Night",
       "url": "https://open.spotify.com/track/5pHYQ1TuV7Ye5WWYcAxFjE"
+    },
+    {
+      "album": {
+        "name": "CRYING NUT 25th Anniversary Best Album",
+        "url": "https://open.spotify.com/album/3LCvmUeoynudUbGfTCPkko"
+      },
+      "artists": [
+        {
+          "name": "Crying Nut",
+          "url": "https://open.spotify.com/artist/0jg8QQ5BExafoPBy7ZyA5t"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171000,
+      "name": "Luxembourg - 25th Anniversary Version",
+      "url": "https://open.spotify.com/track/14gxdvmpmIn00fik2aJZJM"
     },
     {
       "album": {
@@ -877,6 +2139,114 @@
       "duration_ms": 226735,
       "name": "Minsu is confused",
       "url": "https://open.spotify.com/track/26OCm1BoM09I3jIXYQhVsx"
+    },
+    {
+      "album": {
+        "name": "BUSAN INTERNATIONAL ROCK FESTIVAL",
+        "url": "https://open.spotify.com/album/67dY021WnfITvMc4ba8eSa"
+      },
+      "artists": [
+        {
+          "name": "MINSU",
+          "url": "https://open.spotify.com/artist/6bZ2pW1vt2NJ1XfP3Jwb29"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 16000,
+      "name": "MINSU(\ubbfc\uc218) - Stage Comment 1",
+      "url": "https://open.spotify.com/track/50lRtCCyp5IeIU4sHWxxU7"
+    },
+    {
+      "album": {
+        "name": "BUSAN INTERNATIONAL ROCK FESTIVAL",
+        "url": "https://open.spotify.com/album/67dY021WnfITvMc4ba8eSa"
+      },
+      "artists": [
+        {
+          "name": "MINSU",
+          "url": "https://open.spotify.com/artist/6bZ2pW1vt2NJ1XfP3Jwb29"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 33500,
+      "name": "MINSU(\ubbfc\uc218) - Stage Comment 2",
+      "url": "https://open.spotify.com/track/2SwnmgZ4EWSY1qb3Eq0zvM"
+    },
+    {
+      "album": {
+        "name": "BUSAN INTERNATIONAL ROCK FESTIVAL",
+        "url": "https://open.spotify.com/album/67dY021WnfITvMc4ba8eSa"
+      },
+      "artists": [
+        {
+          "name": "MINSU",
+          "url": "https://open.spotify.com/artist/6bZ2pW1vt2NJ1XfP3Jwb29"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 42500,
+      "name": "MINSU(\ubbfc\uc218) - Stage Comment 3",
+      "url": "https://open.spotify.com/track/2kO0Uofh44I3BrmWYt32L5"
+    },
+    {
+      "album": {
+        "name": "BUSAN INTERNATIONAL ROCK FESTIVAL",
+        "url": "https://open.spotify.com/album/67dY021WnfITvMc4ba8eSa"
+      },
+      "artists": [
+        {
+          "name": "MINSU",
+          "url": "https://open.spotify.com/artist/6bZ2pW1vt2NJ1XfP3Jwb29"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 12500,
+      "name": "MINSU(\ubbfc\uc218) - Stage Comment 4",
+      "url": "https://open.spotify.com/track/6d4vKpr4nuKoVtj0Woo8Ki"
+    },
+    {
+      "album": {
+        "name": "BUSAN INTERNATIONAL ROCK FESTIVAL",
+        "url": "https://open.spotify.com/album/67dY021WnfITvMc4ba8eSa"
+      },
+      "artists": [
+        {
+          "name": "MINSU",
+          "url": "https://open.spotify.com/artist/6bZ2pW1vt2NJ1XfP3Jwb29"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 30000,
+      "name": "MINSU(\ubbfc\uc218) - Stage Comment 5",
+      "url": "https://open.spotify.com/track/70co5wX0kLuHshucmLYXLk"
+    },
+    {
+      "album": {
+        "name": "BUSAN INTERNATIONAL ROCK FESTIVAL",
+        "url": "https://open.spotify.com/album/67dY021WnfITvMc4ba8eSa"
+      },
+      "artists": [
+        {
+          "name": "MINSU",
+          "url": "https://open.spotify.com/artist/6bZ2pW1vt2NJ1XfP3Jwb29"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 29500,
+      "name": "MINSU(\ubbfc\uc218) - Stage Comment 6",
+      "url": "https://open.spotify.com/track/35tTCKVGjzTfUjYUyRIa81"
     },
     {
       "album": {
@@ -970,6 +2340,42 @@
     },
     {
       "album": {
+        "name": "SiO2.nH2O",
+        "url": "https://open.spotify.com/album/44j8NM9cjlwh1kHfWafmHj"
+      },
+      "artists": [
+        {
+          "name": "Silica Gel",
+          "url": "https://open.spotify.com/artist/2kxVxKOgoefmgkwoHipHsn"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259413,
+      "name": "NEO SOUL",
+      "url": "https://open.spotify.com/track/4TOPopoEnEtI2n6t8smIj3"
+    },
+    {
+      "album": {
+        "name": "20th Anniversary Live In 2005",
+        "url": "https://open.spotify.com/album/4INEvHrcuER5r0znFZ7fW0"
+      },
+      "artists": [
+        {
+          "name": "Lee Seung Chul",
+          "url": "https://open.spotify.com/artist/5Ecf8RR2UWFAvyeItabffF"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251973,
+      "name": "Never Ending Story",
+      "url": "https://open.spotify.com/track/31wYm3i0uTz0GF94DohUME"
+    },
+    {
+      "album": {
         "name": "New Plant",
         "url": "https://open.spotify.com/album/4x0sRy7NHBE1uEy8hiVKy3"
       },
@@ -988,6 +2394,24 @@
     },
     {
       "album": {
+        "name": "Nightfall",
+        "url": "https://open.spotify.com/album/4XKHSscld4s0dTFovtcb0l"
+      },
+      "artists": [
+        {
+          "name": "SKIPJACK",
+          "url": "https://open.spotify.com/artist/3eqel93sPqKCJfZsgi1uHp"
+        }
+      ],
+      "date_added": "2022-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252500,
+      "name": "Nightfall",
+      "url": "https://open.spotify.com/track/6y0m2ZqxryJvRtjSlW2Uw0"
+    },
+    {
+      "album": {
         "name": "NO PAIN",
         "url": "https://open.spotify.com/album/0PU7zuIyFTemauVmePGD95"
       },
@@ -1003,6 +2427,24 @@
       "duration_ms": 219414,
       "name": "NO PAIN",
       "url": "https://open.spotify.com/track/01d3IKaDzqxP50zPZnAkT9"
+    },
+    {
+      "album": {
+        "name": "Noise on Fire (Remastered)",
+        "url": "https://open.spotify.com/album/5OiizE4CuzR6iez0imn8lQ"
+      },
+      "artists": [
+        {
+          "name": "Galaxy Express",
+          "url": "https://open.spotify.com/artist/3HbmUr6CJxkk0YGkxeNpMp"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 77146,
+      "name": "Noise on Fire",
+      "url": "https://open.spotify.com/track/4pWvew4lO3T6LNgLMZNc2X"
     },
     {
       "album": {
@@ -1075,6 +2517,24 @@
       "duration_ms": 194455,
       "name": "One Two Three",
       "url": "https://open.spotify.com/track/641mffMtAHVcWP4c8emiKw"
+    },
+    {
+      "album": {
+        "name": "CAKE",
+        "url": "https://open.spotify.com/album/1kh0R6MwB7zY10hWurPwX8"
+      },
+      "artists": [
+        {
+          "name": "SORAN",
+          "url": "https://open.spotify.com/artist/7eZGd0sv1TxpOwzyKc9P4R"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211400,
+      "name": "Only I Want To Know",
+      "url": "https://open.spotify.com/track/15ecAutv7JSuRkL9I9DrUB"
     },
     {
       "album": {
@@ -1172,6 +2632,24 @@
     },
     {
       "album": {
+        "name": "Prince",
+        "url": "https://open.spotify.com/album/1qp1JzVgo7prqBw5mhEla2"
+      },
+      "artists": [
+        {
+          "name": "SORAN",
+          "url": "https://open.spotify.com/artist/7eZGd0sv1TxpOwzyKc9P4R"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224388,
+      "name": "Prince",
+      "url": "https://open.spotify.com/track/0tcsDZ43YgMJQGL8uBBziF"
+    },
+    {
+      "album": {
         "name": "SUPER BAND 2 - Episode.14",
         "url": "https://open.spotify.com/album/2gir8gMdlpIkinnc061A3j"
       },
@@ -1183,10 +2661,46 @@
       ],
       "date_added": "2022-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 378552,
       "name": "Ready to fly",
       "url": "https://open.spotify.com/track/4UZN8L3SnpXj3HGuRwzF1O"
+    },
+    {
+      "album": {
+        "name": "SuperBand2 - Episode.14",
+        "url": "https://open.spotify.com/album/4MemrlNUxUB6pAntLarfwA"
+      },
+      "artists": [
+        {
+          "name": "KARDI",
+          "url": "https://open.spotify.com/artist/6v8xPUDPu5hQlu0GrYHyOE"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 378552,
+      "name": "Ready to fly",
+      "url": "https://open.spotify.com/track/5ttYMsI4n49mPY8rAfHyrR"
+    },
+    {
+      "album": {
+        "name": "Prince",
+        "url": "https://open.spotify.com/album/1qp1JzVgo7prqBw5mhEla2"
+      },
+      "artists": [
+        {
+          "name": "SORAN",
+          "url": "https://open.spotify.com/artist/7eZGd0sv1TxpOwzyKc9P4R"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194675,
+      "name": "Ricotta Cheese Salad",
+      "url": "https://open.spotify.com/track/6NUGpenOkCz6YPUbm2F4ic"
     },
     {
       "album": {
@@ -1244,6 +2758,24 @@
     },
     {
       "album": {
+        "name": "Silica Gel",
+        "url": "https://open.spotify.com/album/4BzGxha8bh9u2I2nEyUeE9"
+      },
+      "artists": [
+        {
+          "name": "Silica Gel",
+          "url": "https://open.spotify.com/artist/2kxVxKOgoefmgkwoHipHsn"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 321000,
+      "name": "Sister",
+      "url": "https://open.spotify.com/track/7b0138EzonYCs1Ytsk6SvQ"
+    },
+    {
+      "album": {
         "name": "Midnight Cinderella",
         "url": "https://open.spotify.com/album/1GsitueEuLgKyoPftXpgFx"
       },
@@ -1266,6 +2798,132 @@
     },
     {
       "album": {
+        "name": "CRYING NUT 25th Anniversary Best Album",
+        "url": "https://open.spotify.com/album/3LCvmUeoynudUbGfTCPkko"
+      },
+      "artists": [
+        {
+          "name": "Crying Nut",
+          "url": "https://open.spotify.com/artist/0jg8QQ5BExafoPBy7ZyA5t"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273213,
+      "name": "Sooni Heading to the Cosmos - 25th Anniversary Version",
+      "url": "https://open.spotify.com/track/3XSP7ac7CEEjlwpjHejj1D"
+    },
+    {
+      "album": {
+        "name": "BUSAN INTERNATIONAL ROCK FESTIVAL",
+        "url": "https://open.spotify.com/album/67dY021WnfITvMc4ba8eSa"
+      },
+      "artists": [
+        {
+          "name": "SORAN",
+          "url": "https://open.spotify.com/artist/7eZGd0sv1TxpOwzyKc9P4R"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167000,
+      "name": "SORAN(\uc18c\ub780) - Stage Comment 1",
+      "url": "https://open.spotify.com/track/3rsFD1TEJ7r1Ne1tTWaWsC"
+    },
+    {
+      "album": {
+        "name": "BUSAN INTERNATIONAL ROCK FESTIVAL",
+        "url": "https://open.spotify.com/album/67dY021WnfITvMc4ba8eSa"
+      },
+      "artists": [
+        {
+          "name": "SORAN",
+          "url": "https://open.spotify.com/artist/7eZGd0sv1TxpOwzyKc9P4R"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 58000,
+      "name": "SORAN(\uc18c\ub780) - Stage Comment 2",
+      "url": "https://open.spotify.com/track/6u3bPOID1A39fTZm52kdTw"
+    },
+    {
+      "album": {
+        "name": "BUSAN INTERNATIONAL ROCK FESTIVAL",
+        "url": "https://open.spotify.com/album/67dY021WnfITvMc4ba8eSa"
+      },
+      "artists": [
+        {
+          "name": "SORAN",
+          "url": "https://open.spotify.com/artist/7eZGd0sv1TxpOwzyKc9P4R"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 48000,
+      "name": "SORAN(\uc18c\ub780) - Stage Comment 3",
+      "url": "https://open.spotify.com/track/0bk4Scyz5Yya92b7iXl9c6"
+    },
+    {
+      "album": {
+        "name": "BUSAN INTERNATIONAL ROCK FESTIVAL",
+        "url": "https://open.spotify.com/album/67dY021WnfITvMc4ba8eSa"
+      },
+      "artists": [
+        {
+          "name": "SORAN",
+          "url": "https://open.spotify.com/artist/7eZGd0sv1TxpOwzyKc9P4R"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 37000,
+      "name": "SORAN(\uc18c\ub780) - Stage Comment 4",
+      "url": "https://open.spotify.com/track/13RjVUgVJKdOX5IYbcpLJe"
+    },
+    {
+      "album": {
+        "name": "BUSAN INTERNATIONAL ROCK FESTIVAL",
+        "url": "https://open.spotify.com/album/67dY021WnfITvMc4ba8eSa"
+      },
+      "artists": [
+        {
+          "name": "SORAN",
+          "url": "https://open.spotify.com/artist/7eZGd0sv1TxpOwzyKc9P4R"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200000,
+      "name": "SORAN(\uc18c\ub780) - Stage Comment 5",
+      "url": "https://open.spotify.com/track/2wtmTe1x5IXpObeQJBjOr1"
+    },
+    {
+      "album": {
+        "name": "BUSAN INTERNATIONAL ROCK FESTIVAL",
+        "url": "https://open.spotify.com/album/67dY021WnfITvMc4ba8eSa"
+      },
+      "artists": [
+        {
+          "name": "SORAN",
+          "url": "https://open.spotify.com/artist/7eZGd0sv1TxpOwzyKc9P4R"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 29000,
+      "name": "SORAN(\uc18c\ub780) - Stage Comment 6",
+      "url": "https://open.spotify.com/track/7ERcDQq97keaQP0Cjlzknl"
+    },
+    {
+      "album": {
         "name": "Space Angel",
         "url": "https://open.spotify.com/album/7JQ4RpDyrALnQARIzyJQ07"
       },
@@ -1285,6 +2943,24 @@
       "duration_ms": 412639,
       "name": "Space Angel",
       "url": "https://open.spotify.com/track/0K7HJKwvOaOKhsfOH7ArIk"
+    },
+    {
+      "album": {
+        "name": "CRYING NUT 25th Anniversary Best Album",
+        "url": "https://open.spotify.com/album/3LCvmUeoynudUbGfTCPkko"
+      },
+      "artists": [
+        {
+          "name": "Crying Nut",
+          "url": "https://open.spotify.com/artist/0jg8QQ5BExafoPBy7ZyA5t"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182986,
+      "name": "Speed Up Losers - 25th Anniversary Version",
+      "url": "https://open.spotify.com/track/5shGjesP0bcFBjvxsHP2yT"
     },
     {
       "album": {
@@ -1324,6 +3000,24 @@
     },
     {
       "album": {
+        "name": "MONKEY HOTEL",
+        "url": "https://open.spotify.com/album/7l4uULQ4qODIw5MSlLDM3r"
+      },
+      "artists": [
+        {
+          "name": "JANNABI",
+          "url": "https://open.spotify.com/artist/2SY6OktZyMLdOnscX3DCyS"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243000,
+      "name": "Summer",
+      "url": "https://open.spotify.com/track/4JmRth9mDEINhUNIpDYLQi"
+    },
+    {
+      "album": {
         "name": "The Volunteers",
         "url": "https://open.spotify.com/album/0hwXFwuvVfZwn6asTargTD"
       },
@@ -1357,6 +3051,64 @@
       "duration_ms": 243373,
       "name": "Summer For You",
       "url": "https://open.spotify.com/track/1i2mGWu5fJCUEW6yFHYokf"
+    },
+    {
+      "album": {
+        "name": "The Land of Fantasy",
+        "url": "https://open.spotify.com/album/3AqaCmFab2u1su982CnoQE"
+      },
+      "artists": [
+        {
+          "name": "JANNABI",
+          "url": "https://open.spotify.com/artist/2SY6OktZyMLdOnscX3DCyS"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286999,
+      "name": "Summer ll",
+      "url": "https://open.spotify.com/track/1MtLs4Z7UeaGArSWPKMpAA"
+    },
+    {
+      "album": {
+        "name": "Sweet Violet Flame",
+        "url": "https://open.spotify.com/album/2WQHK8zN9wCopxSGPKZFdG"
+      },
+      "artists": [
+        {
+          "name": "hathaw9y",
+          "url": "https://open.spotify.com/artist/2G2Jiy00NjBxfbex9wXkeN"
+        },
+        {
+          "name": "Seulhan Koo",
+          "url": "https://open.spotify.com/artist/6d1ogGM3Uc7jhpRWWd1t92"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213826,
+      "name": "Sweet (feat. Seulhan Koo)",
+      "url": "https://open.spotify.com/track/6oBDFqc4gitPNRfH5F5pZq"
+    },
+    {
+      "album": {
+        "name": "Taxi",
+        "url": "https://open.spotify.com/album/0NcUqsLQjkVQfIQGOXbyjB"
+      },
+      "artists": [
+        {
+          "name": "Hwanho",
+          "url": "https://open.spotify.com/artist/3PIsLQ22l4FXjkpyua0L3n"
+        }
+      ],
+      "date_added": "2022-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230500,
+      "name": "Taxi",
+      "url": "https://open.spotify.com/track/0ahGmXLKdNeji12zTQYp0T"
     },
     {
       "album": {
@@ -1429,6 +3181,78 @@
       "duration_ms": 284250,
       "name": "The Wave",
       "url": "https://open.spotify.com/track/0ZlIv0GSqYEKQK5Zf5cZTM"
+    },
+    {
+      "album": {
+        "name": "BUSAN INTERNATIONAL ROCK FESTIVAL",
+        "url": "https://open.spotify.com/album/67dY021WnfITvMc4ba8eSa"
+      },
+      "artists": [
+        {
+          "name": "THORNAPPLE",
+          "url": "https://open.spotify.com/artist/6S4fsREHT1NEjTb3lYD2pG"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 39000,
+      "name": "THORNAPPLE(\uc3dc\uc560\ud50c) - Stage Comment 1",
+      "url": "https://open.spotify.com/track/6sAxXZbYnu8zdLJUoaRF39"
+    },
+    {
+      "album": {
+        "name": "BUSAN INTERNATIONAL ROCK FESTIVAL",
+        "url": "https://open.spotify.com/album/67dY021WnfITvMc4ba8eSa"
+      },
+      "artists": [
+        {
+          "name": "THORNAPPLE",
+          "url": "https://open.spotify.com/artist/6S4fsREHT1NEjTb3lYD2pG"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 66000,
+      "name": "THORNAPPLE(\uc3dc\uc560\ud50c) - Stage Comment 2",
+      "url": "https://open.spotify.com/track/7E8Z0oOsZHlCmkyBJg6iZc"
+    },
+    {
+      "album": {
+        "name": "Friendzone",
+        "url": "https://open.spotify.com/album/4WLwRi2w6XzOnCQfupjl2Q"
+      },
+      "artists": [
+        {
+          "name": "Minsu",
+          "url": "https://open.spotify.com/artist/1o13ZguNtAOcOe1k0chkta"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224749,
+      "name": "Time Out",
+      "url": "https://open.spotify.com/track/3NW79QWH1WCQdIofrvM1Ph"
+    },
+    {
+      "album": {
+        "name": "Let\u2019s Part",
+        "url": "https://open.spotify.com/album/1gtx8gQjltBxIWjmk87QpB"
+      },
+      "artists": [
+        {
+          "name": "NELL",
+          "url": "https://open.spotify.com/artist/5WY88tCMFA6J6vqSN3MmDZ"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 389853,
+      "name": "Time Walking on Memories",
+      "url": "https://open.spotify.com/track/6XkrfYmgPGSvgufoivTQgj"
     },
     {
       "album": {
@@ -1512,6 +3336,24 @@
     },
     {
       "album": {
+        "name": "Sweet Violet Flame",
+        "url": "https://open.spotify.com/album/2WQHK8zN9wCopxSGPKZFdG"
+      },
+      "artists": [
+        {
+          "name": "hathaw9y",
+          "url": "https://open.spotify.com/artist/2G2Jiy00NjBxfbex9wXkeN"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305280,
+      "name": "Violet",
+      "url": "https://open.spotify.com/track/2PKkTvDA6TDs96Hm7I0YAG"
+    },
+    {
+      "album": {
         "name": "Warm on a Cold Night (Deluxe)",
         "url": "https://open.spotify.com/album/6hmakfMxhTWYmSUed1HPFA"
       },
@@ -1570,6 +3412,60 @@
     },
     {
       "album": {
+        "name": "Bigger, Better, Faster, More !",
+        "url": "https://open.spotify.com/album/2P8M5eo4zWFD0JJtH4D0iA"
+      },
+      "artists": [
+        {
+          "name": "4 Non Blondes",
+          "url": "https://open.spotify.com/artist/0Je74SitssvJg1w4Ra2EK7"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295533,
+      "name": "What's Up?",
+      "url": "https://open.spotify.com/track/0jWgAnTrNZmOGmqgvHhZEm"
+    },
+    {
+      "album": {
+        "name": "EMOTION AND HARMONY",
+        "url": "https://open.spotify.com/album/03ikfIg0GxnNMlFl6wlKLi"
+      },
+      "artists": [
+        {
+          "name": "Batu",
+          "url": "https://open.spotify.com/artist/46KDmhUlDVGGuku0s3n06t"
+        }
+      ],
+      "date_added": "2022-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283033,
+      "name": "WINDFALL",
+      "url": "https://open.spotify.com/track/4vDQif49Q72QYDvv6wY3Jm"
+    },
+    {
+      "album": {
+        "name": "Enlightenment",
+        "url": "https://open.spotify.com/album/5mfhM5hlMcZdpuR0h4No0D"
+      },
+      "artists": [
+        {
+          "name": "THORNAPPLE",
+          "url": "https://open.spotify.com/artist/6S4fsREHT1NEjTb3lYD2pG"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232146,
+      "name": "Witchcraft",
+      "url": "https://open.spotify.com/track/3EpkN5BvfFEGAEBaZtMPaJ"
+    },
+    {
+      "album": {
         "name": "Oh Wonder",
         "url": "https://open.spotify.com/album/37ABUtLPqktcopsBJ7jmXT"
       },
@@ -1585,6 +3481,78 @@
       "duration_ms": 224740,
       "name": "Without You",
       "url": "https://open.spotify.com/track/0IVHlst3XMgzXUJbIyZ8oO"
+    },
+    {
+      "album": {
+        "name": "Woo Scribbling Night",
+        "url": "https://open.spotify.com/album/577g4XzgzSG0qBNABsCQ6q"
+      },
+      "artists": [
+        {
+          "name": "hathaw9y",
+          "url": "https://open.spotify.com/artist/2G2Jiy00NjBxfbex9wXkeN"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262360,
+      "name": "Woo",
+      "url": "https://open.spotify.com/track/20nbfwaPPCQLacQpF9thu5"
+    },
+    {
+      "album": {
+        "name": "XXLove",
+        "url": "https://open.spotify.com/album/0breiCTj1nIZwIS261yCPu"
+      },
+      "artists": [
+        {
+          "name": "Minsu",
+          "url": "https://open.spotify.com/artist/1o13ZguNtAOcOe1k0chkta"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199597,
+      "name": "XXLove",
+      "url": "https://open.spotify.com/track/6PFaG6SDFJ9SwrXX6rPBYU"
+    },
+    {
+      "album": {
+        "name": "You Are My Universe",
+        "url": "https://open.spotify.com/album/1j1teMefag7nMbcWTzBFlJ"
+      },
+      "artists": [
+        {
+          "name": "Low Hanging Fruits",
+          "url": "https://open.spotify.com/artist/7KfFnqnCwvQ8NXL2a8avAu"
+        }
+      ],
+      "date_added": "2022-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275500,
+      "name": "You Are My Universe",
+      "url": "https://open.spotify.com/track/637WqBLI6CPZCDZhw24WWs"
+    },
+    {
+      "album": {
+        "name": "OST",
+        "url": "https://open.spotify.com/album/5azoxbgGTCqwqgpiirrctu"
+      },
+      "artists": [
+        {
+          "name": "I Mean Us",
+          "url": "https://open.spotify.com/artist/6FGSUph2Uv0yi2oM1hDV78"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 325444,
+      "name": "You So (Youth Soul)",
+      "url": "https://open.spotify.com/track/6desVkqsKDt0ZHLqPcWcbZ"
     },
     {
       "album": {
@@ -1621,6 +3589,24 @@
       "duration_ms": 205533,
       "name": "\u0e15\u0e19",
       "url": "https://open.spotify.com/track/3eLME8AQLetptw2Hj0JRE2"
+    },
+    {
+      "album": {
+        "name": "\ub2e4\uc74c\uc5d0 \uc798\ud558\uc790 Let\u2019s Do Better Next Time",
+        "url": "https://open.spotify.com/album/2CtFXOQViMjCU90PbffaO1"
+      },
+      "artists": [
+        {
+          "name": "Crying Nut",
+          "url": "https://open.spotify.com/artist/0jg8QQ5BExafoPBy7ZyA5t"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175728,
+      "name": "\u1103\u1161\u110b\u1173\u11b7\u110b\u1166 \u110c\u1161\u11af\u1112\u1161\u110c\u1161 Let\u2019s Do Better Next Time",
+      "url": "https://open.spotify.com/track/7zli3HeoEKEtf0C2HMZ4zd"
     },
     {
       "album": {
@@ -1714,6 +3700,24 @@
     },
     {
       "album": {
+        "name": "Into Innerverse",
+        "url": "https://open.spotify.com/album/0YCxq2nT2BLL9vSCsQEFNX"
+      },
+      "artists": [
+        {
+          "name": "I Mean Us",
+          "url": "https://open.spotify.com/artist/6FGSUph2Uv0yi2oM1hDV78"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270498,
+      "name": "\u666e\u901a\u4eba\u985e",
+      "url": "https://open.spotify.com/track/6h29vWCiFwBPnpDp40Z0yE"
+    },
+    {
+      "album": {
         "name": "\u666e\u901a\u4eba\u985e",
         "url": "https://open.spotify.com/album/67oS4pQ31kmSwAFCMGiM2b"
       },
@@ -1729,6 +3733,42 @@
       "duration_ms": 275283,
       "name": "\u666e\u901a\u4eba\u985e",
       "url": "https://open.spotify.com/track/5rn3NO1vtp9Ph96caHuVHl"
+    },
+    {
+      "album": {
+        "name": "\uadf8\ub54c\ub294 \uc65c \ubab0\ub790\uc744\uae4c",
+        "url": "https://open.spotify.com/album/2nveIkdVfDd3IlO1g0W4sy"
+      },
+      "artists": [
+        {
+          "name": "SORAN",
+          "url": "https://open.spotify.com/artist/7eZGd0sv1TxpOwzyKc9P4R"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177560,
+      "name": "\uac00\uc744\ubaa9\uc774",
+      "url": "https://open.spotify.com/track/6EGAM4UTKM6yr5sMFJE5KM"
+    },
+    {
+      "album": {
+        "name": "Noise on Fire (Remastered)",
+        "url": "https://open.spotify.com/album/5OiizE4CuzR6iez0imn8lQ"
+      },
+      "artists": [
+        {
+          "name": "Galaxy Express",
+          "url": "https://open.spotify.com/artist/3HbmUr6CJxkk0YGkxeNpMp"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283173,
+      "name": "\uac1c\uad6c\uc7c1\uc774 Naughty Boy (\uc0b0\uc6b8\ub9bc Sanullim Tribute)",
+      "url": "https://open.spotify.com/track/4vKPB5Cg755oXI8ET2eDCa"
     },
     {
       "album": {
@@ -1768,6 +3808,96 @@
     },
     {
       "album": {
+        "name": "Noise on Fire (Remastered)",
+        "url": "https://open.spotify.com/album/5OiizE4CuzR6iez0imn8lQ"
+      },
+      "artists": [
+        {
+          "name": "Galaxy Express",
+          "url": "https://open.spotify.com/artist/3HbmUr6CJxkk0YGkxeNpMp"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259866,
+      "name": "\ub09c \uc5b4\ub514\ub85c Where Am I Going",
+      "url": "https://open.spotify.com/track/48olrtFEJvEXMrUu9b1XHI"
+    },
+    {
+      "album": {
+        "name": "\uc11c\ucee4\uc2a4 \ub9e4\uc9c1 \uc720\ub791\ub2e8",
+        "url": "https://open.spotify.com/album/3ETdw0CvCfrbLAQFe8UbMo"
+      },
+      "artists": [
+        {
+          "name": "\ud06c\ub77c\uc789\ub11b",
+          "url": "https://open.spotify.com/artist/1SGNqDSdlxbsgJkyoDZiwY"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 408999,
+      "name": "\ub2e4\uc8fd\uc790",
+      "url": "https://open.spotify.com/track/5zElW3dIf8kuVjd9ak82MQ"
+    },
+    {
+      "album": {
+        "name": "\ub098\ub294 \uac00\uc218\ub2e4 2 2012 \uac00\uc655\uc804 \uac1c\ub9c9\uc81c",
+        "url": "https://open.spotify.com/album/2Wz7LaK00NEFJBIu6GZTBM"
+      },
+      "artists": [
+        {
+          "name": "Park Wan Kyu",
+          "url": "https://open.spotify.com/artist/3QUst1HlAmRuM48c5n5HSB"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292408,
+      "name": "\ube44\ubc00",
+      "url": "https://open.spotify.com/track/4NqSFrKgTTMv846p4hIrvF"
+    },
+    {
+      "album": {
+        "name": "The Best Of Born Again",
+        "url": "https://open.spotify.com/album/4rvxxZJ12vnJgPLCsIM2AN"
+      },
+      "artists": [
+        {
+          "name": "\ubd80\ud65c",
+          "url": "https://open.spotify.com/artist/1aQ0ylOjvfZSuvUjTRGfha"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 361848,
+      "name": "\ube44\uc640 \ub2f9\uc2e0\uc758 \uc774\uc57c\uae30",
+      "url": "https://open.spotify.com/track/4YvWV2TfZkrUYS6Th28iKB"
+    },
+    {
+      "album": {
+        "name": "Color",
+        "url": "https://open.spotify.com/album/5jzebpTutPXBN69mZOwzQy"
+      },
+      "artists": [
+        {
+          "name": "BOOHWAL",
+          "url": "https://open.spotify.com/artist/2LtEDRKi75vGtsfdy205jX"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250906,
+      "name": "\uc0ac\ub791\ud560\uc218\ub85d",
+      "url": "https://open.spotify.com/track/30GH7aoSEBD9YmgSy83K85"
+    },
+    {
+      "album": {
         "name": "\uae30\uc5b5\uc0c1\uc2e4",
         "url": "https://open.spotify.com/album/6fQp1ErGeFDBpDXJjkWgsF"
       },
@@ -1783,6 +3913,42 @@
       "duration_ms": 279228,
       "name": "\uc0ac\ub791\ud560\uc218\ub85d",
       "url": "https://open.spotify.com/track/5R7CMPvfSM0RdBYTFuKlDt"
+    },
+    {
+      "album": {
+        "name": "\uc0c8\ubcbd",
+        "url": "https://open.spotify.com/album/4nc43iXhWaylkGhKdVsKyH"
+      },
+      "artists": [
+        {
+          "name": "BOOHWAL",
+          "url": "https://open.spotify.com/artist/2LtEDRKi75vGtsfdy205jX"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 345826,
+      "name": "\uc0c8\ubcbd",
+      "url": "https://open.spotify.com/track/2ZdGFdWRNryQsUe36wqprU"
+    },
+    {
+      "album": {
+        "name": "\uc0dd\uac01\uc5c6\ub294\uc0dd\uac01\uc5d0\ud138\uc369\uba38\ubb34\ub974\uc790 Mindless mind",
+        "url": "https://open.spotify.com/album/7lGC2tpIRttYuRWGazMQP2"
+      },
+      "artists": [
+        {
+          "name": "Jisokury",
+          "url": "https://open.spotify.com/artist/4CIo3JKWdZi41ZKLlSjlyO"
+        }
+      ],
+      "date_added": "2022-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255000,
+      "name": "\uc0dd\uac01\uc5c6\ub294\uc0dd\uac01\uc5d0\ud138\uc369\uba38\ubb34\ub974\uc790 Mindless mind",
+      "url": "https://open.spotify.com/track/5oKr4zxLZxe4rNj2SrzWYR"
     },
     {
       "album": {
@@ -1804,6 +3970,168 @@
     },
     {
       "album": {
+        "name": "BUSAN INTERNATIONAL ROCK FESTIVAL",
+        "url": "https://open.spotify.com/album/67dY021WnfITvMc4ba8eSa"
+      },
+      "artists": [
+        {
+          "name": "\uc2e4\ub9ac\uce74\uac94",
+          "url": "https://open.spotify.com/artist/5b8FRX78ua1KgccYUyGhkI"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136000,
+      "name": "\uc2e4\ub9ac\uce74\uac94(Silica Gel) - Stage Comment 1",
+      "url": "https://open.spotify.com/track/4DdrNOYcdjRI7J8naGp99n"
+    },
+    {
+      "album": {
+        "name": "BUSAN INTERNATIONAL ROCK FESTIVAL",
+        "url": "https://open.spotify.com/album/67dY021WnfITvMc4ba8eSa"
+      },
+      "artists": [
+        {
+          "name": "\uc2e4\ub9ac\uce74\uac94",
+          "url": "https://open.spotify.com/artist/5b8FRX78ua1KgccYUyGhkI"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 10000,
+      "name": "\uc2e4\ub9ac\uce74\uac94(Silica Gel) - Stage Comment 2",
+      "url": "https://open.spotify.com/track/4Eyqwmn7w4yJwLunvAICQ4"
+    },
+    {
+      "album": {
+        "name": "BUSAN INTERNATIONAL ROCK FESTIVAL",
+        "url": "https://open.spotify.com/album/67dY021WnfITvMc4ba8eSa"
+      },
+      "artists": [
+        {
+          "name": "\uc2e4\ub9ac\uce74\uac94",
+          "url": "https://open.spotify.com/artist/5b8FRX78ua1KgccYUyGhkI"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 16000,
+      "name": "\uc2e4\ub9ac\uce74\uac94(Silica Gel) - Stage Comment 3",
+      "url": "https://open.spotify.com/track/62r1jQnlMCWBIy1SZsXZZB"
+    },
+    {
+      "album": {
+        "name": "Crying Nut Best Wild Wild Live",
+        "url": "https://open.spotify.com/album/7nX1dCQhdkx2AmjHD1zDs7"
+      },
+      "artists": [
+        {
+          "name": "Crying Nut",
+          "url": "https://open.spotify.com/artist/0jg8QQ5BExafoPBy7ZyA5t"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 350226,
+      "name": "\uc591\uadc0\ube44 The Poppy",
+      "url": "https://open.spotify.com/track/65j1eKKJGoEB4HM5YtVYpM"
+    },
+    {
+      "album": {
+        "name": "\uc80a\uc740 \uadf8\ub300",
+        "url": "https://open.spotify.com/album/2MZywjUwxsoFJp0jb8vJcy"
+      },
+      "artists": [
+        {
+          "name": "Kim Soo Cheol",
+          "url": "https://open.spotify.com/artist/1a53QOnOG1EJ6ppKrnM97t"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209818,
+      "name": "\uc80a\uc740 \uadf8\ub300",
+      "url": "https://open.spotify.com/track/2aWPMTVKeDlNdOmqwVTOqC"
+    },
+    {
+      "album": {
+        "name": "Crying Nut Best Wild Wild Live",
+        "url": "https://open.spotify.com/album/7nX1dCQhdkx2AmjHD1zDs7"
+      },
+      "artists": [
+        {
+          "name": "Crying Nut",
+          "url": "https://open.spotify.com/artist/0jg8QQ5BExafoPBy7ZyA5t"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211400,
+      "name": "\uc9c0\ub3c5\ud55c \ub178\ub798 Vicious Song",
+      "url": "https://open.spotify.com/track/3u2t2rtIJiTcGB5yaA7CQ4"
+    },
+    {
+      "album": {
+        "name": "Wild Days",
+        "url": "https://open.spotify.com/album/7qwDqrXWJZZuLuCoqBu7Qz"
+      },
+      "artists": [
+        {
+          "name": "Galaxy Express",
+          "url": "https://open.spotify.com/artist/3HbmUr6CJxkk0YGkxeNpMp"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241840,
+      "name": "\uc9c4\uc9dc \ub108\ub97c \uc6d0\ud574 Really Want You",
+      "url": "https://open.spotify.com/track/2me6Z1ck5Q5Z3zTIYuZ5yS"
+    },
+    {
+      "album": {
+        "name": "\ud06c\ub77c\uc789\ub11b 25\uc8fc\ub144 \uae30\ub150 \ubca0\uc2a4\ud2b8\uc568\ubc94 Pt. 1 - Oh! What a Shiny Night",
+        "url": "https://open.spotify.com/album/2O4XdnQVEMnUPso26440q7"
+      },
+      "artists": [
+        {
+          "name": "Crying Nut",
+          "url": "https://open.spotify.com/artist/0jg8QQ5BExafoPBy7ZyA5t"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255106,
+      "name": "\ud06c\ub77c\uc789\ub11b 25\uc8fc\ub144 \uae30\ub150 \ubca0\uc2a4\ud2b8\uc568\ubc94 Pt. 1 - Oh! What a Shiny Night - 25th Anniversary Version",
+      "url": "https://open.spotify.com/track/0BmOpXHsxWztFjoTz2q2IE"
+    },
+    {
+      "album": {
+        "name": "Crying Nut Best Wild Wild Live",
+        "url": "https://open.spotify.com/album/7nX1dCQhdkx2AmjHD1zDs7"
+      },
+      "artists": [
+        {
+          "name": "Crying Nut",
+          "url": "https://open.spotify.com/artist/0jg8QQ5BExafoPBy7ZyA5t"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170040,
+      "name": "\ud391\ud06c\uac78 Punk Girl",
+      "url": "https://open.spotify.com/track/6tKgjhRA8gS61JBZm4DqQf"
+    },
+    {
+      "album": {
         "name": "Circle",
         "url": "https://open.spotify.com/album/2pzBzC03HzbNnjKNFrdb87"
       },
@@ -1819,6 +4147,42 @@
       "duration_ms": 196231,
       "name": "\ud478\ub978 \uc591\ucca0 \uc2a4\ucfe0\ud130",
       "url": "https://open.spotify.com/track/7239i16Nl443yMpjXa6TFk"
+    },
+    {
+      "album": {
+        "name": "SuperBand2 - Episode.14",
+        "url": "https://open.spotify.com/album/4MemrlNUxUB6pAntLarfwA"
+      },
+      "artists": [
+        {
+          "name": "CNEMA",
+          "url": "https://open.spotify.com/artist/1rH9ZFWkeghhAktUmri9O6"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 382354,
+      "name": "\ud56d\ud574(Far away)",
+      "url": "https://open.spotify.com/track/2mPbK7MvB81iCKbT36634f"
+    },
+    {
+      "album": {
+        "name": "\ud638\ub871\ubd88 Oil Lamp",
+        "url": "https://open.spotify.com/album/5pgVYAa5iUAx2KMOtmv1v9"
+      },
+      "artists": [
+        {
+          "name": "Galaxy Express",
+          "url": "https://open.spotify.com/artist/3HbmUr6CJxkk0YGkxeNpMp"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285066,
+      "name": "\ud638\ub871\ubd88 Oil Lamp",
+      "url": "https://open.spotify.com/track/0XcYZw7nnNXnNAuG0szax9"
     },
     {
       "album": {

@@ -160,6 +160,24 @@
     },
     {
       "album": {
+        "name": "Feel's Like I'm in Love (Remastered 2022)",
+        "url": "https://open.spotify.com/album/2yOFiqdWuDz5b5jV53LjJp"
+      },
+      "artists": [
+        {
+          "name": "Kelly Marie",
+          "url": "https://open.spotify.com/artist/5lD4NOWjS7yf69zIK46Chy"
+        }
+      ],
+      "date_added": "2019-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256665,
+      "name": "Feel's Like I'm in Love (Remastered 2022)",
+      "url": "https://open.spotify.com/track/4BsfjNW3pyRIk5hWiQXKjE"
+    },
+    {
+      "album": {
         "name": "Feels Like I'm in Love",
         "url": "https://open.spotify.com/album/2Qg2gDjtzgtCVcokMRS7Wv"
       },
@@ -171,7 +189,7 @@
       ],
       "date_added": "2019-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-07",
       "duration_ms": 256666,
       "name": "Feels Like I'm in Love",
       "url": "https://open.spotify.com/track/3Swc1delyFn1fwPDkInUhC"

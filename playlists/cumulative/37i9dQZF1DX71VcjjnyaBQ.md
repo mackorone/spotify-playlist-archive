@@ -4,7 +4,7 @@
 
 > Jazz for breakfast to start your day right.
 
-150 songs - 13 hr 15 min - [published](https://open.spotify.com/playlist/00KxmXWSXPzcN3QrlgmEa1)
+151 songs - 13 hr 18 min - [published](https://open.spotify.com/playlist/00KxmXWSXPzcN3QrlgmEa1)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,7 @@
 | [Blues Arabesque](https://open.spotify.com/track/57SLXKt2uZ9eA9VDkf2mqC) | [Snorre Kirk](https://open.spotify.com/artist/1QgZiL5uQ3WN1sMkmbVaGM), [Stephen Riley](https://open.spotify.com/artist/6r96KF2Ucx8cUwBvgnxRYD) | [Going Up](https://open.spotify.com/album/2Jsv8fQJq9yvJoUjjvKqqV) | 4:40 | 2021-12-21 |  |
 | [Blues Walk](https://open.spotify.com/track/7dMWiyYYkxNC0mz90Ni9L3) | [Lou Donaldson](https://open.spotify.com/artist/063xkuRULzZu8fcoPR2rKR) | [Blues Walk](https://open.spotify.com/album/05dECqC2jTJKERNKAOykqk) | 6:43 | 2021-12-21 | 2022-04-21 |
 | [Bluesen](https://open.spotify.com/track/4q4emoW3IX2eHhY3sVkudj) | [Svaneborg Kardyb](https://open.spotify.com/artist/2aGCFk3Mvhs9Am7JHwoyRr) | [Haven](https://open.spotify.com/album/1a7WanJ8OXUHZsbIlJZLDb) | 2:57 | 2021-12-21 |  |
-| [Bolo Blues](https://open.spotify.com/track/0aTlJ59aJoZ27Ghrhp2hqq) | [Jimmy Forrest](https://open.spotify.com/artist/2AdOGwpXiwCctV1n9sJaub) | [Presenting Jimmy Forrest](https://open.spotify.com/album/3PKLsD2Wne8PaE68ILMgPv) | 4:09 | 2022-09-27 |  |
+| [Bolo Blues](https://open.spotify.com/track/0aTlJ59aJoZ27Ghrhp2hqq) | [Jimmy Forrest](https://open.spotify.com/artist/2AdOGwpXiwCctV1n9sJaub) | [Presenting Jimmy Forrest](https://open.spotify.com/album/3PKLsD2Wne8PaE68ILMgPv) | 4:09 | 2022-09-27 | 2022-10-03 |
 | [Bolo Blues](https://open.spotify.com/track/1vBY6A7DpKaA8YSDvvlUUG) | [Jimmy Forrest](https://open.spotify.com/artist/2AdOGwpXiwCctV1n9sJaub) | [Holiday in the Sun \- Summer Dreaming](https://open.spotify.com/album/7HFeWGNvrCE6iKR3J3YUVX) | 4:09 | 2021-12-21 | 2022-07-26 |
 | [Boo's Blues](https://open.spotify.com/track/69eOQr9N0AQm8lGJMBHyAr) | [Julian Lage](https://open.spotify.com/artist/2TSuAchdgVzsAa9wDK1IeT) | [Boo's Blues](https://open.spotify.com/album/7cLgwx3J525qJrIbYOohuU) | 3:25 | 2022-02-10 |  |
 | [Bubbles](https://open.spotify.com/track/3GGslX17J2F3IzVE5yIiRJ) | [Jacob Karlzon](https://open.spotify.com/artist/3R4vdaqhh9jn2fOCned9nM) | [Jacob Karlzon Trio: Today](https://open.spotify.com/album/10ZG1HoTjvzHzq7kvATtMm) | 5:06 | 2022-06-30 |  |
@@ -147,6 +147,7 @@
 | [Tubby Chaser](https://open.spotify.com/track/4PrgpZoUYGKBqhyGpVYJMX) | [Chip Wickham](https://open.spotify.com/artist/62MkXCxcZ345tVUHsD9NK0) | [Cloud 10](https://open.spotify.com/album/5LF1imfGu2b4OXKIZRXiun) | 8:33 | 2022-09-27 |  |
 | [Velvet Gloves & Spit](https://open.spotify.com/track/28nqRn3qpWokvnhGfXwbEf) | [Michael Wollny](https://open.spotify.com/artist/7MbjIv3XpMc2ciNcoWHFcS) | [Velvet Gloves & Spit](https://open.spotify.com/album/4xAd50gOzhbIldhrmYAJWK) | 2:43 | 2021-12-21 | 2022-07-29 |
 | [Velvet Gloves & Spit](https://open.spotify.com/track/5AbvIJTlfp52S6b9WipNBC) | [Michael Wollny](https://open.spotify.com/artist/7MbjIv3XpMc2ciNcoWHFcS) | [Mondenkind](https://open.spotify.com/album/1s27PprVQ7RNFHxsWa6RhQ) | 2:43 | 2022-06-30 |  |
+| [Waltz for Hal Willner](https://open.spotify.com/track/5GiqJaoSZn8pMpYztkKeR1) | [Bill Frisell](https://open.spotify.com/artist/3SONlwqLIP2GtaMh9pLYe5) | [Waltz for Hal Willner](https://open.spotify.com/album/3UJN3LrJVHiPnAuneBgCSK) | 2:47 | 2022-09-29 |  |
 | [When I Fell for You](https://open.spotify.com/track/5o7zflAK8LxDYuqpSDmwhM) | [David Hazeltine](https://open.spotify.com/artist/5mQGacj97PLCoX9YOEGf0Q) | [When I Fell for You](https://open.spotify.com/album/6v6O5lQqx8E3PqENPC7hAk) | 5:22 | 2022-02-10 |  |
 | [Where or When](https://open.spotify.com/track/3b1J3QbTTDXcxB4EmIWY17) | [Armel Dupas Trio](https://open.spotify.com/artist/6Bnvdx2Rqxe2ewzFxObRdU) | [Where or When](https://open.spotify.com/album/1qYy2VgAlQ0yPQf4C5TWDo) | 3:50 | 2022-08-29 |  |
 | [Where We Belong](https://open.spotify.com/track/4LRIGcp9jELNiscAhEc2XI) | [Thomas Fonnesbæk](https://open.spotify.com/artist/2GWMZZQNuU0VZra0suXVph), [Lars Jansson](https://open.spotify.com/artist/1kW3Vmt2UDZfYhc9So72dS), [Paul Svanberg](https://open.spotify.com/artist/7KfU9kgLyulNPcW5ZBlPRX) | [Where We Belong](https://open.spotify.com/album/1klyqyo9Ychh0ItzQDgrox) | 6:11 | 2021-12-21 |  |

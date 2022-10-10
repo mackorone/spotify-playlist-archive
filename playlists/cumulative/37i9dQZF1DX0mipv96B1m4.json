@@ -2,7 +2,9 @@
   "date_first_scraped": "2022-10-01",
   "description": "Top flight Caribbean influenced bangers made in Uganda ",
   "name": "Kidandali Parte",
-  "published_playlist_ids": [],
+  "published_playlist_ids": [
+    "46IiJHvMHpIvKHbQ9JVNFO"
+  ],
   "tracks": [
     {
       "album": {
@@ -21,7 +23,7 @@
       ],
       "date_added": "2022-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-07",
       "duration_ms": 197386,
       "name": "Am Loving",
       "url": "https://open.spotify.com/track/0kS6qRrKqO8zMMoAkrbGvH"
@@ -197,7 +199,7 @@
       ],
       "date_added": "2022-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-07",
       "duration_ms": 220408,
       "name": "Born To Love You - 2020 Remix",
       "url": "https://open.spotify.com/track/5qJo1Tflqbi1XHj76W3rJZ"
@@ -241,6 +243,28 @@
       "duration_ms": 173270,
       "name": "Boy Fire",
       "url": "https://open.spotify.com/track/5LZjRcsQchkrv6PmCn0Uee"
+    },
+    {
+      "album": {
+        "name": "Second of All",
+        "url": "https://open.spotify.com/album/6fQ2qZ4ebEVMb8JExLVPvh"
+      },
+      "artists": [
+        {
+          "name": "Deejay Xp",
+          "url": "https://open.spotify.com/artist/7gmTONU8S6bnoJN21uHNMj"
+        },
+        {
+          "name": "Vyper Ranking",
+          "url": "https://open.spotify.com/artist/5oqBr2TaQCIsLGIDNGyexQ"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176400,
+      "name": "Bubble Up",
+      "url": "https://open.spotify.com/track/6ys37R562Bjkk6cddXH3m0"
     },
     {
       "album": {
@@ -520,6 +544,28 @@
     },
     {
       "album": {
+        "name": "King Kong",
+        "url": "https://open.spotify.com/album/42INLd6X6znuImjQc0jw2R"
+      },
+      "artists": [
+        {
+          "name": "Fik Fameica",
+          "url": "https://open.spotify.com/artist/4pTCPk9pqZ06ggZvk7F4Z5"
+        },
+        {
+          "name": "Geosteady1",
+          "url": "https://open.spotify.com/artist/2RlWVKmzxjwaq6wMR1QUNu"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217704,
+      "name": "Izulu",
+      "url": "https://open.spotify.com/track/6bnLZdjBcPr02eVoQDUbRq"
+    },
+    {
+      "album": {
         "name": "Kila Migino",
         "url": "https://open.spotify.com/album/5enxzC7Dx4xM8Ra3MxjQjs"
       },
@@ -703,7 +749,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-07",
       "duration_ms": 169090,
       "name": "Muyaayu",
       "url": "https://open.spotify.com/track/68gQO1BECQ352XA7MQ1faT"
@@ -787,6 +833,24 @@
       "duration_ms": 181890,
       "name": "Nkwatewa",
       "url": "https://open.spotify.com/track/4fvpUiaak8u4jjcW9WQCJg"
+    },
+    {
+      "album": {
+        "name": "Nsudiya",
+        "url": "https://open.spotify.com/album/6Yi9cEkIT7Nuskrip7ozGV"
+      },
+      "artists": [
+        {
+          "name": "Aroma Music",
+          "url": "https://open.spotify.com/artist/7sQ73ctV0zhIB3tBq54co2"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165429,
+      "name": "Nsudiya",
+      "url": "https://open.spotify.com/track/3mvoKv50cFaPnO47kett6D"
     },
     {
       "album": {

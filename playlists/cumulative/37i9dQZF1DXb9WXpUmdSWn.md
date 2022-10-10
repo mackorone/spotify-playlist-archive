@@ -4,7 +4,7 @@
 
 > Fresh takes \- from new revisions and iconic covers to unexpected versions and the songwriter's owner covers.
 
-52 songs - 3 hr 11 min - [published](https://open.spotify.com/playlist/0Ij2p11ySRhLverD0eg7Nv)
+53 songs - 3 hr 13 min - [published](https://open.spotify.com/playlist/0Ij2p11ySRhLverD0eg7Nv)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,8 @@
 | [Bridge Over Troubled Water](https://open.spotify.com/track/0gaZi6J3Pk7FG7GNMHsK5o) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [That's the Way It Is](https://open.spotify.com/album/5Daouulcid6tWztS39KWhc) | 4:35 | 2022-01-21 |  |
 | [Bridge Over Troubled Water](https://open.spotify.com/track/3e0qSxu1fNPzDlwqWN3cBD) | [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x) | [American IV: The Man Comes Around](https://open.spotify.com/album/2BlL4Gv2DLPu8p58Wcmlm9) | 3:54 | 2022-01-21 |  |
 | [Cecilia](https://open.spotify.com/track/47t7MRzHXJ3mnL3TjN6a8J) | [Oliver Hazard](https://open.spotify.com/artist/3F4iXxXxe7iazo3Jnwucng) | [Cecilia](https://open.spotify.com/album/5ruxIkJ6nUwvGo30icvE1k) | 2:29 | 2022-01-21 |  |
-| [Cecilia](https://open.spotify.com/track/7x5NXd6osgF8sJajvXsPlv) | [Paul Desmond](https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu) | [Bridge Over Troubled Water](https://open.spotify.com/album/1SdiMRASc3tRVgoLPXOHba) | 2:11 | 2022-01-21 |  |
+| [Cecilia](https://open.spotify.com/track/7x5NXd6osgF8sJajvXsPlv) | [Paul Desmond](https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu) | [Bridge Over Troubled Water](https://open.spotify.com/album/1SdiMRASc3tRVgoLPXOHba) | 2:11 | 2022-01-21 | 2022-10-05 |
+| [Cecilia](https://open.spotify.com/track/0KelVyupuOOwka66PcAmNZ) | [Paul Desmond](https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu) | [Bridge Over Troubled Water](https://open.spotify.com/album/1n2VCXsTJyQ7werjGlib7E) | 2:11 | 2022-01-21 |  |
 | [Diamonds on the Soles of Her Shoes](https://open.spotify.com/track/44SAkadYZkexOZgNiVtJr3) | [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [The Star and the Wiseman](https://open.spotify.com/album/5Wz50gdXoYlkDGwvq7mn11) | 5:46 | 2022-01-21 | 2022-09-25 |
 | [Diamonds On The Soles Of Her Shoes](https://open.spotify.com/track/1YFcnho5vA5BVQqQ5f8ACM) | [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d), [Melissa Etheridge](https://open.spotify.com/artist/01Ppu7N8uYJI8SAONo2YZA), [Joe McBride](https://open.spotify.com/artist/0fqABdgGiy0H0NLUb5GNWs) | [Ladysmith Black Mambazo & Friends](https://open.spotify.com/album/3LEnx2iNd4AzOUuvZ0LyNG) | 5:42 | 2022-01-21 |  |
 | [Diamonds On The Soles Of Her Shoes \- The Voice Performance](https://open.spotify.com/track/0vlV9EHERw2dRYiuhQNPJB) | [Joshua Davis](https://open.spotify.com/artist/6Z3gpcNJMzjr9Lv7UbxQhZ), [Adam Levine](https://open.spotify.com/artist/4bYPcJP5jwMhSivRcqie2n) | [The Complete Season 8 Collection \(The Voice Performance\)](https://open.spotify.com/album/6MppBBhapzHLawPrAnVVxx) | 3:04 | 2022-01-21 |  |

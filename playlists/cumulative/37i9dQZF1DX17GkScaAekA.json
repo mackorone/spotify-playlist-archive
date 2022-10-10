@@ -1450,6 +1450,28 @@
     },
     {
       "album": {
+        "name": "Valentina Lisitsa Plays Philip Glass",
+        "url": "https://open.spotify.com/album/5sB0xqZBHO9JNenKE3TFmK"
+      },
+      "artists": [
+        {
+          "name": "Philip Glass",
+          "url": "https://open.spotify.com/artist/69lxxQvsfAIoQbB20bEPFC"
+        },
+        {
+          "name": "Valentina Lisitsa",
+          "url": "https://open.spotify.com/artist/0gOrXuu1vCBXe3pwTyb5Ca"
+        }
+      ],
+      "date_added": "2022-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160453,
+      "name": "The Truman Show: Truman Sleeps - Short Version",
+      "url": "https://open.spotify.com/track/3x5paczEO2SQyOVAcHpLGa"
+    },
+    {
+      "album": {
         "name": "Munich Session",
         "url": "https://open.spotify.com/album/5Dp1VpNlgHhyXoLVU3xUEC"
       },
@@ -1505,28 +1527,6 @@
       "duration_ms": 160453,
       "name": "Truman Sleeps - From \u201cThe Truman Show\u201d / Short Version",
       "url": "https://open.spotify.com/track/29S6PLRccSCyKozzwIik0J"
-    },
-    {
-      "album": {
-        "name": "Valentina Lisitsa Plays Philip Glass",
-        "url": "https://open.spotify.com/album/5sB0xqZBHO9JNenKE3TFmK"
-      },
-      "artists": [
-        {
-          "name": "Philip Glass",
-          "url": "https://open.spotify.com/artist/69lxxQvsfAIoQbB20bEPFC"
-        },
-        {
-          "name": "Valentina Lisitsa",
-          "url": "https://open.spotify.com/artist/0gOrXuu1vCBXe3pwTyb5Ca"
-        }
-      ],
-      "date_added": "2022-07-18",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 160453,
-      "name": "Truman Sleeps - From \u201cThe Truman Show\u201d / Short Version",
-      "url": "https://open.spotify.com/track/3x5paczEO2SQyOVAcHpLGa"
     },
     {
       "album": {

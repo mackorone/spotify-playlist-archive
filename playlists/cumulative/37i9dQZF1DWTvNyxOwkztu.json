@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "Just lean back and enjoy these relaxed beats.",
+  "description": "Just lean back and enjoy relaxed beats.",
   "name": "Chillout Lounge",
   "published_playlist_ids": [
     "1B3KGcDzKz7tniplCeg7Gc"
@@ -1243,7 +1243,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-26",
+      "date_removed": null,
       "duration_ms": 437188,
       "name": "Forrest Glade",
       "url": "https://open.spotify.com/track/77fSqYrYJI2RelDOIUE2e7"
@@ -1503,7 +1503,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 138964,
       "name": "I Love You",
       "url": "https://open.spotify.com/track/0O4fJqz7sptID3Q3p4yaeL"
@@ -1829,7 +1829,7 @@
       ],
       "date_added": "2022-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 216020,
       "name": "Lightwave",
       "url": "https://open.spotify.com/track/06s5vykBOEzheEyLq0AZms"
@@ -2702,6 +2702,24 @@
     },
     {
       "album": {
+        "name": "Run",
+        "url": "https://open.spotify.com/album/4LnDWolNUZJEqZdwVjRHKc"
+      },
+      "artists": [
+        {
+          "name": "NORRA",
+          "url": "https://open.spotify.com/artist/41TOmzyp8cryPs7PXHKdb7"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191420,
+      "name": "Run",
+      "url": "https://open.spotify.com/track/0VLaaS481wSlMnf6UEQnJM"
+    },
+    {
+      "album": {
         "name": "Saint Tropez",
         "url": "https://open.spotify.com/album/1m04FGUpWbOiNnIUhGYS5i"
       },
@@ -3304,6 +3322,24 @@
     },
     {
       "album": {
+        "name": "Swimming Pool",
+        "url": "https://open.spotify.com/album/6s0HYklZPfRLNtIMnYbli9"
+      },
+      "artists": [
+        {
+          "name": "Sound Nomaden",
+          "url": "https://open.spotify.com/artist/1R4DbF6CAroRPIDBAkPIi0"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 328090,
+      "name": "Swimming Pool",
+      "url": "https://open.spotify.com/track/5Dyzk48hvk3GhUzWuxBLTy"
+    },
+    {
+      "album": {
         "name": "S\u00efst\u00ebr",
         "url": "https://open.spotify.com/album/6WhIiPn8rVCtFXfk4PBIuS"
       },
@@ -3409,7 +3445,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-04",
       "duration_ms": 197113,
       "name": "The Screen",
       "url": "https://open.spotify.com/track/7JZpf4Rct4FfrRpQ3KkEOG"
@@ -3827,7 +3863,7 @@
       ],
       "date_added": "2022-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-04",
       "duration_ms": 188281,
       "name": "White Sand",
       "url": "https://open.spotify.com/track/6SlbjaFsBJSKj170nrqopL"
@@ -3845,7 +3881,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 187075,
       "name": "Wings",
       "url": "https://open.spotify.com/track/6LUMBf6Tkb4ZKIihUYzzax"

@@ -1,13 +1,29 @@
 {
   "description": "125%",
-  "num_followers": 468282,
+  "num_followers": 509447,
   "original_name": "sped up songs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDU0OTc5MSwwMDAwMDAwMGZhYWVlYzM5YTVhMWRhNGQ0ZDFjOGRhZDc2YWEwZWNj",
+  "snapshot_id": "MTY2NTE1MTcxMCwwMDAwMDAwMDRjZDBiMDExZDUyYjliOGNmYTc0ODZhMmE4MDYxYzIx",
   "tracks": [
+    {
+      "added_at": "2022-09-30 14:56:31",
+      "album": {
+        "name": "the rainbow cassette (bonus)",
+        "url": "https://open.spotify.com/album/0SHvk3FxlmTOyldiqaVT8k"
+      },
+      "artists": [
+        {
+          "name": "mazie",
+          "url": "https://open.spotify.com/artist/4adSXA1GDOxNG7Zw89YHyz"
+        }
+      ],
+      "duration_ms": 102663,
+      "name": "dumb dumb - sped up",
+      "url": "https://open.spotify.com/track/2pJmSaPh5lMe4npn0Z6m8A"
+    },
     {
       "added_at": "2022-09-09 04:01:00",
       "album": {
@@ -23,6 +39,26 @@
       "duration_ms": 190758,
       "name": "Atlantis - Extra Sped Up Version",
       "url": "https://open.spotify.com/track/3u6PxWema1snbjLbFEyjkJ"
+    },
+    {
+      "added_at": "2022-10-07 14:08:30",
+      "album": {
+        "name": "vendetta! (sped up)",
+        "url": "https://open.spotify.com/album/1GDSQLmbj33GGdfyl8hKw6"
+      },
+      "artists": [
+        {
+          "name": "MUPP",
+          "url": "https://open.spotify.com/artist/7B9Gg9epjQzfNGdxijFczG"
+        },
+        {
+          "name": "Sadfriendd",
+          "url": "https://open.spotify.com/artist/4UT0p3ljEiD472lZp44KLH"
+        }
+      ],
+      "duration_ms": 91582,
+      "name": "vendetta! - sped up",
+      "url": "https://open.spotify.com/track/0D45ixbwxjkT4S7V1kpt5y"
     },
     {
       "added_at": "2022-09-27 18:48:53",
@@ -61,22 +97,6 @@
       "url": "https://open.spotify.com/track/78dtqFPt7cvYgS2zTXtZKV"
     },
     {
-      "added_at": "2022-09-30 14:56:31",
-      "album": {
-        "name": "the rainbow cassette (bonus)",
-        "url": "https://open.spotify.com/album/0SHvk3FxlmTOyldiqaVT8k"
-      },
-      "artists": [
-        {
-          "name": "mazie",
-          "url": "https://open.spotify.com/artist/4adSXA1GDOxNG7Zw89YHyz"
-        }
-      ],
-      "duration_ms": 102663,
-      "name": "dumb dumb - sped up",
-      "url": "https://open.spotify.com/track/2pJmSaPh5lMe4npn0Z6m8A"
-    },
-    {
       "added_at": "2022-09-30 13:16:32",
       "album": {
         "name": "Wannabe (Sped Up Version)",
@@ -91,6 +111,38 @@
       "duration_ms": 199770,
       "name": "Wannabe - Sped Up Version",
       "url": "https://open.spotify.com/track/6BP729RazoZBV8nrOUJI85"
+    },
+    {
+      "added_at": "2022-10-04 19:18:09",
+      "album": {
+        "name": "Under the Influence (Sped Up) - Your Body Language Speaks to Me",
+        "url": "https://open.spotify.com/album/0zJyKDyf1ukaR3TD8mYHTy"
+      },
+      "artists": [
+        {
+          "name": "Hiko",
+          "url": "https://open.spotify.com/artist/0KYOBAf6Zky4CFQne2JPTX"
+        }
+      ],
+      "duration_ms": 123814,
+      "name": "Under the Influence (Sped Up) - Your Body Language Speaks to Me",
+      "url": "https://open.spotify.com/track/3qG3S4Ptt7EFCtKi5ZroG2"
+    },
+    {
+      "added_at": "2022-09-09 04:01:00",
+      "album": {
+        "name": "die first (love forever)",
+        "url": "https://open.spotify.com/album/6a8W5qyixFCBIhWllbu3bj"
+      },
+      "artists": [
+        {
+          "name": "Nessa Barrett",
+          "url": "https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ"
+        }
+      ],
+      "duration_ms": 144875,
+      "name": "die first - sped up version",
+      "url": "https://open.spotify.com/track/209DMKJgqiJwjvFCCEW3N6"
     },
     {
       "added_at": "2022-09-09 04:01:00",
@@ -620,7 +672,7 @@
       "added_at": "2022-09-09 04:01:00",
       "album": {
         "name": "SNAP PACK",
-        "url": "https://open.spotify.com/album/2nzuzJvr3yowqbPaYjEYof"
+        "url": "https://open.spotify.com/album/3CVEB0FPk25Ds64ALgxjH7"
       },
       "artists": [
         {
@@ -630,23 +682,7 @@
       ],
       "duration_ms": 135902,
       "name": "SNAP - High and Fast",
-      "url": "https://open.spotify.com/track/3TWHd23YOrfxx3yDYCE1WC"
-    },
-    {
-      "added_at": "2022-09-09 04:01:00",
-      "album": {
-        "name": "die first (love forever)",
-        "url": "https://open.spotify.com/album/6a8W5qyixFCBIhWllbu3bj"
-      },
-      "artists": [
-        {
-          "name": "Nessa Barrett",
-          "url": "https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ"
-        }
-      ],
-      "duration_ms": 144875,
-      "name": "die first - sped up version",
-      "url": "https://open.spotify.com/track/209DMKJgqiJwjvFCCEW3N6"
+      "url": "https://open.spotify.com/track/46cdw28EXOhDPnD1emDC6T"
     },
     {
       "added_at": "2022-09-09 04:01:00",

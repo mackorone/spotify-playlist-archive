@@ -19,7 +19,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-07",
       "duration_ms": 167191,
       "name": "2 By 2",
       "url": "https://open.spotify.com/track/5YzRhflX7SXBWJdeSdEEmn"
@@ -63,7 +63,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-07",
       "duration_ms": 152571,
       "name": "Afiya",
       "url": "https://open.spotify.com/track/1YXHLlENONleioam1NP9Uu"
@@ -117,7 +117,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-07",
       "duration_ms": 254850,
       "name": "Baibe",
       "url": "https://open.spotify.com/track/7hPUGxExv6E8o7qK4XeZnQ"
@@ -331,7 +331,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-07",
       "duration_ms": 230650,
       "name": "Change the World",
       "url": "https://open.spotify.com/track/25AXVpk13te2q8PEG1lR4u"
@@ -393,7 +393,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-07",
       "duration_ms": 209978,
       "name": "Dorah",
       "url": "https://open.spotify.com/track/4mta6obIQ4j7hkyVFscBwn"
@@ -491,7 +491,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-07",
       "duration_ms": 186666,
       "name": "Feel Like",
       "url": "https://open.spotify.com/track/7CTDjJSzz6qyR0SIjRsAlZ"
@@ -603,7 +603,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 69407,
       "name": "It's OK",
       "url": "https://open.spotify.com/track/6SBSTfARlJBhsRfM2PyZv9"
@@ -643,7 +643,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-07",
       "duration_ms": 171625,
       "name": "Kanyonyi Kange",
       "url": "https://open.spotify.com/track/0LNpMEtSgOGj0M2D0AbJJ1"
@@ -812,6 +812,24 @@
     },
     {
       "album": {
+        "name": "King Kong",
+        "url": "https://open.spotify.com/album/42INLd6X6znuImjQc0jw2R"
+      },
+      "artists": [
+        {
+          "name": "Fik Fameica",
+          "url": "https://open.spotify.com/artist/4pTCPk9pqZ06ggZvk7F4Z5"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194594,
+      "name": "Magic (fik)",
+      "url": "https://open.spotify.com/track/4FCISvpKDf3cia11vXffkF"
+    },
+    {
+      "album": {
         "name": "AFRICAN MUSIC",
         "url": "https://open.spotify.com/album/7IHzR8vlurQJjUg9sP4T7E"
       },
@@ -867,7 +885,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-09",
       "duration_ms": 138053,
       "name": "Medalli",
       "url": "https://open.spotify.com/track/0eK5i2ADiozLxvSGCHjeVh"
@@ -885,7 +903,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-07",
       "duration_ms": 179461,
       "name": "Melody",
       "url": "https://open.spotify.com/track/170CNdSxk5vIQNinTIl9XH"
@@ -910,7 +928,7 @@
     },
     {
       "album": {
-        "name": "Mufele (Radio Edit)",
+        "name": "Mufele",
         "url": "https://open.spotify.com/album/2FyvNRC4xnpeWTIMRXWxEA"
       },
       "artists": [
@@ -993,10 +1011,32 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-07",
       "duration_ms": 150576,
       "name": "Nyanya Mbisi",
       "url": "https://open.spotify.com/track/4TaavhhwL9c4bcWtD3I96I"
+    },
+    {
+      "album": {
+        "name": "Second of All",
+        "url": "https://open.spotify.com/album/6fQ2qZ4ebEVMb8JExLVPvh"
+      },
+      "artists": [
+        {
+          "name": "Deejay Xp",
+          "url": "https://open.spotify.com/artist/7gmTONU8S6bnoJN21uHNMj"
+        },
+        {
+          "name": "Recho Ray",
+          "url": "https://open.spotify.com/artist/7pChsFrLjhslGKSfnYWIve"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146399,
+      "name": "Obinkola",
+      "url": "https://open.spotify.com/track/69UyO55KUY7xMsuEmj6nlY"
     },
     {
       "album": {
@@ -1077,10 +1117,28 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-06",
       "duration_ms": 193541,
       "name": "Osobola",
       "url": "https://open.spotify.com/track/3Bz6rWbCF6dPyGZUWnfq4q"
+    },
+    {
+      "album": {
+        "name": "Osobola",
+        "url": "https://open.spotify.com/album/7o055OuUVkYJlLrmDE0SMC"
+      },
+      "artists": [
+        {
+          "name": "Emilian Starz",
+          "url": "https://open.spotify.com/artist/2S7N3sP6mqXp5yyu82QWOb"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-07",
+      "duration_ms": 193541,
+      "name": "Osobola",
+      "url": "https://open.spotify.com/track/6YelPUEUNYf0o7vipnvZgl"
     },
     {
       "album": {

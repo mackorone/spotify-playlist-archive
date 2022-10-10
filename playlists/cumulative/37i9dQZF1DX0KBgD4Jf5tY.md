@@ -2,7 +2,7 @@
 
 ### [Fresh Finds Italia](https://open.spotify.com/playlist/37i9dQZF1DX0KBgD4Jf5tY)
 
-> Nuove scoperte dalla scena indipendente italiana, senza etichette di genere\. Cover: <a href="spotify:artist:0LD8RSks9BHCIxqeTOdnAh">chenopsia</a>
+> Nuove scoperte dalla scena indipendente italiana, senza etichette di genere\. Cover: <a href="spotify:artist:032syoAKbxdyWFRlyk0PJv">Paride</a>
 
 382 songs - 19 hr 24 min - [published](https://open.spotify.com/playlist/7DW4xNQc4jVEAVd25UPTmP)
 
@@ -85,7 +85,7 @@
 | [CHIUSO IN UNA STANZA](https://open.spotify.com/track/54VJjvNP7FdV5hIP33rioP) | [Sanga](https://open.spotify.com/artist/2RFkvuwuzehpQFC4oLDqxO), [Seck](https://open.spotify.com/artist/0TDisUBeAlYDLMToNVhTfH) | [CHIUSO IN UNA STANZA](https://open.spotify.com/album/6EitS6JGTwFrCPiTn35DoI) | 2:41 | 2022-07-22 | 2022-08-12 |
 | [Città Giardino](https://open.spotify.com/track/5k7qn1riAYxIip41Itqhz1) | [Luchino Luce](https://open.spotify.com/artist/6wqUUpbLC6kOWt6FAMzDnH), [No Label](https://open.spotify.com/artist/7eSQIwqpU7HGvEQVgcMqQx) | [Nuovo Maschio](https://open.spotify.com/album/2VvSOPOh3Vje4S8yYopX2n) | 3:13 | 2022-04-28 | 2022-05-20 |
 | [Coastal](https://open.spotify.com/track/499iMmA9adQFojnWynrU2r) | [Go Hawaii](https://open.spotify.com/artist/4dMyueIDZEOSvuCaXnqYli) | [Coastal](https://open.spotify.com/album/1jcbSFBD1tEXYfIqtcp2Pi) | 2:46 | 2022-02-24 | 2022-04-09 |
-| [Collane di Rovi](https://open.spotify.com/track/02uNVEJkbLCXoYoz81qKyO) | [Saqqara](https://open.spotify.com/artist/11N2M0Sj5Ndbgndrio0Lht), [Johnma'](https://open.spotify.com/artist/0R7UfZjaL9MprVrNeMN4cu) | [Collane di Rovi](https://open.spotify.com/album/4sIhyQWSOGHO5cvhs6VzEY) | 2:55 | 2022-09-29 |  |
+| [Collane di Rovi](https://open.spotify.com/track/02uNVEJkbLCXoYoz81qKyO) | [Saqqara](https://open.spotify.com/artist/11N2M0Sj5Ndbgndrio0Lht), [Johnma'](https://open.spotify.com/artist/0R7UfZjaL9MprVrNeMN4cu), [BruceBrown](https://open.spotify.com/artist/3ukHv1PGMnzDRPc7MVPvtU) | [Collane di Rovi](https://open.spotify.com/album/4sIhyQWSOGHO5cvhs6VzEY) | 2:55 | 2022-09-29 |  |
 | [Come vorrei](https://open.spotify.com/track/7tsODSyklruhthzaXOczUq) | [Fusaro](https://open.spotify.com/artist/0jFA30k5jRRpaIv1Xe0Ce3) | [Buongiorno \(per tutto il giorno\)](https://open.spotify.com/album/1KJli9hVV0fXjDEOGZWjYf) | 3:38 | 2022-05-27 | 2022-07-01 |
 | [Complice](https://open.spotify.com/track/0laGVa4KtfOvb4Q2tfzI2I) | [Marco Baloo](https://open.spotify.com/artist/2dP3tKvqpCcbtMFCvhIPru) | [Complice](https://open.spotify.com/album/7mUjqAT48uIUN50zHvY5M0) | 2:59 | 2022-08-26 |  |
 | [CON ME](https://open.spotify.com/track/1vB0YCAiB0ZZN79FIss39w) | [Saintess](https://open.spotify.com/artist/1rZmAfzhpXD8kgq8ZMFl1J) | [CON ME](https://open.spotify.com/album/6pJVbP082P7fzdyJzVoayc) | 3:05 | 2022-06-02 | 2022-07-01 |

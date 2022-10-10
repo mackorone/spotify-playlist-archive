@@ -4,7 +4,7 @@
 
 > A mix of folk and bluegrass covers of pop, rock, hip\-hop, folk, and indie songs\. Cover: Front Country
 
-168 songs - 10 hr 42 min - [published](https://open.spotify.com/playlist/6j3EUqB0DJZF4yMM5cX435)
+170 songs - 10 hr 49 min - [published](https://open.spotify.com/playlist/6j3EUqB0DJZF4yMM5cX435)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -101,6 +101,7 @@
 | [Kiss From A Rose](https://open.spotify.com/track/3k3rsujAAKrvCXcyCzFtsU) | [Mustered Courage](https://open.spotify.com/artist/7A2mhKFpbcw6VrN64VPmOY) | [Kiss From A Rose](https://open.spotify.com/album/7FRzhL5VqBkKdo4JWc8vMP) | 2:36 | 2021-08-20 |  |
 | [Kryptonite](https://open.spotify.com/track/5nkAJwICnwnzsriZCcastc) | [Pickin' On Series](https://open.spotify.com/artist/6AEIKVwB27miPI3uJxM4Dw), [Cornbread Red](https://open.spotify.com/artist/6WGUADHV7LnpbmNi5PhfYO) | [Pickin' On 3 Doors Down: A Bluegrass Tribute \- Down to This:](https://open.spotify.com/album/4j19jxzQmLk1Iqu8jLfbnt) | 3:45 | 2021-08-20 |  |
 | [Lakes of Pontchartrain \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/5HjUkIQgYnl5JOSpmS494a) | [Aoife O'Donovan](https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa) | [Spotify Singles](https://open.spotify.com/album/3XV7BmKTGdfoxGEaKDQbJb) | 3:54 | 2021-08-20 | 2022-04-02 |
+| [Let Your Love Flow](https://open.spotify.com/track/7jupT6wzegD9jbY4lbfb6O) | [Betty Fisher](https://open.spotify.com/artist/37JcV5BAEqxOfKkeKQf9pr) | [Smiling Faces & Different Places](https://open.spotify.com/album/6DxIJfgKCZkfcojIPoIjdo) | 2:57 | 2022-10-07 |  |
 | [Little Piece of My Heart](https://open.spotify.com/track/4MhBFMMibAWuJv8zMQWrKA) | [John Hartford](https://open.spotify.com/artist/0NAr5zThPfMx26ISgooQK6) | [Gum Tree Canoe](https://open.spotify.com/album/13BUiVlKesdaWPgQqozhYv) | 3:10 | 2021-08-20 |  |
 | [Lord I Hope this Day is Good](https://open.spotify.com/track/4CTuygl7hPgqMBzBJVbVeF) | [Jr\. Williams](https://open.spotify.com/artist/7gbMaxGvHM6QoxQ4qAAolE) | [Lord I Hope this Day is Good](https://open.spotify.com/album/2pyRpAC7Hws68qo393hkp2) | 3:50 | 2022-04-29 |  |
 | [Loser](https://open.spotify.com/track/4QMKLsoxyY9UvLSrGFkkir) | [The Cleverlys](https://open.spotify.com/artist/6FcC7osOicG2aEqb2VrbhS) | [Cash Crop](https://open.spotify.com/album/094kzj8kwxRHZNSCfc0RLg) | 4:19 | 2022-05-27 |  |
@@ -109,6 +110,7 @@
 | [Low](https://open.spotify.com/track/4OLKxDTU5803FNDuQijxX8) | [The Cleverlys](https://open.spotify.com/artist/6FcC7osOicG2aEqb2VrbhS) | [Cash Crop](https://open.spotify.com/album/094kzj8kwxRHZNSCfc0RLg) | 4:14 | 2022-05-27 |  |
 | [Low](https://open.spotify.com/track/777LkVsyeIirHbJUjm2JHf) | [The Cleverlys](https://open.spotify.com/artist/6FcC7osOicG2aEqb2VrbhS) | [Cash Crop](https://open.spotify.com/album/0QFHkBhfM6u3tGxdsVitev) | 4:14 | 2021-08-20 | 2022-07-29 |
 | [Lucy in the Sky With Diamonds](https://open.spotify.com/track/4LOf8epMgZYgYJrt1CesTp) | [Bill Evans](https://open.spotify.com/artist/0kM18IEgG0cwxgfJRj7xFF) | [In Good Company](https://open.spotify.com/album/19tknRni9ciIV9pVGdZbTr) | 1:18 | 2021-08-20 |  |
+| [Maple Leaf Rag](https://open.spotify.com/track/4djgZz36Jx4Oz3hv8LXEA8) | [Waterhouse](https://open.spotify.com/artist/25PniBi23b8oE5BXVRBp4S) | [Maple Leaf Rag](https://open.spotify.com/album/3KkTtsG3XwyprW9uH6xkhU) | 3:43 | 2022-10-07 |  |
 | [Me & Bobby McGee](https://open.spotify.com/track/4h6O4vjM9uxRi7otTQbFOk) | [Mac Wiseman](https://open.spotify.com/artist/01buTDfh4qo8wbcUt9Enly) | [Legends of Bluegrass \( 1971\)](https://open.spotify.com/album/1hTzont8ul4NJtSqup8m2w) | 3:18 | 2022-04-29 | 2022-08-10 |
 | [Misirlou](https://open.spotify.com/track/4xzE6PHaq9MQf2ZKTGBL9z) | [Malingo](https://open.spotify.com/artist/3GPiR3rPEC514i5QxcfwFk) | [Misirlou](https://open.spotify.com/album/3QjwvTaEt6WBksPrs00Mb7) | 2:25 | 2022-07-15 | 2022-08-10 |
 | [More Heart, Less Attack](https://open.spotify.com/track/6ds7y7voWKUKwEhIK2W2uD) | [Becky Buller](https://open.spotify.com/artist/51GVpccMzO5rZqCEaePGBv), [Ned Luberecki](https://open.spotify.com/artist/7qg1UANHGQdwukeGN9YsRZ), [Dan Boner](https://open.spotify.com/artist/2rAHYozDbarVJA6GYEjJva), [Nate Lee](https://open.spotify.com/artist/76ivNMRvg7rGMKgtz9hYfG), [Daniel Hardin](https://open.spotify.com/artist/5CHholrccXiiujgTvZVUlJ) | [Distance and Time](https://open.spotify.com/album/797UYpfApMa598iaCNnSP5) | 4:08 | 2021-08-20 |  |

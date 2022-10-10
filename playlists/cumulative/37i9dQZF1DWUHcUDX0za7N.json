@@ -1,8 +1,10 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "Hip hop and rap music from Nigeria. Cover:<a href=\"https://open.spotify.com/artist/2dIFhJ8RkRS2rXeDefY3t1?si=A4P7484bQF2d7VsJ551kRw\" > Vector </a> ",
+  "description": "Hip hop and rap music from Nigeria. Cover:<a href=\"https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W?si=EllDDQAVS4yqcJZIYteRcg\" > Blaqbonez </a> ",
   "name": "Naija Bars ",
-  "published_playlist_ids": [],
+  "published_playlist_ids": [
+    "3BUxfJDiPiu9ct0POyewZM"
+  ],
   "tracks": [
     {
       "album": {
@@ -116,6 +118,28 @@
     },
     {
       "album": {
+        "name": "Back In Uni",
+        "url": "https://open.spotify.com/album/3QvPbmCWd2dOOB0ZztZN5I"
+      },
+      "artists": [
+        {
+          "name": "Blaqbonez",
+          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
+        },
+        {
+          "name": "JAE5",
+          "url": "https://open.spotify.com/artist/3NbqBIc16CNAe5nYSmHR3p"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150857,
+      "name": "Back In Uni",
+      "url": "https://open.spotify.com/track/1DjjSWom4la3p67sZcBWTN"
+    },
+    {
+      "album": {
         "name": "BILLION DOLLAR DREAM",
         "url": "https://open.spotify.com/album/2ffIFz0rBMZrnlTlZm00nz"
       },
@@ -193,7 +217,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-02",
+      "date_removed": null,
       "duration_ms": 143220,
       "name": "Ball Till We Fall",
       "url": "https://open.spotify.com/track/4ZrGslwrdNckETI7gktSwS"
@@ -529,7 +553,7 @@
       ],
       "date_added": "2022-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-07",
       "duration_ms": 156055,
       "name": "Flimsy Excusees",
       "url": "https://open.spotify.com/track/2rB5XZMKGKxbhXS9B5HVTp"
@@ -631,7 +655,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-07",
       "duration_ms": 198266,
       "name": "Haba",
       "url": "https://open.spotify.com/track/7qmM8PM4DrrOGyhYlBBngW"
@@ -953,7 +977,7 @@
       ],
       "date_added": "2022-06-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-02",
+      "date_removed": "2022-10-08",
       "duration_ms": 186435,
       "name": "Never stopping",
       "url": "https://open.spotify.com/track/7bsexASUxrALdLNClTjjvJ"
@@ -1111,7 +1135,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-07",
       "duration_ms": 169756,
       "name": "prayers",
       "url": "https://open.spotify.com/track/24nu4KX3BBhBV8vAXtIUnT"
@@ -1380,6 +1404,24 @@
     },
     {
       "album": {
+        "name": "Outside II",
+        "url": "https://open.spotify.com/album/1yE4tyZV5U53xd8eSRMbA1"
+      },
+      "artists": [
+        {
+          "name": "SixSaidIt",
+          "url": "https://open.spotify.com/artist/4SBh3nHzdDKtubyOjpkhlb"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177591,
+      "name": "Toe Touch",
+      "url": "https://open.spotify.com/track/7BIKaYBqQw4JeR1oixpPSc"
+    },
+    {
+      "album": {
         "name": "Trouble",
         "url": "https://open.spotify.com/album/4EsC6oCWtJjU9zuHBIxan8"
       },
@@ -1469,7 +1511,7 @@
       ],
       "date_added": "2022-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-07",
       "duration_ms": 147551,
       "name": "Vice Versa Freestyle",
       "url": "https://open.spotify.com/track/2v9rZjcUb65gL58cSz7wd2"
@@ -1565,6 +1607,24 @@
       "duration_ms": 216013,
       "name": "Who's True",
       "url": "https://open.spotify.com/track/3vMItL2i0J010aWIw1YUwr"
+    },
+    {
+      "album": {
+        "name": "Outside II",
+        "url": "https://open.spotify.com/album/1yE4tyZV5U53xd8eSRMbA1"
+      },
+      "artists": [
+        {
+          "name": "SixSaidIt",
+          "url": "https://open.spotify.com/artist/4SBh3nHzdDKtubyOjpkhlb"
+        }
+      ],
+      "date_added": "2022-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 53135,
+      "name": "Wicked Bitch of the South",
+      "url": "https://open.spotify.com/track/0J5QpTl2bQZz14hankIpzn"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWUHcUDX0za7N"

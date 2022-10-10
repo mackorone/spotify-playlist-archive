@@ -4,7 +4,7 @@
 
 > Love, sex, and heartbreak\. Listen to the official playlist for Heartbreak High, now on Netflix.
 
-127 songs - 7 hr 52 min - [published](https://open.spotify.com/playlist/3fSz2XAu4QpDesLVlBr0GV)
+128 songs - 7 hr 56 min - [published](https://open.spotify.com/playlist/3fSz2XAu4QpDesLVlBr0GV)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,6 +58,7 @@
 | [Firefly](https://open.spotify.com/track/5xySUQUYwB4uGxJpLaxjLh) | [Jonny Kosmo](https://open.spotify.com/artist/6VyZH1zto2r7gkSYsUUBEx) | [Pastry](https://open.spotify.com/album/1pL2NNdOk64nvn6KgIPIPe) | 3:01 | 2022-09-14 |  |
 | [Flex](https://open.spotify.com/track/2T2RnC6fdRTE3z41tz4i2e) | [Komang](https://open.spotify.com/artist/56MwiXqdnILouLqFJPx3nT) | [Flex](https://open.spotify.com/album/3J8qf7WLuEAIKLTVojjQ2U) | 3:47 | 2022-09-14 |  |
 | [For You I Try](https://open.spotify.com/track/1gAJ4AaTzafUdeVT5lkfvh) | [Acopia](https://open.spotify.com/artist/276EHqxzrJ8QJKoluzYjFr) | [Chances](https://open.spotify.com/album/3ZRC25c6zcwz3RDCWlcpf6) | 5:08 | 2022-09-14 |  |
+| [FOREVER](https://open.spotify.com/track/7GqrUxuTqiup3RGffuQ0y8) | [BROODS](https://open.spotify.com/artist/5r5Va4lVQ1zjEfbJSrmCsS), [Flight Facilities](https://open.spotify.com/artist/1lc8mnyGrCLtPhCoWjRxjM) | [FOREVER](https://open.spotify.com/album/7LHWYD3ctxRIdao3ulv66S) | 3:48 | 2022-09-15 | 2022-10-04 |
 | [FOREVER](https://open.spotify.com/track/6JJ1URTERzj7LcqKpRsvMT) | [Flight Facilities](https://open.spotify.com/artist/1lc8mnyGrCLtPhCoWjRxjM), [BROODS](https://open.spotify.com/artist/5r5Va4lVQ1zjEfbJSrmCsS) | [FOREVER](https://open.spotify.com/album/6kzRU9QtsTrhlObao5Eb3t) | 3:48 | 2022-09-14 |  |
 | [Gasoline \- Intro](https://open.spotify.com/track/1KHOOsJUHBy82PCZVV8Lmd) | [Alpine](https://open.spotify.com/artist/4tKUoNubW02udXOh7SLtXV) | [A Is For Alpine](https://open.spotify.com/album/3ap04q3OeoyOHMs2WJytN4) | 3:21 | 2022-09-14 |  |
 | [GET ME OUT](https://open.spotify.com/track/5R8xUhYG8vJnFUX0TVfKRj) | [RBI](https://open.spotify.com/artist/1W274H48h2fREZkw3JoH5p) | [GET ME OUT / TAKE IT FOR ME ON THE FLOOR](https://open.spotify.com/album/5N9dpTKzTP7lHmutcCB7Gh) | 7:04 | 2022-09-14 |  |

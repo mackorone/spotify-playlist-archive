@@ -4,7 +4,7 @@
 
 > Las grandes del Despecho y el Género Popular\. Foto: Alzate & Pipe Bueno
 
-77 songs - 4 hr 1 min - [published](https://open.spotify.com/playlist/09JnbAwg5RJpS8FdxS2fcC)
+78 songs - 4 hr 4 min - [published](https://open.spotify.com/playlist/09JnbAwg5RJpS8FdxS2fcC)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,7 +23,8 @@
 | [Botella Tras Botella](https://open.spotify.com/track/2MnLkFqY9Rpg9s3Zv6ZJdK) | [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW), [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Botella Tras Botella](https://open.spotify.com/album/3Jv8XjzlQel3avRbOzysXB) | 3:17 | 2022-08-12 |  |
 | [Chale](https://open.spotify.com/track/74WROFXsox6wkeUrEK2DS6) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Chale](https://open.spotify.com/album/6xsbNXdWNHFDvl9vCT3a8a) | 2:50 | 2022-08-12 |  |
 | [Como Si Nada](https://open.spotify.com/track/6fxct5RZKGNgRMcXULezMW) | [Paola Jara](https://open.spotify.com/artist/6y4IOQcDIDg6I1OEKf2oJk), [Jessi Uribe](https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS) | [En Tus Manos](https://open.spotify.com/album/2uLbOZPAiJNsuWKuTS3Ocu) | 3:09 | 2022-08-12 |  |
-| [Como una Pelota \(feat\. Espinoza Paz\)](https://open.spotify.com/track/4wVmbrxbSos5XFSkxJgStl) | [Jhonny Rivera](https://open.spotify.com/artist/5TDSNRe3rVLJhxjIhxfcUx), [Espinoza Paz](https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y) | [Como una Pelota \(feat\. Espinoza Paz\)](https://open.spotify.com/album/3MIYSFtANScbsIejPwRZuP) | 2:55 | 2022-08-12 |  |
+| [Como una Pelota](https://open.spotify.com/track/5iJBBQOi25f86NEurPAszB) | [Espinoza Paz](https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y), [Jhonny Rivera](https://open.spotify.com/artist/5TDSNRe3rVLJhxjIhxfcUx) | [Como una Pelota](https://open.spotify.com/album/306ib7yX5JegvImZ8VMrSF) | 2:55 | 2022-09-16 |  |
+| [Como una Pelota \(feat\. Espinoza Paz\)](https://open.spotify.com/track/4wVmbrxbSos5XFSkxJgStl) | [Jhonny Rivera](https://open.spotify.com/artist/5TDSNRe3rVLJhxjIhxfcUx), [Espinoza Paz](https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y) | [Como una Pelota \(feat\. Espinoza Paz\)](https://open.spotify.com/album/3MIYSFtANScbsIejPwRZuP) | 2:55 | 2022-08-12 | 2022-10-03 |
 | [Copita de Licor](https://open.spotify.com/track/6sBvUFDc0MmcAr4VFfp838) | [Alzate](https://open.spotify.com/artist/682qzOnGxexrwH41Cy51Hu) | [Maldita Traicion](https://open.spotify.com/album/5xYcQs87dQWn1hNYn0dc7h) | 3:47 | 2022-08-12 |  |
 | [Cupido Falló](https://open.spotify.com/track/42RKuMMmSjr4AX3m5RRm8L) | [Pipe Bueno](https://open.spotify.com/artist/4RXxwBtdt6k1YNyyAyiOng) | [Cupido Falló](https://open.spotify.com/album/5dhqkA6KOXgukDTilRTAj0) | 3:17 | 2022-08-12 |  |
 | [Despechada](https://open.spotify.com/track/1CaAXPzgXMzwzDJTS6Jnq4) | [Alan Ramirez](https://open.spotify.com/artist/1yHjFDDYePdq3KcGBEJkRw) | [Despechada](https://open.spotify.com/album/6ivMPHjdirTJhy9ENUrRcO) | 2:27 | 2022-08-12 |  |

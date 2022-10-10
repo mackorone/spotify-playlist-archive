@@ -4,7 +4,7 @@
 
 > Discover new music while you game.
 
-201 songs - 10 hr 0 min - [published](https://open.spotify.com/playlist/1WIaiR237xVcOz8MRS6Z3O)
+202 songs - 10 hr 3 min - [published](https://open.spotify.com/playlist/1WIaiR237xVcOz8MRS6Z3O)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,7 +62,7 @@
 | [falling](https://open.spotify.com/track/3v61DyG93LsHgpAtCaXMYV) | [ATO](https://open.spotify.com/artist/4KoNbDwbCK9D04dSmYG93E), [VIC MENSA](https://open.spotify.com/artist/27w1NoOLMX7tJMYqcetPyG) | [EP3](https://open.spotify.com/album/1FxeCDYH6KOwLK6iv8sOCJ) | 3:12 | 2022-05-02 | 2022-07-06 |
 | [Family](https://open.spotify.com/track/59cp62rlitMBIUDvrKU4H4) | [Hugh Augustine](https://open.spotify.com/artist/48ehq0jR23nak2ZDDU6uff), [Ray Wright](https://open.spotify.com/artist/05bn1POxXrhtGaynWcC4QP) | [Massimo Ciabatta](https://open.spotify.com/album/3TH8VsOsXDNYQxiLJW5h93) | 5:48 | 2022-05-09 |  |
 | [Feel Like Smoke](https://open.spotify.com/track/4bS3d2dgI9LShY452LJdCQ) | [Alex Wiley](https://open.spotify.com/artist/0JdGPxHeRGfOyZg3EHwp2g) | [Feel Like Smoke](https://open.spotify.com/album/7voeKH39rLlFNBtzfGLBsh) | 3:31 | 2022-05-09 | 2022-07-12 |
-| [Fetti](https://open.spotify.com/track/7EKvaYorWWn9ZyKMDjQvhi) | [Mir Fontane](https://open.spotify.com/artist/53VAKbI2fXRs1PwG6DVToP) | [Fetti](https://open.spotify.com/album/6WhaO7l8geXM4a0MApJq4i) | 2:01 | 2022-05-09 |  |
+| [Fetti](https://open.spotify.com/track/7EKvaYorWWn9ZyKMDjQvhi) | [Mir Fontane](https://open.spotify.com/artist/53VAKbI2fXRs1PwG6DVToP) | [Fetti](https://open.spotify.com/album/6WhaO7l8geXM4a0MApJq4i) | 2:01 | 2022-05-09 | 2022-10-07 |
 | [Fever](https://open.spotify.com/track/5fzu8tMA04ZuKCMMfcEuhf) | [seeyousoon](https://open.spotify.com/artist/2QFne35yv8Kjaey8tbYiT1) | [Fever](https://open.spotify.com/album/3rO2YYIcyvJIiKgKobAfR1) | 2:17 | 2022-05-09 | 2022-07-06 |
 | [First Gear](https://open.spotify.com/track/6VSqMGR9ki01c3J2mUvMeH) | [Angelo Mota](https://open.spotify.com/artist/1PpFka2STGQ57kJcgYBgEF) | [First Gear](https://open.spotify.com/album/2htDqgseiL93HoFAlHFo46) | 2:45 | 2022-05-02 |  |
 | [Flashy](https://open.spotify.com/track/2zvgnWPuyOudoBW64u2Pqj) | [27Delly](https://open.spotify.com/artist/17Y9T6RYbruDp0XDIMB6xT) | [Flashy](https://open.spotify.com/album/4v0jPG4CqEUMl1ZFCNSMDV) | 3:03 | 2022-05-02 |  |
@@ -110,7 +110,7 @@
 | [LEAP!](https://open.spotify.com/track/3vl2uH4D2QItFFhzz5L06g) | [Souly Had](https://open.spotify.com/artist/20WmX0l9JgOpehDOAXY6iO), [Lonr.](https://open.spotify.com/artist/2FIGTfXnX4gR3ypjQVPVlJ) | [LEAP!](https://open.spotify.com/album/0nGVOy5b5uhlYFHf7nlbeB) | 3:25 | 2022-05-02 |  |
 | [leave me](https://open.spotify.com/track/0vrDGR5ZjdDIBUuDep6yXT) | [anees](https://open.spotify.com/artist/2HPqVfdPh9JkBSlFG5hK6h) | [leave me](https://open.spotify.com/album/68002qOu8hxM87YLHG7Bo5) | 3:40 | 2022-08-26 |  |
 | [Life Goes On](https://open.spotify.com/track/1rtaHauB4l1OFtD6thohhV) | [King Green](https://open.spotify.com/artist/3jivTPQnC8Vupqc3EFO33c), [Vanela](https://open.spotify.com/artist/1v3Hk0YPwZXnxnKKyXOrmu) | [Life Goes On](https://open.spotify.com/album/3vOzjE1upvGptrWs9usmoe) | 2:16 | 2022-05-02 | 2022-07-29 |
-| [longwayhome](https://open.spotify.com/track/5xOVRRvIkoI6xqfSAXLMew) | [lojii](https://open.spotify.com/artist/2N2l2BR0KlnQrFnOn7ntEN), [Alexander Spit](https://open.spotify.com/artist/6lx2eNLdx4ZkZwrjNubj8W) | [lo&behold](https://open.spotify.com/album/2usDuczD98n3Eqg79QAR4Y) | 2:28 | 2022-05-02 | 2022-09-29 |
+| [longwayhome](https://open.spotify.com/track/5xOVRRvIkoI6xqfSAXLMew) | [lojii](https://open.spotify.com/artist/2N2l2BR0KlnQrFnOn7ntEN), [Alexander Spit](https://open.spotify.com/artist/6lx2eNLdx4ZkZwrjNubj8W) | [lo&behold](https://open.spotify.com/album/2usDuczD98n3Eqg79QAR4Y) | 2:28 | 2022-05-02 |  |
 | [Love](https://open.spotify.com/track/6WGULFu1DyiSkxuo1l0cfs) | [tices](https://open.spotify.com/artist/4kfgtF7AKo4zGEaWP9xqHS), [Sika Deva](https://open.spotify.com/artist/3UsIngEd65pVgWQpwNjvqu) | [Love](https://open.spotify.com/album/6anZrvkEhxWUE1UCCNvRXZ) | 3:07 | 2022-05-02 | 2022-07-29 |
 | [Lullabies](https://open.spotify.com/track/7fvAIIqAH1TzC5ohdv0w2m) | [Prettyboyworldwyde](https://open.spotify.com/artist/4ij8hiJFbjYUq3n0Dw06gw) | [Lullabies](https://open.spotify.com/album/642lvfkfMbNRdvZJbpOYR2) | 3:06 | 2022-05-09 | 2022-07-26 |
 | [Made Me Everything](https://open.spotify.com/track/6SykBo6T7iX27cRWyQlmww) | [TOBi](https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN) | [ELEMENTS Vol\. 1](https://open.spotify.com/album/1c39zRl2zcy9c4rZoLLEGm) | 3:17 | 2022-05-09 |  |
@@ -136,6 +136,7 @@
 | [No Secret](https://open.spotify.com/track/7eQav22B8HjhNZEa9AelCs) | [Deante' Hitchcock](https://open.spotify.com/artist/5REHfa3YDopGOzrxwTsPvH) | [So Much For Good Luck](https://open.spotify.com/album/6fmDUieYF1Gtv9LKWHJ7W2) | 5:29 | 2022-05-02 |  |
 | [no sense](https://open.spotify.com/track/0TSyYtpSnQrLqsnbSTALTP) | [Baby Keem](https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1) | [no sense](https://open.spotify.com/album/43xK2HvPN2Tt8uKUiT93li) | 2:50 | 2022-05-02 | 2022-05-12 |
 | [Nominated](https://open.spotify.com/track/1Ko1nCXcMRnzhqCZL3kL9j) | [Hit\-Boy](https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed), [Dom Kennedy](https://open.spotify.com/artist/3s8alQfNnY0roAHaJh7Xxt) | [The Chauncey Hollis Project](https://open.spotify.com/album/0I2yQISctaHfFJW34W23zD) | 3:15 | 2022-05-09 | 2022-09-20 |
+| [Nominated](https://open.spotify.com/track/2qSyFWqgSms1CNj6Iyg6kn) | [Hit\-Boy](https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed), [Dom Kennedy](https://open.spotify.com/artist/3s8alQfNnY0roAHaJh7Xxt) | [The Chauncey Hollis Project](https://open.spotify.com/album/0cda8nWy3lOWTGVYATsaeD) | 3:15 | 2022-09-03 |  |
 | [On Read](https://open.spotify.com/track/0Du6LKh7z90m2v4WhEoIVH) | [Austin Millz](https://open.spotify.com/artist/43UmVQp9qZILibJ5vHq21k), [Pell](https://open.spotify.com/artist/2O2dI9lY9PnWtAa4OlrgMi) | [On Read](https://open.spotify.com/album/5ZV2mOXze7s9k3PA8kGMve) | 2:43 | 2022-05-02 |  |
 | [On the Loose](https://open.spotify.com/track/5s8b9TuTp1omlmCDaKBI3W) | [Will Claye](https://open.spotify.com/artist/29ko7p6q0gVHvzy7B2alol), [Reagan Capaci](https://open.spotify.com/artist/3juQ8wz0DRybHcAQj4Jxvw) | [Quoted](https://open.spotify.com/album/04r8mpVK4j7TeMMEHlLrA8) | 2:38 | 2022-05-02 |  |
 | [Open The Vault](https://open.spotify.com/track/146hIC9TgK9BCVeI5CFTpA) | [Sir Michael Rocks](https://open.spotify.com/artist/2F3zBRfrDfm2FyNT0YKyAx) | [Broken Window of Opportunity](https://open.spotify.com/album/5qeyrurwTalXH0HwFc6CCc) | 3:52 | 2022-05-02 |  |
@@ -152,7 +153,7 @@
 | [Problem](https://open.spotify.com/track/04iBVeB7jBibYM07VxJc7C) | [Domani](https://open.spotify.com/artist/0uFa64czAQ5cVJa3V0PfRq), [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V) | [Problem](https://open.spotify.com/album/47HqfRBVN7ymdwvra8bZ6r) | 3:54 | 2022-05-09 | 2022-07-29 |
 | [profile](https://open.spotify.com/track/4k0kI3nDzSOTGzQUTDnCpC) | [Kinrose](https://open.spotify.com/artist/6SUbi1ZVEswHqRUWsxmq2m) | [profile](https://open.spotify.com/album/3kYkDN4pfaTTTaNf80v0Z3) | 2:44 | 2022-07-06 | 2022-09-04 |
 | [PUSH TO START \(Freestyle\)](https://open.spotify.com/track/0xBo772kgQhitcPomUCegb) | [ICECOLDBISHOP](https://open.spotify.com/artist/04zbRSHjzlQYvV31SW7qZ4) | [PUSH TO START \(Freestyle\)](https://open.spotify.com/album/4wzhcNEfn6WpQIAWyBG15n) | 2:02 | 2022-05-09 | 2022-07-27 |
-| [RAT RACE](https://open.spotify.com/track/236H3YkhvEVYG5BRMyiKr2) | [Al\-Doms](https://open.spotify.com/artist/2SjTz6It0TjopEYQjJMxqb) | [NEW DREAM](https://open.spotify.com/album/1bBYwp7ljH7Lqqos95YqyX) | 3:02 | 2022-05-02 |  |
+| [RAT RACE](https://open.spotify.com/track/236H3YkhvEVYG5BRMyiKr2) | [Al\-Doms](https://open.spotify.com/artist/2SjTz6It0TjopEYQjJMxqb) | [NEW DREAM](https://open.spotify.com/album/1bBYwp7ljH7Lqqos95YqyX) | 3:02 | 2022-05-02 | 2022-10-05 |
 | [Read My Mind](https://open.spotify.com/track/1zQmThI8Hg234xIXT4zxA8) | [Cardboard Box](https://open.spotify.com/artist/4LlQnhAGWcVjx22KDxHJsg), [DJ Yung Vamp](https://open.spotify.com/artist/69eIrU4oA3mEHensYx0PWL) | [Read My Mind](https://open.spotify.com/album/7rAH6IzoBlxwwU1E5D0JLi) | 3:23 | 2022-05-02 |  |
 | [Reason](https://open.spotify.com/track/5hh3By6E17LN6N0txgB03W) | [Maadrhino](https://open.spotify.com/artist/69NXAR2kpX8fv5ed7xJpgx) | [Reason](https://open.spotify.com/album/5NKvLYonbBZWUqIyQSmbxt) | 3:01 | 2022-05-09 |  |
 | [Redo](https://open.spotify.com/track/6NZunfz5wbY8pYeDDlJUas) | [Crankdat](https://open.spotify.com/artist/5lCekoJW9jNq01B1wiqdAb) | [Redo](https://open.spotify.com/album/2AMprxvEKfL1MX46QFgHR7) | 3:17 | 2022-05-09 |  |

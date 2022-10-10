@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-13",
-  "description": "Where it all started. Cover: Cam'Ron",
+  "description": "Where it all started. Cover: Ja Rule",
   "name": "I Love My East Coast Classics",
   "published_playlist_ids": [
     "3itAObRKbEsL0P6iSCHXHF"
@@ -37,7 +37,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 204800,
       "name": "357",
       "url": "https://open.spotify.com/track/6cVufT60SNewBq2Ou4gPBB"
@@ -81,7 +81,7 @@
       ],
       "date_added": "2022-01-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-02",
+      "date_removed": null,
       "duration_ms": 245133,
       "name": "Always On Time",
       "url": "https://open.spotify.com/track/4hrae8atte6cRlSC9a7VCO"
@@ -139,7 +139,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 253666,
       "name": "Beanie (Mack B****)",
       "url": "https://open.spotify.com/track/67t2pIIrrdBWFr0u8y4L1b"
@@ -295,7 +295,7 @@
       ],
       "date_added": "2022-02-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 237720,
       "name": "Bucktown",
       "url": "https://open.spotify.com/track/5fyRqeycMofUoGmDis5Gu6"
@@ -598,6 +598,28 @@
     },
     {
       "album": {
+        "name": "Pain Is Love",
+        "url": "https://open.spotify.com/album/2wMavIKnu6feFNOeQ1hVwf"
+      },
+      "artists": [
+        {
+          "name": "Ja Rule",
+          "url": "https://open.spotify.com/artist/1J2VVASYAamtQ3Bt8wGgA6"
+        },
+        {
+          "name": "Chuck",
+          "url": "https://open.spotify.com/artist/3nymLh0T0yPM7HtNXzMJeO"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 331133,
+      "name": "Down A** B**ch",
+      "url": "https://open.spotify.com/track/4Z69sHFf60gZbdgdd9sBBq"
+    },
+    {
+      "album": {
         "name": "Ryde Or Die, Vol.1",
         "url": "https://open.spotify.com/album/1mQkCjNNs32GHM7nlEpA2N"
       },
@@ -799,7 +821,7 @@
       ],
       "date_added": "2021-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 243240,
       "name": "Get At Me Dog",
       "url": "https://open.spotify.com/track/64Jvj5JVttGkVHXHN21wiG"
@@ -1003,7 +1025,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 241533,
       "name": "Horse & Carriage (feat. Mase)",
       "url": "https://open.spotify.com/track/2IwuXiEjBo1vlHluE0mxQV"
@@ -1155,7 +1177,7 @@
       ],
       "date_added": "2021-06-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-22",
+      "date_removed": null,
       "duration_ms": 227866,
       "name": "I Just Wanna Love U (Give It 2 Me)",
       "url": "https://open.spotify.com/track/0s46SltT4On0Z6kglK1I5c"
@@ -2204,6 +2226,28 @@
     },
     {
       "album": {
+        "name": "Rule 3:36",
+        "url": "https://open.spotify.com/album/2PIXzzS8WEzv8Ws92qspEH"
+      },
+      "artists": [
+        {
+          "name": "Ja Rule",
+          "url": "https://open.spotify.com/artist/1J2VVASYAamtQ3Bt8wGgA6"
+        },
+        {
+          "name": "Vita",
+          "url": "https://open.spotify.com/artist/3ot6fEzKvRrCnWy5BWlnxU"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262826,
+      "name": "Put It On Me",
+      "url": "https://open.spotify.com/track/0OvwzS8FX73Bw7ykMRmffU"
+    },
+    {
+      "album": {
         "name": "When Disaster Strikes...",
         "url": "https://open.spotify.com/album/6nPdlsKWGOFepgMMXTZReP"
       },
@@ -3025,9 +3069,9 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 250333,
-      "name": "Twinz (Deep Cover 98) (feat. Fat Joe)",
+      "name": "Twinz (feat. Fat Joe)",
       "url": "https://open.spotify.com/track/4FvzYxkJ6GYZm7RtvuXwfR"
     },
     {

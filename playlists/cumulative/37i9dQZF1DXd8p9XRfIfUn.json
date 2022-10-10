@@ -891,7 +891,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-05",
       "duration_ms": 139428,
       "name": "Guilla",
       "url": "https://open.spotify.com/track/4xTZL1wNVCtCrqJQUHqHdc"
@@ -1048,6 +1048,32 @@
     },
     {
       "album": {
+        "name": "HOR\u00d3SCOPO",
+        "url": "https://open.spotify.com/album/3P7WHmEMptKZ1mD7vQ9cGS"
+      },
+      "artists": [
+        {
+          "name": "Javiielo",
+          "url": "https://open.spotify.com/artist/3HH6yOn1yJNZo3RY5zEfy5"
+        },
+        {
+          "name": "Blessd",
+          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
+        },
+        {
+          "name": "DEKKO",
+          "url": "https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248659,
+      "name": "HOR\u00d3SCOPO",
+      "url": "https://open.spotify.com/track/39hGDe9XmX4EN11F6TFl8x"
+    },
+    {
+      "album": {
         "name": "IMPOSIBLE",
         "url": "https://open.spotify.com/album/4QerNrI0xPSnpiny4bROq6"
       },
@@ -1185,7 +1211,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-01",
+      "date_removed": "2022-10-05",
       "duration_ms": 190285,
       "name": "La Botella",
       "url": "https://open.spotify.com/track/5YRoLVSBCQmQAYCVi5Et95"
@@ -1569,7 +1595,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-04",
       "duration_ms": 173936,
       "name": "Manzana",
       "url": "https://open.spotify.com/track/1BMoI40IIeE8hUtjSy8jQz"
@@ -2783,7 +2809,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-02",
+      "date_removed": null,
       "duration_ms": 149326,
       "name": "Te Juro",
       "url": "https://open.spotify.com/track/0JElJmnJDGum8BGOE4yNsU"

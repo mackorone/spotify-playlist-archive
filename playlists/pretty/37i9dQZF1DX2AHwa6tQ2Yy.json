@@ -1,12 +1,12 @@
 {
   "description": "Let the music flow through you...",
-  "num_followers": 28966,
+  "num_followers": 29457,
   "original_name": "Soulful",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjY1MjU2NiwwMDAwMDAwMDI1YjMwYWE5NTg1ZTE5ZDZiMjVkNDYyMWI0YmQ0N2Uz",
+  "snapshot_id": "MTY2MjY1MjU2NiwwMDAwMDAwMDRiODEyZmFlYWM3ZTU4NmI4ZjczNzRmYTlmY2I5YjE4",
   "tracks": [
     {
       "added_at": "2022-09-08 15:56:06",
@@ -183,18 +183,18 @@
     {
       "added_at": "2022-09-08 15:56:06",
       "album": {
-        "name": "Hoodie",
-        "url": "https://open.spotify.com/album/1ZLgyjJGWx0ocXdzxGAToN"
+        "name": "Process (Bonus Edition)",
+        "url": "https://open.spotify.com/album/4rA6i9oXyMhh77pqK0cXKv"
       },
       "artists": [
         {
-          "name": "Ari Lennox",
-          "url": "https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom"
+          "name": "Sampha",
+          "url": "https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm"
         }
       ],
-      "duration_ms": 244412,
-      "name": "Hoodie",
-      "url": "https://open.spotify.com/track/4WQquFaW7w5ddLqjgwUizy"
+      "duration_ms": 218160,
+      "name": "(No One Knows Me) Like the Piano",
+      "url": "https://open.spotify.com/track/2UBwvSk8tTMqydEdWsfBb8"
     },
     {
       "added_at": "2022-09-08 15:56:06",
@@ -219,22 +219,6 @@
     {
       "added_at": "2022-09-08 15:56:06",
       "album": {
-        "name": "Process (Bonus Edition)",
-        "url": "https://open.spotify.com/album/4rA6i9oXyMhh77pqK0cXKv"
-      },
-      "artists": [
-        {
-          "name": "Sampha",
-          "url": "https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm"
-        }
-      ],
-      "duration_ms": 218160,
-      "name": "(No One Knows Me) Like the Piano",
-      "url": "https://open.spotify.com/track/2UBwvSk8tTMqydEdWsfBb8"
-    },
-    {
-      "added_at": "2022-09-08 15:56:06",
-      "album": {
         "name": "ALICIA",
         "url": "https://open.spotify.com/album/1168pCxg0HeTRqyutFf4o1"
       },
@@ -251,6 +235,22 @@
       "duration_ms": 234866,
       "name": "So Done (feat. Khalid)",
       "url": "https://open.spotify.com/track/0DC6yJLAPwIEeZh6EZpn1f"
+    },
+    {
+      "added_at": "2022-09-08 15:56:06",
+      "album": {
+        "name": "Hoodie",
+        "url": "https://open.spotify.com/album/1ZLgyjJGWx0ocXdzxGAToN"
+      },
+      "artists": [
+        {
+          "name": "Ari Lennox",
+          "url": "https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom"
+        }
+      ],
+      "duration_ms": 244412,
+      "name": "Hoodie",
+      "url": "https://open.spotify.com/track/4WQquFaW7w5ddLqjgwUizy"
     },
     {
       "added_at": "2022-09-08 15:56:06",
@@ -371,18 +371,18 @@
     {
       "added_at": "2022-09-08 15:56:06",
       "album": {
-        "name": "Y3",
-        "url": "https://open.spotify.com/album/684We4tIOzKAyNFV5MtWNj"
+        "name": "Unconditionally",
+        "url": "https://open.spotify.com/album/0jv3He98jgN7Joy9qiTm17"
       },
       "artists": [
         {
-          "name": "Yuna",
-          "url": "https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1"
+          "name": "JKING",
+          "url": "https://open.spotify.com/artist/305wwkdz2V7qZtTIvwPfMp"
         }
       ],
-      "duration_ms": 218048,
-      "name": "Risk It All",
-      "url": "https://open.spotify.com/track/1nNBUK7ktg9n96YR4NNktg"
+      "duration_ms": 152673,
+      "name": "Unconditionally",
+      "url": "https://open.spotify.com/track/4QZGeNO9Mo7NewVb1QAcOE"
     },
     {
       "added_at": "2022-09-08 15:56:06",
@@ -439,34 +439,18 @@
     {
       "added_at": "2022-09-08 15:56:06",
       "album": {
-        "name": "Unconditionally",
-        "url": "https://open.spotify.com/album/0jv3He98jgN7Joy9qiTm17"
+        "name": "Y3",
+        "url": "https://open.spotify.com/album/684We4tIOzKAyNFV5MtWNj"
       },
       "artists": [
         {
-          "name": "JKING",
-          "url": "https://open.spotify.com/artist/305wwkdz2V7qZtTIvwPfMp"
+          "name": "Yuna",
+          "url": "https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1"
         }
       ],
-      "duration_ms": 152673,
-      "name": "Unconditionally",
-      "url": "https://open.spotify.com/track/4QZGeNO9Mo7NewVb1QAcOE"
-    },
-    {
-      "added_at": "2022-09-08 15:56:06",
-      "album": {
-        "name": "Thinking Too Much",
-        "url": "https://open.spotify.com/album/5gQlfc5Uk8txY9bAH0TIaQ"
-      },
-      "artists": [
-        {
-          "name": "TOI",
-          "url": "https://open.spotify.com/artist/6AdX4TgEt0fYWoRqvHi81A"
-        }
-      ],
-      "duration_ms": 208405,
-      "name": "Thinking Too Much",
-      "url": "https://open.spotify.com/track/7ES4KuLdHnkBRFqWsQua8r"
+      "duration_ms": 218048,
+      "name": "Risk It All",
+      "url": "https://open.spotify.com/track/1nNBUK7ktg9n96YR4NNktg"
     },
     {
       "added_at": "2022-09-08 15:56:06",
@@ -487,6 +471,22 @@
       "duration_ms": 218400,
       "name": "Stay High - Childish Gambino Version",
       "url": "https://open.spotify.com/track/6LmNmPxViPRou1YAvyg1OS"
+    },
+    {
+      "added_at": "2022-09-08 15:56:06",
+      "album": {
+        "name": "Thinking Too Much",
+        "url": "https://open.spotify.com/album/5gQlfc5Uk8txY9bAH0TIaQ"
+      },
+      "artists": [
+        {
+          "name": "TOI",
+          "url": "https://open.spotify.com/artist/6AdX4TgEt0fYWoRqvHi81A"
+        }
+      ],
+      "duration_ms": 208405,
+      "name": "Thinking Too Much",
+      "url": "https://open.spotify.com/track/7ES4KuLdHnkBRFqWsQua8r"
     },
     {
       "added_at": "2022-09-08 15:56:06",
@@ -523,34 +523,18 @@
     {
       "added_at": "2022-09-08 15:56:06",
       "album": {
-        "name": "First Thing Smokin'",
-        "url": "https://open.spotify.com/album/00HgeagDQJttNRTLrpjqa9"
+        "name": "Spider",
+        "url": "https://open.spotify.com/album/6BLGrbjxYgMxugvnOJLfxx"
       },
       "artists": [
         {
-          "name": "LOONY",
-          "url": "https://open.spotify.com/artist/0xSfdfhcXN6T8M5gt7VwK0"
+          "name": "Dallas Tamaira",
+          "url": "https://open.spotify.com/artist/7kA1tgOWHU6o4KedxlOStt"
         }
       ],
-      "duration_ms": 223925,
-      "name": "First Thing Smokin'",
-      "url": "https://open.spotify.com/track/1gEI1aE97pEFA8RfE3BWmA"
-    },
-    {
-      "added_at": "2022-09-08 15:56:06",
-      "album": {
-        "name": "Don't Forget to Look Up",
-        "url": "https://open.spotify.com/album/5tjk1ytGtD0o0uSS52VkeK"
-      },
-      "artists": [
-        {
-          "name": "Maverick Sabre",
-          "url": "https://open.spotify.com/artist/0ukgrNYk51TkMQr0f2Br4Q"
-        }
-      ],
-      "duration_ms": 210873,
-      "name": "Good Man",
-      "url": "https://open.spotify.com/track/5KfKnJVNXZoohjeSA6hw8e"
+      "duration_ms": 174614,
+      "name": "Spider",
+      "url": "https://open.spotify.com/track/2yfozOE8IyeOz8NLqmU0OT"
     },
     {
       "added_at": "2022-09-08 15:56:06",
@@ -575,6 +559,38 @@
     {
       "added_at": "2022-09-08 15:56:06",
       "album": {
+        "name": "Don't Forget to Look Up",
+        "url": "https://open.spotify.com/album/5tjk1ytGtD0o0uSS52VkeK"
+      },
+      "artists": [
+        {
+          "name": "Maverick Sabre",
+          "url": "https://open.spotify.com/artist/0ukgrNYk51TkMQr0f2Br4Q"
+        }
+      ],
+      "duration_ms": 210873,
+      "name": "Good Man",
+      "url": "https://open.spotify.com/track/5KfKnJVNXZoohjeSA6hw8e"
+    },
+    {
+      "added_at": "2022-09-08 15:56:06",
+      "album": {
+        "name": "First Thing Smokin'",
+        "url": "https://open.spotify.com/album/00HgeagDQJttNRTLrpjqa9"
+      },
+      "artists": [
+        {
+          "name": "LOONY",
+          "url": "https://open.spotify.com/artist/0xSfdfhcXN6T8M5gt7VwK0"
+        }
+      ],
+      "duration_ms": 223925,
+      "name": "First Thing Smokin'",
+      "url": "https://open.spotify.com/track/1gEI1aE97pEFA8RfE3BWmA"
+    },
+    {
+      "added_at": "2022-09-08 15:56:06",
+      "album": {
         "name": "I Won't Let You Down",
         "url": "https://open.spotify.com/album/0MTBD4WKIES8BkS8rfSKnp"
       },
@@ -591,22 +607,6 @@
     {
       "added_at": "2022-09-08 15:56:06",
       "album": {
-        "name": "Spider",
-        "url": "https://open.spotify.com/album/6BLGrbjxYgMxugvnOJLfxx"
-      },
-      "artists": [
-        {
-          "name": "Dallas Tamaira",
-          "url": "https://open.spotify.com/artist/7kA1tgOWHU6o4KedxlOStt"
-        }
-      ],
-      "duration_ms": 174614,
-      "name": "Spider",
-      "url": "https://open.spotify.com/track/2yfozOE8IyeOz8NLqmU0OT"
-    },
-    {
-      "added_at": "2022-09-08 15:56:06",
-      "album": {
         "name": "Hold On",
         "url": "https://open.spotify.com/album/3WWfApLKg76DOgntZABET6"
       },
@@ -619,26 +619,6 @@
       "duration_ms": 203214,
       "name": "Hold On",
       "url": "https://open.spotify.com/track/0zcRUprLKw7LtndkBurb3S"
-    },
-    {
-      "added_at": "2022-09-08 15:56:06",
-      "album": {
-        "name": "Bigger Dreams",
-        "url": "https://open.spotify.com/album/7g0ZUn505parZAzW477hHd"
-      },
-      "artists": [
-        {
-          "name": "Nia Sultana",
-          "url": "https://open.spotify.com/artist/1L8An7RfJbMW7zBy2fE0Tz"
-        },
-        {
-          "name": "Rick Ross",
-          "url": "https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a"
-        }
-      ],
-      "duration_ms": 267510,
-      "name": "Proven (with Rick Ross)",
-      "url": "https://open.spotify.com/track/1ReSAuZPXUTXYFHIHaLqyG"
     },
     {
       "added_at": "2022-09-08 15:56:06",
@@ -679,6 +659,26 @@
     {
       "added_at": "2022-09-08 15:56:06",
       "album": {
+        "name": "Bigger Dreams",
+        "url": "https://open.spotify.com/album/7g0ZUn505parZAzW477hHd"
+      },
+      "artists": [
+        {
+          "name": "Nia Sultana",
+          "url": "https://open.spotify.com/artist/1L8An7RfJbMW7zBy2fE0Tz"
+        },
+        {
+          "name": "Rick Ross",
+          "url": "https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a"
+        }
+      ],
+      "duration_ms": 267510,
+      "name": "Proven (with Rick Ross)",
+      "url": "https://open.spotify.com/track/1ReSAuZPXUTXYFHIHaLqyG"
+    },
+    {
+      "added_at": "2022-09-08 15:56:06",
+      "album": {
         "name": "Make It Happen (Deluxe Edition)",
         "url": "https://open.spotify.com/album/5RbJ1jOe7KFVfbB5GOLhUT"
       },
@@ -695,38 +695,6 @@
     {
       "added_at": "2022-09-08 15:56:06",
       "album": {
-        "name": "Something To Feel",
-        "url": "https://open.spotify.com/album/39MCSCwQlqT6xm28UpGz39"
-      },
-      "artists": [
-        {
-          "name": "TEEKS",
-          "url": "https://open.spotify.com/artist/4ofg0wyo4TjuNtWQ5XxZhJ"
-        }
-      ],
-      "duration_ms": 192253,
-      "name": "Oil & Water",
-      "url": "https://open.spotify.com/track/62lq6SYb2Q0BP1nYpFXlby"
-    },
-    {
-      "added_at": "2022-09-08 15:56:06",
-      "album": {
-        "name": "Pieces",
-        "url": "https://open.spotify.com/album/4bRhptKi6B8B0A2ssBiPyA"
-      },
-      "artists": [
-        {
-          "name": "Yazmin Lacey",
-          "url": "https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg"
-        }
-      ],
-      "duration_ms": 352633,
-      "name": "Pieces",
-      "url": "https://open.spotify.com/track/0yKfO5xFUkSG7JmyPcwtAP"
-    },
-    {
-      "added_at": "2022-09-08 15:56:06",
-      "album": {
         "name": "No Flowers",
         "url": "https://open.spotify.com/album/4AVeqsCo8ewXf9uN3IF9gs"
       },
@@ -739,6 +707,38 @@
       "duration_ms": 184557,
       "name": "No Flowers",
       "url": "https://open.spotify.com/track/5NOViHpW9RmHc2HQKxewyb"
+    },
+    {
+      "added_at": "2022-09-08 15:56:06",
+      "album": {
+        "name": "L.A.B IV",
+        "url": "https://open.spotify.com/album/15CViSIGJXmn2dn0Tt1wm1"
+      },
+      "artists": [
+        {
+          "name": "L.A.B.",
+          "url": "https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC"
+        }
+      ],
+      "duration_ms": 220440,
+      "name": "Natural",
+      "url": "https://open.spotify.com/track/6BZ0VMdtzWZZ3ecUMKmarw"
+    },
+    {
+      "added_at": "2022-09-08 15:56:06",
+      "album": {
+        "name": "Something To Feel",
+        "url": "https://open.spotify.com/album/39MCSCwQlqT6xm28UpGz39"
+      },
+      "artists": [
+        {
+          "name": "TEEKS",
+          "url": "https://open.spotify.com/artist/4ofg0wyo4TjuNtWQ5XxZhJ"
+        }
+      ],
+      "duration_ms": 192253,
+      "name": "Oil & Water",
+      "url": "https://open.spotify.com/track/62lq6SYb2Q0BP1nYpFXlby"
     },
     {
       "added_at": "2022-09-08 15:56:06",
@@ -791,18 +791,34 @@
     {
       "added_at": "2022-09-08 15:56:06",
       "album": {
-        "name": "High Off You",
-        "url": "https://open.spotify.com/album/0okhOL15AUDSqpKFi9CHcu"
+        "name": "Better With You",
+        "url": "https://open.spotify.com/album/6hNFfriiHoZFXIVx4UJ82v"
       },
       "artists": [
         {
-          "name": "alayna",
-          "url": "https://open.spotify.com/artist/7JwNWaTv4y9WNJCihQFHpv"
+          "name": "Jackson Owens",
+          "url": "https://open.spotify.com/artist/33jhdrAHX9sSFzdKpYd2ke"
         }
       ],
-      "duration_ms": 233760,
-      "name": "High Off You",
-      "url": "https://open.spotify.com/track/0Tac3CLKtrgDgoNipYyZaw"
+      "duration_ms": 137046,
+      "name": "Better With You",
+      "url": "https://open.spotify.com/track/6eXNp3TwJsu67AEpWkU38O"
+    },
+    {
+      "added_at": "2022-09-08 15:56:06",
+      "album": {
+        "name": "Pieces",
+        "url": "https://open.spotify.com/album/4bRhptKi6B8B0A2ssBiPyA"
+      },
+      "artists": [
+        {
+          "name": "Yazmin Lacey",
+          "url": "https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg"
+        }
+      ],
+      "duration_ms": 352633,
+      "name": "Pieces",
+      "url": "https://open.spotify.com/track/0yKfO5xFUkSG7JmyPcwtAP"
     },
     {
       "added_at": "2022-09-08 15:56:06",
@@ -823,34 +839,18 @@
     {
       "added_at": "2022-09-08 15:56:06",
       "album": {
-        "name": "L.A.B IV",
-        "url": "https://open.spotify.com/album/15CViSIGJXmn2dn0Tt1wm1"
+        "name": "High Off You",
+        "url": "https://open.spotify.com/album/0okhOL15AUDSqpKFi9CHcu"
       },
       "artists": [
         {
-          "name": "L.A.B.",
-          "url": "https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC"
+          "name": "alayna",
+          "url": "https://open.spotify.com/artist/7JwNWaTv4y9WNJCihQFHpv"
         }
       ],
-      "duration_ms": 220440,
-      "name": "Natural",
-      "url": "https://open.spotify.com/track/6BZ0VMdtzWZZ3ecUMKmarw"
-    },
-    {
-      "added_at": "2022-09-08 15:56:06",
-      "album": {
-        "name": "Better With You",
-        "url": "https://open.spotify.com/album/6hNFfriiHoZFXIVx4UJ82v"
-      },
-      "artists": [
-        {
-          "name": "Jackson Owens",
-          "url": "https://open.spotify.com/artist/33jhdrAHX9sSFzdKpYd2ke"
-        }
-      ],
-      "duration_ms": 137046,
-      "name": "Better With You",
-      "url": "https://open.spotify.com/track/6eXNp3TwJsu67AEpWkU38O"
+      "duration_ms": 233760,
+      "name": "High Off You",
+      "url": "https://open.spotify.com/track/0Tac3CLKtrgDgoNipYyZaw"
     },
     {
       "added_at": "2022-09-08 15:56:06",
@@ -891,22 +891,6 @@
     {
       "added_at": "2022-09-08 15:56:06",
       "album": {
-        "name": "With You",
-        "url": "https://open.spotify.com/album/11Tq32iGErxMwUQqpYom5r"
-      },
-      "artists": [
-        {
-          "name": "Rellek Brown",
-          "url": "https://open.spotify.com/artist/5YZZLC4P2XEqDLsQDoGsME"
-        }
-      ],
-      "duration_ms": 191842,
-      "name": "With You",
-      "url": "https://open.spotify.com/track/06kvUr3p93vBQT1n1Dv3Se"
-    },
-    {
-      "added_at": "2022-09-08 15:56:06",
-      "album": {
         "name": "Like Neptune",
         "url": "https://open.spotify.com/album/014KjVEwCWxN2hWFYsUWNB"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 268013,
       "name": "inside out",
       "url": "https://open.spotify.com/track/6Jk5XZB83vccvK6svvkjzA"
+    },
+    {
+      "added_at": "2022-09-08 15:56:06",
+      "album": {
+        "name": "With You",
+        "url": "https://open.spotify.com/album/11Tq32iGErxMwUQqpYom5r"
+      },
+      "artists": [
+        {
+          "name": "Rellek Brown",
+          "url": "https://open.spotify.com/artist/5YZZLC4P2XEqDLsQDoGsME"
+        }
+      ],
+      "duration_ms": 191842,
+      "name": "With You",
+      "url": "https://open.spotify.com/track/06kvUr3p93vBQT1n1Dv3Se"
     },
     {
       "added_at": "2022-09-08 15:56:06",
@@ -967,6 +967,22 @@
       "duration_ms": 196536,
       "name": "Damaged",
       "url": "https://open.spotify.com/track/1Q15fOVSvuMbvgUddeMNVj"
+    },
+    {
+      "added_at": "2022-09-08 15:56:06",
+      "album": {
+        "name": "Just Fine",
+        "url": "https://open.spotify.com/album/2KnEJL8yLVFBzS8ZneL1kC"
+      },
+      "artists": [
+        {
+          "name": "Dallas Tamaira",
+          "url": "https://open.spotify.com/artist/7kA1tgOWHU6o4KedxlOStt"
+        }
+      ],
+      "duration_ms": 174000,
+      "name": "Just Fine",
+      "url": "https://open.spotify.com/track/5OEha6DVSo75Cvg0qNFHaP"
     },
     {
       "added_at": "2022-09-08 15:56:06",
@@ -1051,6 +1067,22 @@
     {
       "added_at": "2022-09-08 15:56:06",
       "album": {
+        "name": "Only Wanna Be With You",
+        "url": "https://open.spotify.com/album/5MEXy3BoHRig5xBgxdzegm"
+      },
+      "artists": [
+        {
+          "name": "Samm Henshaw",
+          "url": "https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4"
+        }
+      ],
+      "duration_ms": 180355,
+      "name": "Only Wanna Be With You",
+      "url": "https://open.spotify.com/track/7ivEZyVKpHlqCKFFUqOYX1"
+    },
+    {
+      "added_at": "2022-09-08 15:56:06",
+      "album": {
         "name": "Changes",
         "url": "https://open.spotify.com/album/5YQ0n6vBeXrc5vbnls88ha"
       },
@@ -1063,6 +1095,22 @@
       "duration_ms": 203700,
       "name": "Changes",
       "url": "https://open.spotify.com/track/0O3YBAj2Ly1LDA2Q0QtjTQ"
+    },
+    {
+      "added_at": "2022-09-08 15:56:06",
+      "album": {
+        "name": "Jasmine",
+        "url": "https://open.spotify.com/album/6hvqJBXUe6Zgd8yfL6zI3r"
+      },
+      "artists": [
+        {
+          "name": "MOHI",
+          "url": "https://open.spotify.com/artist/7Js2UhLghB9qaiZRfK275R"
+        }
+      ],
+      "duration_ms": 209558,
+      "name": "Jasmine",
+      "url": "https://open.spotify.com/track/25AouMLMx284p5h06BcYBH"
     },
     {
       "added_at": "2022-09-08 15:56:06",
@@ -1087,18 +1135,18 @@
     {
       "added_at": "2022-09-08 15:56:06",
       "album": {
-        "name": "Only Wanna Be With You",
-        "url": "https://open.spotify.com/album/5MEXy3BoHRig5xBgxdzegm"
+        "name": "Like Neptune",
+        "url": "https://open.spotify.com/album/014KjVEwCWxN2hWFYsUWNB"
       },
       "artists": [
         {
-          "name": "Samm Henshaw",
-          "url": "https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4"
+          "name": "Son Little",
+          "url": "https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7"
         }
       ],
-      "duration_ms": 180355,
-      "name": "Only Wanna Be With You",
-      "url": "https://open.spotify.com/track/7ivEZyVKpHlqCKFFUqOYX1"
+      "duration_ms": 279453,
+      "name": "deeper",
+      "url": "https://open.spotify.com/track/7kqiHD9lXoksOXA9qEt6Rs"
     },
     {
       "added_at": "2022-09-08 15:56:06",
@@ -1123,38 +1171,6 @@
     {
       "added_at": "2022-09-08 15:56:06",
       "album": {
-        "name": "Like Neptune",
-        "url": "https://open.spotify.com/album/014KjVEwCWxN2hWFYsUWNB"
-      },
-      "artists": [
-        {
-          "name": "Son Little",
-          "url": "https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7"
-        }
-      ],
-      "duration_ms": 279453,
-      "name": "deeper",
-      "url": "https://open.spotify.com/track/7kqiHD9lXoksOXA9qEt6Rs"
-    },
-    {
-      "added_at": "2022-09-08 15:56:06",
-      "album": {
-        "name": "Jasmine",
-        "url": "https://open.spotify.com/album/6hvqJBXUe6Zgd8yfL6zI3r"
-      },
-      "artists": [
-        {
-          "name": "MOHI",
-          "url": "https://open.spotify.com/artist/7Js2UhLghB9qaiZRfK275R"
-        }
-      ],
-      "duration_ms": 209558,
-      "name": "Jasmine",
-      "url": "https://open.spotify.com/track/25AouMLMx284p5h06BcYBH"
-    },
-    {
-      "added_at": "2022-09-08 15:56:06",
-      "album": {
         "name": "Perfect Day",
         "url": "https://open.spotify.com/album/2V5GaU7Cb8RtmAd7Qs9zWL"
       },
@@ -1171,22 +1187,6 @@
       "duration_ms": 228300,
       "name": "Perfect Day",
       "url": "https://open.spotify.com/track/0cpdfHdRIhp0MQ9Cxk1MDV"
-    },
-    {
-      "added_at": "2022-09-08 15:56:06",
-      "album": {
-        "name": "Just Fine",
-        "url": "https://open.spotify.com/album/2KnEJL8yLVFBzS8ZneL1kC"
-      },
-      "artists": [
-        {
-          "name": "Dallas Tamaira",
-          "url": "https://open.spotify.com/artist/7kA1tgOWHU6o4KedxlOStt"
-        }
-      ],
-      "duration_ms": 174000,
-      "name": "Just Fine",
-      "url": "https://open.spotify.com/track/5OEha6DVSo75Cvg0qNFHaP"
     }
   ],
   "unique_name": "Soulful",

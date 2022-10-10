@@ -458,6 +458,28 @@
     },
     {
       "album": {
+        "name": "EiGHTYF!VE",
+        "url": "https://open.spotify.com/album/6oClhRDiDoUEfrmVfYCIMr"
+      },
+      "artists": [
+        {
+          "name": "Tvilling",
+          "url": "https://open.spotify.com/artist/2AX5R5SIikV7NGMOZupAGm"
+        },
+        {
+          "name": "Jon",
+          "url": "https://open.spotify.com/artist/1WD5Hdopwbbx8OdDR6jRZI"
+        }
+      ],
+      "date_added": "2022-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204584,
+      "name": "God Only Knows",
+      "url": "https://open.spotify.com/track/0LVE8AE8ZsVxvwVoFIch9D"
+    },
+    {
+      "album": {
         "name": "God Only Knows",
         "url": "https://open.spotify.com/album/5aei5Brs37JLBRvNKGAilc"
       },
@@ -473,7 +495,7 @@
       ],
       "date_added": "2022-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-09",
       "duration_ms": 204584,
       "name": "God Only Knows",
       "url": "https://open.spotify.com/track/0SZimpCB6XxixvTav2YoUy"

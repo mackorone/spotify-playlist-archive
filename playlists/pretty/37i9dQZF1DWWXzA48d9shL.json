@@ -1,36 +1,76 @@
 {
   "description": "New CORPSE ft. Scarlxrd & Kordhell",
-  "num_followers": 308611,
+  "num_followers": 318224,
   "original_name": "Tirade",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDU1NDMzMCwwMDAwMDAwMDJiM2M5ZWUzYmY5ZDM0ODAzMDdiMTljODQ3ZTljMWQy",
+  "snapshot_id": "MTY2NTExNTQ0MCwwMDAwMDAwMDJjNTczOTc5ODg2MGUxMzE3YWZlMWRlNWMzMGRkMDUz",
   "tracks": [
     {
-      "added_at": "2022-09-02 06:10:00",
+      "added_at": "2022-10-07 04:04:00",
       "album": {
-        "name": "MISA MISA!",
-        "url": "https://open.spotify.com/album/2hAi0yG2MGIucH8P08hRFZ"
+        "name": "LIKE YXU WXULD KNXW (AUTUMN TREES)",
+        "url": "https://open.spotify.com/album/0SydhvaVdZzioAgD2HxuXY"
       },
       "artists": [
         {
-          "name": "CORPSE",
-          "url": "https://open.spotify.com/artist/7yntSJ6uojO3z6GFUVwhAW"
+          "name": "Kordhell",
+          "url": "https://open.spotify.com/artist/2W6WP4pHQTFlbr2z9S4n54"
         },
         {
           "name": "Scarlxrd",
           "url": "https://open.spotify.com/artist/6rYogEVj60BCIsLukpAnwr"
         },
         {
-          "name": "Kordhell",
-          "url": "https://open.spotify.com/artist/2W6WP4pHQTFlbr2z9S4n54"
+          "name": "CORPSE",
+          "url": "https://open.spotify.com/artist/7yntSJ6uojO3z6GFUVwhAW"
         }
       ],
-      "duration_ms": 85894,
-      "name": "MISA MISA!",
-      "url": "https://open.spotify.com/track/3bpR5jv8uzraDgq5YpHwDw"
+      "duration_ms": 210000,
+      "name": "LIKE YXU WXULD KNXW (AUTUMN TREES)",
+      "url": "https://open.spotify.com/track/75M7UJy4KmcP3ng0vICdPN"
+    },
+    {
+      "added_at": "2022-10-07 04:04:00",
+      "album": {
+        "name": "Hope You're Proud",
+        "url": "https://open.spotify.com/album/7iidCiYZ0gNZHm3S7CODEQ"
+      },
+      "artists": [
+        {
+          "name": "Fat Nick",
+          "url": "https://open.spotify.com/artist/5dfFr2qhmXQLvHZqg0dynx"
+        },
+        {
+          "name": "Jasiah",
+          "url": "https://open.spotify.com/artist/7502fDxg339jvGV08Jd4R0"
+        }
+      ],
+      "duration_ms": 160473,
+      "name": "1-800-Swallow Me (feat. Jasiah)",
+      "url": "https://open.spotify.com/track/7tIFl5tbjhQHhAf6K8A2ru"
+    },
+    {
+      "added_at": "2022-09-02 06:10:00",
+      "album": {
+        "name": "vendetta!",
+        "url": "https://open.spotify.com/album/68lLFdlKCAqUQ3p3uDlozr"
+      },
+      "artists": [
+        {
+          "name": "MUPP",
+          "url": "https://open.spotify.com/artist/7B9Gg9epjQzfNGdxijFczG"
+        },
+        {
+          "name": "Sadfriendd",
+          "url": "https://open.spotify.com/artist/4UT0p3ljEiD472lZp44KLH"
+        }
+      ],
+      "duration_ms": 107044,
+      "name": "vendetta!",
+      "url": "https://open.spotify.com/track/5Sk39LuvdwuvL84jD01Dum"
     },
     {
       "added_at": "2022-09-26 21:16:01",
@@ -155,22 +195,26 @@
     {
       "added_at": "2022-09-02 06:10:00",
       "album": {
-        "name": "vendetta!",
-        "url": "https://open.spotify.com/album/68lLFdlKCAqUQ3p3uDlozr"
+        "name": "MISA MISA!",
+        "url": "https://open.spotify.com/album/2hAi0yG2MGIucH8P08hRFZ"
       },
       "artists": [
         {
-          "name": "MUPP",
-          "url": "https://open.spotify.com/artist/7B9Gg9epjQzfNGdxijFczG"
+          "name": "CORPSE",
+          "url": "https://open.spotify.com/artist/7yntSJ6uojO3z6GFUVwhAW"
         },
         {
-          "name": "Sadfriendd",
-          "url": "https://open.spotify.com/artist/4UT0p3ljEiD472lZp44KLH"
+          "name": "Scarlxrd",
+          "url": "https://open.spotify.com/artist/6rYogEVj60BCIsLukpAnwr"
+        },
+        {
+          "name": "Kordhell",
+          "url": "https://open.spotify.com/artist/2W6WP4pHQTFlbr2z9S4n54"
         }
       ],
-      "duration_ms": 107044,
-      "name": "vendetta!",
-      "url": "https://open.spotify.com/track/5Sk39LuvdwuvL84jD01Dum"
+      "duration_ms": 85894,
+      "name": "MISA MISA!",
+      "url": "https://open.spotify.com/track/3bpR5jv8uzraDgq5YpHwDw"
     },
     {
       "added_at": "2022-09-02 06:10:00",
@@ -239,6 +283,26 @@
       "duration_ms": 122000,
       "name": "BALL LIKE THIS",
       "url": "https://open.spotify.com/track/7L4mOvChiwkCZUruXj968x"
+    },
+    {
+      "added_at": "2022-10-07 04:04:00",
+      "album": {
+        "name": "Red Rain",
+        "url": "https://open.spotify.com/album/7euxM0u7f0v4KwFeGuZvCM"
+      },
+      "artists": [
+        {
+          "name": "Faceless 1-7",
+          "url": "https://open.spotify.com/artist/4G8pxxXC4de4hnFBVWLqgV"
+        },
+        {
+          "name": "K.V.N",
+          "url": "https://open.spotify.com/artist/0spgIsDeSqUcUjfejGzMXc"
+        }
+      ],
+      "duration_ms": 120624,
+      "name": "Red Rain",
+      "url": "https://open.spotify.com/track/2gnZhOhmmX0rDqdm3inrvC"
     },
     {
       "added_at": "2022-09-02 06:10:00",

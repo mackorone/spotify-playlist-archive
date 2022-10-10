@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "The best new music by independent artists in the UK + Ireland. Cover: Bea Stewart",
+  "description": "The best new music by independent artists in the UK + Ireland. Cover: davecreates",
   "name": "Fresh Finds UK & IE",
   "published_playlist_ids": [
     "7p7eF0LcucA5cLFCS6Cqce"
@@ -463,7 +463,7 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-07",
       "duration_ms": 166800,
       "name": "Alone With You",
       "url": "https://open.spotify.com/track/01gsSKUI9KykmPzvw0Q4E7"
@@ -697,7 +697,7 @@
       ],
       "date_added": "2022-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-07",
       "duration_ms": 228552,
       "name": "Azul",
       "url": "https://open.spotify.com/track/1u9RU1rElVx6mAw1hlWfnh"
@@ -1083,7 +1083,7 @@
       ],
       "date_added": "2022-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-07",
       "duration_ms": 135789,
       "name": "BELLS LIKE BABY",
       "url": "https://open.spotify.com/track/0cPB5MvFBFmD8aOrXgb2yi"
@@ -1647,7 +1647,7 @@
       ],
       "date_added": "2022-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-07",
       "duration_ms": 215059,
       "name": "Cafe Continental",
       "url": "https://open.spotify.com/track/0iNrI2EzEGbMatPV7W5Fvl"
@@ -1763,6 +1763,24 @@
       "duration_ms": 213333,
       "name": "Cellotape",
       "url": "https://open.spotify.com/track/06dHJ0No9a4TShSBKDkEtI"
+    },
+    {
+      "album": {
+        "name": "Checking Out",
+        "url": "https://open.spotify.com/album/7tIW7DzHOZ4cq58o69PpV3"
+      },
+      "artists": [
+        {
+          "name": "Divorce",
+          "url": "https://open.spotify.com/artist/0YMVzWF9HWGbV4DZHfCyKo"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227583,
+      "name": "Checking Out",
+      "url": "https://open.spotify.com/track/32b9LaU7UASe1jgJXnkCW5"
     },
     {
       "album": {
@@ -1907,7 +1925,7 @@
       ],
       "date_added": "2022-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-07",
       "duration_ms": 241434,
       "name": "Company",
       "url": "https://open.spotify.com/track/4neJP6dL8DorA2bZ6x7VUt"
@@ -2715,7 +2733,7 @@
       ],
       "date_added": "2022-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-07",
       "duration_ms": 152790,
       "name": "dying to see you",
       "url": "https://open.spotify.com/track/7mI9cqbCCc7CLSlvWOFlCm"
@@ -2769,7 +2787,7 @@
       ],
       "date_added": "2022-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-07",
       "duration_ms": 247002,
       "name": "Eclipse",
       "url": "https://open.spotify.com/track/1Hx2nUUnTyk5ewgKZt1lSI"
@@ -3343,7 +3361,7 @@
       ],
       "date_added": "2022-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-07",
       "duration_ms": 200917,
       "name": "Fly",
       "url": "https://open.spotify.com/track/6VxV2nFPhZEkq2DJx0G4Xt"
@@ -3419,6 +3437,24 @@
       "duration_ms": 198000,
       "name": "For Good",
       "url": "https://open.spotify.com/track/2NywGeZ2cJl5G7SSEDRF3P"
+    },
+    {
+      "album": {
+        "name": "Forward",
+        "url": "https://open.spotify.com/album/0TBhmTc9ppxvJmGRAQQOoG"
+      },
+      "artists": [
+        {
+          "name": "Qazi & Qazi",
+          "url": "https://open.spotify.com/artist/75skRx68A3gJDsAOZAiVOM"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263760,
+      "name": "Forward",
+      "url": "https://open.spotify.com/track/0bI1DRcJE4kKO5IBZffHEU"
     },
     {
       "album": {
@@ -4234,6 +4270,24 @@
     },
     {
       "album": {
+        "name": "He Thinks That I'm Nice",
+        "url": "https://open.spotify.com/album/1ke6yIcwTAv3JbdmGhuVA0"
+      },
+      "artists": [
+        {
+          "name": "Naomi Munn",
+          "url": "https://open.spotify.com/artist/6PhYCEcCArdZ6ErqURnwiC"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197679,
+      "name": "He Thinks That I'm Nice",
+      "url": "https://open.spotify.com/track/0gRtJjckMV5OMH49CYBF6z"
+    },
+    {
+      "album": {
         "name": "Headhouse",
         "url": "https://open.spotify.com/album/5pEbnALTCdBptZbdFFdoZC"
       },
@@ -4285,7 +4339,7 @@
       ],
       "date_added": "2022-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-07",
       "duration_ms": 208250,
       "name": "Heaven Now",
       "url": "https://open.spotify.com/track/1Y0Zm3ZQETG8f7RqRKZ7Yz"
@@ -4365,6 +4419,24 @@
       "duration_ms": 206502,
       "name": "herm\u00e8s",
       "url": "https://open.spotify.com/track/4pxAepv0pk82z8zTbpRfuM"
+    },
+    {
+      "album": {
+        "name": "Him, Hymn",
+        "url": "https://open.spotify.com/album/3mDWrmdvSYp2UU4Qv2A1Fk"
+      },
+      "artists": [
+        {
+          "name": "Blair Davie",
+          "url": "https://open.spotify.com/artist/3sDemA5FWaxfqPJFP2SK8x"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244717,
+      "name": "Him, Hymn",
+      "url": "https://open.spotify.com/track/71ooa3dfqRXgrAUm5urSZa"
     },
     {
       "album": {
@@ -4876,6 +4948,24 @@
     },
     {
       "album": {
+        "name": "Ina Crueler",
+        "url": "https://open.spotify.com/album/3YSL3M37LHDYbiU2r0MXxc"
+      },
+      "artists": [
+        {
+          "name": "Bricknasty",
+          "url": "https://open.spotify.com/artist/3BcbwxzJm5f0yppgo2Vatd"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214062,
+      "name": "Ina Crueler",
+      "url": "https://open.spotify.com/track/601p9XbcpwRGFMbkY2HgVY"
+    },
+    {
+      "album": {
         "name": "Inertia",
         "url": "https://open.spotify.com/album/6vi4dtOsBQchnw1IsaQoa1"
       },
@@ -5347,7 +5437,7 @@
       ],
       "date_added": "2022-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-07",
       "duration_ms": 189000,
       "name": "Lava Lamp",
       "url": "https://open.spotify.com/track/3thsvz8m59Z8iksGcCrde7"
@@ -5905,6 +5995,24 @@
       "duration_ms": 164885,
       "name": "Make A Move",
       "url": "https://open.spotify.com/track/4PcZlqSJ8V3Jh1iULfLoTa"
+    },
+    {
+      "album": {
+        "name": "Make A Place",
+        "url": "https://open.spotify.com/album/7hyTC1R6gccWhdMZ9437ZB"
+      },
+      "artists": [
+        {
+          "name": "Benny Atlas",
+          "url": "https://open.spotify.com/artist/6IXnkjY4xozfLmaA0DxuoS"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199011,
+      "name": "Make A Place",
+      "url": "https://open.spotify.com/track/1tnHsDjJqZPp7uZNqCERJ9"
     },
     {
       "album": {
@@ -6925,7 +7033,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-25",
+      "date_removed": null,
       "duration_ms": 224052,
       "name": "notice",
       "url": "https://open.spotify.com/track/6tDNa0dOZAM3WeFabwCQXW"
@@ -7391,7 +7499,7 @@
       ],
       "date_added": "2022-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-07",
       "duration_ms": 213975,
       "name": "Pickle Juice",
       "url": "https://open.spotify.com/track/7A2gmEbaYLV9pyJv2CArPt"
@@ -7539,6 +7647,24 @@
       "duration_ms": 204322,
       "name": "Prom Queen",
       "url": "https://open.spotify.com/track/3Idix15ad0iJX68n0VApiz"
+    },
+    {
+      "album": {
+        "name": "pure misery",
+        "url": "https://open.spotify.com/album/76PSyOGgcnsIgrwLBr2HWf"
+      },
+      "artists": [
+        {
+          "name": "Humour",
+          "url": "https://open.spotify.com/artist/5ErUNpyxSBAdjZaKlefsUr"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161066,
+      "name": "pure misery",
+      "url": "https://open.spotify.com/track/1WwL6QCTxjaBs15RpM1jqt"
     },
     {
       "album": {
@@ -8145,7 +8271,7 @@
       ],
       "date_added": "2022-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-07",
       "duration_ms": 178211,
       "name": "She",
       "url": "https://open.spotify.com/track/3IahZVph6tc4q8ubzEhZvh"
@@ -8336,6 +8462,24 @@
     },
     {
       "album": {
+        "name": "Skirts & Salads",
+        "url": "https://open.spotify.com/album/4ly36c52NHgaFcFAUBl2Go"
+      },
+      "artists": [
+        {
+          "name": "Shelf Lives",
+          "url": "https://open.spotify.com/artist/2RgHe4GuLjWoJmgdAOVubr"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144896,
+      "name": "Skirts & Salads",
+      "url": "https://open.spotify.com/track/1hU13my44YNmIVuNor31Te"
+    },
+    {
+      "album": {
         "name": "Skitz",
         "url": "https://open.spotify.com/album/5zyNyDGWEAw2OnIGomFxCd"
       },
@@ -8405,6 +8549,24 @@
       "duration_ms": 193994,
       "name": "So Cool",
       "url": "https://open.spotify.com/track/2Ydl0tdL1G2mqVxCLNDsPa"
+    },
+    {
+      "album": {
+        "name": "so sweet",
+        "url": "https://open.spotify.com/album/7Iun8bk5Gmu0JUc9MjaOqv"
+      },
+      "artists": [
+        {
+          "name": "Niall Tarmey",
+          "url": "https://open.spotify.com/artist/0mkGsPDIeYwlu3AphfXLmJ"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201290,
+      "name": "so sweet",
+      "url": "https://open.spotify.com/track/04U2Kyn7PaUMQHO2xjtd8Z"
     },
     {
       "album": {
@@ -8574,6 +8736,24 @@
     },
     {
       "album": {
+        "name": "SPU1",
+        "url": "https://open.spotify.com/album/61gkoaK7ADv8SVZk6viklZ"
+      },
+      "artists": [
+        {
+          "name": "Cortese",
+          "url": "https://open.spotify.com/artist/60Fn82pTq3Z4vyJPgBjH77"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 363251,
+      "name": "SPU1",
+      "url": "https://open.spotify.com/track/7G6kWELR0qp5cNd0uwdBZu"
+    },
+    {
+      "album": {
         "name": "Starsigns",
         "url": "https://open.spotify.com/album/0wYI6R6dEORePqeyZzj7Wa"
       },
@@ -8673,6 +8853,24 @@
       "duration_ms": 221789,
       "name": "Stupid",
       "url": "https://open.spotify.com/track/4v1WZvjAic2aDNDfTklLZ8"
+    },
+    {
+      "album": {
+        "name": "Sucker",
+        "url": "https://open.spotify.com/album/5FfRcwOd5DwsvSZlyAFfFp"
+      },
+      "artists": [
+        {
+          "name": "Connie Campsie",
+          "url": "https://open.spotify.com/artist/27ypqOvpNc3CXggjLJNfFs"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223656,
+      "name": "Sucker",
+      "url": "https://open.spotify.com/track/6IRZc1ZeglfYbGQENnTUnw"
     },
     {
       "album": {

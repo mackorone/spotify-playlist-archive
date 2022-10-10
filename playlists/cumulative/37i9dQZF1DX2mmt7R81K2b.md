@@ -4,7 +4,7 @@
 
 > Where jazz meets classical, and classical meets jazz.
 
-72 songs - 6 hr 34 min - [published](https://open.spotify.com/playlist/4YuG6HthB2L9AI2fFZW3dd)
+73 songs - 6 hr 39 min - [published](https://open.spotify.com/playlist/4YuG6HthB2L9AI2fFZW3dd)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,6 +38,7 @@
 | [Goldberg Improvisation III](https://open.spotify.com/track/5HfoAH0vfjKt8neoi2w1I5) | [Iiro Rantala](https://open.spotify.com/artist/5dP0K6UFJq6UOewk4qIKmL), [Lars Danielsson](https://open.spotify.com/artist/7c9O0hfRy2u32JVcWhoope), [Morten Lund](https://open.spotify.com/artist/44ioweuAw5P80TwfcibcpP) | [My History of Jazz](https://open.spotify.com/album/7ahVUrtlbmVq29CPbt1J85) | 1:27 | 2021-12-02 | 2022-07-05 |
 | [Grand Fantasy on Porgy and Bess: Summertime \(after G\. Gershwin\)](https://open.spotify.com/track/79yJzE3W5a5tTH6lZ6Sz1t) | [Earl Wild](https://open.spotify.com/artist/12Fk4SuKXPe97FaSVD6WHK), [Isata Kanneh\-Mason](https://open.spotify.com/artist/7FEzSfCBSOo0wAmdk9pQ6M) | [Summertime](https://open.spotify.com/album/6xcBERmDaaQkKknPMYWgKa) | 3:29 | 2021-12-02 |  |
 | [Humoresque \- Redbook Stereo](https://open.spotify.com/track/0YJrQjMcj5FhD2cFQPnjpM) | [Antonín Dvořák](https://open.spotify.com/artist/6n7nd5iceYpXVwcx8VPpxF), [Zenph Studios](https://open.spotify.com/artist/58e4VcXFkSKpGslvzISBfh), [Art Tatum](https://open.spotify.com/artist/3DtSOCXYU6o4EV0K1NgIKq) | [Piano Starts Here: Live at The Shrine Zenph Re\-performance](https://open.spotify.com/album/2pTubaEQI3lnCTLJMh6vSy) | 3:48 | 2021-12-02 |  |
+| [I \- The Creation](https://open.spotify.com/track/7GterxMQBBkkaoyJ1w9w9y) | [Norchestra](https://open.spotify.com/artist/61H25MWaKudq3tHlQQU7WX), [Gnu Quartet](https://open.spotify.com/artist/6CIHRcHRO6dsAvDMnsYSuF) | [Suite for the Seagulls](https://open.spotify.com/album/07hSCP97K2GDfblHzWZxNZ) | 4:28 | 2022-10-07 |  |
 | [Intermezzo, Op\. 118, No\. 2 \- Live](https://open.spotify.com/track/0Lf9AIOPZqprp67xBWbTG1) | [Jason Moran](https://open.spotify.com/artist/7g3iwvP459BN53F7CDxemI) | [The Bandwagon](https://open.spotify.com/album/5XxvFw1K9lYu78ipjF8gpG) | 6:39 | 2021-12-02 |  |
 | [Jesu, Joy of Man's Desiring](https://open.spotify.com/track/2nnlowBc8ZESp1UUTEOiIx) | [David Hazeltine](https://open.spotify.com/artist/5mQGacj97PLCoX9YOEGf0Q) | [Classical Jazz: Swingin' Jazz Interpretations of the Classics](https://open.spotify.com/album/5eiHbQCWmPTa9IqO8A3Xsn) | 5:12 | 2021-12-02 |  |
 | [Mazurka No\. 1](https://open.spotify.com/track/0smHgnEPwiaUbeITveQEcg) | [European Jazz Trio](https://open.spotify.com/artist/4LTaFNJmsKqNvxGVhOVBXI) | [Classics](https://open.spotify.com/album/2Jsl2o6t5fxE90CTunCX91) | 4:14 | 2021-12-02 |  |

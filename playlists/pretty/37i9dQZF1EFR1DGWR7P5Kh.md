@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFR1DGWR7P5Kh.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6U4NLpJSiOtRzGLs9R3IZQ">Kaydence </a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 697 likes - 31 songs - 1 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 694 likes - 31 songs - 1 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFR1DGWR7P5Kh.md) - [plain]
 | 19 | [Morning mood](https://open.spotify.com/track/6afm7s2VOs2hX4WoFGym76) | [CHANMINA](https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX) | [ハレンチ](https://open.spotify.com/album/7FlnNVqs9nwO2NKe37zxFh) | 2:58 |
 | 20 | [Beautiful](https://open.spotify.com/track/3SylZsUCrHAlag6Q4BmYD7) | [Queen Naija](https://open.spotify.com/artist/3nViOFa3kZW8OMSNOzwr98) | [missunderstood](https://open.spotify.com/album/4vIKuMcGxldTXjswEuNs7u) | 4:10 |
 | 21 | [Lonely](https://open.spotify.com/track/1DkdUiBSkgXCHBeR6YOt51) | [Carson Lueders](https://open.spotify.com/artist/5Hp5hfBF49kKn8KAkgvNhz) | [Lonely](https://open.spotify.com/album/4a5e8AREAH4gVfVTNrbgLE) | 2:38 |
-| 22 | [All My Life \- Pt\. 2](https://open.spotify.com/track/0SEwGE9vNsQsoyO6CxBjMA) | [Brandy](https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee) | [B7](https://open.spotify.com/album/3qrqjSJilAHhhCYeSr7pD7) | 0:40 |
-| 23 | [All My Life \- Pt\. 1](https://open.spotify.com/track/1qXu9T7d1EJ23tqc4cLKcu) | [Brandy](https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee) | [B7](https://open.spotify.com/album/3qrqjSJilAHhhCYeSr7pD7) | 0:40 |
+| 22 | [All My Life \- Pt\. 1](https://open.spotify.com/track/1qXu9T7d1EJ23tqc4cLKcu) | [Brandy](https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee) | [B7](https://open.spotify.com/album/3qrqjSJilAHhhCYeSr7pD7) | 0:40 |
+| 23 | [All My Life \- Pt\. 2](https://open.spotify.com/track/0SEwGE9vNsQsoyO6CxBjMA) | [Brandy](https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee) | [B7](https://open.spotify.com/album/3qrqjSJilAHhhCYeSr7pD7) | 0:40 |
 | 24 | [High Heels](https://open.spotify.com/track/2NwS0Ki7W63Ls4GEMxPP8T) | [Brandy](https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee), [Sy'rai](https://open.spotify.com/artist/1k5wFphNsHxcR3Q3FJj6sI) | [B7](https://open.spotify.com/album/3qrqjSJilAHhhCYeSr7pD7) | 2:38 |
 | 25 | [All My Life \- Pt\. 3](https://open.spotify.com/track/2JZRFfvZd8PmZftsGRwb1I) | [Brandy](https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee) | [B7](https://open.spotify.com/album/3qrqjSJilAHhhCYeSr7pD7) | 0:39 |
 | 26 | [No Caption](https://open.spotify.com/track/0oxJLSSARMeex4ECEFa5jG) | [Carson Lueders](https://open.spotify.com/artist/5Hp5hfBF49kKn8KAkgvNhz) | [No Caption](https://open.spotify.com/album/79AFj3rfMfrKcXPaJVfUuE) | 2:26 |
@@ -40,4 +40,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFR1DGWR7P5Kh.md) - [plain]
 | 30 | [強迫症](https://open.spotify.com/track/5KQFnunZEKYmzBiHH7OZG6) | [Bibi Zhou](https://open.spotify.com/artist/3WHsy1Rq4vPEdRyo9P3a48) | [Not Typical](https://open.spotify.com/album/7HjJPtOBqOYWWaQTb9D37x) | 3:14 |
 | 31 | [She Roam](https://open.spotify.com/track/0B0D7eu4ofuVlD8Jt0f8Up) | [Duvchi](https://open.spotify.com/artist/0Pv1zES3REvZ4OuYrW2tGc), [Kaydence](https://open.spotify.com/artist/1LSEHcEojfn4kn3z1KkRP2) | [This Kind of Ocean](https://open.spotify.com/album/0EF5o0sOBWv9jUdI9YXL18) | 3:32 |
 
-Snapshot ID: `Mjc3NDQ1NDgsMDAwMDAwMDA3NTNjN2Q3YzM2YjA1NGY4NTM1Yjc2NjFmYTA0ZTE5NQ==`
+Snapshot ID: `Mjc3NTYxMjgsMDAwMDAwMDBlNjU4YmVmZWNlM2ViMWU2MjM1MTIzZWRmM2NjMTk4OQ==`

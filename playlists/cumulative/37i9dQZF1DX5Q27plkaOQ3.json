@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "All <a href=\"spotify:genre:bass\">wobble</a>. Cover: Zeds Dead",
+  "description": "All <a href=\"spotify:genre:bass\">wobble</a>. Cover: GHENGAR",
   "name": "Dubstep Don",
   "published_playlist_ids": [
     "7euR9qztoNP72hm8d8RT1t"
@@ -121,7 +121,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 220800,
       "name": "Alive",
       "url": "https://open.spotify.com/track/7BzNk9qiJyUMxydktfP0Xl"
@@ -231,7 +231,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 234206,
       "name": "Arcade Fire",
       "url": "https://open.spotify.com/track/6oXQKW4cXq2c1HaTycVIlF"
@@ -351,7 +351,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-19",
+      "date_removed": "2022-10-09",
       "duration_ms": 174750,
       "name": "Atropos",
       "url": "https://open.spotify.com/track/6TgrQWhXn4SsMDBARmJPWl"
@@ -997,7 +997,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-09",
       "duration_ms": 179200,
       "name": "Chasing Devils - Audigy Remix",
       "url": "https://open.spotify.com/track/49PusnlAw9zshcQzWux0sI"
@@ -1371,7 +1371,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 233046,
       "name": "Desperado",
       "url": "https://open.spotify.com/track/2SW0q2M7fYw27ZZmxGGToo"
@@ -1565,6 +1565,24 @@
       "duration_ms": 172800,
       "name": "Double Dipping",
       "url": "https://open.spotify.com/track/4alPbFkCasI3admYNY3JvO"
+    },
+    {
+      "album": {
+        "name": "Drifter",
+        "url": "https://open.spotify.com/album/3fbDmqCGBsQK3Y2hRxpLft"
+      },
+      "artists": [
+        {
+          "name": "Caspa",
+          "url": "https://open.spotify.com/artist/4nMuaJ4kBLDJCRBizNESI6"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201171,
+      "name": "Drifter",
+      "url": "https://open.spotify.com/track/0ASJpt6xrhAYSGOrzk0b76"
     },
     {
       "album": {
@@ -2030,6 +2048,28 @@
     },
     {
       "album": {
+        "name": "Ground Shake",
+        "url": "https://open.spotify.com/album/4lN9hIcBH3lBzlpWyim3Ud"
+      },
+      "artists": [
+        {
+          "name": "Crankdat",
+          "url": "https://open.spotify.com/artist/5lCekoJW9jNq01B1wiqdAb"
+        },
+        {
+          "name": "Bandlez",
+          "url": "https://open.spotify.com/artist/7kIxfmjYGQui2LCqXGLfWA"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185379,
+      "name": "Ground Shake",
+      "url": "https://open.spotify.com/track/0h2ZSu1j6YFsGj85eSyrI4"
+    },
+    {
+      "album": {
         "name": "Gunshots",
         "url": "https://open.spotify.com/album/7JXv1qLx9ocfaxpERZ0SI9"
       },
@@ -2089,7 +2129,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-10",
+      "date_removed": null,
       "duration_ms": 252800,
       "name": "Haxo -Sharks Remix",
       "url": "https://open.spotify.com/track/1HIj9nk8ceUK7o87SgXv8o"
@@ -2211,6 +2251,28 @@
       "duration_ms": 196363,
       "name": "How I Step",
       "url": "https://open.spotify.com/track/5Lo7TKVopdhOgtrJUCEPvc"
+    },
+    {
+      "album": {
+        "name": "Hurt",
+        "url": "https://open.spotify.com/album/7CUMWsuL3VBhlDaJXZGmX7"
+      },
+      "artists": [
+        {
+          "name": "Heyz",
+          "url": "https://open.spotify.com/artist/5X1EM1jg35YB5jmw7qVIlh"
+        },
+        {
+          "name": "Misdom",
+          "url": "https://open.spotify.com/artist/1DbEQeF7ssOqCMwr6B9jPt"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255846,
+      "name": "Hurt",
+      "url": "https://open.spotify.com/track/4hSmhoWceZfpoTopxcvaEr"
     },
     {
       "album": {
@@ -2759,7 +2821,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 201600,
       "name": "Magma",
       "url": "https://open.spotify.com/track/56x8xKnAXBdAJVK3AgdsFm"
@@ -3011,6 +3073,28 @@
       "duration_ms": 277981,
       "name": "Narnia",
       "url": "https://open.spotify.com/track/6TtlXUQmYG6cbK1P6RRYuY"
+    },
+    {
+      "album": {
+        "name": "NECROMANCER EP",
+        "url": "https://open.spotify.com/album/0i5W06nlD4FXK2zLPXqp2w"
+      },
+      "artists": [
+        {
+          "name": "GHENGAR",
+          "url": "https://open.spotify.com/artist/6g6OqIpMMbEkhhtEODZaGf"
+        },
+        {
+          "name": "GHASTLY",
+          "url": "https://open.spotify.com/artist/2Sa4c9qKaI7ILJs8D6gUCh"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228413,
+      "name": "NECROMANCER",
+      "url": "https://open.spotify.com/track/4q6M0ocvDwZp0kbnWtYLaF"
     },
     {
       "album": {
@@ -3438,6 +3522,28 @@
     },
     {
       "album": {
+        "name": "Premier League",
+        "url": "https://open.spotify.com/album/4GdAWtnLHOkgGZ09KLvFJc"
+      },
+      "artists": [
+        {
+          "name": "MUERTE",
+          "url": "https://open.spotify.com/artist/6TWscSE05GH5UvJpVq8y7y"
+        },
+        {
+          "name": "Oddprophet",
+          "url": "https://open.spotify.com/artist/6KqmNCHompcbyvzpesJTYU"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169714,
+      "name": "Premier League",
+      "url": "https://open.spotify.com/track/1UJdnazAX240LtuwBA2wcY"
+    },
+    {
+      "album": {
         "name": "Protocol",
         "url": "https://open.spotify.com/album/7HyciiVlRwQiVqpvvVrf5l"
       },
@@ -3587,7 +3693,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 174857,
       "name": "REDLINE",
       "url": "https://open.spotify.com/track/2rAH5DmorvybHnY6wqFaIA"
@@ -3609,7 +3715,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 176124,
       "name": "RELOAD",
       "url": "https://open.spotify.com/track/7Da0d3oeqFpaPvWOH8eQuZ"
@@ -3953,6 +4059,24 @@
       "duration_ms": 264000,
       "name": "Shank",
       "url": "https://open.spotify.com/track/6NrvGvEN9o6LutTMfvjNCQ"
+    },
+    {
+      "album": {
+        "name": "IN CASE OF FIRE EP",
+        "url": "https://open.spotify.com/album/50xJ464PqppzDAKiu1sDM6"
+      },
+      "artists": [
+        {
+          "name": "RIOT",
+          "url": "https://open.spotify.com/artist/0qPGd8tOMHlFZt8EA1uLFY"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223448,
+      "name": "Sharp Shooter",
+      "url": "https://open.spotify.com/track/0ViI8m9JgQlADPjsP0Nxo2"
     },
     {
       "album": {

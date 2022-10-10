@@ -493,7 +493,7 @@
       ],
       "date_added": "2022-09-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-27",
+      "date_removed": null,
       "duration_ms": 182857,
       "name": "Bittersweet",
       "url": "https://open.spotify.com/track/4DwW1HW7iEK7DtUDiSte3X"
@@ -533,6 +533,28 @@
       "duration_ms": 185609,
       "name": "Break Me.",
       "url": "https://open.spotify.com/track/3XmIJ09BsBdqeDPxYcu3m3"
+    },
+    {
+      "album": {
+        "name": "Breakup Season",
+        "url": "https://open.spotify.com/album/0WsZKzfU4cICg8uDILDqIY"
+      },
+      "artists": [
+        {
+          "name": "Maya Delilah",
+          "url": "https://open.spotify.com/artist/6TWEX2qTj9b0bBsXSVCMKM"
+        },
+        {
+          "name": "Samm Henshaw",
+          "url": "https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4"
+        }
+      ],
+      "date_added": "2022-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192750,
+      "name": "Breakup Season",
+      "url": "https://open.spotify.com/track/7xPOV2FPzi7zaYBZnQytOW"
     },
     {
       "album": {
@@ -591,7 +613,7 @@
       ],
       "date_added": "2022-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-09",
       "duration_ms": 247333,
       "name": "Build",
       "url": "https://open.spotify.com/track/0G3qCSe4KcWFc0EKlXCEo8"
@@ -1246,6 +1268,28 @@
     },
     {
       "album": {
+        "name": "Eight",
+        "url": "https://open.spotify.com/album/5R6BFu0xrBtlOXN8NR12c4"
+      },
+      "artists": [
+        {
+          "name": "Haux",
+          "url": "https://open.spotify.com/artist/1ifC4znYCvmMSJ0rght5JS"
+        },
+        {
+          "name": "Rosie Carney",
+          "url": "https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9"
+        }
+      ],
+      "date_added": "2022-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169733,
+      "name": "Eight",
+      "url": "https://open.spotify.com/track/5T20empZEdKnAdIq26xtTA"
+    },
+    {
+      "album": {
         "name": "end of summer",
         "url": "https://open.spotify.com/album/0cPA5U89O8Zq7lS258nRSt"
       },
@@ -1841,7 +1885,7 @@
       ],
       "date_added": "2022-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-03",
       "duration_ms": 190075,
       "name": "Heat",
       "url": "https://open.spotify.com/track/02RqY5iTPIVXmiHCwnWyEk"
@@ -1859,7 +1903,7 @@
       ],
       "date_added": "2022-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 231910,
       "name": "heights",
       "url": "https://open.spotify.com/track/5BUG8bEiTNV44s2SCFML0V"

@@ -4,7 +4,7 @@
 
 > A rock playlist filled with the biggest classic rock anthems from The Beatles, Queen and more!
 
-89 songs - 6 hr 15 min - [published](https://open.spotify.com/playlist/2GIyLBqiwY9OvCNmdmNGIL)
+91 songs - 6 hr 23 min - [published](https://open.spotify.com/playlist/2GIyLBqiwY9OvCNmdmNGIL)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [Black Hole Sun](https://open.spotify.com/track/2EoOZnxNgtmZaD8uUmz2nD) | [Soundgarden](https://open.spotify.com/artist/5xUf6j4upBrXZPg6AI4MRK) | [Superunknown \(Deluxe Edition\)](https://open.spotify.com/album/29sTacnS0qA9xri6YS8xLA) | 5:18 | 2022-05-18 |  |
 | [Bohemian Rhapsody \- 2011 Remaster](https://open.spotify.com/track/6AWe04n4zsYkGKb3Pf7LMk) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Bohemian Rhapsody \(The Original Soundtrack\)](https://open.spotify.com/album/3BHe7LbW5yRjyqXNJ3A6mW) | 5:54 | 2022-05-18 |  |
 | [Born To Be Wild \- Single Version](https://open.spotify.com/track/3zECldeBYO8lj8QZlUB2Be) | [Steppenwolf](https://open.spotify.com/artist/1WRM9i067hd2ujxxi8FI3m) | [Gold](https://open.spotify.com/album/5NIxmir6Bcrihxv2Zt4qJn) | 3:30 | 2022-05-18 |  |
+| [Breakthru \- Remastered 2011](https://open.spotify.com/track/7kWFbgUpy1UvEQVhJA7GsK) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [The Platinum Collection \(Greatest Hits I II & III \- 2011 Remaster\)](https://open.spotify.com/album/60Yx1xATvlWpAMzsBMMTSE) | 4:09 | 2022-10-03 |  |
 | [Celebrity Skin](https://open.spotify.com/track/2V4Bc2I962j7acQj1N0PiQ) | [Hole](https://open.spotify.com/artist/5SHQUMAmEK5KmuSb0aDvsn) | [Celebrity Skin](https://open.spotify.com/album/2KE8WCHtD8qnAxXeIzNEId) | 2:42 | 2022-05-18 |  |
 | [Come As You Are](https://open.spotify.com/track/5r35Zd5Onw3aV3Gm9XdgtI) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [Nirvana \(International Version\)](https://open.spotify.com/album/3SBQfBKAPWvCr4qse1uNis) | 3:39 | 2022-05-18 |  |
 | [Could It Be I'm Falling In Love](https://open.spotify.com/track/3wbJz1R6UReprTcRQYzAIG) | [Paul Stanley's Soul Station](https://open.spotify.com/artist/3SSu1tFfLuAZgAvEPOyay6) | [Could It Be I’m Falling In Love / O\-O\-H Child](https://open.spotify.com/album/6U0KUhXmouVNjJxOYyO6g8) | 4:00 | 2022-05-18 |  |
@@ -81,6 +82,7 @@
 | [Shape Of My Heart](https://open.spotify.com/track/6CKoWCWAqEVWVjpeoJXyNH) | [Sting](https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk) | [Ten Summoner's Tales](https://open.spotify.com/album/5kV0KBXfELibs6qQJLmOtg) | 4:39 | 2022-05-18 |  |
 | [Smells Like Teen Spirit](https://open.spotify.com/track/56Cub3qT0VhFQd2Wiblv2w) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [Nevermind \(Deluxe Edition\)](https://open.spotify.com/album/1ySR0W1hHxPDKCBWdvzRvc) | 5:01 | 2022-05-18 |  |
 | [Sweet Child O' Mine](https://open.spotify.com/track/50qma2LfxTfAILyNlZEnpP) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [Appetite For Destruction \(Super Deluxe Edition\)](https://open.spotify.com/album/3edmYBHOTxfz8NxJE1QmTP) | 5:56 | 2022-05-18 |  |
+| [The Invisible Man](https://open.spotify.com/track/0kf46oObVRf3L51fHIojEm) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [The Miracle](https://open.spotify.com/album/1v5l2sZRE5Rweew5PoNFP9) | 3:55 | 2022-10-03 |  |
 | [The Long And Winding Road \- 2021 Mix](https://open.spotify.com/track/1GO1BHrYnc8dy623A4mDQA) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [The Long And Winding Road \(2021 Mix\)](https://open.spotify.com/album/5MLKpsTKwnAlQgslJWdIyl) | 3:37 | 2022-05-18 |  |
 | [The Passenger](https://open.spotify.com/track/6EZDbjz2X5XzgIZCtbsrXh) | [Siouxsie and the Banshees](https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb) | [Through The Looking Glass \(Remastered And Expanded\)](https://open.spotify.com/album/7kEqVGkLoruahp34YW16oe) | 5:09 | 2022-05-18 |  |
 | [The World Tonight \- Remastered 2020](https://open.spotify.com/track/2LvGwQDjRJAdh5N1QkmwsL) | [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB), [Jeff Lynne](https://open.spotify.com/artist/3bTAaMx9nf237AkBnGw3vL) | [The World Tonight EP](https://open.spotify.com/album/05Yx2hGvmRjhChNrWW10jK) | 4:05 | 2022-05-18 |  |

@@ -1575,7 +1575,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-20",
+      "date_removed": null,
       "duration_ms": 158372,
       "name": "LAPROVINCE #1",
       "url": "https://open.spotify.com/track/2Z9uQAn8v8m6ZPFh4bsqY4"
@@ -2149,7 +2149,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-06",
       "duration_ms": 170232,
       "name": "Moonwalking in Calabasas (feat. Blueface) - Remix",
       "url": "https://open.spotify.com/track/7o4gBbTM6UBLkOYPw9xMCz"
@@ -2633,6 +2633,24 @@
       "duration_ms": 200221,
       "name": "POPSTAR (feat. Drake)",
       "url": "https://open.spotify.com/track/6EDO9iiTtwNv6waLwa1UUq"
+    },
+    {
+      "album": {
+        "name": "BLAME IT ON BABY (DELUXE)",
+        "url": "https://open.spotify.com/album/6SL49HqoUwu2hhfukBAK3Q"
+      },
+      "artists": [
+        {
+          "name": "DaBaby",
+          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122586,
+      "name": "PRACTICE",
+      "url": "https://open.spotify.com/track/4Z5FyQlevoHoa5FsIVKZju"
     },
     {
       "album": {
@@ -3211,7 +3229,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-04",
       "duration_ms": 181266,
       "name": "Star (feat. Shiva)",
       "url": "https://open.spotify.com/track/4LC3IJxi0FnvPALxJ8k6zw"

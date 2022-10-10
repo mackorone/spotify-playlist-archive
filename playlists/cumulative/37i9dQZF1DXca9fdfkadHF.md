@@ -4,7 +4,7 @@
 
 > ¡A rockear con los titanes de Perú! Foto: Afrodisiaco
 
-72 songs - 4 hr 39 min - [published](https://open.spotify.com/playlist/2TM16VdLTGsbk088ETOR0g)
+76 songs - 4 hr 52 min - [published](https://open.spotify.com/playlist/2TM16VdLTGsbk088ETOR0g)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,13 +42,16 @@
 | [La Chata](https://open.spotify.com/track/3jzpdDnLaQcsuGCw4JwVYS) | [Amén](https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp) | [Infectado](https://open.spotify.com/album/2zAl9NEyqqhmupC1MFtlHK) | 3:26 | 2022-04-01 |  |
 | [La peor de las guerras \- Remastered](https://open.spotify.com/track/67SdBqjGew9i3eKeiF14Ie) | [La Liga del Sueño](https://open.spotify.com/artist/0K1keFZ7bOlTIGX1p3APB2) | [Por Tierra \(Remastered\)](https://open.spotify.com/album/3mC1bT6CET5GCB74NbK9sZ) | 3:47 | 2022-04-01 |  |
 | [La Universidad \(cosa de Locos\)](https://open.spotify.com/track/2uWpNusYG5sEpvGNmOr03P) | [Rio](https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E) | [Lo Peor de Todo \(Remasterizado\)](https://open.spotify.com/album/6yupnkuEaW58l51gic72Cb) | 3:36 | 2022-04-01 |  |
-| [Las Torres](https://open.spotify.com/track/3sC6meZ0JVduBUG2DDhbHk) | [NSQNSC](https://open.spotify.com/artist/2Ov6O6PFkYV4xjgSW6b9ht) | [Más Peruanos Que el Rock, Vol\. 1](https://open.spotify.com/album/35aOC07jH0evroYonYZjZh) | 3:20 | 2022-04-01 |  |
+| [Las Torres](https://open.spotify.com/track/0sN4ERM2Q2UBKyePqfcgv9) | [Nosequien y los Nosecuantos](https://open.spotify.com/artist/53NElDuSIPdjifOGOcvqqe) | [XX Larga Duración](https://open.spotify.com/album/1EGY0YnV5576fW6v8mw9pK) | 3:21 | 2022-04-01 |  |
+| [Las Torres](https://open.spotify.com/track/3sC6meZ0JVduBUG2DDhbHk) | [NSQNSC](https://open.spotify.com/artist/2Ov6O6PFkYV4xjgSW6b9ht) | [Más Peruanos Que el Rock, Vol\. 1](https://open.spotify.com/album/35aOC07jH0evroYonYZjZh) | 3:20 | 2022-04-01 | 2022-10-05 |
+| [Las Torres](https://open.spotify.com/track/5QX7YdxL6LtpWyfbNzaIPC) | [NSQNSC](https://open.spotify.com/artist/2Ov6O6PFkYV4xjgSW6b9ht) | [Más Peruanos Que el Rock, Vol\. 1](https://open.spotify.com/album/5uxCbEVfLhM7P1UoSrBrT0) | 3:20 | 2022-04-01 | 2022-10-06 |
 | [Lo Peor de Todo](https://open.spotify.com/track/7cnUsQVdrZFNdtIBKZBMb5) | [Rio](https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E) | [Lo Peor de Todo \(Remasterizado\)](https://open.spotify.com/album/6yupnkuEaW58l51gic72Cb) | 4:03 | 2022-04-01 |  |
 | [Los Buenos Tiempos](https://open.spotify.com/track/01HnBtxksndufRZ0G4P78H) | [Imágenes](https://open.spotify.com/artist/21FhK40xTF3XpUPXZgdV7Q) | [Peruvian Rock Anthology: Original Masterpieces, Vol\. 2 \(1982\-1992\)](https://open.spotify.com/album/0sKdSlr1ui53Ar4hX71Ntd) | 4:32 | 2022-04-01 |  |
 | [Los Finos](https://open.spotify.com/track/2VZF5V2UtGkcxVsynxLxoE) | [Amén](https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp) | [2020](https://open.spotify.com/album/2XXSSuTZwjCGyI0yshXmJv) | 4:08 | 2022-04-01 |  |
 | [Los Patos y las Patas](https://open.spotify.com/track/0KzcD5rBOrAKPvvbGnvTZ7) | [Nosequien y los Nosecuantos](https://open.spotify.com/artist/53NElDuSIPdjifOGOcvqqe) | [XX Larga Duración](https://open.spotify.com/album/1EGY0YnV5576fW6v8mw9pK) | 3:06 | 2022-04-01 |  |
 | [Me Resfrié en Brasil](https://open.spotify.com/track/47CKeoZNpSKa2yITniKslT) | [Arena Hash](https://open.spotify.com/artist/4AGALQQLo0S46FUlhJ25V0) | [Peruvian Rock Anthology: Original Masterpieces, Vol\. 3 \(1993\-2001\)](https://open.spotify.com/album/7Dkdt9Ye5pj5qvgD1Fczxj) | 3:47 | 2022-04-01 | 2022-07-29 |
-| [Me Resfrié en Brasil](https://open.spotify.com/track/55XIDf97GN2y8cwCrJoJEH) | [Arena Hash](https://open.spotify.com/artist/4AGALQQLo0S46FUlhJ25V0) | [Más Peruanos Que el Rock, Vol\. 1](https://open.spotify.com/album/35aOC07jH0evroYonYZjZh) | 3:47 | 2022-04-01 |  |
+| [Me Resfrié en Brasil](https://open.spotify.com/track/55XIDf97GN2y8cwCrJoJEH) | [Arena Hash](https://open.spotify.com/artist/4AGALQQLo0S46FUlhJ25V0) | [Más Peruanos Que el Rock, Vol\. 1](https://open.spotify.com/album/35aOC07jH0evroYonYZjZh) | 3:47 | 2022-04-01 | 2022-10-06 |
+| [Me Resfrié en Brasil](https://open.spotify.com/track/6owthHOJo06koXPXe7xBG9) | [Arena Hash](https://open.spotify.com/artist/4AGALQQLo0S46FUlhJ25V0) | [Peruvian Rock Anthology: Original Masterpieces, Vol\. 3 \(1993 \- 2001\)](https://open.spotify.com/album/4NptflPTkngrCanK5RZb2Y) | 3:47 | 2022-04-01 |  |
 | [Máquina](https://open.spotify.com/track/1OTgiJYTDcXxp4KFeNzmgh) | [Cuchillazo](https://open.spotify.com/artist/2PUyeJkrdcOntByKHmnKtv) | [DÍas Negros](https://open.spotify.com/album/3PEirdybTes0NQVNKlKzEv) | 2:50 | 2022-04-01 |  |
 | [Más Poder](https://open.spotify.com/track/3oF7I6xfM2ALb4rJ6d3mTt) | [La Sarita](https://open.spotify.com/artist/4FclbIRVpHDYM9RaQpQHCR) | [Más Poder](https://open.spotify.com/album/6q5z4VFO2RvUcFs7v7msYN) | 4:15 | 2022-04-01 |  |
 | [Nuestro Viejo Hotel](https://open.spotify.com/track/12ybnfIatnLWEC2S6BYmas) | [Plutonio de Alto Grado](https://open.spotify.com/artist/5E1vOnaDVuBXGt21yY7f01) | [Nuestro Viejo Hotel](https://open.spotify.com/album/5jSoD1MdnqYhfjU5tUyDIJ) | 3:32 | 2022-04-01 |  |
@@ -74,7 +77,8 @@
 | [Travesti](https://open.spotify.com/track/7mP7CSPnMOgiB4TFzN7QaM) | [Sangre Púrpura](https://open.spotify.com/artist/0iCm5J3ki7zYRKNaGB72hN) | [Lo Mejor](https://open.spotify.com/album/5UmHPpAm1Dn6l2m3poazi9) | 4:00 | 2022-04-01 |  |
 | [Triciclo Perú](https://open.spotify.com/track/5GUPHcl11vUeOf1OwDjJb5) | [Los Mojarras](https://open.spotify.com/artist/1q7dN4c3Py4QbovlM01xYX) | [Rock Urbano](https://open.spotify.com/album/63VlyjU1ReBl1ZZaDyBJqr) | 3:38 | 2022-04-01 |  |
 | [Tus Alas Caerán](https://open.spotify.com/track/47RPhZOsbbgeSugavCkqtT) | [Campo De Almas.](https://open.spotify.com/artist/2kdLC1HSTszF0mr5rH8vAf) | [\[Campo De Almas\]](https://open.spotify.com/album/7vecFaeShbkNnkYshP8EgC) | 5:40 | 2022-04-01 |  |
-| [Tú y Yo](https://open.spotify.com/track/6EesgMPcFrCTh4AqMmC2LO) | [Los Zopilotes](https://open.spotify.com/artist/3LjNoICptpY8EE21CHv46E) | [Más Peruanos Que el Rock, Vol\. 1](https://open.spotify.com/album/35aOC07jH0evroYonYZjZh) | 2:19 | 2022-04-01 |  |
+| [Tú y Yo](https://open.spotify.com/track/76LGvZPmgiiOx5NUbhUZtH) | [Los Zopilotes](https://open.spotify.com/artist/3LjNoICptpY8EE21CHv46E) | [Peruvian Rock Anthology: Original Masterpieces, Vol\. 3 \(1993 \- 2001\)](https://open.spotify.com/album/4NptflPTkngrCanK5RZb2Y) | 2:18 | 2022-04-01 |  |
+| [Tú y Yo](https://open.spotify.com/track/6EesgMPcFrCTh4AqMmC2LO) | [Los Zopilotes](https://open.spotify.com/artist/3LjNoICptpY8EE21CHv46E) | [Más Peruanos Que el Rock, Vol\. 1](https://open.spotify.com/album/35aOC07jH0evroYonYZjZh) | 2:19 | 2022-04-01 | 2022-10-06 |
 | [Un Día Sin Sexo](https://open.spotify.com/track/2Mvg1fyuwuZtWshE9v0M3g) | [Mar de Copas](https://open.spotify.com/artist/01CPQQGyqdgTqtyLxPrPur) | [Lado B](https://open.spotify.com/album/6lAwgVT7xFEeZazlF95q2t) | 6:37 | 2022-04-01 |  |
 | [Un Día Sin Sexo](https://open.spotify.com/track/5cmWOkiyVPPme4VeP9cZpR) | [Mar de Copas](https://open.spotify.com/artist/01CPQQGyqdgTqtyLxPrPur) | [Lado B](https://open.spotify.com/album/3hPLzDRCvMNlQHtWB16DD0) | 6:37 | 2022-04-01 | 2022-07-29 |
 | [Un Ovni en Mi Jardín](https://open.spotify.com/track/6EO9B5nyP0cS1auCFDIbYF) | [Trama](https://open.spotify.com/artist/5HT6tm0lJBhS5Zl2tXC0WY) | [Trama](https://open.spotify.com/album/7c7gUfqJxX21nhpDIZ5rX8) | 3:21 | 2022-04-01 |  |

@@ -4,7 +4,7 @@
 
 > Viva o rock nacional! Ouça o melhor do rock brasileiro\. Foto: Planet Hemp
 
-226 songs - 12 hr 37 min - [published](https://open.spotify.com/playlist/0QCUPVPm5DzTYPmApO8yZ5)
+227 songs - 12 hr 41 min - [published](https://open.spotify.com/playlist/0QCUPVPm5DzTYPmApO8yZ5)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,6 +48,7 @@
 | [Carta pro Futuro](https://open.spotify.com/track/2Tq3XVQ3iWVVxX2hDZhNyn) | [Ananda](https://open.spotify.com/artist/2TqXAXuNUnnzzCTuAs5DX5), [Guxta](https://open.spotify.com/artist/3LutKkAZcYI7vS81R2yJjy) | [Cartas](https://open.spotify.com/album/1pBoUcfZM0WaiOlAEb7TRb) | 3:32 | 2022-05-27 | 2022-09-24 |
 | [Chá](https://open.spotify.com/track/4GaUS9fESqZsMdk7aqnexu) | [H o u d i n i](https://open.spotify.com/artist/2xysuV21VYh93dle4QZq7T), [iceboy999](https://open.spotify.com/artist/1PK0jb0W4nrxZItuuCUwXK), [Indie Space](https://open.spotify.com/artist/0W1Rb8JlinMAExLtluwWxr) | [Chá](https://open.spotify.com/album/4gSJ0HsE10n2Ci2nDfg9kg) | 3:17 | 2022-01-14 | 2022-09-24 |
 | [Cicatrizes](https://open.spotify.com/track/24I2J5wbWmy25ftfgsOLGh) | [Forte Norte](https://open.spotify.com/artist/5BnsBwbTCpt3f37fQerMux) | [Cicatrizes](https://open.spotify.com/album/1KuS8PL0K7I22EXIvOw29n) | 3:49 | 2022-05-27 |  |
+| [Ciclos](https://open.spotify.com/track/4MSY2abyzFULkXnHGOCN4v) | [Analaga](https://open.spotify.com/artist/4LTPxLxjiT5pzYd5WZAR3v), [Caracol.A](https://open.spotify.com/artist/7kcH00HHM8BkhfySXoQfUo) | [Ciclos](https://open.spotify.com/album/1de4pIwXgTDs0YWu1jAwAr) | 3:13 | 2022-10-07 |  |
 | [Ciganinha](https://open.spotify.com/track/26jC94e3lcogp7fiwZImSQ) | [João Gordo](https://open.spotify.com/artist/7aoHAC7aGNfSiDCIHxRO84) | [Ciganinha](https://open.spotify.com/album/6u6OZwcdslmYQ4hbavsELN) | 2:30 | 2022-07-01 | 2022-07-30 |
 | [Circo de Loucos](https://open.spotify.com/track/6QanwMDpUlvhEXiybNRZHn) | [SATURNINA](https://open.spotify.com/artist/2GEY6XAAi3IAdh49K6oE5z) | [Circo de Loucos](https://open.spotify.com/album/1bB8Z13Cl55alTEgldUFc3) | 3:31 | 2022-04-29 | 2022-05-20 |
 | [Clareiras](https://open.spotify.com/track/3XHQg2a9HX7S7IKV6onG9A) | [Detonautas Roque Clube](https://open.spotify.com/artist/5AlUDdksfPP7l4Qm22MJA9) | [Álbum Laranja](https://open.spotify.com/album/7G30oNPOHYPSGe2Fb9L7PB) | 3:27 | 2022-01-14 | 2022-09-24 |
@@ -215,7 +216,7 @@
 | [Todo Dia é Dia de Comemorar \- Ao Vivo Quando A Terra Era Redonda](https://open.spotify.com/track/2FgMoBbrgy2hzetNNrbbXz) | [Supercombo](https://open.spotify.com/artist/73HkjgziMO6I83vFOS8mo1) | [Ao Vivo Quando A Terra Era Redonda](https://open.spotify.com/album/7mf53NHZ8LnRVDy0qFwdOH) | 3:40 | 2022-02-18 | 2022-05-14 |
 | [Todo Mundo Quer Pirar](https://open.spotify.com/track/1XW7bclMViizNKpTaCEN8V) | [Sem Hora NA GO](https://open.spotify.com/artist/1qR9fwjTlE4Sn29AJaLbFZ) | [Todo Mundo Quer Pirar](https://open.spotify.com/album/7nxU4nxZPodejcGUCUsAcd) | 3:12 | 2022-03-18 | 2022-05-20 |
 | [Trem](https://open.spotify.com/track/1nRjROWexBREzWAMz0KgEu) | [Cervelet](https://open.spotify.com/artist/3Gv0vk0aGh74t85STB90ak) | [Trem](https://open.spotify.com/album/6DUBL8znMB5eXC9NVbZ04t) | 5:10 | 2022-01-14 | 2022-04-23 |
-| [Troglomitus Broncossaurus](https://open.spotify.com/track/0KzAD3JNICUb07omGGlY5s) | [Autoramas](https://open.spotify.com/artist/6IwPtS5L4cV9yCB66mhheZ), [Dead Fish](https://open.spotify.com/artist/7Lvg39k5XgXevGR767ikYI), [Rodrigo Lima](https://open.spotify.com/artist/6awWDGNl4gWC8BNsn7r26s) | [Troglomitus Broncossaurus](https://open.spotify.com/album/0IRsPfoPviYnJbBqFBEHpL) | 2:58 | 2022-09-17 |  |
+| [Troglomitus Broncossaurus](https://open.spotify.com/track/0KzAD3JNICUb07omGGlY5s) | [Autoramas](https://open.spotify.com/artist/6IwPtS5L4cV9yCB66mhheZ), [Dead Fish](https://open.spotify.com/artist/7Lvg39k5XgXevGR767ikYI), [Rodrigo Lima](https://open.spotify.com/artist/6awWDGNl4gWC8BNsn7r26s) | [Troglomitus Broncossaurus](https://open.spotify.com/album/0IRsPfoPviYnJbBqFBEHpL) | 2:58 | 2022-09-17 | 2022-10-08 |
 | [Tudo Destruído](https://open.spotify.com/track/1EJ7ENX4o7pKn6w6R6HGxB) | [Matanza Inc](https://open.spotify.com/artist/7bk87UI7INqojGTxngyfhk) | [Tudo Destruído](https://open.spotify.com/album/4m8NyqdTP1zcSEKHZiHzVp) | 3:09 | 2022-05-27 |  |
 | [Tudo Vale A Pena?](https://open.spotify.com/track/7z2BlOn5mRJiRaXQb6e8Ef) | [CPM 22](https://open.spotify.com/artist/2Jw4Lrfjnyv2QsDoBgnrAP), [Sérgio Britto](https://open.spotify.com/artist/1cyHhFmWDK80pd2IOK02QI) | [Tudo Vale A Pena?](https://open.spotify.com/album/5MTUG2PWhhgLcN22r6Y4kV) | 3:26 | 2022-07-15 | 2022-08-06 |
 | [UM BRINDE](https://open.spotify.com/track/31QQG8R4qmLQjIDoguBCzZ) | [Di Ferrero](https://open.spotify.com/artist/2aimTInXI8IgnUeEwu25mB), [Badauí](https://open.spotify.com/artist/0LrCKlBX9FiDmCjs3epwCb) | [: \( UMA BAD UMA FARRA : \)](https://open.spotify.com/album/4LOdX7PgbZyzNRq7uRolv6) | 2:47 | 2022-08-01 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1SM8IZ5aPl2wVazZIUOb0H.md) - [plain]
 
 > 
 
-[Telkin](https://open.spotify.com/user/5l15pz9djz62b4a6vpw5piae8) - 6 likes - 48 songs - 2 hr 54 min
+[Telkin](https://open.spotify.com/user/5l15pz9djz62b4a6vpw5piae8) - 6 likes - 50 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,5 +56,7 @@ pretty - [cumulative](/playlists/cumulative/1SM8IZ5aPl2wVazZIUOb0H.md) - [plain]
 | 46 | [edge of the world](https://open.spotify.com/track/2jd0X87fTd5947SPnsQNmp) | [Beetlebug](https://open.spotify.com/artist/1VT3v8pPYq1Y8yeVxRKAyM) | [edge of the world](https://open.spotify.com/album/0KkYum5QVAfS5FdX8t9gpp) | 4:45 |
 | 47 | [Teenage Sound](https://open.spotify.com/track/06xPdNtt4iuQPKxQhBAQtb) | [Ritviz](https://open.spotify.com/artist/72beYOeW2sb2yfcS4JsRvb) | [Teenage Sound](https://open.spotify.com/album/2D8dV3fLbJH4isDduuIxHt) | 2:51 |
 | 48 | [Ruler of Everything](https://open.spotify.com/track/3vFZheR74pxUkzxqhXTZ2X) | [Tally Hall](https://open.spotify.com/artist/7lqaPghwYv2mE9baz5XQmL) | [Marvin's Marvelous Mechanical Museum](https://open.spotify.com/album/2TN3NIEBmAOGWmvP96DFs5) | 3:42 |
+| 49 | [Romance Is Boring](https://open.spotify.com/track/79jQsuUX9NAaVXKTXZ2DLJ) | [Los Campesinos!](https://open.spotify.com/artist/6FlOCziOXI157pvUREAh3E) | [Romance Is Boring](https://open.spotify.com/album/3KYRkyw2dIMm5LS3ufPtNa) | 2:35 |
+| 50 | [Avocado, Baby](https://open.spotify.com/track/6zcUwPk6JqBjntBY7sAAF9) | [Los Campesinos!](https://open.spotify.com/artist/6FlOCziOXI157pvUREAh3E) | [No Blues](https://open.spotify.com/album/0Gl5s4REVZwJ74WEZmh7Lp) | 4:36 |
 
-Snapshot ID: `NTAsMTg0M2VmZTg5NTRlMTk3MzFlZTg2N2RkNDc1MzgyYTdiMmYzNTEyNw==`
+Snapshot ID: `NTIsMzgzYjIyMzQ1ODg1ZDY5N2Y4YjNlY2ZlYWFmNjYzYzA1YWQ0MjFkZA==`

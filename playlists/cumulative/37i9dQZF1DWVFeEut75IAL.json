@@ -774,6 +774,36 @@
     },
     {
       "album": {
+        "name": "Humanity",
+        "url": "https://open.spotify.com/album/3szs87EzcEUj8vjZCe4q7N"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Simone Drescher",
+          "url": "https://open.spotify.com/artist/42lod2cmRT0BzVFKh01zbp"
+        },
+        {
+          "name": "Sinfonietta Riga",
+          "url": "https://open.spotify.com/artist/3PaOiIUiOccivDf73rOXsY"
+        },
+        {
+          "name": "J\u0101nis Liepi\u0146\u0161",
+          "url": "https://open.spotify.com/artist/2fT0t0dDsDrf0GLZO6YQsd"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214360,
+      "name": "Erbarm dich mein, o Herre Gott, BWV 721 (Arr. S. Scheiwiller for Cello & Orchestra)",
+      "url": "https://open.spotify.com/track/5pCoZCarC9qZ5UqnMxxFju"
+    },
+    {
+      "album": {
         "name": "Piano Works",
         "url": "https://open.spotify.com/album/0HYTxeKs2ySnsuAkwnwDrd"
       },

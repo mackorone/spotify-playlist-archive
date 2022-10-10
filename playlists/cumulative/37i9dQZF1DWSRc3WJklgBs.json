@@ -4889,7 +4889,7 @@
           "url": "https://open.spotify.com/artist/6d0ZjIp5L7Ygy2l02HskRX"
         },
         {
-          "name": "Nitti",
+          "name": "NITTI",
           "url": "https://open.spotify.com/artist/21AUdblPrTRzkvJn8FGrlk"
         }
       ],
@@ -6109,7 +6109,7 @@
           "url": "https://open.spotify.com/artist/6wKxOKEA3K6R2UZ3COLXEY"
         },
         {
-          "name": "Nitti",
+          "name": "NITTI",
           "url": "https://open.spotify.com/artist/21AUdblPrTRzkvJn8FGrlk"
         }
       ],
@@ -13321,10 +13321,32 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-05",
       "duration_ms": 181114,
       "name": "Nobody (feat. PollyAnna)",
       "url": "https://open.spotify.com/track/4cnwqSOuZfm9WeXATWmrYK"
+    },
+    {
+      "album": {
+        "name": "HiROQUEST: Genesis",
+        "url": "https://open.spotify.com/album/68QeWSGSKSQKI0mpDkP7Lg"
+      },
+      "artists": [
+        {
+          "name": "Steve Aoki",
+          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
+        },
+        {
+          "name": "PollyAnna",
+          "url": "https://open.spotify.com/artist/3mRSi79NwnlKaOH8vFxBVL"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181114,
+      "name": "Nobody (feat. PollyAnna)",
+      "url": "https://open.spotify.com/track/6JVJveEV6OIdHNQ7byExRh"
     },
     {
       "album": {
@@ -16935,6 +16957,28 @@
       "duration_ms": 195600,
       "name": "Start It Over (feat. KC)",
       "url": "https://open.spotify.com/track/4Y3hmcRgFw88qJnXGzCwkq"
+    },
+    {
+      "album": {
+        "name": "State Of My Heart",
+        "url": "https://open.spotify.com/album/7wShfmCoQeQI9abSH3zlN5"
+      },
+      "artists": [
+        {
+          "name": "Surf Mesa",
+          "url": "https://open.spotify.com/artist/1lmU3giNF3CSbkVSQmLpHQ"
+        },
+        {
+          "name": "Nat Dunn",
+          "url": "https://open.spotify.com/artist/6uNiUxDeo17yUnA472Zhni"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176122,
+      "name": "State Of My Heart",
+      "url": "https://open.spotify.com/track/2wPG888F5AMkxILKc9Pc3Q"
     },
     {
       "album": {

@@ -1290,6 +1290,24 @@
     },
     {
       "album": {
+        "name": "Ever-changing Light",
+        "url": "https://open.spotify.com/album/5r5AlE4mnza28bHs9EWZiA"
+      },
+      "artists": [
+        {
+          "name": "Lucid Lucia",
+          "url": "https://open.spotify.com/artist/2kq88GbQw1ieU5VvWVZFYI"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261213,
+      "name": "Mumpsimus",
+      "url": "https://open.spotify.com/track/1jv1v75OhCe82Xtulem3h3"
+    },
+    {
+      "album": {
         "name": "Reminiscence",
         "url": "https://open.spotify.com/album/1lLkH3BBGY9BPoiIqQ8ZiU"
       },
@@ -1301,7 +1319,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-09",
       "duration_ms": 261213,
       "name": "Mumpsimus",
       "url": "https://open.spotify.com/track/3vDDo27qTtttNNYc2WICKp"
@@ -1672,6 +1690,24 @@
     },
     {
       "album": {
+        "name": "Ever-changing Light",
+        "url": "https://open.spotify.com/album/5r5AlE4mnza28bHs9EWZiA"
+      },
+      "artists": [
+        {
+          "name": "Lucid Lucia",
+          "url": "https://open.spotify.com/artist/2kq88GbQw1ieU5VvWVZFYI"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242400,
+      "name": "Quanked",
+      "url": "https://open.spotify.com/track/4ScsbA64TjlH2szHkAW8Kz"
+    },
+    {
+      "album": {
         "name": "Transit",
         "url": "https://open.spotify.com/album/58J5Tg7SnhkUcJsweg8xE0"
       },
@@ -1726,6 +1762,24 @@
     },
     {
       "album": {
+        "name": "Ever-changing Light",
+        "url": "https://open.spotify.com/album/5r5AlE4mnza28bHs9EWZiA"
+      },
+      "artists": [
+        {
+          "name": "Lucid Lucia",
+          "url": "https://open.spotify.com/artist/2kq88GbQw1ieU5VvWVZFYI"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268280,
+      "name": "Reminiscence",
+      "url": "https://open.spotify.com/track/27ijI4NwO9znLJJ7a776Uj"
+    },
+    {
+      "album": {
         "name": "Reminiscence",
         "url": "https://open.spotify.com/album/1lLkH3BBGY9BPoiIqQ8ZiU"
       },
@@ -1737,7 +1791,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-09",
       "duration_ms": 271041,
       "name": "Reminiscence",
       "url": "https://open.spotify.com/track/5mbDO1wbecRbF5iQqEn8ty"
@@ -2164,6 +2218,24 @@
     },
     {
       "album": {
+        "name": "Odyssey",
+        "url": "https://open.spotify.com/album/3h8dvqsbbIlx2rPPYjNi4q"
+      },
+      "artists": [
+        {
+          "name": "Stellar Legions",
+          "url": "https://open.spotify.com/artist/0OVerCSCBhKBEXrCLPxxJO"
+        }
+      ],
+      "date_added": "2022-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303915,
+      "name": "Wessel",
+      "url": "https://open.spotify.com/track/1qpwLKM8ipm4V21h3eXuuU"
+    },
+    {
+      "album": {
         "name": "Wessel",
         "url": "https://open.spotify.com/album/0OEduMDNnxOH9s5wRRzIpQ"
       },
@@ -2193,7 +2265,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-03",
       "duration_ms": 303915,
       "name": "Wessel",
       "url": "https://open.spotify.com/track/672F19pjKGG8SsqArjk1EX"

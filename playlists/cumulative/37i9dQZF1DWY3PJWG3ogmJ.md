@@ -4,7 +4,7 @@
 
 > Powerful and rhythmic  metal for maximum power during your workout.
 
-224 songs - 13 hr 20 min - [published](https://open.spotify.com/playlist/42zmCNqmVhMbS7GsNCf9fQ)
+225 songs - 13 hr 24 min - [published](https://open.spotify.com/playlist/42zmCNqmVhMbS7GsNCf9fQ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,7 +70,8 @@
 | [Decompose](https://open.spotify.com/track/4xsSWQqdMLBRUoZny0yroT) | [Cruel Hand](https://open.spotify.com/artist/1SFgBn3VKdBuPao3H2ZlFV) | [Your World Won't Listen](https://open.spotify.com/album/4S99ZdjxAJsn4F8Hf7o3Rh) | 2:27 | 2022-04-22 |  |
 | [Defy the Tyrant](https://open.spotify.com/track/2sTMlokPk1iuh8oGpncJPZ) | [Venom Prison](https://open.spotify.com/artist/3iSORLy7akvZ1g6QUMnM5f) | [Defy the Tyrant](https://open.spotify.com/album/2p3PLuNEY27v8oPg8xtcuu) | 3:50 | 2022-01-14 | 2022-07-29 |
 | [Demolisher](https://open.spotify.com/track/2ZNu55CIrGd8psBWZmw8WY) | [Slaughter to Prevail](https://open.spotify.com/artist/24Oiw7BlvO1BETecDLJt6m) | [Demolisher](https://open.spotify.com/album/208720QaPUwdbfMMbDRmhK) | 3:36 | 2022-01-14 | 2022-07-29 |
-| [Demolisher](https://open.spotify.com/track/2y2ePmhzeawxdgzODNvpCD) | [Slaughter to Prevail](https://open.spotify.com/artist/24Oiw7BlvO1BETecDLJt6m) | [Kostolom](https://open.spotify.com/album/3VdKGKINXzkSLDXIqmhw6T) | 3:36 | 2022-04-22 |  |
+| [Demolisher](https://open.spotify.com/track/2y2ePmhzeawxdgzODNvpCD) | [Slaughter to Prevail](https://open.spotify.com/artist/24Oiw7BlvO1BETecDLJt6m) | [Kostolom](https://open.spotify.com/album/3VdKGKINXzkSLDXIqmhw6T) | 3:36 | 2022-04-22 | 2022-10-04 |
+| [Demolisher](https://open.spotify.com/track/6sm4qIkuAMAq3rKcRCzLw6) | [Slaughter to Prevail](https://open.spotify.com/artist/24Oiw7BlvO1BETecDLJt6m) | [Kostolom](https://open.spotify.com/album/37XaKB6rpfLrR4572PBCSs) | 3:36 | 2022-04-22 |  |
 | [Demon King](https://open.spotify.com/track/3k7V2I8tZRausER37oVADQ) | [Brand of Sacrifice](https://open.spotify.com/artist/4d6Rawrese4OLF1zZCztod) | [Demon King](https://open.spotify.com/album/7c6Zz9bVK2vwt7vhMPQgSC) | 3:55 | 2022-01-14 |  |
 | [Desperate Pleasures](https://open.spotify.com/track/56qkrMwEzu4cR4UrG6GHiL) | [Every Time I Die](https://open.spotify.com/artist/0o7WWONtleH6PWLn5GIoCM) | [A Colossal Wreck // Desperate Pleasures](https://open.spotify.com/album/6TliRbh2qzFFExsCtKCVTh) | 3:11 | 2022-01-14 | 2022-07-18 |
 | [Destroy Everything](https://open.spotify.com/track/501CSzS4gwNOJnlWHuBt9r) | [Hatebreed](https://open.spotify.com/artist/17Mb968quDHpjCkIyq30QV) | [Supremacy](https://open.spotify.com/album/3EYFN0Qx0TMeJwSVgWO1ky) | 3:29 | 2022-01-14 |  |
@@ -92,7 +93,7 @@
 | [From Silence I Rise](https://open.spotify.com/track/4WDfePGxQBEiJ3pn1BWHQo) | [Alea Jacta Est](https://open.spotify.com/artist/69vv19AEt8RvpFvXZJD4W3) | [Vae Victis](https://open.spotify.com/album/0eFmpRNEXop4AgjbHhhfgm) | 2:21 | 2022-02-10 | 2022-07-19 |
 | [FU2 \(feat\. AJ Channer of Fire From The Gods\)](https://open.spotify.com/track/5yLQ9epAVnt9Tx19izzDI5) | [Hyro The Hero](https://open.spotify.com/artist/54okLCsuAzwltG8zHECNpm), [Fire From The Gods](https://open.spotify.com/artist/6yeRY2d7gubXoymv3DAYhS) | [FU2 \(feat\. AJ Channer of Fire From The Gods\)](https://open.spotify.com/album/3pSmwSKb6XLN4WtYI5knKB) | 3:14 | 2022-01-14 |  |
 | [Fuck the Rules](https://open.spotify.com/track/6BVWv9XJIOYpb1rv1a2BzG) | [First Blood](https://open.spotify.com/artist/4z2rZXnFuTCl75Vpb26Eg0) | [Rules](https://open.spotify.com/album/7FH1a9pkDnGALu3wUpURs3) | 1:19 | 2022-01-14 |  |
-| [Gaining Purpose](https://open.spotify.com/track/08mIaXVJgO4LJqBbmCQXlN) | [Twitching Tongues](https://open.spotify.com/artist/3k1tPUpSlWppOSbIV1ivQy) | [Gaining Purpose Through Passionate Hatred](https://open.spotify.com/album/1odexVafvTYzG1bCxz9AiO) | 3:51 | 2022-01-14 | 2022-07-29 |
+| [Gaining Purpose](https://open.spotify.com/track/08mIaXVJgO4LJqBbmCQXlN) | [Twitching Tongues](https://open.spotify.com/artist/3k1tPUpSlWppOSbIV1ivQy) | [Gaining Purpose Through Passionate Hatred](https://open.spotify.com/album/1odexVafvTYzG1bCxz9AiO) | 3:51 | 2022-01-14 | 2022-10-06 |
 | [Habitual Decline](https://open.spotify.com/track/43EgxfBHcJr15V5tHOdRSQ) | [Like Moths To Flames](https://open.spotify.com/artist/6RRpZz1uPqY9E28kmSPAhw) | [Habitual Decline](https://open.spotify.com/album/1wfNfKDEqHZNqnkxKh1zWE) | 3:11 | 2022-01-14 |  |
 | [Hammer of the Witch](https://open.spotify.com/track/0Q7XROBkDRBMNAAVD6E4jn) | [Ringworm](https://open.spotify.com/artist/1mVvXNKbCaUapInbgHCDRV) | [Hammer of the Witch \(Deluxe Version\)](https://open.spotify.com/album/2zBcPs4fZxUW3tNywX1FNU) | 3:22 | 2022-01-14 |  |
 | [Hand to Hand](https://open.spotify.com/track/5zSAMgdQ86NVzDP3m7qT9K) | [Brothers Till We Die](https://open.spotify.com/artist/0EwKNpMC1gUUzcNzQqiSWC) | [The Thin Line Between Death and Immortality](https://open.spotify.com/album/4v8rDCi4X3XfK2B3bEXxoS) | 3:11 | 2022-01-14 | 2022-07-22 |

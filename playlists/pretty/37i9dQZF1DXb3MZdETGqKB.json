@@ -1,13 +1,29 @@
 {
   "description": "All new, all blues. Cover: Dylan Triplett",
-  "num_followers": 120765,
+  "num_followers": 121026,
   "original_name": "Nu-Blue",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzMwMDg2MCwwMDAwMDAwMDk5NDY5YjRhNDI1YjRlM2JiZDczN2MzM2QyMWE1Mzg1",
+  "snapshot_id": "MTY2NTExNTI2MCwwMDAwMDAwMDFiOWJlNjM5ZmFmODIxZTI3NjA1NzU4YWZiYzYwNDVl",
   "tracks": [
+    {
+      "added_at": "2022-10-07 04:01:00",
+      "album": {
+        "name": "Strike Gold",
+        "url": "https://open.spotify.com/album/5M6sqKBlKeBTACwzWexteZ"
+      },
+      "artists": [
+        {
+          "name": "Larkin Poe",
+          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
+        }
+      ],
+      "duration_ms": 200858,
+      "name": "Strike Gold",
+      "url": "https://open.spotify.com/track/3g3vayoe4Y10leAHdrvTnM"
+    },
     {
       "added_at": "2022-08-26 04:02:00",
       "album": {

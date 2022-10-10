@@ -30,6 +30,36 @@
     },
     {
       "album": {
+        "name": "2 Step Gliding",
+        "url": "https://open.spotify.com/album/6ZnGv3LJi8W90QoaqNlMRh"
+      },
+      "artists": [
+        {
+          "name": "Ekumbo",
+          "url": "https://open.spotify.com/artist/1a40Z4TMkLys2UVlxDXPT7"
+        },
+        {
+          "name": "Michael Carpenter",
+          "url": "https://open.spotify.com/artist/2zxCiaufpb0PVlWb9iRBDz"
+        },
+        {
+          "name": "lloco",
+          "url": "https://open.spotify.com/artist/2WTWVfASuVDEfdKWjTomXH"
+        },
+        {
+          "name": "Swahili Papi",
+          "url": "https://open.spotify.com/artist/66HNxzGcmvdYQD36Pcg0Di"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104571,
+      "name": "2 Step Gliding",
+      "url": "https://open.spotify.com/track/3LCisn5gOFXlwHR6CCJH1h"
+    },
+    {
+      "album": {
         "name": "54321",
         "url": "https://open.spotify.com/album/5vW8LuMydrkQQqkQlw5Won"
       },
@@ -788,6 +818,28 @@
     },
     {
       "album": {
+        "name": "Let\u2019s Go (feat. Aitch)",
+        "url": "https://open.spotify.com/album/03YnYlkkIiMOjIV9qIjykw"
+      },
+      "artists": [
+        {
+          "name": "Tion Wayne",
+          "url": "https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt"
+        },
+        {
+          "name": "Aitch",
+          "url": "https://open.spotify.com/artist/2PJEagPIxaBugeMjIyKVXF"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159031,
+      "name": "Let\u2019s Go (feat. Aitch)",
+      "url": "https://open.spotify.com/track/1wUpbNyIar4OFPM1Fg3R3j"
+    },
+    {
+      "album": {
         "name": "LOCATION 58",
         "url": "https://open.spotify.com/album/4j09XYUk4AEyG5DJrGok9h"
       },
@@ -1311,7 +1363,7 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 161355,
       "name": "Sleazy Flow (with Lil Baby) - Remix",
       "url": "https://open.spotify.com/track/5cx7vkF8BQ0iOsVpfvZbnz"

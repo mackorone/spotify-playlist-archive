@@ -208,6 +208,24 @@
     },
     {
       "album": {
+        "name": "Akube",
+        "url": "https://open.spotify.com/album/0zELiFzMoNWd27BZ8t24TY"
+      },
+      "artists": [
+        {
+          "name": "Dotman",
+          "url": "https://open.spotify.com/artist/6qMGjGD3lmDJtzALZ8uS2z"
+        }
+      ],
+      "date_added": "2020-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224586,
+      "name": "Akube",
+      "url": "https://open.spotify.com/track/4ulKfhOXLxTo0QRCpWfZYh"
+    },
+    {
+      "album": {
         "name": "Greatest Hits",
         "url": "https://open.spotify.com/album/1TYstIc5wsvjhINsDYqbTe"
       },
@@ -491,7 +509,7 @@
       ],
       "date_added": "2020-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-09",
       "duration_ms": 260257,
       "name": "Boom Boom Tah",
       "url": "https://open.spotify.com/track/1urrkZaxQUFsoQD54wvjY3"

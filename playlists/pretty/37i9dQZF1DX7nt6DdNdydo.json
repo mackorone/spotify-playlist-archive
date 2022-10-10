@@ -1,12 +1,12 @@
 {
   "description": "Where swing meets blues.",
-  "num_followers": 35362,
+  "num_followers": 35531,
   "original_name": "Jump Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0ODQ5NjY2NSwwMDAwMDAwMGJlZDA1ZTY1ZDRjMzdhMjI5YjlmZDdmYmJlOWY3MzZl",
+  "snapshot_id": "MTY0ODQ5NjY2NSwwMDAwMDAwMDI4MzBjNjE3YTYxZTVkZGI5NjczMzcwZTFhOGZhYjgw",
   "tracks": [
     {
       "added_at": "2022-03-28 19:44:25",
@@ -75,22 +75,6 @@
     {
       "added_at": "2022-03-28 19:44:25",
       "album": {
-        "name": "Ruth Brown",
-        "url": "https://open.spotify.com/album/1k5uQeczqciJ3kOcETQvAI"
-      },
-      "artists": [
-        {
-          "name": "Ruth Brown",
-          "url": "https://open.spotify.com/artist/4EYVgfZJ8wKXWmIvCx3gOY"
-        }
-      ],
-      "duration_ms": 195466,
-      "name": "5-10-15 Hours",
-      "url": "https://open.spotify.com/track/0w20j6tOA22U8Q8brOysGK"
-    },
-    {
-      "added_at": "2022-03-28 19:44:25",
-      "album": {
         "name": "Joe Liggins & The Honeydrippers",
         "url": "https://open.spotify.com/album/4xhs6dSoAHMYqJuq3zNygO"
       },
@@ -107,6 +91,22 @@
       "duration_ms": 170533,
       "name": "Going Back To New Orleans",
       "url": "https://open.spotify.com/track/15UtASGoJcuIZlLRTUGYVZ"
+    },
+    {
+      "added_at": "2022-03-28 19:44:25",
+      "album": {
+        "name": "Ruth Brown",
+        "url": "https://open.spotify.com/album/1k5uQeczqciJ3kOcETQvAI"
+      },
+      "artists": [
+        {
+          "name": "Ruth Brown",
+          "url": "https://open.spotify.com/artist/4EYVgfZJ8wKXWmIvCx3gOY"
+        }
+      ],
+      "duration_ms": 195466,
+      "name": "5-10-15 Hours",
+      "url": "https://open.spotify.com/track/0w20j6tOA22U8Q8brOysGK"
     },
     {
       "added_at": "2022-03-28 19:44:25",
@@ -143,18 +143,18 @@
     {
       "added_at": "2022-03-28 19:44:25",
       "album": {
-        "name": "The Capitol Years",
-        "url": "https://open.spotify.com/album/2HrlxHARSvSqo9EUtkZ7FV"
+        "name": "Boogie At Midnight",
+        "url": "https://open.spotify.com/album/3TlIlU1oNMJkDNxZ53OgKC"
       },
       "artists": [
         {
-          "name": "Johnny Otis",
-          "url": "https://open.spotify.com/artist/5PGt6fQNjLKhYYeGLWKWcM"
+          "name": "Roy Brown",
+          "url": "https://open.spotify.com/artist/1tawCzlbH40c30eztzufSu"
         }
       ],
-      "duration_ms": 112866,
-      "name": "Good Golly",
-      "url": "https://open.spotify.com/track/1XjV7jqITBJgpq2yj6O9hK"
+      "duration_ms": 143230,
+      "name": "Mighty Mighty Man",
+      "url": "https://open.spotify.com/track/5tBDBrsPypLVJ9Rbpy3MNm"
     },
     {
       "added_at": "2022-03-28 19:44:25",
@@ -175,6 +175,22 @@
     {
       "added_at": "2022-03-28 19:44:25",
       "album": {
+        "name": "The Capitol Years",
+        "url": "https://open.spotify.com/album/2HrlxHARSvSqo9EUtkZ7FV"
+      },
+      "artists": [
+        {
+          "name": "Johnny Otis",
+          "url": "https://open.spotify.com/artist/5PGt6fQNjLKhYYeGLWKWcM"
+        }
+      ],
+      "duration_ms": 112866,
+      "name": "Good Golly",
+      "url": "https://open.spotify.com/track/1XjV7jqITBJgpq2yj6O9hK"
+    },
+    {
+      "added_at": "2022-03-28 19:44:25",
+      "album": {
         "name": "The EP Collection",
         "url": "https://open.spotify.com/album/4wwPcZGpLPcXmm3O8GFNSb"
       },
@@ -187,22 +203,6 @@
       "duration_ms": 153573,
       "name": "Soft",
       "url": "https://open.spotify.com/track/5u87THoJXo4YgI7pxjwaqI"
-    },
-    {
-      "added_at": "2022-03-28 19:44:25",
-      "album": {
-        "name": "Ruth Brown",
-        "url": "https://open.spotify.com/album/1k5uQeczqciJ3kOcETQvAI"
-      },
-      "artists": [
-        {
-          "name": "Ruth Brown",
-          "url": "https://open.spotify.com/artist/4EYVgfZJ8wKXWmIvCx3gOY"
-        }
-      ],
-      "duration_ms": 153293,
-      "name": "Wild Wild Young Men",
-      "url": "https://open.spotify.com/track/3TIkpec14up3Wb7oykhdwV"
     },
     {
       "added_at": "2022-03-28 19:44:25",
@@ -227,34 +227,18 @@
     {
       "added_at": "2022-03-28 19:44:25",
       "album": {
-        "name": "Boogie At Midnight",
-        "url": "https://open.spotify.com/album/3TlIlU1oNMJkDNxZ53OgKC"
+        "name": "Down The Road Apiece -The Best Of Amos Milburn",
+        "url": "https://open.spotify.com/album/04bo29HzmFDq9Un9O93nEp"
       },
       "artists": [
         {
-          "name": "Roy Brown",
-          "url": "https://open.spotify.com/artist/1tawCzlbH40c30eztzufSu"
+          "name": "Amos Milburn",
+          "url": "https://open.spotify.com/artist/3uZRvkqeNHKLMFQrJBaUCX"
         }
       ],
-      "duration_ms": 143230,
-      "name": "Mighty Mighty Man",
-      "url": "https://open.spotify.com/track/5tBDBrsPypLVJ9Rbpy3MNm"
-    },
-    {
-      "added_at": "2022-03-28 19:44:25",
-      "album": {
-        "name": "Let The Good Times Roll: The Anthology 1938 - 1953",
-        "url": "https://open.spotify.com/album/3IXj7J6a5kqVGdyfPbQnHK"
-      },
-      "artists": [
-        {
-          "name": "Louis Jordan & His Tympany Five",
-          "url": "https://open.spotify.com/artist/62FPyLpIhmk27hBw6RHlhh"
-        }
-      ],
-      "duration_ms": 161266,
-      "name": "Caldonia - Single Version",
-      "url": "https://open.spotify.com/track/3DY0fbOGsg1F1wdoqJFRig"
+      "duration_ms": 179893,
+      "name": "Down The Road Apiece",
+      "url": "https://open.spotify.com/track/4aWXCY2dBDULAE9yjo7Wcq"
     },
     {
       "added_at": "2022-03-28 19:44:25",
@@ -275,18 +259,34 @@
     {
       "added_at": "2022-03-28 19:44:25",
       "album": {
-        "name": "Down The Road Apiece -The Best Of Amos Milburn",
-        "url": "https://open.spotify.com/album/04bo29HzmFDq9Un9O93nEp"
+        "name": "Ruth Brown",
+        "url": "https://open.spotify.com/album/1k5uQeczqciJ3kOcETQvAI"
       },
       "artists": [
         {
-          "name": "Amos Milburn",
-          "url": "https://open.spotify.com/artist/3uZRvkqeNHKLMFQrJBaUCX"
+          "name": "Ruth Brown",
+          "url": "https://open.spotify.com/artist/4EYVgfZJ8wKXWmIvCx3gOY"
         }
       ],
-      "duration_ms": 179893,
-      "name": "Down The Road Apiece",
-      "url": "https://open.spotify.com/track/4aWXCY2dBDULAE9yjo7Wcq"
+      "duration_ms": 153293,
+      "name": "Wild Wild Young Men",
+      "url": "https://open.spotify.com/track/3TIkpec14up3Wb7oykhdwV"
+    },
+    {
+      "added_at": "2022-03-28 19:44:25",
+      "album": {
+        "name": "Let The Good Times Roll: The Anthology 1938 - 1953",
+        "url": "https://open.spotify.com/album/3IXj7J6a5kqVGdyfPbQnHK"
+      },
+      "artists": [
+        {
+          "name": "Louis Jordan & His Tympany Five",
+          "url": "https://open.spotify.com/artist/62FPyLpIhmk27hBw6RHlhh"
+        }
+      ],
+      "duration_ms": 161266,
+      "name": "Caldonia - Single Version",
+      "url": "https://open.spotify.com/track/3DY0fbOGsg1F1wdoqJFRig"
     },
     {
       "added_at": "2022-03-28 19:44:25",
@@ -323,22 +323,6 @@
     {
       "added_at": "2022-03-28 19:44:25",
       "album": {
-        "name": "Aladdin '52-'59:Let The Good Times Roll",
-        "url": "https://open.spotify.com/album/5UOdBLbQBqGZlQoV1OJQTP"
-      },
-      "artists": [
-        {
-          "name": "Shirley & Lee",
-          "url": "https://open.spotify.com/artist/7kowgNVIlvDxx9Uhvcft5Y"
-        }
-      ],
-      "duration_ms": 119720,
-      "name": "The Flirt",
-      "url": "https://open.spotify.com/track/0367Y5NNAanCDqBTLEUEwU"
-    },
-    {
-      "added_at": "2022-03-28 19:44:25",
-      "album": {
         "name": "The EP Collection",
         "url": "https://open.spotify.com/album/4wwPcZGpLPcXmm3O8GFNSb"
       },
@@ -355,6 +339,22 @@
     {
       "added_at": "2022-03-28 19:44:25",
       "album": {
+        "name": "Aladdin '52-'59:Let The Good Times Roll",
+        "url": "https://open.spotify.com/album/5UOdBLbQBqGZlQoV1OJQTP"
+      },
+      "artists": [
+        {
+          "name": "Shirley & Lee",
+          "url": "https://open.spotify.com/artist/7kowgNVIlvDxx9Uhvcft5Y"
+        }
+      ],
+      "duration_ms": 119720,
+      "name": "The Flirt",
+      "url": "https://open.spotify.com/track/0367Y5NNAanCDqBTLEUEwU"
+    },
+    {
+      "added_at": "2022-03-28 19:44:25",
+      "album": {
         "name": "Mardi Gras Blues",
         "url": "https://open.spotify.com/album/5tLHw9N8vVR5OVySvPB1Ak"
       },
@@ -367,6 +367,38 @@
       "duration_ms": 147053,
       "name": "(Every Time I Hear) That Mellow Saxophone",
       "url": "https://open.spotify.com/track/2RjpkTcVv36r30mmT4XOTy"
+    },
+    {
+      "added_at": "2022-03-28 19:44:25",
+      "album": {
+        "name": "Let The Good Times Roll: The Anthology 1938 - 1953",
+        "url": "https://open.spotify.com/album/3IXj7J6a5kqVGdyfPbQnHK"
+      },
+      "artists": [
+        {
+          "name": "Louis Jordan & His Tympany Five",
+          "url": "https://open.spotify.com/artist/62FPyLpIhmk27hBw6RHlhh"
+        }
+      ],
+      "duration_ms": 334360,
+      "name": "Saturday Night Fish Fry - Pts. 1 & 2",
+      "url": "https://open.spotify.com/track/6NrCCHjmdopC3Jh0SGLPe5"
+    },
+    {
+      "added_at": "2022-03-28 19:44:25",
+      "album": {
+        "name": "Lost Halloween",
+        "url": "https://open.spotify.com/album/4TpcgsEr8w68ELyq0fZR4T"
+      },
+      "artists": [
+        {
+          "name": "Big 'T' Tyler",
+          "url": "https://open.spotify.com/artist/3tPcYagyW1P5eV46xefSfa"
+        }
+      ],
+      "duration_ms": 120480,
+      "name": "King Kong",
+      "url": "https://open.spotify.com/track/49VFbbe7fYParNLzugoweT"
     },
     {
       "added_at": "2022-03-28 19:44:25",
@@ -407,22 +439,6 @@
     {
       "added_at": "2022-03-28 19:44:25",
       "album": {
-        "name": "Let The Good Times Roll: The Anthology 1938 - 1953",
-        "url": "https://open.spotify.com/album/3IXj7J6a5kqVGdyfPbQnHK"
-      },
-      "artists": [
-        {
-          "name": "Louis Jordan & His Tympany Five",
-          "url": "https://open.spotify.com/artist/62FPyLpIhmk27hBw6RHlhh"
-        }
-      ],
-      "duration_ms": 334360,
-      "name": "Saturday Night Fish Fry - Pts. 1 & 2",
-      "url": "https://open.spotify.com/track/6NrCCHjmdopC3Jh0SGLPe5"
-    },
-    {
-      "added_at": "2022-03-28 19:44:25",
-      "album": {
         "name": "Swingsation: Lionel Hampton",
         "url": "https://open.spotify.com/album/3XX8hxTz2lu7Ux2kKF0R66"
       },
@@ -455,18 +471,34 @@
     {
       "added_at": "2022-03-28 19:44:25",
       "album": {
-        "name": "Lost Halloween",
-        "url": "https://open.spotify.com/album/4TpcgsEr8w68ELyq0fZR4T"
+        "name": "Presenting Big Jay McNeely",
+        "url": "https://open.spotify.com/album/5p6jMtejgQObxzDs1T9w6A"
       },
       "artists": [
         {
-          "name": "Big 'T' Tyler",
-          "url": "https://open.spotify.com/artist/3tPcYagyW1P5eV46xefSfa"
+          "name": "Big Jay McNeely",
+          "url": "https://open.spotify.com/artist/5K3FOIJ4gEZlPaJJpqaXmm"
         }
       ],
-      "duration_ms": 120480,
-      "name": "King Kong",
-      "url": "https://open.spotify.com/track/49VFbbe7fYParNLzugoweT"
+      "duration_ms": 167866,
+      "name": "Deacon Rides Again",
+      "url": "https://open.spotify.com/track/0YuFInq5H0KkABIRdM7FaR"
+    },
+    {
+      "added_at": "2022-03-28 19:44:25",
+      "album": {
+        "name": "Ruth Brown",
+        "url": "https://open.spotify.com/album/1k5uQeczqciJ3kOcETQvAI"
+      },
+      "artists": [
+        {
+          "name": "Ruth Brown",
+          "url": "https://open.spotify.com/artist/4EYVgfZJ8wKXWmIvCx3gOY"
+        }
+      ],
+      "duration_ms": 156320,
+      "name": "Hello Little Boy",
+      "url": "https://open.spotify.com/track/2JAuujVyt4XzR9eDScPQVN"
     },
     {
       "added_at": "2022-03-28 19:44:25",
@@ -491,38 +523,18 @@
     {
       "added_at": "2022-03-28 19:44:25",
       "album": {
-        "name": "Presenting Big Jay McNeely",
-        "url": "https://open.spotify.com/album/5p6jMtejgQObxzDs1T9w6A"
+        "name": "Sun Records - 60 Years, 60 Singles Box Set",
+        "url": "https://open.spotify.com/album/3O2SUQ0VEHYYU1BKwsNV0O"
       },
       "artists": [
         {
-          "name": "Big Jay McNeely",
-          "url": "https://open.spotify.com/artist/5K3FOIJ4gEZlPaJJpqaXmm"
+          "name": "Billy \"The Kid\" Emerson",
+          "url": "https://open.spotify.com/artist/07mlkNoHj4X0n11DmGBptw"
         }
       ],
-      "duration_ms": 167866,
-      "name": "Deacon Rides Again",
-      "url": "https://open.spotify.com/track/0YuFInq5H0KkABIRdM7FaR"
-    },
-    {
-      "added_at": "2022-03-28 19:44:25",
-      "album": {
-        "name": "The Humphrey Lyttelton Big Band with Jimmy Rushing",
-        "url": "https://open.spotify.com/album/0Vf3hj99x2COkEfGXOdjhh"
-      },
-      "artists": [
-        {
-          "name": "Humphrey Lyttelton",
-          "url": "https://open.spotify.com/artist/64rUsDFcuATcV1JyYn26mf"
-        },
-        {
-          "name": "Jimmy Rushing",
-          "url": "https://open.spotify.com/artist/5oSx3uh0EaLA2xEywrMsCX"
-        }
-      ],
-      "duration_ms": 116933,
-      "name": "Mr. Five By Five",
-      "url": "https://open.spotify.com/track/4PAj4rebLjJLFEeZNPEjf2"
+      "duration_ms": 144166,
+      "name": "Red Hot",
+      "url": "https://open.spotify.com/track/1MXmG9AZuyY1EjHgAeY2kL"
     },
     {
       "added_at": "2022-03-28 19:44:25",
@@ -543,34 +555,22 @@
     {
       "added_at": "2022-03-28 19:44:25",
       "album": {
-        "name": "Ruth Brown",
-        "url": "https://open.spotify.com/album/1k5uQeczqciJ3kOcETQvAI"
+        "name": "The Humphrey Lyttelton Big Band with Jimmy Rushing",
+        "url": "https://open.spotify.com/album/0Vf3hj99x2COkEfGXOdjhh"
       },
       "artists": [
         {
-          "name": "Ruth Brown",
-          "url": "https://open.spotify.com/artist/4EYVgfZJ8wKXWmIvCx3gOY"
-        }
-      ],
-      "duration_ms": 156320,
-      "name": "Hello Little Boy",
-      "url": "https://open.spotify.com/track/2JAuujVyt4XzR9eDScPQVN"
-    },
-    {
-      "added_at": "2022-03-28 19:44:25",
-      "album": {
-        "name": "Sun Records - 60 Years, 60 Singles Box Set",
-        "url": "https://open.spotify.com/album/3O2SUQ0VEHYYU1BKwsNV0O"
-      },
-      "artists": [
+          "name": "Humphrey Lyttelton",
+          "url": "https://open.spotify.com/artist/64rUsDFcuATcV1JyYn26mf"
+        },
         {
-          "name": "Billy \"The Kid\" Emerson",
-          "url": "https://open.spotify.com/artist/07mlkNoHj4X0n11DmGBptw"
+          "name": "Jimmy Rushing",
+          "url": "https://open.spotify.com/artist/5oSx3uh0EaLA2xEywrMsCX"
         }
       ],
-      "duration_ms": 144166,
-      "name": "Red Hot",
-      "url": "https://open.spotify.com/track/1MXmG9AZuyY1EjHgAeY2kL"
+      "duration_ms": 116933,
+      "name": "Mr. Five By Five",
+      "url": "https://open.spotify.com/track/4PAj4rebLjJLFEeZNPEjf2"
     },
     {
       "added_at": "2022-03-28 19:44:25",
@@ -607,18 +607,18 @@
     {
       "added_at": "2022-03-28 19:44:25",
       "album": {
-        "name": "Joe Williams' Finest Hour",
-        "url": "https://open.spotify.com/album/70KmX46g0Cy8aMiwvYLhjq"
+        "name": "The Complete Imperial Recordings, 1950-1954",
+        "url": "https://open.spotify.com/album/5wu5aLFVDLguiEmgWzraOX"
       },
       "artists": [
         {
-          "name": "Joe Williams",
-          "url": "https://open.spotify.com/artist/7FMGtucexJvUxVz7scydEL"
+          "name": "T-Bone Walker",
+          "url": "https://open.spotify.com/artist/6nPKmEbQmR8jGZEm7ArOFX"
         }
       ],
-      "duration_ms": 371893,
-      "name": "Is You Is Or Is You Ain't My Baby",
-      "url": "https://open.spotify.com/track/0M0r27mFU32BoLGliqLMm8"
+      "duration_ms": 124266,
+      "name": "Teenage Baby",
+      "url": "https://open.spotify.com/track/05D2bJ4V2uQm39GQX0mzvm"
     },
     {
       "added_at": "2022-03-28 19:44:25",
@@ -639,50 +639,18 @@
     {
       "added_at": "2022-03-28 19:44:25",
       "album": {
-        "name": "The Complete Imperial Recordings, 1950-1954",
-        "url": "https://open.spotify.com/album/5wu5aLFVDLguiEmgWzraOX"
+        "name": "Joe Williams' Finest Hour",
+        "url": "https://open.spotify.com/album/70KmX46g0Cy8aMiwvYLhjq"
       },
       "artists": [
         {
-          "name": "T-Bone Walker",
-          "url": "https://open.spotify.com/artist/6nPKmEbQmR8jGZEm7ArOFX"
+          "name": "Joe Williams",
+          "url": "https://open.spotify.com/artist/7FMGtucexJvUxVz7scydEL"
         }
       ],
-      "duration_ms": 124266,
-      "name": "Teenage Baby",
-      "url": "https://open.spotify.com/track/05D2bJ4V2uQm39GQX0mzvm"
-    },
-    {
-      "added_at": "2022-03-28 19:44:25",
-      "album": {
-        "name": "Shorty",
-        "url": "https://open.spotify.com/album/5bxjj3N3oq4Ou5uTgfzXZ3"
-      },
-      "artists": [
-        {
-          "name": "Vernon Dilworth",
-          "url": "https://open.spotify.com/artist/0WgOtKOQ7BkDAMR7azqX1n"
-        }
-      ],
-      "duration_ms": 159493,
-      "name": "Who Said Shorty Wasn't Coming Back - Lucky Millinder",
-      "url": "https://open.spotify.com/track/5HpZRWDP8738mEl6OTZvfF"
-    },
-    {
-      "added_at": "2022-03-28 19:44:25",
-      "album": {
-        "name": "Lovin' Machine",
-        "url": "https://open.spotify.com/album/4oHzoB06yfTbggLGro4Oxo"
-      },
-      "artists": [
-        {
-          "name": "Wynonie Harris",
-          "url": "https://open.spotify.com/artist/4Imc3wiT22cuynvQNpXcVn"
-        }
-      ],
-      "duration_ms": 173466,
-      "name": "Keep On Churnin' (Till The Butter Come)",
-      "url": "https://open.spotify.com/track/7D4xc9AITlutSfDKCaAtDj"
+      "duration_ms": 371893,
+      "name": "Is You Is Or Is You Ain't My Baby",
+      "url": "https://open.spotify.com/track/0M0r27mFU32BoLGliqLMm8"
     },
     {
       "added_at": "2022-03-28 19:44:25",
@@ -703,6 +671,38 @@
     {
       "added_at": "2022-03-28 19:44:25",
       "album": {
+        "name": "Lovin' Machine",
+        "url": "https://open.spotify.com/album/4oHzoB06yfTbggLGro4Oxo"
+      },
+      "artists": [
+        {
+          "name": "Wynonie Harris",
+          "url": "https://open.spotify.com/artist/4Imc3wiT22cuynvQNpXcVn"
+        }
+      ],
+      "duration_ms": 173466,
+      "name": "Keep On Churnin' (Till The Butter Come)",
+      "url": "https://open.spotify.com/track/7D4xc9AITlutSfDKCaAtDj"
+    },
+    {
+      "added_at": "2022-03-28 19:44:25",
+      "album": {
+        "name": "Shorty",
+        "url": "https://open.spotify.com/album/5bxjj3N3oq4Ou5uTgfzXZ3"
+      },
+      "artists": [
+        {
+          "name": "Vernon Dilworth",
+          "url": "https://open.spotify.com/artist/0WgOtKOQ7BkDAMR7azqX1n"
+        }
+      ],
+      "duration_ms": 159493,
+      "name": "Who Said Shorty Wasn't Coming Back - Lucky Millinder",
+      "url": "https://open.spotify.com/track/5HpZRWDP8738mEl6OTZvfF"
+    },
+    {
+      "added_at": "2022-03-28 19:44:25",
+      "album": {
         "name": "Travelin' Blues",
         "url": "https://open.spotify.com/album/1ebcZ8wxJmT0UvU9aQEXJT"
       },
@@ -719,22 +719,6 @@
     {
       "added_at": "2022-03-28 19:44:25",
       "album": {
-        "name": "The Ultimate Jazz Archive 24 (1 Of 4)",
-        "url": "https://open.spotify.com/album/5qexDsh1yWVL4Ot6rbr9il"
-      },
-      "artists": [
-        {
-          "name": "Eddie \"Lockjaw\" Davis",
-          "url": "https://open.spotify.com/artist/0gNn3uUyIEErdQthThI51i"
-        }
-      ],
-      "duration_ms": 145852,
-      "name": "Ravin' At The Haven",
-      "url": "https://open.spotify.com/track/1RSqMNhk8G61L50P8CYzFN"
-    },
-    {
-      "added_at": "2022-03-28 19:44:25",
-      "album": {
         "name": "Rock And Roll - The Essential Collection",
         "url": "https://open.spotify.com/album/2qv8092Q2VE2A838CYfW6q"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 160186,
       "name": "All Night Long",
       "url": "https://open.spotify.com/track/6riSu5IH82UYJRZuiUz7yo"
+    },
+    {
+      "added_at": "2022-03-28 19:44:25",
+      "album": {
+        "name": "The Ultimate Jazz Archive 24 (1 Of 4)",
+        "url": "https://open.spotify.com/album/5qexDsh1yWVL4Ot6rbr9il"
+      },
+      "artists": [
+        {
+          "name": "Eddie \"Lockjaw\" Davis",
+          "url": "https://open.spotify.com/artist/0gNn3uUyIEErdQthThI51i"
+        }
+      ],
+      "duration_ms": 145852,
+      "name": "Ravin' At The Haven",
+      "url": "https://open.spotify.com/track/1RSqMNhk8G61L50P8CYzFN"
     },
     {
       "added_at": "2022-03-28 19:44:25",

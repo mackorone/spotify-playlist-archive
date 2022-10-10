@@ -4,7 +4,7 @@
 
 > This is Black Coffee\. The essential tracks, all in one playlist.
 
-72 songs - 9 hr 29 min - [published](https://open.spotify.com/playlist/5qzfg5tNjvV2TQ2fzEbRhw)
+73 songs - 9 hr 36 min - [published](https://open.spotify.com/playlist/5qzfg5tNjvV2TQ2fzEbRhw)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,6 +43,7 @@
 | [Inseparable](https://open.spotify.com/track/7BoO5GyetZyPgzuC6VOQtv) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [Ribatone](https://open.spotify.com/artist/2DmNrE4gjmMEzL2jIvswrR) | [The Journey Continues](https://open.spotify.com/album/1aV3c5SM9qX93Q9Y8mzB67) | 7:53 | 2021-12-28 | 2022-01-01 |
 | [Izizwe](https://open.spotify.com/track/0TOScmuHq8iS1GblTVqQMq) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [Busi Mhlongo](https://open.spotify.com/artist/4QlgeNz8Uf8xF0f0LNjCbf) | [Have Another One](https://open.spotify.com/album/5sMK7vkPd3CZF0fTny80gj) | 7:00 | 2021-12-28 |  |
 | [Juju](https://open.spotify.com/track/6nXK3ZzUeTXva5sOS7sqE1) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [Zakes Bantwini](https://open.spotify.com/artist/5mZLaYqN0ZkjxfeUUmiuqL) | [Home Brewed](https://open.spotify.com/album/4z9UkNYW3T0EZzcGNjBsSz) | 6:27 | 2021-12-28 |  |
+| [Keep Moving](https://open.spotify.com/track/0R1OKth6oLvhDDvjBoHxWW) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [Kenny Bobien](https://open.spotify.com/artist/6UaZuYX5K6yNTinUTBCWDS) | [Africa Rising](https://open.spotify.com/album/1GdL8XkbVTTVQPORBzmcMp) | 6:54 | 2022-10-07 | 2022-10-09 |
 | [LaLaLa](https://open.spotify.com/track/7qgzhAClZwyz2uEA43lMwg) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [Usher](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [Subconsciously](https://open.spotify.com/album/5zIPpR6ufwhSM0RV1wcrhw) | 3:37 | 2022-03-30 | 2022-04-07 |
 | [Lo Mhlaba](https://open.spotify.com/track/0arhdzXjxtfKhe1KxEOzBq) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc) | [Have Another One](https://open.spotify.com/album/5sMK7vkPd3CZF0fTny80gj) | 5:42 | 2021-12-28 |  |
 | [Lost \(with Angelos feat\. Jinadu\)](https://open.spotify.com/track/4MjW0jp8b9hAe1dmzJIBCG) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [Angelos](https://open.spotify.com/artist/2zagWFWxFhQg3OvUmnnliq), [Jinadu](https://open.spotify.com/artist/0o9k6CmDuy07gP28ov82wp) | [Subconsciously](https://open.spotify.com/album/5zIPpR6ufwhSM0RV1wcrhw) | 6:04 | 2021-12-28 |  |
@@ -78,7 +79,7 @@
 | [We Dance Again](https://open.spotify.com/track/6HvCOJvbEzVTmEFmv79pTf) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [Nakhane](https://open.spotify.com/artist/2nrShcJFP8D5bQT8RgdBhH) | [We Dance Again](https://open.spotify.com/album/2ASR0MV1bBqDKVaS3jDxGD) | 4:41 | 2021-12-28 |  |
 | [Wish You Were Here](https://open.spotify.com/track/5TsLsLTg3kTuv2RMRL3vaB) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [Msaki](https://open.spotify.com/artist/5Oj5jQ98vsoHeIGqCS9Dfq) | [Wish You Were Here](https://open.spotify.com/album/7iRNDskXthAJT8k6k4qZzV) | 4:32 | 2021-12-28 |  |
 | [You Need Me \(feat\. Maxine Ashley & Sun\-El Musician\)](https://open.spotify.com/track/2ieFaRzeA5yfRjanzaBS8Q) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [Maxine Ashley](https://open.spotify.com/artist/5fYyfkrYbHDQreGr7cUul0), [Sun\-El Musician](https://open.spotify.com/artist/0W8WpLB5WoXLgiA193LXk6) | [Subconsciously](https://open.spotify.com/album/5zIPpR6ufwhSM0RV1wcrhw) | 6:15 | 2021-12-28 |  |
-| [You Turn Me On](https://open.spotify.com/track/1aqL3jlruipLsSZV9OvgTv) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc) | [Have Another One](https://open.spotify.com/album/5sMK7vkPd3CZF0fTny80gj) | 6:13 | 2022-07-02 | 2022-10-02 |
+| [You Turn Me On](https://open.spotify.com/track/1aqL3jlruipLsSZV9OvgTv) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc) | [Have Another One](https://open.spotify.com/album/5sMK7vkPd3CZF0fTny80gj) | 6:13 | 2022-07-02 | 2022-10-08 |
 | [Your Eyes](https://open.spotify.com/track/3E9mI43Xj65JMRcKZMIxtV) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [Shekhinah](https://open.spotify.com/artist/1F42GOcKAImOu4yj1b04NB) | [Your Eyes](https://open.spotify.com/album/5eBzVYiQ4l3SOJyDIfSYMP) | 4:10 | 2021-12-28 |  |
 
 \*This playlist was first scraped on 2021-12-29. Prior content cannot be recovered.

@@ -2,9 +2,9 @@
 
 ### [Baby Hair](https://open.spotify.com/playlist/37i9dQZF1DX1CDfMq8oOPq)
 
-> só faixa rosa, tem disposição? 🎀 Foto: Mc Luanna
+> só faixa rosa, tem disposição? 🎀 Foto: Tasha & Tracie
 
-82 songs - 4 hr 9 min - [published](https://open.spotify.com/playlist/3rwwZkx8eAvX3Q2DGPIL7D)
+83 songs - 4 hr 12 min - [published](https://open.spotify.com/playlist/3rwwZkx8eAvX3Q2DGPIL7D)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,7 +57,7 @@
 | [Muito Calma](https://open.spotify.com/track/484fU778Jn6fDeULn8idei) | [Juju Rude](https://open.spotify.com/artist/3d8GIcSCusjD1PkMxt76e1) | [Muito Calma](https://open.spotify.com/album/4VJMzjxx8vs1mJTbpJazrN) | 3:02 | 2022-03-11 | 2022-09-18 |
 | [Muito Calma](https://open.spotify.com/track/5MLnrPYZDlH1MRRaD4rRXU) | [Torya](https://open.spotify.com/artist/1WWepZwmNRqvNIOpLyX8dh), [Gibin](https://open.spotify.com/artist/7lC3tO6g2CQhlN0yeDVLDM) | [A Preta](https://open.spotify.com/album/0c6NCCSnLJjgQTZlkzUmQS) | 2:25 | 2022-03-11 |  |
 | [N.I.N.A](https://open.spotify.com/track/0ZVW6vKav9Jp9AunMFmulJ) | [N.I.N.A](https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET), [Terra](https://open.spotify.com/artist/0wTyCMz1sLbxVNN0OP18oW), [Kash](https://open.spotify.com/artist/4QQfMoY4iQmKwz7Ni1QVpt) | [PELE](https://open.spotify.com/album/57LANvZ85BtVlj31EAY7EK) | 3:44 | 2022-04-29 |  |
-| [Não Nega](https://open.spotify.com/track/4CO98RpRzRzK2V5sOFS01G) | [Black Queen](https://open.spotify.com/artist/12jMN5SeE8STo77it3FXWv), [Gu$t](https://open.spotify.com/artist/72JiWyKG5MY6JfrRliaD7p) | [Não Nega](https://open.spotify.com/album/5MAC86ryol0sVYG9YbGgCP) | 3:04 | 2022-08-26 |  |
+| [Não Nega](https://open.spotify.com/track/4CO98RpRzRzK2V5sOFS01G) | [Black Queen](https://open.spotify.com/artist/12jMN5SeE8STo77it3FXWv), [Gu$t](https://open.spotify.com/artist/72JiWyKG5MY6JfrRliaD7p) | [Não Nega](https://open.spotify.com/album/5MAC86ryol0sVYG9YbGgCP) | 3:04 | 2022-08-26 | 2022-10-08 |
 | [Não Podem Parar](https://open.spotify.com/track/2R8PMteNXbTDY7GTOD8Eze) | [Udi Santos](https://open.spotify.com/artist/3YO5cUXFe5nLw9liwkp7fr), [B.art](https://open.spotify.com/artist/6KnF0fsn6wR9fdC5MBP0vE) | [Não Podem Parar](https://open.spotify.com/album/78tsqxqvgvuN5ZwtBYmnEL) | 2:51 | 2022-03-25 | 2022-04-16 |
 | [One Time](https://open.spotify.com/track/5gIJmws4seQ2IFy8lJ3sE1) | [Duquesa](https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx), [Bivolt](https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ), [ONNiKA](https://open.spotify.com/artist/7h2qMFZKbjifWLpMhsQ988) | [One Time](https://open.spotify.com/album/4rjOriodyXvpjXWJKDMNWM) | 2:46 | 2022-03-11 |  |
 | [Oompa Loompa](https://open.spotify.com/track/0Wg8XNchyTN5qlOfgXFEc7) | [slipmami](https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs), [LARINHX](https://open.spotify.com/artist/00kQ5yo7yxd5KC1ihuH77i), [Heavy Baile](https://open.spotify.com/artist/2E4sNJOOy9hae0J8DkT43M), [Leo Justi](https://open.spotify.com/artist/1puzPcrOHKTMQ6KTuYfqU0) | [Oompa Loompa](https://open.spotify.com/album/47ZG3gfqIRftdUgcuo6k6M) | 3:14 | 2022-06-24 |  |
@@ -87,6 +87,7 @@
 | [Só Você Pelada](https://open.spotify.com/track/1SLmJ8RDHertaYpp2i4OYt) | [Alinega](https://open.spotify.com/artist/5cuq4MQJ4HGk0JeNrXkpl6), [Brisa Flow](https://open.spotify.com/artist/78XNtbcRuW435NYDYV0rWO) | [Feita para Ser Amada](https://open.spotify.com/album/2LqqEDyWEE79mLy2LSJbAb) | 3:13 | 2022-03-11 |  |
 | [T SHIRT \(feat\. Jé Santiago\)](https://open.spotify.com/track/4yx4UxUQwBkRtSWkM854aS) | [ONNiKA](https://open.spotify.com/artist/7h2qMFZKbjifWLpMhsQ988), [Jé Santiago](https://open.spotify.com/artist/4xKfNBUXa00go8RU9TwwkI) | [ONNiKA](https://open.spotify.com/album/6KTGjKqOhXcHTUKb1EqeLd) | 2:19 | 2022-06-17 |  |
 | [Tonight](https://open.spotify.com/track/7kuYGMg1bWRI9qhAh1sAWq) | [Pérola kenia](https://open.spotify.com/artist/3NWZS5KLAa68c19lUTHtui), [T\-Rex](https://open.spotify.com/artist/2ssUcgvdBhYI2EEYcc50WS), [Lady Ebony](https://open.spotify.com/artist/6o9CjwTAQKA8G0UE2KEJFS) | [Tonight](https://open.spotify.com/album/5JWiLjK3ldDHbGBGxsJ1xA) | 3:00 | 2022-07-08 | 2022-08-27 |
+| [Tukikis](https://open.spotify.com/track/4yaZDkcert6F9kN4Bs51B7) | [Cristal](https://open.spotify.com/artist/6i4nbGTS2gSP0e6emkTqdX), [MDN Beatz](https://open.spotify.com/artist/6EaIRN2UvHGu9EdeBvfPo1) | [Tukikis](https://open.spotify.com/album/0NarRuAKpqlB8Aet14O24n) | 2:54 | 2022-10-08 |  |
 | [Vejo o bem](https://open.spotify.com/track/5M37zvK48rOQMOVyc0t36o) | [Karol Conká](https://open.spotify.com/artist/6ODCVWBfGNFUf1bpo0c2Ge) | [Urucum](https://open.spotify.com/album/23Zw9VnwKnrSkbGGJQKwPi) | 2:48 | 2022-04-01 | 2022-04-29 |
 | [WILLY](https://open.spotify.com/track/2nmfojpIbGRmDa2UCfddYW) | [Tasha & Tracie](https://open.spotify.com/artist/5Gv1C1LY8pWiYcfcdjSNMT), [Pizzol](https://open.spotify.com/artist/1LvxqCO8GOAKkDzDOXfrAK) | [WILLY](https://open.spotify.com/album/5voxHC8bWiqFAw4toUcsZs) | 2:45 | 2022-06-17 |  |
 | [Água Rosa](https://open.spotify.com/track/1mlX8flEeeKgiszMtbPwGf) | [MARIAH](https://open.spotify.com/artist/30Fmcbg4I8jHYVbPyXdhRo), [Killua](https://open.spotify.com/artist/7N0gUkzHkjXISZ7WyilZfo), [Original Quality](https://open.spotify.com/artist/5ZTnWo7IY6rdIxm6aTSR84) | [Água Rosa](https://open.spotify.com/album/3AioYL7cRO6qjYnrRz4sJj) | 2:49 | 2022-04-15 | 2022-05-28 |

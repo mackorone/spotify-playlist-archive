@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-10-13",
-  "description": "Remixed pop and <a href=\"spotify:genre:edm_dance\">dance</a> collabs. Cover: Lizzo",
+  "description": "Remixed pop and <a href=\"spotify:genre:edm_dance\">dance</a> collabs. Cover: Britney Spears x Elton John",
   "name": "Pop Remix",
   "published_playlist_ids": [
     "19uNHWTaOVDySWkMTC6J3e"
@@ -2282,6 +2282,28 @@
     },
     {
       "album": {
+        "name": "Easy Lover (Jax Jones Remix)",
+        "url": "https://open.spotify.com/album/1DoFMDyPXjAyfELfxzx0gx"
+      },
+      "artists": [
+        {
+          "name": "Ellie Goulding",
+          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
+        },
+        {
+          "name": "Jax Jones",
+          "url": "https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120660,
+      "name": "Easy Lover - Jax Jones Remix",
+      "url": "https://open.spotify.com/track/20m2F7vi3SjKXtq3FyT6qS"
+    },
+    {
+      "album": {
         "name": "Echo (with KSHMR)",
         "url": "https://open.spotify.com/album/4Pqc9IVg6YRJPKakVOuZ2R"
       },
@@ -3140,6 +3162,28 @@
     },
     {
       "album": {
+        "name": "Grand (TroyBoi Remix)",
+        "url": "https://open.spotify.com/album/2znOF5q6Bc0BK7krFhUknf"
+      },
+      "artists": [
+        {
+          "name": "Kane Brown",
+          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
+        },
+        {
+          "name": "TroyBoi",
+          "url": "https://open.spotify.com/artist/0tvpihdAsKiNnP6sWS3jUI"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149500,
+      "name": "Grand - TroyBoi Remix",
+      "url": "https://open.spotify.com/track/4CzvdvPAiMCyxQunCKtQHC"
+    },
+    {
+      "album": {
         "name": "Graveyard (Axwell Remix)",
         "url": "https://open.spotify.com/album/5zxQMuJlg24a3u7JJ9y0LP"
       },
@@ -3695,10 +3739,36 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 202245,
       "name": "Hold Me Closer",
       "url": "https://open.spotify.com/track/72yP0DUlWPyH8P7IoxskwN"
+    },
+    {
+      "album": {
+        "name": "Hold Me Closer (Joel Corry Remix)",
+        "url": "https://open.spotify.com/album/6cZP7F8HkDeMAsCcfCyRWa"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        },
+        {
+          "name": "Britney Spears",
+          "url": "https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4"
+        },
+        {
+          "name": "Joel Corry",
+          "url": "https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248594,
+      "name": "Hold Me Closer - Joel Corry Remix",
+      "url": "https://open.spotify.com/track/5KbhvaeqKIB2bZcJMyfezl"
     },
     {
       "album": {
@@ -3987,7 +4057,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-03",
       "duration_ms": 181875,
       "name": "i hope ur miserable until ur dead - Jauz Remix",
       "url": "https://open.spotify.com/track/3EthUkTHbAoZn5wxuoSfnL"
@@ -4541,10 +4611,36 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-07",
       "duration_ms": 164292,
       "name": "Late Night Feels (Jonasu Remix)",
       "url": "https://open.spotify.com/track/7zJI79rADQwgirQDrJ4kOR"
+    },
+    {
+      "album": {
+        "name": "Late Night Feels (\u00d6wnboss Remix)",
+        "url": "https://open.spotify.com/album/5OOvHH51kDIkwrJv4YUEIQ"
+      },
+      "artists": [
+        {
+          "name": "Sam Feldt",
+          "url": "https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf"
+        },
+        {
+          "name": "Monsta X",
+          "url": "https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz"
+        },
+        {
+          "name": "\u00d6wnboss",
+          "url": "https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190800,
+      "name": "Late Night Feels (\u00d6wnboss Remix)",
+      "url": "https://open.spotify.com/track/0xjVvYD6h76UlNkGl3L7Q4"
     },
     {
       "album": {
@@ -4753,7 +4849,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-03",
       "duration_ms": 233462,
       "name": "Let You Go - Sebastian Ingrosso & Desembra Remix",
       "url": "https://open.spotify.com/track/0nMwQVS9TDSMdg9cI0HCzA"
@@ -5658,6 +5754,28 @@
     },
     {
       "album": {
+        "name": "Nieve (Remixes)",
+        "url": "https://open.spotify.com/album/4smxiuT4f7lMI4j2TDmhzr"
+      },
+      "artists": [
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        },
+        {
+          "name": "Good Times Ahead",
+          "url": "https://open.spotify.com/artist/6M7RdR9ZP52h2mfNLmiHtU"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 323080,
+      "name": "Nieve - Good Times Ahead Remix",
+      "url": "https://open.spotify.com/track/0Z89MaST5Egh1JGuWtIohT"
+    },
+    {
+      "album": {
         "name": "No One Dies From Love (220 KID Remix)",
         "url": "https://open.spotify.com/album/1GtfedQBKMYZioLiv1LzuZ"
       },
@@ -5673,7 +5791,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 186180,
       "name": "No One Dies From Love (220 KID Remix)",
       "url": "https://open.spotify.com/track/0FDYLzgHnQ0LUUm1n6kUft"
@@ -5717,7 +5835,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-09",
       "duration_ms": 186856,
       "name": "Nothing Hurts (Afrojack Remix)",
       "url": "https://open.spotify.com/track/58680i3qsAwKYecyD2zwgq"
@@ -6157,6 +6275,28 @@
       "duration_ms": 183859,
       "name": "Psycho - Joel Corry Remix",
       "url": "https://open.spotify.com/track/3XPl3dGn1oWe7VmKoB8nhU"
+    },
+    {
+      "album": {
+        "name": "Pump It Louder",
+        "url": "https://open.spotify.com/album/4rrqWCXjipT6TF6F8bzEbk"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        },
+        {
+          "name": "Black Eyed Peas",
+          "url": "https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158571,
+      "name": "Pump It Louder",
+      "url": "https://open.spotify.com/track/2yEHX6MqAXPyD7bm47A2Br"
     },
     {
       "album": {

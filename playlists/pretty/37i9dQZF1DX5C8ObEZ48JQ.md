@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5C8ObEZ48JQ.md) - [plain]
 
 > Music by independent artists and labels from Africa, curated by the legendary <a href="https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr?si=ajoHAk7OSfyvbLJVg7GtcA"> Olamide</a>\. Artwork: Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,509 likes - 23 songs - 1 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,083 likes - 23 songs - 1 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

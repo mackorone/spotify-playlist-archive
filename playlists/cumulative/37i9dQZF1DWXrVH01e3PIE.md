@@ -4,7 +4,7 @@
 
 > Muerejoven en la casa del Trap de Argentino.
 
-153 songs - 7 hr 37 min - [published](https://open.spotify.com/playlist/23nX6vOJkUDnsNQfFrfuBO)
+154 songs - 7 hr 39 min - [published](https://open.spotify.com/playlist/23nX6vOJkUDnsNQfFrfuBO)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,6 +50,7 @@
 | [El Amanecer](https://open.spotify.com/track/48H3BsuIXKMYRTuFtxkRhh) | [YSY A](https://open.spotify.com/artist/2qWK8K2Jfh67UqtwY8tCW6) | [Antezana 247 \(Deluxe Edition\)](https://open.spotify.com/album/5tPDpnIZLtftbejuG6BllH) | 3:17 | 2022-07-07 |  |
 | [En el Foco](https://open.spotify.com/track/5vLgLpGqtCUVXbYvbCfRGA) | [Lucho SSJ](https://open.spotify.com/artist/1OBizG9nrnHJkrL9NjnWYN), [Skinny Flex](https://open.spotify.com/artist/4FhC69hLxEcpLUaC08ityW) | [En el Foco](https://open.spotify.com/album/3BPzC6Y0bfY8hrvSogtLAf) | 2:39 | 2022-01-21 | 2022-08-27 |
 | [Es Hoy](https://open.spotify.com/track/5H4HVd8d7dtT81qs1WMKbI) | [Kodigo](https://open.spotify.com/artist/3hwgckfLtTHdnkf694c7HS) | [Es Hoy](https://open.spotify.com/album/1BVxzFI3LW4TqpKzX7Uz9o) | 2:59 | 2022-01-21 | 2022-06-18 |
+| [Eternidad](https://open.spotify.com/track/0WPkqQuAj8qox8Tmkxlv7o) | [Tobi](https://open.spotify.com/artist/6H70hylNqfc86Omz8GoyDB), [Seven Kayne](https://open.spotify.com/artist/4C29ETLBPmYKYwtJUepbJz) | [Eternidad](https://open.spotify.com/album/6VNyKs6MzAYGmIs276uNJH) | 2:43 | 2022-10-06 |  |
 | [Finesse](https://open.spotify.com/track/5jRs6APlrIx42hBfmbXSCS) | [Muerejoven](https://open.spotify.com/artist/2yGXs7AlyNVetlMvwsFXGk), [Evar](https://open.spotify.com/artist/0YWTSwecJ4cKrEQjrh46la) | [Finesse](https://open.spotify.com/album/4y2eGTZ4KUQcP57ijZ3uDI) | 2:53 | 2022-01-21 |  |
 | [Flash](https://open.spotify.com/track/2DFIUhox4TTAAl8dSI3yQV) | [Naim](https://open.spotify.com/artist/73vcIhWNd7keZe6whmxSwK), [Killato](https://open.spotify.com/artist/7jKDei7T6rvNeXyW6WeDxo), [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1) | [Flash](https://open.spotify.com/album/1S95j2ax2dnfp4GFYNW8X6) | 3:30 | 2022-01-21 | 2022-05-20 |
 | [Fortuna y Fama](https://open.spotify.com/track/1qZIJDqRMoq7BnaJqL7hRa) | [Seven Kayne](https://open.spotify.com/artist/4C29ETLBPmYKYwtJUepbJz), [Asan](https://open.spotify.com/artist/6Nl4VXcX86fBMO4YE6oYfN), [Zecca](https://open.spotify.com/artist/2FmE1yzXXBWKlRiOl0AqD8) | [Secretos Perdidos](https://open.spotify.com/album/3q9jLIbSxvf1Y6EHGJp9Bk) | 3:36 | 2022-01-21 |  |

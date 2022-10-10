@@ -2,9 +2,9 @@
 
 ### [SA Rock Essentials](https://open.spotify.com/playlist/37i9dQZF1DX9mHcd54VItZ)
 
-> Only the hottest out now in South African Rock and Punk\. Cover: <a href="https://open.spotify.com/artist/36P4zQxOGCSabr44bXS8kW?si=G9Ia9ChuTPeQ1Z7iZd3bYw">Droomsindroom</a>
+> Only the hottest out now in South African Rock and Punk\. Cover: <a href="https://open.spotify.com/artist/786vB3MPgJ2kUzhNrbeaMZ?si=iRBNl1GmTFSUQQjaHnjWFA">Hugo Pooe</a>
 
-139 songs - 8 hr 2 min - [published](https://open.spotify.com/playlist/7m29EUKd7lxp8FUt6WdfbM)
+141 songs - 8 hr 9 min - [published](https://open.spotify.com/playlist/7m29EUKd7lxp8FUt6WdfbM)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [A week in the life of Rue](https://open.spotify.com/track/1mA3jtJ4mFwYRVZjaDKjL1) | [Gangsterdam](https://open.spotify.com/artist/63fJ4ckrhwwtDX31WrhqfS) | [A week in the life of Rue](https://open.spotify.com/album/36ZyxfmSrx40YfqLqOkCZE) | 1:46 | 2022-07-21 |  |
 | [Ace and the Butternut](https://open.spotify.com/track/11AD2oUaR1kxX5yez8xXjW) | [West Coast Wolves](https://open.spotify.com/artist/5cPXEpwSlUHUTsGY3V39IY) | [Ace and the Butternut](https://open.spotify.com/album/6mvpakbGhtdsFiSJA07wrP) | 2:37 | 2022-08-04 |  |
 | [Adorn](https://open.spotify.com/track/41W0utTSMSS6F5yL7QJ5Fw) | [Constellatia](https://open.spotify.com/artist/1r8tzQXEPrte5GZ06LppsS) | [Adorn](https://open.spotify.com/album/31T0ESmfCXIWrd2kHQILbP) | 10:06 | 2022-09-02 |  |
+| [Allan](https://open.spotify.com/track/7EsJj7ryKHTThQpDxqP3ND) | [the klubs](https://open.spotify.com/artist/6hbEqXIhCdWLuQn3SUgibF) | [Allan](https://open.spotify.com/album/19kis2Tm2560bvWxFGBIoW) | 3:18 | 2022-10-06 |  |
 | [Always Remember](https://open.spotify.com/track/4MFcHNGVFZn3IKGvC5hLxx) | [Sean Koch](https://open.spotify.com/artist/4sOLJi96MhdlMv5Iz9YZT9) | [Always Remember](https://open.spotify.com/album/3zb6zrs37yKTXMHdwPFkx9) | 3:49 | 2021-12-09 |  |
 | [Aquarius Girl](https://open.spotify.com/track/7qPMIsXE4pVqzAVIN436va) | [Hugo Pooe](https://open.spotify.com/artist/786vB3MPgJ2kUzhNrbeaMZ) | [Love Bite](https://open.spotify.com/album/6oriENkGeG0n3RT2EJVFZo) | 3:38 | 2022-02-10 | 2022-05-27 |
 | [Autobiography of an Evening](https://open.spotify.com/track/0Zn9ANNxd0BvndaB73DXMX) | [Lucy Kruger & The Lost Boys](https://open.spotify.com/artist/2qFDhzWBDqbPOjhy8Fkl3u) | [Autobiography of an Evening](https://open.spotify.com/album/22D7FzPzfB5NvHRsRNWQuF) | 3:11 | 2022-04-08 | 2022-09-03 |
@@ -20,13 +21,13 @@
 | [Bag of Bones](https://open.spotify.com/track/4wBeiARY66bJ3FrrEjnlVa) | [Gangsterdam](https://open.spotify.com/artist/63fJ4ckrhwwtDX31WrhqfS) | [Bag of Bones](https://open.spotify.com/album/4bpRUM7drDQpbwqhMzJeZ1) | 2:37 | 2022-09-15 |  |
 | [Begin Van Die Einde](https://open.spotify.com/track/7kfWuIVQ0vqTxBA5hAIbzG) | [Francois van Coke](https://open.spotify.com/artist/7pJtnZQLPJmqzVfdIz7eFF) | [Begin Van Die Einde](https://open.spotify.com/album/2BYTNrN2Ct1XkjTtriuqSa) | 3:28 | 2021-02-25 |  |
 | [Believer](https://open.spotify.com/track/0XTC98wV7l5xnGOMIsUsv5) | [FUZIGISH](https://open.spotify.com/artist/5NOfiSV5NL7MVz8JO0oE1v) | [Believer](https://open.spotify.com/album/0MX2naV6uywiYfLqPEYyvK) | 4:20 | 2022-02-17 |  |
-| [BLAH BLAH BLAH](https://open.spotify.com/track/5ncpsijPbqSkfej6b8PGjw) | [Yung Beathoven](https://open.spotify.com/artist/1jRPlDFS33VKRsW5WYBNTs), [Alex Solomon](https://open.spotify.com/artist/0T4llo79dwDWJrgR7FP0sU) | [BLAH BLAH BLAH](https://open.spotify.com/album/282KDJUgTAO64N8HMeiUAR) | 1:52 | 2022-07-21 |  |
+| [BLAH BLAH BLAH](https://open.spotify.com/track/5ncpsijPbqSkfej6b8PGjw) | [Yung Beathoven](https://open.spotify.com/artist/1jRPlDFS33VKRsW5WYBNTs), [Alex Solomon](https://open.spotify.com/artist/0T4llo79dwDWJrgR7FP0sU) | [BLAH BLAH BLAH](https://open.spotify.com/album/282KDJUgTAO64N8HMeiUAR) | 1:52 | 2022-07-21 | 2022-10-07 |
 | [Bones](https://open.spotify.com/track/0QFgIdxhhn6QzPT5Ndnm7E) | [Apollo Motel](https://open.spotify.com/artist/7ztNWtpfiEIPWu13f62d8t) | [Bones](https://open.spotify.com/album/2H1yVakFRyooDlWkX2o3on) | 3:43 | 2021-10-07 | 2022-08-04 |
 | [Bones](https://open.spotify.com/track/5xbhhW2S2vbfrhMrblZJ0l) | [Apollo Motel](https://open.spotify.com/artist/7ztNWtpfiEIPWu13f62d8t) | [Bones](https://open.spotify.com/album/5vJEmUbdVJJ38GzwpoJs52) | 3:43 | 2021-10-07 | 2022-08-09 |
 | [Bones](https://open.spotify.com/track/6yiOgFmbkN0n6p9GVqevmt) | [Apollo Motel](https://open.spotify.com/artist/7ztNWtpfiEIPWu13f62d8t) | [Greytown](https://open.spotify.com/album/3228rqtQ8JsE3RvJrq6dHw) | 3:43 | 2021-10-07 |  |
 | [brokeboy](https://open.spotify.com/track/5A2hkikTPwDiJECorH57vg) | [Internet Girl](https://open.spotify.com/artist/2eVTKG3Z5bbKk2OWMIe3iL), [Hugo Pooe](https://open.spotify.com/artist/786vB3MPgJ2kUzhNrbeaMZ) | [brokeboy](https://open.spotify.com/album/5aSHhl5C5pb1qhpHEDTa19) | 2:59 | 2022-03-17 |  |
 | [Cancelled](https://open.spotify.com/track/7BhiRAIIveb33FYNdrzBfA) | [Nine](https://open.spotify.com/artist/3AjJvYXOMFBBSqgEV7u5me) | [Cancelled](https://open.spotify.com/album/1BUsmvb1vytWr69VgR9hCX) | 4:44 | 2022-09-02 | 2022-09-16 |
-| [Caught in Suspension](https://open.spotify.com/track/0CnVzLrxK0iRXuCk6vPeOi) | [Dream Demon](https://open.spotify.com/artist/2YQKfqhM5oQ2u59LelCzki) | [Caught in Suspension](https://open.spotify.com/album/6kAvyAnQPl6iQ2HVcMAGWG) | 4:07 | 2022-03-24 |  |
+| [Caught in Suspension](https://open.spotify.com/track/0CnVzLrxK0iRXuCk6vPeOi) | [Dream Demon](https://open.spotify.com/artist/2YQKfqhM5oQ2u59LelCzki) | [Caught in Suspension](https://open.spotify.com/album/6kAvyAnQPl6iQ2HVcMAGWG) | 4:07 | 2022-03-24 | 2022-10-07 |
 | [Cocoon](https://open.spotify.com/track/5DyMpoB5hqmjkwPBnTPxFw) | [Dangerfields](https://open.spotify.com/artist/2jvp5tnnyCvPIgOczuIaZU) | [Cocoon](https://open.spotify.com/album/2PB4vdIz8aRwh3hhucvLCE) | 5:04 | 2022-01-21 |  |
 | [Count the Days \(Count the Nights\)](https://open.spotify.com/track/60knTkjc5HZHkPVQjq3JMO) | [Zayn Adams](https://open.spotify.com/artist/3CJMRrR9xQ11XG7RFUWOfd), [Tully Mc Cully](https://open.spotify.com/artist/3zfnLnN1wMxn2av8BygIQJ) | [Count the Days \(2021\)](https://open.spotify.com/album/1IHFQbyWTiJ3krUJRUCdyq) | 3:19 | 2021-10-14 | 2022-02-18 |
 | [Country in Me](https://open.spotify.com/track/5s0aFRBOpQzWBivW8EHiZK) | [Jono Grayson](https://open.spotify.com/artist/2A91hKSHbGC0awW297Plqi) | [Country in Me](https://open.spotify.com/album/14TyyqNVDqZ7i1X60CNE0J) | 2:30 | 2022-02-03 | 2022-09-03 |
@@ -93,6 +94,7 @@
 | [Out & About](https://open.spotify.com/track/4IJjTMbpLBnewkNrtcRLPj) | [Nomadic Orchestra](https://open.spotify.com/artist/27EGFQK4v27KEpLcdJhORE) | [Out & About](https://open.spotify.com/album/4HHFN1jXBNoSxpHUUupEbJ) | 2:52 | 2021-12-09 | 2022-09-16 |
 | [Outer Space](https://open.spotify.com/track/0DWkbxfSqGNmHaEuqlR3wU) | [The Tazers](https://open.spotify.com/artist/3oBP043HsDnok9FzprqPce) | [Outer Space](https://open.spotify.com/album/5LsVvRpDG6HIju5gZK1gRe) | 4:00 | 2022-02-17 | 2022-08-05 |
 | [OVERTHINKING](https://open.spotify.com/track/4hZR6HRe5UnXs5CqdIjIen) | [Yung Beathoven](https://open.spotify.com/artist/1jRPlDFS33VKRsW5WYBNTs), [Christian James](https://open.spotify.com/artist/3vIPpGcOC1CWD5MVg9xX8x) | [OVERTHINKING](https://open.spotify.com/album/5N6VbOBsJUIaMlihQn6S5M) | 1:48 | 2022-05-26 |  |
+| [Parasite](https://open.spotify.com/track/1wJsjT1Oo2Kh2H3J9WOmde) | [Hugo Pooe](https://open.spotify.com/artist/786vB3MPgJ2kUzhNrbeaMZ) | [Distopia](https://open.spotify.com/album/1D37tFbgePiH2NuBrzOAm9) | 3:33 | 2022-10-06 |  |
 | [Parasite](https://open.spotify.com/track/30QoZ68McWKW7jNcznqYAc) | [Hunter Kennedy](https://open.spotify.com/artist/1ZMCOQhfU6y2jzMHXooyKi) | [Parasite](https://open.spotify.com/album/03kcrEFLCsPQ5pnev44X5S) | 2:42 | 2022-03-18 | 2022-08-05 |
 | [PITY PARTY](https://open.spotify.com/track/275HPZ0ZqO7aVvP0oNqO5b) | [Yung Beathoven](https://open.spotify.com/artist/1jRPlDFS33VKRsW5WYBNTs), [Brogan the band](https://open.spotify.com/artist/6hyyfSQkg85RaqUiyflfZc) | [PITY PARTY](https://open.spotify.com/album/44aRUzG8io87BE9XUIhYy8) | 2:27 | 2022-09-22 |  |
 | [Prodigal Son](https://open.spotify.com/track/3CJRVQvgxk4vA5ezsADTRf) | [Wonderboom](https://open.spotify.com/artist/45Ahb3Z1t6yHM2F2gFrAtx) | [Prodigal Son](https://open.spotify.com/album/7rNLF1btPIbjQ0OKHArllT) | 3:31 | 2021-11-11 | 2022-08-05 |

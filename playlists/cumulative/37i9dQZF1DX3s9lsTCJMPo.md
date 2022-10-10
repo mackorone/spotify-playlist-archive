@@ -4,7 +4,7 @@
 
 > Nothing but classics! The best in Soca anthems brought to you by the Soca Queen herself Alison Hinds.
 
-189 songs - 13 hr 43 min - [published](https://open.spotify.com/playlist/64TrHSSpN6MFtOko77c2wK)
+190 songs - 13 hr 45 min - [published](https://open.spotify.com/playlist/64TrHSSpN6MFtOko77c2wK)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -99,7 +99,8 @@
 | [In the Party](https://open.spotify.com/track/7ipO6a68H6RCcOnWWt45CY) | [Explainer](https://open.spotify.com/artist/342c2y1LREfgGcGn5ssh4H) | [Explosion](https://open.spotify.com/album/02Zcv7IVYSodkfS3g8y22P) | 4:16 | 2022-02-24 | 2022-08-19 |
 | [Issa Snack](https://open.spotify.com/track/3uiXvsYHdWicrpjxaiVZ5G) | [Nessa Preppy](https://open.spotify.com/artist/17pN02mO1kZSkaic9K3ipT), [Travis World](https://open.spotify.com/artist/5AVAzwpIu9f3H1oegupPCd) | [Soca Gold 2019](https://open.spotify.com/album/0hE4iYcpQa2DIBbQU3b3vf) | 2:57 | 2022-08-18 |  |
 | [Jerusalema \(feat\. Nomcebo Zikode\)](https://open.spotify.com/track/5WrTfeJf9NfIuNnB69eLk2) | [Master KG](https://open.spotify.com/artist/523y9KSneKh6APd1hKxLuF), [Nomcebo Zikode](https://open.spotify.com/artist/4cfKtwkefMW3aiXtxfw8w6) | [Soca Gold 2021](https://open.spotify.com/album/7ALl4rPY5NuiDFhJtao5TF) | 5:42 | 2022-08-18 |  |
-| [Jones & Wuk Up](https://open.spotify.com/track/2FYmx507ngX6nRWN7MqTOK) | [Lil Rick](https://open.spotify.com/artist/1qKzKUnuQsjB83hBZffoq0) | [Sheen Riddim](https://open.spotify.com/album/392w60mFQnqAbcwkdzDWF3) | 2:14 | 2022-08-18 |  |
+| [Jones & Wuk Up](https://open.spotify.com/track/2FYmx507ngX6nRWN7MqTOK) | [Lil Rick](https://open.spotify.com/artist/1qKzKUnuQsjB83hBZffoq0) | [Sheen Riddim](https://open.spotify.com/album/392w60mFQnqAbcwkdzDWF3) | 2:14 | 2022-08-18 | 2022-10-05 |
+| [Jones & Wuk Up](https://open.spotify.com/track/2ca9S3fe996h1H0DPJjgk5) | [Lil Rick](https://open.spotify.com/artist/1qKzKUnuQsjB83hBZffoq0) | [Sheen Riddim](https://open.spotify.com/album/4n93YPHX6c11gTQXRs6YkF) | 2:14 | 2022-08-18 |  |
 | [Jump](https://open.spotify.com/track/5Oe39YjfLgr9bPh7JG1j7V) | [Rupee](https://open.spotify.com/artist/60TYV12IFUaDfnUA0S67zb) | [Soca Gold 2001](https://open.spotify.com/album/6PKI32VFc89X22YQW0bUf7) | 3:36 | 2020-09-16 | 2022-08-19 |
 | [Jump](https://open.spotify.com/track/5jK2bK45uXVGD9IDICIqQ7) | [Rupee](https://open.spotify.com/artist/60TYV12IFUaDfnUA0S67zb) | [The Ultimate Soca Gold Collection](https://open.spotify.com/album/38EBSpTihyFuQn2ymv1wpt) | 3:36 | 2022-08-18 |  |
 | [Jump \- Soca Mix](https://open.spotify.com/track/4HPGDCF5BL09n0DsO2sNon) | [DJ Master K](https://open.spotify.com/artist/0Fw5I6Ke1vvSiuG2JHC24r), [K\. Hart](https://open.spotify.com/artist/2yq3eHv4vVpiFXeQXM3Fnq) | [Best of 2000 & 2001 Soca](https://open.spotify.com/album/6H9ZgUBAmyAhz4xjeQ2uIP) | 2:14 | 2020-09-16 | 2022-07-27 |

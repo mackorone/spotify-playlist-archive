@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-10-29",
-  "description": "it's a vibe (\u25e1 \u203f \u25e1 \u273f).  ~~~ \ngrentperez on the cover.",
+  "description": "it's a vibe (\u25e1 \u203f \u25e1 \u273f).  cover: blair lee",
   "name": "indie pop & chill",
   "published_playlist_ids": [
     "4lgMQu4P2ziouf8Qz9MR8Q"
@@ -3311,7 +3311,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 170066,
       "name": "Crutches",
       "url": "https://open.spotify.com/track/4MdxHfa5fmIdvPwYXM56gS"
@@ -5405,7 +5405,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 199261,
       "name": "fly",
       "url": "https://open.spotify.com/track/3jH30PGXQDOx1VP9nL75lU"
@@ -6599,6 +6599,24 @@
       "duration_ms": 194077,
       "name": "have fun at ur party (but don't)",
       "url": "https://open.spotify.com/track/6DKlvwFRcQxWcR2HLcIzhl"
+    },
+    {
+      "album": {
+        "name": "Have It In You",
+        "url": "https://open.spotify.com/album/3Xe1osfRtpz1aIlyxv8Zq4"
+      },
+      "artists": [
+        {
+          "name": "Stefani Kimber",
+          "url": "https://open.spotify.com/artist/4ePVAZ2pFMlU0aFbPc3qgF"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202507,
+      "name": "Have It In You",
+      "url": "https://open.spotify.com/track/0sHou6HBAx8c7ipaOnab6r"
     },
     {
       "album": {
@@ -9416,6 +9434,24 @@
     },
     {
       "album": {
+        "name": "Lonely Hallucinations",
+        "url": "https://open.spotify.com/album/7Gs6HTYS71coBejdMXPrCI"
+      },
+      "artists": [
+        {
+          "name": "Alle The Dreamer",
+          "url": "https://open.spotify.com/artist/34dP7aH5DomlGUPArhkh0B"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194000,
+      "name": "Lonely Hallucinations",
+      "url": "https://open.spotify.com/track/4hqIsxoAphbShsRsL0qGmh"
+    },
+    {
+      "album": {
         "name": "Losers",
         "url": "https://open.spotify.com/album/07j0qkF5exWt26iXfRcnNf"
       },
@@ -10703,7 +10739,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 187906,
       "name": "Next Life",
       "url": "https://open.spotify.com/track/77gpwRWeMlZeIUI9QDoDVZ"
@@ -11857,6 +11893,24 @@
       "duration_ms": 175263,
       "name": "Peachi",
       "url": "https://open.spotify.com/track/4ZyxpYxjhjl3Eh0EQ2ssv1"
+    },
+    {
+      "album": {
+        "name": "Peachy World",
+        "url": "https://open.spotify.com/album/2trCjaC8Q7UP4hfMlGbniC"
+      },
+      "artists": [
+        {
+          "name": "Blair Lee",
+          "url": "https://open.spotify.com/artist/1pYkoc6a3QKymoCVfAWuNc"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151560,
+      "name": "Peachy World",
+      "url": "https://open.spotify.com/track/5FEiAtuQ8ZKTAu9tr6zVcA"
     },
     {
       "album": {

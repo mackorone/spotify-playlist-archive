@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5zyeLrOc31CPX7uk9xNL7y.md) - [plain]
 
 > Ring in the new year to the sweet sound of jazz and blues.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,484 likes - 20 songs - 1 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,483 likes - 20 songs - 1 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

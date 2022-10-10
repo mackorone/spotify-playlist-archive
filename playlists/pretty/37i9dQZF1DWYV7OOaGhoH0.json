@@ -1,13 +1,41 @@
 {
-  "description": "Explore the ever-evolving folk & roots scene. Cover: Paris Paloma",
-  "num_followers": 1832266,
+  "description": "Explore the ever-evolving folk & roots scene. Cover: Bonny Light Horseman",
+  "num_followers": 1833010,
   "original_name": "Roots Rising",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDUxMDQwMCwwMDAwMDAwMDYwMWI3NmZiNGY4MDI5NWNmNTEyZmYxNGM1OWQzNTk5",
+  "snapshot_id": "MTY2NTExNTIwMCwwMDAwMDAwMDdhZjI1MzRlMzdhMWUxMjc5YWU2NTI0ZGY4ZTQ0MjFm",
   "tracks": [
+    {
+      "added_at": "2022-09-30 04:00:00",
+      "album": {
+        "name": "California",
+        "url": "https://open.spotify.com/album/7p60qDZbD3VqHVhFQDX4Ry"
+      },
+      "artists": [
+        {
+          "name": "Bonny Light Horseman",
+          "url": "https://open.spotify.com/artist/0Qi9Fcmn1DJAoG8Agf5ibb"
+        },
+        {
+          "name": "Ana\u00efs Mitchell",
+          "url": "https://open.spotify.com/artist/7K5Lm5dxoEwEpOS0Fc3l3s"
+        },
+        {
+          "name": "Eric D. Johnson",
+          "url": "https://open.spotify.com/artist/4LBdlNpHBD8dHPcVCrjSB6"
+        },
+        {
+          "name": "Josh Kaufman",
+          "url": "https://open.spotify.com/artist/3kKgcBXTgyAZhXPV3AaSZc"
+        }
+      ],
+      "duration_ms": 196126,
+      "name": "California",
+      "url": "https://open.spotify.com/track/6bQgMGR0zwVYYs2WU13PKR"
+    },
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
@@ -41,6 +69,22 @@
       "url": "https://open.spotify.com/track/0CFc37YTJa449oOe660cSU"
     },
     {
+      "added_at": "2022-10-07 04:00:00",
+      "album": {
+        "name": "Turning Onto You",
+        "url": "https://open.spotify.com/album/19IxPhDOBKzybB79cFUNnF"
+      },
+      "artists": [
+        {
+          "name": "First Aid Kit",
+          "url": "https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1"
+        }
+      ],
+      "duration_ms": 201826,
+      "name": "Turning Onto You",
+      "url": "https://open.spotify.com/track/4tl5Knezh7Qohx4TWgJFpP"
+    },
+    {
       "added_at": "2022-09-30 04:00:00",
       "album": {
         "name": "Northern Attitude",
@@ -55,22 +99,6 @@
       "duration_ms": 267256,
       "name": "Northern Attitude",
       "url": "https://open.spotify.com/track/5hAFKx1IMhvx73JA6MSkIP"
-    },
-    {
-      "added_at": "2022-09-30 04:00:00",
-      "album": {
-        "name": "It's Called: Freefall",
-        "url": "https://open.spotify.com/album/0Zd9SUhi8nN1qu9Vn6TRLR"
-      },
-      "artists": [
-        {
-          "name": "Paris Paloma",
-          "url": "https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp"
-        }
-      ],
-      "duration_ms": 158297,
-      "name": "It's Called: Freefall",
-      "url": "https://open.spotify.com/track/21fUwJ2HBBe7RELt5USZl5"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -107,6 +135,22 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
+        "name": "It's Called: Freefall",
+        "url": "https://open.spotify.com/album/0Zd9SUhi8nN1qu9Vn6TRLR"
+      },
+      "artists": [
+        {
+          "name": "Paris Paloma",
+          "url": "https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp"
+        }
+      ],
+      "duration_ms": 158297,
+      "name": "It's Called: Freefall",
+      "url": "https://open.spotify.com/track/21fUwJ2HBBe7RELt5USZl5"
+    },
+    {
+      "added_at": "2022-09-30 04:00:00",
+      "album": {
         "name": "Angel Band",
         "url": "https://open.spotify.com/album/0UITnXFaup7lHYV1WcQSFT"
       },
@@ -119,22 +163,6 @@
       "duration_ms": 372160,
       "name": "Angel Band - Jubilee Version",
       "url": "https://open.spotify.com/track/2phdhdIaCUVJgxuRVP2N18"
-    },
-    {
-      "added_at": "2022-09-30 04:00:00",
-      "album": {
-        "name": "Honey",
-        "url": "https://open.spotify.com/album/37OWM40EuYKeBHWCBHJyq9"
-      },
-      "artists": [
-        {
-          "name": "The Lone Bellow",
-          "url": "https://open.spotify.com/artist/7JFtD8KnbAADBBDleIMuH7"
-        }
-      ],
-      "duration_ms": 276760,
-      "name": "Honey",
-      "url": "https://open.spotify.com/track/1ALH9oRd8FqjfsSH0d8Ft4"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -155,6 +183,22 @@
       "duration_ms": 265843,
       "name": "I Was Born To Love You",
       "url": "https://open.spotify.com/track/3PG6V5yuFfo4APiovOQoRv"
+    },
+    {
+      "added_at": "2022-09-30 04:00:00",
+      "album": {
+        "name": "Honey",
+        "url": "https://open.spotify.com/album/37OWM40EuYKeBHWCBHJyq9"
+      },
+      "artists": [
+        {
+          "name": "The Lone Bellow",
+          "url": "https://open.spotify.com/artist/7JFtD8KnbAADBBDleIMuH7"
+        }
+      ],
+      "duration_ms": 276760,
+      "name": "Honey",
+      "url": "https://open.spotify.com/track/1ALH9oRd8FqjfsSH0d8Ft4"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -191,6 +235,38 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
+        "name": "Mountain Song",
+        "url": "https://open.spotify.com/album/2LSEZyWtzulIr0vS1mD4Xy"
+      },
+      "artists": [
+        {
+          "name": "Flatland Cavalry",
+          "url": "https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav"
+        }
+      ],
+      "duration_ms": 249920,
+      "name": "Mountain Song",
+      "url": "https://open.spotify.com/track/2mDdkeVuUsyIepwzLCxuu6"
+    },
+    {
+      "added_at": "2022-09-30 04:00:00",
+      "album": {
+        "name": "Long Time Coming",
+        "url": "https://open.spotify.com/album/5ZI0k3IynnC5C9QKMmY7cB"
+      },
+      "artists": [
+        {
+          "name": "Sierra Ferrell",
+          "url": "https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t"
+        }
+      ],
+      "duration_ms": 161733,
+      "name": "In Dreams",
+      "url": "https://open.spotify.com/track/0ewKJ6eM0Z761OissISTW7"
+    },
+    {
+      "added_at": "2022-09-30 04:00:00",
+      "album": {
         "name": "Something About What Happens When We Talk",
         "url": "https://open.spotify.com/album/1N7DJFOtSYiQEY4GfFYYH3"
       },
@@ -207,18 +283,18 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
-        "name": "Mountain Song",
-        "url": "https://open.spotify.com/album/2LSEZyWtzulIr0vS1mD4Xy"
+        "name": "Soul Sweet Song",
+        "url": "https://open.spotify.com/album/1zvef1QMx5kNFNKifTTQud"
       },
       "artists": [
         {
-          "name": "Flatland Cavalry",
-          "url": "https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav"
+          "name": "Tedeschi Trucks Band",
+          "url": "https://open.spotify.com/artist/2gFsmDBM0hkoZPmrO5EdyO"
         }
       ],
-      "duration_ms": 249920,
-      "name": "Mountain Song",
-      "url": "https://open.spotify.com/track/2mDdkeVuUsyIepwzLCxuu6"
+      "duration_ms": 235626,
+      "name": "Soul Sweet Song",
+      "url": "https://open.spotify.com/track/6tvXOpoonSGwxM0R4eq8Tj"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -239,22 +315,6 @@
       "duration_ms": 201413,
       "name": "Tres Hermanos",
       "url": "https://open.spotify.com/track/0cb9Ov9eC2eFxac6bCcUZl"
-    },
-    {
-      "added_at": "2022-09-30 04:00:00",
-      "album": {
-        "name": "Soul Sweet Song",
-        "url": "https://open.spotify.com/album/1zvef1QMx5kNFNKifTTQud"
-      },
-      "artists": [
-        {
-          "name": "Tedeschi Trucks Band",
-          "url": "https://open.spotify.com/artist/2gFsmDBM0hkoZPmrO5EdyO"
-        }
-      ],
-      "duration_ms": 235626,
-      "name": "Soul Sweet Song",
-      "url": "https://open.spotify.com/track/6tvXOpoonSGwxM0R4eq8Tj"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -315,8 +375,8 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
-        "name": "You and Me On The Rock (In The Canyon Haze)",
-        "url": "https://open.spotify.com/album/22EMSIjfksTwA1yizWVXa6"
+        "name": "In These Silent Days (Deluxe Edition) In The Canyon Haze",
+        "url": "https://open.spotify.com/album/2FOAtTMAfplWnTKf7rl12Q"
       },
       "artists": [
         {
@@ -326,7 +386,7 @@
       ],
       "duration_ms": 257853,
       "name": "You and Me On The Rock (In The Canyon Haze)",
-      "url": "https://open.spotify.com/track/7tmtdHPAoUZLuJqTnDR7FS"
+      "url": "https://open.spotify.com/track/1ydzL5SIoSRCpEIYWhsWE5"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -423,22 +483,6 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
-        "name": "Long Time Coming",
-        "url": "https://open.spotify.com/album/5ZI0k3IynnC5C9QKMmY7cB"
-      },
-      "artists": [
-        {
-          "name": "Sierra Ferrell",
-          "url": "https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t"
-        }
-      ],
-      "duration_ms": 161733,
-      "name": "In Dreams",
-      "url": "https://open.spotify.com/track/0ewKJ6eM0Z761OissISTW7"
-    },
-    {
-      "added_at": "2022-09-30 04:00:00",
-      "album": {
         "name": "Walking Song",
         "url": "https://open.spotify.com/album/1F7L1p8STaJVQVVYijEng2"
       },
@@ -451,34 +495,6 @@
       "duration_ms": 184653,
       "name": "Walking Song",
       "url": "https://open.spotify.com/track/7faNYwo9q4rEdneW1sBJYj"
-    },
-    {
-      "added_at": "2022-09-30 04:00:00",
-      "album": {
-        "name": "California",
-        "url": "https://open.spotify.com/album/7p60qDZbD3VqHVhFQDX4Ry"
-      },
-      "artists": [
-        {
-          "name": "Bonny Light Horseman",
-          "url": "https://open.spotify.com/artist/0Qi9Fcmn1DJAoG8Agf5ibb"
-        },
-        {
-          "name": "Ana\u00efs Mitchell",
-          "url": "https://open.spotify.com/artist/7K5Lm5dxoEwEpOS0Fc3l3s"
-        },
-        {
-          "name": "Eric D. Johnson",
-          "url": "https://open.spotify.com/artist/4LBdlNpHBD8dHPcVCrjSB6"
-        },
-        {
-          "name": "Josh Kaufman",
-          "url": "https://open.spotify.com/artist/3kKgcBXTgyAZhXPV3AaSZc"
-        }
-      ],
-      "duration_ms": 196126,
-      "name": "California",
-      "url": "https://open.spotify.com/track/6bQgMGR0zwVYYs2WU13PKR"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -1647,22 +1663,6 @@
       "duration_ms": 211940,
       "name": "Shine",
       "url": "https://open.spotify.com/track/5ouMWwTXJfgTOiCvz6fbFX"
-    },
-    {
-      "added_at": "2022-09-30 04:00:00",
-      "album": {
-        "name": "break the ground",
-        "url": "https://open.spotify.com/album/1tNEMEBBT5xddPjQI8RobJ"
-      },
-      "artists": [
-        {
-          "name": "Rosie Carney",
-          "url": "https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9"
-        }
-      ],
-      "duration_ms": 155733,
-      "name": "break the ground",
-      "url": "https://open.spotify.com/track/2gXTKHCq2yBPouSxkUZuA7"
     },
     {
       "added_at": "2022-09-30 04:00:00",

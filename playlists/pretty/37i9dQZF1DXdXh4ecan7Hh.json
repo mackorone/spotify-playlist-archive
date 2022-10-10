@@ -1,12 +1,12 @@
 {
   "description": "County's best like you've never heard before. Cover: Ingrid Andress",
-  "num_followers": 109102,
+  "num_followers": 109217,
   "original_name": "Spotify Singles: Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjA1NzE2NCwwMDAwMDAwMGI2YWVkZmNiZTdkN2FkZjM4ODVmMjVmMjg5ZTNmMDBh",
+  "snapshot_id": "MTY2MjA1NzE2NCwwMDAwMDAwMGRkYzM4MjAzMzc2ODI1YjkzMmIxYzkyMTNhOWU4MWJh",
   "tracks": [
     {
       "added_at": "2022-05-25 15:22:18",
@@ -84,6 +84,22 @@
       "added_at": "2022-05-25 15:22:18",
       "album": {
         "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/7DzULGMf4tFgZ65CFlZugm"
+      },
+      "artists": [
+        {
+          "name": "Jason Aldean",
+          "url": "https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH"
+        }
+      ],
+      "duration_ms": 157025,
+      "name": "Much Too Young (To Feel This Damn Old) - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/2Zv9cKaT82kHOutvQmBUnD"
+    },
+    {
+      "added_at": "2022-05-25 15:22:18",
+      "album": {
+        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/0AccJ5bsbh5fiF4uPaQuyE"
       },
       "artists": [
@@ -100,17 +116,17 @@
       "added_at": "2022-05-25 15:22:18",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/7DzULGMf4tFgZ65CFlZugm"
+        "url": "https://open.spotify.com/album/2H18xXYbVopKYddC2VqoPJ"
       },
       "artists": [
         {
-          "name": "Jason Aldean",
-          "url": "https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH"
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
         }
       ],
-      "duration_ms": 157025,
-      "name": "Much Too Young (To Feel This Damn Old) - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/2Zv9cKaT82kHOutvQmBUnD"
+      "duration_ms": 224987,
+      "name": "One Number Away - Recorded At Sound Stage Nashville",
+      "url": "https://open.spotify.com/track/0RmtUP9oQqhO3WFqB3KrM2"
     },
     {
       "added_at": "2022-05-25 15:22:18",
@@ -127,22 +143,6 @@
       "duration_ms": 243920,
       "name": "Carrying Your Love With Me - Spotify Singles",
       "url": "https://open.spotify.com/track/6ThMWDBYb8SsqCMup5vLLP"
-    },
-    {
-      "added_at": "2022-05-25 15:22:18",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/1C640BfNRoMu97Y9ye3iLv"
-      },
-      "artists": [
-        {
-          "name": "Zac Brown Band",
-          "url": "https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo"
-        }
-      ],
-      "duration_ms": 287440,
-      "name": "Cover Me Up - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/2S3Vx5HRNqRr4MCJCFREbl"
     },
     {
       "added_at": "2022-05-25 15:22:18",
@@ -164,6 +164,22 @@
       "added_at": "2022-05-25 15:22:18",
       "album": {
         "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/1C640BfNRoMu97Y9ye3iLv"
+      },
+      "artists": [
+        {
+          "name": "Zac Brown Band",
+          "url": "https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo"
+        }
+      ],
+      "duration_ms": 287440,
+      "name": "Cover Me Up - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/2S3Vx5HRNqRr4MCJCFREbl"
+    },
+    {
+      "added_at": "2022-05-25 15:22:18",
+      "album": {
+        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/74utZeTCeaXy01BjOddyv8"
       },
       "artists": [
@@ -175,22 +191,6 @@
       "duration_ms": 228460,
       "name": "Delicate - Recorded at The Tracking Room Nashville",
       "url": "https://open.spotify.com/track/1Fj0T1XKuhRu7EZzJ7NJIK"
-    },
-    {
-      "added_at": "2022-05-25 15:22:18",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/2H18xXYbVopKYddC2VqoPJ"
-      },
-      "artists": [
-        {
-          "name": "Luke Combs",
-          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
-        }
-      ],
-      "duration_ms": 224987,
-      "name": "One Number Away - Recorded At Sound Stage Nashville",
-      "url": "https://open.spotify.com/track/0RmtUP9oQqhO3WFqB3KrM2"
     },
     {
       "added_at": "2022-05-25 15:22:18",
@@ -212,26 +212,6 @@
       "added_at": "2022-05-25 15:22:18",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/3yPPJlOdCyJVVXR7z7BmFs"
-      },
-      "artists": [
-        {
-          "name": "Maddie & Tae",
-          "url": "https://open.spotify.com/artist/34bhyY8jfKez7uKakMfy4y"
-        },
-        {
-          "name": "Avenue Beat",
-          "url": "https://open.spotify.com/artist/1htYtUdXVMwR6HCSs821Lc"
-        }
-      ],
-      "duration_ms": 177261,
-      "name": "Watermelon Sugar (featuring Avenue Beat)",
-      "url": "https://open.spotify.com/track/6pPD1k342KK4fMU6xPHufi"
-    },
-    {
-      "added_at": "2022-05-25 15:22:18",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/2lUa80FmRYq0pYjGZiDWBD"
       },
       "artists": [
@@ -247,6 +227,26 @@
       "duration_ms": 214655,
       "name": "House Fire (feat. The Travelin' McCourys)",
       "url": "https://open.spotify.com/track/0kD9ESXYhdNDYDDNq3MIjc"
+    },
+    {
+      "added_at": "2022-05-25 15:22:18",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/3yPPJlOdCyJVVXR7z7BmFs"
+      },
+      "artists": [
+        {
+          "name": "Maddie & Tae",
+          "url": "https://open.spotify.com/artist/34bhyY8jfKez7uKakMfy4y"
+        },
+        {
+          "name": "Avenue Beat",
+          "url": "https://open.spotify.com/artist/1htYtUdXVMwR6HCSs821Lc"
+        }
+      ],
+      "duration_ms": 177261,
+      "name": "Watermelon Sugar (featuring Avenue Beat)",
+      "url": "https://open.spotify.com/track/6pPD1k342KK4fMU6xPHufi"
     },
     {
       "added_at": "2022-05-25 15:22:18",
@@ -444,22 +444,6 @@
       "added_at": "2022-05-25 15:22:18",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/3Jee64Z2Wkkj9joT4qHT1l"
-      },
-      "artists": [
-        {
-          "name": "Kane Brown",
-          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
-        }
-      ],
-      "duration_ms": 267802,
-      "name": "Versace On the Floor - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/4PiQApOUbCc8sBb0ibobRJ"
-    },
-    {
-      "added_at": "2022-05-25 15:22:18",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/10hkWR17NEvncSn3w1sYPz"
       },
       "artists": [
@@ -471,6 +455,22 @@
       "duration_ms": 225632,
       "name": "Happier - Recorded At Sound Stage Studios Nashville",
       "url": "https://open.spotify.com/track/57DVaIfWIKSx3zW9mcVFhc"
+    },
+    {
+      "added_at": "2022-05-25 15:22:18",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/3Jee64Z2Wkkj9joT4qHT1l"
+      },
+      "artists": [
+        {
+          "name": "Kane Brown",
+          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
+        }
+      ],
+      "duration_ms": 267802,
+      "name": "Versace On the Floor - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/4PiQApOUbCc8sBb0ibobRJ"
     },
     {
       "added_at": "2022-05-25 15:22:18",
@@ -492,22 +492,6 @@
       "added_at": "2022-05-25 15:22:18",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/07y7Hurh5dieo9clbTBICi"
-      },
-      "artists": [
-        {
-          "name": "Dan + Shay",
-          "url": "https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T"
-        }
-      ],
-      "duration_ms": 174973,
-      "name": "Tequila - Live Session at Sound Stage Studios, Nashville, TN",
-      "url": "https://open.spotify.com/track/3yj6urYIInWjuE9YzUOKFT"
-    },
-    {
-      "added_at": "2022-05-25 15:22:18",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/3Teo9qaJ93m4gDLmmAH7GS"
       },
       "artists": [
@@ -524,17 +508,17 @@
       "added_at": "2022-05-25 15:22:18",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/7boqvY24W5gfCDALsi4QD1"
+        "url": "https://open.spotify.com/album/07y7Hurh5dieo9clbTBICi"
       },
       "artists": [
         {
-          "name": "Brett Young",
-          "url": "https://open.spotify.com/artist/0fiWOxhsBsQQvFDtxUQWo0"
+          "name": "Dan + Shay",
+          "url": "https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T"
         }
       ],
-      "duration_ms": 253735,
-      "name": "Mercy - Recorded at Sound Stage Studios Nashville",
-      "url": "https://open.spotify.com/track/2Zir0CdFxEVZmf4Yzq4gVI"
+      "duration_ms": 174973,
+      "name": "Tequila - Live Session at Sound Stage Studios, Nashville, TN",
+      "url": "https://open.spotify.com/track/3yj6urYIInWjuE9YzUOKFT"
     },
     {
       "added_at": "2022-05-25 15:22:18",
@@ -551,6 +535,22 @@
       "duration_ms": 259373,
       "name": "Man in the Mirror",
       "url": "https://open.spotify.com/track/18qNiKxBiNzmrdjwqZh7tm"
+    },
+    {
+      "added_at": "2022-05-25 15:22:18",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/7boqvY24W5gfCDALsi4QD1"
+      },
+      "artists": [
+        {
+          "name": "Brett Young",
+          "url": "https://open.spotify.com/artist/0fiWOxhsBsQQvFDtxUQWo0"
+        }
+      ],
+      "duration_ms": 253735,
+      "name": "Mercy - Recorded at Sound Stage Studios Nashville",
+      "url": "https://open.spotify.com/track/2Zir0CdFxEVZmf4Yzq4gVI"
     },
     {
       "added_at": "2022-06-21 22:04:06",
@@ -608,22 +608,6 @@
       "added_at": "2022-05-25 15:22:18",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/7c95oJyrVBBYkgSbJIxtR1"
-      },
-      "artists": [
-        {
-          "name": "Kameron Marlowe",
-          "url": "https://open.spotify.com/artist/31n3CN1jSC5ALUJ9dwT8UI"
-        }
-      ],
-      "duration_ms": 224977,
-      "name": "Giving You Up - Spotify Singles",
-      "url": "https://open.spotify.com/track/0DNcfs2vfNvwa3o7MEDSGG"
-    },
-    {
-      "added_at": "2022-05-25 15:22:18",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/1C640BfNRoMu97Y9ye3iLv"
       },
       "artists": [
@@ -635,22 +619,6 @@
       "duration_ms": 234873,
       "name": "My Old Man - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/6hJ7gAxu3QqYBfvaTV3ZOQ"
-    },
-    {
-      "added_at": "2022-05-25 15:22:18",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/3BtaYjFyAb4GmZ6qJxtiTr"
-      },
-      "artists": [
-        {
-          "name": "Caitlyn Smith",
-          "url": "https://open.spotify.com/artist/3uikSah4dwqwuk0EidFI4R"
-        }
-      ],
-      "duration_ms": 225318,
-      "name": "Before You Called Me Baby - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/3t6KvWWtbNsiVXExPZL9YA"
     },
     {
       "added_at": "2022-05-25 15:22:18",
@@ -671,6 +639,38 @@
       "duration_ms": 207458,
       "name": "Everywhere I'm Goin' (featuring Avenue Beat)",
       "url": "https://open.spotify.com/track/1WIRocIFUaEkYeE7P2ioxD"
+    },
+    {
+      "added_at": "2022-05-25 15:22:18",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/7c95oJyrVBBYkgSbJIxtR1"
+      },
+      "artists": [
+        {
+          "name": "Kameron Marlowe",
+          "url": "https://open.spotify.com/artist/31n3CN1jSC5ALUJ9dwT8UI"
+        }
+      ],
+      "duration_ms": 224977,
+      "name": "Giving You Up - Spotify Singles",
+      "url": "https://open.spotify.com/track/0DNcfs2vfNvwa3o7MEDSGG"
+    },
+    {
+      "added_at": "2022-05-25 15:22:18",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/3BtaYjFyAb4GmZ6qJxtiTr"
+      },
+      "artists": [
+        {
+          "name": "Caitlyn Smith",
+          "url": "https://open.spotify.com/artist/3uikSah4dwqwuk0EidFI4R"
+        }
+      ],
+      "duration_ms": 225318,
+      "name": "Before You Called Me Baby - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/3t6KvWWtbNsiVXExPZL9YA"
     },
     {
       "added_at": "2022-05-25 15:22:18",
@@ -708,17 +708,17 @@
       "added_at": "2022-05-25 15:22:18",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/4OGc172YSCEreeAyj8Eb25"
+        "url": "https://open.spotify.com/album/4uLh8clxnbNrZw9f2vz6mx"
       },
       "artists": [
         {
-          "name": "Jimmie Allen",
-          "url": "https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c"
+          "name": "Russell Dickerson",
+          "url": "https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw"
         }
       ],
-      "duration_ms": 250733,
-      "name": "Best Shot - Spotify Singles",
-      "url": "https://open.spotify.com/track/6rrLJj8UgltvAustzZhK1w"
+      "duration_ms": 202690,
+      "name": "Blue Tacoma",
+      "url": "https://open.spotify.com/track/4lUOnbLKhGz4ugezX8oUjl"
     },
     {
       "added_at": "2022-05-25 15:22:18",
@@ -744,33 +744,17 @@
       "added_at": "2022-05-25 15:22:18",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/4uLh8clxnbNrZw9f2vz6mx"
+        "url": "https://open.spotify.com/album/4OGc172YSCEreeAyj8Eb25"
       },
       "artists": [
         {
-          "name": "Russell Dickerson",
-          "url": "https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw"
+          "name": "Jimmie Allen",
+          "url": "https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c"
         }
       ],
-      "duration_ms": 202690,
-      "name": "Blue Tacoma",
-      "url": "https://open.spotify.com/track/4lUOnbLKhGz4ugezX8oUjl"
-    },
-    {
-      "added_at": "2022-05-25 15:22:18",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/10hkWR17NEvncSn3w1sYPz"
-      },
-      "artists": [
-        {
-          "name": "Keith Urban",
-          "url": "https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf"
-        }
-      ],
-      "duration_ms": 201332,
-      "name": "Never Comin Down - Recorded At Sound Stage Studios Nashville",
-      "url": "https://open.spotify.com/track/3tucKgFqK4GbUCmQtHxnhA"
+      "duration_ms": 250733,
+      "name": "Best Shot - Spotify Singles",
+      "url": "https://open.spotify.com/track/6rrLJj8UgltvAustzZhK1w"
     },
     {
       "added_at": "2022-05-25 15:22:18",
@@ -787,6 +771,22 @@
       "duration_ms": 193115,
       "name": "Miss Me More - Recorded at Sound Stage Studios Nashville",
       "url": "https://open.spotify.com/track/7oR9f1oXlG40AgSkwfxf3M"
+    },
+    {
+      "added_at": "2022-05-25 15:22:18",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/10hkWR17NEvncSn3w1sYPz"
+      },
+      "artists": [
+        {
+          "name": "Keith Urban",
+          "url": "https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf"
+        }
+      ],
+      "duration_ms": 201332,
+      "name": "Never Comin Down - Recorded At Sound Stage Studios Nashville",
+      "url": "https://open.spotify.com/track/3tucKgFqK4GbUCmQtHxnhA"
     },
     {
       "added_at": "2022-05-25 15:22:18",
@@ -856,22 +856,6 @@
       "added_at": "2022-05-25 15:22:18",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/6zKsXG7Q3k2HFLHY4i3tGU"
-      },
-      "artists": [
-        {
-          "name": "Aubrie Sellers",
-          "url": "https://open.spotify.com/artist/27IiEYV6p8fs5j8n39Pk1u"
-        }
-      ],
-      "duration_ms": 278167,
-      "name": "Green Eyes - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/3cjElM51VC09D0pMM2Ue9E"
-    },
-    {
-      "added_at": "2022-05-25 15:22:18",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/65LZeGRGhl2SLlDeZN4OPi"
       },
       "artists": [
@@ -883,6 +867,22 @@
       "duration_ms": 247312,
       "name": "Psycho - Recorded at Sound Stage Studios, Nashville",
       "url": "https://open.spotify.com/track/33aoxwQiePZVRQtYuJz6IR"
+    },
+    {
+      "added_at": "2022-05-25 15:22:18",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/6zKsXG7Q3k2HFLHY4i3tGU"
+      },
+      "artists": [
+        {
+          "name": "Aubrie Sellers",
+          "url": "https://open.spotify.com/artist/27IiEYV6p8fs5j8n39Pk1u"
+        }
+      ],
+      "duration_ms": 278167,
+      "name": "Green Eyes - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/3cjElM51VC09D0pMM2Ue9E"
     },
     {
       "added_at": "2022-05-25 15:22:18",
@@ -940,6 +940,22 @@
       "added_at": "2022-05-25 15:22:18",
       "album": {
         "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/65LZeGRGhl2SLlDeZN4OPi"
+      },
+      "artists": [
+        {
+          "name": "Michael Ray",
+          "url": "https://open.spotify.com/artist/6ghiFYcwn2Vzl6K50U0UPz"
+        }
+      ],
+      "duration_ms": 184742,
+      "name": "Get to You - Recorded at Sound Stage Studios, Nashville",
+      "url": "https://open.spotify.com/track/5NwafdEg2onbbPGugB0ZRS"
+    },
+    {
+      "added_at": "2022-05-25 15:22:18",
+      "album": {
+        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/43Rr16UbNM5Ui01V4tJxSM"
       },
       "artists": [
@@ -951,6 +967,22 @@
       "duration_ms": 109605,
       "name": "Dang Me (Recorded at Sound Stage Studios Nashville)",
       "url": "https://open.spotify.com/track/1rMNgB6oJVZPZlKJ0zJllV"
+    },
+    {
+      "added_at": "2022-05-25 15:22:18",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/4zudMsniWNz0q2CKRI9Fuy"
+      },
+      "artists": [
+        {
+          "name": "Hunter Hayes",
+          "url": "https://open.spotify.com/artist/7H6dkUChT5EoOQtUVMg4cN"
+        }
+      ],
+      "duration_ms": 182469,
+      "name": "Dear God - Recorded at Woodshed Recording Malibu",
+      "url": "https://open.spotify.com/track/78GAT649ad19quwcuiuMQs"
     },
     {
       "added_at": "2022-06-21 22:04:06",
@@ -967,6 +999,22 @@
       "duration_ms": 312586,
       "name": "One More Try - Recorded at Spotify Studios Nyc",
       "url": "https://open.spotify.com/track/5qoey0nfhko0BZh5w1Xq0y"
+    },
+    {
+      "added_at": "2022-05-25 15:22:18",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/45zKHbhnFK7yWhr3PvCwlC"
+      },
+      "artists": [
+        {
+          "name": "Rascal Flatts",
+          "url": "https://open.spotify.com/artist/0a1gHP0HAqALbEyxaD5Ngn"
+        }
+      ],
+      "duration_ms": 259430,
+      "name": "What The Cowgirls Do - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/5BjNw6Nehreg15LXEWD5Sl"
     },
     {
       "added_at": "2022-05-25 15:22:18",
@@ -988,38 +1036,6 @@
       "added_at": "2022-05-25 15:22:18",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/4zudMsniWNz0q2CKRI9Fuy"
-      },
-      "artists": [
-        {
-          "name": "Hunter Hayes",
-          "url": "https://open.spotify.com/artist/7H6dkUChT5EoOQtUVMg4cN"
-        }
-      ],
-      "duration_ms": 182469,
-      "name": "Dear God - Recorded at Woodshed Recording Malibu",
-      "url": "https://open.spotify.com/track/78GAT649ad19quwcuiuMQs"
-    },
-    {
-      "added_at": "2022-05-25 15:22:18",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/65LZeGRGhl2SLlDeZN4OPi"
-      },
-      "artists": [
-        {
-          "name": "Michael Ray",
-          "url": "https://open.spotify.com/artist/6ghiFYcwn2Vzl6K50U0UPz"
-        }
-      ],
-      "duration_ms": 184742,
-      "name": "Get to You - Recorded at Sound Stage Studios, Nashville",
-      "url": "https://open.spotify.com/track/5NwafdEg2onbbPGugB0ZRS"
-    },
-    {
-      "added_at": "2022-05-25 15:22:18",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/6zKsXG7Q3k2HFLHY4i3tGU"
       },
       "artists": [
@@ -1031,22 +1047,6 @@
       "duration_ms": 257787,
       "name": "Liar Liar - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/54whmtPE736Lh8t0cjrihv"
-    },
-    {
-      "added_at": "2022-05-25 15:22:18",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/45zKHbhnFK7yWhr3PvCwlC"
-      },
-      "artists": [
-        {
-          "name": "Rascal Flatts",
-          "url": "https://open.spotify.com/artist/0a1gHP0HAqALbEyxaD5Ngn"
-        }
-      ],
-      "duration_ms": 259430,
-      "name": "What The Cowgirls Do - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/5BjNw6Nehreg15LXEWD5Sl"
     },
     {
       "added_at": "2022-06-21 22:04:06",

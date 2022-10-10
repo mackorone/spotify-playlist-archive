@@ -4,7 +4,7 @@
 
 > Chillout to the coolest Korean acoustic tunes\. \(Cover: 10CM, BIG Naughty\) \(감미롭고 부드러운 한국 어쿠스틱 음악과 함께하세요.\)
 
-416 songs - 1 day 0 hr 50 min - [published](https://open.spotify.com/playlist/6ycQZelJsg1QvKdkpuvD2Q)
+417 songs - 1 day 0 hr 54 min - [published](https://open.spotify.com/playlist/6ycQZelJsg1QvKdkpuvD2Q)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,7 +29,7 @@
 | [Always You](https://open.spotify.com/track/6mkSD9scFtL0vaUgZ1pIub) | [Vanilla Acoustic](https://open.spotify.com/artist/57xPD2CfuwxN6Ld7rf2iLG) | [Fit Me](https://open.spotify.com/album/3TYy1tiVsuOWibt2ptlFUD) | 3:13 | 2022-03-31 | 2022-04-21 |
 | [Another Day](https://open.spotify.com/track/01UPzueYKNIRn4R9l5neB5) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [GO LIVE](https://open.spotify.com/album/7B3Rmyws1KcAxQfYPoInEZ) | 2:46 | 2021-12-10 | 2022-07-24 |
 | [Another Day](https://open.spotify.com/track/30YeoWowzWypZNSl6WNXAR) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [GO LIVE](https://open.spotify.com/album/6DWLIzvmiLPAuDWYZqrLQo) | 2:46 | 2022-07-08 |  |
-| [Answer](https://open.spotify.com/track/5DFVWocetuRnKhy7WjO8Ht) | [homezone](https://open.spotify.com/artist/31hDouD40df6TsqnZZpNAK) | [Answer](https://open.spotify.com/album/1bUlMzOPjvgiCWDfAzKD3r) | 3:44 | 2022-04-21 | 2022-09-30 |
+| [Answer](https://open.spotify.com/track/5DFVWocetuRnKhy7WjO8Ht) | [homezone](https://open.spotify.com/artist/31hDouD40df6TsqnZZpNAK) | [Answer](https://open.spotify.com/album/1bUlMzOPjvgiCWDfAzKD3r) | 3:44 | 2022-04-21 | 2022-10-10 |
 | [Apricot](https://open.spotify.com/track/7aNOH4B73XDeLOL1yGhwU5) | [ONEE](https://open.spotify.com/artist/6qFD5SSrBTyg4aVi0EQEXI) | [Indifferent People](https://open.spotify.com/album/1wVHZ8ouYutwHL7H5Gl9s6) | 3:15 | 2022-01-13 | 2022-02-07 |
 | [At the end of the day](https://open.spotify.com/track/0nJLLHH6Y3iOe5uGou2m6s) | [HAEBIN](https://open.spotify.com/artist/79e9aBzsPX9kSAqUxMNKQL) | [At the end of the day](https://open.spotify.com/album/6arlyz7d91rjANtfyPQ1t6) | 3:55 | 2022-03-31 | 2022-04-15 |
 | [Autumn breeze](https://open.spotify.com/track/0nmdvYrzUgocrXt6IDanCj) | [Dept](https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U), [Milky Day](https://open.spotify.com/artist/7FIqXqYZHMomTAcTXF4UHu) | [Autumn breeze](https://open.spotify.com/album/1zPdH4xj4rZsLVRtgO8MRI) | 2:54 | 2021-12-10 | 2022-07-29 |
@@ -61,6 +61,7 @@
 | [By My Side](https://open.spotify.com/track/09lkEZvJPX5Lto9Ei7SFxt) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [Our Blues, Pt\. 6 \(Original Television Soundtrack\)](https://open.spotify.com/album/090bFiHKTLRk5QA4hsE5Zv) | 3:47 | 2022-05-11 |  |
 | [Bygones at night](https://open.spotify.com/track/6WvGNtdslqyHl8rYTxCyPk) | [Coffeeboy](https://open.spotify.com/artist/5F0ZKImhec2HLnFQzsl1CM) | [Bygones at night](https://open.spotify.com/album/4sFVw84S0iMunYWJrcMUQA) | 3:55 | 2022-03-31 | 2022-04-06 |
 | [Camping Episode: Let's Go Camping \(Music From "Sound Garden"\)](https://open.spotify.com/track/7KlXPh6RPpuNea6wvJY6WY) | [Lee Jin Ah](https://open.spotify.com/artist/4SzO3ea2qcjg1uLyNJAWnM) | [Camping Episode: Let's Go Camping \(Music From "Sound Garden"\)](https://open.spotify.com/album/4Vi3kP5TmbgJq1y7K5kIIm) | 2:31 | 2021-12-10 | 2022-06-04 |
+| [Cape](https://open.spotify.com/track/6NpTVrEK8x4oNLiaUartCK) | [Suzy](https://open.spotify.com/artist/4U80LJd8sG6U9YTFP5izka) | [Cape](https://open.spotify.com/album/4FptBJzdZO2HUTvSF9UrFu) | 4:24 | 2022-10-10 |  |
 | [Cat 고양이](https://open.spotify.com/track/5MPYoxKteBooWtMDcL97ix) | [TAEG.E](https://open.spotify.com/artist/6gVunSTeWBpsD4pc78szcv) | [Cat 고양이](https://open.spotify.com/album/3WdXtwhYtSGrRuNPShw3L5) | 3:15 | 2022-04-12 | 2022-04-20 |
 | [Celebrity \- Acoustic](https://open.spotify.com/track/6sYwUFG8bG02yRtwDMuc8H) | [Dragon Stone](https://open.spotify.com/artist/0psw89QmbwHJemhN1kqPLh) | [Celebrity \(Acoustic\)](https://open.spotify.com/album/0zDLUzfQQCPFLJiROj5AAG) | 3:24 | 2022-02-10 | 2022-04-14 |
 | [Chapter of our love](https://open.spotify.com/track/0xqij7BqOzbnwcjmNqWMIG) | [Microdot](https://open.spotify.com/artist/1ToWoFmtIc9NTPFy7lR690), [Han All](https://open.spotify.com/artist/4y2MA188txnWeMIw9XwaJS) | [PROPHET](https://open.spotify.com/album/6llFy3B9EZt3H0QQTVzLxA) | 4:23 | 2022-03-31 | 2022-04-21 |
@@ -278,7 +279,7 @@
 | [Running \- Acoustic](https://open.spotify.com/track/5MQoTAOrOjNafc4VPav9Rn) | [Dragon Stone](https://open.spotify.com/artist/0psw89QmbwHJemhN1kqPLh) | [START\-UP \(Acoustic\)](https://open.spotify.com/album/6DaW5wC8oRPAuCSy4A4ggk) | 3:14 | 2021-12-10 | 2022-07-08 |
 | [Sappy Love Song](https://open.spotify.com/track/003Z3hDiS7KMpstUZDVBVF) | [YEWON](https://open.spotify.com/artist/2GJNbshsJuL7t4ME9LOwZ0) | [Sappy Love Song](https://open.spotify.com/album/32V0RRuEcdnpY1DL1ln5iT) | 3:18 | 2021-12-10 | 2022-04-10 |
 | [Say I Love U](https://open.spotify.com/track/1qwn1cLzaOKb501YwbuF1H) | [Kim Mi Jeong](https://open.spotify.com/artist/62i8ukH7NagOk7lZE6B3xA) | [Love Interference Season3 \(Original Television Soundtrack\), Pt\. 17](https://open.spotify.com/album/21fVkmQsDvSeGP5jQ1k2CG) | 2:50 | 2021-12-10 | 2022-07-27 |
-| [Saying Hello](https://open.spotify.com/track/0iLX5STkl07zjT4sO8dadX) | [MINNIE](https://open.spotify.com/artist/2pHkxVNynHBwQHhGaoBIXX) | [Link: Eat, Love, Kill \(Original Television Soundtrack\), Pt\. 2](https://open.spotify.com/album/6lkiYHR4LUv13f0yuXSf2D) | 3:59 | 2022-07-04 |  |
+| [Saying Hello](https://open.spotify.com/track/0iLX5STkl07zjT4sO8dadX) | [MINNIE](https://open.spotify.com/artist/2pHkxVNynHBwQHhGaoBIXX) | [Link: Eat, Love, Kill \(Original Television Soundtrack\), Pt\. 2](https://open.spotify.com/album/6lkiYHR4LUv13f0yuXSf2D) | 3:59 | 2022-07-04 | 2022-10-09 |
 | [Scent of the day](https://open.spotify.com/track/0xu3l9eS4OMm4wsBi9a6Nj) | [Lee Mujin](https://open.spotify.com/artist/4Xj0peBt3EZHbdF20JmdWC) | [Scent of the day](https://open.spotify.com/album/5HHhZ7N9Rz5UPXG6AJQ1Xg) | 4:37 | 2021-12-10 | 2022-06-17 |
 | [See you](https://open.spotify.com/track/2uzK4GdJ63xhirHwt91FMq) | [amin](https://open.spotify.com/artist/05FbaV2QkbVQoHri4l491N), [Dept](https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U) | [See you](https://open.spotify.com/album/1KQtu34l1mMpPMYdrQ5Kfx) | 3:06 | 2022-07-08 |  |
 | [See you \- with Noair, Nason](https://open.spotify.com/track/5HFl0JaGH9FPvI4Z7kVINo) | [amin](https://open.spotify.com/artist/05FbaV2QkbVQoHri4l491N), [Dept](https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U) | [See you](https://open.spotify.com/album/5XNFZVAs12EnZfZu7hJLNG) | 3:06 | 2021-12-10 | 2022-07-29 |

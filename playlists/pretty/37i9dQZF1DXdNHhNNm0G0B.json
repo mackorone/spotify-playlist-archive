@@ -1,12 +1,12 @@
 {
   "description": "Relax to the sounds of acoustic blues and folk...",
-  "num_followers": 63322,
+  "num_followers": 63590,
   "original_name": "Backporch Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDU2MDYwMiwwMDAwMDAwMDc3Y2ZkNmU1ODk2OGMzMGMxYjY0Y2FhOWVmMTM3NTU5",
+  "snapshot_id": "MTY2NDU2MDYwMiwwMDAwMDAwMDQzNjc2N2QwODBiZDk5M2M3YzFhYjE1MWNhZjI0YjQz",
   "tracks": [
     {
       "added_at": "2022-09-30 17:56:42",
@@ -31,22 +31,6 @@
     {
       "added_at": "2022-09-30 17:56:42",
       "album": {
-        "name": "The Legend Of Blind Joe Death",
-        "url": "https://open.spotify.com/album/5dPdHCE2QcT3FZqNAfMJO8"
-      },
-      "artists": [
-        {
-          "name": "John Fahey",
-          "url": "https://open.spotify.com/artist/4js8BDiQwnHLlDmT1shPH7"
-        }
-      ],
-      "duration_ms": 185400,
-      "name": "Sligo River Blues - Original Recording",
-      "url": "https://open.spotify.com/track/5U9mObciLrrnJC0hE84SIu"
-    },
-    {
-      "added_at": "2022-09-30 17:56:42",
-      "album": {
         "name": "Mercury",
         "url": "https://open.spotify.com/album/0ltORgLqzn1ZWiu6a49Cyv"
       },
@@ -59,6 +43,22 @@
       "duration_ms": 142680,
       "name": "Hesitation Theme and Variation Blues",
       "url": "https://open.spotify.com/track/2h4KmvKPMxvZjTpHTpq2FE"
+    },
+    {
+      "added_at": "2022-09-30 17:56:42",
+      "album": {
+        "name": "The Legend Of Blind Joe Death",
+        "url": "https://open.spotify.com/album/5dPdHCE2QcT3FZqNAfMJO8"
+      },
+      "artists": [
+        {
+          "name": "John Fahey",
+          "url": "https://open.spotify.com/artist/4js8BDiQwnHLlDmT1shPH7"
+        }
+      ],
+      "duration_ms": 185400,
+      "name": "Sligo River Blues - Original Recording",
+      "url": "https://open.spotify.com/track/5U9mObciLrrnJC0hE84SIu"
     },
     {
       "added_at": "2022-09-30 17:56:42",
@@ -159,6 +159,22 @@
     {
       "added_at": "2022-09-30 17:56:42",
       "album": {
+        "name": "Nothing We Say - EP",
+        "url": "https://open.spotify.com/album/5iHIUbynfBik6g0Ik3zhl7"
+      },
+      "artists": [
+        {
+          "name": "Courtney Hartman",
+          "url": "https://open.spotify.com/artist/0cncMmardvNmaTb9Jnq8w7"
+        }
+      ],
+      "duration_ms": 133026,
+      "name": "Cumberland Gap",
+      "url": "https://open.spotify.com/track/1W3WoQ2ECZzQnpOEt3XZVK"
+    },
+    {
+      "added_at": "2022-09-30 17:56:42",
+      "album": {
         "name": "Shapes of the Fall",
         "url": "https://open.spotify.com/album/4DWP3Ck7TsDJQH8OP2uiUU"
       },
@@ -183,6 +199,22 @@
     {
       "added_at": "2022-09-30 17:56:42",
       "album": {
+        "name": "Mercury",
+        "url": "https://open.spotify.com/album/0ltORgLqzn1ZWiu6a49Cyv"
+      },
+      "artists": [
+        {
+          "name": "Marisa Anderson",
+          "url": "https://open.spotify.com/artist/5j2d5CS0sh2LTpFsrKAFcW"
+        }
+      ],
+      "duration_ms": 203880,
+      "name": "Deep Gap",
+      "url": "https://open.spotify.com/track/35VC12PD25DXOSOYf4Eg7N"
+    },
+    {
+      "added_at": "2022-09-30 17:56:42",
+      "album": {
         "name": "The Midnight Broadcast",
         "url": "https://open.spotify.com/album/5XWkAsBVccgg9FFC77e9B6"
       },
@@ -195,38 +227,6 @@
       "duration_ms": 214933,
       "name": "Bumble Bee",
       "url": "https://open.spotify.com/track/1FgQnc7KZLvaB89eWOfQ2R"
-    },
-    {
-      "added_at": "2022-09-30 17:56:42",
-      "album": {
-        "name": "Mercury",
-        "url": "https://open.spotify.com/album/0ltORgLqzn1ZWiu6a49Cyv"
-      },
-      "artists": [
-        {
-          "name": "Marisa Anderson",
-          "url": "https://open.spotify.com/artist/5j2d5CS0sh2LTpFsrKAFcW"
-        }
-      ],
-      "duration_ms": 96840,
-      "name": "Mesquite Shade",
-      "url": "https://open.spotify.com/track/39vGhSkzHBGwEnSi5PNKNn"
-    },
-    {
-      "added_at": "2022-09-30 17:56:42",
-      "album": {
-        "name": "Nothing We Say - EP",
-        "url": "https://open.spotify.com/album/5iHIUbynfBik6g0Ik3zhl7"
-      },
-      "artists": [
-        {
-          "name": "Courtney Hartman",
-          "url": "https://open.spotify.com/artist/0cncMmardvNmaTb9Jnq8w7"
-        }
-      ],
-      "duration_ms": 133026,
-      "name": "Cumberland Gap",
-      "url": "https://open.spotify.com/track/1W3WoQ2ECZzQnpOEt3XZVK"
     },
     {
       "added_at": "2022-09-30 17:56:42",
@@ -263,34 +263,18 @@
     {
       "added_at": "2022-09-30 17:56:42",
       "album": {
-        "name": "The Centennial Collection",
-        "url": "https://open.spotify.com/album/0MG8ODOjmgu62MpgeS9dRF"
+        "name": "Preachin' Blues",
+        "url": "https://open.spotify.com/album/2jBR825FVmX6BelMes5U4G"
       },
       "artists": [
         {
-          "name": "Robert Johnson",
-          "url": "https://open.spotify.com/artist/0f8MDDzIc6M4uH1xH0o0gy"
+          "name": "Son House",
+          "url": "https://open.spotify.com/artist/15oeqKO5k5uZ5773tWvpda"
         }
       ],
-      "duration_ms": 178853,
-      "name": "They're Red Hot - SA.2627-1",
-      "url": "https://open.spotify.com/track/4vrPulRxzgljqsYtgGQrpk"
-    },
-    {
-      "added_at": "2022-09-30 17:56:42",
-      "album": {
-        "name": "Mercury",
-        "url": "https://open.spotify.com/album/0ltORgLqzn1ZWiu6a49Cyv"
-      },
-      "artists": [
-        {
-          "name": "Marisa Anderson",
-          "url": "https://open.spotify.com/artist/5j2d5CS0sh2LTpFsrKAFcW"
-        }
-      ],
-      "duration_ms": 203880,
-      "name": "Deep Gap",
-      "url": "https://open.spotify.com/track/35VC12PD25DXOSOYf4Eg7N"
+      "duration_ms": 316360,
+      "name": "Preachin' Blues",
+      "url": "https://open.spotify.com/track/4YEoVkvvzx5eavtE2u5qG0"
     },
     {
       "added_at": "2022-09-30 17:56:42",
@@ -311,34 +295,18 @@
     {
       "added_at": "2022-09-30 17:56:42",
       "album": {
-        "name": "Preachin' Blues",
-        "url": "https://open.spotify.com/album/2jBR825FVmX6BelMes5U4G"
+        "name": "The Centennial Collection",
+        "url": "https://open.spotify.com/album/0MG8ODOjmgu62MpgeS9dRF"
       },
       "artists": [
         {
-          "name": "Son House",
-          "url": "https://open.spotify.com/artist/15oeqKO5k5uZ5773tWvpda"
+          "name": "Robert Johnson",
+          "url": "https://open.spotify.com/artist/0f8MDDzIc6M4uH1xH0o0gy"
         }
       ],
-      "duration_ms": 316360,
-      "name": "Preachin' Blues",
-      "url": "https://open.spotify.com/track/4YEoVkvvzx5eavtE2u5qG0"
-    },
-    {
-      "added_at": "2022-09-30 17:56:42",
-      "album": {
-        "name": "Dust My Broom",
-        "url": "https://open.spotify.com/album/4wvZ1QR3tMnLNDzzxxn1pj"
-      },
-      "artists": [
-        {
-          "name": "Bobby Rush",
-          "url": "https://open.spotify.com/artist/7LdFlcnzWpySPKngmFCnLi"
-        }
-      ],
-      "duration_ms": 215662,
-      "name": "Dust My Broom",
-      "url": "https://open.spotify.com/track/3OGfvgASu7KjQn8whfBALw"
+      "duration_ms": 178853,
+      "name": "They're Red Hot - SA.2627-1",
+      "url": "https://open.spotify.com/track/4vrPulRxzgljqsYtgGQrpk"
     },
     {
       "added_at": "2022-09-30 17:56:42",
@@ -359,18 +327,18 @@
     {
       "added_at": "2022-09-30 17:56:42",
       "album": {
-        "name": "Hooray For Another Day",
-        "url": "https://open.spotify.com/album/112NAVwlA1JezzCXNrVlgx"
+        "name": "Dust My Broom",
+        "url": "https://open.spotify.com/album/4wvZ1QR3tMnLNDzzxxn1pj"
       },
       "artists": [
         {
-          "name": "Max Ochs",
-          "url": "https://open.spotify.com/artist/0SEjW4NsEIkiSgpoxLuQCI"
+          "name": "Bobby Rush",
+          "url": "https://open.spotify.com/artist/7LdFlcnzWpySPKngmFCnLi"
         }
       ],
-      "duration_ms": 525080,
-      "name": "Ain't Nobody High Raga",
-      "url": "https://open.spotify.com/track/71kzRcSaKgsNlWHzjANWC8"
+      "duration_ms": 215662,
+      "name": "Dust My Broom",
+      "url": "https://open.spotify.com/track/3OGfvgASu7KjQn8whfBALw"
     },
     {
       "added_at": "2022-09-30 17:56:42",
@@ -391,6 +359,38 @@
     {
       "added_at": "2022-09-30 17:56:42",
       "album": {
+        "name": "Mercury",
+        "url": "https://open.spotify.com/album/0ltORgLqzn1ZWiu6a49Cyv"
+      },
+      "artists": [
+        {
+          "name": "Marisa Anderson",
+          "url": "https://open.spotify.com/artist/5j2d5CS0sh2LTpFsrKAFcW"
+        }
+      ],
+      "duration_ms": 96840,
+      "name": "Mesquite Shade",
+      "url": "https://open.spotify.com/track/39vGhSkzHBGwEnSi5PNKNn"
+    },
+    {
+      "added_at": "2022-09-30 17:56:42",
+      "album": {
+        "name": "Hooray For Another Day",
+        "url": "https://open.spotify.com/album/112NAVwlA1JezzCXNrVlgx"
+      },
+      "artists": [
+        {
+          "name": "Max Ochs",
+          "url": "https://open.spotify.com/artist/0SEjW4NsEIkiSgpoxLuQCI"
+        }
+      ],
+      "duration_ms": 525080,
+      "name": "Ain't Nobody High Raga",
+      "url": "https://open.spotify.com/track/71kzRcSaKgsNlWHzjANWC8"
+    },
+    {
+      "added_at": "2022-09-30 17:56:42",
+      "album": {
         "name": "Covered Tracks: Vol. 2",
         "url": "https://open.spotify.com/album/41VD7CenbVd2qOPNLZiE5K"
       },
@@ -403,6 +403,22 @@
       "duration_ms": 263999,
       "name": "Death Letter",
       "url": "https://open.spotify.com/track/516maf2eNSuB5pTB1NedlN"
+    },
+    {
+      "added_at": "2022-09-30 17:56:42",
+      "album": {
+        "name": "Imaginational Anthem Vol. 5",
+        "url": "https://open.spotify.com/album/7Fitd8mCCAxXbbE5d6jfoE"
+      },
+      "artists": [
+        {
+          "name": "Will Stratton",
+          "url": "https://open.spotify.com/artist/7vy0OevOpPswNjEUxXPhaR"
+        }
+      ],
+      "duration_ms": 229853,
+      "name": "Hemet Pine Singer",
+      "url": "https://open.spotify.com/track/0aNyZsNQZykSvoiwrjhBFB"
     },
     {
       "added_at": "2022-09-30 17:56:42",
@@ -423,18 +439,34 @@
     {
       "added_at": "2022-09-30 17:56:42",
       "album": {
-        "name": "Imaginational Anthem Vol. 5",
-        "url": "https://open.spotify.com/album/7Fitd8mCCAxXbbE5d6jfoE"
+        "name": "Down in Mississippi",
+        "url": "https://open.spotify.com/album/1FhadZKvoH6Kh4SroqVJTP"
       },
       "artists": [
         {
-          "name": "Will Stratton",
-          "url": "https://open.spotify.com/artist/7vy0OevOpPswNjEUxXPhaR"
+          "name": "Bobby Rush",
+          "url": "https://open.spotify.com/artist/7LdFlcnzWpySPKngmFCnLi"
         }
       ],
-      "duration_ms": 229853,
-      "name": "Hemet Pine Singer",
-      "url": "https://open.spotify.com/track/0aNyZsNQZykSvoiwrjhBFB"
+      "duration_ms": 203453,
+      "name": "Down in Mississippi",
+      "url": "https://open.spotify.com/track/3ArBqpsJ4pyrnKtHZYl6ZJ"
+    },
+    {
+      "added_at": "2022-09-30 17:56:42",
+      "album": {
+        "name": "Fountain",
+        "url": "https://open.spotify.com/album/39Eo2Ku5MCLQbuniAYVNr5"
+      },
+      "artists": [
+        {
+          "name": "Danny Paul Grody",
+          "url": "https://open.spotify.com/artist/4dzotwHwOl10pysUzOMvJx"
+        }
+      ],
+      "duration_ms": 303946,
+      "name": "Natural West",
+      "url": "https://open.spotify.com/track/6Exz9wyMliB1iC18qMsJbQ"
     },
     {
       "added_at": "2022-09-30 17:56:42",
@@ -471,22 +503,6 @@
     {
       "added_at": "2022-09-30 17:56:42",
       "album": {
-        "name": "Down in Mississippi",
-        "url": "https://open.spotify.com/album/1FhadZKvoH6Kh4SroqVJTP"
-      },
-      "artists": [
-        {
-          "name": "Bobby Rush",
-          "url": "https://open.spotify.com/artist/7LdFlcnzWpySPKngmFCnLi"
-        }
-      ],
-      "duration_ms": 203453,
-      "name": "Down in Mississippi",
-      "url": "https://open.spotify.com/track/3ArBqpsJ4pyrnKtHZYl6ZJ"
-    },
-    {
-      "added_at": "2022-09-30 17:56:42",
-      "album": {
         "name": "Legs to Make us Longer",
         "url": "https://open.spotify.com/album/2gAagCBpgV4wa8KBMUBYWL"
       },
@@ -519,18 +535,18 @@
     {
       "added_at": "2022-09-30 17:56:42",
       "album": {
-        "name": "Fountain",
-        "url": "https://open.spotify.com/album/39Eo2Ku5MCLQbuniAYVNr5"
+        "name": "The Cause of It All",
+        "url": "https://open.spotify.com/album/3ppJZy5wj282RpH5M3ld1a"
       },
       "artists": [
         {
-          "name": "Danny Paul Grody",
-          "url": "https://open.spotify.com/artist/4dzotwHwOl10pysUzOMvJx"
+          "name": "The Reverend Shawn Amos",
+          "url": "https://open.spotify.com/artist/2XfNsXm2GClde2U0tZpBQT"
         }
       ],
-      "duration_ms": 303946,
-      "name": "Natural West",
-      "url": "https://open.spotify.com/track/6Exz9wyMliB1iC18qMsJbQ"
+      "duration_ms": 137186,
+      "name": "I'm Ready",
+      "url": "https://open.spotify.com/track/4wk6CwXYGbwN5ueOhd6twG"
     },
     {
       "added_at": "2022-09-30 17:56:42",
@@ -551,6 +567,22 @@
     {
       "added_at": "2022-09-30 17:56:42",
       "album": {
+        "name": "Shake It for Me",
+        "url": "https://open.spotify.com/album/2J1WSSGkNc4k35EhyqR7av"
+      },
+      "artists": [
+        {
+          "name": "Bobby Rush",
+          "url": "https://open.spotify.com/artist/7LdFlcnzWpySPKngmFCnLi"
+        }
+      ],
+      "duration_ms": 222199,
+      "name": "Shake It for Me",
+      "url": "https://open.spotify.com/track/6rXK44ua8o6Dqvu8s89abU"
+    },
+    {
+      "added_at": "2022-09-30 17:56:42",
+      "album": {
         "name": "Modern Country",
         "url": "https://open.spotify.com/album/64esKG7wBOEr573Zp77cUT"
       },
@@ -567,38 +599,6 @@
     {
       "added_at": "2022-09-30 17:56:42",
       "album": {
-        "name": "The Cause of It All",
-        "url": "https://open.spotify.com/album/3ppJZy5wj282RpH5M3ld1a"
-      },
-      "artists": [
-        {
-          "name": "The Reverend Shawn Amos",
-          "url": "https://open.spotify.com/artist/2XfNsXm2GClde2U0tZpBQT"
-        }
-      ],
-      "duration_ms": 137186,
-      "name": "I'm Ready",
-      "url": "https://open.spotify.com/track/4wk6CwXYGbwN5ueOhd6twG"
-    },
-    {
-      "added_at": "2022-09-30 17:56:42",
-      "album": {
-        "name": "Willow Witchin' (Hot Take)",
-        "url": "https://open.spotify.com/album/3DO5TaKuot0DPdfrDxZxZl"
-      },
-      "artists": [
-        {
-          "name": "Nat Myers",
-          "url": "https://open.spotify.com/artist/2QMlNryks9wyxBCsBGciTS"
-        }
-      ],
-      "duration_ms": 150941,
-      "name": "Willow Witchin' (Hot Take)",
-      "url": "https://open.spotify.com/track/6QaEUzzNtspNmCAdG4OUb6"
-    },
-    {
-      "added_at": "2022-09-30 17:56:42",
-      "album": {
         "name": "A Place at the Table (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/4xrTVoyCakeF37VsnaLMQP"
       },
@@ -611,22 +611,6 @@
       "duration_ms": 141066,
       "name": "Focus (Rosie's Theme)",
       "url": "https://open.spotify.com/track/3MRN6jyUxfffTdOEaHwDOE"
-    },
-    {
-      "added_at": "2022-09-30 17:56:42",
-      "album": {
-        "name": "Shake It for Me",
-        "url": "https://open.spotify.com/album/2J1WSSGkNc4k35EhyqR7av"
-      },
-      "artists": [
-        {
-          "name": "Bobby Rush",
-          "url": "https://open.spotify.com/artist/7LdFlcnzWpySPKngmFCnLi"
-        }
-      ],
-      "duration_ms": 222199,
-      "name": "Shake It for Me",
-      "url": "https://open.spotify.com/track/6rXK44ua8o6Dqvu8s89abU"
     },
     {
       "added_at": "2022-09-30 17:56:42",
@@ -663,6 +647,22 @@
     {
       "added_at": "2022-09-30 17:56:42",
       "album": {
+        "name": "Willow Witchin' (Hot Take)",
+        "url": "https://open.spotify.com/album/3DO5TaKuot0DPdfrDxZxZl"
+      },
+      "artists": [
+        {
+          "name": "Nat Myers",
+          "url": "https://open.spotify.com/artist/2QMlNryks9wyxBCsBGciTS"
+        }
+      ],
+      "duration_ms": 150941,
+      "name": "Willow Witchin' (Hot Take)",
+      "url": "https://open.spotify.com/track/6QaEUzzNtspNmCAdG4OUb6"
+    },
+    {
+      "added_at": "2022-09-30 17:56:42",
+      "album": {
         "name": "Presenting Blind Willie McTell",
         "url": "https://open.spotify.com/album/3CwFKuklZs4BJKkwqIR46z"
       },
@@ -675,6 +675,22 @@
       "duration_ms": 152853,
       "name": "Statesboro Blues",
       "url": "https://open.spotify.com/track/2T3YfMI0xRk93bmVMuJcKu"
+    },
+    {
+      "added_at": "2022-09-30 17:56:42",
+      "album": {
+        "name": "Dark Was The Night (Mojo Workin'- Blues For The Next Generation)",
+        "url": "https://open.spotify.com/album/3H90ji25FlT62CztiEOhrt"
+      },
+      "artists": [
+        {
+          "name": "Blind Willie Johnson",
+          "url": "https://open.spotify.com/artist/5kO4xdEKLuHHHPreu3UmkZ"
+        }
+      ],
+      "duration_ms": 179226,
+      "name": "God Moves On the Water",
+      "url": "https://open.spotify.com/track/5PaW8VeYRpS3N728fFa15b"
     },
     {
       "added_at": "2022-09-30 17:56:42",
@@ -723,22 +739,6 @@
       "duration_ms": 412581,
       "name": "Sarah Anne",
       "url": "https://open.spotify.com/track/6G6eM490aDeluKpsDeCLyb"
-    },
-    {
-      "added_at": "2022-09-30 17:56:42",
-      "album": {
-        "name": "Dark Was The Night (Mojo Workin'- Blues For The Next Generation)",
-        "url": "https://open.spotify.com/album/3H90ji25FlT62CztiEOhrt"
-      },
-      "artists": [
-        {
-          "name": "Blind Willie Johnson",
-          "url": "https://open.spotify.com/artist/5kO4xdEKLuHHHPreu3UmkZ"
-        }
-      ],
-      "duration_ms": 179226,
-      "name": "God Moves On the Water",
-      "url": "https://open.spotify.com/track/5PaW8VeYRpS3N728fFa15b"
     },
     {
       "added_at": "2022-09-30 17:56:42",

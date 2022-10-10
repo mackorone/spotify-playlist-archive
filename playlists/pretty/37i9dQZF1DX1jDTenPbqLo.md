@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1jDTenPbqLo.md) - [plain]
 
 > daydreaming, an unfinished book, soft sunlight and a fresh pot of tea
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,597 likes - 40 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,658 likes - 40 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1jDTenPbqLo.md) - [plain]
 | 39 | [Rêverie, L\. 68 \(Arr\. by Badzura\)](https://open.spotify.com/track/4VvRlFEuDDJnUaJURcDLE4) | [Claude Debussy](https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP), [Daniel Hope](https://open.spotify.com/artist/59r5UU2HOytn9V5uMZ5Vur), [Zürcher Kammerorchester](https://open.spotify.com/artist/33cajGDdkhowQ8hiuEucXM) | [Debussy: Rêverie, L\. 68 \(Arr\. Badzura\)](https://open.spotify.com/album/0OZ9sIi53bC4eupChcBPUc) | 6:08 |
 | 40 | [Bach, JS: Goldberg Variations, BWV 988: Aria](https://open.spotify.com/track/5YDqSImE2uQDn7K7Gw6uvN) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Beatrice Rana](https://open.spotify.com/artist/0dy2MCCdtamIXLSncTg9SP) | [Bach: Goldberg Variations, BWV 988](https://open.spotify.com/album/1n5pafTMiQNC1CxWBA37Qb) | 5:06 |
 
-Snapshot ID: `MTY2NDUxMDQ2MCwwMDAwMDAwMDc0NGVkZjAxODExN2U5ZjkyMmJjYTFlODI5MGE5MTRk`
+Snapshot ID: `MTY2NDc5MjUxOSwwMDAwMDAwMDFiZDkyZWNkMjk0NGYwNWNmNmE3ZDIxZGMxNWFjNTVm`

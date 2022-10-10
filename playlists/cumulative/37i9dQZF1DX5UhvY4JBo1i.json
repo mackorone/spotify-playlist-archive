@@ -2,7 +2,9 @@
   "date_first_scraped": "2022-10-02",
   "description": "Enjoy music from \"Case Closed\"! \u30a2\u30cb\u30e1\u300c\u540d\u63a2\u5075\u30b3\u30ca\u30f3\u300d\u306e\u4e16\u754c\u3092\u5f69\u308b\u97f3\u697d\u3092\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3067\u3002\u00a92020 \u9752\u5c71\u525b\u660c\uff0f\u540d\u63a2\u5075\u30b3\u30ca\u30f3\u88fd\u4f5c\u59d4\u54e1\u4f1a",
   "name": "Case Closed -\u540d\u63a2\u5075\u30b3\u30ca\u30f3-",
-  "published_playlist_ids": [],
+  "published_playlist_ids": [
+    "4PJtO01CxXlVEi8RCU2y7N"
+  ],
   "tracks": [
     {
       "album": {
@@ -1555,6 +1557,24 @@
       "duration_ms": 273722,
       "name": "\u611b\u306f\u6697\u95c7\u306e\u4e2d\u3067 featuring Aya Kamiki",
       "url": "https://open.spotify.com/track/3s9VhbIMXojx9NMPnhQllx"
+    },
+    {
+      "album": {
+        "name": "\u6355\u307e\u3048\u3066\u3001\u4eca\u591c\u3002",
+        "url": "https://open.spotify.com/album/4D0ZJVYQKa1I0OdY04UtND"
+      },
+      "artists": [
+        {
+          "name": "\u65b0\u6d5c\u30ec\u30aa\u30f3",
+          "url": "https://open.spotify.com/artist/6WHw9pdyHYT9c952yPaGM2"
+        }
+      ],
+      "date_added": "2022-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250106,
+      "name": "\u6355\u307e\u3048\u3066\u3001\u4eca\u591c\u3002",
+      "url": "https://open.spotify.com/track/0Tw3GoF2O6XA7DmytMKNLL"
     },
     {
       "album": {

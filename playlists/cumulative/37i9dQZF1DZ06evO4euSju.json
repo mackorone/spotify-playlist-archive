@@ -55,7 +55,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-09",
       "duration_ms": 238588,
       "name": "Black Flamingo",
       "url": "https://open.spotify.com/track/44OapuhaxBVQqdXQYeTKPs"
@@ -192,6 +192,24 @@
     },
     {
       "album": {
+        "name": "Chrome Neon Jesus",
+        "url": "https://open.spotify.com/album/7DUbrWwDxAeoNzFwKNVpiw"
+      },
+      "artists": [
+        {
+          "name": "Teenage Wrist",
+          "url": "https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx"
+        }
+      ],
+      "date_added": "2022-10-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-07",
+      "duration_ms": 157221,
+      "name": "Kibo",
+      "url": "https://open.spotify.com/track/5iQPGnGBClKTf4pHdhNuAg"
+    },
+    {
+      "album": {
         "name": "Counting Flies",
         "url": "https://open.spotify.com/album/1cMUO53ujhy2sdSZdRAQvD"
       },
@@ -239,7 +257,7 @@
       ],
       "date_added": "2022-09-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-29",
+      "date_removed": "2022-10-07",
       "duration_ms": 206149,
       "name": "New Emotion",
       "url": "https://open.spotify.com/track/4fPaQVq5eklkLMduNY3Gnb"
@@ -401,7 +419,7 @@
       ],
       "date_added": "2022-09-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-26",
+      "date_removed": null,
       "duration_ms": 232785,
       "name": "Supermachine",
       "url": "https://open.spotify.com/track/6NNi9MBDthHTDFFaaYpDA9"

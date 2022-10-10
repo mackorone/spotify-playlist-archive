@@ -615,7 +615,7 @@
       ],
       "date_added": "2022-09-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-27",
+      "date_removed": "2022-10-04",
       "duration_ms": 180693,
       "name": "ADRENALINA",
       "url": "https://open.spotify.com/track/09LwPi7fLnNkVnV6DV6FyY"
@@ -1617,7 +1617,7 @@
       ],
       "date_added": "2022-09-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-24",
+      "date_removed": null,
       "duration_ms": 148629,
       "name": "Bad Memories (feat. Elley Duh\u00e9 & FAST BOY)",
       "url": "https://open.spotify.com/track/3rb0tMq42WfggucPm0HHkA"
@@ -1879,7 +1879,7 @@
       ],
       "date_added": "2022-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-07",
       "duration_ms": 189633,
       "name": "BEEF",
       "url": "https://open.spotify.com/track/38mCyueh9B7niuLRlFBTXA"
@@ -2485,7 +2485,7 @@
       ],
       "date_added": "2022-08-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-02",
+      "date_removed": null,
       "duration_ms": 165264,
       "name": "Bones",
       "url": "https://open.spotify.com/track/54ipXppHLA8U4yqpOFTUhr"
@@ -2917,7 +2917,7 @@
       ],
       "date_added": "2021-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-21",
+      "date_removed": "2022-10-04",
       "duration_ms": 192760,
       "name": "California",
       "url": "https://open.spotify.com/track/2nFaT0t36H6UX3wN3Vxvjm"
@@ -4525,7 +4525,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-03",
       "duration_ms": 167632,
       "name": "drzewko",
       "url": "https://open.spotify.com/track/7iRoTRi1HwThWijtvmus13"
@@ -6039,6 +6039,24 @@
       "duration_ms": 173346,
       "name": "I WANNA BE YOUR SLAVE",
       "url": "https://open.spotify.com/track/4pt5fDVTg5GhEvEtlz9dKk"
+    },
+    {
+      "album": {
+        "name": "AM",
+        "url": "https://open.spotify.com/album/6645HGh7ZOZSUTpqW9iYLR"
+      },
+      "artists": [
+        {
+          "name": "Arctic Monkeys",
+          "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
+        }
+      ],
+      "date_added": "2022-10-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-08",
+      "duration_ms": 183956,
+      "name": "I Wanna Be Yours",
+      "url": "https://open.spotify.com/track/7a8GawTVgHZvBLQOh46he7"
     },
     {
       "album": {
@@ -7678,6 +7696,28 @@
     },
     {
       "album": {
+        "name": "Klej",
+        "url": "https://open.spotify.com/album/1ipi6D1WvsHXSZSTrWYmER"
+      },
+      "artists": [
+        {
+          "name": "Reto",
+          "url": "https://open.spotify.com/artist/6QfFTZJHFSe9Xyes6DkAli"
+        },
+        {
+          "name": "Wroobel",
+          "url": "https://open.spotify.com/artist/1ulO81VOUFqMTv0suMjXOS"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172380,
+      "name": "Klej",
+      "url": "https://open.spotify.com/track/17KqatlEaJPfxlZI6i0PRF"
+    },
+    {
+      "album": {
         "name": "Bufor",
         "url": "https://open.spotify.com/album/6s6xU2GQCElEekW1d566Ri"
       },
@@ -9049,7 +9089,7 @@
       ],
       "date_added": "2022-09-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-30",
+      "date_removed": "2022-10-05",
       "duration_ms": 244804,
       "name": "Mary On A Cross",
       "url": "https://open.spotify.com/track/7wdwIaXUuzlu1grzWMFRJm"
@@ -9401,7 +9441,7 @@
       ],
       "date_added": "2022-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-09",
       "duration_ms": 178909,
       "name": "MISS ME",
       "url": "https://open.spotify.com/track/3S1JqfJjwtZGwVg4f4Khtb"
@@ -9493,7 +9533,7 @@
       ],
       "date_added": "2022-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-09",
       "duration_ms": 199384,
       "name": "Mi\u0142o\u015b\u0107 na sprzeda\u017c",
       "url": "https://open.spotify.com/track/7oeG4bdfaKomPKfva5AgXc"
@@ -10023,7 +10063,7 @@
       ],
       "date_added": "2021-10-03",
       "date_added_asterisk": false,
-      "date_removed": "2021-10-23",
+      "date_removed": null,
       "duration_ms": 276706,
       "name": "M\u0142ody Bachor (outro)",
       "url": "https://open.spotify.com/track/5IU8x0JVDXxVSX5IJ9YbEH"
@@ -15333,7 +15373,7 @@
       ],
       "date_added": "2022-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-03",
       "duration_ms": 209600,
       "name": "Tatua\u017ce i Motocykle",
       "url": "https://open.spotify.com/track/4F3N8BizzYmHbUee1ASmhc"
@@ -15576,6 +15616,24 @@
     },
     {
       "album": {
+        "name": "To co masz Ty!",
+        "url": "https://open.spotify.com/album/6ZmRlpg8x8sC0dW41ZjcKg"
+      },
+      "artists": [
+        {
+          "name": "Dawid Podsiad\u0142o",
+          "url": "https://open.spotify.com/artist/6EB8VE9f7Ut6NOgviN6gDW"
+        }
+      ],
+      "date_added": "2022-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215453,
+      "name": "To co masz Ty!",
+      "url": "https://open.spotify.com/track/3RYR0I1GeqV3Qw5IgLcByW"
+    },
+    {
+      "album": {
         "name": "Pu\u0142apka Na Motyle",
         "url": "https://open.spotify.com/album/5ccwNrkxoiG2WdO5oJ0kbQ"
       },
@@ -15667,7 +15725,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-06",
       "duration_ms": 155000,
       "name": "to ostatni raz gdy jad\u0119 nad ba\u0142tyk",
       "url": "https://open.spotify.com/track/5D4kwsBnHJkZRJFbFG9O1t"
@@ -16405,6 +16463,42 @@
       "duration_ms": 119109,
       "name": "WCHJ",
       "url": "https://open.spotify.com/track/722oEPrFH6i8MHdWrM9ewF"
+    },
+    {
+      "album": {
+        "name": "we fell in love in october / forget her",
+        "url": "https://open.spotify.com/album/4oRcMHsdNG9IAF3xwv1kWu"
+      },
+      "artists": [
+        {
+          "name": "girl in red",
+          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
+        }
+      ],
+      "date_added": "2022-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184153,
+      "name": "we fell in love in october",
+      "url": "https://open.spotify.com/track/1BYZxKSf0aTxp8ZFoeyM3d"
+    },
+    {
+      "album": {
+        "name": "we fell in love in october / October Passed Me By",
+        "url": "https://open.spotify.com/album/7vud0sY43VTv28MbWiglDa"
+      },
+      "artists": [
+        {
+          "name": "girl in red",
+          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-08",
+      "duration_ms": 184153,
+      "name": "we fell in love in october",
+      "url": "https://open.spotify.com/track/6IPwKM3fUUzlElbvKw2sKl"
     },
     {
       "album": {
@@ -17711,7 +17805,7 @@
       ],
       "date_added": "2022-08-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-24",
+      "date_removed": "2022-10-09",
       "duration_ms": 271759,
       "name": "Znikam",
       "url": "https://open.spotify.com/track/7wE9mPOd1BMrDiq3sQBYfM"

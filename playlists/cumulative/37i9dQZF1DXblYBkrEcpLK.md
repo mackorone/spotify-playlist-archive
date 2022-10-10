@@ -4,7 +4,7 @@
 
 > アニメシーンを彩る女性アーティスト達を特集！ Celebrate the great female artists from anime culture\. Cover: ウタ/UTA from ONE PIECE FILM RED ©尾田栄一郎／2022「ワンピース」製作委員会
 
-345 songs - 23 hr 53 min - [published](https://open.spotify.com/playlist/6FtaHCMkDX6tcjL4vlT8MU)
+348 songs - 1 day 0 hr 5 min - [published](https://open.spotify.com/playlist/6FtaHCMkDX6tcjL4vlT8MU)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,6 +72,7 @@
 | [HELLO HORIZON](https://open.spotify.com/track/7FMqXP0CywpmcflwfAOaHn) | [Inori Minase](https://open.spotify.com/artist/6Aal2uLlwnLAQwSI7apV11) | [HELLO HORIZON](https://open.spotify.com/album/61JdcGfu4qMaYjVDFhD4tw) | 5:10 | 2022-06-09 | 2022-07-27 |
 | [HOME](https://open.spotify.com/track/4FSejBjuCSqv0NsJskPShe) | [Asako Toki](https://open.spotify.com/artist/4VIGlACQnSacU0b1HTLA7y) | [HOME](https://open.spotify.com/album/5fxto0FPkSBuYETRE5wT2d) | 4:51 | 2022-06-12 | 2022-07-12 |
 | [How I Feel](https://open.spotify.com/track/6vhbmnWDKcv7EWDl88UEn0) | [釘宮理恵](https://open.spotify.com/artist/0sYLX0bH7aVvJlpiGuYA3f) | [kokohadoko](https://open.spotify.com/album/54ZZMfzVQFHIoEbZEDlh9p) | 4:36 | 2022-06-12 | 2022-06-24 |
+| [I Really Want to Stay at Your House](https://open.spotify.com/track/7mykoq6R3BArsSpNDjFQTm) | [Rosa Walton](https://open.spotify.com/artist/1X0HaTcdkHW7LviblBiEeq), [Hallie Coggins](https://open.spotify.com/artist/5JNkPX6dYGLeEm4cUjHNGc) | [Cyberpunk 2077: Radio, Vol\. 2 \(Original Soundtrack\)](https://open.spotify.com/album/1VGVJdmvOSRK2w9RKXk18A) | 4:06 | 2022-10-03 |  |
 | [Ii n da yo](https://open.spotify.com/track/0w04F8vPlUCEwmvJ4Ix843) | [熊田茜音](https://open.spotify.com/artist/6atbj1ekQT3aHVY551wxqb) | [Sekai ga Haretara](https://open.spotify.com/album/5JAaO4GOtFc0tMJ41El23S) | 3:12 | 2022-06-14 | 2022-07-20 |
 | [Ikkenrakutyakugoyoujin](https://open.spotify.com/track/0w5PyjsZrrEetlpafZckxE) | [Earphones](https://open.spotify.com/artist/6nH1MaNtYwXEuwdOZ1R75p) | [Some Dreams](https://open.spotify.com/album/5ERqlJU3tAYgFLSat0tUUV) | 4:42 | 2022-06-14 | 2022-06-18 |
 | [Infinity!Our wings!!](https://open.spotify.com/track/0Ozd2HHjz6HZEbmttB6bMO) | [A・ZU・NA](https://open.spotify.com/artist/6J6RrsIzXnWKqcFu7ri9Pd) | [Infinity! Our wings!!](https://open.spotify.com/album/2QVpsejvYq0As5FLW3BFoo) | 4:31 | 2022-06-09 | 2022-07-25 |
@@ -80,6 +81,7 @@
 | [Kimi no Tonaride](https://open.spotify.com/track/38LULZ1VrM0u9p13WT7JlZ) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [Kimi no Tonaride](https://open.spotify.com/album/23CWIjCLZrE3FfZbCRQ90A) | 4:34 | 2022-06-09 | 2022-07-28 |
 | [Kiss Me](https://open.spotify.com/track/2QcjNoNPdkYy0RqPFoRKrk) | [キャロル&チューズデイ\(Vo.Nai Br.XX&Celeina Ann\)](https://open.spotify.com/artist/3tggmwr8QhWUTVdZ6br4na) | [Kiss Me/Hold Me Now](https://open.spotify.com/album/7oZVM8iL1dVOuVEioAIsGE) | 4:00 | 2022-06-14 | 2022-07-14 |
 | [Koino Uta](https://open.spotify.com/track/15St0qWPnH4xKflV39vk28) | [Yunomi](https://open.spotify.com/artist/2j00CVYTPx6q9ANbmB2keb), [Tsukasa Yuzaki](https://open.spotify.com/artist/7i5JUEiIBlGHmiyJTS0y3A) | [Koino Uta](https://open.spotify.com/album/3WCOtVNy5QefE0fbrfMGUy) | 3:29 | 2022-07-28 |  |
+| [Koko de Iki wo Shite](https://open.spotify.com/track/7cPYSzsrl6imQkzeO1HZ9b) | [eill](https://open.spotify.com/artist/3AiES4wyTOfJvNgqz9baDn) | [Palette](https://open.spotify.com/album/5P6FOSW5vOyPue3gharY5S) | 3:35 | 2022-09-20 | 2022-10-07 |
 | [Labyrinth](https://open.spotify.com/track/4gfrsAiT2SFaPqMovxjTWM) | [MARiA](https://open.spotify.com/artist/3VLk5buofnRZwwAS0PhS7v) | [Labyrinth](https://open.spotify.com/album/7zRMS627gQSee5r8S9PZtU) | 3:59 | 2022-06-14 | 2022-07-10 |
 | [Lapis](https://open.spotify.com/track/2dLePVS1r2mw2L0uE0k8zD) | [TrySail](https://open.spotify.com/artist/3YmAt9U9INQwxAwfgMVfKD) | [Lapis](https://open.spotify.com/album/2GL9ZK5r1hgBBrTn2evF1r) | 3:59 | 2022-06-09 | 2022-07-23 |
 | [Leap of faith](https://open.spotify.com/track/0EtjeTBZiL6wcKMpRein57) | [fripSide](https://open.spotify.com/artist/7ucOhItVkxNqunNLo8AkzN) | [Leap of faith](https://open.spotify.com/album/3W2pY2vDliZZtnlWvuJtwn) | 5:45 | 2022-06-21 | 2022-07-27 |
@@ -107,7 +109,7 @@
 | [pARTs](https://open.spotify.com/track/1cntqKtS7OZSERyDShGfQw) | [Natumi.](https://open.spotify.com/artist/3D3jHECUbYggG2AOzcL4Ub) | [pARTs](https://open.spotify.com/album/6PyyBnPSZnliOSvHoM8mEN) | 3:40 | 2022-06-09 | 2022-07-22 |
 | [Perfect\-area complete!](https://open.spotify.com/track/0mbUCoZHwCFPAyUsEEWXK7) | [麻生夏子](https://open.spotify.com/artist/1DDZtVeKCSNTVs2EupUsQ1) | [Movement of magic](https://open.spotify.com/album/0V6EFjSPBXudBEZ13Bt7iZ) | 4:01 | 2022-06-14 | 2022-07-23 |
 | [Plastic Smile](https://open.spotify.com/track/1jr9nUrgCcCD2tFxiJChys) | [Kaori Ishihara](https://open.spotify.com/artist/0iozpQbR93p8mOSDrevajw) | [Plastic Smile](https://open.spotify.com/album/32CKhuDhSINttWOAdUNfeT) | 4:21 | 2022-06-14 | 2022-07-28 |
-| [Platina\- from CrosSing](https://open.spotify.com/track/6dNi50ClKP3kPKWKB7hbHK) | [Ayana Taketatsu](https://open.spotify.com/artist/34UBKoTrfN5mZ0qzJtsZSS) | [Platina\- from CrosSing](https://open.spotify.com/album/0lUgiDZkZl9gIbDpysJvr2) | 4:09 | 2022-08-23 |  |
+| [Platina\- from CrosSing](https://open.spotify.com/track/6dNi50ClKP3kPKWKB7hbHK) | [Ayana Taketatsu](https://open.spotify.com/artist/34UBKoTrfN5mZ0qzJtsZSS) | [Platina\- from CrosSing](https://open.spotify.com/album/0lUgiDZkZl9gIbDpysJvr2) | 4:09 | 2022-08-23 | 2022-10-04 |
 | [Play the world](https://open.spotify.com/track/6ctN3LYzoYjyc41ptpNxcv) | [Rico Sasaki](https://open.spotify.com/artist/32vntVlDOsm1HGm9Xe0FSz) | [スタート!](https://open.spotify.com/album/3f2TjJitmfOmVAGun8f4DM) | 4:30 | 2022-06-09 | 2022-07-27 |
 | [Plunderer](https://open.spotify.com/track/02XTOEBvTvzqMGmz9apUGB) | [伊藤美来](https://open.spotify.com/artist/4IcWgtz5hpMVQ8ZFEXUSAD) | [Rhythmic Flavor](https://open.spotify.com/album/77kgZ2PjSFNmomA9N9V5pc) | 3:28 | 2022-07-07 | 2022-07-20 |
 | [Pretty Fever](https://open.spotify.com/track/2MkZIwCwTJR6wZH2unpwMV) | [Minako Kotobuki](https://open.spotify.com/artist/1NGAO9BGAOwKrv0dtjXRpP) | [Tick](https://open.spotify.com/album/24iNTW4PeXS3yTTftTj4yZ) | 4:22 | 2022-07-07 | 2022-07-16 |
@@ -147,6 +149,7 @@
 | [Subversive](https://open.spotify.com/track/6acIbFRfo20buNEmQiOl8K) | [高槻かなこ](https://open.spotify.com/artist/2do49zyzTTvfteT4XSof5k) | [Subversive](https://open.spotify.com/album/2gAqGyDjUcea47yN0KeAo1) | 4:37 | 2022-06-09 | 2022-07-28 |
 | [Sugarless Kiss](https://open.spotify.com/track/3UVrd41wMv9ERbwE3IC87l) | [Suzuko Mimori](https://open.spotify.com/artist/0BNdkdR8pOiC1SYm415sYY) | [Sugarless Kiss](https://open.spotify.com/album/5awyrxElo4j1ph2UH7nvfl) | 3:34 | 2022-06-14 | 2022-07-25 |
 | [Sun Is Coming Up](https://open.spotify.com/track/3QF909rQu5LgpXxrPL81Nz) | [亜咲花](https://open.spotify.com/artist/0QwTvn35AQMMELpKDU176h) | [Sun Is Coming Up](https://open.spotify.com/album/69f1AKnu2Lr4CwbmWjfbQp) | 4:15 | 2022-07-07 | 2022-07-20 |
+| [Suzume](https://open.spotify.com/track/7LHAKF7pBqHch8o6Yo0ad5) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7), [Toaka](https://open.spotify.com/artist/3GzVC7GGbmO2SuBu92DqUn) | [Suzume](https://open.spotify.com/album/7HT4WPE6gHPxrRmgzhhTMr) | 3:56 | 2022-10-03 |  |
 | [Take a chance](https://open.spotify.com/track/0RL7qleLwH9ASkAGpgDiRs) | [illiomote](https://open.spotify.com/artist/3WT4BJFKhoWN3Mc8TDcH7v) | [Take a chance](https://open.spotify.com/album/0CvxXRNp8bS5fZme72JS8m) | 3:30 | 2022-06-09 | 2022-07-08 |
 | [Tank!](https://open.spotify.com/track/2Wi5ubKr8zSk8L3CLemyS4) | [SEATBELTS](https://open.spotify.com/artist/3U3zr5PCRa9ty74uN46iBa) | [COWBOY BEBOP \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1XoE7ZirQ3gjxq8HIzTJU9) | 3:30 | 2022-07-28 |  |
 | [Thank you for…](https://open.spotify.com/track/4ZJMCk1quBMI7IW6Puf2wz) | [Beatcats](https://open.spotify.com/artist/3vmZgwzFp8rwt5GicYWbST) | [Thank you for…](https://open.spotify.com/album/1hrJFAHrzL1qTMuP0MeVUu) | 3:57 | 2022-06-14 | 2022-07-20 |
@@ -322,7 +325,7 @@
 | [灯火セレナード](https://open.spotify.com/track/4ArweSrn1ZczGwYQnokKCk) | [ChouCho](https://open.spotify.com/artist/5t7eQ2d1UmzfIr9oWQ538Y) | [灯火セレナード](https://open.spotify.com/album/7JcSNFuDqAIItqA91TeqeV) | 3:48 | 2022-06-21 | 2022-07-15 |
 | [炎](https://open.spotify.com/track/0cSkn2l67csUljEy0EEBPn) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [炎](https://open.spotify.com/album/1KmL1EZ0Pg9Vj3rPYMDqHY) | 4:35 | 2022-06-09 |  |
 | [燦々デイズ](https://open.spotify.com/track/4CebKGVZUJw18tnDzsjv2d) | [スピラ・スピカ](https://open.spotify.com/artist/3ncARjIEl4SrcrnpOIV5CO) | [燦々デイズ](https://open.spotify.com/album/0NnGObV44jyw4aJwz4nfAF) | 3:52 | 2022-06-09 |  |
-| [独創収差](https://open.spotify.com/track/1TDNF588GS7ijlkGB57o0f) | [Afterglow](https://open.spotify.com/artist/4Gahj9N72kVKOBZbKMu0OI) | [独創収差](https://open.spotify.com/album/6sqC5pyp0EFFxysVHJFcWo) | 4:35 | 2022-09-20 |  |
+| [独創収差](https://open.spotify.com/track/1TDNF588GS7ijlkGB57o0f) | [Afterglow](https://open.spotify.com/artist/4Gahj9N72kVKOBZbKMu0OI) | [独創収差](https://open.spotify.com/album/6sqC5pyp0EFFxysVHJFcWo) | 4:35 | 2022-09-20 | 2022-10-04 |
 | [生命線](https://open.spotify.com/track/4Ut1yVtaTsq0Mp6F2V2yJC) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [月姫 \-A piece of blue glass moon\- THEME SONG E.P.](https://open.spotify.com/album/25lcvkvNjoSlU07gs1M3hi) | 4:15 | 2022-06-09 | 2022-07-28 |
 | [真っ白](https://open.spotify.com/track/4QGwWIrSqaITsefkbVSTHg) | [諸星すみれ](https://open.spotify.com/artist/5Z7neAQq0zjjW8UX383psP) | [デビューミニアルバム「smile」](https://open.spotify.com/album/1P950IwnBjVGbImslEefQf) | 4:19 | 2022-06-09 | 2022-06-13 |
 | [知らなきゃ](https://open.spotify.com/track/0OKPegc5MwJHYhoMkjDxdS) | [安月名莉子](https://open.spotify.com/artist/7ChJuYuw9pM8MqaZOAmvHX) | [TVアニメ「ハコヅメ\~交番女子の逆襲\~」オープニングテーマ「知らなきゃ」](https://open.spotify.com/album/2iiaezKudY12uKe5LT7Fmh) | 3:53 | 2022-06-09 | 2022-06-12 |

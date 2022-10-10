@@ -2,7 +2,9 @@
   "date_first_scraped": "2022-10-01",
   "description": "This is Singeli. High energy dance music echoing throughout the streets of Tanzania ",
   "name": "Singeli Sounds",
-  "published_playlist_ids": [],
+  "published_playlist_ids": [
+    "0LIqSNHuW7rSqStgtXBh7j"
+  ],
   "tracks": [
     {
       "album": {
@@ -473,10 +475,32 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-07",
       "duration_ms": 320690,
       "name": "Miss Buza",
       "url": "https://open.spotify.com/track/0dJlBA59qFQYj5qCXftBDa"
+    },
+    {
+      "album": {
+        "name": "Miss Buza (feat. Dulla Makabila)",
+        "url": "https://open.spotify.com/album/5HudXaLc6wYZ1MS1crbmJW"
+      },
+      "artists": [
+        {
+          "name": "Rayvanny",
+          "url": "https://open.spotify.com/artist/7G9dCn1mqomAa0ucJoBm6J"
+        },
+        {
+          "name": "Dulla Makabila",
+          "url": "https://open.spotify.com/artist/1rVjPBFl9JlzgEO5P0RL8u"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 320653,
+      "name": "Miss Buza (feat. Dulla Makabila)",
+      "url": "https://open.spotify.com/track/5Ls1bXyqTFdV8QJvrXfudi"
     },
     {
       "album": {

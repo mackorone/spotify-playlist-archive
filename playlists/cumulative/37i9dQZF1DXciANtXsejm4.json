@@ -66,6 +66,24 @@
     },
     {
       "album": {
+        "name": "Abrime Pronto",
+        "url": "https://open.spotify.com/album/0sbcTUfyBslLXyCYVums0l"
+      },
+      "artists": [
+        {
+          "name": "Grupo Alegria de Santa Fe",
+          "url": "https://open.spotify.com/artist/0uITrMC16Eg9bbPu0PNfzk"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198410,
+      "name": "Abrime Pronto",
+      "url": "https://open.spotify.com/track/1g8Xa95Ymyfz0TYGTLy0QK"
+    },
+    {
+      "album": {
         "name": "Aceituna",
         "url": "https://open.spotify.com/album/6DxmsL6W3hwKjHwMaMT6s7"
       },
@@ -567,7 +585,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 220840,
       "name": "Cosas del amor",
       "url": "https://open.spotify.com/track/4Gd1XTVJtxzGdrr87WY2h8"
@@ -661,6 +679,24 @@
       "duration_ms": 199666,
       "name": "Despu\u00e9s De Ti",
       "url": "https://open.spotify.com/track/6xXaikT6ok8RahSgnrJOqu"
+    },
+    {
+      "album": {
+        "name": "Dime Quien",
+        "url": "https://open.spotify.com/album/5JGEI3LM5WuF2EIbSS4JQw"
+      },
+      "artists": [
+        {
+          "name": "La San Francisco",
+          "url": "https://open.spotify.com/artist/5PjBUzYkEvqbzBw5HtEAEr"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163800,
+      "name": "Dime Quien",
+      "url": "https://open.spotify.com/track/7AKR1lkC72e7oD722zkKbz"
     },
     {
       "album": {
@@ -1307,7 +1343,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 215174,
       "name": "Hasta el Sol de Hoy",
       "url": "https://open.spotify.com/track/1lT6GEEYN0loScdr9sES0C"

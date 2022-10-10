@@ -1,8 +1,10 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "Net die varste in Afrikaanse musiek Cover: <a href=\"https://open.spotify.com/artist/6vZo5K5MApUmC0oT6g5262?si=Vs4aByj4SRSSW_bcV7-TrA\">Jacques Leonard</a>",
+  "description": "Net die varste in Afrikaanse musiek Cover: <a href=\"https://open.spotify.com/artist/0mWmaYz3c8Y6aidiFPu3kN?si=nEaczK89S5WXP3QVS4wW7w\">Van Pletzen</a>",
   "name": "Nuwe Afrikaans",
-  "published_playlist_ids": [],
+  "published_playlist_ids": [
+    "0RKP7WChEoliblztnGqALh"
+  ],
   "tracks": [
     {
       "album": {
@@ -17,7 +19,7 @@
       ],
       "date_added": "2022-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-07",
       "duration_ms": 189457,
       "name": "110",
       "url": "https://open.spotify.com/track/0du9AbEce0kooBH5I6suvG"
@@ -75,6 +77,32 @@
       "duration_ms": 181715,
       "name": "Beheer Verloor",
       "url": "https://open.spotify.com/track/0f875VUlQ6bv1yoma2TYUZ"
+    },
+    {
+      "album": {
+        "name": "BETER DAT DIT STIL IS",
+        "url": "https://open.spotify.com/album/36i5QEt8tERjtF8BFGK6ee"
+      },
+      "artists": [
+        {
+          "name": "ShokBasse",
+          "url": "https://open.spotify.com/artist/5T2FFt1abRd5ZJKrzB2ZZj"
+        },
+        {
+          "name": "Slamma D",
+          "url": "https://open.spotify.com/artist/4fRD6JB528hNdAVikqKvHb"
+        },
+        {
+          "name": "TIPEX",
+          "url": "https://open.spotify.com/artist/0CTjYCxC7xHfP4knLDidPh"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190171,
+      "name": "BETER DAT DIT STIL IS",
+      "url": "https://open.spotify.com/track/0V8nod51VGfo5PA0V9IhzA"
     },
     {
       "album": {
@@ -147,10 +175,28 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-04",
       "duration_ms": 183000,
       "name": "Die Breils",
       "url": "https://open.spotify.com/track/51xxjNBTvFKQIfX2neagvM"
+    },
+    {
+      "album": {
+        "name": "Dit is Wat Dit Is",
+        "url": "https://open.spotify.com/album/4Nz0VpEvl2SHezkIJCSKtB"
+      },
+      "artists": [
+        {
+          "name": "Van Pletzen",
+          "url": "https://open.spotify.com/artist/0mWmaYz3c8Y6aidiFPu3kN"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163125,
+      "name": "Dit is wat dit is",
+      "url": "https://open.spotify.com/track/5crNC07MyZHDh1tWHg6nNY"
     },
     {
       "album": {
@@ -165,7 +211,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-07",
       "duration_ms": 151861,
       "name": "Dolla",
       "url": "https://open.spotify.com/track/76sB2FlXnGnayUOR10SJwu"
@@ -281,7 +327,7 @@
       ],
       "date_added": "2022-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-07",
       "duration_ms": 198995,
       "name": "Haai Haai",
       "url": "https://open.spotify.com/track/7oNaAYHagyDVzB8YoyhuMm"
@@ -307,10 +353,28 @@
       ],
       "date_added": "2022-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-04",
       "duration_ms": 244956,
       "name": "Happy Family",
       "url": "https://open.spotify.com/track/48dgyAaCvCVEL7V1wCa7ir"
+    },
+    {
+      "album": {
+        "name": "Hier Gaat Ons Alweer",
+        "url": "https://open.spotify.com/album/2mpRZxyifeulCZI1lmBBT3"
+      },
+      "artists": [
+        {
+          "name": "Pieter Koen",
+          "url": "https://open.spotify.com/artist/42MoeGwwUSE0x4u9PHvSif"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194183,
+      "name": "Hier Gaat Ons Alweer",
+      "url": "https://open.spotify.com/track/1zkDzC92Zb1KUSTa2Rumqv"
     },
     {
       "album": {
@@ -408,6 +472,24 @@
     },
     {
       "album": {
+        "name": "Weer",
+        "url": "https://open.spotify.com/album/4YPFlgvGCWtK0bKrN6qIkz"
+      },
+      "artists": [
+        {
+          "name": "Re\u00ebn",
+          "url": "https://open.spotify.com/artist/7tIsf2CtmTtj0UGJshHIyB"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222533,
+      "name": "Klippe",
+      "url": "https://open.spotify.com/track/3tkMr1BytrdWlZjcDxPBk9"
+    },
+    {
+      "album": {
         "name": "KLOP",
         "url": "https://open.spotify.com/album/0clagdMhENLSBFcxCAeMKk"
       },
@@ -470,6 +552,24 @@
     },
     {
       "album": {
+        "name": "Laatnag-sonop-koebaai",
+        "url": "https://open.spotify.com/album/6gvpn8iBbVXJEbmWt3sLVN"
+      },
+      "artists": [
+        {
+          "name": "Posduif",
+          "url": "https://open.spotify.com/artist/0BIs8iCsPrho1IZMdse349"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229561,
+      "name": "Laatnag-sonop-koebaai",
+      "url": "https://open.spotify.com/track/6gq6he9HdSJqPcsgFQbxWQ"
+    },
+    {
+      "album": {
         "name": "Lentekind (Dans Remix)",
         "url": "https://open.spotify.com/album/29N4DMheHAM04FlffYEAoq"
       },
@@ -488,6 +588,24 @@
     },
     {
       "album": {
+        "name": "Letsels",
+        "url": "https://open.spotify.com/album/3fkS4UKfRuU29KbBimnexE"
+      },
+      "artists": [
+        {
+          "name": "Vernon Barnard",
+          "url": "https://open.spotify.com/artist/2TPxotA1MPCxSlIBSWrJX5"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226687,
+      "name": "Letsels",
+      "url": "https://open.spotify.com/track/4C2RjO0cQTgfH25OnExF8j"
+    },
+    {
+      "album": {
         "name": "Lief",
         "url": "https://open.spotify.com/album/2qlqp7lrg0ZJtPrcdilOt2"
       },
@@ -503,7 +621,7 @@
       ],
       "date_added": "2022-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-07",
       "duration_ms": 205384,
       "name": "Lief",
       "url": "https://open.spotify.com/track/1Fbu7GJTELkKNVdlQ2X4zz"
@@ -521,7 +639,7 @@
       ],
       "date_added": "2022-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-07",
       "duration_ms": 244551,
       "name": "Lieflik",
       "url": "https://open.spotify.com/track/1owgvsRPtQKcYVJLzpJUpb"
@@ -539,10 +657,28 @@
       ],
       "date_added": "2022-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-07",
       "duration_ms": 184178,
       "name": "Meisie Van Fraserburg",
       "url": "https://open.spotify.com/track/2TwzvxiOUxwC1FGrrzAamc"
+    },
+    {
+      "album": {
+        "name": "Seisoen 2 - Top 5",
+        "url": "https://open.spotify.com/album/7mY9sILLbKkZjJOeoJp4Fp"
+      },
+      "artists": [
+        {
+          "name": "Samantha Leonard",
+          "url": "https://open.spotify.com/artist/0t70FT0xcfRAuHAM8C9Tgw"
+        }
+      ],
+      "date_added": "2022-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186439,
+      "name": "My Hele Lyf",
+      "url": "https://open.spotify.com/track/3HTL5qBOzXLFU5snDl5krF"
     },
     {
       "album": {
@@ -557,7 +693,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-07",
       "duration_ms": 205890,
       "name": "Namib Woestyn",
       "url": "https://open.spotify.com/track/1ebyQrrQOHHJbtgwFOSTiF"
@@ -712,6 +848,24 @@
     },
     {
       "album": {
+        "name": "Rooi Lippe",
+        "url": "https://open.spotify.com/album/243SEBUrcPNQ0w8k67yWBO"
+      },
+      "artists": [
+        {
+          "name": "ADAM",
+          "url": "https://open.spotify.com/artist/486zoG8VpR4C1iQRLG4ywt"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Rooi Lippe",
+      "url": "https://open.spotify.com/track/2lsq1swqdWcKNE0r96ocIF"
+    },
+    {
+      "album": {
         "name": "Ry of Bly",
         "url": "https://open.spotify.com/album/1eQn9GTE2K0S6BlqHNDBPO"
       },
@@ -723,7 +877,7 @@
       ],
       "date_added": "2022-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-07",
       "duration_ms": 226688,
       "name": "Ry of Bly",
       "url": "https://open.spotify.com/track/311QQk1V1MiuEC4qB5CR50"
@@ -759,10 +913,28 @@
       ],
       "date_added": "2022-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-07",
       "duration_ms": 155146,
       "name": "Sexy Selfies",
       "url": "https://open.spotify.com/track/52BrZvCiBxFlNk51pnjqO5"
+    },
+    {
+      "album": {
+        "name": "SKATTE",
+        "url": "https://open.spotify.com/album/3ZIehpIP6HTBbfAEtkdn2G"
+      },
+      "artists": [
+        {
+          "name": "Tertius rooi",
+          "url": "https://open.spotify.com/artist/0exVSnrH9fdXvvVub5wRDE"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236288,
+      "name": "SKATTE",
+      "url": "https://open.spotify.com/track/4QxosSPj1Sft96oEstnH7I"
     },
     {
       "album": {
@@ -828,6 +1000,24 @@
     },
     {
       "album": {
+        "name": "Skuiling",
+        "url": "https://open.spotify.com/album/3lsrsVNzUET0EIbUMCIda2"
+      },
+      "artists": [
+        {
+          "name": "Bouwer Bosch",
+          "url": "https://open.spotify.com/artist/5HZFQNs0MnrxxtU7dvi4Te"
+        }
+      ],
+      "date_added": "2022-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219498,
+      "name": "Skuiling",
+      "url": "https://open.spotify.com/track/2Zxrvy0wT08SxsVkrlI8As"
+    },
+    {
+      "album": {
         "name": "Van Der Aven",
         "url": "https://open.spotify.com/album/3szF7dfZ2BtD2wr4aHNkN5"
       },
@@ -846,6 +1036,28 @@
     },
     {
       "album": {
+        "name": "Standbeelde",
+        "url": "https://open.spotify.com/album/5eIwfDG5foI8Tbd92BE26C"
+      },
+      "artists": [
+        {
+          "name": "Ampie",
+          "url": "https://open.spotify.com/artist/05OlCJb6VjFEHPiCfwTCZx"
+        },
+        {
+          "name": "Matthew John Duncan",
+          "url": "https://open.spotify.com/artist/4dqbuy4ucRfaFUVfzDk9LA"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196701,
+      "name": "Standbeelde",
+      "url": "https://open.spotify.com/track/5iq0M2V0jJRu7IJYYxJ4vl"
+    },
+    {
+      "album": {
         "name": "Vanaand",
         "url": "https://open.spotify.com/album/0iwYj6LKFLhSUVDXF5vygz"
       },
@@ -857,7 +1069,7 @@
       ],
       "date_added": "2022-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-07",
       "duration_ms": 207991,
       "name": "Vanaand",
       "url": "https://open.spotify.com/track/265KkVKacgXwcrLQuLj9ON"
@@ -897,6 +1109,24 @@
       "duration_ms": 228753,
       "name": "Want Ek Mis Jou Hier",
       "url": "https://open.spotify.com/track/18p1L84lxNJovlSUeHblc9"
+    },
+    {
+      "album": {
+        "name": "Skree Net Sag",
+        "url": "https://open.spotify.com/album/5JGS4fNW4hpwuEmbBiq6nk"
+      },
+      "artists": [
+        {
+          "name": "Alter Ego",
+          "url": "https://open.spotify.com/artist/19uOX9mgY6MpWpy8TZPeVN"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192182,
+      "name": "Was Dit Jou Plan?",
+      "url": "https://open.spotify.com/track/5KPEiJ9vUlB9KdJmtWshvF"
     },
     {
       "album": {

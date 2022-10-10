@@ -2,7 +2,7 @@
 
 ### [O Melhor da MPB](https://open.spotify.com/playlist/37i9dQZF1DX9FSYmdU9mbT)
 
-> Os grandes artistas da MPB\. Foto: Gilberto Gil
+> Os grandes artistas da MPB\. Foto: Caetano Veloso
 
 117 songs - 7 hr 30 min - [published](https://open.spotify.com/playlist/0KkIdIP6N50yyjIcbunsdH)
 

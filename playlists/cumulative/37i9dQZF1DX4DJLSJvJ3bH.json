@@ -1570,6 +1570,28 @@
     },
     {
       "album": {
+        "name": "XMAS",
+        "url": "https://open.spotify.com/album/07gcCXuyT2NDA7LrmKPTz7"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        },
+        {
+          "name": "Fred Waring & The Pennsylvanians",
+          "url": "https://open.spotify.com/artist/6kgYj0BHuAkQkZVkxYFCVC"
+        }
+      ],
+      "date_added": "2022-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184373,
+      "name": "The Little Drummer Boy",
+      "url": "https://open.spotify.com/track/5rVzhhZwZpclUXEp0V16TQ"
+    },
+    {
+      "album": {
         "name": "Ultimate Christmas",
         "url": "https://open.spotify.com/album/1gCLWt3kXk5kNTZdsx6P8a"
       },
@@ -1585,7 +1607,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-09",
       "duration_ms": 185626,
       "name": "The Little Drummer Boy",
       "url": "https://open.spotify.com/track/7vZXx451PBO88CM7e3oSOL"

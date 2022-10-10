@@ -506,6 +506,24 @@
     },
     {
       "album": {
+        "name": "Welcome To Kookoo Island",
+        "url": "https://open.spotify.com/album/2O9fmLV4Ces4cMW5NySLWT"
+      },
+      "artists": [
+        {
+          "name": "Cari Cari",
+          "url": "https://open.spotify.com/artist/0ey6crPk5fXQWkq21iPTMV"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226165,
+      "name": "Belo Horizonte",
+      "url": "https://open.spotify.com/track/2F09YSqsNCGLBGvrvUWvZp"
+    },
+    {
+      "album": {
         "name": "BREACH",
         "url": "https://open.spotify.com/album/0KsNopmZLaB71o6i2nw95I"
       },
@@ -2683,7 +2701,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-06",
       "duration_ms": 182681,
       "name": "Mountain",
       "url": "https://open.spotify.com/track/4TFTlwrYFCLqmJtIgxRVUT"

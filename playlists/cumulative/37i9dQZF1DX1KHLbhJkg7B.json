@@ -1146,6 +1146,24 @@
     },
     {
       "album": {
+        "name": "Feeling Whitney",
+        "url": "https://open.spotify.com/album/7e0N7emlUh6WAAFpsPdVJw"
+      },
+      "artists": [
+        {
+          "name": "Tyler Booth",
+          "url": "https://open.spotify.com/artist/7lUUBDm6D4zeAVxbBqtHel"
+        }
+      ],
+      "date_added": "2022-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217034,
+      "name": "Feeling Whitney",
+      "url": "https://open.spotify.com/track/1yHqsAEZxRAcQIkk8LHlFN"
+    },
+    {
+      "album": {
         "name": "Fishin' in the Dark",
         "url": "https://open.spotify.com/album/3Ns6oLKSrW8DDVG4FAC2pH"
       },
@@ -1193,7 +1211,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-07",
       "duration_ms": 214684,
       "name": "Flower Shops",
       "url": "https://open.spotify.com/track/5H51cBWdVVStrUl5ymGeqa"
@@ -1937,6 +1955,24 @@
       "duration_ms": 191258,
       "name": "I Wanna Dance with Somebody",
       "url": "https://open.spotify.com/track/0gfWDWiib6CeXZk6nUSh5z"
+    },
+    {
+      "album": {
+        "name": "I Wanna Dance With Somebody (Who Loves Me)",
+        "url": "https://open.spotify.com/album/32eU7uDLs7JNgYXoFtG2AW"
+      },
+      "artists": [
+        {
+          "name": "Smith & Thell",
+          "url": "https://open.spotify.com/artist/1ZrBGJWLL8NiAjgNifCy90"
+        }
+      ],
+      "date_added": "2022-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203538,
+      "name": "I Wanna Dance With Somebody - Who Loves Me",
+      "url": "https://open.spotify.com/track/0cgFnx6yIVv3RrqXlZTiGZ"
     },
     {
       "album": {
@@ -2971,7 +3007,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-04",
       "duration_ms": 223253,
       "name": "Nobody Knows",
       "url": "https://open.spotify.com/track/7kty8TspGq6DFI7LP91Kfh"
@@ -4514,6 +4550,24 @@
     },
     {
       "album": {
+        "name": "Walkaway Joe (The Bootlegger Sessions)",
+        "url": "https://open.spotify.com/album/1dLhjR5af52TO7IVZeOqIw"
+      },
+      "artists": [
+        {
+          "name": "Michael Ray",
+          "url": "https://open.spotify.com/artist/6ghiFYcwn2Vzl6K50U0UPz"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204767,
+      "name": "Walkaway Joe - The Bootlegger Sessions",
+      "url": "https://open.spotify.com/track/4Pg5xIAXIKrNKagZfvCnUV"
+    },
+    {
+      "album": {
         "name": "Simply The Hits",
         "url": "https://open.spotify.com/album/0H2qV2ddu8h8IBnxIUo9Dv"
       },
@@ -4803,7 +4857,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 217253,
       "name": "Wonderful Tonight",
       "url": "https://open.spotify.com/track/21Z3B5PE2ocrIpKMduWPSr"

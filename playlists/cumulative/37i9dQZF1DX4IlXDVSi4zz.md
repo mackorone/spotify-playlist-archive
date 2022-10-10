@@ -4,7 +4,7 @@
 
 > Dance the night away and just blame it on Tulum!
 
-110 songs - 8 hr 1 min - [published](https://open.spotify.com/playlist/6xJvxiorVlvPVNAhaM6Xfd)
+111 songs - 8 hr 5 min - [published](https://open.spotify.com/playlist/6xJvxiorVlvPVNAhaM6Xfd)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,7 +26,7 @@
 | [Camachile](https://open.spotify.com/track/5nHi6OpSFmq2Pp2kTqozaB) | [Omeria](https://open.spotify.com/artist/0Gn7ZHvOfbvZBxPoknZeYl) | [Camachile](https://open.spotify.com/album/6pC5vdTP485vAu5IxOj6WB) | 9:12 | 2022-04-24 | 2022-07-29 |
 | [Clandestina \(feat\. Emma Peters\) \- Cocaina Remix](https://open.spotify.com/track/5x5jtuR4qWJzC6cDTgysez) | [FILV](https://open.spotify.com/artist/438DEJaM9KJdqbBUPnVYB0), [Edmofo](https://open.spotify.com/artist/0YFbuIzBUfAK1FqcEvxnqQ), [Emma Peters](https://open.spotify.com/artist/6lY6kOVMG0mR07JTzU33o5) | [Clandestina \(feat\. Emma Peters\) \[Cocaina Remix\]](https://open.spotify.com/album/06IeiiR0ZXsBmrBxJ35t82) | 2:30 | 2022-04-24 |  |
 | [Closer \- Erick T Remix](https://open.spotify.com/track/3W09dhuCx6kktI7pwo2BZj) | [Broz Rodriguez](https://open.spotify.com/artist/3yfAt1o2PVrVe3jTe8o5Ln), [Dennis Cartier](https://open.spotify.com/artist/0Iyc9gAnfeZEwZntRBD4IS), [Erick T](https://open.spotify.com/artist/0oL2gjYOTpcRB9aFqFMLw0) | [Closer \(Erick T Remix\)](https://open.spotify.com/album/2CsgK10ycscnJNzf9KQs2D) | 3:00 | 2022-03-29 | 2022-07-29 |
-| [Cocaine Model](https://open.spotify.com/track/5Z3trOR982mBrJcPfrLUsq) | [ZHU](https://open.spotify.com/artist/28j8lBWDdDSHSSt5oPlsX2) | [THE NIGHTDAY](https://open.spotify.com/album/59irM3hSsX9Kpj31rJnsHc) | 4:15 | 2022-03-29 |  |
+| [Cocaine Model](https://open.spotify.com/track/5Z3trOR982mBrJcPfrLUsq) | [ZHU](https://open.spotify.com/artist/28j8lBWDdDSHSSt5oPlsX2) | [THE NIGHTDAY](https://open.spotify.com/album/59irM3hSsX9Kpj31rJnsHc) | 4:15 | 2022-03-29 | 2022-10-07 |
 | [Conga Rock](https://open.spotify.com/track/28nynuyo2jMTzMyT146Bvu) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Mat.Joe](https://open.spotify.com/artist/38jpuy3yt3QIxQ8Fn1HTeJ), [Toto Bona Lokua](https://open.spotify.com/artist/5y4XN2SJVH1eWbXhRS7lbK) | [Conga Rock](https://open.spotify.com/album/3rnrgH0bOWn4nQDF8EuKu5) | 4:30 | 2022-03-29 | 2022-07-29 |
 | [Dancin \(feat\. Luvli\) \- Krono Remix](https://open.spotify.com/track/6WkJ2OK163XXS2oARUC9JM) | [Aaron Smith](https://open.spotify.com/artist/77qukKzmdI5BeMBR7WGUrN), [Krono](https://open.spotify.com/artist/17TFSnqADESRM8BPSaM5aB), [Luvli](https://open.spotify.com/artist/6dqohi36avY0M9urnyhITr) | [Dancin \(feat\. Luvli\) \[Krono Remix\]](https://open.spotify.com/album/2J2f6vGACFrRghO1Ki74BE) | 3:18 | 2022-03-29 |  |
 | [Dark Light](https://open.spotify.com/track/3qFs2JFS2fDSfC5SoJFB7p) | [Gustavo Rique](https://open.spotify.com/artist/14liHBrSJCTP8bLnPHUWiE) | [Dark Light](https://open.spotify.com/album/1pnNFqozMUz1faNUGKXn3y) | 5:04 | 2022-03-29 | 2022-07-29 |
@@ -52,6 +52,7 @@
 | [Huwa](https://open.spotify.com/track/3n8f72Abjl4dDzL56JdktV) | [Dzhef](https://open.spotify.com/artist/6ULoCtOuU8QQ2sS6r88Mg9) | [Huwa](https://open.spotify.com/album/4nTvcJCQfzSiZdqrlPdS9P) | 7:03 | 2022-05-06 | 2022-07-29 |
 | [I Got U](https://open.spotify.com/track/69gQgkobVW8bWjoCjBYQUd) | [Duke Dumont](https://open.spotify.com/artist/61lyPtntblHJvA7FMMhi7E), [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr) | [EP1](https://open.spotify.com/album/5ZzT6EX1TinZGrS7CuaTHI) | 4:45 | 2022-07-26 | 2022-09-05 |
 | [I Want You](https://open.spotify.com/track/4s8BpmFtxDgeCoPj2XHtVj) | [La Fuente](https://open.spotify.com/artist/0vhJymgsCubfAfFjEGVsoD) | [I Want You](https://open.spotify.com/album/2e0yXV8bjdl4cqWwp1KG8T) | 3:39 | 2022-07-26 | 2022-08-11 |
+| [I Want You](https://open.spotify.com/track/5ECWJFKkqePRH2SSlv8Ltq) | [La Fuente](https://open.spotify.com/artist/0vhJymgsCubfAfFjEGVsoD) | [I Want You](https://open.spotify.com/album/41pfq7q7EHjKjBIih3d3wn) | 3:39 | 2022-08-20 |  |
 | [I Want You](https://open.spotify.com/track/70hYJ2B7d72XKbXEBiYS5R) | [La Fuente](https://open.spotify.com/artist/0vhJymgsCubfAfFjEGVsoD) | [I Want You](https://open.spotify.com/album/7DuiGBRQXN6grfcmxzZ01L) | 3:39 | 2022-06-27 | 2022-07-29 |
 | [I'll Be There](https://open.spotify.com/track/1pMlrIbhp66MV2TJMz9vm2) | [The Prince Karma](https://open.spotify.com/artist/6ew7qRw24oov125Oly8pFD), [Dawty Music](https://open.spotify.com/artist/0E4HZTP1Z1d4gOJmWrkZpe) | [I'll Be There](https://open.spotify.com/album/5QSSdvdhsIm2nUnISXpNuS) | 3:04 | 2022-03-29 | 2022-07-29 |
 | [In Da Getto](https://open.spotify.com/track/63aj87TQG6F3RVO5nbG2VQ) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX) | [In Da Getto](https://open.spotify.com/album/2M7g0SNXnSq7j5BgYJYJsl) | 2:11 | 2022-03-29 |  |

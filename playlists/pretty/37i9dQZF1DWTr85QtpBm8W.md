@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTr85QtpBm8W.md) - [plain]
 
 > Immerse yourself in Ambient from the first decade of the 21st century.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,763 likes - 103 songs - 8 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,982 likes - 103 songs - 8 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -112,4 +112,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTr85QtpBm8W.md) - [plain]
 | 102 | [Woe Is the Transgression I](https://open.spotify.com/track/2zpTolaAqlsIauPX764rMs) | [Oneohtrix Point Never](https://open.spotify.com/artist/2wPDbhaGXCqROrVmwDdCrK) | [Betrayed in the Octagon](https://open.spotify.com/album/63Gy5cxnjLWYpxbcjEezgj) | 8:44 |
 | 103 | [Don't Bother They're Here](https://open.spotify.com/track/477naywDON3t1iAF4COlOV) | [Stars Of The Lid](https://open.spotify.com/artist/36pCa1JHc6hlGbfEmLzJQc) | [And Their Refinement of the Decline](https://open.spotify.com/album/6cHPEbPryLpH5VX5Eb1Vvo) | 10:10 |
 
-Snapshot ID: `MTY2MjY0MzQ4MywwMDAwMDAwMGUxMjhiMzVjNTcxODQ5MjdhYmVlZWM4NjAzZTBkYWMw`
+Snapshot ID: `MTY2NDg4NzY1MiwwMDAwMDAwMDFmZDU0ZDdiNmRiYzUwNjFmMWMzZTQ3NmYwNTY4YjA1`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/056jpfChuMP5D1NMMaDXRR.md) - [plain]
 
 > Companion playlist for the Metallica documentaries.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,412 likes - 30 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,413 likes - 30 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:3CdsJ9u53uPu3dScKypLVv">Shkoon</a>'s favorite tracks\. Updated regularly\. Curated by Shkoon\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-57 songs - 4 hr 52 min - [published](https://open.spotify.com/playlist/7q42XxhLdyUlgapD7SYD2G)
+62 songs - 5 hr 15 min - [published](https://open.spotify.com/playlist/7q42XxhLdyUlgapD7SYD2G)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [Al Asafir](https://open.spotify.com/track/5OxdRzIs5e2zUeq2xWphCs) | [Kamal Keila](https://open.spotify.com/artist/3hvpB2JNbOGd2NTjdaDMGl) | [Muslims and Christians \(Habibi Funk 008\)](https://open.spotify.com/album/7eECqp8MX57IOvt5Me1eXM) | 5:19 | 2022-05-30 |  |
 | [All Caps](https://open.spotify.com/track/21O0XXPEWPtePt5RMY93Ob) | [Madvillain](https://open.spotify.com/artist/2aoFQUeHD1U7pL098lRsDU), [Madlib](https://open.spotify.com/artist/5LhTec3c7dcqBvpLRWbMcf), [MF DOOM](https://open.spotify.com/artist/2pAWfrd7WFF3XhVt9GooDL) | [Madvillainy](https://open.spotify.com/album/19bQiwEKhXUBJWY6oV3KZk) | 2:10 | 2022-05-30 |  |
 | [Alright](https://open.spotify.com/track/3iVcZ5G6tvkXZkZKlMpIUs) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [To Pimp A Butterfly](https://open.spotify.com/album/7ycBtnsMtyVbbwTfJwRjSP) | 3:39 | 2022-09-26 |  |
+| [Are You OK?](https://open.spotify.com/track/6f0tuDWkjViKrG71yQRBYR) | [Camilla Sparksss](https://open.spotify.com/artist/5RxUFk1D177dFGqFOUh2rg) | [Brutal](https://open.spotify.com/album/4JobCnueEDjlkwvPmRLeJO) | 4:05 | 2022-10-04 |  |
 | [Ayayay](https://open.spotify.com/track/358g67riH0wCKQBK9FvjjQ) | [Bratia Stereo](https://open.spotify.com/artist/5vXULjIsWNuwphRSJMXYrM), [Tony Tonite](https://open.spotify.com/artist/2DPURDst3DmK8b1AU47fFT) | [Газгольдер саундтрек](https://open.spotify.com/album/59Yeoeap2KE19ki78Ni0iE) | 3:02 | 2022-09-26 |  |
 | [Ayonha](https://open.spotify.com/track/4ivH1TtQELnn9KEtszWfYI) | [Hamid Al Shaeri](https://open.spotify.com/artist/7u1V0Ucu5ggW1VaXwh8KeT) | [Habibi Funk: An Eclectic Selection of Music from the Arab World \(Habibi Funk 007\)](https://open.spotify.com/album/1B3W5u06uIB7Elyk70pt9R) | 3:41 | 2022-05-30 |  |
 | [Bias Boys \- Middle Sky Boom Remix](https://open.spotify.com/track/1N2VoNhYLwCJhtAo2kZnzF) | [Middle Sky Boom](https://open.spotify.com/artist/5rgJkAgFMVCsugWd7zM9nY), [Eliezer](https://open.spotify.com/artist/1qPHnrVTO4sakv5IFg6Lml) | [Pozélo Europa](https://open.spotify.com/album/3FbU5q6wbFh5roov4rfNDX) | 5:11 | 2022-05-30 |  |
@@ -46,6 +47,7 @@
 | [Lemon](https://open.spotify.com/track/1PnlvZaeW7B3gWOpIoQDfd) | [Bachar Mar\-Khalifé](https://open.spotify.com/artist/76ses8Vy3hRpmyHgWl8lQm) | [Ya Balad](https://open.spotify.com/album/7e1nm4faKBUWnf7aeOwWnB) | 4:07 | 2022-05-30 |  |
 | [Let The Sunshine In](https://open.spotify.com/track/2QK3MvIBtg6ofQXzx71soX) | [Galt MacDermot](https://open.spotify.com/artist/3b6TinIPahsS8iSCYAeinr) | [Up From The Basement \- Unreleased Tracks \- Volumes 1 & 2](https://open.spotify.com/album/2l6jlkSuortxDkuCnEay4s) | 2:39 | 2022-09-26 |  |
 | [Letters \- Live Album](https://open.spotify.com/track/4BaVbqCcgeFhjdRLaSatHr) | [Shkoon](https://open.spotify.com/artist/3CdsJ9u53uPu3dScKypLVv) | [FIRAQ](https://open.spotify.com/album/0P0KdpLLjNuUNcHKy1aWfV) | 7:23 | 2022-05-30 |  |
+| [Leyla](https://open.spotify.com/track/4eFpbqTU7dxZbgoPM0IK2u) | [TAXI KEBAB](https://open.spotify.com/artist/47sKkybVg9NVz7IWvTezzy) | [Visions al 2ard](https://open.spotify.com/album/4BPq6ZWRjjISqrotjbQ3ZN) | 5:50 | 2022-10-04 |  |
 | [Lmchi w Rjou3](https://open.spotify.com/track/25NuCWQ4cIxmwxRHMZ0C4L) | [TAXI KEBAB](https://open.spotify.com/artist/47sKkybVg9NVz7IWvTezzy) | [Lmchi w Rjou3](https://open.spotify.com/album/6T5BcuQisJcN2E4O6BmRDk) | 6:25 | 2022-05-30 |  |
 | [Lungern](https://open.spotify.com/track/1YcVNVNfVhLM9hUVlQegcq) | [Metatext](https://open.spotify.com/artist/5GAi17x2CbRYk9666aI8AE), [Karhua](https://open.spotify.com/artist/4WpXpjCzWK85EDjlB06Qq2) | [Lungern](https://open.spotify.com/album/2UiXPLfMYMEBAVlct1ao5y) | 8:42 | 2022-05-30 |  |
 | [Madlen \- Shkoon Live Album Remix](https://open.spotify.com/track/0s0MWdn38b6KNkRd28PSQE) | [Shkoon](https://open.spotify.com/artist/3CdsJ9u53uPu3dScKypLVv), [Detmolt](https://open.spotify.com/artist/1pvZ8oYPlgarVqgt3YT04D) | [FIRAQ](https://open.spotify.com/album/0P0KdpLLjNuUNcHKy1aWfV) | 6:35 | 2022-05-30 |  |
@@ -54,8 +56,11 @@
 | [Merlins Head](https://open.spotify.com/track/1xTZwX3XDsvnwk5jdDxTRB) | [Parra for Cuva](https://open.spotify.com/artist/238y1dKPtMeFEpX3Y6H1Vr) | [Juno](https://open.spotify.com/album/1eQxkBCBAwikauTxmYDjB9) | 4:47 | 2022-05-30 |  |
 | [Metis](https://open.spotify.com/track/4ZYEPOYlXzbc5eLf4nE3AJ) | [Guts](https://open.spotify.com/artist/5mMkUZv8uUrlH0SHX89BeS) | [Guts \(Le Bienheureux\)](https://open.spotify.com/album/2H1GWJqfUgVKZkzFyK8dSO) | 2:55 | 2022-09-26 |  |
 | [Mulajia \- Live Album](https://open.spotify.com/track/7pFNRS6v5DFPSgeVnkiVEu) | [Shkoon](https://open.spotify.com/artist/3CdsJ9u53uPu3dScKypLVv) | [FIRAQ](https://open.spotify.com/album/0P0KdpLLjNuUNcHKy1aWfV) | 6:23 | 2022-05-30 |  |
+| [Necessary Death](https://open.spotify.com/track/1w3RWywrjjFWBzbTeEyQMH) | [Rotana](https://open.spotify.com/artist/71GNEpAyOatoAy5oo9Av1q) | [Necessary Death](https://open.spotify.com/album/5tRzJFrXE1KIIL8QUptdOd) | 2:44 | 2022-10-04 |  |
 | [Noah](https://open.spotify.com/track/5vBSeDZlOUxKpoAbaAIpVB) | [Christian Löffler](https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO) | [Lys](https://open.spotify.com/album/5yssg2eFopmzstxvyFbrBT) | 3:46 | 2022-05-30 |  |
+| [Our Time](https://open.spotify.com/track/66Bkuqk6ILLs7fAxykYoce) | [Pender Street Steppers](https://open.spotify.com/artist/02V0FAoWiTFWMT36s1Yt1a) | [Our Time](https://open.spotify.com/album/0Jge7w86SFk9oadmO4zyrR) | 6:23 | 2022-10-04 |  |
 | [Prelúdio](https://open.spotify.com/track/6CLa45W7UeKOm6lkrL5Uqg) | [Xique\-Xique](https://open.spotify.com/artist/5LuhrBhGclMzHlYK4mDLLp) | [Na Lagoa](https://open.spotify.com/album/0acKE1PTMxBOEhijXOyOHM) | 3:38 | 2022-05-30 |  |
+| [Remotely Close: Silkyway](https://open.spotify.com/track/0BXH0C0UGvO1n9mY05inan) | [Kutiman](https://open.spotify.com/artist/0sDJfnuudhMaEmFPvALK2e), [Elif Çağlar](https://open.spotify.com/artist/4329Rqrv9R9wc832cqQCVv) | [Remotely Close: Silkyway](https://open.spotify.com/album/5nL5SYYGIFR9biH2Qb57Yw) | 3:50 | 2022-10-04 |  |
 | [Si Mami](https://open.spotify.com/track/3iG93FbuY3fqgfedMCC6A7) | [Michael Fortvne](https://open.spotify.com/artist/6BIKs7su9UYmtKs5nj3Jpz), [Dan Solo](https://open.spotify.com/artist/7E1ZwNnXreZgJpmTNUJva7) | [Si Mami](https://open.spotify.com/album/6RMpW1nConyzYdawMen6ps) | 5:08 | 2022-05-30 |  |
 | [Stil](https://open.spotify.com/track/4SYMyyF73B31qz5RIF1vKl) | [Acid Arab](https://open.spotify.com/artist/3ShO8tPKqXUUpOA0urOWW7), [Cem Yıldız](https://open.spotify.com/artist/3SASCp3Mzy7lT50cZn11yr) | [Musique de France](https://open.spotify.com/album/5S8tasJIlOho5JaGMiJsHJ) | 7:05 | 2022-05-30 |  |
 | [Teal](https://open.spotify.com/track/1uEPpZUFt02cmserTLrQaS) | [Arutani](https://open.spotify.com/artist/7g48EWSZL2Zb40hnBcFd1K) | [I Am Still Here](https://open.spotify.com/album/587BdfJd7CAjF1jgxVv1vi) | 6:51 | 2022-05-30 |  |

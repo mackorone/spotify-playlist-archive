@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/archdvs/\">Archie Davis</a>",
-  "num_followers": 1,
+  "num_followers": 265,
   "original_name": "Archie Davis' Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDY0MDAwMCwwMDAwMDAwMGI2OWQ3NDZlOTc0OWMyMmM2OGU0NmJiOWQ2OTllMzdh",
+  "snapshot_id": "MTY2NDY0MDAwMCwwMDAwMDAwMDIxZjg5ZTFkZGIzNTQ1MDc2MjZkZTcyMWQ3NzcwZWIy",
   "tracks": [
     {
       "added_at": "2022-10-01 16:00:00",
@@ -123,6 +123,22 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
+        "name": "A Gangsta\u2019s Pain",
+        "url": "https://open.spotify.com/album/5ffogo3K3fYibGWa93IzUe"
+      },
+      "artists": [
+        {
+          "name": "Moneybagg Yo",
+          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
+        }
+      ],
+      "duration_ms": 180930,
+      "name": "Wockesha",
+      "url": "https://open.spotify.com/track/0nqhKXDjsyBMvbeWmgijD0"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
         "name": "Free Nationals",
         "url": "https://open.spotify.com/album/53oqFs4q8sfqH6IPiyleEN"
       },
@@ -143,22 +159,6 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "A Gangsta\u2019s Pain",
-        "url": "https://open.spotify.com/album/5ffogo3K3fYibGWa93IzUe"
-      },
-      "artists": [
-        {
-          "name": "Moneybagg Yo",
-          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
-        }
-      ],
-      "duration_ms": 180930,
-      "name": "Wockesha",
-      "url": "https://open.spotify.com/track/0nqhKXDjsyBMvbeWmgijD0"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
         "name": "CALL ME IF YOU GET LOST",
         "url": "https://open.spotify.com/album/45ba6QAtNrdv6Ke4MFOKk9"
       },
@@ -175,22 +175,6 @@
       "duration_ms": 130979,
       "name": "LEMONHEAD (feat. 42 Dugg)",
       "url": "https://open.spotify.com/track/5fbHRCsGpFIOLRtlhCRFDR"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
-        "name": "Soundgasm",
-        "url": "https://open.spotify.com/album/5dfgyak8CbmvnfGHUlBq1n"
-      },
-      "artists": [
-        {
-          "name": "Rema",
-          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
-        }
-      ],
-      "duration_ms": 204755,
-      "name": "Soundgasm",
-      "url": "https://open.spotify.com/track/5c549LWiKCWGvcDsZwMN6v"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -247,6 +231,22 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
+        "name": "It Is What It Is",
+        "url": "https://open.spotify.com/album/59GRmAvlGs7KjLizFnV7Y9"
+      },
+      "artists": [
+        {
+          "name": "Thundercat",
+          "url": "https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw"
+        }
+      ],
+      "duration_ms": 181922,
+      "name": "Dragonball Durag",
+      "url": "https://open.spotify.com/track/7eWGnKg4B44sbBPpQp4y2c"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
         "name": "Victory Lap",
         "url": "https://open.spotify.com/album/6rcbbhcm8Os7EiVRHP9Aef"
       },
@@ -271,18 +271,18 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "It Is What It Is",
-        "url": "https://open.spotify.com/album/59GRmAvlGs7KjLizFnV7Y9"
+        "name": "Soundgasm",
+        "url": "https://open.spotify.com/album/5dfgyak8CbmvnfGHUlBq1n"
       },
       "artists": [
         {
-          "name": "Thundercat",
-          "url": "https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw"
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
         }
       ],
-      "duration_ms": 181922,
-      "name": "Dragonball Durag",
-      "url": "https://open.spotify.com/track/7eWGnKg4B44sbBPpQp4y2c"
+      "duration_ms": 204755,
+      "name": "Soundgasm",
+      "url": "https://open.spotify.com/track/5c549LWiKCWGvcDsZwMN6v"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -639,22 +639,6 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "Shhh",
-        "url": "https://open.spotify.com/album/74kNuwmmF4oX5K45mK21IQ"
-      },
-      "artists": [
-        {
-          "name": "Nardo Wick",
-          "url": "https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN"
-        }
-      ],
-      "duration_ms": 139029,
-      "name": "Shhh",
-      "url": "https://open.spotify.com/track/6jaLhbtCCj0FyIf8ddYSKw"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
         "name": "Evolution Of Gospel",
         "url": "https://open.spotify.com/album/3Nadyd2d91SwdnSNPEWLTp"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 318533,
       "name": "Optimistic",
       "url": "https://open.spotify.com/track/7Mb7jOst43wPQELas93ARE"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
+        "name": "Shhh",
+        "url": "https://open.spotify.com/album/74kNuwmmF4oX5K45mK21IQ"
+      },
+      "artists": [
+        {
+          "name": "Nardo Wick",
+          "url": "https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN"
+        }
+      ],
+      "duration_ms": 139029,
+      "name": "Shhh",
+      "url": "https://open.spotify.com/track/6jaLhbtCCj0FyIf8ddYSKw"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -707,26 +707,6 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "Greatest Slow Jams",
-        "url": "https://open.spotify.com/album/5bnLsmE5xb2EzTbq7JMoeG"
-      },
-      "artists": [
-        {
-          "name": "Maze",
-          "url": "https://open.spotify.com/artist/3DvdryKH4O95ZnsUZJKXpt"
-        },
-        {
-          "name": "Frankie Beverly",
-          "url": "https://open.spotify.com/artist/6rXycobs8wkWicUGLtmB0n"
-        }
-      ],
-      "duration_ms": 431133,
-      "name": "Happy Feelin's",
-      "url": "https://open.spotify.com/track/6OxTGWA4bxZ1u1auaeTDNv"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
         "name": "We Win (Space Jam: A New Legacy)",
         "url": "https://open.spotify.com/album/5w1tIaJtvgPEn2mHxiJoVo"
       },
@@ -743,6 +723,26 @@
       "duration_ms": 194999,
       "name": "We Win (Space Jam: A New Legacy) (and Kirk Franklin)",
       "url": "https://open.spotify.com/track/4Y9BJZccHjVdHUkee0pBRa"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
+        "name": "Greatest Slow Jams",
+        "url": "https://open.spotify.com/album/5bnLsmE5xb2EzTbq7JMoeG"
+      },
+      "artists": [
+        {
+          "name": "Maze",
+          "url": "https://open.spotify.com/artist/3DvdryKH4O95ZnsUZJKXpt"
+        },
+        {
+          "name": "Frankie Beverly",
+          "url": "https://open.spotify.com/artist/6rXycobs8wkWicUGLtmB0n"
+        }
+      ],
+      "duration_ms": 431133,
+      "name": "Happy Feelin's",
+      "url": "https://open.spotify.com/track/6OxTGWA4bxZ1u1auaeTDNv"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -851,6 +851,22 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
+        "name": "Fan-Tas-Tic, Vol. 2",
+        "url": "https://open.spotify.com/album/22IhsI5JpldSrE7vhidAja"
+      },
+      "artists": [
+        {
+          "name": "Slum Village",
+          "url": "https://open.spotify.com/artist/1020a42xVklY6c56imNcaa"
+        }
+      ],
+      "duration_ms": 146279,
+      "name": "Players",
+      "url": "https://open.spotify.com/track/42il7TuY2vBP0QnWnjpxnI"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
         "name": "Space Jam: A New Legacy (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/6OzNQxGDo0AGzQqumG1QXP"
       },
@@ -879,22 +895,6 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "Fan-Tas-Tic, Vol. 2",
-        "url": "https://open.spotify.com/album/22IhsI5JpldSrE7vhidAja"
-      },
-      "artists": [
-        {
-          "name": "Slum Village",
-          "url": "https://open.spotify.com/artist/1020a42xVklY6c56imNcaa"
-        }
-      ],
-      "duration_ms": 146279,
-      "name": "Players",
-      "url": "https://open.spotify.com/track/42il7TuY2vBP0QnWnjpxnI"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
         "name": "Angelic Hoodrat",
         "url": "https://open.spotify.com/album/48xxKST8oEwMRSVjF93gB3"
       },
@@ -911,6 +911,26 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
+        "name": "gold fronts (feat. Lil Wayne)",
+        "url": "https://open.spotify.com/album/6zrhRSr8mkBjiklBDFtMub"
+      },
+      "artists": [
+        {
+          "name": "Foushe\u00e9",
+          "url": "https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH"
+        },
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        }
+      ],
+      "duration_ms": 235978,
+      "name": "gold fronts (feat. Lil Wayne)",
+      "url": "https://open.spotify.com/track/7yOEBtOgzkgN52pfM7SOnm"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
         "name": "Slauson Boy 2",
         "url": "https://open.spotify.com/album/6pAP6aJ2SUmhE9VXB8bm02"
       },
@@ -923,22 +943,6 @@
       "duration_ms": 261373,
       "name": "I Don't Stress",
       "url": "https://open.spotify.com/track/2FJnGx6mOQh7bB1dKj4IpI"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
-        "name": "Little Ghost",
-        "url": "https://open.spotify.com/album/1X9OLhwnm7q3WK7DTL32hz"
-      },
-      "artists": [
-        {
-          "name": "Moonchild",
-          "url": "https://open.spotify.com/artist/1VgjAK52kjkQJQQRhTn02t"
-        }
-      ],
-      "duration_ms": 227253,
-      "name": "Too Much to Ask",
-      "url": "https://open.spotify.com/track/4tJX7rDpl2L6BoBtYX8raK"
     }
   ],
   "unique_name": "Archie Davis' Taste",

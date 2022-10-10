@@ -44,6 +44,24 @@
     },
     {
       "album": {
+        "name": "Agatha",
+        "url": "https://open.spotify.com/album/3kMNB7lYJBwgpIckW4G9uR"
+      },
+      "artists": [
+        {
+          "name": "Luke Howard",
+          "url": "https://open.spotify.com/artist/3duTXsC49HoPt4f4EySDKf"
+        }
+      ],
+      "date_added": "2022-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 367238,
+      "name": "Agatha",
+      "url": "https://open.spotify.com/track/2UGq5Ba3yJntTi8AkrAp9t"
+    },
+    {
+      "album": {
         "name": "Game Trails",
         "url": "https://open.spotify.com/album/798KRYmtl0LzkgKidRwPhA"
       },
@@ -434,6 +452,24 @@
     },
     {
       "album": {
+        "name": "Change",
+        "url": "https://open.spotify.com/album/0Y1JlLPyUEvslc0SaI5cXL"
+      },
+      "artists": [
+        {
+          "name": "Jordane Tumarinson",
+          "url": "https://open.spotify.com/artist/3MmklYESte8IJHUjXEqypw"
+        }
+      ],
+      "date_added": "2022-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 319396,
+      "name": "Change",
+      "url": "https://open.spotify.com/track/3QPEngaGqubH9qeo3MrPv2"
+    },
+    {
+      "album": {
         "name": "Chasing the Present (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/0Kkb01CLTX3mZEO6Jpbrdd"
       },
@@ -559,6 +595,28 @@
       "duration_ms": 220720,
       "name": "Cloudburst",
       "url": "https://open.spotify.com/track/5vjyXJbvuXnJ9L22v5jBBs"
+    },
+    {
+      "album": {
+        "name": "cosmos",
+        "url": "https://open.spotify.com/album/0LFG0ucczGrviJM3ru6X80"
+      },
+      "artists": [
+        {
+          "name": "praam",
+          "url": "https://open.spotify.com/artist/6cumWjeQABBu9dCqRV4wOP"
+        },
+        {
+          "name": "Yoed Nir",
+          "url": "https://open.spotify.com/artist/3MnWOaVKXb09BOjjcBpvhk"
+        }
+      ],
+      "date_added": "2022-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128044,
+      "name": "cosmos",
+      "url": "https://open.spotify.com/track/6Ywl2abirTTWXkrlUESYqj"
     },
     {
       "album": {
@@ -756,6 +814,24 @@
     },
     {
       "album": {
+        "name": "Vivarium",
+        "url": "https://open.spotify.com/album/0GfJmiUAaIQCBtJ25zpcwz"
+      },
+      "artists": [
+        {
+          "name": "Angus MacRae",
+          "url": "https://open.spotify.com/artist/461sVAxk7a1yog2yExyBRX"
+        }
+      ],
+      "date_added": "2022-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139808,
+      "name": "Fair Passage",
+      "url": "https://open.spotify.com/track/4c9HQKG5IyaNByZGysAeqG"
+    },
+    {
+      "album": {
         "name": "Coda",
         "url": "https://open.spotify.com/album/6YpaVBRoS1GpuD5YcxAgRA"
       },
@@ -922,6 +998,100 @@
     },
     {
       "album": {
+        "name": "Healing as a Family",
+        "url": "https://open.spotify.com/album/4LUUHOC65IkEQBNbdC39om"
+      },
+      "artists": [
+        {
+          "name": "AVAWAVES",
+          "url": "https://open.spotify.com/artist/0n6xMAwakXiGBh8glsuYG1"
+        }
+      ],
+      "date_added": "2022-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 82190,
+      "name": "Healing as a Family",
+      "url": "https://open.spotify.com/track/5I2JZN9KZ4lr5kbBdo9uBF"
+    },
+    {
+      "album": {
+        "name": "Heaven's Light",
+        "url": "https://open.spotify.com/album/6q0H6CzNOXniZmfhBjInmI"
+      },
+      "artists": [
+        {
+          "name": "David Tolk",
+          "url": "https://open.spotify.com/artist/3OvrUspbOHgGI6T7D5Fb6P"
+        }
+      ],
+      "date_added": "2022-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199079,
+      "name": "Heaven's Light",
+      "url": "https://open.spotify.com/track/4JZ0hrOLxQbFJe1F3l80rY"
+    },
+    {
+      "album": {
+        "name": "Hind / Aska (Harpa Sessions)",
+        "url": "https://open.spotify.com/album/4wMVESeu9wtxdBBUteIKV2"
+      },
+      "artists": [
+        {
+          "name": "Gabr\u00edel \u00d3lafs",
+          "url": "https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB"
+        }
+      ],
+      "date_added": "2022-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179500,
+      "name": "Hind / Aska - Harpa Sessions",
+      "url": "https://open.spotify.com/track/3xAXkaB8vlhYa41vuM5RNM"
+    },
+    {
+      "album": {
+        "name": "Hind / Aska (Harpa Sessions)",
+        "url": "https://open.spotify.com/album/42bHJ4yCifsYfAc2FyUREf"
+      },
+      "artists": [
+        {
+          "name": "Gabr\u00edel \u00d3lafs",
+          "url": "https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB"
+        }
+      ],
+      "date_added": "2022-10-04",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-09",
+      "duration_ms": 179500,
+      "name": "Hind / Aska - Harpa Sessions",
+      "url": "https://open.spotify.com/track/5SvXKhkzEg3it60Ca1bMY1"
+    },
+    {
+      "album": {
+        "name": "In All This Heavy Blue",
+        "url": "https://open.spotify.com/album/5Gs15uO4czslWbMG08vchM"
+      },
+      "artists": [
+        {
+          "name": "Hania Rani",
+          "url": "https://open.spotify.com/artist/14YzutUdMwS9yTnI0IFBaD"
+        },
+        {
+          "name": "Colin Stetson",
+          "url": "https://open.spotify.com/artist/4G6HhUUQ1LgyYnA2WJppf8"
+        }
+      ],
+      "date_added": "2022-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276610,
+      "name": "In All This Heavy Blue",
+      "url": "https://open.spotify.com/track/29wVDybi61uHac7gi0aZFB"
+    },
+    {
+      "album": {
         "name": "Human Reworked",
         "url": "https://open.spotify.com/album/5teIPUqUyhOYb3Nlu64YYu"
       },
@@ -941,6 +1111,24 @@
       "duration_ms": 277653,
       "name": "In Cold Light (Alexandra Hamilton-Ayres Rework)",
       "url": "https://open.spotify.com/track/2ehINrB8wyWA58H8L8S6y4"
+    },
+    {
+      "album": {
+        "name": "Love",
+        "url": "https://open.spotify.com/album/4NqSB7ip9Wbaj3N4r8xRMv"
+      },
+      "artists": [
+        {
+          "name": "Moments",
+          "url": "https://open.spotify.com/artist/4QPfkcbTCSAMUOdVCHyPCS"
+        }
+      ],
+      "date_added": "2022-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204671,
+      "name": "In Love",
+      "url": "https://open.spotify.com/track/0ySS0g7IJLwijoCQHWdOOO"
     },
     {
       "album": {
@@ -977,6 +1165,28 @@
       "duration_ms": 170000,
       "name": "Into Silence",
       "url": "https://open.spotify.com/track/5QamKyoRegEp9evieBxBCm"
+    },
+    {
+      "album": {
+        "name": "Inward Road",
+        "url": "https://open.spotify.com/album/4Xgv38GT7QTtlCfaOKM8B1"
+      },
+      "artists": [
+        {
+          "name": "Aukai",
+          "url": "https://open.spotify.com/artist/2AyLrA3GFbgbrjOjVnGcny"
+        },
+        {
+          "name": "Anne M\u00fcller",
+          "url": "https://open.spotify.com/artist/5sn5Gi5tH5ozpL8C3Y1uWl"
+        }
+      ],
+      "date_added": "2022-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114000,
+      "name": "Inward Road",
+      "url": "https://open.spotify.com/track/0sdEQCDp5yo0qoqE0oVMRS"
     },
     {
       "album": {
@@ -1126,6 +1336,24 @@
     },
     {
       "album": {
+        "name": "Music for Animals",
+        "url": "https://open.spotify.com/album/17zWrjCtsUXh113n1V7T72"
+      },
+      "artists": [
+        {
+          "name": "Nils Frahm",
+          "url": "https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp"
+        }
+      ],
+      "date_added": "2022-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1111999,
+      "name": "Lemon Day",
+      "url": "https://open.spotify.com/track/3SjjIOSfRYw5Z45HWMoRMo"
+    },
+    {
+      "album": {
         "name": "Lilac",
         "url": "https://open.spotify.com/album/0yEDrVPu9cPGu23o1ulSbC"
       },
@@ -1203,10 +1431,28 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-07",
       "duration_ms": 269352,
       "name": "Matterhorn",
       "url": "https://open.spotify.com/track/0aQvN8BkxMBGDhnT9uW6hj"
+    },
+    {
+      "album": {
+        "name": "IN",
+        "url": "https://open.spotify.com/album/2KLKKcjWol1RS9z52ccX7S"
+      },
+      "artists": [
+        {
+          "name": "Pawbeats",
+          "url": "https://open.spotify.com/artist/4WrzIcfTrK5U6UcDp4cX6L"
+        }
+      ],
+      "date_added": "2022-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269352,
+      "name": "Matterhorn",
+      "url": "https://open.spotify.com/track/5pApJt0mR9qKKTizzsMc4D"
     },
     {
       "album": {
@@ -1225,6 +1471,28 @@
       "duration_ms": 191120,
       "name": "Motion",
       "url": "https://open.spotify.com/track/25kGCuGWAYfyoz7RozlTpO"
+    },
+    {
+      "album": {
+        "name": "motives",
+        "url": "https://open.spotify.com/album/09YRRKJN5WAhr3KgivvcdW"
+      },
+      "artists": [
+        {
+          "name": "praam",
+          "url": "https://open.spotify.com/artist/6cumWjeQABBu9dCqRV4wOP"
+        },
+        {
+          "name": "Eric Vloeimans",
+          "url": "https://open.spotify.com/artist/0GJnVOotvnAmZvUYL8Kpmx"
+        }
+      ],
+      "date_added": "2022-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142066,
+      "name": "motives",
+      "url": "https://open.spotify.com/track/5Uexo5FnxDGXPV9v92y00W"
     },
     {
       "album": {
@@ -1497,6 +1765,28 @@
       "duration_ms": 367666,
       "name": "Portrait Gallery",
       "url": "https://open.spotify.com/track/3oRuCzqdduzZ2CBhAtv8zO"
+    },
+    {
+      "album": {
+        "name": "Garden Heart: Reworks",
+        "url": "https://open.spotify.com/album/1TbsrNNEfLDRW6bc2gSsLx"
+      },
+      "artists": [
+        {
+          "name": "We Dream of Eden",
+          "url": "https://open.spotify.com/artist/55dhSq6LQ1N5JlHF5DlbFf"
+        },
+        {
+          "name": "Christopher Galovan",
+          "url": "https://open.spotify.com/artist/5LUMGK9eTmZdJJwmDph01c"
+        }
+      ],
+      "date_added": "2022-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217324,
+      "name": "Reaping in Joy",
+      "url": "https://open.spotify.com/track/5GS1nPJBMHLmVlkpG8v5Zw"
     },
     {
       "album": {
@@ -1804,6 +2094,32 @@
     },
     {
       "album": {
+        "name": "Rarities - Piano",
+        "url": "https://open.spotify.com/album/4uSxyDvTRZUvSElk9Rasza"
+      },
+      "artists": [
+        {
+          "name": "Roger Eno",
+          "url": "https://open.spotify.com/artist/7JCthCuu5Wmxv2avqVFolo"
+        },
+        {
+          "name": "Scoring Berlin",
+          "url": "https://open.spotify.com/artist/5aVO01MTGf8SFlZvNm98ke"
+        },
+        {
+          "name": "Christian Badzura",
+          "url": "https://open.spotify.com/artist/4o4c7wie7O9R8ju7JWtHsQ"
+        }
+      ],
+      "date_added": "2022-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143186,
+      "name": "Still Day",
+      "url": "https://open.spotify.com/track/1505n8rEQ4XBoiEXDoSbLc"
+    },
+    {
+      "album": {
         "name": "Still Here (Alexandra Hamilton-Ayres Rework)",
         "url": "https://open.spotify.com/album/33GZsV7fErOWJMQBa9Qs9M"
       },
@@ -1895,6 +2211,28 @@
       "duration_ms": 176062,
       "name": "The Garden",
       "url": "https://open.spotify.com/track/1QwnjxsFzruTTCbuuKQdnH"
+    },
+    {
+      "album": {
+        "name": "The Kingdom",
+        "url": "https://open.spotify.com/album/78MZv7N1OSPNXk431T19sI"
+      },
+      "artists": [
+        {
+          "name": "Dear Gravity",
+          "url": "https://open.spotify.com/artist/28MEj0HGdwvJYdbMAVpXU6"
+        },
+        {
+          "name": "Simon Wester",
+          "url": "https://open.spotify.com/artist/2qUycRIHExBVUPIoq6RUkO"
+        }
+      ],
+      "date_added": "2022-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175462,
+      "name": "The Kingdom",
+      "url": "https://open.spotify.com/track/714swlrTc262NA0j13C7gY"
     },
     {
       "album": {
@@ -2101,6 +2439,28 @@
       "duration_ms": 341245,
       "name": "We Came And Left",
       "url": "https://open.spotify.com/track/2bKVbvI4F0FktcUXrQ9vIe"
+    },
+    {
+      "album": {
+        "name": "We Contain Multitudes \u2014 piano reworks",
+        "url": "https://open.spotify.com/album/4vtunVFmIlrxIrkOobdfDH"
+      },
+      "artists": [
+        {
+          "name": "Yiruma",
+          "url": "https://open.spotify.com/artist/0fauHpmSHwodVYIjTqOGHz"
+        },
+        {
+          "name": "\u00d3lafur Arnalds",
+          "url": "https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia"
+        }
+      ],
+      "date_added": "2022-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264052,
+      "name": "We Contain Multitudes \u2014 piano reworks",
+      "url": "https://open.spotify.com/track/1rpF77jsLBMG2QjCuhe0Sr"
     },
     {
       "album": {

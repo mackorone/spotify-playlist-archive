@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Les hits dancehall du moment. Photo : Jahyanai",
+  "description": "Les hits dancehall du moment. Photo : AMARIA BB",
   "name": "Dancehall Station",
   "published_playlist_ids": [
     "5EUHHXJOLrkgmRGE7o9Fvs"
@@ -475,7 +475,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-07",
       "duration_ms": 164787,
       "name": "Buss Out",
       "url": "https://open.spotify.com/track/2zr3g8dwrsRc30SXAYJjnv"
@@ -1029,7 +1029,7 @@
       ],
       "date_added": "2022-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-07",
       "duration_ms": 237647,
       "name": "Gou (feat. Maurane Voyer)",
       "url": "https://open.spotify.com/track/3NLhKzG3abdgcYYkcI3eK6"
@@ -1385,7 +1385,7 @@
       ],
       "date_added": "2022-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-07",
       "duration_ms": 166120,
       "name": "Ina Dancehall",
       "url": "https://open.spotify.com/track/6pihx7G891zvqQ3tUQ1tcP"
@@ -1674,6 +1674,28 @@
     },
     {
       "album": {
+        "name": "Live Some Life (feat. DING DONG)",
+        "url": "https://open.spotify.com/album/3SwPKWhYOkIGL3AF0CC6sY"
+      },
+      "artists": [
+        {
+          "name": "AMARIA BB",
+          "url": "https://open.spotify.com/artist/1AC6rw8sH8VGrzMzgFUDG5"
+        },
+        {
+          "name": "DING DONG",
+          "url": "https://open.spotify.com/artist/351x2S7CduShTNvtzgkMl7"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185191,
+      "name": "Live Some Life (feat. DING DONG)",
+      "url": "https://open.spotify.com/track/35MNHqBGewFxlJZtjHOxvj"
+    },
+    {
+      "album": {
         "name": "Location",
         "url": "https://open.spotify.com/album/3uQcLuTdxCOxt4dAUj1yqM"
       },
@@ -1737,6 +1759,28 @@
       "duration_ms": 186533,
       "name": "Lov'la",
       "url": "https://open.spotify.com/track/0u77jPc44fS40vJPM9eCCZ"
+    },
+    {
+      "album": {
+        "name": "To be continued",
+        "url": "https://open.spotify.com/album/0n6uzzVODatFJWYUP0Sc6i"
+      },
+      "artists": [
+        {
+          "name": "Naamix",
+          "url": "https://open.spotify.com/artist/0mpw52i7RGRiSk9Ubh7oeG"
+        },
+        {
+          "name": "Marginal",
+          "url": "https://open.spotify.com/artist/3WbS1ppPV9QmsO29NG28fG"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168303,
+      "name": "MA JOLIE",
+      "url": "https://open.spotify.com/track/44poH5uwgwcfhprLBBt9a6"
     },
     {
       "album": {
@@ -2611,6 +2655,32 @@
       "duration_ms": 146303,
       "name": "Slap",
       "url": "https://open.spotify.com/track/5CwSPRRv1pgwekI2OjT8D7"
+    },
+    {
+      "album": {
+        "name": "Soprano",
+        "url": "https://open.spotify.com/album/6cyO3vj8ClOhqaOEFJf0C6"
+      },
+      "artists": [
+        {
+          "name": "Kalibwoy",
+          "url": "https://open.spotify.com/artist/3xhksfxjNLUAyxUdijvk4x"
+        },
+        {
+          "name": "Rockywhereyoubeen",
+          "url": "https://open.spotify.com/artist/5pieMKHiTXhVZEmlMT0ij7"
+        },
+        {
+          "name": "Vlado",
+          "url": "https://open.spotify.com/artist/3OcPdn7YP6TgPT4wqoDOfi"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141477,
+      "name": "Soprano",
+      "url": "https://open.spotify.com/track/0yZ9o2jehzsFsxOOMVcwqD"
     },
     {
       "album": {

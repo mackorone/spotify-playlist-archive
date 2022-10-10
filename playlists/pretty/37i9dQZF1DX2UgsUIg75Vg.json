@@ -1,13 +1,33 @@
 {
-  "description": "Chilled R&B jams for your most relaxed moods. Cover: Kenyon Dixon",
-  "num_followers": 2266976,
+  "description": "Chilled R&B jams for your most relaxed moods. Cover: Amaria",
+  "num_followers": 2270012,
   "original_name": "Chilled R&B",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDU1NzIxNywwMDAwMDAwMGVkOTU4MTdlZTk3NjdhMWNhNjUwZDJhZDI5YmMyNjJi",
+  "snapshot_id": "MTY2NTIzOTQ0OSwwMDAwMDAwMDc2ZWNmMDg1NzZhYmUyMzk3YmZmNDM2Y2EzMDUxYjFj",
   "tracks": [
+    {
+      "added_at": "2022-10-07 04:00:00",
+      "album": {
+        "name": "All For You",
+        "url": "https://open.spotify.com/album/37dpSVOfI1x0CIiDzlIc6i"
+      },
+      "artists": [
+        {
+          "name": "Amaria",
+          "url": "https://open.spotify.com/artist/2clS9uX2uOrHHqkyDMkzA1"
+        },
+        {
+          "name": "DESTIN CONRAD",
+          "url": "https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ"
+        }
+      ],
+      "duration_ms": 183354,
+      "name": "All For You",
+      "url": "https://open.spotify.com/track/7rPWZTM7nnaySX8a6Pmeg7"
+    },
     {
       "added_at": "2022-09-30 17:00:17",
       "album": {
@@ -149,6 +169,22 @@
       "url": "https://open.spotify.com/track/0mGuqhdpKtKv6KajTmCLFI"
     },
     {
+      "added_at": "2022-10-07 04:00:00",
+      "album": {
+        "name": "The Hurtbook",
+        "url": "https://open.spotify.com/album/3DgrGbWzykeORAYXR0SnUb"
+      },
+      "artists": [
+        {
+          "name": "Alex Vaughn",
+          "url": "https://open.spotify.com/artist/24S5IyzXICyGscL4vYshdq"
+        }
+      ],
+      "duration_ms": 241690,
+      "name": "Demon Time",
+      "url": "https://open.spotify.com/track/0BC0b1t148YdN82r0baRvi"
+    },
+    {
       "added_at": "2022-07-22 04:02:14",
       "album": {
         "name": "b l u r r",
@@ -167,6 +203,22 @@
       "duration_ms": 161274,
       "name": "A Dream",
       "url": "https://open.spotify.com/track/0Ntl87gyxtztbpfK8hfqQr"
+    },
+    {
+      "added_at": "2022-10-07 04:00:00",
+      "album": {
+        "name": "SCORPIO MOON - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/1rqrKsQxo2QEjN4IwW0bbc"
+      },
+      "artists": [
+        {
+          "name": "Phabo",
+          "url": "https://open.spotify.com/artist/5FdZDr2bMbEcnsEKRgO3rn"
+        }
+      ],
+      "duration_ms": 175522,
+      "name": "SCORPIO MOON - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/6D1FytV3a4tYR6O8Q2w83z"
     },
     {
       "added_at": "2022-09-30 17:00:17",
@@ -257,26 +309,6 @@
       "url": "https://open.spotify.com/track/4aZPzveVY9PjYAbifcal0v"
     },
     {
-      "added_at": "2022-09-09 04:06:20",
-      "album": {
-        "name": "LEGEND",
-        "url": "https://open.spotify.com/album/48XBEHGNh0oVF5foY3ZtvT"
-      },
-      "artists": [
-        {
-          "name": "John Legend",
-          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
-        },
-        {
-          "name": "Free Nationals",
-          "url": "https://open.spotify.com/artist/4596e2d3KmYzAeVenjCxfj"
-        }
-      ],
-      "duration_ms": 195963,
-      "name": "Strawberry Blush (feat. Free Nationals)",
-      "url": "https://open.spotify.com/track/7wIZ3CXR08DPLR8G0uk210"
-    },
-    {
       "added_at": "2022-09-30 17:00:17",
       "album": {
         "name": "Open (Remix)",
@@ -299,6 +331,26 @@
       "duration_ms": 208000,
       "name": "Open - Remix",
       "url": "https://open.spotify.com/track/7aXpFdZ8WIvpSmvu1AW5X7"
+    },
+    {
+      "added_at": "2022-10-07 04:00:00",
+      "album": {
+        "name": "Didn't Start With You",
+        "url": "https://open.spotify.com/album/27RhvUoZNhFtggwX1pVSgr"
+      },
+      "artists": [
+        {
+          "name": "Samaria",
+          "url": "https://open.spotify.com/artist/4FreKg40BVDMPRLGeubyku"
+        },
+        {
+          "name": "Tone Stith",
+          "url": "https://open.spotify.com/artist/756t7CBmWLNYsshVtS6P44"
+        }
+      ],
+      "duration_ms": 206100,
+      "name": "Insanity (feat. Tone Stith)",
+      "url": "https://open.spotify.com/track/5Pm7c0omSn7WEezUtIqnK4"
     },
     {
       "added_at": "2022-08-19 04:15:53",
@@ -439,6 +491,22 @@
       "duration_ms": 177401,
       "name": "Stay Away (From Me)",
       "url": "https://open.spotify.com/track/7BXiYR26xUYRrZ4D9SSU4F"
+    },
+    {
+      "added_at": "2022-10-07 04:00:00",
+      "album": {
+        "name": "SUNSPOTS",
+        "url": "https://open.spotify.com/album/23grTY0XfOmdPg9WorGxRw"
+      },
+      "artists": [
+        {
+          "name": "Floyd Fuji",
+          "url": "https://open.spotify.com/artist/0glUNuyGWUn70JhLMARseD"
+        }
+      ],
+      "duration_ms": 251533,
+      "name": "WHEN U COMING HOME",
+      "url": "https://open.spotify.com/track/7aLENCChRdr5uC4hf9ETCq"
     },
     {
       "added_at": "2022-09-30 17:00:17",
@@ -651,6 +719,22 @@
       "duration_ms": 165132,
       "name": "O.M.L. (feat. DESTIN CONRAD)",
       "url": "https://open.spotify.com/track/6ntO3pnXicVNsAhW67BW0S"
+    },
+    {
+      "added_at": "2022-10-08 14:30:49",
+      "album": {
+        "name": "As Days Go By",
+        "url": "https://open.spotify.com/album/0Gt4hzHCAFrLtZX1s9KoXx"
+      },
+      "artists": [
+        {
+          "name": "Paulade",
+          "url": "https://open.spotify.com/artist/0wKCjEaixgpLA20mMEi2px"
+        }
+      ],
+      "duration_ms": 222654,
+      "name": "As Days Go By",
+      "url": "https://open.spotify.com/track/2RBt0qVLDmXc5kpDluo3Ge"
     },
     {
       "added_at": "2022-08-19 04:15:53",
@@ -1035,6 +1119,26 @@
       "duration_ms": 164163,
       "name": "pieces",
       "url": "https://open.spotify.com/track/5tnpSQClW40rHRfMvCqijS"
+    },
+    {
+      "added_at": "2022-07-08 20:50:37",
+      "album": {
+        "name": "3000\u00b0",
+        "url": "https://open.spotify.com/album/2phJX6Yo2s6WB7jhLgg9EF"
+      },
+      "artists": [
+        {
+          "name": "Ambr\u00e9",
+          "url": "https://open.spotify.com/artist/6gj3sMEZYP6IESIptoXnrP"
+        },
+        {
+          "name": "JVCK JAMES",
+          "url": "https://open.spotify.com/artist/0hhGFNFQrdE34ZYR1CaBYN"
+        }
+      ],
+      "duration_ms": 202755,
+      "name": "I'm Baby (ft. Jvck James)",
+      "url": "https://open.spotify.com/track/2rZQC2Hwy4sClylYHg2MXI"
     },
     {
       "added_at": "2022-07-15 04:03:55",
@@ -1511,50 +1615,6 @@
     {
       "added_at": "2022-05-19 23:49:06",
       "album": {
-        "name": "Love's Train",
-        "url": "https://open.spotify.com/album/6QKXGIgwWmWBMmIktMOchR"
-      },
-      "artists": [
-        {
-          "name": "Bruno Mars",
-          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
-        },
-        {
-          "name": "Anderson .Paak",
-          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
-        },
-        {
-          "name": "Silk Sonic",
-          "url": "https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr"
-        }
-      ],
-      "duration_ms": 307014,
-      "name": "Love's Train",
-      "url": "https://open.spotify.com/track/60gTdTwaNtGAzIxKfeGVfJ"
-    },
-    {
-      "added_at": "2022-05-19 23:49:06",
-      "album": {
-        "name": "Broken Hearts Club",
-        "url": "https://open.spotify.com/album/04xudYiCT2xyEVfF5Ov14Y"
-      },
-      "artists": [
-        {
-          "name": "Syd",
-          "url": "https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx"
-        },
-        {
-          "name": "Kehlani",
-          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
-        }
-      ],
-      "duration_ms": 203036,
-      "name": "Out Loud (feat. Kehlani)",
-      "url": "https://open.spotify.com/track/0P11qKeHWhUy0rDPeY8dyB"
-    },
-    {
-      "added_at": "2022-05-19 23:49:06",
-      "album": {
         "name": "Satisfaction",
         "url": "https://open.spotify.com/album/2rMvlXjrgjenPKNBK6ze0q"
       },
@@ -1567,26 +1627,6 @@
       "duration_ms": 130981,
       "name": "Satisfaction",
       "url": "https://open.spotify.com/track/0hZIaQMGqu41dozEwqVa1b"
-    },
-    {
-      "added_at": "2022-05-19 23:49:06",
-      "album": {
-        "name": "Sinner",
-        "url": "https://open.spotify.com/album/1kpkSvYRz40cdD1GvfN7OJ"
-      },
-      "artists": [
-        {
-          "name": "Adekunle Gold",
-          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
-        },
-        {
-          "name": "Lucky Daye",
-          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
-        }
-      ],
-      "duration_ms": 174117,
-      "name": "Sinner",
-      "url": "https://open.spotify.com/track/3k6Y1ESBwF1low4hHsY4wu"
     },
     {
       "added_at": "2022-07-08 20:50:37",
@@ -1607,22 +1647,6 @@
     {
       "added_at": "2022-05-19 23:49:06",
       "album": {
-        "name": "Mirror",
-        "url": "https://open.spotify.com/album/3kXJRzbcU7uGrE430b1G0e"
-      },
-      "artists": [
-        {
-          "name": "Shamiya Battles",
-          "url": "https://open.spotify.com/artist/3NTdPQSh0JSz5c5AGngQyE"
-        }
-      ],
-      "duration_ms": 158620,
-      "name": "Mirror",
-      "url": "https://open.spotify.com/track/5Z2dOXjVByx4J0yzMB2oPB"
-    },
-    {
-      "added_at": "2022-05-19 23:49:06",
-      "album": {
         "name": "Lifetime",
         "url": "https://open.spotify.com/album/27qgpTqm1Zkhgnis7bgjjC"
       },
@@ -1635,22 +1659,6 @@
       "duration_ms": 189651,
       "name": "Lifetime",
       "url": "https://open.spotify.com/track/0QZnyONVa7pEq115ZjkFNV"
-    },
-    {
-      "added_at": "2022-05-19 23:49:06",
-      "album": {
-        "name": "Public Displays Of Affection",
-        "url": "https://open.spotify.com/album/2ngrG39dI2ofhCxjmFnKv5"
-      },
-      "artists": [
-        {
-          "name": "Muni Long",
-          "url": "https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6"
-        }
-      ],
-      "duration_ms": 204316,
-      "name": "Hrs & Hrs",
-      "url": "https://open.spotify.com/track/3M5azWqeZbfoVkGXygatlb"
     },
     {
       "added_at": "2022-05-19 23:49:06",
@@ -1691,26 +1699,6 @@
       "duration_ms": 209853,
       "name": "Come For Me (Unlocked) (feat. Khalid & Lucky Daye)",
       "url": "https://open.spotify.com/track/0GDTDoQIJPk8zKBK4r1pzK"
-    },
-    {
-      "added_at": "2022-07-08 20:50:37",
-      "album": {
-        "name": "3000\u00b0",
-        "url": "https://open.spotify.com/album/2phJX6Yo2s6WB7jhLgg9EF"
-      },
-      "artists": [
-        {
-          "name": "Ambr\u00e9",
-          "url": "https://open.spotify.com/artist/6gj3sMEZYP6IESIptoXnrP"
-        },
-        {
-          "name": "JVCK JAMES",
-          "url": "https://open.spotify.com/artist/0hhGFNFQrdE34ZYR1CaBYN"
-        }
-      ],
-      "duration_ms": 202755,
-      "name": "I'm Baby (ft. Jvck James)",
-      "url": "https://open.spotify.com/track/2rZQC2Hwy4sClylYHg2MXI"
     },
     {
       "added_at": "2022-05-19 23:49:06",

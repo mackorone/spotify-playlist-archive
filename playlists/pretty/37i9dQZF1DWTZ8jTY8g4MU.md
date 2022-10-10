@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZ8jTY8g4MU.md) - [plain]
 
 > أفضل أغاني الشيلات التي لا يمكن التوقف عن الاستماع اليها\. الغلاف: عبدالله ال فروان
 
-[Spotify](https://open.spotify.com/user/spotify) - 131,012 likes - 52 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 131,475 likes - 52 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [سكه مجهوله](https://open.spotify.com/track/5X5ubFhkET9omL8FDcpSku) | [Abdullah Al Farwan](https://open.spotify.com/artist/7zjX652bWyemXyFFVhBnch) | [سكه مجهوله](https://open.spotify.com/album/2abcKDPudbZ4WvwyVkgrvR) | 4:20 |
-| 2 | [‎يا ابن خماش](https://open.spotify.com/track/5poJi9KfMINtm0sZ06nSoD) | [محمد آل نجم](https://open.spotify.com/artist/6XFaew6NT18YAjTawaYaTI) | [‎يا ابن خماش](https://open.spotify.com/album/74qnorGX715jcLNRMmMSds) | 4:02 |
+| 1 | [‎يا ابن خماش](https://open.spotify.com/track/5poJi9KfMINtm0sZ06nSoD) | [محمد آل نجم](https://open.spotify.com/artist/6XFaew6NT18YAjTawaYaTI) | [‎يا ابن خماش](https://open.spotify.com/album/74qnorGX715jcLNRMmMSds) | 4:02 |
+| 2 | [سكه مجهوله](https://open.spotify.com/track/5X5ubFhkET9omL8FDcpSku) | [Abdullah Al Farwan](https://open.spotify.com/artist/7zjX652bWyemXyFFVhBnch) | [سكه مجهوله](https://open.spotify.com/album/2abcKDPudbZ4WvwyVkgrvR) | 4:20 |
 | 3 | [تجاهلني](https://open.spotify.com/track/6R6zmKXsboLCYQ3hMNJlD4) | [Fahed Bin Fasla](https://open.spotify.com/artist/2CfEAlvAtAJ7MvCQl4mptz), [عمار الكوفي](https://open.spotify.com/artist/1YN0hBRFU0rGPgvr0aMmHs) | [تجاهلني](https://open.spotify.com/album/5xjGNzBxIQXVliqj7TKoG6) | 2:58 |
 | 4 | [كلمني](https://open.spotify.com/track/0F66LkXiihhVNKpWSqKgjy) | [بدر العزي](https://open.spotify.com/artist/3JgiCW6Za1Pvg0dnz7xsjy) | [كلمني](https://open.spotify.com/album/1ZrVAcuOnbRQJZFahoALeo) | 3:26 |
 | 5 | [مامنك اثنين](https://open.spotify.com/track/0upDZETLFHS16pqa9KMZ6d) | [محمد ال دلبج](https://open.spotify.com/artist/5XG8NKC339RvmX5uMkrwT6), [الوليد ال عامر](https://open.spotify.com/artist/0zGuiGFQfvEi1kW26nl9oN) | [مامنك اثنين](https://open.spotify.com/album/4c55MWVBBlqljEwmvJyNNh) | 3:43 |
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZ8jTY8g4MU.md) - [plain]
 | 51 | [Elly Tabeh](https://open.spotify.com/track/5ufm6qAEgQW5rHFHsCipnt) | [Mohammed Bin Grman](https://open.spotify.com/artist/5uFWoNmwcCxpZSq3RToSGr) | [Elly Tabeh](https://open.spotify.com/album/0VBlLnPK8yiqZi9LPMvoIF) | 2:37 |
 | 52 | [Koul Shya Weleh Nehayah](https://open.spotify.com/track/3V5UpDdPUZdGKSgaaDFKpr) | [Mohammed Bin Grman](https://open.spotify.com/artist/5uFWoNmwcCxpZSq3RToSGr) | [Koul Shya Weleh Nehayah](https://open.spotify.com/album/6YpmIaqZ9iD4gVVenm6oAE) | 3:49 |
 
-Snapshot ID: `MTY2MTk2NzcxOSwwMDAwMDAwMGRkOGM0ZTI5ZmYyZTkwZGQwYzVhYzU5NDViNjhlNzBj`
+Snapshot ID: `MTY2NTA0MTkzMiwwMDAwMDAwMDliYzgzZmFmYmRkYzBkYWU2ZWUwMGRhODFiMThjZjk5`

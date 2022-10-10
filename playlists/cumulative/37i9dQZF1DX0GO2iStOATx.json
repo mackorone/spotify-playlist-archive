@@ -550,6 +550,28 @@
     },
     {
       "album": {
+        "name": "Jugni",
+        "url": "https://open.spotify.com/album/2f4OFd2m05NI1WSJnhJi9v"
+      },
+      "artists": [
+        {
+          "name": "Diljit Dosanjh",
+          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
+        },
+        {
+          "name": "Diamond Platnumz",
+          "url": "https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193190,
+      "name": "Jugni",
+      "url": "https://open.spotify.com/track/0gHFDbhx2RFBrhJplPxlcT"
+    },
+    {
+      "album": {
         "name": "Back to Basics",
         "url": "https://open.spotify.com/album/2DJqmHoYQ5uS5Vhg8GVC1d"
       },
@@ -675,6 +697,24 @@
       "duration_ms": 212680,
       "name": "Lak 28 Kudi Da",
       "url": "https://open.spotify.com/track/7IHxvK9eSKfJgsRUe5Bacy"
+    },
+    {
+      "album": {
+        "name": "Drive Thru",
+        "url": "https://open.spotify.com/album/6KgPhunJItRDOhJFh6Sy78"
+      },
+      "artists": [
+        {
+          "name": "Diljit Dosanjh",
+          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166666,
+      "name": "Lemonade",
+      "url": "https://open.spotify.com/track/3ZGJhN4unVspOqpwGvUL2W"
     },
     {
       "album": {
@@ -837,6 +877,24 @@
       "duration_ms": 188314,
       "name": "Patiala Peg",
       "url": "https://open.spotify.com/track/6TikcWOLRsPq66GBx2jk67"
+    },
+    {
+      "album": {
+        "name": "Drive Thru",
+        "url": "https://open.spotify.com/album/6KgPhunJItRDOhJFh6Sy78"
+      },
+      "artists": [
+        {
+          "name": "Diljit Dosanjh",
+          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189176,
+      "name": "Peaches",
+      "url": "https://open.spotify.com/track/3mZLiEDAHIjZ8ms5Lxq33F"
     },
     {
       "album": {
@@ -1027,6 +1085,40 @@
       "duration_ms": 128319,
       "name": "Sardaarji - From \"Sardaarji\"",
       "url": "https://open.spotify.com/track/5dnN0pXE56qH1ufb8HennJ"
+    },
+    {
+      "album": {
+        "name": "Sauda Khara Khara (From \"Good Newwz\")",
+        "url": "https://open.spotify.com/album/6HBa9wXaZG8WIkhBY8p4aT"
+      },
+      "artists": [
+        {
+          "name": "Diljit Dosanjh",
+          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
+        },
+        {
+          "name": "Sukhbir",
+          "url": "https://open.spotify.com/artist/7bcSOvqOKoyZqU41p5YuoJ"
+        },
+        {
+          "name": "Dhvani Bhanushali",
+          "url": "https://open.spotify.com/artist/1OPqAyxsQc8mcRmoNBAnVk"
+        },
+        {
+          "name": "Dj Chetas",
+          "url": "https://open.spotify.com/artist/1jPeDHvfU5Knw8VyOP6TZN"
+        },
+        {
+          "name": "Lijo George",
+          "url": "https://open.spotify.com/artist/4VS3XraXs2LRsowQnQ7VFh"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211034,
+      "name": "Sauda Khara Khara",
+      "url": "https://open.spotify.com/track/4LLvxxkWtt818FNO3cbsdo"
     },
     {
       "album": {

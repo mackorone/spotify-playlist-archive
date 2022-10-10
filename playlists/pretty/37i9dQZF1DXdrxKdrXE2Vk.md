@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdrxKdrXE2Vk.md) - [plain]
 
 > Experience the best of live worship here\. Cover: Hillsong Worship
 
-[Spotify](https://open.spotify.com/user/spotify) - 845,746 likes - 124 songs - 12 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 846,614 likes - 124 songs - 12 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdrxKdrXE2Vk.md) - [plain]
 | 37 | [House Of Miracles \- Live](https://open.spotify.com/track/2Td9w1ZBDw7VPvERVudmDw) | [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v) | [House Of Miracles \(Live\)](https://open.spotify.com/album/6XwSI6fu7MRZulAaOqcbwI) | 7:33 |
 | 38 | [Not Gonna Wait \- Live](https://open.spotify.com/track/7DifP5qD58ONBEs0Qy9vtu) | [Saddleback Worship](https://open.spotify.com/artist/3bYfSxyg0MnYn3KhZiR0nD) | [Not Gonna Wait \(Live\)](https://open.spotify.com/album/0x6LenMSZeFjRfLEZT1T3I) | 5:57 |
 | 39 | [Love Like This \- Live](https://open.spotify.com/track/6xljd64z084rDGY93Lx6Qm) | [Housefires](https://open.spotify.com/artist/6egyCFgiJ1j941PaxKoWJD), [Kirby Kaple](https://open.spotify.com/artist/54P5WwDNRFfSzPEZ7p6Io1) | [Love Like This \(Live\)](https://open.spotify.com/album/5mAnlvwjpb5I7Ts0VHQSmF) | 4:54 |
-| 40 | [God of the Ages \(Single Version\)](https://open.spotify.com/track/2FnKGHRKjeWyxOJstK0Ld0) | [Manor Collective](https://open.spotify.com/artist/0R1ceXNBGwlvKurOZ8t2oh), [Sarah Bird](https://open.spotify.com/artist/7Fpfpq8JzXJ0yXlsyy6q9X), [Elle Limebear](https://open.spotify.com/artist/7MCV4p3QmcYDMTfiE0ZWMD), [CalledOut Music](https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH) | [God of the Ages](https://open.spotify.com/album/5giG6lnLqUdnrweJXvbbxu) | 4:16 |
+| 40 | [God of the Ages \- Single Version \- Live](https://open.spotify.com/track/2FnKGHRKjeWyxOJstK0Ld0) | [Manor Collective](https://open.spotify.com/artist/0R1ceXNBGwlvKurOZ8t2oh), [Sarah Bird](https://open.spotify.com/artist/7Fpfpq8JzXJ0yXlsyy6q9X), [Elle Limebear](https://open.spotify.com/artist/7MCV4p3QmcYDMTfiE0ZWMD), [CalledOut Music](https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH) | [God of the Ages \(Live At The Manor\)](https://open.spotify.com/album/5giG6lnLqUdnrweJXvbbxu) | 4:16 |
 | 41 | [Be Still, Be Still, My Soul \(Psalm 46\) \- Live](https://open.spotify.com/track/1dDes9e3j7HEJJ3TnFsbWJ) | [Sovereign Grace Music](https://open.spotify.com/artist/6MYKRhEIKscR8qdGlvpk9y) | [Unchanging God: Songs from the Book of Psalms, Vol\. 2 \(Live\)](https://open.spotify.com/album/6LM6JFK07PBR23fXtI0mSt) | 3:57 |
 | 42 | [Only You \- Live](https://open.spotify.com/track/4ebt6MOHsjpafxEmjXhAGp) | [ICF Worship](https://open.spotify.com/artist/0uw5aNQFG4WgdsqkElEHrW) | [Only You \(Live\)](https://open.spotify.com/album/6AwaUJBqHUAeU6kNQaBfqI) | 4:24 |
 | 43 | [Victory Of Jesus \- Live](https://open.spotify.com/track/7ktXVe69SF3sZoTCo54VIX) | [Planetshakers](https://open.spotify.com/artist/5A0SFJQSdSjFHGcndiGT1s) | [Greater \(Live\)](https://open.spotify.com/album/3vD5fn6jCpUahEfJElUa6u) | 6:40 |

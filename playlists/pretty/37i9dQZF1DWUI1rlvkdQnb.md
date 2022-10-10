@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUI1rlvkdQnb.md) - [plain]
 
 > Soft, relaxing music for workout recovery.
 
-[Spotify](https://open.spotify.com/user/spotify) - 162,945 likes - 100 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 163,140 likes - 100 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUI1rlvkdQnb.md) - [plain]
 | 99 | [Endless Fragments of Time](https://open.spotify.com/track/1UFmSqbxVtP5pl9r8KdeY1) | [Deep Watch](https://open.spotify.com/artist/1X1f0eZsNTvUUZ48ZGmFtd) | [Endless Fragments of Time](https://open.spotify.com/album/12kcM5eBTpgQt2jLeb8sjL) | 3:36 |
 | 100 | [Yes/No \- Sanctuary Mix](https://open.spotify.com/track/6btq4xcQtbnDMYgfR7LmAu) | [Tao Lounge](https://open.spotify.com/artist/7g6SFEhjnq2V2kpY8juNuD) | [Yes/No](https://open.spotify.com/album/6hFUbfCDZaaWhnYzMkJs4T) | 3:53 |
 
-Snapshot ID: `MTY2MzA3MzE0MiwwMDAwMDAwMGI4MWU4ZjE4YTE3ZGJiNzQxYTFlNTQ1YjFjOWNhOTZi`
+Snapshot ID: `MTY2NDg5MjE0MiwwMDAwMDAwMDI2ODU3M2NjYjk0ZDdlY2RjZDAyYzFkYTQ1MjgxNDJm`

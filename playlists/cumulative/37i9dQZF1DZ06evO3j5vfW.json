@@ -403,7 +403,7 @@
       ],
       "date_added": "2022-04-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-25",
+      "date_removed": "2022-10-07",
       "duration_ms": 213750,
       "name": "Harmony",
       "url": "https://open.spotify.com/track/0qwPUvS4Eofc19Uw2IDodG"
@@ -601,7 +601,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-02",
+      "date_removed": "2022-10-08",
       "duration_ms": 154687,
       "name": "I See",
       "url": "https://open.spotify.com/track/3IOvs8528ie9laMQO4PLPD"
@@ -693,7 +693,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-14",
+      "date_removed": "2022-10-06",
       "duration_ms": 195704,
       "name": "Legacy - Radio Edit",
       "url": "https://open.spotify.com/track/3SGebd91gbpKanqQ2Yg9F1"
@@ -1013,7 +1013,7 @@
       ],
       "date_added": "2022-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-09",
       "duration_ms": 193660,
       "name": "On My Mind",
       "url": "https://open.spotify.com/track/73q91uUFExJXYKsnZP9gFX"
@@ -1361,6 +1361,24 @@
       "duration_ms": 239736,
       "name": "Stargazing",
       "url": "https://open.spotify.com/track/1cVOEbvsf7N9Su4kZXFcYB"
+    },
+    {
+      "album": {
+        "name": "Techtronic",
+        "url": "https://open.spotify.com/album/1wnat2fR8nky0aO4pNnkWm"
+      },
+      "artists": [
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        }
+      ],
+      "date_added": "2022-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224046,
+      "name": "Techtronic",
+      "url": "https://open.spotify.com/track/756vcXfBaXXBV68aT7OVSh"
     },
     {
       "album": {

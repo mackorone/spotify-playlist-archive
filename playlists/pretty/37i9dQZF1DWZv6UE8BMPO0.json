@@ -1,223 +1,31 @@
 {
   "description": "Instrumental Christmas favorites to set the perfect mood for your swinging cocktail party this holiday season.",
-  "num_followers": 277100,
+  "num_followers": 277300,
   "original_name": "Christmas Cocktail Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzkzNDcyNiwwMDAwMDAwMDY1ZDg2MjRkYjMxNjIyOWU0N2JjYzhhZTgwZTQwN2M0",
+  "snapshot_id": "MTY2NTE0MzQ3MiwwMDAwMDAwMGU2NDk2MmRiOWJiODNmYmZhMTY4MjFkZjRhMWVmNjM4",
   "tracks": [
     {
-      "added_at": "2022-09-23 12:05:26",
+      "added_at": "2022-10-07 11:51:12",
       "album": {
-        "name": "Deck The Halls",
-        "url": "https://open.spotify.com/album/0Xom85WcjyXZcX4stFhVS8"
+        "name": "Christmas Jazz!",
+        "url": "https://open.spotify.com/album/5Zb21fmHLMw1lkft5F88Id"
       },
       "artists": [
         {
-          "name": "The Holiday Horns",
-          "url": "https://open.spotify.com/artist/4BUCzxTW8MiC4TT0C29CKF"
+          "name": "Roddy Doyle Trio",
+          "url": "https://open.spotify.com/artist/2NpfQuA1kHiGx9LHgDx4p3"
         }
       ],
-      "duration_ms": 202287,
-      "name": "Deck The Halls",
-      "url": "https://open.spotify.com/track/0SD5t32YWkTFMFOAig3dRG"
+      "duration_ms": 202664,
+      "name": "Sleigh Ride",
+      "url": "https://open.spotify.com/track/3CwE9ExeHCA9ho6hy1lrNZ"
     },
     {
-      "added_at": "2022-09-23 12:05:26",
-      "album": {
-        "name": "Christmas Time",
-        "url": "https://open.spotify.com/album/6qyVHL2rvZigWudRzl4Fxo"
-      },
-      "artists": [
-        {
-          "name": "Red Rudolph Band",
-          "url": "https://open.spotify.com/artist/0xcRezKT6Mc2kg2xrwW1Kh"
-        }
-      ],
-      "duration_ms": 167128,
-      "name": "Holly Jolly Christmas",
-      "url": "https://open.spotify.com/track/29FQ6xgwKNDioJpAem6ht3"
-    },
-    {
-      "added_at": "2022-09-23 12:05:26",
-      "album": {
-        "name": "God Rest Ye, Merry Gentlemen",
-        "url": "https://open.spotify.com/album/4YL35s4guMbT7Sfn696Rny"
-      },
-      "artists": [
-        {
-          "name": "Rossdale Junction",
-          "url": "https://open.spotify.com/artist/07lLIhOAtuwjGaZ0goh3iO"
-        }
-      ],
-      "duration_ms": 120061,
-      "name": "God Rest Ye, Merry Gentlemen",
-      "url": "https://open.spotify.com/track/4uTqFlXMoLOn8qbc50Ib5d"
-    },
-    {
-      "added_at": "2022-09-23 12:05:26",
-      "album": {
-        "name": "Mary's Boychild",
-        "url": "https://open.spotify.com/album/57BaLpqMTYqUkMUXbaUzNi"
-      },
-      "artists": [
-        {
-          "name": "Dem Jazzophiliacs",
-          "url": "https://open.spotify.com/artist/5387bdIuCYIoe0VO52TfPe"
-        }
-      ],
-      "duration_ms": 210932,
-      "name": "Mary's Boy Child",
-      "url": "https://open.spotify.com/track/3C9YQp0it2R4rV1lp7p1n9"
-    },
-    {
-      "added_at": "2022-09-23 12:05:26",
-      "album": {
-        "name": "Jazzy Christmas",
-        "url": "https://open.spotify.com/album/10xlo91UUjERC1DjH2NU9M"
-      },
-      "artists": [
-        {
-          "name": "Richard Smithfield",
-          "url": "https://open.spotify.com/artist/2tprHPIiUQTLlefPxrcZuB"
-        }
-      ],
-      "duration_ms": 301672,
-      "name": "It's the Most Wonderful Time of the Year",
-      "url": "https://open.spotify.com/track/0nRb93SrNeOFVhnEPqG2gr"
-    },
-    {
-      "added_at": "2022-09-23 12:05:26",
-      "album": {
-        "name": "Have Yourself a Merry Christmas",
-        "url": "https://open.spotify.com/album/5QGJu2QGX5lHmdrW3F8yrZ"
-      },
-      "artists": [
-        {
-          "name": "Grayville Trio",
-          "url": "https://open.spotify.com/artist/6ll13Y20dnndy8mAuF9tgk"
-        }
-      ],
-      "duration_ms": 202688,
-      "name": "Have Yourself a Merry Christmas",
-      "url": "https://open.spotify.com/track/491H13nUak4jYRwppQhOWz"
-    },
-    {
-      "added_at": "2022-09-23 12:05:26",
-      "album": {
-        "name": "I Saw Three Ships",
-        "url": "https://open.spotify.com/album/72Eg5ywjro4gFFqgG8ewqS"
-      },
-      "artists": [
-        {
-          "name": "Charlie James-Walker",
-          "url": "https://open.spotify.com/artist/7apm9TJQ66v5ykLahf9B3U"
-        }
-      ],
-      "duration_ms": 147547,
-      "name": "In the Bleak Midwinter",
-      "url": "https://open.spotify.com/track/5QCub19WJvIa3TDtJaHl8I"
-    },
-    {
-      "added_at": "2022-09-23 12:05:26",
-      "album": {
-        "name": "Jazzy Christmas Party",
-        "url": "https://open.spotify.com/album/1l8jXocYesXouqZ7IYVmj3"
-      },
-      "artists": [
-        {
-          "name": "Leif Shires",
-          "url": "https://open.spotify.com/artist/3YVt5oKfFEE0yJa7yJ3wWE"
-        }
-      ],
-      "duration_ms": 184617,
-      "name": "Here We Come A-Caroling",
-      "url": "https://open.spotify.com/track/4pyrzorQFqC4m77fZUxbo0"
-    },
-    {
-      "added_at": "2022-09-23 12:05:26",
-      "album": {
-        "name": "It Came Upon the Midnight Clear",
-        "url": "https://open.spotify.com/album/55akvbir79e3aLW1XBS0pz"
-      },
-      "artists": [
-        {
-          "name": "KTZ Players",
-          "url": "https://open.spotify.com/artist/5IFXbDEfoLijwZB1YB2bTe"
-        }
-      ],
-      "duration_ms": 113941,
-      "name": "It Came Upon the Midnight Clear",
-      "url": "https://open.spotify.com/track/5LdDxFsB3UlT9b1OmPKDeI"
-    },
-    {
-      "added_at": "2022-09-23 12:05:26",
-      "album": {
-        "name": "It's Beginning to Look a Lot Like Christmas",
-        "url": "https://open.spotify.com/album/3WOEnOrK4LIAuOljVmJp0v"
-      },
-      "artists": [
-        {
-          "name": "Little Branch Trio",
-          "url": "https://open.spotify.com/artist/1cNqtnXiRndbjzz501m8CZ"
-        }
-      ],
-      "duration_ms": 143477,
-      "name": "It's Beginning to Look a Lot Like Christmas",
-      "url": "https://open.spotify.com/track/7InfjdILTHBOIs6NBUZgzv"
-    },
-    {
-      "added_at": "2022-09-23 12:05:26",
-      "album": {
-        "name": "A Jazzy Christmas",
-        "url": "https://open.spotify.com/album/74ITy0DcX3tWOD6Wm1P2IS"
-      },
-      "artists": [
-        {
-          "name": "Rudy Snow",
-          "url": "https://open.spotify.com/artist/3bBZZ3bsQwZ6DmUH51cabg"
-        }
-      ],
-      "duration_ms": 156878,
-      "name": "Here Comes Santa Claus",
-      "url": "https://open.spotify.com/track/1aKyuXDRVwtovYgDV0RalE"
-    },
-    {
-      "added_at": "2022-09-23 12:05:26",
-      "album": {
-        "name": "Joe Pass - Six String Santa",
-        "url": "https://open.spotify.com/album/1SXRnss2fnudVkXZrVxIJX"
-      },
-      "artists": [
-        {
-          "name": "Joe Pass",
-          "url": "https://open.spotify.com/artist/4DuZTASH5eSyd0K73W6fuZ"
-        }
-      ],
-      "duration_ms": 210631,
-      "name": "O Christmas Tree",
-      "url": "https://open.spotify.com/track/7Ly3EsRB1wLcnXPEHSOOjH"
-    },
-    {
-      "added_at": "2022-09-23 12:05:26",
-      "album": {
-        "name": "The First Noel",
-        "url": "https://open.spotify.com/album/0UykYUfd6JfL0WXXqbKGiX"
-      },
-      "artists": [
-        {
-          "name": "Flatland Park",
-          "url": "https://open.spotify.com/artist/6xOql32xqR0X46QkNLCzPd"
-        }
-      ],
-      "duration_ms": 90964,
-      "name": "The Holly and the Ivy",
-      "url": "https://open.spotify.com/track/6kp3aicXY4wM8GtKjhT7jk"
-    },
-    {
-      "added_at": "2022-09-23 12:05:26",
+      "added_at": "2022-10-07 11:51:12",
       "album": {
         "name": "Ding Dong Merrily on High",
         "url": "https://open.spotify.com/album/4B6xLARC7he8mOqBA0yjKu"
@@ -233,23 +41,199 @@
       "url": "https://open.spotify.com/track/0ETXxrPmqmWNuxpuHRqWfb"
     },
     {
-      "added_at": "2022-09-23 12:05:26",
+      "added_at": "2022-10-07 11:51:12",
       "album": {
-        "name": "Structurally Sound",
-        "url": "https://open.spotify.com/album/4T7k8nLuMrFoiJSL1rlq0k"
+        "name": "Have Yourself a Merry Christmas",
+        "url": "https://open.spotify.com/album/5QGJu2QGX5lHmdrW3F8yrZ"
       },
       "artists": [
         {
-          "name": "Booker Ervin",
-          "url": "https://open.spotify.com/artist/3ZppcUE7tHnE6SzUR4ipSy"
+          "name": "Grayville Trio",
+          "url": "https://open.spotify.com/artist/6ll13Y20dnndy8mAuF9tgk"
         }
       ],
-      "duration_ms": 270933,
-      "name": "White Christmas - Remastered",
-      "url": "https://open.spotify.com/track/0uiPNd0fdoklct761AycxJ"
+      "duration_ms": 202688,
+      "name": "Have Yourself a Merry Christmas",
+      "url": "https://open.spotify.com/track/491H13nUak4jYRwppQhOWz"
     },
     {
-      "added_at": "2022-09-23 12:05:26",
+      "added_at": "2022-10-07 11:51:12",
+      "album": {
+        "name": "Christmas Time",
+        "url": "https://open.spotify.com/album/6qyVHL2rvZigWudRzl4Fxo"
+      },
+      "artists": [
+        {
+          "name": "Red Rudolph Band",
+          "url": "https://open.spotify.com/artist/0xcRezKT6Mc2kg2xrwW1Kh"
+        }
+      ],
+      "duration_ms": 167128,
+      "name": "Holly Jolly Christmas",
+      "url": "https://open.spotify.com/track/29FQ6xgwKNDioJpAem6ht3"
+    },
+    {
+      "added_at": "2022-10-07 11:51:12",
+      "album": {
+        "name": "Mary's Boychild",
+        "url": "https://open.spotify.com/album/57BaLpqMTYqUkMUXbaUzNi"
+      },
+      "artists": [
+        {
+          "name": "Dem Jazzophiliacs",
+          "url": "https://open.spotify.com/artist/5387bdIuCYIoe0VO52TfPe"
+        }
+      ],
+      "duration_ms": 210932,
+      "name": "Mary's Boy Child",
+      "url": "https://open.spotify.com/track/3C9YQp0it2R4rV1lp7p1n9"
+    },
+    {
+      "added_at": "2022-10-07 11:51:12",
+      "album": {
+        "name": "I Saw Three Ships",
+        "url": "https://open.spotify.com/album/72Eg5ywjro4gFFqgG8ewqS"
+      },
+      "artists": [
+        {
+          "name": "Charlie James-Walker",
+          "url": "https://open.spotify.com/artist/7apm9TJQ66v5ykLahf9B3U"
+        }
+      ],
+      "duration_ms": 147547,
+      "name": "In the Bleak Midwinter",
+      "url": "https://open.spotify.com/track/5QCub19WJvIa3TDtJaHl8I"
+    },
+    {
+      "added_at": "2022-10-07 11:51:12",
+      "album": {
+        "name": "Christmas Song",
+        "url": "https://open.spotify.com/album/0WUOWtTTCfCiEv9mkjvCod"
+      },
+      "artists": [
+        {
+          "name": "Mitch Coleman",
+          "url": "https://open.spotify.com/artist/5YyVZ8kxK9sRVEg1pBh1PV"
+        }
+      ],
+      "duration_ms": 224505,
+      "name": "Christmas Song",
+      "url": "https://open.spotify.com/track/2rGPxZss3HtfmVF1JNvfKT"
+    },
+    {
+      "added_at": "2022-10-07 11:51:12",
+      "album": {
+        "name": "God Rest Ye, Merry Gentlemen",
+        "url": "https://open.spotify.com/album/4YL35s4guMbT7Sfn696Rny"
+      },
+      "artists": [
+        {
+          "name": "Rossdale Junction",
+          "url": "https://open.spotify.com/artist/07lLIhOAtuwjGaZ0goh3iO"
+        }
+      ],
+      "duration_ms": 120061,
+      "name": "God Rest Ye, Merry Gentlemen",
+      "url": "https://open.spotify.com/track/4uTqFlXMoLOn8qbc50Ib5d"
+    },
+    {
+      "added_at": "2022-10-07 11:51:12",
+      "album": {
+        "name": "It Came Upon the Midnight Clear",
+        "url": "https://open.spotify.com/album/55akvbir79e3aLW1XBS0pz"
+      },
+      "artists": [
+        {
+          "name": "KTZ Players",
+          "url": "https://open.spotify.com/artist/5IFXbDEfoLijwZB1YB2bTe"
+        }
+      ],
+      "duration_ms": 113941,
+      "name": "It Came Upon the Midnight Clear",
+      "url": "https://open.spotify.com/track/5LdDxFsB3UlT9b1OmPKDeI"
+    },
+    {
+      "added_at": "2022-10-07 11:51:12",
+      "album": {
+        "name": "The First Noel",
+        "url": "https://open.spotify.com/album/0UykYUfd6JfL0WXXqbKGiX"
+      },
+      "artists": [
+        {
+          "name": "Flatland Park",
+          "url": "https://open.spotify.com/artist/6xOql32xqR0X46QkNLCzPd"
+        }
+      ],
+      "duration_ms": 90964,
+      "name": "The Holly and the Ivy",
+      "url": "https://open.spotify.com/track/6kp3aicXY4wM8GtKjhT7jk"
+    },
+    {
+      "added_at": "2022-10-07 11:51:12",
+      "album": {
+        "name": "Deck The Halls",
+        "url": "https://open.spotify.com/album/0Xom85WcjyXZcX4stFhVS8"
+      },
+      "artists": [
+        {
+          "name": "The Holiday Horns",
+          "url": "https://open.spotify.com/artist/4BUCzxTW8MiC4TT0C29CKF"
+        }
+      ],
+      "duration_ms": 202287,
+      "name": "Deck The Halls",
+      "url": "https://open.spotify.com/track/0SD5t32YWkTFMFOAig3dRG"
+    },
+    {
+      "added_at": "2022-10-07 11:51:12",
+      "album": {
+        "name": "Jazzy Christmas",
+        "url": "https://open.spotify.com/album/10xlo91UUjERC1DjH2NU9M"
+      },
+      "artists": [
+        {
+          "name": "Richard Smithfield",
+          "url": "https://open.spotify.com/artist/2tprHPIiUQTLlefPxrcZuB"
+        }
+      ],
+      "duration_ms": 301672,
+      "name": "It's the Most Wonderful Time of the Year",
+      "url": "https://open.spotify.com/track/0nRb93SrNeOFVhnEPqG2gr"
+    },
+    {
+      "added_at": "2022-10-07 11:51:12",
+      "album": {
+        "name": "It's Beginning to Look a Lot Like Christmas",
+        "url": "https://open.spotify.com/album/3WOEnOrK4LIAuOljVmJp0v"
+      },
+      "artists": [
+        {
+          "name": "Little Branch Trio",
+          "url": "https://open.spotify.com/artist/1cNqtnXiRndbjzz501m8CZ"
+        }
+      ],
+      "duration_ms": 143477,
+      "name": "It's Beginning to Look a Lot Like Christmas",
+      "url": "https://open.spotify.com/track/7InfjdILTHBOIs6NBUZgzv"
+    },
+    {
+      "added_at": "2022-10-07 11:51:12",
+      "album": {
+        "name": "Jazzy Christmas Party",
+        "url": "https://open.spotify.com/album/1l8jXocYesXouqZ7IYVmj3"
+      },
+      "artists": [
+        {
+          "name": "Leif Shires",
+          "url": "https://open.spotify.com/artist/3YVt5oKfFEE0yJa7yJ3wWE"
+        }
+      ],
+      "duration_ms": 184617,
+      "name": "Here We Come A-Caroling",
+      "url": "https://open.spotify.com/track/4pyrzorQFqC4m77fZUxbo0"
+    },
+    {
+      "added_at": "2022-10-07 11:51:12",
       "album": {
         "name": "That Christmas Feel",
         "url": "https://open.spotify.com/album/1eRIaiBeErayP8Cfve02kJ"
@@ -265,7 +249,23 @@
       "url": "https://open.spotify.com/track/4Ed2ZWI33fojtD1FRhVk29"
     },
     {
-      "added_at": "2022-09-23 12:05:26",
+      "added_at": "2022-10-07 11:51:12",
+      "album": {
+        "name": "A Jazzy Christmas",
+        "url": "https://open.spotify.com/album/74ITy0DcX3tWOD6Wm1P2IS"
+      },
+      "artists": [
+        {
+          "name": "Rudy Snow",
+          "url": "https://open.spotify.com/artist/3bBZZ3bsQwZ6DmUH51cabg"
+        }
+      ],
+      "duration_ms": 156878,
+      "name": "Here Comes Santa Claus",
+      "url": "https://open.spotify.com/track/1aKyuXDRVwtovYgDV0RalE"
+    },
+    {
+      "added_at": "2022-10-07 11:51:12",
       "album": {
         "name": "Blue Christmas EP",
         "url": "https://open.spotify.com/album/4dJvLEZjecdymJWBHCiZiZ"
@@ -276,28 +276,12 @@
           "url": "https://open.spotify.com/artist/2MIg8Vq5NCa9AER8dbCFDG"
         }
       ],
-      "duration_ms": 176956,
-      "name": "Blue Christmas",
-      "url": "https://open.spotify.com/track/2zdQV5ZAr4lKpHK4dJCbKW"
+      "duration_ms": 143731,
+      "name": "Oh Christmas Tree",
+      "url": "https://open.spotify.com/track/4HkmCOAh5oqQ7KsihV2Yfs"
     },
     {
-      "added_at": "2022-09-23 12:05:26",
-      "album": {
-        "name": "Merry Ole Soul",
-        "url": "https://open.spotify.com/album/2Px6XKffVuuPx6zaTEDwlx"
-      },
-      "artists": [
-        {
-          "name": "Duke Pearson",
-          "url": "https://open.spotify.com/artist/2SZ1e7QHN5jon9tpSpQl44"
-        }
-      ],
-      "duration_ms": 386226,
-      "name": "Sleigh Ride",
-      "url": "https://open.spotify.com/track/0yp7zmlUcv3kbX5Hlp1BDd"
-    },
-    {
-      "added_at": "2022-09-23 12:05:26",
+      "added_at": "2022-10-07 11:51:12",
       "album": {
         "name": "Mistletoe And Holly",
         "url": "https://open.spotify.com/album/0GQGvFHYPbLc3jZR11f8Hu"
@@ -313,23 +297,23 @@
       "url": "https://open.spotify.com/track/5SEjKY2Q0hQTmSfd8lHnGJ"
     },
     {
-      "added_at": "2022-09-23 12:05:26",
+      "added_at": "2022-10-07 11:51:12",
       "album": {
-        "name": "Jazz the Halls",
-        "url": "https://open.spotify.com/album/4bqFz6hx54gnFFKBY8FEE7"
+        "name": "Abide With Me",
+        "url": "https://open.spotify.com/album/5zBhekiGUyciT3kBry7MRp"
       },
       "artists": [
         {
-          "name": "Chad Lawson Trio",
-          "url": "https://open.spotify.com/artist/6J4FeobN5L7NH7tVVRHP7n"
+          "name": "Jeff Laine & Co",
+          "url": "https://open.spotify.com/artist/4i2Ps9G6SHd16reEGA5xva"
         }
       ],
-      "duration_ms": 173520,
-      "name": "Angels We Have Heard on High",
-      "url": "https://open.spotify.com/track/5wcHHljUfrBxJh3Uk42u4m"
+      "duration_ms": 197744,
+      "name": "Abide With Me",
+      "url": "https://open.spotify.com/track/7qPYEUXACuFdUyywP24ZvO"
     },
     {
-      "added_at": "2022-09-23 12:05:26",
+      "added_at": "2022-10-07 11:51:12",
       "album": {
         "name": "Good King Wenceslas",
         "url": "https://open.spotify.com/album/3hgjaTTBTZVIHuXLbUN5my"
@@ -345,7 +329,7 @@
       "url": "https://open.spotify.com/track/2ZSUAGIAUGFRBifcs0SuNt"
     },
     {
-      "added_at": "2022-09-23 12:05:26",
+      "added_at": "2022-10-07 11:51:12",
       "album": {
         "name": "Jazzy Christmas",
         "url": "https://open.spotify.com/album/10xlo91UUjERC1DjH2NU9M"
@@ -361,7 +345,7 @@
       "url": "https://open.spotify.com/track/3K6K0MCC62lHyr75AMljLQ"
     },
     {
-      "added_at": "2022-09-23 12:05:26",
+      "added_at": "2022-10-07 11:51:12",
       "album": {
         "name": "Christmas Time",
         "url": "https://open.spotify.com/album/4O0xBHOwwopsTrx6Jo3MRt"
@@ -377,7 +361,7 @@
       "url": "https://open.spotify.com/track/3Cs5m2rS0UnYx4UWppPLP8"
     },
     {
-      "added_at": "2022-09-23 12:05:26",
+      "added_at": "2022-10-07 11:51:12",
       "album": {
         "name": "Walking In A Winter Wonderland",
         "url": "https://open.spotify.com/album/6EAPnYnaQNTXthDRsqnuOt"
@@ -393,7 +377,7 @@
       "url": "https://open.spotify.com/track/7kWKkAC6yJwyrrNVeXAEMX"
     },
     {
-      "added_at": "2022-09-23 12:05:26",
+      "added_at": "2022-10-07 11:51:12",
       "album": {
         "name": "I'll Be Home for Christmas",
         "url": "https://open.spotify.com/album/2279rFm900f7XZRc1qKUmh"
@@ -409,7 +393,23 @@
       "url": "https://open.spotify.com/track/05WIbRwXFuQQKmPMf9KF0U"
     },
     {
-      "added_at": "2022-09-23 12:05:26",
+      "added_at": "2022-10-07 11:51:12",
+      "album": {
+        "name": "Blue Christmas EP",
+        "url": "https://open.spotify.com/album/4dJvLEZjecdymJWBHCiZiZ"
+      },
+      "artists": [
+        {
+          "name": "Holy Eve Trio",
+          "url": "https://open.spotify.com/artist/2MIg8Vq5NCa9AER8dbCFDG"
+        }
+      ],
+      "duration_ms": 176956,
+      "name": "Blue Christmas",
+      "url": "https://open.spotify.com/track/2zdQV5ZAr4lKpHK4dJCbKW"
+    },
+    {
+      "added_at": "2022-10-07 11:51:12",
       "album": {
         "name": "When You Wish Upon a Star",
         "url": "https://open.spotify.com/album/45GERqZgHo745HSE9VgjgN"
@@ -425,7 +425,7 @@
       "url": "https://open.spotify.com/track/1RS0fQUXF7GJRC5SJwX6MW"
     },
     {
-      "added_at": "2022-09-23 12:05:26",
+      "added_at": "2022-10-07 11:51:12",
       "album": {
         "name": "Feliz navidad",
         "url": "https://open.spotify.com/album/3gmuUZ1smESdC9G30KXUBU"
@@ -441,7 +441,23 @@
       "url": "https://open.spotify.com/track/465nAxOI5pErqke80RoQTF"
     },
     {
-      "added_at": "2022-09-23 12:05:26",
+      "added_at": "2022-10-07 11:51:12",
+      "album": {
+        "name": "Home For Christmas",
+        "url": "https://open.spotify.com/album/1K6iFbZbde2NZetHrW1Jj0"
+      },
+      "artists": [
+        {
+          "name": "Art Silver Trio",
+          "url": "https://open.spotify.com/artist/1IdNwXpBJIXak2tdHmICgT"
+        }
+      ],
+      "duration_ms": 249119,
+      "name": "Silver Bells",
+      "url": "https://open.spotify.com/track/5cT9UuSKWfCYbDCDQwS2aY"
+    },
+    {
+      "added_at": "2022-10-07 11:51:12",
       "album": {
         "name": "European Quartet: A Little Christmas Music",
         "url": "https://open.spotify.com/album/1ufkzsMX60Mt6E2eCrpOff"
@@ -457,7 +473,7 @@
       "url": "https://open.spotify.com/track/4RHhF5oVeV0ubNBcvKgCX9"
     },
     {
-      "added_at": "2022-09-23 12:05:26",
+      "added_at": "2022-10-07 11:51:12",
       "album": {
         "name": "Deck the Halls",
         "url": "https://open.spotify.com/album/3ih4Z7j1laYHVbeCzxssop"
@@ -473,7 +489,7 @@
       "url": "https://open.spotify.com/track/6ayK59JrXwTFNIO4l8YeHr"
     },
     {
-      "added_at": "2022-09-23 12:05:26",
+      "added_at": "2022-10-07 11:51:12",
       "album": {
         "name": "What Are You Doing New Year's Eve",
         "url": "https://open.spotify.com/album/2Q8QtI11tk9L9jBskjBF7E"
@@ -489,39 +505,7 @@
       "url": "https://open.spotify.com/track/2OMXwyF3J4vYDxk5DzV03s"
     },
     {
-      "added_at": "2022-09-23 12:05:26",
-      "album": {
-        "name": "O Come, O Come Emmanuel",
-        "url": "https://open.spotify.com/album/3JnBzkJI52l6jJkAX84pVV"
-      },
-      "artists": [
-        {
-          "name": "N.B.H-Trio",
-          "url": "https://open.spotify.com/artist/5oooIIdGmAuNyfQiWehfmX"
-        }
-      ],
-      "duration_ms": 250000,
-      "name": "O Come, O Come Emmanuel",
-      "url": "https://open.spotify.com/track/0GlynfYCzLa4rjZqbJcVyS"
-    },
-    {
-      "added_at": "2022-09-23 12:05:26",
-      "album": {
-        "name": "O Holy Night",
-        "url": "https://open.spotify.com/album/77u3EzT2GRPilIcGSaI5lQ"
-      },
-      "artists": [
-        {
-          "name": "Jennie Reigen",
-          "url": "https://open.spotify.com/artist/4gefXT9y8hdGtxBmkHN2HA"
-        }
-      ],
-      "duration_ms": 294145,
-      "name": "O Holy Night",
-      "url": "https://open.spotify.com/track/25iEQTtIhKXhhZedTn7YZm"
-    },
-    {
-      "added_at": "2022-09-23 12:05:26",
+      "added_at": "2022-10-07 11:51:12",
       "album": {
         "name": "Christmas Cocktails: A Jazz Lounge Holiday Collection",
         "url": "https://open.spotify.com/album/3bGiF08NkrpfTKrKXJPU3n"
@@ -537,7 +521,39 @@
       "url": "https://open.spotify.com/track/27oIno72elQiNPLU8ZSLo2"
     },
     {
-      "added_at": "2022-09-23 12:05:26",
+      "added_at": "2022-10-07 11:51:12",
+      "album": {
+        "name": "O Come, O Come Emmanuel",
+        "url": "https://open.spotify.com/album/3JnBzkJI52l6jJkAX84pVV"
+      },
+      "artists": [
+        {
+          "name": "N.B.H-Trio",
+          "url": "https://open.spotify.com/artist/5oooIIdGmAuNyfQiWehfmX"
+        }
+      ],
+      "duration_ms": 250000,
+      "name": "O Come, O Come Emmanuel",
+      "url": "https://open.spotify.com/track/0GlynfYCzLa4rjZqbJcVyS"
+    },
+    {
+      "added_at": "2022-10-07 11:51:12",
+      "album": {
+        "name": "O Holy Night",
+        "url": "https://open.spotify.com/album/77u3EzT2GRPilIcGSaI5lQ"
+      },
+      "artists": [
+        {
+          "name": "Jennie Reigen",
+          "url": "https://open.spotify.com/artist/4gefXT9y8hdGtxBmkHN2HA"
+        }
+      ],
+      "duration_ms": 294145,
+      "name": "O Holy Night",
+      "url": "https://open.spotify.com/track/25iEQTtIhKXhhZedTn7YZm"
+    },
+    {
+      "added_at": "2022-10-07 11:51:12",
       "album": {
         "name": "Merry Christmas",
         "url": "https://open.spotify.com/album/3mhiSS0lSViQWiEpV3rsuY"
@@ -553,7 +569,23 @@
       "url": "https://open.spotify.com/track/24qIDUtuHes8hTXrs13HR6"
     },
     {
-      "added_at": "2022-09-23 12:05:26",
+      "added_at": "2022-10-07 11:51:12",
+      "album": {
+        "name": "White Christmas",
+        "url": "https://open.spotify.com/album/7iQnxZfcvdaaQX1fYRAfof"
+      },
+      "artists": [
+        {
+          "name": "Sian Sullivan",
+          "url": "https://open.spotify.com/artist/4VVP1CLZbbGay53RL2Gbe6"
+        }
+      ],
+      "duration_ms": 261164,
+      "name": "White Christmas",
+      "url": "https://open.spotify.com/track/0X5GOwlZZgW0lT1NsCuir5"
+    },
+    {
+      "added_at": "2022-10-07 11:51:12",
       "album": {
         "name": "Jingle Bells",
         "url": "https://open.spotify.com/album/5QiRNuqANTMFeKdznWLy7o"
@@ -569,23 +601,7 @@
       "url": "https://open.spotify.com/track/5xKtM3Y9NrT5VeoVxrAerk"
     },
     {
-      "added_at": "2022-09-23 12:05:26",
-      "album": {
-        "name": "A Charlie Brown Christmas [2012 Remastered & Expanded Edition]",
-        "url": "https://open.spotify.com/album/2XnNY3GEkbWHor5kyvXLu4"
-      },
-      "artists": [
-        {
-          "name": "Vince Guaraldi Trio",
-          "url": "https://open.spotify.com/artist/4ytkhMSAnrDP8XzRNlw9FS"
-        }
-      ],
-      "duration_ms": 144933,
-      "name": "What Child Is This",
-      "url": "https://open.spotify.com/track/1KYp6R9KfYSna86gFkIhq0"
-    },
-    {
-      "added_at": "2022-09-23 12:05:26",
+      "added_at": "2022-10-07 11:51:12",
       "album": {
         "name": "Silent Night",
         "url": "https://open.spotify.com/album/494ISYC4VJgaXehehLU6zI"
@@ -601,23 +617,23 @@
       "url": "https://open.spotify.com/track/1ly2fVX5oa3mEYIIJmZy7y"
     },
     {
-      "added_at": "2022-09-23 12:05:26",
+      "added_at": "2022-10-07 11:51:12",
       "album": {
-        "name": "Christmas Jazz 2",
-        "url": "https://open.spotify.com/album/28uj6wDrwR9YLC4DPYjrT2"
+        "name": "A Charlie Brown Christmas [2012 Remastered & Expanded Edition]",
+        "url": "https://open.spotify.com/album/2XnNY3GEkbWHor5kyvXLu4"
       },
       "artists": [
         {
-          "name": "Leif Shires",
-          "url": "https://open.spotify.com/artist/3YVt5oKfFEE0yJa7yJ3wWE"
+          "name": "Vince Guaraldi Trio",
+          "url": "https://open.spotify.com/artist/4ytkhMSAnrDP8XzRNlw9FS"
         }
       ],
-      "duration_ms": 237946,
-      "name": "I Wonder as I Wander",
-      "url": "https://open.spotify.com/track/2MQcRhTYOzARoJqeMjaU7t"
+      "duration_ms": 144933,
+      "name": "What Child Is This",
+      "url": "https://open.spotify.com/track/1KYp6R9KfYSna86gFkIhq0"
     },
     {
-      "added_at": "2022-09-23 12:05:26",
+      "added_at": "2022-10-07 11:51:12",
       "album": {
         "name": "Jingle Bell Rock",
         "url": "https://open.spotify.com/album/1ZToBj4EZu8gnR2hLsrFwW"
@@ -633,7 +649,23 @@
       "url": "https://open.spotify.com/track/3DQFbtGXEnr4uWIh04ljQr"
     },
     {
-      "added_at": "2022-09-23 12:05:26",
+      "added_at": "2022-10-07 11:51:12",
+      "album": {
+        "name": "Christmas Jazz 2",
+        "url": "https://open.spotify.com/album/28uj6wDrwR9YLC4DPYjrT2"
+      },
+      "artists": [
+        {
+          "name": "Leif Shires",
+          "url": "https://open.spotify.com/artist/3YVt5oKfFEE0yJa7yJ3wWE"
+        }
+      ],
+      "duration_ms": 237946,
+      "name": "I Wonder as I Wander",
+      "url": "https://open.spotify.com/track/2MQcRhTYOzARoJqeMjaU7t"
+    },
+    {
+      "added_at": "2022-10-07 11:51:12",
       "album": {
         "name": "A Holly Jolly Christmas",
         "url": "https://open.spotify.com/album/4iYlrUIRIn826BpEK0SF8u"
@@ -649,7 +681,7 @@
       "url": "https://open.spotify.com/track/5L4cYsu1seA4z9uGntY8lx"
     },
     {
-      "added_at": "2022-09-23 12:05:26",
+      "added_at": "2022-10-07 11:51:12",
       "album": {
         "name": "Sound Of Christmas",
         "url": "https://open.spotify.com/album/0YjxIUhLMpx8AitREvQxKl"
@@ -665,7 +697,7 @@
       "url": "https://open.spotify.com/track/0KyArXxWFOxjKQOxl0P97i"
     },
     {
-      "added_at": "2022-09-23 12:05:26",
+      "added_at": "2022-10-07 11:51:12",
       "album": {
         "name": "The First Noel",
         "url": "https://open.spotify.com/album/0UykYUfd6JfL0WXXqbKGiX"
@@ -681,7 +713,7 @@
       "url": "https://open.spotify.com/track/4pVxflK7JBEAzj4pEY8G8e"
     },
     {
-      "added_at": "2022-09-23 12:05:26",
+      "added_at": "2022-10-07 11:51:12",
       "album": {
         "name": "Angels from the Realms of Glory",
         "url": "https://open.spotify.com/album/614xnvrnOoO8hojPMk5RUC"
@@ -697,7 +729,7 @@
       "url": "https://open.spotify.com/track/4AHihkbxRhNCsOnJdy8NBC"
     },
     {
-      "added_at": "2022-09-23 12:05:26",
+      "added_at": "2022-10-07 11:51:12",
       "album": {
         "name": "The Ultimate Christmas Playlist",
         "url": "https://open.spotify.com/album/5UA8tyVUcZI7EzW1O2JFFx"
@@ -713,7 +745,7 @@
       "url": "https://open.spotify.com/track/3zENRCKW6v5R0DxD3y8UoA"
     },
     {
-      "added_at": "2022-09-23 12:05:26",
+      "added_at": "2022-10-07 11:51:12",
       "album": {
         "name": "Santa Baby",
         "url": "https://open.spotify.com/album/3LZEEwdEdWvZW0EIWHFhcL"
@@ -729,7 +761,7 @@
       "url": "https://open.spotify.com/track/2SOy3BewGYpYy3zIJKREqw"
     },
     {
-      "added_at": "2022-09-23 12:05:26",
+      "added_at": "2022-10-07 11:51:12",
       "album": {
         "name": "It Came Upon the Midnight Clear",
         "url": "https://open.spotify.com/album/55akvbir79e3aLW1XBS0pz"
@@ -745,7 +777,7 @@
       "url": "https://open.spotify.com/track/0qcckgiXgPlmE2DtJFRWAk"
     },
     {
-      "added_at": "2022-09-23 12:05:26",
+      "added_at": "2022-10-07 11:51:12",
       "album": {
         "name": "Christmas Meets Jazz",
         "url": "https://open.spotify.com/album/4DIxYBpOVMQGxK8BKYrUgJ"
@@ -761,7 +793,7 @@
       "url": "https://open.spotify.com/track/3rEK1zgBRES9twQz0Cqqi5"
     },
     {
-      "added_at": "2022-09-23 12:05:26",
+      "added_at": "2022-10-07 11:51:12",
       "album": {
         "name": "O Holy Night",
         "url": "https://open.spotify.com/album/77u3EzT2GRPilIcGSaI5lQ"
@@ -777,7 +809,7 @@
       "url": "https://open.spotify.com/track/7qInMuxcT8bj0tHH7NqhXP"
     },
     {
-      "added_at": "2022-09-23 12:05:26",
+      "added_at": "2022-10-07 11:51:12",
       "album": {
         "name": "Tis the Season to Be Jazzy",
         "url": "https://open.spotify.com/album/02SiURFcsnXEBsgeBz8uWM"
@@ -801,7 +833,7 @@
       "url": "https://open.spotify.com/track/0mIkPyFnpT5m4fFgLkQIxO"
     },
     {
-      "added_at": "2022-09-23 12:05:26",
+      "added_at": "2022-10-07 11:51:12",
       "album": {
         "name": "Auld Lang Syne",
         "url": "https://open.spotify.com/album/3ct7cW6gOZZg8Md58zyna9"
@@ -817,7 +849,7 @@
       "url": "https://open.spotify.com/track/777i3gdjJMVlWvVJvErZeu"
     },
     {
-      "added_at": "2022-09-23 12:05:26",
+      "added_at": "2022-10-07 11:51:12",
       "album": {
         "name": "Martinis & Mistletoe: Christmas Jazz Piano",
         "url": "https://open.spotify.com/album/6irxdg4sz5ikmTg3ysQhbK"
@@ -833,7 +865,7 @@
       "url": "https://open.spotify.com/track/7iuHxTfZzyhBxqZjqNrI0I"
     },
     {
-      "added_at": "2022-09-23 12:05:26",
+      "added_at": "2022-10-07 11:51:12",
       "album": {
         "name": "Christmas Time",
         "url": "https://open.spotify.com/album/4O0xBHOwwopsTrx6Jo3MRt"
@@ -849,55 +881,23 @@
       "url": "https://open.spotify.com/track/2vGxnEVP4CQXSij7f2Bil9"
     },
     {
-      "added_at": "2022-09-23 12:05:26",
+      "added_at": "2022-10-07 11:51:12",
       "album": {
-        "name": "I'll Be Home for Christmas",
-        "url": "https://open.spotify.com/album/1DOc7OmsfnU8rGsy5peQK8"
+        "name": "Angels We Have Heard on High",
+        "url": "https://open.spotify.com/album/3YOn9GyXcA8itbYfZEfTj1"
       },
       "artists": [
         {
-          "name": "Reese Quartet",
-          "url": "https://open.spotify.com/artist/715TpfLaAurJfQk8CjhKsm"
+          "name": "Hollbeck",
+          "url": "https://open.spotify.com/artist/0l6Jx03I9oWTgtg3ZtxqRS"
         }
       ],
-      "duration_ms": 101102,
-      "name": "I Saw Mommy Kissing Santa Claus",
-      "url": "https://open.spotify.com/track/3JRdORtD13sQanAdu9DlbB"
+      "duration_ms": 146063,
+      "name": "Angels We Have Heard on High",
+      "url": "https://open.spotify.com/track/5I3ofazku9SrkaAUtprwCZ"
     },
     {
-      "added_at": "2022-09-23 12:05:26",
-      "album": {
-        "name": "More Sounds Of Christmas",
-        "url": "https://open.spotify.com/album/0PXIY5ZJpZWy3LMpujLN6C"
-      },
-      "artists": [
-        {
-          "name": "Ramsey Lewis Trio",
-          "url": "https://open.spotify.com/artist/4jZOiPysIzYxbDcDEOZmhu"
-        }
-      ],
-      "duration_ms": 209586,
-      "name": "Egg Nog",
-      "url": "https://open.spotify.com/track/2jkGiE1xadNkG3ZpGJL9I8"
-    },
-    {
-      "added_at": "2022-09-23 12:05:26",
-      "album": {
-        "name": "Jingle Bells",
-        "url": "https://open.spotify.com/album/5QiRNuqANTMFeKdznWLy7o"
-      },
-      "artists": [
-        {
-          "name": "Tom Stills Quartet",
-          "url": "https://open.spotify.com/artist/2AE39jS64KnonFYcLHAUv0"
-        }
-      ],
-      "duration_ms": 154503,
-      "name": "Jingle Bells",
-      "url": "https://open.spotify.com/track/40wnIrpSNGnU2xtprgYHme"
-    },
-    {
-      "added_at": "2022-09-23 12:05:26",
+      "added_at": "2022-10-07 11:51:12",
       "album": {
         "name": "A Jazzy Little Christmas",
         "url": "https://open.spotify.com/album/3dEp0spQB8Yz3vPr2PUWc3"
@@ -913,7 +913,55 @@
       "url": "https://open.spotify.com/track/5uIylVaLyLDOe3YQTo9Arc"
     },
     {
-      "added_at": "2022-09-23 12:05:26",
+      "added_at": "2022-10-07 11:51:12",
+      "album": {
+        "name": "I'll Be Home for Christmas",
+        "url": "https://open.spotify.com/album/1DOc7OmsfnU8rGsy5peQK8"
+      },
+      "artists": [
+        {
+          "name": "Reese Quartet",
+          "url": "https://open.spotify.com/artist/715TpfLaAurJfQk8CjhKsm"
+        }
+      ],
+      "duration_ms": 101102,
+      "name": "I Saw Mommy Kissing Santa Claus",
+      "url": "https://open.spotify.com/track/3JRdORtD13sQanAdu9DlbB"
+    },
+    {
+      "added_at": "2022-10-07 11:51:12",
+      "album": {
+        "name": "More Sounds Of Christmas",
+        "url": "https://open.spotify.com/album/0PXIY5ZJpZWy3LMpujLN6C"
+      },
+      "artists": [
+        {
+          "name": "Ramsey Lewis Trio",
+          "url": "https://open.spotify.com/artist/4jZOiPysIzYxbDcDEOZmhu"
+        }
+      ],
+      "duration_ms": 209586,
+      "name": "Egg Nog",
+      "url": "https://open.spotify.com/track/2jkGiE1xadNkG3ZpGJL9I8"
+    },
+    {
+      "added_at": "2022-10-07 11:51:12",
+      "album": {
+        "name": "Jingle Bells",
+        "url": "https://open.spotify.com/album/5QiRNuqANTMFeKdznWLy7o"
+      },
+      "artists": [
+        {
+          "name": "Tom Stills Quartet",
+          "url": "https://open.spotify.com/artist/2AE39jS64KnonFYcLHAUv0"
+        }
+      ],
+      "duration_ms": 154503,
+      "name": "Jingle Bells",
+      "url": "https://open.spotify.com/track/40wnIrpSNGnU2xtprgYHme"
+    },
+    {
+      "added_at": "2022-10-07 11:51:12",
       "album": {
         "name": "Have Yourself a Merry Little Christmas",
         "url": "https://open.spotify.com/album/3owNP9iL5Db7iKu7JEyWEg"
@@ -929,7 +977,23 @@
       "url": "https://open.spotify.com/track/0fQOIeqzT092q2p8wDDBYl"
     },
     {
-      "added_at": "2022-09-23 12:05:26",
+      "added_at": "2022-10-07 11:51:12",
+      "album": {
+        "name": "I Heard the Bells on Christmas Day",
+        "url": "https://open.spotify.com/album/7dko1YoyuNsJ3z6pFLsp5c"
+      },
+      "artists": [
+        {
+          "name": "The Dox Band",
+          "url": "https://open.spotify.com/artist/5nk8TLI3DoGV9Fyaa7V9JL"
+        }
+      ],
+      "duration_ms": 149940,
+      "name": "I Heard the Bells on Christmas Day",
+      "url": "https://open.spotify.com/track/5i5I6SXrI8No6aEHrGlzIx"
+    },
+    {
+      "added_at": "2022-10-07 11:51:12",
       "album": {
         "name": "Tis the Season to Be Jazzy",
         "url": "https://open.spotify.com/album/02SiURFcsnXEBsgeBz8uWM"
@@ -953,7 +1017,7 @@
       "url": "https://open.spotify.com/track/5hI9PuH5lFpEryNVc7FImN"
     },
     {
-      "added_at": "2022-09-23 12:05:26",
+      "added_at": "2022-10-07 11:51:12",
       "album": {
         "name": "Once in Royal David's City",
         "url": "https://open.spotify.com/album/5dDT9Nh3MCITsacmvIv6lp"
@@ -969,7 +1033,7 @@
       "url": "https://open.spotify.com/track/68ugUmH1wjIN0vCR98sC7G"
     },
     {
-      "added_at": "2022-09-23 12:05:26",
+      "added_at": "2022-10-07 11:51:12",
       "album": {
         "name": "Jazz Piano Christmas",
         "url": "https://open.spotify.com/album/18ZbJ0B7OONpsM28cloOTk"
@@ -985,7 +1049,7 @@
       "url": "https://open.spotify.com/track/3KuEPCnZC3SHQjwV0R8hSX"
     },
     {
-      "added_at": "2022-09-23 12:05:26",
+      "added_at": "2022-10-07 11:51:12",
       "album": {
         "name": "My Favourite Time of Year",
         "url": "https://open.spotify.com/album/5erwrkAgvvtsofeB64etXw"
@@ -1001,7 +1065,23 @@
       "url": "https://open.spotify.com/track/61IXkIVYvfpKdjzEQeMU54"
     },
     {
-      "added_at": "2022-09-23 12:05:26",
+      "added_at": "2022-10-07 11:51:12",
+      "album": {
+        "name": "Go Tell It On The Mountain",
+        "url": "https://open.spotify.com/album/7IbDqi94MtPmiq4eLlZf6i"
+      },
+      "artists": [
+        {
+          "name": "Eltingvilles",
+          "url": "https://open.spotify.com/artist/7qYYtUCPSVXspwRs4wiQ9R"
+        }
+      ],
+      "duration_ms": 150550,
+      "name": "Go Tell It On The Mountain",
+      "url": "https://open.spotify.com/track/2IHJbBiT7v4oR4WXt63yVZ"
+    },
+    {
+      "added_at": "2022-10-07 11:51:12",
       "album": {
         "name": "I Saw Three Ships",
         "url": "https://open.spotify.com/album/72Eg5ywjro4gFFqgG8ewqS"
@@ -1017,7 +1097,7 @@
       "url": "https://open.spotify.com/track/1OfkfkZeJVO0hB26HTP1o2"
     },
     {
-      "added_at": "2022-09-23 12:05:26",
+      "added_at": "2022-10-07 11:51:12",
       "album": {
         "name": "Trio 64",
         "url": "https://open.spotify.com/album/4rLPJEiZuhRRswnBGBgVvv"
@@ -1033,7 +1113,7 @@
       "url": "https://open.spotify.com/track/5JfaOWtjZp3blXwvExWtjl"
     },
     {
-      "added_at": "2022-09-23 12:05:26",
+      "added_at": "2022-10-07 11:51:12",
       "album": {
         "name": "I'll Be Home for Christmas",
         "url": "https://open.spotify.com/album/1DOc7OmsfnU8rGsy5peQK8"
@@ -1049,7 +1129,7 @@
       "url": "https://open.spotify.com/track/6dEz0rAh85G3fsTIUcEU0o"
     },
     {
-      "added_at": "2022-09-23 12:05:26",
+      "added_at": "2022-10-07 11:51:12",
       "album": {
         "name": "My Favourite Time of Year",
         "url": "https://open.spotify.com/album/5erwrkAgvvtsofeB64etXw"
@@ -1065,7 +1145,23 @@
       "url": "https://open.spotify.com/track/6J0FoTuu2z24FutBRLfwmb"
     },
     {
-      "added_at": "2022-09-23 12:05:26",
+      "added_at": "2022-10-07 11:51:12",
+      "album": {
+        "name": "Away In a Manger",
+        "url": "https://open.spotify.com/album/0zMvwS3xk4yzILsWST0dZ5"
+      },
+      "artists": [
+        {
+          "name": "Tannenbaum Trio",
+          "url": "https://open.spotify.com/artist/5o0nK5sGCqA1E4MTOCgpSn"
+        }
+      ],
+      "duration_ms": 69541,
+      "name": "Away In a Manger",
+      "url": "https://open.spotify.com/track/2GRvpoXLoxOiu88ME6YX6y"
+    },
+    {
+      "added_at": "2022-10-07 11:51:12",
       "album": {
         "name": "A Very Swingin\u2019 Basie Christmas!",
         "url": "https://open.spotify.com/album/2YeKSxPeuQYiml0g6pzn7S"
@@ -1081,7 +1177,23 @@
       "url": "https://open.spotify.com/track/1aeVPzsWRiLbZEcn9SSEfb"
     },
     {
-      "added_at": "2022-09-23 12:05:26",
+      "added_at": "2022-10-07 11:51:12",
+      "album": {
+        "name": "Jazz Nights",
+        "url": "https://open.spotify.com/album/09CNhFjwKtppqXQKzrKOWe"
+      },
+      "artists": [
+        {
+          "name": "Hudson Harris & Haim",
+          "url": "https://open.spotify.com/artist/29EE6iBb3i7sWjsz410xbV"
+        }
+      ],
+      "duration_ms": 154096,
+      "name": "A Child Is Born",
+      "url": "https://open.spotify.com/track/31FsKXdQiIqxHYMyPMl7ev"
+    },
+    {
+      "added_at": "2022-10-07 11:51:12",
       "album": {
         "name": "Here Comes Santa Claus",
         "url": "https://open.spotify.com/album/3KANZfLdfrcTDDYaIKWstX"

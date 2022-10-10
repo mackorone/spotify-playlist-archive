@@ -4,7 +4,7 @@
 
 > 這些有節奏有溫度的情歌，能讓你時時刻刻都有在幸福中遊走的感覺。
 
-236 songs - 14 hr 17 min - [published](https://open.spotify.com/playlist/5iFkvSVaOfjtCz6w0iDsyy)
+239 songs - 14 hr 27 min - [published](https://open.spotify.com/playlist/5iFkvSVaOfjtCz6w0iDsyy)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,7 +37,7 @@
 | [Mojito](https://open.spotify.com/track/2J42jKkwGqiRsxUYh7FMTm) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [最偉大的作品](https://open.spotify.com/album/1rBr9FeLlp5ueSKtE89FZa) | 3:05 | 2022-07-25 |  |
 | [NOT OVER U](https://open.spotify.com/track/7ka7lf2RSsKpBncHGrxE3A) | [Soph T.](https://open.spotify.com/artist/2lP0iXobpSDobEhi2eI4eP) | [NOT OVER U](https://open.spotify.com/album/37RjBAZMoEQAnmbOC3BRJF) | 2:59 | 2022-06-06 | 2022-07-20 |
 | [Only Have Feelings For You](https://open.spotify.com/track/4MSLBloiWadnbyMJepxfsT) | [Fahrenheit](https://open.spotify.com/artist/12JKvbMl7cQqmtumTZTT3g) | [Fahrenheit](https://open.spotify.com/album/4wGcUak2adE4WFF4E8k0DD) | 3:59 | 2022-07-25 |  |
-| [Samarcande](https://open.spotify.com/track/0kBBID6PJWjdh0Feew3rtW) | [Limestone Quarry](https://open.spotify.com/artist/4VhlhOe3FHkPzW4BsYR9EC) | [Samarcande](https://open.spotify.com/album/1Jas47aIjJ4dJGnFtqnstU) | 3:22 | 2022-08-08 |  |
+| [Samarcande](https://open.spotify.com/track/0kBBID6PJWjdh0Feew3rtW) | [Limestone Quarry](https://open.spotify.com/artist/4VhlhOe3FHkPzW4BsYR9EC) | [Samarcande](https://open.spotify.com/album/1Jas47aIjJ4dJGnFtqnstU) | 3:22 | 2022-08-08 | 2022-10-04 |
 | [Secrets](https://open.spotify.com/track/7Kw1g2prIMcE3aOWd0TBMp) | [王品怡](https://open.spotify.com/artist/47rcMBPKWgIt6pDglkNrFn), [Kevin Liao](https://open.spotify.com/artist/38e3dRuXJNEIlJLo2ux8pA) | [為你唱情歌 \- Secrets](https://open.spotify.com/album/0QdXaHp7mskkExLDZwhRAW) | 2:17 | 2022-09-26 |  |
 | [So Lucky feat\. 鼓鼓 呂思緯](https://open.spotify.com/track/5V0O06ZqReqCbU2DnGNOWn) | [郭靜 \(Claire Kuo\)](https://open.spotify.com/artist/3GV6SjP0scJoncVohTOF3Z), [GBOYSWAG](https://open.spotify.com/artist/2QOj4jFuDei3DWSkDHfWTm) | [So Lucky](https://open.spotify.com/album/3AruLQzACKree7M5L12Gx7) | 3:11 | 2022-08-08 | 2022-09-15 |
 | [TA](https://open.spotify.com/track/5jorYGG6XVjhyz1yj0CMv1) | [不是花火呀](https://open.spotify.com/artist/5CxdR3VSEWjiAa5DabdLVd) | [TA](https://open.spotify.com/album/4BLZQfs2fLTHOn99hDauFQ) | 3:55 | 2022-06-06 | 2022-07-26 |
@@ -99,6 +99,7 @@
 | [墨菲定律 \(feat\. Sherman Zhuo\)](https://open.spotify.com/track/27I1DB7fCuuhRcXt8r8fnx) | [Shelby Wang](https://open.spotify.com/artist/2Ei4OyOgbi3w0smNgmBBv0), [Sherman Zhuo](https://open.spotify.com/artist/6Ol8MzcK4ARqC8cTJbFxAw) | [墨菲定律 \(feat\. Sherman Zhuo\)](https://open.spotify.com/album/39U4JqGLKnFoSzAyo3wwMP) | 3:02 | 2022-06-06 | 2022-06-17 |
 | [夏色17号\-比尔的歌](https://open.spotify.com/track/5Dr6LweBUX9A0w4Fm0oaB0) | [Bomb比尔](https://open.spotify.com/artist/3Sb1u6CGLCWHHphMqX326E), [不是花火呀](https://open.spotify.com/artist/5CxdR3VSEWjiAa5DabdLVd) | [夏色17号\-比尔的歌](https://open.spotify.com/album/0ZO8r4sN5eymZG4YMozKT1) | 3:13 | 2022-08-29 |  |
 | [天使見證的愛情](https://open.spotify.com/track/46k8JnUuYVu8yWtC3VN8wo) | [蕭秉治](https://open.spotify.com/artist/0Ej4GfzIcW3dWP0rC5d4x1), [ERIKA](https://open.spotify.com/artist/3cuZA22vz0nToT0LAcecup) | [凡人](https://open.spotify.com/album/1MZZXzwEPXBvwG29dpGCDZ) | 3:23 | 2022-06-27 | 2022-07-28 |
+| [天气预报](https://open.spotify.com/track/29PXFwJJJhbv3qSvW1GD0H) | [Cindy大蟠桃子](https://open.spotify.com/artist/3bdkqX2OKcnxvqnG5DmBSH) | [天气预报](https://open.spotify.com/album/5GJpp6vX5tAvJhzV0HWptC) | 2:51 | 2022-10-04 |  |
 | [天生一對](https://open.spotify.com/track/2zHy0qGu8LmpG7EHP2QzkB) | [Young](https://open.spotify.com/artist/7tuUo4Kby0sTXYcctxdlYa) | [天生一對](https://open.spotify.com/album/5uSx00qbtn0iZbyM44YXYY) | 4:03 | 2022-06-06 | 2022-07-29 |
 | [好久不見](https://open.spotify.com/track/1qjkBEqOHZoT95xhEKISLZ) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [跨時代](https://open.spotify.com/album/7oz7WhrdSfsC3GkAUPOzgL) | 4:12 | 2022-06-20 | 2022-07-10 |
 | [好喜歡你](https://open.spotify.com/track/0uvjPVyOj050b6n60pxf2z) | [颜人中](https://open.spotify.com/artist/5PNcqs6EtD6gSXgUiiJIUU) | [好喜歡你](https://open.spotify.com/album/0AxUxvZfoCud7qsk9TGcqp) | 4:27 | 2022-06-06 |  |
@@ -121,6 +122,7 @@
 | [就想和你在一起](https://open.spotify.com/track/2MOb7OFN5oT15Fq7gvA2Rw) | [Bo Wen](https://open.spotify.com/artist/3VrQh6QZDpQxT4FjeSC6pK), [蔡卓宜](https://open.spotify.com/artist/7BIwfYlgEqQDGaFufasqwi) | [我可否将人生比作一场竞技](https://open.spotify.com/album/4fNoLqoUAfMmo8CBfbUxzN) | 3:35 | 2022-06-20 | 2022-06-22 |
 | [就是愛妳](https://open.spotify.com/track/73eCSQ1DxQbaOnzy8PhKx3) | [David Tao](https://open.spotify.com/artist/40tNK2YedBV2jRFAHxpifB) | [太平盛世](https://open.spotify.com/album/1XnDRFsNxG12nZPRXNcPkU) | 4:21 | 2022-06-06 |  |
 | [屬於你 \- 電影《一周的朋友》插曲](https://open.spotify.com/track/6aAWv8sFAh1l1buBTUgTWo) | [理想混蛋](https://open.spotify.com/artist/0Awqm7GXGiBp8fJNGvywra) | [屬於你 \(電影《一周的朋友》插曲\)](https://open.spotify.com/album/72UbhmRyjQB15aaSkfz6Td) | 2:57 | 2022-06-27 |  |
+| [左边](https://open.spotify.com/track/16nxkgxMYayeSct6XY4SmW) | [小包](https://open.spotify.com/artist/70GgkbQstBRQJLwJsKADnC) | [左边](https://open.spotify.com/album/3l0aC2xHOJaDF9EWLeJQpx) | 3:02 | 2022-10-04 |  |
 | [巴黎的十二點](https://open.spotify.com/track/4dVlQJVxsUNEL4lTSSwAJB) | [OHMYMEITING](https://open.spotify.com/artist/5ejbZdon0riCxa7GyJNEAx) | [巴黎的十二點](https://open.spotify.com/album/0kxdozp8b7SxMfeiJ5Pxgz) | 3:41 | 2022-06-06 |  |
 | [幸福摩天輪](https://open.spotify.com/track/5ayE9R8ctpX7UGOWXCRk14) | [ALL\-RANGE](https://open.spotify.com/artist/7aRvHV5UR0tqnuWfJQy4f8) | [初次見面](https://open.spotify.com/album/6FKYBWEpQgfNvmmTfses7q) | 4:06 | 2022-06-06 | 2022-06-10 |
 | [幸福是被你需要](https://open.spotify.com/track/0KNnNIaWABM2kum1ZdCYVO) | [Silence Wang](https://open.spotify.com/artist/0PdNEiQ3MsJGCEgE13Tz60) | [慢慢懂](https://open.spotify.com/album/31K53QT3eo47WrUAVGzS6O) | 3:54 | 2022-06-13 | 2022-06-21 |
@@ -151,7 +153,7 @@
 | [愛在發酵 \(Vidol原創微劇《愛不愛栗絲》片頭曲\)](https://open.spotify.com/track/5UaSB8aD7oQOX1l5eqoLMR) | [曾韻璇](https://open.spotify.com/artist/5y6V55XBzT0i9WkySKwgNE), [高偉勛](https://open.spotify.com/artist/3P8fzwFoEZQxVovoy2xgkd) | [愛在發酵 \(Vidol原創微劇《愛不愛栗絲》片頭曲\)](https://open.spotify.com/album/3eHD9S6QJRWfUq3dO63E5i) | 3:47 | 2022-07-04 | 2022-07-08 |
 | [感情線](https://open.spotify.com/track/3LgX9DAyToN6qHeCWhuuQH) | [Tension](https://open.spotify.com/artist/7fQvUENMhNj1uudorBk9DO) | [故事\(新歌+精選\)](https://open.spotify.com/album/3Zgjs3ZBOn1h0wj2e1yzpp) | 4:05 | 2022-07-11 |  |
 | [慢慢來](https://open.spotify.com/track/1yAgPYONWEoQgsOaFqIVGE) | [歐得洋](https://open.spotify.com/artist/4bq18ACyIRmH97uzCqrAEx) | [慢慢來](https://open.spotify.com/album/6PUCm1ig2sqtDU0epcKHQL) | 3:48 | 2022-06-13 | 2022-06-19 |
-| [慢慢靠近](https://open.spotify.com/track/1M0MsRnz3NfKqE37VyexwV) | [董又霖](https://open.spotify.com/artist/0rHXxnGdTBaVYVit4HfNE9) | [慢慢靠近](https://open.spotify.com/album/0ZUQ3g76DZwgFhzKAPampH) | 3:27 | 2022-09-05 |  |
+| [慢慢靠近](https://open.spotify.com/track/1M0MsRnz3NfKqE37VyexwV) | [董又霖](https://open.spotify.com/artist/0rHXxnGdTBaVYVit4HfNE9) | [慢慢靠近](https://open.spotify.com/album/0ZUQ3g76DZwgFhzKAPampH) | 3:27 | 2022-09-05 | 2022-10-04 |
 | [戀愛是選擇題由你](https://open.spotify.com/track/02r44UrfPjUYnST7DTLmH8) | [林鴻宇](https://open.spotify.com/artist/3cNu9TadMUtDkoVd5db2qB) | [相愛的這種本能](https://open.spotify.com/album/5ej1v8T39zdAUM5g1gvtxz) | 3:33 | 2022-06-06 | 2022-06-13 |
 | [我喜歡\(不,我愛\)](https://open.spotify.com/track/7lqtdXxC38KOrQ33SB5wVo) | [Yen\-J](https://open.spotify.com/artist/2GzmpDXimCEph6SAw4YdNi) | [謝謝你的美好](https://open.spotify.com/album/7l8wuAhY4aCPnc9ZmwxvSE) | 4:08 | 2022-06-06 | 2022-07-19 |
 | [我喜歡你](https://open.spotify.com/track/75EBF5dwgU2w0u4IJtdUI5) | [Patrick Brasca](https://open.spotify.com/artist/1xCrrnnj9xif5G0y3ie5dM) | [我喜歡你](https://open.spotify.com/album/2TbRtoKHcCkt39yb9JBnC6) | 3:15 | 2022-06-06 | 2022-07-12 |
@@ -181,7 +183,7 @@
 | [海绵宝宝](https://open.spotify.com/track/3yZFL4pKWue0I8ru6mmxqX) | [Silence Wang](https://open.spotify.com/artist/0PdNEiQ3MsJGCEgE13Tz60) | [海绵宝宝](https://open.spotify.com/album/0Uz8fFtCbhG27CwfUqzKv1) | 3:18 | 2022-08-08 |  |
 | [海绵宝宝](https://open.spotify.com/track/7kKXZL7nkWcm7wx8zNqwNc) | [Silence Wang](https://open.spotify.com/artist/0PdNEiQ3MsJGCEgE13Tz60) | [海绵宝宝](https://open.spotify.com/album/7GKyJqtbiA17PS4COyAwfd) | 3:18 | 2022-06-06 | 2022-07-28 |
 | [渐暖](https://open.spotify.com/track/3BR2pyEvbTwVhE0qpGEMaX) | [時代少年團](https://open.spotify.com/artist/6I36DXLxkJxYeq82tDH4zz) | [渐暖](https://open.spotify.com/album/1o2NQjq0Cux4JSwxhd4JQd) | 3:10 | 2022-06-13 |  |
-| [溫泉](https://open.spotify.com/track/04GpBu5gm14iLJRfmwi4RS) | [許嵩](https://open.spotify.com/artist/2hgxWUG24w1cFLBlPSEVcV), [劉美麟](https://open.spotify.com/artist/5VjJhwgGrlT9YJCEPoAL3G) | [溫泉](https://open.spotify.com/album/59R817eQRIXIiAemtJKp6x) | 4:43 | 2022-06-06 |  |
+| [溫泉](https://open.spotify.com/track/04GpBu5gm14iLJRfmwi4RS) | [許嵩](https://open.spotify.com/artist/2hgxWUG24w1cFLBlPSEVcV), [劉美麟](https://open.spotify.com/artist/5VjJhwgGrlT9YJCEPoAL3G) | [溫泉](https://open.spotify.com/album/59R817eQRIXIiAemtJKp6x) | 4:43 | 2022-06-06 | 2022-10-07 |
 | [漫畫家](https://open.spotify.com/track/7ECQQiLn4LeQtWRSKIYI8e) | [有感覺](https://open.spotify.com/artist/7uSnXddSw3Vrj8tM7tynMy) | [漫畫家](https://open.spotify.com/album/2a46sQ6QQw86SdZND2T4aE) | 3:57 | 2022-06-27 | 2022-07-05 |
 | [為你著迷](https://open.spotify.com/track/2GlPXdHY1psEVf1Ox9A2JA) | [Daniel Lo](https://open.spotify.com/artist/5ecXGNDkVKndKd0lvODR89), [卓文萱](https://open.spotify.com/artist/5XHBjJm3bCgQCjpnInCxfT) | [體驗](https://open.spotify.com/album/2rB04GT8cvE8HM8g0f8pKf) | 4:34 | 2022-06-27 | 2022-07-01 |
 | [热恋冰淇淋](https://open.spotify.com/track/3ILYRPbZSmv9z6zIqlYWrS) | [yihuik苡慧](https://open.spotify.com/artist/3tkDkXGNpLVIt8qQJHSb7e) | [热恋冰淇淋](https://open.spotify.com/album/687L7gtiQqSyN6d6E3Omk3) | 2:09 | 2022-08-08 |  |
@@ -200,6 +202,7 @@
 | [當你孤單你會想起誰](https://open.spotify.com/track/3e23FThGTaBt5rEnxIPMJu) | [Alina Cheng](https://open.spotify.com/artist/0afEdGty8N3VzTdFwtPydj), [劉書宏](https://open.spotify.com/artist/3RtuGWS4Axo9dC7vCPVNEo) | [當你孤單你會想起誰](https://open.spotify.com/album/0i67BnNKZXN5nObLW2rM5i) | 4:01 | 2022-06-06 | 2022-07-29 |
 | [當你孤單你會想起誰](https://open.spotify.com/track/1qBwJa1vOvIUyD3dlLU03P) | [歐得洋](https://open.spotify.com/artist/4bq18ACyIRmH97uzCqrAEx) | [當你孤單你會想起誰](https://open.spotify.com/album/4WyfVslftjtq0Q7aarCGgl) | 3:11 | 2022-06-06 | 2022-07-28 |
 | [直到我遇見了你](https://open.spotify.com/track/3LAgIUioZHAUaCjj4KsX9Y) | [Yo Lee](https://open.spotify.com/artist/1D2LuIU6rgg0MGa0l8wYJh) | [直到我遇見了你](https://open.spotify.com/album/2ahdjX6myx2b9NJ65stXOo) | 4:06 | 2022-06-06 | 2022-07-29 |
+| [第一默契 \(电视剧 《你微笑时很美》 片尾曲\)](https://open.spotify.com/track/4Y7gVsky7KNr4P8Bjbtlcy) | [Kai Xu](https://open.spotify.com/artist/5aL82Rnbtx5DQp5cAcCUdI), [Xiao Cheng](https://open.spotify.com/artist/1o4C8yeeDMUpc2Hq4jRTwT) | [電視劇《你微笑時很美》影視原聲帶](https://open.spotify.com/album/3chqJvgxqZfXOhISPnJCNs) | 3:28 | 2022-09-26 |  |
 | [第一默契 Soulmate](https://open.spotify.com/track/3GFdYLcROugyYHy9rcXulD) | [Xu Kai](https://open.spotify.com/artist/00m70qHTo1jHHxLgAXbkXA), [程瀟 \(Cheng Xiao\)](https://open.spotify.com/artist/6eY9LT0jokuZ4iwGoAW9nt) | [你微笑時很美 Falling Into Your Smile OST](https://open.spotify.com/album/7GcUs9FQMCUatmstpSeDZZ) | 3:28 | 2022-06-13 | 2022-09-30 |
 | [等你下課](https://open.spotify.com/track/76WthWB0v0KXUHZoAclMVV) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql), [Gary Yang](https://open.spotify.com/artist/4iFznCrxI2nlVer46cgvWG) | [等你下課](https://open.spotify.com/album/6cGDAwmjAE5i2a9fIY6Cu8) | 4:30 | 2022-06-27 |  |
 | [簡單愛](https://open.spotify.com/track/5Jtg0qcTKMHq3HjPVGRFAi) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [范特西](https://open.spotify.com/album/0xWySBAzp6b37EARWzycQJ) | 4:30 | 2022-07-25 |  |

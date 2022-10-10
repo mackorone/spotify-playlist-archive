@@ -77,7 +77,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 138213,
       "name": "420 Day",
       "url": "https://open.spotify.com/track/1caT11KIdwgfVmfBPE1Nab"
@@ -361,7 +361,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 201848,
       "name": "Ain't Got What It Takes",
       "url": "https://open.spotify.com/track/687WfKq1OY5BRQFRY4QPZP"
@@ -495,7 +495,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-01",
+      "date_removed": null,
       "duration_ms": 269139,
       "name": "Amaneceres",
       "url": "https://open.spotify.com/track/5aYZRy7PeCruHo3G1hcN5f"
@@ -1485,7 +1485,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 203049,
       "name": "Can You Save Me",
       "url": "https://open.spotify.com/track/7xuCgZYOUADB2TgMw8wzxL"
@@ -1830,6 +1830,24 @@
     },
     {
       "album": {
+        "name": "Constellations",
+        "url": "https://open.spotify.com/album/5XlbkKOZC21NhXuMVJZYH1"
+      },
+      "artists": [
+        {
+          "name": "October Spree",
+          "url": "https://open.spotify.com/artist/6rvU3KE3BVv0sYLxPIFsZW"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175826,
+      "name": "Constellations",
+      "url": "https://open.spotify.com/track/2r7XnuMWhiYfLVFXOlRr4w"
+    },
+    {
+      "album": {
         "name": "Cora\u017aon Roto (Broken-Hearted)",
         "url": "https://open.spotify.com/album/7ccaN1aQELYQWdBfpjCPCH"
       },
@@ -2161,7 +2179,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-30",
+      "date_removed": null,
       "duration_ms": 281557,
       "name": "Debajo del sol",
       "url": "https://open.spotify.com/track/5UExNUW8Ry7IDMaSIvZ2HD"
@@ -2263,6 +2281,28 @@
       "duration_ms": 240004,
       "name": "Diablo e' la Metro",
       "url": "https://open.spotify.com/track/1rwPLEnE5NkqNLd0rM4ZCZ"
+    },
+    {
+      "album": {
+        "name": "3 Kings",
+        "url": "https://open.spotify.com/album/1jz3MywLJFBRBe025qf5kJ"
+      },
+      "artists": [
+        {
+          "name": "Sucre papito",
+          "url": "https://open.spotify.com/artist/7tShVgvppHhnPe4ubsJi6f"
+        },
+        {
+          "name": "BLAQNOTE",
+          "url": "https://open.spotify.com/artist/4dwDxz9Hq6Wxo1MOfv9hiB"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162664,
+      "name": "Diamond in the Ruff",
+      "url": "https://open.spotify.com/track/4xojIuTJe3V130dQf3tf7s"
     },
     {
       "album": {
@@ -2631,7 +2671,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 270368,
       "name": "El Mundo Del Ritmo",
       "url": "https://open.spotify.com/track/5zahSvk8Dk7Ka1LEru6cvZ"
@@ -2683,6 +2723,24 @@
       "duration_ms": 336864,
       "name": "Electric Love",
       "url": "https://open.spotify.com/track/3i0fwXcLQxzuIyV73E6PMH"
+    },
+    {
+      "album": {
+        "name": "Rhythmic Notes",
+        "url": "https://open.spotify.com/album/2oMbxNZPeJGj80XdIwS1x6"
+      },
+      "artists": [
+        {
+          "name": "HealthySounds MH",
+          "url": "https://open.spotify.com/artist/0hwOGyfJW67nH2EenlKL2r"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 52925,
+      "name": "Elegant notes",
+      "url": "https://open.spotify.com/track/3N5PMG0RZulyyniWLnGnhZ"
     },
     {
       "album": {
@@ -2863,7 +2921,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 155376,
       "name": "Etude Op. 8 No. 12",
       "url": "https://open.spotify.com/track/2mwhRb2t3wbxS6k8US1cWU"
@@ -3176,6 +3234,24 @@
     },
     {
       "album": {
+        "name": "Flashback",
+        "url": "https://open.spotify.com/album/1ix45lPBoQ78iJFidD1vun"
+      },
+      "artists": [
+        {
+          "name": "Teddy Attia",
+          "url": "https://open.spotify.com/artist/3WZXimPH0admT8F79AOwo8"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228693,
+      "name": "Flashback",
+      "url": "https://open.spotify.com/track/5l3d29XjQbIe7Id1aax2Zl"
+    },
+    {
+      "album": {
         "name": "For My Thoughts",
         "url": "https://open.spotify.com/album/6ov3U8PKvTuqj7r7Y6ak8W"
       },
@@ -3241,7 +3317,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-01",
+      "date_removed": null,
       "duration_ms": 107498,
       "name": "Frequency of My Heart",
       "url": "https://open.spotify.com/track/5u89jU5Wtb25e8LHR8Gt6l"
@@ -3374,6 +3450,24 @@
     },
     {
       "album": {
+        "name": "Gal ki aeee",
+        "url": "https://open.spotify.com/album/5TUmeKpt1NP5gjsNCRDzLc"
+      },
+      "artists": [
+        {
+          "name": "jbjhanceboyz",
+          "url": "https://open.spotify.com/artist/0U2tKu2z4Abs0B626f4T5Z"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175229,
+      "name": "Gal ki aeee",
+      "url": "https://open.spotify.com/track/2yaRDq0eNcNCyzi8RZaQrM"
+    },
+    {
+      "album": {
         "name": "My Head Sounds Like This",
         "url": "https://open.spotify.com/album/5sS84Ju5SbX05MVzMEvqtQ"
       },
@@ -3439,7 +3533,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-10",
+      "date_removed": null,
       "duration_ms": 201816,
       "name": "Gazpacho on a Summer Day",
       "url": "https://open.spotify.com/track/0Hjx3c50idp6IV4bORPvOH"
@@ -3746,6 +3840,24 @@
     },
     {
       "album": {
+        "name": "Hey What Yeah",
+        "url": "https://open.spotify.com/album/7dTEaOKzDW1XnZXVaXHwOO"
+      },
+      "artists": [
+        {
+          "name": "Sir IV Princess",
+          "url": "https://open.spotify.com/artist/7pqSJA1cLsSBxJym0NZfXb"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190143,
+      "name": "Hey What Yeah",
+      "url": "https://open.spotify.com/track/4Y2HYzovnc1NkrAGgCgp5V"
+    },
+    {
+      "album": {
         "name": "Hide Away",
         "url": "https://open.spotify.com/album/6lqRDAC4GV9Ez5DIiovwzX"
       },
@@ -3815,7 +3927,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-01",
+      "date_removed": null,
       "duration_ms": 214291,
       "name": "Hold Me",
       "url": "https://open.spotify.com/track/7cgzn5OjK1SlI0y61iNUcy"
@@ -3869,7 +3981,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 130866,
       "name": "Hundred Grand",
       "url": "https://open.spotify.com/track/1n7IgX1pppqGfS5EanFEuP"
@@ -3959,7 +4071,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 256500,
       "name": "I Don't Even Care",
       "url": "https://open.spotify.com/track/1Z0IPD6rSi8HA557j3R08e"
@@ -4075,6 +4187,24 @@
       "duration_ms": 265937,
       "name": "I Think I'm Dying",
       "url": "https://open.spotify.com/track/4SUNqnwUeP4516gG73RrIf"
+    },
+    {
+      "album": {
+        "name": "Aerofall",
+        "url": "https://open.spotify.com/album/0WZFnNsIbbUfuq2hyvZRiT"
+      },
+      "artists": [
+        {
+          "name": "Aerofall",
+          "url": "https://open.spotify.com/artist/4OqPiGETw0NuvV1ifalM27"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259578,
+      "name": "I Turned a Blind Eye",
+      "url": "https://open.spotify.com/track/1TMDw6xXwRsuuRyIzAEYkT"
     },
     {
       "album": {
@@ -4324,6 +4454,24 @@
     },
     {
       "album": {
+        "name": "Inspiration",
+        "url": "https://open.spotify.com/album/65VVeb6VAc4nW3XvNrvFDn"
+      },
+      "artists": [
+        {
+          "name": "Maja Hovmark",
+          "url": "https://open.spotify.com/artist/6CMbvjsD70wTfkrEKvT6Or"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254500,
+      "name": "Inspiration",
+      "url": "https://open.spotify.com/track/0299cT2FqIjVnE1RIGNYhV"
+    },
+    {
+      "album": {
         "name": "Into the Clouds",
         "url": "https://open.spotify.com/album/76rKbkOVAbfHVXzRuoLjHZ"
       },
@@ -4531,7 +4679,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 371773,
       "name": "Kcir Sinarom - Instrumental",
       "url": "https://open.spotify.com/track/1X1Sy1m3l3MpGVIdmxsxua"
@@ -4553,7 +4701,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 234187,
       "name": "Keep Moving",
       "url": "https://open.spotify.com/track/2PN2KrIVjs2qGB76cCDgOj"
@@ -4575,7 +4723,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 163000,
       "name": "Kicked It (Time Machine)",
       "url": "https://open.spotify.com/track/22FnzHXRM9KnPzngXoGI1J"
@@ -4611,7 +4759,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 214754,
       "name": "Kids",
       "url": "https://open.spotify.com/track/5J01XR6hDznkAGAGy7U07D"
@@ -4941,7 +5089,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 209706,
       "name": "Little Light",
       "url": "https://open.spotify.com/track/387ubGMaU3IFQNYq7jA1aI"
@@ -4981,7 +5129,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 243200,
       "name": "Lo que dije fue no",
       "url": "https://open.spotify.com/track/2u6blJN5uI1pLqB5xM9MPR"
@@ -5053,7 +5201,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-10",
+      "date_removed": null,
       "duration_ms": 493508,
       "name": "Lost In The Music",
       "url": "https://open.spotify.com/track/0ea26EjuMJLe8K20HknGgu"
@@ -5189,6 +5337,24 @@
       "duration_ms": 175285,
       "name": "Magic Forest",
       "url": "https://open.spotify.com/track/21RAG0FGEnlFurB9ZqrSvY"
+    },
+    {
+      "album": {
+        "name": "Nocturne (Music from the Tablestory Original Series)",
+        "url": "https://open.spotify.com/album/6MmVVRcfObGxhuxIPMSIJQ"
+      },
+      "artists": [
+        {
+          "name": "Jaroslav Pevno",
+          "url": "https://open.spotify.com/artist/1zxW8NrD1JsMs3lYJLqWNA"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252361,
+      "name": "Make It Your Choice",
+      "url": "https://open.spotify.com/track/16QixOtX6XLrKAy1c5Pezi"
     },
     {
       "album": {
@@ -5575,7 +5741,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 223080,
       "name": "Mujeres Internacionales - Remix",
       "url": "https://open.spotify.com/track/4ZENyHPV9zAhWRh8JlwqH8"
@@ -5943,7 +6109,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 170618,
       "name": "Nostalgie",
       "url": "https://open.spotify.com/track/1v92gwzglV3oreN4HX8MRS"
@@ -7215,7 +7381,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 245202,
       "name": "Snowflakes On My Pillow",
       "url": "https://open.spotify.com/track/6S9spKrpkjnDI4YDC0ILr3"
@@ -7258,6 +7424,24 @@
     },
     {
       "album": {
+        "name": "Space",
+        "url": "https://open.spotify.com/album/43fOAACnOI5ICiZc2eCUPi"
+      },
+      "artists": [
+        {
+          "name": "Bmore",
+          "url": "https://open.spotify.com/artist/6UhkvNnvh88u8Mv8byt4CU"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191242,
+      "name": "Space",
+      "url": "https://open.spotify.com/track/6n7g2OJNqaNNEenGLEzvie"
+    },
+    {
+      "album": {
         "name": "Stay",
         "url": "https://open.spotify.com/album/5H96Dk0CLjQRFWl07Tsk05"
       },
@@ -7269,7 +7453,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 260930,
       "name": "Stay",
       "url": "https://open.spotify.com/track/3IOlQGdoWJPz9yz4BGoJYW"
@@ -7367,7 +7551,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-01",
+      "date_removed": null,
       "duration_ms": 212427,
       "name": "SuiBiri",
       "url": "https://open.spotify.com/track/20vZ2arNdoWekRjPqfmWLG"
@@ -7554,6 +7738,24 @@
     },
     {
       "album": {
+        "name": "Te Toco Mala Suerte",
+        "url": "https://open.spotify.com/album/6N4kxXzR3yIgUaQSLhU8KP"
+      },
+      "artists": [
+        {
+          "name": "Tamarindo Norte\u00f1o",
+          "url": "https://open.spotify.com/artist/08iGmnBkoG9wJxPUtoGX8n"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159007,
+      "name": "Te Toco Mala Suerte",
+      "url": "https://open.spotify.com/track/7sqNIkfIvCmagaPK7hN0Ae"
+    },
+    {
+      "album": {
         "name": "Tefilat Toda \u05ea\u05e4\u05d9\u05dc\u05ea \u05ea\u05d5\u05d3\u05d4",
         "url": "https://open.spotify.com/album/2RVvGZAIZZmhe0RRaytP5T"
       },
@@ -7677,7 +7879,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 240039,
       "name": "The Flight",
       "url": "https://open.spotify.com/track/7JcKMeVoZBlx0Gu3ECrldR"
@@ -8039,7 +8241,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 129912,
       "name": "Time Consumes You",
       "url": "https://open.spotify.com/track/4D46DcdVdS5GVggTTeUbzy"
@@ -8165,7 +8367,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 212786,
       "name": "Too Damn Late",
       "url": "https://open.spotify.com/track/2w2xIwFqd4i3XfnG3YSj0Z"
@@ -8205,7 +8407,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 175055,
       "name": "Touchdown",
       "url": "https://open.spotify.com/track/10LsiZsFLMWbeNxMcFzPLW"
@@ -8223,7 +8425,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 194560,
       "name": "Tous Les Ados",
       "url": "https://open.spotify.com/track/0984Z8eo8gd8zneWmi0z6O"
@@ -9587,7 +9789,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 92917,
       "name": "\u7ae5\u8c9e\u306e\u738b\u69d8",
       "url": "https://open.spotify.com/track/5PQVfogYBUcxrbRP4sYCwJ"

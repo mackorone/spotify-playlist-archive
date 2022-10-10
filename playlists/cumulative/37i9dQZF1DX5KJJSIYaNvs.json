@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "Listen to Indian women, at full volume. Cover: Andrea Jeremiah",
+  "description": "Listen to Indian women, at full volume. Cover: Neha Kakkar",
   "name": "EQUAL India",
   "published_playlist_ids": [
     "3rqRWyNJwvt55VCcOLZ5lE"
@@ -1519,10 +1519,28 @@
       ],
       "date_added": "2022-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-05",
       "duration_ms": 229877,
       "name": "Lae Dooba",
       "url": "https://open.spotify.com/track/4cNbz1UdBCrnGOg0NNP1iF"
+    },
+    {
+      "album": {
+        "name": "Aiyaary (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1c4yZTLRpZtBUoReFf0Dqo"
+      },
+      "artists": [
+        {
+          "name": "Sunidhi Chauhan",
+          "url": "https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v"
+        }
+      ],
+      "date_added": "2022-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229877,
+      "name": "Lae Dooba",
+      "url": "https://open.spotify.com/track/66dO6jaZOKYdV6sXAPkBmI"
     },
     {
       "album": {
@@ -2101,6 +2119,32 @@
       "duration_ms": 205714,
       "name": "Ni Jana",
       "url": "https://open.spotify.com/track/4YxsJyL48q7NZiiCj0uib0"
+    },
+    {
+      "album": {
+        "name": "O Sajna",
+        "url": "https://open.spotify.com/album/1TXJwhaxqLrY0xaHkkDHfK"
+      },
+      "artists": [
+        {
+          "name": "Neha Kakkar",
+          "url": "https://open.spotify.com/artist/5f4QpKfy7ptCHwTqspnSJI"
+        },
+        {
+          "name": "Tanishk Bagchi",
+          "url": "https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt"
+        },
+        {
+          "name": "Jaani",
+          "url": "https://open.spotify.com/artist/5gZhfbckaWo89OzDSk3gdT"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245131,
+      "name": "O Sajna",
+      "url": "https://open.spotify.com/track/1SVE8yjAt2m9JWjeOaGG4Q"
     },
     {
       "album": {

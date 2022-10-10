@@ -1,13 +1,29 @@
 {
   "description": "New funky songs with a classic funky sound. Cover: Lettuce",
-  "num_followers": 388088,
+  "num_followers": 388355,
   "original_name": "All Funked Up",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzMwMDg2MCwwMDAwMDAwMDYwOWEwZWFhYjU2YjQwMzVmYzkzYTZjODg1NGZhZmQ4",
+  "snapshot_id": "MTY2NTExNTI2MCwwMDAwMDAwMDhkNDA1MGZjYzlhMGNiYmIyMzMxNjEwOWRmNTI4MGUy",
   "tracks": [
+    {
+      "added_at": "2022-10-07 04:01:00",
+      "album": {
+        "name": "On To The Next One",
+        "url": "https://open.spotify.com/album/6JlZ30MIRDya1ejygqMk47"
+      },
+      "artists": [
+        {
+          "name": "The Free Label",
+          "url": "https://open.spotify.com/artist/4YOL2g6AwphwsB1dOZZSOr"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "On To The Next One",
+      "url": "https://open.spotify.com/track/0iIHi4PR5RNS97qDFDYEzG"
+    },
     {
       "added_at": "2022-09-09 04:00:00",
       "album": {

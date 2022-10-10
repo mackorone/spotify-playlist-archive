@@ -284,6 +284,24 @@
     },
     {
       "album": {
+        "name": "PROBLEMZ (Mixed)",
+        "url": "https://open.spotify.com/album/3ZakUEHGTgzqZUayuEVs3h"
+      },
+      "artists": [
+        {
+          "name": "Jungle",
+          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173000,
+      "name": "PROBLEMZ - Mixed",
+      "url": "https://open.spotify.com/track/0EX28c6hXYasg6PUjznRRZ"
+    },
+    {
+      "album": {
         "name": "Run It Up (Mixed)",
         "url": "https://open.spotify.com/album/4UtrH1hqDZuM23NP3g6dsG"
       },

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Ufz5ldo0J4.md) - [plain]
 
 > Lean back, close your eyes, and relax.
 
-[Spotify](https://open.spotify.com/user/spotify) - 159,720 likes - 206 songs - 9 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 159,882 likes - 206 songs - 9 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -215,4 +215,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Ufz5ldo0J4.md) - [plain]
 | 205 | [Tomorrow](https://open.spotify.com/track/0chU7op8uDIMglaRSATL0b) | [Yitzhak Benjamin](https://open.spotify.com/artist/4I9Uarr9FJIWY02W2CzT4L) | [Tomorrow](https://open.spotify.com/album/5H2Wzfs2J3rqbxSoWaJViU) | 2:07 |
 | 206 | [Simplicity](https://open.spotify.com/track/44u00vPcT8iajEhoWC2Mar) | [Lilja valjas](https://open.spotify.com/artist/7hOaXb9KVFEZYjTJFjv5Km) | [Simplicity](https://open.spotify.com/album/6abhGJnqtGHO4YeGiGzp3p) | 2:50 |
 
-Snapshot ID: `MTY2NDU2MjY4NSwwMDAwMDAwMDJiNzlkNDg5MTEzNTdlYmY3NGM0Mjg1NjAzZWRhNDJl`
+Snapshot ID: `MTY2NDg4NzQxMywwMDAwMDAwMDg5MTAxNjNhYmEwNjlkZGUyM2I1ZTJjMThkOTEyYzk0`

@@ -146,6 +146,24 @@
     },
     {
       "album": {
+        "name": "Ethereal Techno #012: Aetheria",
+        "url": "https://open.spotify.com/album/3zQ4lUg2UToHoh5ZWKAdX6"
+      },
+      "artists": [
+        {
+          "name": "Lost Rhythm",
+          "url": "https://open.spotify.com/artist/6HKc9lMN8B5NoN113ncFLN"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 383414,
+      "name": "Aetheria",
+      "url": "https://open.spotify.com/track/3e8YXxByr6ihoOfeBVcIkJ"
+    },
+    {
+      "album": {
         "name": "Afterglow",
         "url": "https://open.spotify.com/album/6pBEgtzvrTzF2KWiMzhkGm"
       },
@@ -245,7 +263,7 @@
       ],
       "date_added": "2020-11-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-03",
+      "date_removed": null,
       "duration_ms": 403388,
       "name": "Ailurus",
       "url": "https://open.spotify.com/track/1MMNg2Inzhu3b6AIZ1Fwmy"
@@ -2568,6 +2586,28 @@
     },
     {
       "album": {
+        "name": "Dreaming (Casper Cole Remix)",
+        "url": "https://open.spotify.com/album/3HqGiVhA5ASObu5Nzq8uVd"
+      },
+      "artists": [
+        {
+          "name": "Jordan Arts",
+          "url": "https://open.spotify.com/artist/24eSGXE60RZgpoNACFxCLZ"
+        },
+        {
+          "name": "Casper Cole",
+          "url": "https://open.spotify.com/artist/6cDNuaBrX01wpytv0fLTmV"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265365,
+      "name": "Dreaming - Casper Cole Remix",
+      "url": "https://open.spotify.com/track/1QhtyPVcTEoRa6fkizTwkj"
+    },
+    {
+      "album": {
         "name": "Drifter",
         "url": "https://open.spotify.com/album/79p9DOvfUpXIVUUzkqdeb2"
       },
@@ -2811,7 +2851,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 444881,
       "name": "Expander",
       "url": "https://open.spotify.com/track/6hZZ6ZPpkAauDA3Al6za5T"
@@ -2829,7 +2869,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 299047,
       "name": "Explore",
       "url": "https://open.spotify.com/track/3faKCIsCxysoBZpUBiLJT8"
@@ -3829,7 +3869,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 386130,
       "name": "Hegn",
       "url": "https://open.spotify.com/track/2xSajF5EIKkiyQqO5whSlK"
@@ -4593,7 +4633,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 394093,
       "name": "Interstellar",
       "url": "https://open.spotify.com/track/6thkaOWp9dSeLBVmbW8ZXN"
@@ -6466,6 +6506,28 @@
     },
     {
       "album": {
+        "name": "IN Hz",
+        "url": "https://open.spotify.com/album/1cMtR2Qfu3lAdZra8cAFtT"
+      },
+      "artists": [
+        {
+          "name": "DESNA",
+          "url": "https://open.spotify.com/artist/6mjU0EJu6TLflogUHAVNeg"
+        },
+        {
+          "name": "Sapien Medicine",
+          "url": "https://open.spotify.com/artist/4KAFz3XJFQ1aKflHBrhNSl"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 360000,
+      "name": "Opera Hymn 118 Hz",
+      "url": "https://open.spotify.com/track/1ws46CDC4J0XFZeHaDwsVo"
+    },
+    {
+      "album": {
         "name": "Ties",
         "url": "https://open.spotify.com/album/7oIPvvNbrVv2KTX590WptO"
       },
@@ -7041,7 +7103,7 @@
       ],
       "date_added": "2021-09-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-01",
+      "date_removed": "2022-10-10",
       "duration_ms": 498419,
       "name": "Postquam",
       "url": "https://open.spotify.com/track/3uz86uuWkk7oyJs5pOTN3b"
@@ -7979,7 +8041,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 243056,
       "name": "Shipwreck",
       "url": "https://open.spotify.com/track/4nzXOL0cDe90TzBB1ZKIBT"
@@ -8169,7 +8231,7 @@
       ],
       "date_added": "2021-02-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-26",
+      "date_removed": null,
       "duration_ms": 442439,
       "name": "Skylight",
       "url": "https://open.spotify.com/track/2oP9hoWPqk21mkKASlZhZi"

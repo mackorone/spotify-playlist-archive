@@ -4,7 +4,7 @@
 
 > Deephouse that travels from Afro to Eastern sounds.
 
-124 songs - 12 hr 52 min - [published](https://open.spotify.com/playlist/3RXQhU6kWbIikRAH2XKGj0)
+125 songs - 12 hr 58 min - [published](https://open.spotify.com/playlist/3RXQhU6kWbIikRAH2XKGj0)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,7 +36,7 @@
 | [Delia](https://open.spotify.com/track/2cDCvD1ao7PRs83CzzEgzr) | [Sharapov](https://open.spotify.com/artist/0I3DQVcZQqBIIVxNtzqaVW), [Patrick Hofmann](https://open.spotify.com/artist/5rDo6U4yJGDuypi7G25hvx) | [Delia](https://open.spotify.com/album/0alsKMzOPqOzgmExMxi19b) | 6:02 | 2022-04-13 |  |
 | [Demedin mi ? \- Billy Esteban Remix](https://open.spotify.com/track/6JoBxTueW3TfrpydG0SQhY) | [Majnoon](https://open.spotify.com/artist/1eeh7aqCuDjuEvPXhQSF1h), [Aliye Mutlu](https://open.spotify.com/artist/4d6HLW1woZHaPab3eJpiyA), [Erdi Arslan](https://open.spotify.com/artist/1m7nqWkenNyuzsBFWpNmth), [Billy Esteban](https://open.spotify.com/artist/0nyKVqkATGrYXA98ieTJr0) | [Ethno Trip](https://open.spotify.com/album/3pNmsQTC4s1IcxlaRAYoGJ) | 5:18 | 2022-04-13 | 2022-07-29 |
 | [Demedin Mi? \- Billy Esteban Remix](https://open.spotify.com/track/1rtMK3g4NIHtcNMG4B7xS5) | [Aliye Mutlu](https://open.spotify.com/artist/4d6HLW1woZHaPab3eJpiyA), [Majnoon](https://open.spotify.com/artist/1eeh7aqCuDjuEvPXhQSF1h), [Erdi Arslan](https://open.spotify.com/artist/1m7nqWkenNyuzsBFWpNmth), [Billy Esteban](https://open.spotify.com/artist/0nyKVqkATGrYXA98ieTJr0) | [Ethno Trip With Billy Esteban & Friends](https://open.spotify.com/album/7f87jFF0mzBbf0sT9gK99I) | 5:18 | 2022-07-21 |  |
-| [Desert Hill](https://open.spotify.com/track/5CQv5iDiACr1xa8TQ1FsI8) | [Zigan Aldi](https://open.spotify.com/artist/5nNJbOr2phyzj0KvIv7HL1), [Deniz Mahir Kartal](https://open.spotify.com/artist/02Bve0yqMNTVoUOn2L8tG2) | [Odin](https://open.spotify.com/album/4TdK5u3gcR2tRDxIaMBkBW) | 6:42 | 2022-04-13 |  |
+| [Desert Hill](https://open.spotify.com/track/5CQv5iDiACr1xa8TQ1FsI8) | [Zigan Aldi](https://open.spotify.com/artist/5nNJbOr2phyzj0KvIv7HL1), [Deniz Mahir Kartal](https://open.spotify.com/artist/02Bve0yqMNTVoUOn2L8tG2) | [Odin](https://open.spotify.com/album/4TdK5u3gcR2tRDxIaMBkBW) | 6:42 | 2022-04-13 | 2022-10-08 |
 | [Devran](https://open.spotify.com/track/1Br0AatwWHo8JojDNAVMWq) | [KHAIKHAN](https://open.spotify.com/artist/0EhNqmWsXRucbAgAKfac75), [Mtu](https://open.spotify.com/artist/6Ex7C22f4WX3VqVRNriiXf) | [Anadolu](https://open.spotify.com/album/5Sj7kUvO8nrmWbQDFv71MV) | 6:47 | 2022-06-27 |  |
 | [Dodoma](https://open.spotify.com/track/1eult54nuGwQsIfPL2rZOh) | [Hyenah](https://open.spotify.com/artist/1YUlJfwsUoerJd3mCK6Ccu) | [Kemet Deep Sessions, Vol\. 1](https://open.spotify.com/album/0P4IX6KeVNUXFNz4uNgCWC) | 6:35 | 2022-07-21 | 2022-09-30 |
 | [Dodoma](https://open.spotify.com/track/4d7iVgX5u3NxBM1pa72xh3) | [Hyenah](https://open.spotify.com/artist/1YUlJfwsUoerJd3mCK6Ccu) | [Kemet Deep Sessions, Vol\. 1](https://open.spotify.com/album/7Djcq0KMBZlfMbva2PBla2) | 6:35 | 2022-04-13 | 2022-07-29 |
@@ -109,6 +109,7 @@
 | [Son Mansour](https://open.spotify.com/track/1oS4FFInuBOkj92do6lsU3) | [Ali Kuru](https://open.spotify.com/artist/4ljGdf7WSUgs2gc0TVGNGV) | [Son Mansour](https://open.spotify.com/album/5nUNmXQJPXLXTMYDU56zQP) | 5:44 | 2022-04-13 | 2022-07-22 |
 | [Sunday Showers \- Original Mix](https://open.spotify.com/track/2B2VCQULbAItuMzrS2O6Nn) | [Kentphonik](https://open.spotify.com/artist/5WvbWfo8umWyqSrmB8DviH) | [Hiya Kaya EP](https://open.spotify.com/album/41ai9POiSflKh3DVyyq6V8) | 7:01 | 2022-04-13 |  |
 | [Sunny Street](https://open.spotify.com/track/7FSxMDMfkL58IKUHvDKRxk) | [Holy Moly](https://open.spotify.com/artist/4TglMZiWpNknCUIEQwBeRY) | [Sunny Street](https://open.spotify.com/album/68O4P4A7mJeHEfKdza0cif) | 5:36 | 2022-04-13 |  |
+| [Sunsets in Marrakech](https://open.spotify.com/track/3X9tSrJQbdWH2lwGyyv1cn) | [BluePaper](https://open.spotify.com/artist/6nlIMudcLyn65DpF3jsUOB) | [Sunsets in Marrakech](https://open.spotify.com/album/7swsGEp5WBVi8B4whrKwnd) | 6:18 | 2022-10-07 |  |
 | [Teak \- Omerar Nanda Remix](https://open.spotify.com/track/0uNqMpO7ClAfIl1Van5RpT) | [Stefan Obermaier](https://open.spotify.com/artist/7HV2r5sspVCo9LVNv5TiHf), [Omerar Nanda](https://open.spotify.com/artist/6W9ysFAkpUJ3gJaJBAfkQl) | [Teak](https://open.spotify.com/album/3pdVTHeoE6XsBd1rWFEOUr) | 6:38 | 2022-04-13 |  |
 | [Terravita](https://open.spotify.com/track/5zkW6ZBqED2TWNRjcZLS5n) | [Minörs](https://open.spotify.com/artist/26ZaXcjW7CImOrTU2jxZL3) | [Terravita](https://open.spotify.com/album/3KCQr6cXvICTcTNnXdhEQe) | 6:57 | 2022-04-13 |  |
 | [The Call](https://open.spotify.com/track/2HGPDuJuzcZcwWUbQBTtHO) | [Tebra](https://open.spotify.com/artist/3kI19T2Y7mzINNIOGHTg5P), [Elly Ball](https://open.spotify.com/artist/7HXdeGBPEYJDB97Yy1sHMH) | [The Call](https://open.spotify.com/album/43AbiDnZdsiZmWc2ZuqMKb) | 6:40 | 2022-04-13 | 2022-07-22 |

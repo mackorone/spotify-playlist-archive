@@ -296,6 +296,28 @@
     },
     {
       "album": {
+        "name": "Bittersweet Symphony",
+        "url": "https://open.spotify.com/album/7pUaNZP0gMjGRCrceqjLWh"
+      },
+      "artists": [
+        {
+          "name": "GAMPER & DADONI",
+          "url": "https://open.spotify.com/artist/6HQ6vf4AloXyVNdyJhrX1J"
+        },
+        {
+          "name": "Emily Roberts",
+          "url": "https://open.spotify.com/artist/3RBqLTttwN1orqQozYfmJo"
+        }
+      ],
+      "date_added": "2022-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194618,
+      "name": "Bittersweet Symphony",
+      "url": "https://open.spotify.com/track/6GnNvwJA1VTkoZoyTy6s3L"
+    },
+    {
+      "album": {
         "name": "Bittersweet Symphony (feat. Emily Roberts)",
         "url": "https://open.spotify.com/album/4kFCmKMq1c6gl8eema7wkg"
       },
@@ -1607,7 +1629,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-05",
       "duration_ms": 181354,
       "name": "Look What You've Done",
       "url": "https://open.spotify.com/track/2Y9oTMNY5CPT4m9l6CgbgM"
@@ -2919,7 +2941,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-13",
+      "date_removed": "2022-10-09",
       "duration_ms": 227600,
       "name": "Tillf\u00e4lligheter",
       "url": "https://open.spotify.com/track/0rBj6lYQUMHwTJ33sdj6Qz"

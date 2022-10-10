@@ -4,7 +4,7 @@
 
 > Listen to your favourite tunes for inspiration and upliftment.
 
-60 songs - 5 hr 50 min - not published yet
+60 songs - 5 hr 50 min - [published](https://open.spotify.com/playlist/52aaQ2sYosifo7y9OhYXNf)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Slacker jams\. Cover: Eyedress
 
-316 songs - 16 hr 57 min - [published](https://open.spotify.com/playlist/3DFRzyGUurZxuvxmPOrIHy)
+317 songs - 16 hr 59 min - [published](https://open.spotify.com/playlist/3DFRzyGUurZxuvxmPOrIHy)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,6 +54,7 @@
 | [Blondie](https://open.spotify.com/track/7sIx70dGj3VBiHWr0KZXfD) | [Current Joys](https://open.spotify.com/artist/0m5FakHKCQdA7UN0PIzMcL) | [Wild Heart](https://open.spotify.com/album/3vYaHUkO7laqYdwUQbnsIP) | 3:14 | 2022-03-30 |  |
 | [blood on the pavement](https://open.spotify.com/track/7wZ3k0Ii8P1j0MOi595RMf) | [chemical club](https://open.spotify.com/artist/1J4KMCREAODEtqsexXWbeN) | [blood on the pavement](https://open.spotify.com/album/6DOi6n9hQ6mSDLd1iJfIVz) | 3:41 | 2022-02-03 |  |
 | [Blue Atoll](https://open.spotify.com/track/2x9QWWxfuhc2p09sR56Eg5) | [PANTōNE VU](https://open.spotify.com/artist/5luLFn9eaF12EIamzc4oK8) | [Blue Atoll](https://open.spotify.com/album/1TVq2LFdyn6KZHbNdy2veR) | 2:44 | 2021-11-06 | 2022-07-24 |
+| [Blue Sheen](https://open.spotify.com/track/4a1mFp7Kd5y20I08Cy7Nei) | [Provoker](https://open.spotify.com/artist/62s5q1tm3UAcRnbGY9CCI9) | [Body Jumper](https://open.spotify.com/album/34wILh42l9lFTepPd128Jg) | 1:58 | 2022-09-13 |  |
 | [Blue Sheen](https://open.spotify.com/track/6DDC0m1Ht7U0V98aOcT8eu) | [Provoker](https://open.spotify.com/artist/62s5q1tm3UAcRnbGY9CCI9) | [Body Jumper](https://open.spotify.com/album/7A5DR85t7aah8LkyyewTYR) | 1:58 | 2022-03-17 | 2022-09-07 |
 | [blurry nights](https://open.spotify.com/track/5rtdmhdlVvEU1NHyrH7tiD) | [beachtown](https://open.spotify.com/artist/20Gn0QldnmvNFLYxsa9vMI) | [blurry nights / on & on](https://open.spotify.com/album/2getyCWm5f6urnG3G3GxoV) | 3:00 | 2021-07-01 | 2022-05-21 |
 | [Brand New](https://open.spotify.com/track/4uePWT5W8elnUfP2a3xb4P) | [Fetch Tiger](https://open.spotify.com/artist/2Oj1K4H1MalhAhBvuT48ts) | [Brand New](https://open.spotify.com/album/2EupJeogg1it8g0P0EGifE) | 3:25 | 2021-09-16 | 2022-07-02 |
@@ -207,7 +208,7 @@
 | [New York, Paris and London](https://open.spotify.com/track/6eL2cAKDToQgycn5rHruom) | [HighSchool](https://open.spotify.com/artist/7AG5dB8Dc3yFhzeQaAsxUb) | [New York, Paris and London](https://open.spotify.com/album/27hf9gYYN7sQ39oHHttwKB) | 3:26 | 2021-09-25 | 2022-07-28 |
 | [No Emotion](https://open.spotify.com/track/38a35dNALuJ3KGJ78lPXnz) | [carpetgarden](https://open.spotify.com/artist/1rw5Io28PBVxMjikCwvevG) | [No Emotion](https://open.spotify.com/album/205rzsc3VKhbpwTZHcexJH) | 2:55 | 2021-01-12 | 2021-02-26 |
 | [No Other Like You](https://open.spotify.com/track/0jwx104ASJH2nhF0RYTP55) | [Kate Bollinger](https://open.spotify.com/artist/4eArh1v6UwBbKkjdgHCned) | [No Other Like You](https://open.spotify.com/album/6kCIF9VWB5bJXQZpZlDv8e) | 3:28 | 2020-10-27\* | 2021-02-06 |
-| [No Smoke](https://open.spotify.com/track/1IXHaRuIIuYpIYvisruDvG) | [Tiberius b](https://open.spotify.com/artist/0Kt443UQm5aqR2WCwqSMe0) | [No Smoke](https://open.spotify.com/album/01JxwvDoVgfQjA9PBeLNMa) | 4:12 | 2021-08-14 |  |
+| [No Smoke](https://open.spotify.com/track/1IXHaRuIIuYpIYvisruDvG) | [Tiberius b](https://open.spotify.com/artist/0Kt443UQm5aqR2WCwqSMe0) | [No Smoke](https://open.spotify.com/album/01JxwvDoVgfQjA9PBeLNMa) | 4:12 | 2021-08-14 | 2022-10-07 |
 | [Not Alone](https://open.spotify.com/track/1PXYKrVSpw0hJg6mbr4XEV) | [peach tinted](https://open.spotify.com/artist/0jAu9Z9QrpYwY1vBenZs9Y) | [Peach Tinted](https://open.spotify.com/album/6bzfjfh16uVdxA00EpqUau) | 3:11 | 2022-03-17 |  |
 | [Obsessed](https://open.spotify.com/track/2OIIhZsJps4wpv1ob4AtDH) | [Joss Mogli](https://open.spotify.com/artist/1m8ckDOsejA9s7GN9Y6N8q) | [Obsessed](https://open.spotify.com/album/3gCG7pVXTL4avBjoEOD41V) | 2:50 | 2021-09-25 | 2022-07-26 |
 | [obvious](https://open.spotify.com/track/4CsSN0KzU3bqhkrA7P3kIw) | [tøm hughes](https://open.spotify.com/artist/336D2sdfb7SeACYYG8TNWf) | [obvious](https://open.spotify.com/album/6NvlVbfUaUyOgZEfvSXHcm) | 3:09 | 2020-11-27 | 2022-07-16 |

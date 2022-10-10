@@ -2,9 +2,9 @@
 
 ### [Montréal Chill](https://open.spotify.com/playlist/37i9dQZF1DX1F430ihQKsD)
 
-> La crème de la crème of Montréal's music scene\. Photo: Simon Kearney
+> La crème de la crème of Montréal's music scene\. Photo: Men I Trust
 
-213 songs - 12 hr 30 min - [published](https://open.spotify.com/playlist/4x7dCsK0Zzpdb88Niig3QN)
+215 songs - 12 hr 37 min - [published](https://open.spotify.com/playlist/4x7dCsK0Zzpdb88Niig3QN)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,7 +55,7 @@
 | [Dans la foule](https://open.spotify.com/track/1lxW5i6WdLJpUJYqOyMpNS) | [Marilyne Léonard](https://open.spotify.com/artist/00WvHy3wvdUV4WSvvc0N5p) | [Dans la foule](https://open.spotify.com/album/4Bcl7TLTBO7Q6Sbks59HRC) | 2:34 | 2022-03-25 | 2022-04-29 |
 | [Days With You](https://open.spotify.com/track/5N6WeW88EoI3OnpYoKvhLh) | [Mont Duamel](https://open.spotify.com/artist/2yVpWiIBNJb0U8lPhE86cB) | [Days With You](https://open.spotify.com/album/4o8nsp5Yjks4EEtZgqYS41) | 2:49 | 2022-03-25 | 2022-07-09 |
 | [De la perspective d'un vieil homme \- P'tit Belliveau Remix](https://open.spotify.com/track/6VNas98Qy7GSduZoQeW9LY) | [Thierry Larose](https://open.spotify.com/artist/3yg2vJlvkadhe8wLeLlzxt), [P'tit Belliveau](https://open.spotify.com/artist/1Mnw1xS9MvW7sgitmlqnCM) | [Perspectives](https://open.spotify.com/album/12AkIdAo8bCIpjFHLEKSPb) | 3:36 | 2022-03-25 | 2022-05-20 |
-| [Depuis](https://open.spotify.com/track/1Usjk5AH5azDSfUstQ50bG) | [Lydia Képinski](https://open.spotify.com/artist/6lqpzCZWhymonpvpAVKx0C) | [Depuis](https://open.spotify.com/album/5kcemtwM4yXjUk5C6a24Va) | 4:53 | 2022-07-22 |  |
+| [Depuis](https://open.spotify.com/track/1Usjk5AH5azDSfUstQ50bG) | [Lydia Képinski](https://open.spotify.com/artist/6lqpzCZWhymonpvpAVKx0C) | [Depuis](https://open.spotify.com/album/5kcemtwM4yXjUk5C6a24Va) | 4:53 | 2022-07-22 | 2022-10-08 |
 | [Depuis](https://open.spotify.com/track/7D14x2U6kLT9BhbmsjWmPW) | [Lydia Képinski](https://open.spotify.com/artist/6lqpzCZWhymonpvpAVKx0C) | [Depuis](https://open.spotify.com/album/4uyTvxltj4VNnQ1T2n8cnY) | 4:53 | 2022-03-25 | 2022-07-29 |
 | [Des nœuds dans les doigts](https://open.spotify.com/track/2lE5EAPTKZ6inx0gNq6gTg) | [Thierry Larose](https://open.spotify.com/artist/3yg2vJlvkadhe8wLeLlzxt) | [Des nœuds dans les doigts](https://open.spotify.com/album/29UB860uihaDIj9d0NsD23) | 4:17 | 2022-05-27 |  |
 | [Deux pieds dans la tombe](https://open.spotify.com/track/6rEuBcNDSMt9lLIQIDv6IR) | [Simon Kearney](https://open.spotify.com/artist/4ASltZkMZ5TIeu90OnHi1a), [Lou\-Adriane Cassidy](https://open.spotify.com/artist/1M8BgMq8VcOlovA92xpxKt) | [Deux pieds dans la tombe](https://open.spotify.com/album/2RcU4foSojnJ3O1cba7Pfh) | 3:21 | 2022-09-30 |  |
@@ -86,6 +86,7 @@
 | [Fuel](https://open.spotify.com/track/4QeienZEwF2dZ09pIvDllc) | [Ev Bird](https://open.spotify.com/artist/5ZLnYZBRZimCRU1vJzzGsI) | [Fuel](https://open.spotify.com/album/5qSAmaMFLK5Cu8TliExrhe) | 2:12 | 2022-09-16 |  |
 | [Funambule \(tout restera pareil\)](https://open.spotify.com/track/2U8q4Oydvvbc9OIfqVUW4i) | [Marco Ema](https://open.spotify.com/artist/5pyRXeeFhE3qPzioZRg5HJ), [Ariane Roy](https://open.spotify.com/artist/1MDlZmN8IgqV4AYZChlWPM) | [Funambule \(tout restera pareil\)](https://open.spotify.com/album/70NVJKvlYKqS8Tsmh2LYIk) | 3:56 | 2022-06-10 |  |
 | [Give Me Time](https://open.spotify.com/track/2Dc1QaoJm4RXo4QZXKGIK6) | [Zeina](https://open.spotify.com/artist/2saNOYtb2v8aXMmezcwAiI) | [Give Me Time](https://open.spotify.com/album/0ZRwY48ZOyL2xFE5lRWT3J) | 2:34 | 2022-07-08 | 2022-09-24 |
+| [Go Write with the Stars](https://open.spotify.com/track/0LIojBe01OpupDLuMUYwHK) | [Clerel](https://open.spotify.com/artist/5hGVJeSkWYpZgvXaDhbnE8) | [Go Write with the Stars](https://open.spotify.com/album/1WSBhoawi94swRpqd0weQF) | 3:33 | 2022-10-07 |  |
 | [Hard to Let Go](https://open.spotify.com/track/7lKN7pik3CelVWHWGp6DfB) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Hard to Let Go](https://open.spotify.com/album/0PboTq5CUcoilt6IJS2SQo) | 4:07 | 2022-07-01 | 2022-10-01 |
 | [Heartbeat](https://open.spotify.com/track/7BjZD4TVbmqNAJpEbvS6By) | [Ghostly Kisses](https://open.spotify.com/artist/7EkzQPP0cgt2qCnXUg6PHj) | [Heaven, Wait](https://open.spotify.com/album/5kQwGFGp61L6iYlk8tgHCS) | 3:50 | 2022-03-25 |  |
 | [Heartbeat](https://open.spotify.com/track/0vdnJkU6Je0JkQs74RqhMi) | [Pierre Kwenders](https://open.spotify.com/artist/04B6sMoIopTgUAQM3dcSxP), [anaiis](https://open.spotify.com/artist/0OtS8ueEJDd0RZnHdHOJDl) | [Heartbeat](https://open.spotify.com/album/4zoauodf0HkYb5RTQXB0OD) | 3:04 | 2022-03-25 | 2022-09-24 |
@@ -174,7 +175,7 @@
 | [Prochain épilogue](https://open.spotify.com/track/0uPA83Y6CifPnSZbCgXGsC) | [Luis Clavis](https://open.spotify.com/artist/1X1UnBTgjMjX16zmlavczO) | [Prochain épilogue](https://open.spotify.com/album/4GudmwIXgfYDoZ5Db5wWZx) | 3:31 | 2022-09-30 |  |
 | [Pénélope](https://open.spotify.com/track/6igMBCYzoJWpYr79Rmpw1q) | [Narcisse](https://open.spotify.com/artist/1GY5zIB9GwQQcjruxXLfCN) | [Pénélope](https://open.spotify.com/album/3lefVAjXnsOGHtuFnJr2V9) | 4:25 | 2022-04-22 | 2022-05-20 |
 | [Quand je veux je dors](https://open.spotify.com/track/2KXPeTD74nhijWrY9Qy539) | [Robert Robert](https://open.spotify.com/artist/2IzC3vT8yHOZ3Ne5HYQfM3) | [Silicone Villeray](https://open.spotify.com/album/4oSRtnpRl3vQ7N2fEn8dUZ) | 2:32 | 2022-03-25 | 2022-09-17 |
-| [Remparts](https://open.spotify.com/track/07AEDh8Ad6Ss60K1sWY15w) | [Thaïs](https://open.spotify.com/artist/6lliiJ1S813r1V4koJsGFh) | [Tout est parfait : acte un](https://open.spotify.com/album/1wVbEyyTPcnfFjawWBDjJC) | 3:20 | 2022-05-06 |  |
+| [Remparts](https://open.spotify.com/track/07AEDh8Ad6Ss60K1sWY15w) | [Thaïs](https://open.spotify.com/artist/6lliiJ1S813r1V4koJsGFh) | [Tout est parfait : acte un](https://open.spotify.com/album/1wVbEyyTPcnfFjawWBDjJC) | 3:20 | 2022-05-06 | 2022-10-08 |
 | [Rewind](https://open.spotify.com/track/4Rh1JpJKMPOJ75SIfVIqMJ) | [SwuM](https://open.spotify.com/artist/2Fc1UZXKRmPpWWx1sxcb9m), [afternoon bike ride](https://open.spotify.com/artist/1iXLcpr2SlUwrU2oCP8nI9) | [Rewind](https://open.spotify.com/album/2ESrlKHxZ9dCK6f1gSCSSv) | 3:20 | 2022-03-25 | 2022-04-09 |
 | [RICH BUM$](https://open.spotify.com/track/6TT7xeVp0uBEuETDioNz6M) | [Simon Kearney](https://open.spotify.com/artist/4ASltZkMZ5TIeu90OnHi1a) | [RICH BUM$](https://open.spotify.com/album/2EPJbDQIfwTlIB5dOYngHZ) | 4:10 | 2022-07-22 | 2022-10-01 |
 | [Risk It All](https://open.spotify.com/track/5eaZ2M4cg70JmT5JLOCZvT) | [Zeina](https://open.spotify.com/artist/2saNOYtb2v8aXMmezcwAiI) | [Risk It All](https://open.spotify.com/album/0bjz2600aSXHJFxc5DlOVh) | 2:39 | 2022-09-23 |  |
@@ -201,6 +202,7 @@
 | [Tote Bag](https://open.spotify.com/track/0t3b3r4DNi5PHARoi7o5nN) | [Valaire](https://open.spotify.com/artist/3wW4s7QuPnmqVUhwkLSTkj), [Fanny Bloom](https://open.spotify.com/artist/5WjAa6SM7JS2zr4HfSPsII), [Mike Clay](https://open.spotify.com/artist/0XkKzWXudWJloK6SWsH8B8), [Luis Clavis](https://open.spotify.com/artist/1X1UnBTgjMjX16zmlavczO) | [Tote Bag](https://open.spotify.com/album/2qsRHDL7JUhg61nhQqR5Ri) | 3:22 | 2022-09-23 |  |
 | [Toune 1](https://open.spotify.com/track/3v1mSem8vZUTBJutzWOWXQ) | [Anatole](https://open.spotify.com/artist/7Bbf1C1upxNS3U8GypL396) | [Toune 1](https://open.spotify.com/album/4up15itKNiWEDZYtmTcMof) | 4:17 | 2022-09-16 |  |
 | [Toune 2](https://open.spotify.com/track/0McnGxQOn78rzxXZvuNfKe) | [Anatole](https://open.spotify.com/artist/7Bbf1C1upxNS3U8GypL396) | [Toune 2](https://open.spotify.com/album/4D1iaqCVxIq7Za3dk2Gfiz) | 3:51 | 2022-05-27 | 2022-09-17 |
+| [Tout est parfait](https://open.spotify.com/track/0ZJKrCCgePFz5obWfJqHh7) | [Thaïs](https://open.spotify.com/artist/6lliiJ1S813r1V4koJsGFh) | [Tout est parfait](https://open.spotify.com/album/741zAnDJPbroIfVD2MrGvQ) | 3:07 | 2022-10-07 |  |
 | [Trou d'eau](https://open.spotify.com/track/3eocwmTmeW2hA2fvhgpmo5) | [Gab Bouchard](https://open.spotify.com/artist/0J0nIuBa8qMlDnlS5QrkiP) | [Grafignes](https://open.spotify.com/album/4apNI8EVLPBkQH1ceRRcFl) | 3:17 | 2022-08-26 |  |
 | [Tu as le droit](https://open.spotify.com/track/7u0YtyBqNQ5qg3vAFjBqU3) | [Ariane Roy](https://open.spotify.com/artist/1MDlZmN8IgqV4AYZChlWPM) | [medium plaisir](https://open.spotify.com/album/1Uq4V1N2AL1eI3M4cqq9sr) | 3:13 | 2022-06-10 | 2022-08-27 |
 | [Tôt ou tard](https://open.spotify.com/track/0JYJz0PGXsAgxe5sOZfCSf) | [Valence](https://open.spotify.com/artist/64SLcw5gWgSlsdXNQfEs44) | [Pêle\-mêle](https://open.spotify.com/album/0HtBYMZecK4pakcqckp4Qw) | 3:57 | 2022-03-25 | 2022-09-03 |

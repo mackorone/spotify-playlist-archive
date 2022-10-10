@@ -4,7 +4,7 @@
 
 > Deephouse in the mix for your delight.
 
-109 songs - 10 hr 16 min - [published](https://open.spotify.com/playlist/3ANSrl5vN5o8myn56mbngK)
+110 songs - 10 hr 21 min - [published](https://open.spotify.com/playlist/3ANSrl5vN5o8myn56mbngK)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,6 +55,7 @@
 | [Kamoufle](https://open.spotify.com/track/1z4SfJBEpQTwlLu9GMtmCe) | [Depart](https://open.spotify.com/artist/5Mqcuj649T5GFhMGlaNGHy) | [Kamoufle](https://open.spotify.com/album/4bZXo5hxXxyikFVlSFXcWn) | 7:19 | 2022-09-15 |  |
 | [Keepin' it Jazz](https://open.spotify.com/track/5qnVn76yokvGLRcUNCSZ90) | [Felipe Gordon](https://open.spotify.com/artist/7rQKvsWUOJgXmInx2JuaXj) | [Keepin' it Jazz](https://open.spotify.com/album/045aoZCiqPzhTkAf0KmxLz) | 5:18 | 2022-09-15 |  |
 | [Krimson Blossom](https://open.spotify.com/track/3fdMAQyBZlm3XyBg6UhsMn) | [Jerome Sydenham](https://open.spotify.com/artist/4e7xQaHgOjyFZtSic0Nk9B), [Fatima Njai](https://open.spotify.com/artist/2ZsFEqTaZHuETRbQfgBsQS) | [Krimson Blossom](https://open.spotify.com/album/1kUwGOyfk9jURTeGYOuKB5) | 5:35 | 2022-09-15 |  |
+| [Learn to Love](https://open.spotify.com/track/6tyREpqBKbEfkUeYTlH4nX) | [Vesin](https://open.spotify.com/artist/16bt4x9EfkHTAvJsaz9wh5) | [Learn to Love](https://open.spotify.com/album/7kI2zOz0wrsF9CZsbP0KD9) | 5:02 | 2022-10-06 |  |
 | [Lecture Day](https://open.spotify.com/track/6sMBkOWMJbDmii1r58P32I) | [Michel De Hey](https://open.spotify.com/artist/4BY4HaWussT44zj9RiCGzh) | [Lecture Day EP](https://open.spotify.com/album/07WAV8w7gtmYnvgBobXozj) | 6:34 | 2022-09-15 |  |
 | [Lifted](https://open.spotify.com/track/4917oCInRqYqJVu4GmjEuK) | [Makèz](https://open.spotify.com/artist/0jJ2FmezizVLUIll3rbXmE) | [Holy Sun EP](https://open.spotify.com/album/7iNiSkKg5xuNoaPo2IlfEi) | 6:56 | 2022-09-15 |  |
 | [Like That](https://open.spotify.com/track/0h7sggAJvhPkf7znFFxBF9) | [RSCL](https://open.spotify.com/artist/5pkU7zjIzHgfN1n91e51r3) | [Like That](https://open.spotify.com/album/2JKZyi8XcLI9nftHmicdr3) | 3:35 | 2022-09-15 |  |

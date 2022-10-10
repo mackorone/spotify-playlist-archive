@@ -1,13 +1,37 @@
 {
-  "description": "Only the hottest out now in Hip Hop...Cover: Cover: <a href=\"https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB?si=Y5TlZxxtRxSAEdwRMOPGPA\">Roddy Ricch</a>",
-  "num_followers": 48136,
+  "description": "Only the hottest out now in Hip Hop...Cover: Cover: <a href=\"https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5?si=z9VxVVX5SYK2kCKNBl5HmQ\">Quavo</a> and <a href=\"https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW?si=XMe1PjoUQp2ZuJv8a5Vo_A\">Offset</a>",
+  "num_followers": 48703,
   "original_name": "Hip-Hop Circle",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDQ4ODc0MCwwMDAwMDAwMDhmODY0OTgxZDk5MzFlOWYxNGE5MTU1Mzg3ZTdkZjlj",
+  "snapshot_id": "MTY2NTA5MzU0MCwwMDAwMDAwMGQ0OWJmYTU5NDliNWQ1Nzk2MGFlN2VhMTY3OGMzMWRh",
   "tracks": [
+    {
+      "added_at": "2022-10-06 21:59:00",
+      "album": {
+        "name": "Only Built For Infinity Links",
+        "url": "https://open.spotify.com/album/59hIIDzaPSH5O3QSz4zX0t"
+      },
+      "artists": [
+        {
+          "name": "Quavo",
+          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
+        },
+        {
+          "name": "Takeoff",
+          "url": "https://open.spotify.com/artist/3EW0kQ1skZiK1NHg3Spt9J"
+        },
+        {
+          "name": "YoungBoy Never Broke Again",
+          "url": "https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b"
+        }
+      ],
+      "duration_ms": 283196,
+      "name": "To The Bone (feat. YoungBoy Never Broke Again)",
+      "url": "https://open.spotify.com/track/4wRJHXHDJnKSPr9IVn0BFR"
+    },
     {
       "added_at": "2022-09-29 21:59:00",
       "album": {
@@ -47,26 +71,6 @@
       "duration_ms": 249533,
       "name": "SETE (feat. Young Stunna & Blxckie)",
       "url": "https://open.spotify.com/track/5mXZz0tXIToxu3HRohrdSK"
-    },
-    {
-      "added_at": "2022-09-29 21:59:00",
-      "album": {
-        "name": "Nothing Changed",
-        "url": "https://open.spotify.com/album/4Lo6GJMW4ctfhtuCqMkn1O"
-      },
-      "artists": [
-        {
-          "name": "Quavo",
-          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
-        },
-        {
-          "name": "Takeoff",
-          "url": "https://open.spotify.com/artist/3EW0kQ1skZiK1NHg3Spt9J"
-        }
-      ],
-      "duration_ms": 199111,
-      "name": "Nothing Changed",
-      "url": "https://open.spotify.com/track/48qgXl0CQUVYJVn6xv0rsP"
     },
     {
       "added_at": "2022-09-19 08:45:29",
@@ -123,26 +127,6 @@
       "duration_ms": 501648,
       "name": "GOD DID (feat. Rick Ross, Lil Wayne, Jay-Z, John Legend & Fridayy)",
       "url": "https://open.spotify.com/track/2sOj9vyd6yiss9W1IK6chU"
-    },
-    {
-      "added_at": "2022-09-15 21:59:00",
-      "album": {
-        "name": "Ivyson Army Tour Mixtape",
-        "url": "https://open.spotify.com/album/0K1Kj60U6juaomxBtPoaS4"
-      },
-      "artists": [
-        {
-          "name": "Nasty C",
-          "url": "https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj"
-        },
-        {
-          "name": "Emtee",
-          "url": "https://open.spotify.com/artist/6U3gCOvxVWKBxXItqp3mdr"
-        }
-      ],
-      "duration_ms": 178421,
-      "name": "Born To Win",
-      "url": "https://open.spotify.com/track/0wau3pD9eDZQRBzg0J3LkE"
     },
     {
       "added_at": "2022-09-09 08:48:33",
@@ -205,27 +189,51 @@
       "url": "https://open.spotify.com/track/1q88oYGqJzfDp250KGrdKs"
     },
     {
-      "added_at": "2022-09-22 21:59:00",
+      "added_at": "2022-09-29 21:59:00",
       "album": {
-        "name": "Pardon My Arrogance",
-        "url": "https://open.spotify.com/album/2690tz6XKjQtcF1WjNNDJW"
+        "name": "Nothing Changed",
+        "url": "https://open.spotify.com/album/4Lo6GJMW4ctfhtuCqMkn1O"
       },
       "artists": [
         {
-          "name": "Cassper Nyovest",
-          "url": "https://open.spotify.com/artist/18CJ8k3h2Rggioow01dlwP"
+          "name": "Quavo",
+          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
         },
         {
-          "name": "K1NG",
-          "url": "https://open.spotify.com/artist/4VHLPOtj6jnjbe9kIxFHA9"
+          "name": "Takeoff",
+          "url": "https://open.spotify.com/artist/3EW0kQ1skZiK1NHg3Spt9J"
         }
       ],
-      "duration_ms": 118000,
-      "name": "Pardon My Arrogance",
-      "url": "https://open.spotify.com/track/5lSqaq9zJN90ut2JOoddUW"
+      "duration_ms": 199111,
+      "name": "Nothing Changed",
+      "url": "https://open.spotify.com/track/48qgXl0CQUVYJVn6xv0rsP"
     },
     {
-      "added_at": "2022-09-29 21:59:00",
+      "added_at": "2022-10-06 21:59:00",
+      "album": {
+        "name": "My Friends (feat. Lil Durk)",
+        "url": "https://open.spotify.com/album/2clsCCVAKCSc7PcwJ7uFLW"
+      },
+      "artists": [
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+        },
+        {
+          "name": "Mustard",
+          "url": "https://open.spotify.com/artist/0YinUQ50QDB7ZxSCLyQ40k"
+        },
+        {
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+        }
+      ],
+      "duration_ms": 158167,
+      "name": "My Friends (feat. Lil Durk)",
+      "url": "https://open.spotify.com/track/0wTTf3msjDJ8NcZGTmQJQV"
+    },
+    {
+      "added_at": "2022-09-15 21:59:00",
       "album": {
         "name": "Ivyson Army Tour Mixtape",
         "url": "https://open.spotify.com/album/0K1Kj60U6juaomxBtPoaS4"
@@ -236,33 +244,33 @@
           "url": "https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj"
         },
         {
-          "name": "Case-Klowzed",
-          "url": "https://open.spotify.com/artist/7gVgCsUONh0i70WAvyOlkG"
+          "name": "Emtee",
+          "url": "https://open.spotify.com/artist/6U3gCOvxVWKBxXItqp3mdr"
         }
       ],
-      "duration_ms": 219000,
-      "name": "Extravagant",
-      "url": "https://open.spotify.com/track/2s2OJc3jYCGPIkA2nWkkn0"
+      "duration_ms": 178421,
+      "name": "Born To Win",
+      "url": "https://open.spotify.com/track/0wau3pD9eDZQRBzg0J3LkE"
     },
     {
-      "added_at": "2022-08-04 21:59:00",
+      "added_at": "2022-10-06 21:59:00",
       "album": {
-        "name": "031 To The World 2.0",
-        "url": "https://open.spotify.com/album/1rFKpOUsG1tWjGyHgYp3rH"
+        "name": "B.R.O. (Better Ride Out) [feat. Roddy Ricch]",
+        "url": "https://open.spotify.com/album/0tk8XMpaIuk587IlC8aIfP"
       },
       "artists": [
         {
-          "name": "Lucasraps",
-          "url": "https://open.spotify.com/artist/4MakWUvM6GZhwTKsTA6AAT"
+          "name": "A Boogie Wit da Hoodie",
+          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
         },
         {
-          "name": "Nasty C",
-          "url": "https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj"
+          "name": "Roddy Ricch",
+          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
         }
       ],
-      "duration_ms": 186240,
-      "name": "The Views",
-      "url": "https://open.spotify.com/track/5XE6dTAtEqrHp0NRCjuPui"
+      "duration_ms": 178041,
+      "name": "B.R.O. (Better Ride Out) [feat. Roddy Ricch]",
+      "url": "https://open.spotify.com/track/23pGZ6n6Xd3yV7qK4xw7dx"
     },
     {
       "added_at": "2022-05-12 21:59:00",
@@ -289,6 +297,106 @@
       "url": "https://open.spotify.com/track/3DFw8WqtxcGtUP8X1o4Yti"
     },
     {
+      "added_at": "2022-09-22 21:59:00",
+      "album": {
+        "name": "Pardon My Arrogance",
+        "url": "https://open.spotify.com/album/2690tz6XKjQtcF1WjNNDJW"
+      },
+      "artists": [
+        {
+          "name": "Cassper Nyovest",
+          "url": "https://open.spotify.com/artist/18CJ8k3h2Rggioow01dlwP"
+        },
+        {
+          "name": "K1NG",
+          "url": "https://open.spotify.com/artist/4VHLPOtj6jnjbe9kIxFHA9"
+        }
+      ],
+      "duration_ms": 118000,
+      "name": "Pardon My Arrogance",
+      "url": "https://open.spotify.com/track/5lSqaq9zJN90ut2JOoddUW"
+    },
+    {
+      "added_at": "2022-08-04 21:59:00",
+      "album": {
+        "name": "031 To The World 2.0",
+        "url": "https://open.spotify.com/album/1rFKpOUsG1tWjGyHgYp3rH"
+      },
+      "artists": [
+        {
+          "name": "Lucasraps",
+          "url": "https://open.spotify.com/artist/4MakWUvM6GZhwTKsTA6AAT"
+        },
+        {
+          "name": "Nasty C",
+          "url": "https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj"
+        }
+      ],
+      "duration_ms": 186240,
+      "name": "The Views",
+      "url": "https://open.spotify.com/track/5XE6dTAtEqrHp0NRCjuPui"
+    },
+    {
+      "added_at": "2022-09-29 21:59:00",
+      "album": {
+        "name": "Ivyson Army Tour Mixtape",
+        "url": "https://open.spotify.com/album/0K1Kj60U6juaomxBtPoaS4"
+      },
+      "artists": [
+        {
+          "name": "Nasty C",
+          "url": "https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj"
+        },
+        {
+          "name": "Case-Klowzed",
+          "url": "https://open.spotify.com/artist/7gVgCsUONh0i70WAvyOlkG"
+        }
+      ],
+      "duration_ms": 219000,
+      "name": "Extravagant",
+      "url": "https://open.spotify.com/track/2s2OJc3jYCGPIkA2nWkkn0"
+    },
+    {
+      "added_at": "2022-10-06 21:59:00",
+      "album": {
+        "name": "Bottle Girls (feat. Polo G & Almighty Jay)",
+        "url": "https://open.spotify.com/album/5U1QskyIQkYSdRrtiHKPuG"
+      },
+      "artists": [
+        {
+          "name": "Manifest",
+          "url": "https://open.spotify.com/artist/77PzT8wY3OapM2BHoyACz5"
+        },
+        {
+          "name": "Polo G",
+          "url": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
+        },
+        {
+          "name": "Almighty Jay",
+          "url": "https://open.spotify.com/artist/2HWXxzgBIr0RMSZmvMZeJU"
+        }
+      ],
+      "duration_ms": 135532,
+      "name": "Bottle Girls (feat. Polo G & Almighty Jay)",
+      "url": "https://open.spotify.com/track/0bytLQW2lHZf8QcSaXnGMc"
+    },
+    {
+      "added_at": "2022-09-22 21:59:00",
+      "album": {
+        "name": "Mel Made Me Do It",
+        "url": "https://open.spotify.com/album/2qB4PkpoOUuvLXPzckmYdw"
+      },
+      "artists": [
+        {
+          "name": "Stormzy",
+          "url": "https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd"
+        }
+      ],
+      "duration_ms": 440857,
+      "name": "Mel Made Me Do It",
+      "url": "https://open.spotify.com/track/3y8xPhq9Ho1hCEMIE9DvZe"
+    },
+    {
       "added_at": "2022-09-15 21:59:00",
       "album": {
         "name": "I Never Felt Nun",
@@ -309,20 +417,24 @@
       "url": "https://open.spotify.com/track/2BSl2gSFHdzJAMus74qzNj"
     },
     {
-      "added_at": "2022-09-22 21:59:00",
+      "added_at": "2022-10-06 21:59:00",
       "album": {
-        "name": "Mel Made Me Do It",
-        "url": "https://open.spotify.com/album/2qB4PkpoOUuvLXPzckmYdw"
+        "name": "Do It Again (feat. 2Rare)",
+        "url": "https://open.spotify.com/album/5qPgB3OSDv3KfALFg1PZwe"
       },
       "artists": [
         {
-          "name": "Stormzy",
-          "url": "https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd"
+          "name": "NLE Choppa",
+          "url": "https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ"
+        },
+        {
+          "name": "2Rare",
+          "url": "https://open.spotify.com/artist/2GRDbUJRZwKzeiwxrjJdmQ"
         }
       ],
-      "duration_ms": 440857,
-      "name": "Mel Made Me Do It",
-      "url": "https://open.spotify.com/track/3y8xPhq9Ho1hCEMIE9DvZe"
+      "duration_ms": 213206,
+      "name": "Do It Again (feat. 2Rare)",
+      "url": "https://open.spotify.com/track/5gAwpwuchaCGnJLlBMGBzp"
     },
     {
       "added_at": "2022-08-30 11:39:47",
@@ -375,6 +487,26 @@
       "duration_ms": 145333,
       "name": "MOSHITO",
       "url": "https://open.spotify.com/track/0alylhpp2eVgZYSPfZg9Gi"
+    },
+    {
+      "added_at": "2022-10-06 21:59:00",
+      "album": {
+        "name": "Let\u2019s Go (feat. Aitch)",
+        "url": "https://open.spotify.com/album/03YnYlkkIiMOjIV9qIjykw"
+      },
+      "artists": [
+        {
+          "name": "Tion Wayne",
+          "url": "https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt"
+        },
+        {
+          "name": "Aitch",
+          "url": "https://open.spotify.com/artist/2PJEagPIxaBugeMjIyKVXF"
+        }
+      ],
+      "duration_ms": 159031,
+      "name": "Let\u2019s Go (feat. Aitch)",
+      "url": "https://open.spotify.com/track/1wUpbNyIar4OFPM1Fg3R3j"
     },
     {
       "added_at": "2022-09-15 21:59:00",
@@ -441,6 +573,30 @@
       "url": "https://open.spotify.com/track/5QdVpZhASstTN4BBwglPz6"
     },
     {
+      "added_at": "2022-09-22 21:59:00",
+      "album": {
+        "name": "Ivyson Army Tour Mixtape",
+        "url": "https://open.spotify.com/album/0K1Kj60U6juaomxBtPoaS4"
+      },
+      "artists": [
+        {
+          "name": "Nasty C",
+          "url": "https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj"
+        },
+        {
+          "name": "Blxckie",
+          "url": "https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL"
+        },
+        {
+          "name": "Emtee",
+          "url": "https://open.spotify.com/artist/6U3gCOvxVWKBxXItqp3mdr"
+        }
+      ],
+      "duration_ms": 127895,
+      "name": "Aye",
+      "url": "https://open.spotify.com/track/4lByLTRLVrAwzaWs8td5pV"
+    },
+    {
       "added_at": "2022-09-29 21:59:00",
       "album": {
         "name": "I GOT ISSUES",
@@ -463,30 +619,6 @@
       "duration_ms": 253913,
       "name": "Sober (feat. Roddy Ricch & Post Malone)",
       "url": "https://open.spotify.com/track/0AzqJBVMdHP9ijAadQ0T18"
-    },
-    {
-      "added_at": "2022-09-15 21:59:00",
-      "album": {
-        "name": "Sailor On The Moon (feat. IDK & KayCyy)",
-        "url": "https://open.spotify.com/album/35lqamVUzvMaT91dR2q36f"
-      },
-      "artists": [
-        {
-          "name": "Masked Wolf",
-          "url": "https://open.spotify.com/artist/1uU7g3DNSbsu0QjSEqZtEd"
-        },
-        {
-          "name": "IDK",
-          "url": "https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E"
-        },
-        {
-          "name": "KayCyy",
-          "url": "https://open.spotify.com/artist/7gmVTgaiN0gpDJKvTHPTRL"
-        }
-      ],
-      "duration_ms": 193243,
-      "name": "Sailor On The Moon (feat. IDK & KayCyy)",
-      "url": "https://open.spotify.com/track/0O4wHincVaptKiV2Rv7LhC"
     },
     {
       "added_at": "2022-09-19 08:49:14",
@@ -513,28 +645,28 @@
       "url": "https://open.spotify.com/track/7tn8BQrBebUSW1AIES8svd"
     },
     {
-      "added_at": "2022-09-22 21:59:00",
+      "added_at": "2022-09-15 21:59:00",
       "album": {
-        "name": "Ivyson Army Tour Mixtape",
-        "url": "https://open.spotify.com/album/0K1Kj60U6juaomxBtPoaS4"
+        "name": "Sailor On The Moon (feat. IDK & KayCyy)",
+        "url": "https://open.spotify.com/album/35lqamVUzvMaT91dR2q36f"
       },
       "artists": [
         {
-          "name": "Nasty C",
-          "url": "https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj"
+          "name": "Masked Wolf",
+          "url": "https://open.spotify.com/artist/1uU7g3DNSbsu0QjSEqZtEd"
         },
         {
-          "name": "Blxckie",
-          "url": "https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL"
+          "name": "IDK",
+          "url": "https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E"
         },
         {
-          "name": "Emtee",
-          "url": "https://open.spotify.com/artist/6U3gCOvxVWKBxXItqp3mdr"
+          "name": "KayCyy",
+          "url": "https://open.spotify.com/artist/7gmVTgaiN0gpDJKvTHPTRL"
         }
       ],
-      "duration_ms": 127895,
-      "name": "Aye",
-      "url": "https://open.spotify.com/track/4lByLTRLVrAwzaWs8td5pV"
+      "duration_ms": 193243,
+      "name": "Sailor On The Moon (feat. IDK & KayCyy)",
+      "url": "https://open.spotify.com/track/0O4wHincVaptKiV2Rv7LhC"
     },
     {
       "added_at": "2022-05-26 21:59:00",
@@ -571,6 +703,22 @@
       "duration_ms": 221534,
       "name": "Love In The Way",
       "url": "https://open.spotify.com/track/3fWchdm3NfLb4licNeIhV7"
+    },
+    {
+      "added_at": "2022-10-06 21:59:00",
+      "album": {
+        "name": "Truth",
+        "url": "https://open.spotify.com/album/2QRgLpkAKI9YvmBGrI4A1w"
+      },
+      "artists": [
+        {
+          "name": "Kid Ink",
+          "url": "https://open.spotify.com/artist/6KZDXtSj0SzGOV705nNeh3"
+        }
+      ],
+      "duration_ms": 143043,
+      "name": "Truth",
+      "url": "https://open.spotify.com/track/667Z6mId3zPL0Eg9oWkkTy"
     },
     {
       "added_at": "2022-07-21 21:59:00",
@@ -789,6 +937,22 @@
       "url": "https://open.spotify.com/track/2FWeNvUo79OeiHWoR1bUsO"
     },
     {
+      "added_at": "2022-10-06 21:59:00",
+      "album": {
+        "name": "T shirt Chena",
+        "url": "https://open.spotify.com/album/7xvxcLYAiNfby694H62WQy"
+      },
+      "artists": [
+        {
+          "name": "Poptain",
+          "url": "https://open.spotify.com/artist/2TXijGGYZ8JnRklS2oFM1B"
+        }
+      ],
+      "duration_ms": 187751,
+      "name": "T shirt Chena",
+      "url": "https://open.spotify.com/track/6j8ZT0KH9jrEjyk3SH9IZH"
+    },
+    {
       "added_at": "2022-09-28 14:55:03",
       "album": {
         "name": "From Nothing",
@@ -959,6 +1123,34 @@
       "duration_ms": 151776,
       "name": "Dah Dah DahDah",
       "url": "https://open.spotify.com/track/2TSfStvlAMLw89u3tali79"
+    },
+    {
+      "added_at": "2022-10-06 21:59:00",
+      "album": {
+        "name": "2 Step Gliding",
+        "url": "https://open.spotify.com/album/6ZnGv3LJi8W90QoaqNlMRh"
+      },
+      "artists": [
+        {
+          "name": "Ekumbo",
+          "url": "https://open.spotify.com/artist/1a40Z4TMkLys2UVlxDXPT7"
+        },
+        {
+          "name": "Michael Carpenter",
+          "url": "https://open.spotify.com/artist/2zxCiaufpb0PVlWb9iRBDz"
+        },
+        {
+          "name": "lloco",
+          "url": "https://open.spotify.com/artist/2WTWVfASuVDEfdKWjTomXH"
+        },
+        {
+          "name": "Swahili Papi",
+          "url": "https://open.spotify.com/artist/66HNxzGcmvdYQD36Pcg0Di"
+        }
+      ],
+      "duration_ms": 104571,
+      "name": "2 Step Gliding",
+      "url": "https://open.spotify.com/track/3LCisn5gOFXlwHR6CCJH1h"
     },
     {
       "added_at": "2022-09-01 21:59:00",
@@ -1165,22 +1357,6 @@
       "url": "https://open.spotify.com/track/6I5DkMtgMjN6k270nRwNEl"
     },
     {
-      "added_at": "2022-08-29 18:40:05",
-      "album": {
-        "name": "The Forever Story",
-        "url": "https://open.spotify.com/album/3QVjpIxcksDkJmOnvlOJjg"
-      },
-      "artists": [
-        {
-          "name": "JID",
-          "url": "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
-        }
-      ],
-      "duration_ms": 204909,
-      "name": "Raydar",
-      "url": "https://open.spotify.com/track/3Fi4yOHkFTfVzOE7Ac3AgN"
-    },
-    {
       "added_at": "2022-09-29 21:59:00",
       "album": {
         "name": "Doja",
@@ -1217,54 +1393,6 @@
       "url": "https://open.spotify.com/track/5vhrsx08dHh2QcVh1Rsiwt"
     },
     {
-      "added_at": "2022-09-15 21:59:00",
-      "album": {
-        "name": "Treesha",
-        "url": "https://open.spotify.com/album/2AvGq63YVyGVyU0YqMecCy"
-      },
-      "artists": [
-        {
-          "name": "Lil Tecca",
-          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
-        }
-      ],
-      "duration_ms": 105693,
-      "name": "Treesha",
-      "url": "https://open.spotify.com/track/2mzlyJ8Gb8cFMJvfENKnJQ"
-    },
-    {
-      "added_at": "2022-09-15 21:59:00",
-      "album": {
-        "name": "Leave Me Alone",
-        "url": "https://open.spotify.com/album/6WKMUI2ykeCcRixxVJBTwi"
-      },
-      "artists": [
-        {
-          "name": "Skwatta kamp",
-          "url": "https://open.spotify.com/artist/6PzSxetFOE72bmEObwo8rl"
-        }
-      ],
-      "duration_ms": 294415,
-      "name": "Leave Me Alone",
-      "url": "https://open.spotify.com/track/0jHZ0cN5SrBZepb7jEqOZj"
-    },
-    {
-      "added_at": "2022-09-01 21:59:00",
-      "album": {
-        "name": "Talk",
-        "url": "https://open.spotify.com/album/7dMwNA2bcmk60N4s27fk5e"
-      },
-      "artists": [
-        {
-          "name": "Yeat",
-          "url": "https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx"
-        }
-      ],
-      "duration_ms": 174857,
-      "name": "Talk",
-      "url": "https://open.spotify.com/track/0ypjMI7vHiDP4sLB1C0Qna"
-    },
-    {
       "added_at": "2022-04-28 21:59:00",
       "album": {
         "name": "I NEVER LIKED YOU",
@@ -1287,6 +1415,22 @@
       "duration_ms": 189893,
       "name": "WAIT FOR U (feat. Drake & Tems)",
       "url": "https://open.spotify.com/track/59nOXPmaKlBfGMDeOVGrIK"
+    },
+    {
+      "added_at": "2022-09-15 21:59:00",
+      "album": {
+        "name": "Treesha",
+        "url": "https://open.spotify.com/album/2AvGq63YVyGVyU0YqMecCy"
+      },
+      "artists": [
+        {
+          "name": "Lil Tecca",
+          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
+        }
+      ],
+      "duration_ms": 105693,
+      "name": "Treesha",
+      "url": "https://open.spotify.com/track/2mzlyJ8Gb8cFMJvfENKnJQ"
     },
     {
       "added_at": "2022-05-05 21:59:00",
@@ -1419,26 +1563,6 @@
       "duration_ms": 311386,
       "name": "Till The Wheels Fall Off (feat. Lil Durk & Capella Grey)",
       "url": "https://open.spotify.com/track/2oExMFdhTMgBTbHUvMJaC4"
-    },
-    {
-      "added_at": "2022-09-22 21:59:00",
-      "album": {
-        "name": "Tomorrow 2 (with Cardi B)",
-        "url": "https://open.spotify.com/album/5o1xUBd8aM7qFhjlBXiIpb"
-      },
-      "artists": [
-        {
-          "name": "GloRilla",
-          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
-        },
-        {
-          "name": "Cardi B",
-          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
-        }
-      ],
-      "duration_ms": 209811,
-      "name": "Tomorrow 2 (with Cardi B)",
-      "url": "https://open.spotify.com/track/7KXVIAuw3m2hxZanrpSXS3"
     },
     {
       "added_at": "2022-09-01 21:59:00",

@@ -1,12 +1,12 @@
 {
   "description": "The sound and soul that keeps Mauritius jamming",
-  "num_followers": 137,
+  "num_followers": 163,
   "original_name": "Sega Hitlist",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDIxMjMxNiwwMDAwMDAwMGQwZmQ0ZjQyNGNjMjVmZjNkZTZkOTA0OGIxZWI0Mzhm",
+  "snapshot_id": "MTY2MDIxMjMxNiwwMDAwMDAwMDY1YzkzNTFlODE2MThkZjU5NGI3NzhkMjY2OGU2NWQ5",
   "tracks": [
     {
       "added_at": "2022-08-11 10:05:16",
@@ -263,6 +263,30 @@
     {
       "added_at": "2022-08-11 10:05:16",
       "album": {
+        "name": "La famille",
+        "url": "https://open.spotify.com/album/5SAJBPp2Cny5DAGZjw3Kt7"
+      },
+      "artists": [
+        {
+          "name": "Jason Heerah",
+          "url": "https://open.spotify.com/artist/3bHZcXXpgcQWHFNVJqbYGl"
+        },
+        {
+          "name": "Otentik Groove",
+          "url": "https://open.spotify.com/artist/6OTvKPpBX7i2HM5NDo8dtK"
+        },
+        {
+          "name": "D\u00e9sir\u00e9 Fran\u00e7ois",
+          "url": "https://open.spotify.com/artist/7uq44YtefJQWMa2Gkz66C9"
+        }
+      ],
+      "duration_ms": 247136,
+      "name": "Ingra",
+      "url": "https://open.spotify.com/track/2s87WVUExrg6x979SqMdwL"
+    },
+    {
+      "added_at": "2022-08-11 10:05:16",
+      "album": {
         "name": "Elle danse",
         "url": "https://open.spotify.com/album/6Vzxd84ITvDqoJSZGchxYV"
       },
@@ -303,30 +327,6 @@
       "duration_ms": 226853,
       "name": "Vilain mani\u00e8re",
       "url": "https://open.spotify.com/track/6tfUdpb4AMvQWUgo72qdZl"
-    },
-    {
-      "added_at": "2022-08-11 10:05:16",
-      "album": {
-        "name": "La famille",
-        "url": "https://open.spotify.com/album/5SAJBPp2Cny5DAGZjw3Kt7"
-      },
-      "artists": [
-        {
-          "name": "Jason Heerah",
-          "url": "https://open.spotify.com/artist/3bHZcXXpgcQWHFNVJqbYGl"
-        },
-        {
-          "name": "Otentik Groove",
-          "url": "https://open.spotify.com/artist/6OTvKPpBX7i2HM5NDo8dtK"
-        },
-        {
-          "name": "D\u00e9sir\u00e9 Fran\u00e7ois",
-          "url": "https://open.spotify.com/artist/7uq44YtefJQWMa2Gkz66C9"
-        }
-      ],
-      "duration_ms": 247136,
-      "name": "Ingra",
-      "url": "https://open.spotify.com/track/2s87WVUExrg6x979SqMdwL"
     },
     {
       "added_at": "2022-08-11 10:05:16",
@@ -479,22 +479,6 @@
     {
       "added_at": "2022-08-11 10:05:16",
       "album": {
-        "name": "Sega Ar Pwa",
-        "url": "https://open.spotify.com/album/5m1fAvzB5et9ka6sjSlVSn"
-      },
-      "artists": [
-        {
-          "name": "Sky to Be",
-          "url": "https://open.spotify.com/artist/7uWVHfDA75struQziMT7Ch"
-        }
-      ],
-      "duration_ms": 287316,
-      "name": "Sega Ar Pwa",
-      "url": "https://open.spotify.com/track/2SS0rS7nObBiXaAv7iAoZ2"
-    },
-    {
-      "added_at": "2022-08-11 10:05:16",
-      "album": {
         "name": "Mario",
         "url": "https://open.spotify.com/album/3ddiv84hCD2DU3RWhHTczv"
       },
@@ -515,6 +499,22 @@
       "duration_ms": 230817,
       "name": "Mario",
       "url": "https://open.spotify.com/track/74beHnWiIdINBtXaqU5sSJ"
+    },
+    {
+      "added_at": "2022-08-11 10:05:16",
+      "album": {
+        "name": "Sega Ar Pwa",
+        "url": "https://open.spotify.com/album/5m1fAvzB5et9ka6sjSlVSn"
+      },
+      "artists": [
+        {
+          "name": "Sky to Be",
+          "url": "https://open.spotify.com/artist/7uWVHfDA75struQziMT7Ch"
+        }
+      ],
+      "duration_ms": 287316,
+      "name": "Sega Ar Pwa",
+      "url": "https://open.spotify.com/track/2SS0rS7nObBiXaAv7iAoZ2"
     },
     {
       "added_at": "2022-08-11 10:05:16",
@@ -571,22 +571,6 @@
     {
       "added_at": "2022-08-11 10:05:16",
       "album": {
-        "name": "Soul Sok S\u00e9ga",
-        "url": "https://open.spotify.com/album/05QHCNR4jFKJJ2rwsJrT5f"
-      },
-      "artists": [
-        {
-          "name": "Claudio",
-          "url": "https://open.spotify.com/artist/53dJpxJvzAbr4hntW9gfAT"
-        }
-      ],
-      "duration_ms": 261911,
-      "name": "Bhai Aboo",
-      "url": "https://open.spotify.com/track/2M6DNq1HqzEOTtLRENGrTw"
-    },
-    {
-      "added_at": "2022-08-11 10:05:16",
-      "album": {
         "name": "La R\u00e9union l\u00e9 la",
         "url": "https://open.spotify.com/album/1jK8H9Ggjm2U1FdVIbAeSk"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 255186,
       "name": "Prisonnier",
       "url": "https://open.spotify.com/track/543ZS2a1HhMZ3pRLzcbyc8"
+    },
+    {
+      "added_at": "2022-08-11 10:05:16",
+      "album": {
+        "name": "Soul Sok S\u00e9ga",
+        "url": "https://open.spotify.com/album/05QHCNR4jFKJJ2rwsJrT5f"
+      },
+      "artists": [
+        {
+          "name": "Claudio",
+          "url": "https://open.spotify.com/artist/53dJpxJvzAbr4hntW9gfAT"
+        }
+      ],
+      "duration_ms": 261911,
+      "name": "Bhai Aboo",
+      "url": "https://open.spotify.com/track/2M6DNq1HqzEOTtLRENGrTw"
     },
     {
       "added_at": "2022-08-11 10:05:16",
@@ -671,22 +671,6 @@
     {
       "added_at": "2022-08-11 10:05:16",
       "album": {
-        "name": "Fiesta Ravanna",
-        "url": "https://open.spotify.com/album/4YAnKxfxynLPWrv24FEBAJ"
-      },
-      "artists": [
-        {
-          "name": "Alain Ramanisum",
-          "url": "https://open.spotify.com/artist/3mKlu8EOxqgz8FGQzhoZI1"
-        }
-      ],
-      "duration_ms": 265413,
-      "name": "Fiesta Ravanna",
-      "url": "https://open.spotify.com/track/3y8e0s5QzwyvjHA1CjTSFn"
-    },
-    {
-      "added_at": "2022-08-11 10:05:16",
-      "album": {
         "name": "Zalouzi",
         "url": "https://open.spotify.com/album/4i8Ud0mH48W6TV0lfTr6UK"
       },
@@ -699,22 +683,6 @@
       "duration_ms": 281917,
       "name": "Madame ohh",
       "url": "https://open.spotify.com/track/30i9vsQ8x5UPsGS4oRNPaf"
-    },
-    {
-      "added_at": "2022-08-11 10:05:16",
-      "album": {
-        "name": "S\u00e9ga Li Lao",
-        "url": "https://open.spotify.com/album/12pEc0RP8s9BTtYW7mY1WX"
-      },
-      "artists": [
-        {
-          "name": "Valo",
-          "url": "https://open.spotify.com/artist/6jCKvZ3AkM4jHLlSbS2s3o"
-        }
-      ],
-      "duration_ms": 279444,
-      "name": "S\u00e9ga Li Lao",
-      "url": "https://open.spotify.com/track/4d24yIdgzXxr9MrV4sCoBo"
     },
     {
       "added_at": "2022-08-11 10:05:16",
@@ -735,6 +703,38 @@
       "duration_ms": 283600,
       "name": "Atrap Mo lame",
       "url": "https://open.spotify.com/track/1s2wYId2KCCnytXzgDMVWS"
+    },
+    {
+      "added_at": "2022-08-11 10:05:16",
+      "album": {
+        "name": "S\u00e9ga Li Lao",
+        "url": "https://open.spotify.com/album/12pEc0RP8s9BTtYW7mY1WX"
+      },
+      "artists": [
+        {
+          "name": "Valo",
+          "url": "https://open.spotify.com/artist/6jCKvZ3AkM4jHLlSbS2s3o"
+        }
+      ],
+      "duration_ms": 279444,
+      "name": "S\u00e9ga Li Lao",
+      "url": "https://open.spotify.com/track/4d24yIdgzXxr9MrV4sCoBo"
+    },
+    {
+      "added_at": "2022-08-11 10:05:16",
+      "album": {
+        "name": "Fiesta Ravanna",
+        "url": "https://open.spotify.com/album/4YAnKxfxynLPWrv24FEBAJ"
+      },
+      "artists": [
+        {
+          "name": "Alain Ramanisum",
+          "url": "https://open.spotify.com/artist/3mKlu8EOxqgz8FGQzhoZI1"
+        }
+      ],
+      "duration_ms": 265413,
+      "name": "Fiesta Ravanna",
+      "url": "https://open.spotify.com/track/3y8e0s5QzwyvjHA1CjTSFn"
     },
     {
       "added_at": "2022-08-11 10:05:16",

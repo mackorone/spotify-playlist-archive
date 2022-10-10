@@ -944,6 +944,24 @@
     },
     {
       "album": {
+        "name": "Favorite Holiday, Vol. 1",
+        "url": "https://open.spotify.com/album/7Ahoh0X48HbYRJzPQvoIer"
+      },
+      "artists": [
+        {
+          "name": "Summer Salt",
+          "url": "https://open.spotify.com/artist/3MATPJ9tYbcMhw5VOZrRU6"
+        }
+      ],
+      "date_added": "2022-09-22",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-07",
+      "duration_ms": 250800,
+      "name": "Fire Flower",
+      "url": "https://open.spotify.com/track/2zgpMaaXfVJqUJoMbjmfH2"
+    },
+    {
+      "album": {
         "name": "Fire Flower",
         "url": "https://open.spotify.com/album/2DHEZDsm02YY3MLxvNkPcA"
       },
@@ -1369,10 +1387,28 @@
       ],
       "date_added": "2022-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-07",
       "duration_ms": 242484,
       "name": "Here With Me",
       "url": "https://open.spotify.com/track/4U4h7WNNyvhpdaDgHSdD4j"
+    },
+    {
+      "album": {
+        "name": "Here With Me",
+        "url": "https://open.spotify.com/album/0OuoHWf8yB0TPzoBWw1R1S"
+      },
+      "artists": [
+        {
+          "name": "d4vd",
+          "url": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
+        }
+      ],
+      "date_added": "2022-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242484,
+      "name": "Here With Me",
+      "url": "https://open.spotify.com/track/78Sw5GDo6AlGwTwanjXbGh"
     },
     {
       "album": {
@@ -2385,7 +2421,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-26",
+      "date_removed": null,
       "duration_ms": 174535,
       "name": "Petals",
       "url": "https://open.spotify.com/track/3Z6HMD0zTxTUqrmh9ZoIib"
@@ -3109,7 +3145,7 @@
       ],
       "date_added": "2021-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-04",
       "duration_ms": 187733,
       "name": "Talking Backwards",
       "url": "https://open.spotify.com/track/0ZwlxoHAnvkCRjsOrHAleU"

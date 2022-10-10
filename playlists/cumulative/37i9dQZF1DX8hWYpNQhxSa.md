@@ -4,7 +4,7 @@
 
 > Enjoy music & episodes of "SPY×FAMILY"! /「SPY×FAMILY」の楽曲とエピソードを１つのプレイリストに。©TE/S, SFP
 
-96 songs - 3 hr 21 min - [published](https://open.spotify.com/playlist/3FqoyZfpKt4DJYQW8JHtcU)
+97 songs - 3 hr 24 min - [published](https://open.spotify.com/playlist/3FqoyZfpKt4DJYQW8JHtcU)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,6 +37,7 @@
 | [Front Line](https://open.spotify.com/track/2lOhR6hK9Qmdd3fqxVEDRu) | [\(K\)NoW\_NAME](https://open.spotify.com/artist/422qjlzkDtxmaeeOLhnE6A) | [SPY x FAMILY Soundtrack Vol\. 1 \(Music from the Original TV Series\)](https://open.spotify.com/album/7e4jxoNaSmYXIWq7qQfQ0r) | 1:40 | 2022-06-25 |  |
 | [Girl's pastime](https://open.spotify.com/track/4zoedjiawRokXIEWZsjTUf) | [\(K\)NoW\_NAME](https://open.spotify.com/artist/422qjlzkDtxmaeeOLhnE6A) | [TVアニメ「SPY×FAMILY」オリジナル・サウンドトラック \(Vol.1\)](https://open.spotify.com/album/4Tun5Ibl0lRYCv9K7LCzqL) | 1:41 | 2022-06-25 | 2022-07-29 |
 | [Girl's pastime](https://open.spotify.com/track/6WHNjcCEkVSujv7xkoIE8w) | [\(K\)NoW\_NAME](https://open.spotify.com/artist/422qjlzkDtxmaeeOLhnE6A) | [SPY x FAMILY Soundtrack Vol\. 1 \(Music from the Original TV Series\)](https://open.spotify.com/album/7e4jxoNaSmYXIWq7qQfQ0r) | 1:41 | 2022-06-25 |  |
+| [GOOD DAY](https://open.spotify.com/track/31fHBQWCMDUJdHuG41EzRp) | [\(K\)NoW\_NAME](https://open.spotify.com/artist/422qjlzkDtxmaeeOLhnE6A) | [TVアニメ「SPY×FAMILY」オリジナル・サウンドトラック](https://open.spotify.com/album/2XV23pZFYRgvDvr9qU7iiV) | 2:32 | 2022-10-07 |  |
 | [Gorgeous step](https://open.spotify.com/track/2kjTuStXqriHVsYOgUzEIQ) | [\(K\)NoW\_NAME](https://open.spotify.com/artist/422qjlzkDtxmaeeOLhnE6A) | [TVアニメ「SPY×FAMILY」オリジナル・サウンドトラック \(Vol.1\)](https://open.spotify.com/album/4Tun5Ibl0lRYCv9K7LCzqL) | 1:57 | 2022-06-25 | 2022-07-29 |
 | [Gorgeous step](https://open.spotify.com/track/70IAu6qwc3N3H90qXrH8Sn) | [\(K\)NoW\_NAME](https://open.spotify.com/artist/422qjlzkDtxmaeeOLhnE6A) | [SPY x FAMILY Soundtrack Vol\. 1 \(Music from the Original TV Series\)](https://open.spotify.com/album/7e4jxoNaSmYXIWq7qQfQ0r) | 1:57 | 2022-06-25 |  |
 | [Housemaster](https://open.spotify.com/track/23rOPYqeBfFiOdVDlBaS3Z) | [\(K\)NoW\_NAME](https://open.spotify.com/artist/422qjlzkDtxmaeeOLhnE6A) | [TVアニメ「SPY×FAMILY」オリジナル・サウンドトラック \(Vol.1\)](https://open.spotify.com/album/4Tun5Ibl0lRYCv9K7LCzqL) | 2:10 | 2022-06-25 | 2022-07-29 |

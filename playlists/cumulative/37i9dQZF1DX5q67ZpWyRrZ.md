@@ -4,7 +4,7 @@
 
 > 'Anuv Jain'  is on the cover of Indie India.
 
-157 songs - 9 hr 7 min - [published](https://open.spotify.com/playlist/5J0oFaPhwRhYmz4fIMaWG7)
+158 songs - 9 hr 10 min - [published](https://open.spotify.com/playlist/5J0oFaPhwRhYmz4fIMaWG7)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -147,6 +147,7 @@
 | [Tere Hi Hum](https://open.spotify.com/track/1TkyDEdjiUuYhoMkxdZCiO) | [Prateek Kuhad](https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7) | [Tere Hi Hum](https://open.spotify.com/album/4xOZZmHAlau3WBiH4OPpKD) | 2:57 | 2022-01-05 |  |
 | [Thing About the Colour Blue](https://open.spotify.com/track/09XtL9fgoolH8jNRlX2AkD) | [Cinema of Excess](https://open.spotify.com/artist/3xA6t8yRi2XxiycBjSB9Ai) | [Bring Back the Sound](https://open.spotify.com/album/1KosGhCYNNvwy0f1n4EPEZ) | 2:35 | 2022-01-05 | 2022-02-26 |
 | [Through These Years](https://open.spotify.com/track/34OnHRNEwBUIzICP1FulTO) | [Semwal](https://open.spotify.com/artist/0uNhaTjKYwyBEKJoG7gPjq), [Sparsh Dangwal](https://open.spotify.com/artist/1SClATlfgXE2qlr4FcEhUS) | [Through These Years](https://open.spotify.com/album/2i4UWMCrYHyvV1pSllSDpu) | 3:43 | 2021-12-06 | 2022-01-06 |
+| [Tu Chodiyon Na](https://open.spotify.com/track/4trQhzRfEN0z5htXvjc5zA) | [Ronit Vinta](https://open.spotify.com/artist/0FHOJryrpHtkKAZMKULXXn) | [Tu Chodiyon Na](https://open.spotify.com/album/1DdgnxCTXd5ggIFAy3TtHe) | 3:32 | 2022-10-07 |  |
 | [Tu Hai Wajah](https://open.spotify.com/track/7zep4BfQRkfASc8qhX0cct) | [Piyush Bhisekar](https://open.spotify.com/artist/3HUf0l1HSBzHw0F5UhBOpA) | [Hai Bharosa](https://open.spotify.com/album/5gzjNeBbZlD3bDMKDxNCTL) | 3:13 | 2022-01-05 | 2022-05-24 |
 | [tu le chal](https://open.spotify.com/track/52FsMpdKeyU6dYQlHx8qpt) | [Sez on the Beat](https://open.spotify.com/artist/7hI0IRD66iykVpXiieNRbe), [Dakait](https://open.spotify.com/artist/2BrIU10C4UeoaDFgPg44Y7), [Aniket Raturi](https://open.spotify.com/artist/1jXFRp4614WZlih5QJ51RS) | [tu le chal](https://open.spotify.com/album/2FSC8NwU8adIkchZtDEkV0) | 4:02 | 2021-12-06 | 2022-01-06 |
 | [Tum Jab Paas](https://open.spotify.com/track/3FTRSa9mWB3kKx2jkhUAN3) | [Prateek Kuhad](https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7) | [Tum Jab Paas \- Single](https://open.spotify.com/album/3xyedpfAMFNgZXHuU6iV6s) | 3:55 | 2022-01-05 |  |

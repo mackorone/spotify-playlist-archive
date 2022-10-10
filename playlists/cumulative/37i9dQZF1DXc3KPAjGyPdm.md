@@ -4,7 +4,7 @@
 
 > Music from and inspired by Stranger Things\. Watch Season 4 now on Netflix.
 
-226 songs - 13 hr 52 min - [published](https://open.spotify.com/playlist/46rHkOw5I8WIIcWUUhwmZN)
+227 songs - 13 hr 55 min - [published](https://open.spotify.com/playlist/46rHkOw5I8WIIcWUUhwmZN)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,7 +73,8 @@
 | [Find the Source](https://open.spotify.com/track/3EsW4otT3842xdOosEAxHb) | [Kyle Dixon & Michael Stein](https://open.spotify.com/artist/00oL7zWxmWveTsKF7DnIRd) | [Stranger Things 3 \(Original Score from the Netflix Original Series\)](https://open.spotify.com/album/3yWXEa4TRUts0oMWjNo2qc) | 1:18 | 2019-07-10 |  |
 | [Fine Time](https://open.spotify.com/track/0hePnybCyyhHn97nRWLgp5) | [Free Beer](https://open.spotify.com/artist/1EwicW2et3B7nOzkOmKaIT) | [Free Beer® \- Best](https://open.spotify.com/album/2yATWjO3BytnvQ1Xd0hzhL) | 3:11 | 2022-07-01 |  |
 | [Fire and Rain](https://open.spotify.com/track/4a08JFMdOAeLMFz9ov82E4) | [James Taylor](https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P) | [Stranger Things: Soundtrack from the Netflix Series, Season 4](https://open.spotify.com/album/3Tij2oa4FJWd7Gk0pJaf0w) | 3:22 | 2022-07-01 |  |
-| [Full Fathom Five/I Shall Not Care](https://open.spotify.com/track/0Z6CuPLVLe21ljBhkTwplC) | [Pearls Before Swine](https://open.spotify.com/artist/01UrELDCYrQ6wrFArNbidS) | [The Wizard Of Is](https://open.spotify.com/album/5IgRl2HyYt1ZSaBbeRYwHA) | 2:47 | 2017-12-20 |  |
+| [Full Fathom Five / I Shall Not Care](https://open.spotify.com/track/0WyIflg1jTLOXIzyVxSUy2) | [Pearls Before Swine](https://open.spotify.com/artist/01UrELDCYrQ6wrFArNbidS) | [Wizard Of Is](https://open.spotify.com/album/6gwpBRhdZOLubtp0jOejmV) | 2:45 | 2017-12-20 |  |
+| [Full Fathom Five/I Shall Not Care](https://open.spotify.com/track/0Z6CuPLVLe21ljBhkTwplC) | [Pearls Before Swine](https://open.spotify.com/artist/01UrELDCYrQ6wrFArNbidS) | [The Wizard Of Is](https://open.spotify.com/album/5IgRl2HyYt1ZSaBbeRYwHA) | 2:47 | 2017-12-20 | 2022-10-08 |
 | [Funky Fanfare](https://open.spotify.com/track/3Vr406z58yyyO2Ofh1fbqA) | [Keith Mansfield](https://open.spotify.com/artist/5slh4AZGBwQKHeKZJCHEYH) | [The Kpm 1000 Series \- Volume 1](https://open.spotify.com/album/1svikpX3DorNerwbCIGi6H) | 2:28 | 2019-07-10 |  |
 | [Get Up And Go](https://open.spotify.com/track/5u165RYdVYhMtPc8ukhaoY) | [The Go\-Go's](https://open.spotify.com/artist/2mG8HHQ9S9kcbjcrb5N1FE) | [Greatest](https://open.spotify.com/album/6qDHT0nQqu8GhK2jFa5LNp) | 3:16 | 2019-07-10 |  |
 | [Ghostbusters](https://open.spotify.com/track/300zfRaCgTmEm5Eqe3HqZZ) | [Ray Parker Jr.](https://open.spotify.com/artist/0NyzfcGDZZ6GM25EBG9BYK) | [Arista Heritage Series: Ray Parker](https://open.spotify.com/album/1Fq1oCtmlSQabl1zIdoWCg) | 4:00 | 2017-12-20 |  |

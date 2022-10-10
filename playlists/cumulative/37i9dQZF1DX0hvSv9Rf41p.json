@@ -387,7 +387,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 156065,
       "name": "Back From The Future",
       "url": "https://open.spotify.com/track/5nMDi53vEJa86XBrZC5Ti9"
@@ -581,7 +581,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 264000,
       "name": "Bastille",
       "url": "https://open.spotify.com/track/48S8uCvM4Oii7SJiVrhYh6"
@@ -1687,7 +1687,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 227200,
       "name": "Down With Your Love - SIPPY Remix",
       "url": "https://open.spotify.com/track/7xDxi7ZhHtnQ99owoCXQRi"
@@ -2279,7 +2279,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 140000,
       "name": "Fearless",
       "url": "https://open.spotify.com/track/7pDUFFF3J4WEu1aZMW4M4b"
@@ -5058,6 +5058,24 @@
     },
     {
       "album": {
+        "name": "RAD",
+        "url": "https://open.spotify.com/album/3NOLC3FyPcACcSmmGwCUbZ"
+      },
+      "artists": [
+        {
+          "name": "Tokyo Machine",
+          "url": "https://open.spotify.com/artist/3bwENxqj9nhaAI3fsAwmv9"
+        }
+      ],
+      "date_added": "2022-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "RAD",
+      "url": "https://open.spotify.com/track/6OOKfkImPzQ60wK5ElkAKu"
+    },
+    {
+      "album": {
         "name": "Rainbow Brain",
         "url": "https://open.spotify.com/album/1BHSEilVU74s7UKj1bToQA"
       },
@@ -5103,6 +5121,28 @@
       "duration_ms": 163200,
       "name": "Rattle Your Bones",
       "url": "https://open.spotify.com/track/2QXGAgIReGxutvkKg2FjDh"
+    },
+    {
+      "album": {
+        "name": "Ready To Fly",
+        "url": "https://open.spotify.com/album/0Gt9NV2s7pSvP7g2F1nXGc"
+      },
+      "artists": [
+        {
+          "name": "Sub Focus",
+          "url": "https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO"
+        },
+        {
+          "name": "Dimension",
+          "url": "https://open.spotify.com/artist/1QMgre3BHX161ZHtWMUu6S"
+        }
+      ],
+      "date_added": "2022-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204500,
+      "name": "Ready To Fly",
+      "url": "https://open.spotify.com/track/0a2cA9H6KuOsoHLCnjl6YL"
     },
     {
       "album": {
@@ -5623,7 +5663,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 263200,
       "name": "See You Again",
       "url": "https://open.spotify.com/track/4pXG8Q82L8WvypAm5Wo86y"
@@ -6909,7 +6949,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 202285,
       "name": "Touch",
       "url": "https://open.spotify.com/track/6EsYB6iqDXHlOgTTdKihxH"
@@ -7175,7 +7215,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 238443,
       "name": "Valley Of Violence",
       "url": "https://open.spotify.com/track/1jz6nNE00KCKqVXCzBr5JW"

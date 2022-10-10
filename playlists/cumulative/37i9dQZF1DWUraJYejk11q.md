@@ -4,7 +4,7 @@
 
 > Instrumental bliss beyond genre classification.
 
-190 songs - 15 hr 4 min - [published](https://open.spotify.com/playlist/0oD5iC51KNsAwsn7m40tDg)
+191 songs - 15 hr 7 min - [published](https://open.spotify.com/playlist/0oD5iC51KNsAwsn7m40tDg)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,7 +46,7 @@
 | [Day By Day](https://open.spotify.com/track/3tpqnJwdfTJJycsLHwUbtC) | [Stack Effect](https://open.spotify.com/artist/52xTPDMfTQEHXnBfyKQXFz) | [Pause](https://open.spotify.com/album/2hspcikJXpHWS7xeaKwvgf) | 4:49 | 2022-08-24 |  |
 | [DAZED](https://open.spotify.com/track/4z4XTugxaVap8Ndp8QI5T7) | [Galaksit](https://open.spotify.com/artist/7xb6guCCpe8BhM0F62ah9X) | [DAZED](https://open.spotify.com/album/1mE4SkBA46imrI1TcLhhN6) | 2:12 | 2022-04-06 | 2022-09-22 |
 | [Diamond Beach](https://open.spotify.com/track/5O77vZjVt78PbW6nCKItQq) | [Modula](https://open.spotify.com/artist/0UplKQAaI4vQKJ1AheVyE7) | [Paranormal Phenomena – The Icelandic Expedition](https://open.spotify.com/album/7of3FJV3PXkHQ1bWyiFqup) | 3:04 | 2022-03-30 |  |
-| [DKD](https://open.spotify.com/track/3M8CoZcFebNLowVqgYuahA) | [Club Winston](https://open.spotify.com/artist/7dxIJrKyeY2cAKq6ZUCN6r) | [SLUMP DKD TODDLER](https://open.spotify.com/album/0pux06CPiZYv13bDm5f4Iw) | 5:20 | 2021-10-15 |  |
+| [DKD](https://open.spotify.com/track/3M8CoZcFebNLowVqgYuahA) | [Club Winston](https://open.spotify.com/artist/7dxIJrKyeY2cAKq6ZUCN6r) | [SLUMP DKD TODDLER](https://open.spotify.com/album/0pux06CPiZYv13bDm5f4Iw) | 5:20 | 2021-10-15 | 2022-10-06 |
 | [Doing The Beeston Bump](https://open.spotify.com/track/5t511Yx5GtAlRLAJF9Lhxa) | [Leafcutter John](https://open.spotify.com/artist/1CJCThhtbSHWSihjWWRY9r) | [Yes! Come Parade With Us](https://open.spotify.com/album/5zajoik1fYvDE241lbpXxK) | 6:40 | 2021-10-15 | 2022-02-10 |
 | [Downlink](https://open.spotify.com/track/7HvgoiRoatsXHBdWs6KOMV) | [Patricia](https://open.spotify.com/artist/7Czyyo31ZyZL1VLtYaTkW0) | [Downlink](https://open.spotify.com/album/2t8P5Fxd8tiuvUxpAf51um) | 5:50 | 2021-10-15 | 2022-02-10 |
 | [Drip](https://open.spotify.com/track/5ZFslOkcftI1FCs88L99qn) | [Lukid](https://open.spotify.com/artist/3a2bPqijV6I1SBKKK9ikMg) | [Drip](https://open.spotify.com/album/45Tt8vVolyhmc1IeLxwmMn) | 6:40 | 2021-10-15 | 2022-01-20 |
@@ -126,10 +126,11 @@
 | [Perpetual Motion](https://open.spotify.com/track/05kGKBMBFTpccppj8GdTHH) | [Max Cooper](https://open.spotify.com/artist/0WSSKmoRbxqLf3MnXInQ2J) | [Perpetual Motion](https://open.spotify.com/album/54YUMopbV21ClaQ5iGMWHc) | 4:58 | 2021-10-15 | 2022-04-23 |
 | [Persuasion System](https://open.spotify.com/track/12RJmMBPv5onWiQosLJ6ZI) | [Com Truise](https://open.spotify.com/artist/2wouN3QXejYa5tKetYdcVX) | [Persuasion System](https://open.spotify.com/album/2Takb3WbmLXRVvXiFfnjnk) | 3:49 | 2021-10-15 | 2022-03-31 |
 | [Planta Dance](https://open.spotify.com/track/3YFLHrRwTAcryw4TZXvvYS) | [Ozoyo](https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe) | [Planta Dance](https://open.spotify.com/album/6pUoP6H2z0VDK3K0mzGnWv) | 3:06 | 2022-08-03 |  |
-| [Problems](https://open.spotify.com/track/1UERuR9hjz9GM609JIjtGx) | [Floating Points](https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L) | [Problems](https://open.spotify.com/album/1aA9qnJT9NtySZA16RHkCD) | 4:37 | 2022-10-01 |  |
+| [Problems](https://open.spotify.com/track/1UERuR9hjz9GM609JIjtGx) | [Floating Points](https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L) | [Problems](https://open.spotify.com/album/1aA9qnJT9NtySZA16RHkCD) | 4:37 | 2022-09-30 |  |
 | [Prometheus](https://open.spotify.com/track/2qNqhFlOdwEA5OMheOrome) | [Tenderlonious](https://open.spotify.com/artist/5D1w6T6H7pnRDQZIrhwlxo) | [Prometheus](https://open.spotify.com/album/5yiLeekDCLQVR5cx53snW2) | 4:47 | 2021-10-15 | 2022-02-10 |
 | [Promise You'll Haunt Me](https://open.spotify.com/track/3ZNoKpRGsNc2xK7yPbg5aI) | [Auscultation](https://open.spotify.com/artist/5KlOanD5FKL6qWZ8auNVKQ) | [L'étreinte Imaginaire](https://open.spotify.com/album/1E5qllAtZJmSI94vHGMdGn) | 6:33 | 2021-10-15 | 2022-01-20 |
 | [Proud](https://open.spotify.com/track/5COxPQbNaVMsLEr3tuicvp) | [Qrion](https://open.spotify.com/artist/0bGDTQ78MVgI5Snqo9KJZw) | [I Hope It Lasts Forever](https://open.spotify.com/album/4Xim1jo6ziwJ1Qu6QkoLPj) | 3:56 | 2021-11-25 | 2022-01-12 |
+| [Puppy \- Feel The Beat Mix](https://open.spotify.com/track/5TLfNLsPBWYZ3PkSkkb5To) | [Doss](https://open.spotify.com/artist/7bQLFALIEawxhkyFiiLVhM) | [Puppy \(Feel The Beat Mix\)](https://open.spotify.com/album/4zhm1wulT9LUeC4NnSJu0N) | 3:36 | 2022-10-06 |  |
 | [Raw Cutz](https://open.spotify.com/track/5IMdkWtrs8auJnx0ntGlFC) | [Tim Sean\-Lee](https://open.spotify.com/artist/40vMsJdhfhZFajVGMWsG5I) | [Octo](https://open.spotify.com/album/0HdRPxogDtNU20MGQQlkzQ) | 4:49 | 2022-03-09 | 2022-08-04 |
 | [Re\-Wild \(Breaka Remix\)](https://open.spotify.com/track/2aaEMU2r1cZxD5Yw9wH3rg) | [Kelly Lee Owens](https://open.spotify.com/artist/5eitAUlYmlha3LLWg7aBn5), [Breaka](https://open.spotify.com/artist/2hTtDy5yaNWqVmBj7EpaAq) | [Inner Song Remix Series](https://open.spotify.com/album/3cBnpVzF3oRpBqtvoEVvbA) | 5:16 | 2021-10-15 | 2022-02-10 |
 | [Rhino](https://open.spotify.com/track/2HzRf22923yy1kTNNuE7kC) | [Bullion](https://open.spotify.com/artist/6vcPgFOkMWBoY6Ks6eMEWj) | [Ghostly Swim 3](https://open.spotify.com/album/5wATCNKKYbRKlG2hKzhUCu) | 3:03 | 2021-10-15 | 2022-02-10 |

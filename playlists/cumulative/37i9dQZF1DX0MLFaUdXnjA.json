@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-04-26",
-  "description": "Keep it low-key with all of today's chill pop. Cover: Giveon",
+  "description": "Keep it low-key with all of today's chill pop. Cover: Stephen Dawes",
   "name": "Chill Pop",
   "published_playlist_ids": [
     "6isU2kXFblpGeacMELfavp"
@@ -139,6 +139,24 @@
       "duration_ms": 192000,
       "name": "2022",
       "url": "https://open.spotify.com/track/2Zc3DlVHtwqAVE4KcdajnN"
+    },
+    {
+      "album": {
+        "name": "22 Make",
+        "url": "https://open.spotify.com/album/34ZJHKy9s9JbUQmdOmrS4F"
+      },
+      "artists": [
+        {
+          "name": "Oh Wonder",
+          "url": "https://open.spotify.com/artist/5cIc3SBFuBLVxJz58W2tU9"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212274,
+      "name": "22 Make",
+      "url": "https://open.spotify.com/track/0lQyu3gXsyuDj1MvZiVzXc"
     },
     {
       "album": {
@@ -665,7 +683,7 @@
       ],
       "date_added": "2022-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 268374,
       "name": "All You Do",
       "url": "https://open.spotify.com/track/3TR91cx8KHmuT6w54Zv3TZ"
@@ -1741,7 +1759,7 @@
       ],
       "date_added": "2021-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-06",
       "duration_ms": 196730,
       "name": "Billie Bossa Nova",
       "url": "https://open.spotify.com/track/2KnuaZYoGzDoHiBTNYOTXG"
@@ -4436,6 +4454,24 @@
     },
     {
       "album": {
+        "name": "Detached",
+        "url": "https://open.spotify.com/album/7gqvota2LkWgkoqEI51Q3U"
+      },
+      "artists": [
+        {
+          "name": "Lyn Lapid",
+          "url": "https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146176,
+      "name": "Detached",
+      "url": "https://open.spotify.com/track/5HQppSYyU4whulcnaYZyFP"
+    },
+    {
+      "album": {
         "name": "Devil On My Shoulder",
         "url": "https://open.spotify.com/album/1ZSDwevftMUQ8SqGx6clvZ"
       },
@@ -5142,6 +5178,50 @@
     },
     {
       "album": {
+        "name": "The Hardest Part",
+        "url": "https://open.spotify.com/album/0CIYj6AV180SmLAEONb2DW"
+      },
+      "artists": [
+        {
+          "name": "Noah Cyrus",
+          "url": "https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW"
+        },
+        {
+          "name": "Benjamin Gibbard",
+          "url": "https://open.spotify.com/artist/4CvZd3qzC2HbLxAoAEBRIL"
+        }
+      ],
+      "date_added": "2022-10-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-07",
+      "duration_ms": 150491,
+      "name": "Every Beginning Ends",
+      "url": "https://open.spotify.com/track/16fxWByj3xZ3yWxwZieyD7"
+    },
+    {
+      "album": {
+        "name": "The Hardest Part",
+        "url": "https://open.spotify.com/album/340COGAWuXWO66Qc4TxJuN"
+      },
+      "artists": [
+        {
+          "name": "Noah Cyrus",
+          "url": "https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW"
+        },
+        {
+          "name": "Benjamin Gibbard",
+          "url": "https://open.spotify.com/artist/4CvZd3qzC2HbLxAoAEBRIL"
+        }
+      ],
+      "date_added": "2022-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150491,
+      "name": "Every Beginning Ends",
+      "url": "https://open.spotify.com/track/1cO3IDkpPFM8hk1l9zG9aL"
+    },
+    {
+      "album": {
         "name": "Every Beginning Ends",
         "url": "https://open.spotify.com/album/7pHo5Tov9GyzVnBLxPuHYB"
       },
@@ -5157,7 +5237,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-06",
       "duration_ms": 150491,
       "name": "Every Beginning Ends",
       "url": "https://open.spotify.com/track/7lagLMBTqqOkta5eqRfNXc"
@@ -6071,7 +6151,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 159123,
       "name": "For My Hand (feat. Ed Sheeran)",
       "url": "https://open.spotify.com/track/0HaRLPnr887lcQM2YQzkff"
@@ -7473,10 +7553,28 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-07",
       "duration_ms": 242484,
       "name": "Here With Me",
       "url": "https://open.spotify.com/track/4U4h7WNNyvhpdaDgHSdD4j"
+    },
+    {
+      "album": {
+        "name": "Here With Me",
+        "url": "https://open.spotify.com/album/0OuoHWf8yB0TPzoBWw1R1S"
+      },
+      "artists": [
+        {
+          "name": "d4vd",
+          "url": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
+        }
+      ],
+      "date_added": "2022-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242484,
+      "name": "Here With Me",
+      "url": "https://open.spotify.com/track/78Sw5GDo6AlGwTwanjXbGh"
     },
     {
       "album": {
@@ -7783,6 +7881,24 @@
       "duration_ms": 217761,
       "name": "HOMESICK",
       "url": "https://open.spotify.com/track/371XF8IAAwki47x9j2oiQa"
+    },
+    {
+      "album": {
+        "name": "Catherine Called Birdy (Amazon Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/13XZ1YxWguloTwHYXjcskB"
+      },
+      "artists": [
+        {
+          "name": "Misty Miller",
+          "url": "https://open.spotify.com/artist/2O4XS2arv9HMIKQUfl8LKU"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226431,
+      "name": "Honey To The Bee",
+      "url": "https://open.spotify.com/track/3vTNRw7RWrzt6MchFfghIK"
     },
     {
       "album": {
@@ -10929,7 +11045,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 216853,
       "name": "Love To Dream",
       "url": "https://open.spotify.com/track/6Q9IUoBTNLHgBib1FSFGbj"
@@ -11085,6 +11201,24 @@
       "duration_ms": 143481,
       "name": "Made (feat. Pink Sweat$)",
       "url": "https://open.spotify.com/track/2qSQ3R01mDf2DAzYoC4ERw"
+    },
+    {
+      "album": {
+        "name": "Magical Thinking",
+        "url": "https://open.spotify.com/album/21eHBcnc4VwH790PBt6QvV"
+      },
+      "artists": [
+        {
+          "name": "Haley Joelle",
+          "url": "https://open.spotify.com/artist/4pZOG8ump4odtJJA4Cy7S8"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173985,
+      "name": "Magical Thinking",
+      "url": "https://open.spotify.com/track/5ITq6ybkDsjEr8GbYam8Nl"
     },
     {
       "album": {
@@ -14952,6 +15086,24 @@
     },
     {
       "album": {
+        "name": "one",
+        "url": "https://open.spotify.com/album/1tZ2W5PW2lyAf1K7sTM6iW"
+      },
+      "artists": [
+        {
+          "name": "gnash",
+          "url": "https://open.spotify.com/artist/3iri9nBFs9e4wN7PLIetAw"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204199,
+      "name": "Seasons",
+      "url": "https://open.spotify.com/track/0jzuoUYtIxSMJLUktZXV9o"
+    },
+    {
+      "album": {
         "name": "Seasons Bloom",
         "url": "https://open.spotify.com/album/2HPJQrWcu4fyjiKSGDURwx"
       },
@@ -15181,6 +15333,24 @@
       "duration_ms": 148846,
       "name": "Sheesh!",
       "url": "https://open.spotify.com/track/3ddNKnYpVx0uI8vcwbTQ5Y"
+    },
+    {
+      "album": {
+        "name": "HELP EVER HURT NEVER",
+        "url": "https://open.spotify.com/album/1OojCidx0eoPKch2M0Kz31"
+      },
+      "artists": [
+        {
+          "name": "Fujii Kaze",
+          "url": "https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi"
+        }
+      ],
+      "date_added": "2022-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185573,
+      "name": "Shinunoga E-Wa",
+      "url": "https://open.spotify.com/track/0o9zmvc5f3EFApU52PPIyW"
     },
     {
       "album": {
@@ -16081,7 +16251,7 @@
       ],
       "date_added": "2022-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 173463,
       "name": "Speak",
       "url": "https://open.spotify.com/track/0UHdsqznjCoqPzZJTJZ5Kb"
@@ -17066,6 +17236,24 @@
     },
     {
       "album": {
+        "name": "Teenage Dream",
+        "url": "https://open.spotify.com/album/0FPqPpVTND59rpe6YsNnyz"
+      },
+      "artists": [
+        {
+          "name": "Stephen Dawes",
+          "url": "https://open.spotify.com/artist/3jTU1IOqkO7Mz4zdbXPose"
+        }
+      ],
+      "date_added": "2022-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177857,
+      "name": "Teenage Dream",
+      "url": "https://open.spotify.com/track/3Y2MvObZdPakD1X71KOxCD"
+    },
+    {
+      "album": {
         "name": "Sin Miedo (del Amor y Otros Demonios) \u221e",
         "url": "https://open.spotify.com/album/00wSTrFxoSzA7eeS1UxHgd"
       },
@@ -17189,7 +17377,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 216448,
       "name": "The 30th",
       "url": "https://open.spotify.com/track/5SHpuW2qjkQtFRpE6P9Nks"
@@ -19631,7 +19819,7 @@
       ],
       "date_added": "2022-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-05",
       "duration_ms": 181248,
       "name": "Winter is Hopeful",
       "url": "https://open.spotify.com/track/4YUSjeeznV0HhsbWdSkHx0"

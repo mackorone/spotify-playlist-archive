@@ -4,7 +4,7 @@
 
 > All the greatest Thrash tunes \- from classics to the best new tracks\. Cover: Slayer
 
-351 songs - 1 day 0 hr 57 min - [published](https://open.spotify.com/playlist/3zOnYu9mXXc9Jrakbf4dFr)
+352 songs - 1 day 1 hr 1 min - [published](https://open.spotify.com/playlist/3zOnYu9mXXc9Jrakbf4dFr)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,7 +81,7 @@
 | [Dead End Destiny](https://open.spotify.com/track/2dorBMLsGLl6B54C6uEim1) | [Hidden Intent](https://open.spotify.com/artist/6k4QusZRtp1eIvIZLbUTSh), [Michael Stützer Hansen](https://open.spotify.com/artist/20PZqiBLL1Sbec2K4y8w1x), [Kræn Meier](https://open.spotify.com/artist/16T8W5TVZmvzuLEDoWlIVT) | [Dead End Destiny](https://open.spotify.com/album/1wQiUv3xkF4teiRWkcFfb2) | 3:04 | 2021-12-17 | 2022-07-23 |
 | [Deadline Story \(feat\. Patrick Boos\)](https://open.spotify.com/track/1Ikw5IkMJfgwhkZlsZU3Gn) | [BLOODSPOT](https://open.spotify.com/artist/5kh3HDhT7yFQYeJ5Haoohe), [Patrick Boos](https://open.spotify.com/artist/1OkGr7i5QR5B7HYH8zDTYj) | [Deadline Story \(feat\. Patrick Boos\)](https://open.spotify.com/album/747jQN0DumQKigRqhHyvmd) | 4:42 | 2021-12-17 | 2022-03-01 |
 | [Dear Diary](https://open.spotify.com/track/21zfxfNLaNqQuGX0MSwvh7) | [Ultra\-Violence](https://open.spotify.com/artist/6krhRWKGQ106VQGYdDFHAO) | [Dear Diary](https://open.spotify.com/album/1TyE20y8uKLbd6cPPjaeZj) | 2:36 | 2022-04-15 | 2022-07-16 |
-| [Death Squad](https://open.spotify.com/track/6HxVWqnbWUiKimNRPz1K8l) | [Sacred Reich](https://open.spotify.com/artist/0UeVJTdCWGEFSSO9Tg9tiH) | [Ignorance & Surf Nicaragua](https://open.spotify.com/album/6oIYHgssDkhfR0RgUoOyX0) | 4:24 | 2022-07-13 |  |
+| [Death Squad](https://open.spotify.com/track/6HxVWqnbWUiKimNRPz1K8l) | [Sacred Reich](https://open.spotify.com/artist/0UeVJTdCWGEFSSO9Tg9tiH) | [Ignorance & Surf Nicaragua](https://open.spotify.com/album/6oIYHgssDkhfR0RgUoOyX0) | 4:24 | 2022-07-13 | 2022-10-09 |
 | [Deepfake](https://open.spotify.com/track/08jec7sisBIOmH9vCFblbg) | [Johnny Booth](https://open.spotify.com/artist/2rEKSdoBVBEOjGYf4BfYgc) | [Deepfake](https://open.spotify.com/album/38DnaZrg0qUADokwsyJzsN) | 2:45 | 2021-12-17 | 2022-03-02 |
 | [Descensus](https://open.spotify.com/track/0aZStYbf5K6c17Wpw6kwNe) | [Carcosa](https://open.spotify.com/artist/2bhtSpyMNiPZJlkisy4T9G) | [Descensus](https://open.spotify.com/album/71gjcmCv4UFBUQvEh1TbB9) | 3:51 | 2021-12-17 | 2022-02-04 |
 | [Desecrator](https://open.spotify.com/track/3Lao9WQ5YkN6P9YKE0ppVX) | [Exhorder](https://open.spotify.com/artist/5kuYamMO00pHPdRQcAXWTl) | [Slaughter In The Vatican](https://open.spotify.com/album/5YnKblRYZeLlm90M9xAIvT) | 6:08 | 2022-07-13 |  |
@@ -227,7 +227,7 @@
 | [Path of Discipline](https://open.spotify.com/track/7ek4uZo41eieLg4e9zYPcX) | [Red Death](https://open.spotify.com/artist/1uBhFijojfN4nXW4huTJ4r) | [Sickness Divine](https://open.spotify.com/album/5o517FcrGcBgyYPPcGWa30) | 3:39 | 2021-12-17 | 2022-07-16 |
 | [Peace Sells \- Remastered](https://open.spotify.com/track/5a2hIQWInPjqkkFiUEgxoX) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Peace Sells...But Who's Buying \(25th Anniversary\)](https://open.spotify.com/album/4PqSk2iBHnsYQK0ecXjS9k) | 4:04 | 2022-07-13 |  |
 | [Perpetual Blood Oath](https://open.spotify.com/track/1uH1Vkb8bPqgHVdXUMm9Zl) | [Protector](https://open.spotify.com/artist/4LfucwWOrS5NHbgxwtYbH3) | [Excessive Outburst of Depravity](https://open.spotify.com/album/1rRn36ZY7U5Phm8u3854d7) | 4:13 | 2022-07-01 | 2022-07-05 |
-| [Perpetual Chaos](https://open.spotify.com/track/0twaN8lzgWZVbBBBWJsEkh) | [Nervosa](https://open.spotify.com/artist/5D9d9xyLNQu32QVD9t4YqH) | [Perpetual Chaos](https://open.spotify.com/album/2GNKNsKKMdZJ9oPf3fvVWY) | 3:39 | 2022-09-09 | 2022-09-30 |
+| [Perpetual Chaos](https://open.spotify.com/track/0twaN8lzgWZVbBBBWJsEkh) | [Nervosa](https://open.spotify.com/artist/5D9d9xyLNQu32QVD9t4YqH) | [Perpetual Chaos](https://open.spotify.com/album/2GNKNsKKMdZJ9oPf3fvVWY) | 3:39 | 2022-09-09 |  |
 | [Perpetual Chaos](https://open.spotify.com/track/5Qk5KU60bM84nUt7kyyMPG) | [Nervosa](https://open.spotify.com/artist/5D9d9xyLNQu32QVD9t4YqH) | [Perpetual Chaos](https://open.spotify.com/album/2DJTZaqrWVPoIRgWtMTgPy) | 3:39 | 2021-12-17 | 2022-07-28 |
 | [Phantom Force](https://open.spotify.com/track/1KeXxoAqApT6LiH9GQw0tR) | [Havok](https://open.spotify.com/artist/2jw4wgixxa20jls9N3Bdpq) | [Phantom Force](https://open.spotify.com/album/2CqYBNqVw8stCxhxRaohUH) | 2:59 | 2021-12-17 | 2022-07-29 |
 | [Phantom Graves](https://open.spotify.com/track/58RBSrRamSP8hhrYpvJYqe) | [Accuser](https://open.spotify.com/artist/5QCQHF5hJbsMFtE4dY0Ifq) | [Phantom Graves](https://open.spotify.com/album/5ozspVZcxfm1RIee5CKmWK) | 3:59 | 2021-12-17 | 2022-03-03 |
@@ -235,7 +235,7 @@
 | [Pleasure to Kill](https://open.spotify.com/track/5PFhkQbjJge1h8k7wE1K5U) | [Kreator](https://open.spotify.com/artist/3BM0EaYmkKWuPmmHFUTQHv) | [Pleasure to Kill](https://open.spotify.com/album/5RP8ddfJnPDYvUjCbBS2Rc) | 4:08 | 2022-07-13 |  |
 | [Pleasure to Kill](https://open.spotify.com/track/1ZZjbRbY0uLQLeNddMqZJ2) | [Kreator](https://open.spotify.com/artist/3BM0EaYmkKWuPmmHFUTQHv) | [1985\-1992 Past Life Trauma](https://open.spotify.com/album/22Ad1HDSVfWzPfOwY4DyG6) | 4:09 | 2022-07-13 | 2022-07-15 |
 | [Point Of No Return](https://open.spotify.com/track/5YJILvImepN7U7Vonz2VkB) | [Havok](https://open.spotify.com/artist/2jw4wgixxa20jls9N3Bdpq) | [Point Of No Return EP](https://open.spotify.com/album/6diYp1uiFuHfCbbapfIC6y) | 4:37 | 2022-07-13 |  |
-| [Possessed by Fire](https://open.spotify.com/track/6wiuSleBg7fx2C5B0HwtLy) | [Exumer](https://open.spotify.com/artist/03sDKsD3y34NBAjeRHucde) | [Possessed by Fire](https://open.spotify.com/album/5C8Mjwwruh2IFfg4WbdnlR) | 5:00 | 2022-07-13 |  |
+| [Possessed by Fire](https://open.spotify.com/track/6wiuSleBg7fx2C5B0HwtLy) | [Exumer](https://open.spotify.com/artist/03sDKsD3y34NBAjeRHucde) | [Possessed by Fire](https://open.spotify.com/album/5C8Mjwwruh2IFfg4WbdnlR) | 5:00 | 2022-07-13 | 2022-10-05 |
 | [Post\-Truth Era](https://open.spotify.com/track/0sQJS58QryP50hsYo2CI8u) | [Havok](https://open.spotify.com/artist/2jw4wgixxa20jls9N3Bdpq) | [Post\-Truth Era](https://open.spotify.com/album/0omA3faLxpyUINQMCeq4ly) | 3:53 | 2021-12-17 | 2022-07-27 |
 | [Practice What You Preach](https://open.spotify.com/track/1KmX2Q8IwwLY2AMIMOmYlw) | [Testament](https://open.spotify.com/artist/28hJdGN1Awf7u3ifk2lVkg) | [Practice What You Preach](https://open.spotify.com/album/7lNeBg16EP03ifo5Wutq52) | 4:57 | 2022-07-13 |  |
 | [Prepare For Attack](https://open.spotify.com/track/6cTvR35cvugp2SLSPsnzy0) | [Havok](https://open.spotify.com/artist/2jw4wgixxa20jls9N3Bdpq) | [Time Is Up](https://open.spotify.com/album/7275posUjEJ7H9tLyaxyLH) | 3:56 | 2022-07-13 |  |
@@ -263,6 +263,7 @@
 | [Sadistic Magician](https://open.spotify.com/track/5szz2njh6khJU22vh4dAz0) | [Municipal Waste](https://open.spotify.com/artist/2Ah9OuOj7B57gPD1cbwiaE) | [The Art of Partying](https://open.spotify.com/album/7cU3FZ3u2jgKd5s8hhKJ9h) | 2:09 | 2021-12-17 |  |
 | [Sea Savage](https://open.spotify.com/track/3Gwcz0OK7mFE87P7CjVG0W) | [Gama Bomb](https://open.spotify.com/artist/7h0muodpQ1q5o3RajwownN) | [Sea Savage](https://open.spotify.com/album/3Yu6Zmjf6pqtg7BAKHlyCM) | 3:57 | 2021-12-17 | 2022-07-28 |
 | [Semtex Revolution](https://open.spotify.com/track/7mTceRxYae4a5xkEhTgdqq) | [Coroner](https://open.spotify.com/artist/7lfdXL6PuTM5iWJNvI7PPV) | [Mental Vortex](https://open.spotify.com/album/0qbld4MsN4rUa4uyEm1juQ) | 5:30 | 2022-07-13 |  |
+| [Seven Words](https://open.spotify.com/track/1OBphi1GDxcPMNExEvNIh5) | [Xentrix](https://open.spotify.com/artist/5lYOBorQmZgCCPxJYCjSmO) | [Seven Words](https://open.spotify.com/album/0K1aAagoaaplNXP2vHRSkM) | 3:56 | 2022-10-08 |  |
 | [Sharpen the Guillotine](https://open.spotify.com/track/3qy8XCdTUJI7UGynBI7Hkn) | [Angelus Apatrida](https://open.spotify.com/artist/3bnPBquC93vbHmamojAf59) | [Cabaret De La Guillotine](https://open.spotify.com/album/76dTSQmBFHcITyGb89GcfC) | 6:01 | 2021-12-17 |  |
 | [Sheer Khan](https://open.spotify.com/track/7qlkGiHmqF9VyFiIKlJVRt) | [Gama Bomb](https://open.spotify.com/artist/7h0muodpQ1q5o3RajwownN) | [Sheer Khan](https://open.spotify.com/album/7iZkuSyf84VXzCVwSbotnS) | 4:38 | 2021-12-17 | 2022-07-28 |
 | [Shoot for the Sun](https://open.spotify.com/track/03gS9ZSLBYSsMS9Z9b1uU4) | [Paladin](https://open.spotify.com/artist/3qQtwCBsbL4gkvUfaI4KyQ) | [Shoot for the Sun](https://open.spotify.com/album/5pkqghvbwhbLvDS8jn94Uq) | 4:01 | 2021-12-17 | 2022-07-29 |

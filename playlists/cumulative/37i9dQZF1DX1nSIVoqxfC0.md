@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:2o5jDhtHVPhrJdv3cEQ99Z">Tiësto</a>'s best songs, remixes and compilations.
 
-294 songs - 20 hr 55 min - [published](https://open.spotify.com/playlist/03RH7S0ADURkwFOlyAwV7I)
+295 songs - 20 hr 58 min - [published](https://open.spotify.com/playlist/03RH7S0ADURkwFOlyAwV7I)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -221,6 +221,7 @@
 | [Party Time](https://open.spotify.com/track/3Ak6t93rQhbgjSsaNwxwoq) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [SWACQ](https://open.spotify.com/artist/45UHclgIcRavRoRa2MET5i) | [Together](https://open.spotify.com/album/6jd8wvEoi6sCzP92Vt7CPZ) | 2:46 | 2022-07-28 |  |
 | [Phoenix \(Color Switch Soundtrack\)](https://open.spotify.com/track/3Z6ujaEKPoPMY5tAdUYj9x) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Phoenix \(Color Switch Soundtrack\)](https://open.spotify.com/album/2W2MaOFVijq9fFaNjyU4Ap) | 2:21 | 2020-10-20\* |  |
 | [Pulverturm \- Tiësto's Big Room Remix](https://open.spotify.com/track/5cNLc9PNhzbGC3DKZeWGSL) | [Niels Van Gogh](https://open.spotify.com/artist/6L8Co7Voup4dISwbSl3owl), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Pulverturm \(Tiësto's Big Room Remix\)](https://open.spotify.com/album/3zHIoWlJIqlihQvijlx2M6) | 3:02 | 2020-10-20\* |  |
+| [Pump It Louder](https://open.spotify.com/track/2yEHX6MqAXPyD7bm47A2Br) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS) | [Pump It Louder](https://open.spotify.com/album/4rrqWCXjipT6TF6F8bzEbk) | 2:38 | 2022-10-06 |  |
 | [Red Lights](https://open.spotify.com/track/4mOrY7hgUeSUK4JVD9FkYb) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [A Town Called Paradise \(Deluxe\)](https://open.spotify.com/album/1116PKIKlArm87HVaPtonW) | 4:22 | 2020-10-20\* |  |
 | [Resilient \(ft\. Aitana\) \[Tiësto Remix\]](https://open.spotify.com/track/4abn7Lc3illnEHFc9ki6x2) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [Resilient \(ft\. Aitana\) \[Tiësto Remix\]](https://open.spotify.com/album/7hmFzviCSViV9Y9VJvlfYB) | 3:18 | 2020-11-13 |  |
 | [Revolt](https://open.spotify.com/track/2WV1UIRvfkm73HldvKPtDs) | [John Christian](https://open.spotify.com/artist/4I4ZRmxuOEADKSea0rNq3h) | [CLUBLIFE, VOL\. 5: CHINA](https://open.spotify.com/album/3yyMpOkLtbcbVJFzEESLN0) | 3:29 | 2022-07-28 |  |

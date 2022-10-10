@@ -4,7 +4,7 @@
 
 > Music to reduce insomnia and help you relax.
 
-299 songs - 14 hr 52 min - [published](https://open.spotify.com/playlist/1lBmyE41azvWjLpkavRKq1)
+302 songs - 15 hr 1 min - [published](https://open.spotify.com/playlist/1lBmyE41azvWjLpkavRKq1)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,11 +51,11 @@
 | [Broken Ledge](https://open.spotify.com/track/6kM1BzE57Mt5ILbWqzMB14) | [Rubicon Fray](https://open.spotify.com/artist/26I6Wv05zdcv6tt43ruf5Z) | [Broken Ledge](https://open.spotify.com/album/6EunXIj9FEYNhXS597LXIa) | 2:22 | 2021-11-10 |  |
 | [Butterfly](https://open.spotify.com/track/5bKOctkwgdfCktzgabUPne) | [Penny Layn](https://open.spotify.com/artist/5vdwMnlyiOSVdpoabkKwjy) | [Butterfly](https://open.spotify.com/album/0z60NoGLU6RnvxUSCCskIW) | 3:01 | 2021-11-10 |  |
 | [Cadeau](https://open.spotify.com/track/1uDuwJazJz7RRgrrkkEonw) | [Benjin Blund](https://open.spotify.com/artist/4X7C94aG7ctqFboeUcc1Q1) | [Cadeau](https://open.spotify.com/album/0jLAqumtp6VUkT7ielt55m) | 3:09 | 2021-11-10 |  |
-| [Calibration of the Mind](https://open.spotify.com/track/19SLzhOkxgb3nns5m2qp93) | [Sleep Lab](https://open.spotify.com/artist/5m6EST12WzdTRdYKtk5w7W) | [Perfect Parameters](https://open.spotify.com/album/6goUgF0Cx4l1AlO1Xk9rv7) | 2:35 | 2021-11-10 |  |
+| [Calibration of the Mind](https://open.spotify.com/track/19SLzhOkxgb3nns5m2qp93) | [Sleep Lab](https://open.spotify.com/artist/5m6EST12WzdTRdYKtk5w7W) | [Perfect Parameters](https://open.spotify.com/album/6goUgF0Cx4l1AlO1Xk9rv7) | 2:35 | 2021-11-10 | 2022-10-08 |
 | [Calm](https://open.spotify.com/track/2LxskIBEuhVXVpl0w4WLne) | [Amber Glow](https://open.spotify.com/artist/20V6s9VAMU5cW2u2r8v6dJ) | [Calm](https://open.spotify.com/album/2Gq3PzfqwVrFHOCyWMEQNP) | 2:59 | 2021-11-10 |  |
 | [Calmative](https://open.spotify.com/track/4q0m55JUumpMjGiLtYsSan) | [Rae Mansell](https://open.spotify.com/artist/4aVZNmLEXiIMrNM5GIzRw8) | [Calmative](https://open.spotify.com/album/0hzrMQP5DDS5iyDiAyNj3y) | 2:35 | 2022-05-05 |  |
 | [Campus](https://open.spotify.com/track/2PUoynqedBx15JbPYxzA5v) | [Løkss](https://open.spotify.com/artist/4BDykan7916A0AbhBtzDE6) | [Campus](https://open.spotify.com/album/7INe8nJOpKW1XVClOBvjmo) | 3:39 | 2021-11-10 |  |
-| [Caring](https://open.spotify.com/track/1MaL94GiYXnWEExO4tPo3w) | [Bonnie Mathis](https://open.spotify.com/artist/1lyM0WTssQ6UictS7BOoOr) | [Caring](https://open.spotify.com/album/2lfMq9oDRUDgd8BE5VoiNk) | 3:33 | 2021-11-10 |  |
+| [Caring](https://open.spotify.com/track/1MaL94GiYXnWEExO4tPo3w) | [Bonnie Mathis](https://open.spotify.com/artist/1lyM0WTssQ6UictS7BOoOr) | [Caring](https://open.spotify.com/album/2lfMq9oDRUDgd8BE5VoiNk) | 3:33 | 2021-11-10 | 2022-10-08 |
 | [Catnap](https://open.spotify.com/track/5Ni1Fb5zLruSbDwAoKdoPF) | [Mina Donovan](https://open.spotify.com/artist/5tGJFD9qXBdOKrOlhIXOBk) | [Catnap](https://open.spotify.com/album/4NTRDYA9fWjwHH2Wc2Jxxr) | 2:42 | 2021-11-10 | 2022-02-03 |
 | [Centered](https://open.spotify.com/track/2tSUPdYj7CcdiQHrHgqmjZ) | [EON NOIRE](https://open.spotify.com/artist/6przkhYGYq12sivsheKQ6I) | [Centered](https://open.spotify.com/album/6EUZkB98CMFqyKQ1KsdJ8s) | 3:03 | 2021-11-10 |  |
 | [Cesia](https://open.spotify.com/track/3NYD79ZpaiUlaqBpfE4UvT) | [Ani](https://open.spotify.com/artist/3W5apiMDqy6v6ai4tP3SkX) | [Release](https://open.spotify.com/album/05Ssi4vkaQkd16QQ4ngW7Y) | 2:48 | 2021-11-10 |  |
@@ -108,6 +108,7 @@
 | [Eudaimonia](https://open.spotify.com/track/6KU6lJNEwpHSB8EdI6klNN) | [Gaea Antoniou](https://open.spotify.com/artist/3L8lia6SiogIvkEl2qQ32d) | [Eudaimonia](https://open.spotify.com/album/09qRQwHteDmqgCTEe2HcYl) | 2:57 | 2021-11-10 |  |
 | [Evening Song](https://open.spotify.com/track/1gWYsSqPShi9oTU04dAofI) | [Alexander Sterling](https://open.spotify.com/artist/7jCHPpIZYNW9xezoE6m6Ez) | [Evening Song](https://open.spotify.com/album/2EGEPzrjEz8YVg3rCvgJ1A) | 3:18 | 2021-11-10 |  |
 | [Evolving Dreams](https://open.spotify.com/track/6uFpwigsKJ1gDTaDjeabIN) | [Ty Davies](https://open.spotify.com/artist/49dSIJwjDHzmOfx4io0R49) | [Evolving Dreams](https://open.spotify.com/album/0LaiKUH0fPko6Rg84ZMAbt) | 3:07 | 2022-03-08 |  |
+| [Exploring](https://open.spotify.com/track/61Iykx3EETKUhv43tdveAe) | [Émile Aumont](https://open.spotify.com/artist/0FXNd3apEnHFlr8WDVgjBc) | [Le Silence](https://open.spotify.com/album/16Qso1h2XYl6Jxtm2iQi1c) | 2:43 | 2022-10-07 |  |
 | [éternité](https://open.spotify.com/track/1UH0Sxy2Ahx7T8XQ6csGku) | [Eric Ardouin](https://open.spotify.com/artist/6OgJnPHALT6sZtk9En6QHj) | [éternité](https://open.spotify.com/album/4X3h5iylTfBFKTpjpsEWLc) | 3:19 | 2021-11-10 |  |
 | [Fairy Lullaby](https://open.spotify.com/track/6NbR1XHxKXog2lWMWFHw2c) | [STRIATUMS](https://open.spotify.com/artist/0dR1oYqupK4QCBlp1xmLJy) | [Inner Dimension](https://open.spotify.com/album/5fsahxvJhOsvHr7i2mDF3P) | 2:24 | 2021-11-10 |  |
 | [Feathers](https://open.spotify.com/track/5zafrD1Ovmh2XiuoX3IuUa) | [Aiyden](https://open.spotify.com/artist/59ieTikhHdyJM2qTN7HmYD) | [Feathers](https://open.spotify.com/album/68btKDvVJKuKLW9IiRuv6V) | 3:12 | 2022-09-13 |  |
@@ -182,6 +183,7 @@
 | [Moonlight Memoirs](https://open.spotify.com/track/2EhfraVVA81HCPZDYxfOVz) | [Lucas Leigh](https://open.spotify.com/artist/4sT7i66bRioiiRvZNj3Dgg) | [Moonlight Memoirs](https://open.spotify.com/album/2LqfrsV6GpGVeLP5CsnsH3) | 2:29 | 2021-11-10 |  |
 | [Moves Like Waves](https://open.spotify.com/track/4wtTfmaWIdWLUNlE05UrZH) | [Sadia Leys](https://open.spotify.com/artist/12oCsQ3twydLkl0RigltLK) | [Moves Like Waves](https://open.spotify.com/album/7HJZbRYfPgzbmzDa38oiWp) | 3:41 | 2022-06-16 |  |
 | [Muna](https://open.spotify.com/track/1thTEQDLz5G6hr2Cp3pA4g) | [Arnkatla](https://open.spotify.com/artist/66neAkEGsYZ4onMSMHMSbC) | [Muna](https://open.spotify.com/album/3okHfzFp1PVS3A57JF4D3S) | 3:08 | 2022-09-02 |  |
+| [My Better Half](https://open.spotify.com/track/2pvqbFiWVpWSsky68vLn1G) | [Manny Chu](https://open.spotify.com/artist/5cqGSR5Eyh5XSYtlSStmmF) | [With Every Breath I Breathe](https://open.spotify.com/album/0tB9FyhrB5N3lusDO1yBKf) | 3:07 | 2022-10-07 |  |
 | [Mångata](https://open.spotify.com/track/1dpvthn5aYPgBmk7LiKOsl) | [Ardah](https://open.spotify.com/artist/6mQg8hTrGBvS36Jjl7Ajr2) | [Mångata](https://open.spotify.com/album/1qzSfgjTCYGysekMKLqxdi) | 2:57 | 2022-03-08 |  |
 | [Nattljus](https://open.spotify.com/track/5pGG0eGQcA71HLo4jKQY90) | [Månvarv](https://open.spotify.com/artist/3npr0emNGSWh2iyRvzEiRI) | [Nattljus](https://open.spotify.com/album/7FBCdcXA2coK0EcsDSBN9B) | 3:19 | 2021-11-10 |  |
 | [Neblinoso](https://open.spotify.com/track/6uZF7xC32ewhpsm36IaM5T) | [Cameron Sinosa](https://open.spotify.com/artist/68NVLorVbyDWrMwmGpwyGP) | [Neblinoso](https://open.spotify.com/album/0G3hLYFllRHfZHgFUj2MFS) | 3:54 | 2021-11-10 |  |
@@ -266,7 +268,7 @@
 | [Taivas](https://open.spotify.com/track/7lKhxWhv5sPG9MBaDfdJL7) | [Lumi Couri](https://open.spotify.com/artist/3lxrrGQ5yyzG43gu1ttAfP) | [Taivas](https://open.spotify.com/album/4eZo8y8cM7ZGqaUJoaooZ9) | 2:24 | 2021-11-10 |  |
 | [Tantric Life](https://open.spotify.com/track/6TMCj9pbXE0PmopzQdhiZw) | [Neotantra](https://open.spotify.com/artist/1VlwdDnFdsyCA3fLc9D6Gi) | [Tantric Life](https://open.spotify.com/album/0UCujJiEfJKAJ78EUaUEwt) | 3:12 | 2021-11-10 |  |
 | [Te Urewera](https://open.spotify.com/track/5phPjqe0T4phCAXczNnYgS) | [Jay Belshaw](https://open.spotify.com/artist/5g3sUkuQbNRfpCCKsmJGl0) | [Te Urewera](https://open.spotify.com/album/6tFLZ7gy4Hdn224gUYvkAy) | 3:04 | 2021-11-10 |  |
-| [Tenderly](https://open.spotify.com/track/1QHQ8xwQpH5MHHZ4jSXX36) | [Elfva](https://open.spotify.com/artist/5kie64trGheZwIDvvwBHF1) | [Tenderly](https://open.spotify.com/album/0A4WqcLZ5WDyVaA18Sngu4) | 2:59 | 2021-11-10 |  |
+| [Tenderly](https://open.spotify.com/track/1QHQ8xwQpH5MHHZ4jSXX36) | [Elfva](https://open.spotify.com/artist/5kie64trGheZwIDvvwBHF1) | [Tenderly](https://open.spotify.com/album/0A4WqcLZ5WDyVaA18Sngu4) | 2:59 | 2021-11-10 | 2022-10-08 |
 | [The Arco](https://open.spotify.com/track/1Gv5jmYpcXBAKhiCaDjHNW) | [Quadrant Beta](https://open.spotify.com/artist/7c1VTKyjBDzeUERgDiz46f) | [The Arco](https://open.spotify.com/album/5JE4Xl3HU0o5Zgr1iurkdJ) | 3:23 | 2021-11-10 |  |
 | [The Only Me](https://open.spotify.com/track/12C0zlAiXNawkKZcM2vksz) | [Elsa Greeve](https://open.spotify.com/artist/4K1bmNl7QvLvBZa9v4b9rd) | [The Only Me](https://open.spotify.com/album/18BqgRE1FYyGzLl4CCpx4v) | 3:20 | 2021-11-10 |  |
 | [The Other Side](https://open.spotify.com/track/7MRwNia7W4TCMUq1X8JbAU) | [Rosetta Arroyo](https://open.spotify.com/artist/6SOqlkZOWQ8ySlNYoxysKg) | [The Other Side](https://open.spotify.com/album/5LUfRAw3B31LKzv9ZXT1tz) | 2:50 | 2021-11-10 |  |
@@ -304,6 +306,7 @@
 | [What's Best For You](https://open.spotify.com/track/3YPMSEyEJkYpvQB1kcs5Rl) | [Esmay Gouin](https://open.spotify.com/artist/7FmXiPBaufqqZHoBmGEiCx) | [What's Best For You](https://open.spotify.com/album/2k0IJZavMYJ2Pi3ZRymD86) | 3:38 | 2021-11-10 |  |
 | [Wherever The Light Takes Me](https://open.spotify.com/track/0kQs60Eec9PnDAwvyS3iN1) | [Gual Levine](https://open.spotify.com/artist/1mhDm5AwhS5vAUIO91hHVU) | [Wherever The Light Takes Me](https://open.spotify.com/album/0EhwcIS4mOfZCech509hwA) | 2:51 | 2022-09-30 |  |
 | [Window To My Mind](https://open.spotify.com/track/1wE9HgRDTAlL5zsw1V3ThR) | [Konradism](https://open.spotify.com/artist/4uA8U0JA9Wg48FEmhekfFk) | [Window To My Mind](https://open.spotify.com/album/5nO2GGiIIYGRR4ZvnxsMXB) | 2:47 | 2021-11-10 |  |
+| [With Every Breath I Breathe](https://open.spotify.com/track/7bpnfbTaoPGzCdvyRAEW0E) | [Manny Chu](https://open.spotify.com/artist/5cqGSR5Eyh5XSYtlSStmmF) | [With Every Breath I Breathe](https://open.spotify.com/album/0tB9FyhrB5N3lusDO1yBKf) | 3:19 | 2022-10-07 |  |
 | [Within the Light](https://open.spotify.com/track/6Di2mEmryP7AAak4VZMLVJ) | [Mia Pandosa](https://open.spotify.com/artist/1bLfERJJqbxHMdNMdDtpAL) | [Within the Light \(Ambient Version\)](https://open.spotify.com/album/4qJ6aOT7ZWniQnKQVbIDK8) | 2:29 | 2021-11-10 |  |
 | [zomerochtend](https://open.spotify.com/track/3cYVVPJoyBsDdr5v4GR5wZ) | [Gülay de Wind](https://open.spotify.com/artist/5D0qIsPOnyaBwKc6ICi5A0) | [zomerochtend](https://open.spotify.com/album/1IxIICJCdrCyPJxRITquke) | 3:40 | 2021-11-10 |  |
 | [Ögonblick](https://open.spotify.com/track/0mxy9AngPGUYN14vvO1Ppw) | [Amanda Wildt](https://open.spotify.com/artist/4acmjvEdOPeKKwiRv3hZ4h) | [Ögonblick](https://open.spotify.com/album/4vZ2qrqFgvDmf5VN6balRQ) | 3:24 | 2022-03-21 |  |

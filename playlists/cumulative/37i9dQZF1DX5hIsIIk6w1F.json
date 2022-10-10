@@ -26,6 +26,24 @@
     },
     {
       "album": {
+        "name": "28",
+        "url": "https://open.spotify.com/album/3wutFV7g5B2NbRPmJUjewl"
+      },
+      "artists": [
+        {
+          "name": "Jairo Vera",
+          "url": "https://open.spotify.com/artist/5CAruGjgds3QlF5ICtEnnc"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200109,
+      "name": "28",
+      "url": "https://open.spotify.com/track/5jfDBp9jmQ9rfviQZSEGSW"
+    },
+    {
+      "album": {
         "name": "A Escondidas",
         "url": "https://open.spotify.com/album/7yrB4g1xWWsA1J9yzrO52m"
       },
@@ -303,6 +321,24 @@
       "duration_ms": 160452,
       "name": "BADBITCH",
       "url": "https://open.spotify.com/track/6MNfA6yPOiSXci4xXcJ3I3"
+    },
+    {
+      "album": {
+        "name": "Baila Morena",
+        "url": "https://open.spotify.com/album/7mOdiBhGocIW2uYFihkZKP"
+      },
+      "artists": [
+        {
+          "name": "Kidd Voodoo",
+          "url": "https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162250,
+      "name": "Baila Morena",
+      "url": "https://open.spotify.com/track/4eUjxlmJ41jWjv3LtBrN72"
     },
     {
       "album": {

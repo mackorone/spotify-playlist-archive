@@ -1378,6 +1378,24 @@
     },
     {
       "album": {
+        "name": "Ghost of You",
+        "url": "https://open.spotify.com/album/3tDXcAFGzJelw2FvjDP9aI"
+      },
+      "artists": [
+        {
+          "name": "Mimi Webb",
+          "url": "https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158063,
+      "name": "Ghost of You",
+      "url": "https://open.spotify.com/track/7Kbw2fTMOU43MrqXdGzroh"
+    },
+    {
+      "album": {
         "name": "Give Me The Reason",
         "url": "https://open.spotify.com/album/2IKvoLYI5mb0eyKWiB2G2z"
       },
@@ -1851,7 +1869,7 @@
       ],
       "date_added": "2022-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 230178,
       "name": "Hypotheticals",
       "url": "https://open.spotify.com/track/5lE2EFXt4muvLFMGQg4hZN"
@@ -2645,7 +2663,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 228813,
       "name": "Nobody",
       "url": "https://open.spotify.com/track/6VxAoD31HVp9iOAlAjYwX6"
@@ -4033,6 +4051,24 @@
       "duration_ms": 262960,
       "name": "we'll be fine",
       "url": "https://open.spotify.com/track/7KKamdf8oLVz1eFcNRjvnq"
+    },
+    {
+      "album": {
+        "name": "What Doesn\u2019t Kill You Mutates and Tries Again",
+        "url": "https://open.spotify.com/album/3vrrjsR4sOTlg6StJET8xq"
+      },
+      "artists": [
+        {
+          "name": "iamnotshane",
+          "url": "https://open.spotify.com/artist/3jN7f9X0EmFnsbRS6nl6as"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176440,
+      "name": "What Doesn\u2019t Kill You Mutates and Tries Again",
+      "url": "https://open.spotify.com/track/2AAelyYn8MafDdW5merUfD"
     },
     {
       "album": {

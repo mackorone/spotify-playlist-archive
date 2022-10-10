@@ -1,12 +1,12 @@
 {
   "description": "100% good vibes.",
-  "num_followers": 361695,
+  "num_followers": 362330,
   "original_name": "Serotonin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjM2OTA5MSwwMDAwMDAwMDc2MzMwNWQ5NDYzMjg3ZmFkMGVmZDU3MjgyZGVhNTM4",
+  "snapshot_id": "MTY2MjM2OTA5MSwwMDAwMDAwMDQ5YjJhZWI2Mjc5Y2I0YjZhYTljYjFlNjc5ZjYxNjAz",
   "tracks": [
     {
       "added_at": "2022-09-05 09:11:31",
@@ -495,18 +495,22 @@
     {
       "added_at": "2022-09-05 09:11:31",
       "album": {
-        "name": "Tell Me Something Good",
-        "url": "https://open.spotify.com/album/4tyukGQ3uDTgjLHxHZocH4"
+        "name": "Geography",
+        "url": "https://open.spotify.com/album/28enuddLPEA914scE6Drvk"
       },
       "artists": [
         {
-          "name": "Ewan McVicar",
-          "url": "https://open.spotify.com/artist/4d2NUjh9ZrzG1ZZdhpSDKH"
+          "name": "Tom Misch",
+          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
+        },
+        {
+          "name": "De La Soul",
+          "url": "https://open.spotify.com/artist/1Z8ODXyhEBi3WynYw0Rya6"
         }
       ],
-      "duration_ms": 249678,
-      "name": "Tell Me Something Good",
-      "url": "https://open.spotify.com/track/5krhFNgUcYHwXlNPJJYzFM"
+      "duration_ms": 261881,
+      "name": "It Runs Through Me",
+      "url": "https://open.spotify.com/track/02CygBCQOIyEuhNZqHHcNx"
     },
     {
       "added_at": "2022-09-05 09:11:31",
@@ -527,22 +531,18 @@
     {
       "added_at": "2022-09-05 09:11:31",
       "album": {
-        "name": "Geography",
-        "url": "https://open.spotify.com/album/28enuddLPEA914scE6Drvk"
+        "name": "Tell Me Something Good",
+        "url": "https://open.spotify.com/album/4tyukGQ3uDTgjLHxHZocH4"
       },
       "artists": [
         {
-          "name": "Tom Misch",
-          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
-        },
-        {
-          "name": "De La Soul",
-          "url": "https://open.spotify.com/artist/1Z8ODXyhEBi3WynYw0Rya6"
+          "name": "Ewan McVicar",
+          "url": "https://open.spotify.com/artist/4d2NUjh9ZrzG1ZZdhpSDKH"
         }
       ],
-      "duration_ms": 261881,
-      "name": "It Runs Through Me",
-      "url": "https://open.spotify.com/track/02CygBCQOIyEuhNZqHHcNx"
+      "duration_ms": 249678,
+      "name": "Tell Me Something Good",
+      "url": "https://open.spotify.com/track/5krhFNgUcYHwXlNPJJYzFM"
     },
     {
       "added_at": "2022-09-05 09:11:31",
@@ -671,6 +671,26 @@
     {
       "added_at": "2022-09-05 09:11:31",
       "album": {
+        "name": "Waterfall",
+        "url": "https://open.spotify.com/album/2f1wxCMX4KoS2DwTeagrNO"
+      },
+      "artists": [
+        {
+          "name": "Disclosure",
+          "url": "https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et"
+        },
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        }
+      ],
+      "duration_ms": 232120,
+      "name": "Waterfall",
+      "url": "https://open.spotify.com/track/3a1CcF94xavoweGG1GWT0m"
+    },
+    {
+      "added_at": "2022-09-05 09:11:31",
+      "album": {
         "name": "Yesterday's Gone",
         "url": "https://open.spotify.com/album/6wjryxtrKxzTZID9kyZUV5"
       },
@@ -687,30 +707,6 @@
       "duration_ms": 172653,
       "name": "Damselfly",
       "url": "https://open.spotify.com/track/32sBVB5HmrwJ6e9g0S2BRL"
-    },
-    {
-      "added_at": "2022-09-05 09:11:31",
-      "album": {
-        "name": "Diplo",
-        "url": "https://open.spotify.com/album/5pdR4YX2zWMXotdF034UYY"
-      },
-      "artists": [
-        {
-          "name": "Diplo",
-          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
-        },
-        {
-          "name": "TSHA",
-          "url": "https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh"
-        },
-        {
-          "name": "Kareen Lomax",
-          "url": "https://open.spotify.com/artist/0Fb9qTWnjsB90xH3zWr4oa"
-        }
-      ],
-      "duration_ms": 234374,
-      "name": "Let You Go",
-      "url": "https://open.spotify.com/track/0KG7XrgM20KEmJrKsyFDAm"
     },
     {
       "added_at": "2022-09-05 09:11:31",
@@ -735,6 +731,30 @@
       "duration_ms": 278000,
       "name": "Sing It Back - Boris Dlugosch Mix",
       "url": "https://open.spotify.com/track/53qhh1kdcX4gRBShoW4LK8"
+    },
+    {
+      "added_at": "2022-09-05 09:11:31",
+      "album": {
+        "name": "Diplo",
+        "url": "https://open.spotify.com/album/5pdR4YX2zWMXotdF034UYY"
+      },
+      "artists": [
+        {
+          "name": "Diplo",
+          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
+        },
+        {
+          "name": "TSHA",
+          "url": "https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh"
+        },
+        {
+          "name": "Kareen Lomax",
+          "url": "https://open.spotify.com/artist/0Fb9qTWnjsB90xH3zWr4oa"
+        }
+      ],
+      "duration_ms": 234374,
+      "name": "Let You Go",
+      "url": "https://open.spotify.com/track/0KG7XrgM20KEmJrKsyFDAm"
     },
     {
       "added_at": "2022-09-05 09:11:31",
@@ -767,26 +787,6 @@
       "duration_ms": 206500,
       "name": "I'm a Kid",
       "url": "https://open.spotify.com/track/4RkQzVNxEt6JwOXCWolXsr"
-    },
-    {
-      "added_at": "2022-09-05 09:11:31",
-      "album": {
-        "name": "Waterfall",
-        "url": "https://open.spotify.com/album/2f1wxCMX4KoS2DwTeagrNO"
-      },
-      "artists": [
-        {
-          "name": "Disclosure",
-          "url": "https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et"
-        },
-        {
-          "name": "RAYE",
-          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
-        }
-      ],
-      "duration_ms": 232120,
-      "name": "Waterfall",
-      "url": "https://open.spotify.com/track/3a1CcF94xavoweGG1GWT0m"
     },
     {
       "added_at": "2022-09-05 09:11:31",
@@ -879,26 +879,18 @@
     {
       "added_at": "2022-09-05 09:11:31",
       "album": {
-        "name": "Recap (with VanJess & Channel Tres)",
-        "url": "https://open.spotify.com/album/5frBRYEzuxcYkqgwDH82Sj"
+        "name": "Under 1 House",
+        "url": "https://open.spotify.com/album/1PkQpn0KN9pJhKfzJQejjv"
       },
       "artists": [
         {
-          "name": "Kito",
-          "url": "https://open.spotify.com/artist/3FLUBwpAnaIlIKeaBfsxFe"
-        },
-        {
-          "name": "VanJess",
-          "url": "https://open.spotify.com/artist/0Ek89uaJyo6NfWK22awFvI"
-        },
-        {
-          "name": "Channel Tres",
-          "url": "https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp"
+          "name": "Blue Hawaii",
+          "url": "https://open.spotify.com/artist/41y1iPh0WqB7tyGdzyeinZ"
         }
       ],
-      "duration_ms": 177725,
-      "name": "Recap (with VanJess & Channel Tres)",
-      "url": "https://open.spotify.com/track/2m3RjRXib3un5AEh08k8Fe"
+      "duration_ms": 192001,
+      "name": "I Felt Love",
+      "url": "https://open.spotify.com/track/3m04gMIUG6HgYHn65fy5Xt"
     }
   ],
   "unique_name": "Serotonin",

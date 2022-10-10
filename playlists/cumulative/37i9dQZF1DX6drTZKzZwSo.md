@@ -4,7 +4,7 @@
 
 > Classic funk.
 
-59 songs - 4 hr 33 min - [published](https://open.spotify.com/playlist/66zY7GIyu4yLAF1qxJVp8B)
+60 songs - 4 hr 39 min - [published](https://open.spotify.com/playlist/66zY7GIyu4yLAF1qxJVp8B)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,6 +65,7 @@
 | [Watching You \- Single Version](https://open.spotify.com/track/1Gde0bfBP6VJVBUkaFZMxz) | [Slave](https://open.spotify.com/artist/5mtKpqeeaFavW15yIX4h5e) | [Stone Jam](https://open.spotify.com/album/7COD6hL6iPGejF8vX9DeuC) | 3:28 | 2020-04-14 |  |
 | [We Supply](https://open.spotify.com/track/15jrsi4n0S152zsrlWkT3v) | [Stanley Clarke](https://open.spotify.com/artist/1lGt9WgdYGpMnmwGkcCm05) | [The Bass\-ic Collection](https://open.spotify.com/album/7hgSfIM3LS53U3i122ErOM) | 4:10 | 2020-04-14 |  |
 | [Who Is She \(And What Is She To You\)](https://open.spotify.com/track/7aqJzVdVIAwCokmju1Oid8) | [Gladys Knight & The Pips](https://open.spotify.com/artist/0TF2NxkJZPQoX1H53rEFM1) | [Neither One Of Us](https://open.spotify.com/album/7GNfj26cSJZEWvS822NELd) | 4:13 | 2020-04-14 |  |
+| [YeahYeahYeah](https://open.spotify.com/track/7vipNil0y3l3idt9cM3ehi) | [Candy Dulfer](https://open.spotify.com/artist/287jMoxHzjERgHI6ja8TKa) | [YeahYeahYeah](https://open.spotify.com/album/3Js1lqJTK5j3fZaZGOixPU) | 5:17 | 2022-10-07 |  |
 | [Yearnin' Burnin'](https://open.spotify.com/track/1MwJu1J5zw2ANaE3hg2Rrb) | [Pleasure](https://open.spotify.com/artist/4XeVhjTp485r7duDSL3PmU) | [The Greatest Of Pleasure](https://open.spotify.com/album/6n3TTv12yYErhIaMiL7Fwn) | 4:58 | 2020-04-14 |  |
 | [You Haven't Done Nothin'](https://open.spotify.com/track/1inwt0v9a4ib9yS6Y4KsdM) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Fulfillingness' First Finale](https://open.spotify.com/album/1kda4McF274Jl5x3aOAmPJ) | 3:22 | 2020-04-14 |  |
 

@@ -645,7 +645,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-03",
       "duration_ms": 286903,
       "name": "Atopos",
       "url": "https://open.spotify.com/track/6BggRT92i1xD3MXCTt64J1"
@@ -685,6 +685,24 @@
       "duration_ms": 211531,
       "name": "Beautiful",
       "url": "https://open.spotify.com/track/5KgHHyIkSf7NBYllVJfhJF"
+    },
+    {
+      "album": {
+        "name": "Beep",
+        "url": "https://open.spotify.com/album/07O2V3ZkE26SHpBhhTrHCZ"
+      },
+      "artists": [
+        {
+          "name": "M.I.A.",
+          "url": "https://open.spotify.com/artist/0QJIPDAEDILuo8AIq3pMuU"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120626,
+      "name": "Beep",
+      "url": "https://open.spotify.com/track/3X5LrD9Gsv9eeJAaUW76WY"
     },
     {
       "album": {
@@ -1753,7 +1771,7 @@
       ],
       "date_added": "2021-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-07",
       "duration_ms": 237480,
       "name": "Delete Forever",
       "url": "https://open.spotify.com/track/71J2rawCGulCAyTMtNY3Ej"
@@ -1999,7 +2017,7 @@
       ],
       "date_added": "2021-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 322562,
       "name": "Door",
       "url": "https://open.spotify.com/track/5YIVVzQcJG7pFhyNo0Ytlh"
@@ -3537,6 +3555,24 @@
       "duration_ms": 250197,
       "name": "I'm On",
       "url": "https://open.spotify.com/track/0Jvo56KxP4t9dCxCpa9qRj"
+    },
+    {
+      "album": {
+        "name": "Angels & Queens - Part I",
+        "url": "https://open.spotify.com/album/6XT2zsJKZ80o1FJndkQwdx"
+      },
+      "artists": [
+        {
+          "name": "Gabriels",
+          "url": "https://open.spotify.com/artist/5tHs3fthucNRGAFpdE9rmz"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252135,
+      "name": "If You Only Knew",
+      "url": "https://open.spotify.com/track/2Tv98WrbvTsQfa2xH5OSwO"
     },
     {
       "album": {
@@ -8153,7 +8189,7 @@
       ],
       "date_added": "2021-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-06",
+      "date_removed": null,
       "duration_ms": 161691,
       "name": "You'll miss me when I'm not around",
       "url": "https://open.spotify.com/track/0Sqh9dVJMFJRwz4K0jeoOR"

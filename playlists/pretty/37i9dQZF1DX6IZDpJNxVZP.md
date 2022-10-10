@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6IZDpJNxVZP.md) - [plain]
 
 > Celebrate Halloween at home with these fun tracks
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,441 likes - 135 songs - 6 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,005 likes - 135 songs - 6 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,7 +108,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6IZDpJNxVZP.md) - [plain]
 | 98 | [Gonna Get Me a Monster](https://open.spotify.com/track/5YaeRgZ2HFIoLGVHvO4JWK) | [Mr\. Singer & The Sharp Cookies](https://open.spotify.com/artist/2cNEUfwTvDZy45RQYjDlHv) | [Happy Haunted Halloween](https://open.spotify.com/album/13f41FYKOgFUuGKyHXWxHH) | 2:22 |
 | 99 | [It's Halloween](https://open.spotify.com/track/1cXBL3J7QtdYRuttYOHsFL) | [Lucy Kalantari](https://open.spotify.com/artist/48DitTEk1ItVK1K023w2S1) | [Big Things](https://open.spotify.com/album/6fJLE5P4cQ7Kelq7CRLzMf) | 3:35 |
 | 100 | [Smelloween](https://open.spotify.com/track/3vntT5h9WBgNOej8x0Oq3g) | [Mr Yipadee](https://open.spotify.com/artist/2EDBzZNew0M639G7RKCTsS), [Deano Yipadee](https://open.spotify.com/artist/7hQbFjNyMcJxjwmlieqPy1) | [Halloween Songs For Kids](https://open.spotify.com/album/5b83BDTJvUGohjOfy4cYWy) | 2:08 |
-| 101 | [We Love Halloween](https://open.spotify.com/track/4opsqf7Z84kvVFYto5XnrV) | [Pancake Manor](https://open.spotify.com/artist/6bwjTCySXPwecMWvs9ce5C) | [We Love Halloween](https://open.spotify.com/album/0TCjVZ1r377txbCgGLfhA3) | 2:00 |
+| 101 | [We Love Halloween](https://open.spotify.com/track/40WjfvGm7cMJHdElsDwAVG) | [Pancake Manor](https://open.spotify.com/artist/6bwjTCySXPwecMWvs9ce5C) | [Boo! It's Halloween](https://open.spotify.com/album/6fWfpZA7c3puk13L7YfIt2) | 2:00 |
 | 102 | [Skeleton Inside!](https://open.spotify.com/track/5RYJpJXyhU4jxB5JPMKX7Q) | [The Aquabats!](https://open.spotify.com/artist/0WgiEOrXlaXJGHKhkd9s4s) | [Kooky Spooky..\. In Stereo!](https://open.spotify.com/album/1V2nJyNQSsEDRhP8xOOSDv) | 4:23 |
 | 103 | [This Is Halloween](https://open.spotify.com/track/01YROQCnF1AQm7SCWJmD2o) | [The Citizens of Halloween](https://open.spotify.com/artist/164hs3x1Tsp3FgJWNHee1r) | [Nightmare Before Christmas Special Edition](https://open.spotify.com/album/32hXKuDkMnpQaOI67xQj86) | 3:16 |
 | 104 | [The Simpsons Halloween Theme \- Halloween Party Mix](https://open.spotify.com/track/5VSPokYYDjEnXyG5mVTqBK) | [The Evolved](https://open.spotify.com/artist/7xSBnqOw8Dz4kNiHvVvbNt) | [Halloween Fun and Games for Kids](https://open.spotify.com/album/7BB3XXoA8ilVktiW4Vn8zv) | 1:24 |
@@ -144,4 +144,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6IZDpJNxVZP.md) - [plain]
 | 134 | [Witch Doctor](https://open.spotify.com/track/2Eyv5QwBHpWIJFOzIXKnm0) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Kidz Bop Halloween Hits!](https://open.spotify.com/album/41Whu3XN1DycyGPZYXz51K) | 2:25 |
 | 135 | [Scooby Doo, Where Are You?](https://open.spotify.com/track/4tHL2ARKN75Romnwr6nWiH) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Kidz Bop Halloween Hits!](https://open.spotify.com/album/41Whu3XN1DycyGPZYXz51K) | 1:40 |
 
-Snapshot ID: `MTY2NDMxNDE2NywwMDAwMDAwMGJkNmNiNjJjYzNhNjY2NzgwMjA2NzAyMWY4NjI0M2I0`
+Snapshot ID: `MTY2NDMxNDE2NywwMDAwMDAwMDc2N2RkMjI2Nzk3ZDU2MGJiOGExNjNiNzg4NjRmODc4`

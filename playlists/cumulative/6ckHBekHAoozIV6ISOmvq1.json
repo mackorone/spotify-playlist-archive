@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2019-05-26",
-  "description": "See also <a href=\"spotify:playlist:2z6FM4scrQ5lpsKId0jeki\">Intro</a>, <a href=\"spotify:playlist:1Z5SNtd1IWRRw3ESZfJZKe\">Pulse</a>, <a href=\"spotify:playlist:4pVcfz3aYYdCTMdwGHwJJs\">\u2640Filter</a> or <a href=\"spotify:playlist:3DM5dQj6WEb3mSuYsjW2p2\">2021</a>; or the Sounds of <a href=\"spotify:playlist:2uc2oq6wQ8ZLSPmPr4qtte\">Early Music Ensemble</a>, <a href=\"spotify:playlist:5WjxMg3QfWAmDH7I2MpMoT\">Troubadour</a>, <a href=\"spotify:playlist:6zc2HFPnDWeqqsBHhYEQER\">Trecento</a>, <a href=\"spotify:playlist:0evPZ6WIgSKYY2gnlfXIdA\">Renaissance</a>, <a href=\"spotify:playlist:0nqJegaRD3nkCjyIwg7mry\">Trouv\u00e8re</a>, <a href=\"spotify:playlist:0AVJ1UKXMQf244cvu4np0k\">Minnesang</a>, <a href=\"spotify:playlist:2UKjnmVx8ROXrNxIAeaE7M\">Ars subtilior</a>, <a href=\"spotify:playlist:0K86fmE0c0SFgz9GpwhwLm\">Early Music</a>, <a href=\"spotify:playlist:511MabrP35Zp3tqYh2G4iJ\">Medieval Ensemble</a> or <a href=\"spotify:playlist:1RatTJrho9K5z9OVCqeU7Z\">American Early Music</a>; or much more at <a href=\"http://everynoise.com\">everynoise.com</a>.",
+  "description": "See also <a href=\"spotify:playlist:2z6FM4scrQ5lpsKId0jeki\">Intro</a>, <a href=\"spotify:playlist:1Z5SNtd1IWRRw3ESZfJZKe\">Pulse</a>, <a href=\"spotify:playlist:4pVcfz3aYYdCTMdwGHwJJs\">\u2640Filter</a> or <a href=\"spotify:playlist:3DM5dQj6WEb3mSuYsjW2p2\">2021</a>; or the Sounds of <a href=\"spotify:playlist:5WjxMg3QfWAmDH7I2MpMoT\">Troubadour</a>, <a href=\"spotify:playlist:2uc2oq6wQ8ZLSPmPr4qtte\">Early Music Ensemble</a>, <a href=\"spotify:playlist:6zc2HFPnDWeqqsBHhYEQER\">Trecento</a>, <a href=\"spotify:playlist:0evPZ6WIgSKYY2gnlfXIdA\">Renaissance</a>, <a href=\"spotify:playlist:0nqJegaRD3nkCjyIwg7mry\">Trouv\u00e8re</a>, <a href=\"spotify:playlist:0AVJ1UKXMQf244cvu4np0k\">Minnesang</a>, <a href=\"spotify:playlist:2UKjnmVx8ROXrNxIAeaE7M\">Ars subtilior</a>, <a href=\"spotify:playlist:0K86fmE0c0SFgz9GpwhwLm\">Early Music</a>, <a href=\"spotify:playlist:511MabrP35Zp3tqYh2G4iJ\">Medieval Ensemble</a> or <a href=\"spotify:playlist:1RatTJrho9K5z9OVCqeU7Z\">American Early Music</a>; or much more at <a href=\"http://everynoise.com\">everynoise.com</a>.",
   "name": "The Sound of Medieval",
   "published_playlist_ids": [
     "5CGNkHqKFRMPH4a9UfC44H"
@@ -332,6 +332,28 @@
     },
     {
       "album": {
+        "name": "O tu chara scien\u00e7a: La musique dans la pens\u00e9e m\u00e9di\u00e9vale",
+        "url": "https://open.spotify.com/album/0Ucf9dLb3aqZhgxYXE7cUI"
+      },
+      "artists": [
+        {
+          "name": "Lorenzo Masini",
+          "url": "https://open.spotify.com/artist/0vD2veljrr8p0j6bcMtkUD"
+        },
+        {
+          "name": "La Reverdie",
+          "url": "https://open.spotify.com/artist/68lFiOmFIrJGzXRs4sbmlQ"
+        }
+      ],
+      "date_added": "2022-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209333,
+      "name": "A poste messe",
+      "url": "https://open.spotify.com/track/3u3GBSG9WYMzlYTBTmsPRk"
+    },
+    {
+      "album": {
         "name": "La Bella Mandorla: Madrigals from the Codex Squarcialupi",
         "url": "https://open.spotify.com/album/6vIbiJdZS0yt2PQq7onvQ6"
       },
@@ -347,7 +369,7 @@
       ],
       "date_added": "2018-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-09",
       "duration_ms": 242480,
       "name": "A poste messe",
       "url": "https://open.spotify.com/track/3itBudqomsVMNSuRba4CQ3"
@@ -559,7 +581,7 @@
       ],
       "date_added": "2019-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-09",
       "duration_ms": 502666,
       "name": "Abelard and Heloise, from Saint-Denis to the Paraclete Monastic Song: Virgines caste",
       "url": "https://open.spotify.com/track/48sYaVLf5VcnEMRW9Zg5t3"
@@ -2661,7 +2683,7 @@
       ],
       "date_added": "2019-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-09",
+      "date_removed": null,
       "duration_ms": 219016,
       "name": "Cantigas de Santa Maria - Como poden per sas culpas (Cantique No. 166)",
       "url": "https://open.spotify.com/track/0kOZKMQrJd2FiEDcJCofE7"
@@ -3881,7 +3903,7 @@
       ],
       "date_added": "2019-05-26",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-10-09",
       "duration_ms": 190306,
       "name": "Con bracchi assai",
       "url": "https://open.spotify.com/track/7MohiOMxlzOQMasZUTo5Ai"
@@ -5187,7 +5209,7 @@
       ],
       "date_added": "2019-05-26",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-10-09",
       "duration_ms": 198200,
       "name": "Douce dame (instrumental)",
       "url": "https://open.spotify.com/track/7pH88r1rY7myyo7FM2jbQS"
@@ -5461,6 +5483,32 @@
       "duration_ms": 222173,
       "name": "En attendant esperance",
       "url": "https://open.spotify.com/track/3iHbyi9rVKRx0vep5BVbzP"
+    },
+    {
+      "album": {
+        "name": "French Troubadour Songs",
+        "url": "https://open.spotify.com/album/40hq6QechU129rMNJIvN7t"
+      },
+      "artists": [
+        {
+          "name": "Colin Muset",
+          "url": "https://open.spotify.com/artist/6y2lu6ZXpmyOo4ERwGiGhv"
+        },
+        {
+          "name": "Andrew Lawrence-King",
+          "url": "https://open.spotify.com/artist/3IaOjT4uvherNQzpFMKiEu"
+        },
+        {
+          "name": "Paul Hillier",
+          "url": "https://open.spotify.com/artist/5pECl3lGqlL7VfZXxrkAlF"
+        }
+      ],
+      "date_added": "2022-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 443693,
+      "name": "En mai, quant li rossignolez (In May, when nightingales sing clear)",
+      "url": "https://open.spotify.com/track/6q8MFib4qRWMWjAbbIwN0Q"
     },
     {
       "album": {
@@ -6704,6 +6752,32 @@
     },
     {
       "album": {
+        "name": "De Coincy: Les miracles de Nostre-Dame",
+        "url": "https://open.spotify.com/album/7ApdzR2DIa9KRV4uv3Iurx"
+      },
+      "artists": [
+        {
+          "name": "Gautier De Coincy",
+          "url": "https://open.spotify.com/artist/1apioneBDK1h426SIIjTab"
+        },
+        {
+          "name": "Catherine Sergent",
+          "url": "https://open.spotify.com/artist/0o3aKdg1BqxMAaFzKk3wsa"
+        },
+        {
+          "name": "Alla Francesca",
+          "url": "https://open.spotify.com/artist/1t6Vug7JamESjSWcXoBM9i"
+        }
+      ],
+      "date_added": "2022-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255266,
+      "name": "Hui matin a l'ajournee",
+      "url": "https://open.spotify.com/track/7nBRquSgryRAINwGO5b8hn"
+    },
+    {
+      "album": {
         "name": "Hildegard Of Bingen: Ave Generosa / Oswald Von Wolkenstein: Ave Mater, O Maria / Riquier, G.: Humils, Forfaitz, Repres E Penedens",
         "url": "https://open.spotify.com/album/43bhDegLpe6kvdgiAQjmep"
       },
@@ -7669,7 +7743,7 @@
       ],
       "date_added": "2019-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-09",
       "duration_ms": 223386,
       "name": "Je ne merveil (Ballade)",
       "url": "https://open.spotify.com/track/3tk64wFqaiwMxHtEX1SOtG"
@@ -8107,7 +8181,7 @@
       ],
       "date_added": "2019-05-26",
       "date_added_asterisk": true,
-      "date_removed": "2020-04-04",
+      "date_removed": null,
       "duration_ms": 470230,
       "name": "La bella stella",
       "url": "https://open.spotify.com/track/3GvELTb0qMLxhn16hpPcS6"
@@ -8159,7 +8233,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-25",
+      "date_removed": null,
       "duration_ms": 258560,
       "name": "La harpe de melodie (virelai)",
       "url": "https://open.spotify.com/track/56VnWdiNZhedAnLfOoAdQx"
@@ -9123,7 +9197,7 @@
       ],
       "date_added": "2020-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-09",
       "duration_ms": 377555,
       "name": "Lo clar temps",
       "url": "https://open.spotify.com/track/6Fq3R9Kv0pavfOqfA9pSuq"
@@ -10037,7 +10111,7 @@
       ],
       "date_added": "2021-08-07",
       "date_added_asterisk": false,
-      "date_removed": "2021-08-14",
+      "date_removed": null,
       "duration_ms": 293826,
       "name": "Missa verbum incarnatum: Kyrie",
       "url": "https://open.spotify.com/track/4DdcP4rsLEiLp7VbdOLjII"
@@ -10271,7 +10345,7 @@
       ],
       "date_added": "2021-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-09",
       "duration_ms": 223586,
       "name": "Ne me vueill\u00e9s belle oblier",
       "url": "https://open.spotify.com/track/0gXnPON96qcv7etJz3q34V"
@@ -10955,6 +11029,28 @@
       "duration_ms": 255893,
       "name": "O Quam Preciosa",
       "url": "https://open.spotify.com/track/7oSvhKIuS4QufRyRPm5jBx"
+    },
+    {
+      "album": {
+        "name": "Vocal Music - Hildegard Of Bingen / Abelard, P. (Hildegard Von Bingen and Her Time) (Ensemble Fur Fruhe Musik Augsburg)",
+        "url": "https://open.spotify.com/album/5x2eLLZGzkBJ96m7PRHwxn"
+      },
+      "artists": [
+        {
+          "name": "Peter Abelard",
+          "url": "https://open.spotify.com/artist/7ItQ35Mxo31kplSuB3I0Be"
+        },
+        {
+          "name": "Augsburg Early Music Ensemble",
+          "url": "https://open.spotify.com/artist/7yf4UTd5fK3buVu0WOMn2d"
+        }
+      ],
+      "date_added": "2022-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297773,
+      "name": "O quanta qualia",
+      "url": "https://open.spotify.com/track/6MNdXpaHVrPT4iZ46ZWuf1"
     },
     {
       "album": {
@@ -13091,7 +13187,7 @@
       ],
       "date_added": "2019-05-26",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-10-09",
       "duration_ms": 289800,
       "name": "Renverdie",
       "url": "https://open.spotify.com/track/6ZhiwvzK2VkKRtw426VMlC"

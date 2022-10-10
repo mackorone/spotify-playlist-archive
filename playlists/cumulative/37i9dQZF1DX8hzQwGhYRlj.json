@@ -1491,10 +1491,32 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-03",
       "duration_ms": 362084,
       "name": "Wedding Day at Troldhaugen",
       "url": "https://open.spotify.com/track/5cW9SuSsEBid7xyAuLTrGS"
+    },
+    {
+      "album": {
+        "name": "An Evening of Classical: Grieg",
+        "url": "https://open.spotify.com/album/6frAJCnH1IN7WIw8qvyfyX"
+      },
+      "artists": [
+        {
+          "name": "Edvard Grieg",
+          "url": "https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy"
+        },
+        {
+          "name": "Joseph Cooper",
+          "url": "https://open.spotify.com/artist/3rJMOsUpapG0VdsQCc5DX9"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 362084,
+      "name": "Wedding Day at Troldhaugen",
+      "url": "https://open.spotify.com/track/6AQdLlBskLdAtPtT5iRwE9"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX8hzQwGhYRlj"

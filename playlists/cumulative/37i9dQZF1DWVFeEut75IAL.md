@@ -4,7 +4,7 @@
 
 > The most calming classical music.
 
-94 songs - 5 hr 53 min - [published](https://open.spotify.com/playlist/4qTfIMAROPU0maC8UIPwXd)
+95 songs - 5 hr 56 min - [published](https://open.spotify.com/playlist/4qTfIMAROPU0maC8UIPwXd)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,6 +41,7 @@
 | [El cant dels ocells \(Song of the Birds\) \(version for cello and orchestra\)](https://open.spotify.com/track/5k4Eagqnz3YKdMLjSSi0DD) | [Pablo Casals](https://open.spotify.com/artist/42ZCvzken6DllCB1xghinZ), [Harriet Krijgh](https://open.spotify.com/artist/5V9Qpd9ZLs4gcrADy24ABP), [Deutsche Staatsphilharmonie Rheinland\-Pfalz](https://open.spotify.com/artist/2WFslyxlAJwH2al4xZztFW), [Gustavo Gimeno](https://open.spotify.com/artist/4neZeAHXeNMscSVJqEG7wY) | [Elegy](https://open.spotify.com/album/6ui6clzZVh0hYGcklqLBdy) | 3:49 | 2021-11-15 |  |
 | [En nacelle](https://open.spotify.com/track/0OG8MAiXcyIZd4Ol92zmk7) | [Henrique Oswald](https://open.spotify.com/artist/4aD2Eaf928LA2of01i7gQW), [Sergio Monteiro](https://open.spotify.com/artist/5lDFX0OjZ7Ss9lFYn0J3G0) | [Oswald: Works for Piano](https://open.spotify.com/album/05lkyoohP6mkaYWtQRLfq1) | 2:45 | 2021-11-15 | 2022-07-29 |
 | [En nacelle](https://open.spotify.com/track/35otBCRXC8HdmRqndFStL0) | [Henrique Oswald](https://open.spotify.com/artist/4aD2Eaf928LA2of01i7gQW), [Sergio Monteiro](https://open.spotify.com/artist/5lDFX0OjZ7Ss9lFYn0J3G0) | [Oswald: Works for Piano](https://open.spotify.com/album/3L6dCD5Zjnu99BUFunWjvd) | 2:45 | 2022-07-22 |  |
+| [Erbarm dich mein, o Herre Gott, BWV 721 \(Arr\. S\. Scheiwiller for Cello & Orchestra\)](https://open.spotify.com/track/5pCoZCarC9qZ5UqnMxxFju) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Simone Drescher](https://open.spotify.com/artist/42lod2cmRT0BzVFKh01zbp), [Sinfonietta Riga](https://open.spotify.com/artist/3PaOiIUiOccivDf73rOXsY), [Jānis Liepiņš](https://open.spotify.com/artist/2fT0t0dDsDrf0GLZO6YQsd) | [Humanity](https://open.spotify.com/album/3szs87EzcEUj8vjZCe4q7N) | 3:34 | 2022-10-07 |  |
 | [Filma Solo](https://open.spotify.com/track/4SsDrt7HV1ECcJ2A7EHfLL) | [Gabríel Ólafs](https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB) | [Piano Works](https://open.spotify.com/album/0HYTxeKs2ySnsuAkwnwDrd) | 3:15 | 2021-11-15 | 2022-07-29 |
 | [Filma Solo](https://open.spotify.com/track/6MPpYctLr7JXWIAcD1feq8) | [Gabríel Ólafs](https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB) | [Piano Works](https://open.spotify.com/album/1tASsj4SDpPR8UIHjKMjch) | 3:15 | 2022-07-22 |  |
 | [Five Pieces For Violin And Piano: I\. Elegia \(Andante Larghetto\)](https://open.spotify.com/track/1d1FNmfO3dFlH8873yNFX3) | [Valentin Silvestrov](https://open.spotify.com/artist/1bauOA5U5M3RwH2euX3Eq6), [Duo Gazzana](https://open.spotify.com/artist/44yqsYKtToaDXjtyMuVXCj) | [Takemitsu, Hindemith, Janáček, Silvestrov: Five Pieces](https://open.spotify.com/album/3NCv2JjqPcJQx1dYcGDPiv) | 2:59 | 2022-07-22 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2KTIOxdCy0E.md) - [plain]
 
 > I'll do yours if you do mine...The official playlist for Do Revenge, out now on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,398 likes - 28 songs - 1 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,595 likes - 28 songs - 1 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2KTIOxdCy0E.md) - [plain]
 | 17 | [Pretend](https://open.spotify.com/track/1h8dms5lJ4QcXB0tyguk4c) | [Juliana Madrid](https://open.spotify.com/artist/6RhkgeqhRai3jy4ULSlxFx) | [Juliana Madrid EP](https://open.spotify.com/album/24kUFs20sObGQMAW7VgWso) | 3:07 |
 | 18 | [How Bizarre \- Orchestral Version](https://open.spotify.com/track/44fUHbxIlad3OpSA4M1Yq2) | [The Symphonic Pops](https://open.spotify.com/artist/1ghQ7AScEoiS2thrUJg2o9) | [Pop Symphony 2015, Vol\. 1](https://open.spotify.com/album/6cgsUIXdA789H6Pp4CbIOF) | 3:47 |
 | 19 | [Flagpole Sitta](https://open.spotify.com/track/7cz70nyRXlCJOE85whEkgU) | [Harvey Danger](https://open.spotify.com/artist/7fu6ebyL3JGXJgo5zsOo4k) | [Where Have All The Merrymakers Gone?](https://open.spotify.com/album/554gpRastI7dbOcir9eAkL) | 3:37 |
-| 20 | [Silk Chiffon](https://open.spotify.com/track/0BLY78hYpsH9NqP6X0N8CX) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Silk Chiffon](https://open.spotify.com/album/0tVci75UxNB1H29bpj86tj) | 3:26 |
+| 20 | [Silk Chiffon](https://open.spotify.com/track/5ECxiK4Vigo1yRRmAoZc1f) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [MUNA](https://open.spotify.com/album/4ndTvTrNwgUfRw4g1R2B4l) | 3:26 |
 | 21 | [Bitter Bitch](https://open.spotify.com/track/6SN58S8GAqUhl5SXcxmpiY) | [Helen](https://open.spotify.com/artist/0dKF6Q9Wz7Y3PKSNyaFpkM) | [Bitter Bitch](https://open.spotify.com/album/6Si3G23umj6SBMFGiUbTTm) | 2:17 |
 | 22 | [Dead To Me \- Do Revenge remix](https://open.spotify.com/track/06WXwDsXgpeZkSLKehzQzJ) | [Chloe Adams](https://open.spotify.com/artist/4B1bjBU8CLkIBTYTRklo2u) | [Dead To Me \(Do Revenge remix\)](https://open.spotify.com/album/6D2yohFJQYiwNvIIMXYQN5) | 2:38 |
 | 23 | [she's all i wanna be](https://open.spotify.com/track/0IuVhCflrQPMGRrOyoY5RW) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [she's all i wanna be](https://open.spotify.com/album/51oWPUjnGhecw62V8LDXK8) | 3:26 |
@@ -37,4 +37,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2KTIOxdCy0E.md) - [plain]
 | 27 | [Bitch](https://open.spotify.com/track/3i6qNxyVgIdUZTTi5m25EM) | [Meredith Brooks](https://open.spotify.com/artist/2QmLFuIDtNDmmJY3OtvinN) | [Blurring The Edges](https://open.spotify.com/album/56viTB3cu7FbFwAWDctRz1) | 4:12 |
 | 28 | [Dreams](https://open.spotify.com/track/4JGKZS7h4Qa16gOU3oNETV) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [Everybody Else Is Doing It, So Why Can't We?](https://open.spotify.com/album/0AP5O47kJWlaKVnnybKvQI) | 4:31 |
 
-Snapshot ID: `MTY2MzMwMDgwMCwwMDAwMDAwMDdiZTYzYTY5M2FkZjA2NTAxMjQzYjNlYzZhMTk1YzQ4`
+Snapshot ID: `MTY2MzMwMDgwMCwwMDAwMDAwMDgxYjJkM2I3OWNmMDQxNWYwNGZhNDYxYjE5YmQ1MmZk`

@@ -92,6 +92,24 @@
     },
     {
       "album": {
+        "name": "A Visit From St. Nicholas",
+        "url": "https://open.spotify.com/album/665z0eJtFybjWpF1tjgVFj"
+      },
+      "artists": [
+        {
+          "name": "Louis Armstrong",
+          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 381057,
+      "name": "A Visit from St. Nicholas",
+      "url": "https://open.spotify.com/track/1Plru2OsTMH5W2O9fyFKsg"
+    },
+    {
+      "album": {
         "name": "Joe Pass - Six String Santa",
         "url": "https://open.spotify.com/album/1SXRnss2fnudVkXZrVxIJX"
       },
@@ -103,7 +121,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-07",
       "duration_ms": 275745,
       "name": "Angels We Have Heard on High / Joy to the World",
       "url": "https://open.spotify.com/track/3ZtqRGAm0Q3hUjRKKGoDeA"
@@ -586,6 +604,24 @@
     },
     {
       "album": {
+        "name": "Have Yourself a Merry Little Christmas",
+        "url": "https://open.spotify.com/album/0h9OvpJOdA59Ki48TXj2Ag"
+      },
+      "artists": [
+        {
+          "name": "Norah Jones",
+          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256443,
+      "name": "Have Yourself a Merry Little Christmas",
+      "url": "https://open.spotify.com/track/6yH9KPvWZ0Jnd8qsxj8oxs"
+    },
+    {
+      "album": {
         "name": "Jazz Christmas Songs By The Fire",
         "url": "https://open.spotify.com/album/0F8Aw2DVnhQNINV62SYtqg"
       },
@@ -814,6 +850,24 @@
     },
     {
       "album": {
+        "name": "Just Me This Year",
+        "url": "https://open.spotify.com/album/41LqeaMFiSUUY9IygGpmTr"
+      },
+      "artists": [
+        {
+          "name": "Rachael & Vilray",
+          "url": "https://open.spotify.com/artist/3UHyuBA5qay3xcxFr3Z1Y9"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187005,
+      "name": "Just Me This Year",
+      "url": "https://open.spotify.com/track/03nVaudcIV9z2XjgB6PlHa"
+    },
+    {
+      "album": {
         "name": "Shane Hampsheir's Christmas",
         "url": "https://open.spotify.com/album/7zb0bHCk9qJzkE77C1KO1V"
       },
@@ -1015,7 +1069,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-27",
+      "date_removed": "2022-10-10",
       "duration_ms": 289000,
       "name": "O Lettle Town Of Bethlehem",
       "url": "https://open.spotify.com/track/38YcOVBqCbMZej01gurFFz"
@@ -1033,7 +1087,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-04",
       "duration_ms": 190120,
       "name": "O Little Town of Bethlehem",
       "url": "https://open.spotify.com/track/7IQoSi7j7OEYJj0RsRyyJ2"
@@ -1569,7 +1623,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-09",
       "duration_ms": 186333,
       "name": "What Are You Doing New Year's Eve?",
       "url": "https://open.spotify.com/track/7DESENONjlQosUbxToDKOy"
@@ -1641,7 +1695,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-09",
+      "date_removed": "2022-10-09",
       "duration_ms": 297200,
       "name": "White Christmas",
       "url": "https://open.spotify.com/track/1Als47O3HnJ8NGg5je6s4A"

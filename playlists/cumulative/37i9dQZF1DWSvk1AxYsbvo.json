@@ -1425,7 +1425,7 @@
       ],
       "date_added": "2022-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-03",
       "duration_ms": 129000,
       "name": "Olive",
       "url": "https://open.spotify.com/track/4npfaORHCIotPdE5pROSX8"
@@ -1501,6 +1501,24 @@
       "duration_ms": 187500,
       "name": "Quince Tree",
       "url": "https://open.spotify.com/track/3GRm8zn22TL98gEZTweXRu"
+    },
+    {
+      "album": {
+        "name": "right now",
+        "url": "https://open.spotify.com/album/0outmoEBf1z970iFwCEPBs"
+      },
+      "artists": [
+        {
+          "name": "RIPLEY",
+          "url": "https://open.spotify.com/artist/226NgMhCe19mK7xFekn3TZ"
+        }
+      ],
+      "date_added": "2022-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135750,
+      "name": "right now",
+      "url": "https://open.spotify.com/track/1nEHkqPpdcYimQBcksbpFe"
     },
     {
       "album": {
@@ -2039,7 +2057,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-05",
       "duration_ms": 210840,
       "name": "To My Friend",
       "url": "https://open.spotify.com/track/3v7xLuhQtnm74cJBASJ9eZ"
@@ -2321,7 +2339,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-10",
+      "date_removed": null,
       "duration_ms": 155133,
       "name": "You are My Night",
       "url": "https://open.spotify.com/track/3PJBhDdXm8Ew3zAx6zmWnZ"

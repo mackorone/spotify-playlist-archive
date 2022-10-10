@@ -703,7 +703,7 @@
       ],
       "date_added": "2020-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 317000,
       "name": "Little Jeannie",
       "url": "https://open.spotify.com/track/7pgAdesi3gGZO8lAyzOTvu"
@@ -1067,6 +1067,24 @@
       "duration_ms": 178693,
       "name": "Sentimental Lady",
       "url": "https://open.spotify.com/track/478thMMvYGris8eJPcDRoq"
+    },
+    {
+      "album": {
+        "name": "50 Years - Don't Stop",
+        "url": "https://open.spotify.com/album/06JqOkwwy91OxrApXclzYf"
+      },
+      "artists": [
+        {
+          "name": "Fleetwood Mac",
+          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+        }
+      ],
+      "date_added": "2020-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182586,
+      "name": "Sentimental Lady - 2018 Remaster",
+      "url": "https://open.spotify.com/track/58gin7AIJheIrPffOdiE1z"
     },
     {
       "album": {

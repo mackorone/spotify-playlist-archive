@@ -4,7 +4,7 @@
 
 > Your go to Christian playlist for every day listening \. Cover: Sadie Robertson Huff
 
-159 songs - 10 hr 6 min - [published](https://open.spotify.com/playlist/2zseWEoTrqeulGuq5qhUGU)
+160 songs - 10 hr 9 min - [published](https://open.spotify.com/playlist/2zseWEoTrqeulGuq5qhUGU)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -130,6 +130,7 @@
 | [Show Up Choose Love \(feat\. Jon Reddick\)](https://open.spotify.com/track/2BeVJvlGsUHZED6BF2Z6Jh) | [TobyMac](https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3), [Jon Reddick](https://open.spotify.com/artist/7H0gjeKVq6IPXcAUZzzhD2) | [Show Up Choose Love](https://open.spotify.com/album/79noweOIo3I0Y0UIYY30DC) | 3:32 | 2022-08-05 |  |
 | [Simple Kingdom \(with Cody Carnes\) \- Live](https://open.spotify.com/track/5WryeVVD4YY1LnbZvwa40s) | [Bryan & Katie Torwalt](https://open.spotify.com/artist/7bvAtcPT3evvSeHDyu2zBC), [Cody Carnes](https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0) | [Simple Kingdom \(with Cody Carnes\) \[Live\]](https://open.spotify.com/album/6cdFeMCCrgo9eU2jqLOvJk) | 6:24 | 2022-05-06 |  |
 | [Sinking Deep](https://open.spotify.com/track/3QntQwzIBV704yqCHLLmyH) | [Hillsong Young & Free](https://open.spotify.com/artist/7m4gF38CPATtHrk5HS42WZ) | [This Is Living](https://open.spotify.com/album/7h7W5MDYWmSYGSAag53umc) | 4:07 | 2022-07-01 |  |
+| [Someone Like Me](https://open.spotify.com/track/5xp9busHkdxMlmlKObfH12) | [Evan Craft](https://open.spotify.com/artist/4vEpUOtKWtpotWkuv0Vlx4) | [Someone Like Me](https://open.spotify.com/album/0T4LAUwTj5aClzpGfJAqNc) | 3:38 | 2022-10-05 |  |
 | [Something About The Name \- Live](https://open.spotify.com/track/5oGuuSjAWob9OpezxoQbIH) | [Canyon Hills Worship](https://open.spotify.com/artist/3VMNXGDuX4KdTQBEXF6XlK) | [Spirit Of God](https://open.spotify.com/album/760mWuRWJIjmm8Y1F5G71J) | 4:50 | 2022-03-03 |  |
 | [STAND](https://open.spotify.com/track/4rfTrDO6FLuzFITLOPcPSI) | [Newsboys](https://open.spotify.com/artist/1SZMaiNHfdUuU0qZKZ6y62) | [STAND](https://open.spotify.com/album/2IZtfQ894BXutm1JNqrdYV) | 3:23 | 2022-02-17 | 2022-08-27 |
 | [STAND](https://open.spotify.com/track/3bzXihTa8HE1ur27mAsZKP) | [Newsboys](https://open.spotify.com/artist/1SZMaiNHfdUuU0qZKZ6y62), [TobyMac](https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3) | [STAND](https://open.spotify.com/album/0A41vxoBwFcukvVcBzWBI2) | 3:23 | 2022-02-17 |  |

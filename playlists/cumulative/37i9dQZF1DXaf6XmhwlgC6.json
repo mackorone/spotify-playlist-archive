@@ -642,6 +642,24 @@
     },
     {
       "album": {
+        "name": "Under an Autumnal Sky",
+        "url": "https://open.spotify.com/album/3NGahLW8AiKzVk3d1laAyR"
+      },
+      "artists": [
+        {
+          "name": "Black Brunswicker",
+          "url": "https://open.spotify.com/artist/3EobQTdmT0DDyzqaByPmB4"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204000,
+      "name": "I Found You",
+      "url": "https://open.spotify.com/track/5FV8186V5bGlGQa3RhzOcM"
+    },
+    {
+      "album": {
         "name": "It Sounds a Bit Like Heaven",
         "url": "https://open.spotify.com/album/3nPxg4CCoDJFNee7p29QZP"
       },

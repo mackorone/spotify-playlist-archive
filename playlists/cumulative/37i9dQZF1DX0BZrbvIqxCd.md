@@ -4,7 +4,7 @@
 
 > A mix of punk rock to get you through your workout.
 
-264 songs - 14 hr 3 min - [published](https://open.spotify.com/playlist/3JOQwQnXq5qUrauqYRJQpF)
+265 songs - 14 hr 6 min - [published](https://open.spotify.com/playlist/3JOQwQnXq5qUrauqYRJQpF)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -135,6 +135,7 @@
 | [I Forgot You](https://open.spotify.com/track/65fGvQYBCx3MxRf3xInWQQ) | [Divided Minds](https://open.spotify.com/artist/4zq1xzOD2RDkK3xaEZBBD5) | [Mood Swings](https://open.spotify.com/album/2y4c1nPI20tiTLNk3DUuRx) | 3:04 | 2020-11-20 | 2022-07-29 |
 | [I Fought the Law](https://open.spotify.com/track/7lSDCrF11sdTVfjbAQVZE8) | [The Clash](https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS) | [Hits Back](https://open.spotify.com/album/3Zkggi5I9uH5x94DuN6u1S) | 2:43 | 2020-11-20 |  |
 | [I Just Died In Your Arms](https://open.spotify.com/track/34pzs6syywbpcdBBCcLvKK) | [SecondShot](https://open.spotify.com/artist/1ZImVuFIqvP8USz3OVfxw9) | [One Foot Out The Door](https://open.spotify.com/album/5uzCd2bpYjeUrgMr03JuTU) | 3:13 | 2020-11-20 | 2022-07-28 |
+| [I Just Died in Your Arms](https://open.spotify.com/track/6M4FDzgFwe4FWq0rg8F6yC) | [SecondShot](https://open.spotify.com/artist/1ZImVuFIqvP8USz3OVfxw9) | [One Foot out the Door](https://open.spotify.com/album/3QJSNGea4CXBecqJUhEJ2Q) | 3:13 | 2020-11-20 |  |
 | [I Wanna Be Sedated \- 2002 Remaster](https://open.spotify.com/track/6vvmYYUvGXtZLU8msxKvzF) | [Ramones](https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm) | [Road to Ruin \(Expanded 2005 Remaster\)](https://open.spotify.com/album/5QK35ea0XnSBt6Ly8gWLhE) | 2:29 | 2020-11-20 |  |
 | [I'm Not Okay \(I Promise\)](https://open.spotify.com/track/7lRlq939cDG4SzWOF4VAnd) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [Three Cheers for Sweet Revenge](https://open.spotify.com/album/3DuiGV3J09SUhvp8gqNx8h) | 3:06 | 2020-11-20 |  |
 | [I'm Shipping Up To Boston](https://open.spotify.com/track/7rSERmjAT38lC5QhJ8hnQc) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [The Warrior's Code](https://open.spotify.com/album/2sZGDqHfU884z3iFris122) | 2:33 | 2020-11-20 |  |
@@ -253,7 +254,7 @@
 | [Tough Luck](https://open.spotify.com/track/4X1Tj3Y41B9HR4VANUBWyC) | [FELICITY](https://open.spotify.com/artist/2aqSgJBj7gtdClLx6SQ1mK) | [Old Habits](https://open.spotify.com/album/2CNXl541z0rKCB9WqPTkQ5) | 3:39 | 2020-11-20 | 2022-06-19 |
 | [Tune You Out](https://open.spotify.com/track/28VxaqLBkdHe4wlJczoSDT) | [Knuckle Puck](https://open.spotify.com/artist/5ABfpj7Z00wfPiv2uW4MFm) | [Tune You Out](https://open.spotify.com/album/1lFHC12npAlZb5agVqp57z) | 2:58 | 2020-11-20 | 2022-07-29 |
 | [Underground](https://open.spotify.com/track/5dXvUNCTKEgAHW9c1y7fAN) | [Radkey](https://open.spotify.com/artist/1egsOeSvcQyacni1rL6c4C) | [Underground](https://open.spotify.com/album/5odlFX6q0PglF7dGhsLzkf) | 2:59 | 2020-11-20 | 2022-07-28 |
-| [Victory Lap](https://open.spotify.com/track/1p40MAvOzGAO07icf3MuAl) | [Propagandhi](https://open.spotify.com/artist/7qpy5KY3DVrezixTl6mziA) | [Victory Lap \(Deluxe Edition\)](https://open.spotify.com/album/01lJjCxlvrddTRzIbtKHmP) | 2:56 | 2020-11-20 |  |
+| [Victory Lap](https://open.spotify.com/track/1p40MAvOzGAO07icf3MuAl) | [Propagandhi](https://open.spotify.com/artist/7qpy5KY3DVrezixTl6mziA) | [Victory Lap \(Deluxe Edition\)](https://open.spotify.com/album/01lJjCxlvrddTRzIbtKHmP) | 2:56 | 2020-11-20 | 2022-10-08 |
 | [Wallflower](https://open.spotify.com/track/7oXIbtib1VHQAJCvuSg3rx) | [Goldfinger](https://open.spotify.com/artist/7sVQKNtdP2NylxMgbNOJMM) | [Wallflower](https://open.spotify.com/album/7KDXQC3QK8gvw2Y2lExNcr) | 2:23 | 2020-11-20 | 2022-07-29 |
 | [Want Me Around](https://open.spotify.com/track/1hWlZxzZWiXRkQy7ywSAmh) | [Knuckle Puck](https://open.spotify.com/artist/5ABfpj7Z00wfPiv2uW4MFm) | [Shapeshifter](https://open.spotify.com/album/1ljgNdyFCcnQxAbzejZrax) | 3:31 | 2020-11-20 | 2022-09-05 |
 | [We're Not Alright](https://open.spotify.com/track/0OFqUFNG279tneIkKYcrft) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [Brain Invaders](https://open.spotify.com/album/3JKg0soC1sRle2yPenQa2j) | 2:55 | 2020-11-20 | 2022-07-29 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Only the hottest out now in South African Rock and Punk. Cover: <a href=\"https://open.spotify.com/artist/36P4zQxOGCSabr44bXS8kW?si=G9Ia9ChuTPeQ1Z7iZd3bYw\">Droomsindroom</a>",
+  "description": "Only the hottest out now in South African Rock and Punk. Cover: <a href=\"https://open.spotify.com/artist/786vB3MPgJ2kUzhNrbeaMZ?si=iRBNl1GmTFSUQQjaHnjWFA\">Hugo Pooe</a>",
   "name": "SA Rock Essentials",
   "published_playlist_ids": [
     "7m29EUKd7lxp8FUt6WdfbM"
@@ -77,6 +77,24 @@
       "duration_ms": 606300,
       "name": "Adorn",
       "url": "https://open.spotify.com/track/41W0utTSMSS6F5yL7QJ5Fw"
+    },
+    {
+      "album": {
+        "name": "Allan",
+        "url": "https://open.spotify.com/album/19kis2Tm2560bvWxFGBIoW"
+      },
+      "artists": [
+        {
+          "name": "the klubs",
+          "url": "https://open.spotify.com/artist/6hbEqXIhCdWLuQn3SUgibF"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198403,
+      "name": "Allan",
+      "url": "https://open.spotify.com/track/7EsJj7ryKHTThQpDxqP3ND"
     },
     {
       "album": {
@@ -239,7 +257,7 @@
       ],
       "date_added": "2022-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-07",
       "duration_ms": 112000,
       "name": "BLAH BLAH BLAH",
       "url": "https://open.spotify.com/track/5ncpsijPbqSkfej6b8PGjw"
@@ -351,7 +369,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-07",
       "duration_ms": 247411,
       "name": "Caught in Suspension",
       "url": "https://open.spotify.com/track/0CnVzLrxK0iRXuCk6vPeOi"
@@ -1595,6 +1613,24 @@
       "duration_ms": 108000,
       "name": "OVERTHINKING",
       "url": "https://open.spotify.com/track/4hZR6HRe5UnXs5CqdIjIen"
+    },
+    {
+      "album": {
+        "name": "Distopia",
+        "url": "https://open.spotify.com/album/1D37tFbgePiH2NuBrzOAm9"
+      },
+      "artists": [
+        {
+          "name": "Hugo Pooe",
+          "url": "https://open.spotify.com/artist/786vB3MPgJ2kUzhNrbeaMZ"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213940,
+      "name": "Parasite",
+      "url": "https://open.spotify.com/track/1wJsjT1Oo2Kh2H3J9WOmde"
     },
     {
       "album": {

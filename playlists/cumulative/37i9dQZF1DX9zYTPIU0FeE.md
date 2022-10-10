@@ -4,14 +4,15 @@
 
 > Journey through the exciting and innovative sounds of South African Jazz\. Cover: <a href="https://open.spotify.com/artist/1lk7zDKaonwqrwKwt8Krd7?si=VPuHoz8NQiOVNcui\-WWOzA">The Brother Moves On</a>
 
-81 songs - 8 hr 38 min - not published yet
+83 songs - 8 hr 50 min - [published](https://open.spotify.com/playlist/0ANwIIMXAUMCahITjRSDWI)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A Night in D.C](https://open.spotify.com/track/1cUBc1b5n74f4fzH4ol93o) | [Linda Sikhakhane](https://open.spotify.com/artist/21Vw6haIClrf19wKkA68on) | [Two Sides,One Mirror](https://open.spotify.com/album/3cRaqxp2N4Bmw8m7jwGF3v) | 4:23 | 2022-04-28 |  |
 | [ABANTU](https://open.spotify.com/track/49tt0RR7huvZTezOjRXpdP) | [Zoë Modiga](https://open.spotify.com/artist/6vfxDPW9Lc9tAMVy0oeqiB) | [INGANEKWANE](https://open.spotify.com/album/2MfkJ9pIDlnoqF8nDZKoYJ) | 5:04 | 2022-04-28 |  |
 | [African Ontology](https://open.spotify.com/track/56Se3mc2uBst7dLCe3qiwX) | [Steve Dyer](https://open.spotify.com/artist/61aqbPYgQBxkHz5zs4L1YO) | [Revision](https://open.spotify.com/album/54kfgK7hTKoAWTSSmZoC3I) | 7:41 | 2022-04-28 |  |
-| [Airport Terminal](https://open.spotify.com/track/7EYPZaZRPWHFh6k8ltg43c) | [Vuma Levin](https://open.spotify.com/artist/5nJiuTEfd55CApEZiZUtlX) | [Antique Spoons: Chapters on Love, Loss and the Politics of Memory](https://open.spotify.com/album/14ZKx2M8Jb8ydk7XQUfmBf) | 5:47 | 2022-04-28 |  |
+| [Airport Terminal](https://open.spotify.com/track/7EYPZaZRPWHFh6k8ltg43c) | [Vuma Levin](https://open.spotify.com/artist/5nJiuTEfd55CApEZiZUtlX) | [Antique Spoons: Chapters on Love, Loss and the Politics of Memory](https://open.spotify.com/album/14ZKx2M8Jb8ydk7XQUfmBf) | 5:47 | 2022-04-28 | 2022-10-08 |
+| [Airport Terminal](https://open.spotify.com/track/2jnZIpOYHfgk49nb4qdH1m) | [Vuma Levin](https://open.spotify.com/artist/5nJiuTEfd55CApEZiZUtlX) | [Antique Spoons: Chapters on Love, Loss and The Politics of Memory](https://open.spotify.com/album/4LDBC7za9NUCEJNKkGCdnL) | 5:51 | 2022-04-28 |  |
 | [Amathongo](https://open.spotify.com/track/2jUqVDtYIJWd3baszNjZkF) | [Nduduzo Makhathini](https://open.spotify.com/artist/6EvFcDtvFuVugEtZNslkft) | [Amathongo](https://open.spotify.com/album/26o5fNnGz2qfoCuhWrAvW8) | 6:26 | 2022-04-28 |  |
 | [Amazing Grace](https://open.spotify.com/track/60YKaBvjgNvGRVei6rmRQk) | [Thandi Ntuli](https://open.spotify.com/artist/1g7pneoNO9Thq5oYQyR5Dy) | [Blk Elijah & The Children of Meroë](https://open.spotify.com/album/2HUrxmQV5x6i6FQTr6950S) | 7:06 | 2022-07-07 |  |
 | [Aunty B \- Live](https://open.spotify.com/track/4B0SAa1Qh18m6LkRRUqtCE) | [Keenan Ahrends](https://open.spotify.com/artist/6ESm50MFOfkEqAaWEgVKiQ) | [Perseverance: Live at the Bird's Eye](https://open.spotify.com/album/5ALMv6JHL1KO7SVaeilQiD) | 8:00 | 2022-05-12 |  |
@@ -66,7 +67,8 @@
 | [Ntab'ezimnyama](https://open.spotify.com/track/7lg6eea6HeZbJOT01pKS4m) | [Buhlebendalo](https://open.spotify.com/artist/1Nu3lDd06uk8y73zM6r6MW) | [Deeply Rooted](https://open.spotify.com/album/4lOWybiZPn6y3T47b6b8JZ) | 4:45 | 2022-04-28 |  |
 | [Ntate Gwangwa's Stroll](https://open.spotify.com/track/4eM3xpiSyUFX1Of3EYyoM2) | [Malcolm Jiyane Tree\-O](https://open.spotify.com/artist/4OKERbN3Zv7ZLU8XfINKBH) | [Ntate Gwangwa's Stroll](https://open.spotify.com/album/3D0v4FYzpWX2bpWcujxyBQ) | 7:02 | 2022-04-28 |  |
 | [Prayer](https://open.spotify.com/track/45rFXj6zMsy5WICsFu83mb) | [BandaBanda & The Crocodiles](https://open.spotify.com/artist/4fGYO2jfAKQYa4gyjMrRhH) | [Africado](https://open.spotify.com/album/0qIUwch0zfEtS24JO6Y3DK) | 5:09 | 2022-04-28 |  |
-| [Promenade](https://open.spotify.com/track/0CXt2Bj9qskjdluQaOWwLP) | [Vuma Levin](https://open.spotify.com/artist/5nJiuTEfd55CApEZiZUtlX) | [Antique Spoons: Chapters on Love, Loss and the Politics of Memory](https://open.spotify.com/album/14ZKx2M8Jb8ydk7XQUfmBf) | 5:39 | 2022-04-28 |  |
+| [Promenade](https://open.spotify.com/track/0CXt2Bj9qskjdluQaOWwLP) | [Vuma Levin](https://open.spotify.com/artist/5nJiuTEfd55CApEZiZUtlX) | [Antique Spoons: Chapters on Love, Loss and the Politics of Memory](https://open.spotify.com/album/14ZKx2M8Jb8ydk7XQUfmBf) | 5:39 | 2022-04-28 | 2022-10-07 |
+| [Promenade](https://open.spotify.com/track/2VsMAH0aoA2MrRVva1aBG8) | [Vuma Levin](https://open.spotify.com/artist/5nJiuTEfd55CApEZiZUtlX) | [Antique Spoons: Chapters on Love, Loss and The Politics of Memory](https://open.spotify.com/album/4LDBC7za9NUCEJNKkGCdnL) | 5:45 | 2022-04-28 |  |
 | [Rainbow \(Live\)](https://open.spotify.com/track/05hWCVraaBWQ07R7fgr0we) | [Thandi Ntuli](https://open.spotify.com/artist/1g7pneoNO9Thq5oYQyR5Dy) | [Thandi Ntuli \(Live at Jazzwerkstatt\)](https://open.spotify.com/album/00igLPQBrtQR2DlH4R96w0) | 14:44 | 2022-04-28 |  |
 | [Red Room](https://open.spotify.com/track/7qCcZTizjFBYCdqGjhvCoV) | [Tune Recreation Committee](https://open.spotify.com/artist/6lNEil3Rutgl0lscHp9pZx) | [Afrika Grooves With the Tune Recreation Committee](https://open.spotify.com/album/7etAEMYrH6A4M3Q7LvaycA) | 7:07 | 2022-04-28 |  |
 | [Remember Me](https://open.spotify.com/track/5nRF6nlZBIjTTodlaHRuVg) | [Gabi Motuba](https://open.spotify.com/artist/0weIOOeTGcBXsHufTBahtC) | [Tefiti \- Goddess of Creation](https://open.spotify.com/album/7GAp6bCSVu0dbV5scjOa5M) | 5:30 | 2022-04-28 |  |

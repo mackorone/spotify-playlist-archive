@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-06",
-  "description": "From across the globe. New artists on the horizon. Cover: Ayra Starr.",
+  "description": "From across the globe. New artists on the horizon. Cover: Cat Burns.",
   "name": "RADAR Global",
   "published_playlist_ids": [
     "5vCFU5jLGp753wsXFermer"
@@ -2935,10 +2935,32 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-06",
       "duration_ms": 194550,
       "name": "Dancing Cus It's Raining",
       "url": "https://open.spotify.com/track/4yQT0SptGrIAfZbqtyWE9o"
+    },
+    {
+      "album": {
+        "name": "Now You See Me",
+        "url": "https://open.spotify.com/album/3I56h2xHwElfL02U8grGT4"
+      },
+      "artists": [
+        {
+          "name": "Anna hisbbuR",
+          "url": "https://open.spotify.com/artist/1aGiVSaZQoVVgMOLYF5yVR"
+        },
+        {
+          "name": "Jan Curious",
+          "url": "https://open.spotify.com/artist/1DxU7yGnE1XPeLYzOHdKSy"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194550,
+      "name": "Dancing Cus It's Raining",
+      "url": "https://open.spotify.com/track/7667IhlsYqSQnXf3PH8p6O"
     },
     {
       "album": {
@@ -9929,6 +9951,24 @@
       "duration_ms": 196188,
       "name": "Pelejei",
       "url": "https://open.spotify.com/track/4mFyni5z0DnQLvXvaA8yWm"
+    },
+    {
+      "album": {
+        "name": "people pleaser / sleep at night",
+        "url": "https://open.spotify.com/album/6zMAsUOpcpxqOCjYAIku7C"
+      },
+      "artists": [
+        {
+          "name": "Cat Burns",
+          "url": "https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146654,
+      "name": "people pleaser",
+      "url": "https://open.spotify.com/track/3UEOT0hD60yGB1OMWJxLQ8"
     },
     {
       "album": {

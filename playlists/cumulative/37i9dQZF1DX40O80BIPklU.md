@@ -4,7 +4,7 @@
 
 > De Tijuana a Tierra del Fuego, aquí los que dominan el juego\. Foto: WOS
 
-122 songs - 6 hr 57 min - [published](https://open.spotify.com/playlist/1FI4Y6oYusBHTp00FAfqcv)
+123 songs - 7 hr 2 min - [published](https://open.spotify.com/playlist/1FI4Y6oYusBHTp00FAfqcv)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,7 +30,7 @@
 | [C.R.O: Bzrp Music Sessions, Vol\. 29](https://open.spotify.com/track/0qPbQWcqNDVrReSSvMoJxk) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [C.R.O](https://open.spotify.com/artist/4puAp107dCehraE47QXVQX) | [C.R.O: Bzrp Music Sessions, Vol\. 29](https://open.spotify.com/album/6JRgIvDqCA1WxzEhV52zny) | 2:26 | 2022-04-18 |  |
 | [Camina Sola](https://open.spotify.com/track/0KtDnYAe59IGfIpPwtL82b) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [HECHO M13RD4](https://open.spotify.com/album/5XhTnZgcv9l8gUZOVVUxAY) | 3:33 | 2022-09-09 |  |
 | [Chambean](https://open.spotify.com/track/27xdbLOIQOd3wdAsDCbvBz) | [Cosculluela](https://open.spotify.com/artist/00me4Ke1LsvMxt5kydlMyU), [Tego Calderón](https://open.spotify.com/artist/3SUT1jjM5hzZj9TLfLZGIP) | [Chambean](https://open.spotify.com/album/5JyYjkVmEgpPet9nOTvuL3) | 3:12 | 2022-01-28 |  |
-| [CLASE G](https://open.spotify.com/track/3YWUpw4iePPtUDT0qO52Jn) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8), [CashMoneyAp](https://open.spotify.com/artist/0vMv24BXeZOK8l3S5SMLri) | [CLASE G](https://open.spotify.com/album/6SuRkKnWq0XW9K0XuwcZpQ) | 2:07 | 2021-12-30 |  |
+| [CLASE G](https://open.spotify.com/track/3YWUpw4iePPtUDT0qO52Jn) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8), [CashMoneyAp](https://open.spotify.com/artist/0vMv24BXeZOK8l3S5SMLri) | [CLASE G](https://open.spotify.com/album/6SuRkKnWq0XW9K0XuwcZpQ) | 2:07 | 2021-12-30 | 2022-10-07 |
 | [CLOACA](https://open.spotify.com/track/0hsE4KoZ14iXURFc8Lf4dU) | [Lil Supa](https://open.spotify.com/artist/0qHbO3z6lgLE6ZYCkQBo1K), [Doktor Rheal](https://open.spotify.com/artist/6RLtMINjyT15TfS3enUhFF) | [YEYO](https://open.spotify.com/album/2omBpLdhqRgjBneDnziZpp) | 2:59 | 2022-03-15 | 2022-09-10 |
 | [Cnv Sound, Vol\. 14](https://open.spotify.com/track/1vmRfKejQWsWnE3arhhEit) | [Pure Negga](https://open.spotify.com/artist/1F23hhbmyCMBq3BadxKNhk) | [Cnv Sound Volums \(Kion Studio One Shots\)](https://open.spotify.com/album/6ofhc8WsOvmFP8lLb7b6v3) | 3:14 | 2022-06-24 |  |
 | [Cnv Sound, Vol\. 14](https://open.spotify.com/track/6ioupaJ387IxHQC9RSHMar) | [Pure Negga](https://open.spotify.com/artist/1F23hhbmyCMBq3BadxKNhk), [Ziko](https://open.spotify.com/artist/5kjMVFyYkyNXhGccnycCka) | [Cnv Sound Volums \(Kion Studio One Shots\)](https://open.spotify.com/album/6sgKeauEUQCd6fJLCHcgs7) | 3:14 | 2022-05-26 | 2022-07-29 |
@@ -123,6 +123,7 @@
 | [Todo Va a Estar Bien](https://open.spotify.com/track/3XjRIN9vEt35lm1iStPcgq) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [Big Soto](https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU), [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI) | [Todo Va a Estar Bien](https://open.spotify.com/album/6iwqcQcjkN9xVlhG840W9a) | 4:27 | 2021-12-30 | 2022-07-30 |
 | [Toma 4](https://open.spotify.com/track/5UUkHi8YrakZKY9gDbtVNz) | [C\-Kan](https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu) | [Toma 4](https://open.spotify.com/album/7Il1eXMjz7OJExifvW8Vgt) | 3:20 | 2022-05-13 |  |
 | [Tú](https://open.spotify.com/track/70GICKO4fojYsRGUx4nb4z) | [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl), [Elias Wallace](https://open.spotify.com/artist/5SaZEYSyIV17OizlU9DjzI) | [Manjit 1](https://open.spotify.com/album/3jwk8uhUhfJj56MuBZYBlm) | 3:33 | 2021-12-30 | 2022-03-26 |
+| [Uzumaki](https://open.spotify.com/track/5eO9DgpkoSm2k9eOkI14Xg) | [Chystemc](https://open.spotify.com/artist/12wTrvRwxmsbUxkLffkPfv), [Gudspella](https://open.spotify.com/artist/2xjF5imhTEr6WDS0EAqMtw) | [Uzumaki](https://open.spotify.com/album/7nJWw7EXntcF4EjsWsFMJJ) | 4:55 | 2022-10-06 |  |
 | [Veneno](https://open.spotify.com/track/5AQTFpm3oDPTenmw5Lmfoi) | [Delaossa](https://open.spotify.com/artist/5Uox3n7m4W2CoM9MmHPJwQ), [KIDDO](https://open.spotify.com/artist/3lLDZNIMUmxMzIE6Vz9Agz), [J.Moods](https://open.spotify.com/artist/7q3hzOFspDedtkyBi1Azc8) | [La Tour Liffee](https://open.spotify.com/album/0UYDVbpaX2fpXiGDsxPzsY) | 4:18 | 2021-12-30 | 2022-05-14 |
 | [Vibrando en Alto](https://open.spotify.com/track/0HoLCZ3G0dbGqtmlmnIMhw) | [Apache](https://open.spotify.com/artist/2pvyE8W9RWESQxkyAWZqgY) | [Vibrando en Alto](https://open.spotify.com/album/2Sa6rmZ4tPSRse0aOlRKjI) | 3:00 | 2022-03-10 |  |
 | [Vida Eterna](https://open.spotify.com/track/6dILZGMSEuaIqx7DnNhz5C) | [McKlopedia](https://open.spotify.com/artist/1PNgAcUW6UgN59okEaTpvG) | [Vida Eterna](https://open.spotify.com/album/243F9X01ypu39S723UeoB7) | 3:14 | 2022-01-14 | 2022-07-30 |

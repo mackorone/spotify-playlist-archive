@@ -4,7 +4,7 @@
 
 > Traditional carols and hymns for a classic Christmas feeling.
 
-63 songs - 2 hr 51 min - [published](https://open.spotify.com/playlist/3fahOy3iri1dJ2MuPaHK5f)
+64 songs - 2 hr 53 min - [published](https://open.spotify.com/playlist/3fahOy3iri1dJ2MuPaHK5f)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,7 +32,8 @@
 | [Entre le bœuf et l'âne gris \(Arr\. R\. Hayward for Guitar\)](https://open.spotify.com/track/6xT8cqiLYkHJIy2HaHC9ef) | [Rossini Hayward](https://open.spotify.com/artist/5EvaMEwPzhyR6T3quNHR1K) | [Stille Nacht: Christmas Carols for Guitar](https://open.spotify.com/album/3d5QmcTIJsOuQh2mU50x8F) | 2:14 | 2021-11-19 |  |
 | [Es ist ein Ros entsprungen \(Arr\. R\. Hayward for Guitar\)](https://open.spotify.com/track/0diYZsE9aogD5itSwwNRtG) | [Rossini Hayward](https://open.spotify.com/artist/5EvaMEwPzhyR6T3quNHR1K) | [Stille Nacht: Christmas Carols for Guitar](https://open.spotify.com/album/3d5QmcTIJsOuQh2mU50x8F) | 1:46 | 2021-11-19 |  |
 | [Gesu Bambino](https://open.spotify.com/track/70TUCXbpF7SqtZOwqq6phF) | [Stan Whitmire](https://open.spotify.com/artist/3Be0FxZRoCJ8UPrkwe6Xuw) | [Christmas Around The Piano](https://open.spotify.com/album/2YZZf9NIZnoUurtJdHVp2N) | 4:40 | 2021-11-19 |  |
-| [God Rest Ye Merry Gentlemen](https://open.spotify.com/track/38hSJb4lgLRHENsdJjSopS) | [J.L\. Marshall](https://open.spotify.com/artist/2hNdUwIbMMpMPG2jWfE6ZB) | [Merry Christmas \(Favorite Holiday Piano Music for a Festive Occasion\)](https://open.spotify.com/album/2HYyewW2RWQx43ZnVFFfrM) | 1:28 | 2021-11-19 |  |
+| [God Rest Ye Merry Gentlemen](https://open.spotify.com/track/2Er9oTJkPruq8pao8aZY8s) | [J.L\. Marshall](https://open.spotify.com/artist/2hNdUwIbMMpMPG2jWfE6ZB) | [Merry Christmas \(Favorite Holiday Piano Music for a Festive Occasion\)](https://open.spotify.com/album/5xRd9gJJ47uB3cXtMqw741) | 1:28 | 2021-11-19 |  |
+| [God Rest Ye Merry Gentlemen](https://open.spotify.com/track/38hSJb4lgLRHENsdJjSopS) | [J.L\. Marshall](https://open.spotify.com/artist/2hNdUwIbMMpMPG2jWfE6ZB) | [Merry Christmas \(Favorite Holiday Piano Music for a Festive Occasion\)](https://open.spotify.com/album/2HYyewW2RWQx43ZnVFFfrM) | 1:28 | 2021-11-19 | 2022-10-09 |
 | [Good Christian Men, Rejoice](https://open.spotify.com/track/225AhLsT6I6LWNB3ANefPf) | [Christmas Music Holiday Trio](https://open.spotify.com/artist/4XWZxmAaLdsJlJvUjlowZF) | [Relaxing Christmas Music, Vol\. 1](https://open.spotify.com/album/3TsPUuASpxKagXwi12SSmx) | 1:58 | 2021-11-19 |  |
 | [Good King Wenceslas](https://open.spotify.com/track/25vdlTYdZPJssQbXU8qUsg) | [Chris Beard](https://open.spotify.com/artist/7hTEeJAMokCNuBxW8GtFKp) | [We Three Kings](https://open.spotify.com/album/5Ppd2aIzY3YD2ug3FMI7sg) | 2:02 | 2021-11-19 |  |
 | [Hark! a Thrilling Voice Is Sounding](https://open.spotify.com/track/1QJTGyetIQldxJCPnEQhOe) | [Andrey Jackson](https://open.spotify.com/artist/2yQZGNQJExPLfCB8kfTD88) | [Christian Hymns, Vol\. 4, Organ Accompaniments \(The Church Organist Series\)](https://open.spotify.com/album/30AOxaN0uerFFVNBUVs8lT) | 1:23 | 2021-11-19 |  |

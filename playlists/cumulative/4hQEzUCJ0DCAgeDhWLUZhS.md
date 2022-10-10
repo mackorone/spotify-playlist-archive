@@ -4,7 +4,7 @@
 
 > GUITARS\. BASS\. DRUMS\. That's all you need really\. Plugged In featured the latest and greatest rock, alternative, and metal coming out of Australia and around the world\. Cover: Paramore
 
-328 songs - 19 hr 45 min - [published](https://open.spotify.com/playlist/658IZO2NGtKPsTaXlLP4qD)
+330 songs - 19 hr 51 min - [published](https://open.spotify.com/playlist/658IZO2NGtKPsTaXlLP4qD)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -257,6 +257,7 @@
 | [Sinner](https://open.spotify.com/track/7z21IYXNRcxdmubc6YG13B) | [Deaf Havana](https://open.spotify.com/artist/0exhrQcReCdr11oPbOh22M) | [RITUALS](https://open.spotify.com/album/7gkXGlBcRhR8cBS9mXOXSE) | 3:27 | 2020-10-10\* | 2021-02-25 |
 | [Skinny](https://open.spotify.com/track/08CVVZ9HYOXzPRAIV0w8nq) | [KALEO](https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc) | [Skinny](https://open.spotify.com/album/4B4UxXtd4JaYNtaAN6ZNEQ) | 3:42 | 2021-04-06 | 2022-03-18 |
 | [Sleeping In](https://open.spotify.com/track/402Ecma69MRxeQK6ml6YbI) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Wake Up, Sunshine](https://open.spotify.com/album/1kwAv74rVTTGMpawGsXtiE) | 3:00 | 2021-02-25 | 2022-03-18 |
+| [Sleepwalking](https://open.spotify.com/track/4SOtTsuFYYlkOOvXMbroUv) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Sleepwalking](https://open.spotify.com/album/4bI5LF5zauGsBIL9z8mLyl) | 3:07 | 2022-10-07 |  |
 | [So Far, So Close](https://open.spotify.com/track/3GfoE5xAQx8QnUHEtxbMy7) | [Weta](https://open.spotify.com/artist/2AsaDvs6UY4MJ4X3UQeUbu) | [So Far, So Close](https://open.spotify.com/album/3kjBRkDsQxLSIDjmEG9pXD) | 4:32 | 2020-11-27 | 2022-03-18 |
 | [So Happy It Hurts](https://open.spotify.com/track/13rKI4xThtXQtlTBnuIXPj) | [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc) | [So Happy It Hurts](https://open.spotify.com/album/6kTdIgZ2K6qbXZALyrO88K) | 3:35 | 2021-10-15 |  |
 | [Soak Me In Bleach](https://open.spotify.com/track/4927jsYJiZcGouh4sRZaTn) | [The Amity Affliction](https://open.spotify.com/artist/6kNKUYGn6VNGsRoXmyoDPK) | [Soak Me In Bleach](https://open.spotify.com/album/6fqIdYnvXHJ4fpy6YRVRkI) | 3:45 | 2020-10-10\* | 2021-05-13 |
@@ -292,6 +293,7 @@
 | [These Are the Ways](https://open.spotify.com/track/1KtXgVTeu3GUXHrOAef6QQ) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [Unlimited Love](https://open.spotify.com/album/2ITVvrNiINKRiW7wA3w6w6) | 3:56 | 2022-04-01 |  |
 | [THINK ABOUT ME](https://open.spotify.com/track/1gEUlsUL6inLvOSAxbzrsY) | [jxdn](https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF) | [THINK ABOUT ME](https://open.spotify.com/album/6zd8CVcujUr4FRzDlUUNwx) | 3:24 | 2021-06-04 |  |
 | [This Is Why](https://open.spotify.com/track/7z84Fwf1R3Z2BwHCP620CI) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [This Is Why](https://open.spotify.com/album/1BDj5lr0KVcSQpSNdyqJct) | 3:27 | 2022-09-29 |  |
+| [Those Days](https://open.spotify.com/track/5wEoNauEpwOc2rlU0274oT) | [Nickelback](https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF) | [Those Days](https://open.spotify.com/album/2VpBMpnkXJIgvwGfRBX11K) | 3:39 | 2022-10-07 |  |
 | [Tiny Indoor Fireworks](https://open.spotify.com/track/5SvlfB8HuBSYpAIpCkRC3L) | [Biffy Clyro](https://open.spotify.com/artist/1km0R7wy712AzLkA1WjKET) | [Tiny Indoor Fireworks](https://open.spotify.com/album/15JQPwn3EouyzXeZ8gMQF5) | 3:15 | 2020-10-10\* | 2021-02-25 |
 | [Tippa My Tongue](https://open.spotify.com/track/3s53zBEi1ZU6dJj19eFOxW) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [Tippa My Tongue](https://open.spotify.com/album/58As6ZmLLmhtkF8l5voV9p) | 4:20 | 2022-08-19 |  |
 | [To the Ground](https://open.spotify.com/track/6MdbEX55Ks1oqGVwRb3nyX) | [Death Cab for Cutie](https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx) | [To the Ground](https://open.spotify.com/album/5e1Bnbm0LjuYmKTyabOJEw) | 5:15 | 2020-10-10\* | 2021-02-25 |

@@ -4,11 +4,12 @@
 
 > Este Flow tiene otro Flow\. Foto: J Balvin & Polimá Westcoast.
 
-193 songs - 11 hr 18 min - [published](https://open.spotify.com/playlist/2FMJDC0qJwnjZnSiGHmfDy)
+195 songs - 11 hr 24 min - [published](https://open.spotify.com/playlist/2FMJDC0qJwnjZnSiGHmfDy)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [12:30](https://open.spotify.com/track/4vpXjguMioKefak80ytICn) | [Jairo Vera](https://open.spotify.com/artist/5CAruGjgds3QlF5ICtEnnc) | [12:30](https://open.spotify.com/album/2YJhSnJtjbI2cVwaCYO9Zi) | 2:50 | 2022-05-23 |  |
+| [28](https://open.spotify.com/track/5jfDBp9jmQ9rfviQZSEGSW) | [Jairo Vera](https://open.spotify.com/artist/5CAruGjgds3QlF5ICtEnnc) | [28](https://open.spotify.com/album/3wutFV7g5B2NbRPmJUjewl) | 3:20 | 2022-10-06 |  |
 | [A Escondidas](https://open.spotify.com/track/7iOns39ZyM38mks8uzzYyn) | [ITHAN NY](https://open.spotify.com/artist/0LshXUmIub6xKvOq4QmtNs) | [A Escondidas](https://open.spotify.com/album/7yrB4g1xWWsA1J9yzrO52m) | 3:07 | 2022-07-22 | 2022-08-06 |
 | [A Lo Matón](https://open.spotify.com/track/7vxnJ22SO4yVdjbhI7pbe5) | [Simon la Letra](https://open.spotify.com/artist/6hYxQDiGct9yfRlSEv3F8a), [ITHAN NY](https://open.spotify.com/artist/0LshXUmIub6xKvOq4QmtNs) | [A Lo Matón](https://open.spotify.com/album/5DA6GY3MdU4yMword7ipLx) | 3:08 | 2022-06-24 | 2022-08-06 |
 | [ACTIVO](https://open.spotify.com/track/0r6XXEWcrvnfwPe3wP35xz) | [Kail BRL](https://open.spotify.com/artist/1F5KgWs6pawyDs5px23UIQ), [Standly](https://open.spotify.com/artist/0rjms710nwQTdrQheXHJfz), [Benji La Maldita Escritura De Oro](https://open.spotify.com/artist/2H5XfIuAQCXmaIDm7vcViA), [Tobal Mj](https://open.spotify.com/artist/2BJWqrBKEqtZUKWtzmpPDj) | [NEW BLOOD](https://open.spotify.com/album/2stO0Eohf9vriqN0JAwmq4) | 3:15 | 2022-07-04 |  |
@@ -21,6 +22,7 @@
 | [Baby Doll](https://open.spotify.com/track/4dzBUpIYEnECzf5TIq4jFL) | [Pablo Pesadilla](https://open.spotify.com/artist/41vcoPejPG3vv8emJ2R5Ox), [Cris Mj](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE), [Harry Nach](https://open.spotify.com/artist/0NnUMWDCDi1snuMja6IdxH) | [Baby Doll](https://open.spotify.com/album/3w8QAeLI6MlLCdTo5GeR5P) | 4:07 | 2022-05-23 |  |
 | [BABY OTAKU](https://open.spotify.com/track/0kTMK4gNFfLXaTb62w1UaJ) | [Pablo Pesadilla](https://open.spotify.com/artist/41vcoPejPG3vv8emJ2R5Ox), [Polimá Westcoast](https://open.spotify.com/artist/768O5GliF0bqscyghggrbE), [Nickoog Clk](https://open.spotify.com/artist/6rHwFb0YjWexAYxTjm4eIj), [Fran C](https://open.spotify.com/artist/5NenY2Jl9wwLRxf86go4Y8) | [BABY OTAKU](https://open.spotify.com/album/7HUH0lFoay2KzGEZqGp55G) | 2:56 | 2022-08-19 |  |
 | [BADBITCH](https://open.spotify.com/track/6MNfA6yPOiSXci4xXcJ3I3) | [Best](https://open.spotify.com/artist/4Ng3fh1nc5L04iXPL8vqc7), [El Barto](https://open.spotify.com/artist/5RnwLXlnWPF57yzdmUnnvP) | [BADBITCH](https://open.spotify.com/album/4sht24sghIeg901nOQ9nUO) | 2:40 | 2022-08-12 | 2022-09-10 |
+| [Baila Morena](https://open.spotify.com/track/4eUjxlmJ41jWjv3LtBrN72) | [Kidd Voodoo](https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4) | [Baila Morena](https://open.spotify.com/album/7mOdiBhGocIW2uYFihkZKP) | 2:42 | 2022-10-06 |  |
 | [Bailame](https://open.spotify.com/track/518i8nVwobjS1oXrwj1Y0l) | [Adan La Amenaza](https://open.spotify.com/artist/0dQUkvpKTvHbsTxXKcIN0S), [Forest](https://open.spotify.com/artist/2j6Up11EpEUKQ5yIfFXhdU) | [Bailame](https://open.spotify.com/album/4sStXzFTDDSs12bIERgfad) | 4:12 | 2022-09-02 |  |
 | [Bailando](https://open.spotify.com/track/0kRJ3rwE3rTDJGnGO4HmoD) | [El Jordan 23](https://open.spotify.com/artist/1fIJZfSmqQkuqfKNRmrS1V), [Standly](https://open.spotify.com/artist/0rjms710nwQTdrQheXHJfz) | [Bailando](https://open.spotify.com/album/15w28xIK85L1TcTjNjjTAI) | 3:44 | 2022-05-23 |  |
 | [Beso de 3](https://open.spotify.com/track/2t8uNSGe0gaAG9KhQ8m55N) | [Nico Mastre](https://open.spotify.com/artist/5NescwT8CJqGf64LVVD6td), [Brray](https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ), [Cris Mj](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE) | [Beso de 3](https://open.spotify.com/album/0M7gEqM3GR1wrXvptaHT5D) | 3:49 | 2022-05-23 | 2022-06-09 |

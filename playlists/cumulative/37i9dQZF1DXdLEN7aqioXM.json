@@ -698,6 +698,24 @@
     },
     {
       "album": {
+        "name": "Burn It Down - Rework",
+        "url": "https://open.spotify.com/album/1Bj2waZd2HdJrWChKrQJ1F"
+      },
+      "artists": [
+        {
+          "name": "Boy Harsher",
+          "url": "https://open.spotify.com/artist/4iom7VVRU6AHRIu1JUXpLG"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256333,
+      "name": "Burn It Down - Rework",
+      "url": "https://open.spotify.com/track/3Is5Q2dJMMVXviLh9PmOXD"
+    },
+    {
+      "album": {
         "name": "Chauma",
         "url": "https://open.spotify.com/album/38umTMbcj2n8RB7COoIr18"
       },
@@ -2325,7 +2343,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-09",
       "duration_ms": 345473,
       "name": "Golden Taurus",
       "url": "https://open.spotify.com/track/4yR6KeaGWGEDpVRiDFXeR7"
@@ -3788,6 +3806,24 @@
     },
     {
       "album": {
+        "name": "Beyond Reality",
+        "url": "https://open.spotify.com/album/555TlFV2ex4wVgdf8jtJPm"
+      },
+      "artists": [
+        {
+          "name": "Vector Seven",
+          "url": "https://open.spotify.com/artist/0Aob82fk8XM9qBRhiCvSBO"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208800,
+      "name": "Neon Vision",
+      "url": "https://open.spotify.com/track/0taSsax88qVTIGAm35hegO"
+    },
+    {
+      "album": {
         "name": "Turbulence",
         "url": "https://open.spotify.com/album/1xl2oh7njuwSneP6tLfdvN"
       },
@@ -5021,7 +5057,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-03",
       "duration_ms": 240000,
       "name": "Shimmer Isle",
       "url": "https://open.spotify.com/track/4MaEEuFFPYgOQQ2ibvcCsY"
@@ -5635,7 +5671,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 255189,
       "name": "Tenshi",
       "url": "https://open.spotify.com/track/7EVasoq7DMEcwgB8AJSi3t"
@@ -6083,7 +6119,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-05",
       "duration_ms": 212753,
       "name": "Timmy Goes To Space",
       "url": "https://open.spotify.com/track/3ygygDgeSK98dfOknKRLUw"

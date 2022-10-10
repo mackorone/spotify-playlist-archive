@@ -2,9 +2,9 @@
 
 ### [sad sla](https://open.spotify.com/playlist/37i9dQZF1DX0H97kz3DdJ6)
 
-> as mais tristes do brasil
+> as mais tristes do brasil/Number Teddie
 
-95 songs - 4 hr 33 min - [published](https://open.spotify.com/playlist/4ADBfixRHFwffrKYoekmv1)
+98 songs - 4 hr 42 min - [published](https://open.spotify.com/playlist/4ADBfixRHFwffrKYoekmv1)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,6 +57,7 @@
 | [Fim do Dia](https://open.spotify.com/track/1gIqYVNx0tKaKYf0LAZ2Mu) | [Konai](https://open.spotify.com/artist/12YpLBd0FvDYA0c4nsaxFp) | [Fim do Dia](https://open.spotify.com/album/1RvaZRpmC03BbhFaS6hGJa) | 2:39 | 2022-05-20 |  |
 | [Fragmentado](https://open.spotify.com/track/2rq3atuTm26XTjbnTDWtti) | [Nasac](https://open.spotify.com/artist/6g5b2tgMUMnb51tZ8Z3Tby), [Sadstation](https://open.spotify.com/artist/4OFUU6MkPNc2X96UJMlR0h) | [Fragmentado](https://open.spotify.com/album/0fOi6D7J5ySn7S3NbB3SQN) | 2:00 | 2022-05-20 |  |
 | [Game Over](https://open.spotify.com/track/3K4ob6HwtPzya2X1uAi4vs) | [Preto & Branco](https://open.spotify.com/artist/0gozYYUszYsIkCyzGAOM9d), [Dudu Pacceli](https://open.spotify.com/artist/5O6LBBltqS4jHn90iy85Bj) | [Game Over](https://open.spotify.com/album/4Zn8bqwMPMU8Aeose3mnJt) | 2:57 | 2022-05-20 |  |
+| [HAHAHA](https://open.spotify.com/track/7infbnz7sLNiqePr5l1dMO) | [Number Teddie](https://open.spotify.com/artist/18TympJ9X4CQ45GYy7sORT) | [PODERIA SER PIOR](https://open.spotify.com/album/5N0xGpXhbba4Io7PAU3MwK) | 2:30 | 2022-10-07 |  |
 | [Indecisão](https://open.spotify.com/track/3F1WYsocwVRRBg5z1So0Uj) | [K8TIE](https://open.spotify.com/artist/4E60gF2h5In3yPiP7actgA), [Najjuu](https://open.spotify.com/artist/44zNCSENkAVHJ5jZlmzMys) | [Indecisão](https://open.spotify.com/album/0Cxryz8Lzqe5Tnm0AwQ3En) | 2:38 | 2022-05-20 |  |
 | [Isso Não É um Desabafo](https://open.spotify.com/track/53jDwzRyOzxOncQGnraKcU) | [Zant](https://open.spotify.com/artist/0GVaM9LtM51CEGq6FJ3MC8), [Sadstation](https://open.spotify.com/artist/4OFUU6MkPNc2X96UJMlR0h) | [Isso \(Não\) É um Desabafo](https://open.spotify.com/album/1Te6WZEIRuqHR2eukOnmr4) | 2:43 | 2022-05-20 |  |
 | [Juro](https://open.spotify.com/track/46CGL339JEgS7LPv7zscpA) | [Augus7o](https://open.spotify.com/artist/78iJtzui4jnlK1KsDnlykz) | [Juro](https://open.spotify.com/album/007chL0LwceNlirR0nZVqO) | 3:39 | 2022-05-20 |  |
@@ -70,6 +71,7 @@
 | [MERCEDES](https://open.spotify.com/track/0cq8MDW1cDoCFUah8J9dzZ) | [Magyn](https://open.spotify.com/artist/4WQ90yZHNwvRHZSWCG5dpU) | [MERCEDES](https://open.spotify.com/album/4XTrNXx57PEHtRvQG9Zk3J) | 2:00 | 2022-07-15 |  |
 | [Meu Caos](https://open.spotify.com/track/0y2YZTZeGNwnYITMsXwZSw) | [Sadstation](https://open.spotify.com/artist/4OFUU6MkPNc2X96UJMlR0h), [Atlas Oficial](https://open.spotify.com/artist/43PE2zF3EaEl4yhXXdY3Og) | [Meu Caos](https://open.spotify.com/album/5AWgyZNiqRoK1WoRAW3ZXK) | 3:25 | 2022-05-20 |  |
 | [Monstro](https://open.spotify.com/track/0TGN193dpJ5dg9YOk1oCAR) | [Dudu](https://open.spotify.com/artist/5Ynf8bbQV9ICbK3vZoPxGF) | [Monstro](https://open.spotify.com/album/6ejBYCdgc2II7gwAmFKxnW) | 3:36 | 2022-05-20 |  |
+| [Movimento](https://open.spotify.com/track/58UHu0BkydzUIOcp1Gru3H) | [Konai](https://open.spotify.com/artist/12YpLBd0FvDYA0c4nsaxFp) | [Movimento](https://open.spotify.com/album/3CsfvJspB9VavWbHTdeB8f) | 2:53 | 2022-10-07 |  |
 | [Nunca Vaza](https://open.spotify.com/track/0vxAsQ83Uca0tTczrx257Q) | [Gabziim](https://open.spotify.com/artist/7BWtfkxYpBQaca6WNohCQ6) | [Nunca Vaza](https://open.spotify.com/album/18qlFy0abmSI3OzPvLRlep) | 2:29 | 2022-05-20 |  |
 | [Não sei o que você viu em mim](https://open.spotify.com/track/1YkJXJGTkKYgKlvdOkgkr0) | [Lil Chainz](https://open.spotify.com/artist/6LRVpC7lJ4IYrPNeAiylYB), [Kourah](https://open.spotify.com/artist/0ZZjUA7WDQGjBN416iSBae) | [Não sei o que você viu em mim](https://open.spotify.com/album/0yD3aNHrXCYFYUfuNjOIbm) | 2:16 | 2022-05-20 |  |
 | [Não É Papo de Amor](https://open.spotify.com/track/3JxYJnOrox7cNs1yv0JRZk) | [Tiago Mac](https://open.spotify.com/artist/3GM0VyM1n1qvk0v2PfXX4n), [Sant](https://open.spotify.com/artist/7IlBcKrGUBJ0NKdnbDde89), [4555](https://open.spotify.com/artist/2g8MdRUUgyYMiQyXgz15pa), [JXNV$](https://open.spotify.com/artist/2eYGPD8O1chWmQ92TvdtCW) | [Minha Alma Canta II](https://open.spotify.com/album/67iDr3vGh8OGgheIA6CkKS) | 2:42 | 2022-08-12 |  |
@@ -80,6 +82,7 @@
 | [Paralelo](https://open.spotify.com/track/57Fuyq4pqYjG9KNd6bMZkD) | [K o d a](https://open.spotify.com/artist/0d39uPZOBEBNEai4P6eKoC) | [Paralelo](https://open.spotify.com/album/47L7kWkSr4lbgFfnAdjgYd) | 3:26 | 2022-05-20 |  |
 | [Parede Amarela \- Acústico](https://open.spotify.com/track/2cPprs2kCMpmvTEEIaJAvD) | [Kunganii](https://open.spotify.com/artist/6Q52y6Y1JkSEMPnFSd5nlv) | [Parede Amarela \(Acústico\)](https://open.spotify.com/album/5224oKci3MZ3LO4VwvGSUV) | 2:25 | 2022-05-20 |  |
 | [Passarinho](https://open.spotify.com/track/5ngkflVDg5UyV92g8DGxlv) | [Sadstation](https://open.spotify.com/artist/4OFUU6MkPNc2X96UJMlR0h), [Nasac](https://open.spotify.com/artist/6g5b2tgMUMnb51tZ8Z3Tby) | [Passarinho](https://open.spotify.com/album/1QX6PyKlkF6XLW9BgTKZIU) | 2:08 | 2022-05-20 | 2022-07-09 |
+| [Pesadelo](https://open.spotify.com/track/2ixbPjCUhkNIQeT61ipuOY) | [Konai](https://open.spotify.com/artist/12YpLBd0FvDYA0c4nsaxFp), [DAY LIMNS](https://open.spotify.com/artist/1x1qM3ZqHhJOn11m42svnc) | [Pesadelo](https://open.spotify.com/album/2Zyy3SOLa8fX0bublLyqCs) | 2:57 | 2022-10-07 |  |
 | [Por Nós Dois](https://open.spotify.com/track/0vAa3jsBGC9u2orV5rJjxG) | [Hiosaki](https://open.spotify.com/artist/7wYvRV1aFfU9UlGDxoZQFY) | [Por Nós Dois](https://open.spotify.com/album/7FGoFdKxKxFjk4cYwY1bpL) | 2:58 | 2022-05-20 |  |
 | [pra quando estiver só](https://open.spotify.com/track/0B5WG8va94qV0y5U3jnyJr) | [Lou Garcia](https://open.spotify.com/artist/7l8ESevPECrqChwl3Bf7ov) | [pra quando estiver só](https://open.spotify.com/album/51Hq7RIJiVJQgOrGfsCd7Z) | 2:45 | 2022-05-20 |  |
 | [Preciso Falar](https://open.spotify.com/track/74l2FPYQCsldGvvtO5UsL5) | [Sadstation](https://open.spotify.com/artist/4OFUU6MkPNc2X96UJMlR0h), [Athos Oficial](https://open.spotify.com/artist/5TEdGAYYQaxWiF1x5vHlz0) | [Preciso Falar](https://open.spotify.com/album/3KaRX0aeT57YHJCPH9UxsU) | 2:25 | 2022-05-20 |  |

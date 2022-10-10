@@ -751,7 +751,7 @@
       ],
       "date_added": "2022-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-03",
       "duration_ms": 198986,
       "name": "Amour, Haine & Danger",
       "url": "https://open.spotify.com/track/73OIG7WFqOyfh0vRZCczu8"
@@ -2565,7 +2565,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-27",
+      "date_removed": null,
       "duration_ms": 202735,
       "name": "Cold Heart - PNAU Remix",
       "url": "https://open.spotify.com/track/6JIC3hbC28JZKZ8AlAqX8h"
@@ -2951,6 +2951,24 @@
       "duration_ms": 177789,
       "name": "Dark Side",
       "url": "https://open.spotify.com/track/6A8B1kJ9ZNHbl2uFPN6Wtm"
+    },
+    {
+      "album": {
+        "name": "DARWA",
+        "url": "https://open.spotify.com/album/1QdJahBdoj0zCFFiVAPwxV"
+      },
+      "artists": [
+        {
+          "name": "CASAWI",
+          "url": "https://open.spotify.com/artist/6bGhlJ3x8C3rbmp5gSOD1K"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-08",
+      "duration_ms": 187397,
+      "name": "DARWA",
+      "url": "https://open.spotify.com/track/2dgKsKDtH97Gw2yw7vP8zb"
     },
     {
       "album": {
@@ -7152,6 +7170,24 @@
     },
     {
       "album": {
+        "name": "Laisse tomber",
+        "url": "https://open.spotify.com/album/1eUu2t81Xp1S8HBjK0A97Z"
+      },
+      "artists": [
+        {
+          "name": "GAMS",
+          "url": "https://open.spotify.com/artist/4Uz9asdHUEM89qQwFGNRS2"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-08",
+      "duration_ms": 198367,
+      "name": "Laisse tomber",
+      "url": "https://open.spotify.com/track/2whrZu1OVT5c1QJerSO0Jr"
+    },
+    {
+      "album": {
         "name": "LAST CHRISTMAS",
         "url": "https://open.spotify.com/album/6egzU9NKfora01qaNbvwfZ"
       },
@@ -8175,7 +8211,7 @@
       ],
       "date_added": "2022-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-03",
       "duration_ms": 200279,
       "name": "Malpolis",
       "url": "https://open.spotify.com/track/3sgzxVe4NjuezbZ8CiPlLP"
@@ -8477,7 +8513,7 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-09",
       "duration_ms": 219626,
       "name": "Mauvais ordre",
       "url": "https://open.spotify.com/track/0H5JKQ7qQ5MBeRSZSieZsM"
@@ -11486,6 +11522,28 @@
     },
     {
       "album": {
+        "name": "Shevchenko",
+        "url": "https://open.spotify.com/album/3CC5AMEl3tnyuU0hPIBb6V"
+      },
+      "artists": [
+        {
+          "name": "REDVOLUTION",
+          "url": "https://open.spotify.com/artist/4hzO4p4VzL72ZFXF0YFYBn"
+        },
+        {
+          "name": "1PLIK\u00c9140",
+          "url": "https://open.spotify.com/artist/4Ue6MAZqz18NlaOQomRXLU"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-08",
+      "duration_ms": 200000,
+      "name": "Shevchenko",
+      "url": "https://open.spotify.com/track/3dzSxtuVrlDZkILfMVGXD9"
+    },
+    {
+      "album": {
         "name": "=",
         "url": "https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq"
       },
@@ -11968,6 +12026,24 @@
     },
     {
       "album": {
+        "name": "STAR WALKIN' (League of Legends Worlds Anthem)",
+        "url": "https://open.spotify.com/album/0aIy6J8M9yHTnjtRu81Nr9"
+      },
+      "artists": [
+        {
+          "name": "Lil Nas X",
+          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
+        }
+      ],
+      "date_added": "2022-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210575,
+      "name": "STAR WALKIN' (League of Legends Worlds Anthem)",
+      "url": "https://open.spotify.com/track/38T0tPVZHcPZyhtOcCP7pF"
+    },
+    {
+      "album": {
         "name": "Starlight",
         "url": "https://open.spotify.com/album/1WLS1NrOlbDIl760hVeeUi"
       },
@@ -12291,7 +12367,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-02",
+      "date_removed": null,
       "duration_ms": 240400,
       "name": "Sweater Weather",
       "url": "https://open.spotify.com/track/2QjOHCTQ1Jl3zawyYOpxh6"
@@ -13579,7 +13655,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-02",
+      "date_removed": null,
       "duration_ms": 176013,
       "name": "Wat Een Idee!?",
       "url": "https://open.spotify.com/track/5T6gL9FrOwD6bNYFsy4twf"
@@ -14461,7 +14537,7 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-09",
       "duration_ms": 204760,
       "name": "\u00c0 peu pr\u00e8s",
       "url": "https://open.spotify.com/track/4VpmtsVKIRfNlmrtaEnrQi"

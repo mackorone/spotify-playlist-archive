@@ -99,7 +99,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-01",
+      "date_removed": "2022-10-09",
       "duration_ms": 703946,
       "name": "Arica",
       "url": "https://open.spotify.com/track/5YWt5swsMPRm99XRCSY8U0"
@@ -117,7 +117,7 @@
       ],
       "date_added": "2022-06-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-15",
+      "date_removed": "2022-10-08",
       "duration_ms": 815613,
       "name": "Ascencion",
       "url": "https://open.spotify.com/track/4byb8gZffMTaIZD4xl0PfQ"
@@ -435,7 +435,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 802293,
       "name": "Emerald Runner",
       "url": "https://open.spotify.com/track/1MaSYb6iRmbCOdWfphWMcX"
@@ -529,7 +529,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-02",
+      "date_removed": "2022-10-08",
       "duration_ms": 385600,
       "name": "Havana Man",
       "url": "https://open.spotify.com/track/7KIaxcmI9QG7veesnjLYyZ"
@@ -587,7 +587,7 @@
       ],
       "date_added": "2022-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-09",
       "duration_ms": 400306,
       "name": "In The Summer",
       "url": "https://open.spotify.com/track/4EgfQetPMfcNqM80X9VWRi"
@@ -609,6 +609,28 @@
       "duration_ms": 448026,
       "name": "Innocencia - Se Aparace La Muerte Inocentmente Por La Tarde",
       "url": "https://open.spotify.com/track/5QqUqGPrxtgjT6AEWYJu70"
+    },
+    {
+      "album": {
+        "name": "No Man's Land",
+        "url": "https://open.spotify.com/album/3tK0ZIMXzEbme2OQK1bpP0"
+      },
+      "artists": [
+        {
+          "name": "Terry Riley",
+          "url": "https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r"
+        },
+        {
+          "name": "Krishna Bhatt",
+          "url": "https://open.spotify.com/artist/3x6qJB8eMJybBLKmqKKVtl"
+        }
+      ],
+      "date_added": "2022-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 433333,
+      "name": "Jaipur Local",
+      "url": "https://open.spotify.com/track/4UuyvMHJ1NIPahfXgZqKV9"
     },
     {
       "album": {
@@ -649,7 +671,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-02",
+      "date_removed": null,
       "duration_ms": 1441491,
       "name": "Keyboard Study 2 - Remastered 2021",
       "url": "https://open.spotify.com/track/58qqLWy7sAix9wTtS8kEIb"
@@ -667,7 +689,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-09",
       "duration_ms": 365306,
       "name": "La Muerte en Medias Caladas Negras",
       "url": "https://open.spotify.com/track/5JA6S6rXT6GkSu64nSeqtg"
@@ -751,7 +773,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-09",
       "duration_ms": 102076,
       "name": "Long Bus Ride",
       "url": "https://open.spotify.com/track/2u3qI1WiuzNfu7pgbCvo6L"
@@ -971,7 +993,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-09",
       "duration_ms": 574081,
       "name": "Part II - Live 1974",
       "url": "https://open.spotify.com/track/56f4vwvweMjYP1AKRxtKy7"
@@ -1079,7 +1101,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-02",
+      "date_removed": null,
       "duration_ms": 273746,
       "name": "Quijote",
       "url": "https://open.spotify.com/track/52wOLvktzmhJQACPJbdoxE"
@@ -1233,7 +1255,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-01",
+      "date_removed": null,
       "duration_ms": 196066,
       "name": "Slow Melody In Bhairavi",
       "url": "https://open.spotify.com/track/0ZOJ0j9G12zCG4dSGKNgOp"
@@ -1433,7 +1455,7 @@
       ],
       "date_added": "2022-06-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-31",
+      "date_removed": null,
       "duration_ms": 1000000,
       "name": "The Harp of New Albion: III. Riding the Westerleys",
       "url": "https://open.spotify.com/track/5Wk6E15Rgb1MDIeLneuwK4"

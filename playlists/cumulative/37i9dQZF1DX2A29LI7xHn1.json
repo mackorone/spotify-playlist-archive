@@ -543,7 +543,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 148030,
       "name": "Bad Thing",
       "url": "https://open.spotify.com/track/6MxRsNdqWgJDiXfSFGlelp"
@@ -832,6 +832,24 @@
     },
     {
       "album": {
+        "name": "777",
+        "url": "https://open.spotify.com/album/4vjE6Rgl5z6K2PhrAtIA7O"
+      },
+      "artists": [
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172540,
+      "name": "Big Energy",
+      "url": "https://open.spotify.com/track/4pi1G1x8tl9VfdD9bL3maT"
+    },
+    {
+      "album": {
         "name": "Big Energy",
         "url": "https://open.spotify.com/album/58MbYehGOl5NAOdfWY5aHa"
       },
@@ -997,6 +1015,24 @@
       "duration_ms": 146666,
       "name": "Booty (feat. Latto)",
       "url": "https://open.spotify.com/track/3Ca24oa8tofPtGYuULHXHI"
+    },
+    {
+      "album": {
+        "name": "Booty Dancer",
+        "url": "https://open.spotify.com/album/5fG5ECAPTouiAMqHiIjHrP"
+      },
+      "artists": [
+        {
+          "name": "Tyga",
+          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140982,
+      "name": "Booty Dancer",
+      "url": "https://open.spotify.com/track/4qdHoLbbIDaaWytfsBK62p"
     },
     {
       "album": {
@@ -1531,10 +1567,28 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 145956,
       "name": "Dangerous",
       "url": "https://open.spotify.com/track/107u1om4m4zTfzWx4BtW6R"
+    },
+    {
+      "album": {
+        "name": "Boys Don't Cry",
+        "url": "https://open.spotify.com/album/4LAeqF9RdXg4a21kuEvfc4"
+      },
+      "artists": [
+        {
+          "name": "Toosii",
+          "url": "https://open.spotify.com/artist/6BH1xcDkwbbyrLMUKECsW1"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132538,
+      "name": "Date Night",
+      "url": "https://open.spotify.com/track/1UzEMXvcbY5vT5NTAEyO7T"
     },
     {
       "album": {
@@ -2833,7 +2887,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-24",
+      "date_removed": null,
       "duration_ms": 137107,
       "name": "Her",
       "url": "https://open.spotify.com/track/5hHvFrMnwic82WwRLr4WY0"
@@ -3785,7 +3839,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 204000,
       "name": "LORD FORGIVE ME",
       "url": "https://open.spotify.com/track/3PnDz7t38mzVZaImRrSknW"
@@ -4161,6 +4215,32 @@
       "duration_ms": 191213,
       "name": "My Fault",
       "url": "https://open.spotify.com/track/0IZPY0PujmPeXyhYFngvsS"
+    },
+    {
+      "album": {
+        "name": "My Friends (feat. Lil Durk)",
+        "url": "https://open.spotify.com/album/2clsCCVAKCSc7PcwJ7uFLW"
+      },
+      "artists": [
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+        },
+        {
+          "name": "Mustard",
+          "url": "https://open.spotify.com/artist/0YinUQ50QDB7ZxSCLyQ40k"
+        },
+        {
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158167,
+      "name": "My Friends (feat. Lil Durk)",
+      "url": "https://open.spotify.com/track/0wTTf3msjDJ8NcZGTmQJQV"
     },
     {
       "album": {
@@ -4873,6 +4953,24 @@
     {
       "album": {
         "name": "Paper",
+        "url": "https://open.spotify.com/album/5hMEDlgqvG64nHcdJQDpja"
+      },
+      "artists": [
+        {
+          "name": "ARDN",
+          "url": "https://open.spotify.com/artist/5jxe5kzLkm5ICEy03BcLwo"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187527,
+      "name": "Paper",
+      "url": "https://open.spotify.com/track/0tpq1osvGx5t0MXyKRQiID"
+    },
+    {
+      "album": {
+        "name": "Paper",
         "url": "https://open.spotify.com/album/1rNaHjqEp2w9z2Pryotv4r"
       },
       "artists": [
@@ -4883,7 +4981,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 187527,
       "name": "Paper",
       "url": "https://open.spotify.com/track/58njyEW0iRoGKUy9xyPukJ"
@@ -5073,7 +5171,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 222642,
       "name": "Poison (feat. Lil Wayne)",
       "url": "https://open.spotify.com/track/1hs54MGy1J69I52GvzsrbB"
@@ -5619,7 +5717,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 193243,
       "name": "Sailor On The Moon (feat. IDK & KayCyy)",
       "url": "https://open.spotify.com/track/0O4wHincVaptKiV2Rv7LhC"
@@ -6146,6 +6244,24 @@
     },
     {
       "album": {
+        "name": "STAR WALKIN' (League of Legends Worlds Anthem)",
+        "url": "https://open.spotify.com/album/0aIy6J8M9yHTnjtRu81Nr9"
+      },
+      "artists": [
+        {
+          "name": "Lil Nas X",
+          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210575,
+      "name": "STAR WALKIN' (League of Legends Worlds Anthem)",
+      "url": "https://open.spotify.com/track/38T0tPVZHcPZyhtOcCP7pF"
+    },
+    {
+      "album": {
         "name": "Starlight",
         "url": "https://open.spotify.com/album/1WLS1NrOlbDIl760hVeeUi"
       },
@@ -6429,7 +6545,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 352613,
       "name": "Survivors Guilt",
       "url": "https://open.spotify.com/track/5cEd8xWXyqhpuCDUXQOyE3"
@@ -6610,6 +6726,28 @@
     },
     {
       "album": {
+        "name": "Tomorrow 2 (with Cardi B)",
+        "url": "https://open.spotify.com/album/5o1xUBd8aM7qFhjlBXiIpb"
+      },
+      "artists": [
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        },
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209811,
+      "name": "Tomorrow 2 (with Cardi B)",
+      "url": "https://open.spotify.com/track/7KXVIAuw3m2hxZanrpSXS3"
+    },
+    {
+      "album": {
         "name": "TOUGH SKIN",
         "url": "https://open.spotify.com/album/0hbJNPVO0hMzpJcIf5lioa"
       },
@@ -6621,7 +6759,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 168256,
       "name": "TOUGH SKIN",
       "url": "https://open.spotify.com/track/1KYxtEzzTOVHceP30W0QV7"
@@ -6849,7 +6987,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 268878,
       "name": "Universal Love (Feat. Chris Brown, Chl\u00f6e & Cassie)",
       "url": "https://open.spotify.com/track/50sW2uaLMBRDQV9hNjhA2q"
@@ -6915,6 +7053,24 @@
       "duration_ms": 177835,
       "name": "V12 (feat. Lil Uzi Vert)",
       "url": "https://open.spotify.com/track/4ZUNw5tDBZTOqzPEVIYyOy"
+    },
+    {
+      "album": {
+        "name": "ELVIS (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/74g0V2gxEA5MCSaivAwZyb"
+      },
+      "artists": [
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183026,
+      "name": "Vegas",
+      "url": "https://open.spotify.com/track/3FWwi61OP7vXEikwqhZCPZ"
     },
     {
       "album": {
@@ -7220,6 +7376,24 @@
     },
     {
       "album": {
+        "name": "Why Did I",
+        "url": "https://open.spotify.com/album/3tsuymG1fHwb1EdhiOVOM5"
+      },
+      "artists": [
+        {
+          "name": "Tory Lanez",
+          "url": "https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145918,
+      "name": "Why Did I",
+      "url": "https://open.spotify.com/track/1t8ELLu3PQ2Lvd3mghcmM9"
+    },
+    {
+      "album": {
         "name": "Willing To Trust",
         "url": "https://open.spotify.com/album/2JjCiFis8TPrbTGCoK7T61"
       },
@@ -7257,7 +7431,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 164101,
       "name": "Windows Down",
       "url": "https://open.spotify.com/track/3s4xbg1cTfkfmJF4J8njSx"

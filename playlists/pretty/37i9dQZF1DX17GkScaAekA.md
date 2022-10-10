@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX17GkScaAekA.md) - [plain]
 
 > quiet hallways, dusty sunlight, cosy sweaters, and hot tea
 
-[Spotify](https://open.spotify.com/user/spotify) - 406,034 likes - 54 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 411,904 likes - 54 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX17GkScaAekA.md) - [plain]
 | 13 | [3 Pieces for cello and piano: No\. 1\. Modere](https://open.spotify.com/track/5a0nC0tGDJBpGMZu3PeekY) | [Nadia Boulanger](https://open.spotify.com/artist/1vfC2bld90kx966JTCSwf7), [Nicolas Altstaedt](https://open.spotify.com/artist/5W3AiBPc48fhMSqd2T7ypV), [José Gallardo](https://open.spotify.com/artist/3XGSN1ohby5TBnIN0kbH2E) | [Altstaedt, Nicolas \- French Cello Sonatas](https://open.spotify.com/album/53JzBLhG5laCLndqWOC2at) | 2:37 |
 | 14 | [Symphony No\. 2 in C Major, Op\. 61: III\. Langsam](https://open.spotify.com/track/6Ngg4wrCqwwIT5HdjtAKYo) | [Robert Schumann](https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ), [Piano Duo Takahashi \| Lehmann](https://open.spotify.com/artist/5EZD1UM439F1apf62m4rWw) | [Originals and Beyond \(Original Transcriptions for Piano Duo\)](https://open.spotify.com/album/7pIL3Kf3Z8NloicYbBPKwz) | 10:06 |
 | 15 | [Goldberg Variations, BWV 988: Aria](https://open.spotify.com/track/5bu9A6uphPWg39RC3ZKeku) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Glenn Gould](https://open.spotify.com/artist/13dkPjqmbcchm8cXjEJQeP) | [Bach: The Goldberg Variations, BWV 988 \(1981 Gould Remaster\)](https://open.spotify.com/album/1aCpHSQE5ghxibsQ5gkBe0) | 3:04 |
-| 16 | [Truman Sleeps \- From “The Truman Show” / Short Version](https://open.spotify.com/track/3x5paczEO2SQyOVAcHpLGa) | [Philip Glass](https://open.spotify.com/artist/69lxxQvsfAIoQbB20bEPFC), [Valentina Lisitsa](https://open.spotify.com/artist/0gOrXuu1vCBXe3pwTyb5Ca) | [Valentina Lisitsa Plays Philip Glass](https://open.spotify.com/album/5sB0xqZBHO9JNenKE3TFmK) | 2:40 |
+| 16 | [The Truman Show: Truman Sleeps \- Short Version](https://open.spotify.com/track/3x5paczEO2SQyOVAcHpLGa) | [Philip Glass](https://open.spotify.com/artist/69lxxQvsfAIoQbB20bEPFC), [Valentina Lisitsa](https://open.spotify.com/artist/0gOrXuu1vCBXe3pwTyb5Ca) | [Valentina Lisitsa Plays Philip Glass](https://open.spotify.com/album/5sB0xqZBHO9JNenKE3TFmK) | 2:40 |
 | 17 | [Nisi Dominus, RV 608: 4\. Cum dederit dilectis suis \(Arr\. Cello\)](https://open.spotify.com/track/7oGaoWA4jzX48NmXZ4tWOd) | [Antonio Vivaldi](https://open.spotify.com/artist/2QOIawHpSlOwXDvSqQ9YJR), [Harriet Krijgh](https://open.spotify.com/artist/5V9Qpd9ZLs4gcrADy24ABP), [Amsterdam Sinfonietta](https://open.spotify.com/artist/2qx7K1T3gw9J0JTQnaGnBD), [Candida Thompson](https://open.spotify.com/artist/53dqNaesiJ52bYl36DZuxM) | [Vivaldi](https://open.spotify.com/album/5L54ihl5TWTP8I0nYsnNbN) | 5:14 |
 | 18 | [On the Nature of Daylight](https://open.spotify.com/track/56oReVXIfUO9xkX7pHmEU0) | [Max Richter](https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW), [Louisa Fuller](https://open.spotify.com/artist/557AjoqV9wVpa8vO2k4wuJ), [Natalia Bonner](https://open.spotify.com/artist/4d6eKLLJbe2ZeiL07Du7vB), [John Metcalfe](https://open.spotify.com/artist/6s8AUvcmf2fp0Kh7PctPnd), [Philip Sheppard](https://open.spotify.com/artist/6qzi6mPoJU4cBlO76U1Il1), [Chris Worsey](https://open.spotify.com/artist/33TpuAICGC2gekoZZDDZhE) | [The Blue Notebooks \(15 Years\)](https://open.spotify.com/album/1rTHmwhZwhhvivx3pdXXdo) | 6:11 |
 | 19 | [Merry\-Go\-Round of Life \- from 'Howl's Moving Castle'](https://open.spotify.com/track/39uLYYZytVUwcjgeYLI409) | [Joe Hisaishi](https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB) | [FREEDOM PIANO STORIES 4](https://open.spotify.com/album/5y3QOvNMlvamEs4rzua8JV) | 5:11 |
@@ -63,4 +63,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX17GkScaAekA.md) - [plain]
 | 53 | [Music for a While \(from Oedipus, Z\. 583\)](https://open.spotify.com/track/2gqSse5NXNCpk898aExGqT) | [Henry Purcell](https://open.spotify.com/artist/3tMLo1k3iUo82coMLWXzxq), [Martin Fröst](https://open.spotify.com/artist/3HmzM7c3S5iM1jBG3gl0FF) | [Night Passages](https://open.spotify.com/album/3rtPQEquVFQAOUntfiPMvC) | 4:10 |
 | 54 | [Nocturnal](https://open.spotify.com/track/7BpDcPsVqfMgHdVglLK3Kt) | [Joep Beving](https://open.spotify.com/artist/2VKfXEWzhUi9siHBDTI02Y) | [Nocturnal](https://open.spotify.com/album/2gnADpRKbG8Jq0Vc5ikLKK) | 5:12 |
 
-Snapshot ID: `MTY2MzI1NDc3MiwwMDAwMDAwMGRmY2I4M2I2NDU3YjhhNTEyZjY1OWE5MzA4NTdjNjAz`
+Snapshot ID: `MTY2NDc5MTcyNiwwMDAwMDAwMGU4Y2Q3ODA5NDM2MTljNDJhOWRkYWI1MTE0ZTA1ZTM2`

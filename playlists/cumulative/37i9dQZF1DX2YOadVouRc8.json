@@ -710,6 +710,28 @@
     },
     {
       "album": {
+        "name": "Fight For You",
+        "url": "https://open.spotify.com/album/6c9lJuYxGTn9u7WEYimS67"
+      },
+      "artists": [
+        {
+          "name": "Seun Kuti",
+          "url": "https://open.spotify.com/artist/1GQur7dDvAWhKT9u9YwBJZ"
+        },
+        {
+          "name": "Naomi Achu",
+          "url": "https://open.spotify.com/artist/4Q8E3fomRdmnzlhOP14npl"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208896,
+      "name": "Fight For You",
+      "url": "https://open.spotify.com/track/486xqw5vpm02s7I4ft7p3Q"
+    },
+    {
+      "album": {
         "name": "Follow You",
         "url": "https://open.spotify.com/album/5nf9tUvabTiuSMxGg93SF4"
       },
@@ -845,7 +867,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-06",
       "duration_ms": 192043,
       "name": "Imagine",
       "url": "https://open.spotify.com/track/3W9O4vJXIbD4CwfJJg7uoO"
@@ -1403,7 +1425,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-04",
       "duration_ms": 183993,
       "name": "Pulling Up",
       "url": "https://open.spotify.com/track/2GHj2JqqPPByrkduQEQBYw"
@@ -1665,6 +1687,28 @@
       "duration_ms": 166517,
       "name": "Streets",
       "url": "https://open.spotify.com/track/17EfS2HABo1TrvP0IeXWZ4"
+    },
+    {
+      "album": {
+        "name": "Spring to Summer",
+        "url": "https://open.spotify.com/album/3mmkqM9wHBmzD2A4UtzDuo"
+      },
+      "artists": [
+        {
+          "name": "Mopao Mumu",
+          "url": "https://open.spotify.com/artist/2FGcCdhsLNAlPS1pCpBFf3"
+        },
+        {
+          "name": "Lou Phelps",
+          "url": "https://open.spotify.com/artist/74EhQOxqIuZSj1wsMLQabN"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254326,
+      "name": "Suga Candy",
+      "url": "https://open.spotify.com/track/3I4vcrlm9FLM2IT0xTuef8"
     },
     {
       "album": {

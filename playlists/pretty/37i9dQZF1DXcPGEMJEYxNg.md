@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcPGEMJEYxNg.md) - [plain]
 
 > In partnership with <a href="https://goldhouse.org/">Gold House</a>, we are excited to announce our first Gold House Future Music Guild artists: Anik Khan, Ruby Ibarra & thuy.
 
-[Spotify](https://open.spotify.com/user/spotify) - 110,425 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 110,375 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcPGEMJEYxNg.md) - [plain]
 | 39 | [once in a moon](https://open.spotify.com/track/4ZlHqeXbItX1qC86aFUax1) | [Sarah Kang](https://open.spotify.com/artist/0MBNzfGHTiPYag4DupDXUj) | [once in a moon](https://open.spotify.com/album/0P6uxMt91VW5taeFKNx963) | 4:05 |
 | 40 | [Lullaby](https://open.spotify.com/track/6adJRoU4YpwkbwNo9ZLUB9) | [yetep](https://open.spotify.com/artist/20lmiQy576CSBPz0VJHmnC), [David Frank](https://open.spotify.com/artist/1DTCyYmKxKEv37N97OTczW) | [Lullaby](https://open.spotify.com/album/6npvHapDZNvEZHWTLRiDc0) | 3:22 |
 | 41 | [Dancing In The Wild](https://open.spotify.com/track/7gNW84YFTWpogo5rKMR0UW) | [Su Lee](https://open.spotify.com/artist/3deduluMry0ZIGWF673gfK) | [Dancing In The Wild](https://open.spotify.com/album/4sxTM1Xna0jW2Fq2vRNLR0) | 3:33 |
-| 42 | [Anyone Else But You](https://open.spotify.com/track/7dYof5SM0zM3MnraaF53qj) | [Anthony de la Torre](https://open.spotify.com/artist/6dxbsVBLykNgOpP0DxjMR4), [Lana Condor](https://open.spotify.com/artist/4KdW7TLVWFkxlsCBQ0VTRc) | [Anyone Else But You](https://open.spotify.com/album/1d2tQ6FEL3ZYGLZQTOYVXM) | 2:49 |
+| 42 | [Anyone Else But You](https://open.spotify.com/track/4IBsj7ouiYgkKhaJnBCTXE) | [Anthony de la Torre](https://open.spotify.com/artist/6dxbsVBLykNgOpP0DxjMR4), [Lana Condor](https://open.spotify.com/artist/4KdW7TLVWFkxlsCBQ0VTRc) | [Anyone Else But You](https://open.spotify.com/album/4qT57u3gSvIXaWGtInIp60) | 2:49 |
 | 43 | [24](https://open.spotify.com/track/5nsMKSAJwcr1pA9I6PW429) | [sundial](https://open.spotify.com/artist/1SOubzv0uhrziEXbNLMUw9) | [24](https://open.spotify.com/album/3X4pg5g6RIl0Le8RSgiwfJ) | 2:13 |
 | 44 | [Strangers](https://open.spotify.com/track/16k7sLX58uNRKuueVzG6jy) | [Audrey Mika](https://open.spotify.com/artist/3JDG63cSaK3xgDnB2H55Xp) | [Strangers](https://open.spotify.com/album/6x0uRAJjOAx8BAC60QQHfj) | 2:48 |
 | 45 | [chances](https://open.spotify.com/track/3PPD1wg591kQnsws16mlkS) | [thuy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a), [DCMBR](https://open.spotify.com/artist/6sjYoprgk0hVjBA77kIXUr) | [i hope u see this](https://open.spotify.com/album/2nYJj90btoAVA4UE0GWz8P) | 2:47 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcPGEMJEYxNg.md) - [plain]
 | 49 | [February Song](https://open.spotify.com/track/69fLVwZ9rQImSXMJSwYb39) | [Melissa Polinar](https://open.spotify.com/artist/2O6S01fSY6YHfZT6qLAgxG), [John Splithoff](https://open.spotify.com/artist/7A2x4Urpc4VKF1pb7qnNqD) | [February Song](https://open.spotify.com/album/3iNMX5Rjd4IS8bsl8NrQo3) | 3:20 |
 | 50 | [OMG](https://open.spotify.com/track/1nLtR8vhySvat85DR0W1Zt) | [Annalé](https://open.spotify.com/artist/7A3a8XrIxL8NZgqaKlnPrW) | [OMG](https://open.spotify.com/album/7wpAiiFQAADL1pLwH0iCf8) | 2:43 |
 
-Snapshot ID: `MTY2MDU4MDMwOCwwMDAwMDAwMDE3YzU3ODk4OTFiZTNjMzIyOGQ5OTc4ZWMwZWNiNTUz`
+Snapshot ID: `MTY2MDU4MDMwOCwwMDAwMDAwMGNiOTBjOWY1ZjRjMzUzNzUwMTZiZGE1ZDFjMjBhNWUz`

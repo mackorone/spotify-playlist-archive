@@ -4,7 +4,7 @@
 
 > Die beste in Afrikaanse Hip Hop Cover: <a href="https://open.spotify.com/artist/2zzOTg1SHx5vuqgcexJRxA?si=w8EU1cUrSMGlI2MssXYRjA">Jack Parow</a>
 
-50 songs - 2 hr 48 min - not published yet
+50 songs - 2 hr 48 min - [published](https://open.spotify.com/playlist/2L0hHi2CI7ZbUGqYTWQUQ1)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -37,7 +37,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-29",
+      "date_removed": "2022-10-09",
       "duration_ms": 965493,
       "name": "1970 Performance",
       "url": "https://open.spotify.com/track/46TXc9N0vQaV0tzYBsLRXS"
@@ -139,7 +139,7 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 480498,
       "name": "Alchemilla",
       "url": "https://open.spotify.com/track/1i8eXEIk8cNAVpNSemiMub"
@@ -165,7 +165,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-02",
+      "date_removed": null,
       "duration_ms": 412294,
       "name": "All Creatures Get It",
       "url": "https://open.spotify.com/track/175dH359woZbiN6qTMQdwR"
@@ -227,7 +227,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-22",
+      "date_removed": null,
       "duration_ms": 180040,
       "name": "Body Stories",
       "url": "https://open.spotify.com/track/7uICRy0IYUKeYQjZojQ2UA"
@@ -311,7 +311,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-01",
+      "date_removed": "2022-10-09",
       "duration_ms": 160240,
       "name": "Cows, Cows, Cows!",
       "url": "https://open.spotify.com/track/4vvCbnChsEcrbNFjfjaj94"
@@ -419,7 +419,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-01",
+      "date_removed": null,
       "duration_ms": 145040,
       "name": "Ghosting",
       "url": "https://open.spotify.com/track/4zpP00UCCZsYs9DkUHQkjx"
@@ -499,7 +499,7 @@
       ],
       "date_added": "2022-06-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-02",
+      "date_removed": null,
       "duration_ms": 811323,
       "name": "How We Got Here",
       "url": "https://open.spotify.com/track/0db0kwA4hfvlXVIBiXbIFK"
@@ -535,7 +535,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-30",
+      "date_removed": "2022-10-06",
       "duration_ms": 563373,
       "name": "III Of IV",
       "url": "https://open.spotify.com/track/5v2R74iTgntgSFm1kYS9d1"
@@ -605,7 +605,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-22",
+      "date_removed": "2022-10-09",
       "duration_ms": 199991,
       "name": "Information National Forest",
       "url": "https://open.spotify.com/track/0qaoSyRrXkLz7H2SBMmpvh"
@@ -693,7 +693,7 @@
       ],
       "date_added": "2022-09-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-01",
+      "date_removed": "2022-10-06",
       "duration_ms": 1950360,
       "name": "Mewsack",
       "url": "https://open.spotify.com/track/1eJqMFjdLq3EYfymBW0uVm"
@@ -711,7 +711,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-23",
+      "date_removed": "2022-10-07",
       "duration_ms": 2018160,
       "name": "Mind Bog",
       "url": "https://open.spotify.com/track/3kZm6sinhvCCvLE77gYa5l"
@@ -765,7 +765,7 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-30",
+      "date_removed": "2022-10-08",
       "duration_ms": 1126426,
       "name": "Mnemonics IV",
       "url": "https://open.spotify.com/track/6YxdNQt2UXPEslcoZlQIbJ"
@@ -863,7 +863,7 @@
       ],
       "date_added": "2022-06-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-06",
+      "date_removed": "2022-10-09",
       "duration_ms": 1059960,
       "name": "No Mo",
       "url": "https://open.spotify.com/track/4RmTpdN9MWyfGRhRiYoDkh"
@@ -881,7 +881,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 1159800,
       "name": "Once again / Buchla piece",
       "url": "https://open.spotify.com/track/7aYvl8UYWp9SynkYBzGb22"
@@ -1037,10 +1037,28 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 223960,
       "name": "Reverberations",
       "url": "https://open.spotify.com/track/6QhWeoGPAlrNOhnyhmQyLF"
+    },
+    {
+      "album": {
+        "name": "Reverberations: Tape & Electronic Music 1961-1970",
+        "url": "https://open.spotify.com/album/4uzsVWdvmqCLjH60WkTMoQ"
+      },
+      "artists": [
+        {
+          "name": "Pauline Oliveros",
+          "url": "https://open.spotify.com/artist/27RypxD9VhgrvCg9QePTLi"
+        }
+      ],
+      "date_added": "2022-10-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-05",
+      "duration_ms": 575280,
+      "name": "Ringing the Mods 2 Tails",
+      "url": "https://open.spotify.com/track/76k24sDZMcQaAkgBinkllo"
     },
     {
       "album": {
@@ -1055,7 +1073,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-09",
       "duration_ms": 156986,
       "name": "River of Folk Dance",
       "url": "https://open.spotify.com/track/24fiipMerltXpOy7M51hDF"
@@ -1081,7 +1099,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-05",
       "duration_ms": 284673,
       "name": "Room At the Inn",
       "url": "https://open.spotify.com/track/6ngAUMaLLjcje2iU17j4Wp"
@@ -1137,7 +1155,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-22",
+      "date_removed": "2022-10-09",
       "duration_ms": 245384,
       "name": "Several More Happened",
       "url": "https://open.spotify.com/track/14KI3MCgh7scFAQkA5aNBW"
@@ -1155,7 +1173,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-29",
+      "date_removed": "2022-10-07",
       "duration_ms": 818825,
       "name": "SILENCE",
       "url": "https://open.spotify.com/track/49fyeNpsMltrcGYsZBBskd"
@@ -1287,7 +1305,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-01",
+      "date_removed": null,
       "duration_ms": 1651080,
       "name": "Tara's Room",
       "url": "https://open.spotify.com/track/2BcRnZTZbFmvEBSDoBc8z4"
@@ -1305,7 +1323,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-29",
+      "date_removed": "2022-10-07",
       "duration_ms": 1377840,
       "name": "Team and Desecrations Improvisation",
       "url": "https://open.spotify.com/track/3cRqpTWpQ0vm7kpix29RZ3"
@@ -1433,7 +1451,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-07",
       "duration_ms": 1031005,
       "name": "The Tuning Meditation",
       "url": "https://open.spotify.com/track/7og45P78QTfoA6ipqhnFAt"
@@ -1607,7 +1625,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-05",
       "duration_ms": 1099118,
       "name": "Tremolo No. 6 (Nucleic Chains)",
       "url": "https://open.spotify.com/track/3x4am2JAFIwq5m8PAeYjvV"
@@ -1703,7 +1721,7 @@
       ],
       "date_added": "2022-09-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-02",
+      "date_removed": null,
       "duration_ms": 883773,
       "name": "V of IV",
       "url": "https://open.spotify.com/track/6yE5D3jo9gEtP1yA2gP5hl"
@@ -1791,7 +1809,7 @@
       ],
       "date_added": "2022-08-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-12",
+      "date_removed": "2022-10-08",
       "duration_ms": 889547,
       "name": "We Are Still Thinking About The Title",
       "url": "https://open.spotify.com/track/0KxNQpJuUASL2crmvIHqX4"
@@ -1821,7 +1839,7 @@
       ],
       "date_added": "2022-09-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-22",
+      "date_removed": null,
       "duration_ms": 301173,
       "name": "Web Doppelganger",
       "url": "https://open.spotify.com/track/1GG18hW2tOOEEMlVjvOvil"

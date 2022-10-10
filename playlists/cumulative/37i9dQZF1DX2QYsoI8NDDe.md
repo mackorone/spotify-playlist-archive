@@ -4,7 +4,7 @@
 
 > ¡Celebrando a los mujerones con sangre mexicana! Cover: Majo Aguilar
 
-208 songs - 11 hr 57 min - [published](https://open.spotify.com/playlist/7jJsKj2LL4QpeGJ8HwvgK2)
+209 songs - 12 hr 1 min - [published](https://open.spotify.com/playlist/7jJsKj2LL4QpeGJ8HwvgK2)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,7 +38,7 @@
 | [Cuando Caiga la Noche](https://open.spotify.com/track/15mqnAeCOQXcMB3u48RIin) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Cuando Caiga la Noche](https://open.spotify.com/album/366Q6rUOSrYDXjrDiuL1lU) | 3:21 | 2022-04-01 | 2022-08-04 |
 | [Cuando Me Importabas](https://open.spotify.com/track/0ihv6gQs9XoIr7me3M9sCy) | [Marián Oviedo](https://open.spotify.com/artist/2hZUx50u5WartzUyQcEGci) | [Cuando Me Importabas](https://open.spotify.com/album/1yEZEZ575OrXSneXTDDsWD) | 3:12 | 2022-02-18 | 2022-07-26 |
 | [Cucurrucucú Paloma](https://open.spotify.com/track/1C0sa4oOureltY5aJYCXW0) | [Lupita Infante](https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ) | [Cucurrucucú Paloma](https://open.spotify.com/album/3z8gkipgvNxjNgu0UZ8tf6) | 3:10 | 2022-01-07 | 2022-04-21 |
-| [De Mi Enamórate](https://open.spotify.com/track/7LHfwnID8ytzF5KsGr02MJ) | [Daniela Romo](https://open.spotify.com/artist/6gvh8pQI316iafbHiT7B3y) | [Celebridades\- Daniela Romo](https://open.spotify.com/album/13HtNoDUSIMopEbZl087rR) | 3:38 | 2022-01-07 |  |
+| [De Mi Enamórate](https://open.spotify.com/track/7LHfwnID8ytzF5KsGr02MJ) | [Daniela Romo](https://open.spotify.com/artist/6gvh8pQI316iafbHiT7B3y) | [Celebridades\- Daniela Romo](https://open.spotify.com/album/13HtNoDUSIMopEbZl087rR) | 3:38 | 2022-01-07 | 2022-10-09 |
 | [De Ti No Lo Esperaba](https://open.spotify.com/track/6JMJKfwi2UiDsCvAlaOH4x) | [Janeth Valenzuela](https://open.spotify.com/artist/4fqTtvwo9kLosNr5VPnx1G) | [De Ti No Lo Esperaba](https://open.spotify.com/album/5WWN1xJb84SCDRx3kll6E0) | 3:13 | 2022-01-07 | 2022-01-22 |
 | [Desaparecer](https://open.spotify.com/track/2nhIWTReHbwWJQaB0AJ5lh) | [Sandra Echeverria](https://open.spotify.com/artist/0LfJXLNpLGZtn4OAki9W31) | [Desaparecer](https://open.spotify.com/album/6uf6xnnBVS6MDayHKeYx0E) | 2:46 | 2022-04-01 | 2022-07-09 |
 | [El Cofrecito](https://open.spotify.com/track/28EgoxjaUhr9mFZRhjIUTL) | [Irene del Rosario](https://open.spotify.com/artist/280pdvUx6toxxX9M8z2ZFN) | [Alma De Rancho](https://open.spotify.com/album/3m3YJeynoSZ6MM7OdN3jAt) | 2:34 | 2022-01-07 | 2022-04-21 |
@@ -204,6 +204,7 @@
 | [Ya Es Muy Tarde](https://open.spotify.com/track/50U0SJ2LQlWFCpbVKY4LMn) | [Janely Rosa](https://open.spotify.com/artist/2dRuTJ4s1SlwmiPpi5uhQF) | [Ya Es Muy Tarde](https://open.spotify.com/album/1MqYSaLaFHmTfXfg3IdQNc) | 3:07 | 2022-01-07 | 2022-01-22 |
 | [Ya Lo Sé](https://open.spotify.com/track/1Squ9MGqzmYZ2u0KyKU5YA) | [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu) | [La Gran Señora](https://open.spotify.com/album/78I27AxTxuvAEWRfQLfcma) | 3:21 | 2022-01-21 | 2022-07-10 |
 | [Ya Lo Sé](https://open.spotify.com/track/4pIiKrGXCgTZOAFGJjCEvL) | [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu) | [La Gran Señora](https://open.spotify.com/album/6JpMhu4IR3A7gwjksos2Sa) | 3:23 | 2022-05-20 |  |
+| [Ya No](https://open.spotify.com/track/57xIz4fw0sMzc2GRnc2Il7) | [Lucero](https://open.spotify.com/artist/3SNKhPPfra7g7Crq1QA330) | [Singles](https://open.spotify.com/album/7uxeDavpgWJrgUnv7GU5EJ) | 3:37 | 2022-08-03 |  |
 | [Ya No](https://open.spotify.com/track/6O0zppSneLLGVpR5WDKGI9) | [Lucero](https://open.spotify.com/artist/3SNKhPPfra7g7Crq1QA330) | [Sólo Piens En Ti](https://open.spotify.com/album/6MqBG0cTayHNgjDZ04GHRk) | 3:37 | 2022-01-07 | 2022-07-29 |
 | [Ya No Me Importa](https://open.spotify.com/track/12rkhRzMY5uTZHviXYyBRf) | [Adriana Ríos](https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo) | [Ya No Me Importa](https://open.spotify.com/album/7FZGLlJEMDpfGOS21YKLOR) | 3:43 | 2022-02-18 | 2022-06-22 |
 | [Ya No Me Importa](https://open.spotify.com/track/6T684u0tL0gliUK6Wb0z3X) | [Adriana Ríos](https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo) | [Contundente](https://open.spotify.com/album/3rTyeuM7gwK5W9kVKimkdm) | 3:43 | 2022-01-07 | 2022-07-28 |

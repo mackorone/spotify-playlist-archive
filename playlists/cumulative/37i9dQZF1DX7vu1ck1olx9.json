@@ -1469,7 +1469,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-27",
+      "date_removed": null,
       "duration_ms": 195546,
       "name": "Moments",
       "url": "https://open.spotify.com/track/3r5R3UBhe7Cdgywozq4zKz"
@@ -1621,7 +1621,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-10",
       "duration_ms": 184615,
       "name": "NightSky",
       "url": "https://open.spotify.com/track/5fpsn9LdAGXQbZcOwTs0WV"
@@ -1733,7 +1733,7 @@
       ],
       "date_added": "2020-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 153333,
       "name": "Pixels",
       "url": "https://open.spotify.com/track/3PFwq96cMjf99GqGGlXX5W"
@@ -2343,6 +2343,28 @@
       "duration_ms": 174562,
       "name": "Sundays",
       "url": "https://open.spotify.com/track/5UGC2XD60M7Ki6kh1A4oyI"
+    },
+    {
+      "album": {
+        "name": "Sunny in Saint Lucia",
+        "url": "https://open.spotify.com/album/7yZLICBnXiNzpohnqGlLpT"
+      },
+      "artists": [
+        {
+          "name": "Mad Keys",
+          "url": "https://open.spotify.com/artist/542FKpIX73UoqWHne4D2E2"
+        },
+        {
+          "name": "Noxz",
+          "url": "https://open.spotify.com/artist/4gQHI7uYzGmbD7BRBtFLO2"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186666,
+      "name": "Sunny in Saint Lucia",
+      "url": "https://open.spotify.com/track/5L6RFPXEfm9YBCMUVEi3bE"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
-  "description": "Taking it way back! Cover: Kanye West",
-  "num_followers": 2980163,
+  "description": "Taking it way back! Cover: Coolio",
+  "num_followers": 2994161,
   "original_name": "Gold School",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDQ5NTM5NCwwMDAwMDAwMDZjOGNhNmY3Zjk4OWIyNDRkOTIyM2E4NzExYWZjN2E4",
+  "snapshot_id": "MTY2NTEwMzQ5OSwwMDAwMDAwMDVhZGUxYWNlZjIyMzNmOWQ3OWRhYTg0NTRiY2MyNDU2",
   "tracks": [
     {
       "added_at": "2022-09-29 23:49:54",
@@ -29,26 +29,6 @@
       "url": "https://open.spotify.com/track/1DIXPcTDzTj8ZMHt3PDt8p"
     },
     {
-      "added_at": "2022-09-06 17:56:14",
-      "album": {
-        "name": "Graduation",
-        "url": "https://open.spotify.com/album/4SZko61aMnmgvNhfhgTuD3"
-      },
-      "artists": [
-        {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
-        },
-        {
-          "name": "Dwele",
-          "url": "https://open.spotify.com/artist/7u6LfVyYpEzMpHLL7jTyvU"
-        }
-      ],
-      "duration_ms": 237506,
-      "name": "Flashing Lights",
-      "url": "https://open.spotify.com/track/5TRPicyLGbAF2LGBFbHGvO"
-    },
-    {
       "added_at": "2022-09-29 23:49:54",
       "album": {
         "name": "Friday (Original Motion Picture Soundtrack)",
@@ -63,6 +43,38 @@
       "duration_ms": 305573,
       "name": "Keep Their Heads Ringin'",
       "url": "https://open.spotify.com/track/7jIujRjK5JKNrMCcAvYUTN"
+    },
+    {
+      "added_at": "2022-10-04 04:23:23",
+      "album": {
+        "name": "I Wish",
+        "url": "https://open.spotify.com/album/34hLOvajp6WQOGlt6CNLSA"
+      },
+      "artists": [
+        {
+          "name": "Skee-Lo",
+          "url": "https://open.spotify.com/artist/55Pp4Ns5VfTSFsBraW7MQy"
+        }
+      ],
+      "duration_ms": 249293,
+      "name": "I Wish",
+      "url": "https://open.spotify.com/track/3LklW07tvdx2AHsgfi1Mng"
+    },
+    {
+      "added_at": "2022-10-04 04:23:23",
+      "album": {
+        "name": "19 Naughty III",
+        "url": "https://open.spotify.com/album/1APlzmzWwXz3ElpmdWF5KA"
+      },
+      "artists": [
+        {
+          "name": "Naughty By Nature",
+          "url": "https://open.spotify.com/artist/4Otx4bRLSfpah5kX8hdgDC"
+        }
+      ],
+      "duration_ms": 267266,
+      "name": "Hip Hop Hooray",
+      "url": "https://open.spotify.com/track/1SyQ6t9RdRBK0QUCS6a797"
     },
     {
       "added_at": "2022-09-29 23:49:54",
@@ -131,6 +143,66 @@
       "duration_ms": 270586,
       "name": "Still D.R.E.",
       "url": "https://open.spotify.com/track/503OTo2dSqe7qk76rgsbep"
+    },
+    {
+      "added_at": "2022-10-04 04:27:25",
+      "album": {
+        "name": "Life Story",
+        "url": "https://open.spotify.com/album/1MSBtKtGF1VLBtSLgwcwKR"
+      },
+      "artists": [
+        {
+          "name": "Black Rob",
+          "url": "https://open.spotify.com/artist/1QPZhx0asYTBxD5RDqfU49"
+        }
+      ],
+      "duration_ms": 238840,
+      "name": "Whoa!",
+      "url": "https://open.spotify.com/track/71u5SjnkSQgzIt1UzHchbi"
+    },
+    {
+      "added_at": "2022-09-06 17:56:14",
+      "album": {
+        "name": "Graduation",
+        "url": "https://open.spotify.com/album/4SZko61aMnmgvNhfhgTuD3"
+      },
+      "artists": [
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        },
+        {
+          "name": "Dwele",
+          "url": "https://open.spotify.com/artist/7u6LfVyYpEzMpHLL7jTyvU"
+        }
+      ],
+      "duration_ms": 237506,
+      "name": "Flashing Lights",
+      "url": "https://open.spotify.com/track/5TRPicyLGbAF2LGBFbHGvO"
+    },
+    {
+      "added_at": "2022-10-07 00:44:59",
+      "album": {
+        "name": "Man On The Moon: The End Of Day (Deluxe)",
+        "url": "https://open.spotify.com/album/2S8AWAM0nxyFy66YnUfIs3"
+      },
+      "artists": [
+        {
+          "name": "Kid Cudi",
+          "url": "https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu"
+        },
+        {
+          "name": "MGMT",
+          "url": "https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE"
+        },
+        {
+          "name": "Ratatat",
+          "url": "https://open.spotify.com/artist/57dN52uHvrHOxijzpIgu3E"
+        }
+      ],
+      "duration_ms": 295293,
+      "name": "Pursuit Of Happiness (Nightmare)",
+      "url": "https://open.spotify.com/track/6MtKObWYda2qnNIpJI21uD"
     },
     {
       "added_at": "2022-09-29 23:49:54",
@@ -243,6 +315,22 @@
       "duration_ms": 260000,
       "name": "It Was A Good Day",
       "url": "https://open.spotify.com/track/2qOm7ukLyHUXWyR4ZWLwxA"
+    },
+    {
+      "added_at": "2022-10-04 04:27:25",
+      "album": {
+        "name": "Conspiracy (PA)",
+        "url": "https://open.spotify.com/album/02GVhWjMuoQBQUtNhjWsnG"
+      },
+      "artists": [
+        {
+          "name": "Junior M.A.F.I.A.",
+          "url": "https://open.spotify.com/artist/3r0OeTcOw37N9juMYyyw39"
+        }
+      ],
+      "duration_ms": 274937,
+      "name": "Get Money",
+      "url": "https://open.spotify.com/track/53oWwSxPuyH2cjYKXH8fgO"
     },
     {
       "added_at": "2022-09-29 23:49:54",
@@ -381,6 +469,26 @@
       "url": "https://open.spotify.com/track/7Ie9W94M7OjPoZVV216Xus"
     },
     {
+      "added_at": "2022-10-04 04:23:23",
+      "album": {
+        "name": "My Soul",
+        "url": "https://open.spotify.com/album/2JHP97iEYtvOar1lUQOcQe"
+      },
+      "artists": [
+        {
+          "name": "Coolio",
+          "url": "https://open.spotify.com/artist/3y24n3XhZ96wgwRXjvS17T"
+        },
+        {
+          "name": "40 Thevz",
+          "url": "https://open.spotify.com/artist/20GRegBvsJnKjeK587myg9"
+        }
+      ],
+      "duration_ms": 311040,
+      "name": "C U When U Get There",
+      "url": "https://open.spotify.com/track/6uWez0py1zc17F7hjp7jIt"
+    },
+    {
       "added_at": "2022-09-29 23:49:54",
       "album": {
         "name": "Greatest Hits",
@@ -505,58 +613,6 @@
       "url": "https://open.spotify.com/track/2igwFfvr1OAGX9SKDCPBwO"
     },
     {
-      "added_at": "2022-07-22 16:58:05",
-      "album": {
-        "name": "No Way Out",
-        "url": "https://open.spotify.com/album/4OGaOZUHLhSeiicZB909aL"
-      },
-      "artists": [
-        {
-          "name": "Diddy",
-          "url": "https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA"
-        },
-        {
-          "name": "The Notorious B.I.G.",
-          "url": "https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb"
-        },
-        {
-          "name": "Lil' Kim",
-          "url": "https://open.spotify.com/artist/5tth2a3v0sWwV1C7bApBdX"
-        },
-        {
-          "name": "The LOX",
-          "url": "https://open.spotify.com/artist/0A7g2YbCA9FlyZvAG6VmKP"
-        },
-        {
-          "name": "Stevie J",
-          "url": "https://open.spotify.com/artist/09A1kpyGbzYAPb8cEvee64"
-        }
-      ],
-      "duration_ms": 278200,
-      "name": "It's All About the Benjamins (feat. The Notorious B.I.G., Lil' Kim & The Lox) - Remix",
-      "url": "https://open.spotify.com/track/3GMR3hyv8BccozoebVMve3"
-    },
-    {
-      "added_at": "2022-08-05 04:00:00",
-      "album": {
-        "name": "Recovery",
-        "url": "https://open.spotify.com/album/47BiFcV59TQi2s9SkBo2pb"
-      },
-      "artists": [
-        {
-          "name": "Eminem",
-          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
-        },
-        {
-          "name": "Rihanna",
-          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
-        }
-      ],
-      "duration_ms": 263373,
-      "name": "Love The Way You Lie",
-      "url": "https://open.spotify.com/track/15JINEqzVMv3SvJTAXAKED"
-    },
-    {
       "added_at": "2022-05-26 22:05:10",
       "album": {
         "name": "Stankonia",
@@ -589,10 +645,10 @@
       "url": "https://open.spotify.com/track/0IVAlb0cFCH1cQ974iR1TU"
     },
     {
-      "added_at": "2022-09-29 23:49:54",
+      "added_at": "2022-10-07 00:44:59",
       "album": {
-        "name": "People's Instinctive Travels and the Paths of Rhythm (25th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/3kV0i1qqudjf0PGawJ4jck"
+        "name": "The Anthology",
+        "url": "https://open.spotify.com/album/3FAK4h4t9uV4JxzESXllAU"
       },
       "artists": [
         {
@@ -600,9 +656,9 @@
           "url": "https://open.spotify.com/artist/09hVIj6vWgoCDtT03h8ZCa"
         }
       ],
-      "duration_ms": 251573,
-      "name": "Can I Kick It?",
-      "url": "https://open.spotify.com/track/3Ti0GdlrotgwsAVBBugv0I"
+      "duration_ms": 226133,
+      "name": "Electric Relaxation",
+      "url": "https://open.spotify.com/track/0eEXcw3JLVXcRxYrVYMy68"
     },
     {
       "added_at": "2022-03-13 01:02:17",
@@ -675,22 +731,6 @@
       "duration_ms": 274333,
       "name": "What You Know",
       "url": "https://open.spotify.com/track/0CAJdthKDdRjB2h8YOguN6"
-    },
-    {
-      "added_at": "2022-03-24 14:45:45",
-      "album": {
-        "name": "Life After Death (2014 Remastered Edition)",
-        "url": "https://open.spotify.com/album/7dRdaGSxgcBdJnrOviQRuB"
-      },
-      "artists": [
-        {
-          "name": "The Notorious B.I.G.",
-          "url": "https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb"
-        }
-      ],
-      "duration_ms": 366880,
-      "name": "Notorious Thugs - 2014 Remaster",
-      "url": "https://open.spotify.com/track/19FsxX4RthRMZGfXkImdCb"
     },
     {
       "added_at": "2022-03-13 01:02:17",
@@ -787,22 +827,6 @@
     {
       "added_at": "2022-03-13 01:02:17",
       "album": {
-        "name": "Jackpot",
-        "url": "https://open.spotify.com/album/0Hv5X7RRaM7F3hfAq0YmzB"
-      },
-      "artists": [
-        {
-          "name": "Chingy",
-          "url": "https://open.spotify.com/artist/3s2wTjWxK8NOX09dmsvVOh"
-        }
-      ],
-      "duration_ms": 250746,
-      "name": "Right Thurr",
-      "url": "https://open.spotify.com/track/0l3GEbH3CviUytD6iX4wzg"
-    },
-    {
-      "added_at": "2022-03-13 01:02:17",
-      "album": {
         "name": "Kings Of Crunk",
         "url": "https://open.spotify.com/album/4htcOW08TqINNLbcSf9esI"
       },
@@ -875,42 +899,6 @@
       "duration_ms": 241840,
       "name": "It's Goin' Down (feat. Nitti)",
       "url": "https://open.spotify.com/track/05Sgj1Hx03ZXc57gsV1kfX"
-    },
-    {
-      "added_at": "2022-03-13 01:02:17",
-      "album": {
-        "name": "The King Of Crunk & BME Recordings Present: Welcome to Trillville USA",
-        "url": "https://open.spotify.com/album/2fDTnW5KAZZvuuguWrECbu"
-      },
-      "artists": [
-        {
-          "name": "Trillville",
-          "url": "https://open.spotify.com/artist/3jahzTuztFVegfKXChatkY"
-        },
-        {
-          "name": "Cutty",
-          "url": "https://open.spotify.com/artist/3jhkLfgJKRu9Lb0AQd7fkB"
-        }
-      ],
-      "duration_ms": 283386,
-      "name": "Some Cut (feat. Cutty)",
-      "url": "https://open.spotify.com/track/07u02f6biDHx5VexfAs41b"
-    },
-    {
-      "added_at": "2022-02-11 05:00:00",
-      "album": {
-        "name": "The Big Bang",
-        "url": "https://open.spotify.com/album/3lT0XTcteJfBbPNoPAmNRq"
-      },
-      "artists": [
-        {
-          "name": "Busta Rhymes",
-          "url": "https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK"
-        }
-      ],
-      "duration_ms": 214960,
-      "name": "Touch It",
-      "url": "https://open.spotify.com/track/3HVJbdz0V402U5YggQK4Ao"
     },
     {
       "added_at": "2022-02-11 05:00:00",

@@ -4,7 +4,7 @@
 
 > Come on, man\. Just smile!
 
-70 songs - 4 hr 8 min - [published](https://open.spotify.com/playlist/7ARCrfEcAoPx57gahlhMW5)
+71 songs - 4 hr 12 min - [published](https://open.spotify.com/playlist/7ARCrfEcAoPx57gahlhMW5)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,7 @@
 | [Chance](https://open.spotify.com/track/5rCFLQB74RmHwiDe6YL7qx) | [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic), [Projexx](https://open.spotify.com/artist/2DFzMI8SSWPYBBSxVF7b2N), [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo) | [Sounds of My World](https://open.spotify.com/album/2Mju5QRHhBPkUQajYKTUSH) | 3:45 | 2022-06-20 |  |
 | [Chance](https://open.spotify.com/track/6RdojpAhP5ch1SznHxVyjC) | [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic), [Projexx](https://open.spotify.com/artist/2DFzMI8SSWPYBBSxVF7b2N), [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo) | [Chance](https://open.spotify.com/album/2JU83LnIrQS9kb3YS1B1ns) | 3:45 | 2021-10-24 | 2022-07-29 |
 | [Come Around](https://open.spotify.com/track/1a64u7QtJ9yDwpNyfDrZTj) | [Collie Buddz](https://open.spotify.com/artist/5Ayl2bJtN5mdCsxZoxs9n1) | [Collie Buddz](https://open.spotify.com/album/2BGWnHTib774X9f7RPoato) | 3:41 | 2021-10-24 |  |
-| [Do You See](https://open.spotify.com/track/5YRQDSlUCBFcevXm3CMpr8) | [Bounty Killer](https://open.spotify.com/artist/6UuT0BJZ9vF8Y1sxXnJl2s), [Pop Style](https://open.spotify.com/artist/5pzWFizoqhuhkImntBH12H) | [Do You See](https://open.spotify.com/album/2k8B3PeBWVB1y2RQx0ADav) | 3:55 | 2021-10-24 |  |
+| [Do You See](https://open.spotify.com/track/5YRQDSlUCBFcevXm3CMpr8) | [Bounty Killer](https://open.spotify.com/artist/6UuT0BJZ9vF8Y1sxXnJl2s), [Pop Style](https://open.spotify.com/artist/5pzWFizoqhuhkImntBH12H) | [Do You See](https://open.spotify.com/album/2k8B3PeBWVB1y2RQx0ADav) | 3:55 | 2021-10-24 | 2022-10-08 |
 | [Feeling Irie](https://open.spotify.com/track/1P5GpSSraTkxFOYVwsxMXw) | [General Degree](https://open.spotify.com/artist/0CwVuGmnkIBc5uitBWkplO) | [Feeling Irie](https://open.spotify.com/album/5wZuvylSpV0QEwV52Zz5jH) | 3:11 | 2021-10-24 |  |
 | [Fix It](https://open.spotify.com/track/2FmD1oi2Wna2jcQcYEEYn5) | [Clinton Fearon](https://open.spotify.com/artist/2mSiPzmzBCGS7p6tEuRuTd) | [Fix It](https://open.spotify.com/album/0UIcpuZ7MGsGOSzv5RFB2p) | 3:02 | 2021-10-24 |  |
 | [Funky Kingston](https://open.spotify.com/track/0bJ4nQojefjNpeuZNkiLrX) | [Toots & The Maytals](https://open.spotify.com/artist/6ZFv3wQwwWPiVDWhv0mjQK) | [20th Century Masters: The Millennium Collection: Best Of Toots & The Maytals](https://open.spotify.com/album/4LqckZIG3vtFVGIeY3Q5Yz) | 4:50 | 2021-10-24 |  |
@@ -37,6 +37,7 @@
 | [Jamming](https://open.spotify.com/track/5LyfiK6iXEIBNEtcaGKohl) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Exodus](https://open.spotify.com/album/2mBbV0Ad6B4ydHMZlzAY7S) | 3:31 | 2022-06-20 |  |
 | [Jamming](https://open.spotify.com/track/5svnF9TMoMnerAMo3mmNnt) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Legend \(Deluxe Edition\)](https://open.spotify.com/album/0tiPal8J7t3B9tPF7kGWDi) | 3:32 | 2021-10-24 | 2022-07-29 |
 | [Just U and I](https://open.spotify.com/track/0FTxOb1jOXvonCIVtiuEvx) | [Pop Style](https://open.spotify.com/artist/5pzWFizoqhuhkImntBH12H), [Sizzla](https://open.spotify.com/artist/72T7x96EAqN2UWvAgobYfv) | [Better Must Come Riddim](https://open.spotify.com/album/5D2lB57hqgT7MHXPk7qltd) | 2:48 | 2021-10-24 | 2022-07-29 |
+| [King Tubby's](https://open.spotify.com/track/2gkLKPNT5YO4O8K0JJwVf6) | [Chaka Demus & Pliers](https://open.spotify.com/artist/6RQkaOWddQmiLLJqSgnTbm), [Anthony B](https://open.spotify.com/artist/7Lij2ZLJJQOfGojVR3Wmqa) | [King Tubby's](https://open.spotify.com/album/23ZnXnDhsyrNoKO9R8MLyw) | 3:58 | 2022-09-23 |  |
 | [Kingston Be Wise](https://open.spotify.com/track/0qbouIdcN4lrj49jem7TEz) | [Protoje](https://open.spotify.com/artist/7BGR8y1VZAWK2oR4zD9COr) | [The 8 Year Affair](https://open.spotify.com/album/1pKiBXWp9b8nhnBzEh91nA) | 4:11 | 2021-10-24 |  |
 | [La Mar](https://open.spotify.com/track/2qrVYBy2PArMwQRVZxFWzz) | [The Beautiful Girls](https://open.spotify.com/artist/0hDJSg859MdK4c9vqu1dS8) | [HOPE Campaign Tribute Album 2010](https://open.spotify.com/album/6nKCSPUzU4GLM7cqqYmruM) | 4:17 | 2021-10-24 |  |
 | [Like Royalty \(feat\. Popcaan\)](https://open.spotify.com/track/4ezz5XTWn8PPTuDagSM8pH) | [Protoje](https://open.spotify.com/artist/7BGR8y1VZAWK2oR4zD9COr), [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR) | [Like Royalty \(feat\. Popcaan\)](https://open.spotify.com/album/1vRu5xDjU8UI01GFdvWrnP) | 4:05 | 2021-10-24 |  |

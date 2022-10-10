@@ -4,7 +4,7 @@
 
 > Keep your finger on the pulse of Americana\. Cover: Nikki Lane
 
-346 songs - 21 hr 33 min - [published](https://open.spotify.com/playlist/1H5Sok0MEuwSOB35Thab6M)
+347 songs - 21 hr 37 min - [published](https://open.spotify.com/playlist/1H5Sok0MEuwSOB35Thab6M)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -204,7 +204,7 @@
 | [Mid\-Century Modern](https://open.spotify.com/track/6PMCWAKTBLb4shEI60G9jZ) | [Billy Bragg](https://open.spotify.com/artist/5yXAFDZNUNyO92l5WTImkO) | [The Million Things That Never Happened](https://open.spotify.com/album/3NAmhkb8XHcNCRsBRSRgqa) | 5:28 | 2021-12-17 | 2022-04-02 |
 | [Miles And Miles \- Single Version](https://open.spotify.com/track/6xG16hC00oaRLRIY28PnGr) | [The Heavy Heavy](https://open.spotify.com/artist/5WSRRbhBJlhqvzgbOm3U2Q) | [Life and Life Only](https://open.spotify.com/album/6DeM7Vy5gmjq9FbLUcZFMr) | 3:40 | 2022-06-03 |  |
 | [Modern Man \(feat\. Madison Cunningham\)](https://open.spotify.com/track/5wo8gxWeFb9YsZ719fALSL) | [Bahamas](https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt), [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Modern Man](https://open.spotify.com/album/2mYhqIuQKJ8CQCkuJH14A2) | 3:04 | 2021-12-17 |  |
-| [Modern Woman](https://open.spotify.com/track/5ZaSoSM8VR7OUiYyEKBmL9) | [Erin Rae](https://open.spotify.com/artist/167VlZ0C0ewQbgKexRFcs6) | [Modern Woman](https://open.spotify.com/album/30kbdtHtt6rJShWGeMsVcI) | 3:24 | 2021-12-17 |  |
+| [Modern Woman](https://open.spotify.com/track/5ZaSoSM8VR7OUiYyEKBmL9) | [Erin Rae](https://open.spotify.com/artist/167VlZ0C0ewQbgKexRFcs6) | [Modern Woman](https://open.spotify.com/album/30kbdtHtt6rJShWGeMsVcI) | 3:24 | 2021-12-17 | 2022-10-08 |
 | [Morning](https://open.spotify.com/track/5Y6stLs2V5bK0ALhrz78FE) | [Sarah Jarosz](https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ) | [Morning](https://open.spotify.com/album/3nJafxnimvh3lWV9YmB0TE) | 3:28 | 2021-12-17 | 2022-05-20 |
 | [Mountain Song](https://open.spotify.com/track/2mDdkeVuUsyIepwzLCxuu6) | [Flatland Cavalry](https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav) | [Mountain Song](https://open.spotify.com/album/2LSEZyWtzulIr0vS1mD4Xy) | 4:09 | 2022-08-26 |  |
 | [Music City USA](https://open.spotify.com/track/5ihYhdTD821QxrVkb4OSAh) | [Charley Crockett](https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4) | [Music City USA](https://open.spotify.com/album/1S3byHYDcWlhc7TVkbG2zY) | 3:02 | 2021-12-17 | 2022-05-14 |
@@ -322,6 +322,7 @@
 | [Trouble](https://open.spotify.com/track/6OB6oN7g6BbcrTFoP6l7sl) | [Sophie & The Broken Things](https://open.spotify.com/artist/620A5QNUAGBCuBYOUHf0c0), [Logan Ledger](https://open.spotify.com/artist/4KcXOZaofRdvBDl0b8LOYM) | [Trouble](https://open.spotify.com/album/4zFeo0LkLXCgiYgPqKouI7) | 3:47 | 2021-12-17 | 2022-08-06 |
 | [Tumble and Fall](https://open.spotify.com/track/2Uh4NCdcI7sWNbWfhxw73Q) | [Daniel Tashian](https://open.spotify.com/artist/4RldQHPp4l6UV78DAvf5qz) | [Tumble and Fall](https://open.spotify.com/album/6PNfy7JIdJWbw8XXIETapU) | 3:26 | 2022-09-09 |  |
 | [Ugly Faces](https://open.spotify.com/track/4XblwOWPMkornESGqDlYnr) | [John Moreland](https://open.spotify.com/artist/5MPWTD6J1H9XqYEOb4QkdH) | [Ugly Faces](https://open.spotify.com/album/5aXQePQNOHGepOiJOYUbV8) | 3:15 | 2022-05-13 | 2022-06-25 |
+| [Unsung Heroes](https://open.spotify.com/track/0w2PDgVUMnEbrtcIOJkIXj) | [Town Mountain](https://open.spotify.com/artist/5cudslRGWg0GsXaN79Wifs) | [Lines in the Levee](https://open.spotify.com/album/3Kjt0tpYJudd0DgsOciiaQ) | 4:36 | 2022-10-07 |  |
 | [Upside Down](https://open.spotify.com/track/2EYKPyHhYxiSs1SoN4DS2f) | [Watchhouse](https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP) | [Watchhouse](https://open.spotify.com/album/2ZURBTlzCG2WCMuEwvRBaK) | 4:08 | 2022-07-22 |  |
 | [Upside Down](https://open.spotify.com/track/3loKrxBymgzppOS7mhhNa5) | [Watchhouse](https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP) | [Watchhouse](https://open.spotify.com/album/4I0MTtE0olpLIVMzoN8KJN) | 4:08 | 2021-12-17 | 2022-07-29 |
 | [Use Me](https://open.spotify.com/track/6dqJ50r54N2CrddT8XEtgc) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Use Me](https://open.spotify.com/album/6MCzIFRAFlSQeXn7JrhXI0) | 4:05 | 2022-04-01 |  |

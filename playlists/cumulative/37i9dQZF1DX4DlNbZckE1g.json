@@ -499,7 +499,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-02",
+      "date_removed": null,
       "duration_ms": 228534,
       "name": "FOREVER",
       "url": "https://open.spotify.com/track/6JJ1URTERzj7LcqKpRsvMT"
@@ -521,7 +521,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-03",
       "duration_ms": 228534,
       "name": "FOREVER (feat. Broods)",
       "url": "https://open.spotify.com/track/4emwuOeiW0f5ACgkWNZWtl"
@@ -677,7 +677,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-02",
+      "date_removed": null,
       "duration_ms": 202320,
       "name": "Heavy",
       "url": "https://open.spotify.com/track/4rf6Lpnej26aSNdYSiPF2n"
@@ -699,7 +699,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-03",
       "duration_ms": 202320,
       "name": "Heavy (feat. Your Smith)",
       "url": "https://open.spotify.com/track/2D2p2c8mdqeDlsFVow2XaQ"
@@ -1283,10 +1283,28 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 179363,
       "name": "PINCH ME",
       "url": "https://open.spotify.com/track/14QUJhbXCWO90NfZ0mXnGG"
+    },
+    {
+      "album": {
+        "name": "HOW DID WE GET HERE?",
+        "url": "https://open.spotify.com/album/41U30ytGycUBqa4qrICXrn"
+      },
+      "artists": [
+        {
+          "name": "young friend",
+          "url": "https://open.spotify.com/artist/7cq0a4di5dOeKU8sicemd1"
+        }
+      ],
+      "date_added": "2022-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179363,
+      "name": "PINCH ME",
+      "url": "https://open.spotify.com/track/6uogFVMnfQbyA93hxEZhd1"
     },
     {
       "album": {
@@ -1349,7 +1367,7 @@
     {
       "album": {
         "name": "Preview",
-        "url": "https://open.spotify.com/album/082t32AlaNDWXw3uxBMTlV"
+        "url": "https://open.spotify.com/album/1qxC2XCw1DWFmbU3bYttfv"
       },
       "artists": [
         {
@@ -1360,6 +1378,24 @@
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 198002,
+      "name": "Preview",
+      "url": "https://open.spotify.com/track/2T0kfQqtxcJuBbyJc6k97U"
+    },
+    {
+      "album": {
+        "name": "Preview",
+        "url": "https://open.spotify.com/album/082t32AlaNDWXw3uxBMTlV"
+      },
+      "artists": [
+        {
+          "name": "Balu Brigada",
+          "url": "https://open.spotify.com/artist/6O9vGMmTwzihULICPCsNf2"
+        }
+      ],
+      "date_added": "2022-02-10",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-09",
       "duration_ms": 198002,
       "name": "Preview",
       "url": "https://open.spotify.com/track/4XwgwuC4nFaq602YAebfZP"
@@ -1741,6 +1777,28 @@
       "duration_ms": 191338,
       "name": "SUGARCOATED",
       "url": "https://open.spotify.com/track/1M2sJHEAsFFLPIQyHvQUv2"
+    },
+    {
+      "album": {
+        "name": "SUGARCOATED",
+        "url": "https://open.spotify.com/album/4l0bg4TtTVWK7GKMrsinaq"
+      },
+      "artists": [
+        {
+          "name": "young friend",
+          "url": "https://open.spotify.com/artist/7cq0a4di5dOeKU8sicemd1"
+        },
+        {
+          "name": "Anna Sofia",
+          "url": "https://open.spotify.com/artist/3ONUI6Gh4s7kcv3h0EuG2K"
+        }
+      ],
+      "date_added": "2022-02-10",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-07",
+      "duration_ms": 191338,
+      "name": "SUGARCOATED",
+      "url": "https://open.spotify.com/track/5FhfmjrxgoSXbAyJJwRTjr"
     },
     {
       "album": {

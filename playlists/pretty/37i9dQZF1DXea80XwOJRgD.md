@@ -4,16 +4,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXea80XwOJRgD.md) - [plain]
 
 > Some heart and soul for those up late.
 
-[Spotify](https://open.spotify.com/user/spotify) - 138,362 likes - 50 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 138,749 likes - 50 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Never Forget My Love](https://open.spotify.com/track/63KVRfA7COiRBVnZAfbPxU) | [Joss Stone](https://open.spotify.com/artist/7bvcQXJHkFiN1ppIN3q4fi) | [Never Forget My Love](https://open.spotify.com/album/0oiVII3rwv5bEyIZM234Z4) | 3:41 |
-| 2 | [All The Way](https://open.spotify.com/track/2Kh9U6a3tHwwa9eGcp0oqv) | [Ben L'Oncle Soul](https://open.spotify.com/artist/2dJTa3mUidZAO9sKcY72tK) | [Under My Skin](https://open.spotify.com/album/3Y2oCc3jdG6ad114eUc8Ev) | 3:40 |
-| 3 | [What I'm Feelin' \(feat\. The Hamiltones\)](https://open.spotify.com/track/4ziJkj8dL74R8kaiaa8Ho1) | [Anthony Hamilton](https://open.spotify.com/artist/2DzRMyWgjuMbYvt5BLbpCo), [The HamilTones](https://open.spotify.com/artist/1Nj9dLuiwh4DHn8AIkQyqs) | [What I'm Feelin'](https://open.spotify.com/album/5MZKupLJLcvIlCMumgwb9k) | 3:59 |
-| 4 | [Love on the Brain \- Cover](https://open.spotify.com/track/04B6ovI9kEZCIjV34o6BOK) | [Noah Guthrie](https://open.spotify.com/artist/6b0Wy4mw8ePj9w2EX3s4V3) | [Love on the Brain \(Cover\)](https://open.spotify.com/album/7eGIQ4GoBI9LWrOlFisf2d) | 3:33 |
-| 5 | [Stay With Me](https://open.spotify.com/track/5Nm9ERjJZ5oyfXZTECKmRt) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [In The Lonely Hour](https://open.spotify.com/album/08jWgM4vSkTose4blKBWov) | 2:52 |
-| 6 | [Part Time Love](https://open.spotify.com/track/3dhpEvVaZ81gUdmQjdNuK8) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [The Boy Who Cried Freedom](https://open.spotify.com/album/6agNoT5WXMENsbQvhxGEws) | 2:49 |
+| 2 | [By Design \[Evel Knievel\]](https://open.spotify.com/track/3AW8GEO8kc0X4zVGJFGkh2) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [Lies About The War](https://open.spotify.com/album/7Dq8kOETaKNLrKouSjg5Pv) | 3:46 |
+| 3 | [All The Way](https://open.spotify.com/track/2Kh9U6a3tHwwa9eGcp0oqv) | [Ben L'Oncle Soul](https://open.spotify.com/artist/2dJTa3mUidZAO9sKcY72tK) | [Under My Skin](https://open.spotify.com/album/3Y2oCc3jdG6ad114eUc8Ev) | 3:40 |
+| 4 | [What I'm Feelin' \(feat\. The Hamiltones\)](https://open.spotify.com/track/4ziJkj8dL74R8kaiaa8Ho1) | [Anthony Hamilton](https://open.spotify.com/artist/2DzRMyWgjuMbYvt5BLbpCo), [The HamilTones](https://open.spotify.com/artist/1Nj9dLuiwh4DHn8AIkQyqs) | [What I'm Feelin'](https://open.spotify.com/album/5MZKupLJLcvIlCMumgwb9k) | 3:59 |
+| 5 | [Love on the Brain \- Cover](https://open.spotify.com/track/04B6ovI9kEZCIjV34o6BOK) | [Noah Guthrie](https://open.spotify.com/artist/6b0Wy4mw8ePj9w2EX3s4V3) | [Love on the Brain \(Cover\)](https://open.spotify.com/album/7eGIQ4GoBI9LWrOlFisf2d) | 3:33 |
+| 6 | [Stay With Me](https://open.spotify.com/track/5Nm9ERjJZ5oyfXZTECKmRt) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [In The Lonely Hour](https://open.spotify.com/album/08jWgM4vSkTose4blKBWov) | 2:52 |
 | 7 | [Better Man](https://open.spotify.com/track/7tOYSMYowhxJ0uK3WMoL5n) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Coming Home \(Deluxe\)](https://open.spotify.com/album/21KIagsx1ZvYcv0sVkEAWv) | 2:20 |
 | 8 | [Oh Me Oh My](https://open.spotify.com/track/14KmgxmGFECm8DKagcu23k) | [Erin Costelo](https://open.spotify.com/artist/2amUY80duVVhcrAIXfwBHN) | [We Can Get Over](https://open.spotify.com/album/1BZL72FKgcUBaaRnlLY5eQ) | 2:37 |
 | 9 | [Miracles](https://open.spotify.com/track/10g4esqFA2aVAWAYc0XQ5Z) | [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N), [Emily King](https://open.spotify.com/artist/6jlWj6y00bMQt8XoKuCjyZ), [Peter CottonTale](https://open.spotify.com/artist/4mkGZGaUTIpyG1LnZ6nNIi) | [Music](https://open.spotify.com/album/3Yt6hyKUIgAeg6BIr7aPmK) | 4:51 |
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXea80XwOJRgD.md) - [plain]
 | 44 | [Lights](https://open.spotify.com/track/14wfwfd0xRy29tMH6h3Qmc) | [Janne Schra](https://open.spotify.com/artist/7IGk0iXhaPjqvQF4Zi2R2K) | [OK](https://open.spotify.com/album/3dw3fgd8LTe0APA5KOuUcj) | 3:32 |
 | 45 | [Welcome 2 America](https://open.spotify.com/track/2St53T2Yitx2E3gA674RP0) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Welcome 2 America](https://open.spotify.com/album/6Idpgkp0xxbQA3Ej1QdsZh) | 5:23 |
 | 46 | [Fireproof](https://open.spotify.com/track/0EqA75SHqozxGoPzfkDWfE) | [Mingo Fishtrap](https://open.spotify.com/artist/7mYdzBqQUa1hb8jdRmMpfE) | [On Time](https://open.spotify.com/album/0P1ZQNOoBh0faU0FrKQJlh) | 3:51 |
-| 47 | [Your Love Will Blow Me Away When My Heart Aches](https://open.spotify.com/track/7mTXXQLhBp3W0UCx4bLfYf) | [Son Little](https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7) | [Son Little \(Deluxe Edition\)](https://open.spotify.com/album/2jGQieA1EggldcxFAiQHjJ) | 3:03 |
-| 48 | [I'd Rather Go Blind](https://open.spotify.com/track/7xtpbJoe4D8NxpK6jMn88a) | [Leela James](https://open.spotify.com/artist/5sennRot4Ls82wfspEQuf2) | [Loving You More…In The Spirit Of Etta James](https://open.spotify.com/album/5SCIDpdnpyjDm2bjCj8cuF) | 4:11 |
-| 49 | [NYPD Blues](https://open.spotify.com/track/5O7C398FGhoQWT1ykLAhHf) | [Lauriana Mae](https://open.spotify.com/artist/6ohLXHVQ8PIzd8DjXSTR6A) | [City of Diamonds EP](https://open.spotify.com/album/5O7dLGGVuZMh111cHDNPeR) | 3:24 |
+| 47 | [Part Time Love](https://open.spotify.com/track/3dhpEvVaZ81gUdmQjdNuK8) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [The Boy Who Cried Freedom](https://open.spotify.com/album/6agNoT5WXMENsbQvhxGEws) | 2:49 |
+| 48 | [Your Love Will Blow Me Away When My Heart Aches](https://open.spotify.com/track/7mTXXQLhBp3W0UCx4bLfYf) | [Son Little](https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7) | [Son Little \(Deluxe Edition\)](https://open.spotify.com/album/2jGQieA1EggldcxFAiQHjJ) | 3:03 |
+| 49 | [I'd Rather Go Blind](https://open.spotify.com/track/7xtpbJoe4D8NxpK6jMn88a) | [Leela James](https://open.spotify.com/artist/5sennRot4Ls82wfspEQuf2) | [Loving You More…In The Spirit Of Etta James](https://open.spotify.com/album/5SCIDpdnpyjDm2bjCj8cuF) | 4:11 |
 | 50 | [Falling](https://open.spotify.com/track/0Aqi7ArnBrGblW5T6p2jmD) | [Trevor Daniel](https://open.spotify.com/artist/7uaIm6Pw7xplS8Dy06V6pT) | [Nicotine](https://open.spotify.com/album/0D7yJonn41qsrIQ7YdWk2z) | 2:39 |
 
-Snapshot ID: `MTY1OTYwNTMwMCwwMDAwMDAwMDY1NTk1NjhmOWQyNzY2MGQ3NGNiMDllY2FlN2U3ZTU1`
+Snapshot ID: `MTY2NDcyNjM4MywwMDAwMDAwMDJmZWQwODVmMjU3NGY4MzA1MzI0N2VmODI5ZmQyNjY3`

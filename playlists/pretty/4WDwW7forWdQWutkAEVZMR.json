@@ -1,13 +1,129 @@
 {
-  "description": "Your go-to playlist for this week's hottest music featuring Beyonc\u00e9, Harry Styles &amp; more!",
-  "num_followers": 8315,
+  "description": "Your go-to playlist for this week's hottest music featuring Hozier, Harry Styles &amp; more!",
+  "num_followers": 8318,
   "original_name": "Columbia Records: Weekly Mix",
   "owner": {
     "name": "Columbia Records",
     "url": "https://open.spotify.com/user/columbiarecords_us"
   },
-  "snapshot_id": "NTU5MyxjNTBhMDk4ZTY5ODBkZDVhNTk0OTAyMjljYmRlNGU1YmMyZjMxZmY1",
+  "snapshot_id": "NTYxNSxlOTA1NjVmNWNmZjQyNzJmMzNhNGNjYTBmZjQxZmIzOWVkYjBiNTZm",
   "tracks": [
+    {
+      "added_at": "2022-10-07 14:51:27",
+      "album": {
+        "name": "Swan Upon Leda",
+        "url": "https://open.spotify.com/album/5aO7IZl8KxtyCeke37Jvk4"
+      },
+      "artists": [
+        {
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+        }
+      ],
+      "duration_ms": 222026,
+      "name": "Swan Upon Leda",
+      "url": "https://open.spotify.com/track/3JtVtwLYCy9WXcHLQyzRnl"
+    },
+    {
+      "added_at": "2022-10-07 14:52:14",
+      "album": {
+        "name": "Inseparables",
+        "url": "https://open.spotify.com/album/31DfpAhFnPyIXUZFWdu32y"
+      },
+      "artists": [
+        {
+          "name": "Yahritza Y Su Esencia",
+          "url": "https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A"
+        },
+        {
+          "name": "Ivan Cornejo",
+          "url": "https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV"
+        }
+      ],
+      "duration_ms": 171724,
+      "name": "Inseparables",
+      "url": "https://open.spotify.com/track/57GWBz1UtT6iei1jrbkovI"
+    },
+    {
+      "added_at": "2022-10-07 14:49:25",
+      "album": {
+        "name": "Normal",
+        "url": "https://open.spotify.com/album/0vSwuVKVrx6L4RJuJkWiAL"
+      },
+      "artists": [
+        {
+          "name": "347aidan",
+          "url": "https://open.spotify.com/artist/0bBz5bRBkExaej2HxtVfCw"
+        }
+      ],
+      "duration_ms": 162197,
+      "name": "Normal",
+      "url": "https://open.spotify.com/track/5j2O2yeurM9fD2rgCPt7pD"
+    },
+    {
+      "added_at": "2022-10-07 14:50:36",
+      "album": {
+        "name": "Reason For Leaving",
+        "url": "https://open.spotify.com/album/26iZXxIh2xKEG5PTdHJfb6"
+      },
+      "artists": [
+        {
+          "name": "Erin Kinsey",
+          "url": "https://open.spotify.com/artist/5TtSGhhCPt56x4ZPfg7DFq"
+        }
+      ],
+      "duration_ms": 195706,
+      "name": "Reason For Leaving",
+      "url": "https://open.spotify.com/track/2K3HTRLY0nnpoKbXDY1Nnv"
+    },
+    {
+      "added_at": "2022-10-07 14:50:16",
+      "album": {
+        "name": "Fading Away",
+        "url": "https://open.spotify.com/album/2tv1vYb3kL8OENATe7bRFe"
+      },
+      "artists": [
+        {
+          "name": "Elaine",
+          "url": "https://open.spotify.com/artist/5ZkuGe2wkDbeL8JmmhvMOx"
+        }
+      ],
+      "duration_ms": 237727,
+      "name": "Fading Away",
+      "url": "https://open.spotify.com/track/6MJz5kRadbyADILsgi9Km4"
+    },
+    {
+      "added_at": "2022-10-07 14:51:46",
+      "album": {
+        "name": "Trust",
+        "url": "https://open.spotify.com/album/4R536rrBEQjh7g1MrhasoS"
+      },
+      "artists": [
+        {
+          "name": "RealestK",
+          "url": "https://open.spotify.com/artist/35R1B97CfrqKFFI3QBkTDx"
+        }
+      ],
+      "duration_ms": 165419,
+      "name": "Trust",
+      "url": "https://open.spotify.com/track/6YecmNnABghHDPTNlG3md5"
+    },
+    {
+      "added_at": "2022-10-07 14:50:50",
+      "album": {
+        "name": "Dance All Over Me (Acoustic)",
+        "url": "https://open.spotify.com/album/7cZx7Ph6c35Tcj3wv8eNME"
+      },
+      "artists": [
+        {
+          "name": "George Ezra",
+          "url": "https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j"
+        }
+      ],
+      "duration_ms": 214884,
+      "name": "Dance All Over Me - Acoustic",
+      "url": "https://open.spotify.com/track/6rjuwOVEHUAVBlzSM7lEZh"
+    },
     {
       "added_at": "2022-09-30 14:25:40",
       "album": {
@@ -23,146 +139,6 @@
       "duration_ms": 147040,
       "name": "Do I Love You (Indeed I Do)",
       "url": "https://open.spotify.com/track/0JsyYwcVC0PwaCewYnEBYJ"
-    },
-    {
-      "added_at": "2022-09-30 14:27:00",
-      "album": {
-        "name": "Turning Onto You",
-        "url": "https://open.spotify.com/album/19IxPhDOBKzybB79cFUNnF"
-      },
-      "artists": [
-        {
-          "name": "First Aid Kit",
-          "url": "https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1"
-        }
-      ],
-      "duration_ms": 201826,
-      "name": "Turning Onto You",
-      "url": "https://open.spotify.com/track/4tl5Knezh7Qohx4TWgJFpP"
-    },
-    {
-      "added_at": "2022-09-30 14:29:00",
-      "album": {
-        "name": "man",
-        "url": "https://open.spotify.com/album/4uxMo66hTRBC8YSXOq9hPv"
-      },
-      "artists": [
-        {
-          "name": "quinnie",
-          "url": "https://open.spotify.com/artist/4aEuFytRb43SAgjchJDk5e"
-        }
-      ],
-      "duration_ms": 238813,
-      "name": "man",
-      "url": "https://open.spotify.com/track/5Hx1C1ik2gQpoztd8fstot"
-    },
-    {
-      "added_at": "2022-09-30 14:30:48",
-      "album": {
-        "name": "Mistakes",
-        "url": "https://open.spotify.com/album/2gdsRtb1ckC5S0sC2VxwTJ"
-      },
-      "artists": [
-        {
-          "name": "24kGoldn",
-          "url": "https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z"
-        }
-      ],
-      "duration_ms": 149451,
-      "name": "Mistakes",
-      "url": "https://open.spotify.com/track/4NAraLVJxtLPJhmKKVklKa"
-    },
-    {
-      "added_at": "2022-09-30 14:29:28",
-      "album": {
-        "name": "Bruce Wayne",
-        "url": "https://open.spotify.com/album/5BOehCpbaZHz4WDpQVFUvb"
-      },
-      "artists": [
-        {
-          "name": "RealestK",
-          "url": "https://open.spotify.com/artist/35R1B97CfrqKFFI3QBkTDx"
-        }
-      ],
-      "duration_ms": 123629,
-      "name": "Bruce Wayne",
-      "url": "https://open.spotify.com/track/2POzxzlAyRJ2yEMD8XyV7a"
-    },
-    {
-      "added_at": "2022-09-30 14:28:43",
-      "album": {
-        "name": "Why U Callin Me",
-        "url": "https://open.spotify.com/album/34Qgm2nSKpA3VC1T90sTlA"
-      },
-      "artists": [
-        {
-          "name": "Onlybino!",
-          "url": "https://open.spotify.com/artist/2kdZj6QvBXkeo95aio52pF"
-        }
-      ],
-      "duration_ms": 146549,
-      "name": "Why U Callin Me",
-      "url": "https://open.spotify.com/track/2JTRQRhATlny1zZ1qjHAhp"
-    },
-    {
-      "added_at": "2022-09-30 14:30:14",
-      "album": {
-        "name": "There I Said It",
-        "url": "https://open.spotify.com/album/3Xr1ZEZdtVCwkvEOHU8Ry6"
-      },
-      "artists": [
-        {
-          "name": "Valencia Grace",
-          "url": "https://open.spotify.com/artist/5cb5ljWIIrvUxokdf2vl6A"
-        }
-      ],
-      "duration_ms": 227932,
-      "name": "There I Said It",
-      "url": "https://open.spotify.com/track/2YU14wLn68Wgw2Xhl43G1N"
-    },
-    {
-      "added_at": "2022-09-30 14:29:47",
-      "album": {
-        "name": "SNAP PACK",
-        "url": "https://open.spotify.com/album/3CVEB0FPk25Ds64ALgxjH7"
-      },
-      "artists": [
-        {
-          "name": "Rosa Linn",
-          "url": "https://open.spotify.com/artist/46xBNx0j6cwY6sD9LgMTm1"
-        },
-        {
-          "name": "Alfa",
-          "url": "https://open.spotify.com/artist/7GacyaFUp0qkEJglERX9N7"
-        }
-      ],
-      "duration_ms": 180642,
-      "name": "SNAP - Italian",
-      "url": "https://open.spotify.com/track/2jLW0YomEl9zIal6P7QPpc"
-    },
-    {
-      "added_at": "2022-09-30 14:26:47",
-      "album": {
-        "name": "Why Can't You Wait (3LAU Remix)",
-        "url": "https://open.spotify.com/album/1nUpGyJyMaqU9fL5qEG3eI"
-      },
-      "artists": [
-        {
-          "name": "The Chainsmokers",
-          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
-        },
-        {
-          "name": "Bob Moses",
-          "url": "https://open.spotify.com/artist/6LHsnRBUYhFyt01PdKXAF5"
-        },
-        {
-          "name": "3LAU",
-          "url": "https://open.spotify.com/artist/4YLQaW1UU3mrVetC8gNkg5"
-        }
-      ],
-      "duration_ms": 221612,
-      "name": "Why Can't You Wait - 3LAU Remix",
-      "url": "https://open.spotify.com/track/6KXmKsgyW8EtRHlMk1ehKi"
     },
     {
       "added_at": "2022-09-23 14:43:25",
@@ -181,22 +157,6 @@
       "url": "https://open.spotify.com/track/38T0tPVZHcPZyhtOcCP7pF"
     },
     {
-      "added_at": "2022-09-16 14:50:11",
-      "album": {
-        "name": "Hell Paso",
-        "url": "https://open.spotify.com/album/5seABmIu2cnoRMDoVHZvOD"
-      },
-      "artists": [
-        {
-          "name": "Koe Wetzel",
-          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
-        }
-      ],
-      "duration_ms": 156610,
-      "name": "Money Spent",
-      "url": "https://open.spotify.com/track/1HxcB2FgfYVhkbqNMCmq1O"
-    },
-    {
       "added_at": "2022-09-16 14:50:23",
       "album": {
         "name": "The Hardest Part",
@@ -213,20 +173,20 @@
       "url": "https://open.spotify.com/track/1rwMM6ixKWnsRQMUeRbXeT"
     },
     {
-      "added_at": "2022-09-09 13:57:45",
+      "added_at": "2022-05-20 04:16:34",
       "album": {
-        "name": "MOTOMAMI +",
-        "url": "https://open.spotify.com/album/3zbiiu3JTibw0esC7eoMXr"
+        "name": "Harry's House",
+        "url": "https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h"
       },
       "artists": [
         {
-          "name": "ROSAL\u00cdA",
-          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+          "name": "Harry Styles",
+          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
         }
       ],
-      "duration_ms": 120991,
-      "name": "CHIRI",
-      "url": "https://open.spotify.com/track/3CBaIz3eftJCf9GHycFanL"
+      "duration_ms": 177954,
+      "name": "Late Night Talking",
+      "url": "https://open.spotify.com/track/1qEmFfgcLObUfQm0j1W2CK"
     },
     {
       "added_at": "2022-09-09 14:01:14",
@@ -243,22 +203,6 @@
       "duration_ms": 127293,
       "name": "While You're At It",
       "url": "https://open.spotify.com/track/0hfHF0FsMNyLoaqsvJmqfq"
-    },
-    {
-      "added_at": "2022-05-20 04:16:34",
-      "album": {
-        "name": "Harry's House",
-        "url": "https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h"
-      },
-      "artists": [
-        {
-          "name": "Harry Styles",
-          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
-        }
-      ],
-      "duration_ms": 177954,
-      "name": "Late Night Talking",
-      "url": "https://open.spotify.com/track/1qEmFfgcLObUfQm0j1W2CK"
     },
     {
       "added_at": "2022-08-26 14:25:28",

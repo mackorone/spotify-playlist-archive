@@ -4,7 +4,7 @@
 
 > Relax and fall asleep to ASMR trigger sounds \(no talking\).
 
-106 songs - 6 hr 20 min - [published](https://open.spotify.com/playlist/1jMZl3sblz7aThsvIcYET0)
+108 songs - 6 hr 24 min - [published](https://open.spotify.com/playlist/1jMZl3sblz7aThsvIcYET0)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [Brushing Hair](https://open.spotify.com/track/6sYYyEh9z14wOYwsnrqOAK) | [Lucy Stella ASMR](https://open.spotify.com/artist/6HvjU87Hkljkcvgpm2inJS) | [ASMR Calm](https://open.spotify.com/album/3P8FCAFIMtxeYPv9Wk4INP) | 3:31 | 2022-02-18 |  |
 | [Brushing the Microphone ASMR](https://open.spotify.com/track/3CYq5eDRNgrq2nm5FG5I7x) | [ASMR Insomnia Aid & Sounds for Sleep](https://open.spotify.com/artist/0yN0qOhddGt45V7av1mNVO), [ASMR Sounds](https://open.spotify.com/artist/3k8lnyyV1B08YBjFNIFfIG) | [ASMR Looped Sounds for Relax, Sleep, Mind Cleansing and Calming](https://open.spotify.com/album/1o2iMD9Lt4dLWOlVWlupoJ) | 2:10 | 2021-11-12 |  |
 | [Bubble Popping While Covering Ears](https://open.spotify.com/track/0QL4p6EysgYAR9AcUdZP4y) | [ASMR LillyVinnily](https://open.spotify.com/artist/2SOg0KlxmlG4REkUHl2pvJ) | [1 Hour ASMR Triggers for Anxiety](https://open.spotify.com/album/1e9YWKypiLPR4BSjQjsHB3) | 1:48 | 2021-11-12 |  |
+| [Bubbles](https://open.spotify.com/track/3HwwVWDPPqNKXtlzPi65my) | [Ljudith](https://open.spotify.com/artist/5DihhCZUInKqFLe3K00DLP) | [Bubbles](https://open.spotify.com/album/3Uan2R7PkeAlUldR7B4EGC) | 1:59 | 2022-10-07 |  |
 | [Burning Your Ears \- ASMR Random Triggers](https://open.spotify.com/track/4nEmGLZQrJLwmqEwKrTFX7) | [Thiệu Rino](https://open.spotify.com/artist/6f2tNSxNSFty7kAaxhlFCf) | [F1](https://open.spotify.com/album/47kDfjVp3w2PwiGw7NhkXg) | 10:35 | 2022-02-25 |  |
 | [Butterbrain, Pt\. 1](https://open.spotify.com/track/30DcfbB1dyqHODAbgcAr1X) | [TheOneLilium ASMR](https://open.spotify.com/artist/7qOvhKuza5UPfivHA3yyQa) | [Butterbrain](https://open.spotify.com/album/3Mz5DE0IrA84wGqjSxxWhC) | 4:06 | 2021-11-12 |  |
 | [Chess ASMR](https://open.spotify.com/track/66FzaOocADp4Yx4Nu9G0ax) | [ASMR Billy](https://open.spotify.com/artist/7zThNsQGpD1QW6XvXTlEAC) | [Relaxing ASMR Noises](https://open.spotify.com/album/1ahfASpNH14OETQXrl7uju) | 1:25 | 2022-07-14 |  |
@@ -51,6 +52,7 @@
 | [Fingernail Scratching Paper](https://open.spotify.com/track/60rbqq3tgWkK28x4vhNewm) | [ASMR Anonymous](https://open.spotify.com/artist/1CBbKj7iORJ5c6Kzhx6fAC) | [Headphones for ASMR Binaural](https://open.spotify.com/album/2hsg8Z6T9JOUmeXXgDaP34) | 2:32 | 2022-07-14 |  |
 | [Flipping Through an Old Book, Pt\. 2](https://open.spotify.com/track/0iGKKPHvk0lTaQDb9mQw12) | [Moonlight Cottage ASMR](https://open.spotify.com/artist/7HTOAi6IQXsE54wqgwYdFn) | [ASMR Flipping Through Old Book by Candlelight](https://open.spotify.com/album/46zfBFpGDavTkh2dtOmFvC) | 4:22 | 2021-11-12 |  |
 | [Fluff in Your Ears](https://open.spotify.com/track/0XUA75R3FV8tCZYpj9hSvZ) | [ASMRdB](https://open.spotify.com/artist/5ohuXxfEFm99XxidgDTFrx) | [Assorted Triggers \(Crinkles\)](https://open.spotify.com/album/5hfBqNeWAcqwXOtvpMHTuH) | 1:34 | 2021-11-12 |  |
+| [Fluffy pillow](https://open.spotify.com/track/2Mptwhgsc0nSrgNvahRt5y) | [Willy Ymer](https://open.spotify.com/artist/6F5ZrBdFO0aI22v3p4GPK3) | [Fluffy Pillow](https://open.spotify.com/album/3BafvyZxxVaBbAg7cJ5rcQ) | 2:37 | 2022-10-07 |  |
 | [Foam Adventures](https://open.spotify.com/track/1ayXJx6qI4NNuWJYhr8m8d) | [Mister ASMR](https://open.spotify.com/artist/57kdKKd7dzxWn5n6a3MpbM) | [My ASMR](https://open.spotify.com/album/40CtxGFKuTFyPVtEBVYZrp) | 4:35 | 2022-07-14 |  |
 | [Forks on Mic \- Brain Tingles](https://open.spotify.com/track/2ElfolSIm4silLWUdnj6it) | [Alexa ASMR](https://open.spotify.com/artist/2EhgjuObTmGoYLqtqoYYRF) | [Asmr Sounds for Intense Tingles and Deep Sleep](https://open.spotify.com/album/4kNuFMvTLoqGASIwy9aTD4) | 2:09 | 2021-11-12 | 2022-07-13 |
 | [Gentle Sounds Assortment For Sleep Pt.4](https://open.spotify.com/track/2lszKRTP9uKqncjBXu1lwF) | [RaffyTaphy ASMR](https://open.spotify.com/artist/3LPeSxsCOzqhTSWALkiXeR) | [Gentle Sounds Assortment For Sleep](https://open.spotify.com/album/5s68qyXTLkFxzhDjSe6acr) | 3:58 | 2022-01-07 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXYjHx7A35pj.md) - [plain]
 
 > <a href="http://casaum.org/">Casa 1</a> recommends songs from LBT women \(lesbians, bi and trans\)\. \| Cover:  Ventura Profana
 
-[Spotify](https://open.spotify.com/user/spotify) - 206 likes - 50 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 210 likes - 50 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXYjHx7A35pj.md) - [plain]
 | 26 | [Mutante](https://open.spotify.com/track/7kTTnno8q1kjwfj8gGfQg8) | [MEL](https://open.spotify.com/artist/3gjrLHmv3vMvjIXPPeUP2L) | [Mutante](https://open.spotify.com/album/6Y2zujexTc4TaKBnoVYHPu) | 2:22 |
 | 27 | [Parti do Alto](https://open.spotify.com/track/3i3MTd1KjiPSZCe8ybaIOV) | [Assucena](https://open.spotify.com/artist/4JUqukNJyqVXHjdRlFcFu8) | [Parti do Alto](https://open.spotify.com/album/0HUIJKXaWjrVKTdAyFNWWN) | 3:08 |
 | 28 | [Bombas e Flores](https://open.spotify.com/track/5cx2xDYO7jANWBWWeM6DTg) | [Gabi Nyarai](https://open.spotify.com/artist/0IB5Ndp2YZyowbTFcBjPxx) | [Bombas e Flores](https://open.spotify.com/album/2sbjPhAQBP2Q2EZ50nuVTv) | 3:05 |
-| 29 | [Mulheres \- Ao Vivo](https://open.spotify.com/track/7tf5FipBCRrNi1FKkVXJl4) | [Doralyce](https://open.spotify.com/artist/2y04NODkS9eKJV33k3VZBU) | [Doralyce no Estúdio Showlivre \(Ao Vivo\)](https://open.spotify.com/album/6hYNf67Kld5mMAonGFhDxx) | 3:20 |
+| 29 | [Mulheres \- Ao Vivo](https://open.spotify.com/track/7tf5FipBCRrNi1FKkVXJl4) | [Doralyce](https://open.spotify.com/artist/2y04NODkS9eKJV33k3VZBU), [Showlivre](https://open.spotify.com/artist/1Wmsh8shHV9kBkT3F9M40U) | [Doralyce no Estúdio Showlivre \(Ao Vivo\)](https://open.spotify.com/album/6hYNf67Kld5mMAonGFhDxx) | 3:20 |
 | 30 | [Psiu](https://open.spotify.com/track/3aMOVCxQt9Xhoy1MdygCcv) | [Liniker](https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C) | [Psiu](https://open.spotify.com/album/71oJRTxnV00wZA0NwPRH0v) | 4:57 |
 | 31 | [Serei A](https://open.spotify.com/track/4pfxefygvuMNU3zuBP02LM) | [Linn da Quebrada](https://open.spotify.com/artist/5gGBopc7iw8yLqwxfPIv3t), [Liniker](https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C) | [Pajubá](https://open.spotify.com/album/5xyoM3kQr3FJSGk2CVP6du) | 4:19 |
 | 32 | [Estrago](https://open.spotify.com/track/41J9X7DKBKJKSIJaHjsQkg) | [Crime Caqui](https://open.spotify.com/artist/4WddE3seM79T6fOoIk6fwo) | [Session Very Special](https://open.spotify.com/album/0o7hnJFHgGxGWb8cKSdMkn) | 2:49 |

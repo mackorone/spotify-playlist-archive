@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "Explore the ever-evolving folk & roots scene. Cover: Paris Paloma",
+  "description": "Explore the ever-evolving folk & roots scene. Cover: Bonny Light Horseman",
   "name": "Roots Rising",
   "published_playlist_ids": [
     "253UejjPPflLcat0bb66LZ"
@@ -773,7 +773,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 155733,
       "name": "break the ground",
       "url": "https://open.spotify.com/track/2gXTKHCq2yBPouSxkUZuA7"
@@ -4868,6 +4868,24 @@
     },
     {
       "album": {
+        "name": "Turning Onto You",
+        "url": "https://open.spotify.com/album/19IxPhDOBKzybB79cFUNnF"
+      },
+      "artists": [
+        {
+          "name": "First Aid Kit",
+          "url": "https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201826,
+      "name": "Turning Onto You",
+      "url": "https://open.spotify.com/track/4tl5Knezh7Qohx4TWgJFpP"
+    },
+    {
+      "album": {
         "name": "Udhero Na",
         "url": "https://open.spotify.com/album/5KqGG9d6f7cdvmgGEnqNBe"
       },
@@ -5450,6 +5468,24 @@
     },
     {
       "album": {
+        "name": "In These Silent Days (Deluxe Edition) In The Canyon Haze",
+        "url": "https://open.spotify.com/album/2FOAtTMAfplWnTKf7rl12Q"
+      },
+      "artists": [
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257853,
+      "name": "You and Me On The Rock (In The Canyon Haze)",
+      "url": "https://open.spotify.com/track/1ydzL5SIoSRCpEIYWhsWE5"
+    },
+    {
+      "album": {
         "name": "You and Me On The Rock (In The Canyon Haze)",
         "url": "https://open.spotify.com/album/22EMSIjfksTwA1yizWVXa6"
       },
@@ -5461,7 +5497,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 257853,
       "name": "You and Me On The Rock (In The Canyon Haze)",
       "url": "https://open.spotify.com/track/7tmtdHPAoUZLuJqTnDR7FS"

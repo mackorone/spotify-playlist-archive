@@ -4,7 +4,7 @@
 
 > "Absolute Six" and also "Above BrandNew Six".
 
-83 songs - 4 hr 45 min - [published](https://open.spotify.com/playlist/0IcP0dCuoCBPPVkleOjySZ)
+90 songs - 5 hr 7 min - [published](https://open.spotify.com/playlist/0IcP0dCuoCBPPVkleOjySZ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,12 +25,15 @@
 | [BREAK UP](https://open.spotify.com/track/3cPl37Es32lxWY9AT3evat) | [LIM YOUNG MIN](https://open.spotify.com/artist/7s72t76jrvQLHUiYraBSZ0), [AB6IX](https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g) | [5NALLY](https://open.spotify.com/album/5FFZIyxJB33f3kgpCyDURC) | 3:51 | 2022-05-22 |  |
 | [BREATHE](https://open.spotify.com/track/4XbyRgWe6yU4wE6WShdTEs) | [AB6IX](https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g) | [B:COMPLETE](https://open.spotify.com/album/5cxJNT3zQw9kvJ0wpwWY7V) | 3:37 | 2022-05-22 |  |
 | [CHANCE](https://open.spotify.com/track/7zbrGdA3eIhoCT3WLOfU5q) | [AB6IX](https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g) | [CHANCE](https://open.spotify.com/album/0rRO9zYWBkQa03sAXplVmA) | 2:51 | 2022-09-06 |  |
+| [CHANCE \- Korean Version](https://open.spotify.com/track/1ezJFLTZ2lSxN06qLn2P8z) | [AB6IX](https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g) | [TAKE A CHANCE](https://open.spotify.com/album/1QDAlRAOgIMPBQpMQ4LZ0E) | 2:51 | 2022-10-04 |  |
 | [CHANDELIER](https://open.spotify.com/track/2NQKN3x5Evk8xsOEqUBUjX) | [AB6IX](https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g), [BDC](https://open.spotify.com/artist/3FgebbL1Lp8wynkXgtscfd), [Lee Eun Sang](https://open.spotify.com/artist/23oRZ1WSV1YCPk3Ra7ivzJ) | [BRANDNEW YEAR 2020: BRANDNEW UP](https://open.spotify.com/album/51McPKBbRxnG8Uu1243Xl9) | 3:16 | 2022-05-22 |  |
 | [CHERRY](https://open.spotify.com/track/5UCTT2liT61iPL2cCV9Gto) | [AB6IX](https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g) | [MO’ COMPLETE](https://open.spotify.com/album/4TlJp8jSxKfJg0cuwONLef) | 3:30 | 2022-05-22 |  |
 | [CLOSE](https://open.spotify.com/track/5CXbZ60u7fq4UjlLnOig5Q) | [AB6IX](https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g) | [MO' COMPLETE: HAVE A DREAM](https://open.spotify.com/album/3Z1J8LibfFAvFDtDpXWQzH) | 3:39 | 2022-05-22 |  |
 | [COLOR EYE](https://open.spotify.com/track/2VsjGK8eJPCthu3IANWwOH) | [PARK WOO JIN](https://open.spotify.com/artist/0kS1oLtVdBidgH2aKloRKR), [AB6IX](https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g) | [5NALLY](https://open.spotify.com/album/5FFZIyxJB33f3kgpCyDURC) | 3:12 | 2022-05-22 |  |
+| [Complicated](https://open.spotify.com/track/1zOqkbQj91txSswjXJZfXL) | [AB6IX](https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g) | [TAKE A CHANCE](https://open.spotify.com/album/1QDAlRAOgIMPBQpMQ4LZ0E) | 3:06 | 2022-10-04 |  |
 | [CONSOLATION](https://open.spotify.com/track/3tktQ5TEIE6CiDgb7io47d) | [PARK WOO JIN](https://open.spotify.com/artist/0kS1oLtVdBidgH2aKloRKR) | [COMPLETE WITH YOU](https://open.spotify.com/album/3txbVI8WFHrkcnEV6JGIXx) | 3:09 | 2022-05-22 |  |
 | [CRAZY LOVE](https://open.spotify.com/track/338hmbCHBYnVecbOGCs4Gd) | [JEON WOONG](https://open.spotify.com/artist/7HkRTmxvjlJxL3lEOSxpqN) | [COMPLETE WITH YOU](https://open.spotify.com/album/3txbVI8WFHrkcnEV6JGIXx) | 3:25 | 2022-05-22 |  |
+| [Crow](https://open.spotify.com/track/4ZA0mzMW4p1M0cnDT8dkw5) | [AB6IX](https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g) | [TAKE A CHANCE](https://open.spotify.com/album/1QDAlRAOgIMPBQpMQ4LZ0E) | 3:08 | 2022-10-04 |  |
 | [D.R.E.A.M](https://open.spotify.com/track/1MTU0TM6Nc3qWSbkto5R49) | [AB6IX](https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g) | [6IXENSE](https://open.spotify.com/album/0hyCfY4t7eGbYwjDqmQDO8) | 3:24 | 2022-05-22 |  |
 | [DANCE FOR TWO](https://open.spotify.com/track/7scwc2Hegepz04a3bnlmKC) | [AB6IX](https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g) | [B:COMPLETE](https://open.spotify.com/album/5cxJNT3zQw9kvJ0wpwWY7V) | 3:24 | 2022-05-22 |  |
 | [DANDELION](https://open.spotify.com/track/3a7omVEAcSSd8fYqhBXeNj) | [AB6IX](https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g) | [6IXENSE](https://open.spotify.com/album/0hyCfY4t7eGbYwjDqmQDO8) | 3:08 | 2022-05-22 |  |
@@ -66,8 +69,10 @@
 | [NOTHING WITHOUT YOU](https://open.spotify.com/track/3Jx5wapdhDapIYX8EtHyRf) | [AB6IX](https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g) | [6IXENSE](https://open.spotify.com/album/0hyCfY4t7eGbYwjDqmQDO8) | 3:39 | 2022-05-22 |  |
 | [OFF THE RECORD](https://open.spotify.com/track/6axKJDZCXcbZdfJckoO0GT) | [AB6IX](https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g) | [MO’ COMPLETE](https://open.spotify.com/album/4TlJp8jSxKfJg0cuwONLef) | 3:06 | 2022-05-22 |  |
 | [PARACHUTE](https://open.spotify.com/track/0F3nwA38IqhL7rezgQv9N8) | [AB6IX](https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g) | [A to B](https://open.spotify.com/album/3KuC2m80vVPinf5rYjZSch) | 2:59 | 2022-05-22 |  |
+| [Paranoia](https://open.spotify.com/track/5FIZD2ZrMFPoq7oHB1p02q) | [AB6IX](https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g) | [TAKE A CHANCE](https://open.spotify.com/album/1QDAlRAOgIMPBQpMQ4LZ0E) | 3:16 | 2022-10-04 |  |
 | [PRETTY](https://open.spotify.com/track/6oUu7veCji260Uhx7rM9Di) | [AB6IX](https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g) | [6IXENSE](https://open.spotify.com/album/0hyCfY4t7eGbYwjDqmQDO8) | 3:31 | 2022-05-22 |  |
 | [RED UP](https://open.spotify.com/track/3fu0HeerXHfYzcVUVu4eJe) | [AB6IX](https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g) | [VIVID](https://open.spotify.com/album/75uAqARjBVK6RYQBddduIJ) | 3:39 | 2022-05-22 |  |
+| [Resonance](https://open.spotify.com/track/74yjPXCV3Ue97jV4DkSZWK) | [AB6IX](https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g) | [TAKE A CHANCE](https://open.spotify.com/album/1QDAlRAOgIMPBQpMQ4LZ0E) | 3:23 | 2022-10-04 |  |
 | [ROSE, SCENT, KISS](https://open.spotify.com/track/5eOb7OPhOkN0gUicVIcOCH) | [LEE DAE HWI](https://open.spotify.com/artist/5j4ZfrjfKJhMBbDgTFxIwB), [AB6IX](https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g) | [5NALLY](https://open.spotify.com/album/5FFZIyxJB33f3kgpCyDURC) | 3:25 | 2022-05-22 |  |
 | [SALUTE](https://open.spotify.com/track/1S16NbaZItWP83Skxf0tZP) | [AB6IX](https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g) | [SALUTE: A NEW HOPE](https://open.spotify.com/album/0l35zvCONHylF3INQkVCL6) | 3:08 | 2022-05-22 |  |
 | [SALUTE](https://open.spotify.com/track/6dZjwys4OGDogFFVh89MBY) | [AB6IX](https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g) | [SALUTE](https://open.spotify.com/album/0rPtXoQoXvnGKk14lm9ghO) | 3:08 | 2022-05-22 |  |
@@ -82,6 +87,7 @@
 | [STAY YOUNG](https://open.spotify.com/track/3B1nflnhZHmUpbIovL66Pk) | [AB6IX](https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g) | [SALUTE: A NEW HOPE](https://open.spotify.com/album/0l35zvCONHylF3INQkVCL6) | 3:28 | 2022-05-22 |  |
 | [Sucker for your love](https://open.spotify.com/track/3BgoJFAHeowRMb6LePgwUn) | [AB6IX](https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g) | [A to B](https://open.spotify.com/album/3KuC2m80vVPinf5rYjZSch) | 3:34 | 2022-05-22 |  |
 | [Sucker for your love \-Japanese ver.\-](https://open.spotify.com/track/47sWBKKishXyQd91jsQwru) | [AB6IX](https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g) | [SAVIOR](https://open.spotify.com/album/4m4BcuAMkZAH3QZ2oWefoY) | 3:36 | 2022-09-06 |  |
+| [Sugarcoat](https://open.spotify.com/track/4iZyz8jYIritdTyeJhvwfy) | [AB6IX](https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g) | [TAKE A CHANCE](https://open.spotify.com/album/1QDAlRAOgIMPBQpMQ4LZ0E) | 2:49 | 2022-10-04 |  |
 | [SUNSET](https://open.spotify.com/track/3aw7rTmNRiB8NbV5w9z0Kw) | [AB6IX](https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g) | [6IXENSE](https://open.spotify.com/album/0hyCfY4t7eGbYwjDqmQDO8) | 3:21 | 2022-05-22 |  |
 | [SURREAL](https://open.spotify.com/track/28pj5S2cbGHxdF3sk2x4lc) | [AB6IX](https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g) | [VIVID](https://open.spotify.com/album/75uAqARjBVK6RYQBddduIJ) | 3:13 | 2022-05-22 |  |
 | [SURREAL \- Alternative Rock Mix](https://open.spotify.com/track/7MzEUfY3N6Uw8umnwMkaq0) | [AB6IX](https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g) | [SALUTE: A NEW HOPE](https://open.spotify.com/album/0l35zvCONHylF3INQkVCL6) | 3:37 | 2022-05-22 |  |
@@ -91,5 +97,6 @@
 | [VIVID](https://open.spotify.com/track/3z4jfbtiivb9HYzCROWF1c) | [AB6IX](https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g) | [VIVID](https://open.spotify.com/album/75uAqARjBVK6RYQBddduIJ) | 3:24 | 2022-05-22 |  |
 | [Walking In The Rain](https://open.spotify.com/track/1VYwqTxCvQZHpvI9WQVmdq) | [AB6IX](https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g) | [Walking In The Rain \(TEN PROJECT, Pt\. 4\)](https://open.spotify.com/album/0uFQ8dnMXvwkVRStsOn3va) | 3:41 | 2022-05-22 |  |
 | [We Could Love](https://open.spotify.com/track/13wL441ZsKQx0Xf8OMyM7C) | [AB6IX](https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g) | [A to B](https://open.spotify.com/album/3KuC2m80vVPinf5rYjZSch) | 3:28 | 2022-05-22 |  |
+| [Weightless](https://open.spotify.com/track/238xOQ6GbmUoIS9pqIZg15) | [AB6IX](https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g) | [TAKE A CHANCE](https://open.spotify.com/album/1QDAlRAOgIMPBQpMQ4LZ0E) | 3:06 | 2022-10-04 |  |
 
 \*This playlist was first scraped on 2022-05-30. Prior content cannot be recovered.

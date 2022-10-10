@@ -2565,7 +2565,7 @@
       ],
       "date_added": "2021-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-07",
       "duration_ms": 158181,
       "name": "Enigma",
       "url": "https://open.spotify.com/track/3uPv7gwfs6YzUVeD8pyZ4c"
@@ -3251,7 +3251,7 @@
       ],
       "date_added": "2021-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-07",
       "duration_ms": 188869,
       "name": "glitched persona",
       "url": "https://open.spotify.com/track/6xjkq0eR4c9p13N0eUwBlL"
@@ -5576,6 +5576,24 @@
     },
     {
       "album": {
+        "name": "Open Fields",
+        "url": "https://open.spotify.com/album/2fgoswYqbGfQDGQOoS3oWO"
+      },
+      "artists": [
+        {
+          "name": "Toby Tech",
+          "url": "https://open.spotify.com/artist/3AIUmOlOCNpbVbYL9RirIM"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261000,
+      "name": "Open Fields",
+      "url": "https://open.spotify.com/track/6PsPRjRVQpuxltouIiGJfu"
+    },
+    {
+      "album": {
         "name": "Autumn Here",
         "url": "https://open.spotify.com/album/2Ea5pKp1ORP8nXaOk85WHP"
       },
@@ -6325,7 +6343,7 @@
       ],
       "date_added": "2021-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-07",
       "duration_ms": 214250,
       "name": "Right Direction",
       "url": "https://open.spotify.com/track/3PQlWzST5koIKZDgKqV0Pc"
@@ -8298,6 +8316,24 @@
     },
     {
       "album": {
+        "name": "Tides",
+        "url": "https://open.spotify.com/album/6rRy69ecraoQrSPNEmKHa5"
+      },
+      "artists": [
+        {
+          "name": "Galian",
+          "url": "https://open.spotify.com/artist/0qzcDWdZl5yN8OnV0Fcb8w"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132259,
+      "name": "Tides",
+      "url": "https://open.spotify.com/track/2KYmsBzR2PYxgZbqu32lDX"
+    },
+    {
+      "album": {
         "name": "dreamin' II",
         "url": "https://open.spotify.com/album/1wAVW1mM6A3VDa0KKdT9xb"
       },
@@ -8815,6 +8851,24 @@
       "duration_ms": 158969,
       "name": "Watchtower",
       "url": "https://open.spotify.com/track/5cwjq1HlJEwOMOxFr8bPpT"
+    },
+    {
+      "album": {
+        "name": "Waves",
+        "url": "https://open.spotify.com/album/0CzWJtpffg6ZxlLXFts2SU"
+      },
+      "artists": [
+        {
+          "name": "Deep Sea Society",
+          "url": "https://open.spotify.com/artist/3zpqPg4vtWY6cauB9Zhf0t"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134521,
+      "name": "Waves",
+      "url": "https://open.spotify.com/track/7xOeXABPteFfNMEkfEe1aM"
     },
     {
       "album": {

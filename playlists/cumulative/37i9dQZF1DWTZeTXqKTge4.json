@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-10",
-  "description": "Le meilleur du hip-hop qu\u00e9b\u00e9cois. Photo: FREAKEY!, FouKi",
+  "description": "Le meilleur du hip-hop qu\u00e9b\u00e9cois. Photo: MikeZup",
   "name": "Rap qu\u00e9b",
   "published_playlist_ids": [
     "4D4AEhD54qWlJrQjbPhrFK"
@@ -155,6 +155,24 @@
       "duration_ms": 213882,
       "name": "3 saisons",
       "url": "https://open.spotify.com/track/7qppWvyQ9uw2TPAlHNzp4H"
+    },
+    {
+      "album": {
+        "name": "Je Suis Canicule",
+        "url": "https://open.spotify.com/album/4hWU5w4QTHAkB2mXM5PRgn"
+      },
+      "artists": [
+        {
+          "name": "Shreez",
+          "url": "https://open.spotify.com/artist/0qNrNX9FKJM0ZJFbcbMlMp"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224415,
+      "name": "3.5",
+      "url": "https://open.spotify.com/track/2yA4AFOcgm7GoBrqzZuFEv"
     },
     {
       "album": {
@@ -1152,7 +1170,7 @@
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 222170,
+      "duration_ms": 222186,
       "name": "Cercle Vicieux",
       "url": "https://open.spotify.com/track/2Wsp91MjyvE6fypPKmW3U4"
     },
@@ -2845,7 +2863,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 185391,
       "name": "J'pas une star 3",
       "url": "https://open.spotify.com/track/1YiMxNMZzvIuaHj5YisHrk"
@@ -3549,6 +3567,24 @@
       "duration_ms": 149549,
       "name": "Mon Chaw",
       "url": "https://open.spotify.com/track/5TOn3TDdaQhx9MAFJsw2dx"
+    },
+    {
+      "album": {
+        "name": "Monkey See Monkey Do",
+        "url": "https://open.spotify.com/album/2XHD8IJglSeKL203sKOFkR"
+      },
+      "artists": [
+        {
+          "name": "MikeZup",
+          "url": "https://open.spotify.com/artist/3kmw1yvcUhvPD3pDz8hOVk"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198061,
+      "name": "Monkey See Monkey Do",
+      "url": "https://open.spotify.com/track/1nkSM3aKotsIwOgafMpQqQ"
     },
     {
       "album": {
@@ -5163,8 +5199,8 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 241490,
+      "date_removed": "2022-10-08",
+      "duration_ms": 241505,
       "name": "Top",
       "url": "https://open.spotify.com/track/7L25Tg4Jxxk1Q5tS59QfUB"
     },

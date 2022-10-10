@@ -621,10 +621,28 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-07",
       "duration_ms": 198000,
       "name": "caroline",
       "url": "https://open.spotify.com/track/05RI03bh5Mn7Dz254H5XdB"
+    },
+    {
+      "album": {
+        "name": "caroline",
+        "url": "https://open.spotify.com/album/5KYKojZe2Kx6lRcUdvNTkp"
+      },
+      "artists": [
+        {
+          "name": "sombr",
+          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198000,
+      "name": "caroline",
+      "url": "https://open.spotify.com/track/73Moxwjn2ElzQBIMstG2ga"
     },
     {
       "album": {

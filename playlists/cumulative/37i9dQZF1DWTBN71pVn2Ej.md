@@ -4,7 +4,7 @@
 
 > The best new alternative rock tracks.
 
-219 songs - 12 hr 58 min - [published](https://open.spotify.com/playlist/5quM8neQlox9eNtsEIONeH)
+222 songs - 13 hr 8 min - [published](https://open.spotify.com/playlist/5quM8neQlox9eNtsEIONeH)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,9 +31,10 @@
 | [Billow](https://open.spotify.com/track/61sE4FBxsAKEgv4Pj0CzZi) | [Slow Crush](https://open.spotify.com/artist/3nOrhUtscermNwmfBQRZZv) | [Blue / Billow](https://open.spotify.com/album/417GpTkRc9qXb5SwhkcTOO) | 3:28 | 2022-06-30 | 2022-09-01 |
 | [Billow](https://open.spotify.com/track/6WUDy38EMl8ySyeNIizN66) | [Slow Crush](https://open.spotify.com/artist/3nOrhUtscermNwmfBQRZZv) | [Blue / Billow](https://open.spotify.com/album/6ZENWkVVA2aHc8Jufcu6WN) | 3:28 | 2022-03-31 | 2022-07-29 |
 | [Black Sky](https://open.spotify.com/track/3NGnjrnNzqOOEQ0sHV2KAp) | [Healing](https://open.spotify.com/artist/1oFMAPEoTCmYdcBBBwAxs0) | [Black Sky](https://open.spotify.com/album/4lWTlSRJQ3ldM7o0qGqJGZ) | 3:45 | 2022-09-30 |  |
+| [Black Wax](https://open.spotify.com/track/4V31QTDG2d8ljBOpp0Y0E4) | [The Subways](https://open.spotify.com/artist/4BntNFyiN3VGG4hhRRZt9d) | [Black Wax](https://open.spotify.com/album/4qVsaVR3UeytC0EOyYQhmX) | 2:56 | 2022-10-07 |  |
 | [blink](https://open.spotify.com/track/6cY3rrN8qX0RTLawwiHj6d) | [Sister Void](https://open.spotify.com/artist/3DpwZLxTvFL01VP4qPfRjn) | [blink](https://open.spotify.com/album/0BJ2xtwZ34wq86GS52eYkD) | 3:47 | 2022-02-17 | 2022-06-10 |
 | [Bones](https://open.spotify.com/track/0mjdhNsbHL8ZkY9ZlYKqjI) | [The Dead Love](https://open.spotify.com/artist/0G2ShWwCGT5aGubowNDk2N) | [Bones](https://open.spotify.com/album/6PHUR1v2nc0nH5IVfgtZyb) | 2:41 | 2022-03-10 | 2022-04-22 |
-| [Bored Again](https://open.spotify.com/track/3QQwKlLs6j1pcLcg5rllCp) | [Sunfish](https://open.spotify.com/artist/6pSYsLGxRDhv5iEBzZAI4J) | [Bored Again](https://open.spotify.com/album/7kL4uWsTVVZEr2BPdh5lNi) | 3:27 | 2022-06-30 |  |
+| [Bored Again](https://open.spotify.com/track/3QQwKlLs6j1pcLcg5rllCp) | [Sunfish](https://open.spotify.com/artist/6pSYsLGxRDhv5iEBzZAI4J) | [Bored Again](https://open.spotify.com/album/7kL4uWsTVVZEr2BPdh5lNi) | 3:27 | 2022-06-30 | 2022-10-08 |
 | [Boy](https://open.spotify.com/track/6N21ZBtnE0DoofBpoqpNed) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [Boy](https://open.spotify.com/album/27l9RTaXrZdE3FL4wTjenz) | 3:21 | 2021-12-16 | 2022-03-25 |
 | [boy](https://open.spotify.com/track/3Qw0WuniULBdYjXe2jsqCy) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu) | [boy](https://open.spotify.com/album/7ddxzwtg0QQj9kXYK29rpG) | 3:18 | 2022-08-12 | 2022-09-07 |
 | [Brother](https://open.spotify.com/track/3lIC6gFTx2XwCIAdhs88qU) | [No Money Kids](https://open.spotify.com/artist/7FhOFt7mORRpbrgHdSeCfF) | [Brother](https://open.spotify.com/album/5AwS7TwR4bOMzej8FqAniP) | 3:18 | 2021-12-16 | 2022-03-11 |
@@ -66,7 +67,7 @@
 | [Cottonmouth](https://open.spotify.com/track/2I1mqyexg7275tAoJWtjYm) | [False Heads](https://open.spotify.com/artist/2tZaXwpCHEhoVEBQuRI4vu) | [Sick Moon](https://open.spotify.com/album/0dOCttwqrzhoBngWnuwJCd) | 3:58 | 2022-09-30 |  |
 | [Cough Up Cherries](https://open.spotify.com/track/4Xyid6RWXc6zvgE20hQ2A6) | [Kills Birds](https://open.spotify.com/artist/4osJY6pXMgA3LezSpLSbkN) | [Cough Up Cherries](https://open.spotify.com/album/7bIjrTiG0YVJBjOBIVp03N) | 2:56 | 2021-12-16 | 2022-01-07 |
 | [Csts](https://open.spotify.com/track/0fbQD0elsISeiHp5nvVyPo) | [The Joy Formidable](https://open.spotify.com/artist/4LdZNE5MHGqvc0N9ivXNF3) | [Into the Blue \(Deluxe\)](https://open.spotify.com/album/1EjDpSngm4sh4mn8Hta2pV) | 4:54 | 2022-09-22 |  |
-| [Daddy's Boy](https://open.spotify.com/track/5xujNX1JdMNpN1Wcgd92vb) | [Pabst](https://open.spotify.com/artist/72fLLt8HNxQ2VwCbYFxQCD) | [Daddy's Boy](https://open.spotify.com/album/3RbnFr6QtEazEHuAB2HwDM) | 3:46 | 2022-07-31 |  |
+| [Daddy's Boy](https://open.spotify.com/track/5xujNX1JdMNpN1Wcgd92vb) | [Pabst](https://open.spotify.com/artist/72fLLt8HNxQ2VwCbYFxQCD) | [Daddy's Boy](https://open.spotify.com/album/3RbnFr6QtEazEHuAB2HwDM) | 3:46 | 2022-07-31 | 2022-10-08 |
 | [Daisy](https://open.spotify.com/track/57qEVblwTQpaR09g1XR2YT) | [Superbloom](https://open.spotify.com/artist/3xdggitmc1vFAChxAwhIIL) | [Daisy](https://open.spotify.com/album/5IcszA2oS2W638Ii5h25gZ) | 3:10 | 2022-09-06 |  |
 | [Dark Comedy](https://open.spotify.com/track/4Rw04eaMZanpPyW2j8eIvY) | [Down For Tomorrow](https://open.spotify.com/artist/06jJmL2NiArM3eKhgFjgl0) | [Dark Comedy](https://open.spotify.com/album/2SPx4csg5z4aDb5vdHmYZn) | 3:12 | 2022-02-17 | 2022-02-25 |
 | [Day Glow](https://open.spotify.com/track/5s3kFS752dETmodfX9c6d2) | [False Heads](https://open.spotify.com/artist/2tZaXwpCHEhoVEBQuRI4vu) | [Day Glow](https://open.spotify.com/album/3AixyFVAQHT4tJHaEvh68C) | 4:31 | 2022-04-07 | 2022-05-13 |
@@ -119,6 +120,7 @@
 | [Journey Proud](https://open.spotify.com/track/7lZYsbTb3qmsJlZZUXz0KK) | [Tree River](https://open.spotify.com/artist/1FLrUkEcdVbt27IZ3dnTIu) | [Journey Proud](https://open.spotify.com/album/4MthkjXIy91PKMCOdcX7E7) | 4:20 | 2022-02-10 | 2022-05-13 |
 | [Joy Thief](https://open.spotify.com/track/0TvVyjWvb13ZMm9aquJkdy) | [Dosser](https://open.spotify.com/artist/4docLaOEimvNmjei3CLOzB) | [Joy Thief](https://open.spotify.com/album/1j3gt3dSyuzOxHhNxXWOGR) | 3:57 | 2022-09-06 |  |
 | [Kamikaze](https://open.spotify.com/track/2sqNP3eZQzEaiy2cSrMKC6) | [Violent Soho](https://open.spotify.com/artist/2N2EFVDEbp2JB8ulEUVIxp) | [Kamikaze](https://open.spotify.com/album/1Mkw4WVQayaOJUOQDnhv8T) | 3:22 | 2022-09-06 |  |
+| [Killing Time](https://open.spotify.com/track/4me6CoGX1RHTu7VE7Hnkpl) | [Bleed](https://open.spotify.com/artist/15DYcBNS0c6bfsoezOIzT3) | [Killing Time](https://open.spotify.com/album/0RrpTBev2XySRIyv8dnNKn) | 3:14 | 2022-10-07 |  |
 | [Kleptomaniac](https://open.spotify.com/track/6t9F8OPLkxZgcGhZjPgPu1) | [Daisy Brain](https://open.spotify.com/artist/5WuDKeWph4EKsyy9e56Mz4) | [Disconnected Happy](https://open.spotify.com/album/12HqkWeJ7g1Tck2eRoGUda) | 2:50 | 2022-04-05 | 2022-09-23 |
 | [Laugh](https://open.spotify.com/track/2adbCG7wkQRHHvVZIe5bLN) | [Liotta Seoul](https://open.spotify.com/artist/5TVvYXtmzb3yeMZIiQdTQi), [MightyMacFluff](https://open.spotify.com/artist/7eI9L2dsuHooxUOcp6ATMf) | [Laugh](https://open.spotify.com/album/0OIDcAIHVAaxGc7ngpwN91) | 3:30 | 2022-09-08 | 2022-10-01 |
 | [Lava Lamp Pisco](https://open.spotify.com/track/142WFjtY5Pww6AmoLpLCNE) | [Psychedelic Porn Crumpets](https://open.spotify.com/artist/7GRrLcUxwtQLvOpO7OHO80) | [Lava Lamp Pisco](https://open.spotify.com/album/6OxduyVLmp55HliX26j59W) | 4:01 | 2021-12-16 | 2022-02-04 |
@@ -180,6 +182,7 @@
 | [Separate Ways](https://open.spotify.com/track/2Aj29eavK4DmnduCE8UXsA) | [Phantom Bay](https://open.spotify.com/artist/5WyFLIEQF4woWGUmgfyg7v) | [Separate Ways](https://open.spotify.com/album/2YYRNRiW5C1FZiET3a1UVq) | 1:57 | 2021-12-16 | 2022-04-15 |
 | [SEX DOPE GOLD](https://open.spotify.com/track/3jxOhd8XKXjNjV84USrER4) | [Ocean Grove](https://open.spotify.com/artist/0AlnGjlLLXglk9hnwErYDU) | [SEX DOPE GOLD](https://open.spotify.com/album/1eu5Cb1GTFJjTGOABSKjsI) | 2:57 | 2022-02-24 | 2022-05-27 |
 | [spiralling](https://open.spotify.com/track/310DWtC6vJzSPdexKb0Dnq) | [Exit Dream](https://open.spotify.com/artist/1vjClLSU7owOEFgBruZVWs) | [spiralling](https://open.spotify.com/album/1aHO2uXq0zKcauZi2NjcV4) | 3:53 | 2022-06-30 |  |
+| [Star](https://open.spotify.com/track/3htTIczJijYQUMhuExSOED) | [Liotta Seoul](https://open.spotify.com/artist/5TVvYXtmzb3yeMZIiQdTQi) | [Star](https://open.spotify.com/album/57wIEJkgUzg17Qyns6JvXz) | 3:35 | 2022-10-07 |  |
 | [Stay Sane](https://open.spotify.com/track/7IhqfL5O6ODzo3GvsJWfPp) | [Chlorine](https://open.spotify.com/artist/3JUz5tz4Whdo5kaW8uOKjF) | [Stay Sane](https://open.spotify.com/album/1bV5jcaO8VJ1axYqK77MTE) | 3:03 | 2022-06-09 | 2022-06-17 |
 | [Stick Around](https://open.spotify.com/track/1bgCgY2vAwJ3mRMjb0g8lA) | [The Luka State](https://open.spotify.com/artist/6DaXEbr3LdLNcui8pZf6AF) | [Stick Around](https://open.spotify.com/album/7ochAwB26q3WPLmeEnnsYF) | 3:22 | 2022-08-31 |  |
 | [Stick to Silence](https://open.spotify.com/track/0a0tGgTGDmo2ChpB7IWTbc) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [Stick to Silence](https://open.spotify.com/album/0yAfmA16uaH56VfgXuhjuu) | 3:46 | 2022-04-21 | 2022-09-07 |
@@ -193,7 +196,7 @@
 | [Sway](https://open.spotify.com/track/4pW0Z7cIfzKglcD5aBJMbC) | [SHEER](https://open.spotify.com/artist/1t1MZaxu6GhHdWTkZwx8W4) | [Sway](https://open.spotify.com/album/2qgWb4WmKxAe9xZp6l5DzV) | 3:58 | 2022-05-19 | 2022-09-07 |
 | [Sweet Dreams of Otherness](https://open.spotify.com/track/02AtE63KsG9iYLaznzv2aM) | [Alexisonfire](https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2) | [Sweet Dreams of Otherness](https://open.spotify.com/album/5z9liNsv9Mnuhj7HSNWv1g) | 4:44 | 2022-03-10 | 2022-05-20 |
 | [System \(Failing\)](https://open.spotify.com/track/0pDeQOXbQyA3rWKDxwS45c) | [Soul Blind](https://open.spotify.com/artist/4u8phrcaIdvRzcGq5DcQJa) | [System \(Failing\)](https://open.spotify.com/album/2jebUvkyXpOU4Y2WjzdHDo) | 3:51 | 2022-09-08 |  |
-| [T.W.I.N.](https://open.spotify.com/track/0AyN9SW50iTYEI17mdg8BG) | [Narrow Head](https://open.spotify.com/artist/4g6ODwOQYRZLsP89kEoBIu) | [T.W.I.N.](https://open.spotify.com/album/64wKY2vc3FLDD3CwD68vBz) | 3:07 | 2022-06-23 |  |
+| [T.W.I.N.](https://open.spotify.com/track/0AyN9SW50iTYEI17mdg8BG) | [Narrow Head](https://open.spotify.com/artist/4g6ODwOQYRZLsP89kEoBIu) | [T.W.I.N.](https://open.spotify.com/album/64wKY2vc3FLDD3CwD68vBz) | 3:07 | 2022-06-23 | 2022-10-08 |
 | [take it back \(feat\. Beck\)](https://open.spotify.com/track/3CBYEnqoS93EUKx4XrHYUE) | [JAWNY](https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP), [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [take it back \(feat\. Beck\)](https://open.spotify.com/album/6Db4qVah6cM1Pa6aZgcPMl) | 2:25 | 2022-09-06 |  |
 | [Take the Wheel](https://open.spotify.com/track/3skgT62fQ0MZ2LL3pb59nu) | [Electric Enemy](https://open.spotify.com/artist/2N1mByBMykfROrhwRVQV3v) | [Take the Wheel](https://open.spotify.com/album/5UnohJ1su4dg8awfeHuKHy) | 3:15 | 2022-06-02 | 2022-09-07 |
 | [talking to the drugs](https://open.spotify.com/track/3Lz6teL5yOL4pp30hKj9LT) | [Sick Joy](https://open.spotify.com/artist/2KmAhNcPz1C3oz0rS4iMlx) | [talking to the drugs](https://open.spotify.com/album/2XwXXhDUuX7SDqsQpgEwHU) | 2:56 | 2022-04-21 | 2022-09-23 |

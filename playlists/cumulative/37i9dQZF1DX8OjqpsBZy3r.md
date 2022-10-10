@@ -4,7 +4,7 @@
 
 > The trending country songs and viral hits you need to know\. Cover: Hailey Whitters
 
-125 songs - 6 hr 56 min - [published](https://open.spotify.com/playlist/5RPUuOuY7lpUPnjhceluUd)
+126 songs - 6 hr 59 min - [published](https://open.spotify.com/playlist/5RPUuOuY7lpUPnjhceluUd)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,7 +96,8 @@
 | [Queens Don't](https://open.spotify.com/track/0ExiKxfY5rHBW06TcV1xXU) | [RaeLynn](https://open.spotify.com/artist/5dMnvpYEfXvSexjwnSRH5n) | [Queens Don't](https://open.spotify.com/album/7KoovpscXVlfyQdklbirMC) | 3:05 | 2021-12-03 |  |
 | [Ride](https://open.spotify.com/track/2Dp0QLXSfuGr5XVlLwzXLk) | [Chase Rice](https://open.spotify.com/artist/6pBNfggcZZDCmb0p92OnGn), [Macy Maloy](https://open.spotify.com/artist/5JhkYX4FCP6FRmxrGEQoda) | [Ignite the Night \(Party Edition\)](https://open.spotify.com/album/5lkRYpePZze7eng9Spx1Gq) | 4:01 | 2021-12-03 | 2022-07-16 |
 | [Ride the Lightning \(717 Tapes\)](https://open.spotify.com/track/6bVZ8tOT8S6wrXJl83zEHU) | [Warren Zeiders](https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi) | [Ride the Lightning \(717 Tapes\)](https://open.spotify.com/album/5rPnLz5tuUOuWfh69TOwNP) | 3:06 | 2021-12-03 | 2022-07-29 |
-| [Ride the Lightning \- 717 Tapes](https://open.spotify.com/track/1JTQG8J8jN8tjDTyUWnaRe) | [Warren Zeiders](https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi) | [Ride the Lightning \(717 Tapes\)](https://open.spotify.com/album/3467Wn1M2kESux2YS9Rczi) | 3:06 | 2022-07-25 |  |
+| [Ride the Lightning \- 717 Tapes](https://open.spotify.com/track/04YKO5t4AZrsqKfGhhUb2j) | [Warren Zeiders](https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi) | [717 Tapes the Album](https://open.spotify.com/album/1GI8XiKz756eajoeB4onFU) | 3:06 | 2022-09-27 |  |
+| [Ride the Lightning \- 717 Tapes](https://open.spotify.com/track/1JTQG8J8jN8tjDTyUWnaRe) | [Warren Zeiders](https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi) | [Ride the Lightning \(717 Tapes\)](https://open.spotify.com/album/3467Wn1M2kESux2YS9Rczi) | 3:06 | 2022-07-25 | 2022-10-03 |
 | [Right Girl Wrong Time](https://open.spotify.com/track/29tk7q2IPdPpt9sPubbxdQ) | [Tyra Madison](https://open.spotify.com/artist/6QJWnamgxenwynyhKuRnrh) | [Right Girl Wrong Time](https://open.spotify.com/album/4WuFzWY3ULpdd2FjJw6zkQ) | 3:47 | 2021-12-03 | 2022-07-16 |
 | [Rock and A Hard Place](https://open.spotify.com/track/4686eQ81DEswHa90bcdlC9) | [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf) | [Rock and A Hard Place](https://open.spotify.com/album/7Gqqhy2ohX3puChylfkvT0) | 3:27 | 2022-07-15 |  |
 | [Salt, Lime & Tequila](https://open.spotify.com/track/4xpTjwZPnpB4FO8EJh0trf) | [Ryan Griffin](https://open.spotify.com/artist/7dMEBGtGI6O7PoTEucAaBT) | [Salt, Lime & Tequila](https://open.spotify.com/album/630WEiYZ1baGeXgXSpuRCl) | 2:55 | 2021-12-03 | 2022-07-29 |

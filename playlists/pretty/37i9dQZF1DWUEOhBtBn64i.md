@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUEOhBtBn64i.md) - [plain]
 
 > <a href="https://www.vitalvoices.org/">Women changing the world</a> \| Cover: MILCK
 
-[Spotify](https://open.spotify.com/user/spotify) - 430 likes - 37 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 435 likes - 37 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

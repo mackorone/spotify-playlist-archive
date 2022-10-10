@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-18",
-  "description": "Aperte o play e dance com os maiores nomes da m\u00fasica eletr\u00f4nica nacional. Foto: Jetlag Music",
+  "description": "Aperte o play e dance com os maiores nomes da m\u00fasica eletr\u00f4nica nacional. Foto: Dubdogz",
   "name": "mint brasil",
   "published_playlist_ids": [
     "560Dq1N8XlhiCMoPDbEiON"
@@ -133,6 +133,32 @@
       "duration_ms": 176612,
       "name": "Anybody Else",
       "url": "https://open.spotify.com/track/4NbmxDHT22uG720SQjjJKf"
+    },
+    {
+      "album": {
+        "name": "Are You Down (The Remixes)",
+        "url": "https://open.spotify.com/album/41rocj1r6C2g1rm4Wx4Y9V"
+      },
+      "artists": [
+        {
+          "name": "Dubdogz",
+          "url": "https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1"
+        },
+        {
+          "name": "Selva",
+          "url": "https://open.spotify.com/artist/1Ejjxuav6kpsSyb6QIhjHa"
+        },
+        {
+          "name": "Suark",
+          "url": "https://open.spotify.com/artist/6iLBBp88stAFjZdnn0HsdD"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175282,
+      "name": "Are You Down - Suark Remix",
+      "url": "https://open.spotify.com/track/1JVBfOarVI6CNSw4sHGlHQ"
     },
     {
       "album": {
@@ -481,7 +507,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 128639,
       "name": "Come With Me",
       "url": "https://open.spotify.com/track/2Ho4XR2Hmtf3y9lNO5w04b"
@@ -625,6 +651,28 @@
       "duration_ms": 158000,
       "name": "Domino (feat. Oxia)",
       "url": "https://open.spotify.com/track/1TepyN2GXukyc6wo3kTFMO"
+    },
+    {
+      "album": {
+        "name": "Don't Be Fooled",
+        "url": "https://open.spotify.com/album/08EFxXn7PiBPuPggWyCHc6"
+      },
+      "artists": [
+        {
+          "name": "Dubdogz",
+          "url": "https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1"
+        },
+        {
+          "name": "Netto",
+          "url": "https://open.spotify.com/artist/37ZMG1QoWfV5N9Y86gOESb"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151680,
+      "name": "Don't Be Fooled",
+      "url": "https://open.spotify.com/track/1zTOwceUJRBG7pNpm2l0Qo"
     },
     {
       "album": {
@@ -1103,7 +1151,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 120944,
       "name": "Harder",
       "url": "https://open.spotify.com/track/2YEfNfLGrHzps3NVUpfIqu"

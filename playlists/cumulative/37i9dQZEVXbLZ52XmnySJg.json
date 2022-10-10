@@ -313,7 +313,7 @@
       ],
       "date_added": "2022-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-09",
       "duration_ms": 178666,
       "name": "Ainak",
       "url": "https://open.spotify.com/track/7JVpb6CY3I1JwQCIEgw9XT"
@@ -1825,7 +1825,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-29",
+      "date_removed": null,
       "duration_ms": 211578,
       "name": "Channa Ve",
       "url": "https://open.spotify.com/track/58ynJq9eLLDChA3GNFJcDL"
@@ -1939,6 +1939,32 @@
       "duration_ms": 184128,
       "name": "Chitti (From \"Jathi Ratnalu\")",
       "url": "https://open.spotify.com/track/6Z40IRipd6pNcUULY6SXng"
+    },
+    {
+      "album": {
+        "name": "Ponniyin Selvan Part-1 (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6efDS3Pp3DUkDnr5XgPyMN"
+      },
+      "artists": [
+        {
+          "name": "Sathyaprakash",
+          "url": "https://open.spotify.com/artist/4sdcjfLzvLC1IUYFwCAWHn"
+        },
+        {
+          "name": "VM Mahalingam",
+          "url": "https://open.spotify.com/artist/3qjzGkAGKsCkJOieWWRz8k"
+        },
+        {
+          "name": "Nakul Abhyankar",
+          "url": "https://open.spotify.com/artist/45dUPHFa2AoC4lqFTcPmiD"
+        }
+      ],
+      "date_added": "2022-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219638,
+      "name": "Chola Chola",
+      "url": "https://open.spotify.com/track/27nzJVsvXqXyeMIcVxvB54"
     },
     {
       "album": {
@@ -2099,7 +2125,7 @@
       ],
       "date_added": "2022-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-03",
       "duration_ms": 206286,
       "name": "Cold Hours",
       "url": "https://open.spotify.com/track/2la7g9bMqsgsWPC9WcQg56"
@@ -2121,7 +2147,7 @@
       ],
       "date_added": "2022-09-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-02",
+      "date_removed": null,
       "duration_ms": 206117,
       "name": "Cold Hours",
       "url": "https://open.spotify.com/track/2uThc9fZx2BEL3t6uuRMO1"
@@ -2165,6 +2191,58 @@
       "duration_ms": 131077,
       "name": "Daku",
       "url": "https://open.spotify.com/track/3wz2vWhYnnBoFmgMkqtzLy"
+    },
+    {
+      "album": {
+        "name": "Brahmastra (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4kIPlpwEZBK9JaI9pZHe79"
+      },
+      "artists": [
+        {
+          "name": "Pritam",
+          "url": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
+        },
+        {
+          "name": "Arijit Singh",
+          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+        },
+        {
+          "name": "Amitabh Bhattacharya",
+          "url": "https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245735,
+      "name": "Dance Ka Bhoot",
+      "url": "https://open.spotify.com/track/43Xb3G04Pgp63fNhQW4T6W"
+    },
+    {
+      "album": {
+        "name": "Dance Ka Bhoot (From \"Brahmastra\")",
+        "url": "https://open.spotify.com/album/4vOdoBnuF9sXjpRsofpJAv"
+      },
+      "artists": [
+        {
+          "name": "Pritam",
+          "url": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
+        },
+        {
+          "name": "Arijit Singh",
+          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+        },
+        {
+          "name": "Amitabh Bhattacharya",
+          "url": "https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx"
+        }
+      ],
+      "date_added": "2022-10-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-08",
+      "duration_ms": 245735,
+      "name": "Dance Ka Bhoot (From \"Brahmastra\")",
+      "url": "https://open.spotify.com/track/5OcGETO7eEKjKme4gm0r7y"
     },
     {
       "album": {
@@ -2336,6 +2414,36 @@
     },
     {
       "album": {
+        "name": "Brahmastra (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4kIPlpwEZBK9JaI9pZHe79"
+      },
+      "artists": [
+        {
+          "name": "Pritam",
+          "url": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
+        },
+        {
+          "name": "Arijit Singh",
+          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+        },
+        {
+          "name": "Amitabh Bhattacharya",
+          "url": "https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx"
+        },
+        {
+          "name": "Jonita Gandhi",
+          "url": "https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279107,
+      "name": "Deva Deva",
+      "url": "https://open.spotify.com/track/4SqPZorSDuUtvdJwVGeZRC"
+    },
+    {
+      "album": {
         "name": "Deva Deva (From \"Brahmastra\")",
         "url": "https://open.spotify.com/album/6zwucxlWusEUCZt6DeQJCu"
       },
@@ -2359,7 +2467,7 @@
       ],
       "date_added": "2022-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 279107,
       "name": "Deva Deva (From \"Brahmastra\")",
       "url": "https://open.spotify.com/track/0IGXY47K2ha3AHfX57wY1O"
@@ -2407,7 +2515,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-03",
       "duration_ms": 309149,
       "name": "Dil (From \"Ek Villain Returns\")",
       "url": "https://open.spotify.com/track/043SPVu75TXbs94ZfM9dfn"
@@ -2481,7 +2589,7 @@
       ],
       "date_added": "2021-06-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-28",
+      "date_removed": null,
       "duration_ms": 231486,
       "name": "Dil Ko Karaar Aaya (From \"Sukoon\")",
       "url": "https://open.spotify.com/track/5urYiIXu1ZhfMAOsp7WDTc"
@@ -4411,7 +4519,7 @@
       ],
       "date_added": "2022-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-09",
       "duration_ms": 218808,
       "name": "Inthandham",
       "url": "https://open.spotify.com/track/0gE8ZP2cTXpRDz53bTkpu6"
@@ -5124,6 +5232,32 @@
     },
     {
       "album": {
+        "name": "Brahmastra (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4kIPlpwEZBK9JaI9pZHe79"
+      },
+      "artists": [
+        {
+          "name": "Pritam",
+          "url": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
+        },
+        {
+          "name": "Arijit Singh",
+          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+        },
+        {
+          "name": "Amitabh Bhattacharya",
+          "url": "https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268164,
+      "name": "Kesariya",
+      "url": "https://open.spotify.com/track/4UMIv5jd9gK98a39BQRD9X"
+    },
+    {
+      "album": {
         "name": "Kesariya (From \"Brahmastra\")",
         "url": "https://open.spotify.com/album/1HeX4SmCFW4EPHQDvHgrVS"
       },
@@ -5143,7 +5277,7 @@
       ],
       "date_added": "2022-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 268164,
       "name": "Kesariya (From \"Brahmastra\")",
       "url": "https://open.spotify.com/track/6VBhH7CyP56BXjp8VsDFPZ"
@@ -5574,6 +5708,24 @@
     },
     {
       "album": {
+        "name": "Drive Thru",
+        "url": "https://open.spotify.com/album/6KgPhunJItRDOhJFh6Sy78"
+      },
+      "artists": [
+        {
+          "name": "Diljit Dosanjh",
+          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
+        }
+      ],
+      "date_added": "2022-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166666,
+      "name": "Lemonade",
+      "url": "https://open.spotify.com/track/3ZGJhN4unVspOqpwGvUL2W"
+    },
+    {
+      "album": {
         "name": "Narrated For You",
         "url": "https://open.spotify.com/album/6jKZplJpy21R5lHaYHHjmZ"
       },
@@ -5585,7 +5737,7 @@
       ],
       "date_added": "2021-04-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-29",
+      "date_removed": "2022-10-08",
       "duration_ms": 169353,
       "name": "Let Me Down Slowly",
       "url": "https://open.spotify.com/track/2qxmye6gAegTMjLKEBoR3d"
@@ -5611,7 +5763,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-02",
+      "date_removed": "2022-10-08",
       "duration_ms": 228705,
       "name": "Levels",
       "url": "https://open.spotify.com/track/60YICjIPdL7LDBcCMK0tAk"
@@ -7945,7 +8097,7 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-09",
       "duration_ms": 186964,
       "name": "Pink Venom",
       "url": "https://open.spotify.com/track/5zwwW9Oq7ubSxoCGyW1nbY"
@@ -8113,7 +8265,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-15",
+      "date_removed": "2022-10-05",
       "duration_ms": 218343,
       "name": "Ra Ra Rakkamma (From \"Vikrant Rona\")",
       "url": "https://open.spotify.com/track/0stbF4C1ACmIvx0aW81ZXa"
@@ -8312,6 +8464,32 @@
     },
     {
       "album": {
+        "name": "Brahmastra (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4kIPlpwEZBK9JaI9pZHe79"
+      },
+      "artists": [
+        {
+          "name": "Pritam",
+          "url": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
+        },
+        {
+          "name": "Shreya Ghoshal",
+          "url": "https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy"
+        },
+        {
+          "name": "TUSHAR JOSHI",
+          "url": "https://open.spotify.com/artist/324yz9K4ufBcGkcgUhTiHH"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265063,
+      "name": "Rasiya",
+      "url": "https://open.spotify.com/track/6zfvsbeuFKoWIdoRb3JdhA"
+    },
+    {
+      "album": {
         "name": "Rasiya (From \"Brahmastra\")",
         "url": "https://open.spotify.com/album/5pjSP9gi3qIDK9NvI0uY88"
       },
@@ -8331,7 +8509,7 @@
       ],
       "date_added": "2022-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 265063,
       "name": "Rasiya (From \"Brahmastra\")",
       "url": "https://open.spotify.com/track/4Hv055xg1SZZgwwGBx8Cr5"
@@ -9027,7 +9205,7 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 175889,
       "name": "Shut Down",
       "url": "https://open.spotify.com/track/7gRFDGEzF9UkBV233yv2dc"
@@ -9777,7 +9955,7 @@
       ],
       "date_added": "2022-08-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-28",
+      "date_removed": "2022-10-08",
       "duration_ms": 258909,
       "name": "Thaai Kelavi (From \"Thiruchitrambalam\")",
       "url": "https://open.spotify.com/track/1pean7zvZUqcWZaUucH63f"

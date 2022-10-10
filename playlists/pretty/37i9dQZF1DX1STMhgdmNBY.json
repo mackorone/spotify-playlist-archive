@@ -1,12 +1,12 @@
 {
   "description": "For body and mind, blues straight from the soul. ",
-  "num_followers": 30236,
+  "num_followers": 30799,
   "original_name": "Healin' Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDkzMDU3NiwwMDAwMDAwMDgxZDRjYjNmNjZhNjNlNjYwZDFkOGI1YWE0Y2E5NDE3",
+  "snapshot_id": "MTY2MDkzMDU3NiwwMDAwMDAwMGM3YTlmYmFlNmVjNjdmZTQyMjE1ODhkOGMyMGI5NGU0",
   "tracks": [
     {
       "added_at": "2022-08-19 17:36:16",
@@ -287,22 +287,6 @@
     {
       "added_at": "2022-08-19 17:36:16",
       "album": {
-        "name": "T-Bone Blues",
-        "url": "https://open.spotify.com/album/1YPBXkcPa4KYio6Ziyp7d3"
-      },
-      "artists": [
-        {
-          "name": "T-Bone Walker",
-          "url": "https://open.spotify.com/artist/6nPKmEbQmR8jGZEm7ArOFX"
-        }
-      ],
-      "duration_ms": 228626,
-      "name": "T-Bone Blues",
-      "url": "https://open.spotify.com/track/3DjwjAUPT4zvIu6ZzcgLGJ"
-    },
-    {
-      "added_at": "2022-08-19 17:36:16",
-      "album": {
         "name": "Set Sail",
         "url": "https://open.spotify.com/album/12psJfvIqIEwGY6JNuQMzF"
       },
@@ -323,6 +307,22 @@
     {
       "added_at": "2022-08-19 17:36:16",
       "album": {
+        "name": "Indianola Mississippi Seeds",
+        "url": "https://open.spotify.com/album/1NgGj5ECcDELHjoQRX2P1l"
+      },
+      "artists": [
+        {
+          "name": "B.B. King",
+          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
+        }
+      ],
+      "duration_ms": 278640,
+      "name": "Hummingbird",
+      "url": "https://open.spotify.com/track/769OeqqYJcSQjvVquDWfYf"
+    },
+    {
+      "added_at": "2022-08-19 17:36:16",
+      "album": {
         "name": "Tin Pan Alley",
         "url": "https://open.spotify.com/album/3zH6FQfxszWNSF4EYmgVhT"
       },
@@ -339,6 +339,22 @@
     {
       "added_at": "2022-08-19 17:36:16",
       "album": {
+        "name": "T-Bone Blues",
+        "url": "https://open.spotify.com/album/1YPBXkcPa4KYio6Ziyp7d3"
+      },
+      "artists": [
+        {
+          "name": "T-Bone Walker",
+          "url": "https://open.spotify.com/artist/6nPKmEbQmR8jGZEm7ArOFX"
+        }
+      ],
+      "duration_ms": 228626,
+      "name": "T-Bone Blues",
+      "url": "https://open.spotify.com/track/3DjwjAUPT4zvIu6ZzcgLGJ"
+    },
+    {
+      "added_at": "2022-08-19 17:36:16",
+      "album": {
         "name": "Still Got The Blues",
         "url": "https://open.spotify.com/album/5yrouz3mmUWSsCufl1tLUJ"
       },
@@ -351,22 +367,6 @@
       "duration_ms": 464040,
       "name": "As The Years Go Passing By",
       "url": "https://open.spotify.com/track/56UsciEGCYrmCTSI3veuvC"
-    },
-    {
-      "added_at": "2022-08-19 17:36:16",
-      "album": {
-        "name": "Indianola Mississippi Seeds",
-        "url": "https://open.spotify.com/album/1NgGj5ECcDELHjoQRX2P1l"
-      },
-      "artists": [
-        {
-          "name": "B.B. King",
-          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
-        }
-      ],
-      "duration_ms": 278640,
-      "name": "Hummingbird",
-      "url": "https://open.spotify.com/track/769OeqqYJcSQjvVquDWfYf"
     },
     {
       "added_at": "2022-08-19 17:36:16",
@@ -419,6 +419,38 @@
     {
       "added_at": "2022-08-19 17:36:16",
       "album": {
+        "name": "Born Under A Bad Sign",
+        "url": "https://open.spotify.com/album/42WQ76qWDQmHlHvJa6Z3Uw"
+      },
+      "artists": [
+        {
+          "name": "Albert King",
+          "url": "https://open.spotify.com/artist/5aygfDCEaX5KTZOxSCpT9o"
+        }
+      ],
+      "duration_ms": 226600,
+      "name": "As The Years Go Passing By",
+      "url": "https://open.spotify.com/track/71auWR3IZdhDv3M8RZsqIF"
+    },
+    {
+      "added_at": "2022-08-19 17:36:16",
+      "album": {
+        "name": "Singin' The Blues",
+        "url": "https://open.spotify.com/album/0w6Gt4SUI5AduJvcXetxun"
+      },
+      "artists": [
+        {
+          "name": "B.B. King",
+          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
+        }
+      ],
+      "duration_ms": 183293,
+      "name": "Three O'clock Blues",
+      "url": "https://open.spotify.com/track/1WeX8wcU8FDEZxWurJLU0r"
+    },
+    {
+      "added_at": "2022-08-19 17:36:16",
+      "album": {
         "name": "Had to Cry Today",
         "url": "https://open.spotify.com/album/4NS1YYttwG5mtWQCdpbvjV"
       },
@@ -467,38 +499,6 @@
     {
       "added_at": "2022-08-19 17:36:16",
       "album": {
-        "name": "Singin' The Blues",
-        "url": "https://open.spotify.com/album/0w6Gt4SUI5AduJvcXetxun"
-      },
-      "artists": [
-        {
-          "name": "B.B. King",
-          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
-        }
-      ],
-      "duration_ms": 183293,
-      "name": "Three O'clock Blues",
-      "url": "https://open.spotify.com/track/1WeX8wcU8FDEZxWurJLU0r"
-    },
-    {
-      "added_at": "2022-08-19 17:36:16",
-      "album": {
-        "name": "Born Under A Bad Sign",
-        "url": "https://open.spotify.com/album/42WQ76qWDQmHlHvJa6Z3Uw"
-      },
-      "artists": [
-        {
-          "name": "Albert King",
-          "url": "https://open.spotify.com/artist/5aygfDCEaX5KTZOxSCpT9o"
-        }
-      ],
-      "duration_ms": 226600,
-      "name": "As The Years Go Passing By",
-      "url": "https://open.spotify.com/track/71auWR3IZdhDv3M8RZsqIF"
-    },
-    {
-      "added_at": "2022-08-19 17:36:16",
-      "album": {
         "name": "Ball n' Chain",
         "url": "https://open.spotify.com/album/6U60FpmscwzTJjc9gmZcKl"
       },
@@ -515,22 +515,6 @@
     {
       "added_at": "2022-08-19 17:36:16",
       "album": {
-        "name": "The Last Of The Blue Devils",
-        "url": "https://open.spotify.com/album/6uVMAymadbYSAusGSUnNqw"
-      },
-      "artists": [
-        {
-          "name": "Jay McShann",
-          "url": "https://open.spotify.com/artist/1qZnWtvzKVV0lJQZBapchU"
-        }
-      ],
-      "duration_ms": 421666,
-      "name": "'Tain't Nobody's Biz'ness If I Do",
-      "url": "https://open.spotify.com/track/6SVMrke6GfTo8VFWaDH8Yu"
-    },
-    {
-      "added_at": "2022-08-19 17:36:16",
-      "album": {
         "name": "Shuggie's Boogie: Shuggie Otis Plays The Blues",
         "url": "https://open.spotify.com/album/6WSeoiDc3zAjZVjFzMyLBC"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 566960,
       "name": "12:15 Slow Goonbash Blues",
       "url": "https://open.spotify.com/track/4zy2Th0CDzOyNwbTODygmj"
+    },
+    {
+      "added_at": "2022-08-19 17:36:16",
+      "album": {
+        "name": "The Last Of The Blue Devils",
+        "url": "https://open.spotify.com/album/6uVMAymadbYSAusGSUnNqw"
+      },
+      "artists": [
+        {
+          "name": "Jay McShann",
+          "url": "https://open.spotify.com/artist/1qZnWtvzKVV0lJQZBapchU"
+        }
+      ],
+      "duration_ms": 421666,
+      "name": "'Tain't Nobody's Biz'ness If I Do",
+      "url": "https://open.spotify.com/track/6SVMrke6GfTo8VFWaDH8Yu"
     },
     {
       "added_at": "2022-08-19 17:36:16",
@@ -627,6 +627,26 @@
     {
       "added_at": "2022-08-19 17:36:16",
       "album": {
+        "name": "Get Back To The Land",
+        "url": "https://open.spotify.com/album/7oj7EsiZB17a22MqGmWO0W"
+      },
+      "artists": [
+        {
+          "name": "The Teskey Brothers",
+          "url": "https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh"
+        },
+        {
+          "name": "Emma Donovan",
+          "url": "https://open.spotify.com/artist/1zq7VkmDHaXYNCqnNeJvLs"
+        }
+      ],
+      "duration_ms": 266350,
+      "name": "Get Back To The Land",
+      "url": "https://open.spotify.com/track/1oBCIuFxyHqutsnQhSuqlk"
+    },
+    {
+      "added_at": "2022-08-19 17:36:16",
+      "album": {
         "name": "Rancho Texicano: The Very Best of ZZ Top",
         "url": "https://open.spotify.com/album/6ti1HC6R2Op1enYiuCDf6k"
       },
@@ -639,6 +659,58 @@
       "duration_ms": 279173,
       "name": "Blue Jean Blues",
       "url": "https://open.spotify.com/track/2YRF157SH4KOtDlaVjHoaB"
+    },
+    {
+      "added_at": "2022-08-19 17:36:16",
+      "album": {
+        "name": "Here Comes Shuggie Otis",
+        "url": "https://open.spotify.com/album/6mzeogguJ6lMUHWgBJzhcd"
+      },
+      "artists": [
+        {
+          "name": "Shuggie Otis",
+          "url": "https://open.spotify.com/artist/4YHtIE7FI8ITfekzzN5Jpl"
+        }
+      ],
+      "duration_ms": 255946,
+      "name": "Gospel Groove",
+      "url": "https://open.spotify.com/track/55mwnnVCq90cdzFro3UFGZ"
+    },
+    {
+      "added_at": "2022-08-19 17:36:16",
+      "album": {
+        "name": "An Introduction To Otis Rush",
+        "url": "https://open.spotify.com/album/1PD0bGAiG3boXRd7MGHtjO"
+      },
+      "artists": [
+        {
+          "name": "Otis Rush",
+          "url": "https://open.spotify.com/artist/1h0hOL3bVcYlg4xcSjU7fP"
+        }
+      ],
+      "duration_ms": 219559,
+      "name": "I Can't Quit You Baby",
+      "url": "https://open.spotify.com/track/1TVtYIucWI5fqdQwwlZFR3"
+    },
+    {
+      "added_at": "2022-08-19 17:36:16",
+      "album": {
+        "name": "Georgia Blue",
+        "url": "https://open.spotify.com/album/2JGpezeVAwq7Jw2ua3EniV"
+      },
+      "artists": [
+        {
+          "name": "Jason Isbell and the 400 Unit",
+          "url": "https://open.spotify.com/artist/3Lg3FGwBxOGuefqekQzRUf"
+        },
+        {
+          "name": "Brittney Spencer",
+          "url": "https://open.spotify.com/artist/6YM5gRpMJkP0kUWRcvlHT3"
+        }
+      ],
+      "duration_ms": 271199,
+      "name": "It's a Man's, Man\u2019s, Man\u2019s World",
+      "url": "https://open.spotify.com/track/5CfGXaEPnhwqAlhX2PJmy4"
     },
     {
       "added_at": "2022-08-19 17:36:16",
@@ -679,78 +751,6 @@
     {
       "added_at": "2022-08-19 17:36:16",
       "album": {
-        "name": "Here Comes Shuggie Otis",
-        "url": "https://open.spotify.com/album/6mzeogguJ6lMUHWgBJzhcd"
-      },
-      "artists": [
-        {
-          "name": "Shuggie Otis",
-          "url": "https://open.spotify.com/artist/4YHtIE7FI8ITfekzzN5Jpl"
-        }
-      ],
-      "duration_ms": 255946,
-      "name": "Gospel Groove",
-      "url": "https://open.spotify.com/track/55mwnnVCq90cdzFro3UFGZ"
-    },
-    {
-      "added_at": "2022-08-19 17:36:16",
-      "album": {
-        "name": "Georgia Blue",
-        "url": "https://open.spotify.com/album/2JGpezeVAwq7Jw2ua3EniV"
-      },
-      "artists": [
-        {
-          "name": "Jason Isbell and the 400 Unit",
-          "url": "https://open.spotify.com/artist/3Lg3FGwBxOGuefqekQzRUf"
-        },
-        {
-          "name": "Brittney Spencer",
-          "url": "https://open.spotify.com/artist/6YM5gRpMJkP0kUWRcvlHT3"
-        }
-      ],
-      "duration_ms": 271199,
-      "name": "It's a Man's, Man\u2019s, Man\u2019s World",
-      "url": "https://open.spotify.com/track/5CfGXaEPnhwqAlhX2PJmy4"
-    },
-    {
-      "added_at": "2022-08-19 17:36:16",
-      "album": {
-        "name": "An Introduction To Otis Rush",
-        "url": "https://open.spotify.com/album/1PD0bGAiG3boXRd7MGHtjO"
-      },
-      "artists": [
-        {
-          "name": "Otis Rush",
-          "url": "https://open.spotify.com/artist/1h0hOL3bVcYlg4xcSjU7fP"
-        }
-      ],
-      "duration_ms": 219559,
-      "name": "I Can't Quit You Baby",
-      "url": "https://open.spotify.com/track/1TVtYIucWI5fqdQwwlZFR3"
-    },
-    {
-      "added_at": "2022-08-19 17:36:16",
-      "album": {
-        "name": "Willie's Blues",
-        "url": "https://open.spotify.com/album/3fuRLaRuxNjjBxZILt5ABV"
-      },
-      "artists": [
-        {
-          "name": "Willie Dixon",
-          "url": "https://open.spotify.com/artist/5v8WPpMk60cqZbuZLdXjKY"
-        },
-        {
-          "name": "Memphis Slim",
-          "url": "https://open.spotify.com/artist/5g1Gv9riN5BH4WVnanO1Ia"
-        }
-      ],
-      "duration_ms": 203226,
-      "name": "Sittin' And Cryin' The Blues",
-      "url": "https://open.spotify.com/track/4vl2dLCKiTjkPGFRGchtuL"
-    },
-    {
-      "added_at": "2022-08-19 17:36:16",
-      "album": {
         "name": "Blues To The Bone",
         "url": "https://open.spotify.com/album/1FbyARbzpYjJBoHm9UgDyQ"
       },
@@ -783,54 +783,22 @@
     {
       "added_at": "2022-08-19 17:36:16",
       "album": {
-        "name": "Get Back To The Land",
-        "url": "https://open.spotify.com/album/1wHQdMICR6yPfZfvKfh2up"
+        "name": "Willie's Blues",
+        "url": "https://open.spotify.com/album/3fuRLaRuxNjjBxZILt5ABV"
       },
       "artists": [
         {
-          "name": "The Teskey Brothers",
-          "url": "https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh"
+          "name": "Willie Dixon",
+          "url": "https://open.spotify.com/artist/5v8WPpMk60cqZbuZLdXjKY"
         },
         {
-          "name": "Emma Donovan",
-          "url": "https://open.spotify.com/artist/1zq7VkmDHaXYNCqnNeJvLs"
+          "name": "Memphis Slim",
+          "url": "https://open.spotify.com/artist/5g1Gv9riN5BH4WVnanO1Ia"
         }
       ],
-      "duration_ms": 266350,
-      "name": "Get Back To The Land",
-      "url": "https://open.spotify.com/track/0bOzDaUYbUVWMLtl8DNt8L"
-    },
-    {
-      "added_at": "2022-08-19 17:36:16",
-      "album": {
-        "name": "The Blues Is Alive And Well",
-        "url": "https://open.spotify.com/album/425gWaQU4t3KOvcM7z3VGk"
-      },
-      "artists": [
-        {
-          "name": "Buddy Guy",
-          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
-        }
-      ],
-      "duration_ms": 287666,
-      "name": "A Few Good Years",
-      "url": "https://open.spotify.com/track/6MT9ikZ0SnOU48rBMReIAT"
-    },
-    {
-      "added_at": "2022-08-19 17:36:16",
-      "album": {
-        "name": "Taj Mahal",
-        "url": "https://open.spotify.com/album/0kEaFupzvrGdcczROS519i"
-      },
-      "artists": [
-        {
-          "name": "Taj Mahal",
-          "url": "https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp"
-        }
-      ],
-      "duration_ms": 531960,
-      "name": "Celebrated Walkin' Blues",
-      "url": "https://open.spotify.com/track/4oNnxT1kVOAcAYkt8gxXAS"
+      "duration_ms": 203226,
+      "name": "Sittin' And Cryin' The Blues",
+      "url": "https://open.spotify.com/track/4vl2dLCKiTjkPGFRGchtuL"
     },
     {
       "added_at": "2022-08-19 17:36:16",
@@ -851,6 +819,22 @@
     {
       "added_at": "2022-08-19 17:36:16",
       "album": {
+        "name": "The Blues Is Alive And Well",
+        "url": "https://open.spotify.com/album/425gWaQU4t3KOvcM7z3VGk"
+      },
+      "artists": [
+        {
+          "name": "Buddy Guy",
+          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
+        }
+      ],
+      "duration_ms": 287666,
+      "name": "A Few Good Years",
+      "url": "https://open.spotify.com/track/6MT9ikZ0SnOU48rBMReIAT"
+    },
+    {
+      "added_at": "2022-08-19 17:36:16",
+      "album": {
         "name": "You Make Me Feel",
         "url": "https://open.spotify.com/album/5nmTyPcWtLpY6HfkQI5AQN"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 270103,
       "name": "Is It Over",
       "url": "https://open.spotify.com/track/6CTNoKveaQYSOhvYWJUAHl"
+    },
+    {
+      "added_at": "2022-08-19 17:36:16",
+      "album": {
+        "name": "Taj Mahal",
+        "url": "https://open.spotify.com/album/0kEaFupzvrGdcczROS519i"
+      },
+      "artists": [
+        {
+          "name": "Taj Mahal",
+          "url": "https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp"
+        }
+      ],
+      "duration_ms": 531960,
+      "name": "Celebrated Walkin' Blues",
+      "url": "https://open.spotify.com/track/4oNnxT1kVOAcAYkt8gxXAS"
     },
     {
       "added_at": "2022-08-19 17:36:16",
@@ -911,18 +911,18 @@
     {
       "added_at": "2022-08-19 17:36:16",
       "album": {
-        "name": "I Am The Blues",
-        "url": "https://open.spotify.com/album/0y79HnVGwEtybfIcfD6M7N"
+        "name": "Brownie McGhee and Sonny Terry Sing",
+        "url": "https://open.spotify.com/album/1bnGRRSXinuQPmeeQM7AIv"
       },
       "artists": [
         {
-          "name": "Willie Dixon",
-          "url": "https://open.spotify.com/artist/5v8WPpMk60cqZbuZLdXjKY"
+          "name": "Sonny Terry and Brownie McGhee",
+          "url": "https://open.spotify.com/artist/7GQR0UJuWkRH8TTrdmteEw"
         }
       ],
-      "duration_ms": 216373,
-      "name": "The Little Red Rooster",
-      "url": "https://open.spotify.com/track/3knwd2whi9QUViKgWCsixF"
+      "duration_ms": 184000,
+      "name": "Better Day",
+      "url": "https://open.spotify.com/track/4iSvnsxzZBte3qgstEd5qI"
     },
     {
       "added_at": "2022-08-19 17:36:16",
@@ -943,18 +943,18 @@
     {
       "added_at": "2022-08-19 17:36:16",
       "album": {
-        "name": "Brownie McGhee and Sonny Terry Sing",
-        "url": "https://open.spotify.com/album/1bnGRRSXinuQPmeeQM7AIv"
+        "name": "I Am The Blues",
+        "url": "https://open.spotify.com/album/0y79HnVGwEtybfIcfD6M7N"
       },
       "artists": [
         {
-          "name": "Sonny Terry and Brownie McGhee",
-          "url": "https://open.spotify.com/artist/7GQR0UJuWkRH8TTrdmteEw"
+          "name": "Willie Dixon",
+          "url": "https://open.spotify.com/artist/5v8WPpMk60cqZbuZLdXjKY"
         }
       ],
-      "duration_ms": 184000,
-      "name": "Better Day",
-      "url": "https://open.spotify.com/track/4iSvnsxzZBte3qgstEd5qI"
+      "duration_ms": 216373,
+      "name": "The Little Red Rooster",
+      "url": "https://open.spotify.com/track/3knwd2whi9QUViKgWCsixF"
     },
     {
       "added_at": "2022-08-19 17:36:16",

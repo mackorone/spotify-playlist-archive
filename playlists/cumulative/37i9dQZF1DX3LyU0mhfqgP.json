@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The newest songs from LGBTQIA+ artists feat. cover girl Fletcher's fave picks at the top ",
+  "description": "The newest songs from LGBTQIA+ artists. Cover: corook",
   "name": "Out Now",
   "published_playlist_ids": [
     "6zK7hnGvgZc1PZ34TAWzzK"
@@ -63,7 +63,7 @@
       ],
       "date_added": "2022-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 185875,
       "name": "2 Die 4",
       "url": "https://open.spotify.com/track/3QK2bbLCTGoFXFt64e5TBY"
@@ -99,7 +99,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 163027,
       "name": "29",
       "url": "https://open.spotify.com/track/3gXWe15nwrjfhjYQ5RqLx7"
@@ -262,6 +262,24 @@
     },
     {
       "album": {
+        "name": "Alice (Bodies Bodies Bodies)",
+        "url": "https://open.spotify.com/album/6LipFhXDD2PSYBtWIas8If"
+      },
+      "artists": [
+        {
+          "name": "Amandla Stenberg",
+          "url": "https://open.spotify.com/artist/0DK7ZkQ9RydhZnOhI6j6Ck"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141500,
+      "name": "Alice (Bodies Bodies Bodies)",
+      "url": "https://open.spotify.com/track/3tlLXN7iwOhqLhOS6qHh1J"
+    },
+    {
+      "album": {
         "name": "All My Love Is Coming Back To Me",
         "url": "https://open.spotify.com/album/01OzeCOUrUoaCXMu9rvq9f"
       },
@@ -403,7 +421,7 @@
       ],
       "date_added": "2022-07-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-17",
+      "date_removed": null,
       "duration_ms": 174419,
       "name": "Another Day in Paradise",
       "url": "https://open.spotify.com/track/6fXe5bkRkUlsIhk1hrsZ0w"
@@ -769,7 +787,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 143795,
       "name": "Bitch Back (feat. FLETCHER)",
       "url": "https://open.spotify.com/track/2pDWMxjBf4xkIY4nRjVpZC"
@@ -1137,7 +1155,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 188616,
       "name": "Can't Do Better",
       "url": "https://open.spotify.com/track/7t9gDWqX10tbhtriPR1Cnd"
@@ -1195,7 +1213,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 199070,
       "name": "chance",
       "url": "https://open.spotify.com/track/74jOmqVRM9Ha4xu8G15iKv"
@@ -1485,7 +1503,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 211675,
       "name": "Complex",
       "url": "https://open.spotify.com/track/5R1a0XN84btO27Bn5uV5BK"
@@ -1699,6 +1717,24 @@
       "duration_ms": 283691,
       "name": "Dark Bird - St. Lucia Remix",
       "url": "https://open.spotify.com/track/45r1g9y7kmNRLADtFj8syb"
+    },
+    {
+      "album": {
+        "name": "CROSSOVER (Deluxe)",
+        "url": "https://open.spotify.com/album/3blh2LrECEQA15PwechWtO"
+      },
+      "artists": [
+        {
+          "name": "Dua Saleh",
+          "url": "https://open.spotify.com/artist/2DGBzoOLcKLK3eWxFyugdB"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177483,
+      "name": "day to day",
+      "url": "https://open.spotify.com/track/6PawBhoe8BTRZIu2E7Drv1"
     },
     {
       "album": {
@@ -2099,7 +2135,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 191188,
-      "name": "Fall In Love With A Girl (feat. Beabadoobee)",
+      "name": "fall in love with a girl (feat. Beabadoobee)",
       "url": "https://open.spotify.com/track/0rH1Y0mcALJgAq8EKF2Zwt"
     },
     {
@@ -2437,7 +2473,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 174739,
       "name": "GAY 4 ME (feat. Lauren Sanderson)",
       "url": "https://open.spotify.com/track/1ZpcR68PKaoz8DpQDRqFEE"
@@ -2769,7 +2805,7 @@
       ],
       "date_added": "2022-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 187229,
       "name": "God Is A Freak",
       "url": "https://open.spotify.com/track/4cqj8FIWkyR5A2XBtcqRMU"
@@ -3262,6 +3298,42 @@
     },
     {
       "album": {
+        "name": "Him, Hymn",
+        "url": "https://open.spotify.com/album/3mDWrmdvSYp2UU4Qv2A1Fk"
+      },
+      "artists": [
+        {
+          "name": "Blair Davie",
+          "url": "https://open.spotify.com/artist/3sDemA5FWaxfqPJFP2SK8x"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244717,
+      "name": "Him, Hymn",
+      "url": "https://open.spotify.com/track/71ooa3dfqRXgrAUm5urSZa"
+    },
+    {
+      "album": {
+        "name": "Hindsight",
+        "url": "https://open.spotify.com/album/3bGlbyvgK45mjAHZSqAk9c"
+      },
+      "artists": [
+        {
+          "name": "Jake Wesley Rogers",
+          "url": "https://open.spotify.com/artist/5lEF4Tt1uK7Kuk80ILMlE9"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145768,
+      "name": "Hindsight",
+      "url": "https://open.spotify.com/track/228Ehll19oYwpJMdKyRRsF"
+    },
+    {
+      "album": {
         "name": "Hold The Girl",
         "url": "https://open.spotify.com/album/0ua112UCbolB2roGsqtsXw"
       },
@@ -3399,7 +3471,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 199314,
       "name": "How Long - From\"Euphoria\" An HBO Original Series",
       "url": "https://open.spotify.com/track/05eZlxyjbkHMPCnunUasCS"
@@ -3453,7 +3525,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 184590,
       "name": "i belong to you",
       "url": "https://open.spotify.com/track/1HgeKwvlxU1ScR9pExHrQS"
@@ -3511,7 +3583,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 180266,
       "name": "I F*cking Love You",
       "url": "https://open.spotify.com/track/7lYjepjDeboEus0v2nSqu5"
@@ -3583,7 +3655,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-17",
+      "date_removed": null,
       "duration_ms": 217718,
       "name": "I Might Be In Love With You",
       "url": "https://open.spotify.com/track/1JXuz7eSjrpkI5FCdruZuN"
@@ -3803,7 +3875,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-17",
+      "date_removed": null,
       "duration_ms": 203605,
       "name": "In My Drinks",
       "url": "https://open.spotify.com/track/1GQhJMCZ4oN5lJ2H8HPouL"
@@ -4469,6 +4541,24 @@
       "duration_ms": 179512,
       "name": "love bug",
       "url": "https://open.spotify.com/track/04fe8arELvF9WbPVSq1tPj"
+    },
+    {
+      "album": {
+        "name": "Bros (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5ZUn3tyBcIJimSHpVooQXk"
+      },
+      "artists": [
+        {
+          "name": "Billy Eichner",
+          "url": "https://open.spotify.com/artist/0FVsUxcFSlxwIM7Qs31s6J"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213993,
+      "name": "Love Is Not Love (from Bros)",
+      "url": "https://open.spotify.com/track/39P1kEN6QEyZnL9BY8oeF3"
     },
     {
       "album": {
@@ -5159,7 +5249,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 203036,
       "name": "Out Loud (feat. Kehlani)",
       "url": "https://open.spotify.com/track/0P11qKeHWhUy0rDPeY8dyB"
@@ -5199,6 +5289,24 @@
       "duration_ms": 247419,
       "name": "Palladium",
       "url": "https://open.spotify.com/track/1bI1ASTRif9GKJO9b7PQk3"
+    },
+    {
+      "album": {
+        "name": "Palladium",
+        "url": "https://open.spotify.com/album/6u7YzxT7QZho04xVGjjFy1"
+      },
+      "artists": [
+        {
+          "name": "Greyson Chance",
+          "url": "https://open.spotify.com/artist/0Qnx1MPnHYt3jJCYrRFVwX"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-08",
+      "duration_ms": 247419,
+      "name": "Palladium",
+      "url": "https://open.spotify.com/track/2w5XsMl3XdLCpqqaNFpX7I"
     },
     {
       "album": {
@@ -5267,7 +5375,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 194954,
       "name": "Past Tense (Bonus Track)",
       "url": "https://open.spotify.com/track/2Ri7exgfMYXZGfALnDFwYi"
@@ -5588,6 +5696,24 @@
     },
     {
       "album": {
+        "name": "Queen Bitch",
+        "url": "https://open.spotify.com/album/6BVkRA0sAGmRoeEp6CCJBH"
+      },
+      "artists": [
+        {
+          "name": "Kailee Morgue",
+          "url": "https://open.spotify.com/artist/245PKF3hKjtxJKIG153kF0"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161013,
+      "name": "Queen Bitch",
+      "url": "https://open.spotify.com/track/3TyAGCbaaiQIYKKj42WO9R"
+    },
+    {
+      "album": {
         "name": "Queer",
         "url": "https://open.spotify.com/album/0EGnKQXRLo0xW5KuxrYwLS"
       },
@@ -5784,6 +5910,24 @@
     },
     {
       "album": {
+        "name": "rien dire",
+        "url": "https://open.spotify.com/album/2Kl3eV9Yo13AR4mgAXgWQu"
+      },
+      "artists": [
+        {
+          "name": "Christine and the Queens",
+          "url": "https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182000,
+      "name": "rien dire",
+      "url": "https://open.spotify.com/track/7nAU7YNFqUCb91FkTDVEUD"
+    },
+    {
+      "album": {
         "name": "Rise",
         "url": "https://open.spotify.com/album/0mBLsvxWpym819aVv6uJO3"
       },
@@ -5975,7 +6119,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-17",
+      "date_removed": null,
       "duration_ms": 156584,
       "name": "she knows it",
       "url": "https://open.spotify.com/track/5EjlKmbefO401Kra4OoN83"
@@ -5993,7 +6137,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 156584,
       "name": "she knows it",
       "url": "https://open.spotify.com/track/5M24GbbGWy0Z2W4RmLqFFf"
@@ -6337,7 +6481,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 200322,
       "name": "Sooner Or Later",
       "url": "https://open.spotify.com/track/2QLdrqojYq2yRKHqv6tXh1"
@@ -6359,6 +6503,24 @@
       "duration_ms": 267031,
       "name": "squares",
       "url": "https://open.spotify.com/track/0byJI4UB0ibHxUVz5Fz5Ne"
+    },
+    {
+      "album": {
+        "name": "star tripping",
+        "url": "https://open.spotify.com/album/4hohZtRQRa3Iz76pJPwJwR"
+      },
+      "artists": [
+        {
+          "name": "Kevin Atwater",
+          "url": "https://open.spotify.com/artist/6ZBM319vNIirp7FOvvLVD6"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154054,
+      "name": "star tripping",
+      "url": "https://open.spotify.com/track/1ozWhltP7jnU01qOMWYBXH"
     },
     {
       "album": {
@@ -6391,7 +6553,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-17",
+      "date_removed": null,
       "duration_ms": 192124,
       "name": "stupid games",
       "url": "https://open.spotify.com/track/3wHX2s10YcSPt6ftT9qKwv"
@@ -6905,7 +7067,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-17",
+      "date_removed": null,
       "duration_ms": 188915,
       "name": "To You",
       "url": "https://open.spotify.com/track/1OoqGyjrk8s8NDoE2aW6d0"
@@ -7053,7 +7215,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 203466,
       "name": "Trouble - from \u2018Three Months\u2019",
       "url": "https://open.spotify.com/track/4lM46UnoFn4FP074aYWGxS"
@@ -7422,6 +7584,24 @@
     },
     {
       "album": {
+        "name": "would you love me now?",
+        "url": "https://open.spotify.com/album/7FhtEvJcaDWM92vlsJUrkw"
+      },
+      "artists": [
+        {
+          "name": "Joshua Bassett",
+          "url": "https://open.spotify.com/artist/4VdV2qRAYBLINR6uU72V1J"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205646,
+      "name": "would you love me now?",
+      "url": "https://open.spotify.com/track/2PKKGrBkNB8bV8Vv4hwB2j"
+    },
+    {
+      "album": {
         "name": "XOXOY2K / ask me",
         "url": "https://open.spotify.com/album/2XrT7BOZzqCXKTnTaPblDK"
       },
@@ -7563,6 +7743,24 @@
       "duration_ms": 182268,
       "name": "Your Best Friend",
       "url": "https://open.spotify.com/track/4MQLMRjKFmNsz646FyAZ2k"
+    },
+    {
+      "album": {
+        "name": "your mom",
+        "url": "https://open.spotify.com/album/0MDDf0IrpoEaYU0sMJ98H4"
+      },
+      "artists": [
+        {
+          "name": "corook",
+          "url": "https://open.spotify.com/artist/1rNVlQNJSIESCd5mixdqMt"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200807,
+      "name": "your mom",
+      "url": "https://open.spotify.com/track/6rp15O3RvL5sOMjHfLjxTK"
     },
     {
       "album": {

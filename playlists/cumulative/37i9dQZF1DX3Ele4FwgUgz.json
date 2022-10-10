@@ -458,6 +458,24 @@
     },
     {
       "album": {
+        "name": "Shadow Effect",
+        "url": "https://open.spotify.com/album/2YAcYDJt8KOSKbU4JoHBFJ"
+      },
+      "artists": [
+        {
+          "name": "DiverDiva",
+          "url": "https://open.spotify.com/artist/0PyKHNnxTNPQDA4Ow7jRnd"
+        }
+      ],
+      "date_added": "2022-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261866,
+      "name": "Kiss the Sun",
+      "url": "https://open.spotify.com/track/5tCIFJpunFfqaO0ePThVAB"
+    },
+    {
+      "album": {
         "name": "L!L!L! (Love the Life We Live)",
         "url": "https://open.spotify.com/album/3DXFy8mVQ2ATnqocT3GQ8i"
       },
@@ -880,6 +898,24 @@
     },
     {
       "album": {
+        "name": "Shadow Effect",
+        "url": "https://open.spotify.com/album/2YAcYDJt8KOSKbU4JoHBFJ"
+      },
+      "artists": [
+        {
+          "name": "DiverDiva",
+          "url": "https://open.spotify.com/artist/0PyKHNnxTNPQDA4Ow7jRnd"
+        }
+      ],
+      "date_added": "2022-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236626,
+      "name": "Shadow Effect",
+      "url": "https://open.spotify.com/track/2p8XDR373QnaS1iNrqASfe"
+    },
+    {
+      "album": {
         "name": "L!L!L! (Love the Life We Live)",
         "url": "https://open.spotify.com/album/3DXFy8mVQ2ATnqocT3GQ8i"
       },
@@ -1107,7 +1143,7 @@
       ],
       "date_added": "2022-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-05",
       "duration_ms": 251386,
       "name": "Toy Doll",
       "url": "https://open.spotify.com/track/7BOoQpM5Ud8zRkDwMDWqOz"
@@ -1701,7 +1737,7 @@
       ],
       "date_added": "2022-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-05",
       "duration_ms": 228213,
       "name": "\u604b\u3059\u308bMagic!!",
       "url": "https://open.spotify.com/track/6XhJEnIFAqMQxoiLSlelgn"

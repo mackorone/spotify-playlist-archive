@@ -4,7 +4,7 @@
 
 > Music From "Puella Magi Madoka Magica"! 音楽で辿る「魔法少女まどか☆マギカ」の世界! ©Magica Quartet／Aniplex・Madoka Movie Project Rebellio
 
-80 songs - 4 hr 5 min - [published](https://open.spotify.com/playlist/5Og264xkgbV6pHsvWifYt0)
+82 songs - 4 hr 13 min - [published](https://open.spotify.com/playlist/5Og264xkgbV6pHsvWifYt0)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,9 +67,11 @@
 | [Vocalise Op\. 34 no\. 14](https://open.spotify.com/track/1WjwWgTy9tDEpTOryohnsX) | [梶浦 由記](https://open.spotify.com/artist/0BLHMPWOZ2aTI0ZCCbtZem) | [「魔法少女まどか☆マギカ」 Music Collection](https://open.spotify.com/album/7DIMGLcRga3HtdHJ3KsL6X) | 3:36 | 2022-08-23 |  |
 | [Welcome to Mirrors](https://open.spotify.com/track/1fmeRcr2mozxVil5YkOxx9) | [Chiba"Naotyu\-"Naoki](https://open.spotify.com/artist/3WhrpLNtwkewWEscuAsVEj) | [「マギアレコード 魔法少女まどか☆マギカ外伝」 Music Collection](https://open.spotify.com/album/0W0UlUYMdKBxixMMDNkTGd) | 1:42 | 2022-08-23 |  |
 | [あこがれ咲いた](https://open.spotify.com/track/1KuGK9P4wUIuBjGhnsQ5Ld) | [鹿目まどか \(CV:悠木碧\)](https://open.spotify.com/artist/1V4NEvOj4njRlPZj0Q9bDO) | [「魔法少女まどか☆マギカ」 Ultimate Best](https://open.spotify.com/album/6HbO9Uv1onX9RfLTQUrF8l) | 3:51 | 2022-08-23 |  |
-| [うつろい](https://open.spotify.com/track/6UaUAuwWqAbuSGTITLTZ2Y) | [TrySail](https://open.spotify.com/artist/3YmAt9U9INQwxAwfgMVfKD) | [Re Bon Voyage](https://open.spotify.com/album/0cFsKEvhK04mcktNzfBv8I) | 3:50 | 2022-08-23 |  |
+| [うつろい](https://open.spotify.com/track/6UaUAuwWqAbuSGTITLTZ2Y) | [TrySail](https://open.spotify.com/artist/3YmAt9U9INQwxAwfgMVfKD) | [Re Bon Voyage](https://open.spotify.com/album/0cFsKEvhK04mcktNzfBv8I) | 3:50 | 2022-08-23 | 2022-10-03 |
+| [うつろい](https://open.spotify.com/track/37RGI624amDqOaI5nh1waH) | [TrySail](https://open.spotify.com/artist/3YmAt9U9INQwxAwfgMVfKD) | [ごまかし/うつろい](https://open.spotify.com/album/6gMkQKen4RoK0YredoBx5z) | 3:51 | 2022-08-23 |  |
 | [かかわり](https://open.spotify.com/track/7MdTnv03MnwSoNDeADoxgf) | [TrySail](https://open.spotify.com/artist/3YmAt9U9INQwxAwfgMVfKD) | [「マギアレコード 魔法少女まどか☆マギカ外伝」 Music Collection](https://open.spotify.com/album/0W0UlUYMdKBxixMMDNkTGd) | 4:23 | 2022-08-23 |  |
-| [ごまかし](https://open.spotify.com/track/2xxaEkevNabHj6CDgX0BZT) | [TrySail](https://open.spotify.com/artist/3YmAt9U9INQwxAwfgMVfKD) | [Re Bon Voyage](https://open.spotify.com/album/0cFsKEvhK04mcktNzfBv8I) | 4:13 | 2022-08-23 |  |
+| [ごまかし](https://open.spotify.com/track/61fqqE7iW1rXSj1vGfWfdF) | [TrySail](https://open.spotify.com/artist/3YmAt9U9INQwxAwfgMVfKD) | [ごまかし/うつろい](https://open.spotify.com/album/6gMkQKen4RoK0YredoBx5z) | 4:11 | 2022-08-23 |  |
+| [ごまかし](https://open.spotify.com/track/2xxaEkevNabHj6CDgX0BZT) | [TrySail](https://open.spotify.com/artist/3YmAt9U9INQwxAwfgMVfKD) | [Re Bon Voyage](https://open.spotify.com/album/0cFsKEvhK04mcktNzfBv8I) | 4:13 | 2022-08-23 | 2022-10-03 |
 | [ひかりふる](https://open.spotify.com/track/31pVFxgZROGaolgI211Og1) | [Kalafina](https://open.spotify.com/artist/2otsTXVV2ZWZ8T5LPzsBhy) | [ひかりふる](https://open.spotify.com/album/0jCSqIa5E2rqBGw3R93JSt) | 4:51 | 2022-08-23 |  |
 | [また あした](https://open.spotify.com/track/5sLtjikhdwpFxpQpt6NRB0) | [鹿目まどか \(CV:悠木碧\)](https://open.spotify.com/artist/1V4NEvOj4njRlPZj0Q9bDO) | [「魔法少女まどか☆マギカ」 Music Collection](https://open.spotify.com/album/7DIMGLcRga3HtdHJ3KsL6X) | 4:24 | 2022-08-23 |  |
 | [まだダメよ](https://open.spotify.com/track/2ZccAEcvxEzWqa5mIYrKFV) | [梶浦 由記](https://open.spotify.com/artist/0BLHMPWOZ2aTI0ZCCbtZem) | [「魔法少女まどか☆マギカ」 Ultimate Best](https://open.spotify.com/album/6HbO9Uv1onX9RfLTQUrF8l) | 0:57 | 2022-08-23 |  |

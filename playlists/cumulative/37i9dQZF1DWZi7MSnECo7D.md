@@ -2,9 +2,9 @@
 
 ### [Indie Brasil](https://open.spotify.com/playlist/37i9dQZF1DWZi7MSnECo7D)
 
-> Novidades e destaques do indie nacional\. Foto: Tagua Tagua
+> Novidades e destaques do indie nacional\. Foto: Daniel \- Chico e o Mar
 
-279 songs - 15 hr 57 min - [published](https://open.spotify.com/playlist/6JgS0nFYvZfSw5mDRlDbjL)
+281 songs - 16 hr 3 min - [published](https://open.spotify.com/playlist/6JgS0nFYvZfSw5mDRlDbjL)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,6 +71,7 @@
 | [Costura](https://open.spotify.com/track/2dQ8R8tf0v6QNofVh18oAX) | [Antonia Morais](https://open.spotify.com/artist/544m4EMPSYu3v4FNoGYWQf) | [Costura](https://open.spotify.com/album/0f8PNEzWM2DaZe0MZ8HLd6) | 2:58 | 2022-03-25 | 2022-04-29 |
 | [Cê me viu ontem](https://open.spotify.com/track/6Iprd2vrpBI06WoN73BMVO) | [Jovem Dionisio](https://open.spotify.com/artist/4m5LghDfOKFZNEBZ0GO1OQ) | [Cê me viu ontem](https://open.spotify.com/album/5oVdbLtt5DHqphA3xevV6N) | 3:08 | 2022-01-14 | 2022-06-04 |
 | [Cósmico](https://open.spotify.com/track/4hIBfMhwc5s9e0WJd5hEOo) | [NAVE MÃE](https://open.spotify.com/artist/3C8DoOi5SypwXYUNQ6YnK8) | [Cósmico](https://open.spotify.com/album/2EVyRqqr8j8vAXPreNsEwp) | 3:37 | 2022-01-14 | 2022-03-26 |
+| [Dano Colateral](https://open.spotify.com/track/17f9gmhv5f5EEH1apzGmh1) | [Fogo Fera](https://open.spotify.com/artist/0QSdV5uL8HUJOwsyzL5rEI), [Tiê](https://open.spotify.com/artist/5rTjH3aABAmPM5B6DZebZ7), [Adriano Cintra](https://open.spotify.com/artist/6ZhHDKgsucGUUkEeH1mzyH) | [Eu Te Amo, Pt\. 3](https://open.spotify.com/album/2tceB7TduWvC5WfsjWLDq4) | 3:52 | 2022-10-07 |  |
 | [Dançando Assim](https://open.spotify.com/track/5Z05YrmWq85lEae2WUraSH) | [Tupi](https://open.spotify.com/artist/4VPfdVmQ3Lm86SOPgaCsCf) | [Dançando Assim](https://open.spotify.com/album/5UqBuGZLeKv2Q1yXqFyv73) | 2:43 | 2022-08-05 | 2022-09-17 |
 | [Das coisas que se perdem](https://open.spotify.com/track/6Hpque3mLD1UQFOkJPDYMx) | [Bomfim](https://open.spotify.com/artist/2e8cQfFufvGVSoEATHH8Cx) | [Todos os conselhos que não segui](https://open.spotify.com/album/2zVPyiDlZdTj5lyyMXVClN) | 4:20 | 2022-07-22 |  |
 | [Decidez](https://open.spotify.com/track/42fbMR2dkMat25LlLFRJ20) | [Otto](https://open.spotify.com/artist/6RMDKYDCMydPFG3scpEqjK) | [Canicule Sauvage](https://open.spotify.com/album/3mJT2eEgCOvLYpilkrR2Bl) | 3:47 | 2022-04-29 | 2022-05-20 |
@@ -243,6 +244,7 @@
 | [Surfar Um Processo](https://open.spotify.com/track/6CEzUKsbAyPhQr95yCn2Qi) | [Do Amor](https://open.spotify.com/artist/2dQAz3jNlenyLHfeknfNsn) | [Surfar Um Processo](https://open.spotify.com/album/4YbnkkdSyyKM0ogMjFkR7V) | 2:15 | 2022-03-18 | 2022-04-02 |
 | [Séries](https://open.spotify.com/track/1kzQwfTgAVLs1LVRNXXQQ5) | [Porfírio](https://open.spotify.com/artist/2qYaT54xotxq8bRuytCzWz) | [Existem Coisas Que Não Podem Esperar](https://open.spotify.com/album/5nqodwTgN5uf7U5ysArl5J) | 3:02 | 2022-03-25 | 2022-05-14 |
 | [Só](https://open.spotify.com/track/0b80V1R6f0RM80kdbVnnv4) | [Nevilton](https://open.spotify.com/artist/070r60ijuqN9KisFCwV6uM) | [Só](https://open.spotify.com/album/5AuoJdycZF6eb4pxTDnb13) | 3:48 | 2022-01-14 | 2022-06-04 |
+| [Talvez o Problema Seja Eu](https://open.spotify.com/track/5TsG8Dd14xcMcQ8Ze3U0t9) | [lalalaura](https://open.spotify.com/artist/0xzFVGq4LIQxHwcTkUZACD) | [Talvez o Problema Seja Eu](https://open.spotify.com/album/4Wx7IxNpv0caspljzbFMKL) | 2:35 | 2022-10-07 |  |
 | [Tanto](https://open.spotify.com/track/6rkq6lwz7w2RK3qAFyJcZ7) | [Tagua Tagua](https://open.spotify.com/artist/7hfRDZ2GLXzts759hMrdmt) | [Tanto](https://open.spotify.com/album/5sIl6a1G8ivm7ht7mFDYP6) | 3:33 | 2022-09-23 |  |
 | [Tempo Presente](https://open.spotify.com/track/6EcOfscBzI1HIEHTp25ysT) | [Glue Trip](https://open.spotify.com/artist/6b13SQkJSBYJxUoG8TaDcY) | [Tempo Presente](https://open.spotify.com/album/4Mp6pCuxYF9myM7r182ZMi) | 3:44 | 2022-05-20 | 2022-06-04 |
 | [Tempos Sombrios](https://open.spotify.com/track/2hdqKJGZ8k3FZaAKnxgXHi) | [Fernando Catatau](https://open.spotify.com/artist/38HnWuclWrz2BLt7Wek7Aj), [Uirá dos Reis](https://open.spotify.com/artist/5L1UfYjJzi1H5bXjSpDrhv) | [Fernando Catatau](https://open.spotify.com/album/1pP6XoftJqib7n3rgJFFIi) | 4:20 | 2022-02-04 | 2022-04-23 |

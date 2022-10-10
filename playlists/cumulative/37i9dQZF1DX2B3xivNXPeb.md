@@ -4,7 +4,7 @@
 
 > Whether you're cooking or pottering about, here's an all\-day soundtrack to enjoy in the comfort of your own home.
 
-123 songs - 7 hr 11 min - [published](https://open.spotify.com/playlist/0R9l8FVElkeD9DigbQY2x0)
+124 songs - 7 hr 14 min - [published](https://open.spotify.com/playlist/0R9l8FVElkeD9DigbQY2x0)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,7 +90,7 @@
 | [No Words Needed](https://open.spotify.com/track/1bZ0OZC0Zxt02qZVm8sltj) | [Rebecca Ferguson](https://open.spotify.com/artist/0CrCKxXekxMpkYfMEf8mca), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz) | [No Words Needed](https://open.spotify.com/album/6Fr8KGwUVNKFAdkJdlBJ8x) | 3:19 | 2022-02-14 | 2022-07-29 |
 | [Nostalgia](https://open.spotify.com/track/37C4hvdsHygqpA4Xzo8eAW) | [Alfie Sharp](https://open.spotify.com/artist/00BVhzOhPeFH9fVVCNqF9P) | [Nostalgia](https://open.spotify.com/album/5hBs54fSWzHghnJYobTNLS) | 4:25 | 2022-02-14 | 2022-07-29 |
 | [Nostalgia \(feat\. Taura\)](https://open.spotify.com/track/6TajNVI83TPoOEc3PCzcIt) | [edbl](https://open.spotify.com/artist/7ncd26zzbpqgZRroBKmReO), [Taura Lamb](https://open.spotify.com/artist/6YvaXV2q3iL1MyxYiiDWbH) | [Nostalgia](https://open.spotify.com/album/3afE6m4GD6Wv8sl3EUyFD7) | 3:43 | 2022-02-14 | 2022-07-29 |
-| [Obvious Guy](https://open.spotify.com/track/5NS0xTfHbV8EQ83GBfFqea) | [Alfie Templeman](https://open.spotify.com/artist/6QzMY3tnu0m56eKUnr4uCF) | [Happiness in Liquid Form](https://open.spotify.com/album/4hfnS7YAQNDiihGt70E3ei) | 3:21 | 2022-02-14 |  |
+| [Obvious Guy](https://open.spotify.com/track/5NS0xTfHbV8EQ83GBfFqea) | [Alfie Templeman](https://open.spotify.com/artist/6QzMY3tnu0m56eKUnr4uCF) | [Happiness in Liquid Form](https://open.spotify.com/album/4hfnS7YAQNDiihGt70E3ei) | 3:21 | 2022-02-14 | 2022-10-10 |
 | [Other Way](https://open.spotify.com/track/4mX17Zw9I9FSkGabznOonn) | [Isaac Waddington](https://open.spotify.com/artist/4ebKlOJFmoNuBQLKSEGDuH) | [Other Way](https://open.spotify.com/album/1XXQQrJo7dhTAc1I9btCWC) | 3:03 | 2022-02-14 | 2022-07-29 |
 | [Party Woman](https://open.spotify.com/track/56SIJ2f1VKqeJouNvTmsdY) | [Bamily](https://open.spotify.com/artist/6oMh7pGcBIgfpdKKUHmJAy) | [Party Woman](https://open.spotify.com/album/06AuMeo1eRmRj3nvygfkVw) | 2:58 | 2022-02-14 | 2022-07-29 |
 | [Please Love Me Again](https://open.spotify.com/track/3p8tSTa6qYgjpqlSvpvPfx) | [Liam Bailey](https://open.spotify.com/artist/022EiWsch2zvty0qBUksDO) | [Please Love Me Again](https://open.spotify.com/album/5i3E77zTgtpRFY1Pe4Qtl9) | 3:06 | 2022-02-14 | 2022-07-29 |
@@ -131,5 +131,6 @@
 | [What Matters \(feat\. Simon Neil\)](https://open.spotify.com/track/5IiYO9z0Qa3XVzCXMeA7FR) | [Laura Mvula](https://open.spotify.com/artist/0Dy94lW3txJhWQHqNXP1BT), [Simon Neil](https://open.spotify.com/artist/1bacSIxMGJgKSpuzxRXpiz) | [What Matters \(feat\. Simon Neil\)](https://open.spotify.com/album/1bKuhdfFTWOAk1yYJlW1sw) | 4:08 | 2022-02-14 | 2022-07-29 |
 | [When You Were Mine](https://open.spotify.com/track/05NwKm5My3fS780CUUDJFy) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS) | [When You Were Mine](https://open.spotify.com/album/7nI3v7qE8bJ3MP8K0vRDlk) | 3:23 | 2022-02-14 |  |
 | [You Can't Hurry Love](https://open.spotify.com/track/1OppEieGNdItZbE14gLBEv) | [The Supremes](https://open.spotify.com/artist/57bUPid8xztkieZfS7OlEV) | [The Supremes A' Go\-Go \(Expanded Edition\)](https://open.spotify.com/album/5fpOmAuZaVyEXPlQ4oOqJ6) | 2:47 | 2022-02-14 |  |
+| [You To Me Are Everything](https://open.spotify.com/track/0klZpFX0a84jdkqzPNrLQs) | [The Real Thing](https://open.spotify.com/artist/1NUD5By34MFynmuUynCfSj) | [Children of the Ghetto: The Pye Anthology](https://open.spotify.com/album/4YMGASMu3PZaKwq6vJoVTc) | 3:29 | 2022-02-14 |  |
 
 \*This playlist was first scraped on 2022-07-19. Prior content cannot be recovered.

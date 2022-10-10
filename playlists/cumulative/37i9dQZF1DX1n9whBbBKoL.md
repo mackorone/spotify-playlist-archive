@@ -4,7 +4,7 @@
 
 > Ambient drone to make you feel weightless.
 
-166 songs - 8 hr 36 min - [published](https://open.spotify.com/playlist/23lwFG5SZoywUexjbeApF0)
+170 songs - 8 hr 49 min - [published](https://open.spotify.com/playlist/23lwFG5SZoywUexjbeApF0)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,6 +43,7 @@
 | [Cirrus Clouds](https://open.spotify.com/track/6sk3KVXxU9welmb8gQEYxF) | [Rea Inarra](https://open.spotify.com/artist/5AvObRY7SiwpkfcIIOqb4R) | [Cirrus Clouds](https://open.spotify.com/album/2DwepQvFYfzn8YpHtJBEHb) | 2:11 | 2021-11-10 |  |
 | [Clear Path](https://open.spotify.com/track/2tCmr9BYhSjQilIomSM8EI) | [William Francisco](https://open.spotify.com/artist/2jQwLGGaI5zOgqc5SiMp7V) | [Clear Path](https://open.spotify.com/album/10tajn5McEnxj6z3B5KOqN) | 3:02 | 2022-03-24 |  |
 | [Close At Heart](https://open.spotify.com/track/6HTFfsnSvXpraVQrrYDN3U) | [The Lay\-Backs](https://open.spotify.com/artist/3hcHU2Pwf2YPgQXqdEi83C) | [Close At Heart](https://open.spotify.com/album/1nVDq2epSzOWeDyu82uoen) | 3:35 | 2021-11-10 |  |
+| [Closure 432 hz](https://open.spotify.com/track/5W2G3rrqupygc1iP3RGLg3) | [Binaural Landscapes](https://open.spotify.com/artist/5F1SC2pxuIO4iT2LnMIjQn) | [432 hz Frequency of Universe](https://open.spotify.com/album/5Xmwq5a06b8ZybYqX5fO8O) | 3:53 | 2022-10-07 |  |
 | [Cloud Study](https://open.spotify.com/track/3rAchCb8ZxPuKJVXxQX6ui) | [Norris Melcher](https://open.spotify.com/artist/1uNKwFEjuT8w9eXOCqrcAA) | [Cloud Study](https://open.spotify.com/album/3Q1VDydFHxITwok0hVfSZT) | 3:10 | 2021-11-10 |  |
 | [Convergence](https://open.spotify.com/track/6u6mjHCd8ULdqYYmkRJeeS) | [SleepTherapy](https://open.spotify.com/artist/6lmrCOEWctZj9LghJ9wxuv) | [Convergence](https://open.spotify.com/album/1095m41z6UPcurOL35ybPa) | 3:14 | 2022-08-12 |  |
 | [Cosmic Colours](https://open.spotify.com/track/66QCksfh4IAU0ElpZ7yMXu) | [Soothe My Soul](https://open.spotify.com/artist/7C8p7eBuwDPhRuOFamOJ9T) | [Cosmic Colours](https://open.spotify.com/album/4p1JQDTfGIvf4cIwiM4GX8) | 2:51 | 2021-11-10 |  |
@@ -100,6 +101,8 @@
 | [Lunar Expanse](https://open.spotify.com/track/6NdglslNy0Q9B5iVpTsaBh) | [Ambient Renaissance](https://open.spotify.com/artist/0QrVCAg5EvbIo1KfsKH25y) | [Lunar Expanse](https://open.spotify.com/album/3HjwoHERL1TKwkO750ZRnN) | 2:24 | 2021-11-10 |  |
 | [Mandala](https://open.spotify.com/track/5xe5oU9NJYyUTL2THo1TPy) | [Jon Hailey](https://open.spotify.com/artist/0Kr5kE9OFqjufb7gRkDBz0) | [Mandala](https://open.spotify.com/album/4QCv678G6eTUG92CwBuwnA) | 3:02 | 2022-07-11 |  |
 | [Mellow](https://open.spotify.com/track/15SJMsBLp7GR8FH9WvamuG) | [Boreal Embla](https://open.spotify.com/artist/1TIIwr7wiRuFavs4zUlYQU) | [Mellow](https://open.spotify.com/album/4OFhOIJLN66pFGa4n5eEto) | 3:33 | 2022-03-03 |  |
+| [Midnight Relief](https://open.spotify.com/track/3lzrmp1ug1AEu5KQ3AkzO6) | [Astral Wonder](https://open.spotify.com/artist/24JkKS4b8yp9usUXPL0I3G) | [Midnight Relief](https://open.spotify.com/album/5S9SpAQQFbgO5edXpXYd8A) | 3:06 | 2022-10-07 |  |
+| [Mint Green 528 Hz](https://open.spotify.com/track/7CoNMmP4XciExedSMAQkM4) | [Lo Amber](https://open.spotify.com/artist/6KHAX77UjY8HXrbGJjZNtI) | [Mint Green 528 Hz](https://open.spotify.com/album/7eWrcerVgh2dHudoXMJvzn) | 2:14 | 2022-10-07 |  |
 | [Mirrors](https://open.spotify.com/track/4AxLkuDH6lAh4zfAqnMk1n) | [Tairata](https://open.spotify.com/artist/6S03l2FptTA5eeHeXo115b) | [Mirrors](https://open.spotify.com/album/31hZ1BCR6HrbzBu0dNehj5) | 2:18 | 2021-11-10 |  |
 | [Mollusca](https://open.spotify.com/track/63kG8LOsD5GLmjW62S2rBA) | [Ferndale](https://open.spotify.com/artist/3RXfYE9FOxd2Mgxf46ZMb9) | [Gabriel](https://open.spotify.com/album/6EKSmGzGQ7ODZmqdHVXpa1) | 3:28 | 2021-11-10 |  |
 | [Monrovia](https://open.spotify.com/track/7JYgex93ldydsVqr6Um2nD) | [Prescient Liquids](https://open.spotify.com/artist/7KoToKBUpived2ez8gxKT1) | [Heliotropism](https://open.spotify.com/album/3MsuLztSUCisSA2S92hlaw) | 3:30 | 2021-11-10 |  |
@@ -120,6 +123,7 @@
 | [Panalipa Bisignatus](https://open.spotify.com/track/6LjyIMfDZkn2uY2sLM6Hdk) | [Sir Martin Walker](https://open.spotify.com/artist/5Bnqn1xdZlNk13QC9gc5Tu) | [Panalipa Bisignatus](https://open.spotify.com/album/77syYrRA3qfOI8bUmu1Hez) | 3:56 | 2021-11-10 |  |
 | [Passing Through](https://open.spotify.com/track/3clWNXDjKPbqvGviyo1Asg) | [Flying Rivers](https://open.spotify.com/artist/0dpYklrmz6pA7Yc3w48IPk) | [Millons of Trees](https://open.spotify.com/album/4RPxiQwUYBFwoXjLrpkNwl) | 2:33 | 2021-11-10 | 2022-04-22 |
 | [Peace and Quiet](https://open.spotify.com/track/6fKAXHHXXu0IrgNbOASoFS) | [Zen Atlas](https://open.spotify.com/artist/6KjzMG22RTsrSCmy71Ok0N) | [Peace and Quiet](https://open.spotify.com/album/1VA2ltU2TnJ3uAFpXG1DZ0) | 3:30 | 2021-11-10 |  |
+| [Peaceful Dreams](https://open.spotify.com/track/4dXeSoH8k8iq8uQz2ZZZSK) | [Menidia](https://open.spotify.com/artist/4scbgnFpSTNWZgSaxcXLS8) | [The Far Distance](https://open.spotify.com/album/4BsjkgUXT2QBtig8ONnvks) | 3:27 | 2022-10-07 |  |
 | [Peaceful Sleep](https://open.spotify.com/track/3s5nxh8pO8wMs62xN6F6PV) | [Mikkel Boyer](https://open.spotify.com/artist/1HhdV78nBxhhXAnJKVDEu8) | [Peaceful Sleep](https://open.spotify.com/album/1Cm81VOSmwDbqvOjygazp5) | 2:54 | 2021-11-10 |  |
 | [Peripateo](https://open.spotify.com/track/3Jsht2hQ08RWncvgXaFpcp) | [For The Lost](https://open.spotify.com/artist/58WBGaTBnBHGIgn19HOnhZ) | [Peripateo](https://open.spotify.com/album/0IQFwbUk5gJin6nQGMJPWz) | 3:13 | 2021-11-10 |  |
 | [Perspective](https://open.spotify.com/track/3DlKVRc8O2XjaFV5vQ5j0S) | [Jorin Williams](https://open.spotify.com/artist/5sKdm7FEijRv1JQfPHwrc7) | [Perspective](https://open.spotify.com/album/2KydKrhYkvgy0CEURNQvjg) | 2:56 | 2021-11-10 |  |

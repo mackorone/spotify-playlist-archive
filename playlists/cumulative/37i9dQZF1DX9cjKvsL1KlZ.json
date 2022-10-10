@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2022-03-04",
-  "description": "Sounds of New York curated by <a href=\"https://www.instagram.com/sidetalknyc/\">Sidetalk</a>, New York\u2019s one-minute street show",
-  "name": "Sidetalk Radio",
+  "description": "Sounds of New York curated by <a href=\"https://www.instagram.com/sidetalknyc/\">Sidetalk</a>, New York\u2019s one-minute street show.",
+  "name": "Sidetalk: The Playlist",
   "published_playlist_ids": [
     "0rqcdEr09hY4EkqH1rg5qo"
   ],
@@ -88,6 +88,28 @@
     },
     {
       "album": {
+        "name": "40s N 9s",
+        "url": "https://open.spotify.com/album/3xaTN7UyEJIVnnjdclui5E"
+      },
+      "artists": [
+        {
+          "name": "DD Osama",
+          "url": "https://open.spotify.com/artist/4JpFNbLvh0BGXAubKIthEM"
+        },
+        {
+          "name": "SugarHill Ddot",
+          "url": "https://open.spotify.com/artist/2mET8bpTc6j2lm5YjVUeFq"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145606,
+      "name": "40s N 9s",
+      "url": "https://open.spotify.com/track/6c74xJ6LgdJDnv8bYOElUP"
+    },
+    {
+      "album": {
         "name": "6 foot 7 foot",
         "url": "https://open.spotify.com/album/42WX64EFrVX9hMaguk1TqT"
       },
@@ -103,7 +125,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-02",
+      "date_removed": null,
       "duration_ms": 135993,
       "name": "6 foot 7 foot",
       "url": "https://open.spotify.com/track/5NmzosNjAiwHUXxi3jfOy2"
@@ -139,7 +161,7 @@
       ],
       "date_added": "2022-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 109776,
       "name": "Ain't Care",
       "url": "https://open.spotify.com/track/4xeAQ6sFPZzhR3lWdlMaqe"
@@ -320,6 +342,32 @@
     },
     {
       "album": {
+        "name": "BEAM (feat. KALIQ)",
+        "url": "https://open.spotify.com/album/5tRtIAhnIprppyv4if1GAB"
+      },
+      "artists": [
+        {
+          "name": "Melvoni",
+          "url": "https://open.spotify.com/artist/01Kz5ab1oYMaey58CaGTxA"
+        },
+        {
+          "name": "Dougie B",
+          "url": "https://open.spotify.com/artist/6ykgQbKcZFy5qoKBU4YiWj"
+        },
+        {
+          "name": "KALIQ",
+          "url": "https://open.spotify.com/artist/0jEh2LSTBnGfUf6A0zefdR"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132827,
+      "name": "BEAM (feat. KALIQ)",
+      "url": "https://open.spotify.com/track/3CG9KBVHm20sqYDpNMFeHe"
+    },
+    {
+      "album": {
         "name": "Beat the Odds",
         "url": "https://open.spotify.com/album/7Jwz1pAxpbpzU8VX8KjgOL"
       },
@@ -407,7 +455,7 @@
       ],
       "date_added": "2022-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 283066,
       "name": "Big Pimpin'",
       "url": "https://open.spotify.com/track/7m97yKVzPpXV9Z4ezEziOD"
@@ -447,6 +495,24 @@
       "duration_ms": 171510,
       "name": "Bill Collector",
       "url": "https://open.spotify.com/track/280qSlsQ12ghYmrckKdU5E"
+    },
+    {
+      "album": {
+        "name": "Bill Collector",
+        "url": "https://open.spotify.com/album/5hIwDv7vnaEoa2NWy6kk9d"
+      },
+      "artists": [
+        {
+          "name": "A$AP Twelvyy",
+          "url": "https://open.spotify.com/artist/0tPjSrb43a58uznKru1k2P"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171546,
+      "name": "Bill Collector",
+      "url": "https://open.spotify.com/track/1mK4BOz3QISKVDzEuapWlj"
     },
     {
       "album": {
@@ -555,7 +621,7 @@
       ],
       "date_added": "2022-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 130968,
       "name": "Boss of all Bosses",
       "url": "https://open.spotify.com/track/0SRilkF9BDix72ktLaRNnp"
@@ -647,7 +713,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 118441,
       "name": "Brotherly Love (Pt. 2) (feat. Dougie B & B-Lovee)",
       "url": "https://open.spotify.com/track/7awx72vZdHjV6xoCBveAK5"
@@ -852,6 +918,28 @@
     },
     {
       "album": {
+        "name": "Face of the What",
+        "url": "https://open.spotify.com/album/09YvQML69ulDtr75oZodJa"
+      },
+      "artists": [
+        {
+          "name": "Sha EK",
+          "url": "https://open.spotify.com/artist/3jVAqTL4NbB88q4lj94VX9"
+        },
+        {
+          "name": "Blockwork",
+          "url": "https://open.spotify.com/artist/16Ne2S96l791xLUXKov8hE"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157738,
+      "name": "D & D",
+      "url": "https://open.spotify.com/track/7hJDmcLOeNLLBifn5AXLbf"
+    },
+    {
+      "album": {
         "name": "D.M.B.",
         "url": "https://open.spotify.com/album/1o13E5QES3KCOg85oF0KNa"
       },
@@ -881,7 +969,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 200106,
       "name": "Decisions",
       "url": "https://open.spotify.com/track/4Q67qRlkLStbxuuHsCGCDe"
@@ -925,7 +1013,7 @@
       ],
       "date_added": "2022-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 204805,
       "name": "Demons (feat. Fivio Foreign & Sosa Geek)",
       "url": "https://open.spotify.com/track/05aZ9sAU1YXndHv0FMi9iW"
@@ -987,6 +1075,28 @@
       "duration_ms": 249040,
       "name": "Dipset Anthem",
       "url": "https://open.spotify.com/track/3rvM0obwHthpskrZKQxYLa"
+    },
+    {
+      "album": {
+        "name": "DOA (feat. Set Da Trend)",
+        "url": "https://open.spotify.com/album/0z0OfFcfdNLWfCuo6VS6ql"
+      },
+      "artists": [
+        {
+          "name": "Kay Flock",
+          "url": "https://open.spotify.com/artist/2AMeiDbfU2vonrTkpXDKUu"
+        },
+        {
+          "name": "Set Da Trend",
+          "url": "https://open.spotify.com/artist/4dtz0vRRNPW7J2N94X85eB"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108310,
+      "name": "DOA (feat. Set Da Trend)",
+      "url": "https://open.spotify.com/track/3i4yWKMRIoCcquLwOPhqZ1"
     },
     {
       "album": {
@@ -1063,7 +1173,7 @@
       ],
       "date_added": "2022-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 136594,
       "name": "Dreams N' Nightmares",
       "url": "https://open.spotify.com/track/6q8UIzUSII0Nw62S1IBOIg"
@@ -1237,7 +1347,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 210697,
       "name": "FourSevK",
       "url": "https://open.spotify.com/track/2udt81dx6lWuOFUZT5DZ7S"
@@ -1267,7 +1377,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 218946,
       "name": "Frat Rules (feat. A$AP Rocky, Playboi Carti & Big Sean)",
       "url": "https://open.spotify.com/track/0RyA3o15NOLJYtm9NlDu5c"
@@ -1438,6 +1548,24 @@
     },
     {
       "album": {
+        "name": "Gzz Bop",
+        "url": "https://open.spotify.com/album/0N7KUbGKnsMQfNJBwJuF00"
+      },
+      "artists": [
+        {
+          "name": "Dthang",
+          "url": "https://open.spotify.com/artist/2THPifY3pg9crvJrg9yOzr"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111438,
+      "name": "Gzz Box",
+      "url": "https://open.spotify.com/track/201JZGeanv3epvGYeUYdtd"
+    },
+    {
+      "album": {
         "name": "Get Rich Or Die Tryin'",
         "url": "https://open.spotify.com/album/4ycNE7y1rp5215g1kkqk1P"
       },
@@ -1475,6 +1603,28 @@
       "duration_ms": 231786,
       "name": "Hell (feat. Santigold)",
       "url": "https://open.spotify.com/track/5Uc07fEUpjjFcLEIleEHkJ"
+    },
+    {
+      "album": {
+        "name": "Shoot For The Stars Aim For The Moon (Deluxe)",
+        "url": "https://open.spotify.com/album/2MDU46hcBn3u94s46BOSdv"
+      },
+      "artists": [
+        {
+          "name": "Pop Smoke",
+          "url": "https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj"
+        },
+        {
+          "name": "A Boogie Wit da Hoodie",
+          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190534,
+      "name": "Hello (feat. A Boogie Wit da Hoodie)",
+      "url": "https://open.spotify.com/track/2r6OAV3WsYtXuXjvJ1lIDi"
     },
     {
       "album": {
@@ -1519,7 +1669,7 @@
       ],
       "date_added": "2022-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 151011,
       "name": "Hotel Lobby",
       "url": "https://open.spotify.com/track/5xKXcU8tpSYz7C7wrMMYec"
@@ -1544,6 +1694,24 @@
     },
     {
       "album": {
+        "name": "I Can't Lack",
+        "url": "https://open.spotify.com/album/08QWzIlOLGjSWraQItdwHz"
+      },
+      "artists": [
+        {
+          "name": "Set Da Trend",
+          "url": "https://open.spotify.com/artist/4dtz0vRRNPW7J2N94X85eB"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109221,
+      "name": "I Can't Lack",
+      "url": "https://open.spotify.com/track/5j6BUHDeL8xvlGrREK5uoe"
+    },
+    {
+      "album": {
         "name": "Come Home With Me",
         "url": "https://open.spotify.com/album/4wn9wcP2D71SyiB7KbVKMy"
       },
@@ -1563,6 +1731,40 @@
       "duration_ms": 249293,
       "name": "I Just Wanna",
       "url": "https://open.spotify.com/track/7lmTETD2oVFfbpgtvr9oVE"
+    },
+    {
+      "album": {
+        "name": "Bad Boy's 10th Anniversary- The Hits",
+        "url": "https://open.spotify.com/album/46JQVqJpOg8opDLUl1qHT1"
+      },
+      "artists": [
+        {
+          "name": "Diddy",
+          "url": "https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA"
+        },
+        {
+          "name": "Ginuwine",
+          "url": "https://open.spotify.com/artist/7r8RF1tN2A4CiGEplkp1oP"
+        },
+        {
+          "name": "Loon",
+          "url": "https://open.spotify.com/artist/2gie1bU1LwnxdFAJoTLjzT"
+        },
+        {
+          "name": "Mario Winans",
+          "url": "https://open.spotify.com/artist/4BIQA9vRkqXEnA2twmq7mU"
+        },
+        {
+          "name": "Tammy Ruggieri",
+          "url": "https://open.spotify.com/artist/3syIAcIriqzXKN77IwQnWB"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285586,
+      "name": "I Need a Girl (Pt. 2) [feat. Loon, Ginuwine & Mario Winans]",
+      "url": "https://open.spotify.com/track/6Wt5QBzHp9vdSLAFlvdnDQ"
     },
     {
       "album": {
@@ -1675,7 +1877,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-02",
+      "date_removed": null,
       "duration_ms": 127546,
       "name": "Invincible",
       "url": "https://open.spotify.com/track/792HwhrdO3ErRKL5yRe4Ge"
@@ -1819,7 +2021,7 @@
       ],
       "date_added": "2022-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 92000,
       "name": "Jus Lef Phoenix",
       "url": "https://open.spotify.com/track/67ildkjzEsv38VbiUoCVnc"
@@ -1917,7 +2119,7 @@
       ],
       "date_added": "2022-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 148426,
       "name": "Living Life (feat. Rowdy Rebel)",
       "url": "https://open.spotify.com/track/6IEvn1ksSpWNEZHhkh1yzf"
@@ -2085,7 +2287,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-13",
+      "date_removed": null,
       "duration_ms": 190145,
       "name": "Maneuver (Bonus)",
       "url": "https://open.spotify.com/track/1GjjP9WxHI6caL97oRxp2h"
@@ -2107,7 +2309,7 @@
       ],
       "date_added": "2022-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 160560,
       "name": "Mannequin (feat. Lil Tjay)",
       "url": "https://open.spotify.com/track/5eJpwQyirY5EEdNadHKRAM"
@@ -2132,6 +2334,28 @@
     },
     {
       "album": {
+        "name": "Max Out (feat. Shawny Binladen)",
+        "url": "https://open.spotify.com/album/2LtgejDTtBZrzQSQTFH3Iv"
+      },
+      "artists": [
+        {
+          "name": "22Gz",
+          "url": "https://open.spotify.com/artist/4JhbRL6zaItAyzqx4gHTqz"
+        },
+        {
+          "name": "Shawny Binladen",
+          "url": "https://open.spotify.com/artist/0JfrGVffhKwF36QHW9HXOL"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131977,
+      "name": "Max Out (feat. Shawny Binladen)",
+      "url": "https://open.spotify.com/track/3ZAdfrlcv07Fd78wJfhbRd"
+    },
+    {
+      "album": {
         "name": "Faith",
         "url": "https://open.spotify.com/album/2MlT9dGKoGH2hsfcz7UUXL"
       },
@@ -2143,10 +2367,32 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 175774,
       "name": "Merci Beaucoup",
       "url": "https://open.spotify.com/track/6mPZVis3gEGSSR2rhxlehT"
+    },
+    {
+      "album": {
+        "name": "Misconceptions",
+        "url": "https://open.spotify.com/album/6cdDbqEhuDFmWdWEHGic2y"
+      },
+      "artists": [
+        {
+          "name": "Kyle Richh",
+          "url": "https://open.spotify.com/artist/0hF6lbAjRsq4svrQUr5sgU"
+        },
+        {
+          "name": "Jenn Carter",
+          "url": "https://open.spotify.com/artist/3BcgTyEdL81zMljmXcilZM"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 99265,
+      "name": "Misconceptions",
+      "url": "https://open.spotify.com/track/4pUQktt2ispCFMBtIvqPol"
     },
     {
       "album": {
@@ -2361,7 +2607,7 @@
       ],
       "date_added": "2022-03-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-02",
+      "date_removed": null,
       "duration_ms": 120189,
       "name": "My Shit",
       "url": "https://open.spotify.com/track/1HmhJrabjvTHZlkKDUzZfX"
@@ -2452,6 +2698,24 @@
     },
     {
       "album": {
+        "name": "Bandemic",
+        "url": "https://open.spotify.com/album/1k0h2GG20oGhgNVCKhOopz"
+      },
+      "artists": [
+        {
+          "name": "Bizzy Banks",
+          "url": "https://open.spotify.com/artist/7s3eCGNZMrwUQraXlocCBv"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109090,
+      "name": "Neo",
+      "url": "https://open.spotify.com/track/5LC0t1RQcxwO1cyLnmPPxX"
+    },
+    {
+      "album": {
         "name": "GMTO Vol. 1 (Get Money Take Over)",
         "url": "https://open.spotify.com/album/4UDPZgxZy3VnIFQ8os0G29"
       },
@@ -2467,6 +2731,24 @@
       "duration_ms": 109090,
       "name": "Neo",
       "url": "https://open.spotify.com/track/7cl6YOTV6A1N32pucNfcxD"
+    },
+    {
+      "album": {
+        "name": "Face of the What",
+        "url": "https://open.spotify.com/album/0hA6PDNYcFeSJYj4CceZuL"
+      },
+      "artists": [
+        {
+          "name": "Sha EK",
+          "url": "https://open.spotify.com/artist/3jVAqTL4NbB88q4lj94VX9"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115306,
+      "name": "Never Want to Be Them",
+      "url": "https://open.spotify.com/track/3WchIwLZMo7OnQah3oVbON"
     },
     {
       "album": {
@@ -2704,6 +2986,24 @@
     },
     {
       "album": {
+        "name": "OnDaRadar (Freestyle)",
+        "url": "https://open.spotify.com/album/1ut8FyXUcpi66G6Yw7Yovx"
+      },
+      "artists": [
+        {
+          "name": "Dthang",
+          "url": "https://open.spotify.com/artist/2THPifY3pg9crvJrg9yOzr"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118932,
+      "name": "OnDaRadar (Freestyle)",
+      "url": "https://open.spotify.com/track/2XfEZOaepItvpELhDywnUj"
+    },
+    {
+      "album": {
         "name": "Drench Em",
         "url": "https://open.spotify.com/album/5S5RHz9pTEe4P632bBiAmD"
       },
@@ -2715,7 +3015,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 165440,
       "name": "Only Fans",
       "url": "https://open.spotify.com/track/2aDVipOC8oKpij3lDQ6kfh"
@@ -2759,6 +3059,28 @@
       "duration_ms": 163156,
       "name": "Opp Spotter (feat. B-Lovee)",
       "url": "https://open.spotify.com/track/5KPeT0pL0rK6x8fesfvcGs"
+    },
+    {
+      "album": {
+        "name": "Outside",
+        "url": "https://open.spotify.com/album/0qWG2omWgkNk3bgF7CqgEA"
+      },
+      "artists": [
+        {
+          "name": "Young Devyn",
+          "url": "https://open.spotify.com/artist/5JPJZcr0m2OkOEA1pagpSb"
+        },
+        {
+          "name": "Fivio Foreign",
+          "url": "https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196312,
+      "name": "Outside (feat. Fivio Foreign)",
+      "url": "https://open.spotify.com/track/5zbxkF1osnZlRAknPax4D9"
     },
     {
       "album": {
@@ -2904,6 +3226,24 @@
     },
     {
       "album": {
+        "name": "Wick The Wizard",
+        "url": "https://open.spotify.com/album/24lIwmoIuDulxSR9u5crmP"
+      },
+      "artists": [
+        {
+          "name": "Shawny Binladen",
+          "url": "https://open.spotify.com/artist/0JfrGVffhKwF36QHW9HXOL"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 83644,
+      "name": "Pretendo",
+      "url": "https://open.spotify.com/track/1ZRlDcwda9ipvwlYLxdZ3G"
+    },
+    {
+      "album": {
         "name": "Life After Future",
         "url": "https://open.spotify.com/album/2fQ5deidLKC9hkT00trC4y"
       },
@@ -3011,7 +3351,7 @@
       ],
       "date_added": "2022-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 255413,
       "name": "RAF (feat. A$AP Rocky, Playboi Carti, Quavo, Lil Uzi Vert & Frank Ocean)",
       "url": "https://open.spotify.com/track/4pdgV8qr9Oytcv6thCdiIZ"
@@ -3131,7 +3471,7 @@
       ],
       "date_added": "2022-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 158074,
       "name": "ROSARY (feat. Retch)",
       "url": "https://open.spotify.com/track/7iBX984lCZENaVd6AsITIW"
@@ -3273,7 +3613,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 241786,
       "name": "Scenario",
       "url": "https://open.spotify.com/track/2T1GbU75iGVtOhNUbZuNqk"
@@ -3390,6 +3730,24 @@
     },
     {
       "album": {
+        "name": "SHIRT",
+        "url": "https://open.spotify.com/album/42t9iuzETD7RIhLQazqAIv"
+      },
+      "artists": [
+        {
+          "name": "THOTTWAT",
+          "url": "https://open.spotify.com/artist/16SkmlqKt2Xf6mqurZgpdt"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176316,
+      "name": "SHIRT",
+      "url": "https://open.spotify.com/track/3umJNfPLBiNmIsDg0Ebcuy"
+    },
+    {
+      "album": {
         "name": "Shmoney (feat. Quavo & Rowdy Rebel)",
         "url": "https://open.spotify.com/album/5npQCHNuLe3ydFr1bx4sib"
       },
@@ -3501,7 +3859,7 @@
       ],
       "date_added": "2022-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 154566,
       "name": "Spazz Out",
       "url": "https://open.spotify.com/track/161Cm2kQ8Et6zAkp38PcNn"
@@ -3548,6 +3906,28 @@
     },
     {
       "album": {
+        "name": "Endangered Species",
+        "url": "https://open.spotify.com/album/4Dj07YyIWIvo3dUYinvqvR"
+      },
+      "artists": [
+        {
+          "name": "Big Pun",
+          "url": "https://open.spotify.com/artist/2Xu7q46Hf02xOoEIm4E1Qs"
+        },
+        {
+          "name": "Joe",
+          "url": "https://open.spotify.com/artist/3zTOe1BtyTkwNvYZOxXktX"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236266,
+      "name": "Still Not a Player (feat. Joe)",
+      "url": "https://open.spotify.com/track/5kWShBA43yNFBzHk7g1Mtd"
+    },
+    {
+      "album": {
         "name": "Strangers (feat. A$AP Rocky and Run The Jewels)",
         "url": "https://open.spotify.com/album/6OHZ8QAgIJC7nPwACpWqG8"
       },
@@ -3571,7 +3951,7 @@
       ],
       "date_added": "2022-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 248000,
       "name": "Strangers (feat. A$AP Rocky and Run The Jewels)",
       "url": "https://open.spotify.com/track/5iP1KNUxchR64bieN9pE7z"
@@ -3826,6 +4206,28 @@
     },
     {
       "album": {
+        "name": "Tomorrow 2 (with Cardi B)",
+        "url": "https://open.spotify.com/album/5o1xUBd8aM7qFhjlBXiIpb"
+      },
+      "artists": [
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        },
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209811,
+      "name": "Tomorrow 2 (with Cardi B)",
+      "url": "https://open.spotify.com/track/7KXVIAuw3m2hxZanrpSXS3"
+    },
+    {
+      "album": {
         "name": "Look What They Started (Reloaded)",
         "url": "https://open.spotify.com/album/1Y3QrSEnQeajcmBuLNYpro"
       },
@@ -3837,7 +4239,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 195996,
       "name": "Treeshin'",
       "url": "https://open.spotify.com/track/4UGriy4ErXi4tRvxGGHXKQ"
@@ -3921,7 +4323,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 178406,
       "name": "Twirlanta",
       "url": "https://open.spotify.com/track/3DHB4RzX7kWcpjjFtcmWqh"
@@ -3991,7 +4393,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 147218,
       "name": "Uzi",
       "url": "https://open.spotify.com/track/7bYMYyBCfWSfoC2zRacK2x"
@@ -4133,7 +4535,7 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-04",
+      "date_removed": null,
       "duration_ms": 157619,
       "name": "Weight On Me",
       "url": "https://open.spotify.com/track/6A4hgJdwriera4WSUl4moW"
@@ -4305,7 +4707,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 201398,
       "name": "What\u2019s My Name (with Queen Naija & Coi Leray)",
       "url": "https://open.spotify.com/track/7jwrYkG9VLzbZ4E7c25UUZ"
@@ -4370,6 +4772,24 @@
     },
     {
       "album": {
+        "name": "WICK",
+        "url": "https://open.spotify.com/album/7AUyTx5Ku4MvA4enIW2PZ3"
+      },
+      "artists": [
+        {
+          "name": "SpliffHappy",
+          "url": "https://open.spotify.com/artist/5K8DPehdUSrqBsICbIxDOR"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 81036,
+      "name": "WICK",
+      "url": "https://open.spotify.com/track/3hhTeIwULQvxl3GaeJJ1o2"
+    },
+    {
+      "album": {
         "name": "Merry Wickmas",
         "url": "https://open.spotify.com/album/7maLkOMxNNkoHbVE8VWVka"
       },
@@ -4425,7 +4845,7 @@
       ],
       "date_added": "2022-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 181714,
       "name": "Woo Year (feat. Dread Woo)",
       "url": "https://open.spotify.com/track/3liqOtIOxObydJiqru2wr8"
@@ -4509,7 +4929,7 @@
       ],
       "date_added": "2022-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 302004,
       "name": "Yamborghini High (feat. Juicy J)",
       "url": "https://open.spotify.com/track/2rqUblDWJKlMVwh9uJc0Vv"

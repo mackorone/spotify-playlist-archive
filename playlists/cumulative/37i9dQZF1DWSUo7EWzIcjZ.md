@@ -4,7 +4,7 @@
 
 > ¡Merengue de los 80 y 90! Portada: Johnny Ventura
 
-319 songs - 23 hr 36 min - [published](https://open.spotify.com/playlist/183mhwZXE4Kk3Wza9Sli0B)
+320 songs - 23 hr 41 min - [published](https://open.spotify.com/playlist/183mhwZXE4Kk3Wza9Sli0B)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -161,7 +161,8 @@
 | [La Varita](https://open.spotify.com/track/39wIxFjHfiqYqTyRhJZaZR) | [Aramis Camilo](https://open.spotify.com/artist/2uXrtZz6GmQnXEJR1eh97C) | [La Organizacion Secreta](https://open.spotify.com/album/1oX3sKhJkR1nkV6hjLz1AJ) | 4:09 | 2021-02-02 | 2022-07-26 |
 | [La Varita](https://open.spotify.com/track/2zp5lkyP0FPbCOxBdiYT4h) | [Aramis Camilo](https://open.spotify.com/artist/2uXrtZz6GmQnXEJR1eh97C) | [Merengues Limpio](https://open.spotify.com/album/771HsH0BQNvh1S8iYiX1Ss) | 4:10 | 2021-02-02 |  |
 | [La Ventanita](https://open.spotify.com/track/6VjR5nMX70LuBpfMMo2tTU) | [Mickey Taveras](https://open.spotify.com/artist/1iVpMZKqpnZWfCXO2vIozm) | [Vamos a Darlo Todo](https://open.spotify.com/album/3BgDMBLh8A0ckMRhIVY6nW) | 4:44 | 2021-02-02 | 2022-09-17 |
-| [La Ventanita](https://open.spotify.com/track/323yKu4gsmbZQsFADHYZxA) | [Mickey Taveras](https://open.spotify.com/artist/1iVpMZKqpnZWfCXO2vIozm) | [Latino! Grandes Éxitos \- Juan Luis Guerra / Karen Records](https://open.spotify.com/album/2zjk3XQqUgGB8Mh7pkcP49) | 4:44 | 2021-02-02 |  |
+| [La Ventanita](https://open.spotify.com/track/2eRba627Otdkl6SsPyYWnY) | [Mickey Taveras](https://open.spotify.com/artist/1iVpMZKqpnZWfCXO2vIozm) | [Lucharé](https://open.spotify.com/album/2TLAq5snR8KdndLMVCzHC4) | 4:44 | 2021-02-02 |  |
+| [La Ventanita](https://open.spotify.com/track/323yKu4gsmbZQsFADHYZxA) | [Mickey Taveras](https://open.spotify.com/artist/1iVpMZKqpnZWfCXO2vIozm) | [Latino! Grandes Éxitos \- Juan Luis Guerra / Karen Records](https://open.spotify.com/album/2zjk3XQqUgGB8Mh7pkcP49) | 4:44 | 2021-02-02 | 2022-10-06 |
 | [La Ventanita](https://open.spotify.com/track/3jrbhJwKcWYgRPyNGXLhXz) | [Mickey Taveras](https://open.spotify.com/artist/1iVpMZKqpnZWfCXO2vIozm) | [Lucharé](https://open.spotify.com/album/6D1EQ3P1Rma06b68UPZCNe) | 4:44 | 2021-02-02 | 2022-09-03 |
 | [La Ventanita](https://open.spotify.com/track/7hhJ95zPooNzgSLVFRuzSp) | [Mickey Taveras](https://open.spotify.com/artist/1iVpMZKqpnZWfCXO2vIozm) | [16 Merengues de Oro](https://open.spotify.com/album/6XAKkXGOcBzBfvx7rmawRd) | 4:45 | 2021-02-02 | 2022-07-29 |
 | [La Ventanita](https://open.spotify.com/track/5CmVYFZinikaqh9Mf2J1Xl) | [Sergio Vargas](https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs) | [Grandes Exitos](https://open.spotify.com/album/7jOSnwx4l31yUCmcE3qElN) | 4:46 | 2021-02-02 |  |

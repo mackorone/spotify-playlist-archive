@@ -55,7 +55,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-25",
+      "date_removed": "2022-10-06",
       "duration_ms": 228280,
       "name": "American High",
       "url": "https://open.spotify.com/track/1sbM3pW8xKd2HKm9bosFF2"
@@ -73,7 +73,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-02",
+      "date_removed": "2022-10-08",
       "duration_ms": 355272,
       "name": "ARR\u00d8WS IN W\u00d8RDS FR\u00d8M THE SKY",
       "url": "https://open.spotify.com/track/3G0A7kcQeYbyPH8euw6M5a"
@@ -235,7 +235,7 @@
       ],
       "date_added": "2022-08-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-11",
+      "date_removed": null,
       "duration_ms": 299925,
       "name": "BEC\u00d8ME THE FIREST\u00d8RM",
       "url": "https://open.spotify.com/track/7GvQCTBtBQ5izny7E7AB9v"
@@ -343,7 +343,7 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-28",
+      "date_removed": null,
       "duration_ms": 299180,
       "name": "Bulletproof",
       "url": "https://open.spotify.com/track/3niNvr5rU58SPKdtGeMSJD"
@@ -458,6 +458,24 @@
     },
     {
       "album": {
+        "name": "Unto the Locust (Special Edition)",
+        "url": "https://open.spotify.com/album/79EwDnZoH0n7vIAXmYP1cz"
+      },
+      "artists": [
+        {
+          "name": "Machine Head",
+          "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
+        }
+      ],
+      "date_added": "2022-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 387840,
+      "name": "Darkness Within",
+      "url": "https://open.spotify.com/track/0bHYX16vAFaFhtEqKhCeqg"
+    },
+    {
+      "album": {
         "name": "Unto The Locust",
         "url": "https://open.spotify.com/album/4tzHN0jj11imsGYK9GdpF3"
       },
@@ -469,7 +487,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-09",
       "duration_ms": 387842,
       "name": "Darkness Within",
       "url": "https://open.spotify.com/track/5yDXKaZPyj8ojRJ2nacbLX"
@@ -595,7 +613,7 @@
       ],
       "date_added": "2022-09-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-29",
+      "date_removed": "2022-10-08",
       "duration_ms": 285850,
       "name": "EXTER\u00d8CEPTI\u00d8N",
       "url": "https://open.spotify.com/track/3ACe9ZJx9pOUCt8zbAN3Qc"
@@ -761,7 +779,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-09",
       "duration_ms": 442884,
       "name": "In Comes The Flood",
       "url": "https://open.spotify.com/track/4fRjDaOvF4TxU88P2bdkMx"
@@ -1233,7 +1251,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-02",
+      "date_removed": null,
       "duration_ms": 403706,
       "name": "The Burning Red",
       "url": "https://open.spotify.com/track/6I1TUZcHHhcFfI2GNfXcYU"
@@ -1305,7 +1323,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 281179,
       "name": "Triple Beam",
       "url": "https://open.spotify.com/track/19FT0vJ72SjAdQdCT3gf7M"
@@ -1377,7 +1395,7 @@
       ],
       "date_added": "2022-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-09",
       "duration_ms": 58490,
       "name": "\u00d8VERD\u00d8SE",
       "url": "https://open.spotify.com/track/2FySgAuDaW4CXfWUYiC2B9"

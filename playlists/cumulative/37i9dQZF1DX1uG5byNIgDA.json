@@ -1053,7 +1053,7 @@
       ],
       "date_added": "2022-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-04",
       "duration_ms": 137751,
       "name": "Do",
       "url": "https://open.spotify.com/track/0gPPo7G20xgVqgFy8cqUmp"
@@ -2148,6 +2148,28 @@
     },
     {
       "album": {
+        "name": "how can i do",
+        "url": "https://open.spotify.com/album/48AzCrfwXNzTgctIYFMqbH"
+      },
+      "artists": [
+        {
+          "name": "soowoo",
+          "url": "https://open.spotify.com/artist/6yrdEI0g5zLDdYiBmqNYxo"
+        },
+        {
+          "name": "YooJeong",
+          "url": "https://open.spotify.com/artist/6IDgXpF52ULsVz5Oqc0JST"
+        }
+      ],
+      "date_added": "2022-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169599,
+      "name": "how can i do (Feat. YooJeong)",
+      "url": "https://open.spotify.com/track/2IJnYC8w1noQNAKt8JyxW9"
+    },
+    {
+      "album": {
         "name": "No, Thank You OST Part.2",
         "url": "https://open.spotify.com/album/65Sjg70pHSmlRW5RHFRcb9"
       },
@@ -2933,6 +2955,28 @@
       "duration_ms": 213868,
       "name": "Lovemonth",
       "url": "https://open.spotify.com/track/5KnAca7g0lgwzCNA64WE9d"
+    },
+    {
+      "album": {
+        "name": "Lucky (feat. HANHAE)",
+        "url": "https://open.spotify.com/album/1QjLsDOBr7h9FKS37YpXci"
+      },
+      "artists": [
+        {
+          "name": "KittiB",
+          "url": "https://open.spotify.com/artist/3inqDrxKHZeWUvf8RHbJ6t"
+        },
+        {
+          "name": "Hanhae",
+          "url": "https://open.spotify.com/artist/1CjHzclPOS2unF1vRtgurF"
+        }
+      ],
+      "date_added": "2022-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182769,
+      "name": "Lucky (feat. HANHAE)",
+      "url": "https://open.spotify.com/track/4cap8r3pvNFqLoenkZTNjw"
     },
     {
       "album": {
@@ -4539,7 +4583,7 @@
       ],
       "date_added": "2022-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-04",
       "duration_ms": 174720,
       "name": "Super Happy (feat. Ariza)",
       "url": "https://open.spotify.com/track/7xKuZzXNNgOZ3HVx1HtyXu"

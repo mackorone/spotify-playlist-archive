@@ -2680,6 +2680,28 @@
     },
     {
       "album": {
+        "name": "Uzumaki",
+        "url": "https://open.spotify.com/album/7nJWw7EXntcF4EjsWsFMJJ"
+      },
+      "artists": [
+        {
+          "name": "Chystemc",
+          "url": "https://open.spotify.com/artist/12wTrvRwxmsbUxkLffkPfv"
+        },
+        {
+          "name": "Gudspella",
+          "url": "https://open.spotify.com/artist/2xjF5imhTEr6WDS0EAqMtw"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295936,
+      "name": "Uzumaki",
+      "url": "https://open.spotify.com/track/5eO9DgpkoSm2k9eOkI14Xg"
+    },
+    {
+      "album": {
         "name": "Vac\u00edo Lleno",
         "url": "https://open.spotify.com/album/7ziZZTHfjYW3TmvTQTXK4P"
       },

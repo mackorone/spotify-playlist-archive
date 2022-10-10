@@ -413,7 +413,7 @@
       ],
       "date_added": "2022-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-03",
       "duration_ms": 396442,
       "name": "7elmet Ado 5",
       "url": "https://open.spotify.com/track/6MvBKF1zyjUnnUUgfndWjF"
@@ -1593,10 +1593,28 @@
       ],
       "date_added": "2022-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-05",
       "duration_ms": 159456,
       "name": "Badi 7efyan",
       "url": "https://open.spotify.com/track/0jCo4rohuFfNSXSluXaw8i"
+    },
+    {
+      "album": {
+        "name": "Badi 7efyan",
+        "url": "https://open.spotify.com/album/0MebtWhPlCLOp39Vid4OJi"
+      },
+      "artists": [
+        {
+          "name": "Stormy",
+          "url": "https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh"
+        }
+      ],
+      "date_added": "2022-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159529,
+      "name": "Badi 7efyan",
+      "url": "https://open.spotify.com/track/1PBmigvgEtx36XPYGlCh4Z"
     },
     {
       "album": {
@@ -2243,7 +2261,7 @@
       ],
       "date_added": "2022-03-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-11",
+      "date_removed": "2022-10-07",
       "duration_ms": 232933,
       "name": "Boy In Luv",
       "url": "https://open.spotify.com/track/17AFcTj1bj9qhWrHbsLDSb"
@@ -2377,7 +2395,7 @@
       ],
       "date_added": "2022-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-09",
       "duration_ms": 164952,
       "name": "Butter",
       "url": "https://open.spotify.com/track/6jjYDGxVJsWS0a5wlVF5vS"
@@ -3129,7 +3147,7 @@
       ],
       "date_added": "2022-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 153529,
       "name": "corazon (with French Montana)",
       "url": "https://open.spotify.com/track/01EFzBpejKX2wzFdMHKGR9"
@@ -4004,7 +4022,7 @@
       "artists": [
         {
           "name": "MA3IZ",
-          "url": "https://open.spotify.com/artist/6T4HJ0ayzxLWDbktdiBe3l"
+          "url": "https://open.spotify.com/artist/0WxEGN4pZkTGFcUl1hbeLG"
         }
       ],
       "date_added": "2022-09-28",
@@ -4063,7 +4081,7 @@
       ],
       "date_added": "2022-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-09",
       "duration_ms": 199053,
       "name": "Dynamite",
       "url": "https://open.spotify.com/track/5QDLhrAOJJdNAmCTJ8xMyW"
@@ -4950,6 +4968,24 @@
     },
     {
       "album": {
+        "name": "Fuck Off 2",
+        "url": "https://open.spotify.com/album/3vsZvniN5rtzripBJd24ix"
+      },
+      "artists": [
+        {
+          "name": "Raid",
+          "url": "https://open.spotify.com/artist/4BuamTRrqjMmqrCnJ2pUQg"
+        }
+      ],
+      "date_added": "2022-10-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-07",
+      "duration_ms": 645537,
+      "name": "Fuck Off 2",
+      "url": "https://open.spotify.com/track/7kJ0F76to1ON6xSkhlMuIn"
+    },
+    {
+      "album": {
         "name": "Fumig\u00e8ne",
         "url": "https://open.spotify.com/album/5smRNpxX9VGSPz77CI6a2x"
       },
@@ -5064,6 +5100,42 @@
     },
     {
       "album": {
+        "name": "Ghazali",
+        "url": "https://open.spotify.com/album/1BD51EjGSTPgMyfQoA6VwG"
+      },
+      "artists": [
+        {
+          "name": "Artisan Dz",
+          "url": "https://open.spotify.com/artist/1v8wfWfx4RqBm2Mqy1v9o9"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-09",
+      "duration_ms": 304300,
+      "name": "Ghazali",
+      "url": "https://open.spotify.com/track/3LhtZaCJX2Z5pGFQGK6nP0"
+    },
+    {
+      "album": {
+        "name": "GHAZALI",
+        "url": "https://open.spotify.com/album/7Abvw9BQxOgFT6FTld7zoC"
+      },
+      "artists": [
+        {
+          "name": "Bilel Tacchini",
+          "url": "https://open.spotify.com/artist/2QtIVRuCdO2a4RWyoF4ayb"
+        }
+      ],
+      "date_added": "2022-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304227,
+      "name": "GHAZALI",
+      "url": "https://open.spotify.com/track/1hZrz8xkp0QEJNNmdKYNVP"
+    },
+    {
+      "album": {
         "name": "Ghazali (feat. Bryan Mg)",
         "url": "https://open.spotify.com/album/1LBYhdNp9PZrjPjVPJoboo"
       },
@@ -5083,6 +5155,24 @@
       "duration_ms": 184661,
       "name": "Ghazali (feat. Bryan Mg)",
       "url": "https://open.spotify.com/track/5IJRqarA4QIc2qAw74mYo9"
+    },
+    {
+      "album": {
+        "name": "Ghazali (Live)",
+        "url": "https://open.spotify.com/album/3Jkrmbv3nLjOIaAYUdAax6"
+      },
+      "artists": [
+        {
+          "name": "Bilel Tacchini",
+          "url": "https://open.spotify.com/artist/2QtIVRuCdO2a4RWyoF4ayb"
+        }
+      ],
+      "date_added": "2022-10-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-08",
+      "duration_ms": 304236,
+      "name": "Ghazali - Live",
+      "url": "https://open.spotify.com/track/2lVjlg3ZAYsLuKlTxIhANZ"
     },
     {
       "album": {
@@ -5945,7 +6035,7 @@
       ],
       "date_added": "2022-09-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-02",
+      "date_removed": null,
       "duration_ms": 175238,
       "name": "I'm Good (Blue)",
       "url": "https://open.spotify.com/track/4uUG5RXrOk84mYEfFvj3cK"
@@ -6405,7 +6495,7 @@
       ],
       "date_added": "2021-07-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-02",
+      "date_removed": "2022-10-05",
       "duration_ms": 211623,
       "name": "J'en ai marre !",
       "url": "https://open.spotify.com/track/39jtccUn5BcqpMbjzqFRlj"
@@ -6977,7 +7067,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 224931,
-      "name": "KIFKIF - Remixed By Ali S",
+      "name": "KIFKIF - Remixed by Ali S",
       "url": "https://open.spotify.com/track/3GoQSJXtzbDtejWNADev6f"
     },
     {
@@ -7325,6 +7415,28 @@
       "duration_ms": 172067,
       "name": "L'baida mon amour",
       "url": "https://open.spotify.com/track/4dxSPK51GeqyIXyzZYcP1y"
+    },
+    {
+      "album": {
+        "name": "L'\u00c9tranger",
+        "url": "https://open.spotify.com/album/6rieTT1tEp2qZPqgNt5hDO"
+      },
+      "artists": [
+        {
+          "name": "Don Bigg",
+          "url": "https://open.spotify.com/artist/4h4gnapBHEWZMVzjeZ2Ywl"
+        },
+        {
+          "name": "Reda Taliani",
+          "url": "https://open.spotify.com/artist/2VTYaHMlKvQxlVW3k07NVt"
+        }
+      ],
+      "date_added": "2022-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209189,
+      "name": "L'\u00c9tranger",
+      "url": "https://open.spotify.com/track/0o5qyh1mrp1elvYeEuWFbL"
     },
     {
       "album": {
@@ -7763,6 +7875,32 @@
       "duration_ms": 154486,
       "name": "Left and Right (Feat. Jung Kook of BTS)",
       "url": "https://open.spotify.com/track/0mBP9X2gPCuapvpZ7TGDk3"
+    },
+    {
+      "album": {
+        "name": "CHARLIE",
+        "url": "https://open.spotify.com/album/5Jk4Eg7pxYhDrWJCVVzmMt"
+      },
+      "artists": [
+        {
+          "name": "Charlie Puth",
+          "url": "https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7"
+        },
+        {
+          "name": "Jung Kook",
+          "url": "https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc"
+        },
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "date_added": "2022-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154486,
+      "name": "Left and Right (Feat. Jung Kook of BTS)",
+      "url": "https://open.spotify.com/track/5Odq8ohlgIbQKMZivbWkEo"
     },
     {
       "album": {
@@ -8255,7 +8393,7 @@
       ],
       "date_added": "2022-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-09",
       "duration_ms": 181301,
       "name": "L\u2019allemagne - Bonus",
       "url": "https://open.spotify.com/track/127o4DBdyOacwktIX5Nh28"
@@ -8669,6 +8807,28 @@
       "duration_ms": 180763,
       "name": "Makhelaw magalou",
       "url": "https://open.spotify.com/track/0jqUiExctgLt7bcghvD7Kw"
+    },
+    {
+      "album": {
+        "name": "\u062d\u064a\u0648\u0627\u0646\u0627\u062a",
+        "url": "https://open.spotify.com/album/5mLtG8fY7EtRe4w17rafzq"
+      },
+      "artists": [
+        {
+          "name": "L'kreen",
+          "url": "https://open.spotify.com/artist/2CGubSpZlD5qXMo8Zgwyrx"
+        },
+        {
+          "name": "Nessyou",
+          "url": "https://open.spotify.com/artist/36K2nrm363VIEONhc2D5Mo"
+        }
+      ],
+      "date_added": "2022-10-04",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-06",
+      "duration_ms": 169417,
+      "name": "Malinwa",
+      "url": "https://open.spotify.com/track/5Y1laC2nJS1pRVCQ7vuY19"
     },
     {
       "album": {
@@ -10169,7 +10329,7 @@
       ],
       "date_added": "2022-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-09",
       "duration_ms": 259956,
       "name": "NO MERCY",
       "url": "https://open.spotify.com/track/7eMGattQmhWZmqvP3mYtdw"
@@ -11097,7 +11257,7 @@
       ],
       "date_added": "2022-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-07",
       "duration_ms": 151016,
       "name": "Papillon",
       "url": "https://open.spotify.com/track/2e6OAZn3kthKizIsGugLeR"
@@ -12011,7 +12171,7 @@
       ],
       "date_added": "2022-07-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-02",
+      "date_removed": null,
       "duration_ms": 195744,
       "name": "Rosita",
       "url": "https://open.spotify.com/track/0Iu2Jrfy91hMgIUtS9FFIX"
@@ -12552,6 +12712,24 @@
     },
     {
       "album": {
+        "name": "ilham",
+        "url": "https://open.spotify.com/album/7mQl8hYhPUwtdyB4jwyO1w"
+      },
+      "artists": [
+        {
+          "name": "ilham",
+          "url": "https://open.spotify.com/artist/0r7PsZB4ePA6vHrW4agoGN"
+        }
+      ],
+      "date_added": "2022-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185074,
+      "name": "show me",
+      "url": "https://open.spotify.com/track/5JjD1kyv7GW3AYXyBHJ846"
+    },
+    {
+      "album": {
         "name": "BORN PINK",
         "url": "https://open.spotify.com/album/0kbZ4ZNRs76sSFeGUEErFM"
       },
@@ -12807,7 +12985,7 @@
       ],
       "date_added": "2022-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-09",
       "duration_ms": 133886,
       "name": "Sparadra",
       "url": "https://open.spotify.com/track/78N2ZYtm1Lk5KHMZcGu4MX"
@@ -13137,7 +13315,7 @@
       ],
       "date_added": "2022-05-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-02",
+      "date_removed": null,
       "duration_ms": 159360,
       "name": "Suavemente",
       "url": "https://open.spotify.com/track/6Qe7YCkIOc1iaw9HKqO3qV"
@@ -13209,7 +13387,7 @@
       ],
       "date_added": "2021-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-01",
+      "date_removed": null,
       "duration_ms": 214258,
       "name": "Sweet Night",
       "url": "https://open.spotify.com/track/39EXZNMxb4RBHlRjnRaOKp"

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-17",
-  "description": "Le meilleur du rap fran\u00e7ais version cloud. Photo : Araujo",
+  "description": "Le meilleur du rap fran\u00e7ais version cloud. Photo : Moji x Sboy",
   "name": "Cloud Rap",
   "published_playlist_ids": [
     "5hZd800bY7alcQHZCY6dmZ"
@@ -488,6 +488,24 @@
     },
     {
       "album": {
+        "name": "FLOWERS",
+        "url": "https://open.spotify.com/album/0nCjlr4JE2J1joj6D1S37w"
+      },
+      "artists": [
+        {
+          "name": "Moji x Sboy",
+          "url": "https://open.spotify.com/artist/4J3vhZNPel1Tyj2GHsXi6i"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140917,
+      "name": "FLOWERS",
+      "url": "https://open.spotify.com/track/6tTDh7lYRhLKR7ICg0uzuf"
+    },
+    {
+      "album": {
         "name": "GRENADE",
         "url": "https://open.spotify.com/album/2CW4ULev9mQurLEpFHdovg"
       },
@@ -539,7 +557,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-07",
       "duration_ms": 206228,
       "name": "HENNESSY - feat. So La Lune",
       "url": "https://open.spotify.com/track/1oxV0rnPtUwKJUWooSIdFv"
@@ -702,6 +720,24 @@
     },
     {
       "album": {
+        "name": "J'y pense encore",
+        "url": "https://open.spotify.com/album/0UzFkYv4X5yskUaB2QbjRz"
+      },
+      "artists": [
+        {
+          "name": "Lil Purpx",
+          "url": "https://open.spotify.com/artist/45gUSG3z1KARI7RfS1Bj28"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209508,
+      "name": "J'y pense encore",
+      "url": "https://open.spotify.com/track/1dMDYQjrnhee5nmyKEydJd"
+    },
+    {
+      "album": {
         "name": "ERRR",
         "url": "https://open.spotify.com/album/33YFTG260lyzS3THXtwyq7"
       },
@@ -717,6 +753,24 @@
       "duration_ms": 131785,
       "name": "L'APPEL",
       "url": "https://open.spotify.com/track/32vCnWdVuYCRhwGJglDMae"
+    },
+    {
+      "album": {
+        "name": "La Fin",
+        "url": "https://open.spotify.com/album/0X7C8d67qb5By6L1qwXeef"
+      },
+      "artists": [
+        {
+          "name": "Koss",
+          "url": "https://open.spotify.com/artist/1cTINVmi2me8JBpCwR2K16"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194668,
+      "name": "La Fin",
+      "url": "https://open.spotify.com/track/4MNmqL7NYehnAkECQSzpYY"
     },
     {
       "album": {
@@ -1245,7 +1299,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-07",
       "duration_ms": 230000,
       "name": "Pour bient\u00f4t",
       "url": "https://open.spotify.com/track/7ERxzmcy8blEDA1457Jjo7"
@@ -1267,7 +1321,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-07",
       "duration_ms": 181736,
       "name": "P\u00c8LERINAGE",
       "url": "https://open.spotify.com/track/0tvP9GO0Rfr8ft3GU0aIGA"

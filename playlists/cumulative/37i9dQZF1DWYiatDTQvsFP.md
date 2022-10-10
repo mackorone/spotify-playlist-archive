@@ -2,9 +2,9 @@
 
 ### [mid:nite storm ](https://open.spotify.com/playlist/37i9dQZF1DWYiatDTQvsFP)
 
-> it's scary hours...⛈ cover: Bryson Tiller \- celebrating 7 years of T R A P S O U L!
+> it's scary hours...⛈ cover: Busta Rhymes
 
-187 songs - 12 hr 30 min - [published](https://open.spotify.com/playlist/5JxuVXVwLcumgmoRyl2uUE)
+188 songs - 12 hr 33 min - [published](https://open.spotify.com/playlist/5JxuVXVwLcumgmoRyl2uUE)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,7 +80,7 @@
 | [Get MuNNY](https://open.spotify.com/track/0ZKCq8E5QS4lRjEtFvZqZX) | [Erykah Badu](https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX) | [New Amerykah Part Two: Return Of The Ankh](https://open.spotify.com/album/1MOub955Uer957RVqqkF2a) | 5:25 | 2022-05-06 |  |
 | [Girl \(feat\. KAYTRANADA\)](https://open.spotify.com/track/3PFaFVWq5wucLu6s4baj9D) | [The Internet](https://open.spotify.com/artist/7GN9PivdemQRKjDt4z5Zv8), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [Ego Death](https://open.spotify.com/album/69g3CtOVg98TPOwqmI2K7Q) | 6:55 | 2022-05-06 | 2022-05-14 |
 | [God Is Fair, Sexy Nasty \(feat\. Kendrick Lamar\)](https://open.spotify.com/track/6hzbRKhJHo6cfCHSnNaDS8) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [The Divine Feminine](https://open.spotify.com/album/6f6tko6NWoH00cyFOl4VYQ) | 8:20 | 2022-05-06 | 2022-05-20 |
-| [Good Ol Love](https://open.spotify.com/track/1RZwfy4hD9ixk4XcIQpyW1) | [Masta Ace](https://open.spotify.com/artist/1wo9h8DP7M0M1orKuGZgWv) | [A Long Hot Summer](https://open.spotify.com/album/7qvw3MPdulHThAPqaM9ynF) | 3:46 | 2022-05-06 |  |
+| [Good Ol Love](https://open.spotify.com/track/1RZwfy4hD9ixk4XcIQpyW1) | [Masta Ace](https://open.spotify.com/artist/1wo9h8DP7M0M1orKuGZgWv) | [A Long Hot Summer](https://open.spotify.com/album/7qvw3MPdulHThAPqaM9ynF) | 3:46 | 2022-05-06 | 2022-10-08 |
 | [Got 'Til It's Gone](https://open.spotify.com/track/6jUyYHDikmw9WltPojSR37) | [Janet Jackson](https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W), [Q\-Tip](https://open.spotify.com/artist/3ZotbHeyVQKxQCPDJuQ4SU), [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [The Velvet Rope](https://open.spotify.com/album/6ZANEjETQ9L9pjBuvOAhCQ) | 4:01 | 2022-05-06 | 2022-05-20 |
 | [Guillotine](https://open.spotify.com/track/2nhYCeMM3Q7ySBPiUXqaO8) | [Sean Leon](https://open.spotify.com/artist/5dtbsNKCK6Q9yZzdhZpaqW) | [Guillotine](https://open.spotify.com/album/1UwMqCzED7ZjYjDX7VIJ1H) | 3:15 | 2022-05-06 | 2022-07-02 |
 | [Gummy](https://open.spotify.com/track/657jlDn3QlxiuR0pFcyjPB) | [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom) | [Away Message](https://open.spotify.com/album/6wImAlRsVb1ldJzOE4Uc1U) | 2:21 | 2022-09-02 |  |
@@ -131,6 +131,7 @@
 | [Neighborhood Winner](https://open.spotify.com/track/0AXqh1GdCXFooCQo351emP) | [Lu\-Kusa Woe](https://open.spotify.com/artist/5DGeTDECSuzKX8gn0hccZE) | [The Breakthrough](https://open.spotify.com/album/0DjCfvQEt1HeZRrR6dhmWM) | 1:38 | 2022-05-06 | 2022-05-14 |
 | [Nice & Slow \- Radio Version](https://open.spotify.com/track/5L0KDoZklMgs9GPoonneEl) | [Usher](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [My Way](https://open.spotify.com/album/0fQdoem8dnrl80YcZzQ8f0) | 3:47 | 2022-05-06 |  |
 | [No Good](https://open.spotify.com/track/5eNUpkGw6ss8j5PAenJTGz) | [kristina alcordo](https://open.spotify.com/artist/3y6KP6ZPC8SskJTCNAkFNs) | [No Good](https://open.spotify.com/album/6nCiMVlXiAvaD7cFNVfkLi) | 3:52 | 2022-05-06 | 2022-09-03 |
+| [No Scrubs](https://open.spotify.com/track/1KGi9sZVMeszgZOWivFpxs) | [TLC](https://open.spotify.com/artist/0TImkz4nPqjegtVSMZnMRq) | [Fanmail](https://open.spotify.com/album/1CvjjpvqVMoyprsf74bpYW) | 3:34 | 2022-10-07 |  |
 | [No Sleeep \(feat\. J\. Cole\)](https://open.spotify.com/track/2j9bG8ErzwDyAr7QljgBBp) | [Janet Jackson](https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [Unbreakable](https://open.spotify.com/album/5DjjcPVGw8jJoF9SlsQJed) | 4:20 | 2022-05-20 |  |
 | [Not My Job](https://open.spotify.com/track/6uxNcrFJL76jjkufNmI0xc) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [The Lead](https://open.spotify.com/album/4r7OqXkih4qYvozSZEGYyG) | 2:54 | 2022-09-23 |  |
 | [Not Your Friend](https://open.spotify.com/track/3Tzff5nOHwe1AjbWKUd8Ia) | [Case](https://open.spotify.com/artist/5aEWnrN8h3MhuFUPRfaVuy) | [Open Letter](https://open.spotify.com/album/5nfFCN6B0AhReHctfLi1vL) | 4:34 | 2022-07-29 | 2022-09-03 |

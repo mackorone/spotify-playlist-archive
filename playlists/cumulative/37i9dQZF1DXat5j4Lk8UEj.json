@@ -1125,7 +1125,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-03",
       "duration_ms": 142818,
       "name": "Headstart",
       "url": "https://open.spotify.com/track/4hvogg26QxhiwZejv9nNae"
@@ -1143,7 +1143,7 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-02",
+      "date_removed": null,
       "duration_ms": 142818,
       "name": "Headstart",
       "url": "https://open.spotify.com/track/7pwv5cbW7hj4HVv3US4XUT"
@@ -1309,7 +1309,7 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-02",
+      "date_removed": null,
       "duration_ms": 138939,
       "name": "How Come My Body",
       "url": "https://open.spotify.com/track/0x7OMTKyisoB40neHlnJ8H"
@@ -1529,7 +1529,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-05",
       "duration_ms": 165213,
       "name": "In My Room",
       "url": "https://open.spotify.com/track/5E8QUJdklLph2tK9qb4vDx"
@@ -1752,6 +1752,24 @@
     },
     {
       "album": {
+        "name": "I Don\u2019t Live Here Anymore",
+        "url": "https://open.spotify.com/album/69jQsPvJzMvcb2fGqI2qaB"
+      },
+      "artists": [
+        {
+          "name": "The War On Drugs",
+          "url": "https://open.spotify.com/artist/6g0mn3tzAds6aVeUYRsryU"
+        }
+      ],
+      "date_added": "2022-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293866,
+      "name": "Living Proof",
+      "url": "https://open.spotify.com/track/4VhvGhj8pdAqFJBuAfUW38"
+    },
+    {
+      "album": {
         "name": "Living Proof",
         "url": "https://open.spotify.com/album/5KxYGbvy6UPe6at4W8hE45"
       },
@@ -1763,7 +1781,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-07",
       "duration_ms": 293866,
       "name": "Living Proof",
       "url": "https://open.spotify.com/track/6bIXN4xCot0hiEfzl2xFZR"
@@ -1853,7 +1871,7 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-02",
+      "date_removed": null,
       "duration_ms": 153151,
       "name": "Lottery",
       "url": "https://open.spotify.com/track/2P7SSaE99q5MNjVm0Lz7bS"
@@ -2087,7 +2105,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-15",
+      "date_removed": "2022-10-04",
       "duration_ms": 215493,
       "name": "Now is the Time",
       "url": "https://open.spotify.com/track/5ddrYyHEHIwXeeELXkgEel"
@@ -2159,7 +2177,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-03",
       "duration_ms": 196160,
       "name": "Old Sob Story",
       "url": "https://open.spotify.com/track/7Akh76oQE1crm0aIz9B7IK"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTKyGuxpLg8Z.md) - [plain]
 
 > A collection of Blake's 7 radio dramas, featuring the Audio Adventures and Early Years series.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,409 likes - 106 songs - 8 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,408 likes - 106 songs - 8 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

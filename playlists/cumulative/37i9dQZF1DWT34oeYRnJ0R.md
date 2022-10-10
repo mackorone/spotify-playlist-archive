@@ -4,7 +4,7 @@
 
 > Just vibes\. Cover: paopao
 
-211 songs - 10 hr 55 min - [published](https://open.spotify.com/playlist/3Dw6MeHZ1290HOvRyOOXlR)
+213 songs - 11 hr 1 min - [published](https://open.spotify.com/playlist/3Dw6MeHZ1290HOvRyOOXlR)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,6 +76,7 @@
 | [EX\-CUCHAME](https://open.spotify.com/track/3PZqZblMEUrdNFfIpMnbEe) | [Dawer X Damper](https://open.spotify.com/artist/4OGeO4jU4OMK0kWh69UhtY) | [EX\-CUCHAME](https://open.spotify.com/album/4IBp5uFdjpBJoQyWCWvwed) | 2:36 | 2022-07-26 | 2022-09-07 |
 | [Fair](https://open.spotify.com/track/1SlGaBvTqX0gb24ouXonOo) | [Normani](https://open.spotify.com/artist/2cWZOOzeOm4WmBJRnD5R7I) | [Fair](https://open.spotify.com/album/4x3ZBZ3p7pi1UTLVldx7YF) | 3:04 | 2022-03-21 | 2022-09-07 |
 | [Fantasi](https://open.spotify.com/track/63GTuNSVLynH3n3PdqObgd) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [Fantasi](https://open.spotify.com/album/64d5HQCHWpk4Qfb1MkEzj9) | 2:38 | 2022-03-21 | 2022-06-01 |
+| [Flores](https://open.spotify.com/track/2RCB8DenQG8AAy95KJfuwe) | [Nino Freestyle](https://open.spotify.com/artist/1AACxWCwNIa3ecOBQJnXRV), [Dalex](https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn) | [Flores](https://open.spotify.com/album/4tFqsdZs5FlmfURPHuQX1B) | 2:51 | 2022-10-09 |  |
 | [Flow Lavoe](https://open.spotify.com/track/1QLpTmTwY3bD2RSJsNykDO) | [Nino Augustine](https://open.spotify.com/artist/56bt9xaV44RJf7KqqgMxsU) | [Flow Lavoe](https://open.spotify.com/album/0y11D9VF8RzosySuQ2YgDD) | 3:39 | 2022-03-21 | 2022-09-07 |
 | [Flow Romántico](https://open.spotify.com/track/66bYpXlvjXz2Eh8OXGDKJF) | [Las Villa](https://open.spotify.com/artist/0sXJRmgbjbq6Q5uu4W1wDM) | [Flow Romántico](https://open.spotify.com/album/0l7kBoTdW9p4NBsiZT9VX3) | 2:55 | 2022-03-21 | 2022-09-07 |
 | [Fogata](https://open.spotify.com/track/0jniFtpAyWN1hCtQdTllSg) | [XAXO](https://open.spotify.com/artist/04QAHqsyX2YvreBDLkgpXb), [Mario Puglia](https://open.spotify.com/artist/3TTSyoNDmtiQ8jSpELHinT) | [Fogata](https://open.spotify.com/album/0BEdljhMIuLrTrulOoT0ry) | 2:53 | 2022-03-21 | 2022-09-07 |
@@ -108,11 +109,12 @@
 | [LA CANCIÓN](https://open.spotify.com/track/2wIgWVIyA4bzRW6RmdXMoI) | [maye](https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt) | [LA CANCIÓN](https://open.spotify.com/album/775HIr3RQ0ZfqLVrHr69aI) | 3:32 | 2022-09-06 |  |
 | [La pasé cabrón](https://open.spotify.com/track/4rKM9EE3torp4wXfqEzzgZ) | [Nobeat](https://open.spotify.com/artist/3TKS1JzWOLAnicuOCOyVlW) | [La pasé cabrón](https://open.spotify.com/album/6ElfLUNrxLvu0kGEBkCjHh) | 3:05 | 2022-03-21 | 2022-06-26 |
 | [La Trampa es Ley](https://open.spotify.com/track/5Us3svqTvNAdnQfEYfoL5g) | [LIT killah](https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq) | [La Trampa es Ley](https://open.spotify.com/album/652wPJ4HAF6ODuEDM2feRs) | 2:21 | 2022-03-21 | 2022-05-21 |
+| [Las Cartas](https://open.spotify.com/track/1pOa85FwiJcbwyYTQFAZUM) | [Kamm](https://open.spotify.com/artist/1TedHsnAVELVd0b5N8nbFh) | [Las Cartas](https://open.spotify.com/album/7fctld92LQsFJrmqliUMYu) | 3:32 | 2022-10-09 |  |
 | [Lento](https://open.spotify.com/track/6yqNBRl1bcAqjVjkVVIv58) | [Santiago Saez](https://open.spotify.com/artist/6cH6fFLynkDD94hGNqacHV) | [Lento](https://open.spotify.com/album/5XsAVBTFabbMC9lGGsIcKV) | 3:06 | 2022-03-21 | 2022-09-07 |
 | [little story](https://open.spotify.com/track/4ZfwRdhHblKGWcrMYeZMex) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [little story](https://open.spotify.com/album/38vZ3y2bFWOfq3VywVdKam) | 3:18 | 2022-03-21 | 2022-09-07 |
 | [lo que pasó](https://open.spotify.com/track/6xS02EfbvnneFWCM90PJFG) | [Nina Cobham](https://open.spotify.com/artist/4ETeWE9SAfaNU7XQ1RB2wq) | [lo que pasó](https://open.spotify.com/album/7FsquZmPaXaNImnGHMnFUH) | 2:30 | 2022-09-06 |  |
 | [Lost](https://open.spotify.com/track/3GZD6HmiNUhxXYf8Gch723) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [channel ORANGE](https://open.spotify.com/album/392p3shh2jkxUxY2VHvlH8) | 3:54 | 2022-03-25 | 2022-09-07 |
-| [LULLABY](https://open.spotify.com/track/1yXYxa3O00Gcxy6XqGRhpE) | [COASTCITY](https://open.spotify.com/artist/3U6AuiLSmMwlxgEDGZz9xj) | [Wild Americanos](https://open.spotify.com/album/7vkUNL3WH7fg4PwqQlM0fJ) | 3:44 | 2022-09-06 |  |
+| [LULLABY](https://open.spotify.com/track/1yXYxa3O00Gcxy6XqGRhpE) | [COASTCITY](https://open.spotify.com/artist/3U6AuiLSmMwlxgEDGZz9xj) | [Wild Americanos](https://open.spotify.com/album/7vkUNL3WH7fg4PwqQlM0fJ) | 3:44 | 2022-09-06 | 2022-10-10 |
 | [lyu2 \(with marcos g\)](https://open.spotify.com/track/1eKhGmIxCVwXHjxrh3aqT5) | [riela](https://open.spotify.com/artist/5K3Lwty6gv1gtuPn3gcf3A), [marcos g](https://open.spotify.com/artist/3O2UFvuhmgSDH3q6miqELN) | [lyu2 \(with marcos g\)](https://open.spotify.com/album/3pwWV4Y1XnsZpcpqtjyax3) | 3:02 | 2022-09-06 |  |
 | [mala maña](https://open.spotify.com/track/2tcHiFQUp21LbIKdWmA995) | [riela](https://open.spotify.com/artist/5K3Lwty6gv1gtuPn3gcf3A) | [tranquila y tropical](https://open.spotify.com/album/24SzPSINiQWmIu84VfkC5a) | 2:33 | 2022-03-21 | 2022-09-07 |
 | [Mala Mía](https://open.spotify.com/track/2qBZwnNngUE4RXnJkznZVR) | [Samantha Sánchez](https://open.spotify.com/artist/1GhW0GVy12AcLQc5kA14PJ) | [Amor Roma](https://open.spotify.com/album/2pbBhYiSdgcWhuUFAzPru0) | 2:32 | 2022-03-21 | 2022-06-28 |
@@ -216,7 +218,7 @@
 | [YA](https://open.spotify.com/track/5Zv97esRRGjScO2Vj6lhGt) | [YEИDRY](https://open.spotify.com/artist/3Lk9AWrpD4bminO5LwmBOw) | [YA](https://open.spotify.com/album/0bcY8OcSd9eGMpTyl3DUj6) | 2:55 | 2022-03-21 | 2022-07-29 |
 | [You Right](https://open.spotify.com/track/0k4d5YPDr1r7FX77VdqWez) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Planet Her](https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW) | 3:06 | 2022-03-21 | 2022-09-07 |
 | [Your Plug feat\. Mariah Angeliq & Jenn Morel](https://open.spotify.com/track/4Kgmokx4QE2y5dDEUGt3kR) | [Angelica Vila](https://open.spotify.com/artist/4uGEwrSd2U7vy5jyEK5qLX), [Mariah Angeliq](https://open.spotify.com/artist/0KKUc4amZyvswV2YL6WTar), [Jenn Morel](https://open.spotify.com/artist/7iWWbIVw66I3hHVy9crw6a) | [Deception Szn 1](https://open.spotify.com/album/6pwLDRaJ9WNYY6QHX5KEZg) | 3:50 | 2022-09-06 |  |
-| [yourplace](https://open.spotify.com/track/3zahH6mfmPZz4q038rk3Hu) | [riela](https://open.spotify.com/artist/5K3Lwty6gv1gtuPn3gcf3A) | [tranquila y tropical](https://open.spotify.com/album/24SzPSINiQWmIu84VfkC5a) | 2:29 | 2022-09-06 |  |
+| [yourplace](https://open.spotify.com/track/3zahH6mfmPZz4q038rk3Hu) | [riela](https://open.spotify.com/artist/5K3Lwty6gv1gtuPn3gcf3A) | [tranquila y tropical](https://open.spotify.com/album/24SzPSINiQWmIu84VfkC5a) | 2:29 | 2022-09-06 | 2022-10-10 |
 | [Último Baile](https://open.spotify.com/track/3jAXK3OD8P3GUBjh5KNKc0) | [Chanell](https://open.spotify.com/artist/5cDfQlhT80II3f2ECXm6oA) | [No More Tears](https://open.spotify.com/album/11NIjsSjylCxpvRUbwiK2J) | 2:18 | 2022-05-09 | 2022-06-01 |
 | [Úsame](https://open.spotify.com/track/4HDa866zFSzwOkEhgNHx6F) | [LATENIGHTJIGGY](https://open.spotify.com/artist/34OTRVwyaE8DkOrGMQa7Ah) | [Úsame](https://open.spotify.com/album/4ASrjbSq9D0CuHkAHsAhNc) | 3:23 | 2022-09-06 |  |
 

@@ -66,6 +66,24 @@
     },
     {
       "album": {
+        "name": "Pearls",
+        "url": "https://open.spotify.com/album/3cWfXIIpbZe37wFkG671iP"
+      },
+      "artists": [
+        {
+          "name": "Joni Ende",
+          "url": "https://open.spotify.com/artist/1Ufx5KF5HaWoZD6stEKlD4"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168097,
+      "name": "A Warm Welcoming 432 Hz",
+      "url": "https://open.spotify.com/track/7k3AUCixyOTdwGCc5u0JKN"
+    },
+    {
+      "album": {
         "name": "Aan de andere kant",
         "url": "https://open.spotify.com/album/1QaSWd0iizfIrmRKuuqfIM"
       },
@@ -185,7 +203,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 240250,
       "name": "Angalalluarina",
       "url": "https://open.spotify.com/track/7HMqoo6TbtoZLHwqkfp7Lw"
@@ -1186,6 +1204,24 @@
     },
     {
       "album": {
+        "name": "Mint Green 528 Hz",
+        "url": "https://open.spotify.com/album/7eWrcerVgh2dHudoXMJvzn"
+      },
+      "artists": [
+        {
+          "name": "Lo Amber",
+          "url": "https://open.spotify.com/artist/6KHAX77UjY8HXrbGJjZNtI"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134117,
+      "name": "Mint Green 528 Hz",
+      "url": "https://open.spotify.com/track/7CoNMmP4XciExedSMAQkM4"
+    },
+    {
+      "album": {
         "name": "Mirrors",
         "url": "https://open.spotify.com/album/31hZ1BCR6HrbzBu0dNehj5"
       },
@@ -1507,6 +1543,24 @@
       "duration_ms": 216000,
       "name": "Petribungi",
       "url": "https://open.spotify.com/track/57kdkW0uoj8wZkKj6J6ucp"
+    },
+    {
+      "album": {
+        "name": "432 hz Frequency of Universe",
+        "url": "https://open.spotify.com/album/5Xmwq5a06b8ZybYqX5fO8O"
+      },
+      "artists": [
+        {
+          "name": "Binaural Landscapes",
+          "url": "https://open.spotify.com/artist/5F1SC2pxuIO4iT2LnMIjQn"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160345,
+      "name": "Precious 432 hz",
+      "url": "https://open.spotify.com/track/2Wq1C9dtftnI5OSMKJsie0"
     },
     {
       "album": {

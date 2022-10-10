@@ -2,9 +2,9 @@
 
 ### [Cloud Rap](https://open.spotify.com/playlist/37i9dQZF1DX5jNEiuvPyWr)
 
-> Le meilleur du rap français version cloud\. Photo : Araujo
+> Le meilleur du rap français version cloud\. Photo : Moji x Sboy
 
-74 songs - 3 hr 57 min - [published](https://open.spotify.com/playlist/5hZd800bY7alcQHZCY6dmZ)
+77 songs - 4 hr 6 min - [published](https://open.spotify.com/playlist/5hZd800bY7alcQHZCY6dmZ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,9 +32,10 @@
 | [Exit \#04 \- Stamina](https://open.spotify.com/track/12ToBtXfEzb2rynwmEF7qF) | [Max DLG](https://open.spotify.com/artist/7sI6IzovX4PHV7Lqw9SsCw) | [Exit \#04 \- Stamina](https://open.spotify.com/album/6gvFCctC0yznRQk1EJGMbk) | 3:23 | 2022-09-08 |  |
 | [Fauves](https://open.spotify.com/track/5lyKwmMB1nuU3jUrrIFI3Q) | [Zamdane](https://open.spotify.com/artist/5CtPAGoxpJ4yLJLx6CSrO8), [Jazzy Bazz](https://open.spotify.com/artist/0cMsSWXCY2Wag16luxN6fL) | [Couleur de ma peine](https://open.spotify.com/album/2N9IozZraUsmwNPd4k69YB) | 3:30 | 2022-07-14 |  |
 | [Fin heureuse](https://open.spotify.com/track/2xIaxSN4uWp84jqXmk9DYn) | [So La Lune](https://open.spotify.com/artist/4ZW7BptOWzjNFLEqRiNCT7) | [Fin heureuse](https://open.spotify.com/album/5KcQvszp8wKRp1k9fHXR12) | 2:43 | 2022-07-14 |  |
+| [FLOWERS](https://open.spotify.com/track/6tTDh7lYRhLKR7ICg0uzuf) | [Moji x Sboy](https://open.spotify.com/artist/4J3vhZNPel1Tyj2GHsXi6i) | [FLOWERS](https://open.spotify.com/album/0nCjlr4JE2J1joj6D1S37w) | 2:20 | 2022-10-06 |  |
 | [GRENADE](https://open.spotify.com/track/0WZ7TQn8MJnzRxKdxWlpdN) | [HAKAI](https://open.spotify.com/artist/33v1e0a3iVU2BBzW3orMrN) | [GRENADE](https://open.spotify.com/album/2CW4ULev9mQurLEpFHdovg) | 2:56 | 2022-07-14 |  |
 | [Gros mega](https://open.spotify.com/track/1z1kLrnuYTLdXoSKWYE9Fy) | [GR OMEGA](https://open.spotify.com/artist/2OycTEXMkHcR33DNZ3BpVJ) | [Clairobscur 2](https://open.spotify.com/album/2JlgRagGV3G37C4Db5bPH1) | 2:34 | 2022-07-14 |  |
-| [HENNESSY \- feat\. So La Lune](https://open.spotify.com/track/1oxV0rnPtUwKJUWooSIdFv) | [Slkrack](https://open.spotify.com/artist/10puYSSj5YS2rMO7euRJ85), [So La Lune](https://open.spotify.com/artist/4ZW7BptOWzjNFLEqRiNCT7) | [JUAN COCA](https://open.spotify.com/album/21PfuyzRJkPwHiv9UL4Ev1) | 3:26 | 2022-07-14 |  |
+| [HENNESSY \- feat\. So La Lune](https://open.spotify.com/track/1oxV0rnPtUwKJUWooSIdFv) | [Slkrack](https://open.spotify.com/artist/10puYSSj5YS2rMO7euRJ85), [So La Lune](https://open.spotify.com/artist/4ZW7BptOWzjNFLEqRiNCT7) | [JUAN COCA](https://open.spotify.com/album/21PfuyzRJkPwHiv9UL4Ev1) | 3:26 | 2022-07-14 | 2022-10-07 |
 | [HESS/TROP SAGE](https://open.spotify.com/track/39NfiKDxQInyGabWf3dCJo) | [STU](https://open.spotify.com/artist/12rFc3DT9cVWUrbCaVcVHL), [Khali](https://open.spotify.com/artist/0rqQfmTWtmxzlrNmnruQXS) | [LOCHNESS](https://open.spotify.com/album/6Ff3MekKzKcG9MOG97cFXp) | 3:40 | 2022-07-14 | 2022-07-22 |
 | [High](https://open.spotify.com/track/4lpWpolbOCSrlEe9FN3G9F) | [F430](https://open.spotify.com/artist/11ajgggOI6hGjR8CF53mhG) | [São Paulo](https://open.spotify.com/album/7sBsoD0q8ZCKwoH8wM8Qfy) | 3:29 | 2022-07-14 |  |
 | [Ice](https://open.spotify.com/track/6voLrF6LT0p8ptDqAjaGKN) | [TRIPLEGO](https://open.spotify.com/artist/6cDxDe1MWGgUcNVVdxhCN2) | [Ice](https://open.spotify.com/album/3944ZTzAv3KanHuif2iIwc) | 3:58 | 2022-07-14 | 2022-08-12 |
@@ -43,7 +44,9 @@
 | [Infecté](https://open.spotify.com/track/07mCQ6sRZzT5XoSqnA2fOW) | [Seth Sad](https://open.spotify.com/artist/4yDo1iZ02sOpLsh1oGAAg9) | [Nephtys](https://open.spotify.com/album/2jplcSiO6721Ep6E9usYyq) | 2:30 | 2022-08-25 |  |
 | [J'la connais, Pt\. 1](https://open.spotify.com/track/7qTRcNu0nqDyjM7cWofXqT) | [Emkal](https://open.spotify.com/artist/4ZPLdCBeYJBAjsLTWRcZEs) | [J'la connais, Pt\. 1](https://open.spotify.com/album/6CodUHcAHp1KsNY2zPyDKA) | 3:34 | 2022-07-14 |  |
 | [J'rentre pas chez moi](https://open.spotify.com/track/1kqrfPAEFaOx33YHlYqQLa) | [Djadja & Dinaz](https://open.spotify.com/artist/5hREZP0zTQbTLkZ2M8RS4v) | [J'rentre pas chez moi](https://open.spotify.com/album/5MaykxZo8kzq0uYHgQXjqD) | 2:43 | 2022-07-14 | 2022-09-30 |
+| [J'y pense encore](https://open.spotify.com/track/1dMDYQjrnhee5nmyKEydJd) | [Lil Purpx](https://open.spotify.com/artist/45gUSG3z1KARI7RfS1Bj28) | [J'y pense encore](https://open.spotify.com/album/0UzFkYv4X5yskUaB2QbjRz) | 3:29 | 2022-10-06 |  |
 | [L'APPEL](https://open.spotify.com/track/32vCnWdVuYCRhwGJglDMae) | [La Fève](https://open.spotify.com/artist/2sBKOwN0fSjx39VtL2WpjJ) | [ERRR](https://open.spotify.com/album/33YFTG260lyzS3THXtwyq7) | 2:11 | 2022-07-14 |  |
+| [La Fin](https://open.spotify.com/track/4MNmqL7NYehnAkECQSzpYY) | [Koss](https://open.spotify.com/artist/1cTINVmi2me8JBpCwR2K16) | [La Fin](https://open.spotify.com/album/0X7C8d67qb5By6L1qwXeef) | 3:14 | 2022-10-06 |  |
 | [Le monde par ma fenêtre](https://open.spotify.com/track/34gqAsUuzda4ctvmjcv3Kl) | [Zamdane](https://open.spotify.com/artist/5CtPAGoxpJ4yLJLx6CSrO8) | [Le monde par ma fenêtre](https://open.spotify.com/album/1wfDHmjYJOji4uln5Ep65z) | 3:23 | 2022-07-14 |  |
 | [LESSGUI](https://open.spotify.com/track/7tcsRVgsBvGGL8h9BHN1uA) | [Luther](https://open.spotify.com/artist/712cOCN3mpraX2UOgUvdHW) | [LESSGUI](https://open.spotify.com/album/0sW9FAedveHh5b62T0eIoU) | 2:33 | 2022-07-14 |  |
 | [Life](https://open.spotify.com/track/4IvUUwahzNnmLNx3Fy56BP) | [DTF](https://open.spotify.com/artist/37ioGUZGhKk7VjWIocx8kM) | [Double Star](https://open.spotify.com/album/2Kl8Lizlp50x23YlY2Yrau) | 3:12 | 2022-07-14 |  |
@@ -71,8 +74,8 @@
 | [Plus jeune](https://open.spotify.com/track/1mWoxD27fEJ4scLSlBHEs3) | [sean](https://open.spotify.com/artist/7CxSejERLJhkuYRU6D1d8C) | [Restez Prince](https://open.spotify.com/album/0Vmsj0ANTL4CsFmXPHJadZ) | 3:23 | 2022-07-14 | 2022-07-29 |
 | [Plus jeune](https://open.spotify.com/track/1ihbgjSg9n3LCXdHGOnjck) | [sean](https://open.spotify.com/artist/7CxSejERLJhkuYRU6D1d8C) | [Restez Prince](https://open.spotify.com/album/1lrB7nEyiuHZ5H94GIIXPs) | 3:25 | 2022-07-28 |  |
 | [Pour bientôt](https://open.spotify.com/track/0qRS9WjPTtfwgR3iT8YZZl) | [GR OMEGA](https://open.spotify.com/artist/2OycTEXMkHcR33DNZ3BpVJ) | [Clairobscur 1](https://open.spotify.com/album/5nujvuksXeAXd0y7d3MWxa) | 3:50 | 2022-07-14 | 2022-07-29 |
-| [Pour bientôt](https://open.spotify.com/track/7ERxzmcy8blEDA1457Jjo7) | [GR OMEGA](https://open.spotify.com/artist/2OycTEXMkHcR33DNZ3BpVJ) | [Clairobscur 1](https://open.spotify.com/album/0J4WGhxbLVpx4S4ep5KN2C) | 3:50 | 2022-07-28 |  |
-| [PÈLERINAGE](https://open.spotify.com/track/0tvP9GO0Rfr8ft3GU0aIGA) | [Golgoth](https://open.spotify.com/artist/6YPGhj88VOEmQ6e9qTotvA), [Sheldon](https://open.spotify.com/artist/6162ZDzd0LT28Lxdj52jjK) | [PÈLERINAGE](https://open.spotify.com/album/3SFxtJqFRhpFnfzu3LI7Ih) | 3:01 | 2022-07-14 |  |
+| [Pour bientôt](https://open.spotify.com/track/7ERxzmcy8blEDA1457Jjo7) | [GR OMEGA](https://open.spotify.com/artist/2OycTEXMkHcR33DNZ3BpVJ) | [Clairobscur 1](https://open.spotify.com/album/0J4WGhxbLVpx4S4ep5KN2C) | 3:50 | 2022-07-28 | 2022-10-07 |
+| [PÈLERINAGE](https://open.spotify.com/track/0tvP9GO0Rfr8ft3GU0aIGA) | [Golgoth](https://open.spotify.com/artist/6YPGhj88VOEmQ6e9qTotvA), [Sheldon](https://open.spotify.com/artist/6162ZDzd0LT28Lxdj52jjK) | [PÈLERINAGE](https://open.spotify.com/album/3SFxtJqFRhpFnfzu3LI7Ih) | 3:01 | 2022-07-14 | 2022-10-07 |
 | [Regarde](https://open.spotify.com/track/3RXZRxhbPDL6B6gt59FO8m) | [Gianni](https://open.spotify.com/artist/5W9ShLREoRMuXqSSYMeHqk) | [Regarde](https://open.spotify.com/album/223Z3aR3oXho7do2t6IPeY) | 3:22 | 2022-07-14 |  |
 | [Rêves](https://open.spotify.com/track/4L97bPfGaKer70DbK9tgxM) | [Omar Syco](https://open.spotify.com/artist/64rNevpGXVZnB4ziGC2nHz) | [Rêves](https://open.spotify.com/album/1BDipX9JYqyiiP05lWx6Tn) | 3:33 | 2022-09-29 |  |
 | [SAC CHANEL](https://open.spotify.com/track/6vhQy7hWPG2k0guaAxlTZT) | [Araujo](https://open.spotify.com/artist/6fiGkVkamTXnIymlLQcByP) | [EROSE](https://open.spotify.com/album/6KsyNUGlI8yH1u89W7XzKl) | 2:01 | 2022-09-22 |  |

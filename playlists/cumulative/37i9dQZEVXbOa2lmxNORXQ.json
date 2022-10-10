@@ -437,7 +437,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-09",
       "duration_ms": 164413,
       "name": "Aguante",
       "url": "https://open.spotify.com/track/2dWGQ975YrNma4SdfmJRDg"
@@ -499,7 +499,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-31",
+      "date_removed": "2022-10-05",
       "duration_ms": 220135,
       "name": "Algo Que Se Quede",
       "url": "https://open.spotify.com/track/1JXcB149QtbcIpDUA6YZOB"
@@ -1690,6 +1690,24 @@
     },
     {
       "album": {
+        "name": "Completa",
+        "url": "https://open.spotify.com/album/28Fuo7FjZGGQo4W45IvJA4"
+      },
+      "artists": [
+        {
+          "name": "Chris Jonex",
+          "url": "https://open.spotify.com/artist/3tLXPx5dsnZtsodGSf6t8E"
+        }
+      ],
+      "date_added": "2022-10-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-09",
+      "duration_ms": 127053,
+      "name": "Completa",
+      "url": "https://open.spotify.com/track/6mCzElWVPTZMNPA2jjbFuJ"
+    },
+    {
+      "album": {
         "name": "Contigo",
         "url": "https://open.spotify.com/album/6pbVsKe69AMnOYIT8cZpmG"
       },
@@ -1713,7 +1731,7 @@
       ],
       "date_added": "2022-09-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-02",
+      "date_removed": "2022-10-09",
       "duration_ms": 182602,
       "name": "Contigo",
       "url": "https://open.spotify.com/track/6Y5aTqQNbr0LLtxcIXMCH4"
@@ -1789,7 +1807,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-02",
+      "date_removed": "2022-10-09",
       "duration_ms": 174153,
       "name": "Cumbiaton Mexa",
       "url": "https://open.spotify.com/track/0BakJchpLPMO9eVYW6V6k7"
@@ -3812,6 +3830,28 @@
     },
     {
       "album": {
+        "name": "OzuTochi",
+        "url": "https://open.spotify.com/album/1kjfMVBNhsDeRyAu9zbLfF"
+      },
+      "artists": [
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        },
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        }
+      ],
+      "date_added": "2022-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196600,
+      "name": "Hey Mor",
+      "url": "https://open.spotify.com/track/1zsPaEkglFvxjAhrM8yhpr"
+    },
+    {
+      "album": {
         "name": "INTER SHIBUYA - LA MAFIA",
         "url": "https://open.spotify.com/album/4hUQ4FB9GD5oDmw3XHIr0G"
       },
@@ -4520,6 +4560,24 @@
     },
     {
       "album": {
+        "name": "Las Cartas",
+        "url": "https://open.spotify.com/album/7fctld92LQsFJrmqliUMYu"
+      },
+      "artists": [
+        {
+          "name": "Kamm",
+          "url": "https://open.spotify.com/artist/1TedHsnAVELVd0b5N8nbFh"
+        }
+      ],
+      "date_added": "2022-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212456,
+      "name": "Las Cartas",
+      "url": "https://open.spotify.com/track/1pOa85FwiJcbwyYTQFAZUM"
+    },
+    {
+      "album": {
         "name": "Las Locuras M\u00edas",
         "url": "https://open.spotify.com/album/0PE6hxgSMyjrsiN0MktJpL"
       },
@@ -5195,6 +5253,24 @@
       "duration_ms": 178567,
       "name": "Me Porto Bonito",
       "url": "https://open.spotify.com/track/6Sq7ltF9Qa7SNFBsV5Cogx"
+    },
+    {
+      "album": {
+        "name": "Me Vas a Recordar",
+        "url": "https://open.spotify.com/album/5JI9jg1HEOYoKLqBOsU8Pc"
+      },
+      "artists": [
+        {
+          "name": "Jennifer Rojo",
+          "url": "https://open.spotify.com/artist/0SMyQijONSkk6q5UseJXEN"
+        }
+      ],
+      "date_added": "2022-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190749,
+      "name": "Me Vas a Recordar",
+      "url": "https://open.spotify.com/track/5oL6fZD5C2Yhw2jiiV2vIW"
     },
     {
       "album": {
@@ -6435,7 +6511,7 @@
       ],
       "date_added": "2022-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-05",
       "duration_ms": 227628,
       "name": "Party",
       "url": "https://open.spotify.com/track/4tYFy8ALRjIZvnvSLw5lxN"
@@ -6483,6 +6559,28 @@
       "duration_ms": 204126,
       "name": "PASATIEMPO",
       "url": "https://open.spotify.com/track/3qUdysxsu5FDvOl7nR5vln"
+    },
+    {
+      "album": {
+        "name": "Paso la Pagina",
+        "url": "https://open.spotify.com/album/71jB0wvXwHzQh9YyV9VVGf"
+      },
+      "artists": [
+        {
+          "name": "Wanton chulito",
+          "url": "https://open.spotify.com/artist/2Y8dw810oc7wqr6D0eWrJp"
+        },
+        {
+          "name": "Krystall Poppin",
+          "url": "https://open.spotify.com/artist/3DIquQWs6ZlFAKdahiPCwC"
+        }
+      ],
+      "date_added": "2022-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173000,
+      "name": "Paso la Pagina",
+      "url": "https://open.spotify.com/track/4vhkNGw7umKMPz3fxi7lZ4"
     },
     {
       "album": {
@@ -6974,6 +7072,36 @@
     },
     {
       "album": {
+        "name": "P\u00e9gate",
+        "url": "https://open.spotify.com/album/02UAI9KPkmxUpBs8nwgPKf"
+      },
+      "artists": [
+        {
+          "name": "BM Legacy",
+          "url": "https://open.spotify.com/artist/1ux3jQBNhz3EQwG8qgbb1q"
+        },
+        {
+          "name": "Ale Mix",
+          "url": "https://open.spotify.com/artist/2uxoElzOZDIX9L5Dc7Oa2F"
+        },
+        {
+          "name": "Legado ARM",
+          "url": "https://open.spotify.com/artist/5GpMQrgxNjUa38cPXLtwbe"
+        },
+        {
+          "name": "Zion & Lennox",
+          "url": "https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1"
+        }
+      ],
+      "date_added": "2022-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196381,
+      "name": "P\u00e9gate",
+      "url": "https://open.spotify.com/track/3x62RPP7keFfu7ucXmhUrY"
+    },
+    {
+      "album": {
         "name": "Que De Raro Tiene",
         "url": "https://open.spotify.com/album/2h6LhZi0civVoLcIe6WSx3"
       },
@@ -7091,6 +7219,48 @@
       "duration_ms": 163708,
       "name": "Quien TV Remix",
       "url": "https://open.spotify.com/track/58h5RuCMWCkstuXckWuRpp"
+    },
+    {
+      "album": {
+        "name": "Flash Back",
+        "url": "https://open.spotify.com/album/0nNVvtHQmf4RyZODwh9FRj"
+      },
+      "artists": [
+        {
+          "name": "El Bird",
+          "url": "https://open.spotify.com/artist/1XHYFx41xbzN5SxLUSvW5Q"
+        },
+        {
+          "name": "Pacho y Cirilo",
+          "url": "https://open.spotify.com/artist/5tGDvtOz6ml81vjiJunyIh"
+        },
+        {
+          "name": "Polaco",
+          "url": "https://open.spotify.com/artist/62zWXNKBdOWd9TIdkZ7BQN"
+        },
+        {
+          "name": "Gastam",
+          "url": "https://open.spotify.com/artist/30fBzJk6j1YQc6hQIcuFj1"
+        },
+        {
+          "name": "Prynce",
+          "url": "https://open.spotify.com/artist/79ejh4bgZfNJSUHp4HX82g"
+        },
+        {
+          "name": "Klaze & Eztylo",
+          "url": "https://open.spotify.com/artist/4nJpm7r2FbTwvyCnvMDGET"
+        },
+        {
+          "name": "JQ \"The #1 Contender\"",
+          "url": "https://open.spotify.com/artist/4Dy5adTFPa9pHGv42kEeNZ"
+        }
+      ],
+      "date_added": "2022-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 538462,
+      "name": "Quiero Fumar - Remix",
+      "url": "https://open.spotify.com/track/62jJgYMqkNuVlOiyscQo15"
     },
     {
       "album": {
@@ -7267,6 +7437,28 @@
       "duration_ms": 440416,
       "name": "Rip Pusho (Por Pillo)",
       "url": "https://open.spotify.com/track/2uItXJYsugAp72oX7rIOzx"
+    },
+    {
+      "album": {
+        "name": "Roce",
+        "url": "https://open.spotify.com/album/2naWs0HQGnkjaUfwlV78av"
+      },
+      "artists": [
+        {
+          "name": "Chris Jonex",
+          "url": "https://open.spotify.com/artist/3tLXPx5dsnZtsodGSf6t8E"
+        },
+        {
+          "name": "Bimbo el Oso Ma\u00f1oso",
+          "url": "https://open.spotify.com/artist/2P5WbTImnPSJQV4ZbQuQZ3"
+        }
+      ],
+      "date_added": "2022-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133000,
+      "name": "Roce",
+      "url": "https://open.spotify.com/track/5M8sNlIjRkalIwXm0sjhx1"
     },
     {
       "album": {
@@ -8273,7 +8465,7 @@
       ],
       "date_added": "2022-09-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-02",
+      "date_removed": "2022-10-09",
       "duration_ms": 227156,
       "name": "Toda la Noche a Bailar",
       "url": "https://open.spotify.com/track/1w1wa8RimBZH35IjGz5925"
@@ -8537,7 +8729,7 @@
       ],
       "date_added": "2022-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-05",
       "duration_ms": 196412,
       "name": "Un Coco",
       "url": "https://open.spotify.com/track/6VrQTLzzuyGIYjUDe4kAZk"
@@ -8611,7 +8803,7 @@
       ],
       "date_added": "2022-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-03",
       "duration_ms": 277106,
       "name": "UN PESO",
       "url": "https://open.spotify.com/track/7hynhxDoDpgMIV12JuVtNa"
@@ -8691,7 +8883,7 @@
       ],
       "date_added": "2022-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-05",
       "duration_ms": 153750,
       "name": "Una Noche en Medell\u00edn",
       "url": "https://open.spotify.com/track/1O2pcBJGej0pmH2Y9XZMs6"
@@ -9001,7 +9193,7 @@
       ],
       "date_added": "2022-08-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-02",
+      "date_removed": "2022-10-06",
       "duration_ms": 155492,
       "name": "Work",
       "url": "https://open.spotify.com/track/5HnyFhrOuU5ykgXkowDkBK"
@@ -9023,7 +9215,7 @@
       ],
       "date_added": "2022-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-05",
       "duration_ms": 192477,
       "name": "X \u00daLTIMA VEZ",
       "url": "https://open.spotify.com/track/48AJSd42lXpicsGqcgopof"
@@ -9041,7 +9233,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-06",
       "duration_ms": 103240,
       "name": "X20X",
       "url": "https://open.spotify.com/track/1lqJic7VMR7PBlwpPrZuPK"

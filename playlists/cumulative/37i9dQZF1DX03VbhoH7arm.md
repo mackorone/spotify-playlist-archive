@@ -2,7 +2,7 @@
 
 ### [Hot Hits Brasil](https://open.spotify.com/playlist/37i9dQZF1DX03VbhoH7arm)
 
-> Os grandes hits do momento estão aqui! Foto: Ludmilla, Sean Paul
+> Os grandes hits do momento estão aqui! Foto: Ludmilla
 
 95 songs - 4 hr 54 min - [published](https://open.spotify.com/playlist/1KdstGq2CxRxvGbquOUHHu)
 

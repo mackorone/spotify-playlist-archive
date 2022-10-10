@@ -1,8 +1,10 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "Net die beste Afrikaanse musiek. Cover: <a href=\"https://open.spotify.com/artist/25SUuR1e32ukcdYldmAyp5?si=Aj3aoSENTtiX9w3OotK5Yg\">Karlien van Jaarsveld</a>",
+  "description": "Net die beste Afrikaanse musiek. Cover: <a href=\"https://open.spotify.com/artist/3TNxvHZvTgeosFCIYz1BUu?si=cGdFo1fXTyOVZmrHaapEWQ\">Prop</a>",
   "name": "Afrikaanse Hits",
-  "published_playlist_ids": [],
+  "published_playlist_ids": [
+    "3e1GdHUgFT8NgWwl0UpVff"
+  ],
   "tracks": [
     {
       "album": {
@@ -17,7 +19,7 @@
       ],
       "date_added": "2022-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-07",
       "duration_ms": 189457,
       "name": "110",
       "url": "https://open.spotify.com/track/0du9AbEce0kooBH5I6suvG"
@@ -353,6 +355,24 @@
       "duration_ms": 210319,
       "name": "Hey Sonneblom",
       "url": "https://open.spotify.com/track/4vyQOF8wGtDV6eHsOqWaCG"
+    },
+    {
+      "album": {
+        "name": "Hier Gaat Ons Alweer",
+        "url": "https://open.spotify.com/album/2mpRZxyifeulCZI1lmBBT3"
+      },
+      "artists": [
+        {
+          "name": "Pieter Koen",
+          "url": "https://open.spotify.com/artist/42MoeGwwUSE0x4u9PHvSif"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194183,
+      "name": "Hier Gaat Ons Alweer",
+      "url": "https://open.spotify.com/track/1zkDzC92Zb1KUSTa2Rumqv"
     },
     {
       "album": {
@@ -820,6 +840,28 @@
     },
     {
       "album": {
+        "name": "Standbeelde",
+        "url": "https://open.spotify.com/album/5eIwfDG5foI8Tbd92BE26C"
+      },
+      "artists": [
+        {
+          "name": "Ampie",
+          "url": "https://open.spotify.com/artist/05OlCJb6VjFEHPiCfwTCZx"
+        },
+        {
+          "name": "Matthew John Duncan",
+          "url": "https://open.spotify.com/artist/4dqbuy4ucRfaFUVfzDk9LA"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196701,
+      "name": "Standbeelde",
+      "url": "https://open.spotify.com/track/5iq0M2V0jJRu7IJYYxJ4vl"
+    },
+    {
+      "album": {
         "name": "Stoute Boude",
         "url": "https://open.spotify.com/album/7hBAyrqbYZ9zesTt6t69t2"
       },
@@ -889,7 +931,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-07",
       "duration_ms": 226097,
       "name": "Vegter",
       "url": "https://open.spotify.com/track/1KK0U3XmxHyj5WYjARSxkv"

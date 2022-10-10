@@ -418,6 +418,28 @@
     },
     {
       "album": {
+        "name": "Bang My Head",
+        "url": "https://open.spotify.com/album/3YrmYFwhdNxUeomv1Nvq1T"
+      },
+      "artists": [
+        {
+          "name": "Klara Hammarstr\u00f6m",
+          "url": "https://open.spotify.com/artist/52xiNtpaYcZ5jRQ2fqmPI6"
+        },
+        {
+          "name": "Rasmus Gozzi",
+          "url": "https://open.spotify.com/artist/3loTvAld5Tpk5aSNbboGpj"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149846,
+      "name": "Bang My Head",
+      "url": "https://open.spotify.com/track/0oy5dGexQGsefvS2hLWWBS"
+    },
+    {
+      "album": {
         "name": "DUBBELDROPP II",
         "url": "https://open.spotify.com/album/66cptU0dxttMk8llHfglpE"
       },
@@ -1628,6 +1650,28 @@
     },
     {
       "album": {
+        "name": "Drottning p\u00e5 krogen",
+        "url": "https://open.spotify.com/album/1aCuvlZepuNHaXwD8vPQaw"
+      },
+      "artists": [
+        {
+          "name": "Raggarligan",
+          "url": "https://open.spotify.com/artist/6uljULAp34CZrrwTVhImVH"
+        },
+        {
+          "name": "Louise Andersson Bodin",
+          "url": "https://open.spotify.com/artist/23z00NPQmiYxmpZSiDlQAE"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126000,
+      "name": "Drottning p\u00e5 krogen",
+      "url": "https://open.spotify.com/track/6N6dOxJMUtU6JkFnyTEXsR"
+    },
+    {
+      "album": {
         "name": "Du kan inte f\u00e5 min \u00f6l",
         "url": "https://open.spotify.com/album/5mC9mcXhQFXcGUuyyuMdcN"
       },
@@ -1635,6 +1679,10 @@
         {
           "name": "Albatraoz",
           "url": "https://open.spotify.com/artist/5wOlRsRt9ggoBDjjmhaF7x"
+        },
+        {
+          "name": "K\u00e5ren",
+          "url": "https://open.spotify.com/artist/5QhqVrbqXPUJzI8nY0ft7M"
         }
       ],
       "date_added": "2022-08-25",
@@ -2465,7 +2513,7 @@
       ],
       "date_added": "2022-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-07",
       "duration_ms": 120857,
       "name": "Fylla p\u00e5 fj\u00e4llet",
       "url": "https://open.spotify.com/track/3jkMUudtktfS8uEXZWpdll"
@@ -4920,6 +4968,32 @@
     },
     {
       "album": {
+        "name": "N\u00e4r det blir helg",
+        "url": "https://open.spotify.com/album/3K48P2tSiZb2ijBR4idNhz"
+      },
+      "artists": [
+        {
+          "name": "Raggarligan",
+          "url": "https://open.spotify.com/artist/6uljULAp34CZrrwTVhImVH"
+        },
+        {
+          "name": "BR0D3R",
+          "url": "https://open.spotify.com/artist/0NSC3dpFINJlCOdJLSz2Ow"
+        },
+        {
+          "name": "Bang\u00e5rden",
+          "url": "https://open.spotify.com/artist/4C21ZKaA4EX1PRXoNsAV7c"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150625,
+      "name": "N\u00e4r det blir helg",
+      "url": "https://open.spotify.com/track/6pvsSvBYdt9H2WkE6a8mKg"
+    },
+    {
+      "album": {
         "name": "N\u00e5gon annan (efter fem)",
         "url": "https://open.spotify.com/album/2uLEsGITJoOOYvkzfELW6Q"
       },
@@ -5289,7 +5363,7 @@
       ],
       "date_added": "2022-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-07",
       "duration_ms": 178377,
       "name": "Piga & dr\u00e4ng",
       "url": "https://open.spotify.com/track/0fXANVK5oDCujoed5II6La"
@@ -5591,6 +5665,10 @@
         {
           "name": "Albatraoz",
           "url": "https://open.spotify.com/artist/5wOlRsRt9ggoBDjjmhaF7x"
+        },
+        {
+          "name": "Karen",
+          "url": "https://open.spotify.com/artist/5e1ekj5rPqXgSRF4gZw7cO"
         }
       ],
       "date_added": "2021-12-16",
@@ -5707,7 +5785,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-07",
       "duration_ms": 140921,
       "name": "Rave In My Garage",
       "url": "https://open.spotify.com/track/4jy2oAJR2w61b9OMhx5pow"

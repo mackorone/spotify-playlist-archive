@@ -26,6 +26,24 @@
     },
     {
       "album": {
+        "name": "A New Strange Feeling",
+        "url": "https://open.spotify.com/album/2Zr0enscRh1m9sCMubg5Zt"
+      },
+      "artists": [
+        {
+          "name": "Aurelia",
+          "url": "https://open.spotify.com/artist/6tnJc05Vcp2PyNBCgkcAiA"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199742,
+      "name": "A New Strange Feeling",
+      "url": "https://open.spotify.com/track/4k5gLhElD40OwbYu7M4us1"
+    },
+    {
+      "album": {
         "name": "A Sign of Solace",
         "url": "https://open.spotify.com/album/2CzXhWYQjtElo9hHjqHh2F"
       },
@@ -278,6 +296,24 @@
     },
     {
       "album": {
+        "name": "Jazz Standards for Acoustic Guitar vol 1",
+        "url": "https://open.spotify.com/album/3re1thxefHKaK6gQPn9SIC"
+      },
+      "artists": [
+        {
+          "name": "Benjamin Wallace",
+          "url": "https://open.spotify.com/artist/4HMISu0fTx7P2ScxS4v9bz"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104206,
+      "name": "Blue Bossa",
+      "url": "https://open.spotify.com/track/2l9Qw5fzdAjUTlq3jGhuPt"
+    },
+    {
+      "album": {
         "name": "Bonding",
         "url": "https://open.spotify.com/album/2B63zD64Wyonm1HBmsIaTh"
       },
@@ -293,6 +329,24 @@
       "duration_ms": 213674,
       "name": "Bonding",
       "url": "https://open.spotify.com/track/3i8NiwSigTjsWm8ppEIski"
+    },
+    {
+      "album": {
+        "name": "Borealis",
+        "url": "https://open.spotify.com/album/0k1jQLyYEcR3mNhzhusrdd"
+      },
+      "artists": [
+        {
+          "name": "Las Tres Cuerdas",
+          "url": "https://open.spotify.com/artist/6jXpHupMSkU9UO5HNpP30a"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270000,
+      "name": "Borealis",
+      "url": "https://open.spotify.com/track/2ysFggjX4SCyNJET0h7d7r"
     },
     {
       "album": {
@@ -675,7 +729,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-07",
       "duration_ms": 175816,
       "name": "Cuerda De Algodon",
       "url": "https://open.spotify.com/track/6908BOjeinWFsU69fQuQSa"
@@ -783,7 +837,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-07",
       "duration_ms": 196050,
       "name": "der Olivenbaum",
       "url": "https://open.spotify.com/track/6YnWik8jXPsHsqQyY9YuUY"
@@ -963,7 +1017,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-07",
       "duration_ms": 217674,
       "name": "Enrejado",
       "url": "https://open.spotify.com/track/30qtyIShVMKBJ2BzHdHOpz"
@@ -1371,7 +1425,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-07",
       "duration_ms": 209739,
       "name": "Lavender Fields",
       "url": "https://open.spotify.com/track/3ExlWxzIV13ak6afl93XDq"
@@ -1627,7 +1681,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-07",
       "duration_ms": 166369,
       "name": "Mountain Train",
       "url": "https://open.spotify.com/track/56PyPh8da7AnBnHkSvICfG"
@@ -1922,6 +1976,24 @@
     },
     {
       "album": {
+        "name": "Romance Castellano",
+        "url": "https://open.spotify.com/album/3riMPqEcEtegXn7vGQ8KEm"
+      },
+      "artists": [
+        {
+          "name": "Manuel Gal\u00e1n",
+          "url": "https://open.spotify.com/artist/29d8S9wbsggVBbr2YXxjfM"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135568,
+      "name": "Romance Castellano",
+      "url": "https://open.spotify.com/track/3pW3bF6TRv7bmeH8vw5Lkm"
+    },
+    {
+      "album": {
         "name": "Rome Tivoli",
         "url": "https://open.spotify.com/album/2PqlKRq3A5LJlV7G8NBkom"
       },
@@ -1951,7 +2023,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-07",
       "duration_ms": 138610,
       "name": "Rosebuds",
       "url": "https://open.spotify.com/track/0GydsTxQwwzuyVbqpdSgD7"
@@ -2077,7 +2149,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-07",
       "duration_ms": 143464,
       "name": "Sancy",
       "url": "https://open.spotify.com/track/7mBtZnqdWLJQbd2vIc3Urz"
@@ -2099,6 +2171,24 @@
       "duration_ms": 160806,
       "name": "Santiago de Compostela",
       "url": "https://open.spotify.com/track/16kc1IAK0IYUvPoolUOOH6"
+    },
+    {
+      "album": {
+        "name": "Senderos",
+        "url": "https://open.spotify.com/album/5b2Qf2d0ca4auxwQGQ3icv"
+      },
+      "artists": [
+        {
+          "name": "Julia Quir\u00f3s",
+          "url": "https://open.spotify.com/artist/1WxwRcRO4zK1lfqC5qFsZF"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129000,
+      "name": "Senderos",
+      "url": "https://open.spotify.com/track/0Tac24wJITYhVNDgN6o5iC"
     },
     {
       "album": {
@@ -2246,6 +2336,24 @@
     },
     {
       "album": {
+        "name": "Sonidos De La Tarde",
+        "url": "https://open.spotify.com/album/0piCaKv5lgsUxhGI0wgK37"
+      },
+      "artists": [
+        {
+          "name": "Juan Jose Moreno",
+          "url": "https://open.spotify.com/artist/4hQDTsoE4V7uoOvtvxp12P"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109866,
+      "name": "Sonidos De La Tarde",
+      "url": "https://open.spotify.com/track/3qNkQ9TgNVvHKwc55SFUYf"
+    },
+    {
+      "album": {
         "name": "Southern Wind",
         "url": "https://open.spotify.com/album/4KOcDV0VAlSROSWy2NZvza"
       },
@@ -2315,6 +2423,24 @@
       "duration_ms": 140964,
       "name": "Stockholm Waltz",
       "url": "https://open.spotify.com/track/4qH4Otl7cbyUjg7kshFzUr"
+    },
+    {
+      "album": {
+        "name": "The Air Portal",
+        "url": "https://open.spotify.com/album/0QhXjZGYdD92PpGsPBwTGl"
+      },
+      "artists": [
+        {
+          "name": "Atacustico",
+          "url": "https://open.spotify.com/artist/0rvubIwf5v5p5KqyCuVZmk"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157088,
+      "name": "The Air Portal",
+      "url": "https://open.spotify.com/track/0SAvctlgQPtPS6t3sgelQv"
     },
     {
       "album": {
@@ -2423,6 +2549,24 @@
       "duration_ms": 169717,
       "name": "tranquila",
       "url": "https://open.spotify.com/track/0WfGcbNKdff8Ud2kQVW2nz"
+    },
+    {
+      "album": {
+        "name": "Treasures",
+        "url": "https://open.spotify.com/album/5Z7o5BPIvdd8tMSHMMObQ7"
+      },
+      "artists": [
+        {
+          "name": "Rafaela Moreno",
+          "url": "https://open.spotify.com/artist/5wJ8AHtbq8pem9cFX6QIeF"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139874,
+      "name": "Treasures",
+      "url": "https://open.spotify.com/track/1RByCxHaCocuHZtSjItbDl"
     },
     {
       "album": {
@@ -2661,7 +2805,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-07",
       "duration_ms": 169192,
       "name": "Winter Escape",
       "url": "https://open.spotify.com/track/4E7viEoB5ubmacUw6G8obh"
@@ -2715,7 +2859,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-07",
       "duration_ms": 183121,
       "name": "Zirbenwald",
       "url": "https://open.spotify.com/track/1gdYPWZy8U0ucfHLRLx7HQ"

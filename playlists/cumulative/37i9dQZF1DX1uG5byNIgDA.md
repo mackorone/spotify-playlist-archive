@@ -4,7 +4,7 @@
 
 > Everyday should be a happy day when you listen to this fun K\-Pop playlist.
 
-305 songs - 17 hr 13 min - [published](https://open.spotify.com/playlist/1KT9n5GpXTYiKVI60QKiPA)
+307 songs - 17 hr 19 min - [published](https://open.spotify.com/playlist/1KT9n5GpXTYiKVI60QKiPA)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,7 +63,7 @@
 | [DICE](https://open.spotify.com/track/15wj06fykqiNYvyj8AVMnK) | [ONEW](https://open.spotify.com/artist/7sZ5ipSoboWdqXkdj6AXHo) | [DICE \- The 2nd Mini Album](https://open.spotify.com/album/6tjdh7YCcSKD51C2kQTW9n) | 3:06 | 2022-04-19 | 2022-06-21 |
 | [Diving](https://open.spotify.com/track/3YFZDlr3Yr0OY6hjBjYtYX) | [OHZU](https://open.spotify.com/artist/1JI61NmjPxJltAJwcNgb81) | [Diving](https://open.spotify.com/album/119latzteMV5EDEL2OSJ2y) | 3:23 | 2022-03-23 | 2022-04-20 |
 | [DM](https://open.spotify.com/track/7B9W7Qsy5M2kyUNjQYIEG8) | [fromis\_9](https://open.spotify.com/artist/24nUVBIlCGi4twz4nYxJum) | [Midnight Guest](https://open.spotify.com/album/2WT1URsANJa9zhPsqzspMR) | 3:24 | 2022-01-24 |  |
-| [Do](https://open.spotify.com/track/0gPPo7G20xgVqgFy8cqUmp) | [Dailog](https://open.spotify.com/artist/61NOuvWbdbCndC4Z8XvypF) | [Do](https://open.spotify.com/album/5PtHgUgCylutOvncJSFePO) | 2:17 | 2022-08-24 |  |
+| [Do](https://open.spotify.com/track/0gPPo7G20xgVqgFy8cqUmp) | [Dailog](https://open.spotify.com/artist/61NOuvWbdbCndC4Z8XvypF) | [Do](https://open.spotify.com/album/5PtHgUgCylutOvncJSFePO) | 2:17 | 2022-08-24 | 2022-10-04 |
 | [Dollar Dollar Bill](https://open.spotify.com/track/3NoMYCokmroxy6Vvgg6Bje) | [Kim Mi Jeong](https://open.spotify.com/artist/62i8ukH7NagOk7lZE6B3xA) | [NO ONE ELSE LIKE ME](https://open.spotify.com/album/10dnagRmizwHIlV0METcCv) | 2:18 | 2022-01-24 | 2022-05-08 |
 | [DOMANGA](https://open.spotify.com/track/1Vnuk7zOfsTfIXiYAzw43x) | [GOTCHA !](https://open.spotify.com/artist/4EF3hQH5Jao0sf0ZpgRb9u) | [DOMANGA](https://open.spotify.com/album/6wNuhctWwOpqugMit2AFip) | 3:01 | 2022-01-11 | 2022-07-10 |
 | [Don't fight the feeling](https://open.spotify.com/track/42fR3oINF3KfXCDtheoNiY) | [EXO](https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O) | [DON'T FIGHT THE FEELING \- Special Album](https://open.spotify.com/album/7Jw48lPmYuYftfQv5LmAzI) | 2:56 | 2021-12-06 | 2022-08-16 |
@@ -122,6 +122,7 @@
 | [HONEY SLEEP WITH YOU](https://open.spotify.com/track/50JVbs2jJqqwvh1wBAEHiO) | [Tarin](https://open.spotify.com/artist/4UEKXXZ65FBcAJPVerQjtO) | [27](https://open.spotify.com/album/0T9GzFaSp0lVxHwzbEaoNg) | 2:39 | 2022-03-23 | 2022-04-14 |
 | [HOPE](https://open.spotify.com/track/05DA32NYsDutwuvthUOUSA) | [Andnew](https://open.spotify.com/artist/292GXpdx9IglUfxrfvh2l9), [Raphan](https://open.spotify.com/artist/18nrDjJPMoJHC137nkvGVs) | [HOPE](https://open.spotify.com/album/40rKwgG1RLq6FiECMPuMdw) | 2:26 | 2022-01-11 | 2022-04-13 |
 | [House Party](https://open.spotify.com/track/0awQIOFGtg18LCJ0WhFf8s) | [SUPER JUNIOR](https://open.spotify.com/artist/6gzXCdfYfFe5XKhPKkYqxV) | [The Renaissance \- The 10th Album](https://open.spotify.com/album/3qyzxavqOfixEPDfFCEMlH) | 4:01 | 2022-03-23 | 2022-04-13 |
+| [how can i do \(Feat\. YooJeong\)](https://open.spotify.com/track/2IJnYC8w1noQNAKt8JyxW9) | [soowoo](https://open.spotify.com/artist/6yrdEI0g5zLDdYiBmqNYxo), [YooJeong](https://open.spotify.com/artist/6IDgXpF52ULsVz5Oqc0JST) | [how can i do](https://open.spotify.com/album/48AzCrfwXNzTgctIYFMqbH) | 2:49 | 2022-10-03 |  |
 | [How is it?](https://open.spotify.com/track/2iDaalTfhjBWcNTInRk5DZ) | [Hello Ga\-Young](https://open.spotify.com/artist/1yewRvlKGWmNRHOSGgiRRo) | [No, Thank You OST Part.2](https://open.spotify.com/album/65Sjg70pHSmlRW5RHFRcb9) | 3:02 | 2022-03-23 | 2022-04-21 |
 | [How You Been](https://open.spotify.com/track/3tKplzefIgmzzjYvQPIORB) | [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM) | [The Other Side](https://open.spotify.com/album/6PoWQtf3kVQkglgvsFRm9h) | 2:58 | 2021-12-06 | 2022-07-29 |
 | [HUSH](https://open.spotify.com/track/3ytqIDBXmnKD62m2ezyH5I) | [Kim Sung Kyu](https://open.spotify.com/artist/56mV6FhCrg12O6mOTLxo73) | [Won't Forget You](https://open.spotify.com/album/5YAKoVELgEDXMao7RHtft9) | 3:42 | 2021-12-06 | 2022-04-21 |
@@ -164,6 +165,7 @@
 | [LOVE SCENARIO](https://open.spotify.com/track/6qAzAmPBUpGrk7XADZHR5k) | [iKON](https://open.spotify.com/artist/5qRSs6mvI17zrkJpOHkCoM) | [Return](https://open.spotify.com/album/1VSMwSajwLiywZBuB8gvP8) | 3:29 | 2021-12-28 | 2022-07-17 |
 | [Love Yourself \(Just a Bit More\)](https://open.spotify.com/track/3NiAUTqEb8r6kdYACYjxxy) | [April 2nd](https://open.spotify.com/artist/6p2HEgiJp6Dr0DI9p5n7nr) | [Love Yourself \(Just a Bit More\)](https://open.spotify.com/album/6q2wINJ9hkZmA0MfUlopOM) | 3:31 | 2022-03-23 | 2022-04-12 |
 | [Lovemonth](https://open.spotify.com/track/5KnAca7g0lgwzCNA64WE9d) | [YUKIKA](https://open.spotify.com/artist/4RfI1z9u2xIc5Qnqac4JbO) | [Lovemonth](https://open.spotify.com/album/1aeo0A7JVTHNQtplMOORRk) | 3:33 | 2022-04-04 | 2022-04-16 |
+| [Lucky \(feat\. HANHAE\)](https://open.spotify.com/track/4cap8r3pvNFqLoenkZTNjw) | [KittiB](https://open.spotify.com/artist/3inqDrxKHZeWUvf8RHbJ6t), [Hanhae](https://open.spotify.com/artist/1CjHzclPOS2unF1vRtgurF) | [Lucky \(feat\. HANHAE\)](https://open.spotify.com/album/1QjLsDOBr7h9FKS37YpXci) | 3:02 | 2022-10-03 |  |
 | [Magic](https://open.spotify.com/track/4Wh5WGtov1VJ6EJ8OQgNeS) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [The Chaos Chapter: FREEZE](https://open.spotify.com/album/5Zdr9vactwnJH4Vpe9Mid9) | 2:39 | 2021-12-06 |  |
 | [Mangue 망고](https://open.spotify.com/track/5pSYu3LUUcWgc4xTxyX3Pi) | [BlackDoe](https://open.spotify.com/artist/41yz92BDilStKRfo5xJYik), [oceanfromtheblue](https://open.spotify.com/artist/76eIrOIqck4yuOhrYZGx3a) | [Mangue 망고](https://open.spotify.com/album/5dgreGubJZdlHRY1aMGkfX) | 3:14 | 2022-02-28 | 2022-04-25 |
 | [Mattress](https://open.spotify.com/track/7f5P2kfP16dELU9TOB53pL) | [10cm](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [Mattress](https://open.spotify.com/album/0w3iZw82n1QCdMq6H4BKBZ) | 2:50 | 2021-12-28 | 2022-04-21 |
@@ -250,7 +252,7 @@
 | [sunset lovers 해가 지잖아](https://open.spotify.com/track/3PE4VOm1EmKh4Y3t37Eo54) | [Sugarbowl](https://open.spotify.com/artist/0SzEYg3WelMs62HakSDhPH) | [lovers 2/6](https://open.spotify.com/album/7EJ7qJldmSfM8bF03DDq2j) | 3:31 | 2021-12-06 | 2022-04-19 |
 | [Sunset Surf](https://open.spotify.com/track/2NKJ9V3TSwv7n3Maxvm4Xy) | [Andnew](https://open.spotify.com/artist/292GXpdx9IglUfxrfvh2l9) | [Weekend](https://open.spotify.com/album/5iBDn8itXXhYZUvPXBVlPE) | 3:40 | 2022-03-23 | 2022-04-14 |
 | [Sunshine](https://open.spotify.com/track/2wpiWR4tTz4ewnYV1v4KQC) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [Clé : LEVANTER](https://open.spotify.com/album/5tCOElmd7wcBGbt1f8bFYR) | 3:42 | 2021-12-06 | 2022-07-27 |
-| [Super Happy \(feat\. Ariza\)](https://open.spotify.com/track/7xKuZzXNNgOZ3HVx1HtyXu) | [Su Lee](https://open.spotify.com/artist/3deduluMry0ZIGWF673gfK), [Ariza](https://open.spotify.com/artist/4hfAjEKTAFTmJvGQCGTED5) | [Super Happy](https://open.spotify.com/album/25fMfhirVYqXXnIIhxkTaF) | 2:54 | 2022-08-24 |  |
+| [Super Happy \(feat\. Ariza\)](https://open.spotify.com/track/7xKuZzXNNgOZ3HVx1HtyXu) | [Su Lee](https://open.spotify.com/artist/3deduluMry0ZIGWF673gfK), [Ariza](https://open.spotify.com/artist/4hfAjEKTAFTmJvGQCGTED5) | [Super Happy](https://open.spotify.com/album/25fMfhirVYqXXnIIhxkTaF) | 2:54 | 2022-08-24 | 2022-10-04 |
 | [Superwoman](https://open.spotify.com/track/0dCnDWWk79rSoYxcVDpuEc) | [Juju B\. Goode](https://open.spotify.com/artist/5PLxgBMZxMf8px0EfhgOiY) | [Superwoman](https://open.spotify.com/album/2TE6FMZoC19KLaUNb89ChV) | 3:19 | 2022-02-16 | 2022-07-25 |
 | [Switch](https://open.spotify.com/track/2muZNT1f0eVDC6qbCto2Ma) | [KIM WOO SEOK](https://open.spotify.com/artist/4k2MyP64uZ78mvjKd1Ciq2) | [3RD DESIRE \[Reve\]](https://open.spotify.com/album/0wos6TVDS8fbc7WzUgITFY) | 3:23 | 2022-03-10 | 2022-04-19 |
 | [TAKE](https://open.spotify.com/track/0wX7DQSE4BDyng6kpF2uPq) | [Jus2](https://open.spotify.com/artist/1pXX6uuufA0Zrk4Ksuh4nv) | [HE IS PSYCHOMETRIC \(Original Television Soundtrack\), Pt\. 1](https://open.spotify.com/album/64X5eTosvyBfgG2gXamatJ) | 3:12 | 2022-03-23 | 2022-04-21 |

@@ -4,7 +4,7 @@
 
 > The sweet sounds of Algeria.
 
-84 songs - 5 hr 2 min - [published](https://open.spotify.com/playlist/3fsBErBFxBgQOhLwfmS0nf)
+85 songs - 5 hr 5 min - [published](https://open.spotify.com/playlist/3fsBErBFxBgQOhLwfmS0nf)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,7 +63,7 @@
 | [My Love](https://open.spotify.com/track/7xE1TaILTJl91YvQdVB54i) | [Khaled](https://open.spotify.com/artist/28ztjHIXceRRntmTUfnmUX), [Sidney Samson](https://open.spotify.com/artist/3XonXgjEAAXVl0WKLF1Z4g) | [Cheb Khaled](https://open.spotify.com/album/07qAVChyoX0i1O5L5dv7GJ) | 4:02 | 2022-08-19 | 2022-09-02 |
 | [Nad El Borkan](https://open.spotify.com/track/3sphBPmMtnnJTLn49xYiT3) | [Mouh Milano](https://open.spotify.com/artist/1a4431ATLSQ5Rgq8Rr6sFj) | [Nad El Borkan](https://open.spotify.com/album/4QEMiHrd1yH0mTJEOJEpeU) | 4:16 | 2022-02-28 |  |
 | [Nar El Hob](https://open.spotify.com/track/5nL8YdzlpRDrX5ge6YYC2b) | [Amine Babylone](https://open.spotify.com/artist/2Dxc5IVSmvyXjR6sidLPT3) | [Nar El Hob](https://open.spotify.com/album/5YJ4dtTJ2s71lB5yctLPY5) | 3:26 | 2022-05-04 | 2022-08-20 |
-| [Nawaya \(feat\. Didine Canon 16 & Raïna Raï\)](https://open.spotify.com/track/47XfHZC83cqjSJP3Cu1T4u) | [Anas](https://open.spotify.com/artist/3jrZXTzqSuTBdfJeoSts1n), [Didine Canon 16](https://open.spotify.com/artist/2aVPTWc4WYc7b384eatevF), [Raïna Raï](https://open.spotify.com/artist/10EPr7TNgCwIWDgk9xvqzH) | [Nawaya \(feat\. Didine Canon 16 & Raïna Raï\)](https://open.spotify.com/album/1BKiOLvxoLiEk0qhofpMQU) | 3:14 | 2022-07-13 |  |
+| [Nawaya \(feat\. Didine Canon 16 & Raïna Raï\)](https://open.spotify.com/track/47XfHZC83cqjSJP3Cu1T4u) | [Anas](https://open.spotify.com/artist/3jrZXTzqSuTBdfJeoSts1n), [Didine Canon 16](https://open.spotify.com/artist/2aVPTWc4WYc7b384eatevF), [Raïna Raï](https://open.spotify.com/artist/10EPr7TNgCwIWDgk9xvqzH) | [Nawaya \(feat\. Didine Canon 16 & Raïna Raï\)](https://open.spotify.com/album/1BKiOLvxoLiEk0qhofpMQU) | 3:14 | 2022-07-13 | 2022-10-09 |
 | [Nhassel fi Chkoune](https://open.spotify.com/track/1nQuz3XdgcRgYtCIGBN82I) | [Foufa Torino](https://open.spotify.com/artist/5DAc1d8izRCmkzEP23NJGh) | [Nhassel fi Chkoune](https://open.spotify.com/album/0oSld3Mvd2nIvnhnAHvDOz) | 4:16 | 2021-12-09 | 2022-05-20 |
 | [No Stop](https://open.spotify.com/track/6VD64LAe1raY65BTkJdt5v) | [Djalil Palermo](https://open.spotify.com/artist/3SKKJMPgklOHgYeatf2YhX), [Didine Canon 16](https://open.spotify.com/artist/2aVPTWc4WYc7b384eatevF) | [No Stop](https://open.spotify.com/album/14FD9LxC7IR05LPeDK5Ts9) | 3:46 | 2022-03-09 |  |
 | [Nostalgia](https://open.spotify.com/track/2tigdzJhKHibLNXApAlTKZ) | [Mc Artisan](https://open.spotify.com/artist/24XkH7tJDFfDrOLlONiy7S), [Paris](https://open.spotify.com/artist/0jdmK9qg8xJkvDRpPfNBVz) | [Nostalgia](https://open.spotify.com/album/7oH1hIfjDhCaM8oOrewWJN) | 2:34 | 2021-12-09 |  |
@@ -75,6 +75,7 @@
 | [Roma \- Radio Edit](https://open.spotify.com/track/2o9x8x12rRTN7XJi8xAQTG) | [Chemsou Freeklane](https://open.spotify.com/artist/3wggOQ992VWtMCrs7ro14h), [Sanfara](https://open.spotify.com/artist/2s55Po6VBr22RYwlCmYlY6) | [Roma \(Radio Edit\)](https://open.spotify.com/album/2GJHVDoh0vr3FLmZ0qNVAv) | 3:24 | 2022-06-02 |  |
 | [Saint\-Valentin](https://open.spotify.com/track/6TLyzFX0FY6X52ZvZuQQpN) | [Youppi](https://open.spotify.com/artist/4HXhayOs3iuWCczTsLQOIX) | [Saint\-Valentin](https://open.spotify.com/album/55cRTgRGc5IKierDA2LIaL) | 3:01 | 2021-12-09 | 2022-06-01 |
 | [Sonia](https://open.spotify.com/track/5NuvJqrwmFovb6TGbnjjqR) | [Mok Saib](https://open.spotify.com/artist/6jcvupTBm6vk5SMEEVpvSW) | [Sonia](https://open.spotify.com/album/3x3LtImIZjkp0Xw7MZj2DW) | 3:23 | 2021-12-09 |  |
+| [Tal Sebri](https://open.spotify.com/track/4G7OIVLbpp7BnNrpDDVgPJ) | [Eljoee](https://open.spotify.com/artist/0Lgc9epqyn4wYEGm8fiaS7), [Youcef Gdh](https://open.spotify.com/artist/5oO5vd9qs9GJ1bFE4OZbM9) | [Tal Sebri](https://open.spotify.com/album/7FitafHMcsT0DiYZY019Ih) | 3:22 | 2022-10-09 |  |
 | [Thatmet Lekdar](https://open.spotify.com/track/61vtgCYKGAiw75IoTnDCG1) | [Kami Phénoméne](https://open.spotify.com/artist/2BxA0WWffDANrGk2etCPfI) | [Bonita](https://open.spotify.com/album/6SV06bKUQ0zibdRafy5PSW) | 4:07 | 2021-12-09 |  |
 | [Thugluv](https://open.spotify.com/track/0LmBTAeJkoVntKjuUqCQHb) | [Islem\-23](https://open.spotify.com/artist/4fdscmamdruNB8lZ1nWrTd) | [7or](https://open.spotify.com/album/1rvuk6HyweX9My7TiODYbN) | 3:05 | 2021-12-09 |  |
 | [Tir Ellil](https://open.spotify.com/track/3le36Vlse8nzqBy2Wfylql) | [Didine Canon 16](https://open.spotify.com/artist/2aVPTWc4WYc7b384eatevF), [Larbi Maestro](https://open.spotify.com/artist/67jF59wuJe0V1ByZ2eiUqT) | [Tir Ellil](https://open.spotify.com/album/4Nrh8I9mYMikyioVf5Gwrq) | 4:06 | 2021-12-09 |  |

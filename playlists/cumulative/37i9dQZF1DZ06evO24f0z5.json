@@ -55,7 +55,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-05",
+      "date_removed": "2022-10-08",
       "duration_ms": 317465,
       "name": "Amar es mas",
       "url": "https://open.spotify.com/track/2cQ08rh5IycjZ7XDcNizls"
@@ -73,7 +73,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-29",
+      "date_removed": null,
       "duration_ms": 198855,
       "name": "Amor",
       "url": "https://open.spotify.com/track/5wleH1Q7TtVP81uDoCztKd"
@@ -127,7 +127,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-30",
+      "date_removed": null,
       "duration_ms": 158113,
       "name": "Busc\u00e1ndote",
       "url": "https://open.spotify.com/track/0MZ8BVLMsfmzN5UUmqvtqX"
@@ -149,6 +149,24 @@
       "duration_ms": 205750,
       "name": "Cada quien",
       "url": "https://open.spotify.com/track/7rD8eGGIOy2G5yxWlmiQH3"
+    },
+    {
+      "album": {
+        "name": "Sanazion",
+        "url": "https://open.spotify.com/album/0zxOfn59rNMPrlgiZZiDzy"
+      },
+      "artists": [
+        {
+          "name": "Zona Ganjah",
+          "url": "https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2"
+        }
+      ],
+      "date_added": "2022-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213453,
+      "name": "Camino",
+      "url": "https://open.spotify.com/track/4QrpejsTZZ17A9wbpct57e"
     },
     {
       "album": {
@@ -199,7 +217,7 @@
       ],
       "date_added": "2022-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-05",
       "duration_ms": 488841,
       "name": "Colores",
       "url": "https://open.spotify.com/track/4pciFlNvRhxBMYGCgYRZeT"
@@ -325,7 +343,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-01",
+      "date_removed": null,
       "duration_ms": 218760,
       "name": "Dicen y dicen",
       "url": "https://open.spotify.com/track/6c2IWkxfyvAO1HO21AxbSI"
@@ -469,7 +487,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-05",
       "duration_ms": 241066,
       "name": "Fuma del humo y sana",
       "url": "https://open.spotify.com/track/5EmRwcbzzhuB2OpHizoSPz"
@@ -541,7 +559,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-09",
       "duration_ms": 224597,
       "name": "Inconmensurable",
       "url": "https://open.spotify.com/track/42iZRiHTAXU0LFMzIgPLSc"
@@ -577,7 +595,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-07",
       "duration_ms": 195040,
       "name": "Irie",
       "url": "https://open.spotify.com/track/6AfJLMn5KquPoEfybycZ4J"
@@ -757,7 +775,7 @@
       ],
       "date_added": "2022-09-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-02",
+      "date_removed": "2022-10-09",
       "duration_ms": 218600,
       "name": "Me levante",
       "url": "https://open.spotify.com/track/7bx8WLFijf42bIDJ7jJQy6"
@@ -811,7 +829,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-30",
+      "date_removed": "2022-10-07",
       "duration_ms": 238013,
       "name": "No estes triste",
       "url": "https://open.spotify.com/track/2bAE47QK208a6EAv8YIUIf"
@@ -919,7 +937,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-29",
+      "date_removed": "2022-10-07",
       "duration_ms": 258375,
       "name": "Sabes",
       "url": "https://open.spotify.com/track/3C3CL3eXVfBHsF5QfhzY03"

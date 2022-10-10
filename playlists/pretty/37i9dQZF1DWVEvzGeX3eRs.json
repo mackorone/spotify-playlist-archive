@@ -1,12 +1,12 @@
 {
   "description": "What we're gonna do right now is go back\u2014back in time. Here are all your favorite '90s R&B slow jams!",
-  "num_followers": 1454150,
+  "num_followers": 1456994,
   "original_name": "'90s Baby Makers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYxNDkwMjU5NywwMDAwMDAwMGJiZTA0ZThiZDdiMGQ0MDkwOWRmNWY5ZDE5MWVlOTE1",
+  "snapshot_id": "MTYxNDkwMjU5NywwMDAwMDAwMDk3YmJkOTNiOGRhNjcyNDNmMWYwZWZlYTBlNTI2YzZi",
   "tracks": [
     {
       "added_at": "2021-03-05 00:03:16",
@@ -131,6 +131,22 @@
     {
       "added_at": "2021-03-05 00:03:16",
       "album": {
+        "name": "Enter The Dru",
+        "url": "https://open.spotify.com/album/6L5uROBQ5wy3MOPI334RHE"
+      },
+      "artists": [
+        {
+          "name": "Dru Hill",
+          "url": "https://open.spotify.com/artist/1255GTUKNCLCTvH9ctD4cT"
+        }
+      ],
+      "duration_ms": 272560,
+      "name": "Beauty",
+      "url": "https://open.spotify.com/track/125dAqUSmX1nOG50fBz9vb"
+    },
+    {
+      "added_at": "2021-03-05 00:03:16",
+      "album": {
         "name": "A Jagged Era",
         "url": "https://open.spotify.com/album/71V8liHaRbtSZ2ZGkjcqZB"
       },
@@ -159,22 +175,6 @@
       "duration_ms": 428200,
       "name": "Any Time, Any Place",
       "url": "https://open.spotify.com/track/2yOm4lN7aTygtXanJFNFWU"
-    },
-    {
-      "added_at": "2021-03-05 00:03:16",
-      "album": {
-        "name": "Enter The Dru",
-        "url": "https://open.spotify.com/album/6L5uROBQ5wy3MOPI334RHE"
-      },
-      "artists": [
-        {
-          "name": "Dru Hill",
-          "url": "https://open.spotify.com/artist/1255GTUKNCLCTvH9ctD4cT"
-        }
-      ],
-      "duration_ms": 272560,
-      "name": "Beauty",
-      "url": "https://open.spotify.com/track/125dAqUSmX1nOG50fBz9vb"
     },
     {
       "added_at": "2021-03-05 00:03:16",
@@ -227,22 +227,6 @@
     {
       "added_at": "2021-03-05 00:03:16",
       "album": {
-        "name": "The Velvet Rope",
-        "url": "https://open.spotify.com/album/6ZANEjETQ9L9pjBuvOAhCQ"
-      },
-      "artists": [
-        {
-          "name": "Janet Jackson",
-          "url": "https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W"
-        }
-      ],
-      "duration_ms": 317560,
-      "name": "I Get Lonely",
-      "url": "https://open.spotify.com/track/5xLDmkobOw674TLTBBmnuN"
-    },
-    {
-      "added_at": "2021-03-05 00:03:16",
-      "album": {
         "name": "Attitude",
         "url": "https://open.spotify.com/album/7JejBAyNL3oKVt1tNHLosr"
       },
@@ -255,22 +239,6 @@
       "duration_ms": 229053,
       "name": "All I Do Is Think of You",
       "url": "https://open.spotify.com/track/4XhrowM5IKGCRrY2HzYBH3"
-    },
-    {
-      "added_at": "2021-03-05 00:03:16",
-      "album": {
-        "name": "Baduizm",
-        "url": "https://open.spotify.com/album/3qr4pTBWEU1SVf01j6RAx3"
-      },
-      "artists": [
-        {
-          "name": "Erykah Badu",
-          "url": "https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX"
-        }
-      ],
-      "duration_ms": 393733,
-      "name": "Other Side Of The Game",
-      "url": "https://open.spotify.com/track/6s4xndGKUhW0xXPYvFlwcL"
     },
     {
       "added_at": "2021-03-05 00:03:16",
@@ -291,18 +259,18 @@
     {
       "added_at": "2021-03-05 00:03:16",
       "album": {
-        "name": "The Show, The After Party, The Hotel",
-        "url": "https://open.spotify.com/album/5tincGtQaRD1QoXAT0PELz"
+        "name": "Baduizm",
+        "url": "https://open.spotify.com/album/3qr4pTBWEU1SVf01j6RAx3"
       },
       "artists": [
         {
-          "name": "Jodeci",
-          "url": "https://open.spotify.com/artist/1eNkUXHPaXyuyC8NAgzykK"
+          "name": "Erykah Badu",
+          "url": "https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX"
         }
       ],
-      "duration_ms": 290066,
-      "name": "Love U 4 Life",
-      "url": "https://open.spotify.com/track/02D9uD9WQb834Lb54xCvDS"
+      "duration_ms": 393733,
+      "name": "Other Side Of The Game",
+      "url": "https://open.spotify.com/track/6s4xndGKUhW0xXPYvFlwcL"
     },
     {
       "added_at": "2021-03-05 00:03:16",
@@ -323,18 +291,18 @@
     {
       "added_at": "2021-03-05 00:03:16",
       "album": {
-        "name": "Michel'le",
-        "url": "https://open.spotify.com/album/2PngFAB0v6216314TZRcGb"
+        "name": "The Show, The After Party, The Hotel",
+        "url": "https://open.spotify.com/album/5tincGtQaRD1QoXAT0PELz"
       },
       "artists": [
         {
-          "name": "Michel'le",
-          "url": "https://open.spotify.com/artist/4D0WfOUqTzqKysXt33VL3j"
+          "name": "Jodeci",
+          "url": "https://open.spotify.com/artist/1eNkUXHPaXyuyC8NAgzykK"
         }
       ],
-      "duration_ms": 353000,
-      "name": "Something in My Heart",
-      "url": "https://open.spotify.com/track/1CrWoWuxupYY1vi1XRdpBX"
+      "duration_ms": 290066,
+      "name": "Love U 4 Life",
+      "url": "https://open.spotify.com/track/02D9uD9WQb834Lb54xCvDS"
     },
     {
       "added_at": "2021-03-05 00:03:16",
@@ -355,22 +323,6 @@
     {
       "added_at": "2021-03-05 00:03:16",
       "album": {
-        "name": "Brown Sugar",
-        "url": "https://open.spotify.com/album/4HTVABUq8amDUxBv3zJbX4"
-      },
-      "artists": [
-        {
-          "name": "D'Angelo",
-          "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
-        }
-      ],
-      "duration_ms": 384666,
-      "name": "Cruisin'",
-      "url": "https://open.spotify.com/track/2voXNGgRrosxCJA6foTVau"
-    },
-    {
-      "added_at": "2021-03-05 00:03:16",
-      "album": {
         "name": "The Future",
         "url": "https://open.spotify.com/album/3zuoynFUwVMW9cUl7V5I0q"
       },
@@ -387,18 +339,34 @@
     {
       "added_at": "2021-03-05 00:03:16",
       "album": {
-        "name": "From The Mint Factory",
-        "url": "https://open.spotify.com/album/7hzFhf3WpRUNM52MVjgCVe"
+        "name": "Brown Sugar",
+        "url": "https://open.spotify.com/album/4HTVABUq8amDUxBv3zJbX4"
       },
       "artists": [
         {
-          "name": "Mint Condition",
-          "url": "https://open.spotify.com/artist/4MT97VeycuegSicrrphisJ"
+          "name": "D'Angelo",
+          "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
         }
       ],
-      "duration_ms": 314537,
-      "name": "U Send Me Swingin'",
-      "url": "https://open.spotify.com/track/1mC7u32zemMLC1mVOU02Pm"
+      "duration_ms": 384666,
+      "name": "Cruisin'",
+      "url": "https://open.spotify.com/track/2voXNGgRrosxCJA6foTVau"
+    },
+    {
+      "added_at": "2021-03-05 00:03:16",
+      "album": {
+        "name": "Michel'le",
+        "url": "https://open.spotify.com/album/2PngFAB0v6216314TZRcGb"
+      },
+      "artists": [
+        {
+          "name": "Michel'le",
+          "url": "https://open.spotify.com/artist/4D0WfOUqTzqKysXt33VL3j"
+        }
+      ],
+      "duration_ms": 353000,
+      "name": "Something in My Heart",
+      "url": "https://open.spotify.com/track/1CrWoWuxupYY1vi1XRdpBX"
     },
     {
       "added_at": "2021-03-05 00:03:16",
@@ -439,18 +407,18 @@
     {
       "added_at": "2021-03-05 00:03:16",
       "album": {
-        "name": "It's About Time",
-        "url": "https://open.spotify.com/album/2BBrAtWY0c6dPio5b2JYFK"
+        "name": "From The Mint Factory",
+        "url": "https://open.spotify.com/album/7hzFhf3WpRUNM52MVjgCVe"
       },
       "artists": [
         {
-          "name": "SWV",
-          "url": "https://open.spotify.com/artist/2NmK5FyrQ18HOPXq1UBzqa"
+          "name": "Mint Condition",
+          "url": "https://open.spotify.com/artist/4MT97VeycuegSicrrphisJ"
         }
       ],
-      "duration_ms": 317360,
-      "name": "You're Always On My Mind",
-      "url": "https://open.spotify.com/track/4zAxfkmJqsaHqFu1YPMS5a"
+      "duration_ms": 314537,
+      "name": "U Send Me Swingin'",
+      "url": "https://open.spotify.com/track/1mC7u32zemMLC1mVOU02Pm"
     },
     {
       "added_at": "2021-03-05 00:03:16",
@@ -483,6 +451,22 @@
       "duration_ms": 312040,
       "name": "Stay",
       "url": "https://open.spotify.com/track/0JukF7Yf5qF10ntu6lpJ5I"
+    },
+    {
+      "added_at": "2021-03-05 00:03:16",
+      "album": {
+        "name": "It's About Time",
+        "url": "https://open.spotify.com/album/2BBrAtWY0c6dPio5b2JYFK"
+      },
+      "artists": [
+        {
+          "name": "SWV",
+          "url": "https://open.spotify.com/artist/2NmK5FyrQ18HOPXq1UBzqa"
+        }
+      ],
+      "duration_ms": 317360,
+      "name": "You're Always On My Mind",
+      "url": "https://open.spotify.com/track/4zAxfkmJqsaHqFu1YPMS5a"
     },
     {
       "added_at": "2021-03-05 00:03:16",
@@ -727,22 +711,6 @@
     {
       "added_at": "2021-03-05 00:03:16",
       "album": {
-        "name": "Cooleyhighharmony - Expanded Edition",
-        "url": "https://open.spotify.com/album/7JnLsJWNUf50DGZ5JhBgbO"
-      },
-      "artists": [
-        {
-          "name": "Boyz II Men",
-          "url": "https://open.spotify.com/artist/6O74knDqdv3XaWtkII7Xjp"
-        }
-      ],
-      "duration_ms": 228866,
-      "name": "Uhh Ahh",
-      "url": "https://open.spotify.com/track/0MrD47wtvAu6igsy8vqUzN"
-    },
-    {
-      "added_at": "2021-03-05 00:03:16",
-      "album": {
         "name": "Crazysexycool",
         "url": "https://open.spotify.com/album/5eg56dCpFn32neJak2vk0f"
       },
@@ -755,6 +723,22 @@
       "duration_ms": 274000,
       "name": "Take Our Time",
       "url": "https://open.spotify.com/track/44QrzYVAHFC9WMN91GEo9H"
+    },
+    {
+      "added_at": "2021-03-05 00:03:16",
+      "album": {
+        "name": "Cooleyhighharmony - Expanded Edition",
+        "url": "https://open.spotify.com/album/7JnLsJWNUf50DGZ5JhBgbO"
+      },
+      "artists": [
+        {
+          "name": "Boyz II Men",
+          "url": "https://open.spotify.com/artist/6O74knDqdv3XaWtkII7Xjp"
+        }
+      ],
+      "duration_ms": 228866,
+      "name": "Uhh Ahh",
+      "url": "https://open.spotify.com/track/0MrD47wtvAu6igsy8vqUzN"
     },
     {
       "added_at": "2021-03-05 00:03:16",
@@ -787,6 +771,22 @@
       "duration_ms": 257399,
       "name": "I Got A Thang 4 Ya!",
       "url": "https://open.spotify.com/track/4OXAYBy41owXhbOoi932y0"
+    },
+    {
+      "added_at": "2021-03-05 00:03:16",
+      "album": {
+        "name": "Batman",
+        "url": "https://open.spotify.com/album/2FwzHgJ4XaPhC19Y0uL6SK"
+      },
+      "artists": [
+        {
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+        }
+      ],
+      "duration_ms": 375706,
+      "name": "Scandalous",
+      "url": "https://open.spotify.com/track/2dnPoLlcwJFtFm1pps3Bm0"
     }
   ],
   "unique_name": "'90s Baby Makers",

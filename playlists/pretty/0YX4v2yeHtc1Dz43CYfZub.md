@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0YX4v2yeHtc1Dz43CYfZub.md) - [plain]
 
 > ONLY LOVERS LEFT ALIVE will be in cinemas from 21st February\. The soundtrack will be available from 17th February.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,226 likes - 11 songs - 56 min 55 sec
+[Spotify](https://open.spotify.com/user/spotify) - 6,224 likes - 11 songs - 56 min 55 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

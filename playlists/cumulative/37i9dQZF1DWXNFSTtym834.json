@@ -991,7 +991,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-10",
       "duration_ms": 225933,
       "name": "Distortion Sleep",
       "url": "https://open.spotify.com/track/3yPQrLnNIthn4I5wQ51X26"
@@ -1697,6 +1697,28 @@
       "duration_ms": 228800,
       "name": "I Am the Anger",
       "url": "https://open.spotify.com/track/7uKK7wY13Z65M7WQAO9r46"
+    },
+    {
+      "album": {
+        "name": "Worlds Collide",
+        "url": "https://open.spotify.com/album/1rmhml18o2KDLUpYMXq6VQ"
+      },
+      "artists": [
+        {
+          "name": "Apocalyptica",
+          "url": "https://open.spotify.com/artist/4Lm0pUvmisUHMdoky5ch2I"
+        },
+        {
+          "name": "Adam Gonthier",
+          "url": "https://open.spotify.com/artist/2z0R8WZqwWoI7R3iGO6QjM"
+        }
+      ],
+      "date_added": "2022-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237346,
+      "name": "I Don't Care",
+      "url": "https://open.spotify.com/track/1WxF4gMsFXnKCyh48CW2RI"
     },
     {
       "album": {
@@ -2770,6 +2792,24 @@
     },
     {
       "album": {
+        "name": "Liebe ist f\u00fcr alle da",
+        "url": "https://open.spotify.com/album/3pksjSyo1w4vAPOenAzM4Z"
+      },
+      "artists": [
+        {
+          "name": "Rammstein",
+          "url": "https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP"
+        }
+      ],
+      "date_added": "2022-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239080,
+      "name": "Pussy",
+      "url": "https://open.spotify.com/track/0EAKf1NdBfTiK1idL7yLTg"
+    },
+    {
+      "album": {
         "name": "Rasputin",
         "url": "https://open.spotify.com/album/5nUmL2EDOT3uoZQJOC2kYC"
       },
@@ -3289,7 +3329,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-06",
       "duration_ms": 204293,
       "name": "South Texas Deathride",
       "url": "https://open.spotify.com/track/4DenxoUslmyLJB5vzurCBD"
@@ -3343,7 +3383,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-06",
       "duration_ms": 441133,
       "name": "St. Anger",
       "url": "https://open.spotify.com/track/3fOc9x06lKJBhz435mInlH"
@@ -3541,7 +3581,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-15",
+      "date_removed": null,
       "duration_ms": 302693,
       "name": "Switchback",
       "url": "https://open.spotify.com/track/3lUwCryVobacobYrN5f2Je"

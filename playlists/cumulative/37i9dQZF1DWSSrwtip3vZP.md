@@ -4,7 +4,7 @@
 
 > music to help you \~ focus \~
 
-123 songs - 6 hr 31 min - [published](https://open.spotify.com/playlist/74P6RSDkuYCzrKQmY10acy)
+125 songs - 6 hr 37 min - [published](https://open.spotify.com/playlist/74P6RSDkuYCzrKQmY10acy)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,7 @@
 | [Better Version](https://open.spotify.com/track/3yDEK8rHiOUHOSioX9ZbaU) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [Better Version](https://open.spotify.com/album/6L4Br91KD5fMRjxDItOzGd) | 2:53 | 2022-09-12 |  |
 | [Birthday Cake](https://open.spotify.com/track/7dDrR6vMK1JAwZZ5MIWgme) | [Dylan Conrique](https://open.spotify.com/artist/2S054G7qnCK45KY0XzpX30) | [Birthday Cake](https://open.spotify.com/album/6Z2I7RVroN2B24d7mms0tT) | 3:25 | 2022-04-19 |  |
 | [Bloodline](https://open.spotify.com/track/6nmPxOhrkI0hXqOWHajpE9) | [Indyah](https://open.spotify.com/artist/5JOPsHUGjo5V5yPDUurZRy) | [Bloodline](https://open.spotify.com/album/0PZUuOvDyvcOAry5XCndao) | 3:01 | 2022-04-19 |  |
-| [Break With Me](https://open.spotify.com/track/28ISI9ACJ3Z3tQ7rQehHlZ) | [SHY Martin](https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM) | [Break With Me](https://open.spotify.com/album/47KET5CfuFBk1zjC3UTilg) | 2:35 | 2022-04-19 |  |
+| [Break With Me](https://open.spotify.com/track/28ISI9ACJ3Z3tQ7rQehHlZ) | [shy martin](https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM) | [Break With Me](https://open.spotify.com/album/47KET5CfuFBk1zjC3UTilg) | 2:35 | 2022-04-19 |  |
 | [Butterflies](https://open.spotify.com/track/6Xa2rrTpSLkpx887Y115mO) | [Abe Parker](https://open.spotify.com/artist/5V61WloeXM3XLslOqJ8RES) | [Butterflies](https://open.spotify.com/album/2x3wUvuuBFYY0XEcm3Xp1U) | 3:03 | 2022-04-19 |  |
 | [Cameras On](https://open.spotify.com/track/4bAdZEc533RFNAmaOXOI19) | [AJ Mitchell](https://open.spotify.com/artist/6dn6x1XOng3LOAnfTjUn77) | [Cameras On](https://open.spotify.com/album/288DrM3APHiNkts18tzMxI) | 2:53 | 2022-04-19 | 2022-07-29 |
 | [chaotic](https://open.spotify.com/track/2bdqU7C4softKNcMYDFi96) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [chaotic](https://open.spotify.com/album/1nZmxiUXBgZZ82fy5A0yau) | 2:58 | 2022-04-19 | 2022-07-09 |
@@ -66,7 +66,8 @@
 | [Hold Me Like You Used To \- Spotify Singles](https://open.spotify.com/track/5HZtgJapw0QgPUZzy6ql12) | [Zoe Wees](https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS) | [Spotify Singles](https://open.spotify.com/album/568wiTPWt5kE0Zk3joRigo) | 3:09 | 2022-04-19 | 2022-09-13 |
 | [Hold On](https://open.spotify.com/track/0lLBVkeTuZVfZRUC6MFfRf) | [George Alice](https://open.spotify.com/artist/2qmz9qPEFq5phZ8bscA2oL) | [Hold On](https://open.spotify.com/album/2HUFjJZI8gE43IxF3i5i9S) | 3:15 | 2022-04-19 |  |
 | [I Burned LA Down](https://open.spotify.com/track/34Mg7rSCT7nRsf1kVCAvgz) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [I Burned LA Down](https://open.spotify.com/album/71EPoeTo5QAlsr2OWCRNhM) | 3:15 | 2022-04-19 | 2022-09-15 |
-| [I Burned LA Down](https://open.spotify.com/track/6HCE76ilvGMSibu8eki1nI) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [The Hardest Part](https://open.spotify.com/album/0CIYj6AV180SmLAEONb2DW) | 3:15 | 2022-09-12 |  |
+| [I Burned LA Down](https://open.spotify.com/track/5z8F06wTZvUOR5DzyWJ0L6) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [The Hardest Part](https://open.spotify.com/album/340COGAWuXWO66Qc4TxJuN) | 3:15 | 2022-09-12 |  |
+| [I Burned LA Down](https://open.spotify.com/track/6HCE76ilvGMSibu8eki1nI) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [The Hardest Part](https://open.spotify.com/album/0CIYj6AV180SmLAEONb2DW) | 3:15 | 2022-09-12 | 2022-10-07 |
 | [I Burned LA Down](https://open.spotify.com/track/7HCk1IxbjrRcQEAiMxAAFl) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [Every Beginning Ends](https://open.spotify.com/album/7pHo5Tov9GyzVnBLxPuHYB) | 3:15 | 2022-09-12 | 2022-09-20 |
 | [I GUESS I'M IN LOVE](https://open.spotify.com/track/1is8gU4RVcN4J8xItxWoOY) | [Clinton Kane](https://open.spotify.com/artist/7okSU80WTrn4LXlyXYbX3P) | [I GUESS I'M IN LOVE](https://open.spotify.com/album/56meo2KJ9tRlaGUHSGfTpP) | 3:24 | 2022-04-19 | 2022-09-13 |
 | [I Hope You Knew](https://open.spotify.com/track/5TyLBXHammwLZ76DKUnAE1) | [Paige](https://open.spotify.com/artist/2hscsIIlxYGIUYsfarFCG7) | [I Hope You Knew](https://open.spotify.com/album/4r0cAG51hrpgfoWBYmpO8K) | 3:20 | 2022-08-22 |  |
@@ -90,7 +91,8 @@
 | [monsters](https://open.spotify.com/track/6cQ8IRL1UQR11v4wD4wjo8) | [Camylio](https://open.spotify.com/artist/2Mf6MBoMOgpxxm3QuH9Tk4) | [monsters](https://open.spotify.com/album/0VQQcjbZgXrYNNxijIRva6) | 2:53 | 2022-08-11 |  |
 | [Moon](https://open.spotify.com/track/1XpAZlfENlrHalIvuhAp9R) | [Jonah Kagen](https://open.spotify.com/artist/5KsRA81UaMVKvLNiwDySfp) | [Moon](https://open.spotify.com/album/1igApJ0OiVBemqXhWKUE9w) | 3:40 | 2022-04-19 | 2022-05-25 |
 | [Naïve Love](https://open.spotify.com/track/1FWluZedEH4D8F6TUZlGEB) | [Dylan J](https://open.spotify.com/artist/1MbU9ik5RPjIzF90y1he0z) | [4 Songs I Made In California](https://open.spotify.com/album/6Gowdvuc1TuxA2mD08UIwL) | 3:01 | 2022-05-24 |  |
-| [Never Had a Chance](https://open.spotify.com/track/7kWHoZvIn3TzxUHYrszYFc) | [Katherine Li](https://open.spotify.com/artist/6C7CCNJVIGEla8AI1LuBxI) | [Never Had a Chance](https://open.spotify.com/album/5td0jzs96pRarCswOchXN8) | 2:25 | 2022-07-08 |  |
+| [Never Had a Chance](https://open.spotify.com/track/5ICjRLHOxUv6gcRbr2ux9Z) | [Katherine Li](https://open.spotify.com/artist/6C7CCNJVIGEla8AI1LuBxI) | [Never Had a Chance](https://open.spotify.com/album/5SU6TQaPF0wDCXpU9l585n) | 2:25 | 2022-09-12 |  |
+| [Never Had a Chance](https://open.spotify.com/track/7kWHoZvIn3TzxUHYrszYFc) | [Katherine Li](https://open.spotify.com/artist/6C7CCNJVIGEla8AI1LuBxI) | [Never Had a Chance](https://open.spotify.com/album/5td0jzs96pRarCswOchXN8) | 2:25 | 2022-07-08 | 2022-10-08 |
 | [New Normal](https://open.spotify.com/track/62sWTVzpcujJtb4E5B3K07) | [Sasha Alex Sloan](https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5) | [New Normal](https://open.spotify.com/album/2Gpdm0FDnFWxvI9oB6emOB) | 3:07 | 2022-04-28 |  |
 | [Nice to Meet You](https://open.spotify.com/track/0nxh4ijcMIwtkUth4aClzL) | [Cody Simpson](https://open.spotify.com/artist/79Xp2rRN7wdsaTJgttdX3K) | [Nice to Meet You](https://open.spotify.com/album/4hCeoPdicCGskR7BYasJxi) | 4:10 | 2022-04-19 |  |
 | [Notice Me \(feat\. Ruel\)](https://open.spotify.com/track/5thDxhqcKA5q8Opd6INQp8) | [Dylan J](https://open.spotify.com/artist/1MbU9ik5RPjIzF90y1he0z), [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [Notice Me \(feat\. Ruel\)](https://open.spotify.com/album/0ED0HGQmkmWR3o1Uw5Zp5w) | 2:38 | 2022-04-19 | 2022-06-16 |

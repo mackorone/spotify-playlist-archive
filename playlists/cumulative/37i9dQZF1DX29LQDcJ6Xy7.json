@@ -275,7 +275,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 293076,
       "name": "Below",
       "url": "https://open.spotify.com/track/1lesoWjO892IFBhaFjhoAn"
@@ -700,6 +700,24 @@
     },
     {
       "album": {
+        "name": "Demons",
+        "url": "https://open.spotify.com/album/49YrBIMYXJy9AzK47mxAoK"
+      },
+      "artists": [
+        {
+          "name": "Gothminister",
+          "url": "https://open.spotify.com/artist/2S3xwpueZpPVUDTTv7Wefx"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216986,
+      "name": "Demons",
+      "url": "https://open.spotify.com/track/71YT7JxU6etsde4vTUz1BF"
+    },
+    {
+      "album": {
         "name": "Denature",
         "url": "https://open.spotify.com/album/6BMq5ky0p6E94W8c1O7okq"
       },
@@ -783,7 +801,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-03",
       "duration_ms": 286586,
       "name": "Disinformation",
       "url": "https://open.spotify.com/track/1pp9mg61pN7G7oJxBIqDmX"
@@ -845,7 +863,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-13",
+      "date_removed": null,
       "duration_ms": 201184,
       "name": "Don't Question Me",
       "url": "https://open.spotify.com/track/07wrYgD0lODxw5G39OQjce"
@@ -1059,7 +1077,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-17",
+      "date_removed": "2022-10-07",
       "duration_ms": 246843,
       "name": "Feed Our Lie",
       "url": "https://open.spotify.com/track/1UxhZwFgV4t8OSBWORCBMG"
@@ -1485,7 +1503,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 538071,
       "name": "In the Void",
       "url": "https://open.spotify.com/track/5AsHysrBAAPMusL0WUHsCl"
@@ -1889,7 +1907,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-17",
+      "date_removed": null,
       "duration_ms": 178640,
       "name": "March Of The Pigs",
       "url": "https://open.spotify.com/track/59FwEQpuagQZQVP71h9OIq"
@@ -2219,6 +2237,28 @@
       "duration_ms": 220026,
       "name": "Out For Blood",
       "url": "https://open.spotify.com/track/3Lq6gNTGCu9SOChMq8ZZfY"
+    },
+    {
+      "album": {
+        "name": "Overload (Zardonic Remix)",
+        "url": "https://open.spotify.com/album/1KR79F4HC65JGBr9d0wY8Z"
+      },
+      "artists": [
+        {
+          "name": "Carl Sentance",
+          "url": "https://open.spotify.com/artist/1HpSZ31pnGYxtpmpgkXC50"
+        },
+        {
+          "name": "Zardonic",
+          "url": "https://open.spotify.com/artist/7BqEidErPMNiUXCRE0dV2n"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204000,
+      "name": "Overload - Zardonic Remix",
+      "url": "https://open.spotify.com/track/2vKGqgyN8T7tpgJIiOZiH8"
     },
     {
       "album": {
@@ -2799,7 +2839,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 315440,
       "name": "The Perfect Drug",
       "url": "https://open.spotify.com/track/14tKBoKXxGakkoEmYuFfor"

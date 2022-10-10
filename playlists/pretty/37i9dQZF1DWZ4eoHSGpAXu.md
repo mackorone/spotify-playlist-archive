@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ4eoHSGpAXu.md) - [plain]
 
 > Get your midweek right with these uplifting songs of praise and worship.
 
-[Spotify](https://open.spotify.com/user/spotify) - 109,866 likes - 75 songs - 6 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 110,231 likes - 75 songs - 6 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ4eoHSGpAXu.md) - [plain]
 | 6 | [See A Victory](https://open.spotify.com/track/3gtqd9P8kZblHf4I7Ybub2) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix) | [See A Victory](https://open.spotify.com/album/3YKyqEwSPz9mjNb4NucFpq) | 6:03 |
 | 7 | [Lost in Your Love](https://open.spotify.com/track/4pCSJ4WJTl6kr9OQ5HCx7v) | [Reach City Worship](https://open.spotify.com/artist/7uDyMJ0rQsDhzYV4qohIX5) | [Lost in Your Love](https://open.spotify.com/album/1m6Lu9nY5rlCogxC5Tk1Yd) | 5:33 |
 | 8 | [Alive & Breathing \(feat\. Elle Limebear\)](https://open.spotify.com/track/1nmspIOQLdmBhGfT747dEJ) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW), [Elle Limebear](https://open.spotify.com/artist/7MCV4p3QmcYDMTfiE0ZWMD) | [Alive & Breathing Vol\. 2](https://open.spotify.com/album/6NykyYzeUp4LTAN5hAAKPk) | 4:01 |
-| 9 | [Rejoice](https://open.spotify.com/track/6UEX4PS9R0HjfN3iG0mm7G) | [Brad & Rebekah](https://open.spotify.com/artist/1ef7Y06MRVT7HfRdJDHBOG) | [Rejoice](https://open.spotify.com/album/0k5NWjpgHJb4AW22CcE6PP) | 4:03 |
+| 9 | [Rejoice](https://open.spotify.com/track/2lJnLe5B0RSr8H5DpSktER) | [Brad & Rebekah](https://open.spotify.com/artist/1ef7Y06MRVT7HfRdJDHBOG) | [Life Again](https://open.spotify.com/album/5BI5Wl8TCjrIczfZMQpU0u) | 4:02 |
 | 10 | [Heaven Is Where You Are](https://open.spotify.com/track/4OtfBQ2sHDdcag87TN1bb7) | [Erik Nieder](https://open.spotify.com/artist/5LfJyJ9ZnWxRWawuGFIMMh) | [Heaven Is Where You Are](https://open.spotify.com/album/2HwC7uEfppbjefeQByqkhl) | 3:18 |
 | 11 | [Hope Song](https://open.spotify.com/track/4ItMAyXfbUbW2KVPBnezRL) | [Impact](https://open.spotify.com/artist/23MSkX2SgqmEvlqpuJtYgH) | [Hope Song](https://open.spotify.com/album/24lEc4AdB2BJp3KiQ16eKo) | 4:48 |
 | 12 | [Behold Him \(feat\. Kim Walker\-Smith\)](https://open.spotify.com/track/6Gj4kfHYdXw7Cl2xYja85Z) | [Paul Baloche](https://open.spotify.com/artist/1jH3GuQCPI87UrS0hcScHr), [Kim Walker\-Smith](https://open.spotify.com/artist/4leTWyczsXYGlzUh8sFGSz) | [Behold Him \(feat\. Kim Walker\-Smith\)](https://open.spotify.com/album/2hXOYMsF8fyrzR68hy6b2W) | 4:39 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ4eoHSGpAXu.md) - [plain]
 | 74 | [A Thousand More](https://open.spotify.com/track/7tIrrmVZNRypgrP7FQZmLR) | [Thrive Worship](https://open.spotify.com/artist/76mPLB1kgBIInKSrvuEb72) | [A Thousand More](https://open.spotify.com/album/71Wbn8i6LWE44Fgpb2D8aB) | 4:27 |
 | 75 | [While I Wait](https://open.spotify.com/track/1R9UC41siojWolyYYEohqN) | [Lincoln Brewster](https://open.spotify.com/artist/1aoy0R8uP3x33eqKZOLpN1) | [While I Wait](https://open.spotify.com/album/0UDYVuIKNGT6hfvrsjrNBV) | 4:58 |
 
-Snapshot ID: `MTU3NDgzNDgwMiwwMDAwMDAwMDljNzk1MDlkYTRkMWJmYzQ1ZTI5ODM3MWJmZDczZDFk`
+Snapshot ID: `MTU3NDgzNDgwMiwwMDAwMDAwMDRjNDUzYjg3NTJiZGYxNDU5MDBkZjc0YjcxZjYwMTg0`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-21",
-  "description": "Estas damas s\u00ed que tienen car\u00e1cter. Lupita Infante en portada.",
+  "description": "Estas damas s\u00ed que tienen car\u00e1cter. Adriana R\u00edos en portada.",
   "name": "Reinas del Mariachi",
   "published_playlist_ids": [
     "28qg7h7VtnPvoLfHcWoH3E"
@@ -109,7 +109,7 @@
       ],
       "date_added": "2022-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 169866,
       "name": "Amor Ilegal",
       "url": "https://open.spotify.com/track/3ceovJ34rV8rdAW31Cpavk"
@@ -199,7 +199,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 260000,
       "name": "Burbujas de Amor",
       "url": "https://open.spotify.com/track/1k0YnZAX4bcTCGsKCtmNSu"
@@ -213,17 +213,13 @@
         {
           "name": "Roc\u00edo D\u00farcal",
           "url": "https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB"
-        },
-        {
-          "name": "El Mariachi De Am\u00e9rica De Jes\u00fas Rodriguez De Hijar",
-          "url": "https://open.spotify.com/artist/0waXcYWOieapc2IFrRMoy7"
         }
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 212760,
-      "name": "Caray (with Mariachi Am\u00e9rica de Jes\u00fas Rodr\u00edguez de Hijar)",
+      "name": "Caray",
       "url": "https://open.spotify.com/track/4XzFq8NnSwPzb7WKqvcY9u"
     },
     {
@@ -625,7 +621,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 164973,
       "name": "Despedida Con Mariachi",
       "url": "https://open.spotify.com/track/3HSOvJoFBw6Z0nnnYwfjGP"
@@ -975,17 +971,13 @@
         {
           "name": "Roc\u00edo D\u00farcal",
           "url": "https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB"
-        },
-        {
-          "name": "El Mariachi De Am\u00e9rica De Jes\u00fas Rodriguez De Hijar",
-          "url": "https://open.spotify.com/artist/0waXcYWOieapc2IFrRMoy7"
         }
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 249426,
-      "name": "Inocente Pobre Amiga (with Mariachi Am\u00e9rica de Jes\u00fas Rodr\u00edguez de Hijar)",
+      "name": "Inocente Pobre Amiga",
       "url": "https://open.spotify.com/track/1CwbpsXpzVmVrIxOEraUTs"
     },
     {
@@ -1120,6 +1112,24 @@
     },
     {
       "album": {
+        "name": "La Loter\u00eda",
+        "url": "https://open.spotify.com/album/3jOBDGEiCdccHnOaHwZmtY"
+      },
+      "artists": [
+        {
+          "name": "Adriana R\u00edos",
+          "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186628,
+      "name": "La Loter\u00eda",
+      "url": "https://open.spotify.com/track/749UHtYWSdzlLqE9TTrjSs"
+    },
+    {
+      "album": {
         "name": "Mexicana Enamorada",
         "url": "https://open.spotify.com/album/6mkOolBljGoPHJAvsI7deX"
       },
@@ -1167,7 +1177,7 @@
       ],
       "date_added": "2022-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 181800,
       "name": "La Martina - Remasterizado",
       "url": "https://open.spotify.com/track/4HicPbKIPTeb4RRRxqSSzN"
@@ -1333,6 +1343,28 @@
       "duration_ms": 170685,
       "name": "Me Gustas Mucho",
       "url": "https://open.spotify.com/track/4GTbtRKeOTMoQ1OJyXKQpU"
+    },
+    {
+      "album": {
+        "name": "Me Hace Tanto Bien",
+        "url": "https://open.spotify.com/album/40IOas3f9rXV6CfpHZ6PjV"
+      },
+      "artists": [
+        {
+          "name": "Yuridia",
+          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
+        },
+        {
+          "name": "Eden Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231304,
+      "name": "Me Hace Tanto Bien",
+      "url": "https://open.spotify.com/track/21D2EZmXoJYccfgeZndtOg"
     },
     {
       "album": {
@@ -1611,7 +1643,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 190893,
       "name": "No Me Amenaces (feat. Lila Downs)",
       "url": "https://open.spotify.com/track/3wjHY9iOulWhaLmEfJNUTk"
@@ -1633,6 +1665,24 @@
       "duration_ms": 204866,
       "name": "No Me Vuelvo a Enamorar",
       "url": "https://open.spotify.com/track/1djvcwusUBPg7c8lGR9htm"
+    },
+    {
+      "album": {
+        "name": "No Te Apartes De M\u00ed",
+        "url": "https://open.spotify.com/album/4vZEQj9Y4lmnz7Vq8fk9QJ"
+      },
+      "artists": [
+        {
+          "name": "Majo Aguilar",
+          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239880,
+      "name": "No Te Apartes De M\u00ed",
+      "url": "https://open.spotify.com/track/7s2vND0qEFZBWr7Z7VAhFI"
     },
     {
       "album": {
@@ -1745,6 +1795,24 @@
       "duration_ms": 209702,
       "name": "Para No Pensar en Ti",
       "url": "https://open.spotify.com/track/0R8fg6Kf7VCjQLU1vTrTCb"
+    },
+    {
+      "album": {
+        "name": "La Loter\u00eda",
+        "url": "https://open.spotify.com/album/3jOBDGEiCdccHnOaHwZmtY"
+      },
+      "artists": [
+        {
+          "name": "Adriana R\u00edos",
+          "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140662,
+      "name": "Pinocho",
+      "url": "https://open.spotify.com/track/1HbgsUNqjjMO6okGRkpS2L"
     },
     {
       "album": {
@@ -1903,7 +1971,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 185680,
       "name": "Qu\u00e9 Bonito",
       "url": "https://open.spotify.com/track/1LITSGGVyVIyYzfEv9hAdi"
@@ -1961,7 +2029,7 @@
       ],
       "date_added": "2022-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 181202,
       "name": "Qu\u00e9 Te Ha Dado Esa Mujer",
       "url": "https://open.spotify.com/track/6Id7vopLLiYM3Ay0G1ogK3"
@@ -2019,6 +2087,24 @@
       "duration_ms": 265560,
       "name": "Resulta",
       "url": "https://open.spotify.com/track/4fsjK8V9s53YyQx5zTlncb"
+    },
+    {
+      "album": {
+        "name": "Se Disfraz\u00f3",
+        "url": "https://open.spotify.com/album/0e90dEopSeHMvkBdWB2nX8"
+      },
+      "artists": [
+        {
+          "name": "\u00c1ngela Aguilar",
+          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206383,
+      "name": "Se Disfraz\u00f3",
+      "url": "https://open.spotify.com/track/3Z33YVoP5VK4lLjwDR8Yb7"
     },
     {
       "album": {
@@ -2260,6 +2346,24 @@
     },
     {
       "album": {
+        "name": "Una Buena Ranchera",
+        "url": "https://open.spotify.com/album/7IoUq5HJ2Z5lYIP5Gk36Yo"
+      },
+      "artists": [
+        {
+          "name": "Majo Aguilar",
+          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203813,
+      "name": "Un Mont\u00f3n De Estrellas",
+      "url": "https://open.spotify.com/track/4YFlX9yi2B3b3yGClAuQq6"
+    },
+    {
+      "album": {
         "name": "Canta A Jose Alfredo Jimenez Vol. 2",
         "url": "https://open.spotify.com/album/67KtaN3OEZxnsGb6F1MvTB"
       },
@@ -2296,6 +2400,28 @@
     },
     {
       "album": {
+        "name": "Alquimia",
+        "url": "https://open.spotify.com/album/3qjKFqjicRz4kDPbWb8QWq"
+      },
+      "artists": [
+        {
+          "name": "Mar\u00eda Le\u00f3n",
+          "url": "https://open.spotify.com/artist/132xFnGXTZoDfZWuMDE4tc"
+        },
+        {
+          "name": "Leonel Garc\u00eda",
+          "url": "https://open.spotify.com/artist/3t7UqWteBBmHXkcVhMSyay"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201200,
+      "name": "Una Llamada Perdida",
+      "url": "https://open.spotify.com/track/1seKHgwXPVAK9o6bh7IzlF"
+    },
+    {
+      "album": {
         "name": "Interpreta a Cornelio",
         "url": "https://open.spotify.com/album/5H0n3617b5nsmlS2MnirRe"
       },
@@ -2311,6 +2437,24 @@
       "duration_ms": 158000,
       "name": "Una Nube",
       "url": "https://open.spotify.com/track/0riy0tZeANB530YcBpM00E"
+    },
+    {
+      "album": {
+        "name": "Cuesti\u00f3n De Tiempo",
+        "url": "https://open.spotify.com/album/6WtWj2Hdjw61IsBgx2xc7W"
+      },
+      "artists": [
+        {
+          "name": "Carolina Ross",
+          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233879,
+      "name": "Uno Y Uno",
+      "url": "https://open.spotify.com/track/0icE6mNTDgKULNLMZuLebj"
     },
     {
       "album": {
@@ -2343,7 +2487,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 195586,
       "name": "Viva Mexico",
       "url": "https://open.spotify.com/track/6Ax9ldRfQH3RDAmBZGBkiA"

@@ -134,6 +134,24 @@
     },
     {
       "album": {
+        "name": "Forever Melodies",
+        "url": "https://open.spotify.com/album/6m0x1fumKRq1gV9ssXIF8d"
+      },
+      "artists": [
+        {
+          "name": "Kids Return",
+          "url": "https://open.spotify.com/artist/5U4QUWaCwxvtUz2hTu0Bkq"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270293,
+      "name": "Am I A Fool ?",
+      "url": "https://open.spotify.com/track/4LFitgMfDKkO9ffcDmIetz"
+    },
+    {
+      "album": {
         "name": "By Your Side",
         "url": "https://open.spotify.com/album/4lfxrZaJHbw7kbE6yZ2arb"
       },
@@ -181,7 +199,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-07",
       "duration_ms": 241938,
       "name": "Au Revoir",
       "url": "https://open.spotify.com/track/2zgdLtgbKNKbCxu9XNY02C"
@@ -1400,6 +1418,24 @@
     },
     {
       "album": {
+        "name": "Je reste cool",
+        "url": "https://open.spotify.com/album/5vRvczFRaV4KYk0e3fwJr4"
+      },
+      "artists": [
+        {
+          "name": "LE NOISEUR",
+          "url": "https://open.spotify.com/artist/5Hunwp6tQa4z3l9CFwHE7K"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209876,
+      "name": "Je reste cool",
+      "url": "https://open.spotify.com/track/6FDJmxbrJLBM1ODvP1I3MU"
+    },
+    {
+      "album": {
         "name": "dani",
         "url": "https://open.spotify.com/album/2aHnnm5f9FmXmtwUEPae4f"
       },
@@ -2131,10 +2167,28 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-06",
       "duration_ms": 198921,
       "name": "Mon c\u0153ur",
       "url": "https://open.spotify.com/track/1BxdizqeXJ9jRfMK0XStIL"
+    },
+    {
+      "album": {
+        "name": "La vitesse",
+        "url": "https://open.spotify.com/album/6fTd6zoldO0tq7EM5d82RF"
+      },
+      "artists": [
+        {
+          "name": "Iz\u00efa",
+          "url": "https://open.spotify.com/artist/6T08mUIMB32dtqq5ryxQZ3"
+        }
+      ],
+      "date_added": "2022-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198973,
+      "name": "Mon c\u0153ur",
+      "url": "https://open.spotify.com/track/2uuHjWY6yqEkTZMftzTCzL"
     },
     {
       "album": {
@@ -2781,7 +2835,7 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-07",
       "duration_ms": 237653,
       "name": "Shaker de l'amour",
       "url": "https://open.spotify.com/track/0Jyzlq9nMksqNmNkrY7rPQ"
@@ -2803,7 +2857,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-07",
       "duration_ms": 147639,
       "name": "She Don't Want To Dance",
       "url": "https://open.spotify.com/track/0rWjhlFgYS1WXIUKfjsXz5"
@@ -3447,6 +3501,24 @@
       "duration_ms": 185942,
       "name": "What A Life (j'fais ma life) [feat. Suzane]",
       "url": "https://open.spotify.com/track/3KkdZgcQxYQQZQXumGO1Cy"
+    },
+    {
+      "album": {
+        "name": "When She's Gone",
+        "url": "https://open.spotify.com/album/76qqQq9zbjxdCDWfKMps1D"
+      },
+      "artists": [
+        {
+          "name": "Later.",
+          "url": "https://open.spotify.com/artist/1f5I47xuO3sDZm0hQ8y0nq"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209045,
+      "name": "When She's Gone",
+      "url": "https://open.spotify.com/track/4vJfsc95OA87AhNghRsVHo"
     },
     {
       "album": {

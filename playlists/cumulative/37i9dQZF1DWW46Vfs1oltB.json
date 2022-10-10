@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The hottest & new Korean hip hop music is here. OWN the crown with KR hip hop music. (Cover: BE'O) (\uc804\uc138\uacc4\uc5d0\uc11c \uc0ac\ub791\ubc1b\ub294 \ud55c\uad6d \ud799\ud569 \ud788\ud2b8 & \uc2e0\uace1\uc744 \ub9cc\ub098\ubcf4\uc138\uc694. (\ucee4\ubc84: \ube44\uc624)",
+  "description": "The hottest & new Korean hip hop music is here. OWN the crown with KR hip hop music. (Cover: Dynamic Duo) (\uc804\uc138\uacc4\uc5d0\uc11c \uc0ac\ub791\ubc1b\ub294 \ud55c\uad6d \ud799\ud569 \ud788\ud2b8 & \uc2e0\uace1\uc744 \ub9cc\ub098\ubcf4\uc138\uc694. (\ucee4\ubc84: \ub2e4\uc774\ub098\ubbf9 \ub4c0\uc624)",
   "name": "KrOWN",
   "published_playlist_ids": [
     "6eQCLyN2pb2xMxhClGC7H2"
@@ -2475,8 +2475,8 @@
       },
       "artists": [
         {
-          "name": "BE\u2019O",
-          "url": "https://open.spotify.com/artist/7ayixfXdkIuM2IOcG9m3eN"
+          "name": "BE'O",
+          "url": "https://open.spotify.com/artist/5NUVwRESNqYBUTRbiATjy7"
         },
         {
           "name": "ZICO",
@@ -2585,6 +2585,32 @@
       "duration_ms": 184441,
       "name": "d-day (feat. unofficialboyy, RANCHIA)",
       "url": "https://open.spotify.com/track/3vsjdV60htdQmaoMxzeavO"
+    },
+    {
+      "album": {
+        "name": "DAEMUGA",
+        "url": "https://open.spotify.com/album/0lhisOKVmr8phsuEkvpvyi"
+      },
+      "artists": [
+        {
+          "name": "MC Meta",
+          "url": "https://open.spotify.com/artist/6T2qBFOIht3LlcY16mdWHu"
+        },
+        {
+          "name": "Tiger JK",
+          "url": "https://open.spotify.com/artist/11S00dFcvNvJahis8MTGMD"
+        },
+        {
+          "name": "Nucksal",
+          "url": "https://open.spotify.com/artist/6v5cGuRCZKq08nLI4WXJuB"
+        }
+      ],
+      "date_added": "2022-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224665,
+      "name": "DAEMUGA",
+      "url": "https://open.spotify.com/track/5bGIMkueTLtAscHSrC4TcA"
     },
     {
       "album": {
@@ -3077,7 +3103,7 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-04",
       "duration_ms": 229146,
       "name": "Don\u2019t Call Me Lee (Feat. NSW yoon, Jay Park)",
       "url": "https://open.spotify.com/track/1HzgZODccvwvwQy6cxm87S"
@@ -3490,6 +3516,24 @@
     },
     {
       "album": {
+        "name": "eMpTy",
+        "url": "https://open.spotify.com/album/7me6oSHK9WlqpDIM1h62YY"
+      },
+      "artists": [
+        {
+          "name": "CHOILB",
+          "url": "https://open.spotify.com/artist/02WoRfOhF5nUVpwddshInq"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146581,
+      "name": "eMpTy",
+      "url": "https://open.spotify.com/track/0InrBssrYflF4Tet9ZQ06e"
+    },
+    {
+      "album": {
         "name": "HIGH RISK HIGH RETURN",
         "url": "https://open.spotify.com/album/340j9Dgw9Nuy772bHowbih"
       },
@@ -3585,7 +3629,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 154973,
       "name": "EXS",
       "url": "https://open.spotify.com/track/6nu5TMQFH9CKVQV7l4t1DD"
@@ -3975,7 +4019,7 @@
       ],
       "date_added": "2022-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-05",
       "duration_ms": 185379,
       "name": "Flip Flap (feat. AJ Tracey & Hangzoo)",
       "url": "https://open.spotify.com/track/7q6EXc4wuKtRl9jwQ5txIh"
@@ -4511,6 +4555,28 @@
       "duration_ms": 200893,
       "name": "GOAT (feat. Basick, G2, SAN-E) (Prod By. NUOL)",
       "url": "https://open.spotify.com/track/2XDC1raB8CHcTyoCN1kkHL"
+    },
+    {
+      "album": {
+        "name": "God's Science",
+        "url": "https://open.spotify.com/album/3GfRA7uHVRHVjt1FDHZHgd"
+      },
+      "artists": [
+        {
+          "name": "Dok2",
+          "url": "https://open.spotify.com/artist/0rW6fVd3yuW2CF2sLYWQtE"
+        },
+        {
+          "name": "Tablo",
+          "url": "https://open.spotify.com/artist/3NdOtTPPaXrCyC7Lpmzyhv"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201379,
+      "name": "God's Science - Remix",
+      "url": "https://open.spotify.com/track/11zGLobOQ8mseZToc54RLr"
     },
     {
       "album": {
@@ -5103,6 +5169,24 @@
       "duration_ms": 189157,
       "name": "HATE ME (feat. youra) (prod. WOOGIE)",
       "url": "https://open.spotify.com/track/5L2dd0GWhy2rXeGp0g5pnT"
+    },
+    {
+      "album": {
+        "name": "Beautiful Street",
+        "url": "https://open.spotify.com/album/2vr1wblFAvzgsLT8USDUfb"
+      },
+      "artists": [
+        {
+          "name": "Royal 44",
+          "url": "https://open.spotify.com/artist/6I5eyZiVUpuPwE8mTXp7hC"
+        }
+      ],
+      "date_added": "2022-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204704,
+      "name": "Head & Heart",
+      "url": "https://open.spotify.com/track/1DJuyzLqHAwgR52PFfVIe8"
     },
     {
       "album": {
@@ -6518,6 +6602,32 @@
     },
     {
       "album": {
+        "name": "fxxk u",
+        "url": "https://open.spotify.com/album/7LV5SIBe5THK0xdfYOvLYh"
+      },
+      "artists": [
+        {
+          "name": "unofficialboyy",
+          "url": "https://open.spotify.com/artist/0hoIUrMFR0Cy6aTbma8b2o"
+        },
+        {
+          "name": "Jazzy Moon",
+          "url": "https://open.spotify.com/artist/3S9b8WTUFIMJy2nFgU6a3x"
+        },
+        {
+          "name": "YANGHONGWON",
+          "url": "https://open.spotify.com/artist/1SsVqqC31h54Hg08g7uQhM"
+        }
+      ],
+      "date_added": "2022-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289090,
+      "name": "khalifa (feat. Young B)",
+      "url": "https://open.spotify.com/track/5mx7sc6BpA9Laq011CirUX"
+    },
+    {
+      "album": {
         "name": "IS ANYBODY OUT THERE?",
         "url": "https://open.spotify.com/album/6j8x8zBChjzCn0FD7KJB7p"
       },
@@ -6617,6 +6727,24 @@
       "duration_ms": 3002,
       "name": "KrOWN - Gaeko of Dynamic Duo",
       "url": "https://open.spotify.com/track/07WKwqwNf51FnsJdDNkKtV"
+    },
+    {
+      "album": {
+        "name": "KrOWN audio liner",
+        "url": "https://open.spotify.com/album/4vi9KFaDZgtuUDwvfDMoXq"
+      },
+      "artists": [
+        {
+          "name": "BE'O",
+          "url": "https://open.spotify.com/artist/5NUVwRESNqYBUTRbiATjy7"
+        }
+      ],
+      "date_added": "2022-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1500,
+      "name": "KrOWN_BE'O",
+      "url": "https://open.spotify.com/track/3ccEAKaU595SqcS1FQVtqS"
     },
     {
       "album": {
@@ -8517,7 +8645,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-04",
       "duration_ms": 244186,
       "name": "Naked (Feat. SINCE, Roh Yun Ha)",
       "url": "https://open.spotify.com/track/20SnjTFsnEWVYtqUEB7EYx"
@@ -10564,6 +10692,32 @@
     },
     {
       "album": {
+        "name": "Rollin'",
+        "url": "https://open.spotify.com/album/6hbcWrnoEbGf2CDuSY1ROU"
+      },
+      "artists": [
+        {
+          "name": "GroovyRoom",
+          "url": "https://open.spotify.com/artist/29HqjVbJr3vsc2l6BTI4eB"
+        },
+        {
+          "name": "GEMINI",
+          "url": "https://open.spotify.com/artist/67IWlRdLy3UcfY3q968euj"
+        },
+        {
+          "name": "Mirani",
+          "url": "https://open.spotify.com/artist/6N7b9mUVwn885jI7RRg8no"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189080,
+      "name": "Rollin' (Prod. GroovyRoom)",
+      "url": "https://open.spotify.com/track/6QVwpPsJzIthRL5NIfs0Hc"
+    },
+    {
+      "album": {
         "name": "NANGMAN",
         "url": "https://open.spotify.com/album/2hBJR1SQ4cGDjGTCY6eV8m"
       },
@@ -11018,6 +11172,28 @@
     },
     {
       "album": {
+        "name": "She Gonna Stop",
+        "url": "https://open.spotify.com/album/2qq0JhNSmRiVFYdTz7pZxN"
+      },
+      "artists": [
+        {
+          "name": "Dynamicduo",
+          "url": "https://open.spotify.com/artist/4nvFFLtv7ZqoTr83387uK4"
+        },
+        {
+          "name": "Leellamarz",
+          "url": "https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0"
+        }
+      ],
+      "date_added": "2022-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209813,
+      "name": "She Gonna Stop (Feat. Leellamarz) (Prod. TOIL)",
+      "url": "https://open.spotify.com/track/6lny2zJqlDPBzgq1Eiy0a0"
+    },
+    {
+      "album": {
         "name": "MUSE",
         "url": "https://open.spotify.com/album/5KBCqZ94VTGyw9RIKtJD7y"
       },
@@ -11203,7 +11379,7 @@
       ],
       "date_added": "2022-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-04",
       "duration_ms": 169670,
       "name": "sinner in the end",
       "url": "https://open.spotify.com/track/1MfnMrduKw5tyIsgy5Rg2U"
@@ -11421,6 +11597,24 @@
       "duration_ms": 245823,
       "name": "So What (Feat. Beenzino)",
       "url": "https://open.spotify.com/track/3q738cBTApcG0vo5G1OTZC"
+    },
+    {
+      "album": {
+        "name": "1000won Lawyer (Original Soundtrack), Pt. 2",
+        "url": "https://open.spotify.com/album/2x7tmqNda5Ag0SpPbf6z5I"
+      },
+      "artists": [
+        {
+          "name": "KOONTA",
+          "url": "https://open.spotify.com/artist/5T8LKv9A1vEnwMCO4dMo3c"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200892,
+      "name": "SOLOMON",
+      "url": "https://open.spotify.com/track/0NGMVNMZlnD3bIFPsSO9uu"
     },
     {
       "album": {
@@ -11775,7 +11969,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 156266,
       "name": "Still Me (Feat. Dok2, GEMINI)",
       "url": "https://open.spotify.com/track/5as8yn2iLczb2dSJH3VT81"
@@ -12363,7 +12557,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 170000,
       "name": "The Trapper",
       "url": "https://open.spotify.com/track/7KSo4suJ1r37GtTfG6hfuc"
@@ -12399,7 +12593,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 177173,
       "name": "THIS Is My Life",
       "url": "https://open.spotify.com/track/14ISRyduGwFh1MIFTZY5Jz"
@@ -13171,7 +13365,7 @@
       ],
       "date_added": "2022-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-04",
       "duration_ms": 215035,
       "name": "Victory",
       "url": "https://open.spotify.com/track/1N4m5I7HVLcL7Jr6jTyHuK"
@@ -13315,7 +13509,7 @@
       ],
       "date_added": "2022-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-05",
       "duration_ms": 232156,
       "name": "Walking Around",
       "url": "https://open.spotify.com/track/1I41WBqBadmFp11obj3C2U"
@@ -13519,7 +13713,7 @@
       ],
       "date_added": "2022-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 164724,
       "name": "WHAT U DO",
       "url": "https://open.spotify.com/track/6YhawaZDHNWsuBZycJ63jy"

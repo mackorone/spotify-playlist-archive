@@ -2,8 +2,36 @@
   "date_first_scraped": "2022-10-01",
   "description": "AfroTech was born in South Africa and it is travelling the world's dancefloors. Listen to the best in AfroTech here. Cover: <a href=\"https://open.spotify.com/artist/20OBylFJKe5WtQzqO32Xxq?si=fL7CTy28SFGBIYnIc779cg\">Dr Feel</a>",
   "name": "AfroTech Now",
-  "published_playlist_ids": [],
+  "published_playlist_ids": [
+    "2tRmuLmE2qlwUjvVj1bq1z"
+  ],
   "tracks": [
+    {
+      "album": {
+        "name": "Abaphansi (KeysGroove Remix)",
+        "url": "https://open.spotify.com/album/62Jq3OiiPT7cW5khSD3sc4"
+      },
+      "artists": [
+        {
+          "name": "Kinetic T",
+          "url": "https://open.spotify.com/artist/62zcEEwZqeLYC5uakS3oYj"
+        },
+        {
+          "name": "Kagiso Rathepe",
+          "url": "https://open.spotify.com/artist/1DQdTalykRZvUy04sFLYtE"
+        },
+        {
+          "name": "KeysGroove",
+          "url": "https://open.spotify.com/artist/18NG8IAQxy3szGn45gmUk4"
+        }
+      ],
+      "date_added": "2022-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 360828,
+      "name": "Abaphansi - KeysGroove Remix",
+      "url": "https://open.spotify.com/track/0HaGqD8cdGIVceTSe07t5V"
+    },
     {
       "album": {
         "name": "Santorini",
@@ -25,6 +53,24 @@
       "duration_ms": 385385,
       "name": "Afro Brotherz (Zomhlaba)",
       "url": "https://open.spotify.com/track/2yiYfQ8JKGlarfxQ3gMGGu"
+    },
+    {
+      "album": {
+        "name": "The Hideout",
+        "url": "https://open.spotify.com/album/4CMCuEOBHD7luLg1QE6VtN"
+      },
+      "artists": [
+        {
+          "name": "Umgido",
+          "url": "https://open.spotify.com/artist/3Wf4yyq68bvmeajhLXETrt"
+        }
+      ],
+      "date_added": "2022-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 374669,
+      "name": "Aftermath",
+      "url": "https://open.spotify.com/track/1wIOUQMVHiAfaUJ7CM3Ezl"
     },
     {
       "album": {
@@ -177,6 +223,28 @@
       "duration_ms": 454000,
       "name": "Ascension - Club Mix",
       "url": "https://open.spotify.com/track/7yOx1vZmg8davDfpKdiANa"
+    },
+    {
+      "album": {
+        "name": "Au Dede (Karyendasoul Remix)",
+        "url": "https://open.spotify.com/album/78b4DMtqUAN7vad5sl9Efi"
+      },
+      "artists": [
+        {
+          "name": "Lebo Mathosa",
+          "url": "https://open.spotify.com/artist/1Ml1ICUucZgJMx8Y4t9aJo"
+        },
+        {
+          "name": "Karyendasoul",
+          "url": "https://open.spotify.com/artist/2eSj64hhMVJPYbjpli6k4p"
+        }
+      ],
+      "date_added": "2022-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 402000,
+      "name": "Au Dede - Karyendasoul Remix",
+      "url": "https://open.spotify.com/track/6nXZdEDO1ksyr8113Qsplt"
     },
     {
       "album": {
@@ -375,6 +443,24 @@
       "duration_ms": 436000,
       "name": "iMali (Ft. Nana Atta)",
       "url": "https://open.spotify.com/track/280MTeg7bZYCHaHxhaAtPq"
+    },
+    {
+      "album": {
+        "name": "Hands Of Time Ep",
+        "url": "https://open.spotify.com/album/0phvlcmXcDhNjVNtmnqt8d"
+      },
+      "artists": [
+        {
+          "name": "The AquaBlendz",
+          "url": "https://open.spotify.com/artist/4pQCtRVHRqMxrUwmTPwEZA"
+        }
+      ],
+      "date_added": "2022-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 390519,
+      "name": "Iminathi",
+      "url": "https://open.spotify.com/track/7omZhK4thI7xrGUCKRcaTe"
     },
     {
       "album": {
@@ -706,6 +792,28 @@
     },
     {
       "album": {
+        "name": "Ngilinde",
+        "url": "https://open.spotify.com/album/0DyufT2LS0aq4ErE8s6hCG"
+      },
+      "artists": [
+        {
+          "name": "YANII",
+          "url": "https://open.spotify.com/artist/06e5v5ceaBo1dD8G9moem7"
+        },
+        {
+          "name": "Mango SA",
+          "url": "https://open.spotify.com/artist/25hbfaO27EZSGQTymk96D9"
+        }
+      ],
+      "date_added": "2022-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239040,
+      "name": "Ngilinde",
+      "url": "https://open.spotify.com/track/0xeoiu2UtZNx0AQPDULxzT"
+    },
+    {
+      "album": {
         "name": "NGUWE",
         "url": "https://open.spotify.com/album/0wY6UcIM25Yd8M9DCQHEUS"
       },
@@ -821,6 +929,36 @@
       "duration_ms": 377225,
       "name": "Psilocybin",
       "url": "https://open.spotify.com/track/5cdZZrSBhorr0BZBGFUfIy"
+    },
+    {
+      "album": {
+        "name": "Shweleza",
+        "url": "https://open.spotify.com/album/1e17QmapD7ZKhng4GjHER3"
+      },
+      "artists": [
+        {
+          "name": "TorQue MuziQ",
+          "url": "https://open.spotify.com/artist/0HqonievAxtEE7MdDWZt72"
+        },
+        {
+          "name": "Sir Trill",
+          "url": "https://open.spotify.com/artist/4QkKUb73NVonTlAZaShsuY"
+        },
+        {
+          "name": "Tee Jay",
+          "url": "https://open.spotify.com/artist/2FgJA67LUo0uQ6WXafNTKQ"
+        },
+        {
+          "name": "Le Sax",
+          "url": "https://open.spotify.com/artist/3UswjRA2ZH17GfwdLjWwWm"
+        }
+      ],
+      "date_added": "2022-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 358421,
+      "name": "Shweleza",
+      "url": "https://open.spotify.com/track/4LwtsCTbkaunXAWHSyoo6t"
     },
     {
       "album": {
@@ -1013,7 +1151,7 @@
       ],
       "date_added": "2022-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-04",
       "duration_ms": 373148,
       "name": "Umoya Wami",
       "url": "https://open.spotify.com/track/1R7qdtlbSSYtJ7Aez5Pd2C"
@@ -1053,7 +1191,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-04",
       "duration_ms": 472476,
       "name": "Vembo",
       "url": "https://open.spotify.com/track/2WMJfI9RIYmLOGuKJbtQDX"
@@ -1097,6 +1235,24 @@
       "duration_ms": 438442,
       "name": "Weh Baba",
       "url": "https://open.spotify.com/track/0ILcrL9V6bMD797mmWvej5"
+    },
+    {
+      "album": {
+        "name": "Nachalo EP",
+        "url": "https://open.spotify.com/album/12cdq8uTrtO8VVlNVmUI0b"
+      },
+      "artists": [
+        {
+          "name": "GateMusique",
+          "url": "https://open.spotify.com/artist/3BCZOoTsK22mqROsPZo15A"
+        }
+      ],
+      "date_added": "2022-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 428171,
+      "name": "White Noise",
+      "url": "https://open.spotify.com/track/7ts1EPMjAOz1NtXqOxFj3g"
     },
     {
       "album": {

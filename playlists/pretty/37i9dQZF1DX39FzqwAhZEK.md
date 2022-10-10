@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX39FzqwAhZEK.md) - [plain]
 
 > Relájate y toma un profundo respiro de serenidad auditiva.
 
-[Spotify](https://open.spotify.com/user/spotify) - 98,599 likes - 238 songs - 12 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 98,870 likes - 238 songs - 12 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -247,4 +247,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX39FzqwAhZEK.md) - [plain]
 | 237 | [Quiet Sun](https://open.spotify.com/track/6UmFPxEJ4b8R7ohfgUWosU) | [Ghost Of Summer](https://open.spotify.com/artist/2SQs5lwQifKBBhMDYnPZy8) | [Quiet Sun](https://open.spotify.com/album/0kwqAhKCk5l0nuO5VJ9fnL) | 3:28 |
 | 238 | [Schwebend](https://open.spotify.com/track/775dmuIRQojrplsns8VKen) | [Phillipp Vogler](https://open.spotify.com/artist/2ocNI6hLYU6rqq6TT4YzNY) | [Schwebend](https://open.spotify.com/album/6vkRKQjpupuv2XcEREDuLM) | 3:38 |
 
-Snapshot ID: `MTY2NDU2Mjc5NiwwMDAwMDAwMGViOWIyY2NhMTU3NmVjMjZmOTE2OTBkNzA0OTBlOTk1`
+Snapshot ID: `MTY2NDg4NjcxOSwwMDAwMDAwMDExNGY2YmRhZTJiMjhhMDdiODE3NzZmYjY5MjM2NTZh`

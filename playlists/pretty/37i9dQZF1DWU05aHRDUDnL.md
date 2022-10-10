@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU05aHRDUDnL.md) - [plain]
 
 > Put your headphones on and enjoy your day.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,119 likes - 20 songs - 1 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,350 likes - 20 songs - 1 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

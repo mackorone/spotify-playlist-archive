@@ -703,7 +703,7 @@
       ],
       "date_added": "2022-03-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-30",
+      "date_removed": null,
       "duration_ms": 109595,
       "name": "Crisis",
       "url": "https://open.spotify.com/track/5cGi1voAzIK9PE3tmNdYsR"
@@ -819,7 +819,7 @@
       ],
       "date_added": "2022-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-05",
       "duration_ms": 216386,
       "name": "Dior",
       "url": "https://open.spotify.com/track/79s5XnCN4TJKTVMSmOx8Ep"
@@ -3067,7 +3067,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 106046,
       "name": "SUPERCALAFRAGIVICIOUS",
       "url": "https://open.spotify.com/track/5nU2Hi0QCmbtf1PgFfgw6c"
@@ -3213,6 +3213,24 @@
       "duration_ms": 138923,
       "name": "The Fall",
       "url": "https://open.spotify.com/track/47Zqh2WwmeDs9BK4FlK6tb"
+    },
+    {
+      "album": {
+        "name": "The Plug",
+        "url": "https://open.spotify.com/album/0yf9wxPXrA8bP1yB4iFpAP"
+      },
+      "artists": [
+        {
+          "name": "Belaganas",
+          "url": "https://open.spotify.com/artist/4dxp2iZCasMOmCDFztR22q"
+        }
+      ],
+      "date_added": "2022-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188780,
+      "name": "The Plug",
+      "url": "https://open.spotify.com/track/39hVR792uDgkDS14wLWmBy"
     },
     {
       "album": {

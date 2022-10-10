@@ -116,6 +116,24 @@
     },
     {
       "album": {
+        "name": "Blue Christmas",
+        "url": "https://open.spotify.com/album/0x6PqHT6iP3Kt5YebA85Zh"
+      },
+      "artists": [
+        {
+          "name": "Eliza May",
+          "url": "https://open.spotify.com/artist/22iqZKWq4isF3MqNMZgCvm"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190035,
+      "name": "Blue Christmas - Acoustic Version",
+      "url": "https://open.spotify.com/track/4zuUC39UYTGdaCgZqK0HVe"
+    },
+    {
+      "album": {
         "name": "December Songs",
         "url": "https://open.spotify.com/album/1FA4hRu48DNpVQQiEWmra3"
       },
@@ -203,6 +221,42 @@
       "duration_ms": 203636,
       "name": "Christmas Lights - Acoustic",
       "url": "https://open.spotify.com/track/4fID9YxejFIfo7b7xYvFpC"
+    },
+    {
+      "album": {
+        "name": "Christmas Quiet",
+        "url": "https://open.spotify.com/album/0DBCsQ7ys916YUwFUJVyqC"
+      },
+      "artists": [
+        {
+          "name": "Tom Rosenthal",
+          "url": "https://open.spotify.com/artist/1AgxgADPuRIW1wyaA4OKcB"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148680,
+      "name": "Christmas Quiet",
+      "url": "https://open.spotify.com/track/4ZbUzKILWX2urrirbcYVzU"
+    },
+    {
+      "album": {
+        "name": "Christmas Song",
+        "url": "https://open.spotify.com/album/57QwFfafVAQLKXjBSLQwxC"
+      },
+      "artists": [
+        {
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221906,
+      "name": "Christmas Song",
+      "url": "https://open.spotify.com/track/67xmO7UDlUazlQ9Nje9pmb"
     },
     {
       "album": {
@@ -390,6 +444,24 @@
     },
     {
       "album": {
+        "name": "Happy Xmas (War Is Over)",
+        "url": "https://open.spotify.com/album/4FAJY8SLacbvbZoIVyMQb6"
+      },
+      "artists": [
+        {
+          "name": "Dove Duo",
+          "url": "https://open.spotify.com/artist/3pdh2stkH5UGGtDtLFCu0L"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199200,
+      "name": "Happy Xmas (War Is Over)",
+      "url": "https://open.spotify.com/track/06QQhje5x55pkkLYcDuaTA"
+    },
+    {
+      "album": {
         "name": "Prepare Him Room: Celebrating the Birth of Jesus in Song",
         "url": "https://open.spotify.com/album/3HouSjml2OClLww1sAKA0W"
       },
@@ -426,6 +498,24 @@
     },
     {
       "album": {
+        "name": "The Christmas EP",
+        "url": "https://open.spotify.com/album/7yjyuhHmTnwnqIMGYzWU1F"
+      },
+      "artists": [
+        {
+          "name": "Daniela Andrade",
+          "url": "https://open.spotify.com/artist/0WfaItAbs4vlgIA1cuqGtJ"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113421,
+      "name": "Have Yourself a Merry Little Christmas",
+      "url": "https://open.spotify.com/track/177r7J6bnoMnW4MQx1GQng"
+    },
+    {
+      "album": {
         "name": "'Tis The Season",
         "url": "https://open.spotify.com/album/47BNK2T9N8W3XmdQDgIrdZ"
       },
@@ -455,7 +545,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 228658,
       "name": "I Heard The Bells On Christmas Day",
       "url": "https://open.spotify.com/track/6aWEvuBetOucUxhhTZImu4"
@@ -498,6 +588,24 @@
     },
     {
       "album": {
+        "name": "Christmas Collection, Vol. 1",
+        "url": "https://open.spotify.com/album/1DINBPK1Aqj6Y4Cjf3w11o"
+      },
+      "artists": [
+        {
+          "name": "Sleeping At Last",
+          "url": "https://open.spotify.com/artist/0MeLMJJcouYXCymQSHPn8g"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132339,
+      "name": "I'll Be Home for Christmas",
+      "url": "https://open.spotify.com/track/6su4EbvpnYRuC0wnP1wUWd"
+    },
+    {
+      "album": {
         "name": "December",
         "url": "https://open.spotify.com/album/7bzooZ5hpkaLmxvp4NKsnV"
       },
@@ -517,6 +625,28 @@
       "duration_ms": 204880,
       "name": "In the Bleak Midwinter",
       "url": "https://open.spotify.com/track/6eIlh4r8kaTAs3YQcSHkzu"
+    },
+    {
+      "album": {
+        "name": "It Came Upon the Midnight Clear",
+        "url": "https://open.spotify.com/album/16tTE4MqPmzFC9Xe7GxdTN"
+      },
+      "artists": [
+        {
+          "name": "Blended Colours",
+          "url": "https://open.spotify.com/artist/0hilVq0NlYegOGXan9zu6f"
+        },
+        {
+          "name": "Natalie Major",
+          "url": "https://open.spotify.com/artist/2Qe2PBKLmokOP8hzcfEDjL"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111709,
+      "name": "It Came Upon the Midnight Clear",
+      "url": "https://open.spotify.com/track/0LIkmGyT1ztCTyB8cjpSxp"
     },
     {
       "album": {
@@ -556,6 +686,24 @@
     },
     {
       "album": {
+        "name": "Spotify Singles - Holiday",
+        "url": "https://open.spotify.com/album/1knkuS0R3qoY1pmwYrMQ4N"
+      },
+      "artists": [
+        {
+          "name": "Norah Jones",
+          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192420,
+      "name": "It's Not Christmas 'Til You Come Home - Recorded At Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/5DoGwwQAlYumpSSlDNMOwY"
+    },
+    {
+      "album": {
         "name": "It's The Most Wonderful Time Of The Year",
         "url": "https://open.spotify.com/album/5xd4V5XVWsHti76vti9Kq1"
       },
@@ -571,6 +719,24 @@
       "duration_ms": 187187,
       "name": "It's The Most Wonderful Time Of The Year",
       "url": "https://open.spotify.com/track/3sefGbSgty0fqgMwyMbrJt"
+    },
+    {
+      "album": {
+        "name": "Jingle Bell Rock",
+        "url": "https://open.spotify.com/album/5dI9XqISbdfIxSWKfHZpyd"
+      },
+      "artists": [
+        {
+          "name": "L\u00fac",
+          "url": "https://open.spotify.com/artist/0C7P4ox94jj7mYQnjwO7nX"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175874,
+      "name": "Jingle Bell Rock",
+      "url": "https://open.spotify.com/track/37Hep4Mxnd5gTGfkmxiqIo"
     },
     {
       "album": {
@@ -665,10 +831,28 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 201680,
       "name": "Little Drummer Boy",
       "url": "https://open.spotify.com/track/3W9Im5FFGBq3xJYZGnLUt8"
+    },
+    {
+      "album": {
+        "name": "Little Drummer Boy",
+        "url": "https://open.spotify.com/album/4HFh7LV7b9HhtfcRCklJ9z"
+      },
+      "artists": [
+        {
+          "name": "L\u00fac",
+          "url": "https://open.spotify.com/artist/0C7P4ox94jj7mYQnjwO7nX"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171318,
+      "name": "Little Drummer Boy",
+      "url": "https://open.spotify.com/track/6B6o0A7JkG2UfraR1V1nP2"
     },
     {
       "album": {
@@ -730,6 +914,42 @@
     },
     {
       "album": {
+        "name": "To Enjoy Is the Only Thing",
+        "url": "https://open.spotify.com/album/4cVX6h32CrAhowx4WGHb6E"
+      },
+      "artists": [
+        {
+          "name": "Maple Glider",
+          "url": "https://open.spotify.com/artist/1Y3IqLN3JkfppIbJG2IWHk"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296673,
+      "name": "Mama It's Christmas",
+      "url": "https://open.spotify.com/track/2r3zWJ1sWux8Fix5MODSGI"
+    },
+    {
+      "album": {
+        "name": "Mary's Boy Child",
+        "url": "https://open.spotify.com/album/1N5IesmEO5VMlR2ONpybXI"
+      },
+      "artists": [
+        {
+          "name": "NTMY",
+          "url": "https://open.spotify.com/artist/733MYSyqhCFQsxdOri4rBR"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117787,
+      "name": "Mary's Boy Child",
+      "url": "https://open.spotify.com/track/2jC2rZIaQgX5omQTRzuuyx"
+    },
+    {
+      "album": {
         "name": "The Secret Of Christmas",
         "url": "https://open.spotify.com/album/6PkCw5bDn4bYlpmz3mKyQT"
       },
@@ -781,7 +1001,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 112746,
       "name": "Maybe This Christmas",
       "url": "https://open.spotify.com/track/52qdJ88vESWGhFo3Hu7WEH"
@@ -968,6 +1188,24 @@
     },
     {
       "album": {
+        "name": "O Little Town of Bethlehem",
+        "url": "https://open.spotify.com/album/6fD04UQuEKpf3xt92q0OYP"
+      },
+      "artists": [
+        {
+          "name": "NTMY",
+          "url": "https://open.spotify.com/artist/733MYSyqhCFQsxdOri4rBR"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116392,
+      "name": "O Little Town of Bethlehem",
+      "url": "https://open.spotify.com/track/3o8hnh4QHvO1n7FtpZ1154"
+    },
+    {
+      "album": {
         "name": "Please Come Home For Christmas",
         "url": "https://open.spotify.com/album/3duk39Tee1A4VgvwPTjiu7"
       },
@@ -1037,6 +1275,24 @@
       "duration_ms": 201600,
       "name": "River",
       "url": "https://open.spotify.com/track/1FCIPUk1AitfTwOXlkwtO1"
+    },
+    {
+      "album": {
+        "name": "Spotify Singles - Holiday",
+        "url": "https://open.spotify.com/album/0nu6CXfrJdNcVCvOojAdcW"
+      },
+      "artists": [
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208573,
+      "name": "River - Recorded At RAK Studios, London",
+      "url": "https://open.spotify.com/track/7DNGqrLnd07C2FPpAdn6cc"
     },
     {
       "album": {
@@ -1130,6 +1386,42 @@
     },
     {
       "album": {
+        "name": "The Light Came Down",
+        "url": "https://open.spotify.com/album/69jXtqUEHCVsB5geUWN1Yl"
+      },
+      "artists": [
+        {
+          "name": "Josh Garrels",
+          "url": "https://open.spotify.com/artist/16QSVsPKl743hu4U5C18R8"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281443,
+      "name": "Silent Night",
+      "url": "https://open.spotify.com/track/2ry4hqA3P3I4kazKB7d8vQ"
+    },
+    {
+      "album": {
+        "name": "Silent Night",
+        "url": "https://open.spotify.com/album/5XQNFzJstxouA14tEbK3s0"
+      },
+      "artists": [
+        {
+          "name": "L\u00fac",
+          "url": "https://open.spotify.com/artist/0C7P4ox94jj7mYQnjwO7nX"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188880,
+      "name": "Silent Night",
+      "url": "https://open.spotify.com/track/3DAYienbPiEMLgaSMVU488"
+    },
+    {
+      "album": {
         "name": "Silent Night",
         "url": "https://open.spotify.com/album/328SvMtr6O6dahGr9QPSF9"
       },
@@ -1145,6 +1437,24 @@
       "duration_ms": 140161,
       "name": "Silent Night",
       "url": "https://open.spotify.com/track/37t7M5Xwf3crTyBOdqiBCi"
+    },
+    {
+      "album": {
+        "name": "Silver Bells",
+        "url": "https://open.spotify.com/album/78N8S8sfJLT4kMDkzftwTi"
+      },
+      "artists": [
+        {
+          "name": "L\u00fac",
+          "url": "https://open.spotify.com/artist/0C7P4ox94jj7mYQnjwO7nX"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192651,
+      "name": "Silver Bells",
+      "url": "https://open.spotify.com/track/1DGVKHvSovt0RxmUbM3FTL"
     },
     {
       "album": {
@@ -1293,7 +1603,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 173546,
       "name": "What Are You Doing New Years Eve",
       "url": "https://open.spotify.com/track/5HhcXgRU7kYszL7OQZtNlc"
@@ -1329,10 +1639,46 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 160500,
       "name": "White Christmas",
       "url": "https://open.spotify.com/track/162vGpooHZzhRYDgmVL17b"
+    },
+    {
+      "album": {
+        "name": "White Christmas",
+        "url": "https://open.spotify.com/album/4MWNtLj4EhEtuFg4b9qU14"
+      },
+      "artists": [
+        {
+          "name": "Billie Marten",
+          "url": "https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152426,
+      "name": "White Christmas",
+      "url": "https://open.spotify.com/track/6E6OI395lJ3uQnz9w8bqTD"
+    },
+    {
+      "album": {
+        "name": "White Christmas",
+        "url": "https://open.spotify.com/album/40fzLJk319r2dowWS6k5sO"
+      },
+      "artists": [
+        {
+          "name": "L\u00fac",
+          "url": "https://open.spotify.com/artist/0C7P4ox94jj7mYQnjwO7nX"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198488,
+      "name": "White Christmas",
+      "url": "https://open.spotify.com/track/38ZYVGWOBlr9YgweGxHN6J"
     },
     {
       "album": {

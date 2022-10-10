@@ -803,7 +803,7 @@
       ],
       "date_added": "2022-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 224693,
       "name": "Excited",
       "url": "https://open.spotify.com/track/72XIWqK4LhdkpR6iX7iZrE"
@@ -1592,6 +1592,24 @@
     },
     {
       "album": {
+        "name": "CHARLIE",
+        "url": "https://open.spotify.com/album/2LTqBgZUH4EkDcj8hdkNjK"
+      },
+      "artists": [
+        {
+          "name": "Charlie Puth",
+          "url": "https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187703,
+      "name": "Light Switch",
+      "url": "https://open.spotify.com/track/5Q4lCfjJ1aht8YZOGFbC5U"
+    },
+    {
+      "album": {
         "name": "Unorthodox Jukebox",
         "url": "https://open.spotify.com/album/58ufpQsJ1DS5kq4hhzQDiI"
       },
@@ -1783,7 +1801,7 @@
       ],
       "date_added": "2022-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 225973,
       "name": "Music",
       "url": "https://open.spotify.com/track/2BcOZ4vOeu2qZowIHrvTYy"
@@ -2701,7 +2719,7 @@
       ],
       "date_added": "2022-08-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-01",
+      "date_removed": null,
       "duration_ms": 253592,
       "name": "The Best - Edit",
       "url": "https://open.spotify.com/track/5LNSHyPAr0qWGapTj54VU1"

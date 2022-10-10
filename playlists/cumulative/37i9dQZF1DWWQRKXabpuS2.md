@@ -2,7 +2,7 @@
 
 ### [خليجي جديد](https://open.spotify.com/playlist/37i9dQZF1DWWQRKXabpuS2)
 
-> ابق على اطلاع بأحدث الأغاني الخليجية! الغلاف: فؤاد عبدالواحد
+> كل شي خليجي جديد\. الغلاف: فؤاد عبدالواحد
 
 157 songs - 10 hr 46 min - [published](https://open.spotify.com/playlist/4PSk8NVZJlLmYibT60mLzt)
 

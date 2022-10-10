@@ -1747,7 +1747,7 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-07",
       "duration_ms": 162569,
       "name": "Hard to Love",
       "url": "https://open.spotify.com/track/3MJhPqL2IgGs7gHEB2M35q"
@@ -2551,10 +2551,36 @@
       ],
       "date_added": "2022-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-09",
       "duration_ms": 154486,
       "name": "Left and Right (Feat. Jung Kook of BTS)",
       "url": "https://open.spotify.com/track/0mBP9X2gPCuapvpZ7TGDk3"
+    },
+    {
+      "album": {
+        "name": "CHARLIE",
+        "url": "https://open.spotify.com/album/5Jk4Eg7pxYhDrWJCVVzmMt"
+      },
+      "artists": [
+        {
+          "name": "Charlie Puth",
+          "url": "https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7"
+        },
+        {
+          "name": "Jung Kook",
+          "url": "https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc"
+        },
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "date_added": "2022-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154486,
+      "name": "Left and Right (Feat. Jung Kook of BTS)",
+      "url": "https://open.spotify.com/track/5Odq8ohlgIbQKMZivbWkEo"
     },
     {
       "album": {
@@ -4619,7 +4645,7 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-03",
       "duration_ms": 222025,
       "name": "The Happiest Girl",
       "url": "https://open.spotify.com/track/7AdGloF1UHKe1vAZPbqIXH"
@@ -4753,6 +4779,28 @@
       "duration_ms": 229640,
       "name": "Underneath the Tree",
       "url": "https://open.spotify.com/track/3nAp4IvdMPPWEH9uuXFFV5"
+    },
+    {
+      "album": {
+        "name": "Unholy (feat. Kim Petras)",
+        "url": "https://open.spotify.com/album/0gX9tkL5njRax8ymWcXARi"
+      },
+      "artists": [
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        },
+        {
+          "name": "Kim Petras",
+          "url": "https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J"
+        }
+      ],
+      "date_added": "2022-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156943,
+      "name": "Unholy (feat. Kim Petras)",
+      "url": "https://open.spotify.com/track/3nqQXoyQOWXiESFLlDF1hG"
     },
     {
       "album": {
@@ -5089,7 +5137,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": "2022-10-01",
+      "date_removed": null,
       "duration_ms": 195424,
       "name": "\u4e00\u4eba\u4e4b\u5883 in C major",
       "url": "https://open.spotify.com/track/32QnXosZq7A11knnBAEqk7"
@@ -5129,7 +5177,7 @@
       ],
       "date_added": "2021-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-03",
       "duration_ms": 259308,
       "name": "\u4e00\u8868\u4eba\u624d",
       "url": "https://open.spotify.com/track/6zeblz6qaURo2JphS7XeFz"
@@ -5951,7 +5999,7 @@
       ],
       "date_added": "2021-12-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-22",
+      "date_removed": "2022-10-07",
       "duration_ms": 226646,
       "name": "\u5728\u7a7a\u4e2d\u7684\u9019\u4e00\u79d2",
       "url": "https://open.spotify.com/track/5st8nBxaC9GX6Dl3VMXTbM"
@@ -6185,7 +6233,7 @@
       ],
       "date_added": "2021-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-03",
       "duration_ms": 277011,
       "name": "\u5c0f\u8ae7\u661f",
       "url": "https://open.spotify.com/track/4Pzi0povbtMOuVyGKGNOKu"
@@ -7388,6 +7436,24 @@
     },
     {
       "album": {
+        "name": "\u795d\u798f",
+        "url": "https://open.spotify.com/album/7KS8ZZpgraGBazVoSeX6O4"
+      },
+      "artists": [
+        {
+          "name": "YOASOBI",
+          "url": "https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj"
+        }
+      ],
+      "date_added": "2022-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196235,
+      "name": "\u795d\u798f",
+      "url": "https://open.spotify.com/track/7ajpbW6tBpqUI9foCtwlLw"
+    },
+    {
+      "album": {
         "name": "\u795e\u5947\u4e4b\u8def (\u96fb\u5f71\u300a\u5abd\u5abd\u7684\u795e\u5947\u5c0f\u5b50\u300b\u4e3b\u984c\u66f2)",
         "url": "https://open.spotify.com/album/3cQ4veFZMYoako464UeqXV"
       },
@@ -7457,7 +7523,7 @@
       ],
       "date_added": "2021-07-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-15",
+      "date_removed": null,
       "duration_ms": 181628,
       "name": "\u795e\u968a\u53cb",
       "url": "https://open.spotify.com/track/05hC0bzyZaqn4mxUNAdKNc"
@@ -7711,7 +7777,7 @@
       ],
       "date_added": "2022-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-03",
       "duration_ms": 238972,
       "name": "\u81ea\u6bc0\u7684\u7a0b\u5e8f",
       "url": "https://open.spotify.com/track/5cGipBquhoVjNn5U6XX61k"
@@ -8023,6 +8089,24 @@
       "duration_ms": 264183,
       "name": "\u9072\u4e86\u6094\u6539 - ViuTV\u96fb\u8996\u5287\u300a\u592a\u5e73\u7d0b\u8eab\u5e97\u300b\u4e3b\u984c\u66f2",
       "url": "https://open.spotify.com/track/0Os0RD1apkQsWOeF2cV5w2"
+    },
+    {
+      "album": {
+        "name": "\u9084\u539f\u6dda",
+        "url": "https://open.spotify.com/album/2VO3cKcPm5noVSuRsS4NPx"
+      },
+      "artists": [
+        {
+          "name": "Kaho Hung",
+          "url": "https://open.spotify.com/artist/3wYcmejLVtOoHIq9szUugh"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213969,
+      "name": "\u9084\u539f\u6dda",
+      "url": "https://open.spotify.com/track/4knMu3Cbg277Di6oEkpeRA"
     },
     {
       "album": {

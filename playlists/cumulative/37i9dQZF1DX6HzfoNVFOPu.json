@@ -325,7 +325,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-10",
       "duration_ms": 206160,
       "name": "Almost",
       "url": "https://open.spotify.com/track/6TclVCUxDQm9s3Bey6Ao8H"
@@ -5081,6 +5081,24 @@
     {
       "album": {
         "name": "Reise, Reise",
+        "url": "https://open.spotify.com/album/09qHS2BgOLqi3SMkbauxdJ"
+      },
+      "artists": [
+        {
+          "name": "Rammstein",
+          "url": "https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP"
+        }
+      ],
+      "date_added": "2022-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272413,
+      "name": "Mein Teil",
+      "url": "https://open.spotify.com/track/2OQRceDfxBfmwTEmNOSpFq"
+    },
+    {
+      "album": {
+        "name": "Reise, Reise",
         "url": "https://open.spotify.com/album/74ydDCcXTco741y42ceRJ5"
       },
       "artists": [
@@ -5851,7 +5869,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-07",
       "duration_ms": 195733,
       "name": "Oxford Comma",
       "url": "https://open.spotify.com/track/0ful4PHfTIxzXiZSZsXQ0H"
@@ -8641,7 +8659,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-21",
+      "date_removed": null,
       "duration_ms": 202093,
       "name": "Way Away",
       "url": "https://open.spotify.com/track/63IIUzd6eJBfCGIcF8MFnJ"

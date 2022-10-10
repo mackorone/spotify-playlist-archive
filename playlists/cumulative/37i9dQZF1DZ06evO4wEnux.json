@@ -199,7 +199,7 @@
       ],
       "date_added": "2022-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-05",
       "duration_ms": 217133,
       "name": "Gratitude",
       "url": "https://open.spotify.com/track/3U0VBpy0YU3dAE7KCh9s0W"
@@ -217,7 +217,7 @@
       ],
       "date_added": "2022-09-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-01",
+      "date_removed": "2022-10-08",
       "duration_ms": 210827,
       "name": "Half the Things",
       "url": "https://open.spotify.com/track/7iHkJ0K8sWYs9R8xERHd5s"
@@ -437,10 +437,28 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-02",
+      "date_removed": "2022-10-09",
       "duration_ms": 284973,
       "name": "Nothing to No One",
       "url": "https://open.spotify.com/track/4yTOBKjpXlbZ1VfiFmRD3W"
+    },
+    {
+      "album": {
+        "name": "Sum of All Your Parts",
+        "url": "https://open.spotify.com/album/6yjT3AybiPKnRbwgaPMsV2"
+      },
+      "artists": [
+        {
+          "name": "Fatherson",
+          "url": "https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9"
+        }
+      ],
+      "date_added": "2022-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 319506,
+      "name": "Oh Yes",
+      "url": "https://open.spotify.com/track/6zK1NS9Mgik6BKycYDFRFs"
     },
     {
       "album": {

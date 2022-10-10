@@ -80,6 +80,24 @@
     },
     {
       "album": {
+        "name": "...Honor Is All We Know (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5mLjbMgKEL9ybpmKSQDoP4"
+      },
+      "artists": [
+        {
+          "name": "Rancid",
+          "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132026,
+      "name": "Back Where I Belong",
+      "url": "https://open.spotify.com/track/6dWFLuPwTUWTkF42fXlBIt"
+    },
+    {
+      "album": {
         "name": "Rancid (5)",
         "url": "https://open.spotify.com/album/0mAo7j2DjyboBbRC7mG2uw"
       },
@@ -145,7 +163,7 @@
       ],
       "date_added": "2022-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-07",
       "duration_ms": 251106,
       "name": "Civilian Ways",
       "url": "https://open.spotify.com/track/1bbwuyXB1Ppr3SYVwYVNn0"
@@ -181,7 +199,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-06",
       "duration_ms": 144400,
       "name": "Detroit",
       "url": "https://open.spotify.com/track/06yrcI03mmIh5bNtGMn2k5"
@@ -369,6 +387,24 @@
       "duration_ms": 174760,
       "name": "Hyena",
       "url": "https://open.spotify.com/track/20GxyDLGDLr4zgb5587Oue"
+    },
+    {
+      "album": {
+        "name": "Trouble Maker (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0IJ8KmhJausnsCjUvgM5vY"
+      },
+      "artists": [
+        {
+          "name": "Rancid",
+          "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
+        }
+      ],
+      "date_added": "2022-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108160,
+      "name": "I Got Them Blues Again",
+      "url": "https://open.spotify.com/track/2i4urMvXqwEFOCuY2JWL0l"
     },
     {
       "album": {
@@ -725,7 +761,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-02",
+      "date_removed": "2022-10-09",
       "duration_ms": 132466,
       "name": "Rejected",
       "url": "https://open.spotify.com/track/4XFsQiQbTZ9h8IlMDf8jTE"

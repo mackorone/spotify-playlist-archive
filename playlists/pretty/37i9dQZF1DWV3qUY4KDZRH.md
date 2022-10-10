@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV3qUY4KDZRH.md) - [plain]
 
 > MUNA co\-curate a list of the very best songs from LGBTQQIA+ artists and allies that L.A\. has to offer.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,430 likes - 29 songs - 1 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,428 likes - 29 songs - 1 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

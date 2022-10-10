@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-26",
-  "description": "\u00a1En este punto tropical, se encuentra un poco de todo! Foto: Romeo Santos",
+  "description": "\u00a1En este punto tropical, se encuentra un poco de todo! Foto: Pipe Bueno, Silvestre Dangond, Gente de Zona",
   "name": "Punto Tropical",
   "published_playlist_ids": [
     "16anPiH3Ulo6h6pHaV7pop"
@@ -23,6 +23,28 @@
       "duration_ms": 220135,
       "name": "Algo Que Se Quede",
       "url": "https://open.spotify.com/track/1JXcB149QtbcIpDUA6YZOB"
+    },
+    {
+      "album": {
+        "name": "AMANTES",
+        "url": "https://open.spotify.com/album/2yEEceuPovV5sAoey4GUJF"
+      },
+      "artists": [
+        {
+          "name": "Becky G",
+          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
+        },
+        {
+          "name": "Daviles de Novelda",
+          "url": "https://open.spotify.com/artist/6E94QKXZv8BbO6QQJxcxLI"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180153,
+      "name": "AMANTES",
+      "url": "https://open.spotify.com/track/3Q7o2zzvXj7QiSCumjBpvu"
     },
     {
       "album": {
@@ -301,7 +323,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 174297,
       "name": "Cartagena",
       "url": "https://open.spotify.com/track/1UGXsiNn0ACf2MXuHXuiJE"
@@ -446,6 +468,32 @@
     },
     {
       "album": {
+        "name": "Dale Pa' Ya (feat. Gente De Zona)",
+        "url": "https://open.spotify.com/album/14JiS3KmsTYfDD1gPMXkUA"
+      },
+      "artists": [
+        {
+          "name": "Big Time Rush",
+          "url": "https://open.spotify.com/artist/0GWCNkPi54upO9WLlwjAHd"
+        },
+        {
+          "name": "Maffio",
+          "url": "https://open.spotify.com/artist/5RzT7CM6Ot0sh0EHefMicV"
+        },
+        {
+          "name": "Gente De Zona",
+          "url": "https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216730,
+      "name": "Dale Pa' Ya (feat. Gente de Zona)",
+      "url": "https://open.spotify.com/track/591rTyO18GKHVUbb6M0WIX"
+    },
+    {
+      "album": {
         "name": "Maestro Lucho",
         "url": "https://open.spotify.com/album/06MO7kElzwx7ET2sc0gN00"
       },
@@ -457,7 +505,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 137004,
       "name": "Danza Negra",
       "url": "https://open.spotify.com/track/1g3uCv2BINkWHSnlkTgH1g"
@@ -483,6 +531,24 @@
       "duration_ms": 231593,
       "name": "De Vuelta Pa' La Vuelta",
       "url": "https://open.spotify.com/track/7AUhck1sPy11OExQmDDx4P"
+    },
+    {
+      "album": {
+        "name": "La Pambel\u00e9",
+        "url": "https://open.spotify.com/album/7fJEer6X6zpSWW7Rbm2w7t"
+      },
+      "artists": [
+        {
+          "name": "La Pambel\u00e9",
+          "url": "https://open.spotify.com/artist/0CRVq33mNJl6sTcWvH6WzV"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 518728,
+      "name": "Descarga",
+      "url": "https://open.spotify.com/track/1fIRT6UpxIJhYfPBAyVD20"
     },
     {
       "album": {
@@ -533,7 +599,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 360753,
       "name": "Despu\u00e9s de la Playa / Me Porto Bonito",
       "url": "https://open.spotify.com/track/1j5zmxtObsNWBsd4pZMCqi"
@@ -812,6 +878,24 @@
     },
     {
       "album": {
+        "name": "La Peruana",
+        "url": "https://open.spotify.com/album/69yHTiNzBYqJVtzYj1fOT1"
+      },
+      "artists": [
+        {
+          "name": "Combinacion De La Habana",
+          "url": "https://open.spotify.com/artist/3hfczsQRbhO3io1UwQFM1y"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232355,
+      "name": "La Peruana",
+      "url": "https://open.spotify.com/track/3GwmnvymwiVxTQ02d1wWB1"
+    },
+    {
+      "album": {
         "name": "Lao' a Lao'",
         "url": "https://open.spotify.com/album/1tvJvDz3tXfhq0xfABFuU9"
       },
@@ -874,6 +958,24 @@
     },
     {
       "album": {
+        "name": "Soy la Generaci\u00f3n",
+        "url": "https://open.spotify.com/album/68OC8H6MlIrTIrOdTqO2tt"
+      },
+      "artists": [
+        {
+          "name": "Manyoma Brothers",
+          "url": "https://open.spotify.com/artist/1jriNjegHWOysnyACg9Qe3"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267541,
+      "name": "Logr\u00e9 Olvidar",
+      "url": "https://open.spotify.com/track/6jH9HbI5VQAhHT9Srddivo"
+    },
+    {
+      "album": {
         "name": "MAFIOSA",
         "url": "https://open.spotify.com/album/2UViwTgvnwO2aKYLFrQ9RH"
       },
@@ -925,6 +1027,28 @@
       "duration_ms": 180966,
       "name": "Mami",
       "url": "https://open.spotify.com/track/6q4l4MRRrqwtkrjlwHcAwg"
+    },
+    {
+      "album": {
+        "name": "OzuTochi",
+        "url": "https://open.spotify.com/album/1kjfMVBNhsDeRyAu9zbLfF"
+      },
+      "artists": [
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        },
+        {
+          "name": "Pedro Cap\u00f3",
+          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204413,
+      "name": "Mar Chiquita",
+      "url": "https://open.spotify.com/track/52AHKfP6qQ3feLjPCDTiRI"
     },
     {
       "album": {
@@ -1055,7 +1179,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 246224,
       "name": "Nubes Negras",
       "url": "https://open.spotify.com/track/4U7a6MMNOavmuNbpf0Xflb"
@@ -1124,6 +1248,32 @@
     },
     {
       "album": {
+        "name": "Prohibido",
+        "url": "https://open.spotify.com/album/2QmoW4oUr31FGEXmCPkOYJ"
+      },
+      "artists": [
+        {
+          "name": "Pipe Bueno",
+          "url": "https://open.spotify.com/artist/4RXxwBtdt6k1YNyyAyiOng"
+        },
+        {
+          "name": "Silvestre Dangond",
+          "url": "https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e"
+        },
+        {
+          "name": "Darell",
+          "url": "https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188826,
+      "name": "Prohibido",
+      "url": "https://open.spotify.com/track/7FrC84e3mKxhFA4H9Xexaf"
+    },
+    {
+      "album": {
         "name": "P\u00e1same la Botella",
         "url": "https://open.spotify.com/album/3glWvXz1XJ8GCBANiQALQM"
       },
@@ -1143,7 +1293,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 225459,
       "name": "P\u00e1same la Botella",
       "url": "https://open.spotify.com/track/0o6RpUevYIYYSiANL7SJZJ"
@@ -1201,7 +1351,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 241346,
       "name": "Quien Dijo",
       "url": "https://open.spotify.com/track/23EalGl7ADnaoAKrNExMFn"
@@ -1219,7 +1369,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 208726,
       "name": "Quiero Casarme Contigo",
       "url": "https://open.spotify.com/track/0vZ1LSs2LcKyhq9hwzwuVz"
@@ -1397,7 +1547,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 210373,
       "name": "Te Tengo Ganas",
       "url": "https://open.spotify.com/track/3FhMGOGlgzEmgyzr54nhWy"
@@ -1427,6 +1577,28 @@
       "duration_ms": 192452,
       "name": "Tuki Tuki",
       "url": "https://open.spotify.com/track/0jtuFuZNhMV142OIXPonEO"
+    },
+    {
+      "album": {
+        "name": "La \u00daltima Misi\u00f3n",
+        "url": "https://open.spotify.com/album/5YLmrfqNRJK66Gl4QVLwHW"
+      },
+      "artists": [
+        {
+          "name": "Wisin & Yandel",
+          "url": "https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9"
+        },
+        {
+          "name": "Prince Royce",
+          "url": "https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254628,
+      "name": "Un Ladr\u00f3n",
+      "url": "https://open.spotify.com/track/0GRqaS1RZuqNTlnlOPb5sX"
     },
     {
       "album": {

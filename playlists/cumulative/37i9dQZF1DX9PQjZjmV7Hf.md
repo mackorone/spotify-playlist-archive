@@ -4,7 +4,7 @@
 
 > Sophisticated palates only\. Curated by: <a href="https://www.instagram.com/jharden13/">James Harden</a>
 
-49 songs - 2 hr 39 min - not published yet
+49 songs - 2 hr 39 min - [published](https://open.spotify.com/playlist/2mVNXuWSNnrUywzdQGz4ej)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

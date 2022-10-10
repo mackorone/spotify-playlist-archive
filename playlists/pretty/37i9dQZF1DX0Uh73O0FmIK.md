@@ -4,16 +4,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Uh73O0FmIK.md) - [plain]
 
 > 01110000 01101100 01100001 01111001 01101100 01101001 01110011 01110100
 
-[Spotify](https://open.spotify.com/user/spotify) - 88,197 likes - 90 songs - 6 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 90,954 likes - 89 songs - 6 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Dioma \(Demo\)](https://open.spotify.com/track/700JJvwxvnn8kykvp3nZqb) | [Jnathyn](https://open.spotify.com/artist/1zThDYJbVAPulAkfGTkcLk) | [Dioma \(Demo\)](https://open.spotify.com/album/3F6ynVYGAxoIgFPB4jvbff) | 2:17 |
-| 2 | [Blade Runner 2049](https://open.spotify.com/track/3Bj2mrlp3tALHO5U3mK8zM) | [Synthwave Goose](https://open.spotify.com/artist/3dUgtFhfvGyoAuvKaujtdV) | [Blade Runner 2049](https://open.spotify.com/album/6CEIxhV5pXIQ9FonKBPqQo) | 3:48 |
-| 3 | [After Dark](https://open.spotify.com/track/2LKOHdMsL0K9KwcPRlJK2v) | [Mr.Kitty](https://open.spotify.com/artist/0pWwt5vGNzezEhfAcc420Y) | [Time](https://open.spotify.com/album/63TYyeXlBYoYKNvE6rT3hI) | 4:19 |
-| 4 | [Nightcall](https://open.spotify.com/track/0U0ldCRmgCqhVvD6ksG63j) | [Kavinsky](https://open.spotify.com/artist/0UF7XLthtbSF2Eur7559oV) | [Nightcall](https://open.spotify.com/album/07nBld9enf1PyRysZAVSqJ) | 4:18 |
-| 5 | [Genesis](https://open.spotify.com/track/3cjvqsvvU80g7WJPMVh8iq) | [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab) | [Visions](https://open.spotify.com/album/3HED2IUaNSnbOe88a7ZdwM) | 4:15 |
-| 6 | [Dark Beach](https://open.spotify.com/track/5QmdK8QFbY8TLVKPuJzexD) | [Pastel Ghost](https://open.spotify.com/artist/06O23tLg0or676h8EEzH7W) | [Abyss](https://open.spotify.com/album/0RItfbXPf5eDzwdsgK9rKV) | 3:42 |
+| 2 | [After Dark](https://open.spotify.com/track/2LKOHdMsL0K9KwcPRlJK2v) | [Mr.Kitty](https://open.spotify.com/artist/0pWwt5vGNzezEhfAcc420Y) | [Time](https://open.spotify.com/album/63TYyeXlBYoYKNvE6rT3hI) | 4:19 |
+| 3 | [Nightcall](https://open.spotify.com/track/0U0ldCRmgCqhVvD6ksG63j) | [Kavinsky](https://open.spotify.com/artist/0UF7XLthtbSF2Eur7559oV) | [Nightcall](https://open.spotify.com/album/07nBld9enf1PyRysZAVSqJ) | 4:18 |
+| 4 | [Genesis](https://open.spotify.com/track/3cjvqsvvU80g7WJPMVh8iq) | [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab) | [Visions](https://open.spotify.com/album/3HED2IUaNSnbOe88a7ZdwM) | 4:15 |
+| 5 | [Dark Beach](https://open.spotify.com/track/5QmdK8QFbY8TLVKPuJzexD) | [Pastel Ghost](https://open.spotify.com/artist/06O23tLg0or676h8EEzH7W) | [Abyss](https://open.spotify.com/album/0RItfbXPf5eDzwdsgK9rKV) | 3:42 |
+| 6 | [Blade Runner 2049](https://open.spotify.com/track/3Bj2mrlp3tALHO5U3mK8zM) | [Synthwave Goose](https://open.spotify.com/artist/3dUgtFhfvGyoAuvKaujtdV) | [Blade Runner 2049](https://open.spotify.com/album/6CEIxhV5pXIQ9FonKBPqQo) | 3:48 |
 | 7 | [Sweet Dreams \(Are Made of This\) \- Remastered](https://open.spotify.com/track/1TfqLAPs4K3s2rJMoCokcS) | [Eurythmics](https://open.spotify.com/artist/0NKDgy9j66h3DLnN8qu1bB), [Annie Lennox](https://open.spotify.com/artist/5MspMQqdVbdwP6ax3GXqum), [Dave Stewart](https://open.spotify.com/artist/7gcCQIlkkfbul5Mt0jBQkg) | [Sweet Dreams \(Are Made Of This\)](https://open.spotify.com/album/5jNDWA19BJbE24x1UUJGRY) | 3:36 |
 | 8 | [DARE](https://open.spotify.com/track/4Hff1IjRbLGeLgFgxvHflk) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ) | [Demon Days](https://open.spotify.com/album/0bUTHlWbkSQysoM3VsWldT) | 4:04 |
 | 9 | [Suffer With Me](https://open.spotify.com/track/3nfj9Fdbl30TvcZE9sU0Vx) | [líue](https://open.spotify.com/artist/3xFXCUS8RN65oCwsO4PJRI) | [Suffer With Me](https://open.spotify.com/album/6G8FJ9OgqUFa5p7qxhAqki) | 3:27 |
@@ -94,9 +94,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Uh73O0FmIK.md) - [plain]
 | 84 | [Itchy](https://open.spotify.com/track/3nuqSXnU3YUUpZ4yBdNlOG) | [Siriusmo](https://open.spotify.com/artist/22680B8sUdq6bL6nQaJfwg) | [Enthusiast](https://open.spotify.com/album/7B6rBkpEo0yYgVUgKbcAHU) | 3:32 |
 | 85 | [Some Minds \(feat\. Andrew Wyatt\)](https://open.spotify.com/track/65oGVYJfdT6mYIdmmb6q3c) | [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer), [Andrew Wyatt](https://open.spotify.com/artist/4TpW7t4Cz0RG1gOEU6EcUm) | [Some Minds \(feat\. Andrew Wyatt\)](https://open.spotify.com/album/63SwZU3t9Bqb45SVWoPprT) | 4:23 |
 | 86 | [Core](https://open.spotify.com/track/6Knx4Tp8hE7IlYtde2dCYI) | [RL Grime](https://open.spotify.com/artist/5eIbEEQnDM8yuDVB0bimSP) | [VOID](https://open.spotify.com/album/5UWAfUBImV6jcswkXkXZOs) | 3:56 |
-| 87 | [Julie And Candy](https://open.spotify.com/track/7bgtelfoppWqHtwkQudvod) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Geogaddi](https://open.spotify.com/album/7Lou3RDk6NswmbzBMhro24) | 5:30 |
-| 88 | [redruM](https://open.spotify.com/track/5C6qZsPITmCq3WuhQDEy5e) | [Pogo](https://open.spotify.com/artist/1ng3xz2dyz57Z1WpnzM2G7) | [Valley of Shadow](https://open.spotify.com/album/56wIQDfpZPfpSHoSNreaIY) | 4:11 |
-| 89 | [Fly Away](https://open.spotify.com/track/0hTrQoqDmFnA4S1PC265e1) | [TheFatRat](https://open.spotify.com/artist/3OKg7YbOIatODzkRIbLJR4), [Anjulie](https://open.spotify.com/artist/4DTbdShHu2RPYEEMUp2XWV) | [Fly Away](https://open.spotify.com/album/0F7ftNMhjvUDyDpWklGStR) | 3:14 |
-| 90 | [The Robots \- 2009 Remaster](https://open.spotify.com/track/5eqZWYQ5tbIehx00NeKXz7) | [Kraftwerk](https://open.spotify.com/artist/0dmPX6ovclgOy8WWJaFEUU) | [The Man\-Machine \(2009 Remaster\)](https://open.spotify.com/album/3eyz60xEK5dGEeZF1JJSi9) | 6:12 |
+| 87 | [redruM](https://open.spotify.com/track/5C6qZsPITmCq3WuhQDEy5e) | [Pogo](https://open.spotify.com/artist/1ng3xz2dyz57Z1WpnzM2G7) | [Valley of Shadow](https://open.spotify.com/album/56wIQDfpZPfpSHoSNreaIY) | 4:11 |
+| 88 | [Fly Away](https://open.spotify.com/track/0hTrQoqDmFnA4S1PC265e1) | [TheFatRat](https://open.spotify.com/artist/3OKg7YbOIatODzkRIbLJR4), [Anjulie](https://open.spotify.com/artist/4DTbdShHu2RPYEEMUp2XWV) | [Fly Away](https://open.spotify.com/album/0F7ftNMhjvUDyDpWklGStR) | 3:14 |
+| 89 | [The Robots \- 2009 Remaster](https://open.spotify.com/track/5eqZWYQ5tbIehx00NeKXz7) | [Kraftwerk](https://open.spotify.com/artist/0dmPX6ovclgOy8WWJaFEUU) | [The Man\-Machine \(2009 Remaster\)](https://open.spotify.com/album/3eyz60xEK5dGEeZF1JJSi9) | 6:12 |
 
-Snapshot ID: `MTY2MjIyMTQ0NSwwMDAwMDAwMDZiMjg4Yjk1NDY1MzVhODcwMmY1N2JmMTg4N2RlMDA0`
+Snapshot ID: `MTY2NDgyODQwOSwwMDAwMDAwMDkyYTQ0NTZlODYxYzllNTEyMTk2OWVkN2U3NjBjZTAx`

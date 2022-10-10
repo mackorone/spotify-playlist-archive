@@ -2,7 +2,9 @@
   "date_first_scraped": "2022-10-01",
   "description": "Deep House speaks to the soul. Get revived with some of the best Deep House South Africa has to offer. Cover: <a href=\"https://open.spotify.com/artist/133w581YYo0NNLrK5pHAuZ?si=0OWx2PBgRkOGhZ-vZNiOsQ\">beatsbyhand</a>",
   "name": "Deep House Session",
-  "published_playlist_ids": [],
+  "published_playlist_ids": [
+    "6reWCzCyOkzCijlcHOaUin"
+  ],
   "tracks": [
     {
       "album": {
@@ -17,7 +19,7 @@
       ],
       "date_added": "2022-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-06",
       "duration_ms": 493764,
       "name": "Addicted To Sound",
       "url": "https://open.spotify.com/track/0n8mAv9qq4ctyOvyZIdoHA"
@@ -192,6 +194,28 @@
     },
     {
       "album": {
+        "name": "Don\u2019t Get Me Wrong",
+        "url": "https://open.spotify.com/album/6fuxtJsTxSzDWBpjkOGFsh"
+      },
+      "artists": [
+        {
+          "name": "Deepconsoul",
+          "url": "https://open.spotify.com/artist/5i4JeNw6u1j4B6f8ezRHRf"
+        },
+        {
+          "name": "Freeman Gumede",
+          "url": "https://open.spotify.com/artist/72TQ8KmrZj6SfF2SgDWWib"
+        }
+      ],
+      "date_added": "2022-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 473861,
+      "name": "Don\u2019t Get Me Wrong",
+      "url": "https://open.spotify.com/track/2ntpd9lUjPovqyEFfbYwmK"
+    },
+    {
+      "album": {
         "name": "Dusty Streets",
         "url": "https://open.spotify.com/album/0FzV8GEZEzQKoR3OA6Osf6"
       },
@@ -301,6 +325,24 @@
       "duration_ms": 435179,
       "name": "Gambiando Caras",
       "url": "https://open.spotify.com/track/4YNgFSOwvgYuiaDv15kiGL"
+    },
+    {
+      "album": {
+        "name": "I Am Jazz",
+        "url": "https://open.spotify.com/album/3T39mg1ZjH1Jh62iJ0LClN"
+      },
+      "artists": [
+        {
+          "name": "beatsbyhand",
+          "url": "https://open.spotify.com/artist/133w581YYo0NNLrK5pHAuZ"
+        }
+      ],
+      "date_added": "2022-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 402782,
+      "name": "Gotsom",
+      "url": "https://open.spotify.com/track/0cKE9DCM1q6Z2izaDTDRee"
     },
     {
       "album": {
@@ -454,6 +496,24 @@
     },
     {
       "album": {
+        "name": "Love Me",
+        "url": "https://open.spotify.com/album/6c4xAgxF1tbM6xi3UH9law"
+      },
+      "artists": [
+        {
+          "name": "Pando G",
+          "url": "https://open.spotify.com/artist/4nbklwOZ5lnv1otsaaDJZg"
+        }
+      ],
+      "date_added": "2022-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 392431,
+      "name": "Love Me",
+      "url": "https://open.spotify.com/track/4XzlfyvhwfC34jdjxveHy9"
+    },
+    {
+      "album": {
         "name": "Dusty Streets",
         "url": "https://open.spotify.com/album/0FzV8GEZEzQKoR3OA6Osf6"
       },
@@ -465,7 +525,7 @@
       ],
       "date_added": "2022-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-03",
       "duration_ms": 444444,
       "name": "M.A.U.R",
       "url": "https://open.spotify.com/track/6FN2OCdwgB83jSf5DS3hIn"
@@ -571,7 +631,7 @@
       ],
       "date_added": "2022-09-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-02",
+      "date_removed": "2022-10-08",
       "duration_ms": 431693,
       "name": "Myself & The Dark",
       "url": "https://open.spotify.com/track/5HXW3kNPv7l8KBE5duEVol"
@@ -707,7 +767,7 @@
       ],
       "date_added": "2022-09-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-02",
+      "date_removed": null,
       "duration_ms": 387370,
       "name": "Pray Without Ceasing",
       "url": "https://open.spotify.com/track/2cOw3sROcgo2HOX4wxeSsx"
@@ -743,7 +803,7 @@
       ],
       "date_added": "2022-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-04",
       "duration_ms": 405395,
       "name": "Reflections",
       "url": "https://open.spotify.com/track/7acjQDLMT1IiCLlazKTe4U"
@@ -809,7 +869,7 @@
       ],
       "date_added": "2022-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-04",
       "duration_ms": 408426,
       "name": "Schr\u00f6dinger's Cat",
       "url": "https://open.spotify.com/track/0rXVfF7ICT4NpN0p3PfUb0"
@@ -831,7 +891,7 @@
       ],
       "date_added": "2022-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-07",
       "duration_ms": 397355,
       "name": "Seeking",
       "url": "https://open.spotify.com/track/0ibD79s6Gtj41QbEMJ5uS4"
@@ -1047,6 +1107,32 @@
       "duration_ms": 431984,
       "name": "We Beg Your Pardon",
       "url": "https://open.spotify.com/track/77jJBJRwxE2SwFDrZ5gvra"
+    },
+    {
+      "album": {
+        "name": "Foniklab Records, Vol. 2 (Compiled By DysFonik)",
+        "url": "https://open.spotify.com/album/5TOcWrO7Z5tLpWxToReiT6"
+      },
+      "artists": [
+        {
+          "name": "Sitha",
+          "url": "https://open.spotify.com/artist/44t9AevT07GOmWQ3cplcfM"
+        },
+        {
+          "name": "BlaQ Afro-Kay",
+          "url": "https://open.spotify.com/artist/5FMpvRvyyk5EUo26xIJ80E"
+        },
+        {
+          "name": "Laps Rsa",
+          "url": "https://open.spotify.com/artist/46RRPn997jjhnUkheJxOXQ"
+        }
+      ],
+      "date_added": "2022-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 400103,
+      "name": "Winter Nights - BlaQ Afro-Kay Remix",
+      "url": "https://open.spotify.com/track/0hOOaM11kAyfUnJgDGaD3T"
     },
     {
       "album": {

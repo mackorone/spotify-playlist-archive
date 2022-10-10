@@ -4,7 +4,7 @@
 
 > Rock songs that get down and dirty\. Cover: The Blue Stones
 
-231 songs - 13 hr 34 min - [published](https://open.spotify.com/playlist/5E2fDbkCcBNFcuPTDKHwKt)
+233 songs - 13 hr 40 min - [published](https://open.spotify.com/playlist/5E2fDbkCcBNFcuPTDKHwKt)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,7 +46,7 @@
 | [daphne did it](https://open.spotify.com/track/0QZ3iagvfN7158bVgqIkPR) | [cleopatrick](https://open.spotify.com/artist/6VTvaLJ9arNmKi8e1ekOwW) | [daphne did it / the depths](https://open.spotify.com/album/2k2DP0So7mBzytKNoH1A1M) | 3:22 | 2022-06-17 |  |
 | [daphne did it](https://open.spotify.com/track/4TtPiVz5MmvhNwWDVFvtWc) | [cleopatrick](https://open.spotify.com/artist/6VTvaLJ9arNmKi8e1ekOwW) | [daphne did it / the depths](https://open.spotify.com/album/1Uoy5aF4pU8WvUDe07tfva) | 3:22 | 2020-12-11 | 2022-07-29 |
 | [Dark Nights](https://open.spotify.com/track/5cwZFTdktFh5XjRglkqJYr) | [Dorothy](https://open.spotify.com/artist/6IOvhXyk5edbA2DVaeP9Up) | [ROCKISDEAD](https://open.spotify.com/album/5AYoffF42E0cgDuuNgzYir) | 3:09 | 2020-12-11 |  |
-| [Dead Ringer](https://open.spotify.com/track/3euwIRlHxXGrEYVAr5Ew6j) | [Des Rocs](https://open.spotify.com/artist/2kO6mP0olFJGGh6kvUdNC8) | [Martyr Parade](https://open.spotify.com/album/7jDkW8ksFaqsKYxa8TaOUc) | 2:42 | 2022-09-16 |  |
+| [Dead Ringer](https://open.spotify.com/track/3euwIRlHxXGrEYVAr5Ew6j) | [Des Rocs](https://open.spotify.com/artist/2kO6mP0olFJGGh6kvUdNC8) | [Martyr Parade](https://open.spotify.com/album/7jDkW8ksFaqsKYxa8TaOUc) | 2:42 | 2022-09-16 | 2022-10-08 |
 | [Dead Ringer](https://open.spotify.com/track/3oCTZrItdPrphBFvFm67GG) | [Des Rocs](https://open.spotify.com/artist/2kO6mP0olFJGGh6kvUdNC8) | [Martyr Parade](https://open.spotify.com/album/5g5DjibntDMWXkc7pv9PFs) | 2:42 | 2022-06-17 | 2022-09-20 |
 | [Dead Ringer](https://open.spotify.com/track/5gXzlZgbBIYIcGGf2x3uyZ) | [Des Rocs](https://open.spotify.com/artist/2kO6mP0olFJGGh6kvUdNC8) | [Dead Ringer](https://open.spotify.com/album/41K6rP8tclMHjyBE1RLEPn) | 2:42 | 2020-12-11 | 2022-07-29 |
 | [Death By Rock And Roll](https://open.spotify.com/track/6ISZ6sKcNBdYJS7XYHm5cV) | [The Pretty Reckless](https://open.spotify.com/artist/2R57sY41L9XvGPiIgHOaYq) | [Death By Rock And Roll](https://open.spotify.com/album/2ysgEIHY4aOMMbbu0uV6ey) | 3:54 | 2022-06-17 |  |
@@ -62,19 +62,21 @@
 | [Down To The Devil](https://open.spotify.com/track/2hOB1WsQRTLgVxeXaz7F73) | [Naked Gypsy Queens](https://open.spotify.com/artist/3OrAxV2BbL9v6PvFpbGteS) | [Down to the Devil](https://open.spotify.com/album/0fEy0iCdOq34h6Ci3zvZVv) | 3:26 | 2022-06-17 |  |
 | [Eagle Birds](https://open.spotify.com/track/04mV3n8ZNGHvhxdJSyxE9d) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Eagle Birds / Lo/Hi](https://open.spotify.com/album/1hbTDW9YTpIF1gQX32U9vS) | 2:40 | 2020-12-11 | 2022-07-29 |
 | [Eagle Birds](https://open.spotify.com/track/7Dd1v8u05vTL3py8d1a5ZA) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | ["Let's Rock"](https://open.spotify.com/album/0aA9rYw8PEv9G7tVIJ9dKg) | 2:40 | 2022-06-17 |  |
-| [Elephant](https://open.spotify.com/track/6qZjm61s6u8Ead9sWxCDro) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Lonerism](https://open.spotify.com/album/3C2MFZ2iHotUQOSBzdSvM7) | 3:31 | 2020-12-11 |  |
+| [Elephant](https://open.spotify.com/track/6qZjm61s6u8Ead9sWxCDro) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Lonerism](https://open.spotify.com/album/3C2MFZ2iHotUQOSBzdSvM7) | 3:31 | 2020-12-11 | 2022-10-08 |
 | [Entrance Song](https://open.spotify.com/track/0Bm4fjn2AeXeA1x12hoySt) | [The Black Angels](https://open.spotify.com/artist/0VNWuGf8SMVU2AerpdhMbP) | [Phosphene Dream](https://open.spotify.com/album/3FEcbSaWwrVFglM8lD9RRZ) | 3:38 | 2022-06-17 |  |
 | [Entrance Song](https://open.spotify.com/track/7Iee5mJtIdS4Qh1wCxIjAo) | [The Black Angels](https://open.spotify.com/artist/0VNWuGf8SMVU2AerpdhMbP) | [Phosphene Dream](https://open.spotify.com/album/76GyFrn5IwAYp2OGmhIlan) | 3:38 | 2020-12-11 | 2022-07-29 |
 | [Facing My Fear](https://open.spotify.com/track/2UESNndQ5sS1Ucl44o2BrW) | [Cortes](https://open.spotify.com/artist/4a4ek3VD883NbEq4HLw4DG) | [Cortes](https://open.spotify.com/album/0KWkmmiYl2lOWlR6FtJt61) | 3:21 | 2022-06-17 |  |
 | [Facing My Fear](https://open.spotify.com/track/45AbDqJVqVU7nOxtW4SUTG) | [Cortes](https://open.spotify.com/artist/4a4ek3VD883NbEq4HLw4DG) | [Facing My Fear](https://open.spotify.com/album/2SZbusvetbsKZUlv1ZzBIZ) | 3:21 | 2020-12-11 | 2022-07-29 |
 | [Fallin' With Me](https://open.spotify.com/track/5n3It3ROR8In19oJkpXeWt) | [The Struts](https://open.spotify.com/artist/3lDpdwM8KILepMHqBWUhIA) | [Fallin' With Me](https://open.spotify.com/album/6zqWA4OhvhQL6qDFutqpw3) | 2:41 | 2022-09-23 |  |
 | [Figure It Out](https://open.spotify.com/track/6V0A3jkb9ntudO0kmcJ1xd) | [Royal Blood](https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15) | [Royal Blood](https://open.spotify.com/album/76fT51C9WtCgCcRJlt3PnG) | 3:03 | 2020-12-11 |  |
+| [First High](https://open.spotify.com/track/6i7Xiao5B0cNpR3lFqrf9P) | [Nikki Lane](https://open.spotify.com/artist/2kWeFaiHBskk8oqky3KHcR) | [Denim & Diamonds](https://open.spotify.com/album/1AEHp7Ufjc2GEZGUlfFsML) | 3:07 | 2022-10-07 |  |
 | [Flesh and Bone](https://open.spotify.com/track/4l7F39cJ9mejxpuDp8rUX0) | [Blackberry Smoke](https://open.spotify.com/artist/5P1oS9DUTPEqcrmXDmX4p8) | [Flesh and Bone](https://open.spotify.com/album/3XNx3O1SSNkAwMUVQFJxBR) | 4:32 | 2020-12-11 |  |
 | [Forgiveness Through Pain](https://open.spotify.com/track/3li81Hq4UMXw8iDQboaL2y) | [The Yawpers](https://open.spotify.com/artist/6MYRV74tUjBf9X4PwTRykW) | [Human Question](https://open.spotify.com/album/6RbAMKxuW5Z8thwxl5NRgW) | 3:00 | 2020-12-11 |  |
 | [Free](https://open.spotify.com/track/4ge3xYgVatWT0FKV26FsyE) | [Bleeker](https://open.spotify.com/artist/64tT0KKbU4AFWkO6v1VvXv) | [Erase You](https://open.spotify.com/album/40MZW6y8j9zJLyyB946IKH) | 2:25 | 2020-12-11 | 2022-09-24 |
 | [Girl Sports](https://open.spotify.com/track/6PmMCUt0JI6vrlVOFI6qM9) | [Teen Jesus and the Jean Teasers](https://open.spotify.com/artist/3KrgUUwoRQ6OQp4IOmqnSF) | [Girl Sports](https://open.spotify.com/album/4GhmoNO1PAmFUoAoPoKUz2) | 3:14 | 2022-06-13 |  |
 | [Grace](https://open.spotify.com/track/0aJq40QZqvfGubgfKy5knk) | [Marcus Mumford](https://open.spotify.com/artist/3bYcjbVAN3rAuU3TMzw2mB) | [Grace](https://open.spotify.com/album/44ei9ptYrZ8ys7aXPW6bF8) | 4:13 | 2022-09-16 | 2022-09-20 |
 | [Grace](https://open.spotify.com/track/4i4gcJSMofr3Pe9YWThzRp) | [Marcus Mumford](https://open.spotify.com/artist/3bYcjbVAN3rAuU3TMzw2mB) | [\(self\-titled\)](https://open.spotify.com/album/1vTQ7l9DHERJJYPMsKGpxE) | 4:13 | 2022-09-16 |  |
+| [Graveyard](https://open.spotify.com/track/5WwPOiBVI4Y2nrMubCneOy) | [No Money Kids](https://open.spotify.com/artist/7FhOFt7mORRpbrgHdSeCfF) | [Graveyard](https://open.spotify.com/album/53hoTqaWfuRUwTDtZI72Rx) | 3:05 | 2022-10-07 |  |
 | [Hard Working Man](https://open.spotify.com/track/2DaEFCMaprAH4vZmzQYaxc) | [Marcus King](https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a) | [Hard Working Man](https://open.spotify.com/album/49kNMARqo9FtWJ8OFIGF7s) | 3:37 | 2022-06-13 | 2022-08-27 |
 | [Hard Working Man](https://open.spotify.com/track/3uQFmhiS49mXaEw2DZbZRr) | [Marcus King](https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a) | [Young Blood](https://open.spotify.com/album/5F4mBNKs4joGL2cGasbvi7) | 3:37 | 2022-08-26 |  |
 | [Haunted Heart](https://open.spotify.com/track/1g9gUDaH8idPgZcLZAa7Qx) | [little hurricane](https://open.spotify.com/artist/5VLQQzAkJrzG7QggE4DVg2) | [Homewrecker](https://open.spotify.com/album/11g4QUzXzGxh7dOPxxy4CF) | 2:45 | 2022-06-17 |  |
@@ -216,7 +218,7 @@
 | [Trouble](https://open.spotify.com/track/5tJBIfrKncZvqyj6dBNwK0) | [The New Respects](https://open.spotify.com/artist/5lwtznzBlmVM2IhgrCWbT9) | [Trouble](https://open.spotify.com/album/5awaNKjtMu3OPiWsTnWicj) | 3:24 | 2020-12-11 | 2022-07-29 |
 | [Typhoons](https://open.spotify.com/track/5aFGo8wHEntVxFI8IF7Wuj) | [Royal Blood](https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15) | [Typhoons](https://open.spotify.com/album/05aqnnpYVOvsX0SIzmIuxi) | 3:56 | 2021-07-22 |  |
 | [Unholy](https://open.spotify.com/track/2qeIFUwxU7f44PUgeahCPo) | [Bobby Saint](https://open.spotify.com/artist/6L6VjBcf06AK6boIxqIEit) | [Unholy \- EP](https://open.spotify.com/album/78oXbiZPzFFn6K5cMREm7f) | 3:29 | 2020-12-11 |  |
-| [Used to the Darkness](https://open.spotify.com/track/3SemJVQCsUo0K3QGN7pIXu) | [Des Rocs](https://open.spotify.com/artist/2kO6mP0olFJGGh6kvUdNC8) | [Let the Vultures In](https://open.spotify.com/album/0NvZagPSgA7PLFI7yydUTn) | 4:16 | 2022-09-16 |  |
+| [Used to the Darkness](https://open.spotify.com/track/3SemJVQCsUo0K3QGN7pIXu) | [Des Rocs](https://open.spotify.com/artist/2kO6mP0olFJGGh6kvUdNC8) | [Let the Vultures In](https://open.spotify.com/album/0NvZagPSgA7PLFI7yydUTn) | 4:16 | 2022-09-16 | 2022-10-08 |
 | [Used to the Darkness](https://open.spotify.com/track/2MjQGWAFsFRTZtKA6THCaM) | [Des Rocs](https://open.spotify.com/artist/2kO6mP0olFJGGh6kvUdNC8) | [Used to the Darkness](https://open.spotify.com/album/4CYGAZsEydjZh4peJPnNVK) | 4:16 | 2020-12-11 | 2022-07-29 |
 | [Used to the Darkness](https://open.spotify.com/track/6fLKwF2FLBtPNvtrVjYDVz) | [Des Rocs](https://open.spotify.com/artist/2kO6mP0olFJGGh6kvUdNC8) | [Let the Vultures In](https://open.spotify.com/album/0fnAV8la7b1AZjAfY1oyXZ) | 4:16 | 2022-06-17 | 2022-09-20 |
 | [Vertigo](https://open.spotify.com/track/1uxPC9Sqn1bMLhUaTqFjye) | [Alice Merton](https://open.spotify.com/artist/7f0OLhGgBMX9fUjm1dcPip) | [S.I.D.E.S.](https://open.spotify.com/album/5rkOKaMUZNSpFAxLHMSp9s) | 3:06 | 2022-09-23 |  |

@@ -1,12 +1,12 @@
 {
   "description": "Con un poco de buena salsa todo queda limpio y reluciente.",
-  "num_followers": 19840,
+  "num_followers": 20007,
   "original_name": "\u00a1A Limpiar con Salsa!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU4NjgyMjU1OCwwMDAwMDAwMGMzN2M3ZDc1MDQ3ZmY4NmQxMTQ4N2ZmNzY0OWI5NWQ2",
+  "snapshot_id": "MTU4NjgyMjU1OCwwMDAwMDAwMDQ0ODk2ODkyOTQ1Njk0YjlmNTM2OTBkNmY1Yjk2ZmFj",
   "tracks": [
     {
       "added_at": "2020-04-14 00:02:38",
@@ -107,6 +107,26 @@
     {
       "added_at": "2020-04-14 00:02:38",
       "album": {
+        "name": "Siembra",
+        "url": "https://open.spotify.com/album/7wOJ9RTQr05ytqROWtTPzy"
+      },
+      "artists": [
+        {
+          "name": "Willie Col\u00f3n",
+          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
+        },
+        {
+          "name": "Rub\u00e9n Blades",
+          "url": "https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj"
+        }
+      ],
+      "duration_ms": 445080,
+      "name": "Pedro Navaja",
+      "url": "https://open.spotify.com/track/7aKs8kWKKau0SDgaeyZMAX"
+    },
+    {
+      "added_at": "2020-04-14 00:02:38",
+      "album": {
         "name": "Fuego en el 23!",
         "url": "https://open.spotify.com/album/0c3F6OlWKJnkRTb78nswUt"
       },
@@ -155,46 +175,6 @@
     {
       "added_at": "2020-04-14 00:02:38",
       "album": {
-        "name": "Siembra",
-        "url": "https://open.spotify.com/album/7wOJ9RTQr05ytqROWtTPzy"
-      },
-      "artists": [
-        {
-          "name": "Willie Col\u00f3n",
-          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
-        },
-        {
-          "name": "Rub\u00e9n Blades",
-          "url": "https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj"
-        }
-      ],
-      "duration_ms": 445080,
-      "name": "Pedro Navaja",
-      "url": "https://open.spotify.com/track/7aKs8kWKKau0SDgaeyZMAX"
-    },
-    {
-      "added_at": "2020-04-14 00:02:38",
-      "album": {
-        "name": "Vigilante",
-        "url": "https://open.spotify.com/album/0gNCmEbPNV1OJ6JIcExTB7"
-      },
-      "artists": [
-        {
-          "name": "H\u00e9ctor Lavoe",
-          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
-        },
-        {
-          "name": "Willie Col\u00f3n",
-          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
-        }
-      ],
-      "duration_ms": 456960,
-      "name": "Juanito Alima\u00f1a",
-      "url": "https://open.spotify.com/track/336Xdyzllb9WbJIC8XF90t"
-    },
-    {
-      "added_at": "2020-04-14 00:02:38",
-      "album": {
         "name": "Cheo",
         "url": "https://open.spotify.com/album/7dJT6ZBo7VxF41pw5tSrli"
       },
@@ -227,6 +207,26 @@
       "duration_ms": 402360,
       "name": "El Rey De La Puntualidad",
       "url": "https://open.spotify.com/track/0mTHqLXxW4UAYwJgCIz7CJ"
+    },
+    {
+      "added_at": "2020-04-14 00:02:38",
+      "album": {
+        "name": "Vigilante",
+        "url": "https://open.spotify.com/album/0gNCmEbPNV1OJ6JIcExTB7"
+      },
+      "artists": [
+        {
+          "name": "H\u00e9ctor Lavoe",
+          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
+        },
+        {
+          "name": "Willie Col\u00f3n",
+          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
+        }
+      ],
+      "duration_ms": 456960,
+      "name": "Juanito Alima\u00f1a",
+      "url": "https://open.spotify.com/track/336Xdyzllb9WbJIC8XF90t"
     },
     {
       "added_at": "2020-04-14 00:02:38",
@@ -315,26 +315,6 @@
     {
       "added_at": "2020-04-14 00:02:38",
       "album": {
-        "name": "Anthology",
-        "url": "https://open.spotify.com/album/3ukST4dz4n39IwgDiFTk8x"
-      },
-      "artists": [
-        {
-          "name": "Cheo Feliciano",
-          "url": "https://open.spotify.com/artist/1Ypa8o8muvDcgOt1YYtcOC"
-        },
-        {
-          "name": "Joe Cuba Sextet",
-          "url": "https://open.spotify.com/artist/7glnjTMVq4r8iNugFbuIqj"
-        }
-      ],
-      "duration_ms": 228373,
-      "name": "El Rat\u00f3n",
-      "url": "https://open.spotify.com/track/4nB0lLsweZhCQQYIMnFjSB"
-    },
-    {
-      "added_at": "2020-04-14 00:02:38",
-      "album": {
         "name": "El Agua de la Vida",
         "url": "https://open.spotify.com/album/6qn0EfY7hr2skTfoRFXHR6"
       },
@@ -379,6 +359,26 @@
     {
       "added_at": "2020-04-14 00:02:38",
       "album": {
+        "name": "Anthology",
+        "url": "https://open.spotify.com/album/3ukST4dz4n39IwgDiFTk8x"
+      },
+      "artists": [
+        {
+          "name": "Cheo Feliciano",
+          "url": "https://open.spotify.com/artist/1Ypa8o8muvDcgOt1YYtcOC"
+        },
+        {
+          "name": "Joe Cuba Sextet",
+          "url": "https://open.spotify.com/artist/7glnjTMVq4r8iNugFbuIqj"
+        }
+      ],
+      "duration_ms": 228373,
+      "name": "El Rat\u00f3n",
+      "url": "https://open.spotify.com/track/4nB0lLsweZhCQQYIMnFjSB"
+    },
+    {
+      "added_at": "2020-04-14 00:02:38",
+      "album": {
         "name": "La Salsa del Conjunto Salsa",
         "url": "https://open.spotify.com/album/7oKUzawRV3aG7THNczUyT8"
       },
@@ -391,6 +391,30 @@
       "duration_ms": 289960,
       "name": "Estamos en Salsa",
       "url": "https://open.spotify.com/track/6nONybSopBGecWPK0pcvva"
+    },
+    {
+      "added_at": "2020-04-14 00:02:38",
+      "album": {
+        "name": "Asalto Navide\u00f1o",
+        "url": "https://open.spotify.com/album/4TnqBA58KybPV53g95LHLe"
+      },
+      "artists": [
+        {
+          "name": "Willie Col\u00f3n",
+          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
+        },
+        {
+          "name": "H\u00e9ctor Lavoe",
+          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
+        },
+        {
+          "name": "Yomo Toro",
+          "url": "https://open.spotify.com/artist/112OOUPY3pq7Hr35s3po6E"
+        }
+      ],
+      "duration_ms": 334080,
+      "name": "La Murga",
+      "url": "https://open.spotify.com/track/5O2Id1rWAmR9ff9kGUfikf"
     },
     {
       "added_at": "2020-04-14 00:02:38",
@@ -423,30 +447,6 @@
       "duration_ms": 246600,
       "name": "Bang! Bang!",
       "url": "https://open.spotify.com/track/0gbeHMR4ESdykYOwWQ3PBw"
-    },
-    {
-      "added_at": "2020-04-14 00:02:38",
-      "album": {
-        "name": "Asalto Navide\u00f1o",
-        "url": "https://open.spotify.com/album/4TnqBA58KybPV53g95LHLe"
-      },
-      "artists": [
-        {
-          "name": "Willie Col\u00f3n",
-          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
-        },
-        {
-          "name": "H\u00e9ctor Lavoe",
-          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
-        },
-        {
-          "name": "Yomo Toro",
-          "url": "https://open.spotify.com/artist/112OOUPY3pq7Hr35s3po6E"
-        }
-      ],
-      "duration_ms": 334080,
-      "name": "La Murga",
-      "url": "https://open.spotify.com/track/5O2Id1rWAmR9ff9kGUfikf"
     },
     {
       "added_at": "2020-04-14 00:02:38",
@@ -507,22 +507,6 @@
     {
       "added_at": "2020-04-14 00:02:38",
       "album": {
-        "name": "\u00c9xitos, Vol. 1",
-        "url": "https://open.spotify.com/album/1BoeS73vVRPncBCDWbF3ep"
-      },
-      "artists": [
-        {
-          "name": "Oscar D'Le\u00f3n",
-          "url": "https://open.spotify.com/artist/1c84wItoiAe1pEbpJMqUmQ"
-        }
-      ],
-      "duration_ms": 282981,
-      "name": "El Manicero",
-      "url": "https://open.spotify.com/track/1xTtQuHbtAh6WvzZZNXbIu"
-    },
-    {
-      "added_at": "2020-04-14 00:02:38",
-      "album": {
         "name": "Billo's Caracas Boys vs. Dimension Latina",
         "url": "https://open.spotify.com/album/6V8ZCOf6L8taOSseOwrSUu"
       },
@@ -539,6 +523,42 @@
       "duration_ms": 225140,
       "name": "Lloraras - Edit",
       "url": "https://open.spotify.com/track/4Ke0C7xrEiTCZjVGiJWSAM"
+    },
+    {
+      "added_at": "2020-04-14 00:02:38",
+      "album": {
+        "name": "Lo Mato",
+        "url": "https://open.spotify.com/album/4TzXeIsjyPLaNvgOd84bwr"
+      },
+      "artists": [
+        {
+          "name": "Willie Col\u00f3n",
+          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
+        },
+        {
+          "name": "H\u00e9ctor Lavoe",
+          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
+        }
+      ],
+      "duration_ms": 228440,
+      "name": "Calle Luna Calle Sol",
+      "url": "https://open.spotify.com/track/1Ics9ai6jbcHHBRaTy1HiD"
+    },
+    {
+      "added_at": "2020-04-14 00:02:38",
+      "album": {
+        "name": "\u00c9xitos, Vol. 1",
+        "url": "https://open.spotify.com/album/1BoeS73vVRPncBCDWbF3ep"
+      },
+      "artists": [
+        {
+          "name": "Oscar D'Le\u00f3n",
+          "url": "https://open.spotify.com/artist/1c84wItoiAe1pEbpJMqUmQ"
+        }
+      ],
+      "duration_ms": 282981,
+      "name": "El Manicero",
+      "url": "https://open.spotify.com/track/1xTtQuHbtAh6WvzZZNXbIu"
     },
     {
       "added_at": "2020-04-14 00:02:38",
@@ -607,26 +627,6 @@
       "duration_ms": 227400,
       "name": "Salsa Y Control",
       "url": "https://open.spotify.com/track/4y6QWwI8lqYYemjYK1PCPc"
-    },
-    {
-      "added_at": "2020-04-14 00:02:38",
-      "album": {
-        "name": "Lo Mato",
-        "url": "https://open.spotify.com/album/4TzXeIsjyPLaNvgOd84bwr"
-      },
-      "artists": [
-        {
-          "name": "Willie Col\u00f3n",
-          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
-        },
-        {
-          "name": "H\u00e9ctor Lavoe",
-          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
-        }
-      ],
-      "duration_ms": 228440,
-      "name": "Calle Luna Calle Sol",
-      "url": "https://open.spotify.com/track/1Ics9ai6jbcHHBRaTy1HiD"
     },
     {
       "added_at": "2020-04-14 00:02:38",
@@ -763,22 +763,6 @@
     {
       "added_at": "2020-04-14 00:02:38",
       "album": {
-        "name": "The Very Best Of Beny More Vol. 1",
-        "url": "https://open.spotify.com/album/45tO9TmvTvtAFWqWqB89hq"
-      },
-      "artists": [
-        {
-          "name": "Beny Mor\u00e9",
-          "url": "https://open.spotify.com/artist/1Sp47peMTI9na8FTY4yHJw"
-        }
-      ],
-      "duration_ms": 194720,
-      "name": "Que Bueno Baila Usted",
-      "url": "https://open.spotify.com/track/5c2JVgFOORbNCtaMS0myWY"
-    },
-    {
-      "added_at": "2020-04-14 00:02:38",
-      "album": {
         "name": "Esto Fu\u00e9 Lo Que Trajo El Barco",
         "url": "https://open.spotify.com/album/5EPIgQStd9oMGLf6BIgSEf"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 256349,
       "name": "Traigo Salsa",
       "url": "https://open.spotify.com/track/21o9ccByT4ApG6msAqGqYy"
+    },
+    {
+      "added_at": "2020-04-14 00:02:38",
+      "album": {
+        "name": "The Very Best Of Beny More Vol. 1",
+        "url": "https://open.spotify.com/album/45tO9TmvTvtAFWqWqB89hq"
+      },
+      "artists": [
+        {
+          "name": "Beny Mor\u00e9",
+          "url": "https://open.spotify.com/artist/1Sp47peMTI9na8FTY4yHJw"
+        }
+      ],
+      "duration_ms": 194720,
+      "name": "Que Bueno Baila Usted",
+      "url": "https://open.spotify.com/track/5c2JVgFOORbNCtaMS0myWY"
     },
     {
       "added_at": "2020-04-14 00:02:38",
@@ -827,22 +827,18 @@
     {
       "added_at": "2020-04-14 00:02:38",
       "album": {
-        "name": "Fruko el Grande",
-        "url": "https://open.spotify.com/album/4VwcUaZ0yWCHp9hEDue09C"
+        "name": "Rompiendo clave",
+        "url": "https://open.spotify.com/album/0zzAXAwmZXzeWqrbHiyZ8v"
       },
       "artists": [
         {
-          "name": "Fruko Y Sus Tesos",
-          "url": "https://open.spotify.com/artist/5aAlzehdUM14I4ppq24Xob"
-        },
-        {
-          "name": "Joe Arroyo",
-          "url": "https://open.spotify.com/artist/7BFnoFhJjLWcsqmN3Hizqg"
+          "name": "El Combo Belga",
+          "url": "https://open.spotify.com/artist/69vFORDMYL8ZfBGHtAfDve"
         }
       ],
-      "duration_ms": 248733,
-      "name": "Manyoma",
-      "url": "https://open.spotify.com/track/2MGT7BNwjf3c6DbhXqBaW9"
+      "duration_ms": 264360,
+      "name": "Te conozco bacalao",
+      "url": "https://open.spotify.com/track/3UuFzofATsKBzRUggfWigb"
     },
     {
       "added_at": "2020-04-14 00:02:38",
@@ -867,18 +863,22 @@
     {
       "added_at": "2020-04-14 00:02:38",
       "album": {
-        "name": "Rompiendo clave",
-        "url": "https://open.spotify.com/album/0zzAXAwmZXzeWqrbHiyZ8v"
+        "name": "Fruko el Grande",
+        "url": "https://open.spotify.com/album/4VwcUaZ0yWCHp9hEDue09C"
       },
       "artists": [
         {
-          "name": "El Combo Belga",
-          "url": "https://open.spotify.com/artist/69vFORDMYL8ZfBGHtAfDve"
+          "name": "Fruko Y Sus Tesos",
+          "url": "https://open.spotify.com/artist/5aAlzehdUM14I4ppq24Xob"
+        },
+        {
+          "name": "Joe Arroyo",
+          "url": "https://open.spotify.com/artist/7BFnoFhJjLWcsqmN3Hizqg"
         }
       ],
-      "duration_ms": 264360,
-      "name": "Te conozco bacalao",
-      "url": "https://open.spotify.com/track/3UuFzofATsKBzRUggfWigb"
+      "duration_ms": 248733,
+      "name": "Manyoma",
+      "url": "https://open.spotify.com/track/2MGT7BNwjf3c6DbhXqBaW9"
     },
     {
       "added_at": "2020-04-14 00:02:38",
@@ -899,18 +899,18 @@
     {
       "added_at": "2020-04-14 00:02:38",
       "album": {
-        "name": "Personalidad",
-        "url": "https://open.spotify.com/album/6JA41RFqylAYrh84FOPMsy"
+        "name": "Infinito",
+        "url": "https://open.spotify.com/album/4XPP8oI0Vb2Lm86YUyosog"
       },
       "artists": [
         {
-          "name": "La Sonora Santanera",
-          "url": "https://open.spotify.com/artist/3CsPxFJGyNa9ep79CFWN77"
+          "name": "Willie Rosario",
+          "url": "https://open.spotify.com/artist/24qSVomYxpfAFwzBnKCc8J"
         }
       ],
-      "duration_ms": 170266,
-      "name": "Canela Pura",
-      "url": "https://open.spotify.com/track/4jHw06ZYNzwbwybNGo3QKU"
+      "duration_ms": 208506,
+      "name": "Amigo De Qu\u00e9",
+      "url": "https://open.spotify.com/track/6xlMy3tJb0DWQrnO8qFHzO"
     }
   ],
   "unique_name": "\u00a1A Limpiar con Salsa!",

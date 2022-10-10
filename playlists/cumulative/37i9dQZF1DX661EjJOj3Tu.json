@@ -1693,7 +1693,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-22",
+      "date_removed": null,
       "duration_ms": 259853,
       "name": "Don\u00b4t You Worry 'Bout A Thing",
       "url": "https://open.spotify.com/track/5SSN8J2KnrpW1CLpKJhXXO"
@@ -3071,7 +3071,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-05",
       "duration_ms": 165933,
       "name": "Mambo Sangria",
       "url": "https://open.spotify.com/track/5M80uFtSW98fR3ykhjGPyd"
@@ -4029,7 +4029,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 265173,
       "name": "Quimbara",
       "url": "https://open.spotify.com/track/7mqqWVpuUHekEdlVOSQjmy"
@@ -4371,6 +4371,24 @@
       "duration_ms": 170653,
       "name": "Se E Tarde, Me Perdoa",
       "url": "https://open.spotify.com/track/4WuM7C9XtbjcQPzNbM2Pk9"
+    },
+    {
+      "album": {
+        "name": "Plays The Contemporary Music Of Mexico And Brazil",
+        "url": "https://open.spotify.com/album/7Fs3cHLMIGjjxRB5K2HJRo"
+      },
+      "artists": [
+        {
+          "name": "Cal Tjader",
+          "url": "https://open.spotify.com/artist/3XOVABzceOUTbR3iEz0ImO"
+        }
+      ],
+      "date_added": "2022-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170653,
+      "name": "Se E Tarde, Me Perdoa",
+      "url": "https://open.spotify.com/track/7ByBGLvzTGCZKFp5XhwOcr"
     },
     {
       "album": {

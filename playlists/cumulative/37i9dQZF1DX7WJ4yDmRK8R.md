@@ -4,7 +4,7 @@
 
 > This is the best of ska, new and classic\. Cover: The Interrupters
 
-208 songs - 10 hr 55 min - [published](https://open.spotify.com/playlist/3uBCjD3QXS1bsdZpxQUdvo)
+209 songs - 10 hr 56 min - [published](https://open.spotify.com/playlist/3uBCjD3QXS1bsdZpxQUdvo)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -103,7 +103,7 @@
 | [Middle Finger](https://open.spotify.com/track/6xt46jtvhOjqf0bbJ3wT3v) | [Ballyhoo!](https://open.spotify.com/artist/6py4uFIC7T6RdrZnH6hFYJ) | [Middle Finger](https://open.spotify.com/album/3mHlnMg1GsCzHy142QBpzH) | 3:26 | 2021-09-02 |  |
 | [Mile High](https://open.spotify.com/track/2ftEtuT6zgVPEXgRPTgAtM) | [Left Alone](https://open.spotify.com/artist/1y8nfcBE7BsDPifEWQfFQJ) | [Mile High](https://open.spotify.com/album/4hG3eEXP0TIEY7SFhlsMGL) | 3:05 | 2021-09-02 | 2022-07-29 |
 | [Mirror In the Bathroom](https://open.spotify.com/track/3LUhdkixxrrqv3nfNfkINe) | [The English Beat](https://open.spotify.com/artist/1eVEVL20zNLcGrPDOR691N) | [I Just Can't Stop It \(Remastered\)](https://open.spotify.com/album/08zjJfP4f6cXGxscvztbvh) | 3:10 | 2021-09-02 |  |
-| [Morbid Obsessions](https://open.spotify.com/track/22gBwKtpb1qgBNS7l5feMh) | [We Are The Union](https://open.spotify.com/artist/4AAXAVOZ3fw7M8ILLrKLvs) | [Ordinary Life](https://open.spotify.com/album/6gbRX2quEui9NXZu5ogvz9) | 3:02 | 2021-09-02 |  |
+| [Morbid Obsessions](https://open.spotify.com/track/22gBwKtpb1qgBNS7l5feMh) | [We Are The Union](https://open.spotify.com/artist/4AAXAVOZ3fw7M8ILLrKLvs) | [Ordinary Life](https://open.spotify.com/album/6gbRX2quEui9NXZu5ogvz9) | 3:02 | 2021-09-02 | 2022-10-05 |
 | [Morbid Obsessions](https://open.spotify.com/track/3C54o5nN9ceHwab9tH2EWh) | [We Are The Union](https://open.spotify.com/artist/4AAXAVOZ3fw7M8ILLrKLvs) | [Morbid Obsessions](https://open.spotify.com/album/0RTCZIE9rODctd6rLqBHW6) | 3:02 | 2021-09-02 | 2022-06-07 |
 | [Mr\. Smiley](https://open.spotify.com/track/12GEszobr92vUXs4LCdwjK) | [Mustard Plug](https://open.spotify.com/artist/5UDSYxxqcF7prMrO2opRhu) | [Big Daddy Multitude \(2010 Re\-Issue\)](https://open.spotify.com/album/5f6bcXHqGeDr5Bp5AaGN8b) | 2:46 | 2022-04-14 |  |
 | [Mr\. Smiley](https://open.spotify.com/track/4pCZhwsn1mbN8fDYe42Hl5) | [Mustard Plug](https://open.spotify.com/artist/5UDSYxxqcF7prMrO2opRhu) | [Big Daddy Multitude](https://open.spotify.com/album/2uvJMoMuk7mxOqHaU5PTEN) | 2:46 | 2021-09-02 | 2022-07-29 |
@@ -157,6 +157,7 @@
 | [Sound of a Revolution](https://open.spotify.com/track/5iqoangjJT6emeXzZg2czr) | [Sonic Boom Six](https://open.spotify.com/artist/3ccF37QB6LC4LqUfvtn5qb) | [Arcade Perfect](https://open.spotify.com/album/2ICTXbgW4rWcYWlSG1JtJ9) | 3:14 | 2021-09-02 |  |
 | [Sound System](https://open.spotify.com/track/7xkSwLmSHDlnNuiePDgp22) | [Operation Ivy](https://open.spotify.com/artist/18XRGxd1b484f2h06cwvJJ) | [Operation Ivy](https://open.spotify.com/album/4qpRn6UJpBmbfRSsXzzI3e) | 2:14 | 2021-09-02 | 2022-07-29 |
 | [Sound System \- 2007 Remaster](https://open.spotify.com/track/4Pmo0mMgiyBCj1Zd7Axsi1) | [Operation Ivy](https://open.spotify.com/artist/18XRGxd1b484f2h06cwvJJ) | [Operation Ivy \(2007 Remaster\)](https://open.spotify.com/album/2Rv1kIWFeIYeq8kAtdhY6m) | 2:14 | 2022-04-14 |  |
+| [Step One](https://open.spotify.com/track/3XKah41iLnBH8LHyp7yAAA) | [The Suicide Machines](https://open.spotify.com/artist/31v7ijnAMVL9V7Uzr1sFcI) | [Battle Hymns](https://open.spotify.com/album/2MwN76QIF9LBBWzZckdRw7) | 1:12 | 2022-04-14 |  |
 | [Step One](https://open.spotify.com/track/4DuqrGxVmRTBqhDv8yTTKZ) | [The Suicide Machines](https://open.spotify.com/artist/31v7ijnAMVL9V7Uzr1sFcI) | [Battle Hymns](https://open.spotify.com/album/3AUGQDSXbu2Az6fwHDpA5S) | 1:12 | 2021-09-02 | 2022-07-16 |
 | [Stepping Out](https://open.spotify.com/track/3TjsikWPyMLvnjQiUATci6) | [Big D and the Kids Table](https://open.spotify.com/artist/7rCVe3W6E37VMHBHJXB6xD) | [Stomp](https://open.spotify.com/album/6smpibJ3RlcnBDdHi7dINI) | 3:01 | 2021-09-02 | 2022-07-29 |
 | [Strange Days](https://open.spotify.com/track/7oHNMdhyc1cmPhI0cF15We) | [Mad Caddies](https://open.spotify.com/artist/0cmBbO2sr4w0rRGt3rKvs6) | [House on Fire](https://open.spotify.com/album/1etNRJxTh7x2WQlfoZ8OTH) | 3:40 | 2021-09-02 | 2022-07-28 |

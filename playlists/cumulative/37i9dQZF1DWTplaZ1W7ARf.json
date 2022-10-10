@@ -186,6 +186,28 @@
     },
     {
       "album": {
+        "name": "Family & Mula",
+        "url": "https://open.spotify.com/album/5qUom4uwQJLIbmRUEgv0pa"
+      },
+      "artists": [
+        {
+          "name": "Rich Homie Quan",
+          "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
+        },
+        {
+          "name": "NoCap",
+          "url": "https://open.spotify.com/artist/4PNHuWkk4ee6R8WEhFVPf5"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249270,
+      "name": "Bigger Jeans (feat. NoCap)",
+      "url": "https://open.spotify.com/track/0B3iyAwE81D2weW8MrwE7h"
+    },
+    {
+      "album": {
         "name": "Blood Boy",
         "url": "https://open.spotify.com/album/0hnSyql4qfnASDuxO58g2p"
       },
@@ -197,10 +219,28 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-09",
       "duration_ms": 146823,
       "name": "Blood Boy",
       "url": "https://open.spotify.com/track/3Mk9L0W0T3ubitZjaYOC8w"
+    },
+    {
+      "album": {
+        "name": "Legendary",
+        "url": "https://open.spotify.com/album/7pDUpSYX9059HWV94jJbqQ"
+      },
+      "artists": [
+        {
+          "name": "Anti Da Menace",
+          "url": "https://open.spotify.com/artist/7jkEdcZtIMWXlEM5sgZ2uK"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149043,
+      "name": "Blood Boy",
+      "url": "https://open.spotify.com/track/5aqeqiO73dCUNfrOX6NxD3"
     },
     {
       "album": {
@@ -845,7 +885,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 323720,
       "name": "Going Through Things",
       "url": "https://open.spotify.com/track/1QLroFtslxVkJ9vfSadxAJ"
@@ -1757,7 +1797,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 170145,
       "name": "Rain",
       "url": "https://open.spotify.com/track/0IWNj3KbZQeh3iQOXSMzYQ"
@@ -2451,6 +2491,24 @@
       "duration_ms": 176191,
       "name": "Tell Me Bout It",
       "url": "https://open.spotify.com/track/6AdAJuFBH2ajKzSuHtJSvS"
+    },
+    {
+      "album": {
+        "name": "Tez & Tone 1",
+        "url": "https://open.spotify.com/album/22SPzvel0IVFXbPPjGo7nd"
+      },
+      "artists": [
+        {
+          "name": "Tee Grizzley",
+          "url": "https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230526,
+      "name": "Tez & Tone 1",
+      "url": "https://open.spotify.com/track/7mXhmsSwfZCcPGA0M993Rl"
     },
     {
       "album": {

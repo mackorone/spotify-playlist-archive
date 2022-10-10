@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2nd8BSnFnzT.md) - [plain]
 
 > Viva o rock nacional! Ouça o melhor do rock brasileiro\. Foto: Planet Hemp
 
-[Spotify](https://open.spotify.com/user/spotify) - 351,047 likes - 75 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 351,064 likes - 75 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [DISTOPIA](https://open.spotify.com/track/3D2eAZQWkf51qGGqgnPidY) | [Planet Hemp](https://open.spotify.com/artist/3nasa4yabzvUeb6DzejDYU), [Criolo](https://open.spotify.com/artist/37ZflmHTdxkSLQuT8w9NBs) | [DISTOPIA](https://open.spotify.com/album/2lHk8KznqoZDeTNagjkSir) | 4:00 |
 | 2 | [Vitória](https://open.spotify.com/track/2uRlVcj6AjZKAMP2Gc1xpj) | [Dead Fish](https://open.spotify.com/artist/7Lvg39k5XgXevGR767ikYI) | [30 + 1, Pt.3](https://open.spotify.com/album/13x5PRkYrO2vLrTntH0Jkh) | 3:20 |
-| 3 | [Troglomitus Broncossaurus](https://open.spotify.com/track/0KzAD3JNICUb07omGGlY5s) | [Autoramas](https://open.spotify.com/artist/6IwPtS5L4cV9yCB66mhheZ), [Dead Fish](https://open.spotify.com/artist/7Lvg39k5XgXevGR767ikYI), [Rodrigo Lima](https://open.spotify.com/artist/6awWDGNl4gWC8BNsn7r26s) | [Troglomitus Broncossaurus](https://open.spotify.com/album/0IRsPfoPviYnJbBqFBEHpL) | 2:58 |
-| 4 | [UM BRINDE](https://open.spotify.com/track/31QQG8R4qmLQjIDoguBCzZ) | [Di Ferrero](https://open.spotify.com/artist/2aimTInXI8IgnUeEwu25mB), [Badauí](https://open.spotify.com/artist/0LrCKlBX9FiDmCjs3epwCb) | [: \( UMA BAD UMA FARRA : \)](https://open.spotify.com/album/4LOdX7PgbZyzNRq7uRolv6) | 2:47 |
+| 3 | [UM BRINDE](https://open.spotify.com/track/31QQG8R4qmLQjIDoguBCzZ) | [Di Ferrero](https://open.spotify.com/artist/2aimTInXI8IgnUeEwu25mB), [Badauí](https://open.spotify.com/artist/0LrCKlBX9FiDmCjs3epwCb) | [: \( UMA BAD UMA FARRA : \)](https://open.spotify.com/album/4LOdX7PgbZyzNRq7uRolv6) | 2:47 |
+| 4 | [Ciclos](https://open.spotify.com/track/4MSY2abyzFULkXnHGOCN4v) | [Analaga](https://open.spotify.com/artist/4LTPxLxjiT5pzYd5WZAR3v), [Caracol.A](https://open.spotify.com/artist/7kcH00HHM8BkhfySXoQfUo) | [Ciclos](https://open.spotify.com/album/1de4pIwXgTDs0YWu1jAwAr) | 3:13 |
 | 5 | [Fascista](https://open.spotify.com/track/5Fv2X9NcDca6NMTRHLEIma) | [Escambau](https://open.spotify.com/artist/5A9wuZoMAlH0P2eFN7Fd7u) | [Leite de Pedra](https://open.spotify.com/album/1rygfNkdmlHaTmk40kL49E) | 3:02 |
 | 6 | [Porta\-Malas](https://open.spotify.com/track/23dCpE0mEQQ4s6IzX3rkdh) | [HOZE](https://open.spotify.com/artist/2CIUcv8pXYRUuU4Z5IvelB) | [Porta\-Malas](https://open.spotify.com/album/4ZncdiiEK9GwarUR9ZeiAD) | 4:13 |
 | 7 | [MERGULHO](https://open.spotify.com/track/5IiXMO5gSehzrwdcYV1IYy) | [Scalene](https://open.spotify.com/artist/4PTd1rpXV7XDffOuLY7M0z) | [L A B I R I N T 0](https://open.spotify.com/album/41YFkzhUoaJqjz2NwQtJiP) | 4:00 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2nd8BSnFnzT.md) - [plain]
 | 74 | [Abuso de Poder](https://open.spotify.com/track/3D36cD2XCe20jJgUb7NgH6) | [Expressão Natural](https://open.spotify.com/artist/6juomSRQSBzAbY4zQARLcM) | [Abuso de Poder](https://open.spotify.com/album/2OaWVGoV0DUMOcvPLVy8V6) | 4:56 |
 | 75 | [Mina](https://open.spotify.com/track/4YeJk4DpwDJmUIblg5uIMf) | [Cazuza](https://open.spotify.com/artist/1PwOU6fFbmaGkK3wkbb8fU) | [Mina](https://open.spotify.com/album/3b37659m8j3fvRca3zrjAX) | 2:57 |
 
-Snapshot ID: `MTY2NDUwNjg2MCwwMDAwMDAwMDQ1NGU0ZDFhMzI4ZmQ1N2M3OTE3NGM3ZmE2NGYwOGY1`
+Snapshot ID: `MTY2NTExMTY2MCwwMDAwMDAwMGRhMjg0OTZiYzI4Nzg0NmZiMGFiYjgzZDM4NmY5NGE1`

@@ -1392,6 +1392,24 @@
     },
     {
       "album": {
+        "name": "Motivation",
+        "url": "https://open.spotify.com/album/48fSfulmRvtuVOKZXn6a8F"
+      },
+      "artists": [
+        {
+          "name": "Mc-cool Anguzo",
+          "url": "https://open.spotify.com/artist/70mPeHdPgAIeOYhjL8xtBr"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242990,
+      "name": "Motivation",
+      "url": "https://open.spotify.com/track/4i4VJqautuPs4c8WlgdQzz"
+    },
+    {
+      "album": {
         "name": "Mukila",
         "url": "https://open.spotify.com/album/77JAOcjSdDRaB5PW1j0zDM"
       },
@@ -1955,10 +1973,28 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 400800,
       "name": "Science-Fiction",
       "url": "https://open.spotify.com/track/2GSk3VrKZZGRfDejDmhi86"
+    },
+    {
+      "album": {
+        "name": "Se Yo",
+        "url": "https://open.spotify.com/album/1Bgi3Kwi0hub7WFY3XKsXz"
+      },
+      "artists": [
+        {
+          "name": "Fally Ipupa",
+          "url": "https://open.spotify.com/artist/6IflU2YrY5Cyw7YoBICosV"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 441413,
+      "name": "Se Yo",
+      "url": "https://open.spotify.com/track/1dNDtsCf0m5aQ6SdpgyTo1"
     },
     {
       "album": {

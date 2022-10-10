@@ -4,13 +4,15 @@
 
 > Driving electronic grooves for improved motivation and performance.
 
-69 songs - 4 hr 3 min - [published](https://open.spotify.com/playlist/3PifnUsxdgchUCnyAhb9Ti)
+77 songs - 4 hr 37 min - [published](https://open.spotify.com/playlist/3PifnUsxdgchUCnyAhb9Ti)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A Different Way](https://open.spotify.com/track/2gdz7MRCHpxQlR9FrGyTNM) | [Othyr](https://open.spotify.com/artist/4ZNya8Pc6fLVRytdM8pnkv) | [A Different Way](https://open.spotify.com/album/2PmFKGURKYeSO6CnyaVwmf) | 6:25 | 2022-09-23 |  |
+| [After the Rains](https://open.spotify.com/track/3nVHB5vFE9Zpj4BYXFc3w4) | [Brendon Moeller](https://open.spotify.com/artist/3V3T5haMWZGfFxqVsAB9oB) | [Ascendant Waveforms](https://open.spotify.com/album/3yGCpmSTGWnkkIqb2e5xcG) | 3:49 | 2022-10-07 |  |
 | [Aguacates Maduros](https://open.spotify.com/track/3bDpJL4DCGc8ynUfhCtTHl) | [Pool\-Man John](https://open.spotify.com/artist/5tQdY6sUlCJwkUmfJK4rbe) | [Aguacates Maduros](https://open.spotify.com/album/5L5ZfUAzvCyBiBM3yWy5DC) | 2:43 | 2022-09-23 |  |
 | [Apollo](https://open.spotify.com/track/5sIlFL8mCj6AIrRDI1d6mT) | [Donkels](https://open.spotify.com/artist/6as2EDg4VeljtLbtgBy54P) | [Apollo](https://open.spotify.com/album/2FhcrxYhzCnGz5T0ZromSk) | 2:26 | 2022-09-23 |  |
+| [banana split](https://open.spotify.com/track/7u1tLb1LntsHDFhJ94AGlz) | [Cosmic Citrine](https://open.spotify.com/artist/3v9QBUh3xv6Nmh8fc7BGox) | [banana split](https://open.spotify.com/album/6SUdl3Z0bLceeTfQZLDU73) | 2:58 | 2022-10-07 |  |
 | [Beautiful House](https://open.spotify.com/track/16QQGyu1UFkfQREErhvyvf) | [Beautiful Minds](https://open.spotify.com/artist/5mDrLKHpzWOlD73nhHYUty) | [Beautiful House / Aqualogico](https://open.spotify.com/album/6a4pT5HdiimlPYlzDgriOq) | 4:36 | 2022-09-23 |  |
 | [Beautiful Symmetry](https://open.spotify.com/track/5MaIAkTbRIDxH1Eit4WTwM) | [Beautiful Minds](https://open.spotify.com/artist/5mDrLKHpzWOlD73nhHYUty) | [Beautiful Symmetry / Inner Life](https://open.spotify.com/album/7KDwizgKEqbPomuX6ICql1) | 4:41 | 2022-09-23 |  |
 | [Bloom](https://open.spotify.com/track/18giPJITeabMO6IB2pp45x) | [Wilborn](https://open.spotify.com/artist/73bYcf4jRS1co8vAERIbJW) | [Bloom](https://open.spotify.com/album/2OtEMRK0aS7xrnrrLtr44T) | 4:20 | 2022-09-23 |  |
@@ -18,6 +20,7 @@
 | [Border](https://open.spotify.com/track/4loHyp6Rhk3aOgdXz1n8Y0) | [8TYL](https://open.spotify.com/artist/0lW3Li71IqwPWQFYBuwVmQ) | [Border](https://open.spotify.com/album/2SQpSGWdyhaTHpTWB7wz84) | 6:02 | 2022-09-23 |  |
 | [canggu \- Edit](https://open.spotify.com/track/0jy4TqKxOwZoraKJkle0dC) | [wet n salty](https://open.spotify.com/artist/2Ai8jQFx9LfNmToEgFjDbn) | [canggu \(Edit\)](https://open.spotify.com/album/6X8rpYiAaelLkwZK9Vx32k) | 2:23 | 2022-09-23 |  |
 | [Chapter Two](https://open.spotify.com/track/0LOGcNCFLfCWLh9mzTmaG5) | [Far Orange](https://open.spotify.com/artist/1SIt7IjD8Q9RpwEklyMlUO) | [Chapter Two](https://open.spotify.com/album/2k4TuEENRlXWOp9sJLAnDr) | 5:11 | 2022-09-23 |  |
+| [Clearance](https://open.spotify.com/track/4Xs8dQwj1Ic4FyCcCyRKYq) | [Shiruky](https://open.spotify.com/artist/1Tr7ffkJ66E8bXTm2g7uEM) | [Clearance](https://open.spotify.com/album/32i7uXRwJK36jBrjndQ7m8) | 5:26 | 2022-10-07 |  |
 | [Clouds of Saturn](https://open.spotify.com/track/0P3NmkTGRUF0Asg8FuAOTv) | [Brendon Moeller](https://open.spotify.com/artist/3V3T5haMWZGfFxqVsAB9oB) | [Primordial](https://open.spotify.com/album/17yAydXl6iXvXJojFXYDVp) | 5:50 | 2022-09-23 |  |
 | [Creatures](https://open.spotify.com/track/2Xu88uUM8dvRSzsZa8Tm2W) | [Justin Berghart](https://open.spotify.com/artist/2U8TggBhPjlTITew6Z3Dgt) | [Creatures](https://open.spotify.com/album/4GSSe42yWKGReogQuuUfuE) | 4:58 | 2022-09-23 |  |
 | [Crispy](https://open.spotify.com/track/5B6twCLP2ufIy2Mc4L1rS0) | [Phlowsum](https://open.spotify.com/artist/71p3dUDaqo6EyfzQm8zCCo) | [Crispy](https://open.spotify.com/album/5xISlOqT0KGHfwbW0NOtij) | 2:28 | 2022-09-23 |  |
@@ -34,9 +37,11 @@
 | [Escapism](https://open.spotify.com/track/3pc3At69FqsZtWmvfyMDqQ) | [David Dumeau](https://open.spotify.com/artist/7w0cV0FuzKwIknB51cxzfQ) | [Escapism](https://open.spotify.com/album/6PcXdMwu5xe46sGQZRPbv3) | 3:00 | 2022-09-23 |  |
 | [Fade Away](https://open.spotify.com/track/3RO9tD7ttecxGrxJ0te80c) | [Toby Tech](https://open.spotify.com/artist/3AIUmOlOCNpbVbYL9RirIM) | [Fade Away](https://open.spotify.com/album/0iK59pBranztef9NbvtK1F) | 4:59 | 2022-09-23 |  |
 | [Feelings](https://open.spotify.com/track/4KohjkgXdXqYNHUOhcxJmF) | [MOOGADISHU](https://open.spotify.com/artist/0cV2d206HjrISLX6hSkktp) | [Feelings](https://open.spotify.com/album/49IUgUWndwR4zm99VyAi0J) | 2:48 | 2022-09-23 |  |
+| [Fondue](https://open.spotify.com/track/1pZldGjxSdpj7762vA8K2M) | [DJ Eely](https://open.spotify.com/artist/1pWq7WE6SgN6KxOFXD3w80) | [Fondue](https://open.spotify.com/album/4vXCNj1pri5Rh1RyplbD25) | 7:17 | 2022-10-07 |  |
 | [Forever Moving](https://open.spotify.com/track/4yVDSZslGasus5bSI1GOUH) | [Wai](https://open.spotify.com/artist/2naLLiIUfTp0IxAN6JM3hn) | [Party On The Block](https://open.spotify.com/album/5Kxpj5sNgDOgARuquZO2jD) | 2:59 | 2022-09-23 |  |
 | [Free Range](https://open.spotify.com/track/5DkPiFdxLbSSgZmaDJPntv) | [Brendon Moeller](https://open.spotify.com/artist/3V3T5haMWZGfFxqVsAB9oB) | [Cygnus A](https://open.spotify.com/album/0YH8iHF3YgylIRIdlL6bGV) | 2:38 | 2022-09-23 |  |
 | [From Here To Eternity](https://open.spotify.com/track/0CVApUBXDYlSnqFtAl7E1S) | [Toby Tech](https://open.spotify.com/artist/3AIUmOlOCNpbVbYL9RirIM) | [From Here To Eternity](https://open.spotify.com/album/5yvourEPzugOQ0Z4RkrFf7) | 4:41 | 2022-09-23 |  |
+| [Galaxies](https://open.spotify.com/track/0HvT91CmD0AyTLPHzlABrn) | [Stenkil](https://open.spotify.com/artist/0ZatGtzzVJiSlOiZkVU2ln) | [Galaxies](https://open.spotify.com/album/3bSYn35WoiHldPymVmaU4d) | 2:44 | 2022-10-07 |  |
 | [Glaskupad \- Axel E Remix \(Radio Edit\)](https://open.spotify.com/track/3fUtw6vacMxmpRHay1VztG) | [LEHNBERG](https://open.spotify.com/artist/7BRf7UkrsYXvgABbadmh3L), [Slim Vic](https://open.spotify.com/artist/2RQNyybaIaaskTzRz3fVDZ), [Axel E](https://open.spotify.com/artist/1GHddwV8QFsOhnDlLlYANI) | [Glaskupad \(Axel E Remix\)](https://open.spotify.com/album/2kcieKSF7jELFFBZ7UOVIP) | 3:51 | 2022-09-23 |  |
 | [Half\-Light](https://open.spotify.com/track/3VGEC6MUbZTRjg93etNpw8) | [Maudii](https://open.spotify.com/artist/4sh66zMHXR6pqwSnw82Tdj) | [Half\-Light](https://open.spotify.com/album/1OOB3nQBqEh34J0J1Ekbn2) | 2:47 | 2022-09-23 |  |
 | [Hold On](https://open.spotify.com/track/3cBsoWySE5misjwiHXpe4h) | [Valter Knut](https://open.spotify.com/artist/4PjYynoChLbnYyhPVSMnbq) | [Hold On](https://open.spotify.com/album/1Yyshg4PD11md8uNRapu8x) | 2:32 | 2022-09-23 |  |
@@ -64,6 +69,7 @@
 | [Reactor 7](https://open.spotify.com/track/0KEd7iWaVQLQgDOv4uZhci) | [Martin Spiske](https://open.spotify.com/artist/10ERqJV744ZtavyVoA7bIO) | [Reactor 7](https://open.spotify.com/album/0zzYTZxje2FEO9ta0ZvygS) | 2:56 | 2022-09-23 |  |
 | [Runaway](https://open.spotify.com/track/5jjCspZaeMpClv7S1H3a8E) | [Lombauer](https://open.spotify.com/artist/1xYnhHUchQSdNUiAFj1UFI) | [Runaway](https://open.spotify.com/album/3sOxykiyJjLNSiohhvL9hb) | 2:59 | 2022-09-23 |  |
 | [Running through Fire](https://open.spotify.com/track/6D4T0BRng7TOuoBvHCBAj5) | [Hercules' Revenge](https://open.spotify.com/artist/4qO1Q1xGNK6sczpkc2qoX7) | [Running through Fire](https://open.spotify.com/album/1hlKwTiR9SsrKiLzo1dxSl) | 3:17 | 2022-09-23 |  |
+| [Saltwater Dreams](https://open.spotify.com/track/6pRocudXtLnKRd61gtotIk) | [Sum Wave](https://open.spotify.com/artist/0bfdnPaHczaQt6tYe8J4Ci) | [Saltwater Dreams / Vague Sunset](https://open.spotify.com/album/6XIUklaqCksEasrYoQizZQ) | 2:47 | 2022-10-07 |  |
 | [Seadrift](https://open.spotify.com/track/3L3Zugtoy4iSpky2oiOjDI) | [Joshua Kimiko](https://open.spotify.com/artist/0rseV1mtdhrtR6FEHuvOIm) | [Seadrift](https://open.spotify.com/album/6EQYRA1zDcrhK0N9faGKbe) | 2:46 | 2022-09-23 |  |
 | [Serenity Lake](https://open.spotify.com/track/15eqN6GPpzHGifzihLGsGr) | [Béatrice Dupont](https://open.spotify.com/artist/4lGZ8fr3b2fq7uruNbUGcf) | [Serenity Lake](https://open.spotify.com/album/2otWMjizseTnAZrMGowQ91) | 2:36 | 2022-09-23 |  |
 | [Sinking Walls](https://open.spotify.com/track/4EH5JfnTScFvYhwadLbS3c) | [Gullen](https://open.spotify.com/artist/61k6okbUw17fpK27TFEXtI) | [Sinking Walls](https://open.spotify.com/album/4X6X9NKF0IUnXMtAHIgLSr) | 7:15 | 2022-09-23 |  |
@@ -73,9 +79,11 @@
 | [tanlines](https://open.spotify.com/track/1q3rZdIOgKe4LQPpcBqiyo) | [metricity](https://open.spotify.com/artist/3GyvrTet9xaits2vMSrVlT) | [tanlines](https://open.spotify.com/album/3eD0id4j2SrYRn9VeX5nkm) | 3:00 | 2022-09-23 |  |
 | [The Eclipse](https://open.spotify.com/track/71wKe7nLKqkaq3JYAFEdna) | [Svalka](https://open.spotify.com/artist/3sKxosk24x3adgfDCvOBCr) | [The Eclipse](https://open.spotify.com/album/12mh93J0d59nHpqkWUEeqJ) | 2:34 | 2022-09-23 |  |
 | [The Life of an Empath](https://open.spotify.com/track/6SKHpIBF0zImsmqmRkgvwp) | [VELDA](https://open.spotify.com/artist/4qJI9uNSis7Qi4J1q1Eufn) | [Melodic Mind](https://open.spotify.com/album/6U1k2aJKB0xIeHXAeG52mS) | 5:26 | 2022-09-23 |  |
+| [Vana](https://open.spotify.com/track/1X1teXcaWQFH4iOTkCOh9a) | [Valante](https://open.spotify.com/artist/3s1vSYK2eb5fflFHezIbUh) | [Vana / Ocea](https://open.spotify.com/album/1hOFPN4SzceP1DJD5LTEmU) | 4:20 | 2022-10-07 |  |
 | [We Are the Stars](https://open.spotify.com/track/5nRHKAgw6ZY1NqNA5amA2Y) | [Lady DJ](https://open.spotify.com/artist/3luz91ywJZl3n8zqhqNTLP) | [We Are the Stars](https://open.spotify.com/album/5OGy2WlkfkHf8uSchuFEkl) | 2:19 | 2022-09-23 |  |
 | [Where Have U Been?](https://open.spotify.com/track/3bCnwmJwBob222khzVUrcN) | [Valter Knut](https://open.spotify.com/artist/4PjYynoChLbnYyhPVSMnbq) | [Where Have U Been?](https://open.spotify.com/album/3gmS7R3fNWUNN8Ewwy6URY) | 2:16 | 2022-09-23 |  |
 | [Wish You Were Mine](https://open.spotify.com/track/3nTWBIjPDUWuuAfIdgQgxi) | [Pableno](https://open.spotify.com/artist/3Yx4eLSofQtpIvtTGcM77h) | [Wish You Were Mine](https://open.spotify.com/album/5wbyzmz1QgQ2B9K5NSoaGL) | 3:09 | 2022-09-23 |  |
+| [Wut](https://open.spotify.com/track/1dlNlopZwjwqb6orJH1MKC) | [Hank Lotion](https://open.spotify.com/artist/6d71KgnO30CCz8iSQuzFkM) | [Wut](https://open.spotify.com/album/1D9FIFbNkvp0dPN8CuKLKB) | 4:03 | 2022-10-07 |  |
 | [Yesterday's Dream](https://open.spotify.com/track/3eb9HO1cq8uzEmUdU7mNvs) | [Catalina En Collins](https://open.spotify.com/artist/6oaPME8tL5UOyja7VEvx0J) | [Yesterday's Dream](https://open.spotify.com/album/0ebm4T6CGvYIIharGfIftv) | 2:31 | 2022-09-23 |  |
 
 \*This playlist was first scraped on 2022-09-23. Prior content cannot be recovered.

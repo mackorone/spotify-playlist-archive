@@ -4,7 +4,7 @@
 
 > Cuando las palabras no alcanzan, siempre habrá canciones para decirle lo que sientes\. Dannylux en portada.
 
-168 songs - 9 hr 44 min - [published](https://open.spotify.com/playlist/7uQBD2uEj9JYWsbOq2NLVj)
+169 songs - 9 hr 46 min - [published](https://open.spotify.com/playlist/7uQBD2uEj9JYWsbOq2NLVj)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -169,7 +169,8 @@
 | [Volare](https://open.spotify.com/track/6TCnhziFkBPhOTqvh8zVDU) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [Volare](https://open.spotify.com/album/56qdykzNrRw4ls93MBNKZc) | 2:27 | 2022-07-22 |  |
 | [Vuelve](https://open.spotify.com/track/32tWreE2GOVOm2ejNodqec) | [Raquel Sofía](https://open.spotify.com/artist/0J9JLJmiTXJFvvyHS3Qzn4) | [Vuelve](https://open.spotify.com/album/4wHg1eyuGM2bssjPqjuuR7) | 4:13 | 2022-02-04 | 2022-02-18 |
 | [Vuelves](https://open.spotify.com/track/3LWVY4DMOKW2JpOttms6Q6) | [Neela](https://open.spotify.com/artist/3c5q3H7Y58kioMJEZfAPgF) | [Vuelves](https://open.spotify.com/album/3AGWL2gr3nB14n0vts7Vld) | 3:17 | 2022-02-04 |  |
-| [Ya Casi Te Olvido](https://open.spotify.com/track/3Mplc3LHNZRLKijTavtyCC) | [Sebastián Romero](https://open.spotify.com/artist/0FpJe752weMmwiyJyF8zXq), [Pau Laggies](https://open.spotify.com/artist/4yxXxMpC0bNGbc1LePew2t) | [Ya Casi Te Olvido](https://open.spotify.com/album/1W6H0omeMvwCRyWhFJaah6) | 2:14 | 2022-07-22 |  |
+| [Ya Casi Te Olvido](https://open.spotify.com/track/1vuKB66nAGOCCAXloMww7H) | [Pau Laggies](https://open.spotify.com/artist/4yxXxMpC0bNGbc1LePew2t), [Sebastián Romero](https://open.spotify.com/artist/0FpJe752weMmwiyJyF8zXq) | [Ya Casi Te Olvido](https://open.spotify.com/album/5pI8Pt8PsoIm3JdZdM7tnf) | 2:14 | 2022-09-09 |  |
+| [Ya Casi Te Olvido](https://open.spotify.com/track/3Mplc3LHNZRLKijTavtyCC) | [Sebastián Romero](https://open.spotify.com/artist/0FpJe752weMmwiyJyF8zXq), [Pau Laggies](https://open.spotify.com/artist/4yxXxMpC0bNGbc1LePew2t) | [Ya Casi Te Olvido](https://open.spotify.com/album/1W6H0omeMvwCRyWhFJaah6) | 2:14 | 2022-07-22 | 2022-10-08 |
 | [Ya Casi Te Olvido](https://open.spotify.com/track/4GBx2b88twICiMHVgmkRl9) | [Sebastián Romero](https://open.spotify.com/artist/0FpJe752weMmwiyJyF8zXq), [Pau Laggies](https://open.spotify.com/artist/4yxXxMpC0bNGbc1LePew2t) | [Ya Casi Te Olvido](https://open.spotify.com/album/0vTenUdY3FK08gAmq1qZ4T) | 2:14 | 2022-03-11 | 2022-07-29 |
 | [Yo No Quiero Suerte](https://open.spotify.com/track/6cT1Y3M784gLrzxuKdf2WJ) | [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF) | [Sanz](https://open.spotify.com/album/0FZBhjDJOY7l3eQ1uswUR4) | 4:24 | 2022-02-04 |  |
 | [Yo Te Espero](https://open.spotify.com/track/4KSlOvbkQTJPYlBBMMPrbW) | [Fehr Rivas](https://open.spotify.com/artist/37U8NRF583ABrv1mlYcxce) | [Rockmántico](https://open.spotify.com/album/58XRXCgqyjkKpNRgaLsIpy) | 3:25 | 2022-02-04 | 2022-03-12 |

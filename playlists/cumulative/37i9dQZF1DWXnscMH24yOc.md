@@ -4,7 +4,7 @@
 
 > Kick back and relax with a collection of eclectic and unexpected reimaginings\. Cover:  Joy Oladokun
 
-253 songs - 15 hr 48 min - [published](https://open.spotify.com/playlist/406cJKXTiZWXbCtbjiF9b5)
+254 songs - 15 hr 53 min - [published](https://open.spotify.com/playlist/406cJKXTiZWXbCtbjiF9b5)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [Are You That Somebody](https://open.spotify.com/track/2f4SFBQcbVLQbtgrzBb26O) | [Lynn Olsen](https://open.spotify.com/artist/5WcA4NKAuR5fPBiyfN8Reh) | [Alright](https://open.spotify.com/album/0J0o7JLeWXyykOEvkFYfOn) | 3:39 | 2022-03-22 | 2022-04-20 |
 | [Atlantic City](https://open.spotify.com/track/5KZmeBnCiuX4rnwVw0x5QL) | [Lauren O'Connell](https://open.spotify.com/artist/5k58ro6wizhwH6oPwICLns) | [Atlantic City](https://open.spotify.com/album/2e792asbrPWJQoANSeVWVZ) | 3:16 | 2021-10-21 | 2022-07-15 |
 | [Avant Gardener](https://open.spotify.com/track/1AbLKGveV3jFFKVKFYP2Ur) | [Gordi](https://open.spotify.com/artist/6UBMFaCTZnL1Hr1nTOEblM) | [Avant Gardener](https://open.spotify.com/album/2QeazQ3EKDtLZ6lRdZceNa) | 4:19 | 2021-10-21 | 2022-07-29 |
+| [Avant Gardener](https://open.spotify.com/track/6JZH57Qi4g0DgdB8wTeDGS) | [Gordi](https://open.spotify.com/artist/6UBMFaCTZnL1Hr1nTOEblM) | [Avant Gardener](https://open.spotify.com/album/6pGyMnVTSLITj39L7zDqj4) | 4:19 | 2022-03-22 | 2022-10-09 |
 | [Bang Bang \(My Baby Shot Me Down\)](https://open.spotify.com/track/7nghYGsh54yEir2qzPxqyk) | [Daniela Andrade](https://open.spotify.com/artist/0WfaItAbs4vlgIA1cuqGtJ) | [Bang Bang \(My Baby Shot Me Down\)](https://open.spotify.com/album/2U3XfU54vAKKyJUgmnk2sf) | 2:33 | 2022-03-22 | 2022-09-15 |
 | [Believe](https://open.spotify.com/track/30rvG8w7qtOnsqiUk6JSvE) | [Anna of the North](https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI) | [Believe](https://open.spotify.com/album/6Ul0gfTmSuXeNcF3ufnLZQ) | 4:12 | 2021-10-21 | 2022-07-29 |
 | [Berlin \(Ry X cover\)](https://open.spotify.com/track/3f6UOwEl6v3n3EjXcjxX9E) | [Adna](https://open.spotify.com/artist/1pduOlnYE5rd4VChXbeU8g) | [Berlin \(Ry X cover\)](https://open.spotify.com/album/7JYiPQpbtta8oswaR48xhD) | 3:49 | 2022-03-22 | 2022-05-25 |
@@ -82,7 +83,7 @@
 | [Fade into You](https://open.spotify.com/track/5xkEkPxG9GkoxxcacT2cXW) | [Sara Rachele](https://open.spotify.com/artist/2OkyMqAoaxpBa9QUrJdlOL) | [Listen, Judas / Fade into You](https://open.spotify.com/album/59X6lUes7LbwYH4HbbD9jq) | 5:48 | 2022-03-22 | 2022-04-20 |
 | [Fake Empire](https://open.spotify.com/track/0YZWUkELGlFigAxGLMnfj8) | [Molly Tuttle](https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE) | [...but i'd rather be with you](https://open.spotify.com/album/1Misn812Z5W216eNI7NuIy) | 3:25 | 2021-10-21 | 2022-07-29 |
 | [Feel Good Inc.](https://open.spotify.com/track/5qeL0fWg4IDLZNUjVu53f2) | [filous](https://open.spotify.com/artist/2IjiuEObrCKyZvSb8xLxG9), [LissA](https://open.spotify.com/artist/6aAestjbtEbALwyIYPg8Na) | [Feel Good Inc.](https://open.spotify.com/album/0UC9mGhLRmVHIvhWgOPLlH) | 3:56 | 2022-03-22 | 2022-04-13 |
-| [Feel Good Inc.](https://open.spotify.com/track/5qeuUnuxiYzdkXZkcWD5gb) | [filous](https://open.spotify.com/artist/2IjiuEObrCKyZvSb8xLxG9), [LissA](https://open.spotify.com/artist/6aAestjbtEbALwyIYPg8Na) | [Feel Good Inc.](https://open.spotify.com/album/4FjHmmKcMhmwZJkUWnbSje) | 3:56 | 2022-03-22 |  |
+| [Feel Good Inc.](https://open.spotify.com/track/5qeuUnuxiYzdkXZkcWD5gb) | [filous](https://open.spotify.com/artist/2IjiuEObrCKyZvSb8xLxG9), [LissA](https://open.spotify.com/artist/6aAestjbtEbALwyIYPg8Na) | [Feel Good Inc.](https://open.spotify.com/album/4FjHmmKcMhmwZJkUWnbSje) | 3:56 | 2022-03-22 | 2022-10-07 |
 | [Final Song](https://open.spotify.com/track/1VXJxus09S5VAcQ0VcaKjj) | [Wendy Lucas](https://open.spotify.com/artist/0QS3e81yxqcAh6izLUEa3a), [Jesse Justin](https://open.spotify.com/artist/05DZnoWzNBtiUH1Lttznjm) | [Final Song](https://open.spotify.com/album/0oWhABKDsYiQc9wiHEEoHk) | 2:21 | 2021-10-21 | 2022-07-29 |
 | [Flume](https://open.spotify.com/track/4cJt0STYaj8iH6sVeCFUqw) | [Jesse Daniel Smith](https://open.spotify.com/artist/2ciKXsw2J3JHto2f38qc0W) | [Jesse Daniel Smith Is Playing Other People's Music](https://open.spotify.com/album/3IF4D1sqHjDbQJ4RDRfhb2) | 3:07 | 2022-03-22 | 2022-04-19 |
 | [Friday I'm in Love](https://open.spotify.com/track/0Mmwl88NJOfr7hSqNWXuwX) | [Oselie](https://open.spotify.com/artist/2WFpP5JesWt9H0zqKesrCJ) | [Friday I'm in Love](https://open.spotify.com/album/3SslCuIYB5WJZnBKYrMmEA) | 2:53 | 2021-10-21 |  |
@@ -200,7 +201,7 @@
 | [Sober](https://open.spotify.com/track/4F1iikWAaDmhdurtxwwSFT) | [VÉRITÉ](https://open.spotify.com/artist/1Fr6agZ6iSM5Ynn2k4C8sc) | [Sober](https://open.spotify.com/album/1oVGEfAemIxuJpWmO9gkJf) | 3:55 | 2022-03-22 | 2022-04-21 |
 | [Somebody to Love](https://open.spotify.com/track/0L9fWUcLnPIf5Z7rljJ8Mm) | [Branches](https://open.spotify.com/artist/6sMpWUXJNv5pPggHyvqKw2) | [Covers](https://open.spotify.com/album/1eGhBN5TotmkJFhtVm9Kvm) | 3:42 | 2022-03-22 |  |
 | [Somebody to Love](https://open.spotify.com/track/65PXViRNbmck0eXI0qhB2G) | [Branches](https://open.spotify.com/artist/6sMpWUXJNv5pPggHyvqKw2) | [Covers](https://open.spotify.com/album/1YDm5Ooe4VB1QaiynDvJpN) | 3:42 | 2022-03-22 | 2022-04-17 |
-| [Soul Meets Body](https://open.spotify.com/track/6MKXxE9Zz18KXyPO7T5vhI) | [Imaginary Future](https://open.spotify.com/artist/470WlqN9HSRDGNaMufeHHF) | [Soul Meets Body](https://open.spotify.com/album/2vZ09NrNvE2ekWg9WVRAT7) | 3:38 | 2021-10-21 | 2022-09-20 |
+| [Soul Meets Body](https://open.spotify.com/track/6MKXxE9Zz18KXyPO7T5vhI) | [Imaginary Future](https://open.spotify.com/artist/470WlqN9HSRDGNaMufeHHF) | [Soul Meets Body](https://open.spotify.com/album/2vZ09NrNvE2ekWg9WVRAT7) | 3:38 | 2021-10-21 |  |
 | [Starboy \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/7FxWJX9m6V4d9lYZ5vogqW) | [SHAED](https://open.spotify.com/artist/3KwmxIhSe9UTSEF37kwngR) | [Spotify Singles](https://open.spotify.com/album/7422NfmOW8GffdVQNbM90S) | 3:31 | 2022-03-22 | 2022-04-21 |
 | [Summer's End \- Spotify Singles](https://open.spotify.com/track/2lVPHHSn8elKFEf1d6evFG) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Maria Taylor](https://open.spotify.com/artist/6iKiDPed4LAQEcPZpvf00m) | [Spotify Singles](https://open.spotify.com/album/1pBRAyTNXs1QRRAFRZ4Ygs) | 3:54 | 2021-10-21 |  |
 | [Sunflower, Vol\. 6](https://open.spotify.com/track/535qfjYWFpQBjvIpWNG1ZG) | [Molly Tuttle](https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE) | [...but i'd rather be with you](https://open.spotify.com/album/1Misn812Z5W216eNI7NuIy) | 3:55 | 2021-10-21 |  |

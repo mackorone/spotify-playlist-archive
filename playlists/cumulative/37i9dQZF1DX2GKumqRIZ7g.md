@@ -4,7 +4,7 @@
 
 > Four to the floor with your disco queens and kings\. Cover: Sylvester
 
-78 songs - 6 hr 30 min - [published](https://open.spotify.com/playlist/3W1OXCv2wCUeYUG2uyRNKn)
+79 songs - 6 hr 35 min - [published](https://open.spotify.com/playlist/3W1OXCv2wCUeYUG2uyRNKn)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,8 @@
 | [Disco Inferno](https://open.spotify.com/track/7bET0DUAs59D6BsbdTqXuw) | [The Trammps](https://open.spotify.com/artist/1zgNpeHQe8GulzfVkYP2VK) | [The Trammps](https://open.spotify.com/album/0ul2B7WEJ43BP66ib1z9en) | 3:38 | 2022-05-31 |  |
 | [Disco Inferno \- Single Edit](https://open.spotify.com/track/22ff60cZy4APp7bzESHLR8) | [The Trammps](https://open.spotify.com/artist/1zgNpeHQe8GulzfVkYP2VK) | [Rhino Hi\-Five: The Trammps](https://open.spotify.com/album/6eAq1OY2L1F3qleomkvtX7) | 3:11 | 2021-06-01 | 2022-09-02 |
 | [Everybody Dance \- 12" Mix](https://open.spotify.com/track/0LqPXq2pKXnydc96PvTK3v) | [CHIC](https://open.spotify.com/artist/0Xf8oDAJYd2D0k3NLI19OV) | [Dance, Dance, Dance: The Best of Chic](https://open.spotify.com/album/0XRRSLnVrtXMI6cyVCacjd) | 8:27 | 2021-06-01 |  |
-| [Feels Like I'm in Love](https://open.spotify.com/track/3Swc1delyFn1fwPDkInUhC) | [Kelly Marie](https://open.spotify.com/artist/5lD4NOWjS7yf69zIK46Chy) | [Feels Like I'm in Love](https://open.spotify.com/album/2Qg2gDjtzgtCVcokMRS7Wv) | 4:16 | 2022-05-31 |  |
+| [Feel's Like I'm in Love \(Remastered 2022\)](https://open.spotify.com/track/4BsfjNW3pyRIk5hWiQXKjE) | [Kelly Marie](https://open.spotify.com/artist/5lD4NOWjS7yf69zIK46Chy) | [Feel's Like I'm in Love \(Remastered 2022\)](https://open.spotify.com/album/2yOFiqdWuDz5b5jV53LjJp) | 4:16 | 2022-05-31 |  |
+| [Feels Like I'm in Love](https://open.spotify.com/track/3Swc1delyFn1fwPDkInUhC) | [Kelly Marie](https://open.spotify.com/artist/5lD4NOWjS7yf69zIK46Chy) | [Feels Like I'm in Love](https://open.spotify.com/album/2Qg2gDjtzgtCVcokMRS7Wv) | 4:16 | 2022-05-31 | 2022-10-07 |
 | [Feels Like I'm In Love \- Original Radio Mix](https://open.spotify.com/track/0MF3XV3L0oGokmU8qxYMba) | [Kelly Marie](https://open.spotify.com/artist/5lD4NOWjS7yf69zIK46Chy) | [Disco Funk Dancefloor](https://open.spotify.com/album/4fu0SxgVPem0Np43iLEPWN) | 4:20 | 2021-06-01 | 2022-07-29 |
 | [Give Me Love](https://open.spotify.com/track/2ffCT6Pe2LYriwN2Y5ObIg) | [Cerrone](https://open.spotify.com/artist/5SE2sfwTpxL2vXRdG6H5PM) | [3 \- Supernature](https://open.spotify.com/album/32apoWgzplX4qKdC9PgjYR) | 7:42 | 2022-05-31 |  |
 | [Give Me Love](https://open.spotify.com/track/5uX480gqL3iMhUg0J43nOa) | [Cerrone](https://open.spotify.com/artist/5SE2sfwTpxL2vXRdG6H5PM) | [Cerrone I, II, III](https://open.spotify.com/album/2SRsHpJKYvUhAAmZeYJWgd) | 7:42 | 2021-06-01 | 2022-07-29 |

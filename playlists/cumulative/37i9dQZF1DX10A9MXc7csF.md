@@ -2,9 +2,9 @@
 
 ### [Música Mexicana Rising](https://open.spotify.com/playlist/37i9dQZF1DX10A9MXc7csF)
 
-> The new school of Música Mexicana\. Cover: Natalie López, Ivonne Galaz, Janine, Dueto Eleval, Tania Dominguez.
+> The new school of Música Mexicana\. Cover: Estilo Sin Limite
 
-222 songs - 11 hr 36 min - [published](https://open.spotify.com/playlist/5fGjTGABmDRAhYaKIhz6Cv)
+225 songs - 11 hr 44 min - [published](https://open.spotify.com/playlist/5fGjTGABmDRAhYaKIhz6Cv)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,7 @@
 | [2:26am](https://open.spotify.com/track/17FDxgsz6jzkAwIs2cULWO) | [El Proyecto](https://open.spotify.com/artist/5tm5SxkL3KMVzl9XQvr5Ai) | [2:26am](https://open.spotify.com/album/51Sby9woh6xtIDTMTUyeCF) | 3:21 | 2022-07-22 | 2022-09-09 |
 | [30 Tiros](https://open.spotify.com/track/2bRU7HM6NLErB3lfM9BAQI) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [30 Tiros](https://open.spotify.com/album/18dH6cfAZmBloSqAGTdFI2) | 2:53 | 2022-09-09 |  |
 | [300 Locos \- En Vivo](https://open.spotify.com/track/2v7r3q9rDqNWfrhAU157gV) | [Panchito Arredondo](https://open.spotify.com/artist/1enyvmNKgt4BIIkVnt9FAV) | [300 Locos \(En Vivo\)](https://open.spotify.com/album/3FJKfGDxTfo47JG6JDJJW5) | 2:29 | 2022-05-14 | 2022-08-27 |
-| [7 Botellas](https://open.spotify.com/track/7ieVd5galRFfFirvbqp0vG) | [Las Marías](https://open.spotify.com/artist/1BsFNAYZkEx6rvQJH4sN6w) | [7 Botellas](https://open.spotify.com/album/4oWgbiu4Usjz3eXJa5Umnw) | 3:01 | 2022-08-26 |  |
+| [7 Botellas](https://open.spotify.com/track/7ieVd5galRFfFirvbqp0vG) | [Las Marías](https://open.spotify.com/artist/1BsFNAYZkEx6rvQJH4sN6w) | [7 Botellas](https://open.spotify.com/album/4oWgbiu4Usjz3eXJa5Umnw) | 3:01 | 2022-08-26 | 2022-10-08 |
 | [A 180](https://open.spotify.com/track/4R5boTls8v2TvV88wv0dCz) | [Justin Morales](https://open.spotify.com/artist/5D7x9esAF6twPxuOqSMkeO) | [A 180](https://open.spotify.com/album/5CBwX2peGRvpXpNDo6q7V4) | 3:01 | 2022-05-14 | 2022-07-23 |
 | [A Darle Con Todo \- En Vivo](https://open.spotify.com/track/7kMnOMAVYzFnJXRqU6cvqD) | [Nathan Galante](https://open.spotify.com/artist/0mYDDBNR5KCRC68CkmeOJB) | [A Darle Con Todo \(En Vivo\)](https://open.spotify.com/album/0sE8OAlzBJE2bRd96WTj1H) | 2:42 | 2022-05-14 | 2022-09-09 |
 | [A Pata](https://open.spotify.com/track/0nLK5ol9VxY6OzYhjNwyvy) | [Inoboiz](https://open.spotify.com/artist/72kfJ36enf8Xj9fHmxWvVJ) | [Trailer Park Boiz Vol\. 2](https://open.spotify.com/album/5lS9isCntFJm1oHRIn1rES) | 2:23 | 2022-05-14 | 2022-09-09 |
@@ -25,6 +25,7 @@
 | [Algo Bien](https://open.spotify.com/track/6E2UlKRAx8hj0tSHpUGGEX) | [ElArturo](https://open.spotify.com/artist/2i64HL05WcatPAtIFUOZrL) | [Algo Bien](https://open.spotify.com/album/133UPGEfQOugLFIIurBTTy) | 2:46 | 2022-05-14 | 2022-09-09 |
 | [Amor De Cuentos](https://open.spotify.com/track/3bV4QB5JZAueeyo9W2EEWr) | [LDNE](https://open.spotify.com/artist/5hkcGbdTv8nC62vVT7RJmZ) | [Proximo Paso](https://open.spotify.com/album/6MwNDzZOVY9vcbhyqfJKuc) | 2:43 | 2022-05-14 | 2022-06-04 |
 | [Andamos Mejor](https://open.spotify.com/track/3K56RPWS4q200IwHiIZcUD) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA) | [Andamos Mejor](https://open.spotify.com/album/2NQwwZeDFB6bTXg8rcAFsf) | 2:17 | 2022-05-14 | 2022-07-23 |
+| [Ando Bien Ü](https://open.spotify.com/track/1x6o9oZPUhniTVaSsqPtX8) | [Michelle Maciel](https://open.spotify.com/artist/4WFwvZ4L8FZbt3qubbQJS6) | [Ando Bien Ü](https://open.spotify.com/album/0HdJEOLEX1nw0XEaFNsmST) | 2:44 | 2022-10-07 |  |
 | [Aqui Nadie Va Llorar](https://open.spotify.com/track/3GsyP1fVOdYIOMnDdHqqK3) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA) | [Aqui Nadie Va Llorar](https://open.spotify.com/album/7jE1VwGCyweX4rWukicMVq) | 3:15 | 2022-06-03 | 2022-09-09 |
 | [Arroz Con Leche](https://open.spotify.com/track/0KOLLA1pqLBYFvWy1qfHS1) | [Cachas De Oro](https://open.spotify.com/artist/17FY0cfPgTE9dHFHU7kxcU) | [Arroz Con Leche](https://open.spotify.com/album/5ofEPdxEML57Lnxcr1t5Yn) | 2:35 | 2022-05-14 | 2022-08-27 |
 | [Así Soy](https://open.spotify.com/track/3yZ4hhkdAmZ9gwEyWavAsW) | [Hadrian](https://open.spotify.com/artist/2F9icYS5KP4Td9nbxIjo9q) | [Así Soy](https://open.spotify.com/album/5DsyGnotkIR6K9It6lFOJH) | 2:59 | 2022-05-14 | 2022-09-09 |
@@ -95,6 +96,7 @@
 | [Esta Vida](https://open.spotify.com/track/66LAQt5CPZ1eokcx1gHQLD) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [Mi Vida En Un Cigarro 2](https://open.spotify.com/album/3ind4Ir3JMazCITxWQajDb) | 3:20 | 2022-05-14 | 2022-06-04 |
 | [Estas En Mi Pasado](https://open.spotify.com/track/62PeKIJQiist979Q2GBrFc) | [Yahritza Y Su Esencia](https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A) | [Obsessed \(Deluxe\)](https://open.spotify.com/album/39CdVx9DN5FtCzIyqkrzAq) | 3:55 | 2022-07-22 | 2022-09-09 |
 | [Estilo Call Of Duty](https://open.spotify.com/track/65zc43qPQdyWJdxjL0e39m) | [Dylan Coronel](https://open.spotify.com/artist/3oBZXbSQHXnxp9sWJcUT7j), [Ysrael Barajas](https://open.spotify.com/artist/1KUm2LsC3HnPKHvIoo4cKu) | [Estilo Call Of Duty](https://open.spotify.com/album/5rs3LSRCXx44C3f8vYsGYu) | 3:10 | 2022-09-09 |  |
+| [Fayer](https://open.spotify.com/track/3vnA3XGgCmYuDJBJ5GyTPn) | [Estilo Sin Limite](https://open.spotify.com/artist/3EhvqOxws7gMwok2Z9XOjd) | [Fayer](https://open.spotify.com/album/2YCkZ9WQZ8Ctz0tI4L7MIB) | 3:04 | 2022-10-07 |  |
 | [Fly Club Quemando](https://open.spotify.com/track/2UuIA67jXVR9Tdcfhm2qv7) | [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5) | [Fly Club Quemando](https://open.spotify.com/album/7czD8wSyjjfqZXLIy08mgr) | 2:43 | 2022-05-14 | 2022-07-23 |
 | [Freestyle](https://open.spotify.com/track/0wI7ORmp7jNtSvEQfCSMaO) | [Alan Trillas](https://open.spotify.com/artist/1z00YgjM64ahCe9dWbZJsE) | [Freestyle](https://open.spotify.com/album/3m8WtFX6l6qgphDmg3LHzo) | 2:50 | 2022-09-09 |  |
 | [Fumamos Mota](https://open.spotify.com/track/3vSq4gnH2PnKRWV9Nca8Pl) | [Estevan Plazola](https://open.spotify.com/artist/4Rh80sXmcG4xDP1r6dTNiQ), [Emmanuel Olea](https://open.spotify.com/artist/6g5rNqD6vHkhB3aFSeti3u) | [Archive Muzik Vol\. 1](https://open.spotify.com/album/5r16VPYF9XXsjhTGzeuKVC) | 4:34 | 2022-05-14 | 2022-08-27 |
@@ -108,6 +110,7 @@
 | [Hay Que Disfrutar](https://open.spotify.com/track/4lddujOxgHNcfmCvj9ajzy) | [Lluvia Arámbula](https://open.spotify.com/artist/1GNHRCTZBHUf8rYfPTjT92), [Tony Loya](https://open.spotify.com/artist/6n4UZ6Nju0cFj8VSoYCN6L) | [Hay Que Disfrutar](https://open.spotify.com/album/71u20Cjtd4giAmYqL1a58D) | 2:47 | 2022-09-09 |  |
 | [Huelo A Logro \(Live\)](https://open.spotify.com/track/4wQlgWVHhzzci6pkPrqK1G) | [Estevan Plazola](https://open.spotify.com/artist/4Rh80sXmcG4xDP1r6dTNiQ), [Tony Loya](https://open.spotify.com/artist/6n4UZ6Nju0cFj8VSoYCN6L) | [Huelo A Logro \(Live\)](https://open.spotify.com/album/7bv10kqAw8E4ckAgGAE7ZF) | 5:02 | 2022-08-05 | 2022-09-09 |
 | [Infeliz](https://open.spotify.com/track/1HfkiyazS6licNey0lz01N) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Perdido En Ti](https://open.spotify.com/album/6DXKFFQcoS3ovfQVzj26fg) | 3:19 | 2022-05-14 | 2022-08-27 |
+| [Inseparables](https://open.spotify.com/track/57GWBz1UtT6iei1jrbkovI) | [Yahritza Y Su Esencia](https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A), [Ivan Cornejo](https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV) | [Inseparables](https://open.spotify.com/album/31DfpAhFnPyIXUZFWdu32y) | 2:51 | 2022-10-07 |  |
 | [Invitaciones](https://open.spotify.com/track/1qlVoMUKifgWjWdQ49FbWr) | [Grupo Diez 4tro](https://open.spotify.com/artist/6ubJLRTVzomuWIScbguoSY), [Legado 7](https://open.spotify.com/artist/1sR3KHfY1ZmWxRxtoMmqPf) | [Consejos De La Vida](https://open.spotify.com/album/3Sj1ZVGCVQxDHBhaOzeJJ5) | 3:32 | 2022-05-27 | 2022-07-23 |
 | [J.](https://open.spotify.com/track/4lUsBLTAiufWocWtg4H0my) | [Ivan Cornejo](https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV) | [Dañado](https://open.spotify.com/album/1i5VsPI1sXn847oHyXyZCh) | 3:54 | 2022-06-03 | 2022-09-09 |
 | [Jefe De Juarez](https://open.spotify.com/track/5QVllms1Vr8w1n1sI87RkC) | [Inoboiz](https://open.spotify.com/artist/72kfJ36enf8Xj9fHmxWvVJ) | [Trailer Park Boiz Vol\. 2](https://open.spotify.com/album/5lS9isCntFJm1oHRIn1rES) | 3:23 | 2022-06-03 | 2022-08-06 |

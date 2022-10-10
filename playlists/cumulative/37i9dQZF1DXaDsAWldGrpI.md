@@ -4,7 +4,7 @@
 
 > Your favorite artists, caught in the act!  Recorded Live...just like you were there\.  Cover:  Kenny Chesney
 
-99 songs - 7 hr 10 min - [published](https://open.spotify.com/playlist/26VNM7RZboFEJ69w2h5xCg)
+100 songs - 7 hr 13 min - [published](https://open.spotify.com/playlist/26VNM7RZboFEJ69w2h5xCg)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,6 +71,7 @@
 | [Ol' Red \- Live](https://open.spotify.com/track/1tCBOvBBXD61UUlkIVhcWu) | [Blake Shelton](https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw) | [Blake Shelton \(Live\)](https://open.spotify.com/album/2cOq8VHZtK23WbWfBeOZ2y) | 3:59 | 2021-07-22 |  |
 | [Once In A Lifetime \- Live At The Arena At Gwinnett, GA/2008](https://open.spotify.com/track/384QzCWUyXbF4U2afrLYcT) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Get Closer \(Deluxe Version\)](https://open.spotify.com/album/62MetN2sHDnc8vVth9iInk) | 7:10 | 2021-07-22 |  |
 | [Ours \- Live/2011](https://open.spotify.com/track/68QyrSzpnoU04AAhE5z8lj) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Speak Now World Tour Live](https://open.spotify.com/album/6fyR4wBPwLHKcRtxgd4sGh) | 4:05 | 2021-07-22 |  |
+| [Over For You \- Live in Melbourne](https://open.spotify.com/track/05n88AzLQdSxS3qNQeTJBl) | [Morgan Evans](https://open.spotify.com/artist/6fzQ81ouajOEFqCIB9VwrS) | [Over For You \(Live in Melbourne\)](https://open.spotify.com/album/0LjpFQ6PhPfKERb0zHwFc2) | 3:34 | 2022-10-07 |  |
 | [Real Good Man \- Live From Spotify NYC](https://open.spotify.com/track/0MNezJUzb1fx2gqQ8cPeLT) | [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd) | [Spotify Sessions](https://open.spotify.com/album/3citk3NfGLpdph8cGMiKQz) | 3:51 | 2021-07-22 |  |
 | [Record Year \- Live At Staples Center, Los Angeles, CA / March 31, 2017](https://open.spotify.com/track/1aaVflBoMypwij2UKVschg) | [Eric Church](https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV) | [61 Days In Church Volume 5](https://open.spotify.com/album/6TKll42LRpYtifeJcNmifp) | 3:41 | 2021-07-22 |  |
 | [Round Here \- Live From Joe's Bar, Chicago / 2012](https://open.spotify.com/track/40NEsJv5x0HsxDrvvxLwvc) | [Florida Georgia Line](https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg) | [Round Here \(Live From Joe's Bar, Chicago / 2012\)](https://open.spotify.com/album/0D83bO5GmEHbFkmVVWPhYV) | 4:04 | 2022-08-26 |  |

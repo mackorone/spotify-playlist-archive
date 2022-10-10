@@ -381,7 +381,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-17",
+      "date_removed": null,
       "duration_ms": 203994,
       "name": "A Light Without Flame",
       "url": "https://open.spotify.com/track/7iFOhRAni6M6bPyfsmvapG"
@@ -2333,7 +2333,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 468200,
       "name": "City Radieuse",
       "url": "https://open.spotify.com/track/23qsef3YGD9ijLel2QoCgr"
@@ -4529,7 +4529,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-01",
+      "date_removed": "2022-10-10",
       "duration_ms": 274333,
       "name": "Freedom at the 45th Floor",
       "url": "https://open.spotify.com/track/3FhTy63b1pmm5FSEUtpCPR"
@@ -6212,6 +6212,24 @@
     },
     {
       "album": {
+        "name": "Music for Animals",
+        "url": "https://open.spotify.com/album/17zWrjCtsUXh113n1V7T72"
+      },
+      "artists": [
+        {
+          "name": "Nils Frahm",
+          "url": "https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp"
+        }
+      ],
+      "date_added": "2022-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1111999,
+      "name": "Lemon Day",
+      "url": "https://open.spotify.com/track/3SjjIOSfRYw5Z45HWMoRMo"
+    },
+    {
+      "album": {
         "name": "Lemon Day",
         "url": "https://open.spotify.com/album/5kU780ntZsCfCMhEn1DLQE"
       },
@@ -6223,7 +6241,7 @@
       ],
       "date_added": "2022-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-03",
       "duration_ms": 1111999,
       "name": "Lemon Day",
       "url": "https://open.spotify.com/track/4G0m7oplySbleIlWeLu3vH"
@@ -6295,7 +6313,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-17",
+      "date_removed": null,
       "duration_ms": 165701,
       "name": "Like We Were Dreaming All This Time, Pt. 1",
       "url": "https://open.spotify.com/track/3Gg40RY7rPkErByfnT4zGS"
@@ -9470,6 +9488,24 @@
     },
     {
       "album": {
+        "name": "Music for Animals",
+        "url": "https://open.spotify.com/album/17zWrjCtsUXh113n1V7T72"
+      },
+      "artists": [
+        {
+          "name": "Nils Frahm",
+          "url": "https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 445980,
+      "name": "Right Right Right",
+      "url": "https://open.spotify.com/track/4eHxj67kulo8NO4l7RexJl"
+    },
+    {
+      "album": {
         "name": "Right Right Right",
         "url": "https://open.spotify.com/album/11dyjZEqT2IYvosQUqnYG4"
       },
@@ -9481,7 +9517,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-03",
       "duration_ms": 445980,
       "name": "Right Right Right",
       "url": "https://open.spotify.com/track/6L7bf5DjI6xolumK6fkMwL"
@@ -12227,7 +12263,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-06",
       "duration_ms": 245008,
       "name": "Unknown Tokyo",
       "url": "https://open.spotify.com/track/6MruNrnfGnISP5aKUyFC4g"

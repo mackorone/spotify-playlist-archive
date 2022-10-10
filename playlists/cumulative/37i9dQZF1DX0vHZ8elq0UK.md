@@ -4,7 +4,7 @@
 
 > Need to get your energy level up?
 
-281 songs - 16 hr 23 min - [published](https://open.spotify.com/playlist/3dFpEZOph8mFn8DS5f5LPj)
+282 songs - 16 hr 27 min - [published](https://open.spotify.com/playlist/3dFpEZOph8mFn8DS5f5LPj)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -142,6 +142,7 @@
 | [Into the Wild](https://open.spotify.com/track/66NbdXbJzdncnrL5dOpUqW) | [Night Swimmer](https://open.spotify.com/artist/18VQpw9DeYcTQpei170WuB) | [Into the Wild](https://open.spotify.com/album/3G59CviMuBFdi1DznMLM3n) | 2:43 | 2022-04-08 | 2022-04-21 |
 | [Into You](https://open.spotify.com/track/2meEiZKWkiN28gITzFwQo5) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Dangerous Woman](https://open.spotify.com/album/3OZgEywV4krCZ814pTJWr7) | 4:04 | 2021-12-16 | 2022-07-29 |
 | [Into You](https://open.spotify.com/track/63y6xWR4gXz7bnUGOk8iI6) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Dangerous Woman](https://open.spotify.com/album/3pdKKSqqLVIKmRTGw0x2N7) | 4:04 | 2022-07-08 |  |
+| [Just Like a Pill](https://open.spotify.com/track/1BpV8IGf4XsRRJf4Xuui9q) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [M!ssundaztood \(Expanded Edition\)](https://open.spotify.com/album/57wJKO7qrPw56iOEKhTmg2) | 3:56 | 2022-09-23 |  |
 | [Keep Me Crazy](https://open.spotify.com/track/2LbJeXxDsWwu3rIz4wdIcK) | [Sheppard](https://open.spotify.com/artist/6VxCmtR7S3yz4vnzsJqhSV) | [Watching The Sky](https://open.spotify.com/album/1wQJ3BLua9Lmy7lcFLHFjh) | 3:16 | 2021-12-16 | 2022-07-29 |
 | [Kings & Queens](https://open.spotify.com/track/7a53HqqArd4b9NF4XAmlbI) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Heaven & Hell](https://open.spotify.com/album/26c7MmQ4w8EAvVLb4jilaM) | 2:42 | 2021-12-16 |  |
 | [Kiss My \(Uh Oh\)](https://open.spotify.com/track/0MWiSBKm8Avs8iDIxcertp) | [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX), [Little Mix](https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp) | [Therapy](https://open.spotify.com/album/4AeowfpQNCScPBpPhnovKM) | 2:56 | 2021-12-16 |  |
@@ -157,7 +158,7 @@
 | [Locked out of Heaven](https://open.spotify.com/track/3w3y8KPTfNeOKPiqUTakBh) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Unorthodox Jukebox](https://open.spotify.com/album/58ufpQsJ1DS5kq4hhzQDiI) | 3:53 | 2021-12-16 |  |
 | [London Bridge](https://open.spotify.com/track/5wbuiAF5uY8dZnaNuIxtnj) | [Fergie](https://open.spotify.com/artist/3r17AfJCCUqC9Lf0OAc73G) | [The Dutchess](https://open.spotify.com/album/0jwuTvP3hp2jFY08VLgvnD) | 4:01 | 2022-04-06 | 2022-04-21 |
 | [Love Me Again](https://open.spotify.com/track/5TbzAWWc5eJaANpA9kfGCd) | [John Newman](https://open.spotify.com/artist/34v5MVKeQnIo0CWYMbbrPf) | [Tribute](https://open.spotify.com/album/2Bgfdyrywv3KEe0WwZdb0V) | 3:59 | 2022-01-18 | 2022-04-21 |
-| [Love Me Again](https://open.spotify.com/track/5VSCgNlSmTV2Yq5lB40Eaw) | [John Newman](https://open.spotify.com/artist/34v5MVKeQnIo0CWYMbbrPf) | [Tribute](https://open.spotify.com/album/7ybleSrN0ZT3bci5WZ6puk) | 3:59 | 2022-09-09 |  |
+| [Love Me Again](https://open.spotify.com/track/5VSCgNlSmTV2Yq5lB40Eaw) | [John Newman](https://open.spotify.com/artist/34v5MVKeQnIo0CWYMbbrPf) | [Tribute](https://open.spotify.com/album/7ybleSrN0ZT3bci5WZ6puk) | 3:59 | 2022-09-09 | 2022-10-09 |
 | [Love Myself](https://open.spotify.com/track/36phXHOKx8rO7CMp2vNX4x) | [Hailee Steinfeld](https://open.spotify.com/artist/5p7f24Rk5HkUZsaS3BLG5F) | [HAIZ](https://open.spotify.com/album/1ABRc0UFHY3x6rKQeFBTQ0) | 3:38 | 2022-07-08 |  |
 | [Love Myself](https://open.spotify.com/track/4Y6IdA3e4wwLrbKHDjufaC) | [Hailee Steinfeld](https://open.spotify.com/artist/5p7f24Rk5HkUZsaS3BLG5F) | [HAIZ](https://open.spotify.com/album/4oeF4AKGQajeLuVVCpHh8c) | 3:38 | 2021-12-16 | 2022-07-29 |
 | [LoveStoned / I Think She Knows \(Interlude\)](https://open.spotify.com/track/5iyE2d4U3Vc5cqY9mPTlpy) | [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [FutureSex/LoveSounds](https://open.spotify.com/album/2scB1uhcCI1TSf6b9TCZK3) | 7:24 | 2022-04-11 | 2022-04-20 |

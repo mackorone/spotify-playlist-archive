@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-14",
-  "description": "Singer-songwriters who colour outside the lines. Cover: Honey Harper",
+  "description": "Singer-songwriters who colour outside the lines. Cover: Goldie Boutilier",
   "name": "Renegade Folk",
   "published_playlist_ids": [
     "5h0SoEEkn4gAx7xRIlcPhO"
@@ -91,7 +91,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 152921,
       "name": "Ain't No Cowboys In Georgia",
       "url": "https://open.spotify.com/track/3MENr2sOd9lrNzDW0ZA91D"
@@ -1293,6 +1293,24 @@
       "duration_ms": 255294,
       "name": "Greyhound",
       "url": "https://open.spotify.com/track/2c7BU7qdz3xGSndyj5OQKN"
+    },
+    {
+      "album": {
+        "name": "Hard To Make A Living",
+        "url": "https://open.spotify.com/album/6dubX6Lgnbp4iZZLmL5YN7"
+      },
+      "artists": [
+        {
+          "name": "Honey Harper",
+          "url": "https://open.spotify.com/artist/01JvPU3kH9sxiT4EP0kmKg"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200699,
+      "name": "Hard To Make A Living",
+      "url": "https://open.spotify.com/track/3MLKmm3jUPCyjcRhPdmkNT"
     },
     {
       "album": {
@@ -2681,6 +2699,24 @@
       "duration_ms": 239129,
       "name": "Shreveport to L.A.",
       "url": "https://open.spotify.com/track/71HLRGiyMmw9G3dUeDDDJz"
+    },
+    {
+      "album": {
+        "name": "Shrine of Shirl",
+        "url": "https://open.spotify.com/album/3eeyMTWLqi0egjXGj9aOCN"
+      },
+      "artists": [
+        {
+          "name": "Mike Bern",
+          "url": "https://open.spotify.com/artist/6NkiWoBFvHUxmksmpNOgdA"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187488,
+      "name": "Shrine of Shirl",
+      "url": "https://open.spotify.com/track/5pdjxSigGGj1ebWvZ1Josd"
     },
     {
       "album": {

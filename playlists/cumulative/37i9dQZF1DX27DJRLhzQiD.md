@@ -2,9 +2,9 @@
 
 ### [EQUAL Andes](https://open.spotify.com/playlist/37i9dQZF1DX27DJRLhzQiD)
 
-> Andrekza y más mujeres, a todo volumen.
+> Clara Yolks y más mujeres, a todo volumen.
 
-117 songs - 6 hr 50 min - [published](https://open.spotify.com/playlist/4ig5nNsfONZJzmj3q1Nolg)
+118 songs - 6 hr 54 min - [published](https://open.spotify.com/playlist/4ig5nNsfONZJzmj3q1Nolg)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,7 @@
 | [Alguien](https://open.spotify.com/track/06GNb7cUCN6YTQmzfFd2m1) | [Amy Gutierrez](https://open.spotify.com/artist/1jrfEx1kZc8BNPLQDC7kVR) | [Alguien](https://open.spotify.com/album/6Tm5rVXr3ofn5d5vK8U6ie) | 4:32 | 2022-01-05 |  |
 | [Amarte Duele Así](https://open.spotify.com/track/1dP9Kg3LtmTLE0jCzXqatn) | [Gaby Zambrano](https://open.spotify.com/artist/4jIRqX8X6rSrmxIIl1ytFX) | [Amarte Duele Así](https://open.spotify.com/album/2cjrbjcxoBnp8F1e0wvtus) | 4:28 | 2022-09-09 |  |
 | [Amarte Duele Así](https://open.spotify.com/track/35SW0fa2wxR7Jc7bqbt80n) | [Gaby Zambrano](https://open.spotify.com/artist/4jIRqX8X6rSrmxIIl1ytFX) | [Amarte Duele Así](https://open.spotify.com/album/5OqvTYnHOD4COdn8vxn021) | 4:28 | 2022-01-05 | 2022-09-29 |
-| [AMOR TRISTE](https://open.spotify.com/track/7mI2XiWxINozftY8mzQqKR) | [Fiebre](https://open.spotify.com/artist/2C0r0f1ek76DLNLb6ls8ro) | [AMOR TRISTE](https://open.spotify.com/album/5YEsrR9xLRIFWRrQi8OGF4) | 3:02 | 2022-09-07 |  |
+| [AMOR TRISTE](https://open.spotify.com/track/7mI2XiWxINozftY8mzQqKR) | [Fiebre](https://open.spotify.com/artist/2C0r0f1ek76DLNLb6ls8ro) | [AMOR TRISTE](https://open.spotify.com/album/5YEsrR9xLRIFWRrQi8OGF4) | 3:02 | 2022-09-07 | 2022-10-06 |
 | [Anestesia](https://open.spotify.com/track/5ro0BttdQXF8ElE53ixJ5h) | [Ceci Juno](https://open.spotify.com/artist/1ej99EpQv6okGltIakeNFu) | [Temporal](https://open.spotify.com/album/783Y6IMcxDPLDkFVKSXSXi) | 3:43 | 2022-04-29 |  |
 | [Aunque No Sea Conmigo](https://open.spotify.com/track/6GfqNqXkAofNOakU77MWEb) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25), [Evaluna Montaner](https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC) | [Aunque No Sea Conmigo](https://open.spotify.com/album/1nv68APHpQMhYtlqln442M) | 2:59 | 2022-02-02 | 2022-04-09 |
 | [Bombón](https://open.spotify.com/track/2DAiAzKG0yBmM72w7QNgYi) | [Leslie Shaw](https://open.spotify.com/artist/3bAPo06XsUX6fo8iHYUqH7) | [Yo Soy Leslie Shaw](https://open.spotify.com/album/5TjKXKAdS9apvTREgGp7kk) | 3:17 | 2022-01-05 | 2022-02-03 |
@@ -37,7 +37,7 @@
 | [Déjala](https://open.spotify.com/track/4Aa6TYTI7q9SqnPKVA7Lfq) | [Son Tentación](https://open.spotify.com/artist/1KDHOxKG7fC0sp3HE8VfEi) | [A Fuego](https://open.spotify.com/album/3W7PrpNjJDSFkOpAiITb7m) | 5:22 | 2022-01-05 |  |
 | [Déjenme Sufrir](https://open.spotify.com/track/3kwM3eVq6Eoe64zm3spri2) | [Katy Jara y Banda Mix](https://open.spotify.com/artist/0gQ8SI9XgOALHs21Tcxkdb) | [La Reyna del Sur](https://open.spotify.com/album/2L6syCnwuNfHJuDiFKXBPM) | 3:29 | 2022-01-05 |  |
 | [Elegiste Engañarme](https://open.spotify.com/track/348g4lfzjvOj2IslIqIRx0) | [Kate Candela](https://open.spotify.com/artist/20MItJsTq6XRJ3drVZLp3W) | [Elegiste Engañarme](https://open.spotify.com/album/6isazqBzKu6cPMfp6UpfPI) | 3:46 | 2022-01-05 | 2022-04-09 |
-| [Emocional](https://open.spotify.com/track/2mob68KQblU3mK2hIdF9R1) | [Clara Yolks](https://open.spotify.com/artist/7EGQpkwkyAgaJSgnRGHJ59) | [Emocional](https://open.spotify.com/album/14rF7fiIcUBsg17Arf3VJM) | 3:09 | 2022-03-08 | 2022-08-04 |
+| [Emocional](https://open.spotify.com/track/2mob68KQblU3mK2hIdF9R1) | [Clara Yolks](https://open.spotify.com/artist/7EGQpkwkyAgaJSgnRGHJ59) | [Emocional](https://open.spotify.com/album/14rF7fiIcUBsg17Arf3VJM) | 3:09 | 2022-03-08 |  |
 | [En Mis Sueños](https://open.spotify.com/track/2VcaRHo67bYVqGE3jTMxgN) | [Micaela Salaverry](https://open.spotify.com/artist/2kihOo2Sxwt99sOHc7KFeo) | [En Mis Sueños](https://open.spotify.com/album/1vD0S9OkuoWrIT6734vTfB) | 3:19 | 2022-01-05 |  |
 | [Enamorada de Estar Aquí](https://open.spotify.com/track/1didaZajvBkMbhkOocwWMc) | [Eva Ayllón](https://open.spotify.com/artist/6AQFORISOneOZkh6r1sGS2) | [Quédate en Casa](https://open.spotify.com/album/5oVIeMN13WEZehXOSHXiPq) | 4:38 | 2022-01-05 | 2022-02-03 |
 | [Estoy Soltera](https://open.spotify.com/track/597HxeFN4prkOZml250ZhR) | [Leslie Shaw](https://open.spotify.com/artist/3bAPo06XsUX6fo8iHYUqH7), [Thalia](https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb), [Farina](https://open.spotify.com/artist/7cYik4OyfBXYV5Z2TI7p90) | [Estoy Soltera](https://open.spotify.com/album/5WZfuGX8Ca4eaes5LYxk22) | 2:52 | 2022-01-05 |  |
@@ -60,7 +60,7 @@
 | [Llorando Tu Partida](https://open.spotify.com/track/1JHE3fgK8QvaWdj2IjmzgL) | [Ada Y La Nueva Pasion](https://open.spotify.com/artist/19tl2bzCLRXDglG9AAozA0) | [Ada Y La Nueva Pasion](https://open.spotify.com/album/1oy6xKrcERrCYLqZxcqCdI) | 3:49 | 2022-01-05 |  |
 | [Los Tweets](https://open.spotify.com/track/1Jh7skKg0LaCQHGXRtLf2g) | [Corina Smith](https://open.spotify.com/artist/7mXfsy3lF4kU0f2KTNKSr8) | [Los Tweets](https://open.spotify.com/album/4Rrdn0CXxUWpiCQqssrdRX) | 2:37 | 2022-07-06 |  |
 | [Lucerito](https://open.spotify.com/track/5g3r5nAgHXd0ernuOwEoAG) | [Agua Bella](https://open.spotify.com/artist/4HKgCyUZMpl41vzhVXdhNy), [Alejandra Pascucci](https://open.spotify.com/artist/2EZDEZK6SFsdonuMMw7vt7) | [Lucerito](https://open.spotify.com/album/25l2hHHWlsw7QUBlwPhend) | 4:06 | 2022-01-05 | 2022-03-09 |
-| [Luisa](https://open.spotify.com/track/46yArd7VDfAZxKDGoKgE7Z) | [Paola Navarrete](https://open.spotify.com/artist/45nJ2GweSs0s4gWVGHLhYu) | [Luisa](https://open.spotify.com/album/41J6vPb5TIgniMbscw4s9w) | 4:09 | 2022-04-08 |  |
+| [Luisa](https://open.spotify.com/track/46yArd7VDfAZxKDGoKgE7Z) | [Paola Navarrete](https://open.spotify.com/artist/45nJ2GweSs0s4gWVGHLhYu) | [Luisa](https://open.spotify.com/album/41J6vPb5TIgniMbscw4s9w) | 4:09 | 2022-04-08 | 2022-10-06 |
 | [Lunera](https://open.spotify.com/track/01b3QISqCOPkxcxF0f8RPt) | [Clara Yolks](https://open.spotify.com/artist/7EGQpkwkyAgaJSgnRGHJ59) | [Viene y Va](https://open.spotify.com/album/3q2Hqnvc5M83pfhXNqjNPK) | 4:24 | 2022-01-05 | 2022-07-29 |
 | [Lunera](https://open.spotify.com/track/0XM0WuCkBWXL3ADRDUeuHS) | [Clara Yolks](https://open.spotify.com/artist/7EGQpkwkyAgaJSgnRGHJ59) | [Viene y Va](https://open.spotify.com/album/4Vupbn7Bk1mBxLxQnbONDr) | 4:24 | 2022-07-06 |  |
 | [Mailof \(Sesión en Vivo\)](https://open.spotify.com/track/5sPyYzdKLMjWeGSB3ZKVlT) | [Lorena Blume](https://open.spotify.com/artist/3rv2Lj8grP2g6UhyD98L6W), [La Lá](https://open.spotify.com/artist/7nZ3e67Mo4DLU1RC81KX8H) | [Mailof \(Sesión en Vivo\)](https://open.spotify.com/album/3Xq3Zg46E7TG71GZbg1lgX) | 3:42 | 2022-01-05 | 2022-03-09 |
@@ -107,6 +107,7 @@
 | [Señor Mentira](https://open.spotify.com/track/1euUy5iIipadV7jrHQRiYE) | [Daniela Darcourt](https://open.spotify.com/artist/4exGY59juoSimpcH1NiuaR) | [Esa Soy Yo](https://open.spotify.com/album/5qPa8E6bhoC1iCGaJOvhzW) | 4:29 | 2022-01-05 | 2022-07-29 |
 | [Señor Mentira](https://open.spotify.com/track/7uebcjB4PNrMzTUdxCefno) | [Daniela Darcourt](https://open.spotify.com/artist/4exGY59juoSimpcH1NiuaR) | [Esa Soy Yo](https://open.spotify.com/album/0RLzeH2Sc7cbzCoUq5V4Lk) | 4:29 | 2022-07-06 |  |
 | [Si Quieres Tenerme](https://open.spotify.com/track/5aOYQ6P64bDwlsld671J7Z) | [Wendy Sulca](https://open.spotify.com/artist/3LY2cnBt6jqLEdJco5NBE2) | [Evolución](https://open.spotify.com/album/4b9k435jzvtWVZ9OSM3QGA) | 3:27 | 2022-04-22 |  |
+| [Siempre Hago Lo Que Quiero](https://open.spotify.com/track/1vplR8zbm1rQWYskepMvtb) | [Clara Yolks](https://open.spotify.com/artist/7EGQpkwkyAgaJSgnRGHJ59), [Duplat](https://open.spotify.com/artist/74Bgwc5zD9KyNHiMqy2QJO) | [Siempre Hago Lo Que Quiero](https://open.spotify.com/album/0FOVQGRKiBAXNRc0nPg2Tt) | 3:44 | 2022-10-05 |  |
 | [Soñé Que Te Perdía](https://open.spotify.com/track/1lRdfGNjaSbz1ZobwU5Gig) | [Ceci Juno](https://open.spotify.com/artist/1ej99EpQv6okGltIakeNFu) | [Soñé Que Te Perdía](https://open.spotify.com/album/45zhh8r9YUGApMnt6c6Yco) | 2:47 | 2022-02-02 | 2022-04-23 |
 | [Sé Como Duele](https://open.spotify.com/track/7a8ShNCakt6bJj1GhNEdYF) | [Karina](https://open.spotify.com/artist/4bCJFFuTF8fuditJEIS1GX) | [Sé Como Duele](https://open.spotify.com/album/2GfGn4V16KyYJFtkKL4OHY) | 3:13 | 2022-02-02 | 2022-02-19 |
 | [Te Vas a Arrepentir](https://open.spotify.com/track/3EEH5ZZ74BJ5TV3rQAPbLi) | [Cielo Torres](https://open.spotify.com/artist/7AqX9JGo4WdLp5gPNSRoDJ) | [Te Vas a Arrepentir](https://open.spotify.com/album/3Mn6khCVmpcSk7g5991JmR) | 4:12 | 2022-01-05 |  |

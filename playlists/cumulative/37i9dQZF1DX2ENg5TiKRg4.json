@@ -1060,6 +1060,24 @@
     },
     {
       "album": {
+        "name": "dimen",
+        "url": "https://open.spotify.com/album/7jFjo6QaBGyv4l6DYz3l9U"
+      },
+      "artists": [
+        {
+          "name": "NOT WONK",
+          "url": "https://open.spotify.com/artist/12f2uQ7TswXKZRFvJuELAb"
+        }
+      ],
+      "date_added": "2022-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176346,
+      "name": "get off the car",
+      "url": "https://open.spotify.com/track/24mTyVgk93IvEfQuG2IeEV"
+    },
+    {
+      "album": {
         "name": "Battleground (Deluxe Edition)",
         "url": "https://open.spotify.com/album/2hnaJ8ktG2FSP1EthsCo6N"
       },
@@ -1857,7 +1875,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-28",
+      "date_removed": null,
       "duration_ms": 185200,
       "name": "Little Do You Know",
       "url": "https://open.spotify.com/track/1almCHdsfikRPfVB9VrEdT"
@@ -2457,7 +2475,7 @@
       ],
       "date_added": "2022-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-05",
       "duration_ms": 335928,
       "name": "Say to Me",
       "url": "https://open.spotify.com/track/4C7blDlsxEUJmTkBFv1bUR"
@@ -3413,7 +3431,7 @@
       ],
       "date_added": "2022-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-05",
       "duration_ms": 167500,
       "name": "Would It Kill You At All",
       "url": "https://open.spotify.com/track/1LOIGR5G6y2lqDpNQDdppm"

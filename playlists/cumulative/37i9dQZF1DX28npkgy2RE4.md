@@ -4,7 +4,7 @@
 
 > New styles, deep sounds\. Cover: Aldous Harding
 
-355 songs - 21 hr 55 min - [published](https://open.spotify.com/playlist/3T5AaAW956YONHSWrxMmGK)
+356 songs - 22 hr 0 min - [published](https://open.spotify.com/playlist/3T5AaAW956YONHSWrxMmGK)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,7 +67,7 @@
 | [Canyonheart](https://open.spotify.com/track/3uqfzjOGrxagYcsQeWLgSx) | [Israel Nash](https://open.spotify.com/artist/5skM4jc4QoEpHiWWl6OoW7) | [Topaz](https://open.spotify.com/album/4VJOOjvvZrL8QM21Bpz02d) | 3:52 | 2021-11-12 | 2022-07-21 |
 | [Can’t Do Much](https://open.spotify.com/track/0sEJmxTlb2SZNxdjzBATPK) | [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF) | [Saint Cloud](https://open.spotify.com/album/4V1EQ7wQZUoiPjMY0WtY3M) | 3:44 | 2022-07-11 |  |
 | [Can’t Do Much](https://open.spotify.com/track/46nIiL5q7LNeUtbnOwiOH2) | [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF) | [Saint Cloud](https://open.spotify.com/album/04HMMwLmjkftjWy7xc6Bho) | 3:44 | 2021-11-12 | 2022-07-29 |
-| [Causing Trouble](https://open.spotify.com/track/4v8ZF4VDj8OOfECQLm3eFq) | [Saint Sister](https://open.spotify.com/artist/7ufZdjYTNe1vzA9Z6Fek14) | [Shape of Silence](https://open.spotify.com/album/1AXszZKiG6PNSF9wlK5V1W) | 3:20 | 2021-11-12 | 2022-09-29 |
+| [Causing Trouble](https://open.spotify.com/track/4v8ZF4VDj8OOfECQLm3eFq) | [Saint Sister](https://open.spotify.com/artist/7ufZdjYTNe1vzA9Z6Fek14) | [Shape of Silence](https://open.spotify.com/album/1AXszZKiG6PNSF9wlK5V1W) | 3:20 | 2021-11-12 |  |
 | [Certainty](https://open.spotify.com/track/10DoOnXIHg8Zn3Iucy8Tmu) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Certainty](https://open.spotify.com/album/5VoX2zqhcLicZDikIF5zlw) | 3:07 | 2021-11-12 | 2022-07-29 |
 | [Certainty](https://open.spotify.com/track/3i7XRi2UyvGTdJawJRkVhd) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Dragon New Warm Mountain I Believe In You](https://open.spotify.com/album/7Ln81p86r5cCsesd3KBWIY) | 3:07 | 2022-07-11 |  |
 | [Chain Reaction](https://open.spotify.com/track/2l2mM35OlTIAV3ewmBblRA) | [Mick Flannery](https://open.spotify.com/artist/5tIXFM4sGNRR4Oo3hLbFdf), [Susan O'Neill](https://open.spotify.com/artist/1YHKDPqd413c6QH1d3Pgua) | [In the Game](https://open.spotify.com/album/0yuuoIvqUqnumxCaqM71j8) | 3:20 | 2021-11-12 | 2022-07-09 |
@@ -189,7 +189,8 @@
 | [Like I Used To](https://open.spotify.com/track/1kZpYFQHUKv4xHELaaUSqP) | [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe), [Angel Olsen](https://open.spotify.com/artist/6mKqFxGMS5TGDZI3XkT5Rt) | [Like I Used To](https://open.spotify.com/album/0nRjg8p3TOmImvztpYncra) | 4:23 | 2022-07-11 |  |
 | [Like I Used To](https://open.spotify.com/track/2TJDEIb71icDq3v0LXEGib) | [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe), [Angel Olsen](https://open.spotify.com/artist/6mKqFxGMS5TGDZI3XkT5Rt) | [Like I Used To](https://open.spotify.com/album/3lTAIzdI3ggBc6AtZTqXRS) | 4:23 | 2021-11-12 | 2022-07-29 |
 | [Lincoln](https://open.spotify.com/track/10niLkuM9JO4brnhsdwNVU) | [Damien Jurado](https://open.spotify.com/artist/79JJCxCCfJ8HufX6w8q2k4) | [Lincoln](https://open.spotify.com/album/6HXCu9ZyHuKHcCEvxaL61e) | 3:09 | 2021-11-12 | 2022-06-12 |
-| [Living Proof](https://open.spotify.com/track/6bIXN4xCot0hiEfzl2xFZR) | [The War On Drugs](https://open.spotify.com/artist/6g0mn3tzAds6aVeUYRsryU) | [Living Proof](https://open.spotify.com/album/5KxYGbvy6UPe6at4W8hE45) | 4:53 | 2021-11-12 |  |
+| [Living Proof](https://open.spotify.com/track/4VhvGhj8pdAqFJBuAfUW38) | [The War On Drugs](https://open.spotify.com/artist/6g0mn3tzAds6aVeUYRsryU) | [I Don’t Live Here Anymore](https://open.spotify.com/album/69jQsPvJzMvcb2fGqI2qaB) | 4:53 | 2022-09-16 |  |
+| [Living Proof](https://open.spotify.com/track/6bIXN4xCot0hiEfzl2xFZR) | [The War On Drugs](https://open.spotify.com/artist/6g0mn3tzAds6aVeUYRsryU) | [Living Proof](https://open.spotify.com/album/5KxYGbvy6UPe6at4W8hE45) | 4:53 | 2021-11-12 | 2022-10-07 |
 | [Lose My Mind](https://open.spotify.com/track/7djjzziCovlTf0yXGIArWS) | [The Wild Reeds](https://open.spotify.com/artist/3Q9WLyqkHw04V6DDtvPWwH) | [Cheers](https://open.spotify.com/album/449AwHLbBwEzRvAqIQr5mB) | 3:48 | 2021-11-12 |  |
 | [Lose This Number](https://open.spotify.com/track/2KSB2nglqnZuW4ptnJZEIl) | [Christian Lee Hutson](https://open.spotify.com/artist/5B7NeaqVrmXPyF05C9tnZ3) | [Talk](https://open.spotify.com/album/3dQD1JXR6BEaEtwRm6BVLS) | 3:56 | 2021-11-12 | 2022-07-28 |
 | [Lose This Number](https://open.spotify.com/track/3zLQk7yhi0F8QPHU1dBBPG) | [Christian Lee Hutson](https://open.spotify.com/artist/5B7NeaqVrmXPyF05C9tnZ3) | [Beginners](https://open.spotify.com/album/5PLt7H7bUEQeKPdWhWf4SY) | 3:56 | 2022-07-11 |  |
@@ -232,7 +233,7 @@
 | [Nothing Compares](https://open.spotify.com/track/4I97vwuO13zggYHu0WYE7Y) | [Bre Kennedy](https://open.spotify.com/artist/61oqMHI8QuFrE5Qt91uJAj) | [Note to Self](https://open.spotify.com/album/5rDVO3ROz5CXi1dcr2nWpR) | 4:02 | 2022-07-11 |  |
 | [Nothing Is Real](https://open.spotify.com/track/6D0QkwvPIe6hz1Twvnu2Ae) | [The Milk Carton Kids](https://open.spotify.com/artist/7fxtWEwKKrFaykKItspdYg) | [All the Things That I Did and All the Things That I Didn't Do](https://open.spotify.com/album/1BpQ1yTs26aKJg0aWqnzEq) | 2:44 | 2021-11-12 | 2022-01-18 |
 | [Now is the Time](https://open.spotify.com/track/5PiY6q31Ps3st88R3wNLhE) | [Jade Bird](https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S) | [Different Kinds of Light](https://open.spotify.com/album/1f1u0MpV823YGBjQBb8JJ9) | 3:35 | 2022-09-16 |  |
-| [Now is the Time](https://open.spotify.com/track/5ddrYyHEHIwXeeELXkgEel) | [Jade Bird](https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S) | [Now is the Time](https://open.spotify.com/album/2LYm9NJMZYR8V3Ldq5Umh4) | 3:35 | 2021-11-12 | 2022-09-15 |
+| [Now is the Time](https://open.spotify.com/track/5ddrYyHEHIwXeeELXkgEel) | [Jade Bird](https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S) | [Now is the Time](https://open.spotify.com/album/2LYm9NJMZYR8V3Ldq5Umh4) | 3:35 | 2021-11-12 | 2022-10-04 |
 | [Old Black Magic](https://open.spotify.com/track/2101msXT4EW6S1QWDMqFA5) | [Josh Ritter](https://open.spotify.com/artist/6igfLpd8s6DBBAuwebRUuo) | [Old Black Magic](https://open.spotify.com/album/4fBlyjkl18CQinati1cdsv) | 4:46 | 2021-11-12 | 2022-04-21 |
 | [Old Black Magic](https://open.spotify.com/track/5lbgaOjchF4QZLdh2gw2Wl) | [Josh Ritter](https://open.spotify.com/artist/6igfLpd8s6DBBAuwebRUuo) | [Fever Breaks](https://open.spotify.com/album/3qL2gdQLgulBvIo7bng2zS) | 4:46 | 2022-07-11 |  |
 | [Old Bone](https://open.spotify.com/track/5byJBGDhkVXs81MS3b3Ncq) | [Wet](https://open.spotify.com/artist/2i9uaNzfUtuApAjEf1omV8) | [Old Bone / Trust No Man](https://open.spotify.com/album/6pTUF8e5RU8pU2GLRoQl5Q) | 3:07 | 2021-11-12 |  |
@@ -241,7 +242,7 @@
 | [On the Outside](https://open.spotify.com/track/0fUo33Ryw7ValBsv9YhIGS) | [Ethan Gruska](https://open.spotify.com/artist/1zkHConahaP6T8EBpg8BeE) | [On the Outside](https://open.spotify.com/album/2qnDuMSAFO9PADlED1CnLt) | 3:09 | 2021-11-12 | 2022-07-29 |
 | [On Your Way \(Felix Song\)](https://open.spotify.com/track/30hY3WEcrl1ScoND2yBy9T) | [Anaïs Mitchell](https://open.spotify.com/artist/7K5Lm5dxoEwEpOS0Fc3l3s) | [On Your Way \(Felix Song\)](https://open.spotify.com/album/33EcOUw1Efeo8R3VvoQFhq) | 2:53 | 2022-01-14 | 2022-07-29 |
 | [Optimism](https://open.spotify.com/track/08nmO9CJOh6NRYltWAaWXF) | [Jana Horn](https://open.spotify.com/artist/1LrML89CKJhZjgji63Bvx1) | [Optimism](https://open.spotify.com/album/2LrDS8mmPcANF46XdsuUUd) | 1:59 | 2022-01-26 |  |
-| [pak it in](https://open.spotify.com/track/2CBrwFbrNnzvikGZXq5j9l) | [Uly](https://open.spotify.com/artist/1i5DopntEK7C4VKpD5F6zg) | [pak it in // mama](https://open.spotify.com/album/7fbNuLkq7MOLzrajDNymJp) | 4:43 | 2021-11-12 |  |
+| [pak it in](https://open.spotify.com/track/2CBrwFbrNnzvikGZXq5j9l) | [Uly](https://open.spotify.com/artist/1i5DopntEK7C4VKpD5F6zg) | [pak it in // mama](https://open.spotify.com/album/7fbNuLkq7MOLzrajDNymJp) | 4:43 | 2021-11-12 | 2022-10-04 |
 | [Paul Newman Daytona Rolex](https://open.spotify.com/track/4pAjn6PcQp81T2BKOzPOtn) | [Brett Dennen](https://open.spotify.com/artist/0FC1LIeQXKib0jOwZqeIwT) | [See the World](https://open.spotify.com/album/5DjZqk7gJGrQBCeTKnBViy) | 3:21 | 2021-11-12 |  |
 | [Perfect Wife](https://open.spotify.com/track/4sUkaBPPpnBKnmBfrgAyv1) | [Tasha](https://open.spotify.com/artist/4ZbFpxbORhzU78ve8e62Ej) | [Perfect Wife](https://open.spotify.com/album/0DZfn5TUMGAGKKjkDFJDzz) | 3:38 | 2021-11-12 | 2022-07-29 |
 | [Picture Window](https://open.spotify.com/track/5sRVuINnM37MVfUFS2zOfJ) | [Kristine Leschper](https://open.spotify.com/artist/5j3howIfVr9Jm0AqHNapwf) | [Picture Window](https://open.spotify.com/album/0dVDYgYT8YK6WM69hgheeF) | 4:42 | 2022-01-21 |  |

@@ -1,12 +1,12 @@
 {
   "description": "2011 highlights from the home of indie music.",
-  "num_followers": 59058,
+  "num_followers": 59686,
   "original_name": "Best of Indie 2011",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MDkxNjQ0NCwwMDAwMDAwMDQxOTY0MGM5YTIwZDgxYjljZmEwYWJkNGJjZjdhMTAy",
+  "snapshot_id": "MTY1MDkxNjQ0NCwwMDAwMDAwMDNlMGE2NjQwNzE2MmYyOTFhZTk2ZWNjMTVjZjQ4ZGJh",
   "tracks": [
     {
       "added_at": "2021-09-02 08:15:11",
@@ -251,22 +251,6 @@
     {
       "added_at": "2021-09-02 08:15:11",
       "album": {
-        "name": "What Did You Expect from The Vaccines?",
-        "url": "https://open.spotify.com/album/2T0iwqVWzr4Y63x4kKO5DW"
-      },
-      "artists": [
-        {
-          "name": "The Vaccines",
-          "url": "https://open.spotify.com/artist/0Ak6DLKHtpR6TEEnmcorKA"
-        }
-      ],
-      "duration_ms": 174013,
-      "name": "If You Wanna",
-      "url": "https://open.spotify.com/track/6Ca3uEAuun3HusTUiIXKs1"
-    },
-    {
-      "added_at": "2021-09-02 08:15:11",
-      "album": {
         "name": "Bon Iver",
         "url": "https://open.spotify.com/album/2LpfNj3vB5rOXfaawLcOBg"
       },
@@ -279,6 +263,38 @@
       "duration_ms": 298586,
       "name": "Wash.",
       "url": "https://open.spotify.com/track/7rIhp6EWLNtM8qFIQruJPT"
+    },
+    {
+      "added_at": "2021-09-02 08:15:11",
+      "album": {
+        "name": "Born To Die \u2013 Paradise Edition (Special Version)",
+        "url": "https://open.spotify.com/album/0Dt3FbpMQwjoT5KNAw0IXR"
+      },
+      "artists": [
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        }
+      ],
+      "duration_ms": 281946,
+      "name": "Video Games",
+      "url": "https://open.spotify.com/track/3WD91HQDBIavSapet3ZpjG"
+    },
+    {
+      "added_at": "2021-09-02 08:15:11",
+      "album": {
+        "name": "What Did You Expect from The Vaccines?",
+        "url": "https://open.spotify.com/album/2T0iwqVWzr4Y63x4kKO5DW"
+      },
+      "artists": [
+        {
+          "name": "The Vaccines",
+          "url": "https://open.spotify.com/artist/0Ak6DLKHtpR6TEEnmcorKA"
+        }
+      ],
+      "duration_ms": 174013,
+      "name": "If You Wanna",
+      "url": "https://open.spotify.com/track/6Ca3uEAuun3HusTUiIXKs1"
     },
     {
       "added_at": "2021-09-02 08:15:11",
@@ -315,22 +331,6 @@
     {
       "added_at": "2021-09-02 08:15:11",
       "album": {
-        "name": "Born To Die \u2013 Paradise Edition (Special Version)",
-        "url": "https://open.spotify.com/album/0Dt3FbpMQwjoT5KNAw0IXR"
-      },
-      "artists": [
-        {
-          "name": "Lana Del Rey",
-          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
-        }
-      ],
-      "duration_ms": 281946,
-      "name": "Video Games",
-      "url": "https://open.spotify.com/track/3WD91HQDBIavSapet3ZpjG"
-    },
-    {
-      "added_at": "2021-09-02 08:15:11",
-      "album": {
         "name": "Junk Of The Heart",
         "url": "https://open.spotify.com/album/2HfdqVaLccOvzfsHej9A8g"
       },
@@ -363,22 +363,6 @@
     {
       "added_at": "2021-09-02 08:15:11",
       "album": {
-        "name": "Torches",
-        "url": "https://open.spotify.com/album/7Kmmw7Z5D2UD5MVwdm10sT"
-      },
-      "artists": [
-        {
-          "name": "Foster The People",
-          "url": "https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc"
-        }
-      ],
-      "duration_ms": 276173,
-      "name": "Helena Beat",
-      "url": "https://open.spotify.com/track/4VbDJMkAX3dWNBdn3KH6Wx"
-    },
-    {
-      "added_at": "2021-09-02 08:15:11",
-      "album": {
         "name": "The Head And The Heart",
         "url": "https://open.spotify.com/album/0HOYbncHll4TcojWXrfYfV"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 259120,
       "name": "Lost in My Mind",
       "url": "https://open.spotify.com/track/2A4eOWCeNZHFQnLEEJKuZX"
+    },
+    {
+      "added_at": "2021-09-02 08:15:11",
+      "album": {
+        "name": "Torches",
+        "url": "https://open.spotify.com/album/7Kmmw7Z5D2UD5MVwdm10sT"
+      },
+      "artists": [
+        {
+          "name": "Foster The People",
+          "url": "https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc"
+        }
+      ],
+      "duration_ms": 276173,
+      "name": "Helena Beat",
+      "url": "https://open.spotify.com/track/4VbDJMkAX3dWNBdn3KH6Wx"
     },
     {
       "added_at": "2021-09-02 08:15:11",
@@ -459,22 +459,6 @@
     {
       "added_at": "2021-09-02 08:15:11",
       "album": {
-        "name": "Torches",
-        "url": "https://open.spotify.com/album/7Kmmw7Z5D2UD5MVwdm10sT"
-      },
-      "artists": [
-        {
-          "name": "Foster The People",
-          "url": "https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc"
-        }
-      ],
-      "duration_ms": 174920,
-      "name": "Don't Stop (Color on the Walls)",
-      "url": "https://open.spotify.com/track/4HRa9ZWcmZ8JD7UySPu0wT"
-    },
-    {
-      "added_at": "2021-09-02 08:15:11",
-      "album": {
         "name": "Hurry Up, We're Dreaming",
         "url": "https://open.spotify.com/album/6R0ynY7RF20ofs9GJR5TXR"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 151826,
       "name": "My Tears Are Becoming A Sea",
       "url": "https://open.spotify.com/track/1Fwj0wThn3kTg8D7KgWdsU"
+    },
+    {
+      "added_at": "2021-09-02 08:15:11",
+      "album": {
+        "name": "Torches",
+        "url": "https://open.spotify.com/album/7Kmmw7Z5D2UD5MVwdm10sT"
+      },
+      "artists": [
+        {
+          "name": "Foster The People",
+          "url": "https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc"
+        }
+      ],
+      "duration_ms": 174920,
+      "name": "Don't Stop (Color on the Walls)",
+      "url": "https://open.spotify.com/track/4HRa9ZWcmZ8JD7UySPu0wT"
     },
     {
       "added_at": "2021-09-02 08:15:11",
@@ -523,22 +523,6 @@
     {
       "added_at": "2021-09-02 08:15:11",
       "album": {
-        "name": "Angles",
-        "url": "https://open.spotify.com/album/6Jx4cGhWHewTcfKDJKguBQ"
-      },
-      "artists": [
-        {
-          "name": "The Strokes",
-          "url": "https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V"
-        }
-      ],
-      "duration_ms": 255240,
-      "name": "Life Is Simple in the Moonlight",
-      "url": "https://open.spotify.com/track/4ileLT7ldd2uX8bMemWqbm"
-    },
-    {
-      "added_at": "2021-09-02 08:15:11",
-      "album": {
         "name": "The Head And The Heart",
         "url": "https://open.spotify.com/album/0HOYbncHll4TcojWXrfYfV"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 303653,
       "name": "Down in the Valley",
       "url": "https://open.spotify.com/track/7B2yGUDt0aHGP0YuP4c2iG"
+    },
+    {
+      "added_at": "2021-09-02 08:15:11",
+      "album": {
+        "name": "Angles",
+        "url": "https://open.spotify.com/album/6Jx4cGhWHewTcfKDJKguBQ"
+      },
+      "artists": [
+        {
+          "name": "The Strokes",
+          "url": "https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V"
+        }
+      ],
+      "duration_ms": 255240,
+      "name": "Life Is Simple in the Moonlight",
+      "url": "https://open.spotify.com/track/4ileLT7ldd2uX8bMemWqbm"
     },
     {
       "added_at": "2021-09-02 08:15:11",
@@ -603,22 +603,6 @@
     {
       "added_at": "2021-09-02 08:15:11",
       "album": {
-        "name": "A Different Kind Of Fix",
-        "url": "https://open.spotify.com/album/4W6ztwnEbK92Arl8kI9c9N"
-      },
-      "artists": [
-        {
-          "name": "Bombay Bicycle Club",
-          "url": "https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV"
-        }
-      ],
-      "duration_ms": 210213,
-      "name": "How Can You Swallow So Much Sleep",
-      "url": "https://open.spotify.com/track/214Cj6UAEJvq9rocjbXqK1"
-    },
-    {
-      "added_at": "2021-09-02 08:15:11",
-      "album": {
         "name": "What Did You Expect from The Vaccines?",
         "url": "https://open.spotify.com/album/2T0iwqVWzr4Y63x4kKO5DW"
       },
@@ -635,50 +619,34 @@
     {
       "added_at": "2021-09-02 08:15:11",
       "album": {
-        "name": "Colour Of The Trap",
-        "url": "https://open.spotify.com/album/671vYDTGlzYQfsibwLHxNB"
+        "name": "A Different Kind Of Fix",
+        "url": "https://open.spotify.com/album/4W6ztwnEbK92Arl8kI9c9N"
       },
       "artists": [
         {
-          "name": "Miles Kane",
-          "url": "https://open.spotify.com/artist/3M0H4efyA5YcijrKlaKbYn"
+          "name": "Bombay Bicycle Club",
+          "url": "https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV"
         }
       ],
-      "duration_ms": 179240,
-      "name": "Come Closer",
-      "url": "https://open.spotify.com/track/20uVZbYFKshjrdDHcVy9w9"
+      "duration_ms": 210213,
+      "name": "How Can You Swallow So Much Sleep",
+      "url": "https://open.spotify.com/track/214Cj6UAEJvq9rocjbXqK1"
     },
     {
       "added_at": "2021-09-02 08:15:11",
       "album": {
-        "name": "Torches",
-        "url": "https://open.spotify.com/album/7Kmmw7Z5D2UD5MVwdm10sT"
+        "name": "Bon Iver (10th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/6xfOCqmQvpvgR5aq6fpKMD"
       },
       "artists": [
         {
-          "name": "Foster The People",
-          "url": "https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc"
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
         }
       ],
-      "duration_ms": 214080,
-      "name": "I Would Do Anything for You",
-      "url": "https://open.spotify.com/track/5fgb3Md1xjt3mxeBqguiIA"
-    },
-    {
-      "added_at": "2021-09-02 08:15:11",
-      "album": {
-        "name": "Angles",
-        "url": "https://open.spotify.com/album/6Jx4cGhWHewTcfKDJKguBQ"
-      },
-      "artists": [
-        {
-          "name": "The Strokes",
-          "url": "https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V"
-        }
-      ],
-      "duration_ms": 203240,
-      "name": "Taken for a Fool",
-      "url": "https://open.spotify.com/track/6SdAztAqklk1zAmUHhU4N7"
+      "duration_ms": 188040,
+      "name": "Towers",
+      "url": "https://open.spotify.com/track/2qHl2VvpKJ6ciB45nCtLB2"
     },
     {
       "added_at": "2021-09-02 08:15:11",
@@ -699,18 +667,34 @@
     {
       "added_at": "2021-09-02 08:15:11",
       "album": {
-        "name": "The Year of Hibernation",
-        "url": "https://open.spotify.com/album/7jG32gfkuo10qarPgmWC7q"
+        "name": "Angles",
+        "url": "https://open.spotify.com/album/6Jx4cGhWHewTcfKDJKguBQ"
       },
       "artists": [
         {
-          "name": "Youth Lagoon",
-          "url": "https://open.spotify.com/artist/1Z2KInfSmPOzAIYyiaXeti"
+          "name": "The Strokes",
+          "url": "https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V"
         }
       ],
-      "duration_ms": 236000,
-      "name": "17",
-      "url": "https://open.spotify.com/track/5UVBumEwdUnzvqxrXOYLFA"
+      "duration_ms": 203240,
+      "name": "Taken for a Fool",
+      "url": "https://open.spotify.com/track/6SdAztAqklk1zAmUHhU4N7"
+    },
+    {
+      "added_at": "2021-09-02 08:15:11",
+      "album": {
+        "name": "Colour Of The Trap",
+        "url": "https://open.spotify.com/album/671vYDTGlzYQfsibwLHxNB"
+      },
+      "artists": [
+        {
+          "name": "Miles Kane",
+          "url": "https://open.spotify.com/artist/3M0H4efyA5YcijrKlaKbYn"
+        }
+      ],
+      "duration_ms": 179240,
+      "name": "Come Closer",
+      "url": "https://open.spotify.com/track/20uVZbYFKshjrdDHcVy9w9"
     },
     {
       "added_at": "2021-09-02 08:15:11",
@@ -731,18 +715,34 @@
     {
       "added_at": "2021-09-02 08:15:11",
       "album": {
-        "name": "Bon Iver (10th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/6xfOCqmQvpvgR5aq6fpKMD"
+        "name": "The Year of Hibernation",
+        "url": "https://open.spotify.com/album/7jG32gfkuo10qarPgmWC7q"
       },
       "artists": [
         {
-          "name": "Bon Iver",
-          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+          "name": "Youth Lagoon",
+          "url": "https://open.spotify.com/artist/1Z2KInfSmPOzAIYyiaXeti"
         }
       ],
-      "duration_ms": 188040,
-      "name": "Towers",
-      "url": "https://open.spotify.com/track/2qHl2VvpKJ6ciB45nCtLB2"
+      "duration_ms": 236000,
+      "name": "17",
+      "url": "https://open.spotify.com/track/5UVBumEwdUnzvqxrXOYLFA"
+    },
+    {
+      "added_at": "2021-09-02 08:15:11",
+      "album": {
+        "name": "Torches",
+        "url": "https://open.spotify.com/album/7Kmmw7Z5D2UD5MVwdm10sT"
+      },
+      "artists": [
+        {
+          "name": "Foster The People",
+          "url": "https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc"
+        }
+      ],
+      "duration_ms": 214080,
+      "name": "I Would Do Anything for You",
+      "url": "https://open.spotify.com/track/5fgb3Md1xjt3mxeBqguiIA"
     },
     {
       "added_at": "2021-09-02 08:15:11",
@@ -795,6 +795,22 @@
     {
       "added_at": "2021-09-02 08:15:11",
       "album": {
+        "name": "Shake! Shake! Shake!",
+        "url": "https://open.spotify.com/album/0hO7tdTpSVN1ADtLbvJiQ5"
+      },
+      "artists": [
+        {
+          "name": "Bronze Radio Return",
+          "url": "https://open.spotify.com/artist/2ic4xySjQ39N7DJ0HZemeG"
+        }
+      ],
+      "duration_ms": 163236,
+      "name": "Shake, Shake, Shake",
+      "url": "https://open.spotify.com/track/4dI4oscajpdtjpg2dP1x28"
+    },
+    {
+      "added_at": "2021-09-02 08:15:11",
+      "album": {
         "name": "The Rip Tide",
         "url": "https://open.spotify.com/album/7HYptJX2aQJPWbxXviXLwQ"
       },
@@ -807,6 +823,22 @@
       "duration_ms": 254386,
       "name": "Santa Fe",
       "url": "https://open.spotify.com/track/2bxQP85JNU11CQV4KXCnau"
+    },
+    {
+      "added_at": "2021-09-02 08:15:11",
+      "album": {
+        "name": "Megalithic Symphony",
+        "url": "https://open.spotify.com/album/1fag8cnc5p4Umu4tRMAsLv"
+      },
+      "artists": [
+        {
+          "name": "AWOLNATION",
+          "url": "https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz"
+        }
+      ],
+      "duration_ms": 178840,
+      "name": "Kill Your Heroes",
+      "url": "https://open.spotify.com/track/7LJF6AtijSniUJpmZTqKRj"
     },
     {
       "added_at": "2022-01-03 14:20:47",
@@ -831,38 +863,6 @@
       "duration_ms": 211506,
       "name": "Black (feat. Norah Jones)",
       "url": "https://open.spotify.com/track/5H43dazn2x2O9dkDVvaiDS"
-    },
-    {
-      "added_at": "2021-09-02 08:15:11",
-      "album": {
-        "name": "Shake! Shake! Shake!",
-        "url": "https://open.spotify.com/album/0hO7tdTpSVN1ADtLbvJiQ5"
-      },
-      "artists": [
-        {
-          "name": "Bronze Radio Return",
-          "url": "https://open.spotify.com/artist/2ic4xySjQ39N7DJ0HZemeG"
-        }
-      ],
-      "duration_ms": 163236,
-      "name": "Shake, Shake, Shake",
-      "url": "https://open.spotify.com/track/4dI4oscajpdtjpg2dP1x28"
-    },
-    {
-      "added_at": "2021-09-02 08:15:11",
-      "album": {
-        "name": "Megalithic Symphony",
-        "url": "https://open.spotify.com/album/1fag8cnc5p4Umu4tRMAsLv"
-      },
-      "artists": [
-        {
-          "name": "AWOLNATION",
-          "url": "https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz"
-        }
-      ],
-      "duration_ms": 178840,
-      "name": "Kill Your Heroes",
-      "url": "https://open.spotify.com/track/7LJF6AtijSniUJpmZTqKRj"
     },
     {
       "added_at": "2021-09-02 08:15:11",
@@ -931,54 +931,6 @@
     {
       "added_at": "2021-09-02 08:15:11",
       "album": {
-        "name": "Bon Iver",
-        "url": "https://open.spotify.com/album/2LpfNj3vB5rOXfaawLcOBg"
-      },
-      "artists": [
-        {
-          "name": "Bon Iver",
-          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
-        }
-      ],
-      "duration_ms": 262079,
-      "name": "Perth",
-      "url": "https://open.spotify.com/track/5sYAPWzsEk8pd1OFhcQ67T"
-    },
-    {
-      "added_at": "2021-09-02 08:15:11",
-      "album": {
-        "name": "The King Of Limbs",
-        "url": "https://open.spotify.com/album/3P17levwUPzmFfLYdAK3A7"
-      },
-      "artists": [
-        {
-          "name": "Radiohead",
-          "url": "https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb"
-        }
-      ],
-      "duration_ms": 287066,
-      "name": "Codex",
-      "url": "https://open.spotify.com/track/6ttYF5VadzTssGV2i1Q08T"
-    },
-    {
-      "added_at": "2021-09-02 08:15:11",
-      "album": {
-        "name": "Helplessness Blues",
-        "url": "https://open.spotify.com/album/7D0rCfJjFj9x0bdgRKtvzb"
-      },
-      "artists": [
-        {
-          "name": "Fleet Foxes",
-          "url": "https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb"
-        }
-      ],
-      "duration_ms": 303386,
-      "name": "Helplessness Blues",
-      "url": "https://open.spotify.com/track/02VdHwnGhy5fTW2CTZkYsb"
-    },
-    {
-      "added_at": "2021-09-02 08:15:11",
-      "album": {
         "name": "On the Water",
         "url": "https://open.spotify.com/album/6jP0e39bcK8jrfc1Tg0rVk"
       },
@@ -1011,18 +963,50 @@
     {
       "added_at": "2021-09-02 08:15:11",
       "album": {
-        "name": "Era Extra\u00f1a",
-        "url": "https://open.spotify.com/album/1S23RKAbHcn3AF2F7ns3sN"
+        "name": "Bon Iver",
+        "url": "https://open.spotify.com/album/2LpfNj3vB5rOXfaawLcOBg"
       },
       "artists": [
         {
-          "name": "Neon Indian",
-          "url": "https://open.spotify.com/artist/0KydPQPUUoTNhmiHKOg5Er"
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
         }
       ],
-      "duration_ms": 264000,
-      "name": "Polish Girl",
-      "url": "https://open.spotify.com/track/5g3TDpgy1J1woAUVuj21EE"
+      "duration_ms": 262079,
+      "name": "Perth",
+      "url": "https://open.spotify.com/track/5sYAPWzsEk8pd1OFhcQ67T"
+    },
+    {
+      "added_at": "2021-09-02 08:15:11",
+      "album": {
+        "name": "Helplessness Blues",
+        "url": "https://open.spotify.com/album/7D0rCfJjFj9x0bdgRKtvzb"
+      },
+      "artists": [
+        {
+          "name": "Fleet Foxes",
+          "url": "https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb"
+        }
+      ],
+      "duration_ms": 303386,
+      "name": "Helplessness Blues",
+      "url": "https://open.spotify.com/track/02VdHwnGhy5fTW2CTZkYsb"
+    },
+    {
+      "added_at": "2021-09-02 08:15:11",
+      "album": {
+        "name": "The King Of Limbs",
+        "url": "https://open.spotify.com/album/3P17levwUPzmFfLYdAK3A7"
+      },
+      "artists": [
+        {
+          "name": "Radiohead",
+          "url": "https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb"
+        }
+      ],
+      "duration_ms": 287066,
+      "name": "Codex",
+      "url": "https://open.spotify.com/track/6ttYF5VadzTssGV2i1Q08T"
     },
     {
       "added_at": "2021-09-02 08:15:11",
@@ -1043,18 +1027,18 @@
     {
       "added_at": "2021-09-02 08:15:11",
       "album": {
-        "name": "Megalithic Symphony",
-        "url": "https://open.spotify.com/album/1fag8cnc5p4Umu4tRMAsLv"
+        "name": "Era Extra\u00f1a",
+        "url": "https://open.spotify.com/album/1S23RKAbHcn3AF2F7ns3sN"
       },
       "artists": [
         {
-          "name": "AWOLNATION",
-          "url": "https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz"
+          "name": "Neon Indian",
+          "url": "https://open.spotify.com/artist/0KydPQPUUoTNhmiHKOg5Er"
         }
       ],
-      "duration_ms": 242466,
-      "name": "Not Your Fault",
-      "url": "https://open.spotify.com/track/31hUonEmUsEVd0FMRv1s5r"
+      "duration_ms": 264000,
+      "name": "Polish Girl",
+      "url": "https://open.spotify.com/track/5g3TDpgy1J1woAUVuj21EE"
     },
     {
       "added_at": "2021-09-02 08:15:11",
@@ -1075,18 +1059,18 @@
     {
       "added_at": "2021-09-02 08:15:11",
       "album": {
-        "name": "Helplessness Blues",
-        "url": "https://open.spotify.com/album/7D0rCfJjFj9x0bdgRKtvzb"
+        "name": "Megalithic Symphony",
+        "url": "https://open.spotify.com/album/1fag8cnc5p4Umu4tRMAsLv"
       },
       "artists": [
         {
-          "name": "Fleet Foxes",
-          "url": "https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb"
+          "name": "AWOLNATION",
+          "url": "https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz"
         }
       ],
-      "duration_ms": 216604,
-      "name": "Montezuma",
-      "url": "https://open.spotify.com/track/5Civg4JEWHLe2gqMG5vW6E"
+      "duration_ms": 242466,
+      "name": "Not Your Fault",
+      "url": "https://open.spotify.com/track/31hUonEmUsEVd0FMRv1s5r"
     },
     {
       "added_at": "2021-09-02 08:15:11",
@@ -1123,6 +1107,22 @@
     {
       "added_at": "2021-09-02 08:15:11",
       "album": {
+        "name": "Helplessness Blues",
+        "url": "https://open.spotify.com/album/7D0rCfJjFj9x0bdgRKtvzb"
+      },
+      "artists": [
+        {
+          "name": "Fleet Foxes",
+          "url": "https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb"
+        }
+      ],
+      "duration_ms": 216604,
+      "name": "Montezuma",
+      "url": "https://open.spotify.com/track/5Civg4JEWHLe2gqMG5vW6E"
+    },
+    {
+      "added_at": "2021-09-02 08:15:11",
+      "album": {
         "name": "Bon Iver",
         "url": "https://open.spotify.com/album/2LpfNj3vB5rOXfaawLcOBg"
       },
@@ -1135,22 +1135,6 @@
       "duration_ms": 232440,
       "name": "Minnesota, WI",
       "url": "https://open.spotify.com/track/6dmqnKIOvBfqjP317AT2tT"
-    },
-    {
-      "added_at": "2021-09-02 08:15:11",
-      "album": {
-        "name": "Loverboy",
-        "url": "https://open.spotify.com/album/1tTnc3AhId4QUgGR69cCF8"
-      },
-      "artists": [
-        {
-          "name": "Brett Dennen",
-          "url": "https://open.spotify.com/artist/0FC1LIeQXKib0jOwZqeIwT"
-        }
-      ],
-      "duration_ms": 205373,
-      "name": "Comeback Kid (That's My Dog)",
-      "url": "https://open.spotify.com/track/4Jjr9IXCJVWIXOTuXDBNoq"
     },
     {
       "added_at": "2021-09-02 08:15:11",
@@ -1171,6 +1155,22 @@
     {
       "added_at": "2021-09-02 08:15:11",
       "album": {
+        "name": "Loverboy",
+        "url": "https://open.spotify.com/album/1tTnc3AhId4QUgGR69cCF8"
+      },
+      "artists": [
+        {
+          "name": "Brett Dennen",
+          "url": "https://open.spotify.com/artist/0FC1LIeQXKib0jOwZqeIwT"
+        }
+      ],
+      "duration_ms": 205373,
+      "name": "Comeback Kid (That's My Dog)",
+      "url": "https://open.spotify.com/track/4Jjr9IXCJVWIXOTuXDBNoq"
+    },
+    {
+      "added_at": "2021-09-02 08:15:11",
+      "album": {
         "name": "The English Riviera",
         "url": "https://open.spotify.com/album/716fnrS2qXChPC3J2X73pK"
       },
@@ -1183,22 +1183,6 @@
       "duration_ms": 196040,
       "name": "Corinne",
       "url": "https://open.spotify.com/track/6guXQ9rHmOofkqp8uHYO8r"
-    },
-    {
-      "added_at": "2021-09-02 08:15:11",
-      "album": {
-        "name": "Suck It and See",
-        "url": "https://open.spotify.com/album/2KhJyDQAtauN6plT5PkfnV"
-      },
-      "artists": [
-        {
-          "name": "Arctic Monkeys",
-          "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
-        }
-      ],
-      "duration_ms": 234920,
-      "name": "She's Thunderstorms",
-      "url": "https://open.spotify.com/track/5qm8ISXOho1EvFj6e4f4bG"
     },
     {
       "added_at": "2021-09-02 08:15:11",
@@ -1239,6 +1223,38 @@
       "duration_ms": 140960,
       "name": "Two Against One (feat. Jack White)",
       "url": "https://open.spotify.com/track/0CIvOZBEQmVtePr3dHZMPO"
+    },
+    {
+      "added_at": "2021-09-02 08:15:11",
+      "album": {
+        "name": "ActorCaster",
+        "url": "https://open.spotify.com/album/6E431m4hnKJomE4EhddGtB"
+      },
+      "artists": [
+        {
+          "name": "Generationals",
+          "url": "https://open.spotify.com/artist/57MtJQ6Sc4tIxrXIhrqVJL"
+        }
+      ],
+      "duration_ms": 202613,
+      "name": "TenTwentyTen",
+      "url": "https://open.spotify.com/track/5v6fwkgHeF0N32LmEoQyQB"
+    },
+    {
+      "added_at": "2021-09-02 08:15:11",
+      "album": {
+        "name": "Suck It and See",
+        "url": "https://open.spotify.com/album/2KhJyDQAtauN6plT5PkfnV"
+      },
+      "artists": [
+        {
+          "name": "Arctic Monkeys",
+          "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
+        }
+      ],
+      "duration_ms": 234920,
+      "name": "She's Thunderstorms",
+      "url": "https://open.spotify.com/track/5qm8ISXOho1EvFj6e4f4bG"
     },
     {
       "added_at": "2021-09-02 08:15:11",
@@ -1291,54 +1307,6 @@
     {
       "added_at": "2021-09-02 08:15:11",
       "album": {
-        "name": "Portamento",
-        "url": "https://open.spotify.com/album/0gi6GxcVnTUjOaFWozw9en"
-      },
-      "artists": [
-        {
-          "name": "The Drums",
-          "url": "https://open.spotify.com/artist/0p5axeJsbtTCXBrRVoKjwu"
-        }
-      ],
-      "duration_ms": 269081,
-      "name": "Days",
-      "url": "https://open.spotify.com/track/3xQoeVaWyF046QIhdbGRCO"
-    },
-    {
-      "added_at": "2021-09-02 08:15:11",
-      "album": {
-        "name": "ActorCaster",
-        "url": "https://open.spotify.com/album/6E431m4hnKJomE4EhddGtB"
-      },
-      "artists": [
-        {
-          "name": "Generationals",
-          "url": "https://open.spotify.com/artist/57MtJQ6Sc4tIxrXIhrqVJL"
-        }
-      ],
-      "duration_ms": 202613,
-      "name": "TenTwentyTen",
-      "url": "https://open.spotify.com/track/5v6fwkgHeF0N32LmEoQyQB"
-    },
-    {
-      "added_at": "2021-09-02 08:15:11",
-      "album": {
-        "name": "Suck It and See",
-        "url": "https://open.spotify.com/album/2KhJyDQAtauN6plT5PkfnV"
-      },
-      "artists": [
-        {
-          "name": "Arctic Monkeys",
-          "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
-        }
-      ],
-      "duration_ms": 183506,
-      "name": "Don't Sit Down 'Cause I've Moved Your Chair",
-      "url": "https://open.spotify.com/track/577M06tqh2BwsT1qqZOBM1"
-    },
-    {
-      "added_at": "2021-09-02 08:15:11",
-      "album": {
         "name": "Cults",
         "url": "https://open.spotify.com/album/0OvMqTVXYlNpWbGuxQrt6M"
       },
@@ -1351,6 +1319,22 @@
       "duration_ms": 150373,
       "name": "You Know What I Mean",
       "url": "https://open.spotify.com/track/7qGDHuDnjLdGtM787CgKYK"
+    },
+    {
+      "added_at": "2021-09-02 08:15:11",
+      "album": {
+        "name": "Portamento",
+        "url": "https://open.spotify.com/album/0gi6GxcVnTUjOaFWozw9en"
+      },
+      "artists": [
+        {
+          "name": "The Drums",
+          "url": "https://open.spotify.com/artist/0p5axeJsbtTCXBrRVoKjwu"
+        }
+      ],
+      "duration_ms": 269081,
+      "name": "Days",
+      "url": "https://open.spotify.com/track/3xQoeVaWyF046QIhdbGRCO"
     },
     {
       "added_at": "2021-09-02 08:15:11",
@@ -1387,6 +1371,22 @@
     {
       "added_at": "2021-09-02 08:15:11",
       "album": {
+        "name": "Suck It and See",
+        "url": "https://open.spotify.com/album/2KhJyDQAtauN6plT5PkfnV"
+      },
+      "artists": [
+        {
+          "name": "Arctic Monkeys",
+          "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
+        }
+      ],
+      "duration_ms": 183506,
+      "name": "Don't Sit Down 'Cause I've Moved Your Chair",
+      "url": "https://open.spotify.com/track/577M06tqh2BwsT1qqZOBM1"
+    },
+    {
+      "added_at": "2021-09-02 08:15:11",
+      "album": {
         "name": "Strange Mercy",
         "url": "https://open.spotify.com/album/5x7cI8aHmaqk03KKl1Auh1"
       },
@@ -1419,22 +1419,6 @@
     {
       "added_at": "2021-09-02 08:15:11",
       "album": {
-        "name": "We Must Become the Pitiless Censors of Ourselves",
-        "url": "https://open.spotify.com/album/6lfo4f2EW26I06q2cIMPof"
-      },
-      "artists": [
-        {
-          "name": "John Maus",
-          "url": "https://open.spotify.com/artist/4R073T3AVJKqAsbzLmLW9u"
-        }
-      ],
-      "duration_ms": 248706,
-      "name": "Hey Moon",
-      "url": "https://open.spotify.com/track/0MpsyFvt1KaxNYBYw2aanq"
-    },
-    {
-      "added_at": "2021-09-02 08:15:11",
-      "album": {
         "name": "Underneath The Pine",
         "url": "https://open.spotify.com/album/6FtCAAEZUEutbmNfFHzeK0"
       },
@@ -1447,6 +1431,22 @@
       "duration_ms": 244546,
       "name": "New Beat",
       "url": "https://open.spotify.com/track/6bURo0Mmzg5EymcHwvONaj"
+    },
+    {
+      "added_at": "2021-09-02 08:15:11",
+      "album": {
+        "name": "We Must Become the Pitiless Censors of Ourselves",
+        "url": "https://open.spotify.com/album/6lfo4f2EW26I06q2cIMPof"
+      },
+      "artists": [
+        {
+          "name": "John Maus",
+          "url": "https://open.spotify.com/artist/4R073T3AVJKqAsbzLmLW9u"
+        }
+      ],
+      "duration_ms": 248706,
+      "name": "Hey Moon",
+      "url": "https://open.spotify.com/track/0MpsyFvt1KaxNYBYw2aanq"
     },
     {
       "added_at": "2021-09-02 08:15:11",
@@ -1467,38 +1467,6 @@
       "duration_ms": 201000,
       "name": "Wildfire",
       "url": "https://open.spotify.com/track/06U3tIapsJ0X6dZx5nhLtt"
-    },
-    {
-      "added_at": "2021-09-02 08:15:11",
-      "album": {
-        "name": "Suck It and See",
-        "url": "https://open.spotify.com/album/2KhJyDQAtauN6plT5PkfnV"
-      },
-      "artists": [
-        {
-          "name": "Arctic Monkeys",
-          "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
-        }
-      ],
-      "duration_ms": 217440,
-      "name": "Black Treacle",
-      "url": "https://open.spotify.com/track/3s4OT5Si1n9TFSNEPjNs0s"
-    },
-    {
-      "added_at": "2021-09-02 08:15:11",
-      "album": {
-        "name": "His Young Heart",
-        "url": "https://open.spotify.com/album/6Xfyee6s7YFf3TtrO5kGBM"
-      },
-      "artists": [
-        {
-          "name": "Daughter",
-          "url": "https://open.spotify.com/artist/46CitWgnWrvF9t70C2p1Me"
-        }
-      ],
-      "duration_ms": 263906,
-      "name": "Landfill",
-      "url": "https://open.spotify.com/track/7zUnbLzzq8g5IoKedMiRo9"
     },
     {
       "added_at": "2021-09-02 08:15:11",
@@ -1531,6 +1499,38 @@
       "duration_ms": 238546,
       "name": "East Harlem",
       "url": "https://open.spotify.com/track/4i6O75iAptEnENjKLOLZ9Y"
+    },
+    {
+      "added_at": "2021-09-02 08:15:11",
+      "album": {
+        "name": "Suck It and See",
+        "url": "https://open.spotify.com/album/2KhJyDQAtauN6plT5PkfnV"
+      },
+      "artists": [
+        {
+          "name": "Arctic Monkeys",
+          "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
+        }
+      ],
+      "duration_ms": 217440,
+      "name": "Black Treacle",
+      "url": "https://open.spotify.com/track/3s4OT5Si1n9TFSNEPjNs0s"
+    },
+    {
+      "added_at": "2021-09-02 08:15:11",
+      "album": {
+        "name": "His Young Heart",
+        "url": "https://open.spotify.com/album/6Xfyee6s7YFf3TtrO5kGBM"
+      },
+      "artists": [
+        {
+          "name": "Daughter",
+          "url": "https://open.spotify.com/artist/46CitWgnWrvF9t70C2p1Me"
+        }
+      ],
+      "duration_ms": 263906,
+      "name": "Landfill",
+      "url": "https://open.spotify.com/track/7zUnbLzzq8g5IoKedMiRo9"
     },
     {
       "added_at": "2021-09-02 08:15:11",

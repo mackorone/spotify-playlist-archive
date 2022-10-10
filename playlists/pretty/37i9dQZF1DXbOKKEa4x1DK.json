@@ -1,12 +1,12 @@
 {
   "description": "Para los enamorados y despechados.",
-  "num_followers": 11222,
+  "num_followers": 11372,
   "original_name": "Merengue De Amor",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzNDY2NDUwMiwwMDAwMDAwMDM4ZGI0N2FmNmM3OGRhZGFiZjBmYjRmNTY1ZDU5YzAw",
+  "snapshot_id": "MTYzNDY2NDUwMiwwMDAwMDAwMGJjMTk1ZWJiMDEyYWI4MDdmMzU3ZDlmYmNkZjNkZWNk",
   "tracks": [
     {
       "added_at": "2021-10-19 17:28:22",
@@ -191,18 +191,18 @@
     {
       "added_at": "2021-10-19 17:28:22",
       "album": {
-        "name": "Atrevido",
-        "url": "https://open.spotify.com/album/4DKgafmoXFZmhi73FJ0UQt"
+        "name": "Suavemente",
+        "url": "https://open.spotify.com/album/378XG6oO0TWcsGuxeQy2Os"
       },
       "artists": [
         {
-          "name": "Eddy Herrera",
-          "url": "https://open.spotify.com/artist/4yNdrUaF54csrLixVTnqzC"
+          "name": "Elvis Crespo",
+          "url": "https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df"
         }
       ],
-      "duration_ms": 280920,
-      "name": "Demasiado Romantica",
-      "url": "https://open.spotify.com/track/5e6DvXTWzC8i9MdsLZaTgb"
+      "duration_ms": 208800,
+      "name": "Nuestra Cancion",
+      "url": "https://open.spotify.com/track/2yB721Szta49XabGt5FQ0u"
     },
     {
       "added_at": "2021-10-19 17:28:22",
@@ -223,34 +223,18 @@
     {
       "added_at": "2021-10-19 17:28:22",
       "album": {
-        "name": "Suavemente",
-        "url": "https://open.spotify.com/album/378XG6oO0TWcsGuxeQy2Os"
+        "name": "Atrevido",
+        "url": "https://open.spotify.com/album/4DKgafmoXFZmhi73FJ0UQt"
       },
       "artists": [
         {
-          "name": "Elvis Crespo",
-          "url": "https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df"
+          "name": "Eddy Herrera",
+          "url": "https://open.spotify.com/artist/4yNdrUaF54csrLixVTnqzC"
         }
       ],
-      "duration_ms": 208800,
-      "name": "Nuestra Cancion",
-      "url": "https://open.spotify.com/track/2yB721Szta49XabGt5FQ0u"
-    },
-    {
-      "added_at": "2021-10-19 17:28:22",
-      "album": {
-        "name": "Los A\u00f1os Dorados de Sergio Vargas",
-        "url": "https://open.spotify.com/album/3UseWPr14T9M4Vizzd70b7"
-      },
-      "artists": [
-        {
-          "name": "Sergio Vargas",
-          "url": "https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs"
-        }
-      ],
-      "duration_ms": 284866,
-      "name": "Si Alg\u00fan D\u00eda la Ves",
-      "url": "https://open.spotify.com/track/3E7KCWu2HzLeI4J32B00DR"
+      "duration_ms": 280920,
+      "name": "Demasiado Romantica",
+      "url": "https://open.spotify.com/track/5e6DvXTWzC8i9MdsLZaTgb"
     },
     {
       "added_at": "2021-10-19 17:28:22",
@@ -271,18 +255,18 @@
     {
       "added_at": "2021-10-19 17:28:22",
       "album": {
-        "name": "Lo Mejor De To\u00f1o Rosario",
-        "url": "https://open.spotify.com/album/6M9B9lMQrR8e6RKBARRAEp"
+        "name": "Los A\u00f1os Dorados de Sergio Vargas",
+        "url": "https://open.spotify.com/album/3UseWPr14T9M4Vizzd70b7"
       },
       "artists": [
         {
-          "name": "To\u00f1o Rosario",
-          "url": "https://open.spotify.com/artist/4DjY0CaKAejJgghVHTaOUy"
+          "name": "Sergio Vargas",
+          "url": "https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs"
         }
       ],
-      "duration_ms": 272653,
-      "name": "Otra Como Tu",
-      "url": "https://open.spotify.com/track/4Vn7MXHMq3qXY3kAfUttc8"
+      "duration_ms": 284866,
+      "name": "Si Alg\u00fan D\u00eda la Ves",
+      "url": "https://open.spotify.com/track/3E7KCWu2HzLeI4J32B00DR"
     },
     {
       "added_at": "2021-10-19 17:28:22",
@@ -303,6 +287,22 @@
     {
       "added_at": "2021-10-19 17:28:22",
       "album": {
+        "name": "Lo Mejor De To\u00f1o Rosario",
+        "url": "https://open.spotify.com/album/6M9B9lMQrR8e6RKBARRAEp"
+      },
+      "artists": [
+        {
+          "name": "To\u00f1o Rosario",
+          "url": "https://open.spotify.com/artist/4DjY0CaKAejJgghVHTaOUy"
+        }
+      ],
+      "duration_ms": 272653,
+      "name": "Otra Como Tu",
+      "url": "https://open.spotify.com/track/4Vn7MXHMq3qXY3kAfUttc8"
+    },
+    {
+      "added_at": "2021-10-19 17:28:22",
+      "album": {
         "name": "Mentirosa",
         "url": "https://open.spotify.com/album/1WfKKkx38gcIJrdekcDwO4"
       },
@@ -315,6 +315,26 @@
       "duration_ms": 231183,
       "name": "Noches de Fantasia",
       "url": "https://open.spotify.com/track/3PeQq6jHoOXcEi3OjDO6xu"
+    },
+    {
+      "added_at": "2021-10-19 17:28:22",
+      "album": {
+        "name": "100% Merengue",
+        "url": "https://open.spotify.com/album/341ZS1EddJkPqUYVa8mBoI"
+      },
+      "artists": [
+        {
+          "name": "Olga Ta\u00f1\u00f3n",
+          "url": "https://open.spotify.com/artist/4pv1Jo4PbYI8LMADJoTWjE"
+        },
+        {
+          "name": "Ronnie Torres",
+          "url": "https://open.spotify.com/artist/2QUD4hlzyYf6n1Fd9Kda1A"
+        }
+      ],
+      "duration_ms": 279546,
+      "name": "Como Olvidar - Merengue Versi\u00f3n",
+      "url": "https://open.spotify.com/track/7gT6BKjzmmZM0FkYJjPSqv"
     },
     {
       "added_at": "2021-10-19 17:28:22",
@@ -371,42 +391,6 @@
     {
       "added_at": "2021-10-19 17:28:22",
       "album": {
-        "name": "100% Merengue",
-        "url": "https://open.spotify.com/album/341ZS1EddJkPqUYVa8mBoI"
-      },
-      "artists": [
-        {
-          "name": "Olga Ta\u00f1\u00f3n",
-          "url": "https://open.spotify.com/artist/4pv1Jo4PbYI8LMADJoTWjE"
-        },
-        {
-          "name": "Ronnie Torres",
-          "url": "https://open.spotify.com/artist/2QUD4hlzyYf6n1Fd9Kda1A"
-        }
-      ],
-      "duration_ms": 279546,
-      "name": "Como Olvidar - Merengue Versi\u00f3n",
-      "url": "https://open.spotify.com/track/7gT6BKjzmmZM0FkYJjPSqv"
-    },
-    {
-      "added_at": "2021-10-19 17:28:22",
-      "album": {
-        "name": "Vete y Dile",
-        "url": "https://open.spotify.com/album/3bLNzJGuGCJCPnJw4lqwTn"
-      },
-      "artists": [
-        {
-          "name": "Sergio Vargas",
-          "url": "https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs"
-        }
-      ],
-      "duration_ms": 296586,
-      "name": "Vete y Dile",
-      "url": "https://open.spotify.com/track/1gcLwCdALFFT5qvpDZgFu7"
-    },
-    {
-      "added_at": "2021-10-19 17:28:22",
-      "album": {
         "name": "Los A\u00f1os Dorados",
         "url": "https://open.spotify.com/album/1HOTq1XpgcX1Gg2KWw9ike"
       },
@@ -435,6 +419,22 @@
       "duration_ms": 286520,
       "name": "Asesina",
       "url": "https://open.spotify.com/track/68VJAoIwl72kQXzAm01cqG"
+    },
+    {
+      "added_at": "2021-10-19 17:28:22",
+      "album": {
+        "name": "Vete y Dile",
+        "url": "https://open.spotify.com/album/3bLNzJGuGCJCPnJw4lqwTn"
+      },
+      "artists": [
+        {
+          "name": "Sergio Vargas",
+          "url": "https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs"
+        }
+      ],
+      "duration_ms": 296586,
+      "name": "Vete y Dile",
+      "url": "https://open.spotify.com/track/1gcLwCdALFFT5qvpDZgFu7"
     },
     {
       "added_at": "2021-10-19 17:28:22",
@@ -491,22 +491,6 @@
       "duration_ms": 281400,
       "name": "Quiero Saber de T\u00ed",
       "url": "https://open.spotify.com/track/3kiQ59TqSkTxGNMXm4mVfw"
-    },
-    {
-      "added_at": "2021-10-19 17:28:22",
-      "album": {
-        "name": "Mi Propuesta 1996",
-        "url": "https://open.spotify.com/album/22hNAaD6Cak0gcrvCfRbaT"
-      },
-      "artists": [
-        {
-          "name": "Sergio Vargas",
-          "url": "https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs"
-        }
-      ],
-      "duration_ms": 279680,
-      "name": "Ni Tu Ni Yo",
-      "url": "https://open.spotify.com/track/7fLBzA1v6P0CXQ52OOLZdO"
     },
     {
       "added_at": "2021-10-19 17:28:22",
@@ -575,18 +559,18 @@
     {
       "added_at": "2021-10-19 17:28:22",
       "album": {
-        "name": "Historia de \u00c9xitos, Vol. 1",
-        "url": "https://open.spotify.com/album/0hV81HgF4pm6dcN22gLiHQ"
+        "name": "Por un Poco de Amor",
+        "url": "https://open.spotify.com/album/2mN7A45bIPrIZgArQ0VZDN"
       },
       "artists": [
         {
-          "name": "Sergio Vargas",
-          "url": "https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs"
+          "name": "Benny Sadel",
+          "url": "https://open.spotify.com/artist/0qyfctw6Iwnyswhgwas6Kq"
         }
       ],
-      "duration_ms": 393012,
-      "name": "La Quiero a Morir / Si Alg\u00fan D\u00eda la Vez",
-      "url": "https://open.spotify.com/track/3VGAirMC7nJnhReTDiDv8d"
+      "duration_ms": 221100,
+      "name": "Que Pasara",
+      "url": "https://open.spotify.com/track/1lmzFjc5xPnnHwGO73bHTo"
     },
     {
       "added_at": "2021-10-19 17:28:22",
@@ -611,6 +595,22 @@
     {
       "added_at": "2021-10-19 17:28:22",
       "album": {
+        "name": "Mi Propuesta 1996",
+        "url": "https://open.spotify.com/album/22hNAaD6Cak0gcrvCfRbaT"
+      },
+      "artists": [
+        {
+          "name": "Sergio Vargas",
+          "url": "https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs"
+        }
+      ],
+      "duration_ms": 279680,
+      "name": "Ni Tu Ni Yo",
+      "url": "https://open.spotify.com/track/7fLBzA1v6P0CXQ52OOLZdO"
+    },
+    {
+      "added_at": "2021-10-19 17:28:22",
+      "album": {
         "name": "Lo Mejor De...To\u00f1o Rosario",
         "url": "https://open.spotify.com/album/475agtJk3uN4dSg38QKx5t"
       },
@@ -627,22 +627,6 @@
     {
       "added_at": "2021-10-19 17:28:22",
       "album": {
-        "name": "Por un Poco de Amor",
-        "url": "https://open.spotify.com/album/2mN7A45bIPrIZgArQ0VZDN"
-      },
-      "artists": [
-        {
-          "name": "Benny Sadel",
-          "url": "https://open.spotify.com/artist/0qyfctw6Iwnyswhgwas6Kq"
-        }
-      ],
-      "duration_ms": 221100,
-      "name": "Que Pasara",
-      "url": "https://open.spotify.com/track/1lmzFjc5xPnnHwGO73bHTo"
-    },
-    {
-      "added_at": "2021-10-19 17:28:22",
-      "album": {
         "name": "Suavemente",
         "url": "https://open.spotify.com/album/378XG6oO0TWcsGuxeQy2Os"
       },
@@ -655,22 +639,6 @@
       "duration_ms": 226440,
       "name": "Me Arrepiento",
       "url": "https://open.spotify.com/track/2mImo5tRWlJrd7a1kl176n"
-    },
-    {
-      "added_at": "2021-10-19 17:28:22",
-      "album": {
-        "name": "A Tiempo",
-        "url": "https://open.spotify.com/album/4ZvFeFnbxwH4fpYLFEoMui"
-      },
-      "artists": [
-        {
-          "name": "Sergio Vargas",
-          "url": "https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs"
-        }
-      ],
-      "duration_ms": 303293,
-      "name": "Dile",
-      "url": "https://open.spotify.com/track/0eaCLC0UBpc0Wh0EikTe9u"
     },
     {
       "added_at": "2021-10-19 17:28:22",
@@ -723,18 +691,18 @@
     {
       "added_at": "2021-10-19 17:28:22",
       "album": {
-        "name": "Mamwali, Vol. 2",
-        "url": "https://open.spotify.com/album/3dcYjalrQeUe4ed4FHxa6e"
+        "name": "Exclusivo",
+        "url": "https://open.spotify.com/album/6aK3BPI7eC3Tihn7mt70dM"
       },
       "artists": [
         {
-          "name": "Ala Jaza",
-          "url": "https://open.spotify.com/artist/3t3hIeMUcwqWaEVpEox5QW"
+          "name": "To\u00f1o Rosario",
+          "url": "https://open.spotify.com/artist/4DjY0CaKAejJgghVHTaOUy"
         }
       ],
-      "duration_ms": 211017,
-      "name": "Coraz\u00f3n en Soledad",
-      "url": "https://open.spotify.com/track/0HID2RX44WWmKz1pEqtA4L"
+      "duration_ms": 287040,
+      "name": "Un Buen Perdedor",
+      "url": "https://open.spotify.com/track/7oHEmIJtoLEEn3WgBxd9F2"
     },
     {
       "added_at": "2021-10-19 17:28:22",
@@ -759,6 +727,38 @@
     {
       "added_at": "2021-10-19 17:28:22",
       "album": {
+        "name": "Historia de \u00c9xitos, Vol. 1",
+        "url": "https://open.spotify.com/album/0hV81HgF4pm6dcN22gLiHQ"
+      },
+      "artists": [
+        {
+          "name": "Sergio Vargas",
+          "url": "https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs"
+        }
+      ],
+      "duration_ms": 393012,
+      "name": "La Quiero a Morir / Si Alg\u00fan D\u00eda la Vez",
+      "url": "https://open.spotify.com/track/3VGAirMC7nJnhReTDiDv8d"
+    },
+    {
+      "added_at": "2021-10-19 17:28:22",
+      "album": {
+        "name": "Mamwali, Vol. 2",
+        "url": "https://open.spotify.com/album/3dcYjalrQeUe4ed4FHxa6e"
+      },
+      "artists": [
+        {
+          "name": "Ala Jaza",
+          "url": "https://open.spotify.com/artist/3t3hIeMUcwqWaEVpEox5QW"
+        }
+      ],
+      "duration_ms": 211017,
+      "name": "Coraz\u00f3n en Soledad",
+      "url": "https://open.spotify.com/track/0HID2RX44WWmKz1pEqtA4L"
+    },
+    {
+      "added_at": "2021-10-19 17:28:22",
+      "album": {
         "name": "Milly & Company",
         "url": "https://open.spotify.com/album/1WaHdAxCGI2q58gva4gSrB"
       },
@@ -775,38 +775,6 @@
       "duration_ms": 220893,
       "name": "Con los Ojos Cerrados",
       "url": "https://open.spotify.com/track/0sHZajNhJcmvkIQS4bCEIk"
-    },
-    {
-      "added_at": "2021-10-19 17:28:22",
-      "album": {
-        "name": "Exclusivo",
-        "url": "https://open.spotify.com/album/6aK3BPI7eC3Tihn7mt70dM"
-      },
-      "artists": [
-        {
-          "name": "To\u00f1o Rosario",
-          "url": "https://open.spotify.com/artist/4DjY0CaKAejJgghVHTaOUy"
-        }
-      ],
-      "duration_ms": 287040,
-      "name": "Un Buen Perdedor",
-      "url": "https://open.spotify.com/track/7oHEmIJtoLEEn3WgBxd9F2"
-    },
-    {
-      "added_at": "2021-10-19 17:28:22",
-      "album": {
-        "name": "Puro Mambo",
-        "url": "https://open.spotify.com/album/1kAS1xnRmN4uDN8Cp1TPcS"
-      },
-      "artists": [
-        {
-          "name": "La Banda Gorda",
-          "url": "https://open.spotify.com/artist/6biY6yyLVZzisjmFLx0AP1"
-        }
-      ],
-      "duration_ms": 247120,
-      "name": "Coraz\u00f3n De Nadie",
-      "url": "https://open.spotify.com/track/4PtTs7pmraBdfXCYs0qSvn"
     },
     {
       "added_at": "2021-10-19 17:28:22",
@@ -839,6 +807,54 @@
       "duration_ms": 254511,
       "name": "Maldita Sea",
       "url": "https://open.spotify.com/track/5YjpYs0P1BcT486h5IIAss"
+    },
+    {
+      "added_at": "2021-10-19 17:28:22",
+      "album": {
+        "name": "A Tiempo",
+        "url": "https://open.spotify.com/album/4ZvFeFnbxwH4fpYLFEoMui"
+      },
+      "artists": [
+        {
+          "name": "Sergio Vargas",
+          "url": "https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs"
+        }
+      ],
+      "duration_ms": 303293,
+      "name": "Dile",
+      "url": "https://open.spotify.com/track/0eaCLC0UBpc0Wh0EikTe9u"
+    },
+    {
+      "added_at": "2021-10-19 17:28:22",
+      "album": {
+        "name": "Me Olvide de Vivir",
+        "url": "https://open.spotify.com/album/5PdiRF2P994XMGCon5JnRD"
+      },
+      "artists": [
+        {
+          "name": "To\u00f1o Rosario",
+          "url": "https://open.spotify.com/artist/4DjY0CaKAejJgghVHTaOUy"
+        }
+      ],
+      "duration_ms": 337800,
+      "name": "Donde",
+      "url": "https://open.spotify.com/track/3OoiMXkwdEbsSGPrJMGwlv"
+    },
+    {
+      "added_at": "2021-10-19 17:28:22",
+      "album": {
+        "name": "Puro Mambo",
+        "url": "https://open.spotify.com/album/1kAS1xnRmN4uDN8Cp1TPcS"
+      },
+      "artists": [
+        {
+          "name": "La Banda Gorda",
+          "url": "https://open.spotify.com/artist/6biY6yyLVZzisjmFLx0AP1"
+        }
+      ],
+      "duration_ms": 247120,
+      "name": "Coraz\u00f3n De Nadie",
+      "url": "https://open.spotify.com/track/4PtTs7pmraBdfXCYs0qSvn"
     },
     {
       "added_at": "2021-10-19 17:28:22",
@@ -891,6 +907,22 @@
     {
       "added_at": "2021-10-19 17:28:22",
       "album": {
+        "name": "Majao Majao",
+        "url": "https://open.spotify.com/album/77Jccvo9WY5L7OXepwpDOo"
+      },
+      "artists": [
+        {
+          "name": "Benny Sadel",
+          "url": "https://open.spotify.com/artist/0qyfctw6Iwnyswhgwas6Kq"
+        }
+      ],
+      "duration_ms": 285626,
+      "name": "Dicen",
+      "url": "https://open.spotify.com/track/19U8hgcEXCiyaCOkrtrMkk"
+    },
+    {
+      "added_at": "2021-10-19 17:28:22",
+      "album": {
         "name": "Caliente",
         "url": "https://open.spotify.com/album/0gEYiU9xYpARpvTMRitIw1"
       },
@@ -935,38 +967,6 @@
       "duration_ms": 250000,
       "name": "Que Cara Mas Bonita",
       "url": "https://open.spotify.com/track/2ALPuLOqlTrfNWzakxRPVT"
-    },
-    {
-      "added_at": "2021-10-19 17:28:22",
-      "album": {
-        "name": "Me Olvide de Vivir",
-        "url": "https://open.spotify.com/album/5PdiRF2P994XMGCon5JnRD"
-      },
-      "artists": [
-        {
-          "name": "To\u00f1o Rosario",
-          "url": "https://open.spotify.com/artist/4DjY0CaKAejJgghVHTaOUy"
-        }
-      ],
-      "duration_ms": 337800,
-      "name": "Donde",
-      "url": "https://open.spotify.com/track/3OoiMXkwdEbsSGPrJMGwlv"
-    },
-    {
-      "added_at": "2021-10-19 17:28:22",
-      "album": {
-        "name": "Majao Majao",
-        "url": "https://open.spotify.com/album/77Jccvo9WY5L7OXepwpDOo"
-      },
-      "artists": [
-        {
-          "name": "Benny Sadel",
-          "url": "https://open.spotify.com/artist/0qyfctw6Iwnyswhgwas6Kq"
-        }
-      ],
-      "duration_ms": 285626,
-      "name": "Dicen",
-      "url": "https://open.spotify.com/track/19U8hgcEXCiyaCOkrtrMkk"
     },
     {
       "added_at": "2021-10-19 17:28:22",

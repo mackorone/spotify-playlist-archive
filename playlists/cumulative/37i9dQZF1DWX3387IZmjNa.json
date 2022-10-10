@@ -230,6 +230,24 @@
     },
     {
       "album": {
+        "name": "All Of Me",
+        "url": "https://open.spotify.com/album/4vzGua7BYmBwGKtXVj5Z5U"
+      },
+      "artists": [
+        {
+          "name": "3Breezy",
+          "url": "https://open.spotify.com/artist/4cSobXLXhJMHYUZvBMuQFG"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167441,
+      "name": "All Of Me",
+      "url": "https://open.spotify.com/track/5cBdWCvl3E4t5BXjIDCC9R"
+    },
+    {
+      "album": {
         "name": "SoulFly (Deluxe Version)",
         "url": "https://open.spotify.com/album/15BnishwaiZhh0ZY3fnxMN"
       },
@@ -970,6 +988,24 @@
     },
     {
       "album": {
+        "name": "Boys Don't Cry",
+        "url": "https://open.spotify.com/album/4LAeqF9RdXg4a21kuEvfc4"
+      },
+      "artists": [
+        {
+          "name": "Toosii",
+          "url": "https://open.spotify.com/artist/6BH1xcDkwbbyrLMUKECsW1"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132538,
+      "name": "Date Night",
+      "url": "https://open.spotify.com/track/1UzEMXvcbY5vT5NTAEyO7T"
+    },
+    {
+      "album": {
         "name": "Demon (feat. Coi Leray)",
         "url": "https://open.spotify.com/album/4EwRqzafybk4iS0XUBXE9Z"
       },
@@ -1047,7 +1083,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 239026,
       "name": "Die Hard",
       "url": "https://open.spotify.com/track/2g6tReTlM2Akp41g0HaeXN"
@@ -1255,7 +1291,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 113801,
       "name": "Feelin In Love",
       "url": "https://open.spotify.com/track/6IT91mLNfih39B6W2YmjMe"
@@ -1767,7 +1803,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 128659,
       "name": "IF YOU EVER",
       "url": "https://open.spotify.com/track/41G3M9ewHTrDGNl5UKKlQl"
@@ -2127,7 +2163,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 158003,
       "name": "Long Day (Pussy Crazy) (feat. Gwen Bunn)",
       "url": "https://open.spotify.com/track/75kbz7ZnEgvEbiBFOb5Izh"
@@ -2397,6 +2433,32 @@
       "duration_ms": 217218,
       "name": "Mind Games",
       "url": "https://open.spotify.com/track/7Itze7sYhdjEQ4yD1qS1Ox"
+    },
+    {
+      "album": {
+        "name": "Only Built For Infinity Links",
+        "url": "https://open.spotify.com/album/59hIIDzaPSH5O3QSz4zX0t"
+      },
+      "artists": [
+        {
+          "name": "Quavo",
+          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
+        },
+        {
+          "name": "Takeoff",
+          "url": "https://open.spotify.com/artist/3EW0kQ1skZiK1NHg3Spt9J"
+        },
+        {
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270198,
+      "name": "Mixy (feat. Summer Walker)",
+      "url": "https://open.spotify.com/track/1qMnyfVxKKlAxYrFPYTuph"
     },
     {
       "album": {
@@ -2909,7 +2971,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 158268,
-      "name": "Playa (feat. H.E.R.)",
+      "name": "Playa (feat. H.E.R.) [Bonus]",
       "url": "https://open.spotify.com/track/2yLDniiA2kYECf7IE3f2bd"
     },
     {
@@ -3181,6 +3243,28 @@
       "duration_ms": 221773,
       "name": "Settled (feat. Russ)",
       "url": "https://open.spotify.com/track/46cBzfiGyZetFFC9P9LATk"
+    },
+    {
+      "album": {
+        "name": "Survivor\u2019s Remorse: A Side",
+        "url": "https://open.spotify.com/album/1fM9bkdf6IqvhnPrUK7WeZ"
+      },
+      "artists": [
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        },
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176588,
+      "name": "Shordie (with Gunna)",
+      "url": "https://open.spotify.com/track/2ZE0OhDfa8xiNAV6Uthbb9"
     },
     {
       "album": {
@@ -3829,7 +3913,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 222773,
       "name": "Welcome Back",
       "url": "https://open.spotify.com/track/6lhlzSra6YxSPWw5lzv7hG"
@@ -4015,6 +4099,24 @@
       "duration_ms": 165917,
       "name": "Who We Are (feat. Yung Bleu)",
       "url": "https://open.spotify.com/track/2h0DSm6aLpjO5T8iBExkZD"
+    },
+    {
+      "album": {
+        "name": "Why Did I",
+        "url": "https://open.spotify.com/album/3tsuymG1fHwb1EdhiOVOM5"
+      },
+      "artists": [
+        {
+          "name": "Tory Lanez",
+          "url": "https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145918,
+      "name": "Why Did I",
+      "url": "https://open.spotify.com/track/1t8ELLu3PQ2Lvd3mghcmM9"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/23sHdrU9wnUTqYjHZQ101O.md) - [plain]
 
 > Sweden couldn&\#x27;t get enough of these tracks in 2014! See how the rest of the world listened at spotify.com&\#x2F;2014\. \*Includes artists currently available on Spotify.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,829 likes - 100 songs - 6 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,828 likes - 100 songs - 6 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

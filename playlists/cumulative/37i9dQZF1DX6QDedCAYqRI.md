@@ -4,7 +4,7 @@
 
 > These beautifully\-hypnotising vocalists are bound to make your evenings more chilling than ever.
 
-104 songs - 6 hr 40 min - [published](https://open.spotify.com/playlist/6I9zKrFBIVKUckprWsUFLc)
+105 songs - 6 hr 44 min - [published](https://open.spotify.com/playlist/6I9zKrFBIVKUckprWsUFLc)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,7 +45,8 @@
 | [Horizon](https://open.spotify.com/track/7K0Cua3mEHtWMWKlMVh8N5) | [KLANG](https://open.spotify.com/artist/3lxXfdGXe8k188bUZgKqgF) | [Black Dog: Being a Teacher \(Original Television Soundtrack\), Pt\. 3](https://open.spotify.com/album/1XUDf70Z6hdqzjv2eqUfpq) | 4:14 | 2022-06-01 |  |
 | [I Went Too Far \- MK Remix / Radio Version](https://open.spotify.com/track/71GieY2cMEh4s7Unv00gnw) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N), [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9) | [I Went Too Far \(MK Remix\)](https://open.spotify.com/album/2nZmJPlEBwQYyVqN46GoHP) | 3:57 | 2021-08-19 | 2022-07-29 |
 | [I Went Too Far \- MK Remix / Radio Version](https://open.spotify.com/track/7fVMOMzlZefV971fPVzphD) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N), [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9) | [I Went Too Far \(MK Remix\)](https://open.spotify.com/album/63rRCIRub0b2Svp7FWO6IV) | 3:57 | 2022-06-01 |  |
-| [I wish I can be Rich](https://open.spotify.com/track/4U2I8Fi2kN6TFpGogWkghW) | [Anna hisbbuR](https://open.spotify.com/artist/1aGiVSaZQoVVgMOLYF5yVR) | [I wish I can be Rich](https://open.spotify.com/album/612xHundAqZJb5bIZusjyC) | 3:46 | 2021-08-19 |  |
+| [I wish I can be Rich](https://open.spotify.com/track/4U2I8Fi2kN6TFpGogWkghW) | [Anna hisbbuR](https://open.spotify.com/artist/1aGiVSaZQoVVgMOLYF5yVR) | [I wish I can be Rich](https://open.spotify.com/album/612xHundAqZJb5bIZusjyC) | 3:46 | 2021-08-19 | 2022-10-05 |
+| [I wish I can be Rich](https://open.spotify.com/track/7FxEJu7QhAzT3MTE6e1FZn) | [Anna hisbbuR](https://open.spotify.com/artist/1aGiVSaZQoVVgMOLYF5yVR) | [I wish I can be Rich](https://open.spotify.com/album/5EJh5oud3icqeswaDukDp7) | 3:46 | 2022-06-01 |  |
 | [ifyoulovesomeone](https://open.spotify.com/track/4eECknCDvsXWYyacuycw4J) | [Su San](https://open.spotify.com/artist/141YMyiz2ugK1AxTXDkUdx) | [ifyoulovesomeone](https://open.spotify.com/album/2Kva6Kzzr5m8k70U4dQA0r) | 3:26 | 2021-08-19 |  |
 | [Impressions](https://open.spotify.com/track/12ZNnAQqvmJmT1wGXkzKCd) | [Kemrie](https://open.spotify.com/artist/5ZAXoEmG8XufgQpkWbHbSp) | [Impressions](https://open.spotify.com/album/1reOkkyChSAu1w9aWvhJCE) | 4:40 | 2021-08-19 |  |
 | [In my hand](https://open.spotify.com/track/3cjTqH0FJghhtaheWNkNv7) | [Julia Shortreed](https://open.spotify.com/artist/6Swtf1UAGASXEJXnhDRjoc) | [Violet Sun](https://open.spotify.com/album/5yfMZ1JBzHx1Nt4VYb824M) | 4:21 | 2021-08-19 |  |

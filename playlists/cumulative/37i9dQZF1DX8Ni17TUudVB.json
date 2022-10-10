@@ -962,6 +962,24 @@
     },
     {
       "album": {
+        "name": "Death Rail",
+        "url": "https://open.spotify.com/album/4C0vIxaCTSloENgeyOFgZ8"
+      },
+      "artists": [
+        {
+          "name": "Hi I'm Ghost",
+          "url": "https://open.spotify.com/artist/7IyxUmBgkkV4jh7kHoip34"
+        }
+      ],
+      "date_added": "2022-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151112,
+      "name": "Death Rail",
+      "url": "https://open.spotify.com/track/6ZI5UgjEGb82o1XaAZKLJ2"
+    },
+    {
+      "album": {
         "name": "Deep Lies",
         "url": "https://open.spotify.com/album/48n5az0Eky1MyA3LQMNRLz"
       },
@@ -2127,7 +2145,7 @@
       ],
       "date_added": "2022-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-05",
       "duration_ms": 184761,
       "name": "Light Me Up",
       "url": "https://open.spotify.com/track/6xfT4ubp1ETiqfDtUbdYHI"

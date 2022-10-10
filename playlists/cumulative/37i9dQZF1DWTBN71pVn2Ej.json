@@ -426,6 +426,24 @@
     },
     {
       "album": {
+        "name": "Black Wax",
+        "url": "https://open.spotify.com/album/4qVsaVR3UeytC0EOyYQhmX"
+      },
+      "artists": [
+        {
+          "name": "The Subways",
+          "url": "https://open.spotify.com/artist/4BntNFyiN3VGG4hhRRZt9d"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176466,
+      "name": "Black Wax",
+      "url": "https://open.spotify.com/track/4V31QTDG2d8ljBOpp0Y0E4"
+    },
+    {
+      "album": {
         "name": "blink",
         "url": "https://open.spotify.com/album/0BJ2xtwZ34wq86GS52eYkD"
       },
@@ -473,7 +491,7 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 207305,
       "name": "Bored Again",
       "url": "https://open.spotify.com/track/3QQwKlLs6j1pcLcg5rllCp"
@@ -1067,7 +1085,7 @@
       ],
       "date_added": "2022-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 226500,
       "name": "Daddy's Boy",
       "url": "https://open.spotify.com/track/5xujNX1JdMNpN1Wcgd92vb"
@@ -2027,6 +2045,24 @@
       "duration_ms": 202740,
       "name": "Kamikaze",
       "url": "https://open.spotify.com/track/2sqNP3eZQzEaiy2cSrMKC6"
+    },
+    {
+      "album": {
+        "name": "Killing Time",
+        "url": "https://open.spotify.com/album/0RrpTBev2XySRIyv8dnNKn"
+      },
+      "artists": [
+        {
+          "name": "Bleed",
+          "url": "https://open.spotify.com/artist/15DYcBNS0c6bfsoezOIzT3"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194355,
+      "name": "Killing Time",
+      "url": "https://open.spotify.com/track/4me6CoGX1RHTu7VE7Hnkpl"
     },
     {
       "album": {
@@ -3136,6 +3172,24 @@
     },
     {
       "album": {
+        "name": "Star",
+        "url": "https://open.spotify.com/album/57wIEJkgUzg17Qyns6JvXz"
+      },
+      "artists": [
+        {
+          "name": "Liotta Seoul",
+          "url": "https://open.spotify.com/artist/5TVvYXtmzb3yeMZIiQdTQi"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215446,
+      "name": "Star",
+      "url": "https://open.spotify.com/track/3htTIczJijYQUMhuExSOED"
+    },
+    {
+      "album": {
         "name": "Stay Sane",
         "url": "https://open.spotify.com/album/1bV5jcaO8VJ1axYqK77MTE"
       },
@@ -3381,7 +3435,7 @@
       ],
       "date_added": "2022-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 187654,
       "name": "T.W.I.N.",
       "url": "https://open.spotify.com/track/0AyN9SW50iTYEI17mdg8BG"

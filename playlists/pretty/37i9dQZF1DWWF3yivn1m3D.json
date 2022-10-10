@@ -1,15 +1,43 @@
 {
   "description": "The best of the legendary composer.",
-  "num_followers": 523109,
+  "num_followers": 525423,
   "original_name": "This Is Hans Zimmer",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MTMwOTc1MCwwMDAwMDAwMGU3ZGNjNTViOTcwMzNlNzVmYTY4MjhhNmUxY2IzZmFk",
+  "snapshot_id": "MTY2NDk4MTkzOCwwMDAwMDAwMGU0ZjE2OGExYjUyYzYwZDBkNzdkYjllMWIzOGJjN2E1",
   "tracks": [
     {
-      "added_at": "2021-07-26 08:10:12",
+      "added_at": "2022-10-05 14:58:58",
+      "album": {
+        "name": "The Frozen Planet (From Frozen Planet II)",
+        "url": "https://open.spotify.com/album/4KkII36tTfopBWuElxzaQt"
+      },
+      "artists": [
+        {
+          "name": "Hans Zimmer",
+          "url": "https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ"
+        },
+        {
+          "name": "Adam Lukas",
+          "url": "https://open.spotify.com/artist/4E39NH9eiLP3IMISn28wCd"
+        },
+        {
+          "name": "James Everingham",
+          "url": "https://open.spotify.com/artist/2gn4jnqcC9yMXt6433gleQ"
+        },
+        {
+          "name": "AURORA",
+          "url": "https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N"
+        }
+      ],
+      "duration_ms": 263483,
+      "name": "The Frozen Planet - From Frozen Planet II",
+      "url": "https://open.spotify.com/track/3Jqj5iGN9OeK6aTJhjKSEA"
+    },
+    {
+      "added_at": "2022-10-05 14:58:58",
       "album": {
         "name": "Inception (Music from the Motion Picture)",
         "url": "https://open.spotify.com/album/2qvA7HmSg1iM6XMiFF76dp"
@@ -25,7 +53,7 @@
       "url": "https://open.spotify.com/track/6ZFbXIJkuI1dVNWvzJzown"
     },
     {
-      "added_at": "2021-07-26 08:10:12",
+      "added_at": "2022-10-05 14:58:58",
       "album": {
         "name": "Interstellar (Original Motion Picture Soundtrack) [Expanded Edition]",
         "url": "https://open.spotify.com/album/3B61kSKTxlY36cYgzvf3cP"
@@ -41,7 +69,7 @@
       "url": "https://open.spotify.com/track/6pWgRkpqVfxnj3WuIcJ7WP"
     },
     {
-      "added_at": "2021-07-26 08:10:12",
+      "added_at": "2022-10-05 14:58:58",
       "album": {
         "name": "Widows (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/3DnNmCPLr3pddkLHOZfS1s"
@@ -57,7 +85,7 @@
       "url": "https://open.spotify.com/track/4EW68zLGIpylzn6JPgcNl7"
     },
     {
-      "added_at": "2021-07-26 08:10:12",
+      "added_at": "2022-10-05 14:58:58",
       "album": {
         "name": "Blade Runner 2049 (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/5kSUsy5FU3Wcxd4DBvXFm4"
@@ -77,7 +105,7 @@
       "url": "https://open.spotify.com/track/0UWa0AdUscdQUI7mjjx6G1"
     },
     {
-      "added_at": "2021-07-26 08:10:12",
+      "added_at": "2022-10-05 14:58:58",
       "album": {
         "name": "The Dune Sketchbook (Music from the Soundtrack)",
         "url": "https://open.spotify.com/album/78uSUydG2FbcVDDFWGMQjT"
@@ -93,7 +121,7 @@
       "url": "https://open.spotify.com/track/1Qr17u2S9kNDzTeWAJCY5N"
     },
     {
-      "added_at": "2021-07-26 08:10:12",
+      "added_at": "2022-10-05 14:58:58",
       "album": {
         "name": "Batman Begins (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/5djDvf7OozECsKzEB04uYg"
@@ -113,7 +141,7 @@
       "url": "https://open.spotify.com/track/6akwM3md7dzP2LkK8pKk6d"
     },
     {
-      "added_at": "2021-07-26 08:10:12",
+      "added_at": "2022-10-05 14:58:58",
       "album": {
         "name": "Wonder Woman 1984 (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/1S6PQvbIyUIS9P6Cxu9lmO"
@@ -129,7 +157,7 @@
       "url": "https://open.spotify.com/track/4C7lKHNYzm9c8ywpGNlAc9"
     },
     {
-      "added_at": "2021-07-26 08:10:12",
+      "added_at": "2022-10-05 14:58:58",
       "album": {
         "name": "Dune (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/56k8ay5oE5apR61WIeE4wQ"
@@ -145,7 +173,7 @@
       "url": "https://open.spotify.com/track/1gqCO3x2MO4KbQfN9pGUlH"
     },
     {
-      "added_at": "2021-07-26 08:10:12",
+      "added_at": "2022-10-05 14:58:58",
       "album": {
         "name": "Seven Worlds One Planet (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/6Bvf4uw0K2u72xEpp7oiwI"
@@ -165,7 +193,7 @@
       "url": "https://open.spotify.com/track/3CEHKMxKKGOqeiYFtDVN1a"
     },
     {
-      "added_at": "2021-07-26 08:10:12",
+      "added_at": "2022-10-05 14:58:58",
       "album": {
         "name": "Blue Planet II (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/58UEPESaEj37jd2SUMr1yT"
@@ -189,7 +217,7 @@
       "url": "https://open.spotify.com/track/6e4HulByfr8oPGd7JW5tNZ"
     },
     {
-      "added_at": "2021-07-26 08:10:12",
+      "added_at": "2022-10-05 14:58:58",
       "album": {
         "name": "Planet Earth II (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/0KjRnpqS2q74Q1yn0vrV0o"
@@ -213,7 +241,7 @@
       "url": "https://open.spotify.com/track/0PnLxRZKlGsla3Mbg7xMOd"
     },
     {
-      "added_at": "2021-07-26 08:10:12",
+      "added_at": "2022-10-05 14:58:58",
       "album": {
         "name": "Interstellar (Original Motion Picture Soundtrack) [Expanded Edition]",
         "url": "https://open.spotify.com/album/3B61kSKTxlY36cYgzvf3cP"
@@ -229,7 +257,7 @@
       "url": "https://open.spotify.com/track/6GUq9y0Iy5QrAuPYxTrFp2"
     },
     {
-      "added_at": "2021-07-26 08:10:12",
+      "added_at": "2022-10-05 14:58:58",
       "album": {
         "name": "Gladiator - Music From The Motion Picture",
         "url": "https://open.spotify.com/album/0mN9E0N4bRBD7GKktlaRI0"
@@ -261,7 +289,7 @@
       "url": "https://open.spotify.com/track/1elGwF4VwkwglV4nCBPJtv"
     },
     {
-      "added_at": "2021-07-26 08:10:12",
+      "added_at": "2022-10-05 14:58:58",
       "album": {
         "name": "Blade Runner 2049 (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/5kSUsy5FU3Wcxd4DBvXFm4"
@@ -281,7 +309,7 @@
       "url": "https://open.spotify.com/track/5bKP0HAlVAzKVqBR3ZjFE6"
     },
     {
-      "added_at": "2021-07-26 08:10:12",
+      "added_at": "2022-10-05 14:58:58",
       "album": {
         "name": "The Lion King",
         "url": "https://open.spotify.com/album/3YA5DdB3wSz4pdfEXoMyRd"
@@ -301,7 +329,7 @@
       "url": "https://open.spotify.com/track/6EKywtYHtZLAvxyEcqrbE7"
     },
     {
-      "added_at": "2021-07-26 08:10:12",
+      "added_at": "2022-10-05 14:58:58",
       "album": {
         "name": "Wonder Woman 1984 (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/1S6PQvbIyUIS9P6Cxu9lmO"
@@ -317,7 +345,7 @@
       "url": "https://open.spotify.com/track/4YbZWUKYmD7NUlE6eorQXo"
     },
     {
-      "added_at": "2021-07-26 08:10:12",
+      "added_at": "2022-10-05 14:58:58",
       "album": {
         "name": "Dunkirk (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/1KpQPJOBWeL8kmnwCzYcg8"
@@ -333,7 +361,7 @@
       "url": "https://open.spotify.com/track/4NwpP2y4ijBR77Voiq9pS1"
     },
     {
-      "added_at": "2021-07-26 08:10:12",
+      "added_at": "2022-10-05 14:58:58",
       "album": {
         "name": "The Last Samurai: Original Motion Picture Score",
         "url": "https://open.spotify.com/album/1EqLdtiBSgULHA01ooROeY"
@@ -349,7 +377,7 @@
       "url": "https://open.spotify.com/track/6DHYWelHYuynVVPv2m58wl"
     },
     {
-      "added_at": "2021-07-26 08:10:12",
+      "added_at": "2022-10-05 14:58:58",
       "album": {
         "name": "Gladiator - Music From The Motion Picture",
         "url": "https://open.spotify.com/album/0mN9E0N4bRBD7GKktlaRI0"
@@ -377,7 +405,7 @@
       "url": "https://open.spotify.com/track/20rmtxljOGVz4T3nSrtAV1"
     },
     {
-      "added_at": "2021-07-26 08:10:12",
+      "added_at": "2022-10-05 14:58:58",
       "album": {
         "name": "The Dark Knight (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/63uFfOZpC7jrV7wfuBY2lX"
@@ -397,7 +425,7 @@
       "url": "https://open.spotify.com/track/3j9WvPrVhZuH8AmTeVakfR"
     },
     {
-      "added_at": "2021-07-26 08:10:12",
+      "added_at": "2022-10-05 14:58:58",
       "album": {
         "name": "Man of Steel (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/2rgInD5nZNONheZwqir4Xg"
@@ -413,7 +441,7 @@
       "url": "https://open.spotify.com/track/1mUG7ftwIxuq5fhMPkyM02"
     },
     {
-      "added_at": "2021-07-26 08:10:12",
+      "added_at": "2022-10-05 14:58:58",
       "album": {
         "name": "Blade Runner 2049 (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/5kSUsy5FU3Wcxd4DBvXFm4"
@@ -433,7 +461,7 @@
       "url": "https://open.spotify.com/track/5cdx6h6N1E4PwKkOwb8Gzl"
     },
     {
-      "added_at": "2021-07-26 08:10:12",
+      "added_at": "2022-10-05 14:58:58",
       "album": {
         "name": "Interstellar (Original Motion Picture Soundtrack) [Expanded Edition]",
         "url": "https://open.spotify.com/album/3B61kSKTxlY36cYgzvf3cP"
@@ -449,7 +477,7 @@
       "url": "https://open.spotify.com/track/4WmB04GBqS4xPMYN9dHgBw"
     },
     {
-      "added_at": "2021-07-26 08:10:12",
+      "added_at": "2022-10-05 14:58:58",
       "album": {
         "name": "Blue Planet II (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/58UEPESaEj37jd2SUMr1yT"
@@ -473,7 +501,7 @@
       "url": "https://open.spotify.com/track/3dBBk2DALMg6ChxAtxeKq4"
     },
     {
-      "added_at": "2021-07-26 08:10:12",
+      "added_at": "2022-10-05 14:58:58",
       "album": {
         "name": "Black Hawk Down (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/3Eh8eEKS1cYsqCrZw2CyZf"
@@ -489,7 +517,7 @@
       "url": "https://open.spotify.com/track/0eNT9B4PjPpzmOTFSbUWjh"
     },
     {
-      "added_at": "2021-07-26 08:10:12",
+      "added_at": "2022-10-05 14:58:58",
       "album": {
         "name": "Inception (Music from the Motion Picture)",
         "url": "https://open.spotify.com/album/2qvA7HmSg1iM6XMiFF76dp"
@@ -505,7 +533,7 @@
       "url": "https://open.spotify.com/track/5xKVYMxOHB2XRLCUafFrz6"
     },
     {
-      "added_at": "2021-07-26 08:10:12",
+      "added_at": "2022-10-05 14:58:58",
       "album": {
         "name": "Pirates of the Caribbean: At World's End",
         "url": "https://open.spotify.com/album/241F2pNbl6OIJPixynRuiu"
@@ -521,7 +549,7 @@
       "url": "https://open.spotify.com/track/7a9aeLVkn7DIqFjbanKz0k"
     },
     {
-      "added_at": "2021-07-26 08:10:12",
+      "added_at": "2022-10-05 14:58:58",
       "album": {
         "name": "The Dark Knight Rises (Original Motion Picture Soundtrack) [Deluxe Edition]",
         "url": "https://open.spotify.com/album/55vwcYaWuzfVjbZKt7nW1D"
@@ -537,7 +565,7 @@
       "url": "https://open.spotify.com/track/5NFAE8XxEjBrpNu4tEvhqG"
     },
     {
-      "added_at": "2021-07-26 08:10:12",
+      "added_at": "2022-10-05 14:58:58",
       "album": {
         "name": "Interstellar (Original Motion Picture Soundtrack) [Expanded Edition]",
         "url": "https://open.spotify.com/album/3B61kSKTxlY36cYgzvf3cP"
@@ -553,7 +581,7 @@
       "url": "https://open.spotify.com/track/0Sg3UL7f40ulmTh0Xwr6qY"
     },
     {
-      "added_at": "2021-07-26 08:10:12",
+      "added_at": "2022-10-05 14:58:58",
       "album": {
         "name": "Kung Fu Panda (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/2fUdfKoSrzobcPZ4bCSmJR"
@@ -573,7 +601,7 @@
       "url": "https://open.spotify.com/track/1dZCiUTIbbvwOCALmzBh9y"
     },
     {
-      "added_at": "2021-07-26 08:10:12",
+      "added_at": "2022-10-05 14:58:58",
       "album": {
         "name": "The Dark Knight (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/63uFfOZpC7jrV7wfuBY2lX"
@@ -593,7 +621,7 @@
       "url": "https://open.spotify.com/track/56pKYnSA0CyayMJWcEU5kH"
     },
     {
-      "added_at": "2021-07-26 08:10:12",
+      "added_at": "2022-10-05 14:58:58",
       "album": {
         "name": "The Da Vinci Code",
         "url": "https://open.spotify.com/album/4GuLx38y1727p45spIvslr"
@@ -609,7 +637,7 @@
       "url": "https://open.spotify.com/track/20Y9QaknVufH479KzfBhjS"
     },
     {
-      "added_at": "2021-07-26 08:10:12",
+      "added_at": "2022-10-05 14:58:58",
       "album": {
         "name": "Gladiator - Music From The Motion Picture",
         "url": "https://open.spotify.com/album/0mN9E0N4bRBD7GKktlaRI0"
@@ -633,7 +661,7 @@
       "url": "https://open.spotify.com/track/0p21vI2StdprWPtAGftM5c"
     },
     {
-      "added_at": "2021-07-26 08:10:12",
+      "added_at": "2022-10-05 14:58:58",
       "album": {
         "name": "The Dark Knight (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/63uFfOZpC7jrV7wfuBY2lX"
@@ -653,7 +681,7 @@
       "url": "https://open.spotify.com/track/1wdoaja3ueHHvzobn2jE2n"
     },
     {
-      "added_at": "2021-07-26 08:10:12",
+      "added_at": "2022-10-05 14:58:58",
       "album": {
         "name": "The Da Vinci Code",
         "url": "https://open.spotify.com/album/4GuLx38y1727p45spIvslr"
@@ -669,7 +697,7 @@
       "url": "https://open.spotify.com/track/64q5EfFKR9hYJ1FHqSClxe"
     },
     {
-      "added_at": "2021-07-26 08:10:12",
+      "added_at": "2022-10-05 14:58:58",
       "album": {
         "name": "The Dark Knight Rises (Original Motion Picture Soundtrack) [Deluxe Edition]",
         "url": "https://open.spotify.com/album/55vwcYaWuzfVjbZKt7nW1D"
@@ -685,7 +713,7 @@
       "url": "https://open.spotify.com/track/1HrJOyJpIxA7yrGJaVIC9e"
     },
     {
-      "added_at": "2021-07-26 08:10:12",
+      "added_at": "2022-10-05 14:58:58",
       "album": {
         "name": "The Last Samurai: Original Motion Picture Score",
         "url": "https://open.spotify.com/album/1EqLdtiBSgULHA01ooROeY"
@@ -701,7 +729,7 @@
       "url": "https://open.spotify.com/track/6DPZdDkTOydyM40IXRi70Z"
     },
     {
-      "added_at": "2021-07-26 08:10:12",
+      "added_at": "2022-10-05 14:58:58",
       "album": {
         "name": "The Thin Red Line",
         "url": "https://open.spotify.com/album/7wPDOZ30toNEBkr5uBIANF"
@@ -721,7 +749,7 @@
       "url": "https://open.spotify.com/track/0jRRiWndBqdbKd0EOvDNlK"
     },
     {
-      "added_at": "2021-07-26 08:10:12",
+      "added_at": "2022-10-05 14:58:58",
       "album": {
         "name": "Batman Begins (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/5djDvf7OozECsKzEB04uYg"
@@ -741,7 +769,7 @@
       "url": "https://open.spotify.com/track/3fWlG9rDTtn1kxRJN4PYN3"
     },
     {
-      "added_at": "2021-07-26 08:10:12",
+      "added_at": "2022-10-05 14:58:58",
       "album": {
         "name": "Blue Planet II (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/58UEPESaEj37jd2SUMr1yT"
@@ -765,7 +793,7 @@
       "url": "https://open.spotify.com/track/1eyWrDLSbq52nOTF1cTwbH"
     },
     {
-      "added_at": "2021-07-26 08:10:12",
+      "added_at": "2022-10-05 14:58:58",
       "album": {
         "name": "Gladiator - Music From The Motion Picture",
         "url": "https://open.spotify.com/album/0mN9E0N4bRBD7GKktlaRI0"
@@ -793,7 +821,7 @@
       "url": "https://open.spotify.com/track/0SWfNpzeFpP0PXa7bujUmz"
     },
     {
-      "added_at": "2021-07-26 08:10:12",
+      "added_at": "2022-10-05 14:58:58",
       "album": {
         "name": "Man of Steel (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/2rgInD5nZNONheZwqir4Xg"
@@ -809,7 +837,7 @@
       "url": "https://open.spotify.com/track/70qp3W4Kqb1imdZrFXSq98"
     },
     {
-      "added_at": "2021-07-26 08:10:12",
+      "added_at": "2022-10-05 14:58:58",
       "album": {
         "name": "Pirates of the Caribbean: At World's End",
         "url": "https://open.spotify.com/album/241F2pNbl6OIJPixynRuiu"
@@ -825,7 +853,7 @@
       "url": "https://open.spotify.com/track/41fmAAv4CwSk3ly1f7Qjrc"
     },
     {
-      "added_at": "2021-07-26 08:10:12",
+      "added_at": "2022-10-05 14:58:58",
       "album": {
         "name": "Irvi",
         "url": "https://open.spotify.com/album/79hZbZLkqwAf2FYwB6b7Vd"
@@ -845,7 +873,7 @@
       "url": "https://open.spotify.com/track/00suglGfe7WNFpS1YyCTt6"
     },
     {
-      "added_at": "2021-07-26 08:10:12",
+      "added_at": "2022-10-05 14:58:58",
       "album": {
         "name": "The Pacific (Music From the HBO Miniseries)",
         "url": "https://open.spotify.com/album/0NH1WrtzRBlZS1VJX2XnXr"
@@ -869,7 +897,7 @@
       "url": "https://open.spotify.com/track/4aW4Dpz3gpb619hBXDrFUa"
     },
     {
-      "added_at": "2021-07-26 08:10:12",
+      "added_at": "2022-10-05 14:58:58",
       "album": {
         "name": "The Last Samurai: Original Motion Picture Score",
         "url": "https://open.spotify.com/album/1EqLdtiBSgULHA01ooROeY"
@@ -885,7 +913,7 @@
       "url": "https://open.spotify.com/track/0k1zElVBehCAzAa975af71"
     },
     {
-      "added_at": "2021-07-26 08:10:12",
+      "added_at": "2022-10-05 14:58:58",
       "album": {
         "name": "Gladiator - Music From The Motion Picture",
         "url": "https://open.spotify.com/album/0mN9E0N4bRBD7GKktlaRI0"
@@ -909,7 +937,7 @@
       "url": "https://open.spotify.com/track/4mWNwMmBADo548bT4xYtDo"
     },
     {
-      "added_at": "2021-07-26 08:10:12",
+      "added_at": "2022-10-05 14:58:58",
       "album": {
         "name": "Sherlock Holmes (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/4eouZPpapIAd6TvYkUTGDq"
@@ -925,7 +953,7 @@
       "url": "https://open.spotify.com/track/0cm6cAtRu0C0sEZzDjZFsx"
     },
     {
-      "added_at": "2021-07-26 08:10:12",
+      "added_at": "2022-10-05 14:58:58",
       "album": {
         "name": "Inception (Music from the Motion Picture)",
         "url": "https://open.spotify.com/album/2qvA7HmSg1iM6XMiFF76dp"
@@ -941,7 +969,7 @@
       "url": "https://open.spotify.com/track/77QDBf1zTvyegtTpAO5EpH"
     },
     {
-      "added_at": "2021-07-26 08:10:12",
+      "added_at": "2022-10-05 14:58:58",
       "album": {
         "name": "Man of Steel (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/2rgInD5nZNONheZwqir4Xg"
@@ -957,7 +985,7 @@
       "url": "https://open.spotify.com/track/6PHMAqyTi2zjs6aXneg0EC"
     },
     {
-      "added_at": "2021-07-26 08:10:12",
+      "added_at": "2022-10-05 14:58:58",
       "album": {
         "name": "Pirates of the Caribbean: On Stranger Tides",
         "url": "https://open.spotify.com/album/2RkWo1xomg2mBR8ydABsab"
@@ -973,7 +1001,7 @@
       "url": "https://open.spotify.com/track/0ahHgsbKvBEd3yYQmxHBoj"
     },
     {
-      "added_at": "2021-07-26 08:10:12",
+      "added_at": "2022-10-05 14:58:58",
       "album": {
         "name": "The Thin Red Line",
         "url": "https://open.spotify.com/album/7wPDOZ30toNEBkr5uBIANF"
@@ -993,7 +1021,7 @@
       "url": "https://open.spotify.com/track/3bvQ0jV25RWryznubbE3ky"
     },
     {
-      "added_at": "2021-07-26 08:10:12",
+      "added_at": "2022-10-05 14:58:58",
       "album": {
         "name": "Man of Steel (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/2rgInD5nZNONheZwqir4Xg"
@@ -1009,7 +1037,7 @@
       "url": "https://open.spotify.com/track/0LemQxffjtsqsq4I9hjW89"
     },
     {
-      "added_at": "2021-07-26 08:10:12",
+      "added_at": "2022-10-05 14:58:58",
       "album": {
         "name": "Winter's Tale (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/41L6r2YQTaOhohx3kdk6Me"
@@ -1029,7 +1057,7 @@
       "url": "https://open.spotify.com/track/7CkNRv2xDLkX7ZEEiBgGt5"
     },
     {
-      "added_at": "2021-07-26 08:10:12",
+      "added_at": "2022-10-05 14:58:58",
       "album": {
         "name": "Man of Steel (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/2rgInD5nZNONheZwqir4Xg"
@@ -1045,7 +1073,7 @@
       "url": "https://open.spotify.com/track/0RZxGQYgqUxiQCvNt3kQKw"
     },
     {
-      "added_at": "2021-07-26 08:10:12",
+      "added_at": "2022-10-05 14:58:58",
       "album": {
         "name": "12 Years A Slave (Music From and Inspired by the Motion Picture)",
         "url": "https://open.spotify.com/album/2GLETs2JWEl74J8LPvECwf"
@@ -1061,7 +1089,7 @@
       "url": "https://open.spotify.com/track/2TTwSbzdUsJPKioJ868N9D"
     },
     {
-      "added_at": "2021-07-26 08:10:12",
+      "added_at": "2022-10-05 14:58:58",
       "album": {
         "name": "The Last Samurai: Original Motion Picture Score",
         "url": "https://open.spotify.com/album/1EqLdtiBSgULHA01ooROeY"
@@ -1077,7 +1105,7 @@
       "url": "https://open.spotify.com/track/3UOFrelbGLUWJpRRzH3hbZ"
     },
     {
-      "added_at": "2021-07-26 08:10:12",
+      "added_at": "2022-10-05 14:58:58",
       "album": {
         "name": "Rain Man: Original Motion Picture Soundtrack",
         "url": "https://open.spotify.com/album/12xXxQA56OgFFYlNc9ATJi"
@@ -1093,7 +1121,7 @@
       "url": "https://open.spotify.com/track/5kOxj05I5jTqzWNjcJPdsT"
     },
     {
-      "added_at": "2021-07-26 08:10:12",
+      "added_at": "2022-10-05 14:58:58",
       "album": {
         "name": "True Romance (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/5RyWJx6ASGDuaEwVe0aWvG"
@@ -1109,7 +1137,7 @@
       "url": "https://open.spotify.com/track/5pcBRYIIxevEGUeGFJQ4hY"
     },
     {
-      "added_at": "2021-07-26 08:10:12",
+      "added_at": "2022-10-05 14:58:58",
       "album": {
         "name": "Pirates of the Caribbean: On Stranger Tides",
         "url": "https://open.spotify.com/album/2RkWo1xomg2mBR8ydABsab"
@@ -1125,7 +1153,7 @@
       "url": "https://open.spotify.com/track/4fnU09o3JATmtpT5Y6pzQd"
     },
     {
-      "added_at": "2021-07-26 08:10:12",
+      "added_at": "2022-10-05 14:58:58",
       "album": {
         "name": "The Holiday (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/1wJZSN3VrWTR8OcFJ4lp9I"
@@ -1141,7 +1169,7 @@
       "url": "https://open.spotify.com/track/4SimUIFxXh5N6VsF33oMo7"
     },
     {
-      "added_at": "2021-07-26 08:10:12",
+      "added_at": "2022-10-05 14:58:58",
       "album": {
         "name": "Batman v Superman: Dawn Of Justice (Original Motion Picture Soundtrack) [Deluxe]",
         "url": "https://open.spotify.com/album/408Zd9N7K8Z07GIQeyGDh7"
@@ -1161,7 +1189,7 @@
       "url": "https://open.spotify.com/track/4BFBElI73LzkLOBru4TKVv"
     },
     {
-      "added_at": "2021-07-26 08:10:12",
+      "added_at": "2022-10-05 14:58:58",
       "album": {
         "name": "Call of Duty: Modern Warfare 2 (Original Game Score)",
         "url": "https://open.spotify.com/album/6MLrVz0HyVkRUd9jnhagKc"
@@ -1177,7 +1205,7 @@
       "url": "https://open.spotify.com/track/1y3zD8d7VKzJjfXVp6KcUx"
     },
     {
-      "added_at": "2021-07-26 08:10:12",
+      "added_at": "2022-10-05 14:58:58",
       "album": {
         "name": "Kung Fu Panda (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/2fUdfKoSrzobcPZ4bCSmJR"
@@ -1197,7 +1225,7 @@
       "url": "https://open.spotify.com/track/1bTAlMtLEPEcGWRdJixRpG"
     },
     {
-      "added_at": "2021-07-26 08:10:12",
+      "added_at": "2022-10-05 14:58:58",
       "album": {
         "name": "Pirates of the Caribbean: Dead Man's Chest (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/5eQEdvd6pq0uo2pQa56aUH"
@@ -1213,7 +1241,7 @@
       "url": "https://open.spotify.com/track/6buHoQU9OTdbJrAuniVwGL"
     },
     {
-      "added_at": "2021-07-26 08:10:12",
+      "added_at": "2022-10-05 14:58:58",
       "album": {
         "name": "The Little Prince (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/77beXvHr5Kv4quZN2CupvP"
@@ -1233,7 +1261,7 @@
       "url": "https://open.spotify.com/track/0gwnA1Lqv4mgGCgSSmfgne"
     },
     {
-      "added_at": "2021-07-26 08:10:12",
+      "added_at": "2022-10-05 14:58:58",
       "album": {
         "name": "Kung Fu Panda 3 (Music from the Motion Picture)",
         "url": "https://open.spotify.com/album/35vf79jnOBG3WZHQTzIl6a"
@@ -1253,27 +1281,7 @@
       "url": "https://open.spotify.com/track/669yRYY5pluCp5dYOcDMDD"
     },
     {
-      "added_at": "2021-07-26 08:10:12",
-      "album": {
-        "name": "The Little Prince (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/77beXvHr5Kv4quZN2CupvP"
-      },
-      "artists": [
-        {
-          "name": "Hans Zimmer",
-          "url": "https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ"
-        },
-        {
-          "name": "Camille",
-          "url": "https://open.spotify.com/artist/0gOsZcHl7H3ewXVIEnWFZX"
-        }
-      ],
-      "duration_ms": 123746,
-      "name": "Equation - French Version",
-      "url": "https://open.spotify.com/track/2pkwoo6EdNQkgmVfFADnwy"
-    },
-    {
-      "added_at": "2021-07-26 08:10:12",
+      "added_at": "2022-10-05 14:58:58",
       "album": {
         "name": "Spirit: Stallion Of The Cimarron (Music From The Original Motion Picture)",
         "url": "https://open.spotify.com/album/3pDG0vQ5LfL2BQZJJtkbg8"
@@ -1289,7 +1297,7 @@
       "url": "https://open.spotify.com/track/75OrTolKEnimJj625JUIft"
     },
     {
-      "added_at": "2021-07-26 08:10:12",
+      "added_at": "2022-10-05 14:58:58",
       "album": {
         "name": "The Holiday (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/1wJZSN3VrWTR8OcFJ4lp9I"

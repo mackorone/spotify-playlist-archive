@@ -1,12 +1,12 @@
 {
   "description": "When the night isn't over just yet.",
-  "num_followers": 143957,
+  "num_followers": 144322,
   "original_name": "4AM Chillout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjM2OTI5MywwMDAwMDAwMDZmNDAzYjE2NmRhNTUzMTQwNzljZDNhZmMwMmEyMjAx",
+  "snapshot_id": "MTY2MjM2OTI5MywwMDAwMDAwMDAwMGEzZjg2YTdjOTU2N2EwZTkwYjVlOWE4NDQ3MmNl",
   "tracks": [
     {
       "added_at": "2022-09-05 09:14:53",
@@ -311,42 +311,6 @@
     {
       "added_at": "2022-09-05 09:14:53",
       "album": {
-        "name": "GREY Area",
-        "url": "https://open.spotify.com/album/4Wwm4xg2748zhYuzDRFTgY"
-      },
-      "artists": [
-        {
-          "name": "Little Simz",
-          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
-        },
-        {
-          "name": "Cleo Sol",
-          "url": "https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq"
-        }
-      ],
-      "duration_ms": 226096,
-      "name": "Selfish",
-      "url": "https://open.spotify.com/track/2G2k2ZFsQkIEkAWDTvqHXM"
-    },
-    {
-      "added_at": "2022-09-05 09:14:53",
-      "album": {
-        "name": "days for you",
-        "url": "https://open.spotify.com/album/2wL0Pdb2KzDIswT1I8ITGq"
-      },
-      "artists": [
-        {
-          "name": "Ted Jasper",
-          "url": "https://open.spotify.com/artist/4PfXiTCDXTYEobjXjcRFNW"
-        }
-      ],
-      "duration_ms": 161000,
-      "name": "days for you",
-      "url": "https://open.spotify.com/track/6tnYfLS9mlurTFQQTzoXY6"
-    },
-    {
-      "added_at": "2022-09-05 09:14:53",
-      "album": {
         "name": "Perception EP",
         "url": "https://open.spotify.com/album/5UoWl95U6YTsS1N6JyQ7j4"
       },
@@ -363,22 +327,18 @@
     {
       "added_at": "2022-09-05 09:14:53",
       "album": {
-        "name": "Opal (Four Tet Remix)",
-        "url": "https://open.spotify.com/album/2cPmeKiyUBdYDyFG3nbPpN"
+        "name": "days for you",
+        "url": "https://open.spotify.com/album/2wL0Pdb2KzDIswT1I8ITGq"
       },
       "artists": [
         {
-          "name": "Bicep",
-          "url": "https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga"
-        },
-        {
-          "name": "Four Tet",
-          "url": "https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh"
+          "name": "Ted Jasper",
+          "url": "https://open.spotify.com/artist/4PfXiTCDXTYEobjXjcRFNW"
         }
       ],
-      "duration_ms": 494256,
-      "name": "Opal - Four Tet Remix",
-      "url": "https://open.spotify.com/track/3VtTuQ6lypMoOBcm6VMzdh"
+      "duration_ms": 161000,
+      "name": "days for you",
+      "url": "https://open.spotify.com/track/6tnYfLS9mlurTFQQTzoXY6"
     },
     {
       "added_at": "2022-09-05 09:14:53",
@@ -403,18 +363,42 @@
     {
       "added_at": "2022-09-05 09:14:53",
       "album": {
-        "name": "New Energy",
-        "url": "https://open.spotify.com/album/74r6JJ97ipO0CREXP9PMqZ"
+        "name": "Opal (Four Tet Remix)",
+        "url": "https://open.spotify.com/album/2cPmeKiyUBdYDyFG3nbPpN"
       },
       "artists": [
+        {
+          "name": "Bicep",
+          "url": "https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga"
+        },
         {
           "name": "Four Tet",
           "url": "https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh"
         }
       ],
-      "duration_ms": 252255,
-      "name": "Two Thousand and Seventeen",
-      "url": "https://open.spotify.com/track/2ZIaH69kaz55RM4Pjx6KXl"
+      "duration_ms": 494256,
+      "name": "Opal - Four Tet Remix",
+      "url": "https://open.spotify.com/track/3VtTuQ6lypMoOBcm6VMzdh"
+    },
+    {
+      "added_at": "2022-09-05 09:14:53",
+      "album": {
+        "name": "GREY Area",
+        "url": "https://open.spotify.com/album/4Wwm4xg2748zhYuzDRFTgY"
+      },
+      "artists": [
+        {
+          "name": "Little Simz",
+          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
+        },
+        {
+          "name": "Cleo Sol",
+          "url": "https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq"
+        }
+      ],
+      "duration_ms": 226096,
+      "name": "Selfish",
+      "url": "https://open.spotify.com/track/2G2k2ZFsQkIEkAWDTvqHXM"
     },
     {
       "added_at": "2022-09-05 09:14:53",
@@ -431,6 +415,22 @@
       "duration_ms": 197748,
       "name": "Jessie (i miss you)",
       "url": "https://open.spotify.com/track/2BMtVVQPrhMR3bIoiFhwpQ"
+    },
+    {
+      "added_at": "2022-09-05 09:14:53",
+      "album": {
+        "name": "New Energy",
+        "url": "https://open.spotify.com/album/74r6JJ97ipO0CREXP9PMqZ"
+      },
+      "artists": [
+        {
+          "name": "Four Tet",
+          "url": "https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh"
+        }
+      ],
+      "duration_ms": 252255,
+      "name": "Two Thousand and Seventeen",
+      "url": "https://open.spotify.com/track/2ZIaH69kaz55RM4Pjx6KXl"
     },
     {
       "added_at": "2022-09-05 09:14:53",
@@ -503,22 +503,18 @@
     {
       "added_at": "2022-09-05 09:14:53",
       "album": {
-        "name": "Kahan (last year)",
-        "url": "https://open.spotify.com/album/215RCt9IFitsQ2fuDrnysX"
+        "name": "Apricots",
+        "url": "https://open.spotify.com/album/6ZgM0jM6nRUlK6wRXEONVc"
       },
       "artists": [
         {
-          "name": "Fred again..",
-          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
-        },
-        {
-          "name": "Kodak Black",
-          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+          "name": "Bicep",
+          "url": "https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga"
         }
       ],
-      "duration_ms": 216000,
-      "name": "Kahan (last year)",
-      "url": "https://open.spotify.com/track/0fGsBRR1Am2H5nIQx9nFCT"
+      "duration_ms": 246506,
+      "name": "Apricots",
+      "url": "https://open.spotify.com/track/73X9X7kDgsm4YeHpc8prf6"
     },
     {
       "added_at": "2022-09-05 09:14:53",
@@ -535,22 +531,6 @@
       "duration_ms": 256533,
       "name": "Angels",
       "url": "https://open.spotify.com/track/4TQmCn0e9L7XTiKY4Hk8X4"
-    },
-    {
-      "added_at": "2022-09-05 09:14:53",
-      "album": {
-        "name": "Apricots",
-        "url": "https://open.spotify.com/album/6ZgM0jM6nRUlK6wRXEONVc"
-      },
-      "artists": [
-        {
-          "name": "Bicep",
-          "url": "https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga"
-        }
-      ],
-      "duration_ms": 246506,
-      "name": "Apricots",
-      "url": "https://open.spotify.com/track/73X9X7kDgsm4YeHpc8prf6"
     },
     {
       "added_at": "2022-09-05 09:14:53",
@@ -575,18 +555,22 @@
     {
       "added_at": "2022-09-05 09:14:53",
       "album": {
-        "name": "The Screen",
-        "url": "https://open.spotify.com/album/6qzUxr3JUL5D6SWT2TK3sr"
+        "name": "Kahan (last year)",
+        "url": "https://open.spotify.com/album/215RCt9IFitsQ2fuDrnysX"
       },
       "artists": [
         {
-          "name": "Oruam",
-          "url": "https://open.spotify.com/artist/7hswPtRs02dG03rVj7wQBK"
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+        },
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
         }
       ],
-      "duration_ms": 197113,
-      "name": "The Screen",
-      "url": "https://open.spotify.com/track/7JZpf4Rct4FfrRpQ3KkEOG"
+      "duration_ms": 216000,
+      "name": "Kahan (last year)",
+      "url": "https://open.spotify.com/track/0fGsBRR1Am2H5nIQx9nFCT"
     },
     {
       "added_at": "2022-09-05 09:14:53",
@@ -651,26 +635,22 @@
     {
       "added_at": "2022-09-05 09:14:53",
       "album": {
-        "name": "Sounds of My World",
-        "url": "https://open.spotify.com/album/2Mju5QRHhBPkUQajYKTUSH"
+        "name": "Equals",
+        "url": "https://open.spotify.com/album/3sfCMYCdFjoVMS4ocAyVIB"
       },
       "artists": [
         {
-          "name": "Juls",
-          "url": "https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic"
+          "name": "Jasper Tygner",
+          "url": "https://open.spotify.com/artist/2D7akgJBXcsp8Y2FKdPJCh"
         },
         {
-          "name": "Jaz Karis",
-          "url": "https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I"
-        },
-        {
-          "name": "George The Poet",
-          "url": "https://open.spotify.com/artist/7v8N36cC4msGrIM2YT4LNC"
+          "name": "Joe Hertz",
+          "url": "https://open.spotify.com/artist/76QHVIjgqlkWB9LNGliman"
         }
       ],
-      "duration_ms": 287037,
-      "name": "Summer In The Ends",
-      "url": "https://open.spotify.com/track/3ttIBQv2qjIWXbHeoCnoVm"
+      "duration_ms": 286451,
+      "name": "Equals",
+      "url": "https://open.spotify.com/track/5dHMA3NFsOyFKGJ7ML8hO1"
     },
     {
       "added_at": "2022-09-05 09:14:53",
@@ -691,22 +671,42 @@
     {
       "added_at": "2022-09-05 09:14:53",
       "album": {
-        "name": "Equals",
-        "url": "https://open.spotify.com/album/3sfCMYCdFjoVMS4ocAyVIB"
+        "name": "The Screen",
+        "url": "https://open.spotify.com/album/6qzUxr3JUL5D6SWT2TK3sr"
       },
       "artists": [
         {
-          "name": "Jasper Tygner",
-          "url": "https://open.spotify.com/artist/2D7akgJBXcsp8Y2FKdPJCh"
-        },
-        {
-          "name": "Joe Hertz",
-          "url": "https://open.spotify.com/artist/76QHVIjgqlkWB9LNGliman"
+          "name": "Oruam",
+          "url": "https://open.spotify.com/artist/7hswPtRs02dG03rVj7wQBK"
         }
       ],
-      "duration_ms": 286451,
-      "name": "Equals",
-      "url": "https://open.spotify.com/track/5dHMA3NFsOyFKGJ7ML8hO1"
+      "duration_ms": 197113,
+      "name": "The Screen",
+      "url": "https://open.spotify.com/track/7JZpf4Rct4FfrRpQ3KkEOG"
+    },
+    {
+      "added_at": "2022-09-05 09:14:53",
+      "album": {
+        "name": "Sounds of My World",
+        "url": "https://open.spotify.com/album/2Mju5QRHhBPkUQajYKTUSH"
+      },
+      "artists": [
+        {
+          "name": "Juls",
+          "url": "https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic"
+        },
+        {
+          "name": "Jaz Karis",
+          "url": "https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I"
+        },
+        {
+          "name": "George The Poet",
+          "url": "https://open.spotify.com/artist/7v8N36cC4msGrIM2YT4LNC"
+        }
+      ],
+      "duration_ms": 287037,
+      "name": "Summer In The Ends",
+      "url": "https://open.spotify.com/track/3ttIBQv2qjIWXbHeoCnoVm"
     },
     {
       "added_at": "2022-09-05 09:14:53",
@@ -755,22 +755,6 @@
     {
       "added_at": "2022-09-05 09:14:53",
       "album": {
-        "name": "Rosewood",
-        "url": "https://open.spotify.com/album/0jjMHsOQJzzRi3JpxiS5xj"
-      },
-      "artists": [
-        {
-          "name": "Bonobo",
-          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
-        }
-      ],
-      "duration_ms": 242773,
-      "name": "Rosewood",
-      "url": "https://open.spotify.com/track/3MOhipHFUkGpS0rV7cKrJO"
-    },
-    {
-      "added_at": "2022-09-05 09:14:53",
-      "album": {
         "name": "Roll Back",
         "url": "https://open.spotify.com/album/5b6TuPfFvUpIllFHZgCUy2"
       },
@@ -787,6 +771,54 @@
       "duration_ms": 184989,
       "name": "Roll Back - Single Mix",
       "url": "https://open.spotify.com/track/7ko64FZgc63TnZuYhusU21"
+    },
+    {
+      "added_at": "2022-09-05 09:14:53",
+      "album": {
+        "name": "Rosewood",
+        "url": "https://open.spotify.com/album/0jjMHsOQJzzRi3JpxiS5xj"
+      },
+      "artists": [
+        {
+          "name": "Bonobo",
+          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
+        }
+      ],
+      "duration_ms": 242773,
+      "name": "Rosewood",
+      "url": "https://open.spotify.com/track/3MOhipHFUkGpS0rV7cKrJO"
+    },
+    {
+      "added_at": "2022-09-05 09:14:53",
+      "album": {
+        "name": "Kyle (i found you)",
+        "url": "https://open.spotify.com/album/2myK0q2FH45JQRUxepp4en"
+      },
+      "artists": [
+        {
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+        }
+      ],
+      "duration_ms": 196071,
+      "name": "Kyle (i found you)",
+      "url": "https://open.spotify.com/track/0v1g5U1OAb0XBjKyA8R36i"
+    },
+    {
+      "added_at": "2022-09-05 09:14:53",
+      "album": {
+        "name": "Monument",
+        "url": "https://open.spotify.com/album/5Q45lNUhaH40wPqhUgjJNC"
+      },
+      "artists": [
+        {
+          "name": "Portico Quartet",
+          "url": "https://open.spotify.com/artist/7sYipTRgDXS2JVOPEhRutx"
+        }
+      ],
+      "duration_ms": 224946,
+      "name": "Impressions",
+      "url": "https://open.spotify.com/track/4l6gl1xs2TQx5SwBNdWEsv"
     },
     {
       "added_at": "2022-09-05 09:14:53",
@@ -811,34 +843,22 @@
     {
       "added_at": "2022-09-05 09:14:53",
       "album": {
-        "name": "Kyle (i found you)",
-        "url": "https://open.spotify.com/album/2myK0q2FH45JQRUxepp4en"
+        "name": "8 Hours, Still No Rain EP",
+        "url": "https://open.spotify.com/album/0BOaheOSk6cpvXPm3spOx0"
       },
       "artists": [
         {
-          "name": "Fred again..",
-          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
-        }
-      ],
-      "duration_ms": 196071,
-      "name": "Kyle (i found you)",
-      "url": "https://open.spotify.com/track/0v1g5U1OAb0XBjKyA8R36i"
-    },
-    {
-      "added_at": "2022-09-05 09:14:53",
-      "album": {
-        "name": "Reality Testing",
-        "url": "https://open.spotify.com/album/2JBrH4OqnSCUKXqFEEakkK"
-      },
-      "artists": [
+          "name": "Hosini",
+          "url": "https://open.spotify.com/artist/3DQ7WGIfJ4z4aQzNE1bNFF"
+        },
         {
-          "name": "Lone",
-          "url": "https://open.spotify.com/artist/5wZOrGWdg4hq7KIRMupJdI"
+          "name": "Jones Meadow",
+          "url": "https://open.spotify.com/artist/3MK71khOrqZwGpyfYzwKXR"
         }
       ],
-      "duration_ms": 289082,
-      "name": "Jaded",
-      "url": "https://open.spotify.com/track/0Ip2pWYQmo8NUxKql20QPk"
+      "duration_ms": 182900,
+      "name": "8 Hours, Still No Rain",
+      "url": "https://open.spotify.com/track/7u3tmftMEaOYqYE6fUnNmX"
     },
     {
       "added_at": "2022-09-05 09:14:53",
@@ -863,38 +883,18 @@
     {
       "added_at": "2022-09-05 09:14:53",
       "album": {
-        "name": "8 Hours, Still No Rain EP",
-        "url": "https://open.spotify.com/album/0BOaheOSk6cpvXPm3spOx0"
+        "name": "Wild Skies",
+        "url": "https://open.spotify.com/album/2I3UDjuD3c8Vjq0d0YYimm"
       },
       "artists": [
         {
-          "name": "Hosini",
-          "url": "https://open.spotify.com/artist/3DQ7WGIfJ4z4aQzNE1bNFF"
-        },
-        {
-          "name": "Jones Meadow",
-          "url": "https://open.spotify.com/artist/3MK71khOrqZwGpyfYzwKXR"
+          "name": "Eli & Fur",
+          "url": "https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4"
         }
       ],
-      "duration_ms": 182900,
-      "name": "8 Hours, Still No Rain",
-      "url": "https://open.spotify.com/track/7u3tmftMEaOYqYE6fUnNmX"
-    },
-    {
-      "added_at": "2022-09-05 09:14:53",
-      "album": {
-        "name": "Atlas",
-        "url": "https://open.spotify.com/album/7g8PeQGSlZUlWCr3heIJJb"
-      },
-      "artists": [
-        {
-          "name": "Bicep",
-          "url": "https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga"
-        }
-      ],
-      "duration_ms": 352945,
-      "name": "Atlas",
-      "url": "https://open.spotify.com/track/664jBL8NgKFYdiMK9bnCcz"
+      "duration_ms": 204361,
+      "name": "Wild Skies",
+      "url": "https://open.spotify.com/track/62bxIf35DGi5hAEJMcBAGJ"
     }
   ],
   "unique_name": "4AM Chillout",

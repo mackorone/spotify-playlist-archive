@@ -1214,6 +1214,24 @@
     },
     {
       "album": {
+        "name": "God Is Good! (Live)",
+        "url": "https://open.spotify.com/album/4qZwzswmv5lNwLftPcVNBH"
+      },
+      "artists": [
+        {
+          "name": "Cody Carnes",
+          "url": "https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0"
+        }
+      ],
+      "date_added": "2022-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 592000,
+      "name": "Good (Can't Be Anything Else) - Live",
+      "url": "https://open.spotify.com/track/6QaXUzg0sPFw1F2R6Fxfq6"
+    },
+    {
+      "album": {
         "name": "Good (Can't Be Anything Else) [Live]",
         "url": "https://open.spotify.com/album/4r1aFYazY78g3DGyQuiFh3"
       },
@@ -1225,7 +1243,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-05",
       "duration_ms": 592000,
       "name": "Good (Can't Be Anything Else) - Live",
       "url": "https://open.spotify.com/track/77kvkHuxOiV491BKllJ6gn"

@@ -2,15 +2,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVSIz2AGspV4.md) - [plain]
 
 ### [عراقي جديد](https://open.spotify.com/playlist/37i9dQZF1DWVSIz2AGspV4)
 
-> احدث الاغاني العراقية\. غلاف: حسام الرسام
+> احدث الاغاني العراقية\. غلاف: محمد التركي
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,541 likes - 55 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,983 likes - 55 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Enta W Thamrak](https://open.spotify.com/track/14x0OIi2vtEr4ElXWTgNM4) | [Aseel Hameem](https://open.spotify.com/artist/10bqdRYq6Ha83UeU77iXAo) | [Enta W Thamrak](https://open.spotify.com/album/7AjsDQughvx6uMOpPW3d3z) | 3:46 |
-| 2 | [Al Farasha](https://open.spotify.com/track/7MsVIDqNpBdHtDD5BmMZHL) | [Mahmoud Al Turky](https://open.spotify.com/artist/1GVRoyErxhZGdvmOKGO7W7) | [Al Farasha](https://open.spotify.com/album/3Q8tXahgguSwK5uQYXZ7hF) | 3:11 |
-| 3 | [Jksara](https://open.spotify.com/track/4XAOZnXuPOGJ8MG0OdrMWt) | [Saif Amer](https://open.spotify.com/artist/748f0zL5X2KNapx8K93SUq) | [Jksara](https://open.spotify.com/album/3bSe4AzGwBDXR2X9R3lt0g) | 3:36 |
+| 1 | [Al Farasha](https://open.spotify.com/track/7MsVIDqNpBdHtDD5BmMZHL) | [Mahmoud Al Turky](https://open.spotify.com/artist/1GVRoyErxhZGdvmOKGO7W7) | [Al Farasha](https://open.spotify.com/album/3Q8tXahgguSwK5uQYXZ7hF) | 3:11 |
+| 2 | [Jksara](https://open.spotify.com/track/4XAOZnXuPOGJ8MG0OdrMWt) | [Saif Amer](https://open.spotify.com/artist/748f0zL5X2KNapx8K93SUq) | [Jksara](https://open.spotify.com/album/3bSe4AzGwBDXR2X9R3lt0g) | 3:36 |
+| 3 | [Enta W Thamrak](https://open.spotify.com/track/14x0OIi2vtEr4ElXWTgNM4) | [Aseel Hameem](https://open.spotify.com/artist/10bqdRYq6Ha83UeU77iXAo) | [Enta W Thamrak](https://open.spotify.com/album/7AjsDQughvx6uMOpPW3d3z) | 3:46 |
 | 4 | [Wahishni Shakhs](https://open.spotify.com/track/1ZIhUK12wFNkluBOn5xL1A) | [Diana Haddad](https://open.spotify.com/artist/6EtB4NuwPezzxaGqHHU7C2) | [Wahishni Shakhs](https://open.spotify.com/album/29YDoB2HipVG669Qo2Blsm) | 3:43 |
 | 5 | [اصعد للكمر](https://open.spotify.com/track/6ZKcyeppoycSkUn2FNPco2) | [Rahma Riad](https://open.spotify.com/artist/1JrJQz0AlGYbLxBnOEWfLx) | [اصعد للكمر](https://open.spotify.com/album/4IpLAgv5vUkUT9yX2LK3QA) | 3:04 |
 | 6 | [Edaaily Ansak](https://open.spotify.com/track/0DpLsWfTP35x7Qyoxm1zNx) | [Dumooa Tahseen](https://open.spotify.com/artist/0453pwQTyMdU2a66fCFaUQ) | [Edaaily Ansak](https://open.spotify.com/album/75T5jMz1R3llv8P8SVXC9q) | 3:18 |
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVSIz2AGspV4.md) - [plain]
 | 54 | [Takheth Al Aqel](https://open.spotify.com/track/19lnl3mSePtp1ic4SLCGwe) | [Abdulrahman Alazzawi](https://open.spotify.com/artist/2QxSb4y90CGYdmyFsh4XSg) | [Takheth Al Aqel](https://open.spotify.com/album/48sJulWc8sXuzgL5aTbOH9) | 3:40 |
 | 55 | [Watan \- From the original TV Series](https://open.spotify.com/track/2MQpKJNVY6hMnkpOHQsAG7) | [Ali Jassim](https://open.spotify.com/artist/0sQhYPLQcT2qUZ5KV25WSe) | [Watan \(From the original TV Series\)](https://open.spotify.com/album/3tzDXEPAYGr7Men2aCgkyG) | 2:51 |
 
-Snapshot ID: `MTY2NDU1MTc3NCwwMDAwMDAwMDUyZjk4YjIxNjIyZThiY2FlN2NlYzM3NGFhY2Q4ZTRj`
+Snapshot ID: `MTY2NTIxOTQ2NywwMDAwMDAwMDljOGViM2NmOGY4YjliN2JiN2YwYzc2MzgxM2RlMzI1`

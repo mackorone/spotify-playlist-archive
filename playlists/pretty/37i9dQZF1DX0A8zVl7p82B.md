@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0A8zVl7p82B.md) - [plain]
 
 > All the best in new and classic Christmas Pop! Cover: Kelly Clarkson
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,631,558 likes - 166 songs - 9 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,631,789 likes - 166 songs - 9 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -175,4 +175,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0A8zVl7p82B.md) - [plain]
 | 165 | [Dear Santa](https://open.spotify.com/track/1HJ4AItKggXkCoi28YuaQt) | [Mr Little Jeans](https://open.spotify.com/artist/0B2SlMW40Hs9mijOi1cDyf) | [Dear Santa](https://open.spotify.com/album/2102M7KbKg8Qtjoub3teBw) | 3:48 |
 | 166 | [River \- Recorded At RAK Studios, London](https://open.spotify.com/track/7DNGqrLnd07C2FPpAdn6cc) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Spotify Singles \- Holiday](https://open.spotify.com/album/0nu6CXfrJdNcVCvOojAdcW) | 3:28 |
 
-Snapshot ID: `MTY0MDMyMjAwMCwwMDAwMDAwMDRiM2Y3ODg0ZTk2NDhkNGY0ZmNlMDk1NzA0ZDdmYWY5`
+Snapshot ID: `MTY2NDg5NTc4MiwwMDAwMDAwMDFhMDA0YzFjMmRkNGFkNWU4MzY4Zjk5YzNiNDI0ZGQy`

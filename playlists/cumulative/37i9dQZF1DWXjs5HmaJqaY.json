@@ -306,6 +306,24 @@
     },
     {
       "album": {
+        "name": "Dualism",
+        "url": "https://open.spotify.com/album/0pQ00YF0S5Xj68eJlWxwAN"
+      },
+      "artists": [
+        {
+          "name": "Deniz Bul",
+          "url": "https://open.spotify.com/artist/4H267HByup3kdzVdYLhp21"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236893,
+      "name": "Dualism",
+      "url": "https://open.spotify.com/track/5BOR3weDfPrKSU01sHiaY9"
+    },
+    {
+      "album": {
         "name": "Ego Rave",
         "url": "https://open.spotify.com/album/1FZjqtGarKJCB38L042Vdw"
       },
@@ -335,7 +353,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 189160,
       "name": "Fata Morgana",
       "url": "https://open.spotify.com/track/4euEvn1jjxEqY9AOXCwR1y"

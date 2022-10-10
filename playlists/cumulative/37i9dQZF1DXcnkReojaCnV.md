@@ -4,7 +4,7 @@
 
 > Joe Bonamassa is taking over to share tracks of his new album, alongside his current blues favorites.
 
-56 songs - 4 hr 16 min - [published](https://open.spotify.com/playlist/5KzrfztgY9KjiKSClb4ymn)
+57 songs - 4 hr 20 min - [published](https://open.spotify.com/playlist/5KzrfztgY9KjiKSClb4ymn)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,7 +29,8 @@
 | [Generation Calling](https://open.spotify.com/track/2OIQxtcOQODZMzfWKCuhmY) | [Bluhauz](https://open.spotify.com/artist/3qoRE55TbnjvrjEzZd8sEL) | [Bluhauz](https://open.spotify.com/album/4cV8uUMMlKNxZA7ZNY1ONt) | 4:16 | 2021-10-29 |  |
 | [Get Down](https://open.spotify.com/track/7FnFu8xkQdB5HtX9sTg4eq) | [Cedric Burnside](https://open.spotify.com/artist/5tuhrLilxNi6N7D6VeQZnc) | [I Be Trying](https://open.spotify.com/album/38J9ZNteDXUiLTndROhKyY) | 3:27 | 2021-10-29 |  |
 | [Hanging On A Loser](https://open.spotify.com/track/6B4KDiLeMu7RveS2W3IOWI) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Time Clocks](https://open.spotify.com/album/1suaXSbT97Vm2D8x2N6cnD) | 4:17 | 2021-10-29 |  |
-| [Hellhound on My Trail](https://open.spotify.com/track/1OZcmmX0E2SNrzCq7cVpZf) | [Steve Hill](https://open.spotify.com/artist/2f1hLQKsXGmF9rxdrq6Jt4) | [Hellhound on My Trail](https://open.spotify.com/album/299w06wW02Vkg8CPrysuT6) | 3:55 | 2021-10-29 |  |
+| [Hellhound on My Trail](https://open.spotify.com/track/0wHJQJTKS7ZDWSvNgxfkKh) | [Steve Hill](https://open.spotify.com/artist/2f1hLQKsXGmF9rxdrq6Jt4) | [Desert Trip \(Deluxe\)](https://open.spotify.com/album/0a07hwj21fdVC5CJx9ETkr) | 3:55 | 2022-01-18 |  |
+| [Hellhound on My Trail](https://open.spotify.com/track/1OZcmmX0E2SNrzCq7cVpZf) | [Steve Hill](https://open.spotify.com/artist/2f1hLQKsXGmF9rxdrq6Jt4) | [Hellhound on My Trail](https://open.spotify.com/album/299w06wW02Vkg8CPrysuT6) | 3:55 | 2021-10-29 | 2022-10-06 |
 | [Hit 'Em Back](https://open.spotify.com/track/7vneiArcRtUop1FpF88CFd) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee), [Kenny Wayne Shepherd](https://open.spotify.com/artist/1riHqX633Kup3mJAw8WR8p), [Robert Randolph](https://open.spotify.com/artist/0u7gssqdwWaO1aMaSuvXtx), [Tony Coleman](https://open.spotify.com/artist/0QIxudHuVjcWwPZwHXC4l8) | [Hit 'Em Back](https://open.spotify.com/album/1kN8MM4zOwjHKzFw6epZuX) | 4:33 | 2022-01-18 |  |
 | [Hit 'Em Back \(feat\. Robert Randolph, Tony Coleman\)](https://open.spotify.com/track/4eZUZRpgqQVtQsvaEHtxti) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee), [Kenny Wayne Shepherd](https://open.spotify.com/artist/1riHqX633Kup3mJAw8WR8p), [Robert Randolph](https://open.spotify.com/artist/0u7gssqdwWaO1aMaSuvXtx), [Tony Coleman](https://open.spotify.com/artist/0QIxudHuVjcWwPZwHXC4l8) | [Hit 'Em Back \(feat\. Robert Randolph, Tony Coleman\)](https://open.spotify.com/album/6v7PWbwEKiBFAPcijUpRVe) | 4:33 | 2021-10-29 | 2022-07-29 |
 | [I Want My Crown](https://open.spotify.com/track/2in7I4NcwamHLIEMh4V8o5) | [Eric Gales](https://open.spotify.com/artist/3x8RBu8okCCBLi5vnY4UyV), [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Crown](https://open.spotify.com/album/0Ckul9E2gtpvm9RpXrp54i) | 4:19 | 2022-01-18 |  |

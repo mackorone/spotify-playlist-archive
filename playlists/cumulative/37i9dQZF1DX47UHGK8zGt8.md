@@ -2,7 +2,7 @@
 
 ### [Manhã Relax](https://open.spotify.com/playlist/37i9dQZF1DX47UHGK8zGt8)
 
-> Músicas calminhas pra começar o dia bem relax.
+> Músicas calminhas pra começar o dia bem relax\. Foto: Juliette
 
 175 songs - 10 hr 8 min - [published](https://open.spotify.com/playlist/3Prl0c7SA1E9u4rw7chWDq)
 
@@ -111,7 +111,7 @@
 | [Me conta da tua janela](https://open.spotify.com/track/6oEwV0l34zhnC7OmAqmHjY) | [ANAVITÓRIA](https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe) | [Me conta da tua janela](https://open.spotify.com/album/5GpWKpMkkFoz94PFxBeAJF) | 3:22 | 2022-02-18 | 2022-07-28 |
 | [Me Desculpa Jay\-Z \- Remix](https://open.spotify.com/track/40hftNcJCgyecU9qBztKJw) | [NZ Gang](https://open.spotify.com/artist/6iMKGYHTI74f87dWYeVkxX) | [Me Desculpa Jay\-Z \(Remix\)](https://open.spotify.com/album/2wAuBTMFO4dWdHgG55d3Tv) | 3:36 | 2022-04-01 | 2022-04-21 |
 | [Me Espera](https://open.spotify.com/track/27hUD1YdTO5dmRw0V5bOqD) | [Sandy](https://open.spotify.com/artist/4ZfTpxwHwtot9Ps59bXAF8), [TIAGO IORC](https://open.spotify.com/artist/4iWkwAVzssjb8XgxdoOL6M) | [Meu Canto \- EP](https://open.spotify.com/album/6WQAS1zej9JEKE47QBVSJB) | 3:50 | 2022-02-18 |  |
-| [Mensagem de Amor \(20° Aniversário\)](https://open.spotify.com/track/73sHSwoXam1tNDWEwEfHWe) | [Lucas Santtana](https://open.spotify.com/artist/67muZL7DIwZwLnH9BFfI5Z) | [Mensagem de Amor \(20° Aniversário\)](https://open.spotify.com/album/3vCdZZO5Q0gxSUblcsSZtq) | 3:49 | 2022-02-18 | 2022-07-16 |
+| [Mensagem de Amor \(20° Aniversário\)](https://open.spotify.com/track/73sHSwoXam1tNDWEwEfHWe) | [Lucas Santtana](https://open.spotify.com/artist/67muZL7DIwZwLnH9BFfI5Z) | [Mensagem de Amor \(20° Aniversário\)](https://open.spotify.com/album/3vCdZZO5Q0gxSUblcsSZtq) | 3:49 | 2022-02-18 |  |
 | [Meu Abrigo](https://open.spotify.com/track/5U28PY9MekLyCBYtLHGQpe) | [Melim](https://open.spotify.com/artist/6uYrXgVHctAJtIdSODcyLJ) | [Melim](https://open.spotify.com/album/5zj7hdfXIpN0OV2aFbk27J) | 3:51 | 2022-04-01 |  |
 | [Meu Bem](https://open.spotify.com/track/5zLZhKevapgvot70CB1Gvk) | [Magi](https://open.spotify.com/artist/1wO4Q3O7ljz4tGRAVZVQXy), [Linearwave](https://open.spotify.com/artist/2wIeBTEs0AsPb74kYdEcNk), [Brolo Gonzalez](https://open.spotify.com/artist/2cvrwb2vQUWPlPy53354Bg) | [Meu Bem](https://open.spotify.com/album/3Jv7ePHAl5m0DCCBqpFLdr) | 2:13 | 2022-04-01 | 2022-04-19 |
 | [Minha Felicidade](https://open.spotify.com/track/6sW59B995jzBoLxWBhXPbK) | [Roberta Campos](https://open.spotify.com/artist/5CC2At3k0Xnyc5s9yHdyax) | [Todo Caminho É Sorte](https://open.spotify.com/album/1l0jOyAvq12BpfGz6vnqof) | 3:49 | 2022-02-18 | 2022-07-29 |
@@ -169,7 +169,7 @@
 | [Verdadeiro Amor \- Studio Sessions](https://open.spotify.com/track/4mbI71cdIBaXLzswdAlEoV) | [Romero Ferro](https://open.spotify.com/artist/6RQQuhhlJwsjKJTW1P9PU9), [YOYOTRACKS](https://open.spotify.com/artist/0X813faPRmYEvgsc5foonA) | [Milk Box](https://open.spotify.com/album/0NJn5bUXyBhRXIzdI3Qd3Z) | 4:21 | 2022-02-18 | 2022-07-29 |
 | [Vilarejo](https://open.spotify.com/track/4TEVYGrLOKCpZtdFl7RtcS) | [Marisa Monte](https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH) | [Infinito Particular](https://open.spotify.com/album/0RkhMpjAwTFKQgEY3gUl47) | 3:29 | 2022-02-18 | 2022-07-29 |
 | [Vilarejo](https://open.spotify.com/track/4qvUtYRNwmFzfJ2loWkQCH) | [Marisa Monte](https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH) | [Infinito Particular](https://open.spotify.com/album/4vJUBwgIaG2AD5rP32O730) | 3:29 | 2022-06-24 |  |
-| [Vilão](https://open.spotify.com/track/1sza7qeTDLiwXE4OjRJNXt) | [Castel](https://open.spotify.com/artist/4RTi9WT73fsYrGnYZRneJf), [Tuyo](https://open.spotify.com/artist/3Ujv6sa60JRiaxS8RVuNOj), [XAN](https://open.spotify.com/artist/2cMza1RvA2IKw4oFvs8YTS) | [Vilão](https://open.spotify.com/album/0Z2ttWpaxmj3eut3OlxQX9) | 4:36 | 2022-09-02 |  |
+| [Vilão](https://open.spotify.com/track/1sza7qeTDLiwXE4OjRJNXt) | [Castel](https://open.spotify.com/artist/4RTi9WT73fsYrGnYZRneJf), [Tuyo](https://open.spotify.com/artist/3Ujv6sa60JRiaxS8RVuNOj), [XAN](https://open.spotify.com/artist/2cMza1RvA2IKw4oFvs8YTS) | [Vilão](https://open.spotify.com/album/0Z2ttWpaxmj3eut3OlxQX9) | 4:36 | 2022-09-02 | 2022-10-08 |
 | [Você Me Pergunta](https://open.spotify.com/track/5dLGgdtMSSthUP5mJxmazN) | [Rubel](https://open.spotify.com/artist/0slVGXBggrLglTLNKbeEyW), [Adriana Calcanhotto](https://open.spotify.com/artist/72f733zGuCPEzCSLs9wOVi) | [Você Me Pergunta](https://open.spotify.com/album/4mrWGbExP66DZb4lwcWdGm) | 3:54 | 2022-04-01 | 2022-04-21 |
 | [Você Tem](https://open.spotify.com/track/6MMeHHFx8H30NoxkfAD5Bn) | [Dreicon](https://open.spotify.com/artist/2LISPU6eTTWHZeJmkElmMv), [Carol Biazin](https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN) | [Você Tem](https://open.spotify.com/album/1HlIJFkzruHJ0LsgVth2tX) | 2:44 | 2022-04-01 | 2022-04-18 |
 | [você vai gostar de mim](https://open.spotify.com/track/7HsnCQcbbgou7ZFb8n4kZ8) | [Nina Fernandes](https://open.spotify.com/artist/3KrkRHLMHe2nzcpcvIJmDP) | [você vai gostar de mim](https://open.spotify.com/album/7jDRuADZZM08Uq83BBQnuj) | 3:07 | 2022-02-18 | 2022-07-29 |

@@ -4,7 +4,7 @@
 
 > Speaking to us sweetly from a window in the Tower of Song, this collection includes the legend's own tributes\. Cover: <a href="spotify:artist:5l8VQNuIg0turYE1VtM9zV">Leonard Cohen</a>
 
-74 songs - 5 hr 26 min - [published](https://open.spotify.com/playlist/7kKSsbzwq02y4ei5QnK9pz)
+75 songs - 5 hr 31 min - [published](https://open.spotify.com/playlist/7kKSsbzwq02y4ei5QnK9pz)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,7 @@
 | [Bird On A Wire](https://open.spotify.com/track/7gPOHdd9ATgveYMpxcSdZQ) | [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x) | [American Recordings](https://open.spotify.com/album/3yrnapvgTqeYGZKPxozcUl) | 4:01 | 2018-12-06 | 2022-07-29 |
 | [Bird on a Wire](https://open.spotify.com/track/53WJ6eGjiUvlqniOj6fsr2) | [k.d\. lang](https://open.spotify.com/artist/6W1BHDF0T4a4KYcSwzD586) | [Hymns of the 49th Parallel](https://open.spotify.com/album/7aTcKEqDqi1NoR2RggubbX) | 4:28 | 2018-12-06 |  |
 | [Bird On The Wire](https://open.spotify.com/track/3UvXtf3ZXjmFDB3QSY4iXL) | [Dave Van Ronk](https://open.spotify.com/artist/6QmHysWvckkQR74oxmLmtz) | [The Mayor Of MacDougal Street: Rarities 1957\-1969](https://open.spotify.com/album/7ppsSKyut4ssQyxbju7itg) | 3:29 | 2018-12-06 | 2022-07-29 |
-| [Chelsea Hotel \#2](https://open.spotify.com/track/0wWuIseAsESzPDFPBYwkRs) | [Kyle Craft](https://open.spotify.com/artist/29kOS7p4N9JeqoRgA2PCsr) | [Chelsea Hotel \#2](https://open.spotify.com/album/74kCTmJ9MUmJWRZifk69Bi) | 3:35 | 2018-12-06 |  |
+| [Chelsea Hotel \#2](https://open.spotify.com/track/0wWuIseAsESzPDFPBYwkRs) | [Kyle Craft](https://open.spotify.com/artist/29kOS7p4N9JeqoRgA2PCsr) | [Chelsea Hotel \#2](https://open.spotify.com/album/74kCTmJ9MUmJWRZifk69Bi) | 3:35 | 2018-12-06 | 2022-10-09 |
 | [Chelsea Hotel \#2](https://open.spotify.com/track/368ezT8KnV9L3so0wlz8v2) | [Kyle Craft](https://open.spotify.com/artist/29kOS7p4N9JeqoRgA2PCsr) | [Chelsea Hotel \#2](https://open.spotify.com/album/34UsK0W106eCfrfJ2s3KNN) | 3:35 | 2018-12-06 | 2022-07-25 |
 | [Chelsea Hotel No\. 2](https://open.spotify.com/track/7nlbvD4fO9D3aocMGkiYxq) | [Rufus Wainwright](https://open.spotify.com/artist/2PfBzriIMRsCXPDtSy9vg8) | [Leonard Cohen: I'm Your Man](https://open.spotify.com/album/1tz7sH3oRuXs7jNyWzdIQR) | 3:45 | 2018-12-06 |  |
 | [Choices \- Live at Christchurch Soundcheck, 2013](https://open.spotify.com/track/6E5SfanYXrXyRgeUobIeWQ) | [Leonard Cohen](https://open.spotify.com/artist/5l8VQNuIg0turYE1VtM9zV) | [Can't Forget: A Souvenir of the Grand Tour](https://open.spotify.com/album/7yUDBh0Q2IjPctdv5pFP6b) | 3:31 | 2018-12-06 | 2022-07-29 |
@@ -30,7 +30,7 @@
 | [Dance Me To The End Of Love](https://open.spotify.com/track/13zjNPZUyWvzZC2dlYjW0L) | [Madeleine Peyroux](https://open.spotify.com/artist/7nXyULtoL8k7wP9l6kg8Ef) | [Careless Love](https://open.spotify.com/album/4Kev9VMY5Ypfo19jRqK6bW) | 3:57 | 2018-12-06 |  |
 | [Dance Me to the End of Love \(Bonus\)](https://open.spotify.com/track/6WoJzSRQeROe5MNpf7cPDu) | [The Civil Wars](https://open.spotify.com/artist/6J7rw7NELJUCThPbAfyLIE) | [Barton Hollow](https://open.spotify.com/album/4uWgDFxGAp7XlVSHuVBv4E) | 3:05 | 2018-12-06 |  |
 | [Dance Me to the End of Love \(Bonus\) \- Bonus Track](https://open.spotify.com/track/6tZAbv5JEsfqjTpkBOrLje) | [The Civil Wars](https://open.spotify.com/artist/6J7rw7NELJUCThPbAfyLIE) | [Barton Hollow](https://open.spotify.com/album/6yCzOeJHgOnJBP3K6IDPIV) | 3:05 | 2018-12-06 | 2022-07-28 |
-| [Everybody Knows](https://open.spotify.com/track/0W4ALYvdQZfpiOG3wyfZ0f) | [Elizabeth & the Catapult](https://open.spotify.com/artist/6HzkeE2Ggi3n8zB0cX3qiR) | [Taller Children](https://open.spotify.com/album/3qvwnnpiuuknpvB451r2IS) | 3:37 | 2018-12-06 | 2022-08-02 |
+| [Everybody Knows](https://open.spotify.com/track/0W4ALYvdQZfpiOG3wyfZ0f) | [Elizabeth & the Catapult](https://open.spotify.com/artist/6HzkeE2Ggi3n8zB0cX3qiR) | [Taller Children](https://open.spotify.com/album/3qvwnnpiuuknpvB451r2IS) | 3:37 | 2018-12-06 |  |
 | [Everybody Knows](https://open.spotify.com/track/7arMFVCLQ4h0B3lIZITEdY) | [Stephen Stills](https://open.spotify.com/artist/4WlSvDKaq1PA2Nr7cCIPxX), [Judy Collins](https://open.spotify.com/artist/5yzE49FicYiSxN61oaxkNn) | [Everybody Knows](https://open.spotify.com/album/6pEDpmpeGLfIX8fGi4OzOo) | 5:26 | 2018-12-06 |  |
 | [Famous Blue Raincoat](https://open.spotify.com/track/1EWkznwDZmrbqc1nOX8B66) | [Marissa Nadler](https://open.spotify.com/artist/5zjaF8JUdylMWrA7AVo3hJ) | [Songs III: Bird On The Water](https://open.spotify.com/album/2bZk1KTJIY6LmnQN7QIqF5) | 4:23 | 2018-12-06 | 2022-07-29 |
 | [Famous Blue Raincoat](https://open.spotify.com/track/7tfmLHlqGt3dHvCV6GlJxf) | [Marissa Nadler](https://open.spotify.com/artist/5zjaF8JUdylMWrA7AVo3hJ) | [Songs III: Bird on the Water](https://open.spotify.com/album/5Hij7PrKCR3aqxyhuYjFAI) | 4:23 | 2018-12-06 |  |
@@ -66,7 +66,7 @@
 | [Sisters Of Mercy](https://open.spotify.com/track/1t8gcWQNb5bD9XssAzxbcw) | [Sting](https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk), [The Chieftains](https://open.spotify.com/artist/6AnrSlk5Gp1YMXgaI3mWCL) | [Tower Of Song \- The Songs Of Leonard Cohen](https://open.spotify.com/album/2Gh98Zgs0pR0ZF5VuUOsXC) | 3:19 | 2018-12-06 |  |
 | [Sisters Of Mercy](https://open.spotify.com/track/2ptC6OVpapv1Y2tXZ6ExPG) | [Sting](https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk), [The Chieftains](https://open.spotify.com/artist/6AnrSlk5Gp1YMXgaI3mWCL) | [Tower Of Song \- The Songs Of Leonard Cohen](https://open.spotify.com/album/69XAWWXjY1Cmm8qthc7Gef) | 3:20 | 2018-12-06 | 2022-07-29 |
 | [Song of Bernadette](https://open.spotify.com/track/2dtsFPhGB5YduAoIKekVaT) | [Bette Midler](https://open.spotify.com/artist/13y0kncDD4J9wxCyfKr10W) | [Bathhouse Betty](https://open.spotify.com/album/73NZUZBj0TJbzaEdW503Yn) | 3:46 | 2018-12-06 |  |
-| [Story Of Isaac](https://open.spotify.com/track/5aVnAPf0eZ6FxDO04X3Ok9) | [Suzanne Vega](https://open.spotify.com/artist/3X0tJzVYoWlfjLYI0Ridsw) | [Tower Of Song \- The Songs Of Leonard Cohen](https://open.spotify.com/album/2Gh98Zgs0pR0ZF5VuUOsXC) | 4:06 | 2018-12-06 |  |
+| [Story Of Isaac](https://open.spotify.com/track/5aVnAPf0eZ6FxDO04X3Ok9) | [Suzanne Vega](https://open.spotify.com/artist/3X0tJzVYoWlfjLYI0Ridsw) | [Tower Of Song \- The Songs Of Leonard Cohen](https://open.spotify.com/album/2Gh98Zgs0pR0ZF5VuUOsXC) | 4:06 | 2018-12-06 | 2022-10-06 |
 | [Story Of Isaac](https://open.spotify.com/track/2DQGsNHnqxDuI9bGnGI9uH) | [Suzanne Vega](https://open.spotify.com/artist/3X0tJzVYoWlfjLYI0Ridsw) | [Tower Of Song \- The Songs Of Leonard Cohen](https://open.spotify.com/album/69XAWWXjY1Cmm8qthc7Gef) | 4:06 | 2018-12-06 | 2022-07-28 |
 | [Suzanne](https://open.spotify.com/track/73Nr0OjKNWybcYvJXeO9nN) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [Just Like A Woman: Nina Simone Sings Classic Songs Of The '60s](https://open.spotify.com/album/5iFgWpYe8TI36apXgwlJlR) | 4:19 | 2018-12-06 |  |
 | [Take This Waltz](https://open.spotify.com/track/5HbdrCvl89PkwNoOI0sBdZ) | [Avalanche Quartet](https://open.spotify.com/artist/6HNv1bfHdugE8iUxdKF2fd) | [Leonard Cohen Songs](https://open.spotify.com/album/2YDw6OjWg3Mg2ArLCful7j) | 5:58 | 2018-12-06 | 2022-07-29 |
@@ -82,5 +82,6 @@
 | [Who By Fire](https://open.spotify.com/track/706Fe7B2pM3nC5IFGjp5EQ) | [Piers Faccini](https://open.spotify.com/artist/2hK2gWQ2TequHGKZe5dzHd) | [Songs I Love Vol.1](https://open.spotify.com/album/6Vo8N124C1PP8kTXhICyyP) | 3:00 | 2018-12-06 | 2022-07-29 |
 | [Who by Fire \(feat\. Jenn Grant\)](https://open.spotify.com/track/1HrWXSbm7z0qykZCxBn4CT) | [Buck 65](https://open.spotify.com/artist/6jbuMVAvWgoPxEb1wMglyz) | [20 ODD YEARS](https://open.spotify.com/album/5fMNoW6lhkb7o1XFR4EmXj) | 3:35 | 2018-12-06 |  |
 | [You Know Who I Am](https://open.spotify.com/track/2XGxZZpv8pae2CY18mVK6P) | [Cass Elliot](https://open.spotify.com/artist/5jX7X3kRkfJTRqAdT7RcHk) | [The Complete Cass Elliot Solo Collection 1968\-71](https://open.spotify.com/album/2TUNlZmOj0mzu9oLR9D3Gb) | 4:03 | 2018-12-06 | 2022-07-27 |
+| [You Want It Darker \(feat\. Iggy Pop\)](https://open.spotify.com/track/4V9hISY6WBa3NPyBgcZ9dD) | [Here It Is](https://open.spotify.com/artist/1QtALu1sicFWJUIkm4fABw), [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [You Want It Darker](https://open.spotify.com/album/2MH9oJX77xgvcnkolwPtBp) | 5:04 | 2022-10-07 |  |
 
 \*This playlist was first scraped on 2021-12-28. Prior content cannot be recovered.

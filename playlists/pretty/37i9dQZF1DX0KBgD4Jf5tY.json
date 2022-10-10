@@ -1,29 +1,13 @@
 {
-  "description": "Nuove scoperte dalla scena indipendente italiana, senza etichette di genere. Cover: <a href=\"spotify:artist:0LD8RSks9BHCIxqeTOdnAh\">chenopsia</a>",
-  "num_followers": 5450,
+  "description": "Nuove scoperte dalla scena indipendente italiana, senza etichette di genere. Cover: <a href=\"spotify:artist:032syoAKbxdyWFRlyk0PJv\">Paride</a>",
+  "num_followers": 5490,
   "original_name": "Fresh Finds Italia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDQ4ODg2MCwwMDAwMDAwMGE1YjRiNzYyZDMxNjQwMzJlNGY3NzM5ZGE2OTAwMjg0",
+  "snapshot_id": "MTY2NTI1NTI4NSwwMDAwMDAwMDg2Y2FjYzgyNjdkMzJlNDBjM2NkNjVmOWUwOTk5MWZm",
   "tracks": [
-    {
-      "added_at": "2022-09-29 22:01:00",
-      "album": {
-        "name": "pavimento",
-        "url": "https://open.spotify.com/album/3XMqMlWdbTNUzCiTTyFoal"
-      },
-      "artists": [
-        {
-          "name": "chenopsia",
-          "url": "https://open.spotify.com/artist/0LD8RSks9BHCIxqeTOdnAh"
-        }
-      ],
-      "duration_ms": 172173,
-      "name": "pavimento",
-      "url": "https://open.spotify.com/track/5Gsts0SjO5pqvCzY8ZCCVM"
-    },
     {
       "added_at": "2022-09-29 22:01:00",
       "album": {
@@ -43,6 +27,22 @@
     {
       "added_at": "2022-09-29 22:01:00",
       "album": {
+        "name": "pavimento",
+        "url": "https://open.spotify.com/album/3XMqMlWdbTNUzCiTTyFoal"
+      },
+      "artists": [
+        {
+          "name": "chenopsia",
+          "url": "https://open.spotify.com/artist/0LD8RSks9BHCIxqeTOdnAh"
+        }
+      ],
+      "duration_ms": 172173,
+      "name": "pavimento",
+      "url": "https://open.spotify.com/track/5Gsts0SjO5pqvCzY8ZCCVM"
+    },
+    {
+      "added_at": "2022-09-29 22:01:00",
+      "album": {
         "name": "Collane di Rovi",
         "url": "https://open.spotify.com/album/4sIhyQWSOGHO5cvhs6VzEY"
       },
@@ -54,6 +54,10 @@
         {
           "name": "Johnma'",
           "url": "https://open.spotify.com/artist/0R7UfZjaL9MprVrNeMN4cu"
+        },
+        {
+          "name": "BruceBrown",
+          "url": "https://open.spotify.com/artist/3ukHv1PGMnzDRPc7MVPvtU"
         }
       ],
       "duration_ms": 175530,

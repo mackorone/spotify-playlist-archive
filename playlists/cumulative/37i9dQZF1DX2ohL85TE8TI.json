@@ -73,7 +73,7 @@
       ],
       "date_added": "2022-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 189200,
       "name": "A Long Night",
       "url": "https://open.spotify.com/track/0I8hTfSm5qjhZEoiMCn6PG"
@@ -297,7 +297,7 @@
       ],
       "date_added": "2022-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 192080,
       "name": "Alright",
       "url": "https://open.spotify.com/track/19HAqd06VADSJFguM6JFFl"
@@ -387,7 +387,7 @@
       ],
       "date_added": "2022-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 244040,
       "name": "An Unfamiliar Day",
       "url": "https://open.spotify.com/track/4Q9mTqVTAHmkeJMsKZo2EZ"
@@ -655,7 +655,7 @@
       ],
       "date_added": "2022-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 219939,
       "name": "beautiful inside",
       "url": "https://open.spotify.com/track/1bxzxAOlqll6JIAeEZEINR"
@@ -1915,7 +1915,7 @@
       ],
       "date_added": "2022-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 201400,
       "name": "Fight On",
       "url": "https://open.spotify.com/track/3RKHz2UxKMtGfHmRJ6wowu"
@@ -2525,7 +2525,7 @@
       ],
       "date_added": "2022-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 254333,
       "name": "Hug",
       "url": "https://open.spotify.com/track/6oGpdfRigGtG6EWTArJ6vk"
@@ -3471,7 +3471,7 @@
       ],
       "date_added": "2022-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 182485,
       "name": "L.O.V.E",
       "url": "https://open.spotify.com/track/4cRAQZ8SzbTlqhD6jxhNFD"
@@ -3803,7 +3803,7 @@
       ],
       "date_added": "2022-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 246695,
       "name": "Listen",
       "url": "https://open.spotify.com/track/2jL5xA9FZ6zSDrcs6oN7q6"
@@ -4532,6 +4532,24 @@
     },
     {
       "album": {
+        "name": "Once Upon a Small Town (Original Television Soundtrack), Pt.5",
+        "url": "https://open.spotify.com/album/2TiBxxqrhlBz1HyHswBmIY"
+      },
+      "artists": [
+        {
+          "name": "Every Single Day",
+          "url": "https://open.spotify.com/artist/3tom6Rd7yUEki2wWIADtfJ"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244106,
+      "name": "My Secret Friend",
+      "url": "https://open.spotify.com/track/1xjwuHSureV8bvILI7TWu8"
+    },
+    {
+      "album": {
         "name": "Sh**ting Stars (Original Television Soundtrack) Pt.3",
         "url": "https://open.spotify.com/album/3CtH176Djh4qoKAaV2NHdL"
       },
@@ -5160,6 +5178,24 @@
     },
     {
       "album": {
+        "name": "Love in Contract, Pt. 1 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/1v9MGZRUO2Maxgui8eXHeF"
+      },
+      "artists": [
+        {
+          "name": "YUJU",
+          "url": "https://open.spotify.com/artist/7Bu0r4MCDX3sbhcFD5IXyx"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199295,
+      "name": "Real Love",
+      "url": "https://open.spotify.com/track/1qtPX8gIKMw0XyuPnm1ipY"
+    },
+    {
+      "album": {
         "name": "Hometown, Pt. 1 (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/7B7whF7sfWLeuCngNAiEu0"
       },
@@ -5297,7 +5333,7 @@
       ],
       "date_added": "2022-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 213946,
       "name": "Scars leave beautiful trace",
       "url": "https://open.spotify.com/track/1y6dEjheBdnopNo0xDXJ9P"
@@ -5376,6 +5412,24 @@
     },
     {
       "album": {
+        "name": "Cheer Up (Original Soundtrack Part.1)",
+        "url": "https://open.spotify.com/album/5g2wV4temcDlhLi9lx0tSm"
+      },
+      "artists": [
+        {
+          "name": "PEPPERTONES",
+          "url": "https://open.spotify.com/artist/0gos4GVpI0PzhyrWhsc7nj"
+        }
+      ],
+      "date_added": "2022-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137040,
+      "name": "Shine",
+      "url": "https://open.spotify.com/track/0Rbu97T9gnZiPDJEECkRdK"
+    },
+    {
+      "album": {
         "name": "Twenty-Five Twenty-One OST Part 2",
         "url": "https://open.spotify.com/album/7u0L0BrXdwSdPO1hSXNnBr"
       },
@@ -5445,6 +5499,24 @@
       "duration_ms": 185960,
       "name": "SKY",
       "url": "https://open.spotify.com/track/7JTJRkvvmy9jNIkqqsLIfB"
+    },
+    {
+      "album": {
+        "name": "1000won Lawyer (Original Soundtrack), Pt. 2",
+        "url": "https://open.spotify.com/album/2x7tmqNda5Ag0SpPbf6z5I"
+      },
+      "artists": [
+        {
+          "name": "KOONTA",
+          "url": "https://open.spotify.com/artist/5T8LKv9A1vEnwMCO4dMo3c"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200892,
+      "name": "SOLOMON",
+      "url": "https://open.spotify.com/track/0NGMVNMZlnD3bIFPsSO9uu"
     },
     {
       "album": {
@@ -5877,7 +5949,7 @@
       ],
       "date_added": "2022-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 224786,
       "name": "Swing",
       "url": "https://open.spotify.com/track/23EXTMJ9rKLNJl6uPBoTbV"
@@ -5935,6 +6007,24 @@
       "duration_ms": 218328,
       "name": "Tell me this is real",
       "url": "https://open.spotify.com/track/4O9vCvUz8fSJHJVvXKiBMp"
+    },
+    {
+      "album": {
+        "name": "The Law Cafe (Original Television Soundtrack), Pt.6",
+        "url": "https://open.spotify.com/album/2G1M07vfp7Qjd6MNkUP6MR"
+      },
+      "artists": [
+        {
+          "name": "Punch",
+          "url": "https://open.spotify.com/artist/2FgZrgTMX6Sk0VNcOsEPmm"
+        }
+      ],
+      "date_added": "2022-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214626,
+      "name": "Tell Me You Love Me",
+      "url": "https://open.spotify.com/track/1nEmHBLW5KexRCAPnDN5vg"
     },
     {
       "album": {
@@ -6133,6 +6223,24 @@
       "duration_ms": 208253,
       "name": "The Queen",
       "url": "https://open.spotify.com/track/4YR8iin9SJtZluXD0s1LoZ"
+    },
+    {
+      "album": {
+        "name": "Love in Contract, Pt. 2 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/48zQbCd3wr1doH7uH4sWVh"
+      },
+      "artists": [
+        {
+          "name": "Byeol Eun",
+          "url": "https://open.spotify.com/artist/6PlVpPXatgot82WQgqM6S2"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237373,
+      "name": "The Season of You",
+      "url": "https://open.spotify.com/track/7iEELA32wMz4a1gYZNCNSO"
     },
     {
       "album": {

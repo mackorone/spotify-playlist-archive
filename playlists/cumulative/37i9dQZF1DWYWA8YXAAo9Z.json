@@ -812,6 +812,24 @@
     },
     {
       "album": {
+        "name": "The Sparrow",
+        "url": "https://open.spotify.com/album/2DLMVaEDhrEeAmhV9JCytt"
+      },
+      "artists": [
+        {
+          "name": "Sam Prekop",
+          "url": "https://open.spotify.com/artist/4Vtlz5IfA9y4EBwmp20wwk"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 357906,
+      "name": "Every Night",
+      "url": "https://open.spotify.com/track/0uNy3DnZuVajMHDMDcFrIG"
+    },
+    {
+      "album": {
         "name": "Mind Jail",
         "url": "https://open.spotify.com/album/1QO5ZC9QhFCUeKLA1TOJ6o"
       },
@@ -2245,7 +2263,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-07",
       "duration_ms": 145000,
       "name": "The Station Is Alive Again",
       "url": "https://open.spotify.com/track/0ZarJjfxdlt6ppX7ZAT0Za"

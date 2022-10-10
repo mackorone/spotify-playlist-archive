@@ -4,7 +4,7 @@
 
 > Semplicemente noi.
 
-224 songs - 11 hr 51 min - [published](https://open.spotify.com/playlist/0l80wId7YOuXBlEY4SFFZ4)
+225 songs - 11 hr 54 min - [published](https://open.spotify.com/playlist/0l80wId7YOuXBlEY4SFFZ4)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -103,7 +103,7 @@
 | [L'ultima notte](https://open.spotify.com/track/63mdY4U0KvnbMkUEc7FHN8) | [ARIETE](https://open.spotify.com/artist/2T4kh33TYdnDesvlQyRst8) | [L'ultima notte](https://open.spotify.com/album/6tv1OcOYdYgDs6lvhYFQ40) | 2:37 | 2022-04-27 | 2022-07-29 |
 | [L'urlo di Munch](https://open.spotify.com/track/6UP3eoMcJDoEssjjHqAdjn) | [Emanuele Aloia](https://open.spotify.com/artist/3vkFU3DBYyYBSUt323pj76) | [L'urlo di Munch](https://open.spotify.com/album/1Ni07fF8D5JyUiMPrfdPwH) | 2:45 | 2022-04-27 | 2022-07-29 |
 | [LA CANZONE NOSTRA ⟁ \(con BLANCO & Salmo\)](https://open.spotify.com/track/0aQi1JGO1oKWEmKGfvf8TF) | [MACE](https://open.spotify.com/artist/7gjqZ8coFZimZDtdk04WP1), [BLANCO](https://open.spotify.com/artist/1MRiIeZbc0cRuxOafDUCtH), [Salmo](https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW) | [LA CANZONE NOSTRA ⟁ \(con BLANCO & Salmo\)](https://open.spotify.com/album/2w5HWooasQeHJC4lYspeG3) | 3:57 | 2022-04-27 | 2022-07-29 |
-| [LA CODA DEL DIAVOLO \(con ELODIE\)](https://open.spotify.com/track/6oYcyS6salzWI1ysjEScFh) | [Rkomi](https://open.spotify.com/artist/056KMTw6IztdQjBmFfVyO3), [Elodie](https://open.spotify.com/artist/7GgpsUpkj3olseoaTY7TEY) | [TAXI DRIVER](https://open.spotify.com/album/4D04TN7Kw7Bq98kfDjUmgh) | 3:08 | 2022-04-27 |  |
+| [LA CODA DEL DIAVOLO \(con ELODIE\)](https://open.spotify.com/track/6oYcyS6salzWI1ysjEScFh) | [Rkomi](https://open.spotify.com/artist/056KMTw6IztdQjBmFfVyO3), [Elodie](https://open.spotify.com/artist/7GgpsUpkj3olseoaTY7TEY) | [TAXI DRIVER](https://open.spotify.com/album/4D04TN7Kw7Bq98kfDjUmgh) | 3:08 | 2022-04-27 | 2022-10-05 |
 | [LA DOLCE VITA](https://open.spotify.com/track/0I0b7uTFfHhBz5bMkSDouF) | [Fedez](https://open.spotify.com/artist/3pgCLfNbw5ozIfoNsvDU7i), [Tananai](https://open.spotify.com/artist/35V1WomiedCJeGfupcPm7s), [Mara Sattei](https://open.spotify.com/artist/0zoMmzmyi8N8LwzhyXPvtk) | [LA DOLCE VITA](https://open.spotify.com/album/53zvCqI9glWstTSC1WFwT7) | 3:07 | 2022-07-26 |  |
 | [La genesi del tuo colore](https://open.spotify.com/track/0HyDNYQmQ3obfA81D3y9tG) | [Irama](https://open.spotify.com/artist/5iot8OPcosJN9nCl7I5SdK) | [La genesi del tuo colore](https://open.spotify.com/album/7eIyCeIG5Y0v4Be4mhV2vu) | 3:48 | 2022-04-27 | 2022-07-29 |
 | [La storia infinita](https://open.spotify.com/track/0XAO6HaZDHa2HxbnWWKWCZ) | [Pinguini Tattici Nucleari](https://open.spotify.com/artist/6RdcIWVKYYzNzjQRd3oyHS) | [La storia infinita](https://open.spotify.com/album/6IU2IppbPl3bt4CqL90qKd) | 3:27 | 2022-04-27 | 2022-07-29 |
@@ -164,6 +164,7 @@
 | [Quanto ti vorrei](https://open.spotify.com/track/1AC9rHDPQC3QoC3iYPeSEI) | [chiello](https://open.spotify.com/artist/5mjasIBQQPIqA9GV2Ys61h), [Shablo](https://open.spotify.com/artist/6hkKbkZGvAXuvle2FhCnxy) | [Quanto ti vorrei](https://open.spotify.com/album/7euSTXADo7aG1X9FbgMBKN) | 3:00 | 2022-04-27 | 2022-07-08 |
 | [Rasputin](https://open.spotify.com/track/0b18g3G5spr4ZCkz7Y6Q0Q) | [Majestic](https://open.spotify.com/artist/6QMABvTzixnxzsLYyhqRxI), [Boney M.](https://open.spotify.com/artist/54R6Y0I7jGUCveDTtI21nb) | [Rasputin](https://open.spotify.com/album/6PzYuR9c0CYCPJTnqylPhd) | 3:06 | 2022-07-26 |  |
 | [Ricordami](https://open.spotify.com/track/6Vw7SyOg1BcWvGpyPzWgEa) | [Tommaso Paradiso](https://open.spotify.com/artist/47z0zz9ZMCn9GBiPRTn5Bc) | [Ricordami](https://open.spotify.com/album/1Yrtp2iWOkmUiYU3SZrp0Y) | 3:25 | 2022-04-27 | 2022-07-29 |
+| [Ricordi](https://open.spotify.com/track/6Tj82tvIsDmfMTskuomuEq) | [Pinguini Tattici Nucleari](https://open.spotify.com/artist/6RdcIWVKYYzNzjQRd3oyHS) | [Ricordi](https://open.spotify.com/album/4HTHn74exsZ0i3bClrCFef) | 3:22 | 2022-09-29 |  |
 | [Ridere](https://open.spotify.com/track/5LZVK19ieaV8Mk9FsqTL3F) | [Pinguini Tattici Nucleari](https://open.spotify.com/artist/6RdcIWVKYYzNzjQRd3oyHS) | [Fuori dall'Hype Ringo Starr](https://open.spotify.com/album/56JsicBPrw88plclhKK74J) | 3:34 | 2022-04-27 | 2022-07-29 |
 | [Riptide](https://open.spotify.com/track/3JvrhDOgAt6p7K8mDyZwRd) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Dream Your Life Away \(Special Edition\)](https://open.spotify.com/album/5S9b8euumqMhQbMk0zzQdH) | 3:24 | 2022-07-26 | 2022-09-30 |
 | [Ritmo](https://open.spotify.com/track/15223sfwoQj4IAJL8GSnfO) | [Raffa Fl](https://open.spotify.com/artist/0j4dGWeyGGE4GvrAzdZIZ5) | [Ritmo](https://open.spotify.com/album/6LIsvePgAs2LVJHcWub3Sj) | 3:03 | 2022-07-26 |  |

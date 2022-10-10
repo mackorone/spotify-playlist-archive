@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "Favorite rock and gems.",
+  "description": "An introduction to some of alt-rock\u2019s most seminal tracks.",
   "name": "Alternative Rock's Most Precious Gems",
   "published_playlist_ids": [
     "4PqfAnZqku8Zl2uq9Q1NkX"
@@ -217,7 +217,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-01",
+      "date_removed": "2022-10-07",
       "duration_ms": 126621,
       "name": "Amateur Cartography",
       "url": "https://open.spotify.com/track/1sS7YyG4IEz0WjCuTmz224"
@@ -253,7 +253,7 @@
       ],
       "date_added": "2022-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-03",
       "duration_ms": 177680,
       "name": "Anyways",
       "url": "https://open.spotify.com/track/4up4dWG8xOET2Uo5aoOLAm"
@@ -1175,6 +1175,24 @@
       "duration_ms": 177830,
       "name": "Fix Me",
       "url": "https://open.spotify.com/track/420jQEuw2uFBy0k7B4nkhl"
+    },
+    {
+      "album": {
+        "name": "Fixed It All",
+        "url": "https://open.spotify.com/album/5F9Aavpfp58NVEnDqtNU6W"
+      },
+      "artists": [
+        {
+          "name": "P\u00c6RISH",
+          "url": "https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL"
+        }
+      ],
+      "date_added": "2022-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261301,
+      "name": "Fixed It All",
+      "url": "https://open.spotify.com/track/19UtO7hBxFYhqYMqFePsjv"
     },
     {
       "album": {

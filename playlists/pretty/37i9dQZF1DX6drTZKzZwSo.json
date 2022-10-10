@@ -1,12 +1,12 @@
 {
   "description": "Classic funk.",
-  "num_followers": 505403,
+  "num_followers": 506242,
   "original_name": "Funky Jams",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDI4NDQzNiwwMDAwMDAwMGYzNDg0YTc0NWUyOTZhNWMwMDRjYmEwNWQ3OTVkYzAx",
+  "snapshot_id": "MTY2NTEzNzc3MCwwMDAwMDAwMDg2YjE0NTEyMDc3M2Y2OWQwNGRjNmRlOWY0Mzg1YjRk",
   "tracks": [
     {
       "added_at": "2020-04-14 18:58:44",
@@ -467,6 +467,22 @@
       "duration_ms": 222986,
       "name": "Till You Take My Love",
       "url": "https://open.spotify.com/track/6VtO5cZQzv8s3kCFjrXfhi"
+    },
+    {
+      "added_at": "2022-10-07 10:16:10",
+      "album": {
+        "name": "YeahYeahYeah",
+        "url": "https://open.spotify.com/album/3Js1lqJTK5j3fZaZGOixPU"
+      },
+      "artists": [
+        {
+          "name": "Candy Dulfer",
+          "url": "https://open.spotify.com/artist/287jMoxHzjERgHI6ja8TKa"
+        }
+      ],
+      "duration_ms": 317173,
+      "name": "YeahYeahYeah",
+      "url": "https://open.spotify.com/track/7vipNil0y3l3idt9cM3ehi"
     },
     {
       "added_at": "2020-04-14 18:58:44",

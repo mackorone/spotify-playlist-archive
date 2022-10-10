@@ -1444,6 +1444,24 @@
     },
     {
       "album": {
+        "name": "Harpa Sessions",
+        "url": "https://open.spotify.com/album/3Zqumgj3y0lStaZNyZJgCk"
+      },
+      "artists": [
+        {
+          "name": "Gabr\u00edel \u00d3lafs",
+          "url": "https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166250,
+      "name": "Memory - Harpa Sessions",
+      "url": "https://open.spotify.com/track/5IdvZgQokqrRjdBZnXwpaM"
+    },
+    {
+      "album": {
         "name": "Voices 2",
         "url": "https://open.spotify.com/album/29qu0lgHevmRAWZMWkDsD5"
       },
@@ -1481,6 +1499,24 @@
     {
       "album": {
         "name": "Mirror Lake",
+        "url": "https://open.spotify.com/album/5tTymJqGUyFkmklHSyRRRU"
+      },
+      "artists": [
+        {
+          "name": "Angus MacRae",
+          "url": "https://open.spotify.com/artist/461sVAxk7a1yog2yExyBRX"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271374,
+      "name": "Mirror Lake",
+      "url": "https://open.spotify.com/track/4Mwv1IAyhdh9oWMcUHB0Vc"
+    },
+    {
+      "album": {
+        "name": "Mirror Lake",
         "url": "https://open.spotify.com/album/6nLZCWMmgvuvIL54FspRll"
       },
       "artists": [
@@ -1491,7 +1527,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-05",
       "duration_ms": 271387,
       "name": "Mirror Lake",
       "url": "https://open.spotify.com/track/1eVJInWM1ElhWTAFbCAQS9"
@@ -1794,6 +1830,24 @@
     },
     {
       "album": {
+        "name": "Colours (Solo Piano Version)",
+        "url": "https://open.spotify.com/album/7obnUblJ3L4u0Ch4kyjfCK"
+      },
+      "artists": [
+        {
+          "name": "Alexis Ffrench",
+          "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198897,
+      "name": "One Look - Solo Piano Version",
+      "url": "https://open.spotify.com/track/3u1G1hsbE4YoVlcBM7iztj"
+    },
+    {
+      "album": {
         "name": "Songbird (Solo Piano Version)",
         "url": "https://open.spotify.com/album/5Rq6irAvLNj36yBD7bY9t0"
       },
@@ -1913,7 +1967,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-07",
       "duration_ms": 198897,
       "name": "One Look - Solo Piano Version",
       "url": "https://open.spotify.com/track/7mzLAlrL1lNSqXxzg4e5nD"

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-12",
-  "description": "Lo street rap in Italia \u00e8 qua. Aggiornata ogni venerd\u00ec. Cover: Kassimi",
+  "description": "La casa dello street rap italiano. Cover: N\u00e9za",
   "name": "Street Culto",
   "published_playlist_ids": [
     "2xFrA1gU60YSyblsw3BI3i"
@@ -665,7 +665,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-04",
       "duration_ms": 174545,
       "name": "Cancelo",
       "url": "https://open.spotify.com/track/4lstxdn27jZqnTuyaLeJfq"
@@ -819,7 +819,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-07",
       "duration_ms": 233268,
       "name": "Coki (con Tony Effe, Noyz Narcos, Ketama126 & Gu\u00e8)",
       "url": "https://open.spotify.com/track/19MTV4slq11KeCGoF7RQZ6"
@@ -1256,6 +1256,66 @@
     },
     {
       "album": {
+        "name": "Botox",
+        "url": "https://open.spotify.com/album/4nhZUFV7XuVY3hfsXB7EMt"
+      },
+      "artists": [
+        {
+          "name": "Night Skinny",
+          "url": "https://open.spotify.com/artist/2E6AK3UPEGCvjnzuygCh2h"
+        },
+        {
+          "name": "Side Baby",
+          "url": "https://open.spotify.com/artist/6PXiPeUVFrlaC1n8511ijT"
+        },
+        {
+          "name": "Pyrex",
+          "url": "https://open.spotify.com/artist/7h1amg0X7Q5d0D5KfuyKTg"
+        },
+        {
+          "name": "MamboLosco",
+          "url": "https://open.spotify.com/artist/4BFn4jmfqSNaHtPWHTcy41"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178181,
+      "name": "Fernando (con Side Baby, Pyrex & MamboLosco)",
+      "url": "https://open.spotify.com/track/0A7UmfvTFoafzrRgUD8qS1"
+    },
+    {
+      "album": {
+        "name": "Botox",
+        "url": "https://open.spotify.com/album/2USgyeK0BDI7xE8Xhk19PY"
+      },
+      "artists": [
+        {
+          "name": "Night Skinny",
+          "url": "https://open.spotify.com/artist/2E6AK3UPEGCvjnzuygCh2h"
+        },
+        {
+          "name": "Side Baby",
+          "url": "https://open.spotify.com/artist/6PXiPeUVFrlaC1n8511ijT"
+        },
+        {
+          "name": "Pyrex",
+          "url": "https://open.spotify.com/artist/7h1amg0X7Q5d0D5KfuyKTg"
+        },
+        {
+          "name": "MamboLosco",
+          "url": "https://open.spotify.com/artist/4BFn4jmfqSNaHtPWHTcy41"
+        }
+      ],
+      "date_added": "2022-10-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-08",
+      "duration_ms": 178181,
+      "name": "Fernando (con Side Baby, Pyrex & MamboLosco)",
+      "url": "https://open.spotify.com/track/352us8qyK7W2TiSFaNi1vg"
+    },
+    {
+      "album": {
         "name": "Fratello mio (feat. Baby Gang & Simba La Rue)",
         "url": "https://open.spotify.com/album/0mBnAfPBOCyX7Uzvzuvo0w"
       },
@@ -1459,6 +1519,28 @@
       "duration_ms": 158080,
       "name": "GORILLA#1",
       "url": "https://open.spotify.com/track/0sTkGlYMa1y4jeD1y5yRu4"
+    },
+    {
+      "album": {
+        "name": "Gossip",
+        "url": "https://open.spotify.com/album/7e9ts0pFKQ6ey3aUZNRLt4"
+      },
+      "artists": [
+        {
+          "name": "Side Baby",
+          "url": "https://open.spotify.com/artist/6PXiPeUVFrlaC1n8511ijT"
+        },
+        {
+          "name": "Mikush",
+          "url": "https://open.spotify.com/artist/3eBlbhY21Q1L6xwbVMCQa1"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134576,
+      "name": "Gossip",
+      "url": "https://open.spotify.com/track/1C2LT6N62SfqtF3SGPQbJ9"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Up & coming Indonesian producer <a href="spotify:artist:7kA4sEagpoNK91I7wr9tYr">Bleu Clair</a> brings his high\-powered energy to his mix.
 
-18 songs - 1 hr 2 min - [published](https://open.spotify.com/playlist/0FhASOjU3fMrm21JQ8AcYJ)
+19 songs - 1 hr 6 min - [published](https://open.spotify.com/playlist/0FhASOjU3fMrm21JQ8AcYJ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,7 +23,8 @@
 | [Jack Machine \- Mixed](https://open.spotify.com/track/4xD5z9PngSIJjbI3zJEbC0) | [Dombresky](https://open.spotify.com/artist/2GVtgxcx7jg5xVCZsIHSGN), [Noizu](https://open.spotify.com/artist/3VRyybsQu0MDG0F2LBxnv7) | [Jack Machine \(Mixed\)](https://open.spotify.com/album/30XX0H1fJjIr9KvTQ9T3yN) | 3:20 | 2021-12-17 |  |
 | [Make It Work \- Mixed](https://open.spotify.com/track/0pxWo6oa3rTkHv4Ddj0wnS) | [Miane](https://open.spotify.com/artist/6bprXdW2g8kg49tNslPQ6X) | [Make It Work \(Mixed\)](https://open.spotify.com/album/0t5CgdDVJJrkhmlaLDGOax) | 4:16 | 2021-12-17 |  |
 | [Make You Mine \- Mixed](https://open.spotify.com/track/7wMUsFNUYt5h2zbfFdUJoQ) | [Bleu Clair](https://open.spotify.com/artist/7kA4sEagpoNK91I7wr9tYr), [Ytram](https://open.spotify.com/artist/5qTx6amAEpOiXxb6KQjquZ), [RA](https://open.spotify.com/artist/5KB4q7bGeG3ekRWMLX11Rs) | [Make You Mine \(Mixed\)](https://open.spotify.com/album/32BWCGKohMV0P10JpnxlQW) | 3:47 | 2021-12-17 |  |
-| [Ocean \- Walker & Royce Mix \- Mixed](https://open.spotify.com/track/0kBuDXCWzMLRYdpmZKY8Du) | [Teachers](https://open.spotify.com/artist/0D0wa2W41SfFzUKoWec8sE), [Walker & Royce](https://open.spotify.com/artist/1lAwVq9MxNJkB0dEY6xNoV) | [Ocean \- Walker & Royce Mix \(Mixed\)](https://open.spotify.com/album/125XwONQjhxo6gMsmyKx0e) | 4:30 | 2021-12-17 |  |
+| [Ocean \- Walker & Royce Mix \- Mixed](https://open.spotify.com/track/0kBuDXCWzMLRYdpmZKY8Du) | [Teachers](https://open.spotify.com/artist/0D0wa2W41SfFzUKoWec8sE), [Walker & Royce](https://open.spotify.com/artist/1lAwVq9MxNJkB0dEY6xNoV) | [Ocean \- Walker & Royce Mix \(Mixed\)](https://open.spotify.com/album/125XwONQjhxo6gMsmyKx0e) | 4:30 | 2021-12-17 | 2022-10-07 |
+| [Ocean \- Walker & Royce Mix \- Mixed](https://open.spotify.com/track/76dWV8LuOUowkq7maSoF3j) | [Teachers](https://open.spotify.com/artist/0D0wa2W41SfFzUKoWec8sE), [Walker & Royce](https://open.spotify.com/artist/1lAwVq9MxNJkB0dEY6xNoV) | [Ocean \- Walker & Royce Mix \(Mixed\)](https://open.spotify.com/album/6Vl8XyTW8iMKKJ7EhMq8Qe) | 4:30 | 2022-10-06 |  |
 | [One More \- Mixed](https://open.spotify.com/track/2ilZpxc0FUFE3ie0s58W64) | [D\-Tek](https://open.spotify.com/artist/0Ss5Mgh4yOBheewjYwTJ7p) | [One More \(Mixed\)](https://open.spotify.com/album/5HGncMD3ArHn7iBZuCfj7q) | 3:47 | 2021-12-17 |  |
 | [You Want \- Mixed](https://open.spotify.com/track/28ahSpMzp9BSOYFAOmEZm4) | [THYKIER](https://open.spotify.com/artist/4EePQNY0QBU3IPSSvqZOpI) | [You Want \(Mixed\)](https://open.spotify.com/album/6g6ttEYVqTr0L7lWqBfVgw) | 3:16 | 2021-12-17 |  |
 

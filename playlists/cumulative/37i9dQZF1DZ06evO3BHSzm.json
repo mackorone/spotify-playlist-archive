@@ -19,7 +19,7 @@
       ],
       "date_added": "2022-09-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-01",
+      "date_removed": "2022-10-09",
       "duration_ms": 169041,
       "name": "1921",
       "url": "https://open.spotify.com/track/2EJo2k8xmQsA3E5VwTta7I"
@@ -541,7 +541,7 @@
       ],
       "date_added": "2022-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-07",
       "duration_ms": 157853,
       "name": "I'm One",
       "url": "https://open.spotify.com/track/6TRQUflD06zYvNijwb2HNH"
@@ -656,6 +656,24 @@
     },
     {
       "album": {
+        "name": "Who's Next (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5MqyhhHbT13zsloD3uHhlQ"
+      },
+      "artists": [
+        {
+          "name": "The Who",
+          "url": "https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-09",
+      "duration_ms": 213680,
+      "name": "My Wife",
+      "url": "https://open.spotify.com/track/04jUWHa4mIZKn7duaD2gXW"
+    },
+    {
+      "album": {
         "name": "Tommy",
         "url": "https://open.spotify.com/album/5cT7ee1sy2oEbFalP4asS4"
       },
@@ -703,7 +721,7 @@
       ],
       "date_added": "2022-09-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-02",
+      "date_removed": "2022-10-07",
       "duration_ms": 163708,
       "name": "Please, Please, Please - Stereo Version",
       "url": "https://open.spotify.com/track/27J9JQLDfGgGWqfcSLFmNp"
@@ -847,7 +865,7 @@
       ],
       "date_added": "2022-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-05",
       "duration_ms": 186840,
       "name": "Sunrise",
       "url": "https://open.spotify.com/track/05EpBNu0hokMsuNc62SAAz"
@@ -865,7 +883,7 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-02",
+      "date_removed": null,
       "duration_ms": 187733,
       "name": "The Kids Are Alright",
       "url": "https://open.spotify.com/track/4zJBF8rXepeoJ0qJOqMLhj"
@@ -973,7 +991,7 @@
       ],
       "date_added": "2022-09-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-23",
+      "date_removed": null,
       "duration_ms": 95441,
       "name": "Tommy Can You Hear Me?",
       "url": "https://open.spotify.com/track/0HLIhUYvZdxemJ5vHJsSBy"
@@ -998,6 +1016,24 @@
     },
     {
       "album": {
+        "name": "The Who Sell Out (Super Deluxe)",
+        "url": "https://open.spotify.com/album/2JyNDhGhp0hiizSPuUs0i9"
+      },
+      "artists": [
+        {
+          "name": "The Who",
+          "url": "https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-08",
+      "duration_ms": 157353,
+      "name": "Under My Thumb - UK Single Mix / Mono Version",
+      "url": "https://open.spotify.com/track/1W0VRuwNVPQ44zTomFOpSK"
+    },
+    {
+      "album": {
         "name": "Tommy",
         "url": "https://open.spotify.com/album/5cT7ee1sy2oEbFalP4asS4"
       },
@@ -1009,7 +1045,7 @@
       ],
       "date_added": "2022-09-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-02",
+      "date_removed": "2022-10-07",
       "duration_ms": 426136,
       "name": "We're Not Gonna Take It",
       "url": "https://open.spotify.com/track/7jFImjC2qNx6K4WP8PPzGv"

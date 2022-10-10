@@ -2,9 +2,9 @@
 
 ### [Café Bossa](https://open.spotify.com/playlist/37i9dQZF1DX7ovYHwmjqZK)
 
-> Bossa Nova e MPB como acompanhamento / Bossa y música brasileña para todo momento
+> Bossa Nova e MPB como acompanhamento / Bossa y música brasileña para todo momento\. Foto: Yamandu Costa
 
-116 songs - 6 hr 59 min - [published](https://open.spotify.com/playlist/6irLJVar0NJeoObqheLojG)
+117 songs - 7 hr 3 min - [published](https://open.spotify.com/playlist/6irLJVar0NJeoObqheLojG)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,7 +50,8 @@
 | [Esse Ano](https://open.spotify.com/track/6oEYnlgYjJAZtrT6SY118e) | [Vitto Meirelles](https://open.spotify.com/artist/1k6FKHfl8lzBXvBfr6IPee) | [Àguas De Março / Esse Ano / Nada É Melhor Do Que Você](https://open.spotify.com/album/2OADy8bkOEcsMWyF4raTRe) | 2:25 | 2021-11-26 |  |
 | [Estate](https://open.spotify.com/track/5zAGy79fGOXmJILqCGf0Q1) | [Eugene Lambert](https://open.spotify.com/artist/0Qgio0Sb91TA2BZMDmaIvl) | [House Of Jade](https://open.spotify.com/album/6yZpRJ5kwvKg67eiI8uRZR) | 7:22 | 2021-11-26 |  |
 | [Eu Preciso de Você](https://open.spotify.com/track/4sn6sAoO20QWPdscEr1NPi) | [Didi Gomes](https://open.spotify.com/artist/2fTHMyHkY0Nc9lAeac5VQn), [Ayrton do Violão](https://open.spotify.com/artist/37BuIUO9zQiqB8QxPpBYHj) | [Eu Preciso de Você](https://open.spotify.com/album/1t8n7PLn8yMyuHJzkq7UcT) | 2:48 | 2021-11-26 |  |
-| [Eu Sambo Mesmo](https://open.spotify.com/track/5Fx820lVuAT6bI3Dj5kfpk) | [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [Joao](https://open.spotify.com/album/64nNH3zUc8rmxLu7235fSK) | 4:08 | 2021-11-26 |  |
+| [Eu Sambo Mesmo](https://open.spotify.com/track/5Fx820lVuAT6bI3Dj5kfpk) | [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [Joao](https://open.spotify.com/album/64nNH3zUc8rmxLu7235fSK) | 4:08 | 2021-11-26 | 2022-10-05 |
+| [Eu Sambo Mesmo](https://open.spotify.com/track/7CPcuPG4fEMdGNHLRdxTPb) | [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [João Gilberto: Hits & Rarities](https://open.spotify.com/album/2oOfYdGzP20W6CslQLIo69) | 4:08 | 2021-11-26 |  |
 | [Falando de Amor](https://open.spotify.com/track/1JeTY5hPf1lTIVWPWkJXQe) | [Rosa Collins](https://open.spotify.com/artist/3ODYl7kPOjcfxnnjHz2zLe) | [Falando de Amor](https://open.spotify.com/album/4se4CC3WUJQfipHtTYg63y) | 4:16 | 2021-11-26 |  |
 | [Flor De Lis](https://open.spotify.com/track/2rwczkvQFzi30gKPlqaM0d) | [Duo Flamingo](https://open.spotify.com/artist/3xftE3TBKAyci29tDwa8S3) | [Rosa Morena EP](https://open.spotify.com/album/5ZIv0QTRlBeSnMJ6mVyEMm) | 3:02 | 2021-11-26 |  |
 | [Garra \- Ao vivo](https://open.spotify.com/track/2sc5q8Zd8kpvJ3hAJJmBwG) | [Dani Gurgel](https://open.spotify.com/artist/2j5N97IBFhpmtZ7n7qTLZw), [Debora Gurgel](https://open.spotify.com/artist/4yMK2n4V4BuobNJfW6agFT), [Thiago Rabello](https://open.spotify.com/artist/56uVOkyK508SN0TWUegCBB), [Sidiel Vieira](https://open.spotify.com/artist/6w5Vaup8DAh32WeB8OUr50) | [Garra](https://open.spotify.com/album/1CiGUeRx6a1yAvLwB0l3w2) | 3:48 | 2021-11-26 |  |

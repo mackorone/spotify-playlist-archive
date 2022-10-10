@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-10",
-  "description": "All your favorite tracks from the hottest TV shows, commercials, and movies! Prepare for the 2022 Emmys with this collection of hits and new favorites! Cover: Sofia Carson",
+  "description": "All your favorite tracks from the hottest TV shows, commercials, and movies! Cover: Sofia Carson",
   "name": "As Seen on TV",
   "published_playlist_ids": [
     "2cfy7Rm8LVljTMG1lEbl0m"
@@ -1681,7 +1681,7 @@
       ],
       "date_added": "2022-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-04",
       "duration_ms": 320000,
       "name": "Sunglasses At Night",
       "url": "https://open.spotify.com/track/5uRsBdLhn91AYcsTCOGNOC"
@@ -1909,6 +1909,24 @@
       "duration_ms": 272533,
       "name": "Where Is The Love?",
       "url": "https://open.spotify.com/track/3CNqo3gYrfexdrtjFmC9he"
+    },
+    {
+      "album": {
+        "name": "Meet Cute (Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6VB3I0wuKelQjLf5QUiNyI"
+      },
+      "artists": [
+        {
+          "name": "Lauren Spencer Smith",
+          "url": "https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50"
+        }
+      ],
+      "date_added": "2022-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175107,
+      "name": "Will You Love Me Tomorrow",
+      "url": "https://open.spotify.com/track/0GyUciHz53Hi4kuR5ITlD6"
     },
     {
       "album": {

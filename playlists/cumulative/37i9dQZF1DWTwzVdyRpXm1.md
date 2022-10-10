@@ -4,7 +4,7 @@
 
 > Desi hits from South Asia\. Cover: Shae Gill, Ali Sethi
 
-123 songs - 7 hr 14 min - [published](https://open.spotify.com/playlist/5pITaMwZ6Z8u14yHLHyyaQ)
+124 songs - 7 hr 19 min - [published](https://open.spotify.com/playlist/5pITaMwZ6Z8u14yHLHyyaQ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,6 +94,7 @@
 | [Once Upon a Time](https://open.spotify.com/track/4wCy7erulqUfFQNVaZBD9b) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Vikram \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0FIP7MeIO3yqL8K6uTz3b1) | 2:23 | 2022-08-21 | 2022-09-09 |
 | [OOPS](https://open.spotify.com/track/5RrOyaV2xOAnf62uWj24dB) | [King](https://open.spotify.com/artist/5NHm4TU5Twz7owibYxJfFU) | [OOPS](https://open.spotify.com/album/23Xu8xOIyGOKQvmsM24ESK) | 2:43 | 2022-08-30 |  |
 | [Paani Paani](https://open.spotify.com/track/1myzcUZDmZ5m1EgGv19c76) | [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1), [Aastha Gill](https://open.spotify.com/artist/1BYjhAClGpBTLZfics0VRZ) | [Paani Paani](https://open.spotify.com/album/5fkjWQSbKMhpA7NMh3JEjJ) | 2:54 | 2021-12-06 |  |
+| [Pablo](https://open.spotify.com/track/1pW5BQT2ltq0NPSlbkev0v) | [King](https://open.spotify.com/artist/5NHm4TU5Twz7owibYxJfFU) | [Pablo](https://open.spotify.com/album/09Ddk5RTWLwjAa8L20ygwW) | 4:39 | 2022-10-03 |  |
 | [Pal Pal Dil Ke Paas\- Title Track](https://open.spotify.com/track/7lGhrfren1Zpwh0ds0zuUg) | [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Parampara Tandon](https://open.spotify.com/artist/1E6arsXf5Fgsnv9YpSzjpE) | [Pal Pal Dil Ke Paas\- Title Track \(From "Pal Pal Dil Ke Paas"\)](https://open.spotify.com/album/0C9FXcECAeepJhmuvETNe1) | 4:14 | 2021-12-06 | 2022-09-09 |
 | [Param Sundari](https://open.spotify.com/track/3KeMulXbLDJBQdY5PZbGEh) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy) | [Mimi \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0DUOcMjmHGVLqFkWqfNC0z) | 3:20 | 2021-12-06 |  |
 | [Pasoori](https://open.spotify.com/track/7lvDsmTRXFE3dK4OjvRiWB) | [Shae Gill](https://open.spotify.com/artist/3bWIy9AUrQdiNeS62Bp3OP), [Ali Sethi](https://open.spotify.com/artist/3NegWDGp038A3FIi3gSYzl) | [Pasoori](https://open.spotify.com/album/7wgrW5XyZdtk0K8PkW5A7h) | 3:44 | 2022-02-24 |  |

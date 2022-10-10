@@ -4,7 +4,7 @@
 
 > Alternative / Indie / Folk cuts from the continent and diaspora to dive into\. Cover: <a href="https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X?si=a96SvZ2zRaOYehcx75YnXg"> Bien</a>
 
-50 songs - 3 hr 9 min - not published yet
+50 songs - 3 hr 9 min - [published](https://open.spotify.com/playlist/2z7lj51FcrlwnyaaEF8RCy)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

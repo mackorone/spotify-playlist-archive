@@ -4,13 +4,14 @@
 
 > Bold bops from Ludhiana to London\. Cover: Sidhu Moose Wala.
 
-78 songs - 4 hr 13 min - [published](https://open.spotify.com/playlist/0uMzddXjKauDUllx7hMr3q)
+79 songs - 4 hr 15 min - [published](https://open.spotify.com/playlist/0uMzddXjKauDUllx7hMr3q)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [8 Raflaan \(feat\. Gurlez Akhtar\)](https://open.spotify.com/track/7vUfIIQiH3K3J5tmN46HE5) | [Mankirt Aulakh](https://open.spotify.com/artist/3uHUKCspaCzAab9A3LlGAr), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ) | [8 Raflaan \(feat\. Gurlez Akhtar\)](https://open.spotify.com/album/5BEF6sxOMMTJ8YsAP6r7lw) | 1:55 | 2021-12-18 |  |
 | [Ask About Me](https://open.spotify.com/track/1IRqRr6FnqMPPMPgjz7bef) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ) | [B.T.F.U](https://open.spotify.com/album/1qH7e7TaKxpHxu4mGxofDs) | 4:19 | 2022-07-05 |  |
 | [Ask About Me](https://open.spotify.com/track/2xXZwpCUwaotGISP5rSmVE) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ) | [Bacthafu\*up](https://open.spotify.com/album/5EuL5Jp1caNNj9m8bQ1V6u) | 4:19 | 2021-12-18 | 2022-07-29 |
+| [Babe Bhangra Paunde Ne \(From "Babe Bhangra Paunde Ne"\)](https://open.spotify.com/track/1whtXubWCdWMhvZiymscRH) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [Avvy Sra](https://open.spotify.com/artist/1vKd2cgDOiLcV5YA5uy7GG), [Simmu Dhillon](https://open.spotify.com/artist/4YW1vkeLrmK8sf48aT9HeP) | [Babe Bhangra Paunde Ne \(From "Babe Bhangra Paunde Ne"\) \- Single](https://open.spotify.com/album/0p1TPVG9FeMFXXV9CXvq2e) | 1:54 | 2022-10-07 |  |
 | [Badmashi \(feat\. Gurlez Akhtar\)](https://open.spotify.com/track/23WL7wGsgqhINOShpCxdK5) | [Mankirt Aulakh](https://open.spotify.com/artist/3uHUKCspaCzAab9A3LlGAr), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ) | [Badmashi \(feat\. Gurlez Akhtar\)](https://open.spotify.com/album/0N2q3zfrzjDL8xHKuoqir3) | 2:38 | 2021-12-18 |  |
 | [Bai Bai](https://open.spotify.com/track/4FuQxMZP3ToPrc17Jdh4r1) | [Gulab Sidhu](https://open.spotify.com/artist/0OytfiwNkc1KzXE4ImyjgW), [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ) | [Bai Bai](https://open.spotify.com/album/3n9c8TFKnM3Mb0P6W4Lhii) | 4:33 | 2021-12-18 |  |
 | [Bijlee Bijlee](https://open.spotify.com/track/1iZLpuGMr4tn1F5bZu32Kb) | [Harrdy Sandhu](https://open.spotify.com/artist/4ITkqBlf5eoVCOFwsJCnqo) | [Bijlee Bijlee](https://open.spotify.com/album/3tG0IGB24sRhGFLs5F1Km8) | 2:48 | 2022-01-10 |  |

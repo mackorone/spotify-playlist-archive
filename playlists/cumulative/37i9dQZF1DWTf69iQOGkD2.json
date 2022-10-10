@@ -1218,6 +1218,32 @@
     },
     {
       "album": {
+        "name": "Gasolina",
+        "url": "https://open.spotify.com/album/2DAEEYqpvSxmNbX8pS9F27"
+      },
+      "artists": [
+        {
+          "name": "Pel\u00e9 MilFlows",
+          "url": "https://open.spotify.com/artist/4WbHbolEKZIhnkO2xv2Lm0"
+        },
+        {
+          "name": "Giovanna Vampesi",
+          "url": "https://open.spotify.com/artist/5OdyMGgVHjCj7Wi3YsSQjk"
+        },
+        {
+          "name": "Altamira",
+          "url": "https://open.spotify.com/artist/12xPPAGu03vdZR3AmWNIxZ"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130746,
+      "name": "Gasolina",
+      "url": "https://open.spotify.com/track/5F2Gq7rl3Ab4u3wXy47Yfi"
+    },
+    {
+      "album": {
         "name": "Gerib\u00e1 (Papasessions #8) [feat. OIK]",
         "url": "https://open.spotify.com/album/7AqekLGMeEV8MnMmpeq7h1"
       },
@@ -2795,7 +2821,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 270000,
       "name": "Poesia Ac\u00fastica Ep. Acabou",
       "url": "https://open.spotify.com/track/0oHUP66PMEiy7itEGM0EpY"

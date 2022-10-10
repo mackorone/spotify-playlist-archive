@@ -134,6 +134,24 @@
     },
     {
       "album": {
+        "name": "How Are You Now",
+        "url": "https://open.spotify.com/album/32oXNyLRHjA62SOvlxzy6j"
+      },
+      "artists": [
+        {
+          "name": "\u9ec3\u865f",
+          "url": "https://open.spotify.com/artist/6qtpMdYXlctoS7te9gBcdG"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134347,
+      "name": "How Are You Now",
+      "url": "https://open.spotify.com/track/78DpzUFJxXDenJg5YCztaA"
+    },
+    {
+      "album": {
         "name": "I Know You Know-\u96fb\u8996\u5287\u300a\u6211\u7684\u771f\u670b\u53cb\u300b\u4e3b\u984c\u66f2",
         "url": "https://open.spotify.com/album/4rmw9Ja0txHNXJ8wSSDBuJ"
       },
@@ -261,6 +279,24 @@
       "duration_ms": 241920,
       "name": "Midnight Sun - Acoustic",
       "url": "https://open.spotify.com/track/59g2Rii8PghTk5gwUgYwrP"
+    },
+    {
+      "album": {
+        "name": "Miss missed Love",
+        "url": "https://open.spotify.com/album/6RekeuI1vTT2nkj0RYUFgr"
+      },
+      "artists": [
+        {
+          "name": "\u5b89\u6ea5",
+          "url": "https://open.spotify.com/artist/7m3hJRouj4fFil1ksJDx0I"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186780,
+      "name": "Miss missed Love",
+      "url": "https://open.spotify.com/track/6JJqzLiY0WjdxoJyl0liQN"
     },
     {
       "album": {
@@ -419,7 +455,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-01",
+      "date_removed": null,
       "duration_ms": 276559,
       "name": "\u4e00\u6a23\u7f8e\u9e97 - \u7c89\u7d05\u7d72\u5e36\u5ba3\u5c0e\u6d3b\u52d5\u4e3b\u984c\u66f2",
       "url": "https://open.spotify.com/track/5VuI9PEbkwU2wMD5GAKQLf"
@@ -1443,7 +1479,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-06",
       "duration_ms": 325339,
       "name": "\u611b\u904e\u7684\u4eba",
       "url": "https://open.spotify.com/track/7EIYJLVmsUmmbq40SugYsk"
@@ -1767,7 +1803,7 @@
       ],
       "date_added": "2022-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-10",
       "duration_ms": 202671,
       "name": "\u660e\u5929\u518d\u898b",
       "url": "https://open.spotify.com/track/6B80NMNDIYyA1YbiefVsSE"
@@ -2525,7 +2561,7 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-07",
       "duration_ms": 255891,
       "name": "\u9057\u4e66",
       "url": "https://open.spotify.com/track/3OAus00QiDUhoya5chQ2As"

@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://open.spotify.com/artist/3NbMf2TTL0tcjISP5AFgzf?si=7GfavyvfTIKTXvIxKrVFyw\">Kawahi Leonard</a>",
-  "num_followers": 0,
+  "num_followers": 364,
   "original_name": "Kawahi Leonard's Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDY1ODQwOCwwMDAwMDAwMDE3MjM2NmI5YjRjZTM2MmNiNzQwYjQyZTg3M2YwNTc0",
+  "snapshot_id": "MTY2NDY1ODQwOCwwMDAwMDAwMDczY2YyNzgzNzAwZGU1OGNkYmNlMGYzZTZmNDU3NGMw",
   "tracks": [
     {
       "added_at": "2022-10-01 21:06:48",
@@ -151,22 +151,6 @@
     {
       "added_at": "2022-10-01 21:06:48",
       "album": {
-        "name": "Too Hard",
-        "url": "https://open.spotify.com/album/750APP0eKVlcgOxaZnBnVt"
-      },
-      "artists": [
-        {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
-        }
-      ],
-      "duration_ms": 162053,
-      "name": "Freestyle",
-      "url": "https://open.spotify.com/track/5BbdKBZO0TH0GhfxUfyhL9"
-    },
-    {
-      "added_at": "2022-10-01 21:06:48",
-      "album": {
         "name": "Bandit (with YoungBoy Never Broke Again)",
         "url": "https://open.spotify.com/album/3t6Z2qoBVCS4NHNI25XECH"
       },
@@ -183,26 +167,6 @@
       "duration_ms": 189322,
       "name": "Bandit (with YoungBoy Never Broke Again)",
       "url": "https://open.spotify.com/track/6Gg1gjgKi2AK4e0qzsR7sd"
-    },
-    {
-      "added_at": "2022-10-01 21:06:48",
-      "album": {
-        "name": "All Eyez On Me",
-        "url": "https://open.spotify.com/album/78iX7tMceN0FsnmabAtlOC"
-      },
-      "artists": [
-        {
-          "name": "2Pac",
-          "url": "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
-        },
-        {
-          "name": "Big Syke",
-          "url": "https://open.spotify.com/artist/5J32qSlWzKCdcL31B8wglv"
-        }
-      ],
-      "duration_ms": 307773,
-      "name": "All Eyez On Me (ft. Big Syke)",
-      "url": "https://open.spotify.com/track/4VQNCzfZ3MdHEwwErNXpBo"
     },
     {
       "added_at": "2022-10-01 21:06:48",
@@ -239,6 +203,42 @@
       "duration_ms": 234693,
       "name": "King Kunta",
       "url": "https://open.spotify.com/track/0N3W5peJUQtI4eyR6GJT5O"
+    },
+    {
+      "added_at": "2022-10-01 21:06:48",
+      "album": {
+        "name": "Too Hard",
+        "url": "https://open.spotify.com/album/750APP0eKVlcgOxaZnBnVt"
+      },
+      "artists": [
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "duration_ms": 162053,
+      "name": "Freestyle",
+      "url": "https://open.spotify.com/track/5BbdKBZO0TH0GhfxUfyhL9"
+    },
+    {
+      "added_at": "2022-10-01 21:06:48",
+      "album": {
+        "name": "All Eyez On Me",
+        "url": "https://open.spotify.com/album/78iX7tMceN0FsnmabAtlOC"
+      },
+      "artists": [
+        {
+          "name": "2Pac",
+          "url": "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
+        },
+        {
+          "name": "Big Syke",
+          "url": "https://open.spotify.com/artist/5J32qSlWzKCdcL31B8wglv"
+        }
+      ],
+      "duration_ms": 307773,
+      "name": "All Eyez On Me (ft. Big Syke)",
+      "url": "https://open.spotify.com/track/4VQNCzfZ3MdHEwwErNXpBo"
     },
     {
       "added_at": "2022-10-01 21:06:48",
@@ -427,6 +427,22 @@
     {
       "added_at": "2022-10-01 21:06:48",
       "album": {
+        "name": "Redemption",
+        "url": "https://open.spotify.com/album/4IAMLhL37kMrpByavj25Ne"
+      },
+      "artists": [
+        {
+          "name": "Jay Rock",
+          "url": "https://open.spotify.com/artist/28ExwzUQsvgJooOI0X1mr3"
+        }
+      ],
+      "duration_ms": 215226,
+      "name": "WIN",
+      "url": "https://open.spotify.com/track/69WMdZSqdQwFgLVpbMsZ2J"
+    },
+    {
+      "added_at": "2022-10-01 21:06:48",
+      "album": {
         "name": "Racks in the Middle (feat. Roddy Ricch and Hit-Boy)",
         "url": "https://open.spotify.com/album/6a2c06GAsKigzV53VyzBXk"
       },
@@ -447,22 +463,6 @@
       "duration_ms": 233277,
       "name": "Racks in the Middle (feat. Roddy Ricch and Hit-Boy)",
       "url": "https://open.spotify.com/track/6ya8ejoKgw906Y8LWclqrp"
-    },
-    {
-      "added_at": "2022-10-01 21:06:48",
-      "album": {
-        "name": "Redemption",
-        "url": "https://open.spotify.com/album/4IAMLhL37kMrpByavj25Ne"
-      },
-      "artists": [
-        {
-          "name": "Jay Rock",
-          "url": "https://open.spotify.com/artist/28ExwzUQsvgJooOI0X1mr3"
-        }
-      ],
-      "duration_ms": 215226,
-      "name": "WIN",
-      "url": "https://open.spotify.com/track/69WMdZSqdQwFgLVpbMsZ2J"
     },
     {
       "added_at": "2022-10-01 21:06:48",
@@ -623,6 +623,30 @@
     {
       "added_at": "2022-10-01 21:06:48",
       "album": {
+        "name": "Part Of The Game (feat. NLE Choppa & Rileyy Lanez)",
+        "url": "https://open.spotify.com/album/4U8n0uEGmEvNu2dzCgG8yv"
+      },
+      "artists": [
+        {
+          "name": "50 Cent",
+          "url": "https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh"
+        },
+        {
+          "name": "NLE Choppa",
+          "url": "https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ"
+        },
+        {
+          "name": "Rileyy Lanez",
+          "url": "https://open.spotify.com/artist/1PmrYsZvpVB9ilWx0eZHdr"
+        }
+      ],
+      "duration_ms": 185603,
+      "name": "Part Of The Game (feat. NLE Choppa & Rileyy Lanez)",
+      "url": "https://open.spotify.com/track/58u07iWTstIQrxiCM2GuuA"
+    },
+    {
+      "added_at": "2022-10-01 21:06:48",
+      "album": {
         "name": "Waves",
         "url": "https://open.spotify.com/album/3KgB42cAVjQSMLi8oN90Th"
       },
@@ -727,30 +751,6 @@
       "duration_ms": 261742,
       "name": "Championships",
       "url": "https://open.spotify.com/track/5DTOk0tCrmicVQP4mc6hkr"
-    },
-    {
-      "added_at": "2022-10-01 21:06:48",
-      "album": {
-        "name": "Part Of The Game (feat. NLE Choppa & Rileyy Lanez)",
-        "url": "https://open.spotify.com/album/4U8n0uEGmEvNu2dzCgG8yv"
-      },
-      "artists": [
-        {
-          "name": "50 Cent",
-          "url": "https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh"
-        },
-        {
-          "name": "NLE Choppa",
-          "url": "https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ"
-        },
-        {
-          "name": "Rileyy Lanez",
-          "url": "https://open.spotify.com/artist/1PmrYsZvpVB9ilWx0eZHdr"
-        }
-      ],
-      "duration_ms": 185603,
-      "name": "Part Of The Game (feat. NLE Choppa & Rileyy Lanez)",
-      "url": "https://open.spotify.com/track/58u07iWTstIQrxiCM2GuuA"
     },
     {
       "added_at": "2022-10-01 21:06:48",

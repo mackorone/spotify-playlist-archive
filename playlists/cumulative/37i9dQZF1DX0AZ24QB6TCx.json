@@ -372,6 +372,24 @@
     },
     {
       "album": {
+        "name": "Bloom",
+        "url": "https://open.spotify.com/album/0TSx6t9ZxdVmH4r0kXHLbq"
+      },
+      "artists": [
+        {
+          "name": "Fejk\u00e1",
+          "url": "https://open.spotify.com/artist/0VWvUvjaHaW1OeXtcVISu9"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284600,
+      "name": "Bloom",
+      "url": "https://open.spotify.com/track/2r4Xr6SX8m8KhqQuKFyUmG"
+    },
+    {
+      "album": {
         "name": "Blo\u0301\u00f0",
         "url": "https://open.spotify.com/album/6pB1TTndHh2TUYZuiySCNA"
       },
@@ -649,7 +667,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 328080,
       "name": "Closer",
       "url": "https://open.spotify.com/track/3yS5UQXtnT68AJ3FLaRsIm"
@@ -986,6 +1004,24 @@
     },
     {
       "album": {
+        "name": "11am",
+        "url": "https://open.spotify.com/album/6O7SMt9EaEj5ReO3qmvpU7"
+      },
+      "artists": [
+        {
+          "name": "Duke Boara",
+          "url": "https://open.spotify.com/artist/6EL8x2zkCRGzb32jvrSI56"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253500,
+      "name": "Evergreen",
+      "url": "https://open.spotify.com/track/5uDNFpDhvw65Jwc7F4UJJg"
+    },
+    {
+      "album": {
         "name": "Eye of the Storm",
         "url": "https://open.spotify.com/album/61I90KD5xtxdSutb8LJxCw"
       },
@@ -1179,6 +1215,24 @@
       "duration_ms": 228196,
       "name": "Firmoral",
       "url": "https://open.spotify.com/track/4o2LMdyunFhlVlDacprnUQ"
+    },
+    {
+      "album": {
+        "name": "Fjord",
+        "url": "https://open.spotify.com/album/2XXMsYAGzFFWXjX0dbTtaS"
+      },
+      "artists": [
+        {
+          "name": "p\u00f8laroit",
+          "url": "https://open.spotify.com/artist/3B1BQHf6ExWixwqy9zRDZm"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-10",
+      "duration_ms": 250169,
+      "name": "Fjord",
+      "url": "https://open.spotify.com/track/0wCQhh8ltakGjamI3nVcAG"
     },
     {
       "album": {
@@ -1417,7 +1471,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-01",
+      "date_removed": null,
       "duration_ms": 363889,
       "name": "Goodbye",
       "url": "https://open.spotify.com/track/122Q96pdQ0hlfbgDzcxndg"
@@ -1665,7 +1719,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 303589,
       "name": "Hit the Ground",
       "url": "https://open.spotify.com/track/0YwbBYU3F1hUpYA0A4UINq"
@@ -2347,7 +2401,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 219883,
       "name": "Lovesongs & Sextapes",
       "url": "https://open.spotify.com/track/55aN9PYGmV8BEEzGFUeFji"
@@ -2423,7 +2477,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-01",
+      "date_removed": null,
       "duration_ms": 304753,
       "name": "Message",
       "url": "https://open.spotify.com/track/6jtw8sBH0NCmFw7x94s5DF"
@@ -2525,7 +2579,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-01",
+      "date_removed": null,
       "duration_ms": 438533,
       "name": "Neunivai - Original Mix",
       "url": "https://open.spotify.com/track/3S8gi2Vq1t8bKysBJ4783m"
@@ -2601,7 +2655,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 252000,
       "name": "No Goodbye",
       "url": "https://open.spotify.com/track/3hSWPdtI58IANIOhulRR7v"
@@ -3399,7 +3453,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 451476,
       "name": "Sanguinaria feat. Kalipo",
       "url": "https://open.spotify.com/track/1S6nqvt7LMJG1gmsOUIrUm"
@@ -3479,7 +3533,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-30",
+      "date_removed": null,
       "duration_ms": 268434,
       "name": "Silence & Secrets",
       "url": "https://open.spotify.com/track/05S0KvoffEaOwYbCv4y08e"
@@ -3519,7 +3573,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-06",
       "duration_ms": 486137,
       "name": "Solar Detroit",
       "url": "https://open.spotify.com/track/0HU2SnFrXnHIb72dR0P26n"

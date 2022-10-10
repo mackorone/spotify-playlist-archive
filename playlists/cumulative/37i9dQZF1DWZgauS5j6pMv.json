@@ -815,7 +815,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 121731,
       "name": "Coconut Oil",
       "url": "https://open.spotify.com/track/54C1z2GOnf08ZCykqMBiYc"
@@ -3681,7 +3681,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 252725,
       "name": "The Fool",
       "url": "https://open.spotify.com/track/6efz8T0xsDossM5PEXxEqf"
@@ -3813,6 +3813,28 @@
       "duration_ms": 252306,
       "name": "This Vibe",
       "url": "https://open.spotify.com/track/1Y9z7IqlSnet2A5raxs22e"
+    },
+    {
+      "album": {
+        "name": "Thousand Knives - Thundercat Remodel",
+        "url": "https://open.spotify.com/album/2QiROj647TO8FCCoKoojnA"
+      },
+      "artists": [
+        {
+          "name": "Ryuichi Sakamoto",
+          "url": "https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA"
+        },
+        {
+          "name": "Thundercat",
+          "url": "https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 326413,
+      "name": "Thousand Knives - Thundercat Remodel",
+      "url": "https://open.spotify.com/track/3yJ57qr7LOU4cauQQwe50N"
     },
     {
       "album": {
@@ -4281,6 +4303,24 @@
       "duration_ms": 185375,
       "name": "Worthy",
       "url": "https://open.spotify.com/track/0L4Wp1wN1MFPvLvwgHQhIO"
+    },
+    {
+      "album": {
+        "name": "YeahYeahYeah",
+        "url": "https://open.spotify.com/album/3Js1lqJTK5j3fZaZGOixPU"
+      },
+      "artists": [
+        {
+          "name": "Candy Dulfer",
+          "url": "https://open.spotify.com/artist/287jMoxHzjERgHI6ja8TKa"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 317173,
+      "name": "YeahYeahYeah",
+      "url": "https://open.spotify.com/track/7vipNil0y3l3idt9cM3ehi"
     },
     {
       "album": {

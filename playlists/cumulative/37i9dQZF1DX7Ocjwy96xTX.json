@@ -224,6 +224,24 @@
     },
     {
       "album": {
+        "name": "Catch The Waves",
+        "url": "https://open.spotify.com/album/3nUOd3hYpLCDfgLLRI69oS"
+      },
+      "artists": [
+        {
+          "name": "T. Rexico",
+          "url": "https://open.spotify.com/artist/6Trc447dn0TAUcOfVWdex4"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190000,
+      "name": "Catch The Waves",
+      "url": "https://open.spotify.com/track/4i3zTyBJaFV6AosZzzL0cj"
+    },
+    {
+      "album": {
         "name": "Adorn",
         "url": "https://open.spotify.com/album/47TWRNJhxMuIBOOc9RJ5LQ"
       },
@@ -350,6 +368,24 @@
     },
     {
       "album": {
+        "name": "Unknown Pleasures (Collector's Edition)",
+        "url": "https://open.spotify.com/album/33qkK1brpt6t8unIpeM2Oy"
+      },
+      "artists": [
+        {
+          "name": "Joy Division",
+          "url": "https://open.spotify.com/artist/432R46LaYsJZV2Gmc4jUV5"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209039,
+      "name": "Disorder - 2007 Remaster",
+      "url": "https://open.spotify.com/track/5fbQCQt91LsVgXusFS0CCD"
+    },
+    {
+      "album": {
         "name": "Dream, Ivory",
         "url": "https://open.spotify.com/album/5j8NY7Vv3mJbbjOjHImyQY"
       },
@@ -383,6 +419,24 @@
       "duration_ms": 105490,
       "name": "Drifting Away",
       "url": "https://open.spotify.com/track/2pd9iAJGxExQnAWfWEl9fW"
+    },
+    {
+      "album": {
+        "name": "Euphoria (where were you?)",
+        "url": "https://open.spotify.com/album/3DOTGWg00u63y5nXz5TEaG"
+      },
+      "artists": [
+        {
+          "name": "Love Is Noise",
+          "url": "https://open.spotify.com/artist/4qY6XGFQwZubu0oKBJeVki"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 328202,
+      "name": "Euphoria (where were you?)",
+      "url": "https://open.spotify.com/track/0ydapNPxo7yMHrM1AeRu4j"
     },
     {
       "album": {
@@ -577,10 +631,28 @@
       ],
       "date_added": "2022-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-07",
       "duration_ms": 242484,
       "name": "Here With Me",
       "url": "https://open.spotify.com/track/4U4h7WNNyvhpdaDgHSdD4j"
+    },
+    {
+      "album": {
+        "name": "Here With Me",
+        "url": "https://open.spotify.com/album/0OuoHWf8yB0TPzoBWw1R1S"
+      },
+      "artists": [
+        {
+          "name": "d4vd",
+          "url": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242484,
+      "name": "Here With Me",
+      "url": "https://open.spotify.com/track/78Sw5GDo6AlGwTwanjXbGh"
     },
     {
       "album": {
@@ -783,7 +855,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 244946,
       "name": "Lemon Glow",
       "url": "https://open.spotify.com/track/6NLRMu1qF1kJQnntDNWDmy"
@@ -859,6 +931,24 @@
       "duration_ms": 258413,
       "name": "Nightcall",
       "url": "https://open.spotify.com/track/0U0ldCRmgCqhVvD6ksG63j"
+    },
+    {
+      "album": {
+        "name": "AM",
+        "url": "https://open.spotify.com/album/78bpIziExqiI9qztvNFlQu"
+      },
+      "artists": [
+        {
+          "name": "Arctic Monkeys",
+          "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
+        }
+      ],
+      "date_added": "2022-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243131,
+      "name": "No. 1 Party Anthem",
+      "url": "https://open.spotify.com/track/5TTGoX70AFrTvuEtqHK37S"
     },
     {
       "album": {
@@ -1273,7 +1363,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-17",
+      "date_removed": null,
       "duration_ms": 219453,
       "name": "Wildflower",
       "url": "https://open.spotify.com/track/24bzJwjGBWtGCs7xKIKQsB"

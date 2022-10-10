@@ -4,7 +4,7 @@
 
 > Sophisticated palates only\. Curated by: <a href="https://www.instagram.com/blaircaldwell/">Blair Caldwell</a>
 
-50 songs - 3 hr 27 min - not published yet
+50 songs - 3 hr 27 min - [published](https://open.spotify.com/playlist/07nT8ckP9VeZC8g4JDfHai)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

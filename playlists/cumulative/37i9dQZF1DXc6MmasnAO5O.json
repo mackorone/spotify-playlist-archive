@@ -239,10 +239,28 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-06",
       "duration_ms": 124000,
       "name": "Hallucinations - Mixed",
       "url": "https://open.spotify.com/track/0jnch4H8IbjbkgDJYh03I5"
+    },
+    {
+      "album": {
+        "name": "Hallucinations (Mixed)",
+        "url": "https://open.spotify.com/album/1WUMh9v8sW2S2OeqtQQJWg"
+      },
+      "artists": [
+        {
+          "name": "Dave Winnel",
+          "url": "https://open.spotify.com/artist/1K80Wcuuo13i28cVd68mxm"
+        }
+      ],
+      "date_added": "2022-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124000,
+      "name": "Hallucinations - Mixed",
+      "url": "https://open.spotify.com/track/25qVz448auOcbIgphQI5iY"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTR7abB7Ji7.md) - [plain]
 
 > The perfect classical accompaniment to your wedding day; elegant background music for seating guests, walking down the aisle or cocktail hour.
 
-[Spotify](https://open.spotify.com/user/spotify) - 99,021 likes - 37 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 99,644 likes - 37 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

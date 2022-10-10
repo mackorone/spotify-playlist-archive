@@ -8,6 +8,24 @@
   "tracks": [
     {
       "album": {
+        "name": "1990s Drunk",
+        "url": "https://open.spotify.com/album/4T7NUH0KI8yXRcCrgs0Doz"
+      },
+      "artists": [
+        {
+          "name": "Mario Flores",
+          "url": "https://open.spotify.com/artist/2xUSUDfwQAxQq9WEal8sId"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178356,
+      "name": "1990s Drunk",
+      "url": "https://open.spotify.com/track/70DLKdtq1mq4UT05jnXh8Z"
+    },
+    {
+      "album": {
         "name": "506",
         "url": "https://open.spotify.com/album/38coX6excq4obQR4Z7sww7"
       },
@@ -1699,6 +1717,24 @@
       "duration_ms": 279786,
       "name": "Texas Swing (with Squeezebox Bandits & Jessica Roadcap)",
       "url": "https://open.spotify.com/track/2yfzrPr0hBXLNFSbSBftj4"
+    },
+    {
+      "album": {
+        "name": "Tex Flex",
+        "url": "https://open.spotify.com/album/4BEnJ4m3oTjGbFWfhdb0VI"
+      },
+      "artists": [
+        {
+          "name": "The Last Bandoleros",
+          "url": "https://open.spotify.com/artist/3Zk03qhmFLepNYW2atWkmE"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177414,
+      "name": "That Kind of Cowboy",
+      "url": "https://open.spotify.com/track/18ZH8MilaP3O2FVZhb0JYO"
     },
     {
       "album": {

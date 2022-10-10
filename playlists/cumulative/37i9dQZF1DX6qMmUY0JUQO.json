@@ -991,6 +991,24 @@
     {
       "album": {
         "name": "I Have a Question",
+        "url": "https://open.spotify.com/album/4LX7G0ldbZDlJPBZGOhPW5"
+      },
+      "artists": [
+        {
+          "name": "K-Hand",
+          "url": "https://open.spotify.com/artist/0qWuk2qgRK2HNKYxqbIn5G"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 361402,
+      "name": "Sound 6",
+      "url": "https://open.spotify.com/track/1YNgwOjLp0zJWf4qJwQe4l"
+    },
+    {
+      "album": {
+        "name": "I Have a Question",
         "url": "https://open.spotify.com/album/4sSqDINTJ5OtTEHM9dVgmI"
       },
       "artists": [
@@ -1149,7 +1167,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-09",
       "duration_ms": 301200,
       "name": "Together Again",
       "url": "https://open.spotify.com/track/1GrikfH0jDejDvrxo84n4P"

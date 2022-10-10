@@ -1,13 +1,45 @@
 {
-  "description": "A little bit of pop, a little bit of rap. Cover: Yung Gravy",
-  "num_followers": 170991,
+  "description": "A little bit of pop, a little bit of rap. Cover: charlieonnafriday",
+  "num_followers": 171808,
   "original_name": "Varsity Bars",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDUxNjA0MCwwMDAwMDAwMGFiNmY5MjkxNWViYzYxZWYxYThhNjMwNjFiZTliYjMw",
+  "snapshot_id": "MTY2NTExNTMyMCwwMDAwMDAwMDIwNDdhMjNkNzRhYzY3MWY3NTdkYjhmOTUxOTU4MTI5",
   "tracks": [
+    {
+      "added_at": "2022-09-09 04:00:00",
+      "album": {
+        "name": "Enough",
+        "url": "https://open.spotify.com/album/1fw8J18rs7te12Bj1UxAUo"
+      },
+      "artists": [
+        {
+          "name": "charlieonnafriday",
+          "url": "https://open.spotify.com/artist/1hmTCch4tWOJmdqkf8nSRA"
+        }
+      ],
+      "duration_ms": 185266,
+      "name": "Enough",
+      "url": "https://open.spotify.com/track/4vuVzf7BIZhDAFm3TB0Tzy"
+    },
+    {
+      "added_at": "2022-10-07 04:02:00",
+      "album": {
+        "name": "Favorite Hoodie",
+        "url": "https://open.spotify.com/album/4q885P1HRolf3Gr8whgGt2"
+      },
+      "artists": [
+        {
+          "name": "Nic D",
+          "url": "https://open.spotify.com/artist/1XlLhtgJjC4ROQZilBZAvw"
+        }
+      ],
+      "duration_ms": 113188,
+      "name": "Favorite Hoodie",
+      "url": "https://open.spotify.com/track/7si7Q6h3MSuTpRJ6v9e0Py"
+    },
     {
       "added_at": "2022-09-23 04:14:00",
       "album": {
@@ -33,6 +65,22 @@
       "url": "https://open.spotify.com/track/0cgy8EueqwMuYzOZrW5vPB"
     },
     {
+      "added_at": "2022-09-09 04:00:00",
+      "album": {
+        "name": "age tape 8",
+        "url": "https://open.spotify.com/album/5cYaUdDHrHhOIsTlHU9Tbk"
+      },
+      "artists": [
+        {
+          "name": "Arden Jones",
+          "url": "https://open.spotify.com/artist/3mMogqf2JyBUQZxFZlC79w"
+        }
+      ],
+      "duration_ms": 177230,
+      "name": "mr. sunshine",
+      "url": "https://open.spotify.com/track/6x984mI891z1E2sVwYumUx"
+    },
+    {
       "added_at": "2022-09-30 05:34:00",
       "album": {
         "name": "numb (feat. blackbear)",
@@ -53,6 +101,38 @@
       "url": "https://open.spotify.com/track/05UKPuq9D7C6YDaps38ReU"
     },
     {
+      "added_at": "2022-10-07 04:02:00",
+      "album": {
+        "name": "Diamonds",
+        "url": "https://open.spotify.com/album/0IzUNWsQuZPVncXMMx25AN"
+      },
+      "artists": [
+        {
+          "name": "Kid Travis",
+          "url": "https://open.spotify.com/artist/6UWui6Csqc1ywqnDzjOWnk"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Diamonds",
+      "url": "https://open.spotify.com/track/1PMCaOsItHt7Wc02FCdpdv"
+    },
+    {
+      "added_at": "2022-10-07 04:02:00",
+      "album": {
+        "name": "Excuse Me",
+        "url": "https://open.spotify.com/album/5fkjcxPbrRsPGruhqix8pF"
+      },
+      "artists": [
+        {
+          "name": "Allday",
+          "url": "https://open.spotify.com/artist/2Ltr0s15RyvsjqWzSmiSRs"
+        }
+      ],
+      "duration_ms": 199921,
+      "name": "Splash",
+      "url": "https://open.spotify.com/track/56K7o58HvDoJW9ABFhJrmR"
+    },
+    {
       "added_at": "2022-09-30 05:34:00",
       "album": {
         "name": "stupid i miss u",
@@ -71,22 +151,6 @@
     {
       "added_at": "2022-09-09 04:00:00",
       "album": {
-        "name": "age tape 8",
-        "url": "https://open.spotify.com/album/5cYaUdDHrHhOIsTlHU9Tbk"
-      },
-      "artists": [
-        {
-          "name": "Arden Jones",
-          "url": "https://open.spotify.com/artist/3mMogqf2JyBUQZxFZlC79w"
-        }
-      ],
-      "duration_ms": 177230,
-      "name": "mr. sunshine",
-      "url": "https://open.spotify.com/track/6x984mI891z1E2sVwYumUx"
-    },
-    {
-      "added_at": "2022-09-09 04:00:00",
-      "album": {
         "name": "leave me",
         "url": "https://open.spotify.com/album/68002qOu8hxM87YLHG7Bo5"
       },
@@ -101,40 +165,20 @@
       "url": "https://open.spotify.com/track/0vrDGR5ZjdDIBUuDep6yXT"
     },
     {
-      "added_at": "2022-09-30 05:34:00",
+      "added_at": "2022-09-09 04:00:00",
       "album": {
-        "name": "When I Get Lonely",
-        "url": "https://open.spotify.com/album/13FMlTKRNL5akAlum5tc5O"
+        "name": "Tripping Over Air",
+        "url": "https://open.spotify.com/album/6ZJonF00gkXNSTSI2PwyrC"
       },
       "artists": [
         {
-          "name": "WizTheMc",
-          "url": "https://open.spotify.com/artist/3ebS2RuCq8QeLyndUDmgB5"
+          "name": "Aidan Bissett",
+          "url": "https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe"
         }
       ],
-      "duration_ms": 141062,
-      "name": "When I Get Lonely",
-      "url": "https://open.spotify.com/track/1d4c9HSOY8hy5krzdKxEyh"
-    },
-    {
-      "added_at": "2022-09-23 04:14:00",
-      "album": {
-        "name": "Lalala",
-        "url": "https://open.spotify.com/album/4WlC4FXhonJhNTXCQPGP3r"
-      },
-      "artists": [
-        {
-          "name": "Y2K",
-          "url": "https://open.spotify.com/artist/6USMTwO0MNDnKte5a5h0xx"
-        },
-        {
-          "name": "bbno$",
-          "url": "https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz"
-        }
-      ],
-      "duration_ms": 160626,
-      "name": "Lalala",
-      "url": "https://open.spotify.com/track/51Fjme0JiitpyXKuyQiCDo"
+      "duration_ms": 182382,
+      "name": "Tripping Over Air",
+      "url": "https://open.spotify.com/track/7mzPAftljnsFmU6131Pqcd"
     },
     {
       "added_at": "2022-09-09 04:00:00",
@@ -173,20 +217,20 @@
       "url": "https://open.spotify.com/track/7p4vHnYXkxlzvfePJVpcTr"
     },
     {
-      "added_at": "2022-09-09 04:00:00",
+      "added_at": "2022-09-30 05:34:00",
       "album": {
-        "name": "Tripping Over Air",
-        "url": "https://open.spotify.com/album/6ZJonF00gkXNSTSI2PwyrC"
+        "name": "When I Get Lonely",
+        "url": "https://open.spotify.com/album/13FMlTKRNL5akAlum5tc5O"
       },
       "artists": [
         {
-          "name": "Aidan Bissett",
-          "url": "https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe"
+          "name": "WizTheMc",
+          "url": "https://open.spotify.com/artist/3ebS2RuCq8QeLyndUDmgB5"
         }
       ],
-      "duration_ms": 182382,
-      "name": "Tripping Over Air",
-      "url": "https://open.spotify.com/track/7mzPAftljnsFmU6131Pqcd"
+      "duration_ms": 141062,
+      "name": "When I Get Lonely",
+      "url": "https://open.spotify.com/track/1d4c9HSOY8hy5krzdKxEyh"
     },
     {
       "added_at": "2022-09-23 04:14:00",
@@ -219,26 +263,6 @@
       "duration_ms": 115074,
       "name": "i'm scared",
       "url": "https://open.spotify.com/track/2lfKrToxQQ4oFZcBv0ZjeQ"
-    },
-    {
-      "added_at": "2022-09-09 04:00:00",
-      "album": {
-        "name": "Eric B for President: Term 1",
-        "url": "https://open.spotify.com/album/7KNNWIPBk4Josbqhfa2KI3"
-      },
-      "artists": [
-        {
-          "name": "Eric Bellinger",
-          "url": "https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9"
-        },
-        {
-          "name": "Aroc!",
-          "url": "https://open.spotify.com/artist/0uT3QSrGqBESB5s0XMa3WK"
-        }
-      ],
-      "duration_ms": 184905,
-      "name": "G.O.A.T.",
-      "url": "https://open.spotify.com/track/0hUepWE4GoMwtKgU8vE617"
     },
     {
       "added_at": "2022-09-16 04:01:00",
@@ -371,22 +395,6 @@
       "duration_ms": 186815,
       "name": "Manners",
       "url": "https://open.spotify.com/track/4YnKb0qfI6j56S0UiaewIC"
-    },
-    {
-      "added_at": "2022-09-09 04:00:00",
-      "album": {
-        "name": "Enough",
-        "url": "https://open.spotify.com/album/1fw8J18rs7te12Bj1UxAUo"
-      },
-      "artists": [
-        {
-          "name": "charlieonnafriday",
-          "url": "https://open.spotify.com/artist/1hmTCch4tWOJmdqkf8nSRA"
-        }
-      ],
-      "duration_ms": 185266,
-      "name": "Enough",
-      "url": "https://open.spotify.com/track/4vuVzf7BIZhDAFm3TB0Tzy"
     },
     {
       "added_at": "2022-09-09 04:00:00",
@@ -795,22 +803,6 @@
       "duration_ms": 162793,
       "name": "High 4 U",
       "url": "https://open.spotify.com/track/4i4JycD1WDecXoRW5j41Ge"
-    },
-    {
-      "added_at": "2022-09-09 04:00:00",
-      "album": {
-        "name": "summer&cigarettes",
-        "url": "https://open.spotify.com/album/4vCGpIf0GvirxT9kdtmaH6"
-      },
-      "artists": [
-        {
-          "name": "sammy rash",
-          "url": "https://open.spotify.com/artist/0yXuo2N8r6dzzGgnLNLGZm"
-        }
-      ],
-      "duration_ms": 114427,
-      "name": "summer&cigarettes",
-      "url": "https://open.spotify.com/track/5PmtPTXrLqgqQfqngsUqZp"
     },
     {
       "added_at": "2022-09-09 04:00:00",
@@ -1696,11 +1688,11 @@
       },
       "artists": [
         {
-          "name": "Mishaal",
-          "url": "https://open.spotify.com/artist/2NM1t8dMvgeu9Lfl06574g"
+          "name": "Mishaal Tamer",
+          "url": "https://open.spotify.com/artist/5qApOyCrlrukY4oYmYGeCo"
         }
       ],
-      "duration_ms": 218130,
+      "duration_ms": 220432,
       "name": "Sad Baby",
       "url": "https://open.spotify.com/track/6yDO6Sc8BqeAKruur5601B"
     },

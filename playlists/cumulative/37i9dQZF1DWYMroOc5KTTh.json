@@ -1873,7 +1873,7 @@
       ],
       "date_added": "2022-04-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-30",
+      "date_removed": "2022-10-08",
       "duration_ms": 243945,
       "name": "Dopamine",
       "url": "https://open.spotify.com/track/4sFyLyuJOUVMDcaSg1oHEa"
@@ -3383,6 +3383,24 @@
       "duration_ms": 192001,
       "name": "I Felt Love",
       "url": "https://open.spotify.com/track/1UTOFiZGQP0ACga5yDUf5h"
+    },
+    {
+      "album": {
+        "name": "Under 1 House",
+        "url": "https://open.spotify.com/album/1PkQpn0KN9pJhKfzJQejjv"
+      },
+      "artists": [
+        {
+          "name": "Blue Hawaii",
+          "url": "https://open.spotify.com/artist/41y1iPh0WqB7tyGdzyeinZ"
+        }
+      ],
+      "date_added": "2022-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192001,
+      "name": "I Felt Love",
+      "url": "https://open.spotify.com/track/3m04gMIUG6HgYHn65fy5Xt"
     },
     {
       "album": {
@@ -5895,7 +5913,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-04",
       "duration_ms": 177725,
       "name": "Recap (with VanJess & Channel Tres)",
       "url": "https://open.spotify.com/track/2m3RjRXib3un5AEh08k8Fe"

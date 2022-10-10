@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1YGlW3ovCv9Vek4CPnV0mZ.md) - [plain]
 
 > There's no greater feeling than love, which means that it requires great music\. Here is a collection of some of the most breathtaking ballads about love.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,443 likes - 41 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,444 likes - 41 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

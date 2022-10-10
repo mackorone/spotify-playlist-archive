@@ -4,7 +4,7 @@
 
 > In partnership with <a href="https://goldhouse.org/">Gold House</a>, we are excited to announce our first Gold House Future Music Guild artists: Anik Khan, Ruby Ibarra & thuy.
 
-108 songs - 5 hr 51 min - [published](https://open.spotify.com/playlist/2n58AkW0NzesqkPrbAAmqS)
+109 songs - 5 hr 54 min - [published](https://open.spotify.com/playlist/2n58AkW0NzesqkPrbAAmqS)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,8 @@
 | [All I Wanna Do](https://open.spotify.com/track/2PcJoVkfjcbvoqBxV1Nj7y) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [EVERYTHING YOU WANTED](https://open.spotify.com/album/0c4LKBzh0ufU36AyuzZRc2) | 3:29 | 2022-05-18 | 2022-07-13 |
 | [ANGOSTURA](https://open.spotify.com/track/38umMmZQdeoOG7Zojor4g3) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [GABRIEL](https://open.spotify.com/album/1WVIJaAboRSwJOe4u0n0Q7) | 2:51 | 2022-07-12 |  |
 | [Any song](https://open.spotify.com/track/1iIhGHzzrzqQfuNkFI2qAn) | [ZICO](https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0) | [Any song](https://open.spotify.com/album/7LYZM7I172wUjIKjCnxuAQ) | 3:47 | 2022-05-18 | 2022-07-13 |
-| [Anyone Else But You](https://open.spotify.com/track/7dYof5SM0zM3MnraaF53qj) | [Anthony de la Torre](https://open.spotify.com/artist/6dxbsVBLykNgOpP0DxjMR4), [Lana Condor](https://open.spotify.com/artist/4KdW7TLVWFkxlsCBQ0VTRc) | [Anyone Else But You](https://open.spotify.com/album/1d2tQ6FEL3ZYGLZQTOYVXM) | 2:49 | 2022-07-12 |  |
+| [Anyone Else But You](https://open.spotify.com/track/4IBsj7ouiYgkKhaJnBCTXE) | [Anthony de la Torre](https://open.spotify.com/artist/6dxbsVBLykNgOpP0DxjMR4), [Lana Condor](https://open.spotify.com/artist/4KdW7TLVWFkxlsCBQ0VTRc) | [Anyone Else But You](https://open.spotify.com/album/4qT57u3gSvIXaWGtInIp60) | 2:49 | 2022-07-12 |  |
+| [Anyone Else But You](https://open.spotify.com/track/7dYof5SM0zM3MnraaF53qj) | [Anthony de la Torre](https://open.spotify.com/artist/6dxbsVBLykNgOpP0DxjMR4), [Lana Condor](https://open.spotify.com/artist/4KdW7TLVWFkxlsCBQ0VTRc) | [Anyone Else But You](https://open.spotify.com/album/1d2tQ6FEL3ZYGLZQTOYVXM) | 2:49 | 2022-07-12 | 2022-10-06 |
 | [Be Sweet](https://open.spotify.com/track/0dpyzcT3RMNNSd2xKBf35I) | [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw) | [Jubilee](https://open.spotify.com/album/1uD1kdwTWH1DZQZqGKz6rY) | 3:15 | 2022-05-18 |  |
 | [Beg For You \(A\. G\. Cook & VERNON OF SEVENTEEN Remix\) \[feat\. Rina Sawayama\]](https://open.spotify.com/track/3teT4GffWtZUYQVmUwL14d) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [A\. G\. Cook](https://open.spotify.com/artist/335TWGWGFan4vaacJzSiU8), [VERNON](https://open.spotify.com/artist/2Y34b9AOK30zXgL7cAH4NG), [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [Beg For You \(A\. G\. Cook & VERNON OF SEVENTEEN Remix\) \[feat\. Rina Sawayama\]](https://open.spotify.com/album/6snPKZGUbpydW2XJu9ievq) | 4:09 | 2022-05-18 | 2022-07-13 |
 | [Beg For You \(feat\. Rina Sawayama\)](https://open.spotify.com/track/50ZFpw2wS6ERvLmW8TINhq) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [Beg For You \(feat\. Rina Sawayama\)](https://open.spotify.com/album/0ffmwwS9EBmpLAgjblX75O) | 2:48 | 2022-07-12 |  |

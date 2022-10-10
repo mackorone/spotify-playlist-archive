@@ -4,7 +4,7 @@
 
 > Soothing ASMR whispers to help you drift off to sleep\. Slow, soft and calming.
 
-60 songs - 5 hr 3 min - [published](https://open.spotify.com/playlist/0WpRCwnHLqwwOEdSsL7BjN)
+62 songs - 5 hr 10 min - [published](https://open.spotify.com/playlist/0WpRCwnHLqwwOEdSsL7BjN)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [Audio on Spotify, Surfshark](https://open.spotify.com/track/0yxwH0oTxs7ClQvIwBTBni) | [ASMR Leedah](https://open.spotify.com/artist/0XQbeslDTzykLqIp5PzQiS) | [Shh it's Ok, Relax and Ramble \(Personal Attention/Affirmation\)](https://open.spotify.com/album/2jHbhWnHRu1jfYtEiBBMMX) | 10:42 | 2021-11-12 |  |
 | [Blowing Air](https://open.spotify.com/track/79NIaixDTBEYbQK5dO8aF1) | [Chloe C ASMR](https://open.spotify.com/artist/0qLW4QW8EMXTxjBph3jY4q) | [Tapping and Crinkling](https://open.spotify.com/album/3KBp6agI6ObJbX1wR063Vr) | 3:24 | 2022-05-13 |  |
 | [Brain Melting Sleep Treatment Pt.1](https://open.spotify.com/track/0EqQ9Z5oY0kP2Di8lqzOKa) | [Tingting ASMR](https://open.spotify.com/artist/3v11hexW8sJ3Jfs9ft4xWw) | [Brain Melting Sleep Treatment](https://open.spotify.com/album/6bSao7wQTkf1e3lENdSo7w) | 6:29 | 2021-11-12 |  |
+| [Breathing in and out](https://open.spotify.com/track/6OZybUR2WHyUhVsYLNZM7t) | [Laura Love ASMR](https://open.spotify.com/artist/6c7yzb478ujKAlv9YjD6tn) | [Laura Says ASMR](https://open.spotify.com/album/6JYFd9CyapuZglFmStXsE8) | 4:04 | 2022-10-07 |  |
 | [Close Ear to Ear Whispered Countdown to Sleep Pt.2](https://open.spotify.com/track/1volF5Eo78NkxftiB0pg75) | [HeatheredEffect ASMR](https://open.spotify.com/artist/11uBB2l2Ne1rZCyS1xnv1L) | [Close Ear to Ear Whispered Countdown to Sleep](https://open.spotify.com/album/4PsZcKftdyDZcTGFhU9OLk) | 4:56 | 2021-11-12 |  |
 | [Close Ear to Ear Whispered Countdown to Sleep Pt.4](https://open.spotify.com/track/4SizL2yMtF5wkXMuYh1edR) | [HeatheredEffect ASMR](https://open.spotify.com/artist/11uBB2l2Ne1rZCyS1xnv1L) | [Close Ear to Ear Whispered Countdown to Sleep](https://open.spotify.com/album/4PsZcKftdyDZcTGFhU9OLk) | 4:39 | 2021-11-12 |  |
 | [Cozy Low\-Light Pt.4](https://open.spotify.com/track/16hoz3j0hMPDMJYv659kPq) | [Goodnight Moon ASMR](https://open.spotify.com/artist/2suw8cZRpUiapwhFP8tASj) | [Cozy Low\-Light](https://open.spotify.com/album/4ycfXJlHSIT4JeosgjGcMb) | 7:50 | 2021-11-12 |  |
@@ -33,6 +34,7 @@
 | [It's Just You and Me](https://open.spotify.com/track/1E15ykxdCHlUENEsqIOe7K) | [ASMR Cherry Crush](https://open.spotify.com/artist/2uzryD0DeQtZbdGBdSiK8z) | [Let's Fall Asleep Together](https://open.spotify.com/album/4MDMFBvoD63cpWzPhYOWPW) | 3:38 | 2022-07-21 |  |
 | [It's Just You and Me](https://open.spotify.com/track/7AmkjYnKthAdWlsisckn75) | [ASMR Cherry Crush](https://open.spotify.com/artist/2uzryD0DeQtZbdGBdSiK8z) | [Let's Fall Asleep Together](https://open.spotify.com/album/5CRBoC6jLGPsxOpkcxKVRz) | 3:38 | 2021-11-12 | 2022-07-29 |
 | [KKW Beauty Unboxing, Pt\. 1](https://open.spotify.com/track/69m3nD9Ju1Vo4rXxjfZrfr) | [Chynaunique ASMR](https://open.spotify.com/artist/6Z9u1ESUuHk9m66KVYFZa6) | [KKW Beauty Unboxing](https://open.spotify.com/album/1FwLj8SygHzhFh660eZBn7) | 1:54 | 2021-11-12 |  |
+| [Laura Says ASMR](https://open.spotify.com/track/4kHSEjGLEJBBD6DROwKkVp) | [Laura Love ASMR](https://open.spotify.com/artist/6c7yzb478ujKAlv9YjD6tn) | [Laura Says ASMR](https://open.spotify.com/album/6JYFd9CyapuZglFmStXsE8) | 3:44 | 2022-10-07 |  |
 | [Liquid Bubble Hourglass & Whispering, Pt\. 4](https://open.spotify.com/track/4MoJG4kECK0KoPMPNbnLmL) | [ASMR Art of Sound](https://open.spotify.com/artist/0M5HJZlCxSmeQUESaJ7up3) | [3Dio Ear Touching ASMR \- Liquid Bubble Hourglass](https://open.spotify.com/album/7npzqkuDloJNEyEgxcy6yj) | 4:22 | 2021-11-12 | 2022-07-13 |
 | [Making Your Eyes Heavy](https://open.spotify.com/track/01Zuq3xB12zBwqfbPT55r8) | [fastASMR](https://open.spotify.com/artist/56Il8oV0mbdnHbOimlgy6v) | [Sounds To Help You Sleep in 15 Minutes](https://open.spotify.com/album/7FBQgbJXAqYIQGvrHWsF3j) | 5:02 | 2021-11-12 |  |
 | [Measuring and Examining Your Face Pt.1](https://open.spotify.com/track/5Cru2U6APr3JQGW9cArjBf) | [Catplant ASMR](https://open.spotify.com/artist/5qw3MMovQQEq4URS46Ij5C) | [Measuring and Examining Your Face](https://open.spotify.com/album/3vV3eFCUvQ4grVD3o4KMg4) | 6:16 | 2021-11-12 |  |

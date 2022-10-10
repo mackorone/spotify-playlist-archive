@@ -8,6 +8,24 @@
   "tracks": [
     {
       "album": {
+        "name": "Brindo",
+        "url": "https://open.spotify.com/album/39BGT0v33s4yMplCSCILeI"
+      },
+      "artists": [
+        {
+          "name": "Marca MP",
+          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
+        }
+      ],
+      "date_added": "2022-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185568,
+      "name": "24/7",
+      "url": "https://open.spotify.com/track/3JNUs18dkIO6sNRSdCaMKd"
+    },
+    {
+      "album": {
         "name": "Las Preferidas, Vol. 5 (En vivo)",
         "url": "https://open.spotify.com/album/6ERihYOfcsvTucjGuBXuI7"
       },
@@ -149,7 +167,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-01",
+      "date_removed": "2022-10-09",
       "duration_ms": 102816,
       "name": "Como Hueso",
       "url": "https://open.spotify.com/track/7eoxbqx7fRSCj6zjwm6rnk"
@@ -1065,7 +1083,7 @@
       ],
       "date_added": "2022-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 184680,
       "name": "Tengo Con Que",
       "url": "https://open.spotify.com/track/6Gv2GDFZzmhK6b82lUwjhG"

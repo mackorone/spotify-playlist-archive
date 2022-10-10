@@ -157,7 +157,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-24",
+      "date_removed": null,
       "duration_ms": 184125,
       "name": "5th Night",
       "url": "https://open.spotify.com/track/7vEkNIl8MnRzugwZyQtSQY"
@@ -1772,6 +1772,24 @@
     },
     {
       "album": {
+        "name": "Beyond Contact",
+        "url": "https://open.spotify.com/album/5aYn1Q50RPtHWf97O3Wt7i"
+      },
+      "artists": [
+        {
+          "name": "Vivian Koch",
+          "url": "https://open.spotify.com/artist/16xZ9dx7FhyK68gDskeweF"
+        }
+      ],
+      "date_added": "2021-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232867,
+      "name": "Closed - Yosemite Version",
+      "url": "https://open.spotify.com/track/6kVv525s4LlVtZ75f74Bc1"
+    },
+    {
+      "album": {
         "name": "Another Name \u2014 Original Motion Picture Soundtrack",
         "url": "https://open.spotify.com/album/09OZw4L2kK2nZxVYTsxoTh"
       },
@@ -1805,7 +1823,7 @@
       ],
       "date_added": "2022-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-05",
       "duration_ms": 457487,
       "name": "Come Back To Bali",
       "url": "https://open.spotify.com/track/5bMRA7SYWh3tpeij7yH8zi"
@@ -3759,7 +3777,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 261873,
       "name": "Hanging",
       "url": "https://open.spotify.com/track/3KU48Ql9NwukpId8CB8b3J"
@@ -4724,6 +4742,24 @@
     },
     {
       "album": {
+        "name": "Music for Animals",
+        "url": "https://open.spotify.com/album/17zWrjCtsUXh113n1V7T72"
+      },
+      "artists": [
+        {
+          "name": "Nils Frahm",
+          "url": "https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp"
+        }
+      ],
+      "date_added": "2022-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1111999,
+      "name": "Lemon Day",
+      "url": "https://open.spotify.com/track/3SjjIOSfRYw5Z45HWMoRMo"
+    },
+    {
+      "album": {
         "name": "Lemon Day",
         "url": "https://open.spotify.com/album/5kU780ntZsCfCMhEn1DLQE"
       },
@@ -4735,7 +4771,7 @@
       ],
       "date_added": "2022-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-03",
       "duration_ms": 1111999,
       "name": "Lemon Day",
       "url": "https://open.spotify.com/track/4G0m7oplySbleIlWeLu3vH"
@@ -6786,6 +6822,24 @@
     },
     {
       "album": {
+        "name": "Music for Animals",
+        "url": "https://open.spotify.com/album/17zWrjCtsUXh113n1V7T72"
+      },
+      "artists": [
+        {
+          "name": "Nils Frahm",
+          "url": "https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 445980,
+      "name": "Right Right Right",
+      "url": "https://open.spotify.com/track/4eHxj67kulo8NO4l7RexJl"
+    },
+    {
+      "album": {
         "name": "Right Right Right",
         "url": "https://open.spotify.com/album/11dyjZEqT2IYvosQUqnYG4"
       },
@@ -6797,7 +6851,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-03",
       "duration_ms": 445980,
       "name": "Right Right Right",
       "url": "https://open.spotify.com/track/6L7bf5DjI6xolumK6fkMwL"
@@ -6963,7 +7017,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-21",
+      "date_removed": null,
       "duration_ms": 193000,
       "name": "Sensi",
       "url": "https://open.spotify.com/track/3skhLjuG4wNU7Szv7MN8MW"
@@ -7035,7 +7089,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-26",
+      "date_removed": null,
       "duration_ms": 274800,
       "name": "Shadows (The Light of Light)",
       "url": "https://open.spotify.com/track/3BhwZ5q8KjXLEazLX5Kuhv"
@@ -7273,7 +7327,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-06",
       "duration_ms": 563026,
       "name": "Slow Loris Versus Poison Snail",
       "url": "https://open.spotify.com/track/5y7kD1xehhdOzrVA4mODuj"
@@ -8727,7 +8781,7 @@
       ],
       "date_added": "2022-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-09",
       "duration_ms": 269206,
       "name": "Time Traveller",
       "url": "https://open.spotify.com/track/0ikN70Jj1Why1Mf3FMz61a"
@@ -8745,7 +8799,7 @@
       ],
       "date_added": "2022-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-03",
       "duration_ms": 291583,
       "name": "Timeless",
       "url": "https://open.spotify.com/track/1Ocs34KuEsoPtYLv071mk7"
@@ -9079,7 +9133,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-19",
+      "date_removed": null,
       "duration_ms": 256000,
       "name": "Ultraviolet",
       "url": "https://open.spotify.com/track/5zaYPmW3fWxDcPrGQxPsZ2"

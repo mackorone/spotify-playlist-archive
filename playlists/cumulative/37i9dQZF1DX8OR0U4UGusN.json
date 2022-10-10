@@ -453,7 +453,7 @@
       ],
       "date_added": "2021-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-03",
       "duration_ms": 237165,
       "name": "California Girl",
       "url": "https://open.spotify.com/track/5EAW4A7wuZQxdrZkBQp3NR"
@@ -645,7 +645,7 @@
       ],
       "date_added": "2021-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 222250,
       "name": "Come With Me",
       "url": "https://open.spotify.com/track/6MM83CZc1Vj1VaP410sL6S"
@@ -2327,7 +2327,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-09",
       "duration_ms": 176552,
       "name": "PIE",
       "url": "https://open.spotify.com/track/0KcTD05hia7B7ZfzjFRndQ"
@@ -3014,6 +3014,24 @@
     },
     {
       "album": {
+        "name": "The Start",
+        "url": "https://open.spotify.com/album/0KrSUDXYpQdGuLWc0qw4v8"
+      },
+      "artists": [
+        {
+          "name": "Johnny Yukon",
+          "url": "https://open.spotify.com/artist/4fLF7NyMYLaMxUmZCSp5ex"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188869,
+      "name": "The Start",
+      "url": "https://open.spotify.com/track/1uyOb4rVDC4QkTwqTH9Thj"
+    },
+    {
+      "album": {
         "name": "Through Tha Night",
         "url": "https://open.spotify.com/album/1D5Sl0DbkfNzlXGUjHk3A2"
       },
@@ -3239,7 +3257,7 @@
       ],
       "date_added": "2021-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-07",
       "duration_ms": 247720,
       "name": "Want U Around (feat. Ruel)",
       "url": "https://open.spotify.com/track/1Qu24vc8msUVLcMZWa4k1x"
@@ -3401,7 +3419,7 @@
       ],
       "date_added": "2022-07-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-29",
+      "date_removed": null,
       "duration_ms": 192656,
       "name": "Wifi Beach",
       "url": "https://open.spotify.com/track/06ukn4Va91MfzMcxc1N0cu"

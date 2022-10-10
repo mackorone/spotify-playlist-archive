@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdJyxIBq7Xdy.md) - [plain]
 
 > The most definitive female voices in Disco\. Cover: Chaka Khan
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,851 likes - 33 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,939 likes - 33 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdJyxIBq7Xdy.md) - [plain]
 | 24 | [Heart Of Glass \- Special Mix](https://open.spotify.com/track/0a4agFmqHXxcZl1nho1BxM) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Best Of Blondie](https://open.spotify.com/album/7mEjsBlRmfP63cH1gdPT6A) | 4:35 |
 | 25 | [If I Can't Have You](https://open.spotify.com/track/0QjPiq9Wka9I1b4uzWETYI) | [Yvonne Elliman](https://open.spotify.com/artist/2d6JU9LvNhZR7AAtu4x2rS) | [The Best Of Yvonne Elliman](https://open.spotify.com/album/0AzxFeB4qg0FXpmXTDuyDj) | 3:00 |
 | 26 | [More, More, More](https://open.spotify.com/track/4hepyFFOO9I7oZCNn3T2sz) | [Andrea True Connection](https://open.spotify.com/artist/3GHovBcEWpbnwCZDPF9GpM) | [More, More, More](https://open.spotify.com/album/4xQKeiJzX2EmCXt5XdGiTN) | 3:42 |
-| 27 | [Feels Like I'm in Love](https://open.spotify.com/track/3Swc1delyFn1fwPDkInUhC) | [Kelly Marie](https://open.spotify.com/artist/5lD4NOWjS7yf69zIK46Chy) | [Feels Like I'm in Love](https://open.spotify.com/album/2Qg2gDjtzgtCVcokMRS7Wv) | 4:16 |
+| 27 | [Feel's Like I'm in Love \(Remastered 2022\)](https://open.spotify.com/track/4BsfjNW3pyRIk5hWiQXKjE) | [Kelly Marie](https://open.spotify.com/artist/5lD4NOWjS7yf69zIK46Chy) | [Feel's Like I'm in Love \(Remastered 2022\)](https://open.spotify.com/album/2yOFiqdWuDz5b5jV53LjJp) | 4:16 |
 | 28 | [Lady Marmalade](https://open.spotify.com/track/3GGcwG519BTMdvMeFy7meT) | [Patti LaBelle](https://open.spotify.com/artist/0ty0xha1dbprYIUAQufkFn) | [Best Of Patti Labelle](https://open.spotify.com/album/2fgrmnOGJzwU79xlHe4Iub) | 3:55 |
 | 29 | [Car Wash](https://open.spotify.com/track/1tJtx09XQnxaynZLOaTNfZ) | [Rose Royce](https://open.spotify.com/artist/1OxJzMLmR9l5zPLap9OxuO) | [Car Wash](https://open.spotify.com/album/0MRZwmzgulNr9oSGomArxL) | 5:12 |
 | 30 | [Don't Leave Me This Way \- Single Version](https://open.spotify.com/track/1ygacgsmdK4Y1WQcJuZQHb) | [Thelma Houston](https://open.spotify.com/artist/3sgUnR8TF35euWEV07RPyO) | [Body By Jake: Sweating Disco Dance Party \(BPM 108\-128\)](https://open.spotify.com/album/4HUQKX2KZzR18h4sG5FUrG) | 3:35 |
@@ -42,4 +42,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdJyxIBq7Xdy.md) - [plain]
 | 32 | [Upside Down](https://open.spotify.com/track/76as3dkOkHGMAvwmaKXPMD) | [Diana Ross](https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl) | [20th Century Masters: The Millennium Collection: Best of Diana Ross](https://open.spotify.com/album/54fyYXrRRfl7sMJYF8FXcX) | 4:06 |
 | 33 | [Flashdance..\. What A Feeling \- '95 Version](https://open.spotify.com/track/5CGziaEatzKez145qf7Xj2) | [Irene Cara](https://open.spotify.com/artist/3oZa8Xs6IjlIUGLAhVyK4G) | [Nyårsmusik](https://open.spotify.com/album/0mfc6FsNgv3RHhrKncT0vZ) | 3:49 |
 
-Snapshot ID: `MTU1MTIwNDM3OSwwMDAwMDAwMDc3YzQ3MTM2NTE3NTEzYTAyMGE3ZGE3ODNmYTBlZWNi`
+Snapshot ID: `MTU1MTIwNDM3OSwwMDAwMDAwMDdhZDI4NjY5NzAzMWI0MTZiYzExYWZkZDYxOTBiMmMy`

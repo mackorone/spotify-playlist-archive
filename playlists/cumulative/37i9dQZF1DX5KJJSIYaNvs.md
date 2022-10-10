@@ -2,9 +2,9 @@
 
 ### [EQUAL India](https://open.spotify.com/playlist/37i9dQZF1DX5KJJSIYaNvs)
 
-> Listen to Indian women, at full volume\. Cover: Andrea Jeremiah
+> Listen to Indian women, at full volume\. Cover: Neha Kakkar
 
-141 songs - 8 hr 15 min - [published](https://open.spotify.com/playlist/3rqRWyNJwvt55VCcOLZ5lE)
+143 songs - 8 hr 23 min - [published](https://open.spotify.com/playlist/3rqRWyNJwvt55VCcOLZ5lE)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,7 +74,8 @@
 | [Kehri Gali](https://open.spotify.com/track/1paDFKGNdKWOSq8sk4Bv8u) | [Jasmine Sandlas](https://open.spotify.com/artist/0mJDQBWytBhOh5JB1DOQ1c) | [Tini \- EP](https://open.spotify.com/album/2ieFpeF1ll67TuqGjmOJP3) | 3:33 | 2022-09-06 |  |
 | [Kusu Kusu \(From "Satyameva Jayate 2"\)](https://open.spotify.com/track/6G699QfN1BWYWXfiblH51F) | [Tanishk Bagchi](https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt), [Zahrah S Khan](https://open.spotify.com/artist/7C5xVXoqim1TICnCMZ9A6P), [Dev Negi](https://open.spotify.com/artist/04FsFHujpuqonrPXZrEJlK) | [Kusu Kusu \(From "Satyameva Jayate 2"\)](https://open.spotify.com/album/4QsZTMq6EZp26T67ou6ch9) | 3:15 | 2022-02-01 |  |
 | [Kyun Ho Jaate Ho Door](https://open.spotify.com/track/2boHTy8wRvOsr0xbf2uyBS) | [Hanita Bhambri](https://open.spotify.com/artist/3Y5nIabMJLTsWgW6Jqdn7n) | [Kyun Ho Jaate Ho Door](https://open.spotify.com/album/1EM3mEUMGkA46gTbmpJ2lN) | 2:50 | 2021-12-10 | 2022-01-05 |
-| [Lae Dooba](https://open.spotify.com/track/4cNbz1UdBCrnGOg0NNP1iF) | [Sunidhi Chauhan](https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v) | [Aiyaary](https://open.spotify.com/album/0fvbSSTodKL0wMcoWRPfDz) | 3:49 | 2022-04-05 |  |
+| [Lae Dooba](https://open.spotify.com/track/4cNbz1UdBCrnGOg0NNP1iF) | [Sunidhi Chauhan](https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v) | [Aiyaary](https://open.spotify.com/album/0fvbSSTodKL0wMcoWRPfDz) | 3:49 | 2022-04-05 | 2022-10-05 |
+| [Lae Dooba](https://open.spotify.com/track/66dO6jaZOKYdV6sXAPkBmI) | [Sunidhi Chauhan](https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v) | [Aiyaary \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1c4yZTLRpZtBUoReFf0Dqo) | 3:49 | 2022-09-07 |  |
 | [Laire Lallaire](https://open.spotify.com/track/3OZDBy9vENUlhWE5xSXa1s) | [Mangli](https://open.spotify.com/artist/1pDF5UltcypyatITA3Pduo) | [Laire Lallaire](https://open.spotify.com/album/7bYUu8JrwhW9GwCvNcwhoe) | 3:47 | 2021-12-10 | 2022-01-05 |
 | [Machhli](https://open.spotify.com/track/6mbYKnJVdaDkZjCxV0dbIq) | [Pawni Pandey](https://open.spotify.com/artist/3hmboaiYDw7hqBWQZ5TJQX), [Shahid Mallya](https://open.spotify.com/artist/4LnYRxNZVCTsDCO2xKjOn8) | [Machhli](https://open.spotify.com/album/0oFtiR6mimLJdsiUdCCRnj) | 2:48 | 2022-01-04 | 2022-02-02 |
 | [Mafiyaan](https://open.spotify.com/track/1YIpi9FrVSr1wpzKNukm3J) | [Sukriti Kakar](https://open.spotify.com/artist/3FgHkfb3IqG4WKuVe1xCXM), [Prakriti Kakar](https://open.spotify.com/artist/59pq5Vw16UDkR9txoPKv86), [Mellow D](https://open.spotify.com/artist/7tH8oZj2nLERlp2hE5QNjp) | [Mafiyaan](https://open.spotify.com/album/3mWaCoYmxLh6SPz88oMAhJ) | 3:34 | 2022-02-01 | 2022-03-08 |
@@ -100,6 +101,7 @@
 | [Najaa \(From "Sooryavanshi"\)](https://open.spotify.com/track/09vHbIezp9NP31CZWysk3v) | [Tanishk Bagchi](https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt), [Pav Dharia](https://open.spotify.com/artist/0j2LQCxHNcJdkuJRa8KEp5), [Nikhita Gandhi](https://open.spotify.com/artist/3tPQOjkxO3mrYrrgkTeXgH) | [Najaa \(From "Sooryavanshi"\)](https://open.spotify.com/album/5zP4OuD73f42dogIjNid68) | 3:11 | 2022-02-01 |  |
 | [Narazgi](https://open.spotify.com/track/2cQWIUStEam8XUu3qZlNye) | [Neha Kakkar](https://open.spotify.com/artist/5f4QpKfy7ptCHwTqspnSJI), [Sonal Pradhan](https://open.spotify.com/artist/47rEN0r2cbsuTWxV9pH6gd) | [Narazgi](https://open.spotify.com/album/0FXkV0ersuq1iXtWXGbchi) | 4:53 | 2022-03-07 | 2022-05-05 |
 | [Ni Jana](https://open.spotify.com/track/4YxsJyL48q7NZiiCj0uib0) | [Jasleen Royal](https://open.spotify.com/artist/74OaRjmyh0XyRZsQQQ5l7c), [TM Bax](https://open.spotify.com/artist/0RN2n6EdV90CQmfhfxqv0f), [Radhika Madan](https://open.spotify.com/artist/3YdyN1kW3803p2ovKeuPel) | [Ni Jana](https://open.spotify.com/album/14AM22a3ypN7tCMH89RXYj) | 3:25 | 2021-12-10 | 2022-02-02 |
+| [O Sajna](https://open.spotify.com/track/1SVE8yjAt2m9JWjeOaGG4Q) | [Neha Kakkar](https://open.spotify.com/artist/5f4QpKfy7ptCHwTqspnSJI), [Tanishk Bagchi](https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt), [Jaani](https://open.spotify.com/artist/5gZhfbckaWo89OzDSk3gdT) | [O Sajna](https://open.spotify.com/album/1TXJwhaxqLrY0xaHkkDHfK) | 4:05 | 2022-10-07 |  |
 | [O Saki Saki](https://open.spotify.com/track/1K8zYNuDywMknSJuNGoWy0) | [Neha Kakkar](https://open.spotify.com/artist/5f4QpKfy7ptCHwTqspnSJI), [Tulsi Kumar](https://open.spotify.com/artist/0T1CMVkqffHlqEk4BcAph1), [B Praak](https://open.spotify.com/artist/56SjZARoEvag3RoKWIb16j) | [Batla House](https://open.spotify.com/album/5GUbtvq6lcq1nTQEHq2BKe) | 3:11 | 2022-03-07 | 2022-05-05 |
 | [Oo Antava Oo Oo Antava](https://open.spotify.com/track/3szxldqiYs7nkvtmooRod8) | [Indravathi Chauhan](https://open.spotify.com/artist/1cNcHeOmjm7yKUYWhrmjMM) | [Pushpa \- The Rise](https://open.spotify.com/album/4tXcR4YBqi96HgZlMCBY7v) | 3:43 | 2022-01-04 |  |
 | [Oot Patangi](https://open.spotify.com/track/3MFeWkN6J07QTwwIHWTBYC) | [Neha Bhasin](https://open.spotify.com/artist/4E5oyNFcB3uXLkLdjYmP9Z) | [Oot Patangi](https://open.spotify.com/album/70SKb5B68vfWO4nPrGkoNv) | 3:07 | 2021-12-10 | 2022-02-02 |
