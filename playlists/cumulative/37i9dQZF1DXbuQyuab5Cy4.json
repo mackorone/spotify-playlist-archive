@@ -220,6 +220,24 @@
     },
     {
       "album": {
+        "name": "Dubs In Limbo",
+        "url": "https://open.spotify.com/album/3pmTlgjrJEYzS26fKhgshb"
+      },
+      "artists": [
+        {
+          "name": "Caspa",
+          "url": "https://open.spotify.com/artist/4nMuaJ4kBLDJCRBizNESI6"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198576,
+      "name": "Bump This",
+      "url": "https://open.spotify.com/track/2O5oAio774pIRQGe3mnh5T"
+    },
+    {
+      "album": {
         "name": "Candy Flip",
         "url": "https://open.spotify.com/album/2zWd2Kv0sTPEj4Gae9GJyU"
       },
@@ -429,6 +447,24 @@
       "duration_ms": 219799,
       "name": "Facetime",
       "url": "https://open.spotify.com/track/2tEIpLMEMAYXfBSXrqs89p"
+    },
+    {
+      "album": {
+        "name": "Frankenstein's Fury",
+        "url": "https://open.spotify.com/album/3l6DpMg71tQ15zQYfxbRF1"
+      },
+      "artists": [
+        {
+          "name": "Figure",
+          "url": "https://open.spotify.com/artist/5mADpqv2E8KIHDmEhH7wmr"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179200,
+      "name": "Frankenstein's Fury",
+      "url": "https://open.spotify.com/track/10rmDaJ80PXKTN4BINMfh6"
     },
     {
       "album": {
@@ -877,6 +913,28 @@
       "duration_ms": 193124,
       "name": "Necromancer",
       "url": "https://open.spotify.com/track/2Qyh9G1sElqu3VzQjsh4Ii"
+    },
+    {
+      "album": {
+        "name": "NECROMANCER EP",
+        "url": "https://open.spotify.com/album/0i5W06nlD4FXK2zLPXqp2w"
+      },
+      "artists": [
+        {
+          "name": "GHENGAR",
+          "url": "https://open.spotify.com/artist/6g6OqIpMMbEkhhtEODZaGf"
+        },
+        {
+          "name": "GHASTLY",
+          "url": "https://open.spotify.com/artist/2Sa4c9qKaI7ILJs8D6gUCh"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228413,
+      "name": "NECROMANCER",
+      "url": "https://open.spotify.com/track/4q6M0ocvDwZp0kbnWtYLaF"
     },
     {
       "album": {

@@ -91,7 +91,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-06",
       "duration_ms": 156546,
       "name": "Baila Nena",
       "url": "https://open.spotify.com/track/6j6ueannDkdkD84e8VcRVp"
@@ -307,7 +307,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-01",
+      "date_removed": null,
       "duration_ms": 185751,
       "name": "El",
       "url": "https://open.spotify.com/track/5BVdLm5h0alj7oGfacbxy4"
@@ -487,7 +487,7 @@
       ],
       "date_added": "2022-06-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-02",
+      "date_removed": "2022-10-08",
       "duration_ms": 232506,
       "name": "Estare Contigo",
       "url": "https://open.spotify.com/track/6WIMzW10yHaUBVr262fcAH"
@@ -566,6 +566,24 @@
     },
     {
       "album": {
+        "name": "La Estrella de Los Bailes",
+        "url": "https://open.spotify.com/album/5olkVTeTitf7wFn0xpvzaU"
+      },
+      "artists": [
+        {
+          "name": "Banda Maguey",
+          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-09",
+      "duration_ms": 148653,
+      "name": "La Estrella de Los Bailes",
+      "url": "https://open.spotify.com/track/6ys6m4XPqVCQcSMXzhFYdC"
+    },
+    {
+      "album": {
         "name": "Exitos En Vivo",
         "url": "https://open.spotify.com/album/7GxLafMEpqfNA8mz8ojHbF"
       },
@@ -577,7 +595,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-06",
       "duration_ms": 154213,
       "name": "La Estrella de los Bailes - Live Version",
       "url": "https://open.spotify.com/track/4cr6dHRu6p7sAVCUDrEjTn"
@@ -595,7 +613,7 @@
       ],
       "date_added": "2022-06-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-02",
+      "date_removed": "2022-10-09",
       "duration_ms": 153213,
       "name": "La Mano de Dios",
       "url": "https://open.spotify.com/track/6DuEpEA8q3Qn7afD6ep5QA"
@@ -649,7 +667,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-02",
+      "date_removed": null,
       "duration_ms": 149920,
       "name": "La Ranchera Pajona",
       "url": "https://open.spotify.com/track/0ZvZGvz5fUAgRmq5KuTgqm"
@@ -847,7 +865,7 @@
       ],
       "date_added": "2022-08-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-30",
+      "date_removed": null,
       "duration_ms": 142493,
       "name": "Mujer Paseada",
       "url": "https://open.spotify.com/track/0pySFIvfAnwApyMz2i5SnS"
@@ -901,7 +919,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-09",
       "duration_ms": 189386,
       "name": "Pa Que Sientas Lo Que Siento",
       "url": "https://open.spotify.com/track/780DuUv8gplMFVTRe5Q9Tp"
@@ -1171,7 +1189,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 157746,
       "name": "Toro Manchado",
       "url": "https://open.spotify.com/track/2PF3QqXFV1skWAcC1YbfrF"
@@ -1207,7 +1225,7 @@
       ],
       "date_added": "2022-06-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-02",
+      "date_removed": "2022-10-09",
       "duration_ms": 172133,
       "name": "Tu Precio",
       "url": "https://open.spotify.com/track/1N7iPUvDor2HA8wOlS5LIB"
@@ -1261,7 +1279,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-02",
+      "date_removed": null,
       "duration_ms": 190756,
       "name": "Yo Le Bautizo el Chiquito",
       "url": "https://open.spotify.com/track/3D9tVDp399MoQvJD9g8F4P"

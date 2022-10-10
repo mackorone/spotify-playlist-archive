@@ -523,7 +523,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-07",
       "duration_ms": 144860,
       "name": "bottle spin",
       "url": "https://open.spotify.com/track/2ZGlPFelg3I5iSyZsAHRBP"
@@ -631,7 +631,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-07",
       "duration_ms": 161590,
       "name": "Carte blanche",
       "url": "https://open.spotify.com/track/4gRh7l16lZTdaAAGqDhrC5"
@@ -1790,6 +1790,24 @@
     },
     {
       "album": {
+        "name": "Kangae",
+        "url": "https://open.spotify.com/album/4ci7zUYPfNjcAKkWLGqTNw"
+      },
+      "artists": [
+        {
+          "name": "Yasumaru",
+          "url": "https://open.spotify.com/artist/0d8Lf2UsOCP5Wuy3n9dOzT"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177747,
+      "name": "Kangae",
+      "url": "https://open.spotify.com/track/1lqMh8PS5cZFpcChWLNhv4"
+    },
+    {
+      "album": {
         "name": "Keep Keepin On",
         "url": "https://open.spotify.com/album/4XpaShZVMOaDaRkO81Hm3Q"
       },
@@ -2312,6 +2330,24 @@
     },
     {
       "album": {
+        "name": "Modest Moon",
+        "url": "https://open.spotify.com/album/3ioCuXLAFYSnfNdFcnvq91"
+      },
+      "artists": [
+        {
+          "name": "Cake",
+          "url": "https://open.spotify.com/artist/55F92tNiRQa7dL6QXAJilc"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136500,
+      "name": "Modest Moon",
+      "url": "https://open.spotify.com/track/1Ew8h2eAwWatofEShAvmSd"
+    },
+    {
+      "album": {
         "name": "mojito",
         "url": "https://open.spotify.com/album/3PK9VIEk2Ni3TB2R7bc3JS"
       },
@@ -2377,7 +2413,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-07",
       "duration_ms": 114904,
       "name": "mountain",
       "url": "https://open.spotify.com/track/3uZy1y9JuMAGTtBwCqKMt1"
@@ -3032,6 +3068,24 @@
     },
     {
       "album": {
+        "name": "Sea Me",
+        "url": "https://open.spotify.com/album/2wxPyv4sSWaC0DxI6XILkq"
+      },
+      "artists": [
+        {
+          "name": "MOTYL",
+          "url": "https://open.spotify.com/artist/2nvlSEgmC8Cnixxkykhrbo"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156106,
+      "name": "Sea Me",
+      "url": "https://open.spotify.com/track/3x1zrRDZGEMdlR1InGAOl9"
+    },
+    {
+      "album": {
         "name": "Sea Ya",
         "url": "https://open.spotify.com/album/7j0QI0It6JlIO7JUqGYMj8"
       },
@@ -3317,6 +3371,24 @@
       "duration_ms": 112941,
       "name": "Steek",
       "url": "https://open.spotify.com/track/0tmfkSrjCbV7fOUPEDznhP"
+    },
+    {
+      "album": {
+        "name": "Stellar Bomb",
+        "url": "https://open.spotify.com/album/3Qr158I4WE250jcb1FWRuD"
+      },
+      "artists": [
+        {
+          "name": "Sylvani",
+          "url": "https://open.spotify.com/artist/581sgZmsCXipWY3qVM4CPS"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174823,
+      "name": "Stellar Bomb",
+      "url": "https://open.spotify.com/track/1uyZR0MR3AKiUJD55PJs8A"
     },
     {
       "album": {

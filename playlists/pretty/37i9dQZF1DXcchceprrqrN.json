@@ -1,13 +1,29 @@
 {
   "description": "self-reinvention never sounded so good.",
-  "num_followers": 716,
+  "num_followers": 2840,
   "original_name": "hair dye",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDIyMDY1NCwwMDAwMDAwMDJjYzUyOWJiZmVmYWZjODkyZTYzM2NmY2NiNzc0NTE2",
+  "snapshot_id": "MTY2NTExNjczMywwMDAwMDAwMGMxMzMzMDg1NGUyNGYwZTlmZTM1ZTI4MDk1YjcyMDhh",
   "tracks": [
+    {
+      "added_at": "2022-10-07 04:25:33",
+      "album": {
+        "name": "<COPINGMECHANISM>",
+        "url": "https://open.spotify.com/album/0oMXn0MNLNyvB4iJPZXOuV"
+      },
+      "artists": [
+        {
+          "name": "WILLOW",
+          "url": "https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF"
+        }
+      ],
+      "duration_ms": 178636,
+      "name": "WHY?",
+      "url": "https://open.spotify.com/track/1WCPaQ7zMEMwWbpuTrhM9S"
+    },
     {
       "added_at": "2022-09-26 15:14:55",
       "album": {
@@ -23,6 +39,38 @@
       "duration_ms": 197374,
       "name": "Pass The Nirvana",
       "url": "https://open.spotify.com/track/5SDhI2jKg0S5fzEEqPCHiV"
+    },
+    {
+      "added_at": "2022-09-26 15:14:55",
+      "album": {
+        "name": "Blue Weekend",
+        "url": "https://open.spotify.com/album/1VCTWaze9kuY5IDlbtR5p0"
+      },
+      "artists": [
+        {
+          "name": "Wolf Alice",
+          "url": "https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV"
+        }
+      ],
+      "duration_ms": 196800,
+      "name": "Smile",
+      "url": "https://open.spotify.com/track/0wQKKPy050lguUxlKvHIi5"
+    },
+    {
+      "added_at": "2022-10-07 04:25:33",
+      "album": {
+        "name": "CHAOS NOW*",
+        "url": "https://open.spotify.com/album/1h6QGKzD4kzEZDzojyXeoM"
+      },
+      "artists": [
+        {
+          "name": "Jean Dawson",
+          "url": "https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP"
+        }
+      ],
+      "duration_ms": 129119,
+      "name": "SICK OF IT*",
+      "url": "https://open.spotify.com/track/25SRFuJqLVrgApeFw4vFCb"
     },
     {
       "added_at": "2022-09-26 15:14:55",
@@ -43,18 +91,18 @@
     {
       "added_at": "2022-09-26 15:14:55",
       "album": {
-        "name": "Squeeze",
-        "url": "https://open.spotify.com/album/54p7fdwenIgGmhUK4qbCiT"
+        "name": "Puzzles",
+        "url": "https://open.spotify.com/album/4LULr4Lz6obf9eL2BA0tiJ"
       },
       "artists": [
         {
-          "name": "SASAMI",
-          "url": "https://open.spotify.com/artist/4pdoRs7yHNXakMobf8M9Oz"
+          "name": "Nova Twins",
+          "url": "https://open.spotify.com/artist/7I95CM75shzCjHuTzrepjM"
         }
       ],
-      "duration_ms": 200363,
-      "name": "The Greatest",
-      "url": "https://open.spotify.com/track/2XHJ3DLnRp7wfUwrhPcMKH"
+      "duration_ms": 161560,
+      "name": "Puzzles",
+      "url": "https://open.spotify.com/track/0rWIAbUoOL67JAHxxGRKx7"
     },
     {
       "added_at": "2022-09-26 15:14:55",
@@ -75,22 +123,6 @@
     {
       "added_at": "2022-09-26 15:14:55",
       "album": {
-        "name": "Le Tigre",
-        "url": "https://open.spotify.com/album/0dSSZGzoukzrFBnG07J45i"
-      },
-      "artists": [
-        {
-          "name": "Le Tigre",
-          "url": "https://open.spotify.com/artist/2n6FviARgtjjimZXu18uRM"
-        }
-      ],
-      "duration_ms": 184626,
-      "name": "Deceptacon",
-      "url": "https://open.spotify.com/track/5773KSWFzg9kCc8yazjbSt"
-    },
-    {
-      "added_at": "2022-09-26 15:14:55",
-      "album": {
         "name": "Control",
         "url": "https://open.spotify.com/album/0t735ENMp4UgBzUvD2NCPG"
       },
@@ -103,6 +135,22 @@
       "duration_ms": 195129,
       "name": "Control",
       "url": "https://open.spotify.com/track/1BrI8GZkG9Rd8Gvx4nBf9Y"
+    },
+    {
+      "added_at": "2022-09-26 15:14:55",
+      "album": {
+        "name": "Le Tigre",
+        "url": "https://open.spotify.com/album/0dSSZGzoukzrFBnG07J45i"
+      },
+      "artists": [
+        {
+          "name": "Le Tigre",
+          "url": "https://open.spotify.com/artist/2n6FviARgtjjimZXu18uRM"
+        }
+      ],
+      "duration_ms": 184626,
+      "name": "Deceptacon",
+      "url": "https://open.spotify.com/track/5773KSWFzg9kCc8yazjbSt"
     },
     {
       "added_at": "2022-09-26 15:14:55",
@@ -123,142 +171,6 @@
     {
       "added_at": "2022-09-26 15:14:55",
       "album": {
-        "name": "Dream Wife",
-        "url": "https://open.spotify.com/album/0fFlloNPNem2XOi4AeU5ty"
-      },
-      "artists": [
-        {
-          "name": "Dream Wife",
-          "url": "https://open.spotify.com/artist/2DaP4uXwKOXAaD77XokW9a"
-        }
-      ],
-      "duration_ms": 200493,
-      "name": "Hey Heartbreaker",
-      "url": "https://open.spotify.com/track/5rHOYjTsgZSt4FTIkVtcVc"
-    },
-    {
-      "added_at": "2022-09-26 15:14:55",
-      "album": {
-        "name": "925",
-        "url": "https://open.spotify.com/album/1x4UFeq7sIZohSXgitqWXp"
-      },
-      "artists": [
-        {
-          "name": "Sorry",
-          "url": "https://open.spotify.com/artist/5eUda4BaWhUQWWJiP1ml5v"
-        }
-      ],
-      "duration_ms": 165386,
-      "name": "Perfect",
-      "url": "https://open.spotify.com/track/0pO3rLTNv7tHZgB32B3ktv"
-    },
-    {
-      "added_at": "2022-09-26 15:14:55",
-      "album": {
-        "name": "Blue Weekend",
-        "url": "https://open.spotify.com/album/1VCTWaze9kuY5IDlbtR5p0"
-      },
-      "artists": [
-        {
-          "name": "Wolf Alice",
-          "url": "https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV"
-        }
-      ],
-      "duration_ms": 196800,
-      "name": "Smile",
-      "url": "https://open.spotify.com/track/0wQKKPy050lguUxlKvHIi5"
-    },
-    {
-      "added_at": "2022-09-26 15:14:55",
-      "album": {
-        "name": "Puzzles",
-        "url": "https://open.spotify.com/album/4LULr4Lz6obf9eL2BA0tiJ"
-      },
-      "artists": [
-        {
-          "name": "Nova Twins",
-          "url": "https://open.spotify.com/artist/7I95CM75shzCjHuTzrepjM"
-        }
-      ],
-      "duration_ms": 161560,
-      "name": "Puzzles",
-      "url": "https://open.spotify.com/track/0rWIAbUoOL67JAHxxGRKx7"
-    },
-    {
-      "added_at": "2022-09-26 15:14:55",
-      "album": {
-        "name": "Paramore",
-        "url": "https://open.spotify.com/album/4sgYpkIASM1jVlNC8Wp9oF"
-      },
-      "artists": [
-        {
-          "name": "Paramore",
-          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
-        }
-      ],
-      "duration_ms": 222693,
-      "name": "Fast in My Car",
-      "url": "https://open.spotify.com/track/6r9cqn3KG824MXSo7sHPlK"
-    },
-    {
-      "added_at": "2022-09-26 15:14:55",
-      "album": {
-        "name": "Spitting Off the Edge of the World",
-        "url": "https://open.spotify.com/album/1Jkvi8YFy8FpDK23tTlrhG"
-      },
-      "artists": [
-        {
-          "name": "Yeah Yeah Yeahs",
-          "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
-        },
-        {
-          "name": "Perfume Genius",
-          "url": "https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn"
-        }
-      ],
-      "duration_ms": 257746,
-      "name": "Spitting Off the Edge of the World",
-      "url": "https://open.spotify.com/track/3kBBjItT7JnKi28k68dGkr"
-    },
-    {
-      "added_at": "2022-09-26 15:14:55",
-      "album": {
-        "name": "The Frights",
-        "url": "https://open.spotify.com/album/4gCxVCBV1bThixzOFIkZB0"
-      },
-      "artists": [
-        {
-          "name": "The Frights",
-          "url": "https://open.spotify.com/artist/2HSEdXKVq1WWtBbsIeNjRX"
-        }
-      ],
-      "duration_ms": 259239,
-      "name": "Crust Bucket",
-      "url": "https://open.spotify.com/track/6YWtvUPKgCYSiPDBuAjj0Q"
-    },
-    {
-      "added_at": "2022-09-26 15:14:55",
-      "album": {
-        "name": "cyanide (feat. cryogeyser)",
-        "url": "https://open.spotify.com/album/2ALEWsC4scA4LiMxkJKjDi"
-      },
-      "artists": [
-        {
-          "name": "Paris Texas",
-          "url": "https://open.spotify.com/artist/1SCrMreNPJYSRZIlRe9SUq"
-        },
-        {
-          "name": "Cryogeyser",
-          "url": "https://open.spotify.com/artist/3BORonJcAjc2wbSv1DXbTZ"
-        }
-      ],
-      "duration_ms": 125389,
-      "name": "cyanide (feat. cryogeyser)",
-      "url": "https://open.spotify.com/track/4NR3USATEkmZv1erpa33Gx"
-    },
-    {
-      "added_at": "2022-09-26 15:14:55",
-      "album": {
         "name": "Gawk",
         "url": "https://open.spotify.com/album/1vWOYk3hF5bgVUUUaPvYLh"
       },
@@ -271,38 +183,6 @@
       "duration_ms": 155933,
       "name": "Alien Blues",
       "url": "https://open.spotify.com/track/11iIikXxC6NP0Ma8vMD27x"
-    },
-    {
-      "added_at": "2022-09-26 15:14:55",
-      "album": {
-        "name": "Shotgun",
-        "url": "https://open.spotify.com/album/0Yej0tiVfjM6odIQpyulOv"
-      },
-      "artists": [
-        {
-          "name": "Soccer Mommy",
-          "url": "https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q"
-        }
-      ],
-      "duration_ms": 250053,
-      "name": "Shotgun",
-      "url": "https://open.spotify.com/track/35PUhhwZL4HhmuqgOeFcfg"
-    },
-    {
-      "added_at": "2022-09-26 15:14:55",
-      "album": {
-        "name": "Pixel Bath",
-        "url": "https://open.spotify.com/album/121Hqnfr9tMBdL0LJuIstL"
-      },
-      "artists": [
-        {
-          "name": "Jean Dawson",
-          "url": "https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP"
-        }
-      ],
-      "duration_ms": 252293,
-      "name": "Power Freaks",
-      "url": "https://open.spotify.com/track/06dWM8AMMjKE9Obf2L1ojy"
     },
     {
       "added_at": "2022-09-26 15:14:55",
@@ -355,18 +235,18 @@
     {
       "added_at": "2022-09-26 15:14:55",
       "album": {
-        "name": "Any Shape You Take",
-        "url": "https://open.spotify.com/album/7G7lPTcJta35qGZ8LMIJ4y"
+        "name": "i gave you everything",
+        "url": "https://open.spotify.com/album/60QraYbdjszTauLdxDBnnQ"
       },
       "artists": [
         {
-          "name": "Indigo De Souza",
-          "url": "https://open.spotify.com/artist/3ir2pF2mkiEWqyPenKTh5e"
+          "name": "EKKSTACY",
+          "url": "https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH"
         }
       ],
-      "duration_ms": 260355,
-      "name": "Kill Me",
-      "url": "https://open.spotify.com/track/66N8I6v00iQFPd56yU7dXf"
+      "duration_ms": 158480,
+      "name": "i gave you everything",
+      "url": "https://open.spotify.com/track/10Z0dIrJJY2eSRRqLOjD7b"
     },
     {
       "added_at": "2022-09-26 15:14:55",
@@ -387,18 +267,170 @@
     {
       "added_at": "2022-09-26 15:14:55",
       "album": {
-        "name": "i gave you everything",
-        "url": "https://open.spotify.com/album/60QraYbdjszTauLdxDBnnQ"
+        "name": "Wet Leg",
+        "url": "https://open.spotify.com/album/0r9awI5WRCZpwk0aVQ4bKO"
       },
       "artists": [
         {
-          "name": "EKKSTACY",
-          "url": "https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH"
+          "name": "Wet Leg",
+          "url": "https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ"
         }
       ],
-      "duration_ms": 158480,
-      "name": "i gave you everything",
-      "url": "https://open.spotify.com/track/10Z0dIrJJY2eSRRqLOjD7b"
+      "duration_ms": 232320,
+      "name": "Angelica",
+      "url": "https://open.spotify.com/track/3EwTIu5qka2l5ZekB0b6QC"
+    },
+    {
+      "added_at": "2022-09-26 15:14:55",
+      "album": {
+        "name": "Paramore",
+        "url": "https://open.spotify.com/album/4sgYpkIASM1jVlNC8Wp9oF"
+      },
+      "artists": [
+        {
+          "name": "Paramore",
+          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
+        }
+      ],
+      "duration_ms": 222693,
+      "name": "Fast in My Car",
+      "url": "https://open.spotify.com/track/6r9cqn3KG824MXSo7sHPlK"
+    },
+    {
+      "added_at": "2022-09-26 15:14:55",
+      "album": {
+        "name": "Spitting Off the Edge of the World",
+        "url": "https://open.spotify.com/album/1Jkvi8YFy8FpDK23tTlrhG"
+      },
+      "artists": [
+        {
+          "name": "Yeah Yeah Yeahs",
+          "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
+        },
+        {
+          "name": "Perfume Genius",
+          "url": "https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn"
+        }
+      ],
+      "duration_ms": 257746,
+      "name": "Spitting Off the Edge of the World",
+      "url": "https://open.spotify.com/track/3kBBjItT7JnKi28k68dGkr"
+    },
+    {
+      "added_at": "2022-09-26 15:14:55",
+      "album": {
+        "name": "Squeeze",
+        "url": "https://open.spotify.com/album/54p7fdwenIgGmhUK4qbCiT"
+      },
+      "artists": [
+        {
+          "name": "SASAMI",
+          "url": "https://open.spotify.com/artist/4pdoRs7yHNXakMobf8M9Oz"
+        }
+      ],
+      "duration_ms": 200363,
+      "name": "The Greatest",
+      "url": "https://open.spotify.com/track/2XHJ3DLnRp7wfUwrhPcMKH"
+    },
+    {
+      "added_at": "2022-09-26 15:14:55",
+      "album": {
+        "name": "Dream Wife",
+        "url": "https://open.spotify.com/album/0fFlloNPNem2XOi4AeU5ty"
+      },
+      "artists": [
+        {
+          "name": "Dream Wife",
+          "url": "https://open.spotify.com/artist/2DaP4uXwKOXAaD77XokW9a"
+        }
+      ],
+      "duration_ms": 200493,
+      "name": "Hey Heartbreaker",
+      "url": "https://open.spotify.com/track/5rHOYjTsgZSt4FTIkVtcVc"
+    },
+    {
+      "added_at": "2022-09-26 15:14:55",
+      "album": {
+        "name": "925",
+        "url": "https://open.spotify.com/album/1x4UFeq7sIZohSXgitqWXp"
+      },
+      "artists": [
+        {
+          "name": "Sorry",
+          "url": "https://open.spotify.com/artist/5eUda4BaWhUQWWJiP1ml5v"
+        }
+      ],
+      "duration_ms": 165386,
+      "name": "Perfect",
+      "url": "https://open.spotify.com/track/0pO3rLTNv7tHZgB32B3ktv"
+    },
+    {
+      "added_at": "2022-09-26 15:14:55",
+      "album": {
+        "name": "The Frights",
+        "url": "https://open.spotify.com/album/4gCxVCBV1bThixzOFIkZB0"
+      },
+      "artists": [
+        {
+          "name": "The Frights",
+          "url": "https://open.spotify.com/artist/2HSEdXKVq1WWtBbsIeNjRX"
+        }
+      ],
+      "duration_ms": 259239,
+      "name": "Crust Bucket",
+      "url": "https://open.spotify.com/track/6YWtvUPKgCYSiPDBuAjj0Q"
+    },
+    {
+      "added_at": "2022-09-26 15:14:55",
+      "album": {
+        "name": "cyanide (feat. cryogeyser)",
+        "url": "https://open.spotify.com/album/2ALEWsC4scA4LiMxkJKjDi"
+      },
+      "artists": [
+        {
+          "name": "Paris Texas",
+          "url": "https://open.spotify.com/artist/1SCrMreNPJYSRZIlRe9SUq"
+        },
+        {
+          "name": "Cryogeyser",
+          "url": "https://open.spotify.com/artist/3BORonJcAjc2wbSv1DXbTZ"
+        }
+      ],
+      "duration_ms": 125389,
+      "name": "cyanide (feat. cryogeyser)",
+      "url": "https://open.spotify.com/track/4NR3USATEkmZv1erpa33Gx"
+    },
+    {
+      "added_at": "2022-09-26 15:14:55",
+      "album": {
+        "name": "Shotgun",
+        "url": "https://open.spotify.com/album/0Yej0tiVfjM6odIQpyulOv"
+      },
+      "artists": [
+        {
+          "name": "Soccer Mommy",
+          "url": "https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q"
+        }
+      ],
+      "duration_ms": 250053,
+      "name": "Shotgun",
+      "url": "https://open.spotify.com/track/35PUhhwZL4HhmuqgOeFcfg"
+    },
+    {
+      "added_at": "2022-09-26 15:14:55",
+      "album": {
+        "name": "Any Shape You Take",
+        "url": "https://open.spotify.com/album/7G7lPTcJta35qGZ8LMIJ4y"
+      },
+      "artists": [
+        {
+          "name": "Indigo De Souza",
+          "url": "https://open.spotify.com/artist/3ir2pF2mkiEWqyPenKTh5e"
+        }
+      ],
+      "duration_ms": 260355,
+      "name": "Kill Me",
+      "url": "https://open.spotify.com/track/66N8I6v00iQFPd56yU7dXf"
     },
     {
       "added_at": "2022-09-26 15:14:55",
@@ -415,22 +447,6 @@
       "duration_ms": 267491,
       "name": "flutter",
       "url": "https://open.spotify.com/track/1D8sCqR7SwxUTwUDqMyUAp"
-    },
-    {
-      "added_at": "2022-09-26 15:14:55",
-      "album": {
-        "name": "Wet Leg",
-        "url": "https://open.spotify.com/album/0r9awI5WRCZpwk0aVQ4bKO"
-      },
-      "artists": [
-        {
-          "name": "Wet Leg",
-          "url": "https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ"
-        }
-      ],
-      "duration_ms": 232320,
-      "name": "Angelica",
-      "url": "https://open.spotify.com/track/3EwTIu5qka2l5ZekB0b6QC"
     },
     {
       "added_at": "2022-09-26 15:14:55",
@@ -463,22 +479,6 @@
       "duration_ms": 178853,
       "name": "Super Soaker",
       "url": "https://open.spotify.com/track/5aPsS8Erp6FBlFSEunU51j"
-    },
-    {
-      "added_at": "2022-09-26 15:14:55",
-      "album": {
-        "name": "<maybe> it's my fault",
-        "url": "https://open.spotify.com/album/139YquG3RpaLBq98PbsOIM"
-      },
-      "artists": [
-        {
-          "name": "WILLOW",
-          "url": "https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF"
-        }
-      ],
-      "duration_ms": 159832,
-      "name": "<maybe> it's my fault",
-      "url": "https://open.spotify.com/track/4w5wkuwuCByenZ6QufdeQN"
     },
     {
       "added_at": "2022-09-26 15:14:55",

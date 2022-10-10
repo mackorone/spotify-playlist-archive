@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/ogchaseb/\">Chase B</a>",
-  "num_followers": 0,
+  "num_followers": 116,
   "original_name": "Chase B's Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDY0MDAwMCwwMDAwMDAwMDAwZWQzZDk0MTAwOTI0MmVhZDNhYTk1MTIzOWZmNDgy",
+  "snapshot_id": "MTY2NDY0MDAwMCwwMDAwMDAwMGM1MjgzNzA0YWZjYWIzYmU1ZjNkZGRiNzU0MGFjMDQ4",
   "tracks": [
     {
       "added_at": "2022-10-01 16:00:00",
@@ -207,22 +207,6 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "hooligan / sons & critics",
-        "url": "https://open.spotify.com/album/3DkdRBEwaFuyDTjsrf5dGl"
-      },
-      "artists": [
-        {
-          "name": "Baby Keem",
-          "url": "https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1"
-        }
-      ],
-      "duration_ms": 156774,
-      "name": "hooligan",
-      "url": "https://open.spotify.com/track/02iYJG3KLBJODa5JkQ4O6y"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
         "name": "WUNNA",
         "url": "https://open.spotify.com/album/0gA0nZrZ55PLUp7ARfrICu"
       },
@@ -235,6 +219,22 @@
       "duration_ms": 158240,
       "name": "WUNNA",
       "url": "https://open.spotify.com/track/0y7Ao3CVJsyKFmqdjutiIF"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
+        "name": "hooligan / sons & critics",
+        "url": "https://open.spotify.com/album/3DkdRBEwaFuyDTjsrf5dGl"
+      },
+      "artists": [
+        {
+          "name": "Baby Keem",
+          "url": "https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1"
+        }
+      ],
+      "duration_ms": 156774,
+      "name": "hooligan",
+      "url": "https://open.spotify.com/track/02iYJG3KLBJODa5JkQ4O6y"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -371,6 +371,26 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
+        "name": "So Help Me God!",
+        "url": "https://open.spotify.com/album/5RYrgGSMiYXGF8iwj2i1wF"
+      },
+      "artists": [
+        {
+          "name": "2 Chainz",
+          "url": "https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp"
+        },
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        }
+      ],
+      "duration_ms": 178993,
+      "name": "Money Maker (feat. Lil Wayne)",
+      "url": "https://open.spotify.com/track/5ntqpbNqI2ZXWiPA1Pr46f"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
         "name": "Detroit 2",
         "url": "https://open.spotify.com/album/6slkiHeFK3wW2D1mao0TX3"
       },
@@ -391,26 +411,6 @@
       "duration_ms": 207243,
       "name": "Respect It (with Hit-Boy feat. Young Thug)",
       "url": "https://open.spotify.com/track/4QqTDl0Po7cbaZMcGsZmBg"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
-        "name": "So Help Me God!",
-        "url": "https://open.spotify.com/album/5RYrgGSMiYXGF8iwj2i1wF"
-      },
-      "artists": [
-        {
-          "name": "2 Chainz",
-          "url": "https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp"
-        },
-        {
-          "name": "Lil Wayne",
-          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
-        }
-      ],
-      "duration_ms": 178993,
-      "name": "Money Maker (feat. Lil Wayne)",
-      "url": "https://open.spotify.com/track/5ntqpbNqI2ZXWiPA1Pr46f"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -439,22 +439,6 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "Barnacles",
-        "url": "https://open.spotify.com/album/1oETzMX4n5eWGZhrBbjNgw"
-      },
-      "artists": [
-        {
-          "name": "SahBabii",
-          "url": "https://open.spotify.com/artist/7GuUYiGZOzQwq4L6gAfy1T"
-        }
-      ],
-      "duration_ms": 138926,
-      "name": "Barnacles",
-      "url": "https://open.spotify.com/track/7zHsmufvSqrrYJkDhbkW1T"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
         "name": "Dance Like No One's Watching",
         "url": "https://open.spotify.com/album/1FfR1LHCNsM7DScxws7L0N"
       },
@@ -467,6 +451,42 @@
       "duration_ms": 211396,
       "name": "Dance Like No One\u2019s Watching",
       "url": "https://open.spotify.com/track/2kuYZZvjwzYWPA8L7ICFXn"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
+        "name": "Pluto x Baby Pluto (Deluxe)",
+        "url": "https://open.spotify.com/album/3aITAVBURujVe8fhI2seeR"
+      },
+      "artists": [
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        },
+        {
+          "name": "Lil Uzi Vert",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+        }
+      ],
+      "duration_ms": 186842,
+      "name": "Over Your Head",
+      "url": "https://open.spotify.com/track/7JsuXl9Odf3V38ksu4FWDZ"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
+        "name": "Barnacles",
+        "url": "https://open.spotify.com/album/1oETzMX4n5eWGZhrBbjNgw"
+      },
+      "artists": [
+        {
+          "name": "SahBabii",
+          "url": "https://open.spotify.com/artist/7GuUYiGZOzQwq4L6gAfy1T"
+        }
+      ],
+      "duration_ms": 138926,
+      "name": "Barnacles",
+      "url": "https://open.spotify.com/track/7zHsmufvSqrrYJkDhbkW1T"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -507,26 +527,6 @@
       "duration_ms": 185036,
       "name": "Slidin",
       "url": "https://open.spotify.com/track/1ztkjvyidhhYNg1QSG3KjA"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
-        "name": "Pluto x Baby Pluto (Deluxe)",
-        "url": "https://open.spotify.com/album/3aITAVBURujVe8fhI2seeR"
-      },
-      "artists": [
-        {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
-        },
-        {
-          "name": "Lil Uzi Vert",
-          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
-        }
-      ],
-      "duration_ms": 186842,
-      "name": "Over Your Head",
-      "url": "https://open.spotify.com/track/7JsuXl9Odf3V38ksu4FWDZ"
     },
     {
       "added_at": "2022-10-01 16:00:00",

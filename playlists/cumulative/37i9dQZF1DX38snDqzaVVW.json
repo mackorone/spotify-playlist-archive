@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Shafqat Amanat Ali with his favourite tracks this Ramadan.",
+  "description": "Track from Muslims around the world. Cover: Salim-Sulaiman, Ayisha Abdul Basith, Salim Merchant",
   "name": "Salam!",
   "published_playlist_ids": [
     "7MSqaDSzxaFqFJKHv6785m"
@@ -19,7 +19,7 @@
       ],
       "date_added": "2021-10-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-01",
+      "date_removed": null,
       "duration_ms": 141360,
       "name": "A Lam\u00e8n",
       "url": "https://open.spotify.com/track/4bT1rl9bnULJw7ivrXozfQ"
@@ -41,7 +41,7 @@
       ],
       "date_added": "2022-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-07",
       "duration_ms": 507000,
       "name": "Aaqa - Coke Studio Season 9",
       "url": "https://open.spotify.com/track/7ullpqaNSeTxBObPH8djXd"
@@ -74,6 +74,32 @@
     },
     {
       "album": {
+        "name": "Rock'n'Ra\u00ef",
+        "url": "https://open.spotify.com/album/3Jnmgp39WIXFLcPzUDsaRH"
+      },
+      "artists": [
+        {
+          "name": "Rachid Taha",
+          "url": "https://open.spotify.com/artist/2URqJkDiySO0FRiAUq75FV"
+        },
+        {
+          "name": "Faudel",
+          "url": "https://open.spotify.com/artist/3z7JrEEE9McrDXpYigPncZ"
+        },
+        {
+          "name": "Khaled",
+          "url": "https://open.spotify.com/artist/28ztjHIXceRRntmTUfnmUX"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300426,
+      "name": "Abdel Kader - Live \u00e0 Bercy, Paris / 1998",
+      "url": "https://open.spotify.com/track/35WrDt7pX6fg7JLJ2fkuaM"
+    },
+    {
+      "album": {
         "name": "Tin Hinane",
         "url": "https://open.spotify.com/album/58tahxJBcMrtsbp0s3amh2"
       },
@@ -85,7 +111,7 @@
       ],
       "date_added": "2021-10-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-01",
+      "date_removed": null,
       "duration_ms": 304080,
       "name": "Akaline",
       "url": "https://open.spotify.com/track/0V9DjtOmk3yxz8HeEyxYsY"
@@ -110,6 +136,24 @@
     },
     {
       "album": {
+        "name": "Music In Exile",
+        "url": "https://open.spotify.com/album/5zpmNObCgAASco8nNJXIkb"
+      },
+      "artists": [
+        {
+          "name": "Songhoy Blues",
+          "url": "https://open.spotify.com/artist/5fpQ5Qt2BKgoVBSMw4Z17Z"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223960,
+      "name": "Al Hassidi Terei",
+      "url": "https://open.spotify.com/track/4T86ekCWvGFiFxoa1fLssp"
+    },
+    {
+      "album": {
         "name": "Al Sourah (The Photo)",
         "url": "https://open.spotify.com/album/6ZIkpdcwNKpPwT05nVe1aj"
       },
@@ -121,7 +165,7 @@
       ],
       "date_added": "2021-10-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-01",
+      "date_removed": null,
       "duration_ms": 543976,
       "name": "Al Sourah (The Photo)",
       "url": "https://open.spotify.com/track/4SCrXi9ykaO1ARxy3LpoDX"
@@ -161,7 +205,7 @@
       ],
       "date_added": "2022-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-07",
       "duration_ms": 254120,
       "name": "Ali Moula",
       "url": "https://open.spotify.com/track/6Xrt06njNbpLPRDY1NbCXs"
@@ -187,7 +231,7 @@
       ],
       "date_added": "2022-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-07",
       "duration_ms": 416746,
       "name": "Allah Hu",
       "url": "https://open.spotify.com/track/5COYSZGnYxlkoPYU2N9a8H"
@@ -205,7 +249,7 @@
       ],
       "date_added": "2021-10-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-01",
+      "date_removed": null,
       "duration_ms": 271280,
       "name": "Allah Uya",
       "url": "https://open.spotify.com/track/5GhrRWZZez52XUAlZ3aHRE"
@@ -227,6 +271,24 @@
       "duration_ms": 210213,
       "name": "Allah Wakbarr",
       "url": "https://open.spotify.com/track/0Mx5cSlbWSOtsf9kHVqIOw"
+    },
+    {
+      "album": {
+        "name": "Allah Wakbarr",
+        "url": "https://open.spotify.com/album/0RSCRrXDarngfb85RoFR2i"
+      },
+      "artists": [
+        {
+          "name": "Ofo The Black Company",
+          "url": "https://open.spotify.com/artist/0BX4K3xwLgIqMqza4yS8eI"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212146,
+      "name": "Allah Wakbarr",
+      "url": "https://open.spotify.com/track/0OZuyF5vpDnlugDqwUivf9"
     },
     {
       "album": {
@@ -263,7 +325,7 @@
       ],
       "date_added": "2022-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-07",
       "duration_ms": 519405,
       "name": "Allahu Akbar",
       "url": "https://open.spotify.com/track/0oulvgKe81qlq8UvIW3uha"
@@ -281,10 +343,28 @@
       ],
       "date_added": "2021-10-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-01",
+      "date_removed": null,
       "duration_ms": 257666,
       "name": "Amzagh",
       "url": "https://open.spotify.com/track/56HN4bEP56M0qCGOArBap2"
+    },
+    {
+      "album": {
+        "name": "Sousoume Tamachek",
+        "url": "https://open.spotify.com/album/1GivKstj7AyHIbd6z8jTYX"
+      },
+      "artists": [
+        {
+          "name": "Mdou Moctar",
+          "url": "https://open.spotify.com/artist/48dgx7iGqLQ3E5KO3pzd94"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 396800,
+      "name": "Anar",
+      "url": "https://open.spotify.com/track/0Z25GoSOBwFgFhQicajNkT"
     },
     {
       "album": {
@@ -303,6 +383,24 @@
       "duration_ms": 396800,
       "name": "Anar",
       "url": "https://open.spotify.com/track/5Pyb7N1zmY7ITJPMwf0LXm"
+    },
+    {
+      "album": {
+        "name": "Anou Malane",
+        "url": "https://open.spotify.com/album/65jwU55tBTrTj5zjOUUJW7"
+      },
+      "artists": [
+        {
+          "name": "Abdallah Oumbadougou",
+          "url": "https://open.spotify.com/artist/29uudPDBxe9VchRED2cfD6"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300768,
+      "name": "Anou Malane",
+      "url": "https://open.spotify.com/track/5ZGZMUwUqgyKwqi8Hsf59Q"
     },
     {
       "album": {
@@ -335,7 +433,7 @@
       ],
       "date_added": "2021-10-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-01",
+      "date_removed": null,
       "duration_ms": 278000,
       "name": "Argos Farfish",
       "url": "https://open.spotify.com/track/3TosvXBW7zPlflPogA1dBV"
@@ -353,7 +451,7 @@
       ],
       "date_added": "2021-10-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-01",
+      "date_removed": null,
       "duration_ms": 186600,
       "name": "Ashraf Al Araab",
       "url": "https://open.spotify.com/track/67i5XcT7Ry0Y7wzRegExsh"
@@ -425,7 +523,7 @@
       ],
       "date_added": "2021-10-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-01",
+      "date_removed": null,
       "duration_ms": 299102,
       "name": "Aw'at Ya Donya",
       "url": "https://open.spotify.com/track/5qUImdujG67dNsT4m4ZVWp"
@@ -443,7 +541,7 @@
       ],
       "date_added": "2021-10-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-01",
+      "date_removed": null,
       "duration_ms": 236360,
       "name": "Aya Benzer",
       "url": "https://open.spotify.com/track/49Iygx392WIEaP29lq7FOR"
@@ -479,7 +577,7 @@
       ],
       "date_added": "2022-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-07",
       "duration_ms": 528684,
       "name": "Balaghal Ula Be Kamalihi - Coke Studio Season 11",
       "url": "https://open.spotify.com/track/3JHjtY0r0WXjBsLAQxHvO4"
@@ -497,7 +595,7 @@
       ],
       "date_added": "2021-10-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-01",
+      "date_removed": null,
       "duration_ms": 278883,
       "name": "Bektoub Ismak Ya Habibi",
       "url": "https://open.spotify.com/track/0OgrwAadibZsIz2g1OS7Ig"
@@ -515,10 +613,32 @@
       ],
       "date_added": "2022-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-07",
       "duration_ms": 1193923,
       "name": "Bhar Do Jholi Meri",
       "url": "https://open.spotify.com/track/3TDdtOJHNegr41uz3eAKE7"
+    },
+    {
+      "album": {
+        "name": "Obiaa!",
+        "url": "https://open.spotify.com/album/3ryOYwvg9H8S0Kq779Tot7"
+      },
+      "artists": [
+        {
+          "name": "Pat Thomas",
+          "url": "https://open.spotify.com/artist/6bDPzH0ZXkaMcXYlcQ2yoy"
+        },
+        {
+          "name": "Kwashibu Area Band",
+          "url": "https://open.spotify.com/artist/53PQcfQVWV5FU1Mh7Of1yP"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 354374,
+      "name": "Bubu",
+      "url": "https://open.spotify.com/track/4d7WDlyaMZvG7AFIG0XHJZ"
     },
     {
       "album": {
@@ -573,10 +693,28 @@
       ],
       "date_added": "2021-10-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-01",
+      "date_removed": null,
       "duration_ms": 274040,
       "name": "Chemaa",
       "url": "https://open.spotify.com/track/68eRlRXEZk1iMr0AdW78jD"
+    },
+    {
+      "album": {
+        "name": "Amassakoul",
+        "url": "https://open.spotify.com/album/0HtXxCOzxI722dtwJ7ukyv"
+      },
+      "artists": [
+        {
+          "name": "Tinariwen",
+          "url": "https://open.spotify.com/artist/2sf2owtFSCvz2MLfxmNdkb"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232840,
+      "name": "Chet Boghassa",
+      "url": "https://open.spotify.com/track/3q3fajucnQJuVlk7nM0jw1"
     },
     {
       "album": {
@@ -613,7 +751,7 @@
       ],
       "date_added": "2021-10-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-01",
+      "date_removed": null,
       "duration_ms": 446826,
       "name": "Diaraby (with Ry Cooder)",
       "url": "https://open.spotify.com/track/1WmRNq13XPvbmIRcZljM3D"
@@ -638,6 +776,24 @@
     },
     {
       "album": {
+        "name": "Acoustic Classics",
+        "url": "https://open.spotify.com/album/0jCVyzxYUUOyKYYlBUjGV0"
+      },
+      "artists": [
+        {
+          "name": "Richard Thompson",
+          "url": "https://open.spotify.com/artist/5w75MoT8FfcGOMgjgrj1cz"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198960,
+      "name": "Dimming of the Day",
+      "url": "https://open.spotify.com/track/4SWme0PjIFPTwXLyVWGgOI"
+    },
+    {
+      "album": {
         "name": "Macir\u00e9 (Kar Kar)",
         "url": "https://open.spotify.com/album/3On4vsdEZhu65FuG6xXiQr"
       },
@@ -649,7 +805,7 @@
       ],
       "date_added": "2021-10-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-01",
+      "date_removed": null,
       "duration_ms": 233866,
       "name": "Duna ma yelema",
       "url": "https://open.spotify.com/track/6luGztVGxfGDfaqpONWUAS"
@@ -674,6 +830,24 @@
     },
     {
       "album": {
+        "name": "Eghass Malan",
+        "url": "https://open.spotify.com/album/3ri5Fj0vI09Dhex4hnGxfn"
+      },
+      "artists": [
+        {
+          "name": "Les Filles de Illighadad",
+          "url": "https://open.spotify.com/artist/45EoOvcenErsYkaJUnqjJv"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289373,
+      "name": "Eghass Malan",
+      "url": "https://open.spotify.com/track/79ewF7kpGeCwdZBuj8I8KN"
+    },
+    {
+      "album": {
         "name": "I Look, I See 2",
         "url": "https://open.spotify.com/album/7omcE48OJuP5tSMHETMvu2"
       },
@@ -685,7 +859,7 @@
       ],
       "date_added": "2021-10-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-01",
+      "date_removed": null,
       "duration_ms": 27852,
       "name": "El-Eid",
       "url": "https://open.spotify.com/track/58kXj7LtX3jnEiDHrDi8Up"
@@ -707,6 +881,24 @@
       "duration_ms": 177107,
       "name": "Fi Hadret El Naby",
       "url": "https://open.spotify.com/track/3xbAmCdLUQcvaaYVXRtPae"
+    },
+    {
+      "album": {
+        "name": "Music from Saharan Cellphones, Vol. 2",
+        "url": "https://open.spotify.com/album/6ZpWlc0Q1OM8VEjcsS2RPF"
+      },
+      "artists": [
+        {
+          "name": "Enfant Libya",
+          "url": "https://open.spotify.com/artist/54B1txPNBqgBrbgpixSRbF"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 61440,
+      "name": "Friday",
+      "url": "https://open.spotify.com/track/5IGnoUdp0ZCwOwkK62EPGp"
     },
     {
       "album": {
@@ -775,7 +967,7 @@
       ],
       "date_added": "2022-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-07",
       "duration_ms": 1749173,
       "name": "Haq Ali Ali Maula",
       "url": "https://open.spotify.com/track/5PjqyZ3iFTaQgfSkbIOY1G"
@@ -793,7 +985,7 @@
       ],
       "date_added": "2022-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-07",
       "duration_ms": 258413,
       "name": "Hasbi Rabbi",
       "url": "https://open.spotify.com/track/1VQI2F0o229lNoyFC9d6eh"
@@ -829,7 +1021,7 @@
       ],
       "date_added": "2021-10-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-01",
+      "date_removed": null,
       "duration_ms": 233226,
       "name": "Hubb Ennabi",
       "url": "https://open.spotify.com/track/2qZ7TOLvwtD8uWn5e8qYXc"
@@ -854,6 +1046,24 @@
     },
     {
       "album": {
+        "name": "Jewels Of Thought",
+        "url": "https://open.spotify.com/album/4eqjbUVRGuA1iM9Gt1UhaV"
+      },
+      "artists": [
+        {
+          "name": "Pharoah Sanders",
+          "url": "https://open.spotify.com/artist/3JLUCojZaHrX2LaUkSj7Ud"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 910226,
+      "name": "Hum Allah Hum Allah Hum Allah",
+      "url": "https://open.spotify.com/track/71DfiueMJMIs8D0djEgiyz"
+    },
+    {
+      "album": {
         "name": "Coke Studio Sessions: Season 2",
         "url": "https://open.spotify.com/album/1W9cr6LNkNTfX5YKBOGFMu"
       },
@@ -869,10 +1079,28 @@
       ],
       "date_added": "2022-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-07",
       "duration_ms": 321377,
       "name": "Husn-e-Haqiqi",
       "url": "https://open.spotify.com/track/2Qry5LiUPVW4KBumqJo4Df"
+    },
+    {
+      "album": {
+        "name": "Music from Saharan Cellphones, Vol. 2",
+        "url": "https://open.spotify.com/album/6ZpWlc0Q1OM8VEjcsS2RPF"
+      },
+      "artists": [
+        {
+          "name": "Cheba Wassila",
+          "url": "https://open.spotify.com/artist/0NnO9ATVBWmHMYl3LY9S33"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239693,
+      "name": "Hwa Heda",
+      "url": "https://open.spotify.com/track/4oUUrNivoql0eder2WljEC"
     },
     {
       "album": {
@@ -905,7 +1133,7 @@
       ],
       "date_added": "2022-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-07",
       "duration_ms": 261375,
       "name": "Ishq Ramazan - From \"Ishq Ramazan\"",
       "url": "https://open.spotify.com/track/7v9kVugVA3CQP9mFbnBJ2d"
@@ -923,7 +1151,7 @@
       ],
       "date_added": "2022-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-07",
       "duration_ms": 225906,
       "name": "Jaanam Fida-E-Haideri",
       "url": "https://open.spotify.com/track/5RIxkzoEZwMxJEgthuXk5u"
@@ -941,7 +1169,7 @@
       ],
       "date_added": "2022-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-07",
       "duration_ms": 518689,
       "name": "Kamli Da Dhola",
       "url": "https://open.spotify.com/track/76iTPVZ6hHKxjczCcIrJrc"
@@ -959,7 +1187,7 @@
       ],
       "date_added": "2021-10-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-01",
+      "date_removed": null,
       "duration_ms": 517479,
       "name": "Kara Toprak",
       "url": "https://open.spotify.com/track/7KBwZWuhVfscYVgWMhazEW"
@@ -977,7 +1205,7 @@
       ],
       "date_added": "2022-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-07",
       "duration_ms": 286590,
       "name": "Karam Mangta Hoon",
       "url": "https://open.spotify.com/track/2fUX65guMPXpaCkxg1pJg9"
@@ -999,7 +1227,7 @@
       ],
       "date_added": "2022-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-07",
       "duration_ms": 349615,
       "name": "Kardo Karam",
       "url": "https://open.spotify.com/track/5MznqLWNL6gkiC7Uql7FMc"
@@ -1021,7 +1249,7 @@
       ],
       "date_added": "2022-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-07",
       "duration_ms": 552053,
       "name": "Khudi Ka Sirr-E-Niha",
       "url": "https://open.spotify.com/track/2q9M99cF21590ziA2sbsSq"
@@ -1039,7 +1267,7 @@
       ],
       "date_added": "2021-10-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-01",
+      "date_removed": null,
       "duration_ms": 263314,
       "name": "Kimdi?",
       "url": "https://open.spotify.com/track/1Kxnp6VqY4xNIO561MQJ8b"
@@ -1057,7 +1285,7 @@
       ],
       "date_added": "2021-10-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-01",
+      "date_removed": null,
       "duration_ms": 273286,
       "name": "Koroso",
       "url": "https://open.spotify.com/track/5PYkrbKgSbD9dIN8U8E1jf"
@@ -1083,7 +1311,7 @@
       ],
       "date_added": "2022-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-07",
       "duration_ms": 470500,
       "name": "Kun Faya Kun",
       "url": "https://open.spotify.com/track/7F8RNvTQlvbeBLeenycvN6"
@@ -1119,7 +1347,7 @@
       ],
       "date_added": "2022-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-07",
       "duration_ms": 263407,
       "name": "Kya Hai Ali Ye Nutqay Payamber Batayega",
       "url": "https://open.spotify.com/track/6ix7LFcayNvGcZtGXdJxMR"
@@ -1141,7 +1369,7 @@
       ],
       "date_added": "2021-10-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-01",
+      "date_removed": null,
       "duration_ms": 400960,
       "name": "Lam Tooro",
       "url": "https://open.spotify.com/track/6RXdIw5UTnCIIcWjFvBeis"
@@ -1177,7 +1405,7 @@
       ],
       "date_added": "2022-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-07",
       "duration_ms": 173061,
       "name": "Manqabat (Ya Ali)",
       "url": "https://open.spotify.com/track/0ZsNuSiKfbDHwOCT7HojSE"
@@ -1199,7 +1427,7 @@
       ],
       "date_added": "2021-10-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-01",
+      "date_removed": null,
       "duration_ms": 214026,
       "name": "Marley",
       "url": "https://open.spotify.com/track/0syx6Mn8xjTIv2jGuQtTgu"
@@ -1221,7 +1449,7 @@
       ],
       "date_added": "2022-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-07",
       "duration_ms": 508865,
       "name": "Maula Maula",
       "url": "https://open.spotify.com/track/41bOleZs1DSWfxBLtCpSdl"
@@ -1239,7 +1467,7 @@
       ],
       "date_added": "2022-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-07",
       "duration_ms": 508627,
       "name": "Maula Tera Noor",
       "url": "https://open.spotify.com/track/43MM7jOLwi9QQRbGXcz6Tx"
@@ -1257,7 +1485,7 @@
       ],
       "date_added": "2021-10-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-01",
+      "date_removed": null,
       "duration_ms": 270333,
       "name": "Men Ben Elarad",
       "url": "https://open.spotify.com/track/3s0GCg5vy7blO5z3M95B9X"
@@ -1279,7 +1507,7 @@
       ],
       "date_added": "2021-10-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-01",
+      "date_removed": null,
       "duration_ms": 395800,
       "name": "Mouhamadou Bamba",
       "url": "https://open.spotify.com/track/5QdcVm85PHGVXtA14LoG59"
@@ -1315,7 +1543,7 @@
       ],
       "date_added": "2021-10-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-01",
+      "date_removed": null,
       "duration_ms": 318226,
       "name": "Mustt Mustt",
       "url": "https://open.spotify.com/track/3xSz5q0i3aTVD446ucans3"
@@ -1333,7 +1561,7 @@
       ],
       "date_added": "2022-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-07",
       "duration_ms": 313333,
       "name": "Nawaza Hai",
       "url": "https://open.spotify.com/track/3ufmF7hTQHvky89sVw5oN4"
@@ -1351,7 +1579,7 @@
       ],
       "date_added": "2021-10-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-01",
+      "date_removed": null,
       "duration_ms": 431133,
       "name": "Nijaay",
       "url": "https://open.spotify.com/track/3rZn8W62JE6eZrzBLZw95D"
@@ -1391,10 +1619,28 @@
       ],
       "date_added": "2022-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-07",
       "duration_ms": 369562,
       "name": "Noor-E-Ilahi",
       "url": "https://open.spotify.com/track/0haStQZr8cgw5jU121JSeA"
+    },
+    {
+      "album": {
+        "name": "Amassakoul",
+        "url": "https://open.spotify.com/album/0HtXxCOzxI722dtwJ7ukyv"
+      },
+      "artists": [
+        {
+          "name": "Tinariwen",
+          "url": "https://open.spotify.com/artist/2sf2owtFSCvz2MLfxmNdkb"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227800,
+      "name": "Oualahila Ar Tesninam",
+      "url": "https://open.spotify.com/track/1jncnTEAwosbxyLVe0sxnt"
     },
     {
       "album": {
@@ -1434,6 +1680,24 @@
     },
     {
       "album": {
+        "name": "Power Of Soul",
+        "url": "https://open.spotify.com/album/4blKLLF57DrHhUyxtaziZX"
+      },
+      "artists": [
+        {
+          "name": "Idris Muhammad",
+          "url": "https://open.spotify.com/artist/6ghiUK2ao3KcmmDt2pbNzN"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 424160,
+      "name": "Power of Soul",
+      "url": "https://open.spotify.com/track/5YnyA2XqNiD0Rcrma0R0IU"
+    },
+    {
+      "album": {
         "name": "Abu Obaida Hassan & His Tambour: The Shaigiya Sound of Sudan",
         "url": "https://open.spotify.com/album/6nX1I3VbQKyt8AoCGofZYO"
       },
@@ -1445,7 +1709,7 @@
       ],
       "date_added": "2021-10-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-01",
+      "date_removed": null,
       "duration_ms": 495442,
       "name": "Qamar Al Massa (Moon of the Night)",
       "url": "https://open.spotify.com/track/0Us6QgjBhIKXeGU43kiJfT"
@@ -1560,6 +1824,32 @@
     },
     {
       "album": {
+        "name": "Salaam",
+        "url": "https://open.spotify.com/album/2URs3EtQlWwRCg7y4VEBgU"
+      },
+      "artists": [
+        {
+          "name": "Salim\u2013Sulaiman",
+          "url": "https://open.spotify.com/artist/6ohaQzKaXrobAL8paLSaxq"
+        },
+        {
+          "name": "Ayisha Abdul Basith",
+          "url": "https://open.spotify.com/artist/5CK0g8yxcuauorabPxsA5K"
+        },
+        {
+          "name": "Salim Merchant",
+          "url": "https://open.spotify.com/artist/1TbRSunWGZ46mqnapcWxrm"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 306994,
+      "name": "Salaam",
+      "url": "https://open.spotify.com/track/0ekuaPp7dcww2tlJsa3imW"
+    },
+    {
+      "album": {
         "name": "Lamp Fall",
         "url": "https://open.spotify.com/album/2bO5zAnAVOkBwiEngpFHmn"
       },
@@ -1571,7 +1861,7 @@
       ],
       "date_added": "2021-10-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-01",
+      "date_removed": null,
       "duration_ms": 277280,
       "name": "Sante Yalla",
       "url": "https://open.spotify.com/track/1fyJioPh0qZQUHY9mBwnHY"
@@ -1611,7 +1901,7 @@
       ],
       "date_added": "2022-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-07",
       "duration_ms": 275413,
       "name": "Shan E Ramzan",
       "url": "https://open.spotify.com/track/4hylxbiNeIuj997IECSmqd"
@@ -1665,7 +1955,7 @@
       ],
       "date_added": "2021-10-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-01",
+      "date_removed": null,
       "duration_ms": 370640,
       "name": "Soundiata",
       "url": "https://open.spotify.com/track/4aDPFzgACQHXikR70sRs0S"
@@ -1687,7 +1977,7 @@
       ],
       "date_added": "2021-10-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-01",
+      "date_removed": null,
       "duration_ms": 330186,
       "name": "Syukur (feat. Yusuf Islam)",
       "url": "https://open.spotify.com/track/60i1Mt5fuwxGFFvRR4zr4p"
@@ -1705,7 +1995,7 @@
       ],
       "date_added": "2022-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-07",
       "duration_ms": 782466,
       "name": "Tajdar-E-Haram",
       "url": "https://open.spotify.com/track/5R6920vG1ZLfJRHdtjYLso"
@@ -1741,7 +2031,7 @@
       ],
       "date_added": "2021-10-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-01",
+      "date_removed": null,
       "duration_ms": 323279,
       "name": "Tala'a Al-Badru 'Alayna",
       "url": "https://open.spotify.com/track/2RxSdiXHpxhapIp3ZNXqiF"
@@ -1759,7 +2049,7 @@
       ],
       "date_added": "2021-10-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-01",
+      "date_removed": null,
       "duration_ms": 279346,
       "name": "Tamiditine",
       "url": "https://open.spotify.com/track/2st24VONuY9hqiGAPkhyua"
@@ -1784,6 +2074,24 @@
     },
     {
       "album": {
+        "name": "Ilana (The Creator)",
+        "url": "https://open.spotify.com/album/7qi4bVdiQy8tTtAzwJBd2w"
+      },
+      "artists": [
+        {
+          "name": "Mdou Moctar",
+          "url": "https://open.spotify.com/artist/48dgx7iGqLQ3E5KO3pzd94"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 447083,
+      "name": "Tarhatazed",
+      "url": "https://open.spotify.com/track/7lxN82DVKPmdfPzEXR9ODa"
+    },
+    {
+      "album": {
         "name": "Ethiopiques, Vol. 7: Er\u00e8 m\u00e8la m\u00e8la 1975-1978",
         "url": "https://open.spotify.com/album/0SCNMJwzqp2yEji1HJkGbn"
       },
@@ -1795,7 +2103,7 @@
       ],
       "date_added": "2021-10-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-01",
+      "date_removed": null,
       "duration_ms": 345386,
       "name": "Tezeta",
       "url": "https://open.spotify.com/track/3IJOlBSUMtJ2xfedPGLcLO"
@@ -1820,6 +2128,24 @@
     },
     {
       "album": {
+        "name": "An Other Cup",
+        "url": "https://open.spotify.com/album/1pJxc3mr13IvtcT40cSZXN"
+      },
+      "artists": [
+        {
+          "name": "Yusuf / Cat Stevens",
+          "url": "https://open.spotify.com/artist/08F3Y3SctIlsOEmKd6dnH8"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291719,
+      "name": "The Beloved",
+      "url": "https://open.spotify.com/track/0QmRDEXxnZXID8Nmw4x1Ft"
+    },
+    {
+      "album": {
         "name": "Ya Hayyo Ya Qayyum, Vol. 54",
         "url": "https://open.spotify.com/album/4Lsw8VQzpNtQQHdgvOM9Cs"
       },
@@ -1831,7 +2157,7 @@
       ],
       "date_added": "2022-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-07",
       "duration_ms": 976684,
       "name": "Tu Kuja Man Kuja",
       "url": "https://open.spotify.com/track/0iPhgN8JFxBqpCkbIlgNcn"
@@ -1867,7 +2193,7 @@
       ],
       "date_added": "2021-10-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-01",
+      "date_removed": null,
       "duration_ms": 220733,
       "name": "Umri Prije Smrti",
       "url": "https://open.spotify.com/track/6EO0FVP1JQT7saa6869wtX"
@@ -1885,7 +2211,7 @@
       ],
       "date_added": "2021-10-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-01",
+      "date_removed": null,
       "duration_ms": 155350,
       "name": "Uzun \u0130nce Bir Yolday\u0131m",
       "url": "https://open.spotify.com/track/7jquDCB0srCKiBJp0GuUDx"
@@ -1921,7 +2247,7 @@
       ],
       "date_added": "2021-10-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-01",
+      "date_removed": null,
       "duration_ms": 412840,
       "name": "Warni Warni",
       "url": "https://open.spotify.com/track/3cAeVEM3e2qv2V4lVhMpdR"
@@ -1957,7 +2283,7 @@
       ],
       "date_added": "2022-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-07",
       "duration_ms": 364626,
       "name": "Wohi Khudi Hai - Hamd",
       "url": "https://open.spotify.com/track/3THMwRl9JhZkbzKOn0FjSS"
@@ -1979,7 +2305,7 @@
       ],
       "date_added": "2022-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-07",
       "duration_ms": 318601,
       "name": "Ya Hayyu Ya Qayyum",
       "url": "https://open.spotify.com/track/1ls3yy0y5JFqIt3qd2vGXe"
@@ -1997,7 +2323,7 @@
       ],
       "date_added": "2022-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-07",
       "duration_ms": 296946,
       "name": "Ya Nabi Salam Alayka",
       "url": "https://open.spotify.com/track/5HHjEUuf9lNhQWJ1pZeGgI"
@@ -2051,7 +2377,7 @@
       ],
       "date_added": "2022-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-07",
       "duration_ms": 271000,
       "name": "Ya Rabbil Alameen",
       "url": "https://open.spotify.com/track/6z95hvERZO7pG9pd1GyN7K"
@@ -2073,6 +2399,24 @@
       "duration_ms": 189876,
       "name": "Ya Ramadan",
       "url": "https://open.spotify.com/track/4qQH8be2uy8HCBFZSbJSVZ"
+    },
+    {
+      "album": {
+        "name": "Carte Blanche",
+        "url": "https://open.spotify.com/album/7focbr8gdZ0kgWDueX6rrF"
+      },
+      "artists": [
+        {
+          "name": "Rachid Taha",
+          "url": "https://open.spotify.com/artist/2URqJkDiySO0FRiAUq75FV"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 374466,
+      "name": "Ya Rayah",
+      "url": "https://open.spotify.com/track/57vLKSsU2gUirCUpUttlX2"
     },
     {
       "album": {
@@ -2105,7 +2449,7 @@
       ],
       "date_added": "2021-10-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-01",
+      "date_removed": null,
       "duration_ms": 217826,
       "name": "Yemken",
       "url": "https://open.spotify.com/track/26JuAynBHsCo0GvmT43gGC"
@@ -2127,6 +2471,24 @@
       "duration_ms": 193292,
       "name": "You Are My Sunshine",
       "url": "https://open.spotify.com/track/2Gny078PSF12O1aBcv0Ck2"
+    },
+    {
+      "album": {
+        "name": "Tell 'Em I'm Gone",
+        "url": "https://open.spotify.com/album/7K3ZqU69hSFJjhIDuUrujP"
+      },
+      "artists": [
+        {
+          "name": "Yusuf / Cat Stevens",
+          "url": "https://open.spotify.com/artist/08F3Y3SctIlsOEmKd6dnH8"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193292,
+      "name": "You Are My Sunshine",
+      "url": "https://open.spotify.com/track/7CpgcbEqRxOMAFelj7bZBa"
     },
     {
       "album": {

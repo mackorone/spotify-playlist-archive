@@ -1,15 +1,183 @@
 {
-  "description": "\u017deny v pln\u00e9 s\u00edle. Poslouchej EQUAL CZ&SK. Cover: Katari\u0301na Knechtova",
-  "num_followers": 3139,
+  "description": "\u017deny v pln\u00e9 s\u00edle. Poslouchej EQUAL CZ&SK. Cover: Maella ",
+  "num_followers": 3229,
   "original_name": "EQUAL CZ&SK",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjUwMTYwMCwwMDAwMDAwMDYwYzNlOWE4NzRkYzUyNTYzNmMwNWM1MTY2ZTk3MTcz",
+  "snapshot_id": "MTY2NDkyMDgwMCwwMDAwMDAwMDIyOWY0NDUyOGQwYTcxMmQwM2RlNDA1NTBlODQ1Mzg0",
   "tracks": [
     {
-      "added_at": "2022-09-06 22:00:00",
+      "added_at": "2022-10-04 22:00:00",
+      "album": {
+        "name": "Slow Burn",
+        "url": "https://open.spotify.com/album/3rsmCfSkLjDUcjSembmp3S"
+      },
+      "artists": [
+        {
+          "name": "Maella",
+          "url": "https://open.spotify.com/artist/5fj7pxTryEpCSP1Fnde8GY"
+        }
+      ],
+      "duration_ms": 160903,
+      "name": "Tudu Tudu Tu",
+      "url": "https://open.spotify.com/track/4FOCWMx3Xl36xlEQoEYmpn"
+    },
+    {
+      "added_at": "2022-10-04 22:00:00",
+      "album": {
+        "name": "Oh my mind",
+        "url": "https://open.spotify.com/album/2glevWrlWJ7Qy0P3yy1P9O"
+      },
+      "artists": [
+        {
+          "name": "Tamara Kramar",
+          "url": "https://open.spotify.com/artist/5oUUInn3oIsijfbnrmlYhT"
+        }
+      ],
+      "duration_ms": 171191,
+      "name": "Oh my mind",
+      "url": "https://open.spotify.com/track/11xhklamG0Y8fOwufeugtK"
+    },
+    {
+      "added_at": "2022-10-04 22:00:00",
+      "album": {
+        "name": "Am\u00e9lie",
+        "url": "https://open.spotify.com/album/0oGMYpFEygQiavNUHfiO1W"
+      },
+      "artists": [
+        {
+          "name": "Ivana Korolov\u00e1",
+          "url": "https://open.spotify.com/artist/5ZpCmHPGMuIfAcHWcg8hSs"
+        }
+      ],
+      "duration_ms": 204064,
+      "name": "Am\u00e9lie",
+      "url": "https://open.spotify.com/track/5S5jalbmEC2I8i5wNYw7v5"
+    },
+    {
+      "added_at": "2022-10-04 22:00:00",
+      "album": {
+        "name": "P\u00fa\u0161\u0165am.",
+        "url": "https://open.spotify.com/album/3wsaYtM0jTM9ElZ8ZB7ckt"
+      },
+      "artists": [
+        {
+          "name": "Andrea Bu\u010dko",
+          "url": "https://open.spotify.com/artist/6O7iwVU43KGn29YjTMYIoC"
+        }
+      ],
+      "duration_ms": 266000,
+      "name": "T\u00fa\u017ebou \u0165a zabol\u00edm",
+      "url": "https://open.spotify.com/track/2UofgvTqDgEsQhDQUsQsWk"
+    },
+    {
+      "added_at": "2022-10-04 22:00:00",
+      "album": {
+        "name": "No\u010dn\u00ed expres",
+        "url": "https://open.spotify.com/album/3bkKF5lhfhvU7o0G4wM4HO"
+      },
+      "artists": [
+        {
+          "name": "Nebe",
+          "url": "https://open.spotify.com/artist/3T6mvF7JBIjSiloZFbqvO3"
+        },
+        {
+          "name": "Eva Buresova",
+          "url": "https://open.spotify.com/artist/2wqjvdaJ8YYyZpJDptlFtu"
+        }
+      ],
+      "duration_ms": 195432,
+      "name": "No\u010dn\u00ed expres",
+      "url": "https://open.spotify.com/track/4DE6brR7Gij10lkKZXp6Hk"
+    },
+    {
+      "added_at": "2022-10-04 22:00:00",
+      "album": {
+        "name": "A Walk in the Dark",
+        "url": "https://open.spotify.com/album/6iIJtS5FA0XZJIhAba135j"
+      },
+      "artists": [
+        {
+          "name": "&Tilly",
+          "url": "https://open.spotify.com/artist/6ywghg7NMnYNOY8HVATu1N"
+        }
+      ],
+      "duration_ms": 231500,
+      "name": "A Walk in the Dark",
+      "url": "https://open.spotify.com/track/1YkKRJHnecfO8PelJgljBs"
+    },
+    {
+      "added_at": "2022-10-04 22:00:00",
+      "album": {
+        "name": "ethereal grounds",
+        "url": "https://open.spotify.com/album/5jwY7V7mNJXKA9InKWAnH8"
+      },
+      "artists": [
+        {
+          "name": "Blanch",
+          "url": "https://open.spotify.com/artist/58seNHnaqbR3JSxRVfmerT"
+        }
+      ],
+      "duration_ms": 228015,
+      "name": "light",
+      "url": "https://open.spotify.com/track/6KZ2uhPOlewuJc4NzbGy44"
+    },
+    {
+      "added_at": "2022-10-04 22:00:00",
+      "album": {
+        "name": "NTL",
+        "url": "https://open.spotify.com/album/2T7ngdZyms0QKlsCkZpba8"
+      },
+      "artists": [
+        {
+          "name": "eli michaili",
+          "url": "https://open.spotify.com/artist/0ZYXrJtxFHXVFPt1bkRFdJ"
+        },
+        {
+          "name": "Laris Diam",
+          "url": "https://open.spotify.com/artist/3n5JZ8h7BN3BiCzKZVF30i"
+        }
+      ],
+      "duration_ms": 190836,
+      "name": "NTL",
+      "url": "https://open.spotify.com/track/3cSfzkIzBA1lr7lB6Vs2Xo"
+    },
+    {
+      "added_at": "2022-10-04 22:00:00",
+      "album": {
+        "name": "Rebarbora",
+        "url": "https://open.spotify.com/album/5zvCPwQy7Tb5Gg8XyTcIZF"
+      },
+      "artists": [
+        {
+          "name": "JANA A JA",
+          "url": "https://open.spotify.com/artist/5FecktDzLZJ73dHCG5MNWc"
+        }
+      ],
+      "duration_ms": 346162,
+      "name": "Rebarbora",
+      "url": "https://open.spotify.com/track/2YOKrTWXt0cFfXIq5gJuLh"
+    },
+    {
+      "added_at": "2022-10-04 22:00:00",
+      "album": {
+        "name": "Nemaj strach",
+        "url": "https://open.spotify.com/album/2EhB6GPXcvy2cRIw1cFctL"
+      },
+      "artists": [
+        {
+          "name": "LIIA",
+          "url": "https://open.spotify.com/artist/6DwhdII89PAealSoWKSXU4"
+        }
+      ],
+      "duration_ms": 196411,
+      "name": "Nemaj strach",
+      "url": "https://open.spotify.com/track/1uSr5MtSEJ9i3Ico6xAeTj"
+    },
+    {
+      "added_at": "2022-10-04 22:00:00",
       "album": {
         "name": "Ver\u00edm",
         "url": "https://open.spotify.com/album/0SZQhC66vnT1mI56oQDatX"
@@ -25,7 +193,7 @@
       "url": "https://open.spotify.com/track/4wVBzqaWU4apXIpQPtV761"
     },
     {
-      "added_at": "2022-09-06 22:00:00",
+      "added_at": "2022-10-04 22:00:00",
       "album": {
         "name": "Heartbreak Culture",
         "url": "https://open.spotify.com/album/4tBMHWT12lc9PX4xNloyz7"
@@ -41,91 +209,7 @@
       "url": "https://open.spotify.com/track/4MMJbS1RLxovnQ7KWrD9ro"
     },
     {
-      "added_at": "2022-09-06 22:00:00",
-      "album": {
-        "name": "KIDNAP ME PLS",
-        "url": "https://open.spotify.com/album/7gR7TjkbGXEPhQMLnqyuLs"
-      },
-      "artists": [
-        {
-          "name": "ANNABELLE",
-          "url": "https://open.spotify.com/artist/6ge7MfOUbSmEvDxOaHeKOm"
-        }
-      ],
-      "duration_ms": 162739,
-      "name": "SnOWfLAkE",
-      "url": "https://open.spotify.com/track/2zIbl1gHuqMgXnC6bxURWW"
-    },
-    {
-      "added_at": "2022-09-06 22:00:00",
-      "album": {
-        "name": "Lila",
-        "url": "https://open.spotify.com/album/5RgZJWdZUJmxDrHoavId7i"
-      },
-      "artists": [
-        {
-          "name": "Mark\u00e9ta Irglov\u00e1",
-          "url": "https://open.spotify.com/artist/4SklVMGMsWTq7cJd9MixUx"
-        }
-      ],
-      "duration_ms": 186756,
-      "name": "Love Stayed With Me",
-      "url": "https://open.spotify.com/track/56RHNouupvzg1nbKkXlDsD"
-    },
-    {
-      "added_at": "2022-09-06 22:00:00",
-      "album": {
-        "name": "N\u00e1dhern\u00fd de\u0148",
-        "url": "https://open.spotify.com/album/5ZcPS7zyjR9emfCmPajYYI"
-      },
-      "artists": [
-        {
-          "name": "Zuzana Kudov\u00e1",
-          "url": "https://open.spotify.com/artist/3g7vWifmj7qRmNwAR7K1Fc"
-        }
-      ],
-      "duration_ms": 119008,
-      "name": "N\u00e1dhern\u00fd de\u0148",
-      "url": "https://open.spotify.com/track/4Vj6uqVryCg8v3QshrKem7"
-    },
-    {
-      "added_at": "2022-09-06 22:00:00",
-      "album": {
-        "name": "TANCUJ",
-        "url": "https://open.spotify.com/album/4qRmydErehz9mGPDaD3wFy"
-      },
-      "artists": [
-        {
-          "name": "Zuzana Mikulcova",
-          "url": "https://open.spotify.com/artist/3DuhjH3LQhXz6nV3rNu7pd"
-        },
-        {
-          "name": "Beata Hlavenkov\u00e1",
-          "url": "https://open.spotify.com/artist/68dZWan7YTk0CRUFAcnL5a"
-        }
-      ],
-      "duration_ms": 243355,
-      "name": "TANCUJ",
-      "url": "https://open.spotify.com/track/4XDSJ5hVJzBGydcFhXXcoh"
-    },
-    {
-      "added_at": "2022-09-06 22:00:00",
-      "album": {
-        "name": "HEARTBREAK CULTURE",
-        "url": "https://open.spotify.com/album/0h4ltIAXfZL6eknfLjgAfX"
-      },
-      "artists": [
-        {
-          "name": "Lenny",
-          "url": "https://open.spotify.com/artist/2KRtorIOtz60uFtab8N89y"
-        }
-      ],
-      "duration_ms": 192906,
-      "name": "Animal",
-      "url": "https://open.spotify.com/track/1guMgGOENhgW76OGn4DUj5"
-    },
-    {
-      "added_at": "2022-09-06 22:00:00",
+      "added_at": "2022-10-04 22:00:00",
       "album": {
         "name": "High Speed",
         "url": "https://open.spotify.com/album/3wTJ3PFS3cbO2IJ84CMBQu"
@@ -145,7 +229,107 @@
       "url": "https://open.spotify.com/track/0YWbgC0vX8kvSv40l3KrIw"
     },
     {
-      "added_at": "2022-09-06 22:00:00",
+      "added_at": "2022-10-04 22:00:00",
+      "album": {
+        "name": "N\u00e1dhern\u00fd de\u0148",
+        "url": "https://open.spotify.com/album/5ZcPS7zyjR9emfCmPajYYI"
+      },
+      "artists": [
+        {
+          "name": "Zuzana Kudov\u00e1",
+          "url": "https://open.spotify.com/artist/3g7vWifmj7qRmNwAR7K1Fc"
+        }
+      ],
+      "duration_ms": 119008,
+      "name": "N\u00e1dhern\u00fd de\u0148",
+      "url": "https://open.spotify.com/track/4Vj6uqVryCg8v3QshrKem7"
+    },
+    {
+      "added_at": "2022-10-04 22:00:00",
+      "album": {
+        "name": "TANCUJ",
+        "url": "https://open.spotify.com/album/4qRmydErehz9mGPDaD3wFy"
+      },
+      "artists": [
+        {
+          "name": "Zuzana Mikulcova",
+          "url": "https://open.spotify.com/artist/3DuhjH3LQhXz6nV3rNu7pd"
+        },
+        {
+          "name": "Beata Hlavenkov\u00e1",
+          "url": "https://open.spotify.com/artist/68dZWan7YTk0CRUFAcnL5a"
+        }
+      ],
+      "duration_ms": 243355,
+      "name": "TANCUJ",
+      "url": "https://open.spotify.com/track/4XDSJ5hVJzBGydcFhXXcoh"
+    },
+    {
+      "added_at": "2022-10-04 22:00:00",
+      "album": {
+        "name": "\u010co zostalo z n\u00e1s",
+        "url": "https://open.spotify.com/album/7tt695azTM3LeIv52mfrDi"
+      },
+      "artists": [
+        {
+          "name": "Janais",
+          "url": "https://open.spotify.com/artist/3XRRgP8QPGUrx2gl5B3HNr"
+        }
+      ],
+      "duration_ms": 230000,
+      "name": "\u010co zostalo z n\u00e1s",
+      "url": "https://open.spotify.com/track/3gWgYfMv1LVv1i7F9gUzsS"
+    },
+    {
+      "added_at": "2022-10-04 22:00:00",
+      "album": {
+        "name": "KIDNAP ME PLS",
+        "url": "https://open.spotify.com/album/7gR7TjkbGXEPhQMLnqyuLs"
+      },
+      "artists": [
+        {
+          "name": "ANNABELLE",
+          "url": "https://open.spotify.com/artist/6ge7MfOUbSmEvDxOaHeKOm"
+        }
+      ],
+      "duration_ms": 162739,
+      "name": "SnOWfLAkE",
+      "url": "https://open.spotify.com/track/2zIbl1gHuqMgXnC6bxURWW"
+    },
+    {
+      "added_at": "2022-10-04 22:00:00",
+      "album": {
+        "name": "Lila",
+        "url": "https://open.spotify.com/album/5RgZJWdZUJmxDrHoavId7i"
+      },
+      "artists": [
+        {
+          "name": "Mark\u00e9ta Irglov\u00e1",
+          "url": "https://open.spotify.com/artist/4SklVMGMsWTq7cJd9MixUx"
+        }
+      ],
+      "duration_ms": 186756,
+      "name": "Love Stayed With Me",
+      "url": "https://open.spotify.com/track/56RHNouupvzg1nbKkXlDsD"
+    },
+    {
+      "added_at": "2022-10-04 22:00:00",
+      "album": {
+        "name": "HEARTBREAK CULTURE",
+        "url": "https://open.spotify.com/album/0h4ltIAXfZL6eknfLjgAfX"
+      },
+      "artists": [
+        {
+          "name": "Lenny",
+          "url": "https://open.spotify.com/artist/2KRtorIOtz60uFtab8N89y"
+        }
+      ],
+      "duration_ms": 192906,
+      "name": "Animal",
+      "url": "https://open.spotify.com/track/1guMgGOENhgW76OGn4DUj5"
+    },
+    {
+      "added_at": "2022-10-04 22:00:00",
       "album": {
         "name": "Slovo (From \"Slovo\")",
         "url": "https://open.spotify.com/album/3ytJKacarJhKLDqmXjo6QO"
@@ -165,7 +349,7 @@
       "url": "https://open.spotify.com/track/0vYWJ3nfHrac9jDDB6BLvA"
     },
     {
-      "added_at": "2022-09-06 22:00:00",
+      "added_at": "2022-10-04 22:00:00",
       "album": {
         "name": "Soil",
         "url": "https://open.spotify.com/album/3JWcZrU8fUvGYitKKnf6Va"
@@ -181,23 +365,7 @@
       "url": "https://open.spotify.com/track/3AHHbXEjjpPkQA8ETetnaV"
     },
     {
-      "added_at": "2022-09-06 22:00:00",
-      "album": {
-        "name": "\u010co zostalo z n\u00e1s",
-        "url": "https://open.spotify.com/album/7tt695azTM3LeIv52mfrDi"
-      },
-      "artists": [
-        {
-          "name": "Janais",
-          "url": "https://open.spotify.com/artist/3XRRgP8QPGUrx2gl5B3HNr"
-        }
-      ],
-      "duration_ms": 230000,
-      "name": "\u010co zostalo z n\u00e1s",
-      "url": "https://open.spotify.com/track/3gWgYfMv1LVv1i7F9gUzsS"
-    },
-    {
-      "added_at": "2022-09-06 22:00:00",
+      "added_at": "2022-10-04 22:00:00",
       "album": {
         "name": "S odvahou vlka",
         "url": "https://open.spotify.com/album/5otvLoQQSV8rAdxm1IIHGn"
@@ -213,7 +381,7 @@
       "url": "https://open.spotify.com/track/4hOVPDlBdL52LPG9kYAEGr"
     },
     {
-      "added_at": "2022-09-06 22:00:00",
+      "added_at": "2022-10-04 22:00:00",
       "album": {
         "name": "Letn\u00ed L\u00e1sky",
         "url": "https://open.spotify.com/album/3sM1Nvb1uidmQ4ghlIoXU6"
@@ -229,7 +397,7 @@
       "url": "https://open.spotify.com/track/7gHWVmb1xtGI8u64AWieWL"
     },
     {
-      "added_at": "2022-09-06 22:00:00",
+      "added_at": "2022-10-04 22:00:00",
       "album": {
         "name": "Plastic Flowers",
         "url": "https://open.spotify.com/album/1ED0peXhq1bvjLKVNMbWL6"
@@ -245,7 +413,7 @@
       "url": "https://open.spotify.com/track/733EegAvi6DRptoJSTc2mF"
     },
     {
-      "added_at": "2022-09-06 22:00:00",
+      "added_at": "2022-10-04 22:00:00",
       "album": {
         "name": "oldschool",
         "url": "https://open.spotify.com/album/6hrWQvWiuuldRUyz6ySuEG"
@@ -261,7 +429,7 @@
       "url": "https://open.spotify.com/track/0amHpj8g65iQhVguWl8iO0"
     },
     {
-      "added_at": "2022-09-06 22:00:00",
+      "added_at": "2022-10-04 22:00:00",
       "album": {
         "name": "Girl From A Movie",
         "url": "https://open.spotify.com/album/6t5K3cKJCLqT6OTj5dhLO8"
@@ -277,7 +445,7 @@
       "url": "https://open.spotify.com/track/4JaEvhhoQmAHSGwRWzKNrD"
     },
     {
-      "added_at": "2022-09-06 22:00:00",
+      "added_at": "2022-10-04 22:00:00",
       "album": {
         "name": "Beauty's there",
         "url": "https://open.spotify.com/album/2AW9EfdxbivA2dilGlsWCg"
@@ -293,7 +461,7 @@
       "url": "https://open.spotify.com/track/2i7bqGUbOE3a2HCpjUcpZc"
     },
     {
-      "added_at": "2022-09-06 22:00:00",
+      "added_at": "2022-10-04 22:00:00",
       "album": {
         "name": "\u017dena z oceli (feat. P\u0159emek Forejt)",
         "url": "https://open.spotify.com/album/0EZuJsToN5SAbUuF1JBSub"
@@ -317,7 +485,7 @@
       "url": "https://open.spotify.com/track/7hjagYxU6uixJUJqdrhCCQ"
     },
     {
-      "added_at": "2022-09-06 22:00:00",
+      "added_at": "2022-10-04 22:00:00",
       "album": {
         "name": "The Season",
         "url": "https://open.spotify.com/album/2ok1Xc81dJY1ErSTTTV1YH"
@@ -333,7 +501,7 @@
       "url": "https://open.spotify.com/track/3gQgDA0Io3mXnJ2K1IAv6U"
     },
     {
-      "added_at": "2022-09-06 22:00:00",
+      "added_at": "2022-10-04 22:00:00",
       "album": {
         "name": "Perly",
         "url": "https://open.spotify.com/album/6Zl7wPmMCfCRYqtAcTGCpi"
@@ -349,7 +517,7 @@
       "url": "https://open.spotify.com/track/0fXTo66r7FrhFcUR5ye9OB"
     },
     {
-      "added_at": "2022-09-06 22:00:00",
+      "added_at": "2022-10-04 22:00:00",
       "album": {
         "name": "M\u011bsto",
         "url": "https://open.spotify.com/album/1HcKec0NPufgNkrqGSP6Qd"
@@ -369,7 +537,7 @@
       "url": "https://open.spotify.com/track/3OYekbaUpuUoBWSEqJpsru"
     },
     {
-      "added_at": "2022-09-06 22:00:00",
+      "added_at": "2022-10-04 22:00:00",
       "album": {
         "name": "Restless",
         "url": "https://open.spotify.com/album/4RoasvIB5pyov16k2jqIdt"
@@ -389,7 +557,7 @@
       "url": "https://open.spotify.com/track/6ZXrv1chJHfnFKgGqZtTg9"
     },
     {
-      "added_at": "2022-09-06 22:00:00",
+      "added_at": "2022-10-04 22:00:00",
       "album": {
         "name": "Yesterday",
         "url": "https://open.spotify.com/album/0051NbzTBMiGZERSyvfCsO"
@@ -405,7 +573,7 @@
       "url": "https://open.spotify.com/track/30S6h1M1Ik2uvqNWY9Cdc6"
     },
     {
-      "added_at": "2022-09-06 22:00:00",
+      "added_at": "2022-10-04 22:00:00",
       "album": {
         "name": "Vie\u0161, ani sa nepozn\u00e1me",
         "url": "https://open.spotify.com/album/6iWAiy1KfSrrVDPXrN1FGr"
@@ -421,7 +589,7 @@
       "url": "https://open.spotify.com/track/36Ks8nmkDZOdFfZ2LC054B"
     },
     {
-      "added_at": "2022-09-06 22:00:00",
+      "added_at": "2022-10-04 22:00:00",
       "album": {
         "name": "Ri\u0165",
         "url": "https://open.spotify.com/album/3obDmkHhQ1FJUzuAAeOV1y"
@@ -441,7 +609,7 @@
       "url": "https://open.spotify.com/track/1OlhHf8zcmPfJan6RR2s7h"
     },
     {
-      "added_at": "2022-09-06 22:00:00",
+      "added_at": "2022-10-04 22:00:00",
       "album": {
         "name": "live. laugh. cry",
         "url": "https://open.spotify.com/album/48qPWuZEfqbinvMRdfBKON"
@@ -457,7 +625,7 @@
       "url": "https://open.spotify.com/track/6f7mhbSq9pW2jzoVWgphh5"
     },
     {
-      "added_at": "2022-09-06 22:00:00",
+      "added_at": "2022-10-04 22:00:00",
       "album": {
         "name": "you make me miserable",
         "url": "https://open.spotify.com/album/1AQmAHENyNC8wcz5qXwxsY"
@@ -473,7 +641,7 @@
       "url": "https://open.spotify.com/track/77mZIYNx234Fytm9V9FzUB"
     },
     {
-      "added_at": "2022-09-06 22:00:00",
+      "added_at": "2022-10-04 22:00:00",
       "album": {
         "name": "stuck in the cloud",
         "url": "https://open.spotify.com/album/2uT7r7OByzixVROAuDH6Ex"
@@ -489,7 +657,7 @@
       "url": "https://open.spotify.com/track/3bvzNtR80zFbbVCFjyXt7Y"
     },
     {
-      "added_at": "2022-09-06 22:00:00",
+      "added_at": "2022-10-04 22:00:00",
       "album": {
         "name": "Girls",
         "url": "https://open.spotify.com/album/0Umz5EHGYbWocsZLwVx7TO"
@@ -505,7 +673,7 @@
       "url": "https://open.spotify.com/track/3Sm5jkH3G1FMKiLMa5QKwv"
     },
     {
-      "added_at": "2022-09-06 22:00:00",
+      "added_at": "2022-10-04 22:00:00",
       "album": {
         "name": "Someone Else to Blame",
         "url": "https://open.spotify.com/album/4wn7dbxKpYBq5SAjvgVStQ"
@@ -521,7 +689,7 @@
       "url": "https://open.spotify.com/track/5uz5fCKAkCZdv8eGcMNMIh"
     },
     {
-      "added_at": "2022-09-06 22:00:00",
+      "added_at": "2022-10-04 22:00:00",
       "album": {
         "name": "O Tob\u011b i o mn\u011b",
         "url": "https://open.spotify.com/album/3UhMueV8N3EVKqYVw9fOG4"
@@ -537,7 +705,7 @@
       "url": "https://open.spotify.com/track/3MZNFHa1USLh0XKQmKvsEN"
     },
     {
-      "added_at": "2022-09-06 22:00:00",
+      "added_at": "2022-10-04 22:00:00",
       "album": {
         "name": "Private Poison",
         "url": "https://open.spotify.com/album/5c4WLdjVqpx67TwUQxB9V5"
@@ -553,7 +721,7 @@
       "url": "https://open.spotify.com/track/5rRL6bqYWSzAp3meHMxUl6"
     },
     {
-      "added_at": "2022-09-06 22:00:00",
+      "added_at": "2022-10-04 22:00:00",
       "album": {
         "name": "Right Place Wrong Guy",
         "url": "https://open.spotify.com/album/4Kun5hAcBGWT4uQsDcn9tT"
@@ -569,7 +737,7 @@
       "url": "https://open.spotify.com/track/00YbUbfTzwBOnnmvD8rp9p"
     },
     {
-      "added_at": "2022-09-06 22:00:00",
+      "added_at": "2022-10-04 22:00:00",
       "album": {
         "name": "Sorry",
         "url": "https://open.spotify.com/album/5L4CSWnXl08ehI51nWaaTa"
@@ -593,7 +761,7 @@
       "url": "https://open.spotify.com/track/2NiY72C2sPCYwWM9Ewxj6D"
     },
     {
-      "added_at": "2022-09-06 22:00:00",
+      "added_at": "2022-10-04 22:00:00",
       "album": {
         "name": "Lust For Desire",
         "url": "https://open.spotify.com/album/1mo8FbKEzqEOFahYHXH2sk"
@@ -609,7 +777,7 @@
       "url": "https://open.spotify.com/track/48RpTY7ueuWkDLi1JZAQoP"
     },
     {
-      "added_at": "2022-09-06 22:00:00",
+      "added_at": "2022-10-04 22:00:00",
       "album": {
         "name": "poison apple",
         "url": "https://open.spotify.com/album/0503sn6ndSGtlyFMAgV1VX"
@@ -625,7 +793,7 @@
       "url": "https://open.spotify.com/track/2ywOgBurj2fsaRBMkFKVYp"
     },
     {
-      "added_at": "2022-09-06 22:00:00",
+      "added_at": "2022-10-04 22:00:00",
       "album": {
         "name": "D\u00edvej se na m\u011b",
         "url": "https://open.spotify.com/album/00jRIMoRhtotG3VXTUyKxy"
@@ -641,7 +809,7 @@
       "url": "https://open.spotify.com/track/6OKl82jaG9474QrMrcyKJ4"
     },
     {
-      "added_at": "2022-09-06 22:00:00",
+      "added_at": "2022-10-04 22:00:00",
       "album": {
         "name": "People",
         "url": "https://open.spotify.com/album/0bjJx4LVb3aTNZJ983FeeN"
@@ -657,7 +825,7 @@
       "url": "https://open.spotify.com/track/5L0eYOxlLlXXWtHMk6IPyR"
     },
     {
-      "added_at": "2022-09-06 22:00:00",
+      "added_at": "2022-10-04 22:00:00",
       "album": {
         "name": "Different Kind",
         "url": "https://open.spotify.com/album/3eAjTqG1LTOQMsJxQezFmh"
@@ -673,7 +841,7 @@
       "url": "https://open.spotify.com/track/6pUQYrkUf9G8MXdEMOW4pr"
     },
     {
-      "added_at": "2022-09-06 22:00:00",
+      "added_at": "2022-10-04 22:00:00",
       "album": {
         "name": "Pohoda jazz",
         "url": "https://open.spotify.com/album/3IrYmzYAiUT9C6JkzdDmp3"
@@ -687,170 +855,6 @@
       "duration_ms": 184500,
       "name": "Pohoda jazz",
       "url": "https://open.spotify.com/track/76FKtbVayqE0BXUCm2j0rm"
-    },
-    {
-      "added_at": "2022-09-06 22:00:00",
-      "album": {
-        "name": "Love Me",
-        "url": "https://open.spotify.com/album/4Pen6SsIm16MyloWxz8sVa"
-      },
-      "artists": [
-        {
-          "name": "Vesna",
-          "url": "https://open.spotify.com/artist/44kmUe319y8RNgOU2deqX6"
-        }
-      ],
-      "duration_ms": 208813,
-      "name": "Love Me",
-      "url": "https://open.spotify.com/track/6NIuXestFEmZo0BhK0Sfeb"
-    },
-    {
-      "added_at": "2022-09-06 22:00:00",
-      "album": {
-        "name": "Fire",
-        "url": "https://open.spotify.com/album/0BSuUv2ALCsR9qRuezKBta"
-      },
-      "artists": [
-        {
-          "name": "Nelly",
-          "url": "https://open.spotify.com/artist/1LibaIG9U6IplTTf9XMeNV"
-        }
-      ],
-      "duration_ms": 181717,
-      "name": "Fire",
-      "url": "https://open.spotify.com/track/2IM4jGJBmbyG5CpxxYLupg"
-    },
-    {
-      "added_at": "2022-09-06 22:00:00",
-      "album": {
-        "name": "MAYDAY",
-        "url": "https://open.spotify.com/album/1eIrksNTkaNohbkh8kNuCh"
-      },
-      "artists": [
-        {
-          "name": "Jasmin",
-          "url": "https://open.spotify.com/artist/5m53CoCQ0bkn6L4vHvtn80"
-        }
-      ],
-      "duration_ms": 163520,
-      "name": "MAYDAY",
-      "url": "https://open.spotify.com/track/4JX0m4HeEP7J8S1x3WgtkD"
-    },
-    {
-      "added_at": "2022-09-06 22:00:00",
-      "album": {
-        "name": "Slow Burn",
-        "url": "https://open.spotify.com/album/75djwwayaWWclbockwD90I"
-      },
-      "artists": [
-        {
-          "name": "Maella",
-          "url": "https://open.spotify.com/artist/5fj7pxTryEpCSP1Fnde8GY"
-        }
-      ],
-      "duration_ms": 166268,
-      "name": "Slow Burn",
-      "url": "https://open.spotify.com/track/5EpD11MggncJ9ktRIpfEp4"
-    },
-    {
-      "added_at": "2022-09-06 22:00:00",
-      "album": {
-        "name": "Baggy",
-        "url": "https://open.spotify.com/album/4B0DunLLWMPrBzVshSFCcM"
-      },
-      "artists": [
-        {
-          "name": "Sawsane",
-          "url": "https://open.spotify.com/artist/4RqCdNHpABy3V9tfKsf5QG"
-        },
-        {
-          "name": "Hoodini",
-          "url": "https://open.spotify.com/artist/44yW8xgEVHLSHJRePqLIhw"
-        }
-      ],
-      "duration_ms": 171200,
-      "name": "Baggy",
-      "url": "https://open.spotify.com/track/4EzbWeK6oI75PfoWFBB3tB"
-    },
-    {
-      "added_at": "2022-09-06 22:00:00",
-      "album": {
-        "name": "Kancel\u00e1\u0159",
-        "url": "https://open.spotify.com/album/7GhVvSQAUYJblb40MZzD4w"
-      },
-      "artists": [
-        {
-          "name": "Annie",
-          "url": "https://open.spotify.com/artist/67IQhB57JST5EyO2UrLssN"
-        }
-      ],
-      "duration_ms": 168934,
-      "name": "Kancel\u00e1\u0159",
-      "url": "https://open.spotify.com/track/6IuzpgMwwyRXhUJgiVGZmu"
-    },
-    {
-      "added_at": "2022-09-06 22:00:00",
-      "album": {
-        "name": "All My Pain",
-        "url": "https://open.spotify.com/album/6JAqDVVNtOybUte31lYIoy"
-      },
-      "artists": [
-        {
-          "name": "Sofie",
-          "url": "https://open.spotify.com/artist/04PFwMAplZyzOerV1UcDMw"
-        }
-      ],
-      "duration_ms": 240129,
-      "name": "All My Pain",
-      "url": "https://open.spotify.com/track/0vmWpF1eBbIIGivF6Bj0cY"
-    },
-    {
-      "added_at": "2022-09-06 22:00:00",
-      "album": {
-        "name": "Z dver\u00ed do dver\u00ed",
-        "url": "https://open.spotify.com/album/3YQQVE5fSKrCvhr5B5cd4y"
-      },
-      "artists": [
-        {
-          "name": "JANA A JA",
-          "url": "https://open.spotify.com/artist/5FecktDzLZJ73dHCG5MNWc"
-        }
-      ],
-      "duration_ms": 236969,
-      "name": "Z dver\u00ed do dver\u00ed",
-      "url": "https://open.spotify.com/track/0B3dHQwqwIroUXaUbAICsW"
-    },
-    {
-      "added_at": "2022-09-06 22:00:00",
-      "album": {
-        "name": "P\u016flnoc",
-        "url": "https://open.spotify.com/album/4khu0PnlvU5K2hN1ZgdOvr"
-      },
-      "artists": [
-        {
-          "name": "Tereza Balonov\u00e1",
-          "url": "https://open.spotify.com/artist/1kEe7RHajwXs74RkMIbAhq"
-        }
-      ],
-      "duration_ms": 196513,
-      "name": "P\u016flnoc",
-      "url": "https://open.spotify.com/track/4A9L4HX1otUuiE6ZX1eJuu"
-    },
-    {
-      "added_at": "2022-09-06 22:00:00",
-      "album": {
-        "name": "One and Only",
-        "url": "https://open.spotify.com/album/4YcBmYAW8XgkLjN2seCSny"
-      },
-      "artists": [
-        {
-          "name": "Tea Sofia",
-          "url": "https://open.spotify.com/artist/29VjAXbeZqPa8PSNxF8Q5W"
-        }
-      ],
-      "duration_ms": 211941,
-      "name": "One and Only",
-      "url": "https://open.spotify.com/track/3lsBhGXCLlNaoN4j1addpV"
     }
   ],
   "unique_name": "EQUAL CZ&SK",

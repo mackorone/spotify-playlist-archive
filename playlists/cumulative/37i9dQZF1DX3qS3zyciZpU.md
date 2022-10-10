@@ -4,7 +4,7 @@
 
 > The perfect songs for the perfect day.
 
-131 songs - 7 hr 46 min - [published](https://open.spotify.com/playlist/2tqwvqLztEVOvwl4EXM922)
+132 songs - 7 hr 50 min - [published](https://open.spotify.com/playlist/2tqwvqLztEVOvwl4EXM922)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,6 +85,7 @@
 | [Me and You](https://open.spotify.com/track/3f5rOhrNLYP53c9RcPfp02) | [Kenny Chesney](https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O) | [All I Need To Know](https://open.spotify.com/album/2OWY8X9HTnG6srfrO76bBL) | 3:39 | 2021-09-17 |  |
 | [My Best Friend](https://open.spotify.com/track/5BeY2wY4rGFD1Q3aXO83Bv) | [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd) | [A Place In The Sun](https://open.spotify.com/album/2EkJjknrgd5DeIH2x9HLjD) | 4:39 | 2022-05-23 |  |
 | [My Best Friend](https://open.spotify.com/track/2ruFSNVfeUgYdbo1Nhm8PI) | [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd) | [Love Story](https://open.spotify.com/album/04n1d6ioeumQRlAj0JBID2) | 4:40 | 2021-09-17 | 2022-07-29 |
+| [My Left Hand \(Wedding Version\)](https://open.spotify.com/track/2S7fxN0RqZwAqXuXkVi9Ij) | [Meghan Patrick](https://open.spotify.com/artist/5bQxLohAAiOat0EMYuHjzJ) | [My Left Hand \(Wedding Version\)](https://open.spotify.com/album/59WB1DENlJgW6tC9mElV7Z) | 3:06 | 2022-10-07 |  |
 | [My Little Girl](https://open.spotify.com/track/3dNhdwu8RcaVdrDZ1cAtzx) | [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd) | [McGRAW \(The Ultimate Collection\)](https://open.spotify.com/album/3ytKtBtqdHsj6XzNu0sMCT) | 3:38 | 2021-09-17 |  |
 | [My Person \- Wedding Version](https://open.spotify.com/track/748Cc4tDYwg5m2EWHaWv5k) | [Spencer Crandall](https://open.spotify.com/artist/6to2NJmRWY1h7rLU4c9TyG) | [My Person \(Wedding Version\)](https://open.spotify.com/album/6mNdjdeJhls3CHUYYgeDYV) | 3:04 | 2021-09-17 |  |
 | [My Wish](https://open.spotify.com/track/6Gfmj0HbpvxTdW0sdlzTDU) | [Rascal Flatts](https://open.spotify.com/artist/0a1gHP0HAqALbEyxaD5Ngn) | [Me And My Gang](https://open.spotify.com/album/5XPdkIryKSpTKW21HUtvV0) | 4:08 | 2021-09-17 |  |

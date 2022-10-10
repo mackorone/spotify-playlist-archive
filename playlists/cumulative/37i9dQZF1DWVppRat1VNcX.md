@@ -4,7 +4,7 @@
 
 > Get all your kids' amigos together and play while listening to these awesome tunes!
 
-58 songs - 2 hr 11 min - [published](https://open.spotify.com/playlist/2t1XR7zPkxNpjRkveREXaS)
+59 songs - 2 hr 14 min - [published](https://open.spotify.com/playlist/2t1XR7zPkxNpjRkveREXaS)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,6 +49,7 @@
 | [Me Muevo para Aquí](https://open.spotify.com/track/4HnfVgHmTZ7kzOdZMY0FIt) | [Elenco Junior Express](https://open.spotify.com/artist/1qpObFWDQW9EPFSzAzi71h), [Diego Topa](https://open.spotify.com/artist/3y6NjjMEV0m5fSaz6AXTsa) | [Junior Express \- Grandes Éxitos](https://open.spotify.com/album/32PoW1uZHdQE8Gm3MGSkBG) | 2:48 | 2020-04-22 |  |
 | [My Bologna](https://open.spotify.com/track/77exFA9gOKLvj6yhyX07HD) | ["Weird Al" Yankovic](https://open.spotify.com/artist/1bDWGdIC2hardyt55nlQgG) | ["Weird Al" Yankovic](https://open.spotify.com/album/1gnhuWdl30liEUM2jy9lxl) | 2:01 | 2020-04-22 |  |
 | [Pat\-a\-Cake, Pat\-a\-Cake](https://open.spotify.com/track/1zhTh3nUqFZy63SqFNh8Ih) | [The Countdown Kids](https://open.spotify.com/artist/6PZYFmF3PH6cOREAzfXiAL) | [Fun Songs for Kids](https://open.spotify.com/album/3l5NKqOZFYoXX357okAjBh) | 1:26 | 2020-04-22 |  |
+| [Peanut Butter Jelly Time \- Radio](https://open.spotify.com/track/58LTVQevwHEuLQCCWXLsIw) | [Angry Children](https://open.spotify.com/artist/0HhTjvbn0dkzcacqavJrBM) | [Peanut Butter Jelly Time](https://open.spotify.com/album/3uYjitmRw8Xa7hgucHq6u0) | 2:41 | 2020-04-22 | 2022-10-05 |
 | [Peanut Butter Jelly Time \- Radio](https://open.spotify.com/track/7rv2yO4NDw1xaucLooqdqm) | [Chip\-man & The Buckwheat Boyz](https://open.spotify.com/artist/4pBnYIwZmCVw36kT19KUGd) | [Peanut Butter Jelly Time](https://open.spotify.com/album/1eCj8LkuZORSMMQJIIszDy) | 3:36 | 2020-04-22 |  |
 | [Piggyback Ride](https://open.spotify.com/track/4g4bgFyT6N2pwhS0kTcSGX) | [The Laurie Berkner Band](https://open.spotify.com/artist/6T2pk5T8c4Wi61x1v84sUa) | [Waiting For The Elevator](https://open.spotify.com/album/0e4v336x5GPwp8R5nTUzQd) | 3:09 | 2020-04-22 |  |
 | [Piñata Attack! \(Spanish Version\)](https://open.spotify.com/track/6vB7wGPBsUbF68x2oP49lY) | [Lucky Diaz and the Family Jam Band](https://open.spotify.com/artist/5rsiLbN9VsVXTfgpSGf6po) | [Adelante](https://open.spotify.com/album/0npmHTuGBf093p6kFgZKam) | 2:11 | 2020-04-22 |  |

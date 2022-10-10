@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-25",
-  "description": "New music breaking waves.  Cover: MAVI",
+  "description": "New music breaking waves.  Cover: SHABOOZEY",
   "name": "Ripple Effect",
   "published_playlist_ids": [
     "74YlDMgCbNeMMptS6g5iCD"
@@ -139,6 +139,24 @@
       "duration_ms": 128524,
       "name": "Aint No Fun",
       "url": "https://open.spotify.com/track/5LWAGw2GEbTHDWcV5coWyJ"
+    },
+    {
+      "album": {
+        "name": "All Over This Party",
+        "url": "https://open.spotify.com/album/4ofp2cEcuD3oelw7Qp3ooz"
+      },
+      "artists": [
+        {
+          "name": "Sans Soucis",
+          "url": "https://open.spotify.com/artist/4vXFvvWirlvTwcl184KfDc"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212830,
+      "name": "All Over This Party",
+      "url": "https://open.spotify.com/track/4Wbfb7B6ke5nJZUHX0P7mk"
     },
     {
       "album": {
@@ -1119,7 +1137,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 132505,
       "name": "FINALLY",
       "url": "https://open.spotify.com/track/1qPRRErp0RlPJ74tWj2QJr"
@@ -1329,7 +1347,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 129535,
       "name": "HAHA (feat. Pusha T)",
       "url": "https://open.spotify.com/track/2H01cB8CXFLRc4TriH5UYW"
@@ -1377,7 +1395,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 208901,
       "name": "Hell Shot",
       "url": "https://open.spotify.com/track/60Yi5Vxd5oFcuIxXuerCSU"
@@ -1465,6 +1483,28 @@
       "duration_ms": 185806,
       "name": "How To Kill A Narcissist",
       "url": "https://open.spotify.com/track/7mbWZGbClvFlJnI1wbFlTE"
+    },
+    {
+      "album": {
+        "name": "IDC",
+        "url": "https://open.spotify.com/album/6uIzsp3chN2DLPSA6IW0fI"
+      },
+      "artists": [
+        {
+          "name": "Jordan Ward",
+          "url": "https://open.spotify.com/artist/3DGlTwdM5Dim9XQipb3jMf"
+        },
+        {
+          "name": "Joony",
+          "url": "https://open.spotify.com/artist/0gY0jm6QAzJCAslmZC3T35"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112666,
+      "name": "IDC",
+      "url": "https://open.spotify.com/track/7dXLivL0wsQhxq9D9eIfDr"
     },
     {
       "album": {
@@ -2829,6 +2869,24 @@
       "duration_ms": 175493,
       "name": "Slow",
       "url": "https://open.spotify.com/track/7w9bSUUdghXGjWmYtu6fl6"
+    },
+    {
+      "album": {
+        "name": "Cowboys Live Forever, Outlaws Never Die",
+        "url": "https://open.spotify.com/album/3QEQeBF0NJ5BvvPY8lyWsP"
+      },
+      "artists": [
+        {
+          "name": "Shaboozey",
+          "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144807,
+      "name": "Snake",
+      "url": "https://open.spotify.com/track/6QRDewZDz4f9CJEasgWZKt"
     },
     {
       "album": {

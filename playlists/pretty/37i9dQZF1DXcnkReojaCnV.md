@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcnkReojaCnV.md) - [plain]
 
 > Joe Bonamassa is taking over to share tracks of his new album, alongside his current blues favorites.
 
-[Spotify](https://open.spotify.com/user/spotify) - 461,662 likes - 49 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 462,045 likes - 49 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcnkReojaCnV.md) - [plain]
 | 39 | [Fragile Peace And Certain War](https://open.spotify.com/track/3h3v9Nf0vU8bNr2FGtpYQM) | [Carolyn Wonderland](https://open.spotify.com/artist/0XhsEmCqMW2k9yMl4o8t4n) | [Tempting Fate](https://open.spotify.com/album/5SOM73TJ4GOm9mFzmhaKUv) | 3:59 |
 | 40 | [Shakes The Ground](https://open.spotify.com/track/0bIhE8hHvBIaIHQ4z2zNgl) | [Leon Creek](https://open.spotify.com/artist/1y4kcaSxQkyNAHI9NfzRXz) | [Shakes The Ground](https://open.spotify.com/album/3vV2bcR4rHjTWMCMSo1uFc) | 3:21 |
 | 41 | [Slow Draggin' Blues](https://open.spotify.com/track/7jBwll4dGqGzbORcyueJ1Y) | [Chris Thomas King](https://open.spotify.com/artist/3azQ4yZ4Dt6hPbyNeOOMLN) | [Slow Draggin' Blues](https://open.spotify.com/album/2CeEZiwPOgkSAUIjTZA1AJ) | 5:27 |
-| 42 | [Hellhound on My Trail](https://open.spotify.com/track/1OZcmmX0E2SNrzCq7cVpZf) | [Steve Hill](https://open.spotify.com/artist/2f1hLQKsXGmF9rxdrq6Jt4) | [Hellhound on My Trail](https://open.spotify.com/album/299w06wW02Vkg8CPrysuT6) | 3:55 |
+| 42 | [Hellhound on My Trail](https://open.spotify.com/track/0wHJQJTKS7ZDWSvNgxfkKh) | [Steve Hill](https://open.spotify.com/artist/2f1hLQKsXGmF9rxdrq6Jt4) | [Desert Trip \(Deluxe\)](https://open.spotify.com/album/0a07hwj21fdVC5CJx9ETkr) | 3:55 |
 | 43 | [Angel In The Alleyways](https://open.spotify.com/track/4q0iE01soDpTD7jObdxTX9) | [Dion](https://open.spotify.com/artist/15FyiY3ChN0QRspHIQYq0W), [Patti Scialfa](https://open.spotify.com/artist/6kZQOOVmBEdPxeWYe4xbDj), [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Angel In The Alleyways](https://open.spotify.com/album/0dDD5xoKda8099F4wTuByT) | 4:20 |
 | 44 | [Lissa's Song](https://open.spotify.com/track/1zwnTZVdOd85R5XFpV6vqf) | [Luke Winslow\-King](https://open.spotify.com/artist/1VN3hs1Ra3vupNT3zN3baC) | [Lissa's Song](https://open.spotify.com/album/2PDEbqRQ2nlVwPTuQcmvhU) | 5:07 |
 | 45 | [Serves Me Right to Suffer](https://open.spotify.com/track/1jCCnIrsE2VSxxXO1u0SNY) | [The Reverend Shawn Amos](https://open.spotify.com/artist/2XfNsXm2GClde2U0tZpBQT) | [The Cause of It All](https://open.spotify.com/album/3ppJZy5wj282RpH5M3ld1a) | 5:38 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcnkReojaCnV.md) - [plain]
 | 48 | [Generation Calling](https://open.spotify.com/track/2OIQxtcOQODZMzfWKCuhmY) | [Bluhauz](https://open.spotify.com/artist/3qoRE55TbnjvrjEzZd8sEL) | [Bluhauz](https://open.spotify.com/album/4cV8uUMMlKNxZA7ZNY1ONt) | 4:16 |
 | 49 | [Keep Your Light on Mama](https://open.spotify.com/track/04XadPndIKcDvzl9RDZ0hQ) | [Blues Traveler](https://open.spotify.com/artist/3pHeBYl1yujXcZqqfF1UyQ), [Jared James Nichols](https://open.spotify.com/artist/2l7Z2HP9bqMaMFSdPP012g) | [Traveler's Blues](https://open.spotify.com/album/1FvSXWIYbHm4plK9ytVaLd) | 3:23 |
 
-Snapshot ID: `MTY0MjUzNTc2NSwwMDAwMDAwMDkzNDM4NWE1MWE0ZmNmMDUyMmI2Mzg2MmNhNjhmMDc5`
+Snapshot ID: `MTY0MjUzNTc2NSwwMDAwMDAwMDdlNGQ4N2U2NzZkYmU0ZjVkYjc0ZGFiN2QzY2YzY2Rk`

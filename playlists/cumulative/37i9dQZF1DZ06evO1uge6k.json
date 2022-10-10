@@ -37,7 +37,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-02",
+      "date_removed": null,
       "duration_ms": 202400,
       "name": "Bad Girl - 2008 Remaster",
       "url": "https://open.spotify.com/track/6xjNioXsWUYOduKYUrjuEX"
@@ -55,7 +55,7 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-09",
       "duration_ms": 205973,
       "name": "Bar-B-Q",
       "url": "https://open.spotify.com/track/5ondtkwlkDYxPagDIm8JsK"
@@ -289,7 +289,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-02",
+      "date_removed": "2022-10-06",
       "duration_ms": 211773,
       "name": "Gimme All Your Lovin'",
       "url": "https://open.spotify.com/track/251LsIzSjWnlnxvWYLCucN"
@@ -383,6 +383,24 @@
       "duration_ms": 197520,
       "name": "Hot, Blue and Righteous - 2006 Remaster",
       "url": "https://open.spotify.com/track/0tH43q9uOXKh1shZCs53DP"
+    },
+    {
+      "album": {
+        "name": "Eliminator",
+        "url": "https://open.spotify.com/album/5LMGAYhn2ywaxGZdtmXGpw"
+      },
+      "artists": [
+        {
+          "name": "ZZ Top",
+          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-08",
+      "duration_ms": 174240,
+      "name": "I Got the Six - 2008 Remaster",
+      "url": "https://open.spotify.com/track/2WcnvJKsp1aYs8xp2nJyDN"
     },
     {
       "album": {
@@ -667,7 +685,7 @@
       ],
       "date_added": "2022-09-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-30",
+      "date_removed": null,
       "duration_ms": 151680,
       "name": "Move Me on Down the Line - 2005 Remaster",
       "url": "https://open.spotify.com/track/2afW0UsI1mU9mREstUTwu6"
@@ -959,7 +977,7 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-09",
       "duration_ms": 230573,
       "name": "TV Dinners - 2008 Remaster",
       "url": "https://open.spotify.com/track/4c0IaYoW94OEFhJE40zcQb"

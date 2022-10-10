@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3s9lsTCJMPo.md) - [plain]
 
 > Nothing but classics! The best in Soca anthems brought to you by the Soca Queen herself Alison Hinds.
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,331 likes - 80 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,749 likes - 80 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,7 +80,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3s9lsTCJMPo.md) - [plain]
 | 70 | [Lucy](https://open.spotify.com/track/3xpnKNuV6IZxgMIIJLeLKX) | [Destra](https://open.spotify.com/artist/0xMFjTpcN1zaf1ZU5NaNmk) | [Bakanation](https://open.spotify.com/album/2aPaDJnf3chCoEIZIEIHXd) | 3:30 |
 | 71 | [Bang Bim](https://open.spotify.com/track/5U3BtEzZtKgkin6H5XQWcf) | [Marzville](https://open.spotify.com/artist/0EW8oVadcmlxZevZFlPm9P) | [One O'clock Riddim](https://open.spotify.com/album/6MUaktdtrLdbNSy1m68ZLs) | 2:39 |
 | 72 | [Maintenance Man](https://open.spotify.com/track/7HmVrrT2MG3ljqsGtgyvoX) | [Stiffy](https://open.spotify.com/artist/41GDM2jlEjx9lwcSykgdHh) | [Caribbean Hott Party, Vol\. 6](https://open.spotify.com/album/73nM9dMfOh8XqpboEkIBDc) | 2:46 |
-| 73 | [Jones & Wuk Up](https://open.spotify.com/track/2FYmx507ngX6nRWN7MqTOK) | [Lil Rick](https://open.spotify.com/artist/1qKzKUnuQsjB83hBZffoq0) | [Sheen Riddim](https://open.spotify.com/album/392w60mFQnqAbcwkdzDWF3) | 2:14 |
+| 73 | [Jones & Wuk Up](https://open.spotify.com/track/2ca9S3fe996h1H0DPJjgk5) | [Lil Rick](https://open.spotify.com/artist/1qKzKUnuQsjB83hBZffoq0) | [Sheen Riddim](https://open.spotify.com/album/4n93YPHX6c11gTQXRs6YkF) | 2:14 |
 | 74 | [Breathless \(feat\. Blaxx\)](https://open.spotify.com/track/1BYZZxsZGMAxzG2sMjby0l) | [Roy Cape](https://open.spotify.com/artist/7zuD83ulzU9ikDKy7uOwHL), [Blaxx](https://open.spotify.com/artist/5ix3RWfREDkS8yiuklSrjM) | [Soca Gold 2008](https://open.spotify.com/album/0yZvpoJJHkPE9y4bfbKIeT) | 3:17 |
 | 75 | [Pat & Crank Again](https://open.spotify.com/track/6i6ZIpeLlnpKi783KW7fDz) | [Peter Ram](https://open.spotify.com/artist/7xUZfFcaiX4osJ4wGmpqjQ), [Lady Essence](https://open.spotify.com/artist/3ik9UfBnqKpei4YIBkAY7I) | [Chilli Pepper Riddim](https://open.spotify.com/album/3B73etgMMpBoaJ4wsDPQtC) | 2:13 |
 | 76 | [Feels Like I'm Home Again](https://open.spotify.com/track/1rd1OgVjWmyY0MXya8oDRq) | [Edwin Yearwood](https://open.spotify.com/artist/0QL8EzrRciKCQ9LUy1ZbMe) | [Soca Gold 2008](https://open.spotify.com/album/0yZvpoJJHkPE9y4bfbKIeT) | 4:13 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3s9lsTCJMPo.md) - [plain]
 | 79 | [Gyal You A Party Animal](https://open.spotify.com/track/7rj8aNwZqTvrUeLlAyNWtZ) | [Charly Black](https://open.spotify.com/artist/5sK8BsvyDl4TFA6KaBf8or) | [Gyal You A Party Animal](https://open.spotify.com/album/0eCvXdGhFxgjB4yyDEHoff) | 3:34 |
 | 80 | [Santorini \- Toutouni](https://open.spotify.com/track/0fmLrumawMi4GSc6Am5M22) | [Gamma](https://open.spotify.com/artist/4PNh8FwyFmQmZ8itJT1ZnM) | [Santorini \(Toutouni\)](https://open.spotify.com/album/53HA8pTKzXVuedif71ncAP) | 1:50 |
 
-Snapshot ID: `MTY2MDg2NDU4OSwwMDAwMDAwMDhjNzc4OTllMjUyYjAxZjE1MzU4ZTA4YzJmMTUwODhk`
+Snapshot ID: `MTY2MDg2NDU4OSwwMDAwMDAwMGQ0ZWIxMTJmOWFjOGYyOWQ5OTAyMjZiMjJmZDhlNjhi`

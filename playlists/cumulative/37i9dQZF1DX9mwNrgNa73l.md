@@ -4,7 +4,7 @@
 
 > Jahaan bhi dekho tera nishaan hai, mahraab\-i dil men teri azaan hai.
 
-105 songs - 12 hr 28 min - [published](https://open.spotify.com/playlist/6jyKNP769IPaxkOJDH7ZYq)
+106 songs - 12 hr 32 min - [published](https://open.spotify.com/playlist/6jyKNP769IPaxkOJDH7ZYq)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,6 +66,7 @@
 | [Main Jahaan Rahoon](https://open.spotify.com/track/3D14KmI6wxH0DKgygar81J) | [Rahat Fateh Ali Khan](https://open.spotify.com/artist/3OLGltG8UPIea8sA4w0yg0) | [Unplugged](https://open.spotify.com/album/3zpp4NHOe9ky1ot1qcNZre) | 6:26 | 2022-08-02 |  |
 | [Man Aamadeh Am](https://open.spotify.com/track/451lYQUEpLT3AzOsGj6lDn) | [Atif Aslam](https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx), [Gul Panra](https://open.spotify.com/artist/3fuVoj41Ig8pV6J55JU1NS) | [Coke Studio Season 8](https://open.spotify.com/album/2CRqrw12XjBt4z9LI5LhH7) | 8:58 | 2022-06-21 |  |
 | [Man Kunto Maula](https://open.spotify.com/track/7yFs95J0gZt15FjC4ylJVj) | [Javed Bashir](https://open.spotify.com/artist/5diMmmNkRVfgUnXJrzXzjZ), [Ali Azmat](https://open.spotify.com/artist/38lgkItatcpCc0I9hV4nEr) | [Man Kunto Maula](https://open.spotify.com/album/4aDtJNM4kem6tl4CeR7YAt) | 9:28 | 2022-06-21 |  |
+| [Man Kunto Maula](https://open.spotify.com/track/3daJwwrOiGlyDYs6WNomUv) | [Raafay Israr](https://open.spotify.com/artist/53CSmkUOcrOUOwaDW0Eh57), [Sanam Marvi](https://open.spotify.com/artist/6ckyg7wmYQLuUqRkLtKnj5) | [Man Kunto Maula](https://open.spotify.com/album/77Ulmb0yHBlqDlG1A9rr7R) | 3:20 | 2022-10-06 |  |
 | [Mann Ki Lagan](https://open.spotify.com/track/7fxi1nuAVENApf7H3VivFH) | [Rahat Fateh Ali Khan](https://open.spotify.com/artist/3OLGltG8UPIea8sA4w0yg0) | [Paap \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4dS6K0dQ8O1FLN0KCvcAmf) | 4:51 | 2022-08-02 |  |
 | [Maula](https://open.spotify.com/track/6Z0hi7ntpmQSkTDiBMcZVl) | [Ali Zafar](https://open.spotify.com/artist/3cKNppGLfcxdt9CtoHEZmQ) | [Maula](https://open.spotify.com/album/0XYIRzV6BpXXSH02O8uaMz) | 6:03 | 2022-06-21 |  |
 | [Maula Mere Maula](https://open.spotify.com/track/5KNuHsIeFtD0oukst77hBi) | [Roop Kumar Rathod](https://open.spotify.com/artist/03SZmfKAgYRQKUwy0EoJUa) | [Anwar \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3MTyvN8DogBzkLz8ThUKuc) | 6:04 | 2022-08-02 |  |

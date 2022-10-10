@@ -109,7 +109,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-02",
+      "date_removed": "2022-10-09",
       "duration_ms": 210626,
       "name": "Cien Por Uno",
       "url": "https://open.spotify.com/track/3Q2XC6VEwTXYVyrRO25csQ"
@@ -145,7 +145,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-09",
       "duration_ms": 182773,
       "name": "Compa Alfredito",
       "url": "https://open.spotify.com/track/50duN2SOYCZoDNWJf526HO"
@@ -225,7 +225,7 @@
       ],
       "date_added": "2022-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 174693,
       "name": "De Manuel Torres Felix",
       "url": "https://open.spotify.com/track/6gyBJAMBPrrqgeoistlrpv"
@@ -337,7 +337,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-09",
       "duration_ms": 254800,
       "name": "El Avi\u00f3n De La Muerte",
       "url": "https://open.spotify.com/track/1D1iVySlRJhOwygJDQRaqk"
@@ -377,7 +377,7 @@
       ],
       "date_added": "2022-06-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-23",
+      "date_removed": "2022-10-07",
       "duration_ms": 234640,
       "name": "El Cajoncito",
       "url": "https://open.spotify.com/track/59qxYVS9JxSdbyx8W5fP43"
@@ -413,7 +413,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-02",
+      "date_removed": null,
       "duration_ms": 173350,
       "name": "El Chamaco",
       "url": "https://open.spotify.com/track/3UEXMuRz6Gt6D6mn54HF1x"
@@ -449,7 +449,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-09",
       "duration_ms": 188706,
       "name": "El Comandante Fuentes",
       "url": "https://open.spotify.com/track/7Jmo1akMie3KPVSMBqJvvb"
@@ -503,7 +503,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-02",
+      "date_removed": "2022-10-08",
       "duration_ms": 169469,
       "name": "El de Arriva Me Bendice",
       "url": "https://open.spotify.com/track/65ARD3G7j5Q3eU3Jzd13Xn"
@@ -720,6 +720,28 @@
     },
     {
       "album": {
+        "name": "El Que Anda en El Dorado (En Vivo)",
+        "url": "https://open.spotify.com/album/2qmSpNf0jhi2QqWqpPgbaw"
+      },
+      "artists": [
+        {
+          "name": "Panchito Arredondo",
+          "url": "https://open.spotify.com/artist/1enyvmNKgt4BIIkVnt9FAV"
+        },
+        {
+          "name": "El Potro De Sinaloa",
+          "url": "https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN"
+        }
+      ],
+      "date_added": "2022-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148077,
+      "name": "El Que Anda en El Dorado (En Vivo)",
+      "url": "https://open.spotify.com/track/7C2fQc583vpxolfKfQLLyj"
+    },
+    {
+      "album": {
         "name": "Hay Nomas Pa Las Cocas (En Vivo)",
         "url": "https://open.spotify.com/album/1SAx628iadybUFrkkYqkQD"
       },
@@ -887,7 +909,7 @@
       ],
       "date_added": "2022-06-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-30",
+      "date_removed": null,
       "duration_ms": 186586,
       "name": "La Captura Del Zar",
       "url": "https://open.spotify.com/track/4UzgvxcaLDMM6iujVVHb3m"
@@ -1065,7 +1087,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-26",
+      "date_removed": null,
       "duration_ms": 214533,
       "name": "La Vida Marca los Rumbos",
       "url": "https://open.spotify.com/track/2jRgDq88GVkM0wJH1ygASp"
@@ -1189,7 +1211,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-02",
+      "date_removed": null,
       "duration_ms": 179188,
       "name": "Mario Aguirre - En Vivo",
       "url": "https://open.spotify.com/track/6Gzfl2SGDJL4NrPMS5q2wF"
@@ -1309,7 +1331,7 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-04",
+      "date_removed": null,
       "duration_ms": 249556,
       "name": "Renunciaci\u00f3n - En Vivo",
       "url": "https://open.spotify.com/track/5QeX0Wp11Fmu4jsJhAOGcR"
@@ -1327,7 +1349,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-09",
       "duration_ms": 162586,
       "name": "Se Equivoc\u00f3 El Pistolero",
       "url": "https://open.spotify.com/track/6h8mrn4tKFtPSfvd9N7RMB"
@@ -1345,7 +1367,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-06",
       "duration_ms": 152383,
       "name": "Tiro de Gracia",
       "url": "https://open.spotify.com/track/57SQ2W3VEQ0PMcUKrcMY2H"

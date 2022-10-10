@@ -251,7 +251,7 @@
       ],
       "date_added": "2022-01-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-29",
+      "date_removed": "2022-10-09",
       "duration_ms": 254880,
       "name": "Dj\u00e9l\u00e9",
       "url": "https://open.spotify.com/track/3kxd8G6lLHwy3gtBYGXrXi"
@@ -603,7 +603,7 @@
       ],
       "date_added": "2021-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-16",
+      "date_removed": "2022-10-08",
       "duration_ms": 300482,
       "name": "Lerou Lerou",
       "url": "https://open.spotify.com/track/1VoXMjBDi4O1Z32zD69jUn"
@@ -621,7 +621,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-30",
+      "date_removed": "2022-10-08",
       "duration_ms": 475760,
       "name": "Lony",
       "url": "https://open.spotify.com/track/1jDI4xBByWxisEYzKXwJAn"
@@ -1153,7 +1153,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-01",
+      "date_removed": "2022-10-08",
       "duration_ms": 285866,
       "name": "Wamba",
       "url": "https://open.spotify.com/track/4Mr2YyX1Sk0vSJlOwOoQ5J"
@@ -1223,6 +1223,24 @@
     {
       "album": {
         "name": "M'Bemba",
+        "url": "https://open.spotify.com/album/6GUNbIwHYDkuSkcckTDawO"
+      },
+      "artists": [
+        {
+          "name": "Salif Keita",
+          "url": "https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx"
+        }
+      ],
+      "date_added": "2022-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 373973,
+      "name": "Yambo",
+      "url": "https://open.spotify.com/track/25fS72Gn3j78nfYOKLcrQk"
+    },
+    {
+      "album": {
+        "name": "M'Bemba",
         "url": "https://open.spotify.com/album/2w5jzSHxjRMv1yvepTnO8Z"
       },
       "artists": [
@@ -1233,7 +1251,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-06",
       "duration_ms": 373973,
       "name": "Yambo",
       "url": "https://open.spotify.com/track/6lBrcDZkbuKKKi4xSoWDos"

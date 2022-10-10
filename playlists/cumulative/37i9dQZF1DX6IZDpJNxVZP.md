@@ -4,7 +4,7 @@
 
 > Celebrate Halloween at home with these fun tracks
 
-164 songs - 7 hr 21 min - [published](https://open.spotify.com/playlist/0R2EZHHQAsftTT9zdzkjlK)
+165 songs - 7 hr 23 min - [published](https://open.spotify.com/playlist/0R2EZHHQAsftTT9zdzkjlK)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -154,7 +154,8 @@
 | [Troll Under My Bed](https://open.spotify.com/track/0Vl9jDLSe5gU13b0dFa0RM) | [Pixel Kids](https://open.spotify.com/artist/6aa2NIHq5o1ebL8BbGkUDW) | [Troll Under My Bed](https://open.spotify.com/album/1LiV0SbKdvyGyBxQ4d4vMH) | 1:53 | 2021-09-10 |  |
 | [Troll Under My Bed](https://open.spotify.com/track/6Fm9c4RsLkazwV37PYhqjc) | [Pixel Kids](https://open.spotify.com/artist/6aa2NIHq5o1ebL8BbGkUDW) | [Cocomelon & Friends Halloween](https://open.spotify.com/album/4Ka27MLLbmj1IcjVyens72) | 1:53 | 2021-09-10 | 2022-07-29 |
 | [Vampire Wedding](https://open.spotify.com/track/2hH8xQrEH39WJ2cOckewvQ) | [Pinkfong](https://open.spotify.com/artist/7cTXfwpe9peK0UE1bZyIWZ) | [Halloween Songs 3](https://open.spotify.com/album/3JoS9KsDBydpJuxJ0YFbKV) | 1:21 | 2021-08-30 |  |
-| [We Love Halloween](https://open.spotify.com/track/4opsqf7Z84kvVFYto5XnrV) | [Pancake Manor](https://open.spotify.com/artist/6bwjTCySXPwecMWvs9ce5C) | [We Love Halloween](https://open.spotify.com/album/0TCjVZ1r377txbCgGLfhA3) | 2:00 | 2021-09-10 |  |
+| [We Love Halloween](https://open.spotify.com/track/40WjfvGm7cMJHdElsDwAVG) | [Pancake Manor](https://open.spotify.com/artist/6bwjTCySXPwecMWvs9ce5C) | [Boo! It's Halloween](https://open.spotify.com/album/6fWfpZA7c3puk13L7YfIt2) | 2:00 | 2022-09-27 |  |
+| [We Love Halloween](https://open.spotify.com/track/4opsqf7Z84kvVFYto5XnrV) | [Pancake Manor](https://open.spotify.com/artist/6bwjTCySXPwecMWvs9ce5C) | [We Love Halloween](https://open.spotify.com/album/0TCjVZ1r377txbCgGLfhA3) | 2:00 | 2021-09-10 | 2022-10-10 |
 | [We Love Halloween](https://open.spotify.com/track/5pPfdRgCuJhvlZy1L9kMGE) | [Pancake Manor](https://open.spotify.com/artist/6bwjTCySXPwecMWvs9ce5C) | [We Love Halloween](https://open.spotify.com/album/1OlgNg367Vh1lDWc32cwCs) | 2:00 | 2021-09-10 | 2022-07-29 |
 | [Werewolves Of London](https://open.spotify.com/track/0boylEapfSI87ao8KndwsW) | [Cooltime Kids](https://open.spotify.com/artist/5Cx0MO39eG4ElGaD1juoZQ) | [30 Kids' Halloween Party Tracks](https://open.spotify.com/album/1TABHN2mIGRKynJ0ZjDV5W) | 3:30 | 2022-09-25 |  |
 | [Werewolves Of London](https://open.spotify.com/track/322Wso1mXWHJBtZKXUbOF0) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Kidz Bop Halloween Hits!](https://open.spotify.com/album/41Whu3XN1DycyGPZYXz51K) | 3:39 | 2021-08-30 | 2022-09-26 |

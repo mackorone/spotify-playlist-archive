@@ -520,6 +520,24 @@
     },
     {
       "album": {
+        "name": "Folklore Riddim",
+        "url": "https://open.spotify.com/album/48nubh7FCkPvIG8DqHdLbm"
+      },
+      "artists": [
+        {
+          "name": "Kes",
+          "url": "https://open.spotify.com/artist/7E6r9S8qCRfZVCjF1A8do6"
+        }
+      ],
+      "date_added": "2022-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198857,
+      "name": "Hello",
+      "url": "https://open.spotify.com/track/3cmdQZ2yzUjtKTedabLjqu"
+    },
+    {
+      "album": {
         "name": "Get Soca 2018",
         "url": "https://open.spotify.com/album/6ugS3I8nHZY4tlOel3BKKc"
       },
@@ -531,7 +549,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-05",
       "duration_ms": 199138,
       "name": "Hello",
       "url": "https://open.spotify.com/track/6esa48W1Uh3WNuznkDkUuX"

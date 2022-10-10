@@ -116,6 +116,24 @@
     },
     {
       "album": {
+        "name": "Introspective (2018 Remaster)",
+        "url": "https://open.spotify.com/album/4d0V4C5pHQA5G5PjP1FuNH"
+      },
+      "artists": [
+        {
+          "name": "Pet Shop Boys",
+          "url": "https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 544520,
+      "name": "Always on My Mind / In My House - 2018 Remaster",
+      "url": "https://open.spotify.com/track/21akfkoBT6W38XFeNYX57d"
+    },
+    {
+      "album": {
         "name": "Introspective",
         "url": "https://open.spotify.com/album/3LSFOygcqME1JSV0Pr5VtA"
       },
@@ -811,7 +829,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 213693,
-      "name": "Enola Gay - Remastered",
+      "name": "Enola Gay - Remastered 2003",
       "url": "https://open.spotify.com/track/3NYCaxkggl0Hh8vQptSUvV"
     },
     {
@@ -957,7 +975,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-09",
       "duration_ms": 434186,
       "name": "Forget Me Nots - 12\" Version",
       "url": "https://open.spotify.com/track/6Bo7iDVxKd4V4VHyaL3oGr"
@@ -1393,8 +1411,8 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-26",
-      "duration_ms": 346160,
+      "date_removed": null,
+      "duration_ms": 348466,
       "name": "I Feel Love / Johnny Remember Me",
       "url": "https://open.spotify.com/track/5HgqQJMn2cwVCP34GuwQHc"
     },
@@ -3493,7 +3511,7 @@
       ],
       "date_added": "2020-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-04",
       "duration_ms": 327066,
       "name": "Too Shy - Extended Version",
       "url": "https://open.spotify.com/track/3ePc9YMjz2xPMpHosrG9t5"

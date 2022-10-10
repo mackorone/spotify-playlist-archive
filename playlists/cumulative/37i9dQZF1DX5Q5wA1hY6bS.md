@@ -4,7 +4,7 @@
 
 > the best things in life can't be contained.
 
-425 songs - 1 day 1 hr 55 min - [published](https://open.spotify.com/playlist/1JBI629TZ4Y1b4kQkDesCo)
+427 songs - 1 day 2 hr 1 min - [published](https://open.spotify.com/playlist/1JBI629TZ4Y1b4kQkDesCo)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,6 +96,7 @@
 | [Don't Let It Get You Down](https://open.spotify.com/track/4jjvUXBBqQDFRGX4SR5OhS) | [Johnnyswim](https://open.spotify.com/artist/4igDSX1kgfWbVTDCywcBGm) | [Heart Beats](https://open.spotify.com/album/3tt2SVYuamD48tewEdDqza) | 3:20 | 2022-05-27 |  |
 | [Don't Let It Get You Down](https://open.spotify.com/track/72BlyfR0zO3NWcLZQ1ARcK) | [Johnnyswim](https://open.spotify.com/artist/4igDSX1kgfWbVTDCywcBGm) | [Heart Beats](https://open.spotify.com/album/0y15X0ndhcjtGZQmr4apR6) | 3:20 | 2019-05-26\* | 2021-10-14 |
 | [Don't Say](https://open.spotify.com/track/2kCQe2koRNHNdOtOxyKhaO) | [LULLANAS](https://open.spotify.com/artist/3b8jXMWK6VSV8FlQ4hbVkd) | [Don't Say](https://open.spotify.com/album/5H8Bt6wNnU0DvxVybUQI5k) | 3:21 | 2020-03-09 | 2022-07-29 |
+| [Don't Say](https://open.spotify.com/track/41bZyIzMjq7wx5JxJbc0Dl) | [LULLANAS](https://open.spotify.com/artist/3b8jXMWK6VSV8FlQ4hbVkd) | [Don't Say](https://open.spotify.com/album/5zjEdsCxqIh5e3q3yPSbl3) | 3:24 | 2022-05-27 | 2022-10-09 |
 | [Don't You Cry For Me](https://open.spotify.com/track/6fhEYtnORqxaEoxSrMH2bx) | [Cobi](https://open.spotify.com/artist/4fuZypKGg7klMEF10KTuAN) | [Don't You Cry For Me](https://open.spotify.com/album/4TjQW7GIImS6INJyhjuANs) | 4:16 | 2019-05-26\* | 2019-12-25 |
 | [Dope Queen Blues](https://open.spotify.com/track/5FixijSOYM02IlrVTGm0Z8) | [Adia Victoria](https://open.spotify.com/artist/1HKGjRPwI0gaFyv4aSWPPl) | [Silences](https://open.spotify.com/album/4nneOM4v04jUA5AROq5qr3) | 3:06 | 2020-03-09 | 2020-09-05 |
 | [Dream Within a Dream](https://open.spotify.com/track/7wuHX0sgGELdVbZMSfKTgw) | [Tristen](https://open.spotify.com/artist/136eH4t69aKT2UuS36z3Qo) | [Dream Within a Dream](https://open.spotify.com/album/5NnQzQNyUQMwiHTzNrrGdx) | 2:48 | 2020-03-09 | 2020-09-05 |
@@ -111,7 +112,7 @@
 | [Eve's Daughter](https://open.spotify.com/track/3rfio6cKBhgSv4CSv00LoQ) | [Amanda Shires](https://open.spotify.com/artist/5yN0nwLpUCaZ2gr67bndCN) | [To the Sunset](https://open.spotify.com/album/161jerzEynZ47m4SfxSVuW) | 3:10 | 2020-03-09 | 2020-04-14 |
 | [Even in the Tremor](https://open.spotify.com/track/6F4UgWQag8N1fFK1rcqN50) | [Lady Lamb](https://open.spotify.com/artist/2wunbYU5KWrpI7RCRBkwF0) | [Even in the Tremor](https://open.spotify.com/album/5j9LqrQ1ngTEJ8vHzk9xSa) | 4:24 | 2020-03-09 | 2020-04-14 |
 | [Everything Changed](https://open.spotify.com/track/75lG0mNxn3YH7MD4qcLkA6) | [Lindsay Lou & the Flatbellys](https://open.spotify.com/artist/5shNy8PK3d0GaOUEoygZB3) | [Ionia](https://open.spotify.com/album/2WozLvN6TyURivAK0kNoHZ) | 4:05 | 2020-03-09 | 2022-07-28 |
-| [Expectations](https://open.spotify.com/track/7sIONDBUsDWYUll2uwnjY9) | [Katie Pruitt](https://open.spotify.com/artist/1c5w8KrxGwq44fxM5lGB4s) | [Expectations](https://open.spotify.com/album/6zP9AZREIcUvAjpX2lKRIl) | 3:55 | 2019-10-23 |  |
+| [Expectations](https://open.spotify.com/track/7sIONDBUsDWYUll2uwnjY9) | [Katie Pruitt](https://open.spotify.com/artist/1c5w8KrxGwq44fxM5lGB4s) | [Expectations](https://open.spotify.com/album/6zP9AZREIcUvAjpX2lKRIl) | 3:55 | 2019-10-23 | 2022-10-04 |
 | [Fancy Drones \(Fracture Me\)](https://open.spotify.com/track/1l9LNsjdOQ3Wfkmnsjetxj) | [Amythyst Kiah](https://open.spotify.com/artist/1lhaaKpTyXOnjp79M3xYBl) | [Wary + Strange](https://open.spotify.com/album/75g27i85SR6XYAXKRRfOda) | 3:37 | 2021-06-19 | 2022-09-21 |
 | [Fields of Gold](https://open.spotify.com/track/72EsFNeQy959UicF9Q6H4i) | [Daughter of Swords](https://open.spotify.com/artist/4PAN1zWvarcHxfPhJOAHMg) | [Dawnbreaker](https://open.spotify.com/album/44wumRa2cbldLimmZdHbow) | 3:31 | 2019-10-23 | 2022-07-29 |
 | [First Time Feeling](https://open.spotify.com/track/35q6uD5WsqzRPEblLjj5dw) | [Leah Blevins](https://open.spotify.com/artist/1cpkiJukYGm0dr7Fm9HpNW) | [First Time Feeling](https://open.spotify.com/album/3qm2g5r2eWFVYiIGZVt4Ro) | 3:06 | 2021-08-06 | 2022-07-29 |
@@ -200,7 +201,7 @@
 | [I’m A Stranger Now](https://open.spotify.com/track/59j4k21fP6SfrCwurmLHZZ) | [The Tallest Man On Earth](https://open.spotify.com/artist/2BpAc5eK7Rz5GAwSp9UYXa) | [I Love You\. It's a Fever Dream.](https://open.spotify.com/album/21iUYmZgiaPv5xvfTYKqRs) | 4:21 | 2019-05-30 | 2020-06-10 |
 | [I’m A Stranger Now](https://open.spotify.com/track/5hgSvHM38XZZWTok1Eh84o) | [The Tallest Man On Earth](https://open.spotify.com/artist/2BpAc5eK7Rz5GAwSp9UYXa) | [I'm a Stranger Now / The Running Styles of New York](https://open.spotify.com/album/5zypQty2nyi3kz2AdOwVgb) | 4:21 | 2019-05-26\* | 2022-07-28 |
 | [Jackpot](https://open.spotify.com/track/3ENGcoJQW8ktzyW7Mn4dE4) | [Nikki Lane](https://open.spotify.com/artist/2kWeFaiHBskk8oqky3KHcR) | [Highway Queen](https://open.spotify.com/album/0tYgeDm3xRF6AV19UwDXXW) | 3:33 | 2020-03-09 | 2020-04-14 |
-| [Johnny](https://open.spotify.com/track/4WDtGj1M2HFlcjvYIiRFug) | [Sarah Jarosz](https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ) | [World On The Ground](https://open.spotify.com/album/7vI29Msu8k0wpFUittUvAH) | 3:59 | 2020-07-10 | 2022-09-28 |
+| [Johnny](https://open.spotify.com/track/4WDtGj1M2HFlcjvYIiRFug) | [Sarah Jarosz](https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ) | [World On The Ground](https://open.spotify.com/album/7vI29Msu8k0wpFUittUvAH) | 3:59 | 2020-07-10 | 2022-10-05 |
 | [Just One of the Guys](https://open.spotify.com/track/5YdrHBh16li6d7U5mdTwUb) | [Jenny Lewis](https://open.spotify.com/artist/5cMVRrisBpDkXCVG48epED) | [The Voyager](https://open.spotify.com/album/5sCsfubNchaI9RCpP7K7aB) | 3:51 | 2020-03-09 | 2020-09-05 |
 | [Just Say It Now](https://open.spotify.com/track/3Sg7AOKZb6jEsAFlszdAfu) | [Dori Freeman](https://open.spotify.com/artist/4GCMwhffO4BBQZp2eoOapt) | [Letters Never Read](https://open.spotify.com/album/3SarATvyjJUcQqLhnjLid4) | 2:37 | 2020-03-09 | 2020-07-10 |
 | [Just to Be with You](https://open.spotify.com/track/6AVU8RT7YGPXdtPri2oBkY) | [Aubrie Sellers](https://open.spotify.com/artist/27IiEYV6p8fs5j8n39Pk1u) | [New City Blues](https://open.spotify.com/album/59GalvIx39spCBLpZ7DM8w) | 3:23 | 2020-03-09 | 2020-04-14 |
@@ -351,7 +352,7 @@
 | [Sugar in the Creek](https://open.spotify.com/track/7ceIJcA4Scip0WlJwwUnTS) | [Bendigo Fletcher](https://open.spotify.com/artist/6O8lpJl2nITlA3dJfT95pM) | [Sugar in the Creek](https://open.spotify.com/album/27apDe4nr7zwbz0ORbgrp1) | 4:11 | 2021-06-04 |  |
 | [Summertime Mama](https://open.spotify.com/track/0k2puHMjDeAUyWvoaU7LhQ) | [Becca Mancari](https://open.spotify.com/artist/5n9jfCRA7AFY1JfYc5ZYK5) | [Good Woman](https://open.spotify.com/album/63mkT1UZtwofel0rP4rfZR) | 2:56 | 2020-03-09 | 2022-07-29 |
 | [Sure Feels Good Anyway](https://open.spotify.com/track/6bCOSspmn97CRxawBEYSWs) | [Amy Ray](https://open.spotify.com/artist/6FTNWiXksh4ADVB5QdJqCF) | [Holler](https://open.spotify.com/album/6sChAWxd6hgcp0N24NcyEJ) | 4:30 | 2020-03-09 | 2020-04-14 |
-| [Swing](https://open.spotify.com/track/3UKIiR93VUGPRcrAmCHU2Y) | [Josiah and the Bonnevilles](https://open.spotify.com/artist/3FMcVBx2TMq2f5gEPcUieC) | [Swing](https://open.spotify.com/album/0x0YbXUtghcHTTv8adby0j) | 3:02 | 2022-05-27 | 2022-09-26 |
+| [Swing](https://open.spotify.com/track/3UKIiR93VUGPRcrAmCHU2Y) | [Josiah and the Bonnevilles](https://open.spotify.com/artist/3FMcVBx2TMq2f5gEPcUieC) | [Swing](https://open.spotify.com/album/0x0YbXUtghcHTTv8adby0j) | 3:02 | 2022-05-27 | 2022-10-08 |
 | [Swing](https://open.spotify.com/track/0GOB9WXp49ZgV4oGN92dNQ) | [Josiah and the Bonnevilles](https://open.spotify.com/artist/3FMcVBx2TMq2f5gEPcUieC) | [On Trial](https://open.spotify.com/album/0KYbDEiYqJiOd7ddVp6Y7B) | 3:03 | 2019-05-26\* | 2022-07-27 |
 | [Sword from the Stone](https://open.spotify.com/track/1Fc2Gqn9bTuoeSHfhl1net) | [Passenger](https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66) | [Songs for the Drunk and Broken Hearted](https://open.spotify.com/album/6OGJr5I1SVTn9cla4JPiO1) | 3:21 | 2022-05-27 |  |
 | [Sword from the Stone](https://open.spotify.com/track/32PwKptR5PhpP4Gxv8Lvps) | [Passenger](https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66) | [Songs for the Drunk and Broken Hearted \(Deluxe\)](https://open.spotify.com/album/1cD1OsXdX1czUNujNuJGzJ) | 3:21 | 2021-01-31 | 2022-07-29 |
@@ -381,6 +382,7 @@
 | [Third of May / Ōdaigahara \- Edit](https://open.spotify.com/track/3Q3LbqfjDhWjmyYeirHfDe) | [Fleet Foxes](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb) | [Third of May / Ōdaigahara \(Edit\)](https://open.spotify.com/album/4ch37agV9poERen5tOVHrb) | 4:02 | 2019-05-29 | 2019-10-26 |
 | [Thirteen Sad Farewells](https://open.spotify.com/track/0s7rK6ZBik5I0t1gxSVQRg) | [Stu Larsen](https://open.spotify.com/artist/44M8i4BCwuBbmcQWwMaOfH) | [Thirteen Sad Farewells](https://open.spotify.com/album/57MGwnhweNo0KT82u4fdmK) | 2:45 | 2019-06-22 | 2021-02-04 |
 | [Thirteen Sad Farewells](https://open.spotify.com/track/4ddQlwDGMpXylyxbYvPRab) | [Stu Larsen](https://open.spotify.com/artist/44M8i4BCwuBbmcQWwMaOfH) | [Vagabond](https://open.spotify.com/album/7h2UPCT7JKl8wFZZtZJtzE) | 2:45 | 2020-11-11 | 2022-04-21 |
+| [Thirteen Sad Farewells](https://open.spotify.com/track/4hcEsAXv3vAcUsRT4Tgd1H) | [Stu Larsen](https://open.spotify.com/artist/44M8i4BCwuBbmcQWwMaOfH) | [Vagabond](https://open.spotify.com/album/3uphRkVItHVdeK9EVStwiM) | 2:45 | 2022-05-27 |  |
 | [Thirty](https://open.spotify.com/track/2TQXJmPwCgmIXpAtz9dyCI) | [The Weather Station](https://open.spotify.com/artist/39ZEMGRv3pIYTYKEhr4Abu) | [The Weather Station](https://open.spotify.com/album/31zbZWJ5o51IijJaVjZDOQ) | 3:40 | 2022-05-27 |  |
 | [Thirty](https://open.spotify.com/track/4zP4mkNgtK75UsscbVsVyZ) | [The Weather Station](https://open.spotify.com/artist/39ZEMGRv3pIYTYKEhr4Abu) | [Thirty](https://open.spotify.com/album/4y3zrJympvQWVLfVGAe626) | 3:40 | 2020-03-09 | 2022-07-29 |
 | [Time Honored Tradition](https://open.spotify.com/track/4XqD2pfvBycih1dHLbW2rG) | [Natalie Hemby](https://open.spotify.com/artist/32opPqLCT3sF24Aso7wTXw) | [Puxico](https://open.spotify.com/album/24wTPEb0rJiR9RdVBv9EQA) | 3:16 | 2020-03-09 | 2020-09-05 |

@@ -4,7 +4,7 @@
 
 > New funky songs with a classic funky sound\. Cover: Lettuce
 
-170 songs - 11 hr 53 min - [published](https://open.spotify.com/playlist/2eceFp3qX8eTXa9OinhIeU)
+171 songs - 11 hr 56 min - [published](https://open.spotify.com/playlist/2eceFp3qX8eTXa9OinhIeU)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -116,6 +116,7 @@
 | [Oh Savanna](https://open.spotify.com/track/4t9wvTjyCItyNZvWNVEBIA) | [Tom McGuire & the Brassholes](https://open.spotify.com/artist/7JnJgTo8cCtAQmtC0cJyjp) | [Oh Savanna](https://open.spotify.com/album/5PI3OTvt9Hu697p2dk2yJV) | 4:52 | 2021-05-21 |  |
 | [On My Own](https://open.spotify.com/track/5n75cdCzSqlfFsk1hZ4ery) | [Mood FM](https://open.spotify.com/artist/6jbsBs3Wc3EsbCX8IMO34F) | [The Woodside Series](https://open.spotify.com/album/3nLa9mIsi96Bzg3Jkob8bS) | 4:50 | 2020-10-30 | 2022-04-09 |
 | [On The Back Foot](https://open.spotify.com/track/1A7DTW3JyeCdUDpIqZS9fm) | [Ryan Prewett](https://open.spotify.com/artist/0hBE2OEnt0liysUwP4ZaEj), [Tyler Flowers](https://open.spotify.com/artist/2oMNeoWmefA167itF7EVZY) | [On The Back Foot](https://open.spotify.com/album/17ReFzA4bABwTN7tOghfwG) | 3:20 | 2022-03-11 |  |
+| [On To The Next One](https://open.spotify.com/track/0iIHi4PR5RNS97qDFDYEzG) | [The Free Label](https://open.spotify.com/artist/4YOL2g6AwphwsB1dOZZSOr) | [On To The Next One](https://open.spotify.com/album/6JlZ30MIRDya1ejygqMk47) | 2:48 | 2022-10-07 |  |
 | [Pacified](https://open.spotify.com/track/0POKng0AB6Z2PjFYQo2B3U) | [Soul Scratch](https://open.spotify.com/artist/5cYmc8pLfRYlL4Nc0QgiSC) | [Pacified](https://open.spotify.com/album/06AfRhGOhpariZKWGtp43p) | 3:19 | 2020-10-30 | 2022-04-09 |
 | [Paint The Toon \(feat\. Connie Lush\)](https://open.spotify.com/track/2INsiycUgobLSy4ksO4MzK) | [6ix Toys](https://open.spotify.com/artist/7k5NMuaLXe6SFdklcTWvXl), [Connie Lush](https://open.spotify.com/artist/24xmEoZir6fOrshgPLirzS) | [6IX Toys](https://open.spotify.com/album/6npwwHTOkAwTXSd54CKp3u) | 5:08 | 2020-10-30 | 2022-04-09 |
 | [Perpetual Conduit of Positivity](https://open.spotify.com/track/5Zx3OUrH7UjnDPkVGlQpnV) | [Mojoflo](https://open.spotify.com/artist/4aFQlnbkc73QGmqlw5N9ED) | [Perpetual Conduit of Positivity](https://open.spotify.com/album/2CQXUHTqVMPts2S6TxHQaC) | 5:51 | 2020-10-30 |  |

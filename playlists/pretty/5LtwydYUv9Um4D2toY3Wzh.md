@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5LtwydYUv9Um4D2toY3Wzh.md) - [plain]
 
 > ...dancing in the mirror.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,896 likes - 41 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,895 likes - 41 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

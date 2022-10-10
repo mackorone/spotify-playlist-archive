@@ -1141,7 +1141,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-29",
+      "date_removed": null,
       "duration_ms": 200355,
       "name": "Causing Trouble",
       "url": "https://open.spotify.com/track/4v8ZF4VDj8OOfECQLm3eFq"
@@ -3414,6 +3414,24 @@
     },
     {
       "album": {
+        "name": "I Don\u2019t Live Here Anymore",
+        "url": "https://open.spotify.com/album/69jQsPvJzMvcb2fGqI2qaB"
+      },
+      "artists": [
+        {
+          "name": "The War On Drugs",
+          "url": "https://open.spotify.com/artist/6g0mn3tzAds6aVeUYRsryU"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293866,
+      "name": "Living Proof",
+      "url": "https://open.spotify.com/track/4VhvGhj8pdAqFJBuAfUW38"
+    },
+    {
+      "album": {
         "name": "Living Proof",
         "url": "https://open.spotify.com/album/5KxYGbvy6UPe6at4W8hE45"
       },
@@ -3425,7 +3443,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-07",
       "duration_ms": 293866,
       "name": "Living Proof",
       "url": "https://open.spotify.com/track/6bIXN4xCot0hiEfzl2xFZR"
@@ -4227,7 +4245,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-15",
+      "date_removed": "2022-10-04",
       "duration_ms": 215493,
       "name": "Now is the Time",
       "url": "https://open.spotify.com/track/5ddrYyHEHIwXeeELXkgEel"
@@ -4389,7 +4407,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-04",
       "duration_ms": 283518,
       "name": "pak it in",
       "url": "https://open.spotify.com/track/2CBrwFbrNnzvikGZXq5j9l"

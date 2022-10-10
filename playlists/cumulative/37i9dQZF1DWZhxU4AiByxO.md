@@ -4,7 +4,7 @@
 
 > Enjoy some kid\-friendly pop tunes.
 
-233 songs - 11 hr 45 min - [published](https://open.spotify.com/playlist/1sAcZQkEf1QE9sxroLLAMt)
+235 songs - 11 hr 51 min - [published](https://open.spotify.com/playlist/1sAcZQkEf1QE9sxroLLAMt)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,6 +45,7 @@
 | [Carry On \(from the Original Motion Picture "POKÉMON Detective Pikachu"\)](https://open.spotify.com/track/3y3brCCecHC3Db18aIOnny) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr) | [Carry On \(from the Original Motion Picture "POKÉMON Detective Pikachu"\)](https://open.spotify.com/album/1Z7WbPmn7QFoJ2DrNfEehz) | 3:35 | 2021-10-22 |  |
 | [Catchy Song \(feat\. T\-Pain & That Girl Lay Lay\)](https://open.spotify.com/track/17yOpPoiu2Ue962Do8LsdS) | [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf), [T\-Pain](https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy), [That Girl Lay Lay](https://open.spotify.com/artist/6GVYRmhvBibjGCythicOlZ) | [The LEGO Movie 2: The Second Part \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7vUakEBYI3YXIoAHHRufrq) | 2:48 | 2022-07-28 |  |
 | [Catchy Song \(feat\. T\-Pain & That Girl Lay Lay\)](https://open.spotify.com/track/1JiTWss0EJ3u084OucEvMS) | [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf), [T\-Pain](https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy), [That Girl Lay Lay](https://open.spotify.com/artist/6GVYRmhvBibjGCythicOlZ) | [Catchy Song \(feat\. T\-Pain & That Girl lay Lay\) \[From The LEGO® Movie 2: The Second Part \- Original Motion Picture Soundtrack\]](https://open.spotify.com/album/4Z31kcjkOvonaJO3NeZR6C) | 2:48 | 2021-10-22 | 2022-07-29 |
+| [Celestial](https://open.spotify.com/track/4zrKN5Sv8JS5mqnbVcsul7) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Celestial](https://open.spotify.com/album/2W5VVBPNkGAduaArE4sX29) | 3:29 | 2022-10-07 |  |
 | [Cheap Thrills](https://open.spotify.com/track/2yZa7VMSMsVekXjCvvlWhr) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 33](https://open.spotify.com/album/58KAwArwdxMXyEC3OLuInP) | 3:07 | 2022-07-28 |  |
 | [Cheap Thrills](https://open.spotify.com/track/5MbaCozMxkXzx6nKWyufeA) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 33](https://open.spotify.com/album/18wL3gXfAxI4qUJTL6SD2o) | 3:07 | 2021-10-22 | 2022-07-29 |
 | [Cheerleader](https://open.spotify.com/track/3GBrT6nOYfVwjz5NfR5EPW) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Kidz Bop 30](https://open.spotify.com/album/3eWdhUgp0xkZ9oAAHr4fvs) | 2:37 | 2022-07-28 |  |
@@ -94,6 +95,7 @@
 | [Happy](https://open.spotify.com/track/6NPVjNh8Jhru9xOmyQigds) | [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [Despicable Me 2 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5l3zEmMrOhOzG8d8s83GOL) | 3:53 | 2021-10-22 | 2022-07-29 |
 | [Happy \- From "Despicable Me 2"](https://open.spotify.com/track/60nZcImufyMA1MKQY3dcCH) | [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [G I R L](https://open.spotify.com/album/0lrmy4pJINsFzycJvttX2W) | 3:52 | 2022-07-28 |  |
 | [Havana](https://open.spotify.com/track/7dwiNsnIY3xOrE0k4kVDEl) | [Mini Pop Kids](https://open.spotify.com/artist/2VAjBQ6cM2faT2UKxONV93) | [Mini Pop Kids 15](https://open.spotify.com/album/18maOqDk7WqDrp28Kbshdw) | 3:35 | 2021-10-22 |  |
+| [Heartbeat \(From the “Lyle, Lyle, Crocodile” Original Motion Picture Soundtrack\)](https://open.spotify.com/track/1gACe11pZiy8Xv3SY0ocyz) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Heartbeat \(From the “Lyle, Lyle, Crocodile” Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1ydhMijrPqgwuIxX4z90AT) | 2:20 | 2022-10-04 |  |
 | [Here With Me](https://open.spotify.com/track/5gY5Tixu6wV6V1EJIQ3zNI) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [I Don't Care](https://open.spotify.com/album/253LQdnZTDd0HddPoREscR) | 2:37 | 2021-10-22 |  |
 | [Hey Look Ma, I Made It](https://open.spotify.com/track/6EJrfpisIxba7EgbcTBNz2) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [If I Can’t Have You](https://open.spotify.com/album/35gu6fn5CJIsME3dTqQSaV) | 2:41 | 2021-10-22 |  |
 | [Hideaway \- from "Wonder Park"](https://open.spotify.com/track/6IoQuFTjNbpl6572b9GryH) | [Grace VanderWaal](https://open.spotify.com/artist/3YdT8QvV4QvY4DfVJhxdcZ) | [Hideaway \(from "Wonder Park"\)](https://open.spotify.com/album/2Tv7NyjiW3IhzoGHlIc7Nk) | 3:18 | 2021-10-22 |  |

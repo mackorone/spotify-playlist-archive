@@ -2,9 +2,9 @@
 
 ### [Progressive Metal](https://open.spotify.com/playlist/37i9dQZF1DX5wgKYQVRARv)
 
-> Fresh and recent tracks from the world of Prog Metal\. Cover: Architects
+> Fresh and recent tracks from the world of Prog Metal\. Cover: Dance Gavin Dance
 
-550 songs - 1 day 23 hr 56 min - [published](https://open.spotify.com/playlist/0wuVpBlHkf8BHNGS6SodaM)
+552 songs - 2 day 0 hr 9 min - [published](https://open.spotify.com/playlist/0wuVpBlHkf8BHNGS6SodaM)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,7 +71,7 @@
 | [Bridges](https://open.spotify.com/track/2eBdWSuKGDDYInmvWeK4AA) | [Arkentype](https://open.spotify.com/artist/4IzmDCzlwnl81Q2rwskK3g) | [Bridges](https://open.spotify.com/album/6lN0FkAKy6vIZA4Zm5WJQw) | 5:22 | 2021-12-17 | 2022-07-29 |
 | [Brutal Behavior](https://open.spotify.com/track/6wN8nayh7c9Gon16wLV5wv) | [Jack The Joker](https://open.spotify.com/artist/1lIjN6laJcdd6txiGXvZaq) | [Mors Volta](https://open.spotify.com/album/2mPSd4EHz8RCDYiRcUChGO) | 5:31 | 2021-12-17 | 2022-01-28 |
 | [brännmärkt](https://open.spotify.com/track/15ux2HWFlZnYoENzJYnzV2) | [Vildhjarta](https://open.spotify.com/artist/0z4ODfFM8PGE0A9r0tZ75J) | [måsstaden under vatten](https://open.spotify.com/album/4l7vAsUopNRu08SAkp9m8u) | 5:48 | 2022-07-13 |  |
-| [Bugs \- Extended](https://open.spotify.com/track/4uvrlMOYncLAa1C4NEHvqu) | [Seas on the Moon](https://open.spotify.com/artist/4uIHW758guEB2kTjfmMBc8), [Brooke Dougherty](https://open.spotify.com/artist/6alTZVAzJlcTemFugbEjP2) | [Bugs \(Extended\)](https://open.spotify.com/album/78GIi7zGQZagdRRG8a9xG0) | 5:30 | 2021-12-17 | 2022-07-29 |
+| [Bugs \- Extended](https://open.spotify.com/track/4uvrlMOYncLAa1C4NEHvqu) | [Seas on the Moon](https://open.spotify.com/artist/4uIHW758guEB2kTjfmMBc8), [Brooke Dougherty](https://open.spotify.com/artist/6alTZVAzJlcTemFugbEjP2) | [Bugs \(Extended\)](https://open.spotify.com/album/78GIi7zGQZagdRRG8a9xG0) | 5:30 | 2021-12-17 |  |
 | [Burial](https://open.spotify.com/track/1VkhH0SytxPrHqBYWG2R7o) | [God Is An Astronaut](https://open.spotify.com/artist/079svMEXkbT5nGU2kfoqO2) | [Burial](https://open.spotify.com/album/6vqfy51SMG4lTk4TvXIGg8) | 6:04 | 2021-12-17 | 2022-07-28 |
 | [Burial](https://open.spotify.com/track/39OK2v0ZYohVbvqg4X4uDE) | [God Is An Astronaut](https://open.spotify.com/artist/079svMEXkbT5nGU2kfoqO2) | [Ghost Tapes \#10](https://open.spotify.com/album/19Jy4bfbeWkmKAy7qA97oR) | 6:04 | 2022-07-08 | 2022-09-03 |
 | [Cafo](https://open.spotify.com/track/6i8TDqnHN7GF9uU3LJCklq) | [Animals As Leaders](https://open.spotify.com/artist/65C6Unk7nhg2aCnVuAPMo8) | [Animals as Leaders \- Encore Edition](https://open.spotify.com/album/5hVRBZCUCcU3UIhxNikyhf) | 6:41 | 2022-07-13 |  |
@@ -92,6 +92,7 @@
 | [Collapse](https://open.spotify.com/track/6oBjnOBqngXWsRuYY5eTnz) | [After The Burial](https://open.spotify.com/artist/0uNj4RxFjG0iVPlZS753en) | [Dig Deep](https://open.spotify.com/album/7ABqA1tuH6eonHAIBaBqHe) | 4:12 | 2022-07-13 |  |
 | [Colours](https://open.spotify.com/track/0NkFLNlM82YJ1SXRHUn543) | [Voyager](https://open.spotify.com/artist/16fltNcwTM5V9rnxIlcha4) | [Colours](https://open.spotify.com/album/1EBPNfgBB7eIj688x8HULF) | 4:04 | 2021-12-17 | 2022-07-29 |
 | [Come Alive](https://open.spotify.com/track/7zFcWdYvXTSO95T4ixAIN0) | [Virtual Symmetry](https://open.spotify.com/artist/3NC1AdGQMaRiX7s49I4vJy) | [Come Alive](https://open.spotify.com/album/6ZYjeVNoj0bkERomSoE06g) | 6:25 | 2022-07-01 | 2022-09-05 |
+| [Complex](https://open.spotify.com/track/3HtmYWiBa8y2CCYFJye6Yw) | [Threshold](https://open.spotify.com/artist/7KTRbZ1YTch5oXQOmQTStM) | [Complex](https://open.spotify.com/album/37YEbW5Pi7qeQKqf4gMIbV) | 5:50 | 2022-10-07 |  |
 | [Computer Eyes](https://open.spotify.com/track/1vKwCrbb0cgm56zrIa4WJq) | [Ayreon](https://open.spotify.com/artist/2RSApl0SXcVT8Yiy4UaPSt) | [Timeline](https://open.spotify.com/album/5fzem17HhdK8JvbQ5VssDU) | 7:17 | 2021-12-17 | 2022-01-29 |
 | [Condemned to the Gallows](https://open.spotify.com/track/26zVufX9OHnePGHVj58x69) | [Between The Buried And Me](https://open.spotify.com/artist/2JC4hZm1egeJDEolLsMwZ9) | [Condemned to the Gallows](https://open.spotify.com/album/6zT7A9hiGNmmSn9wBIzWoC) | 6:34 | 2021-12-17 | 2022-01-17 |
 | [Counterfeit](https://open.spotify.com/track/56DpxldmWlbxESQ3g7J4Ij) | [The Northern](https://open.spotify.com/artist/2PUqSBJmeZme23xXXP7mVU) | [Cloudburst](https://open.spotify.com/album/0uTemOj24WSMxUs4R6Ab4x) | 3:34 | 2022-07-13 | 2022-09-30 |
@@ -235,7 +236,7 @@
 | [Into the Fall](https://open.spotify.com/track/7rWczgig0np2zhmR6CyzMF) | [Ancestors](https://open.spotify.com/artist/4aGLoZx4GdlR6fqtmY7rNV) | [Suspended in Reflections](https://open.spotify.com/album/5gWycJLVfdSFcDYGU5IvP2) | 5:07 | 2021-12-17 | 2022-01-13 |
 | [Into the Night](https://open.spotify.com/track/4nXWnm11xQjnDsgsKtYRti) | [Cult Of Luna](https://open.spotify.com/artist/7E7fJJpdVgr1F3pfAfRtHe) | [Into the Night](https://open.spotify.com/album/4Gbn1jOz5A5YDqOBMkqO2i) | 6:58 | 2022-01-14 | 2022-02-11 |
 | [Into the Void](https://open.spotify.com/track/1C2jP3FEsr9GMcsK5iP0Nx) | [Oceans](https://open.spotify.com/artist/7x3hXpGkI296eBLTbhbND0) | [Into the Void](https://open.spotify.com/album/72BRKpCblIAaj0xTU608rJ) | 5:00 | 2021-12-17 | 2022-07-01 |
-| [Introspect](https://open.spotify.com/track/7IOrnVq2Hj4elIXzvWp8ua) | [Johari](https://open.spotify.com/artist/7Bu90tRyNrQvmkf0Xqggfe), [Andromida](https://open.spotify.com/artist/4MRGrA70WS54oeDLbIWrTr) | [Introspect](https://open.spotify.com/album/6QRDCjmfPTvCuzIyblURXv) | 4:18 | 2022-01-07 |  |
+| [Introspect](https://open.spotify.com/track/7IOrnVq2Hj4elIXzvWp8ua) | [Johari](https://open.spotify.com/artist/7Bu90tRyNrQvmkf0Xqggfe), [Andromida](https://open.spotify.com/artist/4MRGrA70WS54oeDLbIWrTr) | [Introspect](https://open.spotify.com/album/6QRDCjmfPTvCuzIyblURXv) | 4:18 | 2022-01-07 | 2022-10-08 |
 | [Invincible](https://open.spotify.com/track/53J9ZOQ0ezFytsEi6AWlSr) | [Seventh Wonder](https://open.spotify.com/artist/30nUQaYp91iDcRyhr1oNn0) | [The Testament](https://open.spotify.com/album/6teXtF5T7zmF49lqjnwtW8) | 3:39 | 2022-07-08 |  |
 | [Invisible Enemy](https://open.spotify.com/track/4gSokjaAfP1W9NTfkolzdJ) | [August Burns Red](https://open.spotify.com/artist/5p9CTsn5ueGU4oScNX1axu) | [Phantom Anthem](https://open.spotify.com/album/5raPbxzLIp6YJTN5jyyT2f) | 4:37 | 2022-07-13 |  |
 | [Invisible Monster](https://open.spotify.com/track/6l2ql6PfoDuaTtcjjPYGFL) | [Dream Theater](https://open.spotify.com/artist/2aaLAng2L2aWD2FClzwiep) | [Invisible Monster](https://open.spotify.com/album/1p1GZyBV8zsBEW9I0LBQX7) | 6:30 | 2021-12-17 |  |
@@ -273,9 +274,10 @@
 | [Lunatic Fringe](https://open.spotify.com/track/5aFvQjdc3KvJEvUkEHI7TL) | [Four Stroke Baron](https://open.spotify.com/artist/091cSUyhQCRgJreqXy17m5) | [Lunatic Fringe](https://open.spotify.com/album/5rrj2JXuTlR2QY3vtrSQTE) | 4:13 | 2021-12-17 | 2022-07-28 |
 | [Mahogany](https://open.spotify.com/track/1XJQgKs647fs99TP9ezrx0) | [Windrunner](https://open.spotify.com/artist/7GqHmgqt4wkWHZr8fcc9P7), [Sota](https://open.spotify.com/artist/6ePZyisYTEtSze2cCNS2Kb) | [Mahogany](https://open.spotify.com/album/2B6TPvaY8dSGRapwJCQDfJ) | 5:01 | 2021-12-17 | 2022-07-27 |
 | [Makeshift Harmony](https://open.spotify.com/track/5hT9plaY8kgBZSmCUpfV47) | [Monuments](https://open.spotify.com/artist/71IBhhBhtPLZ8OyVuXOw77) | [In Stasis](https://open.spotify.com/album/3Q0ElZiEA7GBDcqNyeF71r) | 4:30 | 2022-04-15 |  |
-| [Marigold](https://open.spotify.com/track/0xaN6B7xNJU9czMXELDyDM) | [Periphery](https://open.spotify.com/artist/6d24kC5fxHFOSEAmjQPPhc) | [Periphery III: Select Difficulty](https://open.spotify.com/album/5L9ddlTFtgLj93nzy77MEO) | 7:19 | 2022-08-26 |  |
+| [Marigold](https://open.spotify.com/track/0xaN6B7xNJU9czMXELDyDM) | [Periphery](https://open.spotify.com/artist/6d24kC5fxHFOSEAmjQPPhc) | [Periphery III: Select Difficulty](https://open.spotify.com/album/5L9ddlTFtgLj93nzy77MEO) | 7:19 | 2022-08-26 | 2022-10-04 |
 | [Marigold](https://open.spotify.com/track/2YZZ8qsDdvC008LgtpMoI6) | [Periphery](https://open.spotify.com/artist/6d24kC5fxHFOSEAmjQPPhc) | [Periphery III: Select Difficulty](https://open.spotify.com/album/1NBUh16Mfz7kNjIJKVO9sC) | 7:19 | 2022-07-13 | 2022-07-29 |
 | [Marigold](https://open.spotify.com/track/56g7gV4V3YvAmo4zbwnh3j) | [Periphery](https://open.spotify.com/artist/6d24kC5fxHFOSEAmjQPPhc) | [Periphery III: Select Difficulty](https://open.spotify.com/album/45TYtX5PUFk1DlFB6m1N1M) | 7:19 | 2022-07-13 | 2022-08-28 |
+| [Marigold](https://open.spotify.com/track/7EqmLdQLCRSqYJdD7wvRXv) | [Periphery](https://open.spotify.com/artist/6d24kC5fxHFOSEAmjQPPhc) | [Periphery III: Select Difficulty](https://open.spotify.com/album/334ndig2eVDFWx1HrVMmU5) | 7:19 | 2022-09-02 |  |
 | [Martyrs](https://open.spotify.com/track/2mijuiOFHf4EJcS2QpUkrn) | [Soen](https://open.spotify.com/artist/38uWD5h115pdz278q4rwZW) | [Lotus](https://open.spotify.com/album/16v3Ule2sTTWT37VKUsH6F) | 6:08 | 2021-12-17 | 2022-07-01 |
 | [Mechanisms of Loneliness](https://open.spotify.com/track/5pmYGT4j7nPmqapNdUIPhE) | [Burial In The Sky](https://open.spotify.com/artist/4QFGc1JTcGzr72JEGDCNd7) | [Mechanisms of Loneliness](https://open.spotify.com/album/1dH6mpUtk8kB2GWWPtRdww) | 6:58 | 2022-01-14 | 2022-07-26 |
 | [Melatonin](https://open.spotify.com/track/1cMy9ngVh1qJcWaIZPMBU8) | [Sleep Waker](https://open.spotify.com/artist/4hizDhcij3xrH69kcQ4R3i) | [Melatonin](https://open.spotify.com/album/4ZZXNJGWnA54rn0izMoJFp) | 3:28 | 2022-07-13 |  |
@@ -493,7 +495,7 @@
 | [Three Bridges](https://open.spotify.com/track/7IwuxtmnfC5rjxmk49it95) | [Cult Of Luna](https://open.spotify.com/artist/7E7fJJpdVgr1F3pfAfRtHe) | [Three Bridges](https://open.spotify.com/album/3vb21L1QoverZCitHOoOhq) | 8:45 | 2021-12-17 | 2022-07-29 |
 | [Through the Depths \(Single Edit\)](https://open.spotify.com/track/5C0736WNhxPThhiAiXysUk) | [Vokonis](https://open.spotify.com/artist/3DZoit5R0ahZQCNLbDnNxr) | [Through the Depths](https://open.spotify.com/album/0Jdbzsh0TxdSzyJFkskOhl) | 4:55 | 2021-12-17 | 2022-07-29 |
 | [TIRED OF WINNING](https://open.spotify.com/track/0PZrUz3FLIkW8j7GaFbYBO) | [NOTHING MORE](https://open.spotify.com/artist/39VNwvlQTqE9SvgPjjnMpc) | [TIRED OF WINNING](https://open.spotify.com/album/7zH2ySKpWjzJHX76zWG7SY) | 3:26 | 2022-04-29 |  |
-| [Titan](https://open.spotify.com/track/7KvYoTqJodapGeifkNb3Yd) | [Diablo](https://open.spotify.com/artist/52krZkLn1qitIAHIeoji07) | [When All the Rivers Are Silent](https://open.spotify.com/album/27zercDwGHcUvyQvDKV76E) | 3:48 | 2022-03-01 |  |
+| [Titan](https://open.spotify.com/track/7KvYoTqJodapGeifkNb3Yd) | [Diablo](https://open.spotify.com/artist/52krZkLn1qitIAHIeoji07) | [When All the Rivers Are Silent](https://open.spotify.com/album/27zercDwGHcUvyQvDKV76E) | 3:48 | 2022-03-01 | 2022-10-10 |
 | [Total](https://open.spotify.com/track/6RBwhxL28i63ZwluSirl9d) | [Killing Joke](https://open.spotify.com/artist/0Zy4ncr8h1jd7Nzr9946fD) | [Lord Of Chaos](https://open.spotify.com/album/5Urcd0CgxOwChJzrJnanIo) | 4:24 | 2022-03-25 |  |
 | [Transcend](https://open.spotify.com/track/0BPlqGBFXNrgO7H3H4SB6T) | [Walking Across Jupiter](https://open.spotify.com/artist/2Mus8zI0AG1vP3BaEwo6ss), [Vitaly Machunsky](https://open.spotify.com/artist/4mXWfRVvpyFuXhPeUcGKXK) | [Transcend](https://open.spotify.com/album/0sqwBRnSwTe1zoO2dYnhxC) | 5:25 | 2022-01-07 | 2022-07-26 |
 | [Tsitsushka](https://open.spotify.com/track/50oIQfiIQbNnDyhkI0S3sB) | [Thy Catafalque](https://open.spotify.com/artist/4sgTqbA7htxYkRRJBPZIom) | [Tsitsushka](https://open.spotify.com/album/313qBhwyl3mlW91CCBIKf2) | 5:38 | 2021-12-17 | 2022-07-29 |

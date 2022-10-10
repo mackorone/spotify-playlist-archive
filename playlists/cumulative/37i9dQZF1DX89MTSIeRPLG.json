@@ -2,7 +2,9 @@
   "date_first_scraped": "2022-10-02",
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/funnymarco/\">Funny Marco</a>",
   "name": "Funny Marco's Taste",
-  "published_playlist_ids": [],
+  "published_playlist_ids": [
+    "31ZdULrPYzo4ufijVVz6vP"
+  ],
   "tracks": [
     {
       "album": {
@@ -341,6 +343,28 @@
       "duration_ms": 142128,
       "name": "Federal",
       "url": "https://open.spotify.com/track/5H3RzvBoEUe3F4pXx6Vkqh"
+    },
+    {
+      "album": {
+        "name": "Flawed (feat. Gunna)",
+        "url": "https://open.spotify.com/album/79nszPHl1lNtFjEThFXYOI"
+      },
+      "artists": [
+        {
+          "name": "Wale",
+          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
+        },
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        }
+      ],
+      "date_added": "2022-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204455,
+      "name": "Flawed (feat. Gunna)",
+      "url": "https://open.spotify.com/track/2W9fORGdpOPoCvkbCZL9t8"
     },
     {
       "album": {
@@ -959,28 +983,6 @@
       "duration_ms": 158427,
       "name": "Top (Remix) feat. Lil Durk",
       "url": "https://open.spotify.com/track/5S0QZGDvhgdED2WJGgxBKb"
-    },
-    {
-      "album": {
-        "name": "Flawed (feat. Gunna)",
-        "url": "https://open.spotify.com/album/79nszPHl1lNtFjEThFXYOI"
-      },
-      "artists": [
-        {
-          "name": "Wale",
-          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
-        },
-        {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
-        }
-      ],
-      "date_added": "2022-10-01",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 204455,
-      "name": "Track 17",
-      "url": "https://open.spotify.com/track/2W9fORGdpOPoCvkbCZL9t8"
     },
     {
       "album": {

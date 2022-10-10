@@ -98,6 +98,24 @@
     },
     {
       "album": {
+        "name": "Acamchula Creeks",
+        "url": "https://open.spotify.com/album/3VjF1M6fwo4rYHScvsT1Md"
+      },
+      "artists": [
+        {
+          "name": "Georg Gardner",
+          "url": "https://open.spotify.com/artist/6f0loscSdyOfbHMWJSV9Pv"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151159,
+      "name": "Acamchula Creeks",
+      "url": "https://open.spotify.com/track/0nlYGpYrgVvtxy00ShqZ04"
+    },
+    {
+      "album": {
         "name": "Tres mazurcas",
         "url": "https://open.spotify.com/album/0gE3MUJGWkrAcnZtiQhzSD"
       },
@@ -401,7 +419,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-07",
       "duration_ms": 126000,
       "name": "Armon\u00eda",
       "url": "https://open.spotify.com/track/4r8uTP28nmVINTIklzXG3s"
@@ -517,6 +535,24 @@
       "duration_ms": 189040,
       "name": "Barre des E\u0301crins",
       "url": "https://open.spotify.com/track/72hU3FPZi4aiqzt5paPu7x"
+    },
+    {
+      "album": {
+        "name": "Bastion",
+        "url": "https://open.spotify.com/album/6WdCGrY7unWua2OgO8w7Es"
+      },
+      "artists": [
+        {
+          "name": "Serilda Bell",
+          "url": "https://open.spotify.com/artist/47Ak9ecFbwZj3g4uCLGS6G"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144265,
+      "name": "Bastion",
+      "url": "https://open.spotify.com/track/0HJFbLyIfJMTEH0xE8bLgf"
     },
     {
       "album": {
@@ -668,6 +704,24 @@
     },
     {
       "album": {
+        "name": "Blue Nights",
+        "url": "https://open.spotify.com/album/0vhl5DqH30xs6lj7V1QzNO"
+      },
+      "artists": [
+        {
+          "name": "Jonnie Snoilsky",
+          "url": "https://open.spotify.com/artist/5ycCOf6NSQtvIFdrscOuU4"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158568,
+      "name": "Blue Nights",
+      "url": "https://open.spotify.com/track/4nQkcnKRluoyu2UfanfqWX"
+    },
+    {
+      "album": {
         "name": "Bolero Del Sur",
         "url": "https://open.spotify.com/album/3q747zMG0IshIwdOYuMzkn"
       },
@@ -751,7 +805,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-07",
       "duration_ms": 135500,
       "name": "brighter times",
       "url": "https://open.spotify.com/track/6i7GBQ9bIAAbsqdJW12e88"
@@ -791,6 +845,24 @@
       "duration_ms": 174646,
       "name": "Bryggen",
       "url": "https://open.spotify.com/track/6yCBCG8UJGfcyk70Fdau8j"
+    },
+    {
+      "album": {
+        "name": "B\u00fasqueda De Sentido",
+        "url": "https://open.spotify.com/album/55jt44ng8AMCCUmAjLWka8"
+      },
+      "artists": [
+        {
+          "name": "Francisco Chavez",
+          "url": "https://open.spotify.com/artist/0UIFk9rZStMSw1dx7MKBXD"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186673,
+      "name": "B\u00fasqueda De Sentido",
+      "url": "https://open.spotify.com/track/2XRK0vzGIyxQK6MsVuJHji"
     },
     {
       "album": {
@@ -975,10 +1047,46 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-07",
       "duration_ms": 162359,
       "name": "Close To Firenze",
       "url": "https://open.spotify.com/track/6Fixm5hLh4ySUdQmXHYTNq"
+    },
+    {
+      "album": {
+        "name": "Colors Of Spirit",
+        "url": "https://open.spotify.com/album/75y49kivSa0YKGV050ODBr"
+      },
+      "artists": [
+        {
+          "name": "Iron Ore",
+          "url": "https://open.spotify.com/artist/4kgygMrQyq2ABMHuhm07fZ"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243235,
+      "name": "Colors Of Spirit",
+      "url": "https://open.spotify.com/track/0usXBNEX4RoDTQODT1ZJEO"
+    },
+    {
+      "album": {
+        "name": "Used To Be You",
+        "url": "https://open.spotify.com/album/2lcIAj5uXylIb7Lz8QRIdW"
+      },
+      "artists": [
+        {
+          "name": "Finlep",
+          "url": "https://open.spotify.com/artist/1CIIFCOCvjPkzlNRxw0XNp"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176331,
+      "name": "Come With Me",
+      "url": "https://open.spotify.com/track/0RafPtjiIYR2VcS9JortFA"
     },
     {
       "album": {
@@ -1396,6 +1504,24 @@
     },
     {
       "album": {
+        "name": "Dolphins",
+        "url": "https://open.spotify.com/album/3n4BbMjD1u9lCjjv1qo2s3"
+      },
+      "artists": [
+        {
+          "name": "Joux",
+          "url": "https://open.spotify.com/artist/7E1MufmzHIc7qFYqm64v69"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126282,
+      "name": "Dolphins",
+      "url": "https://open.spotify.com/track/5Z7nI5WL04irpxEi5qGUrO"
+    },
+    {
+      "album": {
         "name": "Dormi Bene",
         "url": "https://open.spotify.com/album/1GLFPZoeUPmqLETYFz9ZAy"
       },
@@ -1659,7 +1785,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-07",
       "duration_ms": 169066,
       "name": "Ericeira",
       "url": "https://open.spotify.com/track/1qxF25JZrJLmyUkzqZbsVS"
@@ -2247,6 +2373,24 @@
       "duration_ms": 200345,
       "name": "I Found The Right Bottle Of Wine",
       "url": "https://open.spotify.com/track/2rFbFGCYmtwuUDEVSTyQ82"
+    },
+    {
+      "album": {
+        "name": "I Have A Dream",
+        "url": "https://open.spotify.com/album/1Hu62lD5SgoxaROGS8SP7I"
+      },
+      "artists": [
+        {
+          "name": "Julius Reid",
+          "url": "https://open.spotify.com/artist/0CKyUaC00wxvMDw4GVquX2"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177100,
+      "name": "I Have A Dream",
+      "url": "https://open.spotify.com/track/10uaWAAYcUXBA0u3fhLvuO"
     },
     {
       "album": {
@@ -2952,6 +3096,28 @@
     },
     {
       "album": {
+        "name": "Lowlight (Duet)",
+        "url": "https://open.spotify.com/album/7CJZBVIvmNyX6WJNN9jKc0"
+      },
+      "artists": [
+        {
+          "name": "Thomas Kessler",
+          "url": "https://open.spotify.com/artist/7gladxebEaXEnycRmspgzJ"
+        },
+        {
+          "name": "Ulli Boegershausen",
+          "url": "https://open.spotify.com/artist/7cfu1JFXiRLxUGdGdNt64V"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141562,
+      "name": "Lowlight (Duet)",
+      "url": "https://open.spotify.com/track/5GQw0xJFMXme3lsU2zbOC7"
+    },
+    {
+      "album": {
         "name": "Lyrical",
         "url": "https://open.spotify.com/album/6mPcH5Fstf5uLLoSdEf4WA"
       },
@@ -3039,6 +3205,24 @@
       "duration_ms": 188000,
       "name": "Malinconia",
       "url": "https://open.spotify.com/track/6sLcVBEcHjENFjn4cmkcmH"
+    },
+    {
+      "album": {
+        "name": "Mar Abierto",
+        "url": "https://open.spotify.com/album/3djqu4voBcHRSQOLgnfeW2"
+      },
+      "artists": [
+        {
+          "name": "Alonso Librado",
+          "url": "https://open.spotify.com/artist/0fCLdOidYGZ2fORXrf3zw0"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129445,
+      "name": "Mar Abierto",
+      "url": "https://open.spotify.com/track/3iJPvAuAfJVWWnin355Tmk"
     },
     {
       "album": {
@@ -3381,7 +3565,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-07",
       "duration_ms": 181665,
       "name": "My Own Blue Sky",
       "url": "https://open.spotify.com/track/4MKxJnVZOBoVqTOLm9HIvB"
@@ -3439,6 +3623,24 @@
       "duration_ms": 150447,
       "name": "Neverland",
       "url": "https://open.spotify.com/track/5dBfxNan60Il2DqEFYIcMQ"
+    },
+    {
+      "album": {
+        "name": "New Season",
+        "url": "https://open.spotify.com/album/3fGMi62FQUhFEn8muqHqSj"
+      },
+      "artists": [
+        {
+          "name": "The Cabin Tapes",
+          "url": "https://open.spotify.com/artist/7iWDCqhLWP7tGRvYpOzj4J"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120945,
+      "name": "New Season",
+      "url": "https://open.spotify.com/track/00MR3lqcuALQH6JuJhzAcp"
     },
     {
       "album": {
@@ -3943,6 +4145,24 @@
       "duration_ms": 151430,
       "name": "Pontevedra",
       "url": "https://open.spotify.com/track/345yw2L3H74BUqh08U7zbw"
+    },
+    {
+      "album": {
+        "name": "Pontevedra (DS)",
+        "url": "https://open.spotify.com/album/7CwkEMbc4MyhipeEJMS9Bz"
+      },
+      "artists": [
+        {
+          "name": "Fabian Lombardi",
+          "url": "https://open.spotify.com/artist/3WH05EEkQ0VsQQ5rvn1shY"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107985,
+      "name": "Pontevedra",
+      "url": "https://open.spotify.com/track/1CAIsx8olzyQsEq5FwjYiq"
     },
     {
       "album": {
@@ -5134,6 +5354,24 @@
     },
     {
       "album": {
+        "name": "The Knowing Of Being",
+        "url": "https://open.spotify.com/album/05rR4u0vaHUJoBIw3tq8Nq"
+      },
+      "artists": [
+        {
+          "name": "Darcy Burke",
+          "url": "https://open.spotify.com/artist/317AmUS3g0hGGM7bNCNXYw"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192469,
+      "name": "The Knowing Of Being",
+      "url": "https://open.spotify.com/track/2TxTHFS6q7R8FyiWyTtocs"
+    },
+    {
+      "album": {
         "name": "The Lone Wolf's Meadow",
         "url": "https://open.spotify.com/album/33EnSk5EHcTVBMiycZ427c"
       },
@@ -5566,6 +5804,24 @@
     },
     {
       "album": {
+        "name": "Vos",
+        "url": "https://open.spotify.com/album/2K5DKWUYgBpgoELQkktX03"
+      },
+      "artists": [
+        {
+          "name": "a sound for you",
+          "url": "https://open.spotify.com/artist/5Ae5MzG7JJlSFIa7yQeXmI"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131803,
+      "name": "Vos",
+      "url": "https://open.spotify.com/track/61TDH0v8Yqn5iGhB5YGvin"
+    },
+    {
+      "album": {
         "name": "Wachet auf, ruft uns die Stimme, BWV 645",
         "url": "https://open.spotify.com/album/6wgDm19rHIlnFcQ3BAxIVA"
       },
@@ -5822,6 +6078,24 @@
     },
     {
       "album": {
+        "name": "While You Dream",
+        "url": "https://open.spotify.com/album/377iurKSfWPriVKdTisxYQ"
+      },
+      "artists": [
+        {
+          "name": "Joseph Cline",
+          "url": "https://open.spotify.com/artist/4I9DN3aBJSdzI26IuzVl0h"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129627,
+      "name": "While You Dream",
+      "url": "https://open.spotify.com/track/64JfbQmVniAnDa0ulwkNDx"
+    },
+    {
+      "album": {
         "name": "Wildflowers",
         "url": "https://open.spotify.com/album/2hlO5P9G2aDGVS6GnDxaXI"
       },
@@ -5959,7 +6233,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-07",
       "duration_ms": 227000,
       "name": "Your Picture Is Still There",
       "url": "https://open.spotify.com/track/3AAkxI7ldvaZ4P9Vn3XTf9"

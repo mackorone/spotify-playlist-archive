@@ -167,7 +167,7 @@
       ],
       "date_added": "2022-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 237800,
       "name": "A Common Excuse",
       "url": "https://open.spotify.com/track/7GpmCt7ZY3BEjs5O2SSGS9"
@@ -239,7 +239,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 189200,
       "name": "A Long Night",
       "url": "https://open.spotify.com/track/0I8hTfSm5qjhZEoiMCn6PG"
@@ -365,7 +365,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 251000,
       "name": "Aching",
       "url": "https://open.spotify.com/track/017eGASA1dbhQOb942TuQx"
@@ -1599,7 +1599,7 @@
       ],
       "date_added": "2022-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 235573,
       "name": "Cause You (prod. KANGTA)",
       "url": "https://open.spotify.com/track/4tmhfVKwTg8iSbXtQN4Yba"
@@ -2671,7 +2671,7 @@
       ],
       "date_added": "2022-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 209306,
       "name": "Fanfare",
       "url": "https://open.spotify.com/track/0HnOuV8mqOxAhxT6Z2BVco"
@@ -3043,7 +3043,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 215210,
       "name": "Generation Stars...(1992)",
       "url": "https://open.spotify.com/track/27yXEBgJQZdjWaFjvhYoDr"
@@ -3716,6 +3716,24 @@
     },
     {
       "album": {
+        "name": "I Can\u2019t (Re:WIND 4MEN Vol.02)",
+        "url": "https://open.spotify.com/album/4ZUX84xu3LpbFHtgyJdoF6"
+      },
+      "artists": [
+        {
+          "name": "Kim Na Young",
+          "url": "https://open.spotify.com/artist/4dvmLXorXADxVq8EcySEWk"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250053,
+      "name": "I Can\u2019t",
+      "url": "https://open.spotify.com/track/5o5yvRKiygg9Nh4Uvo0VTH"
+    },
+    {
+      "album": {
         "name": "I Count Three",
         "url": "https://open.spotify.com/album/73SciIcxj2Y5Rv6wUjBdfE"
       },
@@ -3875,6 +3893,24 @@
       "duration_ms": 236866,
       "name": "I Loved You",
       "url": "https://open.spotify.com/track/6wFx5MqZDvrIQuncLuLevU"
+    },
+    {
+      "album": {
+        "name": "I Loved You",
+        "url": "https://open.spotify.com/album/4byq8NnOCRHR1qju02hnHM"
+      },
+      "artists": [
+        {
+          "name": "Shin Sae Byeok",
+          "url": "https://open.spotify.com/artist/0cqVnk9oe3o3SwbCmqnAm0"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236360,
+      "name": "I Loved You",
+      "url": "https://open.spotify.com/track/07prDTHALiKQn8dpPIXrW8"
     },
     {
       "album": {
@@ -4269,7 +4305,7 @@
       ],
       "date_added": "2022-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 250045,
       "name": "I'll Try",
       "url": "https://open.spotify.com/track/6sK0ZT95mPOuPSKo5QOikz"
@@ -4691,6 +4727,24 @@
       "duration_ms": 275362,
       "name": "Is It Still Beautiful",
       "url": "https://open.spotify.com/track/4rrGSoMxUV0diSX4zpoCTf"
+    },
+    {
+      "album": {
+        "name": "Island",
+        "url": "https://open.spotify.com/album/3wtjtiFtIyB8TfvT8qkMsz"
+      },
+      "artists": [
+        {
+          "name": "Mia",
+          "url": "https://open.spotify.com/artist/24nwTOGM8qUNwKYWY2c0xr"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216040,
+      "name": "Island",
+      "url": "https://open.spotify.com/track/5qLt5LS1WVUwo1CYl08wFQ"
     },
     {
       "album": {
@@ -6091,7 +6145,7 @@
       ],
       "date_added": "2022-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 218076,
       "name": "My Night, Your Night (Feat. Baek Sun)",
       "url": "https://open.spotify.com/track/4bmWgD4GnQO2RtGUSbXm50"
@@ -7910,6 +7964,24 @@
     },
     {
       "album": {
+        "name": "Still Here",
+        "url": "https://open.spotify.com/album/1vhPhbQYVSAuDI8ZKsG0VU"
+      },
+      "artists": [
+        {
+          "name": "ONEWE",
+          "url": "https://open.spotify.com/artist/4D9foUQxTrsS0w2BeyCD16"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219746,
+      "name": "Still Here",
+      "url": "https://open.spotify.com/track/7nVhKlC4JktgjoUXLdhly2"
+    },
+    {
+      "album": {
         "name": "such a man",
         "url": "https://open.spotify.com/album/1WbRJyCcnFkHAVCj2hOnUW"
       },
@@ -8029,7 +8101,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 231640,
       "name": "TEARS (WEBTOON 'Discovery of Love' X HWANG CHI YEUL)",
       "url": "https://open.spotify.com/track/0pRpX95wMdfhszOe7QkVYx"
@@ -8445,10 +8517,28 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 258519,
       "name": "The Return of our Season",
       "url": "https://open.spotify.com/track/0XTukteREM3zrBZlMg2mzA"
+    },
+    {
+      "album": {
+        "name": "Love in Contract, Pt. 2 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/48zQbCd3wr1doH7uH4sWVh"
+      },
+      "artists": [
+        {
+          "name": "Byeol Eun",
+          "url": "https://open.spotify.com/artist/6PlVpPXatgot82WQgqM6S2"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237373,
+      "name": "The Season of You",
+      "url": "https://open.spotify.com/track/7iEELA32wMz4a1gYZNCNSO"
     },
     {
       "album": {
@@ -8467,6 +8557,24 @@
       "duration_ms": 248133,
       "name": "The Song",
       "url": "https://open.spotify.com/track/1TDlDMp9J4cpHj77DETvVb"
+    },
+    {
+      "album": {
+        "name": "The Story of Us",
+        "url": "https://open.spotify.com/album/7LcIGYNw1hu9bUYqChopBy"
+      },
+      "artists": [
+        {
+          "name": "HYNN",
+          "url": "https://open.spotify.com/artist/64jfAecBriamQmMs0WAKtj"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216000,
+      "name": "The Story of Us",
+      "url": "https://open.spotify.com/track/6cctzaLrogzkESYTZeA01k"
     },
     {
       "album": {
@@ -8756,6 +8864,46 @@
     },
     {
       "album": {
+        "name": "Tipping Point Pt.1",
+        "url": "https://open.spotify.com/album/1S5zQMBBDIklg0QR97Zq9I"
+      },
+      "artists": [
+        {
+          "name": "Lee MinHyuk",
+          "url": "https://open.spotify.com/artist/2KbxyNY5Dt6CJ6FBLcWfkH"
+        },
+        {
+          "name": "Choi Yuree",
+          "url": "https://open.spotify.com/artist/6qvVoPGEqNCyYSjYCgfV1v"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255666,
+      "name": "Tonight",
+      "url": "https://open.spotify.com/track/5zRPAxbJo5IXIHFTOETcJL"
+    },
+    {
+      "album": {
+        "name": "The Law Cafe (Original Television Soundtrack), Pt.7",
+        "url": "https://open.spotify.com/album/1FuORImSSQuDDj7A1rTxSz"
+      },
+      "artists": [
+        {
+          "name": "Standing Egg",
+          "url": "https://open.spotify.com/artist/6a3Mfrn2XBR1DfPg1QGa1d"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229960,
+      "name": "Traces of You",
+      "url": "https://open.spotify.com/track/0K9vliPUbih2E6YCLDobCu"
+    },
+    {
+      "album": {
         "name": "Trust Me (MIDZY)",
         "url": "https://open.spotify.com/album/4zs9WBFiKWmvRM7s1XNcdb"
       },
@@ -8861,6 +9009,24 @@
       "duration_ms": 200720,
       "name": "U Hoo Hoo",
       "url": "https://open.spotify.com/track/3fRKoqpAB9jOAMDQXg2fwa"
+    },
+    {
+      "album": {
+        "name": "Unbearable Pain",
+        "url": "https://open.spotify.com/album/0nBw2E2j7OlAXHh1959DW8"
+      },
+      "artists": [
+        {
+          "name": "SEOBIN",
+          "url": "https://open.spotify.com/artist/5wIb1NVEsm3RR9hSrYXjDr"
+        }
+      ],
+      "date_added": "2022-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243636,
+      "name": "Unbearable Pain",
+      "url": "https://open.spotify.com/track/41LundrJaKNT2kLlfG1ufe"
     },
     {
       "album": {
@@ -9491,7 +9657,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 207706,
       "name": "with you",
       "url": "https://open.spotify.com/track/2aPyJyUGGLj33QiXRfLG05"
@@ -9596,6 +9762,24 @@
     },
     {
       "album": {
+        "name": "\uce5c\uad6c\ubcf4\ub2e4 \ub354 \ubabb\ud55c \uc0ac\uc774",
+        "url": "https://open.spotify.com/album/2JsY4V9OqKbQRXezTHhj76"
+      },
+      "artists": [
+        {
+          "name": "Jeong Dong Won",
+          "url": "https://open.spotify.com/artist/7fB8Qn00ToFmUY3mAJJSki"
+        }
+      ],
+      "date_added": "2022-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239813,
+      "name": "Worse than friends",
+      "url": "https://open.spotify.com/track/4OfeoCwjK4xFGn5XQ0dbfu"
+    },
+    {
+      "album": {
         "name": "YOU",
         "url": "https://open.spotify.com/album/2U9rzSHkcPOnq3q55U6RV0"
       },
@@ -9607,7 +9791,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 220497,
       "name": "YOU",
       "url": "https://open.spotify.com/track/3EbIEcLVkzpBEt2wKty6Iu"
@@ -9661,7 +9845,7 @@
       ],
       "date_added": "2022-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 222500,
       "name": "You're Already The Best For Me",
       "url": "https://open.spotify.com/track/4o02wolAG3eS75e9rljBLv"
@@ -9723,7 +9907,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 239706,
       "name": "Your memory (feat. Lee Yoon Hee)",
       "url": "https://open.spotify.com/track/61OvyItM7Ti2ylIjmEaIJe"
@@ -10095,6 +10279,24 @@
       "duration_ms": 281230,
       "name": "\uc9c0\ub098\uc624\ub2e4",
       "url": "https://open.spotify.com/track/5ndgHth5hDc2dFPDC9Sq9N"
+    },
+    {
+      "album": {
+        "name": "Seven,",
+        "url": "https://open.spotify.com/album/50ypPSIjofQu7iEkA4ILTr"
+      },
+      "artists": [
+        {
+          "name": "Lim Jae Bum",
+          "url": "https://open.spotify.com/artist/7cYFopPCh8aSpBHANLgLaV"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249959,
+      "name": "\ud640\ub85c \ud540 \uc544\uc774",
+      "url": "https://open.spotify.com/track/7HKQdNF6zTVj0QBLheWD7O"
     },
     {
       "album": {

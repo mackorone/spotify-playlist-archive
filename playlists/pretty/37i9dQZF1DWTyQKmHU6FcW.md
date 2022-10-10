@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTyQKmHU6FcW.md) - [plain]
 
 > Elvis Presley's most romantic songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,441 likes - 36 songs - 1 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,370 likes - 36 songs - 1 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTyQKmHU6FcW.md) - [plain]
 | 3 | [It's Now or Never](https://open.spotify.com/track/6p8LNHMqJiUMjPXy4rnO5H) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Elvis 30 \#1 Hits \(Expanded Edition\)](https://open.spotify.com/album/0uJJdEZ8sRLNPoKEkjvqTD) | 3:14 |
 | 4 | [Unchained Melody \- Live at Ann Arbor, MI](https://open.spotify.com/track/0OavtQSojULqejmC4Qbstr) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Moody Blue](https://open.spotify.com/album/08bROKoMarHS0jRzZOEv08) | 2:31 |
 | 5 | [Memories \- Live from the '68 Comeback Special](https://open.spotify.com/track/7rksaFFjea7QqvEXIluPAd) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [NBC\-TV Special \(Live\)](https://open.spotify.com/album/4OaxrDxZe97lotUT4cxoRX) | 3:20 |
-| 6 | [Kentucky Rain](https://open.spotify.com/track/1dIChAQ6MLzIsXWl6vWAqX) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [From Elvis in Memphis \(Live\)](https://open.spotify.com/album/3ekkFrfotMsEAKc5g71GHk) | 3:15 |
+| 6 | [Kentucky Rain](https://open.spotify.com/track/1dIChAQ6MLzIsXWl6vWAqX) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [From Elvis in Memphis](https://open.spotify.com/album/3ekkFrfotMsEAKc5g71GHk) | 3:15 |
 | 7 | [Pocketful of Rainbows](https://open.spotify.com/track/6lSGhstIFdvPT0mYbTM6Y2) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [G.I\. Blues](https://open.spotify.com/album/1TqAYM0PTj6TDdzTcY8VGT) | 2:34 |
 | 8 | [Fever](https://open.spotify.com/track/73m8WuJlhzVusTVzJCGaDZ) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Elvis Is Back](https://open.spotify.com/album/2SBAAtgdyjgfTO1UMHnza1) | 3:32 |
 | 9 | [\(Marie's The Name\) His Latest Flame](https://open.spotify.com/track/4qbLOU1T7xgTH87eUSkvJ1) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Elvis 30 \#1 Hits](https://open.spotify.com/album/0QVoYzGd1p8Z3ohEaM0lsc) | 2:07 |

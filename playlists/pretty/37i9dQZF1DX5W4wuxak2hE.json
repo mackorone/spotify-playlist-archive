@@ -1,12 +1,12 @@
 {
   "description": "Here's a taste of power pop. <a href=\"spotify:genre:0JQ5IMCbQBLk5woFi85yOT\">Click here for further discovery.</a> Cover: Cheap Trick\n",
-  "num_followers": 125569,
+  "num_followers": 126030,
   "original_name": "Power Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDc0NjAzNiwwMDAwMDAwMDliYzg0M2Y0YzY1NDU0ZjA5NWZiYWY5NTRhMGI1Nzgx",
+  "snapshot_id": "MTY2MDc0NjAzNiwwMDAwMDAwMGYzMGU1ZjJlODE5ODQ4NDdjYzdlZTAxZjQxNzc4MGE1",
   "tracks": [
     {
       "added_at": "2021-12-16 19:14:26",
@@ -107,22 +107,6 @@
     {
       "added_at": "2021-12-16 19:14:26",
       "album": {
-        "name": "Superunknown (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/29sTacnS0qA9xri6YS8xLA"
-      },
-      "artists": [
-        {
-          "name": "Soundgarden",
-          "url": "https://open.spotify.com/artist/5xUf6j4upBrXZPg6AI4MRK"
-        }
-      ],
-      "duration_ms": 318586,
-      "name": "Black Hole Sun",
-      "url": "https://open.spotify.com/track/2EoOZnxNgtmZaD8uUmz2nD"
-    },
-    {
-      "added_at": "2021-12-16 19:14:26",
-      "album": {
         "name": "The Smiths",
         "url": "https://open.spotify.com/album/6cI1XoZsOhkyrCwtuI70CN"
       },
@@ -135,6 +119,22 @@
       "duration_ms": 162920,
       "name": "This Charming Man - 2011 Remaster",
       "url": "https://open.spotify.com/track/1FvDJ9KGxcqwv1utyPL3JZ"
+    },
+    {
+      "added_at": "2021-12-16 19:14:26",
+      "album": {
+        "name": "Superunknown (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/29sTacnS0qA9xri6YS8xLA"
+      },
+      "artists": [
+        {
+          "name": "Soundgarden",
+          "url": "https://open.spotify.com/artist/5xUf6j4upBrXZPg6AI4MRK"
+        }
+      ],
+      "duration_ms": 318586,
+      "name": "Black Hole Sun",
+      "url": "https://open.spotify.com/track/2EoOZnxNgtmZaD8uUmz2nD"
     },
     {
       "added_at": "2021-12-16 19:14:26",
@@ -363,6 +363,22 @@
     {
       "added_at": "2021-12-16 19:14:26",
       "album": {
+        "name": "Lola Versus Powerman and the Moneygoround, Pt. 1",
+        "url": "https://open.spotify.com/album/70kpGi2o0I7NY4DfwIN2p0"
+      },
+      "artists": [
+        {
+          "name": "The Kinks",
+          "url": "https://open.spotify.com/artist/1SQRv42e4PjEYfPhS0Tk9E"
+        }
+      ],
+      "duration_ms": 241991,
+      "name": "Lola - 2020 Stereo Remaster",
+      "url": "https://open.spotify.com/track/4ZKgPZ9d4V5WW6H2s4qMD3"
+    },
+    {
+      "added_at": "2021-12-16 19:14:26",
+      "album": {
         "name": "Third Eye Blind",
         "url": "https://open.spotify.com/album/2gToC0XAblE9h3UZD6aAaQ"
       },
@@ -391,22 +407,6 @@
       "duration_ms": 215066,
       "name": "Is She Really Going Out With Him?",
       "url": "https://open.spotify.com/track/29SRvYOKbMLOZeOubNGtLb"
-    },
-    {
-      "added_at": "2021-12-16 19:14:26",
-      "album": {
-        "name": "Lola Versus Powerman and the Moneygoround, Pt. 1",
-        "url": "https://open.spotify.com/album/70kpGi2o0I7NY4DfwIN2p0"
-      },
-      "artists": [
-        {
-          "name": "The Kinks",
-          "url": "https://open.spotify.com/artist/1SQRv42e4PjEYfPhS0Tk9E"
-        }
-      ],
-      "duration_ms": 241991,
-      "name": "Lola - 2020 Stereo Remaster",
-      "url": "https://open.spotify.com/track/4ZKgPZ9d4V5WW6H2s4qMD3"
     },
     {
       "added_at": "2021-12-16 19:14:26",
@@ -443,22 +443,6 @@
     {
       "added_at": "2021-12-16 19:14:26",
       "album": {
-        "name": "What I Like About You (And Other Romantic Hits)",
-        "url": "https://open.spotify.com/album/5ZwUOFZdWQ81RYMwXc4j3B"
-      },
-      "artists": [
-        {
-          "name": "The Romantics",
-          "url": "https://open.spotify.com/artist/3daM7asS0gCFvyLemNx2EE"
-        }
-      ],
-      "duration_ms": 175400,
-      "name": "What I Like About You",
-      "url": "https://open.spotify.com/track/6NdcSEhpGGAYXNnnhGS2s6"
-    },
-    {
-      "added_at": "2021-12-16 19:14:26",
-      "album": {
         "name": "Parallel Lines",
         "url": "https://open.spotify.com/album/4M6s2jbhKWEcOdXZ8WiHts"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 229423,
       "name": "Heart Of Glass",
       "url": "https://open.spotify.com/track/4v2rkl1mC3zVAz0nXMx9r4"
+    },
+    {
+      "added_at": "2021-12-16 19:14:26",
+      "album": {
+        "name": "What I Like About You (And Other Romantic Hits)",
+        "url": "https://open.spotify.com/album/5ZwUOFZdWQ81RYMwXc4j3B"
+      },
+      "artists": [
+        {
+          "name": "The Romantics",
+          "url": "https://open.spotify.com/artist/3daM7asS0gCFvyLemNx2EE"
+        }
+      ],
+      "duration_ms": 175400,
+      "name": "What I Like About You",
+      "url": "https://open.spotify.com/track/6NdcSEhpGGAYXNnnhGS2s6"
     },
     {
       "added_at": "2021-12-16 19:14:26",
@@ -503,6 +503,22 @@
       "duration_ms": 185093,
       "name": "Parklife - 2012 Remaster",
       "url": "https://open.spotify.com/track/7FSzJQV6thyoQptFCUTV9c"
+    },
+    {
+      "added_at": "2021-12-16 19:14:26",
+      "album": {
+        "name": "Damn The Torpedoes (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/708Whrc4abJEtqBINv9S2b"
+      },
+      "artists": [
+        {
+          "name": "Tom Petty and the Heartbreakers",
+          "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
+        }
+      ],
+      "duration_ms": 161786,
+      "name": "Don't Do Me Like That",
+      "url": "https://open.spotify.com/track/5AzpZ5ADn1AFPxcEBd2Ugf"
     },
     {
       "added_at": "2021-12-16 19:14:26",
@@ -571,22 +587,6 @@
     {
       "added_at": "2021-12-16 19:14:26",
       "album": {
-        "name": "Damn The Torpedoes (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/708Whrc4abJEtqBINv9S2b"
-      },
-      "artists": [
-        {
-          "name": "Tom Petty and the Heartbreakers",
-          "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
-        }
-      ],
-      "duration_ms": 161786,
-      "name": "Don't Do Me Like That",
-      "url": "https://open.spotify.com/track/5AzpZ5ADn1AFPxcEBd2Ugf"
-    },
-    {
-      "added_at": "2021-12-16 19:14:26",
-      "album": {
         "name": "Pretenders",
         "url": "https://open.spotify.com/album/6AFFu3ilmlEDz1I9ZaNOZw"
       },
@@ -599,38 +599,6 @@
       "duration_ms": 185960,
       "name": "Brass in Pocket - 2006 Remaster",
       "url": "https://open.spotify.com/track/1QaJWSCk3UMKLotnPCIHh1"
-    },
-    {
-      "added_at": "2021-12-16 19:14:26",
-      "album": {
-        "name": "Drums And Wires",
-        "url": "https://open.spotify.com/album/4S6y2iTYbGONSlNJHYyrVl"
-      },
-      "artists": [
-        {
-          "name": "XTC",
-          "url": "https://open.spotify.com/artist/2qT62DYO8Ajb276vUJmvhz"
-        }
-      ],
-      "duration_ms": 253800,
-      "name": "Making Plans For Nigel",
-      "url": "https://open.spotify.com/track/1XT5kxg6Tk0ukCO2vBQN4v"
-    },
-    {
-      "added_at": "2021-12-16 19:14:26",
-      "album": {
-        "name": "Setting Sons (Super Deluxe)",
-        "url": "https://open.spotify.com/album/4GQmfMtt1JhIQLK3L6p5lo"
-      },
-      "artists": [
-        {
-          "name": "The Jam",
-          "url": "https://open.spotify.com/artist/2P560DaOMNDUACoH8ZhOCR"
-        }
-      ],
-      "duration_ms": 174506,
-      "name": "Going Underground",
-      "url": "https://open.spotify.com/track/6ALPLbDJ9eWVij9ep3Cgf4"
     },
     {
       "added_at": "2021-12-16 19:14:26",
@@ -651,18 +619,34 @@
     {
       "added_at": "2021-12-16 19:14:26",
       "album": {
-        "name": "Outside Inside",
-        "url": "https://open.spotify.com/album/2WiDQ5arP6dQ5unzoTJ0UH"
+        "name": "Setting Sons (Super Deluxe)",
+        "url": "https://open.spotify.com/album/4GQmfMtt1JhIQLK3L6p5lo"
       },
       "artists": [
         {
-          "name": "The Tubes",
-          "url": "https://open.spotify.com/artist/7zfhej6FnVXN9LIXs6dcoK"
+          "name": "The Jam",
+          "url": "https://open.spotify.com/artist/2P560DaOMNDUACoH8ZhOCR"
         }
       ],
-      "duration_ms": 240666,
-      "name": "She's A Beauty - Remastered 1991",
-      "url": "https://open.spotify.com/track/7HF88mJXq8DpotZohoW2mo"
+      "duration_ms": 174506,
+      "name": "Going Underground",
+      "url": "https://open.spotify.com/track/6ALPLbDJ9eWVij9ep3Cgf4"
+    },
+    {
+      "added_at": "2021-12-16 19:14:26",
+      "album": {
+        "name": "Drums And Wires",
+        "url": "https://open.spotify.com/album/4S6y2iTYbGONSlNJHYyrVl"
+      },
+      "artists": [
+        {
+          "name": "XTC",
+          "url": "https://open.spotify.com/artist/2qT62DYO8Ajb276vUJmvhz"
+        }
+      ],
+      "duration_ms": 253800,
+      "name": "Making Plans For Nigel",
+      "url": "https://open.spotify.com/track/1XT5kxg6Tk0ukCO2vBQN4v"
     },
     {
       "added_at": "2021-12-16 19:14:26",
@@ -683,22 +667,6 @@
     {
       "added_at": "2021-12-16 19:14:26",
       "album": {
-        "name": "Band On The Run (Standard)",
-        "url": "https://open.spotify.com/album/257oomaawruFknt5wYCPDh"
-      },
-      "artists": [
-        {
-          "name": "Wings",
-          "url": "https://open.spotify.com/artist/3sFhA6G1N0gG1pszb6kk1m"
-        }
-      ],
-      "duration_ms": 248360,
-      "name": "Jet - Remastered 2010",
-      "url": "https://open.spotify.com/track/4D40ZlFAWsvX7lua1Kablh"
-    },
-    {
-      "added_at": "2021-12-16 19:14:26",
-      "album": {
         "name": "Straight Up (Remastered 2010 / Deluxe Edition)",
         "url": "https://open.spotify.com/album/0BWOueFZKxQrQWNRt20Lvc"
       },
@@ -711,6 +679,22 @@
       "duration_ms": 191053,
       "name": "Day After Day - Remastered 2010",
       "url": "https://open.spotify.com/track/2XKW8CH8nRZH9cF2DNjBHN"
+    },
+    {
+      "added_at": "2021-12-16 19:14:26",
+      "album": {
+        "name": "Outside Inside",
+        "url": "https://open.spotify.com/album/2WiDQ5arP6dQ5unzoTJ0UH"
+      },
+      "artists": [
+        {
+          "name": "The Tubes",
+          "url": "https://open.spotify.com/artist/7zfhej6FnVXN9LIXs6dcoK"
+        }
+      ],
+      "duration_ms": 240666,
+      "name": "She's A Beauty - Remastered 1991",
+      "url": "https://open.spotify.com/track/7HF88mJXq8DpotZohoW2mo"
     },
     {
       "added_at": "2021-12-16 19:14:26",
@@ -731,6 +715,22 @@
     {
       "added_at": "2021-12-16 19:14:26",
       "album": {
+        "name": "Band On The Run (Standard)",
+        "url": "https://open.spotify.com/album/257oomaawruFknt5wYCPDh"
+      },
+      "artists": [
+        {
+          "name": "Wings",
+          "url": "https://open.spotify.com/artist/3sFhA6G1N0gG1pszb6kk1m"
+        }
+      ],
+      "duration_ms": 248360,
+      "name": "Jet - Remastered 2010",
+      "url": "https://open.spotify.com/track/4D40ZlFAWsvX7lua1Kablh"
+    },
+    {
+      "added_at": "2021-12-16 19:14:26",
+      "album": {
         "name": "Labour of Lust",
         "url": "https://open.spotify.com/album/7c8NVsxXciWMbAMN51GKim"
       },
@@ -747,22 +747,6 @@
     {
       "added_at": "2021-12-16 19:14:26",
       "album": {
-        "name": "Something / Anything?",
-        "url": "https://open.spotify.com/album/3fRCOoTbBsOITBWlCRCJQr"
-      },
-      "artists": [
-        {
-          "name": "Todd Rundgren",
-          "url": "https://open.spotify.com/artist/0Lpr5wXzWLtDWm1SjNbpPb"
-        }
-      ],
-      "duration_ms": 264093,
-      "name": "Hello It's Me",
-      "url": "https://open.spotify.com/track/3gHFKiDanj4d2rqgHlRFFc"
-    },
-    {
-      "added_at": "2021-12-16 19:14:26",
-      "album": {
         "name": "Elastica",
         "url": "https://open.spotify.com/album/00MAXeszCotk3g9q8KYJlZ"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 140480,
       "name": "Connection",
       "url": "https://open.spotify.com/track/53LZqMzQEnjBkFXPqOq0cD"
+    },
+    {
+      "added_at": "2021-12-16 19:14:26",
+      "album": {
+        "name": "Something / Anything?",
+        "url": "https://open.spotify.com/album/3fRCOoTbBsOITBWlCRCJQr"
+      },
+      "artists": [
+        {
+          "name": "Todd Rundgren",
+          "url": "https://open.spotify.com/artist/0Lpr5wXzWLtDWm1SjNbpPb"
+        }
+      ],
+      "duration_ms": 264093,
+      "name": "Hello It's Me",
+      "url": "https://open.spotify.com/track/3gHFKiDanj4d2rqgHlRFFc"
     },
     {
       "added_at": "2021-12-16 19:14:26",

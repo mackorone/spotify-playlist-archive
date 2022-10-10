@@ -1954,6 +1954,24 @@
     },
     {
       "album": {
+        "name": "Neighbor",
+        "url": "https://open.spotify.com/album/3QG5NYtfW5HsUNRHoLVirX"
+      },
+      "artists": [
+        {
+          "name": "JJ Heller",
+          "url": "https://open.spotify.com/artist/7dq8KEwf0kQXJhM79iwcPh"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236000,
+      "name": "Neighbor",
+      "url": "https://open.spotify.com/track/1t0zKQvPW6iQPHGnUikbgC"
+    },
+    {
+      "album": {
         "name": "Let's Go!",
         "url": "https://open.spotify.com/album/6ffmeWb1QvrjbIK4k0MsTq"
       },

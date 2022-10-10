@@ -361,7 +361,7 @@
       ],
       "date_added": "2022-06-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-14",
+      "date_removed": null,
       "duration_ms": 141213,
       "name": "El Malandr\u00edn",
       "url": "https://open.spotify.com/track/3YfrZf562Ixxq5rAHmO4GI"
@@ -469,7 +469,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-09",
       "duration_ms": 146040,
       "name": "La Captura",
       "url": "https://open.spotify.com/track/79RyBdM6shRCcdYIFtyWoo"
@@ -559,7 +559,7 @@
       ],
       "date_added": "2022-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 164106,
       "name": "Las Parcelas de Mendoza",
       "url": "https://open.spotify.com/track/3HR093fTutGwn5EUWne3ZR"
@@ -685,7 +685,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-02",
+      "date_removed": null,
       "duration_ms": 162586,
       "name": "Me Gusta Tener de a Dos",
       "url": "https://open.spotify.com/track/0QlGXSHMfRUrzzPAC92nFo"
@@ -829,7 +829,7 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-18",
+      "date_removed": "2022-10-09",
       "duration_ms": 185991,
       "name": "Ni en el Mundo Te Hago",
       "url": "https://open.spotify.com/track/09gH0b6E2xLR0z6DK59huE"
@@ -955,7 +955,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-09",
       "duration_ms": 166786,
       "name": "Te Amo M\u00e1s",
       "url": "https://open.spotify.com/track/0mUXqS2tc8wAH8tXGl96fM"
@@ -1049,6 +1049,24 @@
       "duration_ms": 165877,
       "name": "Tu Retrato",
       "url": "https://open.spotify.com/track/3JAoKeOr0fK8MYeEEQRSzA"
+    },
+    {
+      "album": {
+        "name": "Necesito Due\u00f1a",
+        "url": "https://open.spotify.com/album/0ow5H1Ztq6bPN6V5TAUVEY"
+      },
+      "artists": [
+        {
+          "name": "Sergio Vega \"El Shaka\"",
+          "url": "https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L"
+        }
+      ],
+      "date_added": "2022-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224933,
+      "name": "T\u00fa - Balada Version",
+      "url": "https://open.spotify.com/track/2WLBbZNzqxxga0ZRhUX7w0"
     },
     {
       "album": {

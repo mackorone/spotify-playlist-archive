@@ -878,6 +878,24 @@
     },
     {
       "album": {
+        "name": "Regoaak",
+        "url": "https://open.spotify.com/album/2I2ni6BEYpQlCgahVaKa3R"
+      },
+      "artists": [
+        {
+          "name": "Hatem Fahmy",
+          "url": "https://open.spotify.com/artist/1cAEzDzhESfOrcN9lPQXIR"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215737,
+      "name": "Regoaak",
+      "url": "https://open.spotify.com/track/0WDQvg1SEL6rgwfFmgxHe7"
+    },
+    {
+      "album": {
         "name": "Sahraya",
         "url": "https://open.spotify.com/album/6NpsqEqR1yZ5YTyPQZUewf"
       },

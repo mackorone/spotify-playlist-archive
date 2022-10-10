@@ -1336,6 +1336,28 @@
     },
     {
       "album": {
+        "name": "Flores",
+        "url": "https://open.spotify.com/album/4tFqsdZs5FlmfURPHuQX1B"
+      },
+      "artists": [
+        {
+          "name": "Nino Freestyle",
+          "url": "https://open.spotify.com/artist/1AACxWCwNIa3ecOBQJnXRV"
+        },
+        {
+          "name": "Dalex",
+          "url": "https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn"
+        }
+      ],
+      "date_added": "2022-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171920,
+      "name": "Flores",
+      "url": "https://open.spotify.com/track/2RCB8DenQG8AAy95KJfuwe"
+    },
+    {
+      "album": {
         "name": "Flow Lavoe",
         "url": "https://open.spotify.com/album/0y11D9VF8RzosySuQ2YgDD"
       },
@@ -1948,6 +1970,24 @@
     },
     {
       "album": {
+        "name": "Las Cartas",
+        "url": "https://open.spotify.com/album/7fctld92LQsFJrmqliUMYu"
+      },
+      "artists": [
+        {
+          "name": "Kamm",
+          "url": "https://open.spotify.com/artist/1TedHsnAVELVd0b5N8nbFh"
+        }
+      ],
+      "date_added": "2022-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212456,
+      "name": "Las Cartas",
+      "url": "https://open.spotify.com/track/1pOa85FwiJcbwyYTQFAZUM"
+    },
+    {
+      "album": {
         "name": "Lento",
         "url": "https://open.spotify.com/album/5XsAVBTFabbMC9lGGsIcKV"
       },
@@ -2031,7 +2071,7 @@
       ],
       "date_added": "2022-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-10",
       "duration_ms": 224800,
       "name": "LULLABY",
       "url": "https://open.spotify.com/track/1yXYxa3O00Gcxy6XqGRhpE"
@@ -4123,7 +4163,7 @@
       ],
       "date_added": "2022-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-10",
       "duration_ms": 149625,
       "name": "yourplace",
       "url": "https://open.spotify.com/track/3zahH6mfmPZz4q038rk3Hu"

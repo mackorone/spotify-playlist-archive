@@ -1489,6 +1489,24 @@
     {
       "album": {
         "name": "Missing You",
+        "url": "https://open.spotify.com/album/7tZNUkPLh4bj1iDphlnDkV"
+      },
+      "artists": [
+        {
+          "name": "Will Swinton",
+          "url": "https://open.spotify.com/artist/1fUcXY3KcnNvCP2dnF7XCh"
+        }
+      ],
+      "date_added": "2022-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148893,
+      "name": "Missing You",
+      "url": "https://open.spotify.com/track/0HxVZLIsHtmANlPe5365CI"
+    },
+    {
+      "album": {
+        "name": "Missing You",
         "url": "https://open.spotify.com/album/2WRDX1r97g3G40Y4HMlTQn"
       },
       "artists": [
@@ -1499,7 +1517,7 @@
       ],
       "date_added": "2022-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-09",
       "duration_ms": 148893,
       "name": "Missing You",
       "url": "https://open.spotify.com/track/1crht72poF4DKmkelzypLN"

@@ -4,7 +4,7 @@
 
 > Our editorial picks for R&B’s best of 2021 in Canada\. Cover: The Weeknd
 
-110 songs - 6 hr 22 min - [published](https://open.spotify.com/playlist/1GcWFiDe4JYAu3RXzjkMur)
+111 songs - 6 hr 25 min - [published](https://open.spotify.com/playlist/1GcWFiDe4JYAu3RXzjkMur)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,7 +63,8 @@
 | [Let Me Know](https://open.spotify.com/track/2spZ9rKMixDBSl3NYjRbjn) | [Sage Harris](https://open.spotify.com/artist/0oIjVtSreeU9ldQZFdQZn2), [Jagged Edge](https://open.spotify.com/artist/7Aq8lpLMSt1Zxu56pe9bmp) | [Let Me Know](https://open.spotify.com/album/4ZrOpeUetMLEnqFx1U4twz) | 2:56 | 2021-12-09 |  |
 | [Lindsay's Freestyle](https://open.spotify.com/track/0xOnej2rwWRGRAwXFvTaYa) | [RUSSELL!](https://open.spotify.com/artist/1cEcF3RdBDSBjhF5Udcmdb) | [Lindsay's Freestyle](https://open.spotify.com/album/5qU1eX4515l80GTqll49eV) | 2:56 | 2021-12-09 |  |
 | [LOST YOU](https://open.spotify.com/track/26aJMMLBSOQmiC4JenVjjl) | [Snoh Aalegra](https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X) | [TEMPORARY HIGHS IN THE VIOLET SKIES](https://open.spotify.com/album/57ttk3xzHMWLr6CGrEa8F3) | 2:57 | 2021-12-09 |  |
-| [Love is a losing game](https://open.spotify.com/track/2oI1Avedp7KK4Wytv2Dx0O) | [THEHONESTGUY](https://open.spotify.com/artist/5Pqfj0BtkBBdvxrAhfOdIt), [Malaika Khadijaa](https://open.spotify.com/artist/6xMconhkZz3GpS44xF6Fd0) | [Love Songs For No One](https://open.spotify.com/album/6o4708T5sd3UIRsvTbyBwe) | 3:00 | 2021-12-09 |  |
+| [Love is a losing game](https://open.spotify.com/track/2MHmEsGCpTp3pr9mceaSCp) | [THEHONESTGUY](https://open.spotify.com/artist/5Pqfj0BtkBBdvxrAhfOdIt), [Malaika Khadijaa](https://open.spotify.com/artist/6xMconhkZz3GpS44xF6Fd0) | [Love Songs For No One](https://open.spotify.com/album/62Mw7jxr02ewFa7wZ0sdRl) | 3:00 | 2021-12-09 |  |
+| [Love is a losing game](https://open.spotify.com/track/2oI1Avedp7KK4Wytv2Dx0O) | [THEHONESTGUY](https://open.spotify.com/artist/5Pqfj0BtkBBdvxrAhfOdIt), [Malaika Khadijaa](https://open.spotify.com/artist/6xMconhkZz3GpS44xF6Fd0) | [Love Songs For No One](https://open.spotify.com/album/6o4708T5sd3UIRsvTbyBwe) | 3:00 | 2021-12-09 | 2022-10-08 |
 | [Magazines](https://open.spotify.com/track/1S50ql05CwYITaM3LE4rWA) | [Emanuel](https://open.spotify.com/artist/4Dj6yFk1Y4v6J4jZyhtrZ7) | [Alt Therapy](https://open.spotify.com/album/7i7lf1MtvCeufUlN6iJGXl) | 3:14 | 2021-12-09 |  |
 | [Meu Amor](https://open.spotify.com/track/5RkrgkGhcjxvK5zLypLsDB) | [Joyia](https://open.spotify.com/artist/5XmuPCMjLwYLKWvOCyh6jK) | [Meu Amor](https://open.spotify.com/album/3V0PZAGyWeByeF4rVPP8L1) | 4:10 | 2021-12-09 |  |
 | [My Little Love](https://open.spotify.com/track/2DuPBbS5mIldXnh7Wum8Cy) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [30](https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa) | 6:29 | 2021-12-09 |  |

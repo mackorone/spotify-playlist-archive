@@ -77,7 +77,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-02",
+      "date_removed": null,
       "duration_ms": 319693,
       "name": "Annie Mae",
       "url": "https://open.spotify.com/track/2zpDRicyt7YqxFVJ2S3uc7"
@@ -171,7 +171,7 @@
       ],
       "date_added": "2022-08-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-30",
+      "date_removed": "2022-10-07",
       "duration_ms": 229150,
       "name": "Blues Before Sunrise",
       "url": "https://open.spotify.com/track/0gHeDEGKk5Pnm3LfgrY9tG"
@@ -189,7 +189,7 @@
       ],
       "date_added": "2022-08-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-28",
+      "date_removed": "2022-10-05",
       "duration_ms": 189640,
       "name": "Boogie Chillen",
       "url": "https://open.spotify.com/track/7mNFrf8IfgaWMFCz64CtK4"
@@ -207,7 +207,7 @@
       ],
       "date_added": "2022-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 152350,
       "name": "Boom Boom",
       "url": "https://open.spotify.com/track/2Mr1bGI2E10K7Mt1UJZ6Mw"
@@ -283,7 +283,7 @@
       ],
       "date_added": "2022-08-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-02",
+      "date_removed": null,
       "duration_ms": 181200,
       "name": "Crawlin' King Snake",
       "url": "https://open.spotify.com/track/10f8sVNPeHvrtTeWm0lGGv"
@@ -359,7 +359,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-30",
+      "date_removed": "2022-10-08",
       "duration_ms": 248280,
       "name": "Deep Blue Sea",
       "url": "https://open.spotify.com/track/5KagK4pdr06uUCYgEnjDRt"
@@ -377,7 +377,7 @@
       ],
       "date_added": "2022-08-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-30",
+      "date_removed": "2022-10-06",
       "duration_ms": 133618,
       "name": "Dimples",
       "url": "https://open.spotify.com/track/0zVx5Ao0pMlrZti8WVsbOx"
@@ -435,7 +435,7 @@
       ],
       "date_added": "2022-08-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-02",
+      "date_removed": null,
       "duration_ms": 181946,
       "name": "Hobo Blues",
       "url": "https://open.spotify.com/track/6SVdBlIXlYwqcbYZSfjJjy"
@@ -453,7 +453,7 @@
       ],
       "date_added": "2022-08-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-02",
+      "date_removed": "2022-10-09",
       "duration_ms": 177680,
       "name": "Hoogie Boogie",
       "url": "https://open.spotify.com/track/6phCqRAEwlmHpRsCO76ukL"
@@ -529,7 +529,7 @@
       ],
       "date_added": "2022-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-07",
       "duration_ms": 239830,
       "name": "I Do Believe - Live 1969",
       "url": "https://open.spotify.com/track/2HlaS8TVh4PvZVc4BksWi0"
@@ -609,7 +609,7 @@
       ],
       "date_added": "2022-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-09",
       "duration_ms": 145026,
       "name": "I Need Some Money",
       "url": "https://open.spotify.com/track/6vKjJqK3XRQsRn91dsUWAY"
@@ -645,10 +645,28 @@
       ],
       "date_added": "2022-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-03",
       "duration_ms": 134173,
       "name": "I Wanna Walk",
       "url": "https://open.spotify.com/track/2OigRCY3ff6sAmQRrJwMGC"
+    },
+    {
+      "album": {
+        "name": "The Real Folk Blues",
+        "url": "https://open.spotify.com/album/6AToTGNfNIiOSMcl6xGJTY"
+      },
+      "artists": [
+        {
+          "name": "John Lee Hooker",
+          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
+        }
+      ],
+      "date_added": "2022-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203640,
+      "name": "I'll Never Trust Your Love Again",
+      "url": "https://open.spotify.com/track/1HuaJPNG443dph48jLwnLD"
     },
     {
       "album": {
@@ -797,7 +815,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-02",
+      "date_removed": null,
       "duration_ms": 246493,
       "name": "Let's Make It",
       "url": "https://open.spotify.com/track/7EGw2guJbgCqNAP6HHtPmR"
@@ -815,10 +833,28 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-02",
+      "date_removed": null,
       "duration_ms": 171776,
       "name": "Lost A Good Girl",
       "url": "https://open.spotify.com/track/0gtNUivLhiLPW3b0mwqPc1"
+    },
+    {
+      "album": {
+        "name": "House Of The Blues",
+        "url": "https://open.spotify.com/album/52ake2Vmv23KLzk7UUh6f3"
+      },
+      "artists": [
+        {
+          "name": "John Lee Hooker",
+          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
+        }
+      ],
+      "date_added": "2022-10-04",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-06",
+      "duration_ms": 177893,
+      "name": "Love Blues",
+      "url": "https://open.spotify.com/track/3eWfhyOy2X0NlqXDPWpr7i"
     },
     {
       "album": {
@@ -891,7 +927,7 @@
       ],
       "date_added": "2022-08-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-02",
+      "date_removed": null,
       "duration_ms": 143693,
       "name": "Money",
       "url": "https://open.spotify.com/track/1fStKfM74b9XmJa4YExB1a"
@@ -909,7 +945,7 @@
       ],
       "date_added": "2022-08-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-23",
+      "date_removed": null,
       "duration_ms": 169600,
       "name": "Moon Is Rising",
       "url": "https://open.spotify.com/track/3WaC3Xx9ipaIAWE6OwpzCF"
@@ -967,7 +1003,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-09",
       "duration_ms": 153293,
       "name": "My Own Blues",
       "url": "https://open.spotify.com/track/0GlMkhYvq1usAq45nFOh7o"
@@ -1029,7 +1065,7 @@
       ],
       "date_added": "2022-08-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-29",
+      "date_removed": "2022-10-09",
       "duration_ms": 147066,
       "name": "No Shoes",
       "url": "https://open.spotify.com/track/5Zcg5ltKPWOaxvwtRTBk4S"
@@ -1065,7 +1101,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-09",
       "duration_ms": 233360,
       "name": "Peace Lovin' Man",
       "url": "https://open.spotify.com/track/2rcqFSD81SzmYig0a06rLr"
@@ -1083,10 +1119,28 @@
       ],
       "date_added": "2022-08-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-02",
+      "date_removed": null,
       "duration_ms": 226629,
       "name": "Process",
       "url": "https://open.spotify.com/track/7CMDV19vm31ihLvqZUHLAu"
+    },
+    {
+      "album": {
+        "name": "Don't Look Back",
+        "url": "https://open.spotify.com/album/6R6gJ4JjmHEeUdimoHpIHE"
+      },
+      "artists": [
+        {
+          "name": "John Lee Hooker",
+          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-08",
+      "duration_ms": 244773,
+      "name": "Red House",
+      "url": "https://open.spotify.com/track/2al9nseOuULjTfe6GqInU1"
     },
     {
       "album": {
@@ -1195,7 +1249,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 264026,
       "name": "That's Alright",
       "url": "https://open.spotify.com/track/629O26FoFJ6uYOOK7mwyOI"
@@ -1325,7 +1379,7 @@
       ],
       "date_added": "2022-08-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-03",
+      "date_removed": "2022-10-06",
       "duration_ms": 319040,
       "name": "The Waterfront",
       "url": "https://open.spotify.com/track/6N4rqRMdQCfT0lTXuFx72D"
@@ -1397,7 +1451,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-09",
       "duration_ms": 238160,
       "name": "Tupelo",
       "url": "https://open.spotify.com/track/1hR7F9GFvDAD57EnuKhdM9"
@@ -1415,7 +1469,7 @@
       ],
       "date_added": "2022-08-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-29",
+      "date_removed": null,
       "duration_ms": 174066,
       "name": "Unfriendly Woman",
       "url": "https://open.spotify.com/track/2FwMyaKaq5V8NLIvfWR0Ft"
@@ -1433,7 +1487,7 @@
       ],
       "date_added": "2022-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-06",
       "duration_ms": 162093,
       "name": "Walkin' The Boogie",
       "url": "https://open.spotify.com/track/5xmZAOvKvIUNfWMo99gcN9"
@@ -1473,7 +1527,7 @@
       ],
       "date_added": "2022-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-09",
       "duration_ms": 277200,
       "name": "Whiskey And Wimmen'",
       "url": "https://open.spotify.com/track/2FbLpNNlImB5mqCHgVIG1c"

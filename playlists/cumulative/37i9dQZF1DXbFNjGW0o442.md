@@ -4,7 +4,7 @@
 
 > Guerreras del rock latinoamericano\. Foto: Marion Raw.
 
-211 songs - 12 hr 35 min - [published](https://open.spotify.com/playlist/4nx9yZMqI7oakdZVpxNxIt)
+212 songs - 12 hr 39 min - [published](https://open.spotify.com/playlist/4nx9yZMqI7oakdZVpxNxIt)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,7 +87,7 @@
 | [Fuelle](https://open.spotify.com/track/42QHBGWom9xsyQWuZFCbZ8) | [Cecilia Toussaint](https://open.spotify.com/artist/7a2z7CIBSPqXtuN6NzSpGb) | [Cromático](https://open.spotify.com/album/3GS37VPkPoUmvh4606wr2E) | 2:50 | 2022-01-20 | 2022-07-28 |
 | [Fumar de día](https://open.spotify.com/track/482CWaKmMQzrYMQMEMYRtT) | [Marilina Bertoldi](https://open.spotify.com/artist/1nm9PdmvzPXJmIlMOk5XLy) | [Prender un Fuego](https://open.spotify.com/album/3QgG3SuMTWMIsxwzdu7vN3) | 2:58 | 2022-01-20 |  |
 | [Ghost in the Machine](https://open.spotify.com/track/2T94eayr7lubesYiSs4kyT) | [Marion Raw](https://open.spotify.com/artist/1BRIIX1uolmIQV9PrcedGj) | [Ghost In The Machine](https://open.spotify.com/album/3Yc31Lta4Yr3Sn0UlsdSPi) | 2:25 | 2022-07-15 |  |
-| [Gira por el Interior](https://open.spotify.com/track/5vfifUxxB7OdXiqNSlGAvE) | [Marina Wil](https://open.spotify.com/artist/6QxpTfXermR3g5udEQGTe4) | [Gira por el Interior](https://open.spotify.com/album/3PdyLzRWeHoOAnkD4dONO3) | 3:54 | 2022-01-20 | 2022-07-27 |
+| [Gira por el Interior](https://open.spotify.com/track/5vfifUxxB7OdXiqNSlGAvE) | [Marina Wil](https://open.spotify.com/artist/6QxpTfXermR3g5udEQGTe4) | [Gira por el Interior](https://open.spotify.com/album/3PdyLzRWeHoOAnkD4dONO3) | 3:54 | 2022-01-20 | 2022-10-06 |
 | [give/UP](https://open.spotify.com/track/3VjCRe4un6MDLH5Bt1CqLh) | [Le Butcherettes](https://open.spotify.com/artist/1d7CbKqK4lFpKyU442bZC6) | [bi/MENTAL](https://open.spotify.com/album/3XuJE4Y50tva93lL4uxfle) | 3:40 | 2022-01-20 |  |
 | [Génesis](https://open.spotify.com/track/2Xx1vZX9UEBnwx11RfiElg) | [Hilda Lizarazu](https://open.spotify.com/artist/1imu37uW2KnEiLMAKmQVgn) | [La Génesis](https://open.spotify.com/album/7INDQXcbx1ybFp6flr2bah) | 4:26 | 2022-01-20 |  |
 | [Hey](https://open.spotify.com/track/58GQd1iu8VizO0lYM1pMs7) | [Denisse Malebrán](https://open.spotify.com/artist/34JOOFEs2qzslbI0YAGBXr) | [Hey](https://open.spotify.com/album/0OBfPwgHs21rpksGctLtzM) | 3:12 | 2022-01-20 | 2022-07-28 |
@@ -102,7 +102,7 @@
 | [La Batalla](https://open.spotify.com/track/3MLYtPOOPhzmmsL5yLLFqu) | [Fabiana Cantilo](https://open.spotify.com/artist/5R6YR0pasdxlynyq0Abq7x) | [La Batalla](https://open.spotify.com/album/4Xd4pfERdR1UulMgvMvfNf) | 4:56 | 2022-01-20 |  |
 | [La Casa de A](https://open.spotify.com/track/6xtphuj19xftkTUHDZ4sFH) | [Marilina Bertoldi](https://open.spotify.com/artist/1nm9PdmvzPXJmIlMOk5XLy) | [Prender un Fuego](https://open.spotify.com/album/3QgG3SuMTWMIsxwzdu7vN3) | 3:16 | 2022-01-20 |  |
 | [La Nieve](https://open.spotify.com/track/4nFGMqZXWjoPf06D6SMaNL) | [Las Ligas Menores](https://open.spotify.com/artist/3MNvKeLzGSvOPtXJAjCOzf) | [La Nieve](https://open.spotify.com/album/4zpCh07snDOMhEMwsnSMyt) | 3:31 | 2022-01-20 |  |
-| [La Oscuridad](https://open.spotify.com/track/6SsSJzlvg1U0HVMrXisZ0C) | [Ati Lane](https://open.spotify.com/artist/3BDqVjikenQ511C0CvG5kG) | [Miedo, Amor y Vida \- EP](https://open.spotify.com/album/6PHGMjErdWJtPanxKeHL93) | 3:36 | 2022-01-20 |  |
+| [La Oscuridad](https://open.spotify.com/track/6SsSJzlvg1U0HVMrXisZ0C) | [Ati Lane](https://open.spotify.com/artist/3BDqVjikenQ511C0CvG5kG) | [Miedo, Amor y Vida \- EP](https://open.spotify.com/album/6PHGMjErdWJtPanxKeHL93) | 3:36 | 2022-01-20 | 2022-10-09 |
 | [La Voz de Iemanya](https://open.spotify.com/track/4niTRWovfbM4093jChuCuu) | [Celeste Carballo](https://open.spotify.com/artist/1FIaDvGsK56jO0K0BUs1iW) | [La Voz de Iemanya](https://open.spotify.com/album/5kZeMUMDGm2b6rgBvCRpHN) | 3:37 | 2022-01-20 | 2022-07-29 |
 | [La Vuelta de Adán](https://open.spotify.com/track/61MJzxnWfquKkns6ImXYgh) | [Mirtha Defilpo](https://open.spotify.com/artist/5jN2wYqhUCltMC9RnxavSa), [Litto Nebbia](https://open.spotify.com/artist/2SpMjzpc9CfI6WWtwdToiA) | [Canciones para Perdedores](https://open.spotify.com/album/4aKGpSwyYPNswB5InDZqvm) | 2:49 | 2022-01-20 | 2022-07-11 |
 | [Las Horas Se Destiñen](https://open.spotify.com/track/1ct4eypbDqzT2r3Xd78q04) | [Púrpura](https://open.spotify.com/artist/3htuTMjp7p0JS7sL8NhlXl) | [Púrpura](https://open.spotify.com/album/0LbklSYO5D9ECDjePxZfFd) | 3:39 | 2022-01-20 | 2022-07-22 |
@@ -116,6 +116,7 @@
 | [Líneas En Hojas](https://open.spotify.com/track/0aQducLdlpix3u5yL6MfYT) | [Lorelle Meets The Obsolete](https://open.spotify.com/artist/79ckv9yY9WAKcH8KfrvmiP) | [De Facto](https://open.spotify.com/album/1hRlJMZZEZNu0ObbyL53k9) | 3:29 | 2022-01-20 |  |
 | [Madera Metal](https://open.spotify.com/track/04HNLMkC9Sf8bx7xz4GmYI) | [Marina Fages](https://open.spotify.com/artist/1jBRvUY23iEpMeGCKZ2RO3) | [Madera Metal](https://open.spotify.com/album/5EmOEf2nQKQSOmEXBOySLS) | 4:16 | 2022-01-20 | 2022-07-29 |
 | [Mama, Deja Que Entren por la Ventana los Siete Mares \- Remasterizado](https://open.spotify.com/track/3i3DPWZVCywz2gy8ZwDGAQ) | [Liliana Vitale](https://open.spotify.com/artist/3lXtbYD0IVuJUKEtqBFcvF) | [Mama, Deja Que Entren por la Ventana los Siete Mares \(Remasterizado\)](https://open.spotify.com/album/3El1SCHwY7SExY3q5LdmT7) | 4:02 | 2022-01-20 | 2022-07-29 |
+| [MANIQUÍ](https://open.spotify.com/track/51kIOy4U7wxwhV8Ys697zH) | [Vale Acevedo](https://open.spotify.com/artist/4uM6IUL3hMaxnhAKCZCKQJ) | [Buenas Noches Terrícolas](https://open.spotify.com/album/2JMMzWW3FcrPSEseYLhEuD) | 4:07 | 2022-10-07 |  |
 | [Marcando el Compás \- En Vivo](https://open.spotify.com/track/6PkbzQLraURi34mbDTCuHO) | [Celeste Carballo](https://open.spotify.com/artist/1FIaDvGsK56jO0K0BUs1iW) | [Marcando el Compás \(En Vivo\)](https://open.spotify.com/album/2KpgkNZfdYZiV9lbzo0te2) | 3:56 | 2022-01-20 | 2022-07-29 |
 | [Mariana](https://open.spotify.com/track/30xSITDKpCkn5TnsABmQHO) | [Isabel De Sebastian](https://open.spotify.com/artist/6rgRWv9QW0LOCwpJxYfKFh), [Bob Telson](https://open.spotify.com/artist/54Wo220RzJhwhjKRTRxuwA) | [Trip](https://open.spotify.com/album/3eH5KxTvBazT7Wtr806ekr) | 3:04 | 2022-04-01 | 2022-07-22 |
 | [Mi Elemento](https://open.spotify.com/track/1LlMcgHwbls4Q2YCBWzcl1) | [Celeste Carballo](https://open.spotify.com/artist/1FIaDvGsK56jO0K0BUs1iW), [Guillermo Bonetto](https://open.spotify.com/artist/1rijasyRtILod4s1wmI78L) | [Celesteacústica \(Veinteaniversario\)](https://open.spotify.com/album/6tQ0Kj4WjIJDobEpCxlRIy) | 4:27 | 2022-01-20 | 2022-07-13 |

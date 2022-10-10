@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-09-15",
-  "description": "A m\u00fasica certa para o seu momento de adora\u00e7\u00e3o. Foto: Julliany Souza, Isadora Pompeo",
+  "description": "A m\u00fasica certa para o seu momento de adora\u00e7\u00e3o. Foto: Isaias Saad",
   "name": "Louvor & Adora\u00e7\u00e3o",
   "published_playlist_ids": [
     "4jOyagKiotU0lUPqsmWnAd"
@@ -816,6 +816,32 @@
     },
     {
       "album": {
+        "name": "LE\u00c3O",
+        "url": "https://open.spotify.com/album/59s62ul4SWlgcHDIPvwAcf"
+      },
+      "artists": [
+        {
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+        },
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/03NN8FAKofZU6phsfHLKPw"
+        },
+        {
+          "name": "Thalles Roberto",
+          "url": "https://open.spotify.com/artist/2Js5EdWOVgL2B2CbtXr5n1"
+        }
+      ],
+      "date_added": "2022-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 342905,
+      "name": "LE\u00c3O (LION) (feat. Chris Brown & Thalles Roberto)",
+      "url": "https://open.spotify.com/track/2UnJa5chfcRDI60rLvpZKD"
+    },
+    {
+      "album": {
         "name": "Mais Que Uma Voz / A Ele a Gl\u00f3ria",
         "url": "https://open.spotify.com/album/1sPNFLs4tFZmpMLep14OgN"
       },
@@ -951,7 +977,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 404039,
       "name": "N\u00e3o H\u00e1 Ningu\u00e9m - Ao Vivo",
       "url": "https://open.spotify.com/track/2Ki7e8ifRHTKLPI9tyBFBm"
@@ -1479,6 +1505,28 @@
       "duration_ms": 320103,
       "name": "Te Desejamos - Ao Vivo",
       "url": "https://open.spotify.com/track/720Xp00zXTdDfGtT0KBMPQ"
+    },
+    {
+      "album": {
+        "name": "Teu Colo",
+        "url": "https://open.spotify.com/album/7cTlcn0fe77FrucDce3FK5"
+      },
+      "artists": [
+        {
+          "name": "Maykel Maia",
+          "url": "https://open.spotify.com/artist/6EZwQO90m8UhhW6LdqcfYj"
+        },
+        {
+          "name": "Andr\u00e9 e Felipe",
+          "url": "https://open.spotify.com/artist/5QQUuUIP9gjrkI8amLfIlb"
+        }
+      ],
+      "date_added": "2022-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 324106,
+      "name": "Teu Colo",
+      "url": "https://open.spotify.com/track/5sPGKCa94oyGCcci4c3rOO"
     },
     {
       "album": {

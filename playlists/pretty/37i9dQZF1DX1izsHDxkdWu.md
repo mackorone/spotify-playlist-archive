@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1izsHDxkdWu.md) - [plain]
 
 > Fire up your rocket and sing\-along with Fei Fei to the Moon!
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,055 likes - 37 songs - 1 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,090 likes - 37 songs - 1 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

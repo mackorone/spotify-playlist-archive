@@ -3878,6 +3878,24 @@
     },
     {
       "album": {
+        "name": "With Every Breath I Breathe",
+        "url": "https://open.spotify.com/album/0tB9FyhrB5N3lusDO1yBKf"
+      },
+      "artists": [
+        {
+          "name": "Manny Chu",
+          "url": "https://open.spotify.com/artist/5cqGSR5Eyh5XSYtlSStmmF"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199811,
+      "name": "With Every Breath I Breathe",
+      "url": "https://open.spotify.com/track/7bpnfbTaoPGzCdvyRAEW0E"
+    },
+    {
+      "album": {
         "name": "Near Dawn",
         "url": "https://open.spotify.com/album/1kwA8Ztf4Na8mlGciyedSS"
       },

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-24",
-  "description": "Ou\u00e7a grandes MCs do hip hop nacional. Foto: 509-E",
+  "description": "Ou\u00e7a grandes MCs do hip hop nacional. Foto: MV Bill, Kmila CDD",
   "name": "Gigantes do Rap Nacional",
   "published_playlist_ids": [
     "39eOoZa4goYLkWs21ZTiBM"
@@ -217,6 +217,28 @@
       "duration_ms": 223488,
       "name": "Bilhete 2.0",
       "url": "https://open.spotify.com/track/23DMhYv6WjRmIRck1Uwjev"
+    },
+    {
+      "album": {
+        "name": "Briga de Casal (Estilo Vagabundo 5)",
+        "url": "https://open.spotify.com/album/5e1VkQhetJMWxRb77LGPCj"
+      },
+      "artists": [
+        {
+          "name": "MV Bill",
+          "url": "https://open.spotify.com/artist/4oE4ASN8auDhoW9vsXp3VJ"
+        },
+        {
+          "name": "Kmila Cdd",
+          "url": "https://open.spotify.com/artist/5pTtdzoyljdOQnTLVULZvv"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190356,
+      "name": "Briga de Casal (Estilo Vagabundo 5)",
+      "url": "https://open.spotify.com/track/4ZZSTRy9eugd4v9falGoMs"
     },
     {
       "album": {
@@ -1401,10 +1423,28 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-09",
       "duration_ms": 238573,
       "name": "Retrato de um Playboy (Juventude Perdida)",
       "url": "https://open.spotify.com/track/3UIgJ1731jLr1qzDZy1Ma2"
+    },
+    {
+      "album": {
+        "name": "T\u00e1s A Ver - O Melhor de Gabriel O Pensador",
+        "url": "https://open.spotify.com/album/6hYtxwo8Fy3VFSnbJy3VqJ"
+      },
+      "artists": [
+        {
+          "name": "Gabriel O Pensador",
+          "url": "https://open.spotify.com/artist/5BWqFYIPTnFx3OPWOoJvmD"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238573,
+      "name": "Retrato de um Playboy (Juventude Perdida)",
+      "url": "https://open.spotify.com/track/3wtl36m4QVTlc8aUZfPWM8"
     },
     {
       "album": {

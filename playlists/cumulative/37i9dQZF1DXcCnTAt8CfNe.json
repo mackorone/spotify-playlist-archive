@@ -3818,6 +3818,24 @@
     },
     {
       "album": {
+        "name": "Everlasting",
+        "url": "https://open.spotify.com/album/1TnUFxpG8VW7GrAJLV7u3Y"
+      },
+      "artists": [
+        {
+          "name": "Adam Waldau",
+          "url": "https://open.spotify.com/artist/1m8n33vsOT7I7sBgn1s4sz"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179387,
+      "name": "Transparency",
+      "url": "https://open.spotify.com/track/1dzuUe9zsLpy2Ly7Zp2dWD"
+    },
+    {
+      "album": {
         "name": "Paradise & Truce",
         "url": "https://open.spotify.com/album/58crVNlt3FezfMYSh3gYyU"
       },

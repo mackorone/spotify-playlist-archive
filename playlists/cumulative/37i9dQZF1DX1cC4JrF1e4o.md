@@ -4,7 +4,7 @@
 
 > Timeless and smooth\. Here are your favorite crooners\. Cover: Nat King Cole.
 
-110 songs - 5 hr 26 min - [published](https://open.spotify.com/playlist/4QkHY9VZoiOZq5xC04j0Mc)
+111 songs - 5 hr 28 min - [published](https://open.spotify.com/playlist/4QkHY9VZoiOZq5xC04j0Mc)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,7 +33,8 @@
 | [Exactly Like You](https://open.spotify.com/track/0oDYx5HIaCDuhTAIrVFyR0) | [Bing Crosby](https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S) | [Crooners and Champagne](https://open.spotify.com/album/1elk2gnwJWxL4nvKWmE1Eb) | 3:14 | 2022-01-19 | 2022-07-23 |
 | [Feeling Good](https://open.spotify.com/track/6pY1AWqj42B5pngwtgyTJ4) | [Sammy Davis Jr.](https://open.spotify.com/artist/1NAWG3AngjBXyKbmPaz92D) | [The Sammy Davis Jr\. Show with Special Guests Stars Frank Sinatra and Dean Martin](https://open.spotify.com/album/4pBkKEwLMmRQAHLYEDAaZB) | 3:03 | 2022-01-19 | 2022-04-20 |
 | [Fever](https://open.spotify.com/track/3aPlQWU07jGgyHaBHVS5TS) | [Peggy Lee](https://open.spotify.com/artist/602DnpaSXJB4b9DZrvxbDc) | [Things Are Swingin'](https://open.spotify.com/album/0puYTmfXiL5UZLyl33nXKT) | 3:19 | 2022-01-19 |  |
-| [Fly Me To The Moon \(In Other Words\)](https://open.spotify.com/track/5b7OgznPJJr1vHNYGyvxau) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0), [Count Basie](https://open.spotify.com/artist/2jFZlvIea42ZvcCw4OeEdA) | [Sinatra/Basie: The Complete Reprise Studio Recordings](https://open.spotify.com/album/2NCtCObbmJoJnplsR5mLAl) | 2:27 | 2022-01-19 |  |
+| [Fly Me To The Moon \(In Other Words\)](https://open.spotify.com/track/5b7OgznPJJr1vHNYGyvxau) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0), [Count Basie](https://open.spotify.com/artist/2jFZlvIea42ZvcCw4OeEdA) | [Sinatra/Basie: The Complete Reprise Studio Recordings](https://open.spotify.com/album/2NCtCObbmJoJnplsR5mLAl) | 2:27 | 2022-01-19 | 2022-10-09 |
+| [Fly Me To The Moon \- 2008 Remastered](https://open.spotify.com/track/7FXj7Qg3YorUxdrzvrcY25) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0), [Count Basie](https://open.spotify.com/artist/2jFZlvIea42ZvcCw4OeEdA) | [Nothing But The Best \(Remastered\)](https://open.spotify.com/album/3i67sGIVw8EBlgfSRv3Lj2) | 2:27 | 2022-09-08 |  |
 | [Fly Me To The Moon \- Remastered 2008](https://open.spotify.com/track/716ee4WXvayYh2RnB2fN1F) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0), [Count Basie](https://open.spotify.com/artist/2jFZlvIea42ZvcCw4OeEdA) | [Nothing But The Best \(Remastered\)](https://open.spotify.com/album/54jgcQieeiqZEuA8fb5CsZ) | 2:27 | 2022-01-19 | 2022-07-27 |
 | [Gee Baby, Ain't I Good to You](https://open.spotify.com/track/0Hi02nJJfhZcP5HUBbIJ1U) | [Joe Williams](https://open.spotify.com/artist/7FMGtucexJvUxVz7scydEL), [Count Basie](https://open.spotify.com/artist/2jFZlvIea42ZvcCw4OeEdA) | [Every Day I Have The Blues](https://open.spotify.com/album/37EUW2x5bcYSQrIqdCJd5w) | 2:31 | 2022-01-19 | 2022-04-20 |
 | [Georgia on My Mind \- Original Master Recording](https://open.spotify.com/track/47mA6f44zxLtdATOoY7GjN) | [Ray Charles](https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi) | [Georgia on My Mind \(Original Master Recording\)](https://open.spotify.com/album/77Qcn4aTbV27aarq2CHrGb) | 3:37 | 2022-01-19 |  |

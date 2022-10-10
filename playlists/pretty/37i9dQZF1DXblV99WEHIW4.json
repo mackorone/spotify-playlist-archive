@@ -1,12 +1,12 @@
 {
   "description": "Heavy music that understands.",
-  "num_followers": 136755,
+  "num_followers": 138487,
   "original_name": "Blood, Shred & Tears",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTQ2ODQwMCwwMDAwMDAwMDYwNWE4MDcxMjE1YTUwNzA4Njc5Nzg3NzcyZDMxYzM4",
+  "snapshot_id": "MTY2MTQ2ODQwMCwwMDAwMDAwMGQzNTIzYzI2YjhlZjQ4ZGY4Mjc1NWI4OWY2NTkxMThi",
   "tracks": [
     {
       "added_at": "2022-08-25 23:00:00",
@@ -43,22 +43,6 @@
     {
       "added_at": "2022-08-25 23:00:00",
       "album": {
-        "name": "21st Century Breakdown",
-        "url": "https://open.spotify.com/album/1AHZd3C3S8m8fFrhFxyk79"
-      },
-      "artists": [
-        {
-          "name": "Green Day",
-          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
-        }
-      ],
-      "duration_ms": 321093,
-      "name": "21 Guns",
-      "url": "https://open.spotify.com/track/64yrDBpcdwEdNY9loyEGbX"
-    },
-    {
-      "added_at": "2022-08-25 23:00:00",
-      "album": {
         "name": "A Beautiful Lie",
         "url": "https://open.spotify.com/album/5sHvTCk793vr9EkSKcD7IT"
       },
@@ -71,6 +55,22 @@
       "duration_ms": 231533,
       "name": "The Kill",
       "url": "https://open.spotify.com/track/0lP4HYLmvowOKdsQ7CVkuq"
+    },
+    {
+      "added_at": "2022-08-25 23:00:00",
+      "album": {
+        "name": "21st Century Breakdown",
+        "url": "https://open.spotify.com/album/1AHZd3C3S8m8fFrhFxyk79"
+      },
+      "artists": [
+        {
+          "name": "Green Day",
+          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
+        }
+      ],
+      "duration_ms": 321093,
+      "name": "21 Guns",
+      "url": "https://open.spotify.com/track/64yrDBpcdwEdNY9loyEGbX"
     },
     {
       "added_at": "2022-08-25 23:00:00",
@@ -123,22 +123,6 @@
     {
       "added_at": "2022-08-25 23:00:00",
       "album": {
-        "name": "That's The Spirit",
-        "url": "https://open.spotify.com/album/7FqHuAvmREiIwVXVpZ9ooP"
-      },
-      "artists": [
-        {
-          "name": "Bring Me The Horizon",
-          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
-        }
-      ],
-      "duration_ms": 222093,
-      "name": "Drown",
-      "url": "https://open.spotify.com/track/6o39Ln9118FKTMbM4BvcEy"
-    },
-    {
-      "added_at": "2022-08-25 23:00:00",
-      "album": {
         "name": "In Utero - 20th Anniversary Remaster",
         "url": "https://open.spotify.com/album/7wOOA7l306K8HfBKfPoafr"
       },
@@ -151,6 +135,22 @@
       "duration_ms": 233173,
       "name": "All Apologies",
       "url": "https://open.spotify.com/track/1Ic9pKxGSJGM0LKeqf6lGe"
+    },
+    {
+      "added_at": "2022-08-25 23:00:00",
+      "album": {
+        "name": "That's The Spirit",
+        "url": "https://open.spotify.com/album/7FqHuAvmREiIwVXVpZ9ooP"
+      },
+      "artists": [
+        {
+          "name": "Bring Me The Horizon",
+          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
+        }
+      ],
+      "duration_ms": 222093,
+      "name": "Drown",
+      "url": "https://open.spotify.com/track/6o39Ln9118FKTMbM4BvcEy"
     },
     {
       "added_at": "2022-08-25 23:00:00",
@@ -283,22 +283,6 @@
     {
       "added_at": "2022-08-25 23:00:00",
       "album": {
-        "name": "Broken Machine (Deluxe)",
-        "url": "https://open.spotify.com/album/0r7wrRVD77lNrD9t2QgZrq"
-      },
-      "artists": [
-        {
-          "name": "Nothing But Thieves",
-          "url": "https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp"
-        }
-      ],
-      "duration_ms": 236306,
-      "name": "Soda",
-      "url": "https://open.spotify.com/track/3PUnku87booODLtX6VVHwN"
-    },
-    {
-      "added_at": "2022-08-25 23:00:00",
-      "album": {
         "name": "Getting Away With Murder",
         "url": "https://open.spotify.com/album/1OO7kdJ4OzWbjcroJEpfTH"
       },
@@ -311,6 +295,22 @@
       "duration_ms": 208199,
       "name": "Scars",
       "url": "https://open.spotify.com/track/3TAtUJc4Sj913Cs5gBUeu0"
+    },
+    {
+      "added_at": "2022-08-25 23:00:00",
+      "album": {
+        "name": "Broken Machine (Deluxe)",
+        "url": "https://open.spotify.com/album/0r7wrRVD77lNrD9t2QgZrq"
+      },
+      "artists": [
+        {
+          "name": "Nothing But Thieves",
+          "url": "https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp"
+        }
+      ],
+      "duration_ms": 236306,
+      "name": "Soda",
+      "url": "https://open.spotify.com/track/3PUnku87booODLtX6VVHwN"
     },
     {
       "added_at": "2022-08-25 23:00:00",
@@ -347,6 +347,22 @@
     {
       "added_at": "2022-08-25 23:00:00",
       "album": {
+        "name": "A War You Cannot Win",
+        "url": "https://open.spotify.com/album/2OhPQMXOtJ00nrffxY9B3W"
+      },
+      "artists": [
+        {
+          "name": "All That Remains",
+          "url": "https://open.spotify.com/artist/2zgG1GPDvjaBgxeQaVXI14"
+        }
+      ],
+      "duration_ms": 277346,
+      "name": "What If I Was Nothing",
+      "url": "https://open.spotify.com/track/28urem2KpSOkljclEk8X8G"
+    },
+    {
+      "added_at": "2022-08-25 23:00:00",
+      "album": {
         "name": "The Drug In Me Is Reimagined",
         "url": "https://open.spotify.com/album/6jYHiDFvM3aRaUVhd0FZkk"
       },
@@ -379,18 +395,18 @@
     {
       "added_at": "2022-08-25 23:00:00",
       "album": {
-        "name": "A War You Cannot Win",
-        "url": "https://open.spotify.com/album/2OhPQMXOtJ00nrffxY9B3W"
+        "name": "Dark Before Dawn",
+        "url": "https://open.spotify.com/album/09asAAZJ7rXedp9J8wqvBR"
       },
       "artists": [
         {
-          "name": "All That Remains",
-          "url": "https://open.spotify.com/artist/2zgG1GPDvjaBgxeQaVXI14"
+          "name": "Breaking Benjamin",
+          "url": "https://open.spotify.com/artist/5BtHciL0e0zOP7prIHn3pP"
         }
       ],
-      "duration_ms": 277346,
-      "name": "What If I Was Nothing",
-      "url": "https://open.spotify.com/track/28urem2KpSOkljclEk8X8G"
+      "duration_ms": 214853,
+      "name": "Failure",
+      "url": "https://open.spotify.com/track/4wh0E9OwMCxcaIKTg0Mts9"
     },
     {
       "added_at": "2022-08-25 23:00:00",
@@ -463,6 +479,22 @@
     {
       "added_at": "2022-08-25 23:00:00",
       "album": {
+        "name": "TRAUMA",
+        "url": "https://open.spotify.com/album/2QRU8jGOJHDMrCTPKIHVik"
+      },
+      "artists": [
+        {
+          "name": "I Prevail",
+          "url": "https://open.spotify.com/artist/3Uobr6LgQpBbk6k4QGAb3V"
+        }
+      ],
+      "duration_ms": 214226,
+      "name": "Let Me Be Sad",
+      "url": "https://open.spotify.com/track/5jmYu7XY4zd3mJfizA8t1K"
+    },
+    {
+      "added_at": "2022-08-25 23:00:00",
+      "album": {
         "name": "From Death To Destiny",
         "url": "https://open.spotify.com/album/3yPGBS6p3GyFb9EySzFyYi"
       },
@@ -479,8 +511,8 @@
     {
       "added_at": "2022-08-25 23:00:00",
       "album": {
-        "name": "Dark Before Dawn",
-        "url": "https://open.spotify.com/album/09asAAZJ7rXedp9J8wqvBR"
+        "name": "Dear Agony",
+        "url": "https://open.spotify.com/album/0mBvlBWI6TMDrWvQ8bKOKV"
       },
       "artists": [
         {
@@ -488,25 +520,9 @@
           "url": "https://open.spotify.com/artist/5BtHciL0e0zOP7prIHn3pP"
         }
       ],
-      "duration_ms": 214853,
-      "name": "Failure",
-      "url": "https://open.spotify.com/track/4wh0E9OwMCxcaIKTg0Mts9"
-    },
-    {
-      "added_at": "2022-08-25 23:00:00",
-      "album": {
-        "name": "TRAUMA",
-        "url": "https://open.spotify.com/album/2QRU8jGOJHDMrCTPKIHVik"
-      },
-      "artists": [
-        {
-          "name": "I Prevail",
-          "url": "https://open.spotify.com/artist/3Uobr6LgQpBbk6k4QGAb3V"
-        }
-      ],
-      "duration_ms": 214226,
-      "name": "Let Me Be Sad",
-      "url": "https://open.spotify.com/track/5jmYu7XY4zd3mJfizA8t1K"
+      "duration_ms": 256746,
+      "name": "Without You",
+      "url": "https://open.spotify.com/track/5r95yxmemjPfVSjCoSeAP4"
     },
     {
       "added_at": "2022-08-25 23:00:00",
@@ -607,22 +623,6 @@
     {
       "added_at": "2022-08-25 23:00:00",
       "album": {
-        "name": "Dear Agony",
-        "url": "https://open.spotify.com/album/0mBvlBWI6TMDrWvQ8bKOKV"
-      },
-      "artists": [
-        {
-          "name": "Breaking Benjamin",
-          "url": "https://open.spotify.com/artist/5BtHciL0e0zOP7prIHn3pP"
-        }
-      ],
-      "duration_ms": 256746,
-      "name": "Without You",
-      "url": "https://open.spotify.com/track/5r95yxmemjPfVSjCoSeAP4"
-    },
-    {
-      "added_at": "2022-08-25 23:00:00",
-      "album": {
         "name": "Youth",
         "url": "https://open.spotify.com/album/6QDNTEgCBoGd6zaKZ19vNC"
       },
@@ -671,22 +671,6 @@
     {
       "added_at": "2022-08-25 23:00:00",
       "album": {
-        "name": "Hold Me Down",
-        "url": "https://open.spotify.com/album/5FakgYrhpMRNbQ9OaAP9YU"
-      },
-      "artists": [
-        {
-          "name": "You Me At Six",
-          "url": "https://open.spotify.com/artist/1kNQXvepPjaPgUfeDAF2h6"
-        }
-      ],
-      "duration_ms": 194954,
-      "name": "Stay With Me",
-      "url": "https://open.spotify.com/track/5jZAtF5byijpW7UCJsUYK8"
-    },
-    {
-      "added_at": "2022-08-25 23:00:00",
-      "album": {
         "name": "SO WHAT?",
         "url": "https://open.spotify.com/album/2jd0syXer1txxASx3W2oy0"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 254500,
       "name": "ANTI-SOCIAL",
       "url": "https://open.spotify.com/track/5XExne04zgnDeAN8aIvMvM"
+    },
+    {
+      "added_at": "2022-08-25 23:00:00",
+      "album": {
+        "name": "Hold Me Down",
+        "url": "https://open.spotify.com/album/5FakgYrhpMRNbQ9OaAP9YU"
+      },
+      "artists": [
+        {
+          "name": "You Me At Six",
+          "url": "https://open.spotify.com/artist/1kNQXvepPjaPgUfeDAF2h6"
+        }
+      ],
+      "duration_ms": 194954,
+      "name": "Stay With Me",
+      "url": "https://open.spotify.com/track/5jZAtF5byijpW7UCJsUYK8"
     },
     {
       "added_at": "2022-08-25 23:00:00",
@@ -783,22 +783,6 @@
     {
       "added_at": "2022-08-25 23:00:00",
       "album": {
-        "name": "The Great Depression",
-        "url": "https://open.spotify.com/album/45WKwINtVCtMqKuHPugbby"
-      },
-      "artists": [
-        {
-          "name": "AS IT IS",
-          "url": "https://open.spotify.com/artist/3IXtskFMls8KXRipcIJT9y"
-        }
-      ],
-      "duration_ms": 182280,
-      "name": "The Stigma (Boys Don\u2019t Cry)",
-      "url": "https://open.spotify.com/track/2DQ7V0O22CG2xIQ7WPAocr"
-    },
-    {
-      "added_at": "2022-08-25 23:00:00",
-      "album": {
         "name": "Nothing Left to Love",
         "url": "https://open.spotify.com/album/3DJc8AdPpDbE2SRYXBB4p2"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 100533,
       "name": "Love Me",
       "url": "https://open.spotify.com/track/1Bg4qbrQjRJjoXZlB3y3Ot"
+    },
+    {
+      "added_at": "2022-08-25 23:00:00",
+      "album": {
+        "name": "The Great Depression",
+        "url": "https://open.spotify.com/album/45WKwINtVCtMqKuHPugbby"
+      },
+      "artists": [
+        {
+          "name": "AS IT IS",
+          "url": "https://open.spotify.com/artist/3IXtskFMls8KXRipcIJT9y"
+        }
+      ],
+      "duration_ms": 182280,
+      "name": "The Stigma (Boys Don\u2019t Cry)",
+      "url": "https://open.spotify.com/track/2DQ7V0O22CG2xIQ7WPAocr"
     },
     {
       "added_at": "2022-08-25 23:00:00",
@@ -911,6 +911,22 @@
     {
       "added_at": "2022-08-25 23:00:00",
       "album": {
+        "name": "Nothing Left to Love",
+        "url": "https://open.spotify.com/album/3DJc8AdPpDbE2SRYXBB4p2"
+      },
+      "artists": [
+        {
+          "name": "Counterparts",
+          "url": "https://open.spotify.com/artist/5LyRnL0rysObxDRxzSfV1z"
+        }
+      ],
+      "duration_ms": 277969,
+      "name": "Nothing Left to Love",
+      "url": "https://open.spotify.com/track/4VfMtL53N1ZBXbIl2qrKnX"
+    },
+    {
+      "added_at": "2022-08-25 23:00:00",
+      "album": {
         "name": "SUCKAPUNCH",
         "url": "https://open.spotify.com/album/1QjSCSvRARExE1aFFycrPz"
       },
@@ -955,22 +971,6 @@
       "duration_ms": 200946,
       "name": "Missing Limbs",
       "url": "https://open.spotify.com/track/5sCll6ttgoCHYPI36Hn1h6"
-    },
-    {
-      "added_at": "2022-08-25 23:00:00",
-      "album": {
-        "name": "Nothing Left to Love",
-        "url": "https://open.spotify.com/album/3DJc8AdPpDbE2SRYXBB4p2"
-      },
-      "artists": [
-        {
-          "name": "Counterparts",
-          "url": "https://open.spotify.com/artist/5LyRnL0rysObxDRxzSfV1z"
-        }
-      ],
-      "duration_ms": 277969,
-      "name": "Nothing Left to Love",
-      "url": "https://open.spotify.com/track/4VfMtL53N1ZBXbIl2qrKnX"
     },
     {
       "added_at": "2022-08-25 23:00:00",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2022-08-25 23:00:00",
       "album": {
-        "name": "End of Suffering",
-        "url": "https://open.spotify.com/album/1KS8HJ4sPoHFnryujTqXIf"
-      },
-      "artists": [
-        {
-          "name": "Frank Carter & The Rattlesnakes",
-          "url": "https://open.spotify.com/artist/3r32a6mMdoPaSP1C7kYhMc"
-        }
-      ],
-      "duration_ms": 218386,
-      "name": "Anxiety",
-      "url": "https://open.spotify.com/track/0nSo7AFdw4vrz7nPGKMOWr"
-    },
-    {
-      "added_at": "2022-08-25 23:00:00",
-      "album": {
         "name": "I'm Not Well",
         "url": "https://open.spotify.com/album/39GHKYD9zdoF78P1Ms0xgB"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 236059,
       "name": "Whatever Lets You Cope",
       "url": "https://open.spotify.com/track/1GlQsidelzGk9ljW0DQH4n"
+    },
+    {
+      "added_at": "2022-08-25 23:00:00",
+      "album": {
+        "name": "End of Suffering",
+        "url": "https://open.spotify.com/album/1KS8HJ4sPoHFnryujTqXIf"
+      },
+      "artists": [
+        {
+          "name": "Frank Carter & The Rattlesnakes",
+          "url": "https://open.spotify.com/artist/3r32a6mMdoPaSP1C7kYhMc"
+        }
+      ],
+      "duration_ms": 218386,
+      "name": "Anxiety",
+      "url": "https://open.spotify.com/track/0nSo7AFdw4vrz7nPGKMOWr"
     },
     {
       "added_at": "2022-08-25 23:00:00",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2022-08-25 23:00:00",
       "album": {
-        "name": "Violent Pop",
-        "url": "https://open.spotify.com/album/2kVLN2LUjJWEtoCPllEYyp"
-      },
-      "artists": [
-        {
-          "name": "Blind Channel",
-          "url": "https://open.spotify.com/artist/3L58J6a7f0jyy2p6f3MSAs"
-        }
-      ],
-      "duration_ms": 222469,
-      "name": "Feel Nothing",
-      "url": "https://open.spotify.com/track/26m3OLzCB09qlex7GTZS7h"
-    },
-    {
-      "added_at": "2022-08-25 23:00:00",
-      "album": {
         "name": "XOXO: From Love & Anxiety In Real Time",
         "url": "https://open.spotify.com/album/0XFA5pfYjdDx6tnPLEaeDz"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 185146,
       "name": "Pretender",
       "url": "https://open.spotify.com/track/2KG2YRCeF0aIuTErlZkF2j"
+    },
+    {
+      "added_at": "2022-08-25 23:00:00",
+      "album": {
+        "name": "Violent Pop",
+        "url": "https://open.spotify.com/album/2kVLN2LUjJWEtoCPllEYyp"
+      },
+      "artists": [
+        {
+          "name": "Blind Channel",
+          "url": "https://open.spotify.com/artist/3L58J6a7f0jyy2p6f3MSAs"
+        }
+      ],
+      "duration_ms": 222469,
+      "name": "Feel Nothing",
+      "url": "https://open.spotify.com/track/26m3OLzCB09qlex7GTZS7h"
     },
     {
       "added_at": "2022-08-25 23:00:00",
@@ -1187,18 +1187,18 @@
     {
       "added_at": "2022-08-25 23:00:00",
       "album": {
-        "name": "All The Truth That I Can Tell",
-        "url": "https://open.spotify.com/album/1kzA5gBC9bgVLBENxgBAWr"
+        "name": "Fall Better",
+        "url": "https://open.spotify.com/album/75caqQ4HQYSxr9Ke6tFrUD"
       },
       "artists": [
         {
-          "name": "Dashboard Confessional",
-          "url": "https://open.spotify.com/artist/4ERtgeBbWRkFzIz6LaFCeY"
+          "name": "VUKOVI",
+          "url": "https://open.spotify.com/artist/1844Ua6R4gOuH6GLdlR4dt"
         }
       ],
-      "duration_ms": 193372,
-      "name": "Everyone Else Is Just Noise",
-      "url": "https://open.spotify.com/track/3Hf8aGNAN6WGshVEUjIZek"
+      "duration_ms": 215507,
+      "name": "I'm Sorry",
+      "url": "https://open.spotify.com/track/1krv4gCltfB9nF1iWzAaLC"
     },
     {
       "added_at": "2022-08-25 23:00:00",
@@ -1219,18 +1219,18 @@
     {
       "added_at": "2022-08-25 23:00:00",
       "album": {
-        "name": "Fall Better",
-        "url": "https://open.spotify.com/album/75caqQ4HQYSxr9Ke6tFrUD"
+        "name": "All The Truth That I Can Tell",
+        "url": "https://open.spotify.com/album/1kzA5gBC9bgVLBENxgBAWr"
       },
       "artists": [
         {
-          "name": "VUKOVI",
-          "url": "https://open.spotify.com/artist/1844Ua6R4gOuH6GLdlR4dt"
+          "name": "Dashboard Confessional",
+          "url": "https://open.spotify.com/artist/4ERtgeBbWRkFzIz6LaFCeY"
         }
       ],
-      "duration_ms": 215507,
-      "name": "I'm Sorry",
-      "url": "https://open.spotify.com/track/1krv4gCltfB9nF1iWzAaLC"
+      "duration_ms": 193372,
+      "name": "Everyone Else Is Just Noise",
+      "url": "https://open.spotify.com/track/3Hf8aGNAN6WGshVEUjIZek"
     },
     {
       "added_at": "2022-08-25 23:00:00",
@@ -1283,18 +1283,18 @@
     {
       "added_at": "2022-08-25 23:00:00",
       "album": {
-        "name": "Graduating Life",
-        "url": "https://open.spotify.com/album/7G2sRHP0Xd28Dx4OKjBkqg"
+        "name": "American Noir",
+        "url": "https://open.spotify.com/album/4ddTgrLBjiaQbjcDeWtrUg"
       },
       "artists": [
         {
-          "name": "Mom Jeans.",
-          "url": "https://open.spotify.com/artist/6PsktPFR0UZptKdSqmlS5h"
+          "name": "Creeper",
+          "url": "https://open.spotify.com/artist/0nV7SiEIVtPLTSJ6NwWDGj"
         }
       ],
-      "duration_ms": 160266,
-      "name": "Graduating Life",
-      "url": "https://open.spotify.com/track/18mzsMdTswjVIzQ0U06Yqa"
+      "duration_ms": 203271,
+      "name": "One Of Us",
+      "url": "https://open.spotify.com/track/5LcFvZSd8baqx1StsIitZ1"
     }
   ],
   "unique_name": "Blood, Shred & Tears",

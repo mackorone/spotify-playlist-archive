@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0RGhgSIsFBm.md) - [plain]
 
 > A collection of classic horror and spooky stories, from Stoker to Hitchcock.
 
-[Spotify](https://open.spotify.com/user/spotify) - 127,718 likes - 127 songs - 1 day 17 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 77 likes - 127 songs - 1 day 17 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -136,4 +136,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0RGhgSIsFBm.md) - [plain]
 | 126 | [The Apparition By John Donne](https://open.spotify.com/track/6tZM7EgcQ7UgQkarWhTQs3) | [Richard Burton](https://open.spotify.com/artist/3axaLrA0gIANDLYAv9pC9P) | [The Halloween Poetry Collection](https://open.spotify.com/album/1yMhVi0QBWc6ZmT0DCJCz9) | 2:14 |
 | 127 | [When Shall We Three Meet Again By William Shakespeare](https://open.spotify.com/track/6xIYr8XA0bAnYrGQm57Xhq) | [A Marlowe Society](https://open.spotify.com/artist/1MK3NE6aTu3A8YPSnhg92J) | [The Halloween Poetry Collection](https://open.spotify.com/album/1yMhVi0QBWc6ZmT0DCJCz9) | 2:38 |
 
-Snapshot ID: `MTYzNTM0NjY2NywwMDAwMDAwMDczOTQ0NzBhZGFhN2NmNGFmZjZmNWYxYTgxMDM2NDFh`
+Snapshot ID: `MTY2NDg5NjE4MCwwMDAwMDAwMDdkOTA1ZDRkY2QwNWQ2ZTE2OTcxZDkzMmUxNWZlMDJl`

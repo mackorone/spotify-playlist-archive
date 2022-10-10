@@ -4,7 +4,7 @@
 
 > Instrumental guitar for rainy day contemplation.
 
-148 songs - 6 hr 25 min - [published](https://open.spotify.com/playlist/0OFjYAHKTUhiFgc9oYNNXy)
+150 songs - 6 hr 30 min - [published](https://open.spotify.com/playlist/0OFjYAHKTUhiFgc9oYNNXy)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,9 +27,10 @@
 | [By The Lake](https://open.spotify.com/track/0yXHPkguHkvQe2TMuQOTSE) | [Bobby Dean](https://open.spotify.com/artist/0odJINAJzMqpe7EzD7cO2g) | [Tomorrow's A New Day](https://open.spotify.com/album/6ZQhoKdzrf0hk76m8mrD3k) | 2:57 | 2021-12-23 | 2022-04-06 |
 | [Cadaques](https://open.spotify.com/track/5W3UaSyEgTVZHA7OrGffPH) | [Los Viajantes](https://open.spotify.com/artist/4YAXYtBeaRHUxQ8R3TKheZ) | [Cadaques](https://open.spotify.com/album/6pVPsVMUDfwtcrU32LSqbH) | 2:55 | 2022-01-11 |  |
 | [Calma](https://open.spotify.com/track/2XFsO6ylkvJHtQjuLlJfJu) | [Nara Gilberto](https://open.spotify.com/artist/5H8qAk2IBifRhZK1BS8XFs) | [Calma](https://open.spotify.com/album/2cIzqQRsQJrIHerW1Dz99a) | 3:06 | 2021-12-23 |  |
+| [Camaraderie](https://open.spotify.com/track/086M1911YGVVSsYcStpAyY) | [Lexie Baxter](https://open.spotify.com/artist/5kdRX0bJREG0oR4IkhhTrv) | [Camaraderie](https://open.spotify.com/album/4osUhPe2PxGdFzDroAADQs) | 1:51 | 2022-10-07 |  |
 | [Castle of Ice](https://open.spotify.com/track/48eB4f7ZEs26kBOQhHOYMK) | [Irene Weiss](https://open.spotify.com/artist/4Zk6vI5es7sxKodTuj2VZ7) | [Castle of Ice](https://open.spotify.com/album/5S6gO5nbEyii8U4LNArlfb) | 3:03 | 2021-12-23 |  |
 | [Cette chute](https://open.spotify.com/track/7H7vxPL4rZRkarF9EPOnvz) | [Celia Cloten](https://open.spotify.com/artist/43K8HrRsXFfNZqCjavPbsa) | [Cette chute](https://open.spotify.com/album/7voaQFtWuh3hG6PVzQUfwQ) | 2:44 | 2021-12-23 |  |
-| [Choro de Saudade](https://open.spotify.com/track/3Kfd574iIrlhqnQeqtXKuv) | [José Isidoro](https://open.spotify.com/artist/3nbcGaD8jhAuRC6SLuB2Hz) | [Choro de Saudade](https://open.spotify.com/album/2WrAWCGZQYtkDmAvvjHUJ6) | 5:05 | 2021-12-23 |  |
+| [Choro de Saudade](https://open.spotify.com/track/3Kfd574iIrlhqnQeqtXKuv) | [José Isidoro](https://open.spotify.com/artist/3nbcGaD8jhAuRC6SLuB2Hz) | [Choro de Saudade](https://open.spotify.com/album/2WrAWCGZQYtkDmAvvjHUJ6) | 5:05 | 2021-12-23 | 2022-10-07 |
 | [City Lights](https://open.spotify.com/track/1qh4crx5pT2dWNM1fhAyeR) | [Salcao](https://open.spotify.com/artist/4eVKlYwBe7gA40wiemmlNb) | [City Lights](https://open.spotify.com/album/3pB85c4xe6G94NlxPsAALn) | 2:28 | 2021-12-23 |  |
 | [CLEVELAND, OH](https://open.spotify.com/track/7xAGtSGZCmzZ4gkJetmnoq) | [Brad Barr](https://open.spotify.com/artist/6FHxCoGlbKV6cvqO2AMaKv) | [THE WINTER MISSION](https://open.spotify.com/album/05dhqFgu0AVrq1qMjHhcfq) | 1:34 | 2022-03-03 |  |
 | [Comings & Goings](https://open.spotify.com/track/04QYnXLbnPWSS2pgR0z1yZ) | [Lee Young](https://open.spotify.com/artist/50oK46NA905UBCOIRWBU5Z) | [Comings & Goings](https://open.spotify.com/album/1x5HTAuVJWSlbn3prj6Bfb) | 2:59 | 2021-12-23 |  |
@@ -135,6 +136,7 @@
 | [Telefono A](https://open.spotify.com/track/6E6U7GLpd3Hod0QEv2AvsJ) | [SEA](https://open.spotify.com/artist/0yMlqsQgpwBZZ6AzyofFAx) | [SEA](https://open.spotify.com/album/3fOrus5SZVYa42UQATcNpy) | 1:29 | 2021-12-23 | 2022-03-02 |
 | [The Book of Wattles](https://open.spotify.com/track/4w1yT3ffNDYoMcddg9GoKf) | [Aurélien Trigo](https://open.spotify.com/artist/1XvEjHuBKBUIbZHuBesoCE) | [The Acoustic Mind \- Vol\. 2](https://open.spotify.com/album/13azZWFxxawIbJanpfilFw) | 2:42 | 2021-12-23 | 2022-04-06 |
 | [The Discovery](https://open.spotify.com/track/2SBzLIgiQ7NOrfsdYvudwN) | [Max & Evelyn Levin](https://open.spotify.com/artist/1NfTYfe4S4R5doamPIfxlw) | [The Discovery](https://open.spotify.com/album/08gWXUilwiSrBuiStV7KfG) | 1:43 | 2021-12-23 | 2022-03-02 |
+| [The Falling Rain](https://open.spotify.com/track/2OvkLZux7Cjppy1OnJ0W39) | [Aaron Flemming](https://open.spotify.com/artist/5JZXYantGqgguYFt5pw1uH) | [The Falling Rain](https://open.spotify.com/album/2sp9hy7loG95i3AzjWd3SB) | 2:32 | 2022-10-07 |  |
 | [The Ghost in Your Smile](https://open.spotify.com/track/3tcB32nXoEIlkYBKzrO3j5) | [Les Trés](https://open.spotify.com/artist/2LKzmniAhhMm4J8IVOPwK0) | [Les Trés](https://open.spotify.com/album/0Wm3m7AZ2i6cafapsNHLe5) | 4:01 | 2021-12-23 | 2022-03-02 |
 | [The Golden Spiral](https://open.spotify.com/track/39xnGvtkISN4yTF85ndmUP) | [Yi Nantiro](https://open.spotify.com/artist/05aWuDQP5PwWhJEEsGNqYp) | [For a Lifetime](https://open.spotify.com/album/4CIxHPyaHFbrbqh4k3QFPy) | 2:54 | 2021-12-23 | 2022-03-02 |
 | [The Path Ahead Is Hidden](https://open.spotify.com/track/14rTnNbFArrjRPFLQDdqhe) | [Dominic Ruiz](https://open.spotify.com/artist/4x3JdU2gxNgHzMdY61pCOx) | [The Path Ahead Is Hidden](https://open.spotify.com/album/1VEmkzOWkEI1v1nyV4FROE) | 4:04 | 2022-05-27 |  |
@@ -142,7 +144,7 @@
 | [Thoughts](https://open.spotify.com/track/7HfFKtI0a6u8l4XE9QetHy) | [Channing Spence](https://open.spotify.com/artist/7HHhJuGxvzmJzu0UOfrEEp) | [Thoughts](https://open.spotify.com/album/58Tn036XqbSSbwRkgPfzoO) | 3:16 | 2021-12-23 |  |
 | [To the Coast of Ceylon](https://open.spotify.com/track/2SEAYMXCzCv2ESdSd136Hd) | [Daniel Kaede](https://open.spotify.com/artist/6aup7uM4yUHX9NLba0sxmt) | [Somewhere Ahead](https://open.spotify.com/album/5qoSYzAjuuMXA6AaIn5YJT) | 2:32 | 2021-12-23 |  |
 | [Toledo](https://open.spotify.com/track/4XLaUN06QecA0DDPHFmXBu) | [Los Suculentos](https://open.spotify.com/artist/7bTwrUAlEQ5eq0GILDbSYN) | [Toledo](https://open.spotify.com/album/5A4l31mdvI8xJwk9FXR4vW) | 2:20 | 2022-01-11 |  |
-| [True](https://open.spotify.com/track/0vSlrqkUHqq4n2gGBKGB3u) | [Nylonica](https://open.spotify.com/artist/7v27b1Uq1x0Js7IgdeSD7e) | [Redemption](https://open.spotify.com/album/5PLuFRH9jYRdhsFGQPWUwF) | 2:58 | 2021-12-23 |  |
+| [True](https://open.spotify.com/track/0vSlrqkUHqq4n2gGBKGB3u) | [Nylonica](https://open.spotify.com/artist/7v27b1Uq1x0Js7IgdeSD7e) | [Redemption](https://open.spotify.com/album/5PLuFRH9jYRdhsFGQPWUwF) | 2:58 | 2021-12-23 | 2022-10-07 |
 | [Una Luz en el Silencio](https://open.spotify.com/track/5sKLWKEA2OEhBKdERE70vu) | [Antonio Garcia Isaac](https://open.spotify.com/artist/7IH9NOjltyAfO5HsuAt9W3) | [Una Luz en el Silencio](https://open.spotify.com/album/0tuw4ClrE9s1IIsMb8Qgld) | 4:55 | 2021-12-23 |  |
 | [Vem kan segla förutan vind](https://open.spotify.com/track/1qFBqtdKIjeGDKH2viV8Js) | [Adrian Edblad](https://open.spotify.com/artist/1BULcfR4Qb9AWG696JouwW) | [Vem kan segla förutan vind](https://open.spotify.com/album/3x64QzItu9GmrFSsUgfVth) | 1:25 | 2021-12-23 |  |
 | [Vero Amore](https://open.spotify.com/track/1kkvNP512ctkEDMJIq2ca3) | [Henrik Janson](https://open.spotify.com/artist/5kIhxGyX6VtcsLk88dwYED) | [Vero Amore](https://open.spotify.com/album/2xfZJ7RYOMiBDWKy0m9g9L) | 2:40 | 2021-12-23 | 2022-03-02 |

@@ -4,7 +4,7 @@
 
 > 80's Edition!  D\-Nice's essential jams for any party at home!
 
-72 songs - 6 hr 12 min - [published](https://open.spotify.com/playlist/50QR79j8k5LtNRr6rof7wE)
+73 songs - 6 hr 16 min - [published](https://open.spotify.com/playlist/50QR79j8k5LtNRr6rof7wE)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,7 +46,8 @@
 | [Eye of the Tiger](https://open.spotify.com/track/2KH16WveTQWT6KOG9Rg6e2) | [Survivor](https://open.spotify.com/artist/26bcq2nyj5GB7uRr558iQg) | [Rocky IV](https://open.spotify.com/album/3t3BbpFJiGcXl4jI5CRLLA) | 4:05 | 2020-04-13 |  |
 | [Fake](https://open.spotify.com/track/3wN45r0Lz73AQcuvY2pdVe) | [Alexander O'Neal](https://open.spotify.com/artist/047D9GgqEzyMoULd2oKr7G) | [Hearsay](https://open.spotify.com/album/5K4obZM7WvlNQ5B9CJ6KgA) | 3:55 | 2020-04-13 |  |
 | [Forget Me Nots](https://open.spotify.com/track/7vuSGejUXpD365Nl9tyehq) | [Patrice Rushen](https://open.spotify.com/artist/1mNnxxnPfHQDOkFjnZmdkc) | [Straight From The Heart](https://open.spotify.com/album/73TPk27H5MBU6flqQ1lr09) | 4:35 | 2020-04-13 | 2022-07-29 |
-| [Forget Me Nots \- Remastered](https://open.spotify.com/track/4UQH52FfgGpzDShKDbBvEA) | [Patrice Rushen](https://open.spotify.com/artist/1mNnxxnPfHQDOkFjnZmdkc) | [Straight From The Heart](https://open.spotify.com/album/1y2MGKwD1ap3FxPc4ii6QO) | 4:44 | 2020-04-13 |  |
+| [Forget Me Nots \- Remastered](https://open.spotify.com/track/4UQH52FfgGpzDShKDbBvEA) | [Patrice Rushen](https://open.spotify.com/artist/1mNnxxnPfHQDOkFjnZmdkc) | [Straight From The Heart](https://open.spotify.com/album/1y2MGKwD1ap3FxPc4ii6QO) | 4:44 | 2020-04-13 | 2022-10-09 |
+| [Forget Me Nots \- Remastered](https://open.spotify.com/track/5ERZGchTi6sysVmA913Ryx) | [Patrice Rushen](https://open.spotify.com/artist/1mNnxxnPfHQDOkFjnZmdkc) | [Straight from the Heart \(Remastered\)](https://open.spotify.com/album/2tc6ZlzJS56yiVvo40R03g) | 4:44 | 2020-04-13 |  |
 | [Found a Cure](https://open.spotify.com/track/1gND1zOlYtYgXdhRmpIOGJ) | [Ashford & Simpson](https://open.spotify.com/artist/2EURsXo9qlt1aMWlviGCRi), [James Simpson](https://open.spotify.com/artist/2iphCH37GnHODxVanwu4Wf) | [Stay Free](https://open.spotify.com/album/0deJgBEQc6s9ljcW2My2uV) | 7:01 | 2020-04-13 |  |
 | [Freaks Come Out at Night](https://open.spotify.com/track/1JKJZLqLUh0vlemaD3IfLe) | [Whodini](https://open.spotify.com/artist/4dBOV77d0Fy9KcTZkieXcu) | [Escape \(Expanded Edition\)](https://open.spotify.com/album/0wXylkn9taeEjiiac1S2zU) | 4:44 | 2020-04-13 |  |
 | [Funky Sensation](https://open.spotify.com/track/3SHKFKCccGc2gZkI7G1hMZ) | [Gwen McCrae](https://open.spotify.com/artist/742YR9ZgF0tCO5juBfvPAU) | [Funky Sensation \(MAW Mix\)](https://open.spotify.com/album/3xur0MAndcfC6MxQUa9o60) | 6:38 | 2020-04-13 |  |

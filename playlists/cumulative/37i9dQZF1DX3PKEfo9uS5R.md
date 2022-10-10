@@ -4,7 +4,7 @@
 
 > Chill house tracks to power your pilates session.
 
-136 songs - 7 hr 18 min - [published](https://open.spotify.com/playlist/6XgqRzFWaCNVeD21el9Hhr)
+141 songs - 7 hr 35 min - [published](https://open.spotify.com/playlist/6XgqRzFWaCNVeD21el9Hhr)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,6 +50,7 @@
 | [Fluffy](https://open.spotify.com/track/0s050M5SSv4hLyZ73cg5oh) | [NoCloudSky](https://open.spotify.com/artist/6ED30UOfoZVV94homQZYHl) | [Fluffy](https://open.spotify.com/album/0f7giVEcSFX5FY3rhAsBAj) | 2:14 | 2021-11-11 | 2022-04-06 |
 | [Following the trail](https://open.spotify.com/track/4YvOWccd63fXOhX6OfpVdD) | [Nimis](https://open.spotify.com/artist/3HTQ3tT0u6x4qA7vPhT8XN) | [Following the trail](https://open.spotify.com/album/00EV0QM867HkJVvKQKTyRi) | 3:27 | 2021-11-11 |  |
 | [Fragmented Memories](https://open.spotify.com/track/0WK4DEtDECPLSiI93oyLbj) | [Duckmaw](https://open.spotify.com/artist/4T1LvLyHdDj300MVNb6VyD) | [Fragmented Memories / Woodpecker \(Call Me\)](https://open.spotify.com/album/5AraItM2Vq2MPBeUA4YpIg) | 3:27 | 2022-05-10 | 2022-08-05 |
+| [free](https://open.spotify.com/track/4yiDLzimhW55rMSv0MeE8F) | [Crispy Candy](https://open.spotify.com/artist/0q6FzJH9tH7ysqdLy7kXKp) | [free](https://open.spotify.com/album/1Twl9jb2ob9s2tGaWnLixh) | 3:30 | 2022-10-07 |  |
 | [Free Range](https://open.spotify.com/track/5DkPiFdxLbSSgZmaDJPntv) | [Brendon Moeller](https://open.spotify.com/artist/3V3T5haMWZGfFxqVsAB9oB) | [Cygnus A](https://open.spotify.com/album/0YH8iHF3YgylIRIdlL6bGV) | 2:38 | 2022-05-20 | 2022-07-22 |
 | [Gardient heaven](https://open.spotify.com/track/4O1CGcCUjJXow4oBHxMxTK) | [YAN KAL](https://open.spotify.com/artist/04735OZRCyYdkA5Cay4qkG) | [Gardient heaven](https://open.spotify.com/album/1WVwh0s7pzG0PXzvtRVVJ8) | 2:32 | 2022-08-05 |  |
 | [Get In](https://open.spotify.com/track/4KL9cG7OFgyf8rQa4x8SVP) | [Soft Sea](https://open.spotify.com/artist/1ZHSuZbZPXpAFuQl6XSzYx) | [Get In](https://open.spotify.com/album/1vcvwWac3LX0MHgWipFKT5) | 2:45 | 2021-11-11 |  |
@@ -85,6 +86,7 @@
 | [Love in the Air](https://open.spotify.com/track/0DAaxDD2brWwpTDH2HdaON) | [Gold Glo](https://open.spotify.com/artist/5OOBTy3uO1KvzwexXmMhVz) | [Love in the Air](https://open.spotify.com/album/2cAL5xHeFCKMfFIGuNinst) | 2:38 | 2021-11-11 |  |
 | [Lueur](https://open.spotify.com/track/0PlsM5HVPGAPKqNxoEGir0) | [Drippl](https://open.spotify.com/artist/5a0p2jBB8s3RbE3Dh7o99K) | [Lueur](https://open.spotify.com/album/27YE95xO8qTIj9L2ACmnzt) | 3:42 | 2021-11-11 |  |
 | [Lunar Soil](https://open.spotify.com/track/3oIEmx0I8qfBb01lKTe4uE) | [Basaux](https://open.spotify.com/artist/11pLNU3Nzu5J3yFAmetC2s) | [Lunar Soil](https://open.spotify.com/album/1m5UoUNbtCwJMAIOWCDaPv) | 2:40 | 2022-01-21 |  |
+| [Magnolia](https://open.spotify.com/track/1awvT0baqmByEbazQVzm3W) | [Chakra Lounge](https://open.spotify.com/artist/7Biy6OokTAlZOmGAIhx944) | [Magnolia](https://open.spotify.com/album/6e93BRGJ8p6Gg7Elwbb5un) | 3:13 | 2022-10-07 |  |
 | [Make it Count](https://open.spotify.com/track/0HEW5kt8TXf75HiAzhuht2) | [Pink Beaches](https://open.spotify.com/artist/4BD1682O6X6qea7XWlo6tq) | [Make it Count](https://open.spotify.com/album/1OVrw11t0hkDglQPrjB4oq) | 3:58 | 2021-11-11 |  |
 | [Melted Ice Cream](https://open.spotify.com/track/0XY7kMJEAKm0f3hzgUPFFA) | [JAS Ü RAGY](https://open.spotify.com/artist/7b2TMfZW8CqOmhlCbPD7Y6) | [Melted Ice Cream](https://open.spotify.com/album/6uUx9zYBBOl9VUFMUJvd67) | 3:11 | 2022-07-22 |  |
 | [Mermaid](https://open.spotify.com/track/0mMHRtKs72ns7zPDNaZzPY) | [Reza Solhi](https://open.spotify.com/artist/1Tm9n1qxzzLEpXGSu3nWIJ) | [Mermaid](https://open.spotify.com/album/6s4ly0ToaV0tE2A3hdKWbV) | 2:39 | 2021-11-11 |  |
@@ -96,6 +98,7 @@
 | [Nightly Purpose](https://open.spotify.com/track/1eJpAPbFOJ9FcVrq99Vbsz) | [Reglisse](https://open.spotify.com/artist/5JSk86YHGR6UKHISzJDlp6) | [Nightly Purpose](https://open.spotify.com/album/3S8IKRk8a8kZp9r68emkm2) | 2:51 | 2021-11-11 | 2022-01-22 |
 | [On My Mind](https://open.spotify.com/track/0Hj0kGeZLDahlACb0Rp19P) | [dtktd](https://open.spotify.com/artist/7xDx9PMuogC7WSGSK0bVnd) | [On My Mind](https://open.spotify.com/album/4puVnK4L2kmdacIudsFgn3) | 3:14 | 2021-11-11 |  |
 | [On the Reef](https://open.spotify.com/track/4VlhhTSAslHLsVBSNYsiFZ) | [Soft Sea](https://open.spotify.com/artist/1ZHSuZbZPXpAFuQl6XSzYx) | [On the Reef](https://open.spotify.com/album/09KD1vik4kWaEodHCrXSzp) | 3:36 | 2021-11-11 |  |
+| [Open Fields](https://open.spotify.com/track/6PsPRjRVQpuxltouIiGJfu) | [Toby Tech](https://open.spotify.com/artist/3AIUmOlOCNpbVbYL9RirIM) | [Open Fields](https://open.spotify.com/album/2fgoswYqbGfQDGQOoS3oWO) | 4:21 | 2022-10-07 |  |
 | [Orange and Blue](https://open.spotify.com/track/4zcN60IL3aEEQZdCwOjYtE) | [Asha Lin](https://open.spotify.com/artist/3n5KctQ0kr7y2FQs57lE2H) | [Orange and Blue](https://open.spotify.com/album/0FPBUdy3YZoCyNqStyTHBJ) | 2:58 | 2022-01-21 |  |
 | [Original Love](https://open.spotify.com/track/26obskJ2LXxb1kcWs6FUmB) | [Flughof](https://open.spotify.com/artist/3eI7754qHEzf640yHt3MXX) | [Original Love](https://open.spotify.com/album/5ToSCwAk4JI5h6yMI3qzhb) | 3:02 | 2022-05-10 |  |
 | [outbreak](https://open.spotify.com/track/6FHLM8mwBRGFzQluP0bWHq) | [Amaraldo](https://open.spotify.com/artist/6Q3A8LnHLfN97wg2VXC5bf) | [outbreak](https://open.spotify.com/album/3YMnlqCbuVVeEVUmRlylUI) | 2:43 | 2022-04-05 |  |
@@ -141,8 +144,10 @@
 | [Watchtower](https://open.spotify.com/track/5cwjq1HlJEwOMOxFr8bPpT) | [Werlie](https://open.spotify.com/artist/6KQ7zOmEoEm2tgJsoYq55x) | [Watchtower](https://open.spotify.com/album/1l95gSxvw9QjvHnl6z0C6C) | 2:38 | 2021-11-11 |  |
 | [Waves](https://open.spotify.com/track/1A2pH62d1USSUsxuoiRD8l) | [Navagio](https://open.spotify.com/artist/4IZVQx6ZkiGS5yIhLQvhf8) | [Waves](https://open.spotify.com/album/4bSGU58KwhgotZ3SETiZso) | 2:38 | 2021-11-11 | 2022-05-11 |
 | [White Dust](https://open.spotify.com/track/2zlmxxH4eHn2rmBZRQRwEY) | [Sun Mirage](https://open.spotify.com/artist/3wqjOyUcOsV0wSLgCsGwf4) | [It's all clear now](https://open.spotify.com/album/4nZ4IAl00PTqsNs0AmC0GA) | 4:02 | 2021-11-11 | 2022-05-11 |
+| [White Sand](https://open.spotify.com/track/5bJpgpe64yhSWpwtELoBh3) | [Maurea](https://open.spotify.com/artist/6GqXPQOxk9y94VmCzjZMEj) | [White Sand](https://open.spotify.com/album/1YEoHrS4r659ncmDAGU3rD) | 2:39 | 2022-10-07 |  |
 | [With My Whole Heart](https://open.spotify.com/track/7AzIVU7uB6ZU7uPoFJFKPu) | [Raphael Creed](https://open.spotify.com/artist/2shzzQEVBHTmyUUmgvA3eK) | [With My Whole Heart](https://open.spotify.com/album/7DqXk7aQUle3M5qMtjq6zb) | 2:46 | 2021-11-11 | 2022-02-11 |
 | [Woodpecker \(Call Me\)](https://open.spotify.com/track/3pSOSLJY99p8aAY3QWM8x5) | [Duckmaw](https://open.spotify.com/artist/4T1LvLyHdDj300MVNb6VyD) | [Fragmented Memories / Woodpecker \(Call Me\)](https://open.spotify.com/album/5AraItM2Vq2MPBeUA4YpIg) | 5:04 | 2022-05-10 | 2022-07-01 |
 | [Yesterday's Dream](https://open.spotify.com/track/3eb9HO1cq8uzEmUdU7mNvs) | [Catalina En Collins](https://open.spotify.com/artist/6oaPME8tL5UOyja7VEvx0J) | [Yesterday's Dream](https://open.spotify.com/album/0ebm4T6CGvYIIharGfIftv) | 2:31 | 2021-11-11 |  |
+| [Young Guns](https://open.spotify.com/track/6Inc6yOBo4kUlCltz75Y4K) | [KD Simon](https://open.spotify.com/artist/5vdDoo0msksIJMUMyTwoIe) | [Young Guns](https://open.spotify.com/album/7yg546r9ibdZQXlDB3C8qr) | 3:03 | 2022-10-07 |  |
 
 \*This playlist was first scraped on 2022-01-21. Prior content cannot be recovered.

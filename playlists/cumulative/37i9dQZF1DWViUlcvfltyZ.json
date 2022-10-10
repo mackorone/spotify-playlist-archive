@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-11",
-  "description": "Chitarre, pi\u00f9 o meno distorte. Aggiornata ogni venerd\u00ec. Cover: Her Skin",
+  "description": "Chitarre, pi\u00f9 o meno distorte. Aggiornata ogni venerd\u00ec. Cover: Manuel Agnelli",
   "name": "Rock Italia",
   "published_playlist_ids": [
     "1ygHfNTT8YmP8RXH0ojm4P"
@@ -120,6 +120,24 @@
     },
     {
       "album": {
+        "name": "Alme",
+        "url": "https://open.spotify.com/album/04bQWJKzN1egEcDioDAT1h"
+      },
+      "artists": [
+        {
+          "name": "Merli Armisa",
+          "url": "https://open.spotify.com/artist/6Xi0bEiO6Ncki0K3iudLki"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196210,
+      "name": "Alme",
+      "url": "https://open.spotify.com/track/0GyrUsvIJJ5DZPHpEQa6kQ"
+    },
+    {
+      "album": {
         "name": "Always Before (The Fire)",
         "url": "https://open.spotify.com/album/4G1FKZqj3dzWVLKfnzDybm"
       },
@@ -171,6 +189,24 @@
       "duration_ms": 242497,
       "name": "Ansia Capitale",
       "url": "https://open.spotify.com/track/3aJ8dxraLU7aqEm1FKwhX7"
+    },
+    {
+      "album": {
+        "name": "around my neck",
+        "url": "https://open.spotify.com/album/433w6aPK6Ht3Cif62mo5WJ"
+      },
+      "artists": [
+        {
+          "name": "Eugenia Post Meridiem",
+          "url": "https://open.spotify.com/artist/47wCQih5a5wC9l3LqDRySE"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249626,
+      "name": "around my neck",
+      "url": "https://open.spotify.com/track/42UjxTXLgUAgBTjBoUiBpo"
     },
     {
       "album": {
@@ -498,6 +534,24 @@
     },
     {
       "album": {
+        "name": "Ologenesi",
+        "url": "https://open.spotify.com/album/37CdwSrQ0Rexb7EVLfQppx"
+      },
+      "artists": [
+        {
+          "name": "Little Pieces of Marmelade",
+          "url": "https://open.spotify.com/artist/6ap5FlXui4P9SWOKz98o9Z"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202213,
+      "name": "Canzone 9",
+      "url": "https://open.spotify.com/track/3Lkbk6U4UUyxdseqGmip1b"
+    },
+    {
+      "album": {
         "name": "Caro fottutissimo amico (feat. Motta)",
         "url": "https://open.spotify.com/album/4dBHrJUJ6tBAe8pzNWfDRW"
       },
@@ -632,6 +686,24 @@
     },
     {
       "album": {
+        "name": "Copernico",
+        "url": "https://open.spotify.com/album/15EVfuAnIGB1sMRcdnfPmm"
+      },
+      "artists": [
+        {
+          "name": "J\u00d8NA",
+          "url": "https://open.spotify.com/artist/3iG0m5jiTCFiM3Dkfn37zK"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 309600,
+      "name": "Copernico",
+      "url": "https://open.spotify.com/track/70vNaMfvG3i4jGMcJ04PhJ"
+    },
+    {
+      "album": {
         "name": "Corny",
         "url": "https://open.spotify.com/album/1RwrTlkQ5u3EE5CrnlH6yi"
       },
@@ -755,6 +827,24 @@
       "duration_ms": 210328,
       "name": "Dead",
       "url": "https://open.spotify.com/track/6H3NSyefUL4tm6yvWuQ8FR"
+    },
+    {
+      "album": {
+        "name": "Defective Supersight",
+        "url": "https://open.spotify.com/album/1cbY5ev5FxZPHP3grGgMau"
+      },
+      "artists": [
+        {
+          "name": "Nobody Cried For Dinosaurs",
+          "url": "https://open.spotify.com/artist/2RQE2lqMvFUFA5u0znpkvo"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216968,
+      "name": "Defective Supersight",
+      "url": "https://open.spotify.com/track/75edXIj9lMn82jTlzOwUf3"
     },
     {
       "album": {
@@ -961,7 +1051,7 @@
       ],
       "date_added": "2022-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-07",
       "duration_ms": 296306,
       "name": "Elena's Beauty Theme",
       "url": "https://open.spotify.com/track/2SOdY5uljAC0Nf0ij678ER"
@@ -1445,7 +1535,7 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-07",
       "duration_ms": 196000,
       "name": "If I Can Dream (From The Original Motion Picture Soundtrack ELVIS)",
       "url": "https://open.spotify.com/track/4yibMEwSzelLmFtyXwWwZs"
@@ -1543,10 +1633,28 @@
       ],
       "date_added": "2022-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-07",
       "duration_ms": 222000,
       "name": "In ciabatte",
       "url": "https://open.spotify.com/track/1cL1wwfU1LvhGTUmUe5wsc"
+    },
+    {
+      "album": {
+        "name": "Tutto Brucia OST",
+        "url": "https://open.spotify.com/album/7i7wwzcmPlO5W0ahY7AFDS"
+      },
+      "artists": [
+        {
+          "name": "R.Y.F.",
+          "url": "https://open.spotify.com/artist/6KvSMX9OVVJxn6mfCXbAOe"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235573,
+      "name": "It's Not Fair to Die",
+      "url": "https://open.spotify.com/track/0vy20oIYnWXCdeJHXVpKre"
     },
     {
       "album": {
@@ -1601,7 +1709,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-07",
       "duration_ms": 245280,
       "name": "Kawasaki, Vol. 1",
       "url": "https://open.spotify.com/track/2095aCnjEciEBnu5t72XXK"
@@ -1985,7 +2093,7 @@
       ],
       "date_added": "2022-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-07",
       "duration_ms": 221778,
       "name": "Montese",
       "url": "https://open.spotify.com/track/6plgbXWnR6fv3bE2H4yJSu"
@@ -2451,7 +2559,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-07",
       "duration_ms": 171487,
       "name": "Resto solo io",
       "url": "https://open.spotify.com/track/0uLcIYwzGnHKxG395CCzu1"
@@ -2653,7 +2761,7 @@
       ],
       "date_added": "2022-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-07",
       "duration_ms": 151623,
       "name": "So Long",
       "url": "https://open.spotify.com/track/38Klg16zOlVdoCcVY17pVC"
@@ -2794,6 +2902,24 @@
     },
     {
       "album": {
+        "name": "Stoccolma",
+        "url": "https://open.spotify.com/album/4eweWKEWbfTRVPwnf5AFZo"
+      },
+      "artists": [
+        {
+          "name": "Ma\u00eblys",
+          "url": "https://open.spotify.com/artist/4fuZBTq8KLPsKbYPQl0bZZ"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129457,
+      "name": "Stoccolma",
+      "url": "https://open.spotify.com/track/7hsbFCXE4Q3GWHyAO8SJZE"
+    },
+    {
+      "album": {
         "name": "Storia",
         "url": "https://open.spotify.com/album/6cb8vQtt1AVfGwRYobPcrL"
       },
@@ -2814,7 +2940,7 @@
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 190739,
+      "duration_ms": 187510,
       "name": "Storia",
       "url": "https://open.spotify.com/track/0iqB0jQVH03FWjvoKcQkJg"
     },
@@ -2867,7 +2993,7 @@
       ],
       "date_added": "2022-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-07",
       "duration_ms": 198746,
       "name": "suitable",
       "url": "https://open.spotify.com/track/0xLaFN3LOpWkVoKSKhPqD7"
@@ -3005,6 +3131,24 @@
       "duration_ms": 393120,
       "name": "The Light Shedder",
       "url": "https://open.spotify.com/track/68qqIsRN1CXGr2OC0fZWwc"
+    },
+    {
+      "album": {
+        "name": "THE LONELIEST",
+        "url": "https://open.spotify.com/album/1DFNeS38zvoPkx9wwMEwbc"
+      },
+      "artists": [
+        {
+          "name": "M\u00e5neskin",
+          "url": "https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247067,
+      "name": "THE LONELIEST",
+      "url": "https://open.spotify.com/track/1Ame8XTX6QHY0l0ahqUhgv"
     },
     {
       "album": {
@@ -3373,6 +3517,24 @@
       "duration_ms": 216480,
       "name": "WHAT\u2019S THE POINT",
       "url": "https://open.spotify.com/track/1vDZJzrFXuRzI0L2iYJr9A"
+    },
+    {
+      "album": {
+        "name": "Worthy of Nothing",
+        "url": "https://open.spotify.com/album/04DnagZRkIfEjL4p0zxB26"
+      },
+      "artists": [
+        {
+          "name": "The Wends",
+          "url": "https://open.spotify.com/artist/0a3f8BwWWqw4vvXL9DrsW5"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230376,
+      "name": "Worthy of Nothing",
+      "url": "https://open.spotify.com/track/60Dbvn46TjF4NwYQmGc2Qm"
     },
     {
       "album": {

@@ -152,6 +152,24 @@
     },
     {
       "album": {
+        "name": "Cokie the Clown",
+        "url": "https://open.spotify.com/album/0Ho8Jl9kBUG9HmVAdCTiNU"
+      },
+      "artists": [
+        {
+          "name": "NOFX",
+          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-08",
+      "duration_ms": 146586,
+      "name": "Cokie the Clown",
+      "url": "https://open.spotify.com/track/1veqDqKxdHHxxBPYDnofLk"
+    },
+    {
+      "album": {
         "name": "Wolves in Wolves' Clothing",
         "url": "https://open.spotify.com/album/0bb9iLMHdUJhFIVwOars3P"
       },
@@ -181,7 +199,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-02",
+      "date_removed": "2022-10-08",
       "duration_ms": 165653,
       "name": "Creeping out Sara",
       "url": "https://open.spotify.com/track/6w8BMvIEGU1JYkR1mdIGJt"
@@ -307,7 +325,7 @@
       ],
       "date_added": "2022-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-05",
       "duration_ms": 153640,
       "name": "First Call",
       "url": "https://open.spotify.com/track/626xezshYGvfjC9tBG0xqz"
@@ -545,7 +563,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-01",
+      "date_removed": "2022-10-07",
       "duration_ms": 199781,
       "name": "Linewleum (feat. Avenged Sevenfold)",
       "url": "https://open.spotify.com/track/0LIfpDM2OVNy2acS0aghJi"
@@ -599,7 +617,7 @@
       ],
       "date_added": "2022-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 109640,
       "name": "Louise",
       "url": "https://open.spotify.com/track/6JV3drSaqeGAcKjglOtopa"
@@ -617,7 +635,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-02",
+      "date_removed": null,
       "duration_ms": 148960,
       "name": "Mattersville",
       "url": "https://open.spotify.com/track/05IpaSItsMpDT4TRDg4zht"
@@ -743,7 +761,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-01",
+      "date_removed": "2022-10-09",
       "duration_ms": 98293,
       "name": "Quart In Session",
       "url": "https://open.spotify.com/track/35L8JI1o2llRWMuc8NK3pN"
@@ -765,6 +783,24 @@
       "duration_ms": 129666,
       "name": "Seeing Double at the Triple Rock",
       "url": "https://open.spotify.com/track/5QegaMGMY7mORFEBngkFxy"
+    },
+    {
+      "album": {
+        "name": "White Trash, Two Heebs and a Bean",
+        "url": "https://open.spotify.com/album/5dbWoqjHDExyrEJD9ftnay"
+      },
+      "artists": [
+        {
+          "name": "NOFX",
+          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
+        }
+      ],
+      "date_added": "2022-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176666,
+      "name": "She's Gone",
+      "url": "https://open.spotify.com/track/4UorLuTcNNjQ67w8rFF3V8"
     },
     {
       "album": {
@@ -1085,7 +1121,7 @@
       ],
       "date_added": "2022-09-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-23",
+      "date_removed": "2022-10-06",
       "duration_ms": 123506,
       "name": "We Got Two Jealous Agains",
       "url": "https://open.spotify.com/track/2tahr8bIxTlu2jpO8kj8Gi"
@@ -1139,7 +1175,7 @@
       ],
       "date_added": "2022-09-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-29",
+      "date_removed": "2022-10-09",
       "duration_ms": 132133,
       "name": "You're Bleeding",
       "url": "https://open.spotify.com/track/6hcda71AReBXmBC2iqyFCB"

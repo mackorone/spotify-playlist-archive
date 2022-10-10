@@ -1,12 +1,12 @@
 {
   "description": "A collision of punk, metal, hardcore and everything in between. Cover: Drug Church",
-  "num_followers": 430582,
+  "num_followers": 438602,
   "original_name": "Crash Course",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NzgwOTE0NCwwMDAwMDAwMDg4OTQ0ZmQ3ZmMyN2JlNTc1NGMzNDlhOTRlYTY5YzUx",
+  "snapshot_id": "MTY2NDcxMTUxNCwwMDAwMDAwMDU3ODhiNDMxNmI1YWNmYjE0ZmYyZGZiNWVmZGM1ZWY3",
   "tracks": [
     {
       "added_at": "2022-04-01 16:19:20",
@@ -143,22 +143,18 @@
     {
       "added_at": "2022-04-01 16:19:20",
       "album": {
-        "name": "Brand New Vision",
-        "url": "https://open.spotify.com/album/33c3LDySpfYMOEwfu1eUU1"
+        "name": "Ghost in My Home",
+        "url": "https://open.spotify.com/album/1gfShNUI5uB4qR2MRQJIGu"
       },
       "artists": [
         {
           "name": "Point North",
           "url": "https://open.spotify.com/artist/5Vp7LqcfAtx2U1RfIX8i7r"
-        },
-        {
-          "name": "Kellin Quinn",
-          "url": "https://open.spotify.com/artist/3M9XAM57a4qFz3v6Lq27t2"
         }
       ],
-      "duration_ms": 198000,
-      "name": "Into The Dark (feat. Kellin Quinn)",
-      "url": "https://open.spotify.com/track/7qCzenL7S1onPt6QdRsDsd"
+      "duration_ms": 200189,
+      "name": "Ghost in My Home",
+      "url": "https://open.spotify.com/track/0bjwkqQ0lZSIes3IW7Aeq8"
     },
     {
       "added_at": "2022-04-01 16:19:20",
@@ -227,6 +223,26 @@
     {
       "added_at": "2022-04-01 16:19:20",
       "album": {
+        "name": "Brand New Vision",
+        "url": "https://open.spotify.com/album/33c3LDySpfYMOEwfu1eUU1"
+      },
+      "artists": [
+        {
+          "name": "Point North",
+          "url": "https://open.spotify.com/artist/5Vp7LqcfAtx2U1RfIX8i7r"
+        },
+        {
+          "name": "Kellin Quinn",
+          "url": "https://open.spotify.com/artist/3M9XAM57a4qFz3v6Lq27t2"
+        }
+      ],
+      "duration_ms": 198000,
+      "name": "Into The Dark (feat. Kellin Quinn)",
+      "url": "https://open.spotify.com/track/7qCzenL7S1onPt6QdRsDsd"
+    },
+    {
+      "added_at": "2022-04-01 16:19:20",
+      "album": {
         "name": "Like A House On Fire",
         "url": "https://open.spotify.com/album/5VKKXDvYuJmRc2UQHCwNQK"
       },
@@ -271,38 +287,6 @@
       "duration_ms": 216571,
       "name": "Out For Blood",
       "url": "https://open.spotify.com/track/30XUVaCG8ghAiE45SnXLhn"
-    },
-    {
-      "added_at": "2022-04-01 16:19:20",
-      "album": {
-        "name": "Ghost in My Home",
-        "url": "https://open.spotify.com/album/1gfShNUI5uB4qR2MRQJIGu"
-      },
-      "artists": [
-        {
-          "name": "Point North",
-          "url": "https://open.spotify.com/artist/5Vp7LqcfAtx2U1RfIX8i7r"
-        }
-      ],
-      "duration_ms": 200189,
-      "name": "Ghost in My Home",
-      "url": "https://open.spotify.com/track/0bjwkqQ0lZSIes3IW7Aeq8"
-    },
-    {
-      "added_at": "2022-04-01 16:19:20",
-      "album": {
-        "name": "Long Time, No Sea (Expanded Edition)",
-        "url": "https://open.spotify.com/album/7LgruFgKT9Vg00mymfEyf7"
-      },
-      "artists": [
-        {
-          "name": "Attack Attack!",
-          "url": "https://open.spotify.com/artist/1FcRUsTmnEQfVCH5OIKSpb"
-        }
-      ],
-      "duration_ms": 184285,
-      "name": "All My Life",
-      "url": "https://open.spotify.com/track/60ICDcC995UF0nu85r75qV"
     },
     {
       "added_at": "2022-04-01 16:19:20",
@@ -355,6 +339,22 @@
     {
       "added_at": "2022-04-01 16:19:20",
       "album": {
+        "name": "Long Time, No Sea (Expanded Edition)",
+        "url": "https://open.spotify.com/album/7LgruFgKT9Vg00mymfEyf7"
+      },
+      "artists": [
+        {
+          "name": "Attack Attack!",
+          "url": "https://open.spotify.com/artist/1FcRUsTmnEQfVCH5OIKSpb"
+        }
+      ],
+      "duration_ms": 184285,
+      "name": "All My Life",
+      "url": "https://open.spotify.com/track/60ICDcC995UF0nu85r75qV"
+    },
+    {
+      "added_at": "2022-04-01 16:19:20",
+      "album": {
         "name": "How It Feels to Be Lost",
         "url": "https://open.spotify.com/album/19BZXyyyJmxcCys5VDFOOB"
       },
@@ -367,6 +367,22 @@
       "duration_ms": 198248,
       "name": "Leave It All Behind",
       "url": "https://open.spotify.com/track/5J1tThACf3JLPc3cC1neEH"
+    },
+    {
+      "added_at": "2022-04-01 16:19:20",
+      "album": {
+        "name": "Artificial Selection",
+        "url": "https://open.spotify.com/album/6rBnEJJUih41OU4AemGs4y"
+      },
+      "artists": [
+        {
+          "name": "Dance Gavin Dance",
+          "url": "https://open.spotify.com/artist/6guC9FqvlVboSKTI77NG2k"
+        }
+      ],
+      "duration_ms": 238984,
+      "name": "Son of Robot",
+      "url": "https://open.spotify.com/track/3ZH8mv5AfnCUY7pxbO52uu"
     },
     {
       "added_at": "2022-04-01 16:19:20",
@@ -391,38 +407,6 @@
     {
       "added_at": "2022-04-01 16:19:20",
       "album": {
-        "name": "Like A Villain",
-        "url": "https://open.spotify.com/album/0MarSikaOlnWAKSfpDaC1g"
-      },
-      "artists": [
-        {
-          "name": "Bad Omens",
-          "url": "https://open.spotify.com/artist/3Ri4H12KFyu98LMjSoij5V"
-        }
-      ],
-      "duration_ms": 210685,
-      "name": "Like A Villain",
-      "url": "https://open.spotify.com/track/2yAfzkn1JFekLsqVDDualq"
-    },
-    {
-      "added_at": "2022-04-01 16:19:20",
-      "album": {
-        "name": "Artificial Selection",
-        "url": "https://open.spotify.com/album/6rBnEJJUih41OU4AemGs4y"
-      },
-      "artists": [
-        {
-          "name": "Dance Gavin Dance",
-          "url": "https://open.spotify.com/artist/6guC9FqvlVboSKTI77NG2k"
-        }
-      ],
-      "duration_ms": 238984,
-      "name": "Son of Robot",
-      "url": "https://open.spotify.com/track/3ZH8mv5AfnCUY7pxbO52uu"
-    },
-    {
-      "added_at": "2022-04-01 16:19:20",
-      "album": {
         "name": "DISCO4 :: PART II",
         "url": "https://open.spotify.com/album/4pk3IXbfaU0cK7oHuEdbEJ"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 326771,
       "name": "COLD BLOOD",
       "url": "https://open.spotify.com/track/50iNloLV9uEyEvVzuwl6kz"
+    },
+    {
+      "added_at": "2022-04-01 16:19:20",
+      "album": {
+        "name": "Like A Villain",
+        "url": "https://open.spotify.com/album/0MarSikaOlnWAKSfpDaC1g"
+      },
+      "artists": [
+        {
+          "name": "Bad Omens",
+          "url": "https://open.spotify.com/artist/3Ri4H12KFyu98LMjSoij5V"
+        }
+      ],
+      "duration_ms": 210685,
+      "name": "Like A Villain",
+      "url": "https://open.spotify.com/track/2yAfzkn1JFekLsqVDDualq"
     },
     {
       "added_at": "2022-04-01 16:19:20",
@@ -475,6 +475,22 @@
     {
       "added_at": "2022-04-01 16:19:20",
       "album": {
+        "name": "Misery",
+        "url": "https://open.spotify.com/album/5AtTKLErRJPLZAOfPabe7m"
+      },
+      "artists": [
+        {
+          "name": "The Amity Affliction",
+          "url": "https://open.spotify.com/artist/6kNKUYGn6VNGsRoXmyoDPK"
+        }
+      ],
+      "duration_ms": 214493,
+      "name": "Ivy (Doomsday)",
+      "url": "https://open.spotify.com/track/2Ll0eOXFmIeBlcybOSaQJm"
+    },
+    {
+      "added_at": "2022-04-01 16:19:20",
+      "album": {
         "name": "Do You Feel O.K?",
         "url": "https://open.spotify.com/album/1CWHxErIR0tuKkVf6rZt4X"
       },
@@ -507,22 +523,6 @@
     {
       "added_at": "2022-04-01 16:19:20",
       "album": {
-        "name": "Misery",
-        "url": "https://open.spotify.com/album/5AtTKLErRJPLZAOfPabe7m"
-      },
-      "artists": [
-        {
-          "name": "The Amity Affliction",
-          "url": "https://open.spotify.com/artist/6kNKUYGn6VNGsRoXmyoDPK"
-        }
-      ],
-      "duration_ms": 214493,
-      "name": "Ivy (Doomsday)",
-      "url": "https://open.spotify.com/track/2Ll0eOXFmIeBlcybOSaQJm"
-    },
-    {
-      "added_at": "2022-04-01 16:19:20",
-      "album": {
         "name": "Degenerates",
         "url": "https://open.spotify.com/album/3G3EHIjrfZAcy6w5zIOggZ"
       },
@@ -551,22 +551,6 @@
       "duration_ms": 196464,
       "name": "Down To Hell",
       "url": "https://open.spotify.com/track/3qKSl5qLMN1iBkUMmu32yX"
-    },
-    {
-      "added_at": "2022-04-01 16:19:20",
-      "album": {
-        "name": "Restless Heart, Keep Running",
-        "url": "https://open.spotify.com/album/6pvjitW060jLuW2TCLreMJ"
-      },
-      "artists": [
-        {
-          "name": "Capstan",
-          "url": "https://open.spotify.com/artist/3cb9CRWtkBQNjVLQNLP9FE"
-        }
-      ],
-      "duration_ms": 207106,
-      "name": "Stars Before The Sun",
-      "url": "https://open.spotify.com/track/3tTtwKs8ZlE9fbSdMla9EM"
     },
     {
       "added_at": "2022-04-01 16:19:20",
@@ -619,18 +603,18 @@
     {
       "added_at": "2022-04-01 16:19:20",
       "album": {
-        "name": "Losing Control",
-        "url": "https://open.spotify.com/album/6ANgmUwBRAm45qW9yrhRQP"
+        "name": "Restless Heart, Keep Running",
+        "url": "https://open.spotify.com/album/6pvjitW060jLuW2TCLreMJ"
       },
       "artists": [
         {
-          "name": "Villain of the Story",
-          "url": "https://open.spotify.com/artist/28XopU8Uw6D6Wl7rIgCVNE"
+          "name": "Capstan",
+          "url": "https://open.spotify.com/artist/3cb9CRWtkBQNjVLQNLP9FE"
         }
       ],
-      "duration_ms": 208920,
-      "name": "Losing Control",
-      "url": "https://open.spotify.com/track/2PjFzTXf8StVOYm25uWvW4"
+      "duration_ms": 207106,
+      "name": "Stars Before The Sun",
+      "url": "https://open.spotify.com/track/3tTtwKs8ZlE9fbSdMla9EM"
     },
     {
       "added_at": "2022-04-01 16:19:20",
@@ -651,22 +635,6 @@
     {
       "added_at": "2022-04-01 16:19:20",
       "album": {
-        "name": "Afterburner",
-        "url": "https://open.spotify.com/album/7MfryRchXoNRwG5YbbDL1S"
-      },
-      "artists": [
-        {
-          "name": "Dance Gavin Dance",
-          "url": "https://open.spotify.com/artist/6guC9FqvlVboSKTI77NG2k"
-        }
-      ],
-      "duration_ms": 221241,
-      "name": "One in a Million",
-      "url": "https://open.spotify.com/track/4MpXaXYhkGMw4gt3ZlS7sQ"
-    },
-    {
-      "added_at": "2022-04-01 16:19:20",
-      "album": {
         "name": "Beautiful Death",
         "url": "https://open.spotify.com/album/5ApcJSkkS6Xh3ylQNRDNyE"
       },
@@ -683,18 +651,18 @@
     {
       "added_at": "2022-04-01 16:19:20",
       "album": {
-        "name": "Smoke Signals",
-        "url": "https://open.spotify.com/album/6LlnpYow87yXNdi9TtTUiv"
+        "name": "Losing Control",
+        "url": "https://open.spotify.com/album/6ANgmUwBRAm45qW9yrhRQP"
       },
       "artists": [
         {
-          "name": "Novelists FR",
-          "url": "https://open.spotify.com/artist/6o8sDniHcZPM1SixvjKiYS"
+          "name": "Villain of the Story",
+          "url": "https://open.spotify.com/artist/28XopU8Uw6D6Wl7rIgCVNE"
         }
       ],
-      "duration_ms": 214057,
-      "name": "Smoke Signals",
-      "url": "https://open.spotify.com/track/63cTVY6A0yeJ0DsjXBwYVH"
+      "duration_ms": 208920,
+      "name": "Losing Control",
+      "url": "https://open.spotify.com/track/2PjFzTXf8StVOYm25uWvW4"
     },
     {
       "added_at": "2022-04-01 16:19:20",
@@ -715,18 +683,18 @@
     {
       "added_at": "2022-04-01 16:19:20",
       "album": {
-        "name": "Finding God Before God Finds Me (Deluxe)",
-        "url": "https://open.spotify.com/album/0fPsaPPbXurVDqFC2qE0Bo"
+        "name": "Afterburner",
+        "url": "https://open.spotify.com/album/7MfryRchXoNRwG5YbbDL1S"
       },
       "artists": [
         {
-          "name": "Bad Omens",
-          "url": "https://open.spotify.com/artist/3Ri4H12KFyu98LMjSoij5V"
+          "name": "Dance Gavin Dance",
+          "url": "https://open.spotify.com/artist/6guC9FqvlVboSKTI77NG2k"
         }
       ],
-      "duration_ms": 261398,
-      "name": "Come Undone",
-      "url": "https://open.spotify.com/track/4VawjkyqRKLCAj9BwMPyal"
+      "duration_ms": 221241,
+      "name": "One in a Million",
+      "url": "https://open.spotify.com/track/4MpXaXYhkGMw4gt3ZlS7sQ"
     },
     {
       "added_at": "2022-04-01 16:19:20",
@@ -767,34 +735,18 @@
     {
       "added_at": "2022-04-01 16:19:20",
       "album": {
-        "name": "Barely Alive",
-        "url": "https://open.spotify.com/album/5v20HSKutO3pCMlPwFMI8W"
+        "name": "Finding God Before God Finds Me (Deluxe)",
+        "url": "https://open.spotify.com/album/0fPsaPPbXurVDqFC2qE0Bo"
       },
       "artists": [
         {
-          "name": "Savage Hands",
-          "url": "https://open.spotify.com/artist/3z1C31NkSQPWEFGkXCp3zx"
+          "name": "Bad Omens",
+          "url": "https://open.spotify.com/artist/3Ri4H12KFyu98LMjSoij5V"
         }
       ],
-      "duration_ms": 213934,
-      "name": "Red",
-      "url": "https://open.spotify.com/track/7g34QqbvMeyDuzf5IRd1PS"
-    },
-    {
-      "added_at": "2022-04-01 16:19:20",
-      "album": {
-        "name": "Bad Idea",
-        "url": "https://open.spotify.com/album/3bSDSG9KxAS9zZq9UzJi7K"
-      },
-      "artists": [
-        {
-          "name": "Blind Channel",
-          "url": "https://open.spotify.com/artist/3L58J6a7f0jyy2p6f3MSAs"
-        }
-      ],
-      "duration_ms": 192504,
-      "name": "Bad Idea",
-      "url": "https://open.spotify.com/track/6IzFw4xL5deADLM0NDkljV"
+      "duration_ms": 261398,
+      "name": "Come Undone",
+      "url": "https://open.spotify.com/track/4VawjkyqRKLCAj9BwMPyal"
     },
     {
       "added_at": "2022-04-01 16:19:20",
@@ -815,6 +767,22 @@
     {
       "added_at": "2022-04-01 16:19:20",
       "album": {
+        "name": "Bad Idea",
+        "url": "https://open.spotify.com/album/3bSDSG9KxAS9zZq9UzJi7K"
+      },
+      "artists": [
+        {
+          "name": "Blind Channel",
+          "url": "https://open.spotify.com/artist/3L58J6a7f0jyy2p6f3MSAs"
+        }
+      ],
+      "duration_ms": 192504,
+      "name": "Bad Idea",
+      "url": "https://open.spotify.com/track/6IzFw4xL5deADLM0NDkljV"
+    },
+    {
+      "added_at": "2022-04-01 16:19:20",
+      "album": {
         "name": "Pray",
         "url": "https://open.spotify.com/album/5Icvhj9ZzhnOkgrkhb67a1"
       },
@@ -831,18 +799,50 @@
     {
       "added_at": "2022-04-01 16:19:20",
       "album": {
-        "name": "My Descend",
-        "url": "https://open.spotify.com/album/55bPotsZFpNo5Oim20cuh6"
+        "name": "It's Over",
+        "url": "https://open.spotify.com/album/1yA0gGywa2o2KnHnvLUMq9"
       },
       "artists": [
         {
-          "name": "Glass Tides",
-          "url": "https://open.spotify.com/artist/3ss8CCHIds5hKnQ9un3dU0"
+          "name": "Silverstein",
+          "url": "https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug"
         }
       ],
-      "duration_ms": 212000,
-      "name": "Empty Thoughts",
-      "url": "https://open.spotify.com/track/7fsSWnDC5MIaBqklTIXS2W"
+      "duration_ms": 203800,
+      "name": "It's Over",
+      "url": "https://open.spotify.com/track/1pShlPEW4nhGQeomZLCXtL"
+    },
+    {
+      "added_at": "2022-04-01 16:19:20",
+      "album": {
+        "name": "Smoke Signals",
+        "url": "https://open.spotify.com/album/6LlnpYow87yXNdi9TtTUiv"
+      },
+      "artists": [
+        {
+          "name": "Novelists FR",
+          "url": "https://open.spotify.com/artist/6o8sDniHcZPM1SixvjKiYS"
+        }
+      ],
+      "duration_ms": 214057,
+      "name": "Smoke Signals",
+      "url": "https://open.spotify.com/track/63cTVY6A0yeJ0DsjXBwYVH"
+    },
+    {
+      "added_at": "2022-04-01 16:19:20",
+      "album": {
+        "name": "Barely Alive",
+        "url": "https://open.spotify.com/album/5v20HSKutO3pCMlPwFMI8W"
+      },
+      "artists": [
+        {
+          "name": "Savage Hands",
+          "url": "https://open.spotify.com/artist/3z1C31NkSQPWEFGkXCp3zx"
+        }
+      ],
+      "duration_ms": 213934,
+      "name": "Red",
+      "url": "https://open.spotify.com/track/7g34QqbvMeyDuzf5IRd1PS"
     },
     {
       "added_at": "2022-04-01 16:19:20",
@@ -863,50 +863,34 @@
     {
       "added_at": "2022-04-01 16:19:20",
       "album": {
-        "name": "How It Feels to Be Lost (Deluxe)",
-        "url": "https://open.spotify.com/album/3bd1MdHvtWscI301qFWQlH"
+        "name": "The World Is In Your Way (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/46U6TW57g10lUujKjyzZiG"
       },
       "artists": [
         {
-          "name": "Sleeping With Sirens",
-          "url": "https://open.spotify.com/artist/3N8Hy6xQnQv1F1XCiyGQqA"
+          "name": "Dragged Under",
+          "url": "https://open.spotify.com/artist/3D1uNqaasEWzallSxKo1cH"
         }
       ],
-      "duration_ms": 190783,
-      "name": "Talking to Myself",
-      "url": "https://open.spotify.com/track/0sSaGJ6KOJC6MR3yFTq5J8"
+      "duration_ms": 229896,
+      "name": "Hypochondria",
+      "url": "https://open.spotify.com/track/0Ta1d0OUwjTANXIu0gz8a9"
     },
     {
       "added_at": "2022-04-01 16:19:20",
       "album": {
-        "name": "Devastation",
-        "url": "https://open.spotify.com/album/770QyevFqrQduuJDRPtVHU"
+        "name": "My Descend",
+        "url": "https://open.spotify.com/album/55bPotsZFpNo5Oim20cuh6"
       },
       "artists": [
         {
-          "name": "Beartooth",
-          "url": "https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL"
+          "name": "Glass Tides",
+          "url": "https://open.spotify.com/artist/3ss8CCHIds5hKnQ9un3dU0"
         }
       ],
-      "duration_ms": 221748,
-      "name": "Devastation",
-      "url": "https://open.spotify.com/track/7JlMigJUTnVlmXODusrtdF"
-    },
-    {
-      "added_at": "2022-04-01 16:19:20",
-      "album": {
-        "name": "It's Over",
-        "url": "https://open.spotify.com/album/1yA0gGywa2o2KnHnvLUMq9"
-      },
-      "artists": [
-        {
-          "name": "Silverstein",
-          "url": "https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug"
-        }
-      ],
-      "duration_ms": 203800,
-      "name": "It's Over",
-      "url": "https://open.spotify.com/track/1pShlPEW4nhGQeomZLCXtL"
+      "duration_ms": 212000,
+      "name": "Empty Thoughts",
+      "url": "https://open.spotify.com/track/7fsSWnDC5MIaBqklTIXS2W"
     },
     {
       "added_at": "2022-04-01 16:19:20",
@@ -931,38 +915,6 @@
     {
       "added_at": "2022-04-01 16:19:20",
       "album": {
-        "name": "wet milk",
-        "url": "https://open.spotify.com/album/63Tn8e7etpMuOX8h8ZChGI"
-      },
-      "artists": [
-        {
-          "name": "Bilmuri",
-          "url": "https://open.spotify.com/artist/5Rc75vGFBWZPgL7EXb4k89"
-        }
-      ],
-      "duration_ms": 136666,
-      "name": "myfeelingshavefeelings",
-      "url": "https://open.spotify.com/track/5gBQmRUJa29eBwgLMF4wTP"
-    },
-    {
-      "added_at": "2022-04-01 16:19:20",
-      "album": {
-        "name": "The World Is In Your Way (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/46U6TW57g10lUujKjyzZiG"
-      },
-      "artists": [
-        {
-          "name": "Dragged Under",
-          "url": "https://open.spotify.com/artist/3D1uNqaasEWzallSxKo1cH"
-        }
-      ],
-      "duration_ms": 229896,
-      "name": "Hypochondria",
-      "url": "https://open.spotify.com/track/0Ta1d0OUwjTANXIu0gz8a9"
-    },
-    {
-      "added_at": "2022-04-01 16:19:20",
-      "album": {
         "name": "Ghost Like You",
         "url": "https://open.spotify.com/album/2BJl3YUJVddxRRmzGXXTvj"
       },
@@ -975,6 +927,38 @@
       "duration_ms": 268727,
       "name": "Signs",
       "url": "https://open.spotify.com/track/1oQqeOUBp5MfObeodk2IbP"
+    },
+    {
+      "added_at": "2022-04-01 16:19:20",
+      "album": {
+        "name": "Devastation",
+        "url": "https://open.spotify.com/album/770QyevFqrQduuJDRPtVHU"
+      },
+      "artists": [
+        {
+          "name": "Beartooth",
+          "url": "https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL"
+        }
+      ],
+      "duration_ms": 221748,
+      "name": "Devastation",
+      "url": "https://open.spotify.com/track/7JlMigJUTnVlmXODusrtdF"
+    },
+    {
+      "added_at": "2022-04-01 16:19:20",
+      "album": {
+        "name": "wet milk",
+        "url": "https://open.spotify.com/album/63Tn8e7etpMuOX8h8ZChGI"
+      },
+      "artists": [
+        {
+          "name": "Bilmuri",
+          "url": "https://open.spotify.com/artist/5Rc75vGFBWZPgL7EXb4k89"
+        }
+      ],
+      "duration_ms": 136666,
+      "name": "myfeelingshavefeelings",
+      "url": "https://open.spotify.com/track/5gBQmRUJa29eBwgLMF4wTP"
     },
     {
       "added_at": "2022-04-01 16:19:20",
@@ -995,38 +979,6 @@
     {
       "added_at": "2022-04-01 16:19:20",
       "album": {
-        "name": "The Lost Boys",
-        "url": "https://open.spotify.com/album/5SAwCFrq2Is2UWzfXwjBlL"
-      },
-      "artists": [
-        {
-          "name": "Wind Walkers",
-          "url": "https://open.spotify.com/artist/2K2bsaNeuQAFkuVwrrlJe0"
-        }
-      ],
-      "duration_ms": 211125,
-      "name": "New England Palm Trees",
-      "url": "https://open.spotify.com/track/7sxEeJ4ers4gOZ1W3YEnPP"
-    },
-    {
-      "added_at": "2022-04-01 16:19:20",
-      "album": {
-        "name": "Restless Heart, Keep Running",
-        "url": "https://open.spotify.com/album/6pvjitW060jLuW2TCLreMJ"
-      },
-      "artists": [
-        {
-          "name": "Capstan",
-          "url": "https://open.spotify.com/artist/3cb9CRWtkBQNjVLQNLP9FE"
-        }
-      ],
-      "duration_ms": 227573,
-      "name": "We\u2019ll Always Have Paris",
-      "url": "https://open.spotify.com/track/7vzYqUrCAoWmkFdJrhCzMg"
-    },
-    {
-      "added_at": "2022-04-01 16:19:20",
-      "album": {
         "name": "Order In Decline",
         "url": "https://open.spotify.com/album/7j11BWRSLFBFUVR4EPG6WD"
       },
@@ -1039,6 +991,22 @@
       "duration_ms": 198358,
       "name": "A Death In The Family",
       "url": "https://open.spotify.com/track/27zeUYNVuXG5kXlPvS2Wod"
+    },
+    {
+      "added_at": "2022-04-01 16:19:20",
+      "album": {
+        "name": "The Lost Boys",
+        "url": "https://open.spotify.com/album/5SAwCFrq2Is2UWzfXwjBlL"
+      },
+      "artists": [
+        {
+          "name": "Wind Walkers",
+          "url": "https://open.spotify.com/artist/2K2bsaNeuQAFkuVwrrlJe0"
+        }
+      ],
+      "duration_ms": 211125,
+      "name": "New England Palm Trees",
+      "url": "https://open.spotify.com/track/7sxEeJ4ers4gOZ1W3YEnPP"
     },
     {
       "added_at": "2022-04-01 16:19:20",
@@ -1059,6 +1027,22 @@
     {
       "added_at": "2022-04-01 16:19:20",
       "album": {
+        "name": "Restless Heart, Keep Running",
+        "url": "https://open.spotify.com/album/6pvjitW060jLuW2TCLreMJ"
+      },
+      "artists": [
+        {
+          "name": "Capstan",
+          "url": "https://open.spotify.com/artist/3cb9CRWtkBQNjVLQNLP9FE"
+        }
+      ],
+      "duration_ms": 227573,
+      "name": "We\u2019ll Always Have Paris",
+      "url": "https://open.spotify.com/track/7vzYqUrCAoWmkFdJrhCzMg"
+    },
+    {
+      "added_at": "2022-04-01 16:19:20",
+      "album": {
         "name": "Night Terrors",
         "url": "https://open.spotify.com/album/4hAHQH6gtwj1eEN49xhpe5"
       },
@@ -1071,70 +1055,6 @@
       "duration_ms": 213144,
       "name": "Drop Dead",
       "url": "https://open.spotify.com/track/1tUcwqSoPi1b9xDxietEjy"
-    },
-    {
-      "added_at": "2022-04-01 16:19:20",
-      "album": {
-        "name": "New Age Filth",
-        "url": "https://open.spotify.com/album/5DGfTPWaXmfdiwlUOBzZdh"
-      },
-      "artists": [
-        {
-          "name": "Hail The Sun",
-          "url": "https://open.spotify.com/artist/0XblvrTo6mnHOxWIP1t5T6"
-        }
-      ],
-      "duration_ms": 264646,
-      "name": "Domino",
-      "url": "https://open.spotify.com/track/6rYBRpj2tKN3pTnrugVuZF"
-    },
-    {
-      "added_at": "2022-04-01 16:19:20",
-      "album": {
-        "name": "Damned Soul",
-        "url": "https://open.spotify.com/album/29VUzmhLK0zvxyKCPU6AUe"
-      },
-      "artists": [
-        {
-          "name": "Rivals",
-          "url": "https://open.spotify.com/artist/5YKh4YDHFhZd987g6rn3oR"
-        }
-      ],
-      "duration_ms": 217146,
-      "name": "Moonlit",
-      "url": "https://open.spotify.com/track/41pMAwF1Z0Z7OhxGfPMDwb"
-    },
-    {
-      "added_at": "2022-04-01 16:19:20",
-      "album": {
-        "name": "To Better Days",
-        "url": "https://open.spotify.com/album/0R8nkP9bWyoCi6NuetVq5p"
-      },
-      "artists": [
-        {
-          "name": "Rain City Drive",
-          "url": "https://open.spotify.com/artist/4rMxZovfLSDjEL9eI2pKo7"
-        }
-      ],
-      "duration_ms": 196427,
-      "name": "Bury a Lie",
-      "url": "https://open.spotify.com/track/1RNS0ntWy01bZpPkrjJAyt"
-    },
-    {
-      "added_at": "2022-04-01 16:19:20",
-      "album": {
-        "name": "Before I Cave In",
-        "url": "https://open.spotify.com/album/3NyafgxbBgTtR4nOSRelDr"
-      },
-      "artists": [
-        {
-          "name": "Too Close To Touch",
-          "url": "https://open.spotify.com/artist/2XziUthG3Ug3eiWuE5KRsp"
-        }
-      ],
-      "duration_ms": 260826,
-      "name": "Before I Cave In",
-      "url": "https://open.spotify.com/track/6PB07jO0s8JMyAaQk8CH7q"
     },
     {
       "added_at": "2022-04-01 16:19:20",
@@ -1155,34 +1075,66 @@
     {
       "added_at": "2022-04-01 16:19:20",
       "album": {
-        "name": "The Truth in Your Eyes",
-        "url": "https://open.spotify.com/album/5oybwxacDqLiTEkSyILpNm"
+        "name": "New Age Filth",
+        "url": "https://open.spotify.com/album/5DGfTPWaXmfdiwlUOBzZdh"
       },
       "artists": [
         {
-          "name": "Savage Hands",
-          "url": "https://open.spotify.com/artist/3z1C31NkSQPWEFGkXCp3zx"
+          "name": "Hail The Sun",
+          "url": "https://open.spotify.com/artist/0XblvrTo6mnHOxWIP1t5T6"
         }
       ],
-      "duration_ms": 227622,
-      "name": "Blue",
-      "url": "https://open.spotify.com/track/2BJ0Mc3zhb4tmcERvbXKTw"
+      "duration_ms": 264646,
+      "name": "Domino",
+      "url": "https://open.spotify.com/track/6rYBRpj2tKN3pTnrugVuZF"
     },
     {
       "added_at": "2022-04-01 16:19:20",
       "album": {
-        "name": "Distance",
-        "url": "https://open.spotify.com/album/5SyXDNKtQTzNiJ2aDQBPKA"
+        "name": "To Better Days",
+        "url": "https://open.spotify.com/album/0R8nkP9bWyoCi6NuetVq5p"
       },
       "artists": [
         {
-          "name": "Boys of Fall",
-          "url": "https://open.spotify.com/artist/0ILEjQuglCTYQkTrKGQvj5"
+          "name": "Rain City Drive",
+          "url": "https://open.spotify.com/artist/4rMxZovfLSDjEL9eI2pKo7"
         }
       ],
-      "duration_ms": 179600,
-      "name": "Distance",
-      "url": "https://open.spotify.com/track/0wb8L0gFCKBnPHeG8Aw9OX"
+      "duration_ms": 196427,
+      "name": "Bury a Lie",
+      "url": "https://open.spotify.com/track/1RNS0ntWy01bZpPkrjJAyt"
+    },
+    {
+      "added_at": "2022-04-01 16:19:20",
+      "album": {
+        "name": "Damned Soul",
+        "url": "https://open.spotify.com/album/29VUzmhLK0zvxyKCPU6AUe"
+      },
+      "artists": [
+        {
+          "name": "Rivals",
+          "url": "https://open.spotify.com/artist/5YKh4YDHFhZd987g6rn3oR"
+        }
+      ],
+      "duration_ms": 217146,
+      "name": "Moonlit",
+      "url": "https://open.spotify.com/track/41pMAwF1Z0Z7OhxGfPMDwb"
+    },
+    {
+      "added_at": "2022-04-01 16:19:20",
+      "album": {
+        "name": "Before I Cave In",
+        "url": "https://open.spotify.com/album/3NyafgxbBgTtR4nOSRelDr"
+      },
+      "artists": [
+        {
+          "name": "Too Close To Touch",
+          "url": "https://open.spotify.com/artist/2XziUthG3Ug3eiWuE5KRsp"
+        }
+      ],
+      "duration_ms": 260826,
+      "name": "Before I Cave In",
+      "url": "https://open.spotify.com/track/6PB07jO0s8JMyAaQk8CH7q"
     },
     {
       "added_at": "2022-04-25 13:33:10",
@@ -1199,6 +1151,22 @@
       "duration_ms": 150143,
       "name": "Wicked & Bad",
       "url": "https://open.spotify.com/track/5TIFTm6spva9cGIeJujqee"
+    },
+    {
+      "added_at": "2022-04-01 16:19:20",
+      "album": {
+        "name": "The Truth in Your Eyes",
+        "url": "https://open.spotify.com/album/5oybwxacDqLiTEkSyILpNm"
+      },
+      "artists": [
+        {
+          "name": "Savage Hands",
+          "url": "https://open.spotify.com/artist/3z1C31NkSQPWEFGkXCp3zx"
+        }
+      ],
+      "duration_ms": 227622,
+      "name": "Blue",
+      "url": "https://open.spotify.com/track/2BJ0Mc3zhb4tmcERvbXKTw"
     },
     {
       "added_at": "2022-04-01 16:19:20",
@@ -1223,6 +1191,22 @@
       "duration_ms": 236793,
       "name": "Closer to Comfort",
       "url": "https://open.spotify.com/track/1KLmiSyLPgqc13H4gTBdoU"
+    },
+    {
+      "added_at": "2022-04-01 16:19:20",
+      "album": {
+        "name": "Distance",
+        "url": "https://open.spotify.com/album/5SyXDNKtQTzNiJ2aDQBPKA"
+      },
+      "artists": [
+        {
+          "name": "Boys of Fall",
+          "url": "https://open.spotify.com/artist/0ILEjQuglCTYQkTrKGQvj5"
+        }
+      ],
+      "duration_ms": 179600,
+      "name": "Distance",
+      "url": "https://open.spotify.com/track/0wb8L0gFCKBnPHeG8Aw9OX"
     },
     {
       "added_at": "2022-04-01 16:19:20",
@@ -1307,18 +1291,34 @@
     {
       "added_at": "2022-04-01 16:19:20",
       "album": {
-        "name": "Holding Absence",
-        "url": "https://open.spotify.com/album/6xEQWs9XbaJBGAy4Jv7piM"
+        "name": "Goodnight",
+        "url": "https://open.spotify.com/album/4RXlpjOyqLytU4JtJhB5Hk"
       },
       "artists": [
         {
-          "name": "Holding Absence",
-          "url": "https://open.spotify.com/artist/2tl280wIokrLjabzrSKTgU"
+          "name": "Lilac Kings",
+          "url": "https://open.spotify.com/artist/01pBL0us3fnmy2SHHmgYQT"
         }
       ],
-      "duration_ms": 218466,
-      "name": "Monochrome",
-      "url": "https://open.spotify.com/track/7Df5RKFErXf8Pq6e7mgJTM"
+      "duration_ms": 158444,
+      "name": "Drive Me Home",
+      "url": "https://open.spotify.com/track/36dmS2axjtjqO7MIIfx6WU"
+    },
+    {
+      "added_at": "2022-04-01 16:19:20",
+      "album": {
+        "name": "Sweet Dreams of Otherness",
+        "url": "https://open.spotify.com/album/5z9liNsv9Mnuhj7HSNWv1g"
+      },
+      "artists": [
+        {
+          "name": "Alexisonfire",
+          "url": "https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2"
+        }
+      ],
+      "duration_ms": 284093,
+      "name": "Sweet Dreams of Otherness",
+      "url": "https://open.spotify.com/track/02AtE63KsG9iYLaznzv2aM"
     },
     {
       "added_at": "2022-04-01 16:19:20",
@@ -1335,6 +1335,38 @@
       "duration_ms": 210200,
       "name": "Brick Wall",
       "url": "https://open.spotify.com/track/7wU0SnptDXFEwyQbrSiSLF"
+    },
+    {
+      "added_at": "2022-04-01 16:19:20",
+      "album": {
+        "name": "Monsters",
+        "url": "https://open.spotify.com/album/5Z38H9q6QDcTmX3jW1j0Jw"
+      },
+      "artists": [
+        {
+          "name": "Dream State",
+          "url": "https://open.spotify.com/artist/3PPxT6AXgPvvajfvP1LQtw"
+        }
+      ],
+      "duration_ms": 222836,
+      "name": "Monsters",
+      "url": "https://open.spotify.com/track/55WJq2EsJoTSvvF15Q4gCy"
+    },
+    {
+      "added_at": "2022-04-01 16:19:20",
+      "album": {
+        "name": "Holding Absence",
+        "url": "https://open.spotify.com/album/6xEQWs9XbaJBGAy4Jv7piM"
+      },
+      "artists": [
+        {
+          "name": "Holding Absence",
+          "url": "https://open.spotify.com/artist/2tl280wIokrLjabzrSKTgU"
+        }
+      ],
+      "duration_ms": 218466,
+      "name": "Monochrome",
+      "url": "https://open.spotify.com/track/7Df5RKFErXf8Pq6e7mgJTM"
     },
     {
       "added_at": "2022-04-01 16:19:20",
@@ -1359,50 +1391,18 @@
     {
       "added_at": "2022-04-01 16:19:20",
       "album": {
-        "name": "Sweet Dreams of Otherness",
-        "url": "https://open.spotify.com/album/5z9liNsv9Mnuhj7HSNWv1g"
+        "name": "Brand New Vision",
+        "url": "https://open.spotify.com/album/33c3LDySpfYMOEwfu1eUU1"
       },
       "artists": [
         {
-          "name": "Alexisonfire",
-          "url": "https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2"
+          "name": "Point North",
+          "url": "https://open.spotify.com/artist/5Vp7LqcfAtx2U1RfIX8i7r"
         }
       ],
-      "duration_ms": 284093,
-      "name": "Sweet Dreams of Otherness",
-      "url": "https://open.spotify.com/track/02AtE63KsG9iYLaznzv2aM"
-    },
-    {
-      "added_at": "2022-04-01 16:19:20",
-      "album": {
-        "name": "Monsters",
-        "url": "https://open.spotify.com/album/5Z38H9q6QDcTmX3jW1j0Jw"
-      },
-      "artists": [
-        {
-          "name": "Dream State",
-          "url": "https://open.spotify.com/artist/3PPxT6AXgPvvajfvP1LQtw"
-        }
-      ],
-      "duration_ms": 222836,
-      "name": "Monsters",
-      "url": "https://open.spotify.com/track/55WJq2EsJoTSvvF15Q4gCy"
-    },
-    {
-      "added_at": "2022-04-01 16:19:20",
-      "album": {
-        "name": "Goodnight",
-        "url": "https://open.spotify.com/album/4RXlpjOyqLytU4JtJhB5Hk"
-      },
-      "artists": [
-        {
-          "name": "Lilac Kings",
-          "url": "https://open.spotify.com/artist/01pBL0us3fnmy2SHHmgYQT"
-        }
-      ],
-      "duration_ms": 158444,
-      "name": "Drive Me Home",
-      "url": "https://open.spotify.com/track/36dmS2axjtjqO7MIIfx6WU"
+      "duration_ms": 170000,
+      "name": "No One's Listening",
+      "url": "https://open.spotify.com/track/0WWL5rECF9ILJQBwM7nCuZ"
     },
     {
       "added_at": "2022-04-01 16:19:20",
@@ -1419,22 +1419,6 @@
       "duration_ms": 219900,
       "name": "Cold",
       "url": "https://open.spotify.com/track/4tKctEHsnF6EuQUeJDq1Ip"
-    },
-    {
-      "added_at": "2022-04-01 16:19:20",
-      "album": {
-        "name": "Dirty Talk",
-        "url": "https://open.spotify.com/album/5Fo3NNuzTkmZc22sfLlERT"
-      },
-      "artists": [
-        {
-          "name": "Nicolas Rage",
-          "url": "https://open.spotify.com/artist/2zW42doVH9hhAq2RZyA7Vf"
-        }
-      ],
-      "duration_ms": 160701,
-      "name": "Dirty Talk",
-      "url": "https://open.spotify.com/track/1U4f6DJeMHNxMjyrrl4ZeO"
     },
     {
       "added_at": "2022-04-01 16:19:20",
@@ -1463,18 +1447,18 @@
     {
       "added_at": "2022-04-01 16:19:20",
       "album": {
-        "name": "Brand New Vision",
-        "url": "https://open.spotify.com/album/33c3LDySpfYMOEwfu1eUU1"
+        "name": "Dirty Talk",
+        "url": "https://open.spotify.com/album/5Fo3NNuzTkmZc22sfLlERT"
       },
       "artists": [
         {
-          "name": "Point North",
-          "url": "https://open.spotify.com/artist/5Vp7LqcfAtx2U1RfIX8i7r"
+          "name": "Nicolas Rage",
+          "url": "https://open.spotify.com/artist/2zW42doVH9hhAq2RZyA7Vf"
         }
       ],
-      "duration_ms": 170000,
-      "name": "No One's Listening",
-      "url": "https://open.spotify.com/track/0WWL5rECF9ILJQBwM7nCuZ"
+      "duration_ms": 160701,
+      "name": "Dirty Talk",
+      "url": "https://open.spotify.com/track/1U4f6DJeMHNxMjyrrl4ZeO"
     },
     {
       "added_at": "2022-04-01 16:19:20",
@@ -1495,6 +1479,38 @@
     {
       "added_at": "2022-04-01 16:19:20",
       "album": {
+        "name": "Pink Elephant",
+        "url": "https://open.spotify.com/album/7mSFPsjZjTx8K1UmtDSQPu"
+      },
+      "artists": [
+        {
+          "name": "Stand Atlantic",
+          "url": "https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh"
+        }
+      ],
+      "duration_ms": 158824,
+      "name": "Shh!",
+      "url": "https://open.spotify.com/track/410Kdc2Io4pknK9gBRCe4z"
+    },
+    {
+      "added_at": "2022-04-01 16:19:20",
+      "album": {
+        "name": "The Dead Days",
+        "url": "https://open.spotify.com/album/08M2nrcIACOFrgkjprl4Zn"
+      },
+      "artists": [
+        {
+          "name": "Get Scared",
+          "url": "https://open.spotify.com/artist/5r9uIJCoquVtEkCkvcn8Ez"
+        }
+      ],
+      "duration_ms": 212832,
+      "name": "Hell Is Where The Heart Is",
+      "url": "https://open.spotify.com/track/0O2b2DVpnhGFog8ENORm7x"
+    },
+    {
+      "added_at": "2022-04-01 16:19:20",
+      "album": {
         "name": "Voyeurist",
         "url": "https://open.spotify.com/album/6uv3nIiip5lAAG41OQIk0f"
       },
@@ -1507,6 +1523,22 @@
       "duration_ms": 157880,
       "name": "Damn Excuses",
       "url": "https://open.spotify.com/track/6baLJiU334Yq5AU0XMyzsH"
+    },
+    {
+      "added_at": "2022-04-01 16:19:20",
+      "album": {
+        "name": "Sudden Sky",
+        "url": "https://open.spotify.com/album/2L6KNKYHaXNPj4lXHSp5vb"
+      },
+      "artists": [
+        {
+          "name": "Crown The Empire",
+          "url": "https://open.spotify.com/artist/2vKiJjsgjgqIECUyYeIVvO"
+        }
+      ],
+      "duration_ms": 260769,
+      "name": "Sudden Sky",
+      "url": "https://open.spotify.com/track/0mlYrw8qQT7wnRnfJ4hxoQ"
     },
     {
       "added_at": "2022-04-01 16:19:20",
@@ -1527,22 +1559,6 @@
     {
       "added_at": "2022-04-01 16:19:20",
       "album": {
-        "name": "Pink Elephant",
-        "url": "https://open.spotify.com/album/7mSFPsjZjTx8K1UmtDSQPu"
-      },
-      "artists": [
-        {
-          "name": "Stand Atlantic",
-          "url": "https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh"
-        }
-      ],
-      "duration_ms": 158824,
-      "name": "Shh!",
-      "url": "https://open.spotify.com/track/410Kdc2Io4pknK9gBRCe4z"
-    },
-    {
-      "added_at": "2022-04-01 16:19:20",
-      "album": {
         "name": "Back Then",
         "url": "https://open.spotify.com/album/6R6wqSrVxGIG6yp3b1QTfX"
       },
@@ -1555,22 +1571,6 @@
       "duration_ms": 222937,
       "name": "Back Then",
       "url": "https://open.spotify.com/track/2dfj52tghhrk33hKJtFDx9"
-    },
-    {
-      "added_at": "2022-04-01 16:19:20",
-      "album": {
-        "name": "The Dead Days",
-        "url": "https://open.spotify.com/album/08M2nrcIACOFrgkjprl4Zn"
-      },
-      "artists": [
-        {
-          "name": "Get Scared",
-          "url": "https://open.spotify.com/artist/5r9uIJCoquVtEkCkvcn8Ez"
-        }
-      ],
-      "duration_ms": 212832,
-      "name": "Hell Is Where The Heart Is",
-      "url": "https://open.spotify.com/track/0O2b2DVpnhGFog8ENORm7x"
     },
     {
       "added_at": "2022-04-01 16:19:20",
@@ -1607,22 +1607,6 @@
     {
       "added_at": "2022-04-01 16:19:20",
       "album": {
-        "name": "Sudden Sky",
-        "url": "https://open.spotify.com/album/2L6KNKYHaXNPj4lXHSp5vb"
-      },
-      "artists": [
-        {
-          "name": "Crown The Empire",
-          "url": "https://open.spotify.com/artist/2vKiJjsgjgqIECUyYeIVvO"
-        }
-      ],
-      "duration_ms": 260769,
-      "name": "Sudden Sky",
-      "url": "https://open.spotify.com/track/0mlYrw8qQT7wnRnfJ4hxoQ"
-    },
-    {
-      "added_at": "2022-04-01 16:19:20",
-      "album": {
         "name": "Don't You Feel Amazing?",
         "url": "https://open.spotify.com/album/2pxn1lifrye1RIlrLDrzD3"
       },
@@ -1639,18 +1623,38 @@
     {
       "added_at": "2022-04-01 16:19:20",
       "album": {
-        "name": "Heavy Steps",
-        "url": "https://open.spotify.com/album/4onFuBSmTMwtS17L0U8tEm"
+        "name": "Burn It Down",
+        "url": "https://open.spotify.com/album/4CAwR5GCqpfDAHE85WsAqK"
       },
       "artists": [
         {
-          "name": "Comeback Kid",
-          "url": "https://open.spotify.com/artist/67f7GZXNMGRn98lqrtIdrN"
+          "name": "Silverstein",
+          "url": "https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug"
+        },
+        {
+          "name": "Caleb Shomo",
+          "url": "https://open.spotify.com/artist/0YbrhcmTTHZbsXyqjsGCGD"
         }
       ],
-      "duration_ms": 197213,
-      "name": "Face the Fire",
-      "url": "https://open.spotify.com/track/4kpKtTu9ZpEb5ENZD0emKH"
+      "duration_ms": 190000,
+      "name": "Burn It Down",
+      "url": "https://open.spotify.com/track/21iym8UpADqnG2p5GrzHrb"
+    },
+    {
+      "added_at": "2022-04-01 16:19:20",
+      "album": {
+        "name": "Don't Leave Me This Way",
+        "url": "https://open.spotify.com/album/4EJEijJaV4KjMc1niyqoyV"
+      },
+      "artists": [
+        {
+          "name": "Ocean Sleeper",
+          "url": "https://open.spotify.com/artist/04LbaB3D3XOMbfPnWmObAi"
+        }
+      ],
+      "duration_ms": 200858,
+      "name": "Sleep Life Away",
+      "url": "https://open.spotify.com/track/360n8IiJdbrlRelrPRsd5n"
     }
   ],
   "unique_name": "Crash Course",

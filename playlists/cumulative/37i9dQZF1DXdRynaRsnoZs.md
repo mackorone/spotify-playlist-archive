@@ -4,7 +4,7 @@
 
 > Gentle instrumental versions of holiday classics to help your little one relax when Christmas excitement is in full swing.
 
-53 songs - 2 hr 15 min - [published](https://open.spotify.com/playlist/0cma9eATlERoy7bhmBZ0M3)
+54 songs - 2 hr 16 min - [published](https://open.spotify.com/playlist/0cma9eATlERoy7bhmBZ0M3)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,8 @@
 | [Angels From The Realms Of Glory](https://open.spotify.com/track/3PTDBKq7S99lqgvFPDlnJZ) | [Eric Nordhoff](https://open.spotify.com/artist/6egf9BaYi17rYFHpsrELXd) | [Quietime In The Garden](https://open.spotify.com/album/2NdrbO9WGOrDfY9boMUt6N) | 3:46 | 2021-12-22 | 2022-07-29 |
 | [Angels From The Realms Of Glory](https://open.spotify.com/track/4xKthebrMWpRlfCdqGjfZk) | [Eric Nordhoff](https://open.spotify.com/artist/6egf9BaYi17rYFHpsrELXd) | [Quietime \- Peace On Earth](https://open.spotify.com/album/5cVsi9sRldx6HLChLxTZcz) | 3:47 | 2021-12-22 |  |
 | [Ave Maria](https://open.spotify.com/track/1igkY9A1HcPCcvq3PIMReq) | [Jonta Lei](https://open.spotify.com/artist/5bRtL6wZclxJEQiqsR9lNC) | [Religous Harp](https://open.spotify.com/album/4ThFe1arVGMNwLQTNONbWn) | 3:01 | 2021-12-22 |  |
-| [Away in a Manger](https://open.spotify.com/track/2UxcPu3rstLUhbaCT6skKN) | [J.L\. Marshall](https://open.spotify.com/artist/2hNdUwIbMMpMPG2jWfE6ZB) | [Merry Christmas \(Favorite Holiday Piano Music for a Festive Occasion\)](https://open.spotify.com/album/2HYyewW2RWQx43ZnVFFfrM) | 1:16 | 2021-12-22 |  |
+| [Away in a Manger](https://open.spotify.com/track/2UxcPu3rstLUhbaCT6skKN) | [J.L\. Marshall](https://open.spotify.com/artist/2hNdUwIbMMpMPG2jWfE6ZB) | [Merry Christmas \(Favorite Holiday Piano Music for a Festive Occasion\)](https://open.spotify.com/album/2HYyewW2RWQx43ZnVFFfrM) | 1:16 | 2021-12-22 | 2022-10-08 |
+| [Away in a Manger](https://open.spotify.com/track/3aZp9EJxHM6EPTuipC1whs) | [J.L\. Marshall](https://open.spotify.com/artist/2hNdUwIbMMpMPG2jWfE6ZB) | [Merry Christmas \(Favorite Holiday Piano Music for a Festive Occasion\)](https://open.spotify.com/album/5xRd9gJJ47uB3cXtMqw741) | 1:16 | 2022-09-22 |  |
 | [Away in a Manger](https://open.spotify.com/track/4oBbsBouyrXW33ZbGiPnlH) | [The Masked Guitarist](https://open.spotify.com/artist/60JboBXHFYFoJk6e1TrtZT) | [Away in a Manger](https://open.spotify.com/album/02EzVlaMiFQspWECiEBYLd) | 1:47 | 2021-12-22 |  |
 | [Away in a Manger](https://open.spotify.com/track/6EPQBJzVPciZVmXpQntlXa) | [The Masked Guitarist](https://open.spotify.com/artist/60JboBXHFYFoJk6e1TrtZT) | [Away in a Manger](https://open.spotify.com/album/6vrDuE2NlFHXYpLf3kV4zy) | 1:47 | 2021-12-22 | 2022-07-29 |
 | [Christ Child's Lullaby \(Instrumental Version\)](https://open.spotify.com/track/4mIDI8cbAsw2sVD4oG3vCl) | [The O'Neill Brothers Group](https://open.spotify.com/artist/0cylxW7HGdK9xMdubw2oYW) | [Christmas Sounds on Harp](https://open.spotify.com/album/4jiBc5Y3OuHOlllmKb0zb3) | 3:14 | 2021-12-22 |  |

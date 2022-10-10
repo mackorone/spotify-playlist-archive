@@ -2011,6 +2011,24 @@
     {
       "album": {
         "name": "X+ (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3M4Ispes5sMhiOTO1X5Tef"
+      },
+      "artists": [
+        {
+          "name": "Los 4",
+          "url": "https://open.spotify.com/artist/4HIOOPiZCJm2MPRU8Cs4MK"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228101,
+      "name": "Volvere Junto a Ti",
+      "url": "https://open.spotify.com/track/2OWKqDlP17Go78ykRGlvJd"
+    },
+    {
+      "album": {
+        "name": "X+ (Deluxe Edition)",
         "url": "https://open.spotify.com/album/1pFGaaejCIj06DhPW5r7H7"
       },
       "artists": [
@@ -2021,7 +2039,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-03",
       "duration_ms": 228480,
       "name": "Volvere Junto a Ti",
       "url": "https://open.spotify.com/track/00mhWSGsOidu8YVEWiwqDV"

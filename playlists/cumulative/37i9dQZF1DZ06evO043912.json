@@ -19,7 +19,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-03",
+      "date_removed": null,
       "duration_ms": 496733,
       "name": "365 Is My Number/ The Message",
       "url": "https://open.spotify.com/track/0chuxuOcL6oKVcroFT4mtR"
@@ -275,7 +275,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-22",
+      "date_removed": "2022-10-07",
       "duration_ms": 372533,
       "name": "Congratulations (Happy Birthday)",
       "url": "https://open.spotify.com/track/5ZTLO93MiuA7SDDI0ivgME"
@@ -293,7 +293,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-10",
+      "date_removed": "2022-10-07",
       "duration_ms": 238200,
       "name": "Dance Dance Dance",
       "url": "https://open.spotify.com/track/5yoFAQnNB3MzKRMYwvUxYF"
@@ -401,7 +401,7 @@
       ],
       "date_added": "2022-09-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-01",
+      "date_removed": "2022-10-08",
       "duration_ms": 93578,
       "name": "E Yi Ga",
       "url": "https://open.spotify.com/track/7hQWQu6FLh2EtCHtNY9O3M"
@@ -437,7 +437,7 @@
       ],
       "date_added": "2022-03-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-17",
+      "date_removed": "2022-10-08",
       "duration_ms": 111986,
       "name": "Ejire Ara Isokun",
       "url": "https://open.spotify.com/track/3zcN6BVYFkeiJU4epqwTr7"
@@ -527,7 +527,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-30",
+      "date_removed": "2022-10-09",
       "duration_ms": 333000,
       "name": "Enia L'Asho Mi",
       "url": "https://open.spotify.com/track/5ZLh6VSrVXwPZ3EAF0U09B"
@@ -545,7 +545,7 @@
       ],
       "date_added": "2022-08-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-02",
+      "date_removed": null,
       "duration_ms": 107963,
       "name": "Enia Se Rere",
       "url": "https://open.spotify.com/track/0AghXNy7vtEWLMayWe3jVc"
@@ -1233,7 +1233,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-02",
+      "date_removed": "2022-10-08",
       "duration_ms": 487333,
       "name": "Samba/ E Falaba Lewe",
       "url": "https://open.spotify.com/track/0bZi7uJsYdIXOtzZAeO6pr"
@@ -1330,6 +1330,28 @@
     },
     {
       "album": {
+        "name": "Sweet Banana",
+        "url": "https://open.spotify.com/album/1XtMZC0EDRmxmVEXX0q3D4"
+      },
+      "artists": [
+        {
+          "name": "King Sunny Ade",
+          "url": "https://open.spotify.com/artist/0eatcjNWvGuDEPNnjgPNn1"
+        },
+        {
+          "name": "The Golden Mecury of Africa",
+          "url": "https://open.spotify.com/artist/5CNQ36IhfJFd52Wcc6hnSl"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-09",
+      "duration_ms": 100143,
+      "name": "Sweet Banana",
+      "url": "https://open.spotify.com/track/1oQlaO55lhToPtyrTgUSMX"
+    },
+    {
+      "album": {
         "name": "Synchro System",
         "url": "https://open.spotify.com/album/3Qx12NrsAYxt4TFFTiF97I"
       },
@@ -1363,6 +1385,32 @@
       "duration_ms": 305933,
       "name": "Synchro Reprise",
       "url": "https://open.spotify.com/track/2iS2W0aNtrayBIs2bTmE35"
+    },
+    {
+      "album": {
+        "name": "Synchro System (THEMBA's Herd Mix)",
+        "url": "https://open.spotify.com/album/3TOKdWOHRvx0YgBin9w8H6"
+      },
+      "artists": [
+        {
+          "name": "THEMBA",
+          "url": "https://open.spotify.com/artist/64tzIMKX4Npx37YLcNZZNC"
+        },
+        {
+          "name": "King Sunny Ade",
+          "url": "https://open.spotify.com/artist/0eatcjNWvGuDEPNnjgPNn1"
+        },
+        {
+          "name": "His African Beats",
+          "url": "https://open.spotify.com/artist/7bih7C01Wuo5zpNTBMQXAQ"
+        }
+      ],
+      "date_added": "2022-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212256,
+      "name": "Synchro System (THEMBA's Herd Mix)",
+      "url": "https://open.spotify.com/track/04xSgQhyNYILbEhEVmJn9F"
     },
     {
       "album": {
@@ -1413,7 +1461,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-02",
+      "date_removed": "2022-10-09",
       "duration_ms": 209165,
       "name": "Tolongo",
       "url": "https://open.spotify.com/track/5qGkDqxyxViXKEZjpbdMzS"

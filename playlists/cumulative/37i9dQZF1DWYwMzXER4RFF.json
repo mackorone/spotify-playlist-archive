@@ -239,7 +239,7 @@
       ],
       "date_added": "2022-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-07",
       "duration_ms": 244877,
       "name": "Ann",
       "url": "https://open.spotify.com/track/0g2kZvRKJ2AZfUmqR6eCGZ"
@@ -293,7 +293,7 @@
       ],
       "date_added": "2022-08-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-26",
+      "date_removed": null,
       "duration_ms": 178654,
       "name": "Avoidarama",
       "url": "https://open.spotify.com/track/1nS6ebZc8rmr9l5d9NpLqJ"
@@ -1795,7 +1795,7 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-10",
       "duration_ms": 347506,
       "name": "Good morning (red)",
       "url": "https://open.spotify.com/track/5Hr3cBLE1Qe7zAw6n1iGHW"
@@ -1979,6 +1979,24 @@
       "duration_ms": 206600,
       "name": "HEY HEY",
       "url": "https://open.spotify.com/track/7FNp8GWvT5Y0fg93c0fgkG"
+    },
+    {
+      "album": {
+        "name": "creeping speedwells",
+        "url": "https://open.spotify.com/album/3IUJgohelfuoshLviTrYZC"
+      },
+      "artists": [
+        {
+          "name": "deep tan",
+          "url": "https://open.spotify.com/artist/019NHPyN9SM5PRiEWs4X8D"
+        }
+      ],
+      "date_added": "2022-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183922,
+      "name": "hollow scene",
+      "url": "https://open.spotify.com/track/2hDt5BixP1kCcIbFUXbsjz"
     },
     {
       "album": {
@@ -4617,7 +4635,7 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 235306,
       "name": "The Hype",
       "url": "https://open.spotify.com/track/0iDXZjWfvP5cq2uPZGMopG"
@@ -5129,7 +5147,7 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-30",
+      "date_removed": null,
       "duration_ms": 248267,
       "name": "Who's My Eugene? - Edit",
       "url": "https://open.spotify.com/track/3VTH9rhnc8jceZAU90hzwt"

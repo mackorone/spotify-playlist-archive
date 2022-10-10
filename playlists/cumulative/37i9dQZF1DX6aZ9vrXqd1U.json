@@ -178,6 +178,24 @@
     },
     {
       "album": {
+        "name": "Greeting",
+        "url": "https://open.spotify.com/album/1tSpBQpRxeTychxGR9NhiQ"
+      },
+      "artists": [
+        {
+          "name": "Nami Tamaki",
+          "url": "https://open.spotify.com/artist/4awZsyevkX7tP6nu1rFvUq"
+        }
+      ],
+      "date_added": "2022-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234893,
+      "name": "Believe",
+      "url": "https://open.spotify.com/track/7qWFvRnS2nI0iIjPfJb72x"
+    },
+    {
+      "album": {
         "name": "Believe",
         "url": "https://open.spotify.com/album/6uRMVRVi7VhwAR5e5YM7eJ"
       },
@@ -189,7 +207,7 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-03",
       "duration_ms": 236026,
       "name": "Believe",
       "url": "https://open.spotify.com/track/3HHjjYG0zXaesYKfJgwjkK"
@@ -882,6 +900,28 @@
     },
     {
       "album": {
+        "name": "2V-ALK",
+        "url": "https://open.spotify.com/album/6fYnxGhxTWbHLFBnuigaZc"
+      },
+      "artists": [
+        {
+          "name": "SawanoHiroyuki[nZk]",
+          "url": "https://open.spotify.com/artist/2EWXgN0xWOnbqJOxa9pWNO"
+        },
+        {
+          "name": "Tielle",
+          "url": "https://open.spotify.com/artist/0o6gAoBM3HpKhCOYQSolLe"
+        }
+      ],
+      "date_added": "2022-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231480,
+      "name": "Into the Sky",
+      "url": "https://open.spotify.com/track/24BcGYViz1fPTXgqpp1sel"
+    },
+    {
+      "album": {
         "name": "2V-Alk",
         "url": "https://open.spotify.com/album/3ncBgCOeYrUJ9hGmySHiUb"
       },
@@ -897,7 +937,7 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-03",
       "duration_ms": 231480,
       "name": "Into the Sky",
       "url": "https://open.spotify.com/track/7rZ5VNIFZo8nC8XSSCvv7K"
@@ -1315,10 +1355,32 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-03",
       "duration_ms": 244373,
       "name": "Next 2 U -eUC-",
       "url": "https://open.spotify.com/track/1ZOphuWVwSQcsLs7k6iRmp"
+    },
+    {
+      "album": {
+        "name": "2V-ALK",
+        "url": "https://open.spotify.com/album/6fYnxGhxTWbHLFBnuigaZc"
+      },
+      "artists": [
+        {
+          "name": "SawanoHiroyuki[nZk]",
+          "url": "https://open.spotify.com/artist/2EWXgN0xWOnbqJOxa9pWNO"
+        },
+        {
+          "name": "Nanami",
+          "url": "https://open.spotify.com/artist/1B0hK1UH1rFBFhjjdCXjYB"
+        }
+      ],
+      "date_added": "2022-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244373,
+      "name": "Next 2 U -eUC-",
+      "url": "https://open.spotify.com/track/4Jhe1n8G2obpW4NWMifSrB"
     },
     {
       "album": {
@@ -1556,6 +1618,24 @@
     },
     {
       "album": {
+        "name": "Greeting",
+        "url": "https://open.spotify.com/album/1tSpBQpRxeTychxGR9NhiQ"
+      },
+      "artists": [
+        {
+          "name": "Nami Tamaki",
+          "url": "https://open.spotify.com/artist/4awZsyevkX7tP6nu1rFvUq"
+        }
+      ],
+      "date_added": "2022-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281440,
+      "name": "Realize",
+      "url": "https://open.spotify.com/track/1c6hdEBSFwutFim9pyaDHm"
+    },
+    {
+      "album": {
         "name": "Realize",
         "url": "https://open.spotify.com/album/7L00tVnkzAoj1XGnq8dmpX"
       },
@@ -1567,7 +1647,7 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-03",
       "duration_ms": 281946,
       "name": "Realize",
       "url": "https://open.spotify.com/track/5oC3G0m4SjtRJgb8nBaweI"

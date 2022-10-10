@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/15wD5DzfOIRx7QnJKDLtav.md) - [plain]
 
 > Your guide to what's hot in Austin, TX during South By Southwest 2017\. Cover: <a href="spotify:artist:4NZvixzsSefsNiIqXn0NDe">Maggie Rogers</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,152 likes - 62 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,151 likes - 62 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

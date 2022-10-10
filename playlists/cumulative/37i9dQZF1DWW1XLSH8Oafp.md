@@ -2,9 +2,9 @@
 
 ### [planet rave](https://open.spotify.com/playlist/37i9dQZF1DWW1XLSH8Oafp)
 
-> ur on the list bb 🪐 featuring venbee
+> ur on the list bb 🪐 featuring nia archives
 
-400 songs - 23 hr 10 min - [published](https://open.spotify.com/playlist/4qQTwjVUQcX8L2UpyIZBmb)
+401 songs - 23 hr 16 min - [published](https://open.spotify.com/playlist/4qQTwjVUQcX8L2UpyIZBmb)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -276,7 +276,8 @@
 | [On Your Side \- Stud1nt Remix](https://open.spotify.com/track/07WqKsrKiVM17SR0sKOTZv) | [Wet](https://open.spotify.com/artist/2i9uaNzfUtuApAjEf1omV8), [stud1nt](https://open.spotify.com/artist/2A9AahMwOwxbQSeKfyplrX) | [On Your Side \(Stud1nt Remix\)](https://open.spotify.com/album/6vFMDi2N6jrb0HzzgCEiky) | 3:24 | 2021-07-30 | 2022-02-26 |
 | [One Night in North Glasgow](https://open.spotify.com/track/495G6HU8agMEPjNKycw9AD) | [DJ HEARTSTRING](https://open.spotify.com/artist/5tcwaJBUyEdxQxvieuQxU7) | [Met Her at Bäreneck](https://open.spotify.com/album/5rkxbByPKYXQjHPF2wpCTs) | 5:37 | 2022-04-15 | 2022-06-04 |
 | [ONLINE INDUCED HIGH](https://open.spotify.com/track/2jqYdQrmCCTB0TvbNi7hRq) | [TOKYOPILL](https://open.spotify.com/artist/39kuwM2oBNmrM3kEYVmk2X) | [ONLINE INDUCED HIGH](https://open.spotify.com/album/6m1DrsZGFlUp2B6WxY4rZh) | 2:18 | 2022-07-11 | 2022-08-17 |
-| [Open Air \- DJ HEARTSTRING Remix](https://open.spotify.com/track/3MPYfrBFJC6sRPRuObng6H) | [TDJ](https://open.spotify.com/artist/540RtWfpQokIlaRgMDjU9v), [fknsyd](https://open.spotify.com/artist/4fHFFvChjfjG7sAseTwiXd), [DJ HEARTSTRING](https://open.spotify.com/artist/5tcwaJBUyEdxQxvieuQxU7) | [TDJ123 DELUXE](https://open.spotify.com/album/05VFDqT4WtekPdQn8o6V1a) | 6:22 | 2022-08-26 |  |
+| [Open Air \- DJ HEARTSTRING Remix](https://open.spotify.com/track/3MPYfrBFJC6sRPRuObng6H) | [TDJ](https://open.spotify.com/artist/540RtWfpQokIlaRgMDjU9v), [fknsyd](https://open.spotify.com/artist/4fHFFvChjfjG7sAseTwiXd), [DJ HEARTSTRING](https://open.spotify.com/artist/5tcwaJBUyEdxQxvieuQxU7) | [TDJ123 DELUXE](https://open.spotify.com/album/05VFDqT4WtekPdQn8o6V1a) | 6:22 | 2022-08-26 | 2022-10-09 |
+| [Open Air \- DJ HEARTSTRING Remix](https://open.spotify.com/track/5MNYdLFPbE27xrmhDdZ5cH) | [TDJ](https://open.spotify.com/artist/540RtWfpQokIlaRgMDjU9v), [fknsyd](https://open.spotify.com/artist/4fHFFvChjfjG7sAseTwiXd), [DJ HEARTSTRING](https://open.spotify.com/artist/5tcwaJBUyEdxQxvieuQxU7) | [TDJ123 DELUXE](https://open.spotify.com/album/2x1Ox1a7MYTamrbp11Y6LA) | 6:22 | 2022-08-26 |  |
 | [out of the blue](https://open.spotify.com/track/1L6Pp0BJ5fuSUOpQOoFE5a) | [lentra](https://open.spotify.com/artist/484bfoveqgHfx2VhNY4zzT) | [out of the blue](https://open.spotify.com/album/5OagZb7d6hBfIqfVji39wD) | 2:48 | 2022-06-03 | 2022-08-27 |
 | [over it](https://open.spotify.com/track/7mvqLMloTy9sQww0CREaVw) | [TURQUOISEDEATH](https://open.spotify.com/artist/3TEsU8VzLEGC52THfNvh9B) | [over it](https://open.spotify.com/album/68gpsZTqeX5gQBkIUYxVmO) | 3:34 | 2022-08-05 | 2022-09-24 |
 | [Overgrown](https://open.spotify.com/track/0uciuyNzCb0ZUmTLCx0JOv) | [YAZ](https://open.spotify.com/artist/6VvnLfGL8XDQomLEa91WPk) | [Overgrown](https://open.spotify.com/album/4fBRtt02jOVKhvKyGazEcH) | 2:41 | 2022-09-09 |  |

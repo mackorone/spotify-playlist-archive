@@ -1,12 +1,12 @@
 {
   "description": "Enjoy your happy & sweet eating time with Korean theme! (\uc0ac\ub791\uc2a4\ub7ec\uc6b4 \uc74c\uc545\ub4e4\uacfc \ud589\ubcf5\ud55c \uc2dd\uc0ac \uc2dc\uac04\uc744 \uac00\uc838\ubcf4\uc138\uc694!)",
-  "num_followers": 33557,
+  "num_followers": 33993,
   "original_name": "Mukbang* (\ub2ec\ucf64\uba39\ubc29*)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjU1Nzk4NiwwMDAwMDAwMDQ3YzhmYmRkOGY0NWE3MzNlNTg5ZTMzZmI0YTJlZGI2",
+  "snapshot_id": "MTY2MjU1Nzk4NiwwMDAwMDAwMDM1YThiZWQxMjg2NzQxNmJhOTZiOTcxODM5Y2M0OTVm",
   "tracks": [
     {
       "added_at": "2022-09-07 13:39:46",
@@ -111,6 +111,22 @@
     {
       "added_at": "2022-09-07 13:39:46",
       "album": {
+        "name": "Rain",
+        "url": "https://open.spotify.com/album/0pLInB6G2NXR87Pwi4O3dQ"
+      },
+      "artists": [
+        {
+          "name": "Paul Kim",
+          "url": "https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv"
+        }
+      ],
+      "duration_ms": 237217,
+      "name": "Rain",
+      "url": "https://open.spotify.com/track/5n368tNF47S70THlmpaGLf"
+    },
+    {
+      "added_at": "2022-09-07 13:39:46",
+      "album": {
         "name": "Boys and Girls Music Vol.1",
         "url": "https://open.spotify.com/album/7JHMwCyGG1plb2QGOXSHB6"
       },
@@ -131,38 +147,6 @@
     {
       "added_at": "2022-09-07 13:39:46",
       "album": {
-        "name": "Cl\u00e9 : LEVANTER",
-        "url": "https://open.spotify.com/album/0st9OqpsKmmtwUz6cS14Fj"
-      },
-      "artists": [
-        {
-          "name": "Stray Kids",
-          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
-        }
-      ],
-      "duration_ms": 222284,
-      "name": "Sunshine",
-      "url": "https://open.spotify.com/track/3GYmjbJ1EU4TOMEYuVMXu0"
-    },
-    {
-      "added_at": "2022-09-07 13:39:46",
-      "album": {
-        "name": "Rain",
-        "url": "https://open.spotify.com/album/0pLInB6G2NXR87Pwi4O3dQ"
-      },
-      "artists": [
-        {
-          "name": "Paul Kim",
-          "url": "https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv"
-        }
-      ],
-      "duration_ms": 237217,
-      "name": "Rain",
-      "url": "https://open.spotify.com/track/5n368tNF47S70THlmpaGLf"
-    },
-    {
-      "added_at": "2022-09-07 13:39:46",
-      "album": {
         "name": "Lyricist",
         "url": "https://open.spotify.com/album/6igUyuDlRCyjoTtPXui6bT"
       },
@@ -175,6 +159,22 @@
       "duration_ms": 196120,
       "name": "Lyricist",
       "url": "https://open.spotify.com/track/1eEHOnrNLP46aGKLb1LtMI"
+    },
+    {
+      "added_at": "2022-09-07 13:39:46",
+      "album": {
+        "name": "Cl\u00e9 : LEVANTER",
+        "url": "https://open.spotify.com/album/0st9OqpsKmmtwUz6cS14Fj"
+      },
+      "artists": [
+        {
+          "name": "Stray Kids",
+          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
+        }
+      ],
+      "duration_ms": 222284,
+      "name": "Sunshine",
+      "url": "https://open.spotify.com/track/3GYmjbJ1EU4TOMEYuVMXu0"
     },
     {
       "added_at": "2022-09-07 13:39:46",
@@ -283,18 +283,18 @@
     {
       "added_at": "2022-09-07 13:39:46",
       "album": {
-        "name": "INNER CHILD",
-        "url": "https://open.spotify.com/album/3RlXW94RoRIrAOLMGxUUTg"
+        "name": "YUMI's Cells, Pt. 10 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/5CqqZ9yXSWFitudW1r70sX"
       },
       "artists": [
         {
-          "name": "John Park",
-          "url": "https://open.spotify.com/artist/4mbvd7ZJ2goftjy1L33LiB"
+          "name": "JeHwi",
+          "url": "https://open.spotify.com/artist/269A1U75KOCFyPAiXq4sjT"
         }
       ],
-      "duration_ms": 226186,
-      "name": "Sipping My life (Bonus Track)",
-      "url": "https://open.spotify.com/track/1ndZ37FOUNqW7PNWYJvPYk"
+      "duration_ms": 236626,
+      "name": "Holiday",
+      "url": "https://open.spotify.com/track/2EiYnN1JJem3mrzvs2IOGN"
     },
     {
       "added_at": "2022-09-07 13:39:46",
@@ -327,74 +327,6 @@
     {
       "added_at": "2022-09-07 13:39:46",
       "album": {
-        "name": "YUMI's Cells, Pt. 10 (Original Television Soundtrack)",
-        "url": "https://open.spotify.com/album/5CqqZ9yXSWFitudW1r70sX"
-      },
-      "artists": [
-        {
-          "name": "JeHwi",
-          "url": "https://open.spotify.com/artist/269A1U75KOCFyPAiXq4sjT"
-        }
-      ],
-      "duration_ms": 236626,
-      "name": "Holiday",
-      "url": "https://open.spotify.com/track/2EiYnN1JJem3mrzvs2IOGN"
-    },
-    {
-      "added_at": "2022-09-07 13:39:46",
-      "album": {
-        "name": "ADAMAS, Pt. 3 (Original Television Soundtrack)",
-        "url": "https://open.spotify.com/album/6dYluyaRdoGCOONJcEOa1k"
-      },
-      "artists": [
-        {
-          "name": "Bernard Park",
-          "url": "https://open.spotify.com/artist/53Yqe3arWNbYQCw4kk1Qmv"
-        }
-      ],
-      "duration_ms": 149062,
-      "name": "Darling You",
-      "url": "https://open.spotify.com/track/3j4QD9uSev2Uh1DeFMdMml"
-    },
-    {
-      "added_at": "2022-09-07 13:39:46",
-      "album": {
-        "name": "Autumn Breeze (re;code Episode \u2166)",
-        "url": "https://open.spotify.com/album/5suwcs77vgb6DSRaqabylj"
-      },
-      "artists": [
-        {
-          "name": "Gummy",
-          "url": "https://open.spotify.com/artist/0hRHbwZ0xSwfVHl4FTv7jq"
-        }
-      ],
-      "duration_ms": 219813,
-      "name": "Autumn Breeze",
-      "url": "https://open.spotify.com/track/1e5qALs3pDrv203jX0XWAC"
-    },
-    {
-      "added_at": "2022-09-07 13:39:46",
-      "album": {
-        "name": "It\u2019s a different thing to love her and make her happy (feat. jeebanoff)",
-        "url": "https://open.spotify.com/album/2kUvVgrFAkMf3Uc0VFdvWY"
-      },
-      "artists": [
-        {
-          "name": "CRUCiAL STAR",
-          "url": "https://open.spotify.com/artist/4vdAgNz4vrUZVvS0CaVvGJ"
-        },
-        {
-          "name": "jeebanoff",
-          "url": "https://open.spotify.com/artist/6FK6uP46ntwU9gaQQxTlDV"
-        }
-      ],
-      "duration_ms": 296426,
-      "name": "It\u2019s a different thing to love her and make her happy (feat. jeebanoff)",
-      "url": "https://open.spotify.com/track/16b6NsiIrMo33mr5Q3oZuS"
-    },
-    {
-      "added_at": "2022-09-07 13:39:46",
-      "album": {
         "name": "Da Ra Da",
         "url": "https://open.spotify.com/album/5AQgoMCw6ioH1YphjOgjYN"
       },
@@ -415,6 +347,74 @@
       "duration_ms": 237369,
       "name": "Da Ra Da",
       "url": "https://open.spotify.com/track/5oBCC0WlEcwvFb2m0vtqr3"
+    },
+    {
+      "added_at": "2022-09-07 13:39:46",
+      "album": {
+        "name": "INNER CHILD",
+        "url": "https://open.spotify.com/album/3RlXW94RoRIrAOLMGxUUTg"
+      },
+      "artists": [
+        {
+          "name": "John Park",
+          "url": "https://open.spotify.com/artist/4mbvd7ZJ2goftjy1L33LiB"
+        }
+      ],
+      "duration_ms": 226186,
+      "name": "Sipping My life (Bonus Track)",
+      "url": "https://open.spotify.com/track/1ndZ37FOUNqW7PNWYJvPYk"
+    },
+    {
+      "added_at": "2022-09-07 13:39:46",
+      "album": {
+        "name": "Autumn Breeze (re;code Episode \u2166)",
+        "url": "https://open.spotify.com/album/5suwcs77vgb6DSRaqabylj"
+      },
+      "artists": [
+        {
+          "name": "Gummy",
+          "url": "https://open.spotify.com/artist/0hRHbwZ0xSwfVHl4FTv7jq"
+        }
+      ],
+      "duration_ms": 219813,
+      "name": "Autumn Breeze",
+      "url": "https://open.spotify.com/track/1e5qALs3pDrv203jX0XWAC"
+    },
+    {
+      "added_at": "2022-09-07 13:39:46",
+      "album": {
+        "name": "ADAMAS, Pt. 3 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/6dYluyaRdoGCOONJcEOa1k"
+      },
+      "artists": [
+        {
+          "name": "Bernard Park",
+          "url": "https://open.spotify.com/artist/53Yqe3arWNbYQCw4kk1Qmv"
+        }
+      ],
+      "duration_ms": 149062,
+      "name": "Darling You",
+      "url": "https://open.spotify.com/track/3j4QD9uSev2Uh1DeFMdMml"
+    },
+    {
+      "added_at": "2022-09-07 13:39:46",
+      "album": {
+        "name": "It\u2019s a different thing to love her and make her happy (feat. jeebanoff)",
+        "url": "https://open.spotify.com/album/2kUvVgrFAkMf3Uc0VFdvWY"
+      },
+      "artists": [
+        {
+          "name": "CRUCiAL STAR",
+          "url": "https://open.spotify.com/artist/4vdAgNz4vrUZVvS0CaVvGJ"
+        },
+        {
+          "name": "jeebanoff",
+          "url": "https://open.spotify.com/artist/6FK6uP46ntwU9gaQQxTlDV"
+        }
+      ],
+      "duration_ms": 296426,
+      "name": "It\u2019s a different thing to love her and make her happy (feat. jeebanoff)",
+      "url": "https://open.spotify.com/track/16b6NsiIrMo33mr5Q3oZuS"
     },
     {
       "added_at": "2022-09-07 13:39:46",
@@ -455,22 +455,6 @@
     {
       "added_at": "2022-09-07 13:39:46",
       "album": {
-        "name": "How Is It?",
-        "url": "https://open.spotify.com/album/6hbVMD8GqzaZsNd0SXAi5v"
-      },
-      "artists": [
-        {
-          "name": "Tarin",
-          "url": "https://open.spotify.com/artist/4UEKXXZ65FBcAJPVerQjtO"
-        }
-      ],
-      "duration_ms": 189800,
-      "name": "How Is It?",
-      "url": "https://open.spotify.com/track/0kIAlFsKhfOmfaSnqFcX5R"
-    },
-    {
-      "added_at": "2022-09-07 13:39:46",
-      "album": {
         "name": "Tailor",
         "url": "https://open.spotify.com/album/14g9BZeQyFfVOie1oKai3Z"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 297706,
       "name": "Fairy Of Shampoo",
       "url": "https://open.spotify.com/track/3lGh8klnPCj95uz9b60YhD"
+    },
+    {
+      "added_at": "2022-09-07 13:39:46",
+      "album": {
+        "name": "How Is It?",
+        "url": "https://open.spotify.com/album/6hbVMD8GqzaZsNd0SXAi5v"
+      },
+      "artists": [
+        {
+          "name": "Tarin",
+          "url": "https://open.spotify.com/artist/4UEKXXZ65FBcAJPVerQjtO"
+        }
+      ],
+      "duration_ms": 189800,
+      "name": "How Is It?",
+      "url": "https://open.spotify.com/track/0kIAlFsKhfOmfaSnqFcX5R"
     },
     {
       "added_at": "2022-09-07 13:39:46",
@@ -559,42 +559,6 @@
     {
       "added_at": "2022-09-07 13:39:46",
       "album": {
-        "name": "Bittersweet",
-        "url": "https://open.spotify.com/album/3GugXnQJXNFzXCBNTZb02q"
-      },
-      "artists": [
-        {
-          "name": "Baek A Yeon",
-          "url": "https://open.spotify.com/artist/5UKoKVlU7EDN4UgDuVRAbX"
-        }
-      ],
-      "duration_ms": 205854,
-      "name": "\ub2ec\ucf64\ud55c \ube48\ub9d0 (feat. \ubc14\ubc84\ub81b\uce20) Sweet lies (feat. The Barberettes)",
-      "url": "https://open.spotify.com/track/3F6eSiAXmjfZpR0vUOoOzN"
-    },
-    {
-      "added_at": "2022-09-07 13:39:46",
-      "album": {
-        "name": "Leave like this",
-        "url": "https://open.spotify.com/album/6FQObmvOZQ9MXzRddnhUkJ"
-      },
-      "artists": [
-        {
-          "name": "Seokman Cheon",
-          "url": "https://open.spotify.com/artist/5KoLNvPbAWGHVOCXwam9T0"
-        },
-        {
-          "name": "Inyu",
-          "url": "https://open.spotify.com/artist/4uVDPhjO1wDe5AEptC6wo2"
-        }
-      ],
-      "duration_ms": 205002,
-      "name": "Leave like this",
-      "url": "https://open.spotify.com/track/1DjihD1VQAuuaRaMDOKOjy"
-    },
-    {
-      "added_at": "2022-09-07 13:39:46",
-      "album": {
         "name": "Back in Time",
         "url": "https://open.spotify.com/album/7avQrMgx6JDi4gT1KM15zt"
       },
@@ -607,6 +571,22 @@
       "duration_ms": 255891,
       "name": "Sea Of Love",
       "url": "https://open.spotify.com/track/02AThDf6z3YEYObZdqskyB"
+    },
+    {
+      "added_at": "2022-09-07 13:39:46",
+      "album": {
+        "name": "Bittersweet",
+        "url": "https://open.spotify.com/album/3GugXnQJXNFzXCBNTZb02q"
+      },
+      "artists": [
+        {
+          "name": "Baek A Yeon",
+          "url": "https://open.spotify.com/artist/5UKoKVlU7EDN4UgDuVRAbX"
+        }
+      ],
+      "duration_ms": 205854,
+      "name": "\ub2ec\ucf64\ud55c \ube48\ub9d0 (feat. \ubc14\ubc84\ub81b\uce20) Sweet lies (feat. The Barberettes)",
+      "url": "https://open.spotify.com/track/3F6eSiAXmjfZpR0vUOoOzN"
     },
     {
       "added_at": "2022-09-07 13:39:46",
@@ -631,6 +611,42 @@
     {
       "added_at": "2022-09-07 13:39:46",
       "album": {
+        "name": "No Worries",
+        "url": "https://open.spotify.com/album/14U4o40m1Rp0Sk9sHd0nkU"
+      },
+      "artists": [
+        {
+          "name": "DAHEE",
+          "url": "https://open.spotify.com/artist/3esENfTnYy40Cs650mMtyT"
+        }
+      ],
+      "duration_ms": 174856,
+      "name": "No Worries",
+      "url": "https://open.spotify.com/track/0S4wrclgzJLWeCAAPNqxCk"
+    },
+    {
+      "added_at": "2022-09-07 13:39:46",
+      "album": {
+        "name": "Leave like this",
+        "url": "https://open.spotify.com/album/6FQObmvOZQ9MXzRddnhUkJ"
+      },
+      "artists": [
+        {
+          "name": "Seokman Cheon",
+          "url": "https://open.spotify.com/artist/5KoLNvPbAWGHVOCXwam9T0"
+        },
+        {
+          "name": "Inyu",
+          "url": "https://open.spotify.com/artist/4uVDPhjO1wDe5AEptC6wo2"
+        }
+      ],
+      "duration_ms": 205002,
+      "name": "Leave like this",
+      "url": "https://open.spotify.com/track/1DjihD1VQAuuaRaMDOKOjy"
+    },
+    {
+      "added_at": "2022-09-07 13:39:46",
+      "album": {
         "name": "Salt Rain (Prod. By Alfie Hole)",
         "url": "https://open.spotify.com/album/2PQIXQNasV6iN55iAMNccn"
       },
@@ -651,42 +667,6 @@
     {
       "added_at": "2022-09-07 13:39:46",
       "album": {
-        "name": "Thinking of you",
-        "url": "https://open.spotify.com/album/1MwHsKCA47rjE8vV9XKLqA"
-      },
-      "artists": [
-        {
-          "name": "Brunch recipe",
-          "url": "https://open.spotify.com/artist/1dD0MLYuJ9HuIzBpQSKh0v"
-        },
-        {
-          "name": "Lee Yu Bin",
-          "url": "https://open.spotify.com/artist/68n72jwJJfHg9MeLekrdub"
-        }
-      ],
-      "duration_ms": 193514,
-      "name": "Thinking of you (Feat. Lee Yu Bin)",
-      "url": "https://open.spotify.com/track/0HjXWaEloMpHcBUlQOqDhr"
-    },
-    {
-      "added_at": "2022-09-07 13:39:46",
-      "album": {
-        "name": "No Worries",
-        "url": "https://open.spotify.com/album/14U4o40m1Rp0Sk9sHd0nkU"
-      },
-      "artists": [
-        {
-          "name": "DAHEE",
-          "url": "https://open.spotify.com/artist/3esENfTnYy40Cs650mMtyT"
-        }
-      ],
-      "duration_ms": 174856,
-      "name": "No Worries",
-      "url": "https://open.spotify.com/track/0S4wrclgzJLWeCAAPNqxCk"
-    },
-    {
-      "added_at": "2022-09-07 13:39:46",
-      "album": {
         "name": "SMILE",
         "url": "https://open.spotify.com/album/3yEWD0rZiVt46ZdmD1kznx"
       },
@@ -703,18 +683,22 @@
     {
       "added_at": "2022-09-07 13:39:46",
       "album": {
-        "name": "Sweeet",
-        "url": "https://open.spotify.com/album/7Io0qmAUvOmpo6pVGSFiIl"
+        "name": "Thinking of you",
+        "url": "https://open.spotify.com/album/1MwHsKCA47rjE8vV9XKLqA"
       },
       "artists": [
         {
-          "name": "Milena",
-          "url": "https://open.spotify.com/artist/2ODok2cPMF1Z1gZetfaL6n"
+          "name": "Brunch recipe",
+          "url": "https://open.spotify.com/artist/1dD0MLYuJ9HuIzBpQSKh0v"
+        },
+        {
+          "name": "Lee Yu Bin",
+          "url": "https://open.spotify.com/artist/68n72jwJJfHg9MeLekrdub"
         }
       ],
-      "duration_ms": 177999,
-      "name": "Sugardance",
-      "url": "https://open.spotify.com/track/3yq1iV9RwejrwebPyWnh6B"
+      "duration_ms": 193514,
+      "name": "Thinking of you (Feat. Lee Yu Bin)",
+      "url": "https://open.spotify.com/track/0HjXWaEloMpHcBUlQOqDhr"
     },
     {
       "added_at": "2022-09-07 13:39:46",
@@ -755,6 +739,22 @@
     {
       "added_at": "2022-09-07 13:39:46",
       "album": {
+        "name": "Sweeet",
+        "url": "https://open.spotify.com/album/7Io0qmAUvOmpo6pVGSFiIl"
+      },
+      "artists": [
+        {
+          "name": "Milena",
+          "url": "https://open.spotify.com/artist/2ODok2cPMF1Z1gZetfaL6n"
+        }
+      ],
+      "duration_ms": 177999,
+      "name": "Sugardance",
+      "url": "https://open.spotify.com/track/3yq1iV9RwejrwebPyWnh6B"
+    },
+    {
+      "added_at": "2022-09-07 13:39:46",
+      "album": {
         "name": "BETTER - The 10th Album",
         "url": "https://open.spotify.com/album/3YXfuI3E6OxcrtXnjAgNkM"
       },
@@ -767,38 +767,6 @@
       "duration_ms": 238093,
       "name": "All That Jazz",
       "url": "https://open.spotify.com/track/630EmrW0DgVqPdKIWMk4YR"
-    },
-    {
-      "added_at": "2022-09-07 13:39:46",
-      "album": {
-        "name": "\ub108\ub294\uc5b4\ub54c",
-        "url": "https://open.spotify.com/album/35rq5Vnuto7DthwSqQD4gd"
-      },
-      "artists": [
-        {
-          "name": "Coldin",
-          "url": "https://open.spotify.com/artist/5yB6Lu343nFLxCVugcgxoG"
-        }
-      ],
-      "duration_ms": 260812,
-      "name": "\ub108\ub294\uc5b4\ub54c - Bossa Nova ver.",
-      "url": "https://open.spotify.com/track/3Py8DQJ9U3hqmaSpVjIzHh"
-    },
-    {
-      "added_at": "2022-09-07 13:39:46",
-      "album": {
-        "name": "FRANK",
-        "url": "https://open.spotify.com/album/3nf5TdSHODl88hYx0EEtmC"
-      },
-      "artists": [
-        {
-          "name": "Yerin Baek",
-          "url": "https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK"
-        }
-      ],
-      "duration_ms": 217666,
-      "name": "\uc7a0\ub4e4\uace0 \uc2f6\uc5b4(zZ)",
-      "url": "https://open.spotify.com/track/6waNaXD6NwkSyo6jRa0o0z"
     },
     {
       "added_at": "2022-09-07 13:39:46",
@@ -819,82 +787,34 @@
     {
       "added_at": "2022-09-07 13:39:46",
       "album": {
-        "name": "Our Cinema #2 - Dancing",
-        "url": "https://open.spotify.com/album/1NOp8pcedKfCeUj43mmbhC"
+        "name": "FRANK",
+        "url": "https://open.spotify.com/album/3nf5TdSHODl88hYx0EEtmC"
       },
       "artists": [
         {
-          "name": "Narae Lee",
-          "url": "https://open.spotify.com/artist/2BfdOTwtSqVgQlahK3cSO1"
+          "name": "Yerin Baek",
+          "url": "https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK"
         }
       ],
-      "duration_ms": 210079,
-      "name": "Our Cinema #2 - Dancing",
-      "url": "https://open.spotify.com/track/6D9XN0mRQZRBcte4IZReCE"
+      "duration_ms": 217666,
+      "name": "\uc7a0\ub4e4\uace0 \uc2f6\uc5b4(zZ)",
+      "url": "https://open.spotify.com/track/6waNaXD6NwkSyo6jRa0o0z"
     },
     {
       "added_at": "2022-09-07 13:39:46",
       "album": {
-        "name": "I can't tell you everything",
-        "url": "https://open.spotify.com/album/19cnTIC9Q9V5YykBCRxvOL"
+        "name": "\ub108\ub294\uc5b4\ub54c",
+        "url": "https://open.spotify.com/album/35rq5Vnuto7DthwSqQD4gd"
       },
       "artists": [
         {
-          "name": "CHEEZE",
-          "url": "https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht"
+          "name": "Coldin",
+          "url": "https://open.spotify.com/artist/5yB6Lu343nFLxCVugcgxoG"
         }
       ],
-      "duration_ms": 254600,
-      "name": "Watercolour",
-      "url": "https://open.spotify.com/track/272cbvi62JUEhBKrsGIbdJ"
-    },
-    {
-      "added_at": "2022-09-07 13:39:46",
-      "album": {
-        "name": "Fuzzy peach",
-        "url": "https://open.spotify.com/album/26peULcrRxnzOoRCqQZEzx"
-      },
-      "artists": [
-        {
-          "name": "Lyn",
-          "url": "https://open.spotify.com/artist/1A6WCseWiK22oxqodg7vcy"
-        }
-      ],
-      "duration_ms": 251653,
-      "name": "Fuzzy peach",
-      "url": "https://open.spotify.com/track/3mWDyC2TAIk71P5wbwyXod"
-    },
-    {
-      "added_at": "2022-09-07 13:39:46",
-      "album": {
-        "name": "Paul Kim The First Album Part. 1 \u2018the Road\u2019",
-        "url": "https://open.spotify.com/album/5Yzku0R7REUKxNwL7CzLx8"
-      },
-      "artists": [
-        {
-          "name": "Paul Kim",
-          "url": "https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv"
-        }
-      ],
-      "duration_ms": 212150,
-      "name": "Better Man",
-      "url": "https://open.spotify.com/track/7toNHOB0n7dnOfyBtsZaE4"
-    },
-    {
-      "added_at": "2022-09-07 13:39:46",
-      "album": {
-        "name": "Light",
-        "url": "https://open.spotify.com/album/5aqbXCdWUdRsKSvbGoZNta"
-      },
-      "artists": [
-        {
-          "name": "Kayla",
-          "url": "https://open.spotify.com/artist/27t2qopeNua4hsIj3mYtoi"
-        }
-      ],
-      "duration_ms": 228000,
-      "name": "Back Home",
-      "url": "https://open.spotify.com/track/0bBSTlbrMxVjdJKKqDq7cc"
+      "duration_ms": 260812,
+      "name": "\ub108\ub294\uc5b4\ub54c - Bossa Nova ver.",
+      "url": "https://open.spotify.com/track/3Py8DQJ9U3hqmaSpVjIzHh"
     },
     {
       "added_at": "2022-09-07 13:39:46",
@@ -927,6 +847,86 @@
     {
       "added_at": "2022-09-07 13:39:46",
       "album": {
+        "name": "I can't tell you everything",
+        "url": "https://open.spotify.com/album/19cnTIC9Q9V5YykBCRxvOL"
+      },
+      "artists": [
+        {
+          "name": "CHEEZE",
+          "url": "https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht"
+        }
+      ],
+      "duration_ms": 254600,
+      "name": "Watercolour",
+      "url": "https://open.spotify.com/track/272cbvi62JUEhBKrsGIbdJ"
+    },
+    {
+      "added_at": "2022-09-07 13:39:46",
+      "album": {
+        "name": "Paul Kim The First Album Part. 1 \u2018the Road\u2019",
+        "url": "https://open.spotify.com/album/5Yzku0R7REUKxNwL7CzLx8"
+      },
+      "artists": [
+        {
+          "name": "Paul Kim",
+          "url": "https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv"
+        }
+      ],
+      "duration_ms": 212150,
+      "name": "Better Man",
+      "url": "https://open.spotify.com/track/7toNHOB0n7dnOfyBtsZaE4"
+    },
+    {
+      "added_at": "2022-09-07 13:39:46",
+      "album": {
+        "name": "Our Cinema #2 - Dancing",
+        "url": "https://open.spotify.com/album/1NOp8pcedKfCeUj43mmbhC"
+      },
+      "artists": [
+        {
+          "name": "Narae Lee",
+          "url": "https://open.spotify.com/artist/2BfdOTwtSqVgQlahK3cSO1"
+        }
+      ],
+      "duration_ms": 210079,
+      "name": "Our Cinema #2 - Dancing",
+      "url": "https://open.spotify.com/track/6D9XN0mRQZRBcte4IZReCE"
+    },
+    {
+      "added_at": "2022-09-07 13:39:46",
+      "album": {
+        "name": "Fuzzy peach",
+        "url": "https://open.spotify.com/album/26peULcrRxnzOoRCqQZEzx"
+      },
+      "artists": [
+        {
+          "name": "Lyn",
+          "url": "https://open.spotify.com/artist/1A6WCseWiK22oxqodg7vcy"
+        }
+      ],
+      "duration_ms": 251653,
+      "name": "Fuzzy peach",
+      "url": "https://open.spotify.com/track/3mWDyC2TAIk71P5wbwyXod"
+    },
+    {
+      "added_at": "2022-09-07 13:39:46",
+      "album": {
+        "name": "Light",
+        "url": "https://open.spotify.com/album/5aqbXCdWUdRsKSvbGoZNta"
+      },
+      "artists": [
+        {
+          "name": "Kayla",
+          "url": "https://open.spotify.com/artist/27t2qopeNua4hsIj3mYtoi"
+        }
+      ],
+      "duration_ms": 228000,
+      "name": "Back Home",
+      "url": "https://open.spotify.com/track/0bBSTlbrMxVjdJKKqDq7cc"
+    },
+    {
+      "added_at": "2022-09-07 13:39:46",
+      "album": {
         "name": "Night Mood",
         "url": "https://open.spotify.com/album/2HWU6jTBDcSLU41QhomIMq"
       },
@@ -939,6 +939,22 @@
       "duration_ms": 254866,
       "name": "After The Rain",
       "url": "https://open.spotify.com/track/4ryDa9xL9jajOZ5zbW5wjN"
+    },
+    {
+      "added_at": "2022-09-07 13:39:46",
+      "album": {
+        "name": "LOVER",
+        "url": "https://open.spotify.com/album/5BYA62etDUYPIQZHbKizeu"
+      },
+      "artists": [
+        {
+          "name": "Yoon Hyun Sang",
+          "url": "https://open.spotify.com/artist/390z2RITWBFLpD6HTC5UV2"
+        }
+      ],
+      "duration_ms": 265773,
+      "name": "Dancing Universe",
+      "url": "https://open.spotify.com/track/21GmIfb64BYbDSqCr5jf8K"
     },
     {
       "added_at": "2022-09-07 13:39:46",
@@ -975,22 +991,6 @@
     {
       "added_at": "2022-09-07 13:39:46",
       "album": {
-        "name": "LOVER",
-        "url": "https://open.spotify.com/album/5BYA62etDUYPIQZHbKizeu"
-      },
-      "artists": [
-        {
-          "name": "Yoon Hyun Sang",
-          "url": "https://open.spotify.com/artist/390z2RITWBFLpD6HTC5UV2"
-        }
-      ],
-      "duration_ms": 265773,
-      "name": "Dancing Universe",
-      "url": "https://open.spotify.com/track/21GmIfb64BYbDSqCr5jf8K"
-    },
-    {
-      "added_at": "2022-09-07 13:39:46",
-      "album": {
         "name": "My Journey",
         "url": "https://open.spotify.com/album/2mT65W98g0OtfHnj1OaOtG"
       },
@@ -1003,22 +1003,6 @@
       "duration_ms": 203285,
       "name": "My Journey",
       "url": "https://open.spotify.com/track/67STgZHPb0ShricGZvb1dg"
-    },
-    {
-      "added_at": "2022-09-07 13:39:46",
-      "album": {
-        "name": "Forest",
-        "url": "https://open.spotify.com/album/1WjSq9kkrkKU1on2PT18Wh"
-      },
-      "artists": [
-        {
-          "name": "Darin",
-          "url": "https://open.spotify.com/artist/3NeWfnkjhDK8umjBipcf5W"
-        }
-      ],
-      "duration_ms": 244363,
-      "name": "Maudie",
-      "url": "https://open.spotify.com/track/0fu1BE5X5HZsYrphbof5DS"
     },
     {
       "added_at": "2022-09-07 13:39:46",
@@ -1043,6 +1027,22 @@
     {
       "added_at": "2022-09-07 13:39:46",
       "album": {
+        "name": "Forest",
+        "url": "https://open.spotify.com/album/1WjSq9kkrkKU1on2PT18Wh"
+      },
+      "artists": [
+        {
+          "name": "Darin",
+          "url": "https://open.spotify.com/artist/3NeWfnkjhDK8umjBipcf5W"
+        }
+      ],
+      "duration_ms": 244363,
+      "name": "Maudie",
+      "url": "https://open.spotify.com/track/0fu1BE5X5HZsYrphbof5DS"
+    },
+    {
+      "added_at": "2022-09-07 13:39:46",
+      "album": {
         "name": "Rainy Apgujeong",
         "url": "https://open.spotify.com/album/5SeTFxSNmAG5JSi3jReueV"
       },
@@ -1059,22 +1059,6 @@
       "duration_ms": 274030,
       "name": "Rainy Apgujeong",
       "url": "https://open.spotify.com/track/7KkPuyazzYvmwquvWfGQ6J"
-    },
-    {
-      "added_at": "2022-09-07 13:39:46",
-      "album": {
-        "name": "When It Loves",
-        "url": "https://open.spotify.com/album/6h3u4VFlhumv3Lxrvn4T0z"
-      },
-      "artists": [
-        {
-          "name": "O.WHEN",
-          "url": "https://open.spotify.com/artist/7f5OHScUwC0ZKZzma5mMxq"
-        }
-      ],
-      "duration_ms": 255280,
-      "name": "Dream",
-      "url": "https://open.spotify.com/track/0dmEAPKuehgDaVKVKlm0rd"
     },
     {
       "added_at": "2022-09-07 13:39:46",
@@ -1099,18 +1083,18 @@
     {
       "added_at": "2022-09-07 13:39:46",
       "album": {
-        "name": "ONF:MY NAME",
-        "url": "https://open.spotify.com/album/3GfY1xWWL7Lnh0Wn1WGwc3"
+        "name": "When It Loves",
+        "url": "https://open.spotify.com/album/6h3u4VFlhumv3Lxrvn4T0z"
       },
       "artists": [
         {
-          "name": "ONF",
-          "url": "https://open.spotify.com/artist/0eEhOgZ2x6kv8kLz77WO7b"
+          "name": "O.WHEN",
+          "url": "https://open.spotify.com/artist/7f5OHScUwC0ZKZzma5mMxq"
         }
       ],
-      "duration_ms": 197066,
-      "name": "Thermometer - ON Team Version",
-      "url": "https://open.spotify.com/track/1j7FToPTGUYbmyzJgrPEPP"
+      "duration_ms": 255280,
+      "name": "Dream",
+      "url": "https://open.spotify.com/track/0dmEAPKuehgDaVKVKlm0rd"
     },
     {
       "added_at": "2022-09-07 13:39:46",
@@ -1155,6 +1139,38 @@
     {
       "added_at": "2022-09-07 13:39:46",
       "album": {
+        "name": "Illusion",
+        "url": "https://open.spotify.com/album/6uu5CP0ipD9JZ6wyl14QXc"
+      },
+      "artists": [
+        {
+          "name": "40",
+          "url": "https://open.spotify.com/artist/0XXy0YzgbA0CW9zDM8yxpD"
+        }
+      ],
+      "duration_ms": 181626,
+      "name": "A longing night",
+      "url": "https://open.spotify.com/track/4yTPo66vy8AATxNvNyLqN5"
+    },
+    {
+      "added_at": "2022-09-07 13:39:46",
+      "album": {
+        "name": "ONF:MY NAME",
+        "url": "https://open.spotify.com/album/3GfY1xWWL7Lnh0Wn1WGwc3"
+      },
+      "artists": [
+        {
+          "name": "ONF",
+          "url": "https://open.spotify.com/artist/0eEhOgZ2x6kv8kLz77WO7b"
+        }
+      ],
+      "duration_ms": 197066,
+      "name": "Thermometer - ON Team Version",
+      "url": "https://open.spotify.com/track/1j7FToPTGUYbmyzJgrPEPP"
+    },
+    {
+      "added_at": "2022-09-07 13:39:46",
+      "album": {
         "name": "Revolutionary Sisters (Original Television Soundtrack) Pt. 3",
         "url": "https://open.spotify.com/album/7rMCv5t7oZdLsWQWnDx72w"
       },
@@ -1167,22 +1183,6 @@
       "duration_ms": 164640,
       "name": "Propose",
       "url": "https://open.spotify.com/track/5yygP5IhQWB6NExGRGziYZ"
-    },
-    {
-      "added_at": "2022-09-07 13:39:46",
-      "album": {
-        "name": "Cliche",
-        "url": "https://open.spotify.com/album/0HvDuRpsbzr3ZMewq2zIxE"
-      },
-      "artists": [
-        {
-          "name": "ROJO",
-          "url": "https://open.spotify.com/artist/5fb2Jm0wQjvBzc5Wu6RrGl"
-        }
-      ],
-      "duration_ms": 186697,
-      "name": "Cliche",
-      "url": "https://open.spotify.com/track/3j4S4QDWyHo1pBrhLfUgqM"
     },
     {
       "added_at": "2022-09-07 13:39:46",
@@ -1207,6 +1207,38 @@
     {
       "added_at": "2022-09-07 13:39:46",
       "album": {
+        "name": "Heart in Motion",
+        "url": "https://open.spotify.com/album/4mFnHs0Q8PXVeibICq4w15"
+      },
+      "artists": [
+        {
+          "name": "The Green Tea",
+          "url": "https://open.spotify.com/artist/2YSSfMg2K75oTvfc63kGQB"
+        }
+      ],
+      "duration_ms": 227853,
+      "name": "Heart in Motion",
+      "url": "https://open.spotify.com/track/7p23qMHn32rwnIcGIFJxgK"
+    },
+    {
+      "added_at": "2022-09-07 13:39:46",
+      "album": {
+        "name": "Cliche",
+        "url": "https://open.spotify.com/album/0HvDuRpsbzr3ZMewq2zIxE"
+      },
+      "artists": [
+        {
+          "name": "ROJO",
+          "url": "https://open.spotify.com/artist/5fb2Jm0wQjvBzc5Wu6RrGl"
+        }
+      ],
+      "duration_ms": 186697,
+      "name": "Cliche",
+      "url": "https://open.spotify.com/track/3j4S4QDWyHo1pBrhLfUgqM"
+    },
+    {
+      "added_at": "2022-09-07 13:39:46",
+      "album": {
         "name": "\ub098\ube44",
         "url": "https://open.spotify.com/album/0J1t80ksf1tqqLJodid9Cs"
       },
@@ -1219,38 +1251,6 @@
       "duration_ms": 239613,
       "name": "\ub098\ube44",
       "url": "https://open.spotify.com/track/1R1mvOZ2cfnM39erhGQ5WQ"
-    },
-    {
-      "added_at": "2022-09-07 13:39:46",
-      "album": {
-        "name": "ALL NIGHT",
-        "url": "https://open.spotify.com/album/0XZS1yym1vkZJE3z1KUIP7"
-      },
-      "artists": [
-        {
-          "name": "D2ear",
-          "url": "https://open.spotify.com/artist/46e3baMTsmabXSJD2LjVeo"
-        }
-      ],
-      "duration_ms": 208000,
-      "name": "\uace0\uc591\uc774\uc758 \uc0b0\ucc45",
-      "url": "https://open.spotify.com/track/3omQ4YiFuiHpP7WVJy5LZK"
-    },
-    {
-      "added_at": "2022-09-07 13:39:46",
-      "album": {
-        "name": "First time ... ing",
-        "url": "https://open.spotify.com/album/5wtn5mvEtk7f1qDqQrE0Ax"
-      },
-      "artists": [
-        {
-          "name": "Love recipe",
-          "url": "https://open.spotify.com/artist/5N3TjdglYn7FkcNU4Rcyzu"
-        }
-      ],
-      "duration_ms": 230610,
-      "name": "forever",
-      "url": "https://open.spotify.com/track/1zgGCWMf6OOh2IP7OmkI03"
     }
   ],
   "unique_name": "Mukbang* (\ub2ec\ucf64\uba39\ubc29*)",

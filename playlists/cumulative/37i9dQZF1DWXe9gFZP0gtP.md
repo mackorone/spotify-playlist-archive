@@ -4,7 +4,7 @@
 
 > Calm your mind with gentle piano and ambient.
 
-296 songs - 14 hr 40 min - [published](https://open.spotify.com/playlist/7wZ6R9ir4o1jCeBuEOr8FQ)
+297 songs - 14 hr 43 min - [published](https://open.spotify.com/playlist/7wZ6R9ir4o1jCeBuEOr8FQ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,7 +71,7 @@
 | [Dans le noir](https://open.spotify.com/track/6oL6yOWVL8zJfwg2mlkMag) | [Charmaine D'Avis](https://open.spotify.com/artist/62nJsaKqTjBj5aHPE1RyqZ) | [Dans le noir](https://open.spotify.com/album/3xz6IHjv56jfGLIVTsgS1p) | 2:58 | 2022-01-11 |  |
 | [Dark Lights](https://open.spotify.com/track/7hb9cJh5t16WJiRWVPbzMZ) | [Emmitt Howard](https://open.spotify.com/artist/4ZWPxlJt6aJXZ6ZqtSKsDe) | [Dark Lights](https://open.spotify.com/album/24jHwcu0OnEKV4DCiiCxRF) | 2:37 | 2021-12-17 |  |
 | [darker area](https://open.spotify.com/track/5zIMS6F6nMXAl4Jt1xu39L) | [Fluvis](https://open.spotify.com/artist/7bQwDNMLfpbXVUyUxfN7XX) | [darker area](https://open.spotify.com/album/2BsZnscrvvgIvlqHWyCjf7) | 3:38 | 2022-08-05 |  |
-| [Deep Blue](https://open.spotify.com/track/2fwWL41PZuEciP57NfTE5g) | [Lou D'Audrey](https://open.spotify.com/artist/1Af7tZT5ll2gtgG4jO1Kxl) | [Sleep & Relaxation Music](https://open.spotify.com/album/4CeV5y1m1WFUZraBTiTr8H) | 2:54 | 2021-12-17 |  |
+| [Deep Blue](https://open.spotify.com/track/2fwWL41PZuEciP57NfTE5g) | [Lou D'Audrey](https://open.spotify.com/artist/1Af7tZT5ll2gtgG4jO1Kxl) | [Sleep & Relaxation Music](https://open.spotify.com/album/4CeV5y1m1WFUZraBTiTr8H) | 2:54 | 2021-12-17 | 2022-10-08 |
 | [Deep Down The Cave](https://open.spotify.com/track/4IBQllOXx6Ct9Bidmj3yyF) | [Xavier Ortando](https://open.spotify.com/artist/5DUWKbIv5XlkqcmXNqZYme) | [Deep Down The Cave](https://open.spotify.com/album/31o5l9eR13wwNBTJzCJ1Jt) | 3:14 | 2021-12-17 |  |
 | [Departure](https://open.spotify.com/track/0bhLghTqOh2BqW8XJlcHTn) | [Vendela Rose](https://open.spotify.com/artist/31fLMu6uyged4QpGx1VqA0) | [Departure](https://open.spotify.com/album/7vJaAQ8mCpUdLpliV5dTWT) | 3:01 | 2021-12-17 | 2022-07-09 |
 | [Descanso](https://open.spotify.com/track/7l5zGxgpsEbhKtL8t13LAM) | [Josep Alba](https://open.spotify.com/artist/67X3gp8Bvmxl4fmYcuX7JG) | [Descanso](https://open.spotify.com/album/1u7CqT3V9mFsVkujPEOpJy) | 3:47 | 2021-12-17 | 2022-04-22 |
@@ -168,7 +168,7 @@
 | [Lucerne](https://open.spotify.com/track/023i4Phiw266d2OaRbudOg) | [Lorah Weber](https://open.spotify.com/artist/6KPIG4JnXUCcKZPGD8aE5R) | [Lucerne](https://open.spotify.com/album/5SvO1rgtXSxI44z0M53if2) | 3:17 | 2021-12-17 |  |
 | [Luminescence](https://open.spotify.com/track/5IaT7YXAiWiW6sl2COCOx6) | [Jerzy Stól](https://open.spotify.com/artist/6bBst9TjOI1WYBRjx9LZb1) | [Luminescence](https://open.spotify.com/album/1iYFq98gSd6REc7Pqhzyhu) | 2:08 | 2021-12-17 |  |
 | [Luna’s Ways](https://open.spotify.com/track/6IEE3o7MIgSEnJ3RxgEOwl) | [Author S](https://open.spotify.com/artist/7velK5j4c1vTfJLItteMBm) | [Luna’s Ways](https://open.spotify.com/album/6dZ0uWEtxqYGdHykwDYhaJ) | 2:45 | 2021-12-17 |  |
-| [Lyrebird](https://open.spotify.com/track/72mDETn3Ba8yVewAcqnlqQ) | [Keira Conlon](https://open.spotify.com/artist/2PeXm2l3nGWuNKDr7ATimr) | [Lyrebird](https://open.spotify.com/album/73YZiV6JEfhRBr855r2fvk) | 2:33 | 2021-12-17 |  |
+| [Lyrebird](https://open.spotify.com/track/72mDETn3Ba8yVewAcqnlqQ) | [Keira Conlon](https://open.spotify.com/artist/2PeXm2l3nGWuNKDr7ATimr) | [Lyrebird](https://open.spotify.com/album/73YZiV6JEfhRBr855r2fvk) | 2:33 | 2021-12-17 | 2022-10-08 |
 | [Meanderings](https://open.spotify.com/track/2CfenHxehhJfjaeVuw2WB1) | [Finleigh](https://open.spotify.com/artist/1KcMYDu3nBxDYlcYwrsEAA) | [Meanderings](https://open.spotify.com/album/0BMNAYE35dvdLhkP9wZEtL) | 3:44 | 2021-12-17 |  |
 | [Meet Me At Sundown](https://open.spotify.com/track/1kw7n9ACTz07NuIYqCm3F9) | [Kamila Tait](https://open.spotify.com/artist/25FanX6VBnV0irqD9A6IwL) | [Meet Me At Sundown](https://open.spotify.com/album/1pNSmEmqhgPi5RrEjWqMLZ) | 3:05 | 2022-06-16 |  |
 | [Mellow River](https://open.spotify.com/track/0Uz8UHO1PM5sh2XwRLfuRD) | [Mellow Mountain](https://open.spotify.com/artist/4nhyKupGKrTJj8f8whWa8L) | [Mellow River](https://open.spotify.com/album/733ICAjDCWrMvnfHEL94iz) | 3:30 | 2022-05-25 |  |
@@ -281,6 +281,7 @@
 | [Through Your Eyes](https://open.spotify.com/track/1DERFIlUdiUtFCoLQIGdLj) | [Don Mazuck](https://open.spotify.com/artist/45zt0raIfZd0fb6yzSneno) | [Through Your Eyes](https://open.spotify.com/album/5yaMmCGAb7Auv5ZbX0flBQ) | 2:49 | 2021-12-17 |  |
 | [Tiniebla](https://open.spotify.com/track/1uGy4uNI3SeVUien40Dtzo) | [Pearl Melendez](https://open.spotify.com/artist/6UGfKivLtHEJnrNdPcZHZh) | [Tiniebla](https://open.spotify.com/album/658s4v4gvYkydLyeuaMhsd) | 3:29 | 2021-12-17 |  |
 | [Translucence](https://open.spotify.com/track/5loW6ZqyIkk5gFJXQ3PnTu) | [Megan Wofford](https://open.spotify.com/artist/3ac7SLoq4Rbms8XZE0rdkA) | [Translucence](https://open.spotify.com/album/3MVnjQwLiReiuMeIjkLu3y) | 2:40 | 2021-12-17 | 2021-12-23 |
+| [Transparency](https://open.spotify.com/track/1dzuUe9zsLpy2Ly7Zp2dWD) | [Adam Waldau](https://open.spotify.com/artist/1m8n33vsOT7I7sBgn1s4sz) | [Everlasting](https://open.spotify.com/album/1TnUFxpG8VW7GrAJLV7u3Y) | 2:59 | 2022-10-07 |  |
 | [Traumlandschaft](https://open.spotify.com/track/0KOenusM2ayoQfGrhBf5Q9) | [Kaiser Hulenstadt](https://open.spotify.com/artist/1oFe0IcP3ZDv5MK0sbq8tS) | [Traumlandschaft](https://open.spotify.com/album/1iT68T2iKzYilM8pEhy0uP) | 3:19 | 2021-12-17 |  |
 | [True Nature](https://open.spotify.com/track/0BlqzRjRBPENOWus0io6Pt) | [Arush Mandal](https://open.spotify.com/artist/5WSATrMjcuhKibg0jp4uHI) | [Meaning](https://open.spotify.com/album/2pmu77y9s1ou2j6iLPCim5) | 2:41 | 2021-12-17 | 2022-09-03 |
 | [Trust the Universe](https://open.spotify.com/track/4P7LF3ktiDORMF1coYTf66) | [Chama Wijnen](https://open.spotify.com/artist/7ftRhte6NNzoF9MIKfKJsP) | [Trust the Universe](https://open.spotify.com/album/7yqbDPDVpLpJAjBTHAgUme) | 2:49 | 2021-12-17 |  |
@@ -293,7 +294,7 @@
 | [Waiting](https://open.spotify.com/track/4ZSGXijB26jEnbOknNDzTT) | [Selma Ström](https://open.spotify.com/artist/62k2sifCiGij6HZx3Z7dTp) | [Waiting](https://open.spotify.com/album/6VyRgVoqU92qlLzn67RsSJ) | 2:13 | 2021-12-17 |  |
 | [Wanderstar](https://open.spotify.com/track/5cbkiCRy1LVLiAl1q64n2S) | [Amel Scott](https://open.spotify.com/artist/4lOnTI7pZfZeLAQ4z2idCd) | [Aphelion](https://open.spotify.com/album/02klELVwcPeTcA90xuW9G3) | 2:40 | 2021-12-17 |  |
 | [Wave After Wave](https://open.spotify.com/track/3OUKRGnpsMenK14ZDdSHmk) | [The Only Star In The Sky](https://open.spotify.com/artist/0V0CTs5Y6qKqbzZ7lomgkz) | [Wave After Wave EP](https://open.spotify.com/album/2BTITyM3Rlo6tL1Z2wnZj2) | 3:32 | 2021-12-17 | 2022-09-03 |
-| [Way of Shadows](https://open.spotify.com/track/71mN9aVMlm4vBZ6YzKPKeR) | [Astral Shade](https://open.spotify.com/artist/42c3aLrVih68JMreBuRe8m) | [Cloudless Night](https://open.spotify.com/album/2PNoGpXnFx0qIxy5VXJboe) | 2:55 | 2021-12-17 |  |
+| [Way of Shadows](https://open.spotify.com/track/71mN9aVMlm4vBZ6YzKPKeR) | [Astral Shade](https://open.spotify.com/artist/42c3aLrVih68JMreBuRe8m) | [Cloudless Night](https://open.spotify.com/album/2PNoGpXnFx0qIxy5VXJboe) | 2:55 | 2021-12-17 | 2022-10-08 |
 | [What's Best For You](https://open.spotify.com/track/3YPMSEyEJkYpvQB1kcs5Rl) | [Esmay Gouin](https://open.spotify.com/artist/7FmXiPBaufqqZHoBmGEiCx) | [What's Best For You](https://open.spotify.com/album/2k0IJZavMYJ2Pi3ZRymD86) | 3:38 | 2021-12-17 | 2022-04-15 |
 | [When It Was Just A Dream](https://open.spotify.com/track/286oXCQiXd21D7WVeMMYCc) | [Diya Wiler](https://open.spotify.com/artist/0DZNNKLNypEjKUpkgJS01w) | [When It Was Just A Dream](https://open.spotify.com/album/4jmFY2PjbsmX14YRwENDJZ) | 3:25 | 2021-12-17 |  |
 | [Where Dreams Begin](https://open.spotify.com/track/6Q3W3lQNWQJ3wGzXlAmHd7) | [Acirassi](https://open.spotify.com/artist/30uYGdJCm0u2mNZzICXAf9) | [Where Dreams Begin](https://open.spotify.com/album/0PsJWHZYcrJYa6TOIBamrD) | 2:43 | 2021-12-17 |  |

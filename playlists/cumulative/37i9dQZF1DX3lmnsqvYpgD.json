@@ -997,6 +997,28 @@
     {
       "album": {
         "name": "\u4e9e\u6c34",
+        "url": "https://open.spotify.com/album/3Tq4VEvtEoMpG3qh8fR145"
+      },
+      "artists": [
+        {
+          "name": "Jan Curious",
+          "url": "https://open.spotify.com/artist/1DxU7yGnE1XPeLYzOHdKSy"
+        },
+        {
+          "name": "Eric Kot",
+          "url": "https://open.spotify.com/artist/7IbWEU61yGFiosm9FHPOfZ"
+        }
+      ],
+      "date_added": "2022-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247125,
+      "name": "\u65e9\u6668 (feat. Eric Kot)",
+      "url": "https://open.spotify.com/track/7wEPNiTuG6LrNwBByWTNxx"
+    },
+    {
+      "album": {
+        "name": "\u4e9e\u6c34",
         "url": "https://open.spotify.com/album/5BIynFkSbcq2esNGgH4YwO"
       },
       "artists": [
@@ -1011,7 +1033,7 @@
       ],
       "date_added": "2022-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-09",
       "duration_ms": 247125,
       "name": "\u65e9\u6668 (feat. Eric Kot)",
       "url": "https://open.spotify.com/track/27sNF04M9kZJ5hO9b6aSws"

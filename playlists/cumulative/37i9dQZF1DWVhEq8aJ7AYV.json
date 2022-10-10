@@ -852,6 +852,24 @@
     },
     {
       "album": {
+        "name": "Defcon 5...4...3...2...1",
+        "url": "https://open.spotify.com/album/5b59CWlbRYqdAJkoj1gQKe"
+      },
+      "artists": [
+        {
+          "name": "Man Or Astro-Man?",
+          "url": "https://open.spotify.com/artist/3z3lEz2qH5h6qJa8DYukxY"
+        }
+      ],
+      "date_added": "2021-09-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-10",
+      "duration_ms": 193796,
+      "name": "Defcon 5",
+      "url": "https://open.spotify.com/track/5Esuk5nhe9nBgTDLXZWh0V"
+    },
+    {
+      "album": {
         "name": "Canten en Espanol",
         "url": "https://open.spotify.com/album/4fP6yefBsMCraBXac208kD"
       },
@@ -3785,7 +3803,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-02",
+      "date_removed": "2022-10-08",
       "duration_ms": 160493,
       "name": "Tierra del Fuego",
       "url": "https://open.spotify.com/track/1RXRAgFZxwgfodanVexAfO"

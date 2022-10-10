@@ -19,7 +19,7 @@
       ],
       "date_added": "2022-09-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-26",
+      "date_removed": null,
       "duration_ms": 194000,
       "name": "A la Media Noche",
       "url": "https://open.spotify.com/track/5IWjqjTkrXqQTouW3jkRNX"
@@ -55,7 +55,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-09",
       "duration_ms": 128106,
       "name": "Ando Buscando un Amor",
       "url": "https://open.spotify.com/track/0ksbIDHroMobXN8Z0IiZ3I"
@@ -347,6 +347,24 @@
       "duration_ms": 163466,
       "name": "El Caminante",
       "url": "https://open.spotify.com/track/20cJBbPZFn5BmqBbwxuHXS"
+    },
+    {
+      "album": {
+        "name": "Corridos y Canciones",
+        "url": "https://open.spotify.com/album/0PYwmrtNkESu3DPBZ6fVcZ"
+      },
+      "artists": [
+        {
+          "name": "Banda Toro",
+          "url": "https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg"
+        }
+      ],
+      "date_added": "2022-10-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-07",
+      "duration_ms": 206880,
+      "name": "El Cantador - Estilo Tierra Caliente",
+      "url": "https://open.spotify.com/track/7Fjs5cOOmfvARZF2BlCXlX"
     },
     {
       "album": {
@@ -643,7 +661,7 @@
       ],
       "date_added": "2022-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-05",
       "duration_ms": 168733,
       "name": "La Calandria - Estilo Tierra Caliente",
       "url": "https://open.spotify.com/track/304PEdacbiytbOI3tRmO2I"
@@ -913,7 +931,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-02",
+      "date_removed": "2022-10-09",
       "duration_ms": 195946,
       "name": "Me Rio de Miedo",
       "url": "https://open.spotify.com/track/6WyCpcJaffr4lE9dmw0CiE"
@@ -935,7 +953,7 @@
       ],
       "date_added": "2022-06-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-30",
+      "date_removed": null,
       "duration_ms": 166000,
       "name": "Mi Amiga Mi Esposa y Mi Amante",
       "url": "https://open.spotify.com/track/1D72stKLFdW30djzszFRgc"
@@ -1155,7 +1173,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-02",
+      "date_removed": "2022-10-07",
       "duration_ms": 184253,
       "name": "Sabor Amargo",
       "url": "https://open.spotify.com/track/5pfKvfTbFIhOL5JUe1Cshr"

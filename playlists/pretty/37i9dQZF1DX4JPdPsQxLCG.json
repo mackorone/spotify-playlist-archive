@@ -1,12 +1,12 @@
 {
   "description": "Classic tunes to soundtrack your weekend. Cover: The Tragically Hip",
-  "num_followers": 49546,
+  "num_followers": 49579,
   "original_name": "Canadian Weekend",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzEwNjE0NCwwMDAwMDAwMGZjY2ZhYzNjOTc3ZDczZTIzYzJjNWQxMDNhZmU1ZGE2",
+  "snapshot_id": "MTY2MzEwNjE0NCwwMDAwMDAwMDYyM2YzNjA3ZGY4ZWI3YzVlMTJiMWJmMGQyNzMzYThm",
   "tracks": [
     {
       "added_at": "2022-09-13 21:55:44",
@@ -188,7 +188,7 @@
       "added_at": "2022-09-13 21:55:44",
       "album": {
         "name": "Reliever",
-        "url": "https://open.spotify.com/album/6sesQu02oxMGUbhYViaVTN"
+        "url": "https://open.spotify.com/album/6f6IZDYwtBOGjJZxBiRUhF"
       },
       "artists": [
         {
@@ -198,7 +198,7 @@
       ],
       "duration_ms": 239693,
       "name": "The Spark",
-      "url": "https://open.spotify.com/track/11AyynOmB7yiXr84DzEsxj"
+      "url": "https://open.spotify.com/track/2Tw18xvENjmh7MBPCJNBcP"
     },
     {
       "added_at": "2022-09-13 21:55:44",
@@ -315,22 +315,6 @@
     {
       "added_at": "2022-09-13 21:55:44",
       "album": {
-        "name": "Mad Mad World (Deluxe)",
-        "url": "https://open.spotify.com/album/1Jn0dHH6ztd0CD7lstrIR8"
-      },
-      "artists": [
-        {
-          "name": "Tom Cochrane",
-          "url": "https://open.spotify.com/artist/5Jj4mqGYiplyowPLKkJLHt"
-        }
-      ],
-      "duration_ms": 266080,
-      "name": "Life Is A Highway",
-      "url": "https://open.spotify.com/track/7jIFGkTBIK1UwWaEXMW2Nh"
-    },
-    {
-      "added_at": "2022-09-13 21:55:44",
-      "album": {
         "name": "Bachman-Turner Overdrive II",
         "url": "https://open.spotify.com/album/1p2tbwfEfN8kZNOi4F3bGH"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 212893,
       "name": "Born To Be Wild - Single Version",
       "url": "https://open.spotify.com/track/3lN8PP6R2IxbLP05QpYXng"
+    },
+    {
+      "added_at": "2022-09-13 21:55:44",
+      "album": {
+        "name": "Mad Mad World (Deluxe)",
+        "url": "https://open.spotify.com/album/1Jn0dHH6ztd0CD7lstrIR8"
+      },
+      "artists": [
+        {
+          "name": "Tom Cochrane",
+          "url": "https://open.spotify.com/artist/5Jj4mqGYiplyowPLKkJLHt"
+        }
+      ],
+      "duration_ms": 266080,
+      "name": "Life Is A Highway",
+      "url": "https://open.spotify.com/track/7jIFGkTBIK1UwWaEXMW2Nh"
     },
     {
       "added_at": "2022-09-13 21:55:44",
@@ -395,22 +395,6 @@
     {
       "added_at": "2022-09-13 21:55:44",
       "album": {
-        "name": "Songs Of Leonard Cohen",
-        "url": "https://open.spotify.com/album/2Aiv0ThDpFa7lqHphR6MN5"
-      },
-      "artists": [
-        {
-          "name": "Leonard Cohen",
-          "url": "https://open.spotify.com/artist/5l8VQNuIg0turYE1VtM9zV"
-        }
-      ],
-      "duration_ms": 229293,
-      "name": "Suzanne",
-      "url": "https://open.spotify.com/track/2L93TdW2GMue1H2zlkt30F"
-    },
-    {
-      "added_at": "2022-09-13 21:55:44",
-      "album": {
         "name": "If You Could Read My Mind",
         "url": "https://open.spotify.com/album/6bzqUICBtzct7TiQC8if9s"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 228840,
       "name": "If You Could Read My Mind",
       "url": "https://open.spotify.com/track/57ct8jKi6trntXiRV0NnXi"
+    },
+    {
+      "added_at": "2022-09-13 21:55:44",
+      "album": {
+        "name": "Songs Of Leonard Cohen",
+        "url": "https://open.spotify.com/album/2Aiv0ThDpFa7lqHphR6MN5"
+      },
+      "artists": [
+        {
+          "name": "Leonard Cohen",
+          "url": "https://open.spotify.com/artist/5l8VQNuIg0turYE1VtM9zV"
+        }
+      ],
+      "duration_ms": 229293,
+      "name": "Suzanne",
+      "url": "https://open.spotify.com/track/2L93TdW2GMue1H2zlkt30F"
     },
     {
       "added_at": "2022-09-13 21:55:44",
@@ -475,6 +475,22 @@
     {
       "added_at": "2022-09-13 21:55:44",
       "album": {
+        "name": "A Farewell To Kings",
+        "url": "https://open.spotify.com/album/18i33u5FvfvgHjZMulpyO2"
+      },
+      "artists": [
+        {
+          "name": "Rush",
+          "url": "https://open.spotify.com/artist/2Hkut4rAAyrQxRdof7FVJq"
+        }
+      ],
+      "duration_ms": 171960,
+      "name": "Closer To The Heart",
+      "url": "https://open.spotify.com/track/4u3oXuVeOGoByIMz9pnOKf"
+    },
+    {
+      "added_at": "2022-09-13 21:55:44",
+      "album": {
         "name": "Loverboy",
         "url": "https://open.spotify.com/album/3dDzAVWr5gjvJIOTEuS309"
       },
@@ -523,22 +539,6 @@
     {
       "added_at": "2022-09-13 21:55:44",
       "album": {
-        "name": "A Farewell To Kings",
-        "url": "https://open.spotify.com/album/18i33u5FvfvgHjZMulpyO2"
-      },
-      "artists": [
-        {
-          "name": "Rush",
-          "url": "https://open.spotify.com/artist/2Hkut4rAAyrQxRdof7FVJq"
-        }
-      ],
-      "duration_ms": 171960,
-      "name": "Closer To The Heart",
-      "url": "https://open.spotify.com/track/4u3oXuVeOGoByIMz9pnOKf"
-    },
-    {
-      "added_at": "2022-09-13 21:55:44",
-      "album": {
         "name": "Glee",
         "url": "https://open.spotify.com/album/5YMokuqZmSpvwlnbBhUaAp"
       },
@@ -551,22 +551,6 @@
       "duration_ms": 236066,
       "name": "Drinking in L.A.",
       "url": "https://open.spotify.com/track/4WEaJQLlhlkOU7YJDLhn7x"
-    },
-    {
-      "added_at": "2022-09-13 21:55:44",
-      "album": {
-        "name": "Akimbo Alogo",
-        "url": "https://open.spotify.com/album/3O03q0mEZ2VshJ4EmpkgTO"
-      },
-      "artists": [
-        {
-          "name": "Kim Mitchell",
-          "url": "https://open.spotify.com/artist/5P6mPJKEwpIgjFIIFZhEma"
-        }
-      ],
-      "duration_ms": 205600,
-      "name": "Go For Soda",
-      "url": "https://open.spotify.com/track/36iHMTOAr9S4y0WvuWQtvm"
     },
     {
       "added_at": "2022-09-13 21:55:44",
@@ -599,6 +583,38 @@
       "duration_ms": 255893,
       "name": "Insensitive",
       "url": "https://open.spotify.com/track/0yx00RNuvZY5Vn8nlpUnMk"
+    },
+    {
+      "added_at": "2022-09-13 21:55:44",
+      "album": {
+        "name": "Akimbo Alogo",
+        "url": "https://open.spotify.com/album/3O03q0mEZ2VshJ4EmpkgTO"
+      },
+      "artists": [
+        {
+          "name": "Kim Mitchell",
+          "url": "https://open.spotify.com/artist/5P6mPJKEwpIgjFIIFZhEma"
+        }
+      ],
+      "duration_ms": 205600,
+      "name": "Go For Soda",
+      "url": "https://open.spotify.com/track/36iHMTOAr9S4y0WvuWQtvm"
+    },
+    {
+      "added_at": "2022-09-13 21:55:44",
+      "album": {
+        "name": "Gord's Gold",
+        "url": "https://open.spotify.com/album/6okC12pcFeLZOifXdunuhQ"
+      },
+      "artists": [
+        {
+          "name": "Gordon Lightfoot",
+          "url": "https://open.spotify.com/artist/23rleGXVOVVgTk3xgtmfE4"
+        }
+      ],
+      "duration_ms": 198066,
+      "name": "Early Morning Rain",
+      "url": "https://open.spotify.com/track/5M1gX3DQvgc7GI6dBWX9FL"
     },
     {
       "added_at": "2022-09-13 21:55:44",
@@ -651,22 +667,6 @@
     {
       "added_at": "2022-09-13 21:55:44",
       "album": {
-        "name": "Gord's Gold",
-        "url": "https://open.spotify.com/album/6okC12pcFeLZOifXdunuhQ"
-      },
-      "artists": [
-        {
-          "name": "Gordon Lightfoot",
-          "url": "https://open.spotify.com/artist/23rleGXVOVVgTk3xgtmfE4"
-        }
-      ],
-      "duration_ms": 198066,
-      "name": "Early Morning Rain",
-      "url": "https://open.spotify.com/track/5M1gX3DQvgc7GI6dBWX9FL"
-    },
-    {
-      "added_at": "2022-09-13 21:55:44",
-      "album": {
         "name": "Bring Me Your Love (Special Edition)",
         "url": "https://open.spotify.com/album/1GYDVFWPK1HFI3TRWmj7hr"
       },
@@ -715,38 +715,6 @@
     {
       "added_at": "2022-09-13 21:55:44",
       "album": {
-        "name": "The World According To Gob",
-        "url": "https://open.spotify.com/album/5W9KaweYXnOVDlG7UjIbCb"
-      },
-      "artists": [
-        {
-          "name": "Gob",
-          "url": "https://open.spotify.com/artist/0c4fpXIFPFNve1CxmGgXQf"
-        }
-      ],
-      "duration_ms": 191266,
-      "name": "I Hear You Calling",
-      "url": "https://open.spotify.com/track/7KsLCoGgjP1tsGPJuvi2SX"
-    },
-    {
-      "added_at": "2022-09-13 21:55:44",
-      "album": {
-        "name": "Up To Here",
-        "url": "https://open.spotify.com/album/4gmKiB0dtmPWjzbDM5N7Jv"
-      },
-      "artists": [
-        {
-          "name": "The Tragically Hip",
-          "url": "https://open.spotify.com/artist/0YMeriqrS3zgsX24nfY0F0"
-        }
-      ],
-      "duration_ms": 257440,
-      "name": "New Orleans Is Sinking",
-      "url": "https://open.spotify.com/track/6v4pemwpkW7msCbBtSJf15"
-    },
-    {
-      "added_at": "2022-09-13 21:55:44",
-      "album": {
         "name": "I'm Your Man",
         "url": "https://open.spotify.com/album/3gUw30X6A7WEGcRdv1nFr9"
       },
@@ -763,34 +731,18 @@
     {
       "added_at": "2022-09-13 21:55:44",
       "album": {
-        "name": "Boy In The Box",
-        "url": "https://open.spotify.com/album/5WrZRRqfnVPr9EbNSqG0cN"
+        "name": "The World According To Gob",
+        "url": "https://open.spotify.com/album/5W9KaweYXnOVDlG7UjIbCb"
       },
       "artists": [
         {
-          "name": "Corey Hart",
-          "url": "https://open.spotify.com/artist/0smy8yDrRoI4CnhpOuthg0"
+          "name": "Gob",
+          "url": "https://open.spotify.com/artist/0c4fpXIFPFNve1CxmGgXQf"
         }
       ],
-      "duration_ms": 295000,
-      "name": "Never Surrender",
-      "url": "https://open.spotify.com/track/5U5p472hgeXUKvh0d8RL4K"
-    },
-    {
-      "added_at": "2022-09-13 21:55:44",
-      "album": {
-        "name": "Cuts Like A Knife",
-        "url": "https://open.spotify.com/album/5ZZ5S9fqcpQo4N3n7nPUk7"
-      },
-      "artists": [
-        {
-          "name": "Bryan Adams",
-          "url": "https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc"
-        }
-      ],
-      "duration_ms": 319800,
-      "name": "Cuts Like A Knife",
-      "url": "https://open.spotify.com/track/5oZ2YnJxTXl7CdJJKehPHR"
+      "duration_ms": 191266,
+      "name": "I Hear You Calling",
+      "url": "https://open.spotify.com/track/7KsLCoGgjP1tsGPJuvi2SX"
     },
     {
       "added_at": "2022-09-13 21:55:44",
@@ -811,66 +763,50 @@
     {
       "added_at": "2022-09-13 21:55:44",
       "album": {
-        "name": "The Thin Red Line (Deluxe)",
-        "url": "https://open.spotify.com/album/6kpcZGUWKsAtrWv7EYCLbV"
+        "name": "Cuts Like A Knife",
+        "url": "https://open.spotify.com/album/5ZZ5S9fqcpQo4N3n7nPUk7"
       },
       "artists": [
         {
-          "name": "Glass Tiger",
-          "url": "https://open.spotify.com/artist/53RaPTbZOx2mBoZD6LLWIv"
+          "name": "Bryan Adams",
+          "url": "https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc"
         }
       ],
-      "duration_ms": 248200,
-      "name": "Don't Forget Me (When I'm Gone)",
-      "url": "https://open.spotify.com/track/2G0ioyDyvIT1hu71VePzOL"
+      "duration_ms": 319800,
+      "name": "Cuts Like A Knife",
+      "url": "https://open.spotify.com/track/5oZ2YnJxTXl7CdJJKehPHR"
     },
     {
       "added_at": "2022-09-13 21:55:44",
       "album": {
-        "name": "Gravity",
-        "url": "https://open.spotify.com/album/6jno7QiWnaOHtMiZctBJBd"
+        "name": "Up To Here",
+        "url": "https://open.spotify.com/album/4gmKiB0dtmPWjzbDM5N7Jv"
       },
       "artists": [
         {
-          "name": "Our Lady Peace",
-          "url": "https://open.spotify.com/artist/1lqW59DUEKqvcHc8mVWBtH"
+          "name": "The Tragically Hip",
+          "url": "https://open.spotify.com/artist/0YMeriqrS3zgsX24nfY0F0"
         }
       ],
-      "duration_ms": 222466,
-      "name": "Innocent",
-      "url": "https://open.spotify.com/track/5mFyCVEII6mp5YPPYQfTck"
+      "duration_ms": 257440,
+      "name": "New Orleans Is Sinking",
+      "url": "https://open.spotify.com/track/6v4pemwpkW7msCbBtSJf15"
     },
     {
       "added_at": "2022-09-13 21:55:44",
       "album": {
-        "name": "Absolutely Right - The Best Of Five Man Electrical Band",
-        "url": "https://open.spotify.com/album/5W6F5tJqFnmmbPV4oJKbbR"
+        "name": "Boy In The Box",
+        "url": "https://open.spotify.com/album/5WrZRRqfnVPr9EbNSqG0cN"
       },
       "artists": [
         {
-          "name": "Five Man Electrical Band",
-          "url": "https://open.spotify.com/artist/1GjVNyMzPjdBuip6Xanllu"
+          "name": "Corey Hart",
+          "url": "https://open.spotify.com/artist/0smy8yDrRoI4CnhpOuthg0"
         }
       ],
-      "duration_ms": 241693,
-      "name": "Signs",
-      "url": "https://open.spotify.com/track/5KWXi2eCYsC6ofIILjvG4V"
-    },
-    {
-      "added_at": "2022-09-13 21:55:44",
-      "album": {
-        "name": "Honeymoon Suite",
-        "url": "https://open.spotify.com/album/30S6ZGFNC9KcUZeOqxuq3n"
-      },
-      "artists": [
-        {
-          "name": "Honeymoon Suite",
-          "url": "https://open.spotify.com/artist/7kFyhQTV7cbd3iSYW2yt1Q"
-        }
-      ],
-      "duration_ms": 216693,
-      "name": "New Girl Now",
-      "url": "https://open.spotify.com/track/1grnSNpTAe14gjtqfArZan"
+      "duration_ms": 295000,
+      "name": "Never Surrender",
+      "url": "https://open.spotify.com/track/5U5p472hgeXUKvh0d8RL4K"
     },
     {
       "added_at": "2022-09-13 21:55:44",
@@ -891,6 +827,70 @@
     {
       "added_at": "2022-09-13 21:55:44",
       "album": {
+        "name": "Gravity",
+        "url": "https://open.spotify.com/album/6jno7QiWnaOHtMiZctBJBd"
+      },
+      "artists": [
+        {
+          "name": "Our Lady Peace",
+          "url": "https://open.spotify.com/artist/1lqW59DUEKqvcHc8mVWBtH"
+        }
+      ],
+      "duration_ms": 222466,
+      "name": "Innocent",
+      "url": "https://open.spotify.com/track/5mFyCVEII6mp5YPPYQfTck"
+    },
+    {
+      "added_at": "2022-09-13 21:55:44",
+      "album": {
+        "name": "Honeymoon Suite",
+        "url": "https://open.spotify.com/album/30S6ZGFNC9KcUZeOqxuq3n"
+      },
+      "artists": [
+        {
+          "name": "Honeymoon Suite",
+          "url": "https://open.spotify.com/artist/7kFyhQTV7cbd3iSYW2yt1Q"
+        }
+      ],
+      "duration_ms": 216693,
+      "name": "New Girl Now",
+      "url": "https://open.spotify.com/track/1grnSNpTAe14gjtqfArZan"
+    },
+    {
+      "added_at": "2022-09-13 21:55:44",
+      "album": {
+        "name": "Absolutely Right - The Best Of Five Man Electrical Band",
+        "url": "https://open.spotify.com/album/5W6F5tJqFnmmbPV4oJKbbR"
+      },
+      "artists": [
+        {
+          "name": "Five Man Electrical Band",
+          "url": "https://open.spotify.com/artist/1GjVNyMzPjdBuip6Xanllu"
+        }
+      ],
+      "duration_ms": 241693,
+      "name": "Signs",
+      "url": "https://open.spotify.com/track/5KWXi2eCYsC6ofIILjvG4V"
+    },
+    {
+      "added_at": "2022-09-13 21:55:44",
+      "album": {
+        "name": "The Thin Red Line (Deluxe)",
+        "url": "https://open.spotify.com/album/6kpcZGUWKsAtrWv7EYCLbV"
+      },
+      "artists": [
+        {
+          "name": "Glass Tiger",
+          "url": "https://open.spotify.com/artist/53RaPTbZOx2mBoZD6LLWIv"
+        }
+      ],
+      "duration_ms": 248200,
+      "name": "Don't Forget Me (When I'm Gone)",
+      "url": "https://open.spotify.com/track/2G0ioyDyvIT1hu71VePzOL"
+    },
+    {
+      "added_at": "2022-09-13 21:55:44",
+      "album": {
         "name": "You Forgot It In People",
         "url": "https://open.spotify.com/album/6nL0U84JsEJ0cRsGCnsDnJ"
       },
@@ -903,6 +903,22 @@
       "duration_ms": 275693,
       "name": "Anthems For A Seventeen Year-Old Girl",
       "url": "https://open.spotify.com/track/0VXp4zDspR993l2hIKW17g"
+    },
+    {
+      "added_at": "2022-09-13 21:55:44",
+      "album": {
+        "name": "Naveed",
+        "url": "https://open.spotify.com/album/5Kcy45Vd27PmOoSPgi9siS"
+      },
+      "artists": [
+        {
+          "name": "Our Lady Peace",
+          "url": "https://open.spotify.com/artist/1lqW59DUEKqvcHc8mVWBtH"
+        }
+      ],
+      "duration_ms": 244040,
+      "name": "Starseed",
+      "url": "https://open.spotify.com/track/4et8vIjMkwvHvtaBp1yh70"
     },
     {
       "added_at": "2022-09-13 21:55:44",
@@ -939,22 +955,6 @@
     {
       "added_at": "2022-09-13 21:55:44",
       "album": {
-        "name": "Naveed",
-        "url": "https://open.spotify.com/album/5Kcy45Vd27PmOoSPgi9siS"
-      },
-      "artists": [
-        {
-          "name": "Our Lady Peace",
-          "url": "https://open.spotify.com/artist/1lqW59DUEKqvcHc8mVWBtH"
-        }
-      ],
-      "duration_ms": 244040,
-      "name": "Starseed",
-      "url": "https://open.spotify.com/track/4et8vIjMkwvHvtaBp1yh70"
-    },
-    {
-      "added_at": "2022-09-13 21:55:44",
-      "album": {
         "name": "A Tribe Called Red",
         "url": "https://open.spotify.com/album/1FYVy6b5R41tMIAhWS6fXJ"
       },
@@ -967,6 +967,22 @@
       "duration_ms": 219853,
       "name": "Electric Pow Wow Drum",
       "url": "https://open.spotify.com/track/5e8v4ibmsMHxHLALe5KaiZ"
+    },
+    {
+      "added_at": "2022-09-13 21:55:44",
+      "album": {
+        "name": "Sometimes",
+        "url": "https://open.spotify.com/album/4RiXxyAgLSoTNcIgPYV5dn"
+      },
+      "artists": [
+        {
+          "name": "City and Colour",
+          "url": "https://open.spotify.com/artist/74gcBzlQza1bSfob90yRhR"
+        }
+      ],
+      "duration_ms": 345013,
+      "name": "Hello, I'm In Delaware",
+      "url": "https://open.spotify.com/track/1PUh1GENlvlgu0dW28I6tY"
     },
     {
       "added_at": "2022-09-13 21:55:44",
@@ -987,18 +1003,18 @@
     {
       "added_at": "2022-09-13 21:55:44",
       "album": {
-        "name": "Knock 'Em Dead Kid",
-        "url": "https://open.spotify.com/album/4lRGegSdH4MiZGY0dCCIDQ"
+        "name": "Nature Of The Beast",
+        "url": "https://open.spotify.com/album/2jdTTnlMRfq0cWhz16FMD6"
       },
       "artists": [
         {
-          "name": "Trooper",
-          "url": "https://open.spotify.com/artist/2bT4eELLlSuDTtZWV2Z3jN"
+          "name": "April Wine",
+          "url": "https://open.spotify.com/artist/1JHzh1ETQTMoFb2CgncnTL"
         }
       ],
-      "duration_ms": 214253,
-      "name": "We're Here For A Good Time (Not A Long Time)",
-      "url": "https://open.spotify.com/track/5QSf82Wy6anGZ1NEUr1neJ"
+      "duration_ms": 235560,
+      "name": "Just Between You And Me",
+      "url": "https://open.spotify.com/track/5fsU7AtSTp0zySUf46hwbt"
     },
     {
       "added_at": "2022-09-13 21:55:44",
@@ -1015,22 +1031,6 @@
       "duration_ms": 229906,
       "name": "No Time",
       "url": "https://open.spotify.com/track/29HbvYjzl95cYA4wGIhFCd"
-    },
-    {
-      "added_at": "2022-09-13 21:55:44",
-      "album": {
-        "name": "Nature Of The Beast",
-        "url": "https://open.spotify.com/album/2jdTTnlMRfq0cWhz16FMD6"
-      },
-      "artists": [
-        {
-          "name": "April Wine",
-          "url": "https://open.spotify.com/artist/1JHzh1ETQTMoFb2CgncnTL"
-        }
-      ],
-      "duration_ms": 235560,
-      "name": "Just Between You And Me",
-      "url": "https://open.spotify.com/track/5fsU7AtSTp0zySUf46hwbt"
     },
     {
       "added_at": "2022-09-13 21:55:44",
@@ -1067,18 +1067,18 @@
     {
       "added_at": "2022-09-13 21:55:44",
       "album": {
-        "name": "Sometimes",
-        "url": "https://open.spotify.com/album/4RiXxyAgLSoTNcIgPYV5dn"
+        "name": "Knock 'Em Dead Kid",
+        "url": "https://open.spotify.com/album/4lRGegSdH4MiZGY0dCCIDQ"
       },
       "artists": [
         {
-          "name": "City and Colour",
-          "url": "https://open.spotify.com/artist/74gcBzlQza1bSfob90yRhR"
+          "name": "Trooper",
+          "url": "https://open.spotify.com/artist/2bT4eELLlSuDTtZWV2Z3jN"
         }
       ],
-      "duration_ms": 345013,
-      "name": "Hello, I'm In Delaware",
-      "url": "https://open.spotify.com/track/1PUh1GENlvlgu0dW28I6tY"
+      "duration_ms": 214253,
+      "name": "We're Here For A Good Time (Not A Long Time)",
+      "url": "https://open.spotify.com/track/5QSf82Wy6anGZ1NEUr1neJ"
     },
     {
       "added_at": "2022-09-13 21:55:44",
@@ -1143,38 +1143,6 @@
     {
       "added_at": "2022-09-13 21:55:44",
       "album": {
-        "name": "The Sheepdogs (Deluxe)",
-        "url": "https://open.spotify.com/album/6HIGCaguAPnwApqjRmYBUw"
-      },
-      "artists": [
-        {
-          "name": "The Sheepdogs",
-          "url": "https://open.spotify.com/artist/4U33udokhmKATsu8UoqUEN"
-        }
-      ],
-      "duration_ms": 190133,
-      "name": "Feeling Good",
-      "url": "https://open.spotify.com/track/1BWNpziDWyAMfGdKC2ydS6"
-    },
-    {
-      "added_at": "2022-09-13 21:55:44",
-      "album": {
-        "name": "Wide Awake Bored",
-        "url": "https://open.spotify.com/album/0AYMaqYA1iUckwV5lFLKCu"
-      },
-      "artists": [
-        {
-          "name": "Treble Charger",
-          "url": "https://open.spotify.com/artist/24DYOmDNLWoZxLh1SbNpSY"
-        }
-      ],
-      "duration_ms": 204573,
-      "name": "American Psycho",
-      "url": "https://open.spotify.com/track/7kHMq0z0nKPYDDIXltRzij"
-    },
-    {
-      "added_at": "2022-09-13 21:55:44",
-      "album": {
         "name": "Furiosity",
         "url": "https://open.spotify.com/album/671q4kHo2y178Q6VvDd6ER"
       },
@@ -1191,6 +1159,22 @@
     {
       "added_at": "2022-09-13 21:55:44",
       "album": {
+        "name": "The Sheepdogs (Deluxe)",
+        "url": "https://open.spotify.com/album/6HIGCaguAPnwApqjRmYBUw"
+      },
+      "artists": [
+        {
+          "name": "The Sheepdogs",
+          "url": "https://open.spotify.com/artist/4U33udokhmKATsu8UoqUEN"
+        }
+      ],
+      "duration_ms": 190133,
+      "name": "Feeling Good",
+      "url": "https://open.spotify.com/track/1BWNpziDWyAMfGdKC2ydS6"
+    },
+    {
+      "added_at": "2022-09-13 21:55:44",
+      "album": {
         "name": "Share The Land",
         "url": "https://open.spotify.com/album/3zlRX163Z3F9H0MWPmtiBV"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 235600,
       "name": "Share the Land",
       "url": "https://open.spotify.com/track/51krF0CyHT5AEuh81K0t0z"
+    },
+    {
+      "added_at": "2022-09-13 21:55:44",
+      "album": {
+        "name": "Wide Awake Bored",
+        "url": "https://open.spotify.com/album/0AYMaqYA1iUckwV5lFLKCu"
+      },
+      "artists": [
+        {
+          "name": "Treble Charger",
+          "url": "https://open.spotify.com/artist/24DYOmDNLWoZxLh1SbNpSY"
+        }
+      ],
+      "duration_ms": 204573,
+      "name": "American Psycho",
+      "url": "https://open.spotify.com/track/7kHMq0z0nKPYDDIXltRzij"
     },
     {
       "added_at": "2022-09-13 21:55:44",

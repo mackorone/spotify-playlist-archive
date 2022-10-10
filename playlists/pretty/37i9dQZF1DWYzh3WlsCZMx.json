@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://open.spotify.com/playlist/5FWhibjoWhSsyfQveXzmRv?si=0a61027ee6a34d36\">HBO's Rap Sh!t</a>",
-  "num_followers": 2,
+  "num_followers": 540,
   "original_name": "HBO Rap Sh!t's Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDY0MDAwMCwwMDAwMDAwMGNhMWRiYjkyOGYzZTU3YTY3YWUwOTVjZGE2ODJiYTFk",
+  "snapshot_id": "MTY2NDY0MDAwMCwwMDAwMDAwMGM0ZTk2NWM2MjE0ZjdmYjYyNDNmN2I4NjVhNWQxYzlh",
   "tracks": [
     {
       "added_at": "2022-10-01 16:00:00",
@@ -47,6 +47,22 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
+        "name": "Yellow Tape",
+        "url": "https://open.spotify.com/album/12GZ5ewBjyylguigbdmqJ9"
+      },
+      "artists": [
+        {
+          "name": "Key Glock",
+          "url": "https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5"
+        }
+      ],
+      "duration_ms": 146880,
+      "name": "Mr. Glock",
+      "url": "https://open.spotify.com/track/1ipSpQfzBbhPFhYm6tfVIz"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
         "name": "Plan B",
         "url": "https://open.spotify.com/album/7f9fxAFDIRaflD7W0k7Dhx"
       },
@@ -63,18 +79,18 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "Yellow Tape",
-        "url": "https://open.spotify.com/album/12GZ5ewBjyylguigbdmqJ9"
+        "name": "STOKELEY",
+        "url": "https://open.spotify.com/album/0z0z4DcXhHiobX5ZKAw8Qn"
       },
       "artists": [
         {
-          "name": "Key Glock",
-          "url": "https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5"
+          "name": "Ski Mask The Slump God",
+          "url": "https://open.spotify.com/artist/2rhFzFmezpnW82MNqEKVry"
         }
       ],
-      "duration_ms": 146880,
-      "name": "Mr. Glock",
-      "url": "https://open.spotify.com/track/1ipSpQfzBbhPFhYm6tfVIz"
+      "duration_ms": 129546,
+      "name": "Foot Fungus",
+      "url": "https://open.spotify.com/track/3EikYy40GMSp8l5mDV6IQo"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -95,38 +111,6 @@
       "duration_ms": 181198,
       "name": "Jumpin (feat. Polo G)",
       "url": "https://open.spotify.com/track/1z7LV5wkExwW8YJk0IrPUA"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
-        "name": "Invasion of Privacy",
-        "url": "https://open.spotify.com/album/4KdtEKjY3Gi0mKiSdy96ML"
-      },
-      "artists": [
-        {
-          "name": "Cardi B",
-          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
-        }
-      ],
-      "duration_ms": 223712,
-      "name": "Bodak Yellow",
-      "url": "https://open.spotify.com/track/6KBYefIoo7KydImq1uUQlL"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
-        "name": "STOKELEY",
-        "url": "https://open.spotify.com/album/0z0z4DcXhHiobX5ZKAw8Qn"
-      },
-      "artists": [
-        {
-          "name": "Ski Mask The Slump God",
-          "url": "https://open.spotify.com/artist/2rhFzFmezpnW82MNqEKVry"
-        }
-      ],
-      "duration_ms": 129546,
-      "name": "Foot Fungus",
-      "url": "https://open.spotify.com/track/3EikYy40GMSp8l5mDV6IQo"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -183,6 +167,22 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
+        "name": "Invasion of Privacy",
+        "url": "https://open.spotify.com/album/4KdtEKjY3Gi0mKiSdy96ML"
+      },
+      "artists": [
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        }
+      ],
+      "duration_ms": 223712,
+      "name": "Bodak Yellow",
+      "url": "https://open.spotify.com/track/6KBYefIoo7KydImq1uUQlL"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
         "name": "FOR CERTAIN",
         "url": "https://open.spotify.com/album/5B857SgrQIAmcJGj0sFOSg"
       },
@@ -231,22 +231,6 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "Crazy",
-        "url": "https://open.spotify.com/album/2a8cs4ziDk29KUAdUhHwQB"
-      },
-      "artists": [
-        {
-          "name": "Doechii",
-          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
-        }
-      ],
-      "duration_ms": 134116,
-      "name": "Crazy",
-      "url": "https://open.spotify.com/track/2b1MCbfwRZ1teOX1vSm4Xt"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
         "name": "Beam Me Up Scotty",
         "url": "https://open.spotify.com/album/2upw5IrzeqKApIQZyx5o6r"
       },
@@ -259,6 +243,22 @@
       "duration_ms": 246752,
       "name": "Itty Bitty Piggy",
       "url": "https://open.spotify.com/track/1uYxHHZBRliM9cNzCxq93g"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
+        "name": "Crazy",
+        "url": "https://open.spotify.com/album/2a8cs4ziDk29KUAdUhHwQB"
+      },
+      "artists": [
+        {
+          "name": "Doechii",
+          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
+        }
+      ],
+      "duration_ms": 134116,
+      "name": "Crazy",
+      "url": "https://open.spotify.com/track/2b1MCbfwRZ1teOX1vSm4Xt"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -403,26 +403,6 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "Jackboy",
-        "url": "https://open.spotify.com/album/7w0pvDj9Q5zVSlZsXKLQ0M"
-      },
-      "artists": [
-        {
-          "name": "Jackboy",
-          "url": "https://open.spotify.com/artist/2S2mt1DiA4QKdKvtqwxrbB"
-        },
-        {
-          "name": "Kodak Black",
-          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
-        }
-      ],
-      "duration_ms": 178285,
-      "name": "Like a Million (feat. Kodak Black)",
-      "url": "https://open.spotify.com/track/1kA3DTGCwnnp8SUYkk6kuC"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
         "name": "ZUU",
         "url": "https://open.spotify.com/album/6PkSBdx19zarn4ae1D08gA"
       },
@@ -439,6 +419,26 @@
       "duration_ms": 204386,
       "name": "BIRDZ FEAT. RICK ROSS",
       "url": "https://open.spotify.com/track/0pA0rcw7ci5X5XHrnBpkdn"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
+        "name": "Jackboy",
+        "url": "https://open.spotify.com/album/7w0pvDj9Q5zVSlZsXKLQ0M"
+      },
+      "artists": [
+        {
+          "name": "Jackboy",
+          "url": "https://open.spotify.com/artist/2S2mt1DiA4QKdKvtqwxrbB"
+        },
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "duration_ms": 178285,
+      "name": "Like a Million (feat. Kodak Black)",
+      "url": "https://open.spotify.com/track/1kA3DTGCwnnp8SUYkk6kuC"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -519,6 +519,22 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
+        "name": "Ho, why is you here ?",
+        "url": "https://open.spotify.com/album/49FIsErcdC5rfTFhRpPZ7P"
+      },
+      "artists": [
+        {
+          "name": "Flo Milli",
+          "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
+        }
+      ],
+      "duration_ms": 156073,
+      "name": "Weak",
+      "url": "https://open.spotify.com/track/2eJ87on7uDqIvKobxuPpov"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
         "name": "Still Da Baddest",
         "url": "https://open.spotify.com/album/4vWbJou14Qw9ykxT9IsdBo"
       },
@@ -535,22 +551,6 @@
       "duration_ms": 253053,
       "name": "Look Back At Me",
       "url": "https://open.spotify.com/track/4Q91K9yFyccseq4xtD1FYK"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
-        "name": "Ho, why is you here ?",
-        "url": "https://open.spotify.com/album/49FIsErcdC5rfTFhRpPZ7P"
-      },
-      "artists": [
-        {
-          "name": "Flo Milli",
-          "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
-        }
-      ],
-      "duration_ms": 156073,
-      "name": "Weak",
-      "url": "https://open.spotify.com/track/2eJ87on7uDqIvKobxuPpov"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -743,6 +743,22 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
+        "name": "Who Don't Like Dollaz",
+        "url": "https://open.spotify.com/album/23uhkVlRY5xibU4tWEYaxQ"
+      },
+      "artists": [
+        {
+          "name": "Zoey Dollaz",
+          "url": "https://open.spotify.com/artist/39Uhf21aJFjMLus1j0YGT8"
+        }
+      ],
+      "duration_ms": 193358,
+      "name": "Blow a Check",
+      "url": "https://open.spotify.com/track/3IKaK0z2lNVzX6gBH2ReDw"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
         "name": "Drip",
         "url": "https://open.spotify.com/album/28gUzgrYJ8VKt5dMPUomad"
       },
@@ -759,22 +775,6 @@
       "duration_ms": 193657,
       "name": "Drip",
       "url": "https://open.spotify.com/track/4i9cDBfSVF9r9X0jGNmNoj"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
-        "name": "Who Don't Like Dollaz",
-        "url": "https://open.spotify.com/album/23uhkVlRY5xibU4tWEYaxQ"
-      },
-      "artists": [
-        {
-          "name": "Zoey Dollaz",
-          "url": "https://open.spotify.com/artist/39Uhf21aJFjMLus1j0YGT8"
-        }
-      ],
-      "duration_ms": 193358,
-      "name": "Blow a Check",
-      "url": "https://open.spotify.com/track/3IKaK0z2lNVzX6gBH2ReDw"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -827,22 +827,6 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "Hood Baby",
-        "url": "https://open.spotify.com/album/3epVF8JDjLOAbMbWXL2SdO"
-      },
-      "artists": [
-        {
-          "name": "Hood Brat",
-          "url": "https://open.spotify.com/artist/6lXxD7jB6A4GBp8FIj4Drd"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "Hood Baby",
-      "url": "https://open.spotify.com/track/5Elw813HnizJdMcnGAvVUK"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
         "name": "Pressure",
         "url": "https://open.spotify.com/album/7ChOeB6OLdPZcNyBNMboB8"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 135882,
       "name": "Gucci Bag",
       "url": "https://open.spotify.com/track/3pNeE3ImWzplc0tnUpmh2a"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
+        "name": "Hood Baby",
+        "url": "https://open.spotify.com/album/3epVF8JDjLOAbMbWXL2SdO"
+      },
+      "artists": [
+        {
+          "name": "Hood Brat",
+          "url": "https://open.spotify.com/artist/6lXxD7jB6A4GBp8FIj4Drd"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "Hood Baby",
+      "url": "https://open.spotify.com/track/5Elw813HnizJdMcnGAvVUK"
     }
   ],
   "unique_name": "HBO Rap Sh!t's Taste",

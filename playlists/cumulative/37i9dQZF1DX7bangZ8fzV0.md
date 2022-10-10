@@ -2,13 +2,13 @@
 
 ### [Afrikaanse Hits](https://open.spotify.com/playlist/37i9dQZF1DX7bangZ8fzV0)
 
-> Net die beste Afrikaanse musiek\. Cover: <a href="https://open.spotify.com/artist/25SUuR1e32ukcdYldmAyp5?si=Aj3aoSENTtiX9w3OotK5Yg">Karlien van Jaarsveld</a>
+> Net die beste Afrikaanse musiek\. Cover: <a href="https://open.spotify.com/artist/3TNxvHZvTgeosFCIYz1BUu?si=cGdFo1fXTyOVZmrHaapEWQ">Prop</a>
 
-50 songs - 2 hr 47 min - not published yet
+52 songs - 2 hr 54 min - [published](https://open.spotify.com/playlist/3e1GdHUgFT8NgWwl0UpVff)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [110](https://open.spotify.com/track/0du9AbEce0kooBH5I6suvG) | [Margot](https://open.spotify.com/artist/3mNS0vt7TNS7yL6wfaksKf) | [110](https://open.spotify.com/album/26xPlVpw1qJcexaviUjYTU) | 3:09 | 2022-08-25 |  |
+| [110](https://open.spotify.com/track/0du9AbEce0kooBH5I6suvG) | [Margot](https://open.spotify.com/artist/3mNS0vt7TNS7yL6wfaksKf) | [110](https://open.spotify.com/album/26xPlVpw1qJcexaviUjYTU) | 3:09 | 2022-08-25 | 2022-10-07 |
 | [Afrika Son](https://open.spotify.com/track/6AmJU5Rtf7vXcubCYJitGa) | [Droomsindroom](https://open.spotify.com/artist/36P4zQxOGCSabr44bXS8kW) | [Afrika Son](https://open.spotify.com/album/2AeonSEurMMMp7nfCKoRg2) | 2:50 | 2022-09-01 |  |
 | [Beheer Verloor](https://open.spotify.com/track/0f875VUlQ6bv1yoma2TYUZ) | [Irene\-Louise Van Wyk](https://open.spotify.com/artist/1PwYXOqnII5oWshOTTClma) | [Beheer Verloor](https://open.spotify.com/album/3AO17da9Gz9djPWZf8XoJC) | 3:01 | 2022-09-01 |  |
 | [Bietjie Benoni](https://open.spotify.com/track/5JGkomhAMrzfikSR4BGuYh) | [Lianie May](https://open.spotify.com/artist/4twrMtMv4MY0x42vuaar9B) | [Bietjie Benoni](https://open.spotify.com/album/2ulADrlXBpiPp6fTeI9pl4) | 3:23 | 2022-04-28 |  |
@@ -27,6 +27,7 @@
 | [Hand Aan Hand](https://open.spotify.com/track/0wgq7qI1QTtlto5lfGJ6s9) | [Elandré](https://open.spotify.com/artist/3Gg20zbz8OVW3iahm8uoYo) | [Hand Aan Hand](https://open.spotify.com/album/4FQlZyq5FppU7BrtK93U5Y) | 3:58 | 2022-04-20 |  |
 | [Handgranaat](https://open.spotify.com/track/0nirzE8VzdxQJDLk4UC1WV) | [Christia Visser](https://open.spotify.com/artist/0AVwVUxhRdEKiuLNGAxmtu) | [Handgranaat](https://open.spotify.com/album/3d4NgR6ZcalOKIiktcqTm1) | 3:54 | 2022-04-14 |  |
 | [Hey Sonneblom](https://open.spotify.com/track/4vyQOF8wGtDV6eHsOqWaCG) | [Droomsindroom](https://open.spotify.com/artist/36P4zQxOGCSabr44bXS8kW) | [Hey Sonneblom](https://open.spotify.com/album/4aYcdeTwgsJB1jjV8MON1e) | 3:30 | 2022-08-02 |  |
+| [Hier Gaat Ons Alweer](https://open.spotify.com/track/1zkDzC92Zb1KUSTa2Rumqv) | [Pieter Koen](https://open.spotify.com/artist/42MoeGwwUSE0x4u9PHvSif) | [Hier Gaat Ons Alweer](https://open.spotify.com/album/2mpRZxyifeulCZI1lmBBT3) | 3:14 | 2022-10-06 |  |
 | [Insomnia](https://open.spotify.com/track/7fQLFDmSuqTnMX0IwjESNg) | [Brendan Peyper](https://open.spotify.com/artist/4K2VQvyBnfU7La65rShI0v) | [Insomnia](https://open.spotify.com/album/0b8YXBab3WjJJWimv8HgBB) | 3:58 | 2022-07-21 |  |
 | [Johnnie Blou](https://open.spotify.com/track/4zFtUFGQ7NG6iEM2K5Oca4) | [Eloff](https://open.spotify.com/artist/0okTBoelHkR40Mr69hmzkR) | [Johnnie Blou](https://open.spotify.com/album/0D5L3scMWg5Y08JaqQi4ti) | 3:07 | 2021-11-18 |  |
 | [Jona](https://open.spotify.com/track/1ayD1GOwLOYuagWkMKMhnB) | [Bernice West](https://open.spotify.com/artist/6ZerjgcGZc6DofpCTZu3xx) | [Jona](https://open.spotify.com/album/4csicD8Mqlrxx8vgvUnXGi) | 3:02 | 2022-04-14 |  |
@@ -51,10 +52,11 @@
 | [Skildery \(Remix\)](https://open.spotify.com/track/4Sy3SykXit0psixwPq0KtO) | [Zandri](https://open.spotify.com/artist/2d4saNK84qEsfaPw26tjPq), [Afrikaans Wil Dans](https://open.spotify.com/artist/0izyicZrCh95ouk1VWn59M) | [Skildery \(Remix\)](https://open.spotify.com/album/4kHqoFMstt9NCU6WJfejDn) | 4:52 | 2022-09-29 |  |
 | [Skobbejak](https://open.spotify.com/track/1PoFAgfEa11NdWylrd8sCc) | [Reën](https://open.spotify.com/artist/7tIsf2CtmTtj0UGJshHIyB), [Refentse](https://open.spotify.com/artist/5yACoSSz99q9C7n8bKNFxl) | [Weer](https://open.spotify.com/album/4YPFlgvGCWtK0bKrN6qIkz) | 3:32 | 2022-08-25 |  |
 | [Soen My Op My Mond \(Uit Die Gelofte Musiekblyspel\)](https://open.spotify.com/track/7k7ZQJ375LWnwr27fodysE) | [Bernice West](https://open.spotify.com/artist/6ZerjgcGZc6DofpCTZu3xx), [Ilán van Staden](https://open.spotify.com/artist/7FUqmUXFmllziX2NgD4Knj) | [Soen My Op My Mond \(Uit Die Gelofte Musiekblyspel\)](https://open.spotify.com/album/1tNfmhPmCAvg0Myyyhl5fa) | 3:13 | 2022-05-05 |  |
+| [Standbeelde](https://open.spotify.com/track/5iq0M2V0jJRu7IJYYxJ4vl) | [Ampie](https://open.spotify.com/artist/05OlCJb6VjFEHPiCfwTCZx), [Matthew John Duncan](https://open.spotify.com/artist/4dqbuy4ucRfaFUVfzDk9LA) | [Standbeelde](https://open.spotify.com/album/5eIwfDG5foI8Tbd92BE26C) | 3:16 | 2022-10-06 |  |
 | [Stoute Boude](https://open.spotify.com/track/6kBte7otKF6WvMdeP20rEg) | [Kevboii](https://open.spotify.com/artist/4Mp36UE9keQ7vXLcVLWzmN), [Charlie Beeskraal](https://open.spotify.com/artist/7Dp09kdCJoVzLPynMH0TMz) | [Stoute Boude](https://open.spotify.com/album/7hBAyrqbYZ9zesTt6t69t2) | 2:59 | 2021-09-27 |  |
 | [Tekkies Brand](https://open.spotify.com/track/3bDZnbdUWy02rqFzb5Sooi) | [Irene\-Louise Van Wyk](https://open.spotify.com/artist/1PwYXOqnII5oWshOTTClma) | [Tekkies Brand](https://open.spotify.com/album/05uEJdtdKnM4SjNGpkEuOD) | 3:28 | 2021-07-01 |  |
 | [Vat 'n Bietjie](https://open.spotify.com/track/181RlW4FYWSzaV9xt8xUPQ) | [Riaan Benadé](https://open.spotify.com/artist/7aijVRJ1wOqmLs6NucdtB7) | [Spontaan](https://open.spotify.com/album/25pTHMFYTDNLVnEqRKIVQl) | 3:12 | 2021-04-19 |  |
-| [Vegter](https://open.spotify.com/track/1KK0U3XmxHyj5WYjARSxkv) | [Jo Black](https://open.spotify.com/artist/0Zg9ZuI494uRe8eMGTbZLs) | [Vegter](https://open.spotify.com/album/1c7lGU1cP8l04hmOSAbCOC) | 3:46 | 2022-06-09 |  |
+| [Vegter](https://open.spotify.com/track/1KK0U3XmxHyj5WYjARSxkv) | [Jo Black](https://open.spotify.com/artist/0Zg9ZuI494uRe8eMGTbZLs) | [Vegter](https://open.spotify.com/album/1c7lGU1cP8l04hmOSAbCOC) | 3:46 | 2022-06-09 | 2022-10-07 |
 | [Wat De Hel](https://open.spotify.com/track/15Mu0ea08pEgTLBRHqNF0e) | [Christia Visser](https://open.spotify.com/artist/0AVwVUxhRdEKiuLNGAxmtu) | [Wat De Hel](https://open.spotify.com/album/2p7hgHHtMXSPZf3RezI3i4) | 3:50 | 2022-09-08 |  |
 | [Wat my Pa sou sê](https://open.spotify.com/track/05VXiNCJM3KMDekmOtquOq) | [Kurt Darren](https://open.spotify.com/artist/3fFoaTI85WuaVkSMUxeYRd) | [Wat my Pa sou sê](https://open.spotify.com/album/5FP9ioRvPrNL2LavCBjU70) | 2:56 | 2022-09-22 |  |
 | [Witblits](https://open.spotify.com/track/1MJagJs7aC4UJYZK3j5iIO) | [Eloff](https://open.spotify.com/artist/0okTBoelHkR40Mr69hmzkR) | [Witblits](https://open.spotify.com/album/1j0JxyVmQLkrFIZRY4m9xT) | 3:07 | 2022-07-07 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2iUghHXGIjj.md) - [plain]
 
 > Raw, emotional, and acoustic\. Cover: Taj Mahal
 
-[Spotify](https://open.spotify.com/user/spotify) - 668,003 likes - 100 songs - 6 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 668,052 likes - 100 songs - 6 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,7 +58,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2iUghHXGIjj.md) - [plain]
 | 48 | [Backstreets](https://open.spotify.com/track/5zxLOp4pDCfnJuMhZakq4f) | [Lazer Lloyd](https://open.spotify.com/artist/3M7XE8fhxddDJWWhchEXud) | [Backstreets](https://open.spotify.com/album/3OgV4LLpLHkzMKY063lPdi) | 4:56 |
 | 49 | [With My Maker I Am One](https://open.spotify.com/track/1P3EPqytwKmzzgrbw72xRP) | [Eric Bibb](https://open.spotify.com/artist/2uNcfNhlVJUyEX0t0NG1m1) | [Booker's Guitar](https://open.spotify.com/album/3Ska5qQfOmK6PyxdGhUnSG) | 3:41 |
 | 50 | [When the Hurt Is Over](https://open.spotify.com/track/0FtlOiBxDgFR6wz9N7Arz6) | [Mighty Sam McClain](https://open.spotify.com/artist/71sDMpcZzbN4kDKnYoGT1W) | [A Diamond in the Rough](https://open.spotify.com/album/0YKahH7gYqKnCX3eCcvr67) | 6:11 |
-| 51 | [Going Down the Road Feeling Bad](https://open.spotify.com/track/0GKIy4nMb4mclMsgsSoAsw) | [Steve Hill](https://open.spotify.com/artist/2f1hLQKsXGmF9rxdrq6Jt4) | [Solo Recordings, Vol\. 3](https://open.spotify.com/album/7s0ssvbmHNrMUA1z2TTp5k) | 4:57 |
+| 51 | [Going Down the Road Feeling Bad](https://open.spotify.com/track/2sTHsK8xaGGg7PRLiSnhhY) | [Steve Hill](https://open.spotify.com/artist/2f1hLQKsXGmF9rxdrq6Jt4) | [Solo Recordings, Vol\. 3](https://open.spotify.com/album/30Ww7ImwchFWThx0qTrhHa) | 4:57 |
 | 52 | [Don't Ask Me \(Bonus Track\)](https://open.spotify.com/track/6K90dTF2qbjHOMpPJ9dH3A) | [Seasick Steve](https://open.spotify.com/artist/6OVkHZQP8QoBYqr1ejCGDv) | [Sonic Soul Surfer \(Deluxe\)](https://open.spotify.com/album/45x5hEhdNvtx94NDAYrLEy) | 7:28 |
 | 53 | [Ships in the Night](https://open.spotify.com/track/08pCnq3MdYsbEjubAWBdCt) | [Ryan Montbleau](https://open.spotify.com/artist/5Q2ZtOZ0vOdtcjGDOq6ZQc) | [Ships in the Night](https://open.spotify.com/album/6m1eIQQFgZx0n5PkM3dKdx) | 3:41 |
 | 54 | [Walking Blues](https://open.spotify.com/track/49OfM5fTeH57u2NN9mIpAW) | [Rory Block](https://open.spotify.com/artist/6hkNj3GAqFbkEUCs3R1dY3), [Stefan Grossman](https://open.spotify.com/artist/0me2CHAdEKm5MTWHemzRk5) | [Country Blues Guitar](https://open.spotify.com/album/13TN7isubmqCzQxa3iLPVO) | 3:45 |
@@ -103,10 +103,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2iUghHXGIjj.md) - [plain]
 | 93 | [Good Morning Little Schoolgirl](https://open.spotify.com/track/2LtpyfWWnr5V96l3Js7LLX) | [Mississippi Fred McDowell](https://open.spotify.com/artist/0elA30wLp3RmiPaGtU2jhQ) | [Good Morning Little School Girl](https://open.spotify.com/album/3yYBnIVUvJrM6a0z8HNHOl) | 3:21 |
 | 94 | [Thumb A Ride](https://open.spotify.com/track/6FFQ4nIyeXaDYQLb1zFitB) | [Big Daddy Wilson](https://open.spotify.com/artist/4xBhIBf0DEjAcJvGSwJdFr) | [Thumb A Ride](https://open.spotify.com/album/5RFZCJtz9yiadjhRB5kaof) | 2:53 |
 | 95 | [Talkin' To Jehova](https://open.spotify.com/track/2htN0gyb1WiJliAq9LtDza) | [Kelly Joe Phelps](https://open.spotify.com/artist/7MGPOWrHHrTJcviOWNbKEF) | [Brother Sinner & The Whale](https://open.spotify.com/album/7BsEu3aR82GbSKxMhbGnUS) | 4:36 |
-| 96 | [Slowly Slipping Away](https://open.spotify.com/track/2esnC3sEMqLfQvF4qaCJfA) | [Steve Hill](https://open.spotify.com/artist/2f1hLQKsXGmF9rxdrq6Jt4) | [Solo Recordings, Vol\. 3](https://open.spotify.com/album/7s0ssvbmHNrMUA1z2TTp5k) | 3:26 |
+| 96 | [Slowly Slipping Away](https://open.spotify.com/track/0IdWFitNfPCkUKSRfufc6C) | [Steve Hill](https://open.spotify.com/artist/2f1hLQKsXGmF9rxdrq6Jt4) | [Solo Recordings, Vol\. 3](https://open.spotify.com/album/30Ww7ImwchFWThx0qTrhHa) | 3:27 |
 | 97 | [Searching Blues](https://open.spotify.com/track/1RWAsPQhpizSGmO8YWmS8M) | [Manuel Galvin](https://open.spotify.com/artist/5OiXz8xSD4YGtm7vYDZ0Gs), [Michael Robinson](https://open.spotify.com/artist/4rmqOj8syPDp0g3MpWxCus) | [American Heritage](https://open.spotify.com/album/28mwkzzBRA3v9SwWzzqKIL) | 3:50 |
 | 98 | [Keep Your Lamp Trimmed And Burning](https://open.spotify.com/track/5LTMzb6lrWkdgNl4CNwfwx) | [Corey Harris](https://open.spotify.com/artist/1TQtbRQbaXw5CeN3mC0DJH) | [Between Midnight And Day](https://open.spotify.com/album/6fuRNpnOE7QgyT1IcdvpED) | 2:54 |
 | 99 | [What They Say](https://open.spotify.com/track/24NvptbNKGs6sPy1Vh1O0v) | [Chris Smither](https://open.spotify.com/artist/4PM86aECDhcdwuJNZNrR22) | [Hundred Dollar Valentine](https://open.spotify.com/album/1OsaTxNg63FgnAqMVvIcC7) | 2:46 |
 | 100 | [Turtle Beach](https://open.spotify.com/track/3oXba26C2LfzWFnVXnrunT) | [Eric Von Schmidt](https://open.spotify.com/artist/739hmk6VVud7fbPNmYL7pa) | [2nd Right, 3rd Row](https://open.spotify.com/album/54NcsyWIW9MeKUSqzHCrHW) | 3:53 |
 
-Snapshot ID: `MTY2MTQ4NjUyMCwwMDAwMDAwMDQ0YTRmZjUwOTQ2ZWUyOTJjY2E3OTM5ZTdjYjA4ODFk`
+Snapshot ID: `MTY2MTQ4NjUyMCwwMDAwMDAwMDRlZTVmNjVmNmRjZjAyZGFmODI5OTFlODg5MjE1ZGUw`

@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:7zm3aSdmGiOkTt0aZFSO8R">Wax Motif</a> transports us to a house\-filled rave.
 
-24 songs - 1 hr 0 min - [published](https://open.spotify.com/playlist/1ZdXW0l6r9bA4AYdc9xJ6A)
+25 songs - 1 hr 2 min - [published](https://open.spotify.com/playlist/1ZdXW0l6r9bA4AYdc9xJ6A)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,8 @@
 | [Get In \- Mixed](https://open.spotify.com/track/6oMTCPjcd9iRqdSUhHDIpZ) | [Shahay](https://open.spotify.com/artist/1pjJMzKi91pQ2AWcEcXPZ2) | [Get In \(Mixed\)](https://open.spotify.com/album/4qj0QW8unx7DAKN2lAhwt7) | 3:32 | 2021-12-17 |  |
 | [Get Up \- Mixed](https://open.spotify.com/track/75mz42CBZN2c2uyK0XpxaR) | [Wongo](https://open.spotify.com/artist/7yx47vjNgvQXPtHis6Hi91), [owie](https://open.spotify.com/artist/7yLfNXs6ttWSE2csFvRnai) | [Get Up \(Mixed\)](https://open.spotify.com/album/1564S37zFi6hLZfZMSinNp) | 3:37 | 2021-12-17 |  |
 | [Give It Up \- Mixed](https://open.spotify.com/track/5lkqw8AQ3dv8eKWftI4vwz) | [Max Styler](https://open.spotify.com/artist/3NKKngINK1tP6BFy0WOyWk), [Kyle Walker](https://open.spotify.com/artist/4kB1srfgZ4eok7CmDqyOJP) | [Give It Up \(Mixed\)](https://open.spotify.com/album/2zFbE01xL3j8Sx1BVKF0pV) | 1:45 | 2021-12-17 |  |
-| [Hallucinations \- Mixed](https://open.spotify.com/track/0jnch4H8IbjbkgDJYh03I5) | [Dave Winnel](https://open.spotify.com/artist/1K80Wcuuo13i28cVd68mxm) | [Hallucinations \(Mixed\)](https://open.spotify.com/album/3SRih1PuVCfvmn0jj76FMb) | 2:04 | 2021-12-17 |  |
+| [Hallucinations \- Mixed](https://open.spotify.com/track/0jnch4H8IbjbkgDJYh03I5) | [Dave Winnel](https://open.spotify.com/artist/1K80Wcuuo13i28cVd68mxm) | [Hallucinations \(Mixed\)](https://open.spotify.com/album/3SRih1PuVCfvmn0jj76FMb) | 2:04 | 2021-12-17 | 2022-10-06 |
+| [Hallucinations \- Mixed](https://open.spotify.com/track/25qVz448auOcbIgphQI5iY) | [Dave Winnel](https://open.spotify.com/artist/1K80Wcuuo13i28cVd68mxm) | [Hallucinations \(Mixed\)](https://open.spotify.com/album/1WUMh9v8sW2S2OeqtQQJWg) | 2:04 | 2022-10-05 |  |
 | [Keep Raving \- Mixed](https://open.spotify.com/track/1iKCYeMctxE2nxD23sJ3Sp) | [Wax Motif](https://open.spotify.com/artist/7zm3aSdmGiOkTt0aZFSO8R) | [Keep Raving \(Mixed\)](https://open.spotify.com/album/18CVFwpKpVbwUUGDcwnfol) | 1:31 | 2021-12-17 |  |
 | [Koalack \- Mixed](https://open.spotify.com/track/23Dgwjz6JSw4zPIIzL8UGQ) | [Wax Motif](https://open.spotify.com/artist/7zm3aSdmGiOkTt0aZFSO8R) | [Koalack \(Mixed\)](https://open.spotify.com/album/1moUNFDHaoFELrrycEkfpU) | 4:20 | 2021-12-17 |  |
 | [Latin Fever \- Mixed](https://open.spotify.com/track/3064xJq75HXMoK61QxMML9) | [Wolfgang Gartner](https://open.spotify.com/artist/3534yWWzmxx8NbKVoNolsK) | [Latin Fever \(Mixed\)](https://open.spotify.com/album/6bFESojcVWFJR2t9J19pZG) | 1:32 | 2021-12-17 |  |

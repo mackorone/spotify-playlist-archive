@@ -4,7 +4,7 @@
 
 > Good vibes for good times!
 
-93 songs - 5 hr 40 min - [published](https://open.spotify.com/playlist/5mjM1Y8WNUCGGkDhXj1uoY)
+94 songs - 5 hr 43 min - [published](https://open.spotify.com/playlist/5mjM1Y8WNUCGGkDhXj1uoY)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,7 +34,8 @@
 | [Girl Let Me Love You](https://open.spotify.com/track/6kc0DPZtfLf5283diEIOwi) | [HEETZ](https://open.spotify.com/artist/2pLgcorx08Sm04s4bnGiBW) | [Girl Let Me Love You](https://open.spotify.com/album/5BPG6zlS7nyG8ULbWbrBmm) | 3:17 | 2021-08-24 |  |
 | [Good Time](https://open.spotify.com/track/68HBUpt1FVAmQD49hWJqnM) | [NLC](https://open.spotify.com/artist/3TqJF164i0btEXB3SskiLf) | [Good Time](https://open.spotify.com/album/7gL5nwGBxLpqwtUQSQtVzx) | 3:24 | 2021-08-24 |  |
 | [Hello](https://open.spotify.com/track/3Hc5FvTzjtxF7DmOK6MaXV) | [Kes](https://open.spotify.com/artist/7E6r9S8qCRfZVCjF1A8do6) | [Folklore Riddim](https://open.spotify.com/album/6eRhLfRy1CbGTD0fkSrJob) | 3:18 | 2021-08-24 | 2022-04-22 |
-| [Hello](https://open.spotify.com/track/6esa48W1Uh3WNuznkDkUuX) | [Kes](https://open.spotify.com/artist/7E6r9S8qCRfZVCjF1A8do6) | [Get Soca 2018](https://open.spotify.com/album/6ugS3I8nHZY4tlOel3BKKc) | 3:19 | 2022-04-14 |  |
+| [Hello](https://open.spotify.com/track/3cmdQZ2yzUjtKTedabLjqu) | [Kes](https://open.spotify.com/artist/7E6r9S8qCRfZVCjF1A8do6) | [Folklore Riddim](https://open.spotify.com/album/48nubh7FCkPvIG8DqHdLbm) | 3:18 | 2022-08-07 |  |
+| [Hello](https://open.spotify.com/track/6esa48W1Uh3WNuznkDkUuX) | [Kes](https://open.spotify.com/artist/7E6r9S8qCRfZVCjF1A8do6) | [Get Soca 2018](https://open.spotify.com/album/6ugS3I8nHZY4tlOel3BKKc) | 3:19 | 2022-04-14 | 2022-10-05 |
 | [Here to Stay](https://open.spotify.com/track/0qxTym0LJ6HMV4g87FYIdR) | [General Fiyah](https://open.spotify.com/artist/4dnsfuI3oozEl16wEcsPc8), [Three Houses Down](https://open.spotify.com/artist/0qWNlZpLfAYDbEVEHAAllv) | [Here to Stay](https://open.spotify.com/album/6OqOtbJGxwzrTzNtfDtQh4) | 4:17 | 2021-08-24 |  |
 | [Holiday](https://open.spotify.com/track/3zqbvsFfpYLBhtcVIw42Sz) | [1814](https://open.spotify.com/artist/4bXJYb8inT1EvC54wqCRtT) | [Red Album](https://open.spotify.com/album/3wTqGvbAcURFH1ALVckuhg) | 3:15 | 2021-08-24 |  |
 | [Homebound](https://open.spotify.com/track/70iZhm23HpNcFXGg3UMMSB) | [Swiss](https://open.spotify.com/artist/3iRQU5nfA9uLRPgmXXhbCy) | [Homebound](https://open.spotify.com/album/4bTVw0yJcmqbH0Sg9fsJCQ) | 3:46 | 2021-08-24 |  |

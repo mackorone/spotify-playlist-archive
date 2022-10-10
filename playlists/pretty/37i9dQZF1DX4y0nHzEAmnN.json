@@ -1,12 +1,12 @@
 {
   "description": "Las partes aburridas del d\u00eda pueden ser divertidas con m\u00fasica. \u00a1En Ingl\u00e9s y Espa\u00f1ol!",
-  "num_followers": 1211,
+  "num_followers": 1219,
   "original_name": "Daily Rutina",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NzI3Njg2OSwwMDAwMDAwMDFmZjYzZmFiMTFjZDQ1OThlNjE4YzZkOGJkNTEyM2Fi",
+  "snapshot_id": "MTY0NzI3Njg2OSwwMDAwMDAwMGEyNzcwZDI5OWJmMjhlN2U2MzM5ZTYyNjc5M2ZjYjYy",
   "tracks": [
     {
       "added_at": "2020-04-22 19:35:42",
@@ -75,22 +75,6 @@
     {
       "added_at": "2020-04-22 19:35:42",
       "album": {
-        "name": "My First Album",
-        "url": "https://open.spotify.com/album/3A3N9hChYmsWPd3px8eF5u"
-      },
-      "artists": [
-        {
-          "name": "Peppa Pig",
-          "url": "https://open.spotify.com/artist/2gJLanGIV9JqQuKBCWy9ZG"
-        }
-      ],
-      "duration_ms": 125904,
-      "name": "Let's Get Ready!",
-      "url": "https://open.spotify.com/track/3OYHw99STxBfqoBEov2M5F"
-    },
-    {
-      "added_at": "2020-04-22 19:35:42",
-      "album": {
         "name": "20 \u00c9xitos 20 Aniversario",
         "url": "https://open.spotify.com/album/5yMrbHsMkW16azJB96x3tB"
       },
@@ -103,6 +87,22 @@
       "duration_ms": 67120,
       "name": "Tres Pecesitos",
       "url": "https://open.spotify.com/track/7depgXySK1EO7lIjnbFPav"
+    },
+    {
+      "added_at": "2020-04-22 19:35:42",
+      "album": {
+        "name": "My First Album",
+        "url": "https://open.spotify.com/album/3A3N9hChYmsWPd3px8eF5u"
+      },
+      "artists": [
+        {
+          "name": "Peppa Pig",
+          "url": "https://open.spotify.com/artist/2gJLanGIV9JqQuKBCWy9ZG"
+        }
+      ],
+      "duration_ms": 125904,
+      "name": "Let's Get Ready!",
+      "url": "https://open.spotify.com/track/3OYHw99STxBfqoBEov2M5F"
     },
     {
       "added_at": "2020-04-22 19:35:42",
@@ -239,22 +239,6 @@
     {
       "added_at": "2020-04-22 19:35:42",
       "album": {
-        "name": "Family Time",
-        "url": "https://open.spotify.com/album/2vFNvV2DvTfKVG49asgPlT"
-      },
-      "artists": [
-        {
-          "name": "Ziggy Marley",
-          "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
-        }
-      ],
-      "duration_ms": 260853,
-      "name": "Family Time",
-      "url": "https://open.spotify.com/track/1aqS5msEei59kvSOhCU9Is"
-    },
-    {
-      "added_at": "2020-04-22 19:35:42",
-      "album": {
         "name": "Gallina Pintadita, Vol. 2",
         "url": "https://open.spotify.com/album/20yyfAYcXHX47C2sqkuBmF"
       },
@@ -271,22 +255,18 @@
     {
       "added_at": "2020-04-22 19:35:42",
       "album": {
-        "name": "Junior Express - Grandes \u00c9xitos",
-        "url": "https://open.spotify.com/album/32PoW1uZHdQE8Gm3MGSkBG"
+        "name": "Family Time",
+        "url": "https://open.spotify.com/album/2vFNvV2DvTfKVG49asgPlT"
       },
       "artists": [
         {
-          "name": "Elenco Junior Express",
-          "url": "https://open.spotify.com/artist/1qpObFWDQW9EPFSzAzi71h"
-        },
-        {
-          "name": "Diego Topa",
-          "url": "https://open.spotify.com/artist/3y6NjjMEV0m5fSaz6AXTsa"
+          "name": "Ziggy Marley",
+          "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
         }
       ],
-      "duration_ms": 162400,
-      "name": "Todos a Moverse",
-      "url": "https://open.spotify.com/track/2qDZD2UljoMNasceWl4qg9"
+      "duration_ms": 260853,
+      "name": "Family Time",
+      "url": "https://open.spotify.com/track/1aqS5msEei59kvSOhCU9Is"
     },
     {
       "added_at": "2020-04-22 19:35:42",
@@ -359,6 +339,22 @@
     {
       "added_at": "2020-04-22 19:35:42",
       "album": {
+        "name": "With You",
+        "url": "https://open.spotify.com/album/12Bh0hHZUqDxCYy11xCxBv"
+      },
+      "artists": [
+        {
+          "name": "Love to Sing",
+          "url": "https://open.spotify.com/artist/5dz42IMRAYRfEn0igXDjoz"
+        }
+      ],
+      "duration_ms": 131600,
+      "name": "Good Morning",
+      "url": "https://open.spotify.com/track/1IFnPPBJrH6QQkeOybxmff"
+    },
+    {
+      "added_at": "2020-04-22 19:35:42",
+      "album": {
         "name": "Junior Express - Grandes \u00c9xitos",
         "url": "https://open.spotify.com/album/32PoW1uZHdQE8Gm3MGSkBG"
       },
@@ -372,9 +368,9 @@
           "url": "https://open.spotify.com/artist/3y6NjjMEV0m5fSaz6AXTsa"
         }
       ],
-      "duration_ms": 124853,
-      "name": "Un Nuevo Viaje",
-      "url": "https://open.spotify.com/track/0amtQOumjJeGVMVbnq6EMl"
+      "duration_ms": 162400,
+      "name": "Todos a Moverse",
+      "url": "https://open.spotify.com/track/2qDZD2UljoMNasceWl4qg9"
     },
     {
       "added_at": "2020-04-22 19:35:42",
@@ -391,22 +387,6 @@
       "duration_ms": 193840,
       "name": "Do The Chores",
       "url": "https://open.spotify.com/track/0cZ4s1F7yUuroClNhCyllT"
-    },
-    {
-      "added_at": "2020-04-22 19:35:42",
-      "album": {
-        "name": "With You",
-        "url": "https://open.spotify.com/album/12Bh0hHZUqDxCYy11xCxBv"
-      },
-      "artists": [
-        {
-          "name": "Love to Sing",
-          "url": "https://open.spotify.com/artist/5dz42IMRAYRfEn0igXDjoz"
-        }
-      ],
-      "duration_ms": 131600,
-      "name": "Good Morning",
-      "url": "https://open.spotify.com/track/1IFnPPBJrH6QQkeOybxmff"
     },
     {
       "added_at": "2020-04-22 19:35:42",
@@ -443,22 +423,6 @@
     {
       "added_at": "2020-04-22 19:35:42",
       "album": {
-        "name": "Miss Patylu, vol. 1",
-        "url": "https://open.spotify.com/album/72J8M3wHLOPU7BRWJVbQEq"
-      },
-      "artists": [
-        {
-          "name": "Patylu",
-          "url": "https://open.spotify.com/artist/5nkNDzN92BPWBsPugagYfb"
-        }
-      ],
-      "duration_ms": 155193,
-      "name": "Leche Con Pan",
-      "url": "https://open.spotify.com/track/6molqV0gi5xSIYJaIv9BEa"
-    },
-    {
-      "added_at": "2020-04-22 19:35:42",
-      "album": {
         "name": "Juguemos a cantar con Barney",
         "url": "https://open.spotify.com/album/6UCyXsJVld7N1DhpbMHaVL"
       },
@@ -471,6 +435,42 @@
       "duration_ms": 113034,
       "name": "Me cepillo los dientes",
       "url": "https://open.spotify.com/track/0zi6orW9DLawYdACuAf7QZ"
+    },
+    {
+      "added_at": "2020-04-22 19:35:42",
+      "album": {
+        "name": "Junior Express - Grandes \u00c9xitos",
+        "url": "https://open.spotify.com/album/32PoW1uZHdQE8Gm3MGSkBG"
+      },
+      "artists": [
+        {
+          "name": "Elenco Junior Express",
+          "url": "https://open.spotify.com/artist/1qpObFWDQW9EPFSzAzi71h"
+        },
+        {
+          "name": "Diego Topa",
+          "url": "https://open.spotify.com/artist/3y6NjjMEV0m5fSaz6AXTsa"
+        }
+      ],
+      "duration_ms": 124853,
+      "name": "Un Nuevo Viaje",
+      "url": "https://open.spotify.com/track/0amtQOumjJeGVMVbnq6EMl"
+    },
+    {
+      "added_at": "2020-04-22 19:35:42",
+      "album": {
+        "name": "Miss Patylu, vol. 1",
+        "url": "https://open.spotify.com/album/72J8M3wHLOPU7BRWJVbQEq"
+      },
+      "artists": [
+        {
+          "name": "Patylu",
+          "url": "https://open.spotify.com/artist/5nkNDzN92BPWBsPugagYfb"
+        }
+      ],
+      "duration_ms": 155193,
+      "name": "Leche Con Pan",
+      "url": "https://open.spotify.com/track/6molqV0gi5xSIYJaIv9BEa"
     },
     {
       "added_at": "2020-04-22 19:35:42",
@@ -679,6 +679,38 @@
     {
       "added_at": "2020-04-22 19:35:42",
       "album": {
+        "name": "Canciones Para Chicos",
+        "url": "https://open.spotify.com/album/0FgVNRv2HryG3GUKTACCGn"
+      },
+      "artists": [
+        {
+          "name": "Mar\u00eda Elena Walsh",
+          "url": "https://open.spotify.com/artist/5gMEZRCMq0gWA3kuCPukEk"
+        }
+      ],
+      "duration_ms": 110960,
+      "name": "Canci\u00f3n De Tomar El T\u00e9",
+      "url": "https://open.spotify.com/track/19VEw5WbEyxIkmyZWgen9x"
+    },
+    {
+      "added_at": "2020-04-22 19:35:42",
+      "album": {
+        "name": "English Pitinglish",
+        "url": "https://open.spotify.com/album/5opZvBrL0N2jSFyGwvOvoZ"
+      },
+      "artists": [
+        {
+          "name": "Pica-Pica",
+          "url": "https://open.spotify.com/artist/3oaNnQa52hlN69wvaatUE2"
+        }
+      ],
+      "duration_ms": 174653,
+      "name": "Comida light",
+      "url": "https://open.spotify.com/track/16QKoDI5F9MxWUBYORKV3w"
+    },
+    {
+      "added_at": "2020-04-22 19:35:42",
+      "album": {
         "name": "CD8: Lleg\u00f3 Panam",
         "url": "https://open.spotify.com/album/5UYrctjSWKpA7IkP2DTSuW"
       },
@@ -703,34 +735,34 @@
     {
       "added_at": "2020-04-22 19:35:42",
       "album": {
-        "name": "English Pitinglish",
-        "url": "https://open.spotify.com/album/5opZvBrL0N2jSFyGwvOvoZ"
+        "name": "20 Canciones Infantiles",
+        "url": "https://open.spotify.com/album/5T6GImWGW667aSX8XAeOq3"
       },
       "artists": [
         {
-          "name": "Pica-Pica",
-          "url": "https://open.spotify.com/artist/3oaNnQa52hlN69wvaatUE2"
+          "name": "Osito Panda Band",
+          "url": "https://open.spotify.com/artist/7inibjUUHj4r6jxRyBsJq0"
         }
       ],
-      "duration_ms": 174653,
-      "name": "Comida light",
-      "url": "https://open.spotify.com/track/16QKoDI5F9MxWUBYORKV3w"
+      "duration_ms": 112400,
+      "name": "Ba\u00f1o de Burbujas",
+      "url": "https://open.spotify.com/track/6vbNjLS9g232wXDnjb7akW"
     },
     {
       "added_at": "2020-04-22 19:35:42",
       "album": {
-        "name": "Canciones Para Chicos",
-        "url": "https://open.spotify.com/album/0FgVNRv2HryG3GUKTACCGn"
+        "name": "Las 4 Estaciones, vol. 11",
+        "url": "https://open.spotify.com/album/1cnYXeqwMikaACiCdX8tI2"
       },
       "artists": [
         {
-          "name": "Mar\u00eda Elena Walsh",
-          "url": "https://open.spotify.com/artist/5gMEZRCMq0gWA3kuCPukEk"
+          "name": "Trepsi",
+          "url": "https://open.spotify.com/artist/6uqcdmVQzxfdgsKWB04shs"
         }
       ],
-      "duration_ms": 110960,
-      "name": "Canci\u00f3n De Tomar El T\u00e9",
-      "url": "https://open.spotify.com/track/19VEw5WbEyxIkmyZWgen9x"
+      "duration_ms": 58644,
+      "name": "Sonidos al Comer",
+      "url": "https://open.spotify.com/track/1KxnLbLVUYYdKlCF2uYezh"
     },
     {
       "added_at": "2020-04-22 19:35:42",
@@ -751,22 +783,6 @@
     {
       "added_at": "2020-04-22 19:35:42",
       "album": {
-        "name": "20 Canciones Infantiles",
-        "url": "https://open.spotify.com/album/5T6GImWGW667aSX8XAeOq3"
-      },
-      "artists": [
-        {
-          "name": "Osito Panda Band",
-          "url": "https://open.spotify.com/artist/7inibjUUHj4r6jxRyBsJq0"
-        }
-      ],
-      "duration_ms": 112400,
-      "name": "Ba\u00f1o de Burbujas",
-      "url": "https://open.spotify.com/track/6vbNjLS9g232wXDnjb7akW"
-    },
-    {
-      "added_at": "2020-04-22 19:35:42",
-      "album": {
         "name": "Children's Songs for Family, Friends & Siblings from LittleBabyBum",
         "url": "https://open.spotify.com/album/65UY1CG353OTiv4JHrDKrV"
       },
@@ -779,22 +795,6 @@
       "duration_ms": 91874,
       "name": "Please and Thank You Song",
       "url": "https://open.spotify.com/track/1SVQdK7xD2Zy1MypHyNzVZ"
-    },
-    {
-      "added_at": "2020-04-22 19:35:42",
-      "album": {
-        "name": "Las Mejores Canciones para Ni\u00f1os",
-        "url": "https://open.spotify.com/album/7spQnMoIypXmqWN3wiC29b"
-      },
-      "artists": [
-        {
-          "name": "HooplaKidz En Espa\u00f1ol",
-          "url": "https://open.spotify.com/artist/69v01YbcC6xhBi04cpaPlu"
-        }
-      ],
-      "duration_ms": 129536,
-      "name": "La Canci\u00f3n del Ba\u00f1o",
-      "url": "https://open.spotify.com/track/6ac3pwL3vip7nu9DVL2tyc"
     },
     {
       "added_at": "2020-04-22 19:35:42",
@@ -819,22 +819,6 @@
     {
       "added_at": "2020-04-22 19:35:42",
       "album": {
-        "name": "Las 4 Estaciones, vol. 11",
-        "url": "https://open.spotify.com/album/1cnYXeqwMikaACiCdX8tI2"
-      },
-      "artists": [
-        {
-          "name": "Trepsi",
-          "url": "https://open.spotify.com/artist/6uqcdmVQzxfdgsKWB04shs"
-        }
-      ],
-      "duration_ms": 58644,
-      "name": "Sonidos al Comer",
-      "url": "https://open.spotify.com/track/1KxnLbLVUYYdKlCF2uYezh"
-    },
-    {
-      "added_at": "2020-04-22 19:35:42",
-      "album": {
         "name": "Moey's Music Party",
         "url": "https://open.spotify.com/album/29OT5CvFbFVT7B5NQi2dGU"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 129560,
       "name": "I Always Sit When I Eat",
       "url": "https://open.spotify.com/track/7Gmhedp0ne4neq1BgNHClT"
+    },
+    {
+      "added_at": "2020-04-22 19:35:42",
+      "album": {
+        "name": "Las Mejores Canciones para Ni\u00f1os",
+        "url": "https://open.spotify.com/album/7spQnMoIypXmqWN3wiC29b"
+      },
+      "artists": [
+        {
+          "name": "HooplaKidz En Espa\u00f1ol",
+          "url": "https://open.spotify.com/artist/69v01YbcC6xhBi04cpaPlu"
+        }
+      ],
+      "duration_ms": 129536,
+      "name": "La Canci\u00f3n del Ba\u00f1o",
+      "url": "https://open.spotify.com/track/6ac3pwL3vip7nu9DVL2tyc"
     }
   ],
   "unique_name": "Daily Rutina",

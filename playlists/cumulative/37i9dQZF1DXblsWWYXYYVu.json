@@ -2738,6 +2738,24 @@
     },
     {
       "album": {
+        "name": "In These Silent Days (Deluxe Edition) In The Canyon Haze",
+        "url": "https://open.spotify.com/album/2FOAtTMAfplWnTKf7rl12Q"
+      },
+      "artists": [
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257853,
+      "name": "You and Me On The Rock (In The Canyon Haze)",
+      "url": "https://open.spotify.com/track/1ydzL5SIoSRCpEIYWhsWE5"
+    },
+    {
+      "album": {
         "name": "You and Me On The Rock (In The Canyon Haze)",
         "url": "https://open.spotify.com/album/22EMSIjfksTwA1yizWVXa6"
       },
@@ -2749,7 +2767,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 257853,
       "name": "You and Me On The Rock (In The Canyon Haze)",
       "url": "https://open.spotify.com/track/7tmtdHPAoUZLuJqTnDR7FS"

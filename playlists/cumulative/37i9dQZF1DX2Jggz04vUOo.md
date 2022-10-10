@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:3iT6d90Vy630068736OgW8">Foxall</a>'s favorite tracks\. Updated regularly\. Curated by Foxall\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-74 songs - 8 hr 3 min - [published](https://open.spotify.com/playlist/6Uulv9qmgDZFuVKOsRe47Z)
+75 songs - 8 hr 9 min - [published](https://open.spotify.com/playlist/6Uulv9qmgDZFuVKOsRe47Z)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,8 @@
 | [Babel](https://open.spotify.com/track/4GYWg4ElWCVlzhdxPhAGDp) | [Foxall](https://open.spotify.com/artist/3iT6d90Vy630068736OgW8), [Deaf Can Dance](https://open.spotify.com/artist/4x4MJgFMr8RcF9XwFIHmtk) | [Follow the Call of the Discoball 2](https://open.spotify.com/album/1xmMyt7Vq316bu9y2cSEOL) | 7:37 | 2022-07-23 |  |
 | [Bakasch Gode \- Geplantes Nichtstun Remix](https://open.spotify.com/track/6y3SznFBQEKLPbtY3kJn1f) | [Zapjevala](https://open.spotify.com/artist/0zPBvSVE4fxMvbsDwY4mPO), [Geplantes Nichtstun](https://open.spotify.com/artist/6vCpbHKaBgPOO7cPkUTeuU) | [Paprikas](https://open.spotify.com/album/2dMEctqB3UgBnerHxQwxLM) | 7:36 | 2022-07-23 |  |
 | [Bataille's Will \- Oceanvs Orientalis Remix](https://open.spotify.com/track/35jUZgmjDmVyvchmhczt82) | [Emin Gök](https://open.spotify.com/artist/0G6CKdqtwYDdGOgqw3GSNE), [Oceanvs Orientalis](https://open.spotify.com/artist/3gNEIgLeknpwkNViU8WAhg) | [Continuity](https://open.spotify.com/album/2P6JiDOFgHLOT4VsDR6NTw) | 5:31 | 2022-07-23 |  |
-| [Birds and Smoke](https://open.spotify.com/track/61r7nhS0hlGJeQXDHy58pL) | [Xinobi](https://open.spotify.com/artist/1w7cucUEPR1Yq9g03g6T8m) | [Birds and Smoke](https://open.spotify.com/album/362PlMh5VwHG30Wy6AX2un) | 6:08 | 2022-07-23 |  |
+| [Birds and Smoke](https://open.spotify.com/track/61r7nhS0hlGJeQXDHy58pL) | [Xinobi](https://open.spotify.com/artist/1w7cucUEPR1Yq9g03g6T8m) | [Birds and Smoke](https://open.spotify.com/album/362PlMh5VwHG30Wy6AX2un) | 6:08 | 2022-07-23 | 2022-10-07 |
+| [Birds and Smoke](https://open.spotify.com/track/6gFvgBSlJFjC4pswZJKSx6) | [Xinobi](https://open.spotify.com/artist/1w7cucUEPR1Yq9g03g6T8m) | [Walden Pond](https://open.spotify.com/album/5yS2vHJXAfLwUNYmuJ556C) | 6:08 | 2022-07-23 |  |
 | [Blumenkohlblamage](https://open.spotify.com/track/6q90JN9AhYNeZiuZfGiiCA) | [Kunterweiß](https://open.spotify.com/artist/5rJytJvZcTf6yVIw6BxWNe), [KataHaifisch](https://open.spotify.com/artist/5uxsA8TNcq5vK2cBBd0srM) | [Blumenkohlblamage](https://open.spotify.com/album/711PTniRZl5mv6wdbqcuWq) | 7:00 | 2022-07-23 |  |
 | [Cabras no Elevado Quilombola](https://open.spotify.com/track/3cSdiaevRvnmpiD6Z556GB) | [R Vincenzo](https://open.spotify.com/artist/60s8SE3Mr3oRVBOrLgi4vT) | [EP](https://open.spotify.com/album/0UeipqzhRd8Vvu94cTx7E5) | 7:10 | 2022-07-23 |  |
 | [Cielo Azul](https://open.spotify.com/track/4CjDf8BfmMq9LbvYLc8vLK) | [Coss](https://open.spotify.com/artist/3YdYc0Ewo5Vpejw0r3dV74), [Iorie](https://open.spotify.com/artist/1ruewEJphCPPAOSjowo9AH) | [Casual International EP](https://open.spotify.com/album/0s6EPctHVX8W3q4cLukP9I) | 6:59 | 2022-07-23 |  |

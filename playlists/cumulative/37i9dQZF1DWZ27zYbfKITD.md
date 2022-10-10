@@ -4,7 +4,7 @@
 
 > Focus and relax with the help of these chilled cinematic soundtracks.
 
-52 songs - 2 hr 49 min - [published](https://open.spotify.com/playlist/11XWwRk7eQQIfj4KpfiOmZ)
+54 songs - 2 hr 54 min - [published](https://open.spotify.com/playlist/11XWwRk7eQQIfj4KpfiOmZ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,6 +31,7 @@
 | [Epiphany](https://open.spotify.com/track/1q1T0TbFO2fWkDmgCKwTB0) | [Trent Reznor and Atticus Ross](https://open.spotify.com/artist/6cadOIa5DTh6a5mGo5r4bh) | [Soul \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2ffRAIZdlGEwnYE5ytIw88) | 3:48 | 2022-08-05 |  |
 | [Forest](https://open.spotify.com/track/2moMdZAnPvsDXbOY5m9fHf) | [Takeshi Furukawa](https://open.spotify.com/artist/1nmiCVZ0sfOQm43MGc9wr5) | [The Last Guardian Soundtrack \(Japan Deluxe Edition\)](https://open.spotify.com/album/4cTewzrku9xOpNPXOZ4jVo) | 2:06 | 2022-08-05 |  |
 | [Frozen Lake \(from "The Human Stain", Arr\. for Piano & Cello\)](https://open.spotify.com/track/6PbvnBmHVFDdjG6pMxag6g) | [Rachel Portman](https://open.spotify.com/artist/1joFZGTRER78nUsWtgHCHR), [Raphaela Gromes](https://open.spotify.com/artist/1MBdqvpYGau9IvRqwsSS50) | [Frozen Lake \(from "The Human Stain", Arr\. for Piano & Cello\)](https://open.spotify.com/album/4RNyRkhOHbb8BVfzKFqhCP) | 3:25 | 2022-09-30 |  |
+| [Giants of the Deep](https://open.spotify.com/track/0EO0ieCZNOUmMZdEq9YvpP) | [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ), [Adam Lukas](https://open.spotify.com/artist/4E39NH9eiLP3IMISn28wCd), [James Everingham](https://open.spotify.com/artist/2gn4jnqcC9yMXt6433gleQ), [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [Frozen Planet II \(Original Television Soundtrack\)](https://open.spotify.com/album/6sUYeUEUvgvnMIff7pTNnJ) | 1:31 | 2022-10-07 |  |
 | [Good Night You Kings \(from "The Cider House Rules", Arr\. for Piano\) \- a calm version](https://open.spotify.com/track/0P3snbkMDVmzfMKaKDuO9b) | [Rachel Portman](https://open.spotify.com/artist/1joFZGTRER78nUsWtgHCHR) | [Good Night You Kings](https://open.spotify.com/album/2uZVaktrTm54XmeO7w0kbI) | 1:03 | 2022-09-09 |  |
 | [Hello Rocks \- from Hoa \- Original Soundtrack](https://open.spotify.com/track/6AS4f29fe4h6sRE3b3Ytys) | [Johannes Johansson](https://open.spotify.com/artist/7u7VohKLwXLckuyYejvmff) | [Hello Rocks \(from Hoa \- Original Soundtrack\)](https://open.spotify.com/album/2WGdVBX5f8xc7r77A7iD8y) | 2:46 | 2022-08-05 |  |
 | [It's a Process](https://open.spotify.com/track/0KSwoOoIKqUZhQhmm0NnSP) | [Mychael Danna](https://open.spotify.com/artist/0x8J72N9ilqcIZbWEKB8T2) | [Moneyball \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3l4qPqECm6fywG03Rwke6r) | 1:52 | 2022-08-05 |  |
@@ -52,6 +53,7 @@
 | [Sweden](https://open.spotify.com/track/4NsPgRYUdHu2Q5JRNgXYU5) | [C418](https://open.spotify.com/artist/4uFZsG1vXrPcvnZ4iSQyrx) | [Minecraft \- Volume Alpha](https://open.spotify.com/album/3Gt7rOjcZQoHCfnKl5AkK7) | 3:35 | 2022-08-05 |  |
 | [The Box](https://open.spotify.com/track/4hPVjDcGbuc3neTgsAdzXn) | [Germaine Franco](https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe) | [Shovel Buddies \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3O7wscUi3JM0rSzKlBWAJR) | 4:04 | 2022-08-05 |  |
 | [The Last Dinner](https://open.spotify.com/track/3JHiWZFos4wuk8TzKslK8h) | [Rachel Portman](https://open.spotify.com/artist/1joFZGTRER78nUsWtgHCHR) | [Despite the Falling Snow \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1ur6MeJuL3o7YqnLPRzolr) | 1:50 | 2022-08-05 |  |
+| [The Last Samurai Suite: Part 1 \- Live](https://open.spotify.com/track/4SrsN2NYSHcf7cYsW6IKvy) | [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ), [The Disruptive Collective](https://open.spotify.com/artist/0oMhzz3sH8FqeezbdI3yAm) | [The Last Samurai Suite](https://open.spotify.com/album/2cLdbyLtYoDd6cIgXJVHI3) | 2:56 | 2022-10-07 |  |
 | [The Mind’s Eye](https://open.spotify.com/track/0RYvm6Wf0Z82UuH28lyV5J) | [Max Richter](https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW) | [Never Look Away \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0n57OBgkXOdrBngFeje285) | 2:48 | 2022-08-05 |  |
 | [The Museum](https://open.spotify.com/track/6VWTEGq1l81ciJnB4DDxOn) | [Andrew Prahlow](https://open.spotify.com/artist/0z4uBJEzO1dJy57Qk5UYt8) | [Outer Wilds \(Original Soundtrack\)](https://open.spotify.com/album/1U0A6RPNJB05PtuBcaTM7o) | 2:48 | 2022-08-05 |  |
 | [The Poet Acts](https://open.spotify.com/track/0XiMoe7Dh3CcF5sYNWIwYR) | [Philip Glass](https://open.spotify.com/artist/69lxxQvsfAIoQbB20bEPFC) | [The Hours \(Music from the Motion Picture Soundtrack\)](https://open.spotify.com/album/4F0LJueCDliCH7Bg4PPVil) | 3:43 | 2022-08-05 |  |

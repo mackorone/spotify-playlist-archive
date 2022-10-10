@@ -1,15 +1,271 @@
 {
-  "description": "Temukan beragam musik terbaru dari talenta segar dalam negeri. Cover: Aruma Artwork: Isu Kim.",
-  "num_followers": 59076,
+  "description": "Temukan beragam musik terbaru dari talenta segar dalam negeri. Cover: Samo Rafael. Artwork: Isu Kim.",
+  "num_followers": 59143,
   "original_name": "Fresh Finds Indonesia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDQ3MDgwMCwwMDAwMDAwMDA0ODBkZTkwZDk5MDA2ZDI0MTJjNDg3YzQ1NDRhYTAx",
+  "snapshot_id": "MTY2NTA3NTYwMCwwMDAwMDAwMGFmMGRmODA5MDU5ODcyZDgyNmFiZjVmNjg5OTAzMTIw",
   "tracks": [
     {
-      "added_at": "2022-09-29 17:00:00",
+      "added_at": "2022-10-06 17:00:00",
+      "album": {
+        "name": "Circles",
+        "url": "https://open.spotify.com/album/3giEmWJxIsBeAecCjUm8B2"
+      },
+      "artists": [
+        {
+          "name": "Samo Rafael",
+          "url": "https://open.spotify.com/artist/4VacCuYOOHgyuwVYpKq28y"
+        }
+      ],
+      "duration_ms": 229993,
+      "name": "Circles",
+      "url": "https://open.spotify.com/track/0evUWeyKmg41qklJEQ472V"
+    },
+    {
+      "added_at": "2022-10-06 17:00:00",
+      "album": {
+        "name": "Under The Influence",
+        "url": "https://open.spotify.com/album/14WfMM99fXcFPXkXNfYar7"
+      },
+      "artists": [
+        {
+          "name": "Azimah Fada",
+          "url": "https://open.spotify.com/artist/7xVCVjiZvaQ2zjAKS5Jkt9"
+        }
+      ],
+      "duration_ms": 183068,
+      "name": "Under The Influence",
+      "url": "https://open.spotify.com/track/6hGp5enYJDfTstBCnApfQT"
+    },
+    {
+      "added_at": "2022-10-06 17:00:00",
+      "album": {
+        "name": "Tatap Aku Sebentar",
+        "url": "https://open.spotify.com/album/4aUSVjTyRbDIdZKvPoKSyI"
+      },
+      "artists": [
+        {
+          "name": "Glenn Samuel",
+          "url": "https://open.spotify.com/artist/26ez0LOxJMgy1GkkXhZiCV"
+        }
+      ],
+      "duration_ms": 241430,
+      "name": "Tatap Aku Sebentar",
+      "url": "https://open.spotify.com/track/6ziH1DEnLcPlYkszQoGiSL"
+    },
+    {
+      "added_at": "2022-10-06 17:00:00",
+      "album": {
+        "name": "Don't Desire Me",
+        "url": "https://open.spotify.com/album/1cRAVvOyhBzV3SgtWUpW5O"
+      },
+      "artists": [
+        {
+          "name": "Ekklefa",
+          "url": "https://open.spotify.com/artist/2e7cQ7K4nBISOUMi9OlNtx"
+        }
+      ],
+      "duration_ms": 249230,
+      "name": "Don't Desire Me",
+      "url": "https://open.spotify.com/track/4mPaMOvlD6f9wNhdf72zqS"
+    },
+    {
+      "added_at": "2022-10-06 17:00:00",
+      "album": {
+        "name": "Ragu (with Tiara Effendy)",
+        "url": "https://open.spotify.com/album/6yjrt8S3F7lXF9cmIk8RR9"
+      },
+      "artists": [
+        {
+          "name": "RBA",
+          "url": "https://open.spotify.com/artist/3w364H4OAdrvrFlTmP8kB8"
+        },
+        {
+          "name": "Tiara Effendy",
+          "url": "https://open.spotify.com/artist/2fOTPwnARqKiw6FvDgUJLg"
+        }
+      ],
+      "duration_ms": 207000,
+      "name": "Ragu (with Tiara Effendy)",
+      "url": "https://open.spotify.com/track/5Mpt0aZIoP3MiPhDvP2R1H"
+    },
+    {
+      "added_at": "2022-10-06 17:00:00",
+      "album": {
+        "name": "Upside Down",
+        "url": "https://open.spotify.com/album/1mNEujYZkRocsqnME9TC9i"
+      },
+      "artists": [
+        {
+          "name": "WAHAM",
+          "url": "https://open.spotify.com/artist/1tL0LlLthyOhjlAbR921QO"
+        }
+      ],
+      "duration_ms": 253824,
+      "name": "Upside Down",
+      "url": "https://open.spotify.com/track/4ui4Zo3EJCLwHDvPjYIZVD"
+    },
+    {
+      "added_at": "2022-10-06 17:00:00",
+      "album": {
+        "name": "CAP TIKUS",
+        "url": "https://open.spotify.com/album/1vpjSbxfqOG2BHBFIMiBfX"
+      },
+      "artists": [
+        {
+          "name": "Kenz",
+          "url": "https://open.spotify.com/artist/2uMaQHQpDHTukH2gI5UiMk"
+        }
+      ],
+      "duration_ms": 184864,
+      "name": "CAP TIKUS",
+      "url": "https://open.spotify.com/track/71L3GOFEjFAPECXEVp6vyJ"
+    },
+    {
+      "added_at": "2022-10-06 17:00:00",
+      "album": {
+        "name": "Mampu Tanpanya",
+        "url": "https://open.spotify.com/album/5ZblYPTdz6soQiZXoc6TnW"
+      },
+      "artists": [
+        {
+          "name": "Reygi",
+          "url": "https://open.spotify.com/artist/4QwWaQkSuSk9SlE0aQkIfY"
+        },
+        {
+          "name": "PT Profesional Music",
+          "url": "https://open.spotify.com/artist/3cDF8MfDC2NMYuojZQ6WUM"
+        }
+      ],
+      "duration_ms": 183138,
+      "name": "Mampu Tanpanya",
+      "url": "https://open.spotify.com/track/5Ot1qlVfFLTBN1hDhG5M2B"
+    },
+    {
+      "added_at": "2022-10-06 17:00:00",
+      "album": {
+        "name": "TIDURLAH",
+        "url": "https://open.spotify.com/album/3cislRGVpDoM4REySyanXr"
+      },
+      "artists": [
+        {
+          "name": "Hunter Of Peace",
+          "url": "https://open.spotify.com/artist/72p3ZYyP9IwsZH1VWevhEZ"
+        }
+      ],
+      "duration_ms": 235714,
+      "name": "TIDURLAH",
+      "url": "https://open.spotify.com/track/0OcJIdy46Te58hE8xzx3jh"
+    },
+    {
+      "added_at": "2022-10-06 17:00:00",
+      "album": {
+        "name": "The Victory & Satisfactory",
+        "url": "https://open.spotify.com/album/2PMwlyvDmrfD0ca45Lpv71"
+      },
+      "artists": [
+        {
+          "name": "Mighfar Suganda",
+          "url": "https://open.spotify.com/artist/6fnPHFhTbkcDHj9CjpGzlG"
+        }
+      ],
+      "duration_ms": 180909,
+      "name": "The Victory & Satisfactory",
+      "url": "https://open.spotify.com/track/4VzQHrr3nDLKQPIxyVuAMR"
+    },
+    {
+      "added_at": "2022-10-06 17:00:00",
+      "album": {
+        "name": "MONEY2BIG (SHAKIRA)",
+        "url": "https://open.spotify.com/album/1qLu9vX6G9gCh1aBlpqxCV"
+      },
+      "artists": [
+        {
+          "name": "ENVY*",
+          "url": "https://open.spotify.com/artist/0wMJryVOHUmtw8y05i7puj"
+        },
+        {
+          "name": "Yg Juju",
+          "url": "https://open.spotify.com/artist/0WnHFsNx0BogF7G8Ah2QRG"
+        }
+      ],
+      "duration_ms": 187200,
+      "name": "MONEY2BIG (SHAKIRA)",
+      "url": "https://open.spotify.com/track/2YxJXzAAFoeh3ZxmCmv3Jb"
+    },
+    {
+      "added_at": "2022-10-06 17:00:00",
+      "album": {
+        "name": "easier",
+        "url": "https://open.spotify.com/album/536NMf5JgpWnRlgnnxp4j4"
+      },
+      "artists": [
+        {
+          "name": "Ramandhika",
+          "url": "https://open.spotify.com/artist/47WzpqQTUuAnZQsMl6V6Kt"
+        },
+        {
+          "name": "Db Mandala",
+          "url": "https://open.spotify.com/artist/6JVLqhpcrlRroql6UduuqC"
+        }
+      ],
+      "duration_ms": 192250,
+      "name": "easier - with Db Mandala",
+      "url": "https://open.spotify.com/track/2OlH6XNQl2HnBeRZ9gJhCW"
+    },
+    {
+      "added_at": "2022-10-06 17:00:00",
+      "album": {
+        "name": "Selamanya Berdua",
+        "url": "https://open.spotify.com/album/1r5jmQR5KtOYx4HcSrK1s5"
+      },
+      "artists": [
+        {
+          "name": "VDYP",
+          "url": "https://open.spotify.com/artist/6vih4fNghZHL0PRv9UzPJV"
+        }
+      ],
+      "duration_ms": 175000,
+      "name": "Selamanya Berdua",
+      "url": "https://open.spotify.com/track/4rP73AmOKV5OVqUq8wp8vq"
+    },
+    {
+      "added_at": "2022-10-06 17:00:00",
+      "album": {
+        "name": "Whiskey In My Cup",
+        "url": "https://open.spotify.com/album/1rvS93DwqHrSoyvBcx3anT"
+      },
+      "artists": [
+        {
+          "name": "BILBOYSAN",
+          "url": "https://open.spotify.com/artist/01hmGM01DAPioXw1BF5Tul"
+        }
+      ],
+      "duration_ms": 228837,
+      "name": "Whiskey In My Cup",
+      "url": "https://open.spotify.com/track/5yq218AElUnMSXGm75X01D"
+    },
+    {
+      "added_at": "2022-10-06 17:00:00",
+      "album": {
+        "name": "U Love Girls",
+        "url": "https://open.spotify.com/album/6CicSaALW9pFU7ddqIUnRi"
+      },
+      "artists": [
+        {
+          "name": "Jayezmaail",
+          "url": "https://open.spotify.com/artist/1kNMatGuuBhdPwjviihHGB"
+        }
+      ],
+      "duration_ms": 227538,
+      "name": "U Love Girls",
+      "url": "https://open.spotify.com/track/2H2c1YQhUtuzva89IpWZr9"
+    },
+    {
+      "added_at": "2022-10-06 17:00:00",
       "album": {
         "name": "Muak",
         "url": "https://open.spotify.com/album/4Zt66ubcxeKkfB3MvTYvCq"
@@ -25,7 +281,7 @@
       "url": "https://open.spotify.com/track/3N2WeXxSjngB1DSi8vrI8C"
     },
     {
-      "added_at": "2022-09-29 17:00:00",
+      "added_at": "2022-10-06 17:00:00",
       "album": {
         "name": "It's Crowded Up Here",
         "url": "https://open.spotify.com/album/7pFt7UUCuAJQngk3kZTs8y"
@@ -41,7 +297,7 @@
       "url": "https://open.spotify.com/track/1JAsU7x6ZzrxN9vH0jLSsv"
     },
     {
-      "added_at": "2022-09-29 17:00:00",
+      "added_at": "2022-10-06 17:00:00",
       "album": {
         "name": "This City",
         "url": "https://open.spotify.com/album/3u08f4jtvJh72AwnqfSEHc"
@@ -57,7 +313,7 @@
       "url": "https://open.spotify.com/track/6HCzzybrDpWJfvrTYtbRn3"
     },
     {
-      "added_at": "2022-09-29 17:00:00",
+      "added_at": "2022-10-06 17:00:00",
       "album": {
         "name": "Jawaban",
         "url": "https://open.spotify.com/album/4ZNjptno7YiriK77B5AUUc"
@@ -73,7 +329,7 @@
       "url": "https://open.spotify.com/track/2JCb3eda976Sb5vOsFyKs8"
     },
     {
-      "added_at": "2022-09-29 17:00:00",
+      "added_at": "2022-10-06 17:00:00",
       "album": {
         "name": "Back To You",
         "url": "https://open.spotify.com/album/7Hth7QqfXd5FMSiBbSOv8x"
@@ -89,7 +345,7 @@
       "url": "https://open.spotify.com/track/0umNnTO5E0u3CE4XCq8wWO"
     },
     {
-      "added_at": "2022-09-29 17:00:00",
+      "added_at": "2022-10-06 17:00:00",
       "album": {
         "name": "Jalan Berbeda",
         "url": "https://open.spotify.com/album/3D4jr8uhict1aoeUw9iEXp"
@@ -105,7 +361,7 @@
       "url": "https://open.spotify.com/track/1EDhbzLYcBnBPEkRwI8ke4"
     },
     {
-      "added_at": "2022-09-29 17:00:00",
+      "added_at": "2022-10-06 17:00:00",
       "album": {
         "name": "Sick Girl",
         "url": "https://open.spotify.com/album/5FMAnpI86KbdewlKUTpD7C"
@@ -121,7 +377,7 @@
       "url": "https://open.spotify.com/track/5zUOkdAeGz66ckK6nBueVj"
     },
     {
-      "added_at": "2022-09-29 17:00:00",
+      "added_at": "2022-10-06 17:00:00",
       "album": {
         "name": "Kaqotun",
         "url": "https://open.spotify.com/album/2mqq8dZc8acR395hXcXVhL"
@@ -137,7 +393,7 @@
       "url": "https://open.spotify.com/track/4Go5gWOhnFCqn6RpEjZmm7"
     },
     {
-      "added_at": "2022-09-29 17:00:00",
+      "added_at": "2022-10-06 17:00:00",
       "album": {
         "name": "Galaxy of You",
         "url": "https://open.spotify.com/album/6i3PiD2fyy5xZGmOUgtqDu"
@@ -153,7 +409,7 @@
       "url": "https://open.spotify.com/track/6tmpjO0A9sD6iL0SlLAe1a"
     },
     {
-      "added_at": "2022-09-29 17:00:00",
+      "added_at": "2022-10-06 17:00:00",
       "album": {
         "name": "best friend",
         "url": "https://open.spotify.com/album/1G0meIJ2EljeWzhI2fcH59"
@@ -169,7 +425,7 @@
       "url": "https://open.spotify.com/track/3XUqsXm5prHluhSEunniLR"
     },
     {
-      "added_at": "2022-09-29 17:00:00",
+      "added_at": "2022-10-06 17:00:00",
       "album": {
         "name": "Untuk Kamu",
         "url": "https://open.spotify.com/album/4fWszxU9C6IMghqgGBTXhZ"
@@ -185,7 +441,7 @@
       "url": "https://open.spotify.com/track/2YdH2VwGqqm343hRwioFmW"
     },
     {
-      "added_at": "2022-09-29 17:00:00",
+      "added_at": "2022-10-06 17:00:00",
       "album": {
         "name": "Bergala",
         "url": "https://open.spotify.com/album/1hioznUHrmxoRglxFYB4br"
@@ -201,7 +457,7 @@
       "url": "https://open.spotify.com/track/11srXBmq0gJBSSnvnMF0O0"
     },
     {
-      "added_at": "2022-09-29 17:00:00",
+      "added_at": "2022-10-06 17:00:00",
       "album": {
         "name": "Cut You Off",
         "url": "https://open.spotify.com/album/2eKIB0WirPJN1Y5m925iDA"
@@ -221,7 +477,7 @@
       "url": "https://open.spotify.com/track/68IbZOnkZsFCo4dLfzLj61"
     },
     {
-      "added_at": "2022-09-29 17:00:00",
+      "added_at": "2022-10-06 17:00:00",
       "album": {
         "name": "Me Against The World",
         "url": "https://open.spotify.com/album/2SXsvZGpN0JEFubEntjGvT"
@@ -237,7 +493,7 @@
       "url": "https://open.spotify.com/track/5Eynm7vWl2BB2KwiUA7RDQ"
     },
     {
-      "added_at": "2022-09-29 17:00:00",
+      "added_at": "2022-10-06 17:00:00",
       "album": {
         "name": "A Day",
         "url": "https://open.spotify.com/album/2aLwR1naXdVHjX6mgXxcru"
@@ -253,7 +509,7 @@
       "url": "https://open.spotify.com/track/3fixS6UGGvqDQUXJmlez74"
     },
     {
-      "added_at": "2022-09-29 17:00:00",
+      "added_at": "2022-10-06 17:00:00",
       "album": {
         "name": "Blue Moon",
         "url": "https://open.spotify.com/album/1vwAMpKSHW847nx0eyQ7Uk"
@@ -269,7 +525,7 @@
       "url": "https://open.spotify.com/track/2yOaXP0ErEd1oe0GstGGdI"
     },
     {
-      "added_at": "2022-09-29 17:00:00",
+      "added_at": "2022-10-06 17:00:00",
       "album": {
         "name": "Like a Dream",
         "url": "https://open.spotify.com/album/5Vu4TAMVsKSWSKNKsxhq2i"
@@ -285,7 +541,7 @@
       "url": "https://open.spotify.com/track/2r7nMSO5cRlnPlWvZEwQrW"
     },
     {
-      "added_at": "2022-09-29 17:00:00",
+      "added_at": "2022-10-06 17:00:00",
       "album": {
         "name": "Babe, You're So Unreachable",
         "url": "https://open.spotify.com/album/73wclVEih1FC7hTeHbJcXI"
@@ -301,7 +557,7 @@
       "url": "https://open.spotify.com/track/1h2d110lk6Q6FE8qi10swG"
     },
     {
-      "added_at": "2022-09-29 17:00:00",
+      "added_at": "2022-10-06 17:00:00",
       "album": {
         "name": "can i be yours?",
         "url": "https://open.spotify.com/album/7Mdq6utmsBWgHdDigp04b4"
@@ -317,7 +573,7 @@
       "url": "https://open.spotify.com/track/4skDVFDAPUk5UAJ3DDiqzD"
     },
     {
-      "added_at": "2022-09-29 17:00:00",
+      "added_at": "2022-10-06 17:00:00",
       "album": {
         "name": "30",
         "url": "https://open.spotify.com/album/5R8Pbe0yL7BiaWOQxdAgnH"
@@ -333,7 +589,7 @@
       "url": "https://open.spotify.com/track/6eCpybcWp36ELYRTNngxPT"
     },
     {
-      "added_at": "2022-09-29 17:00:00",
+      "added_at": "2022-10-06 17:00:00",
       "album": {
         "name": "Sendiriku",
         "url": "https://open.spotify.com/album/0iyjyJNppAYUDJbxOQlePg"
@@ -349,7 +605,7 @@
       "url": "https://open.spotify.com/track/6Mb4kyCyi59mLU8HNG4bTY"
     },
     {
-      "added_at": "2022-09-29 17:00:00",
+      "added_at": "2022-10-06 17:00:00",
       "album": {
         "name": "Lupakan Semua",
         "url": "https://open.spotify.com/album/7jE9y5tnmW9cV0rNLG7YQe"
@@ -365,7 +621,7 @@
       "url": "https://open.spotify.com/track/6yDXKoP6W4GuaO9OHux1a1"
     },
     {
-      "added_at": "2022-09-29 17:00:00",
+      "added_at": "2022-10-06 17:00:00",
       "album": {
         "name": "Spectrum",
         "url": "https://open.spotify.com/album/1pRxyu8GtFV5rfzxyksXiH"
@@ -381,7 +637,7 @@
       "url": "https://open.spotify.com/track/2rTkqZYsjcENG8VZucQ0qd"
     },
     {
-      "added_at": "2022-09-29 17:00:00",
+      "added_at": "2022-10-06 17:00:00",
       "album": {
         "name": "Comedy Routine",
         "url": "https://open.spotify.com/album/704gUVoWTFMCJPzpyyjTHL"
@@ -401,7 +657,7 @@
       "url": "https://open.spotify.com/track/43UgwPp3zkoQqi2JfEhHM7"
     },
     {
-      "added_at": "2022-09-29 17:00:00",
+      "added_at": "2022-10-06 17:00:00",
       "album": {
         "name": "25",
         "url": "https://open.spotify.com/album/0aZouDmdtJL6XX0IL1eLw7"
@@ -417,7 +673,7 @@
       "url": "https://open.spotify.com/track/0sDSEPNqHVuLmz00yGGtnJ"
     },
     {
-      "added_at": "2022-09-29 17:00:00",
+      "added_at": "2022-10-06 17:00:00",
       "album": {
         "name": "Brown Eyes",
         "url": "https://open.spotify.com/album/4x8wllMiU0HfZHM36fZtzM"
@@ -433,7 +689,7 @@
       "url": "https://open.spotify.com/track/1OTcl70SVII8k4XgexbeUI"
     },
     {
-      "added_at": "2022-09-29 17:00:00",
+      "added_at": "2022-10-06 17:00:00",
       "album": {
         "name": "Kandas",
         "url": "https://open.spotify.com/album/4TtqcVInhP7xWYp7Gk1JcD"
@@ -449,7 +705,7 @@
       "url": "https://open.spotify.com/track/6CuhYpacIuYPpw8baHP1Oq"
     },
     {
-      "added_at": "2022-09-29 17:00:00",
+      "added_at": "2022-10-06 17:00:00",
       "album": {
         "name": "Be Mine",
         "url": "https://open.spotify.com/album/7hkYM3v441voxr8EAJ4LtC"
@@ -465,7 +721,7 @@
       "url": "https://open.spotify.com/track/6zwz5zWYJu3rW4mFYCZqht"
     },
     {
-      "added_at": "2022-09-29 17:00:00",
+      "added_at": "2022-10-06 17:00:00",
       "album": {
         "name": "Lahir",
         "url": "https://open.spotify.com/album/0WTJvgPd0sM2oMhURLZrUH"
@@ -481,7 +737,7 @@
       "url": "https://open.spotify.com/track/0hGNbXfZog6uIlGRE3jsMK"
     },
     {
-      "added_at": "2022-09-29 17:00:00",
+      "added_at": "2022-10-06 17:00:00",
       "album": {
         "name": "Dear, Thomas",
         "url": "https://open.spotify.com/album/30Gm2Duj0ZJiHTmvJuYdYu"
@@ -497,7 +753,7 @@
       "url": "https://open.spotify.com/track/2nuuE6aMtpOrp7uwJR2TOP"
     },
     {
-      "added_at": "2022-09-29 17:00:00",
+      "added_at": "2022-10-06 17:00:00",
       "album": {
         "name": "See Each Other",
         "url": "https://open.spotify.com/album/4baVgwPNHI5iOUFSqN2O7K"
@@ -513,7 +769,7 @@
       "url": "https://open.spotify.com/track/4DuU29Z2hM7XldRBOkR3Wy"
     },
     {
-      "added_at": "2022-09-29 17:00:00",
+      "added_at": "2022-10-06 17:00:00",
       "album": {
         "name": "Empty Inside",
         "url": "https://open.spotify.com/album/13GOskQ9bMFvenMYdQRXzO"
@@ -529,7 +785,7 @@
       "url": "https://open.spotify.com/track/3VLxRls1EUIyinSsjBQiEU"
     },
     {
-      "added_at": "2022-09-29 17:00:00",
+      "added_at": "2022-10-06 17:00:00",
       "album": {
         "name": "Masafana",
         "url": "https://open.spotify.com/album/2Vk0Acr9jA7KARTp1ly6Gv"
@@ -545,7 +801,7 @@
       "url": "https://open.spotify.com/track/0M6suh3cW4BHmQFYIaa3UZ"
     },
     {
-      "added_at": "2022-09-29 17:00:00",
+      "added_at": "2022-10-06 17:00:00",
       "album": {
         "name": "Farewell",
         "url": "https://open.spotify.com/album/2vDNiYKuiDsKrogQgZeFyM"
@@ -561,7 +817,7 @@
       "url": "https://open.spotify.com/track/4hwBiiLLGKuJZvx2g2oLF9"
     },
     {
-      "added_at": "2022-09-29 17:00:00",
+      "added_at": "2022-10-06 17:00:00",
       "album": {
         "name": "Hidup dan Matiku Untukmu",
         "url": "https://open.spotify.com/album/36SyY8Qqe4OSufbUFrkr30"
@@ -581,7 +837,7 @@
       "url": "https://open.spotify.com/track/7aRD9z9kDgYenTi90kPfU2"
     },
     {
-      "added_at": "2022-09-29 17:00:00",
+      "added_at": "2022-10-06 17:00:00",
       "album": {
         "name": "Apa Mungkin",
         "url": "https://open.spotify.com/album/26VYaukDjQn7rwT4ummk31"
@@ -597,7 +853,7 @@
       "url": "https://open.spotify.com/track/5KYUrBgdbIcqwaGSIgfXPl"
     },
     {
-      "added_at": "2022-09-29 17:00:00",
+      "added_at": "2022-10-06 17:00:00",
       "album": {
         "name": "Arung Samudra",
         "url": "https://open.spotify.com/album/0vZbhQweERcKU58ysq2RXl"
@@ -613,7 +869,7 @@
       "url": "https://open.spotify.com/track/7rAo2ANTKNaH4jhPNWJTAD"
     },
     {
-      "added_at": "2022-09-29 17:00:00",
+      "added_at": "2022-10-06 17:00:00",
       "album": {
         "name": "Too Far",
         "url": "https://open.spotify.com/album/5uekioXuMtE3YiBbMscBQu"
@@ -629,7 +885,7 @@
       "url": "https://open.spotify.com/track/45HLGBHegbepv8pcUsR7wI"
     },
     {
-      "added_at": "2022-09-29 17:00:00",
+      "added_at": "2022-10-06 17:00:00",
       "album": {
         "name": "Sunset View",
         "url": "https://open.spotify.com/album/3kFvFKL2imh65emrkwWuXQ"
@@ -645,39 +901,7 @@
       "url": "https://open.spotify.com/track/2MFE5ZBCjNe1Mhi73V6ntM"
     },
     {
-      "added_at": "2022-09-29 17:00:00",
-      "album": {
-        "name": "Slowly",
-        "url": "https://open.spotify.com/album/6sWeM79dkmUnsmDwCQaJtu"
-      },
-      "artists": [
-        {
-          "name": "Carla Bunga",
-          "url": "https://open.spotify.com/artist/3oS67eb7CJPE2JhutKDCdT"
-        }
-      ],
-      "duration_ms": 181213,
-      "name": "Slowly",
-      "url": "https://open.spotify.com/track/3l9dSNISF2TBDAsutR35Qy"
-    },
-    {
-      "added_at": "2022-09-29 17:00:00",
-      "album": {
-        "name": "Let Me In",
-        "url": "https://open.spotify.com/album/1QPXK7Ig0chdgC8wPHmxyI"
-      },
-      "artists": [
-        {
-          "name": "Luise Najib",
-          "url": "https://open.spotify.com/artist/6ZhJ6vnQM4FnotVwUWWAn0"
-        }
-      ],
-      "duration_ms": 216792,
-      "name": "Let Me In",
-      "url": "https://open.spotify.com/track/0zVDBpbaqYg7lmBfAdX75p"
-    },
-    {
-      "added_at": "2022-09-29 17:00:00",
+      "added_at": "2022-10-06 17:00:00",
       "album": {
         "name": "Only You",
         "url": "https://open.spotify.com/album/74qpijaeiWhcbLIMh2YmbB"
@@ -693,27 +917,7 @@
       "url": "https://open.spotify.com/track/2i1Jm7Ek8A1I7gYGxyq1yf"
     },
     {
-      "added_at": "2022-09-29 17:00:00",
-      "album": {
-        "name": "Chillin'",
-        "url": "https://open.spotify.com/album/3NY2VUaw56l4dvSd97W0wK"
-      },
-      "artists": [
-        {
-          "name": "KRLY",
-          "url": "https://open.spotify.com/artist/11aZ0KUcSTr7AterUGuDpJ"
-        },
-        {
-          "name": "Tommy Pratomo",
-          "url": "https://open.spotify.com/artist/7EmZD2HfyAxEpo3JzvNLoQ"
-        }
-      ],
-      "duration_ms": 198000,
-      "name": "Chillin'",
-      "url": "https://open.spotify.com/track/6juaWwhFJRzjO21HwF0tG2"
-    },
-    {
-      "added_at": "2022-09-29 17:00:00",
+      "added_at": "2022-10-06 17:00:00",
       "album": {
         "name": "Crystals",
         "url": "https://open.spotify.com/album/5xx8TXASDM2gq4OWPqrITf"
@@ -729,39 +933,7 @@
       "url": "https://open.spotify.com/track/3vzfW72pzkZokdhYJFA7ln"
     },
     {
-      "added_at": "2022-09-29 17:00:00",
-      "album": {
-        "name": "Under The Shadow of Sundial",
-        "url": "https://open.spotify.com/album/5PJ4vzU6jHiTQGEP8RsaSN"
-      },
-      "artists": [
-        {
-          "name": "Jemala",
-          "url": "https://open.spotify.com/artist/5MdA2r56EcCoiYe5hq0fte"
-        }
-      ],
-      "duration_ms": 253714,
-      "name": "Under The Shadow of Sundial",
-      "url": "https://open.spotify.com/track/6p8xZaqB5FuNNA7ee02Y8T"
-    },
-    {
-      "added_at": "2022-09-29 17:00:00",
-      "album": {
-        "name": "Places",
-        "url": "https://open.spotify.com/album/1PAC9pD2cetcJBlfxpLcQX"
-      },
-      "artists": [
-        {
-          "name": "Circle Fox",
-          "url": "https://open.spotify.com/artist/4WolzsFBoz00kBda6SUYn9"
-        }
-      ],
-      "duration_ms": 198496,
-      "name": "Places",
-      "url": "https://open.spotify.com/track/18P8DSqzZJ1OSbzCdw289I"
-    },
-    {
-      "added_at": "2022-09-29 17:00:00",
+      "added_at": "2022-10-06 17:00:00",
       "album": {
         "name": "Still I Feel",
         "url": "https://open.spotify.com/album/2gSBwU7MvJj7qKd1LJN0xn"
@@ -777,23 +949,7 @@
       "url": "https://open.spotify.com/track/6ABMw2DZr04ea9tk04SN0D"
     },
     {
-      "added_at": "2022-09-29 17:00:00",
-      "album": {
-        "name": "Tanpa Banyak Bicara",
-        "url": "https://open.spotify.com/album/4PPXRKVo89Zo6iDcN0AFOr"
-      },
-      "artists": [
-        {
-          "name": "Nathania Wibowo",
-          "url": "https://open.spotify.com/artist/28wnVNqW7GlkuyrKadCRzA"
-        }
-      ],
-      "duration_ms": 262282,
-      "name": "Tanpa Banyak Bicara",
-      "url": "https://open.spotify.com/track/7ITrS3hOVjDIBlANFQS7jQ"
-    },
-    {
-      "added_at": "2022-09-29 17:00:00",
+      "added_at": "2022-10-06 17:00:00",
       "album": {
         "name": "Lucy",
         "url": "https://open.spotify.com/album/1U2V18nH2MnW2fv2G5zJzk"
@@ -813,7 +969,7 @@
       "url": "https://open.spotify.com/track/0c2P6BNxDXsppXD0bpvIuq"
     },
     {
-      "added_at": "2022-09-29 17:00:00",
+      "added_at": "2022-10-06 17:00:00",
       "album": {
         "name": "Terpukau",
         "url": "https://open.spotify.com/album/3bXY18S658jFr0ukgejY1Z"
@@ -829,7 +985,7 @@
       "url": "https://open.spotify.com/track/07vsWrybbO9frK8XDTsqQH"
     },
     {
-      "added_at": "2022-09-29 17:00:00",
+      "added_at": "2022-10-06 17:00:00",
       "album": {
         "name": "Would You Stay",
         "url": "https://open.spotify.com/album/5R27kxRIzdhq6b04OGb3v5"
@@ -845,7 +1001,7 @@
       "url": "https://open.spotify.com/track/40hReXpQpzleRD150iihuY"
     },
     {
-      "added_at": "2022-09-29 17:00:00",
+      "added_at": "2022-10-06 17:00:00",
       "album": {
         "name": "Daydreaming",
         "url": "https://open.spotify.com/album/21mifnRLBLK5ldhIuzpniX"
@@ -861,7 +1017,7 @@
       "url": "https://open.spotify.com/track/08JFy8CIR28ANIiTZTZBvZ"
     },
     {
-      "added_at": "2022-09-29 17:00:00",
+      "added_at": "2022-10-06 17:00:00",
       "album": {
         "name": "I Know",
         "url": "https://open.spotify.com/album/6Gzsbtpn7NmsbWvzRZPYwE"
@@ -881,7 +1037,7 @@
       "url": "https://open.spotify.com/track/6eKfrP5b05Cqp37DaVr60U"
     },
     {
-      "added_at": "2022-09-29 17:00:00",
+      "added_at": "2022-10-06 17:00:00",
       "album": {
         "name": "Cinta Sampai Surga",
         "url": "https://open.spotify.com/album/6qDqpbYh9gNSpGEoTriSHm"
@@ -901,23 +1057,7 @@
       "url": "https://open.spotify.com/track/0Xg6GhhMFlSMneHEdJElWO"
     },
     {
-      "added_at": "2022-09-29 17:00:00",
-      "album": {
-        "name": "Road Trippin",
-        "url": "https://open.spotify.com/album/7BXfx3SULl2aXArAd3VWXl"
-      },
-      "artists": [
-        {
-          "name": "Jaybag",
-          "url": "https://open.spotify.com/artist/6fVPj9LNi7dgkG1luLMOCx"
-        }
-      ],
-      "duration_ms": 108000,
-      "name": "Heart On The Floor",
-      "url": "https://open.spotify.com/track/4cRs6JgmNt9Hu9KWEugaFr"
-    },
-    {
-      "added_at": "2022-09-29 17:00:00",
+      "added_at": "2022-10-06 17:00:00",
       "album": {
         "name": "Warna Hariku",
         "url": "https://open.spotify.com/album/7wd1o9YnADhb7Btsb908fs"
@@ -933,7 +1073,7 @@
       "url": "https://open.spotify.com/track/01kdSNuqP1siXo6lhKLYOR"
     },
     {
-      "added_at": "2022-09-29 17:00:00",
+      "added_at": "2022-10-06 17:00:00",
       "album": {
         "name": "Peace Up",
         "url": "https://open.spotify.com/album/6LBnpZxBq7mPFSGA7oi48D"
@@ -951,38 +1091,6 @@
       "duration_ms": 238420,
       "name": "Peace Up",
       "url": "https://open.spotify.com/track/4HOUCSbgNO6VOT0dvH8ysO"
-    },
-    {
-      "added_at": "2022-09-29 17:00:00",
-      "album": {
-        "name": "I'll Movin On",
-        "url": "https://open.spotify.com/album/0iXbjmYvpLIlo5pTwFHkKZ"
-      },
-      "artists": [
-        {
-          "name": "Restie",
-          "url": "https://open.spotify.com/artist/2taxsJcxUghC9XeH0OIJkw"
-        }
-      ],
-      "duration_ms": 184510,
-      "name": "I'll Movin On",
-      "url": "https://open.spotify.com/track/3cD6VbfNARTtmFKKH4ytdB"
-    },
-    {
-      "added_at": "2022-09-29 17:00:00",
-      "album": {
-        "name": "Day Dreaming",
-        "url": "https://open.spotify.com/album/7Dw43CN4FuYBAM4LcmUCD8"
-      },
-      "artists": [
-        {
-          "name": "SERASA",
-          "url": "https://open.spotify.com/artist/4d1VXqC7TYNMoyaXDeVwop"
-        }
-      ],
-      "duration_ms": 221258,
-      "name": "Day Dreaming",
-      "url": "https://open.spotify.com/track/5bqf7IckWeZqTEMVIFOpGx"
     }
   ],
   "unique_name": "Fresh Finds Indonesia",

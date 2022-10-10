@@ -4,7 +4,7 @@
 
 > A blend of new songs and new artists in the neo\-soul space\. Cover: Joya Mooi
 
-239 songs - 14 hr 7 min - [published](https://open.spotify.com/playlist/7xeIijiJL07j3maRHG4UZK)
+241 songs - 14 hr 13 min - [published](https://open.spotify.com/playlist/7xeIijiJL07j3maRHG4UZK)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,6 +48,7 @@
 | [Camden Free Public Library](https://open.spotify.com/track/6Oxc4nkfR3SPJjBUNtf87r) | [Bulgarian Cartrader](https://open.spotify.com/artist/6lxux8VJXRZ98idfyMzZmx) | [Camden Free Public Library](https://open.spotify.com/album/3WzSD6AH1XQW6DYcNcXfki) | 5:04 | 2022-07-24 |  |
 | [Candy Drip](https://open.spotify.com/track/3bP9pv7uHgCN4mzmelCIjO) | [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Candy Drip](https://open.spotify.com/album/2exRXecgdBcKjTGG3PUgnV) | 4:39 | 2021-12-16 | 2022-04-29 |
 | [Celebrate](https://open.spotify.com/track/6oNwXGQLCZS42nrdfYeT0I) | [Selah Sue](https://open.spotify.com/artist/5Oc4knEQaid8K7AFqO5lHu), [Mick Jenkins](https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx) | [Persona](https://open.spotify.com/album/5EilDjxUUvRqY1iPoX23ix) | 3:23 | 2022-04-08 |  |
+| [Champagne Problems](https://open.spotify.com/track/7pfx2xxO3rAQPVUIdQYwtM) | [ENNY](https://open.spotify.com/artist/3qEnCAnX23lvoxZYtBiPgL) | [Champagne Problems](https://open.spotify.com/album/3SVAsjIqaP3EwqAEiTJXjF) | 2:22 | 2022-10-07 |  |
 | [Chanel Pearls \(with Jill Scott\)](https://open.spotify.com/track/3jWkuKai8qoTRvshbkxh0A) | [Conway the Machine](https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS), [Jill Scott](https://open.spotify.com/artist/6AVLthptCPhfrxlHadOBJD) | [God Don't Make Mistakes](https://open.spotify.com/album/4w1BBgCcUVv54r3zJenKpG) | 3:18 | 2022-02-24 |  |
 | [Chasing](https://open.spotify.com/track/7sGKEO3p8Bcr83ije4BoFK) | [EMY](https://open.spotify.com/artist/60fG6DGeN38kRBsBaokPNG) | [Chasing](https://open.spotify.com/album/3mNWyf9QBXfnuXJCYeImt1) | 2:38 | 2022-08-23 |  |
 | [Cherubim](https://open.spotify.com/track/5ORiAl7tlhYU7FsTGekeO0) | [Beau Nox](https://open.spotify.com/artist/72N0ykdq9YlISwQcV7bJkq) | [Cherubim](https://open.spotify.com/album/0NdoxejwhbuGuAVUmK3fgL) | 3:15 | 2022-07-28 |  |
@@ -69,6 +70,7 @@
 | [Ease Up](https://open.spotify.com/track/4ykxlLzlR2B7OhpkPBMhUW) | [Jean Deaux](https://open.spotify.com/artist/4JqpJeNOhP6bAkolNMLwFg), [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig) | [Most Wanted \(Deluxe\)](https://open.spotify.com/album/46fxxm1oHMPzR51GElXrAt) | 3:41 | 2022-06-16 |  |
 | [Ego](https://open.spotify.com/track/7uB6KGAyiz2fNmsYY2NdsX) | [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Candydrip](https://open.spotify.com/album/6eiCnBFhY8yvhLjZzjIsxQ) | 5:50 | 2022-04-08 |  |
 | [Envy](https://open.spotify.com/track/5SusLOd5pOU6akwkkODXf5) | [Ogi](https://open.spotify.com/artist/60nDKjd690Luygtd3Fm0Cu) | [Monologues](https://open.spotify.com/album/6DCJRFuE8JFtrOdSKSweaE) | 4:07 | 2022-05-19 |  |
+| [Evergreen \(You Didn’t Deserve Me At All\)](https://open.spotify.com/track/2TktkzfozZifbQhXjT6I33) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Ivory](https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv) | 3:36 | 2022-10-06 |  |
 | [Every Part of Me \(feat\. Ari Lennox\)](https://open.spotify.com/track/3fo5i7RCEyLycp8dsn7Pa1) | [Theo Croker](https://open.spotify.com/artist/7iUF39q93Xixo33E6IvNYm), [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom) | [BLK2LIFE \|\| A FUTURE PAST](https://open.spotify.com/album/5ULA4LSxoFzpCPERRiNuRT) | 3:10 | 2021-12-16 |  |
 | [Everybody Love](https://open.spotify.com/track/6iVl0KVT87kMRqYxAMstSN) | [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn), [Musiq Soulchild](https://open.spotify.com/artist/3UVRliakQfa1pMWIsNuiZ8), [Posdnuos](https://open.spotify.com/artist/4OydvmAsJa7r6W8Q0xwkI7) | [Black Radio III](https://open.spotify.com/album/54TcbHrolA5VaPXZNKx4du) | 5:03 | 2022-02-24 | 2022-07-07 |
 | [Everything](https://open.spotify.com/track/3ELZG2YLGrwCVesooFyF4e) | [Gotts Street Park](https://open.spotify.com/artist/2hwy5DELim1AxB1sHPqn4y), [Rosie Lowe](https://open.spotify.com/artist/3xGUleMP0VqmYNXcGBNhnI) | [Everything](https://open.spotify.com/album/7H2TlAwM0GMWeZbT3XGI0F) | 3:35 | 2021-12-16 | 2022-04-09 |

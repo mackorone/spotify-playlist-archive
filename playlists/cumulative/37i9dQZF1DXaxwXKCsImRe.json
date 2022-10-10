@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Exciting artists on the RADAR from the Benelux and beyond. Cover: MEAU",
+  "description": "Exciting artists on the RADAR from the Benelux and beyond. Cover: The Haunted Youth",
   "name": "RADAR BNLX",
   "published_playlist_ids": [
     "5PI9N3InPPtYz6UBLMEA8w"
@@ -602,6 +602,24 @@
     },
     {
       "album": {
+        "name": "I Feel Like Shit And I Wanna Die",
+        "url": "https://open.spotify.com/album/4Dfn8X3Fw8Zisujyw0yYds"
+      },
+      "artists": [
+        {
+          "name": "The Haunted Youth",
+          "url": "https://open.spotify.com/artist/2BJzRLleDH2jTAArbI4Xod"
+        }
+      ],
+      "date_added": "2022-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216573,
+      "name": "I Feel Like Shit And I Wanna Die",
+      "url": "https://open.spotify.com/track/1aOq2CbGFsvoc2eTDBSwUc"
+    },
+    {
+      "album": {
         "name": "I'm not Pretty",
         "url": "https://open.spotify.com/album/7kpMsNJoM5X8kntRP4OzFg"
       },
@@ -1127,10 +1145,28 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-09",
       "duration_ms": 201455,
       "name": "Romance in Great Britain",
       "url": "https://open.spotify.com/track/4t51Fwx665meFGj1DJwweV"
+    },
+    {
+      "album": {
+        "name": "Romance in Great Britain",
+        "url": "https://open.spotify.com/album/3gL5sXknuYa2VCjr5bA5UT"
+      },
+      "artists": [
+        {
+          "name": "mustbejohn",
+          "url": "https://open.spotify.com/artist/5hgZ7PGI0EM2UfiWAIKdFc"
+        }
+      ],
+      "date_added": "2022-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201455,
+      "name": "Romance in Great Britain",
+      "url": "https://open.spotify.com/track/7qHn95y6Fry3I6t87HekQ5"
     },
     {
       "album": {

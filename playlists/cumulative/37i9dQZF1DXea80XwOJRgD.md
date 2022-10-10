@@ -4,7 +4,7 @@
 
 > Some heart and soul for those up late.
 
-82 songs - 5 hr 23 min - [published](https://open.spotify.com/playlist/4GHpFgqd4bd7kxNUP0brg8)
+83 songs - 5 hr 27 min - [published](https://open.spotify.com/playlist/4GHpFgqd4bd7kxNUP0brg8)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [Better Man](https://open.spotify.com/track/7tOYSMYowhxJ0uK3WMoL5n) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Coming Home \(Deluxe\)](https://open.spotify.com/album/21KIagsx1ZvYcv0sVkEAWv) | 2:20 | 2017-11-04 |  |
 | [Better Man](https://open.spotify.com/track/321cXoYTsPtmNaVGubsz4o) | [Paolo Nutini](https://open.spotify.com/artist/7x5rK9BClDQ8wmCkYAGsQp) | [Caustic Love](https://open.spotify.com/album/7M0WhcuEYzzeQwTNy1bDDO) | 5:29 | 2017-11-04 |  |
 | [Better Man](https://open.spotify.com/track/6PN51jW5TJ4XOFMO41lc6h) | [Paolo Nutini](https://open.spotify.com/artist/7x5rK9BClDQ8wmCkYAGsQp) | [Caustic Love](https://open.spotify.com/album/0DnxCSZdeApVBVfcWsm3IJ) | 5:29 | 2017-11-04 | 2022-07-29 |
+| [By Design \[Evel Knievel\]](https://open.spotify.com/track/3AW8GEO8kc0X4zVGJFGkh2) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [Lies About The War](https://open.spotify.com/album/7Dq8kOETaKNLrKouSjg5Pv) | 3:46 | 2022-10-02 |  |
 | [By My Side](https://open.spotify.com/track/6QF8BEta1IcrPi0eigAGWY) | [Kat Wright](https://open.spotify.com/artist/3FX6ZjUpCoJOwsxleWx2ci) | [By My Side](https://open.spotify.com/album/1Qi9oI1lVDTZQL3gFikBIH) | 6:07 | 2017-11-04 |  |
 | [Cry to Me](https://open.spotify.com/track/2ERRgYqz82Ps5UagTAzze2) | [Marc Broussard](https://open.spotify.com/artist/4cEwEednPwWCdYT7ZhROZe) | [S.O.S\. \- Save Our Soul, Vol\. 2: Soul on a Mission](https://open.spotify.com/album/3alOo6XDq9rGuaEFC2Khhy) | 2:37 | 2017-11-04 | 2022-07-29 |
 | [Cry to Me](https://open.spotify.com/track/69EkVHI0mRHqMXFmXDMLuP) | [Marc Broussard](https://open.spotify.com/artist/4cEwEednPwWCdYT7ZhROZe) | [S.O.S\. 2: Save Our Soul: Soul on a Mission](https://open.spotify.com/album/254UZFKtZ4L2TYfU49ovAW) | 2:37 | 2017-11-04 | 2022-08-05 |
@@ -63,7 +64,7 @@
 | [Miracles](https://open.spotify.com/track/3Z4m4bw6t1LTM09WfrXfPc) | [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N), [Emily King](https://open.spotify.com/artist/6jlWj6y00bMQt8XoKuCjyZ), [Peter CottonTale](https://open.spotify.com/artist/4mkGZGaUTIpyG1LnZ6nNIi) | [Music](https://open.spotify.com/album/42T1PWZl6NilUzBk3vCXoz) | 4:51 | 2021-04-09 | 2022-07-29 |
 | [My House](https://open.spotify.com/track/0IhrMl9LOHL1paaHQO630g) | [Sister Sparrow](https://open.spotify.com/artist/5kah03Pzp6s8eD8vRIhdfL) | [Fowl Play](https://open.spotify.com/album/2CAXZqrg3m9xJ6FrkHbSqU) | 7:01 | 2017-11-04 |  |
 | [Never Forget My Love](https://open.spotify.com/track/63KVRfA7COiRBVnZAfbPxU) | [Joss Stone](https://open.spotify.com/artist/7bvcQXJHkFiN1ppIN3q4fi) | [Never Forget My Love](https://open.spotify.com/album/0oiVII3rwv5bEyIZM234Z4) | 3:41 | 2022-03-08 |  |
-| [NYPD Blues](https://open.spotify.com/track/5O7C398FGhoQWT1ykLAhHf) | [Lauriana Mae](https://open.spotify.com/artist/6ohLXHVQ8PIzd8DjXSTR6A) | [City of Diamonds EP](https://open.spotify.com/album/5O7dLGGVuZMh111cHDNPeR) | 3:24 | 2017-11-04 |  |
+| [NYPD Blues](https://open.spotify.com/track/5O7C398FGhoQWT1ykLAhHf) | [Lauriana Mae](https://open.spotify.com/artist/6ohLXHVQ8PIzd8DjXSTR6A) | [City of Diamonds EP](https://open.spotify.com/album/5O7dLGGVuZMh111cHDNPeR) | 3:24 | 2017-11-04 | 2022-10-03 |
 | [Oh Me Oh My](https://open.spotify.com/track/14KmgxmGFECm8DKagcu23k) | [Erin Costelo](https://open.spotify.com/artist/2amUY80duVVhcrAIXfwBHN) | [We Can Get Over](https://open.spotify.com/album/1BZL72FKgcUBaaRnlLY5eQ) | 2:37 | 2017-11-04 |  |
 | [One Last Song](https://open.spotify.com/track/01uk7IzZyFNfQTDBXxx6NB) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [The Thrill Of It All \(Special Edition\)](https://open.spotify.com/album/3TJz2UBNYJtlEly0sPeNrQ) | 3:12 | 2017-11-04 | 2022-07-29 |
 | [One Last Song](https://open.spotify.com/track/39Q20GZHKK0IK8oKkhfxiJ) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [The Thrill Of It All \(Special Edition\)](https://open.spotify.com/album/3XftSbguntyRTBQaGItmfK) | 3:12 | 2017-11-04 |  |

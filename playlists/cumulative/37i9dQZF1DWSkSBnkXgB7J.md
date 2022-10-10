@@ -4,7 +4,7 @@
 
 > Everything you need to hear from the most exciting artists\. Handpicked by our editors\. Cover: Ali Loka.
 
-69 songs - 3 hr 42 min - [published](https://open.spotify.com/playlist/1Ds22R1HY8cK2GQHEEkmhI)
+70 songs - 3 hr 45 min - [published](https://open.spotify.com/playlist/1Ds22R1HY8cK2GQHEEkmhI)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,6 +53,7 @@
 | [Met3ala2 Beeky](https://open.spotify.com/track/5HS17JQ7GlTOZrensjIbNO) | [Ahmed El Ruby](https://open.spotify.com/artist/4bYHqS5oBc6Jk8LfjbbWTf) | [Met3ala2 Beeky](https://open.spotify.com/album/6l9K0N3YqtarzoeDyyWwh7) | 3:20 | 2022-06-24 |  |
 | [Pressure](https://open.spotify.com/track/55ntpddOSFdNA2Q5nWWazq) | [Hadi](https://open.spotify.com/artist/6IoMp72EAMD3JogASNYTLa) | [Pressure](https://open.spotify.com/album/2CKFkWw3M6cvwNqWVcksrh) | 3:04 | 2022-06-24 |  |
 | [Red \(feat\. MaMan\)](https://open.spotify.com/track/2PJHJevFPEFWn0CwMv4yZF) | [WalGz](https://open.spotify.com/artist/50gLwM6cfifBxgrML3Q0IT), [MaMan](https://open.spotify.com/artist/4OGMVOTexmW4hEV4bZMX30) | [Hollanda](https://open.spotify.com/album/3kgNHqvzzItDSbhn6tEAVl) | 3:14 | 2022-06-24 |  |
+| [Regoaak](https://open.spotify.com/track/0WDQvg1SEL6rgwfFmgxHe7) | [Hatem Fahmy](https://open.spotify.com/artist/1cAEzDzhESfOrcN9lPQXIR) | [Regoaak](https://open.spotify.com/album/2I2ni6BEYpQlCgahVaKa3R) | 3:35 | 2022-10-07 |  |
 | [Sahraya](https://open.spotify.com/track/10ygQHP8JTic3iXGiLM2To) | [Yazan Elsaeed](https://open.spotify.com/artist/7a6aLOJH8iBCd0JSH78F4k) | [Sahraya](https://open.spotify.com/album/6NpsqEqR1yZ5YTyPQZUewf) | 2:46 | 2022-06-24 |  |
 | [Sebak \- سيبك](https://open.spotify.com/track/1cNljxhP45g5o2RLN92MTZ) | [Young Kabalo](https://open.spotify.com/artist/0YKv8wjIIoMdWt3Ea8WLRx) | [Sebak \- سيبك](https://open.spotify.com/album/16WxAua0GVxd1VQvdm701k) | 2:53 | 2022-09-29 |  |
 | [Sekka Baraka](https://open.spotify.com/track/3qY6aHNvRt3lHsD9jZQXfD) | [عطار](https://open.spotify.com/artist/0qYgCdqD3rVSoguhaDGGWZ) | [Sekka Baraka](https://open.spotify.com/album/6t78W97JmzbxxInDEIoYKr) | 2:50 | 2022-09-28 |  |

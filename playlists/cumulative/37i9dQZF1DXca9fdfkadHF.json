@@ -636,6 +636,24 @@
     },
     {
       "album": {
+        "name": "XX Larga Duraci\u00f3n",
+        "url": "https://open.spotify.com/album/1EGY0YnV5576fW6v8mw9pK"
+      },
+      "artists": [
+        {
+          "name": "Nosequien y los Nosecuantos",
+          "url": "https://open.spotify.com/artist/53NElDuSIPdjifOGOcvqqe"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201066,
+      "name": "Las Torres",
+      "url": "https://open.spotify.com/track/0sN4ERM2Q2UBKyePqfcgv9"
+    },
+    {
+      "album": {
         "name": "M\u00e1s Peruanos Que el Rock, Vol. 1",
         "url": "https://open.spotify.com/album/35aOC07jH0evroYonYZjZh"
       },
@@ -647,10 +665,28 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-05",
       "duration_ms": 200280,
       "name": "Las Torres",
       "url": "https://open.spotify.com/track/3sC6meZ0JVduBUG2DDhbHk"
+    },
+    {
+      "album": {
+        "name": "M\u00e1s Peruanos Que el Rock, Vol. 1",
+        "url": "https://open.spotify.com/album/5uxCbEVfLhM7P1UoSrBrT0"
+      },
+      "artists": [
+        {
+          "name": "NSQNSC",
+          "url": "https://open.spotify.com/artist/2Ov6O6PFkYV4xjgSW6b9ht"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-06",
+      "duration_ms": 200280,
+      "name": "Las Torres",
+      "url": "https://open.spotify.com/track/5QX7YdxL6LtpWyfbNzaIPC"
     },
     {
       "album": {
@@ -755,10 +791,28 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-06",
       "duration_ms": 227306,
       "name": "Me Resfri\u00e9 en Brasil",
       "url": "https://open.spotify.com/track/55XIDf97GN2y8cwCrJoJEH"
+    },
+    {
+      "album": {
+        "name": "Peruvian Rock Anthology: Original Masterpieces, Vol. 3 (1993 - 2001)",
+        "url": "https://open.spotify.com/album/4NptflPTkngrCanK5RZb2Y"
+      },
+      "artists": [
+        {
+          "name": "Arena Hash",
+          "url": "https://open.spotify.com/artist/4AGALQQLo0S46FUlhJ25V0"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227306,
+      "name": "Me Resfri\u00e9 en Brasil",
+      "url": "https://open.spotify.com/track/6owthHOJo06koXPXe7xBG9"
     },
     {
       "album": {
@@ -1216,6 +1270,24 @@
     },
     {
       "album": {
+        "name": "Peruvian Rock Anthology: Original Masterpieces, Vol. 3 (1993 - 2001)",
+        "url": "https://open.spotify.com/album/4NptflPTkngrCanK5RZb2Y"
+      },
+      "artists": [
+        {
+          "name": "Los Zopilotes",
+          "url": "https://open.spotify.com/artist/3LjNoICptpY8EE21CHv46E"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138573,
+      "name": "T\u00fa y Yo",
+      "url": "https://open.spotify.com/track/76LGvZPmgiiOx5NUbhUZtH"
+    },
+    {
+      "album": {
         "name": "M\u00e1s Peruanos Que el Rock, Vol. 1",
         "url": "https://open.spotify.com/album/35aOC07jH0evroYonYZjZh"
       },
@@ -1227,7 +1299,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-06",
       "duration_ms": 139826,
       "name": "T\u00fa y Yo",
       "url": "https://open.spotify.com/track/6EesgMPcFrCTh4AqMmC2LO"

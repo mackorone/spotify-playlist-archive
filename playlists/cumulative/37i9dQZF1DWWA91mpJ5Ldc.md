@@ -4,7 +4,7 @@
 
 > Música brasileira para temperar as receitas do dia\-a\-dia.
 
-208 songs - 12 hr 44 min - [published](https://open.spotify.com/playlist/6Mucr2ILFuIcViB8dUsQZn)
+209 songs - 12 hr 48 min - [published](https://open.spotify.com/playlist/6Mucr2ILFuIcViB8dUsQZn)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,7 +55,7 @@
 | [Casa de Rainha](https://open.spotify.com/track/1IVWmTRwsQ26NZaZRJBzeQ) | [Jana Linhares](https://open.spotify.com/artist/77u8LWH7M6Q4Zlj1XaDdTB), [Ilya](https://open.spotify.com/artist/49O2UcGOyDqSyG68AsBs4t) | [Casa de Rainha](https://open.spotify.com/album/2CcOFEG5xtqUyYz5oBttsJ) | 3:43 | 2022-02-04 | 2022-07-29 |
 | [Chiaroscuro](https://open.spotify.com/track/0iBrVpfKq4r2XknTgrAhXi) | [Ina Magdala](https://open.spotify.com/artist/77b9EH7qYCrmbjrwBNaM5r) | [Chiaroscuro](https://open.spotify.com/album/1J35JnrGiEsvWtSsi28jRt) | 2:58 | 2022-03-22 | 2022-07-10 |
 | [Chora Pra Ver Como É](https://open.spotify.com/track/1AVP6stez9yP6UUBVejcda) | [O Sal](https://open.spotify.com/artist/4Unl4daavawO8JikEhYaWf) | [Chora Pra Ver Como É](https://open.spotify.com/album/1bOzgMlaHNqngd89O48g7u) | 6:41 | 2022-02-04 | 2022-07-26 |
-| [Chororô](https://open.spotify.com/track/2Q8gzfsNUErbquwqiWGu9w) | [Luedji Luna](https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc) | [Bom Mesmo É Estar Debaixo D'Água](https://open.spotify.com/album/72RsVQVhqVjyBfsTCThFpq) | 3:29 | 2022-02-04 |  |
+| [Chororô](https://open.spotify.com/track/2Q8gzfsNUErbquwqiWGu9w) | [Luedji Luna](https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc) | [Bom Mesmo É Estar Debaixo D'Água](https://open.spotify.com/album/72RsVQVhqVjyBfsTCThFpq) | 3:29 | 2022-02-04 | 2022-10-09 |
 | [CHUVA](https://open.spotify.com/track/5AmJktSakS5ylLbH1eSch0) | [Vitor Santana](https://open.spotify.com/artist/55SGl5TD6wQPQC1vfDiT4h), [Mariana Nunes](https://open.spotify.com/artist/1QncCJuv8b2wtCvB2w6XPm) | [CHUVA](https://open.spotify.com/album/1hOM5AcF4BzqtAVb305nSu) | 3:36 | 2022-03-14 | 2022-07-29 |
 | [Cine Odeon](https://open.spotify.com/track/3dhkyXQt5Uqd46ELRN2YsU) | [Priscila Tossan](https://open.spotify.com/artist/4EZLWNKsB2l3Lm6vqJDFoA) | [Cine Odeon](https://open.spotify.com/album/4VlLZDtiIZoXoosJUMCGc8) | 2:30 | 2022-02-04 | 2022-07-28 |
 | [Coisas Que Eu Sei](https://open.spotify.com/track/5ioP40av2BguaCaZnw0D1P) | [Oframe](https://open.spotify.com/artist/1Ypveoe8x8UyHG9r8d5uDS), [Victor Sabri](https://open.spotify.com/artist/6w3suJox8dJssrdEIlMf0q), [JOK3R](https://open.spotify.com/artist/2YvHMMn0rYDvE3rs6dqzhq) | [Coisas Que Eu Sei](https://open.spotify.com/album/0IbfNcarhEDFOLz9cTjzft) | 2:27 | 2022-03-14 | 2022-07-04 |
@@ -128,6 +128,7 @@
 | [Minha Menina Bonita](https://open.spotify.com/track/6TqFaqEYI3byZNAcm8lOXl) | [Fino Coletivo](https://open.spotify.com/artist/4w4OsEmXP5ogC0U7CLnOrH) | [Copacabana](https://open.spotify.com/album/63Hzw93das0WzYgvR1gP8A) | 3:58 | 2022-02-04 | 2022-07-29 |
 | [Miragem \(Sem Razão\)](https://open.spotify.com/track/3fBBXSsUH2MD43REllyCIo) | [Xênia França](https://open.spotify.com/artist/1v0rEJk9ZuCrCQDvCXbO3D) | [Xenia](https://open.spotify.com/album/0elgFvQyeueOn9Z3dbkA7b) | 3:51 | 2022-03-22 | 2022-04-16 |
 | [Mistério Stereo](https://open.spotify.com/track/503OjD3MWV3qFkKj769fte) | [Curumin](https://open.spotify.com/artist/1W1k6LUPDR0l4zwvKR4YLI) | [Japan Pop Show](https://open.spotify.com/album/69ltPvQJmyU3OZLyDHG032) | 4:07 | 2022-03-22 | 2022-04-21 |
+| [Moqueca](https://open.spotify.com/track/1i0usGuYiymo13HXahmgSU) | [Captain Planet](https://open.spotify.com/artist/1WfWKF1hFimJLzz6ix6aRi), [Zuzuka Poderosa](https://open.spotify.com/artist/7nl3XojkRg5nFB4i7t3ORp), [Raphael Futura](https://open.spotify.com/artist/2taFLpsy0M58c9GE5vjnsb) | [Moqueca](https://open.spotify.com/album/2ZQLiEqJgQeNAVuZpMP8iA) | 4:04 | 2022-09-06 |  |
 | [Morada Boa Featuring Nina Miranda](https://open.spotify.com/track/5x4KSfOm9Bc1ugelLYe4AG) | [3 Na Massa](https://open.spotify.com/artist/1swmzlKgFluITKhxSV9ixX) | [3 Na Massa](https://open.spotify.com/album/5scnXOM54hVJw0mkDgBGs8) | 3:46 | 2022-03-22 | 2022-04-17 |
 | [Moça Vem Cá](https://open.spotify.com/track/1xVYmo2RtOWgENpW7YSAEK) | [Tom Karabachian](https://open.spotify.com/artist/3SRd2GBL1Hpandxreo3kdW) | [Moça Vem Cá](https://open.spotify.com/album/5Nb8vwGAJM6QmT5pCCc6kh) | 3:18 | 2022-02-04 | 2022-07-27 |
 | [Mulher Sem Razão](https://open.spotify.com/track/5EGaYaDIsqNn0caVrmnE5w) | [Cazuza](https://open.spotify.com/artist/1PwOU6fFbmaGkK3wkbb8fU) | [Cazuza Exagerado](https://open.spotify.com/album/3awiXs3c4O3q7xoR2ohwOP) | 3:35 | 2022-03-22 | 2022-04-20 |

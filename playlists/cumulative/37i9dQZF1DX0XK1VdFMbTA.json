@@ -1513,7 +1513,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-09",
       "duration_ms": 372906,
       "name": "Blue Collar",
       "url": "https://open.spotify.com/track/5cW22ruJYy9k7IlawMCe6P"
@@ -6339,7 +6339,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-19",
+      "date_removed": null,
       "duration_ms": 199373,
       "name": "Jewel Eyed Judy - 2018 Remaster",
       "url": "https://open.spotify.com/track/57jPG8TAQGEZCxLraVWdEV"
@@ -9263,10 +9263,28 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-03",
       "duration_ms": 240426,
       "name": "Radancer",
       "url": "https://open.spotify.com/track/0CpP2VQHK5HcxXtUzzOjiB"
+    },
+    {
+      "album": {
+        "name": "Reflections of My Life (Original Recordings)",
+        "url": "https://open.spotify.com/album/7rPmei7g2Q74CiQXuET5sm"
+      },
+      "artists": [
+        {
+          "name": "Marmalade",
+          "url": "https://open.spotify.com/artist/1tttI1iC4FsS6BM5l38oe5"
+        }
+      ],
+      "date_added": "2022-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240426,
+      "name": "Radancer",
+      "url": "https://open.spotify.com/track/3Oh0gMdXMZgavYd74bMFMT"
     },
     {
       "album": {
@@ -9285,7 +9303,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-06",
       "duration_ms": 255266,
       "name": "Railroad Song",
       "url": "https://open.spotify.com/track/5tTVQLUw5HJJHt58MifwQS"
@@ -12357,7 +12375,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-29",
+      "date_removed": null,
       "duration_ms": 299733,
       "name": "Things Goin' On",
       "url": "https://open.spotify.com/track/3ncge3MnlzfSvV7AQrbtTG"

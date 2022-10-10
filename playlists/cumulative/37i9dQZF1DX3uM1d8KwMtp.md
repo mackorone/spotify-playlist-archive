@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:1aIWC7EGIcWotOZ8LNHH9j">Jad Halal</a>'s favorite tracks\. Updated regularly\. Curated by Jad Halal\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-59 songs - 6 hr 23 min - [published](https://open.spotify.com/playlist/55rWXReL0BbQ3M8WTdiEh6)
+60 songs - 6 hr 29 min - [published](https://open.spotify.com/playlist/55rWXReL0BbQ3M8WTdiEh6)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,7 +28,8 @@
 | [Fragile](https://open.spotify.com/track/5Q9Ds8Q34V9ZPfi0noJ7Xe) | [THEMBA](https://open.spotify.com/artist/64tzIMKX4Npx37YLcNZZNC), [FNX OMAR](https://open.spotify.com/artist/3dcqf190oFqc5FQNI05mVW), [Syon](https://open.spotify.com/artist/7eKtGS8Huzy0vi0KVmNfqE) | [Fragile](https://open.spotify.com/album/37abhSU412bkiwXr3ShshM) | 3:56 | 2022-08-24 |  |
 | [Gamora](https://open.spotify.com/track/3urFlzQr5f0jlGMGt84m76) | [Zuma Dionys](https://open.spotify.com/artist/7qqEqY1pR6Uj2Z41HNuszd) | [Endless Forest](https://open.spotify.com/album/5EE1o6sPngmmoL68oGZcBb) | 7:16 | 2022-08-24 |  |
 | [How Can I Resist](https://open.spotify.com/track/54w3b8DMRcWWXSbnckLQq9) | [Parallelle](https://open.spotify.com/artist/4j2NOrZwtpyVrtrCXsKsag), [Fulltone](https://open.spotify.com/artist/56SDkyON4gWd6NmWoWx8HT) | [How Can I Resist](https://open.spotify.com/album/5MjBnaVcD8NQYeXTFjcMlS) | 6:28 | 2022-08-24 |  |
-| [It's Not Right \- Original Mix](https://open.spotify.com/track/6huHqVYEgmmYJ8JvPSBlKx) | [Gianni Romano](https://open.spotify.com/artist/3GmVE58jiOKqS4WHGsxzCK), [Emanuele Esposito](https://open.spotify.com/artist/0dnLkdyWw9XCNQhGln0HZU), [Helen Tesfazghi](https://open.spotify.com/artist/71JA6QavKqzsNcJubmgXQT) | [It's Not Right](https://open.spotify.com/album/0kgq0v5cf8hsE77vg2k3Uh) | 6:22 | 2022-08-24 |  |
+| [It's Not Right](https://open.spotify.com/track/5EqWSdAZcpjZ29uKViQIGU) | [Gianni Romano](https://open.spotify.com/artist/3GmVE58jiOKqS4WHGsxzCK), [Emanuele Esposito](https://open.spotify.com/artist/0dnLkdyWw9XCNQhGln0HZU), [Helen Tesfazghi](https://open.spotify.com/artist/71JA6QavKqzsNcJubmgXQT) | [It's Not Right](https://open.spotify.com/album/5gIMusLf2Z5ECGBKCzFTGO) | 6:22 | 2022-09-19 |  |
+| [It's Not Right \- Original Mix](https://open.spotify.com/track/6huHqVYEgmmYJ8JvPSBlKx) | [Gianni Romano](https://open.spotify.com/artist/3GmVE58jiOKqS4WHGsxzCK), [Emanuele Esposito](https://open.spotify.com/artist/0dnLkdyWw9XCNQhGln0HZU), [Helen Tesfazghi](https://open.spotify.com/artist/71JA6QavKqzsNcJubmgXQT) | [It's Not Right](https://open.spotify.com/album/0kgq0v5cf8hsE77vg2k3Uh) | 6:22 | 2022-08-24 | 2022-10-07 |
 | [Jinga](https://open.spotify.com/track/7FgtP833uZzS6s1FNTpy30) | [Tomy Wahl](https://open.spotify.com/artist/3Q92036hpjn7sxc79pUXvz), [Alain Fanegas](https://open.spotify.com/artist/4ej1s96CjHWyiRMtYa1kbJ) | [Jinga](https://open.spotify.com/album/0ouAjexRNLoTp8Cbv9ZiKX) | 7:05 | 2022-08-24 |  |
 | [Kouame](https://open.spotify.com/track/55LJoGb0Rkv5tAiOQWcLYk) | [Unknown Motive](https://open.spotify.com/artist/1MBZ1p2ynRLuZnGk8ZIdJ5) | [Kouame](https://open.spotify.com/album/7MiD4AoP6AQuI8mAVpROCh) | 7:01 | 2022-08-24 |  |
 | [L'ame](https://open.spotify.com/track/39NtjGMLdLBqrzJUgxpPAU) | [Jad Halal](https://open.spotify.com/artist/1aIWC7EGIcWotOZ8LNHH9j), [Cafe De Anatolia](https://open.spotify.com/artist/2sSSGlRMfz4ZEcw4rw0m0v) | [Ghouroub](https://open.spotify.com/album/0lgaPIausGrjLHeuY6Dz8V) | 7:03 | 2022-08-24 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2KSySxa7iudjK0IsgFxuaW.md) - [plain]
 
 > It's Elmo's time to shine!
 
-[Spotify](https://open.spotify.com/user/spotify) - 173 likes - 15 songs - 30 min 23 sec
+[Spotify](https://open.spotify.com/user/spotify) - 172 likes - 15 songs - 30 min 23 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

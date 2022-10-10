@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6aZ9vrXqd1U.md) - [plain]
 
 > Enjoy music from GUNDAM series! ガンダムシリーズを彩る楽曲を1つのプレイリストで。
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,025 likes - 121 songs - 8 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,832 likes - 121 songs - 8 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,10 +72,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6aZ9vrXqd1U.md) - [plain]
 | 62 | [BLAZING](https://open.spotify.com/track/7veiuBU6DKOWOAUwkIAptI) | [GARNiDELiA](https://open.spotify.com/artist/7MIbdLkqD1qQE35LSISIM6) | [Linkage Ring](https://open.spotify.com/album/7moLeMntkra4cH3ACSMsjE) | 3:55 |
 | 63 | [Distance](https://open.spotify.com/track/1QQDhxgcY8ty28ltzT9lW6) | [FictionJunction](https://open.spotify.com/artist/5Q08YLH6CfTdmvhvRJ3iyz) | [Distance](https://open.spotify.com/album/6qSpHIBr5XLlKC3v35WrIl) | 4:07 |
 | 64 | [君を見つめて \-The time I'm seeing you\-](https://open.spotify.com/track/3MPsfnHkXQTXCjTlJdpzhk) | [Hiroko Moriguchi](https://open.spotify.com/artist/1F26f2fTqYBhCtp6sXAsQV) | [君を見つめて \-The time I'm seeing you\-](https://open.spotify.com/album/0BYCNGZdxWGcZj88wNsnxN) | 4:36 |
-| 65 | [Believe](https://open.spotify.com/track/3HHjjYG0zXaesYKfJgwjkK) | [Nami Tamaki](https://open.spotify.com/artist/4awZsyevkX7tP6nu1rFvUq) | [Believe](https://open.spotify.com/album/6uRMVRVi7VhwAR5e5YM7eJ) | 3:56 |
+| 65 | [Believe](https://open.spotify.com/track/7qWFvRnS2nI0iIjPfJb72x) | [Nami Tamaki](https://open.spotify.com/artist/4awZsyevkX7tP6nu1rFvUq) | [Greeting](https://open.spotify.com/album/1tSpBQpRxeTychxGR9NhiQ) | 3:54 |
 | 66 | [BROKEN MIRROR](https://open.spotify.com/track/0tm2dbTUf4B1picBLHGmkF) | [BOOM BOOM SATELLITES](https://open.spotify.com/artist/0vCGPbugjEi38T41ZHny1o) | [EMBRACE](https://open.spotify.com/album/0hbSoP9XsJKWshAbUH9rKG) | 6:20 |
 | 67 | [Black stars](https://open.spotify.com/track/2gQ60rwqTxbsCmYoB0lFiq) | [東野純直](https://open.spotify.com/artist/4QIC8bQUoHTgJrlEqoBm0W) | [Black stars](https://open.spotify.com/album/65HIXno1RLhm6UOgyu5Pj7) | 4:31 |
-| 68 | [Into the Sky](https://open.spotify.com/track/7rZ5VNIFZo8nC8XSSCvv7K) | [SawanoHiroyuki\[nZk\]](https://open.spotify.com/artist/2EWXgN0xWOnbqJOxa9pWNO), [Tielle](https://open.spotify.com/artist/0o6gAoBM3HpKhCOYQSolLe) | [2V\-Alk](https://open.spotify.com/album/3ncBgCOeYrUJ9hGmySHiUb) | 3:51 |
+| 68 | [Into the Sky](https://open.spotify.com/track/24BcGYViz1fPTXgqpp1sel) | [SawanoHiroyuki\[nZk\]](https://open.spotify.com/artist/2EWXgN0xWOnbqJOxa9pWNO), [Tielle](https://open.spotify.com/artist/0o6gAoBM3HpKhCOYQSolLe) | [2V\-ALK](https://open.spotify.com/album/6fYnxGhxTWbHLFBnuigaZc) | 3:51 |
 | 69 | [Ash Like Snow](https://open.spotify.com/track/0nMflPztzJg8C8w1xcHhIe) | [the brilliant green](https://open.spotify.com/artist/6ML3nrYx5Mu1wcXP8SmtG2) | [complete single collection '97\-'08](https://open.spotify.com/album/4tTWP0M6kE7r1WkAKvfSV2) | 4:32 |
 | 70 | [Core](https://open.spotify.com/track/16efoleNNHcCHRGnB0la99) | [Mille Face](https://open.spotify.com/artist/3nLAIBYf5Ebm44Y1re9Wyg) | [Core](https://open.spotify.com/album/4liHmwW0xaX3uJtnhhQRVx) | 4:43 |
 | 71 | [暁の車](https://open.spotify.com/track/3IEObXuomguph3jjxrccWB) | [FictionJunction YUUKA](https://open.spotify.com/artist/3JGUu5XReRV4PnHYBNFbZf) | [暁の車](https://open.spotify.com/album/6FSGtCdVtQ8exaIdHOpkdQ) | 5:03 |
@@ -115,7 +115,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6aZ9vrXqd1U.md) - [plain]
 | 105 | [星屑の砂時計](https://open.spotify.com/track/74O5dGvC43jOGpOXyYZpE1) | [服部隆之 Presents GUNDAM THE ORIGIN](https://open.spotify.com/artist/4E6kqE30CXyqBEFxeD8Pj6), [yu\-yu](https://open.spotify.com/artist/6KuW1jOW9tCAirqEt0GKlM) | [星屑の砂時計](https://open.spotify.com/album/3gY7UNOVZIAOcanynxE110) | 5:46 |
 | 106 | [Hikari no Hate](https://open.spotify.com/track/6a0Scz4j4tbqURCVyAvNSW) | [SUGIZO](https://open.spotify.com/artist/6crEqOlFP6no2flmuas6P7), [AiNA THE END](https://open.spotify.com/artist/5k7KS34gxQbzdQaXWSOVKC) | [Hikari no Hate](https://open.spotify.com/album/7DORue0YE6jJImEv9a5pgd) | 6:23 |
 | 107 | [僕たちの行方](https://open.spotify.com/track/1Wv3Mnr1MTj0Z4abHQANuq) | [Hitomi Takahashi](https://open.spotify.com/artist/1Jim3BQn4Kj7pJXRZ3vlRd) | [青空のナミダ / 僕たちの行方 BESTタッグ](https://open.spotify.com/album/5lg9H3etTkZQE1np1rwGz2) | 4:33 |
-| 108 | [Realize](https://open.spotify.com/track/5oC3G0m4SjtRJgb8nBaweI) | [Nami Tamaki](https://open.spotify.com/artist/4awZsyevkX7tP6nu1rFvUq) | [Realize](https://open.spotify.com/album/7L00tVnkzAoj1XGnq8dmpX) | 4:41 |
+| 108 | [Realize](https://open.spotify.com/track/1c6hdEBSFwutFim9pyaDHm) | [Nami Tamaki](https://open.spotify.com/artist/4awZsyevkX7tP6nu1rFvUq) | [Greeting](https://open.spotify.com/album/1tSpBQpRxeTychxGR9NhiQ) | 4:41 |
 | 109 | [wimp](https://open.spotify.com/track/4deAcev969KEs1YrSgnhmS) | [BACK\-ON](https://open.spotify.com/artist/41wiRMqVmNSZ3FFM7JIeht), [Lil' Fang \(from FAKY\)](https://open.spotify.com/artist/1Uv1E9YZ94w2ExlLGN08cJ) | [RELOAD](https://open.spotify.com/album/3TpgBK0jom391y7SdJF1iO) | 3:43 |
 | 110 | [半パン魂](https://open.spotify.com/track/1DIcxghszK6p0GHJv7N0t0) | [HYADAIN](https://open.spotify.com/artist/3PiHi4Zeg1UCZuXCxLOEm2) | [半パン魂](https://open.spotify.com/album/4FRJ8QdJvgYdBUBuJj54as) | 3:59 |
 | 111 | [ignited \-イグナイテッド\-](https://open.spotify.com/track/3PLKngOPCO0D40dJdefwRQ) | [T.M.Revolution](https://open.spotify.com/artist/3jdzcmtw5XOmOkSb2mRDtr) | [vertical infinity](https://open.spotify.com/album/2jI5qiLWmetKrWEd25nxBu) | 3:11 |
@@ -124,10 +124,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6aZ9vrXqd1U.md) - [plain]
 | 114 | [bL∞dy f8 \-eUC\-](https://open.spotify.com/track/4hth3prmCax5PvYPt6KnFn) | [SawanoHiroyuki\[nZk\]](https://open.spotify.com/artist/2EWXgN0xWOnbqJOxa9pWNO), [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [Into the Sky EP](https://open.spotify.com/album/1XOEmSbX53VfOTPdtkNigy) | 4:48 |
 | 115 | [Z・刻をこえて](https://open.spotify.com/track/7znA9tujaS1ztnhqxcLCWj) | [Mami Ayukawa](https://open.spotify.com/artist/13chEUM1L3zoaoZ2UI1WpM) | [Z・刻をこえて](https://open.spotify.com/album/4hxaMl94hMWKfqhTq4r5U5) | 3:36 |
 | 116 | [Flying In The Sky](https://open.spotify.com/track/3LMR3dGhjrbqP3hi1C4t5g) | [Yoshifumi Ushima](https://open.spotify.com/artist/1s63VTvalxLJgMX3yjxH0L) | [Free Jugement \(Remaster Deluxe Edition\)](https://open.spotify.com/album/0heLGeVcuKn2rG7zIF50K0) | 3:44 |
-| 117 | [Next 2 U \-eUC\-](https://open.spotify.com/track/1ZOphuWVwSQcsLs7k6iRmp) | [SawanoHiroyuki\[nZk\]](https://open.spotify.com/artist/2EWXgN0xWOnbqJOxa9pWNO), [Nanami](https://open.spotify.com/artist/1B0hK1UH1rFBFhjjdCXjYB) | [2V\-Alk](https://open.spotify.com/album/3ncBgCOeYrUJ9hGmySHiUb) | 4:04 |
+| 117 | [Next 2 U \-eUC\-](https://open.spotify.com/track/4Jhe1n8G2obpW4NWMifSrB) | [SawanoHiroyuki\[nZk\]](https://open.spotify.com/artist/2EWXgN0xWOnbqJOxa9pWNO), [Nanami](https://open.spotify.com/artist/1B0hK1UH1rFBFhjjdCXjYB) | [2V\-ALK](https://open.spotify.com/album/6fYnxGhxTWbHLFBnuigaZc) | 4:04 |
 | 118 | [星空のBelieve](https://open.spotify.com/track/3FLV3VjxA3sMVXLpUZScb7) | [Mami Ayukawa](https://open.spotify.com/artist/13chEUM1L3zoaoZ2UI1WpM) | [星空のBelieve](https://open.spotify.com/album/4n3AREDtmXcYvRFNDxuzfP) | 3:30 |
 | 119 | [風にひとりで](https://open.spotify.com/track/1vGEd0fDPCpelshgpYJ7ct) | [Daisuke Inoue](https://open.spotify.com/artist/3kyDvSFMl3B0U59KuJUB5g) | [風にひとりで](https://open.spotify.com/album/4G15i7KcK0lj7XmGZS2YE7) | 3:28 |
 | 120 | [ビギニング](https://open.spotify.com/track/515LLsIoa7eetaTiFEJSa6) | [Daisuke Inoue](https://open.spotify.com/artist/3kyDvSFMl3B0U59KuJUB5g) | [ビギニング](https://open.spotify.com/album/4oel0lHGTN643V87ohpAL1) | 3:24 |
 | 121 | [A Red Ray](https://open.spotify.com/track/2KCOmmGptlVGAvFAVzAx7H) | [SUGIZO](https://open.spotify.com/artist/6crEqOlFP6no2flmuas6P7), [miwa](https://open.spotify.com/artist/3R3WEsfL1WC1zLiz3XG9K5) | [A Red Ray](https://open.spotify.com/album/3LRl7ohuRCj6RIDTEhcx3r) | 4:51 |
 
-Snapshot ID: `MTY2NDY0MjI3MCwwMDAwMDAwMDkwMTY2YzMyZTM2NDZhZWFhZjY2ZjJhZTc3MjYxZDhk`
+Snapshot ID: `MTY2NDY0MjI3MCwwMDAwMDAwMGY5Y2QzNmRmNTcyMDkyNWJmY2RlOWExYjU2MWM3MDUy`

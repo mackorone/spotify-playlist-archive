@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Q2SnB3glnP.md) - [plain]
 
 > Music wellness for your soul.
 
-[Spotify](https://open.spotify.com/user/spotify) - 462,065 likes - 208 songs - 10 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 462,723 likes - 208 songs - 10 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -217,4 +217,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Q2SnB3glnP.md) - [plain]
 | 207 | [Blanket of Peace](https://open.spotify.com/track/2PvRoKLmB0Q211nKNw8vmS) | [Mr Pillow](https://open.spotify.com/artist/3LtL0LR8HOlRULZKHf9obA) | [Comfortable Night](https://open.spotify.com/album/3SBn1GyaNYMUUqIqWTlbjO) | 2:53 |
 | 208 | [The Tower of Embellion](https://open.spotify.com/track/1JT0EGMCr3SCUumDC4JIlx) | [Muni Yogi](https://open.spotify.com/artist/5VMpyeQNlYtPipmkNpxRt0) | [Yoga Music](https://open.spotify.com/album/3midw5wgEjQrtSeNv7MVwx) | 2:56 |
 
-Snapshot ID: `MTY2NDU2MjQxOSwwMDAwMDAwMGU5ZjdiYTM4NjQ5MmZiYWQyZDgwNmQ5YTFkYzhlN2Yw`
+Snapshot ID: `MTY2NTE2MDE4MSwwMDAwMDAwMGQ4OWE1Mjk5NDgzYjE3NjJmMTNlMTExMGFkMDc4ZjNi`

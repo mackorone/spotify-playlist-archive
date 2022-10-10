@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3uM1d8KwMtp.md) - [plain]
 
 > <a href="spotify:artist:1aIWC7EGIcWotOZ8LNHH9j">Jad Halal</a>'s favorite tracks\. Updated regularly\. Curated by Jad Halal\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,969 likes - 55 songs - 6 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,349 likes - 55 songs - 6 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3uM1d8KwMtp.md) - [plain]
 | 19 | [Buya](https://open.spotify.com/track/5yXoXL2SrjM0XjFyGWPVkY) | [Chris IDH](https://open.spotify.com/artist/2z7bVSNugoW687HxM4eSa9), [Kwezi](https://open.spotify.com/artist/5tuitM1t2STg0mAoCxIpZp) | [Buya](https://open.spotify.com/album/2ivPFRRQwivgwnh9QqfOqE) | 8:12 |
 | 20 | [Silence & Secrets \- Black Coffee Remix](https://open.spotify.com/track/3ZZDwhwD6ZsFQW0IGfiKrG) | [WhoMadeWho](https://open.spotify.com/artist/50Lr1puweM1hFsF1LpIZLM), [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc) | [Silence & Secrets \(Black Coffee Remix\)](https://open.spotify.com/album/6yaDQvusuMpB2BqrsmhSRI) | 7:54 |
 | 21 | [Anka](https://open.spotify.com/track/3YMoU9AGxlyCQgtIsQ8Vkj) | [Rimbu\(CH\)](https://open.spotify.com/artist/5X1mbOzivdPgJ8SVEDRFtF), [Gana Congas](https://open.spotify.com/artist/4AEwlGEW0QOEk7QxhyLCff) | [Anka](https://open.spotify.com/album/6lfcXtau5zMyV2jpqD0cfH) | 8:13 |
-| 22 | [It's Not Right \- Original Mix](https://open.spotify.com/track/6huHqVYEgmmYJ8JvPSBlKx) | [Gianni Romano](https://open.spotify.com/artist/3GmVE58jiOKqS4WHGsxzCK), [Emanuele Esposito](https://open.spotify.com/artist/0dnLkdyWw9XCNQhGln0HZU), [Helen Tesfazghi](https://open.spotify.com/artist/71JA6QavKqzsNcJubmgXQT) | [It's Not Right](https://open.spotify.com/album/0kgq0v5cf8hsE77vg2k3Uh) | 6:22 |
+| 22 | [It's Not Right](https://open.spotify.com/track/5EqWSdAZcpjZ29uKViQIGU) | [Gianni Romano](https://open.spotify.com/artist/3GmVE58jiOKqS4WHGsxzCK), [Emanuele Esposito](https://open.spotify.com/artist/0dnLkdyWw9XCNQhGln0HZU), [Helen Tesfazghi](https://open.spotify.com/artist/71JA6QavKqzsNcJubmgXQT) | [It's Not Right](https://open.spotify.com/album/5gIMusLf2Z5ECGBKCzFTGO) | 6:22 |
 | 23 | [Merhamet](https://open.spotify.com/track/75dhZ7AfOq4QNFDuiHjMDA) | [Doğan Sezen](https://open.spotify.com/artist/15ly7L03FKUoQhUnGseqCR) | [Efsun](https://open.spotify.com/album/29KqM9Q8hLujjg6EE1N9gS) | 6:24 |
 | 24 | [Eldorado](https://open.spotify.com/track/50juFT8u0XDZQ5HO5khhlC) | [Notre Dame](https://open.spotify.com/artist/6Q1Ps2F5LkdxLAM6S7KPpt) | [Eldorado](https://open.spotify.com/album/3yp6o87R2Du2CC75dw2cqc) | 6:21 |
 | 25 | [Blind the Sun](https://open.spotify.com/track/3dFgpRHUx60es4nvmxw4jv) | [Derun](https://open.spotify.com/artist/7DaUdudIwcfgSzFJX1VEVo) | [Summer Sol V](https://open.spotify.com/album/2pAEE8ppIkSaDxcCQ5J5Cp) | 7:29 |
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3uM1d8KwMtp.md) - [plain]
 | 54 | [Madan](https://open.spotify.com/track/6WnGITNOKFXawCwqnFuYbW) | [Stylo](https://open.spotify.com/artist/0e8a2RTD02fJ5lmCBOR7DI), [Space Motion](https://open.spotify.com/artist/1k7iyyK6j5IJzF0cUMcaGY) | [Madan](https://open.spotify.com/album/3MJa5lVzJNQsB8aH7RkGNn) | 3:38 |
 | 55 | [Aguacero](https://open.spotify.com/track/3WZIbQjUkhGXVjWqPjMNvs) | [Sebjak](https://open.spotify.com/artist/4WaTBVJBxGQ71Ch0swa8DA) | [Aguacero](https://open.spotify.com/album/4hTAp0JOofvwTrfwmWLSVD) | 6:42 |
 
-Snapshot ID: `MTY2MzYwNTUzNiwwMDAwMDAwMGM2MDFkZjFiZGY4OGQ4N2UyOWJhZjRkMDkzNzY5N2U2`
+Snapshot ID: `MTY2MzYwNTUzNiwwMDAwMDAwMDgyMjU1MzY3ZmRhOWYxM2ZmYjgyNzhkMmFlOWFiODkz`

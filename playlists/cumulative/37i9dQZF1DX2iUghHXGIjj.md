@@ -4,7 +4,7 @@
 
 > Raw, emotional, and acoustic\. Cover: Taj Mahal
 
-144 songs - 9 hr 0 min - [published](https://open.spotify.com/playlist/6OR1PRarcE5A0vVZdgyZgB)
+146 songs - 9 hr 9 min - [published](https://open.spotify.com/playlist/6OR1PRarcE5A0vVZdgyZgB)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,7 +54,8 @@
 | [Fishin' Blues \(with Taj Mahal\)](https://open.spotify.com/track/2i9YLsEQ2z0NhJ1ynuQQm2) | [Bob Stewart](https://open.spotify.com/artist/1j6ZqtSr1Y94DjLnQdUnUl), [Taj Mahal](https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp) | [Then & Now](https://open.spotify.com/album/2DRzxrAuKQwZ79O1lddtwp) | 4:03 | 2022-02-11 |  |
 | [Gimme a Pigfoot and a Bottle of Beer](https://open.spotify.com/track/2Qdtq7tz7oNHHnvmQ1CSLa) | [Rory Block](https://open.spotify.com/artist/6hkNj3GAqFbkEUCs3R1dY3) | [A Woman's Soul: A Tribute to Bessie Smith](https://open.spotify.com/album/5mWTJnKmVMCGEO6ZTu7VLz) | 3:46 | 2020-08-11 |  |
 | [Gimme a Pigfoot and a Bottle of Beer](https://open.spotify.com/track/6IXoRpgaFJEf8gSptfpFE6) | [Rory Block](https://open.spotify.com/artist/6hkNj3GAqFbkEUCs3R1dY3) | [Gimme a Pigfoot and a Bottle of Beer](https://open.spotify.com/album/63cFrmjsqyaUh97l64IBAG) | 3:46 | 2020-08-11 | 2022-07-29 |
-| [Going Down the Road Feeling Bad](https://open.spotify.com/track/0GKIy4nMb4mclMsgsSoAsw) | [Steve Hill](https://open.spotify.com/artist/2f1hLQKsXGmF9rxdrq6Jt4) | [Solo Recordings, Vol\. 3](https://open.spotify.com/album/7s0ssvbmHNrMUA1z2TTp5k) | 4:57 | 2020-08-11 |  |
+| [Going Down the Road Feeling Bad](https://open.spotify.com/track/2sTHsK8xaGGg7PRLiSnhhY) | [Steve Hill](https://open.spotify.com/artist/2f1hLQKsXGmF9rxdrq6Jt4) | [Solo Recordings, Vol\. 3](https://open.spotify.com/album/30Ww7ImwchFWThx0qTrhHa) | 4:57 | 2020-08-11 |  |
+| [Going Down the Road Feeling Bad](https://open.spotify.com/track/0GKIy4nMb4mclMsgsSoAsw) | [Steve Hill](https://open.spotify.com/artist/2f1hLQKsXGmF9rxdrq6Jt4) | [Solo Recordings, Vol\. 3](https://open.spotify.com/album/7s0ssvbmHNrMUA1z2TTp5k) | 4:57 | 2020-08-11 | 2022-10-06 |
 | [Going Down the Road Feeling Bad](https://open.spotify.com/track/70NvafQPgdytXWUe2Yvw1W) | [Steve Hill](https://open.spotify.com/artist/2f1hLQKsXGmF9rxdrq6Jt4) | [Solo Recordings Volume 3](https://open.spotify.com/album/5c7E6QImmtlRXTsbU4dQWC) | 4:57 | 2020-08-11 | 2022-07-29 |
 | [Going To Canada](https://open.spotify.com/track/0GkM9T6C7nzkgWUbK7E2cd) | [Joe Louis Walker](https://open.spotify.com/artist/5MPJKwuEzyWgfueKrogllD) | [J.L.W.](https://open.spotify.com/album/3Hkw4ANYf5R9b5OHXifD1A) | 3:54 | 2020-08-11 |  |
 | [Gonna Walk This Road](https://open.spotify.com/track/1VcKAAbJoU9tUtjrLHuEAW) | [Eric Bibb](https://open.spotify.com/artist/2uNcfNhlVJUyEX0t0NG1m1) | [Me to You](https://open.spotify.com/album/642PO6YTBiP26uQek3zOd5) | 2:30 | 2021-10-29 |  |
@@ -127,7 +128,8 @@
 | [Should've Learnt My Lesson \- Deuce Session / Alternative Acoustic Take / 1971](https://open.spotify.com/track/3FXuf8Xy906gEYERZMHlsG) | [Rory Gallagher](https://open.spotify.com/artist/1kcWyDvrlPUbyxkIoM6pAV) | [Should've Learnt My Lesson \(Deuce Session / Alternative Acoustic Take / 1971\)](https://open.spotify.com/album/75AvgyhRwWC33BhWwPKkNd) | 3:04 | 2020-08-11 | 2022-07-29 |
 | [Sideways](https://open.spotify.com/track/2hVQh6Yq26Qjk8tEp484Vb) | [Jo Harman](https://open.spotify.com/artist/6ydZgJ9WCRguM0ZZRG8thk) | [Sideways](https://open.spotify.com/album/5PdyH6DLYq6QQkeX1DRLYY) | 4:21 | 2020-08-11 |  |
 | [Slowly Slipping Away](https://open.spotify.com/track/1O3uMuRCBc6E4RmhJGW5Jn) | [Steve Hill](https://open.spotify.com/artist/2f1hLQKsXGmF9rxdrq6Jt4) | [Solo Recordings Volume 3](https://open.spotify.com/album/5c7E6QImmtlRXTsbU4dQWC) | 3:26 | 2020-08-11 | 2022-07-29 |
-| [Slowly Slipping Away](https://open.spotify.com/track/2esnC3sEMqLfQvF4qaCJfA) | [Steve Hill](https://open.spotify.com/artist/2f1hLQKsXGmF9rxdrq6Jt4) | [Solo Recordings, Vol\. 3](https://open.spotify.com/album/7s0ssvbmHNrMUA1z2TTp5k) | 3:26 | 2020-08-11 |  |
+| [Slowly Slipping Away](https://open.spotify.com/track/2esnC3sEMqLfQvF4qaCJfA) | [Steve Hill](https://open.spotify.com/artist/2f1hLQKsXGmF9rxdrq6Jt4) | [Solo Recordings, Vol\. 3](https://open.spotify.com/album/7s0ssvbmHNrMUA1z2TTp5k) | 3:26 | 2020-08-11 | 2022-10-06 |
+| [Slowly Slipping Away](https://open.spotify.com/track/0IdWFitNfPCkUKSRfufc6C) | [Steve Hill](https://open.spotify.com/artist/2f1hLQKsXGmF9rxdrq6Jt4) | [Solo Recordings, Vol\. 3](https://open.spotify.com/album/30Ww7ImwchFWThx0qTrhHa) | 3:27 | 2020-08-11 |  |
 | [So Grateful](https://open.spotify.com/track/1U236FYzQEdMWn1hMM0gQn) | [Cee Cee James](https://open.spotify.com/artist/6Y21yqal00z7As840atRpD) | [Stripped Down & Surrendered](https://open.spotify.com/album/4Clnz845KVZqqINWEsVZ7y) | 5:47 | 2020-08-11 | 2022-08-27 |
 | [Sun on My Face](https://open.spotify.com/track/2hHyeOI9VDvR5cBK4JF5DP) | [Seasick Steve](https://open.spotify.com/artist/6OVkHZQP8QoBYqr1ejCGDv) | [Sun on My Face](https://open.spotify.com/album/3HTbVEiLa8i13BNewI7nx2) | 4:05 | 2020-08-11 |  |
 | [Take Me to the Country](https://open.spotify.com/track/3zq0O9elfqNSrIWM9S5eV2) | [Jontavious Willis](https://open.spotify.com/artist/73IlVk80PrVQlPW92IEv4r) | [Spectacular Class](https://open.spotify.com/album/3VnetMqM2L9pmXcdgixAq8) | 2:56 | 2020-08-11 |  |

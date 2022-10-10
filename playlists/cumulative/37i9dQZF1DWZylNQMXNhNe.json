@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-27",
-  "description": "Os maiores hits e novidades de artistas LGBTQIA+ est\u00e3o aqui. Foto: Thiago Pantale\u00e3o",
+  "description": "Os maiores hits e novidades de artistas LGBTQIA+ est\u00e3o aqui. Foto: Grag Queen",
   "name": "AUGE",
   "published_playlist_ids": [
     "5WRCap7Po4seHkP0oCl5pD"
@@ -55,7 +55,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 193640,
       "name": "Apollo 11",
       "url": "https://open.spotify.com/track/2rtrHYY3AyUlpAB8M4GSAC"
@@ -478,6 +478,24 @@
     },
     {
       "album": {
+        "name": "Humano",
+        "url": "https://open.spotify.com/album/4GFDkRCCTP9IrjKNMJXhc9"
+      },
+      "artists": [
+        {
+          "name": "Jotta A",
+          "url": "https://open.spotify.com/artist/1q0fWAYirCJgGf8ysLla6y"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236377,
+      "name": "Humano",
+      "url": "https://open.spotify.com/track/6kDgIYROzAqo3x43vbfvTy"
+    },
+    {
+      "album": {
         "name": "HER MIND, PT. 1",
         "url": "https://open.spotify.com/album/5ELO3riWbb2MbJyZYilN7D"
       },
@@ -569,6 +587,24 @@
       "duration_ms": 129229,
       "name": "Levada",
       "url": "https://open.spotify.com/track/13ZkXMmI3jQZQVJfzrMEMl"
+    },
+    {
+      "album": {
+        "name": "Lib\u00e9lula",
+        "url": "https://open.spotify.com/album/4a5LkqjxtJOAgpyvjogAxe"
+      },
+      "artists": [
+        {
+          "name": "Grag Queen",
+          "url": "https://open.spotify.com/artist/6Q5YqxLl13ULqA5orHJotR"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156949,
+      "name": "Lib\u00e9lula",
+      "url": "https://open.spotify.com/track/33IQ1mcWwKe7lyLm5oUrCv"
     },
     {
       "album": {
@@ -1287,7 +1323,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 196363,
       "name": "Vai Passar",
       "url": "https://open.spotify.com/track/5HT43fgoZ6rQZOMJzUqXEk"

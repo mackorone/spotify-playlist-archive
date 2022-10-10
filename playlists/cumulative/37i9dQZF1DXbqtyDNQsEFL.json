@@ -2,7 +2,9 @@
   "date_first_scraped": "2022-10-01",
   "description": "Gospel songs to get you in the spirit. ",
   "name": "Be Lifted ",
-  "published_playlist_ids": [],
+  "published_playlist_ids": [
+    "1toGnroDshW8oBUaPKzsqs"
+  ],
   "tracks": [
     {
       "album": {
@@ -399,7 +401,7 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 320294,
       "name": "Finally",
       "url": "https://open.spotify.com/track/1SM0jKwjVaAMgVAX7LKgNi"
@@ -1493,6 +1495,28 @@
       "duration_ms": 1885751,
       "name": "Worship Medley",
       "url": "https://open.spotify.com/track/33uzJMAazub75TIKdsEQIV"
+    },
+    {
+      "album": {
+        "name": "Yahweh: Song of Moses",
+        "url": "https://open.spotify.com/album/1J1qOKKHPplDFzbcz0dDvj"
+      },
+      "artists": [
+        {
+          "name": "Akesse Brempong",
+          "url": "https://open.spotify.com/artist/62l5OctR7XHGZo7H8iVSXb"
+        },
+        {
+          "name": "MOGmusic",
+          "url": "https://open.spotify.com/artist/0s17P9R9hTZUlgxDnvLBFW"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 464348,
+      "name": "Yahweh: Song of Moses",
+      "url": "https://open.spotify.com/track/13FKCr68YPsqWf0D5tXhQ0"
     },
     {
       "album": {

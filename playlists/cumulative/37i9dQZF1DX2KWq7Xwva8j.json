@@ -175,10 +175,28 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 178274,
       "name": "Ansiedad",
       "url": "https://open.spotify.com/track/2hswWjOIbxumXz63x796xi"
+    },
+    {
+      "album": {
+        "name": "Ansiedad",
+        "url": "https://open.spotify.com/album/0kLFTeOYFRwwfMxWoydgTg"
+      },
+      "artists": [
+        {
+          "name": "Ginebras",
+          "url": "https://open.spotify.com/artist/5w3bs8jNvbb0QHf5Lo0sva"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178280,
+      "name": "Ansiedad",
+      "url": "https://open.spotify.com/track/1QmeRSdkLOaa54RU1V6amX"
     },
     {
       "album": {
@@ -1469,7 +1487,7 @@
       },
       "artists": [
         {
-          "name": "Mafalda Cardenal",
+          "name": "mafalda cardenal",
           "url": "https://open.spotify.com/artist/1AsstJ8Cf7uQX92weRmZRz"
         }
       ],
@@ -1609,7 +1627,7 @@
       ],
       "date_added": "2022-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-10",
       "duration_ms": 140952,
       "name": "Nada Mal",
       "url": "https://open.spotify.com/track/0cs0nlOhJUTks1eOKVRWyU"
@@ -1765,7 +1783,7 @@
       ],
       "date_added": "2022-06-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-26",
+      "date_removed": null,
       "duration_ms": 202126,
       "name": "Ojal\u00e1 Fu\u00e9ramos Amigos (Buffetlibre Remix)",
       "url": "https://open.spotify.com/track/5j6eTIKDiwc8r0LN3lFMSB"

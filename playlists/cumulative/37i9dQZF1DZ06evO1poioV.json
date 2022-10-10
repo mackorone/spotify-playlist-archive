@@ -23,7 +23,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-05",
       "duration_ms": 199089,
       "name": "A Beautiful Noise",
       "url": "https://open.spotify.com/track/28m84EzeAOlqrJQ3GHzs8C"
@@ -393,7 +393,7 @@
       ],
       "date_added": "2022-09-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-25",
+      "date_removed": "2022-10-09",
       "duration_ms": 234133,
       "name": "Heaven Is A Honky Tonk",
       "url": "https://open.spotify.com/track/5pg5piAxkAjXqA7aXnOw5Z"
@@ -832,6 +832,24 @@
     },
     {
       "album": {
+        "name": "In These Silent Days (Deluxe Edition) In The Canyon Haze",
+        "url": "https://open.spotify.com/album/2FOAtTMAfplWnTKf7rl12Q"
+      },
+      "artists": [
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        }
+      ],
+      "date_added": "2022-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300066,
+      "name": "Space Oddity",
+      "url": "https://open.spotify.com/track/0bcEINLq5Giisn7fbgtl3N"
+    },
+    {
+      "album": {
         "name": "Take Me Home, Country Roads",
         "url": "https://open.spotify.com/album/4hL63mh3FYiIQp35YAKNoo"
       },
@@ -985,7 +1003,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-30",
+      "date_removed": "2022-10-09",
       "duration_ms": 206268,
       "name": "The Things I Regret",
       "url": "https://open.spotify.com/track/2zbVdL6Htw7heJDjbBBEcs"

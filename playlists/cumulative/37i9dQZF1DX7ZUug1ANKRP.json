@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The biggest Dance hits and the ones to come. Welcome to the Main Stage! Cover: FORTELLA",
+  "description": "The biggest Dance hits and the ones to come. Welcome to the Main Stage! Cover: southstar",
   "name": "Main Stage",
   "published_playlist_ids": [
     "4Sc3vClwMPjm8ROhpN4cCx"
@@ -461,6 +461,28 @@
       "duration_ms": 156014,
       "name": "Boom Boom Boom",
       "url": "https://open.spotify.com/track/3shD8tyqoWeW3iw3g8dHcd"
+    },
+    {
+      "album": {
+        "name": "Break the Silence",
+        "url": "https://open.spotify.com/album/23Rl1kQPUyymnjNwDmIqcF"
+      },
+      "artists": [
+        {
+          "name": "Jerome",
+          "url": "https://open.spotify.com/artist/4xcDVatLFh6qlcm41er3LV"
+        },
+        {
+          "name": "KYANU",
+          "url": "https://open.spotify.com/artist/3VuZZ1n0XGacnz96Ys8mrZ"
+        }
+      ],
+      "date_added": "2022-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152196,
+      "name": "Break the Silence",
+      "url": "https://open.spotify.com/track/3J731DK3zEufsb4xaTbvrL"
     },
     {
       "album": {
@@ -1388,6 +1410,28 @@
     },
     {
       "album": {
+        "name": "GET GET DOWN",
+        "url": "https://open.spotify.com/album/59ViUAFNUzjSUHeM5Dmg1F"
+      },
+      "artists": [
+        {
+          "name": "CRISPIE",
+          "url": "https://open.spotify.com/artist/0FsniWxk7B9Y5rOYxRrqiL"
+        },
+        {
+          "name": "Minelli",
+          "url": "https://open.spotify.com/artist/5T0j6On1EthT2QVNXh8vqc"
+        }
+      ],
+      "date_added": "2022-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154687,
+      "name": "GET GET DOWN",
+      "url": "https://open.spotify.com/track/1lrfnDcU9fm3fEcp6uLtjF"
+    },
+    {
+      "album": {
         "name": "Get Up Off The Floor",
         "url": "https://open.spotify.com/album/3hWpTTQXIhRZy9Ln14ZlNt"
       },
@@ -1501,7 +1545,7 @@
       ],
       "date_added": "2022-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-06",
       "duration_ms": 159600,
       "name": "Halo (feat. PIA MARIA)",
       "url": "https://open.spotify.com/track/6WVHfpzYW3HooQaCC80opC"
@@ -2207,7 +2251,7 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-06",
       "duration_ms": 161378,
       "name": "Light Up",
       "url": "https://open.spotify.com/track/3WxbeGN19v2MGGbHBvHxFF"
@@ -3098,6 +3142,28 @@
     },
     {
       "album": {
+        "name": "Pirate",
+        "url": "https://open.spotify.com/album/4TsMT2PTcweFzkJ3h7sQgb"
+      },
+      "artists": [
+        {
+          "name": "Marc Korn",
+          "url": "https://open.spotify.com/artist/2ds47hSr82tLZR2kS5aNdt"
+        },
+        {
+          "name": "Semitoo",
+          "url": "https://open.spotify.com/artist/4MWJBSx7ScBa5ETzTjdFvk"
+        }
+      ],
+      "date_added": "2022-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152000,
+      "name": "Pirate",
+      "url": "https://open.spotify.com/track/6nMeSUJ9Z1EpJvrkcZWAbP"
+    },
+    {
+      "album": {
         "name": "Planet In The Sky (feat. MKLA)",
         "url": "https://open.spotify.com/album/7iyZBOe2XNO7ZH7Q1fzttL"
       },
@@ -3221,6 +3287,28 @@
       "duration_ms": 141931,
       "name": "Rain In Ibiza",
       "url": "https://open.spotify.com/track/5u8Y0lAUlBLwuhpXSDUGf4"
+    },
+    {
+      "album": {
+        "name": "Rainbow",
+        "url": "https://open.spotify.com/album/6Cj4Im6cHhl79SF2XrCyFF"
+      },
+      "artists": [
+        {
+          "name": "DJ Antoine",
+          "url": "https://open.spotify.com/artist/6yTYR09WCvsgdnurDW4WQo"
+        },
+        {
+          "name": "Sergio Trillini",
+          "url": "https://open.spotify.com/artist/632XNUTWRkhxOkb7y4698e"
+        }
+      ],
+      "date_added": "2022-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142794,
+      "name": "Rainbow",
+      "url": "https://open.spotify.com/track/5IOvm7HOjaH5ImdNe2Hezw"
     },
     {
       "album": {
@@ -3393,7 +3481,7 @@
       ],
       "date_added": "2022-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-06",
       "duration_ms": 140156,
       "name": "Somebody to Love",
       "url": "https://open.spotify.com/track/5j5tLZu7qaGhAEHlkyqCAf"
@@ -3973,7 +4061,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-06",
       "duration_ms": 132417,
       "name": "These Nights",
       "url": "https://open.spotify.com/track/1GL7vwDnPqCnJ2xGNxNLwG"
@@ -4430,6 +4518,36 @@
     },
     {
       "album": {
+        "name": "WOW (feat. \u00c1SD\u00cdS)",
+        "url": "https://open.spotify.com/album/5wGgVYOO2isbGL0WA5fs2Q"
+      },
+      "artists": [
+        {
+          "name": "Toby Romeo",
+          "url": "https://open.spotify.com/artist/2XnY6NZ6rENbLMYabjkRey"
+        },
+        {
+          "name": "Keanu Silva",
+          "url": "https://open.spotify.com/artist/1zLMhO4zzzxt5PMV4wMS3y"
+        },
+        {
+          "name": "IZKO",
+          "url": "https://open.spotify.com/artist/1BgmLUmytJuDy5CEzP7SL6"
+        },
+        {
+          "name": "\u00c1SD\u00cdS",
+          "url": "https://open.spotify.com/artist/28y5ZcfpdZAfeEE5ftCfUg"
+        }
+      ],
+      "date_added": "2022-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143055,
+      "name": "WOW (feat. \u00c1SD\u00cdS)",
+      "url": "https://open.spotify.com/track/318quSv1UJeamoAkEDjAuY"
+    },
+    {
+      "album": {
         "name": "Written In The Stars",
         "url": "https://open.spotify.com/album/0eAGUifEmo2I00dISfJyJe"
       },
@@ -4463,7 +4581,7 @@
       ],
       "date_added": "2022-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-06",
       "duration_ms": 132500,
       "name": "YOU",
       "url": "https://open.spotify.com/track/6cVNYlO75XZ3UZnglTF6WI"

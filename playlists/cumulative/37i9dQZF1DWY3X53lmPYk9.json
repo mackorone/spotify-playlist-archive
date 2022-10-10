@@ -206,6 +206,24 @@
     },
     {
       "album": {
+        "name": "All of Me",
+        "url": "https://open.spotify.com/album/1rjHLqSGXBZiwMzMnSrieY"
+      },
+      "artists": [
+        {
+          "name": "Isac Solo",
+          "url": "https://open.spotify.com/artist/56POV7bQLxbrsbCQ7xIJuq"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132773,
+      "name": "All of Me",
+      "url": "https://open.spotify.com/track/4vr75so9m40ADbmSmk0QuS"
+    },
+    {
+      "album": {
         "name": "My Favorite Things",
         "url": "https://open.spotify.com/album/5cuc2ZYIENDkCfUUytmZ4R"
       },
@@ -527,6 +545,24 @@
       "duration_ms": 182398,
       "name": "Cheek to Cheek",
       "url": "https://open.spotify.com/track/4Fsl78MLuUrqJMnFXBctW8"
+    },
+    {
+      "album": {
+        "name": "Cherokee",
+        "url": "https://open.spotify.com/album/5tlafy4PFxdDv5vxuXNlDR"
+      },
+      "artists": [
+        {
+          "name": "Andy Luma",
+          "url": "https://open.spotify.com/artist/6GjiL3RcaPgKpYfk3Q8Gof"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179874,
+      "name": "Cherokee",
+      "url": "https://open.spotify.com/track/2ifo88z2ExBUBsmWav4mca"
     },
     {
       "album": {
@@ -1132,6 +1168,24 @@
     },
     {
       "album": {
+        "name": "I'll Take Romance",
+        "url": "https://open.spotify.com/album/1lWwiRXgfCqxYlFd0T7SWq"
+      },
+      "artists": [
+        {
+          "name": "Avery Miller",
+          "url": "https://open.spotify.com/artist/01o77igJ4oxA6MnykrzHNN"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189923,
+      "name": "I'll Take Romance",
+      "url": "https://open.spotify.com/track/2OtiBmNGQaogw2iymAmTS4"
+    },
+    {
+      "album": {
         "name": "I'm Afraid The Masquerade Is Over",
         "url": "https://open.spotify.com/album/2L1p6B26GF4vzr3QSQbmn7"
       },
@@ -1438,6 +1492,24 @@
     },
     {
       "album": {
+        "name": "It Could Happen to You",
+        "url": "https://open.spotify.com/album/1FKkv7Mk67dv2gHkCqFdrf"
+      },
+      "artists": [
+        {
+          "name": "Maurillo",
+          "url": "https://open.spotify.com/artist/6J2n4xru5kiYED8XltYDUg"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113770,
+      "name": "Lady Bird",
+      "url": "https://open.spotify.com/track/4HbWMOjpKwELFft5e0010n"
+    },
+    {
+      "album": {
         "name": "A Foggy Day",
         "url": "https://open.spotify.com/album/3MPhQbsiYueZQ89XBRCgL1"
       },
@@ -1492,6 +1564,24 @@
     },
     {
       "album": {
+        "name": "Cherokee",
+        "url": "https://open.spotify.com/album/5tlafy4PFxdDv5vxuXNlDR"
+      },
+      "artists": [
+        {
+          "name": "Andy Luma",
+          "url": "https://open.spotify.com/artist/6GjiL3RcaPgKpYfk3Q8Gof"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143869,
+      "name": "Love For Sale",
+      "url": "https://open.spotify.com/track/3lW5Ck2tvHZPQwOWEF0GF8"
+    },
+    {
+      "album": {
         "name": "Love Theme",
         "url": "https://open.spotify.com/album/1X5HJijS1ImWbwfMA2rE6a"
       },
@@ -1543,6 +1633,24 @@
       "duration_ms": 208000,
       "name": "Lover Man",
       "url": "https://open.spotify.com/track/23Q0MMsuaZkngkmx8CEEQl"
+    },
+    {
+      "album": {
+        "name": "Lullaby for Lilly",
+        "url": "https://open.spotify.com/album/11AeTqQfSfhLMqjlar2RaC"
+      },
+      "artists": [
+        {
+          "name": "William Claeson",
+          "url": "https://open.spotify.com/artist/0QDLHVdGZpRfw01CpFIoUZ"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195513,
+      "name": "Lullaby for Lilly",
+      "url": "https://open.spotify.com/track/2hAqVQHxZrDbDYvX0rR1zZ"
     },
     {
       "album": {
@@ -1791,7 +1899,7 @@
       ],
       "date_added": "2022-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-07",
       "duration_ms": 293217,
       "name": "Night and Day",
       "url": "https://open.spotify.com/track/7LLw6w4VwOzLIKxEoV58lK"
@@ -2608,6 +2716,24 @@
     },
     {
       "album": {
+        "name": "The Sea Was Never So Shimmering",
+        "url": "https://open.spotify.com/album/4pqoYzwQZo0Z8ouXa7aGXt"
+      },
+      "artists": [
+        {
+          "name": "Fallegur Tonn",
+          "url": "https://open.spotify.com/artist/0cMr9nPgyN7bdo1xYugyNB"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207474,
+      "name": "The Sea Was Never So Shimmering",
+      "url": "https://open.spotify.com/track/519WzJuCtlf27yzumroBJs"
+    },
+    {
+      "album": {
         "name": "Cinematic Jazz #16: The Piano",
         "url": "https://open.spotify.com/album/5ceVKHppWUQt2xkA1wbxdG"
       },
@@ -2716,6 +2842,24 @@
     },
     {
       "album": {
+        "name": "Thinking Of You",
+        "url": "https://open.spotify.com/album/02Viv2aEVLj6UTNBpJG3D0"
+      },
+      "artists": [
+        {
+          "name": "Lee Bendroth",
+          "url": "https://open.spotify.com/artist/1asg7ElYSc6LhJ7b9fMaFF"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262377,
+      "name": "Thinking Of You",
+      "url": "https://open.spotify.com/track/7lIluhlbePFHOZh4BP2Ymg"
+    },
+    {
+      "album": {
         "name": "In A Mellow Tone",
         "url": "https://open.spotify.com/album/64IuKLGRM1XCFDaGmrGjyF"
       },
@@ -2752,6 +2896,24 @@
     },
     {
       "album": {
+        "name": "Balladear",
+        "url": "https://open.spotify.com/album/7hSckxvndRyYonozrZBj7S"
+      },
+      "artists": [
+        {
+          "name": "Steve Dobrogosz",
+          "url": "https://open.spotify.com/artist/1DS1wubFnTOJQxtX1CeYGo"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117717,
+      "name": "Violet",
+      "url": "https://open.spotify.com/track/3Uamgl7T764IfRw9mI6URZ"
+    },
+    {
+      "album": {
         "name": "Violets for Your Furs",
         "url": "https://open.spotify.com/album/6VNdeRbUZ82LobBqfTYypw"
       },
@@ -2785,6 +2947,24 @@
       "duration_ms": 204384,
       "name": "Violets for Your Furs",
       "url": "https://open.spotify.com/track/5HPVrnUvpTzJF3VSL5rJTD"
+    },
+    {
+      "album": {
+        "name": "We'll Be Together Again",
+        "url": "https://open.spotify.com/album/0IN80bYRFbtbAhvLZdawDU"
+      },
+      "artists": [
+        {
+          "name": "Jim Jensen",
+          "url": "https://open.spotify.com/artist/1mzZZuAmYl9ZyBmrI0beiJ"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262030,
+      "name": "We'll Be Together Again",
+      "url": "https://open.spotify.com/track/1EytEbVphNIhEAjLmT9E1s"
     },
     {
       "album": {

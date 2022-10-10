@@ -1,29 +1,13 @@
 {
   "description": "Fast cars, zombie love, and psychobilly freakouts!",
-  "num_followers": 146026,
+  "num_followers": 146782,
   "original_name": "Hot Rods & Horror Shows",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYxMDgxNTY3NSwwMDAwMDAwMGYzNWM1ZTNjMDBhNDJlNzc2NWFhZDAxODA3ZDYxZTIx",
+  "snapshot_id": "MTYxMDgxNTY3NSwwMDAwMDAwMGJkYjA0MmNkNTIyNzA1MTM3ZDU0NTdkY2JmMmViODlj",
   "tracks": [
-    {
-      "added_at": "2021-01-16 16:47:50",
-      "album": {
-        "name": "Off The Bone",
-        "url": "https://open.spotify.com/album/1n1znRLH7iRtkhjbrCs0wi"
-      },
-      "artists": [
-        {
-          "name": "The Cramps",
-          "url": "https://open.spotify.com/artist/4lYtGx5NZQJHsMyhHc5iz3"
-        }
-      ],
-      "duration_ms": 136426,
-      "name": "Human Fly",
-      "url": "https://open.spotify.com/track/0ElRzK07sc9eszyk1ea9Ab"
-    },
     {
       "added_at": "2021-01-16 16:47:50",
       "album": {
@@ -39,6 +23,22 @@
       "duration_ms": 208102,
       "name": "Saturday Night",
       "url": "https://open.spotify.com/track/3jXptpf8Z3aU9O1Bj6YCl0"
+    },
+    {
+      "added_at": "2021-01-16 16:47:50",
+      "album": {
+        "name": "Off The Bone",
+        "url": "https://open.spotify.com/album/1n1znRLH7iRtkhjbrCs0wi"
+      },
+      "artists": [
+        {
+          "name": "The Cramps",
+          "url": "https://open.spotify.com/artist/4lYtGx5NZQJHsMyhHc5iz3"
+        }
+      ],
+      "duration_ms": 136426,
+      "name": "Human Fly",
+      "url": "https://open.spotify.com/track/0ElRzK07sc9eszyk1ea9Ab"
     },
     {
       "added_at": "2021-01-16 16:47:50",
@@ -123,22 +123,6 @@
       "duration_ms": 247053,
       "name": "Walk Like A Zombie",
       "url": "https://open.spotify.com/track/0F56U0Bvvjh0QcqG21USyO"
-    },
-    {
-      "added_at": "2021-01-16 16:47:50",
-      "album": {
-        "name": "A Funeral for Youth",
-        "url": "https://open.spotify.com/album/11PCuHNzY4BS3r8Rc0IPKi"
-      },
-      "artists": [
-        {
-          "name": "Miss Vincent",
-          "url": "https://open.spotify.com/artist/2yvzGtFdv8dlpBqErEXPXx"
-        }
-      ],
-      "duration_ms": 210240,
-      "name": "Doctors & Churches",
-      "url": "https://open.spotify.com/track/16T9MtUWIa9Pt4vk13YPXb"
     },
     {
       "added_at": "2021-01-16 16:47:50",
@@ -239,6 +223,38 @@
     {
       "added_at": "2021-01-16 16:47:50",
       "album": {
+        "name": "Mayhem",
+        "url": "https://open.spotify.com/album/6QLKR2LZaSZzZuZpiosZNR"
+      },
+      "artists": [
+        {
+          "name": "Imelda May",
+          "url": "https://open.spotify.com/artist/6AnjHMqEAps8VJdHU8RykH"
+        }
+      ],
+      "duration_ms": 166959,
+      "name": "Mayhem",
+      "url": "https://open.spotify.com/track/0kxkgi1SRDFaX9dqwdhdgk"
+    },
+    {
+      "added_at": "2021-01-16 16:47:50",
+      "album": {
+        "name": "Friday The 13th",
+        "url": "https://open.spotify.com/album/5lWhwbVAq6NJY1FkRcIybm"
+      },
+      "artists": [
+        {
+          "name": "Misfits",
+          "url": "https://open.spotify.com/artist/1cXi8ALPQCBHZbf0EgP4Ey"
+        }
+      ],
+      "duration_ms": 173053,
+      "name": "Nightmare on Elm Street",
+      "url": "https://open.spotify.com/track/3GeIm6HhGv6k6yBxoFqQy4"
+    },
+    {
+      "added_at": "2021-01-16 16:47:50",
+      "album": {
         "name": "Rev",
         "url": "https://open.spotify.com/album/7vTpOzMO04lY6z62reNXaL"
       },
@@ -267,22 +283,6 @@
       "duration_ms": 238333,
       "name": "Miss Take",
       "url": "https://open.spotify.com/track/4ooN58vt6HJdTH5QxPzQ5y"
-    },
-    {
-      "added_at": "2021-01-16 16:47:50",
-      "album": {
-        "name": "Mayhem",
-        "url": "https://open.spotify.com/album/6QLKR2LZaSZzZuZpiosZNR"
-      },
-      "artists": [
-        {
-          "name": "Imelda May",
-          "url": "https://open.spotify.com/artist/6AnjHMqEAps8VJdHU8RykH"
-        }
-      ],
-      "duration_ms": 166959,
-      "name": "Mayhem",
-      "url": "https://open.spotify.com/track/0kxkgi1SRDFaX9dqwdhdgk"
     },
     {
       "added_at": "2021-01-16 16:47:50",
@@ -319,22 +319,6 @@
     {
       "added_at": "2021-01-16 16:47:50",
       "album": {
-        "name": "Friday The 13th",
-        "url": "https://open.spotify.com/album/5lWhwbVAq6NJY1FkRcIybm"
-      },
-      "artists": [
-        {
-          "name": "Misfits",
-          "url": "https://open.spotify.com/artist/1cXi8ALPQCBHZbf0EgP4Ey"
-        }
-      ],
-      "duration_ms": 173053,
-      "name": "Nightmare on Elm Street",
-      "url": "https://open.spotify.com/track/3GeIm6HhGv6k6yBxoFqQy4"
-    },
-    {
-      "added_at": "2021-01-16 16:47:50",
-      "album": {
         "name": "Our Way & The Highway",
         "url": "https://open.spotify.com/album/3csHpaafwVPG118KJFaibU"
       },
@@ -347,54 +331,6 @@
       "duration_ms": 144120,
       "name": "The Way Of The Road",
       "url": "https://open.spotify.com/track/0hRw07bcnbOUhlLHem7Bs9"
-    },
-    {
-      "added_at": "2021-01-16 16:47:50",
-      "album": {
-        "name": "Retrofuture",
-        "url": "https://open.spotify.com/album/5DbBmt6CrKpGsWnhgYKPX1"
-      },
-      "artists": [
-        {
-          "name": "Tiger Army",
-          "url": "https://open.spotify.com/artist/7ivKiS6TITQYizkbUUahbi"
-        }
-      ],
-      "duration_ms": 196533,
-      "name": "Last Ride",
-      "url": "https://open.spotify.com/track/7vW7D1uPPSw6V7kt9VJL6S"
-    },
-    {
-      "added_at": "2021-01-16 16:47:50",
-      "album": {
-        "name": "Bail set at $6M",
-        "url": "https://open.spotify.com/album/7KOJg4C1DjxJH5PM4waUSL"
-      },
-      "artists": [
-        {
-          "name": "Batmobile",
-          "url": "https://open.spotify.com/artist/7qkq2G92f2yMJVejh6NBEJ"
-        }
-      ],
-      "duration_ms": 195466,
-      "name": "Kiss me now",
-      "url": "https://open.spotify.com/track/5MZbDFmM6KMMXwRu5JIIez"
-    },
-    {
-      "added_at": "2021-01-16 16:47:50",
-      "album": {
-        "name": "Death at My Door",
-        "url": "https://open.spotify.com/album/0LbmGABwr2WGTzNObgorLu"
-      },
-      "artists": [
-        {
-          "name": "The Creepshow",
-          "url": "https://open.spotify.com/artist/7rHGFWPlIoy2qOWBDLAWNt"
-        }
-      ],
-      "duration_ms": 130542,
-      "name": "Death at My Door",
-      "url": "https://open.spotify.com/track/3YY9GOjWTzEYwptFfomE1L"
     },
     {
       "added_at": "2021-01-16 16:47:50",
@@ -431,6 +367,54 @@
     {
       "added_at": "2021-01-16 16:47:50",
       "album": {
+        "name": "Retrofuture",
+        "url": "https://open.spotify.com/album/5DbBmt6CrKpGsWnhgYKPX1"
+      },
+      "artists": [
+        {
+          "name": "Tiger Army",
+          "url": "https://open.spotify.com/artist/7ivKiS6TITQYizkbUUahbi"
+        }
+      ],
+      "duration_ms": 196533,
+      "name": "Last Ride",
+      "url": "https://open.spotify.com/track/7vW7D1uPPSw6V7kt9VJL6S"
+    },
+    {
+      "added_at": "2021-01-16 16:47:50",
+      "album": {
+        "name": "Death at My Door",
+        "url": "https://open.spotify.com/album/0LbmGABwr2WGTzNObgorLu"
+      },
+      "artists": [
+        {
+          "name": "The Creepshow",
+          "url": "https://open.spotify.com/artist/7rHGFWPlIoy2qOWBDLAWNt"
+        }
+      ],
+      "duration_ms": 130542,
+      "name": "Death at My Door",
+      "url": "https://open.spotify.com/track/3YY9GOjWTzEYwptFfomE1L"
+    },
+    {
+      "added_at": "2021-01-16 16:47:50",
+      "album": {
+        "name": "Bail set at $6M",
+        "url": "https://open.spotify.com/album/7KOJg4C1DjxJH5PM4waUSL"
+      },
+      "artists": [
+        {
+          "name": "Batmobile",
+          "url": "https://open.spotify.com/artist/7qkq2G92f2yMJVejh6NBEJ"
+        }
+      ],
+      "duration_ms": 195466,
+      "name": "Kiss me now",
+      "url": "https://open.spotify.com/track/5MZbDFmM6KMMXwRu5JIIez"
+    },
+    {
+      "added_at": "2021-01-16 16:47:50",
+      "album": {
         "name": "Psychobilly Goes Pop",
         "url": "https://open.spotify.com/album/7zHdZsf31n2zvmm5FmxHZ0"
       },
@@ -463,22 +447,6 @@
     {
       "added_at": "2021-01-16 16:47:50",
       "album": {
-        "name": "Return Of The Loving Dead",
-        "url": "https://open.spotify.com/album/7dr1Aqdu3jMjHKC8J3QCvd"
-      },
-      "artists": [
-        {
-          "name": "Nekromantix",
-          "url": "https://open.spotify.com/artist/3KPGTmc7LTodUo6mG4KvzQ"
-        }
-      ],
-      "duration_ms": 236933,
-      "name": "Gargoyles Over Copenhagen",
-      "url": "https://open.spotify.com/track/7HtSPzWtfn0PWY2NkWGYvq"
-    },
-    {
-      "added_at": "2021-01-16 16:47:50",
-      "album": {
         "name": "Songs of Unspeakable Terror",
         "url": "https://open.spotify.com/album/18WFSTsaFEFNG9P5jM5gxM"
       },
@@ -495,6 +463,22 @@
     {
       "added_at": "2021-01-16 16:47:50",
       "album": {
+        "name": "Return Of The Loving Dead",
+        "url": "https://open.spotify.com/album/7dr1Aqdu3jMjHKC8J3QCvd"
+      },
+      "artists": [
+        {
+          "name": "Nekromantix",
+          "url": "https://open.spotify.com/artist/3KPGTmc7LTodUo6mG4KvzQ"
+        }
+      ],
+      "duration_ms": 236933,
+      "name": "Gargoyles Over Copenhagen",
+      "url": "https://open.spotify.com/track/7HtSPzWtfn0PWY2NkWGYvq"
+    },
+    {
+      "added_at": "2021-01-16 16:47:50",
+      "album": {
         "name": "Decade of Decay \u2013 the Gravest Hits of Bzfos",
         "url": "https://open.spotify.com/album/7Lvr4EH8brRQ2iO2MGA3IE"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 227120,
       "name": "Monster Mutant Boogie",
       "url": "https://open.spotify.com/track/52DIHgGz4qDzxIYBS1EzmS"
+    },
+    {
+      "added_at": "2021-01-16 16:47:50",
+      "album": {
+        "name": "Stereoghost",
+        "url": "https://open.spotify.com/album/2bK56ZDB5cHluxzAUGtF6l"
+      },
+      "artists": [
+        {
+          "name": "The Rosedales",
+          "url": "https://open.spotify.com/artist/1GCXkPIyVrSK5Xyitgw1dU"
+        }
+      ],
+      "duration_ms": 243750,
+      "name": "Stars Are Falling",
+      "url": "https://open.spotify.com/track/49aaN0x4nDDLgB3zOqZFii"
     },
     {
       "added_at": "2021-01-16 16:47:50",
@@ -539,22 +539,6 @@
       "duration_ms": 193339,
       "name": "Red Sky",
       "url": "https://open.spotify.com/track/0G3PNHYZlGdGqL2AUGjNip"
-    },
-    {
-      "added_at": "2021-01-16 16:47:50",
-      "album": {
-        "name": "Stereoghost",
-        "url": "https://open.spotify.com/album/2bK56ZDB5cHluxzAUGtF6l"
-      },
-      "artists": [
-        {
-          "name": "The Rosedales",
-          "url": "https://open.spotify.com/artist/1GCXkPIyVrSK5Xyitgw1dU"
-        }
-      ],
-      "duration_ms": 243750,
-      "name": "Stars Are Falling",
-      "url": "https://open.spotify.com/track/49aaN0x4nDDLgB3zOqZFii"
     },
     {
       "added_at": "2021-01-16 16:47:50",
@@ -611,22 +595,6 @@
     {
       "added_at": "2021-01-16 16:47:50",
       "album": {
-        "name": "Big City Lights",
-        "url": "https://open.spotify.com/album/5YKlWkVRpjt0lvV6hxe6gi"
-      },
-      "artists": [
-        {
-          "name": "Andy and the rockets",
-          "url": "https://open.spotify.com/artist/6B1g25y7etRaKrODzS312a"
-        }
-      ],
-      "duration_ms": 178000,
-      "name": "Come A Little Closer",
-      "url": "https://open.spotify.com/track/4Tel3fqGkIkhK9hvS9mj63"
-    },
-    {
-      "added_at": "2021-01-16 16:47:50",
-      "album": {
         "name": "All These Fiendish Things",
         "url": "https://open.spotify.com/album/5YQHYdhHRa5D5B6e6Er3hj"
       },
@@ -639,6 +607,22 @@
       "duration_ms": 209973,
       "name": "Night Flier",
       "url": "https://open.spotify.com/track/5hrSN6pRbv7ldRA8lFqMuC"
+    },
+    {
+      "added_at": "2021-01-16 16:47:50",
+      "album": {
+        "name": "Big City Lights",
+        "url": "https://open.spotify.com/album/5YKlWkVRpjt0lvV6hxe6gi"
+      },
+      "artists": [
+        {
+          "name": "Andy and the rockets",
+          "url": "https://open.spotify.com/artist/6B1g25y7etRaKrODzS312a"
+        }
+      ],
+      "duration_ms": 178000,
+      "name": "Come A Little Closer",
+      "url": "https://open.spotify.com/track/4Tel3fqGkIkhK9hvS9mj63"
     },
     {
       "added_at": "2021-01-16 16:47:50",
@@ -691,22 +675,6 @@
     {
       "added_at": "2021-01-16 16:47:50",
       "album": {
-        "name": "Love Tattoo",
-        "url": "https://open.spotify.com/album/16s0XOdNFDoBnhY81QYY3H"
-      },
-      "artists": [
-        {
-          "name": "Imelda May",
-          "url": "https://open.spotify.com/artist/6AnjHMqEAps8VJdHU8RykH"
-        }
-      ],
-      "duration_ms": 179400,
-      "name": "Johnny Got A Boom Boom",
-      "url": "https://open.spotify.com/track/1LRCCvucMksncuUk7h7g9e"
-    },
-    {
-      "added_at": "2021-01-16 16:47:50",
-      "album": {
         "name": "No God, No Ghost, No Saints",
         "url": "https://open.spotify.com/album/2fbrbnqy3C8R1hjUzufsdA"
       },
@@ -719,6 +687,22 @@
       "duration_ms": 212000,
       "name": "Ravenous",
       "url": "https://open.spotify.com/track/0bE5kTNR60mf4dvJPqJCf3"
+    },
+    {
+      "added_at": "2021-01-16 16:47:50",
+      "album": {
+        "name": "Love Tattoo",
+        "url": "https://open.spotify.com/album/16s0XOdNFDoBnhY81QYY3H"
+      },
+      "artists": [
+        {
+          "name": "Imelda May",
+          "url": "https://open.spotify.com/artist/6AnjHMqEAps8VJdHU8RykH"
+        }
+      ],
+      "duration_ms": 179400,
+      "name": "Johnny Got A Boom Boom",
+      "url": "https://open.spotify.com/track/1LRCCvucMksncuUk7h7g9e"
     },
     {
       "added_at": "2021-01-16 16:47:50",
@@ -767,6 +751,22 @@
       "duration_ms": 202773,
       "name": "Not of This Earth",
       "url": "https://open.spotify.com/track/4TLiQQGJfY8ZA9dEw6ZvkG"
+    },
+    {
+      "added_at": "2021-01-16 16:47:50",
+      "album": {
+        "name": "Doctors & Churches",
+        "url": "https://open.spotify.com/album/78ClJ6GN8613bqLx0BThJ5"
+      },
+      "artists": [
+        {
+          "name": "Miss Vincent",
+          "url": "https://open.spotify.com/artist/2yvzGtFdv8dlpBqErEXPXx"
+        }
+      ],
+      "duration_ms": 210240,
+      "name": "Doctors & Churches",
+      "url": "https://open.spotify.com/track/57C9ovU3HVtgSdHIjcnD6g"
     },
     {
       "added_at": "2021-01-16 16:47:50",

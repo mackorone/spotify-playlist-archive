@@ -4,7 +4,7 @@
 
 > Atmospheric and emotional piano pieces.
 
-156 songs - 8 hr 41 min - [published](https://open.spotify.com/playlist/5PXW8WDXeIw3YqfXn9AhIU)
+159 songs - 8 hr 51 min - [published](https://open.spotify.com/playlist/5PXW8WDXeIw3YqfXn9AhIU)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,9 +84,11 @@
 | [Lumière](https://open.spotify.com/track/3iNliE9VdKaPmpUangZfTB) | [Stephan Moccio](https://open.spotify.com/artist/25s9H1JQmTu3iuFzpXWUIg) | [Tales Of Solace](https://open.spotify.com/album/7M7ZlXalpujk6zXlhb1J4s) | 4:11 | 2021-12-10 |  |
 | [Lunae](https://open.spotify.com/track/2c5hCxzQSRQR4XAiAEetEl) | [Jordain Wallace](https://open.spotify.com/artist/3DNVxNhoLQt9Q4HqzTPajS) | [To/Day](https://open.spotify.com/album/7cr80VXUNFKIVENIDuery7) | 3:40 | 2021-12-10 |  |
 | [Mantra.](https://open.spotify.com/track/1k5XyTq6BeOu8Pv3ZL9Sh2) | [Erwin Deleux](https://open.spotify.com/artist/3CH0YOw0yK2qWURgB92DSk) | [Mantra.](https://open.spotify.com/album/4TbEVZrI3fvbjlQoVjnlAS) | 6:17 | 2021-12-10 |  |
+| [Memory \- Harpa Sessions](https://open.spotify.com/track/5IdvZgQokqrRjdBZnXwpaM) | [Gabríel Ólafs](https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB) | [Harpa Sessions](https://open.spotify.com/album/3Zqumgj3y0lStaZNyZJgCk) | 2:46 | 2022-10-07 |  |
 | [Mercy Duet](https://open.spotify.com/track/2QSDy7lQFSywmy3dpntiIc) | [Max Richter](https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW) | [Voices 2](https://open.spotify.com/album/29qu0lgHevmRAWZMWkDsD5) | 4:26 | 2021-12-10 |  |
 | [Mirror](https://open.spotify.com/track/4KqlBCbME4kSBDKfogDerG) | [Hideyuki Hashimoto](https://open.spotify.com/artist/3NMfMCA11Xo7RUc91o64Og) | [Mirror](https://open.spotify.com/album/3dJXtRJiMVUE4kzgAkW7xU) | 3:00 | 2022-01-28 |  |
-| [Mirror Lake](https://open.spotify.com/track/1eVJInWM1ElhWTAFbCAQS9) | [Angus MacRae](https://open.spotify.com/artist/461sVAxk7a1yog2yExyBRX) | [Mirror Lake](https://open.spotify.com/album/6nLZCWMmgvuvIL54FspRll) | 4:31 | 2021-12-10 |  |
+| [Mirror Lake](https://open.spotify.com/track/4Mwv1IAyhdh9oWMcUHB0Vc) | [Angus MacRae](https://open.spotify.com/artist/461sVAxk7a1yog2yExyBRX) | [Mirror Lake](https://open.spotify.com/album/5tTymJqGUyFkmklHSyRRRU) | 4:31 | 2022-08-05 |  |
+| [Mirror Lake](https://open.spotify.com/track/1eVJInWM1ElhWTAFbCAQS9) | [Angus MacRae](https://open.spotify.com/artist/461sVAxk7a1yog2yExyBRX) | [Mirror Lake](https://open.spotify.com/album/6nLZCWMmgvuvIL54FspRll) | 4:31 | 2021-12-10 | 2022-10-05 |
 | [Morgen](https://open.spotify.com/track/111fM0tqZiGJyt123R6WNt) | [Doeke](https://open.spotify.com/artist/4bN7b5U92da8peYJPefNu1) | [Naar Huis](https://open.spotify.com/album/5GCcOcKxh1IyCvSvMQKkzv) | 2:45 | 2022-07-22 |  |
 | [Morgen](https://open.spotify.com/track/43g9xRCsD9ez3qzVLRdFeX) | [Doeke](https://open.spotify.com/artist/4bN7b5U92da8peYJPefNu1) | [Morgen](https://open.spotify.com/album/61KSoFutstVwhqyoAxfdKj) | 2:45 | 2021-12-10 | 2022-07-29 |
 | [Mrs\. Potter's Garden](https://open.spotify.com/track/4hRULDo9fR449jPin3MmIg) | [Frerick Den Haan](https://open.spotify.com/artist/0TBTYt8ytHV9fqmQmXQZs5) | [Mrs\. Potter's Garden](https://open.spotify.com/album/4wgoLr9H9hmCscuUF72E1r) | 2:38 | 2021-12-10 |  |
@@ -103,13 +105,14 @@
 | [Of Twilight Skies](https://open.spotify.com/track/5FgOdb5ilNpgXpPBYl23Ln) | [Chad Lawson](https://open.spotify.com/artist/72uoxerTvAd7x3cbfYmNc8) | [Of Twilight Skies](https://open.spotify.com/album/76YGw1azMme9elduNgSeld) | 3:18 | 2022-01-28 |  |
 | [oku](https://open.spotify.com/track/0dh69TWktsQtq1JWheVpHZ) | [Hideyuki Hashimoto](https://open.spotify.com/artist/3NMfMCA11Xo7RUc91o64Og) | [april \- tree](https://open.spotify.com/album/6gdxaCujfNt2szV6FXV4ps) | 2:25 | 2021-12-10 |  |
 | [One Look \- Solo Piano Version](https://open.spotify.com/track/2rOzjds76jtdjSwQbIfuc6) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Evermore \(Solo Piano Version\)](https://open.spotify.com/album/1h1ZsE5v8PlJhtbXODCYCS) | 3:18 | 2022-08-05 | 2022-10-01 |
+| [One Look \- Solo Piano Version](https://open.spotify.com/track/3u1G1hsbE4YoVlcBM7iztj) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Colours \(Solo Piano Version\)](https://open.spotify.com/album/7obnUblJ3L4u0Ch4kyjfCK) | 3:18 | 2022-08-05 |  |
 | [One Look \- Solo Piano Version](https://open.spotify.com/track/4mFBL9WVfRZsOC8PKcjCva) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Songbird \(Solo Piano Version\)](https://open.spotify.com/album/5Rq6irAvLNj36yBD7bY9t0) | 3:18 | 2022-08-05 | 2022-09-02 |
 | [One Look \- Solo Piano Version](https://open.spotify.com/track/5hyeuyL8PXCMoFlwXixGjI) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Still Life \(Solo Piano Version\)](https://open.spotify.com/album/2HBQlWRHDJqUlr1iUX22iu) | 3:18 | 2022-08-05 | 2022-09-16 |
 | [One Look \- Solo Piano Version](https://open.spotify.com/track/6ZQ7FcPjetnVnS5uU0gZ2d) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Canyons \(Solo Piano Version\)](https://open.spotify.com/album/5m8TJspnBZjuJRalHDeioI) | 3:18 | 2022-08-05 | 2022-08-27 |
 | [One Look \- Solo Piano Version](https://open.spotify.com/track/6ukVwqW1apM0LMTHxoCiZm) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Papillon \(Solo Piano Version\)](https://open.spotify.com/album/1ABCgTKvrHDqtaQJoVL8LB) | 3:18 | 2022-08-05 | 2022-09-23 |
 | [One Look \- Solo Piano Version](https://open.spotify.com/track/79UTVXirLKGg722iyWAlLh) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Hope, Ascending \(Solo Piano Version\)](https://open.spotify.com/album/7gOdkCD1pDOKqF7Khofniy) | 3:18 | 2022-08-05 | 2022-09-05 |
 | [One Look \- Solo Piano Version](https://open.spotify.com/track/7jooXsI76dcqjmcU9QV8K7) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [One Look \(Solo Piano Version\)](https://open.spotify.com/album/05Mf7iiPdcr8UH5URzCUfC) | 3:18 | 2022-08-05 | 2022-08-19 |
-| [One Look \- Solo Piano Version](https://open.spotify.com/track/7mzLAlrL1lNSqXxzg4e5nD) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Broken Sunsets \(Solo Piano Version\)](https://open.spotify.com/album/7yHAslL1t5N3qvhq9rmZp3) | 3:18 | 2022-08-05 |  |
+| [One Look \- Solo Piano Version](https://open.spotify.com/track/7mzLAlrL1lNSqXxzg4e5nD) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Broken Sunsets \(Solo Piano Version\)](https://open.spotify.com/album/7yHAslL1t5N3qvhq9rmZp3) | 3:18 | 2022-08-05 | 2022-10-07 |
 | [Only in the Dark](https://open.spotify.com/track/7MenFyNgpOMMPFmbrvJZqX) | [Ben Lukas Boysen](https://open.spotify.com/artist/0lYoJnsYMVaAitj1pZVqER) | [Gravity \(Special Edition\)](https://open.spotify.com/album/0lDH51Xy10a1fXsRMAyufW) | 3:29 | 2021-12-10 |  |
 | [Open](https://open.spotify.com/track/4ugw9mC5cuaKBE02AixcRi) | [Luke Howard](https://open.spotify.com/artist/3duTXsC49HoPt4f4EySDKf) | [More Heart Stories](https://open.spotify.com/album/7G4DNoOqNOXIp8YDqt9nYi) | 3:02 | 2021-12-10 |  |
 | [Opus 18 \- Silfur Version](https://open.spotify.com/track/0iWEx7UUUFMZ2Vtf2x99PS) | [Dustin O'Halloran](https://open.spotify.com/artist/6UEYawMcp2M4JFoXVOtZEq) | [Opus 18 \(Silfur Version\)](https://open.spotify.com/album/04phqZnlwfgnX8a7jLQi8M) | 3:31 | 2021-12-10 |  |

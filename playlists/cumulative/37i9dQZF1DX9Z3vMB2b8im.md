@@ -4,7 +4,7 @@
 
 > Songs so beautiful, they'll stop you in your tracks
 
-119 songs - 7 hr 16 min - [published](https://open.spotify.com/playlist/6rk0W0ToMFunC493qbnQno)
+120 songs - 7 hr 20 min - [published](https://open.spotify.com/playlist/6rk0W0ToMFunC493qbnQno)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,7 +42,8 @@
 | [Hallelujah I Love Her So](https://open.spotify.com/track/6chbqElEHkFSRDJpEydK2H) | [Laura Zocca](https://open.spotify.com/artist/43sKBGtNLR3Ovs81KWzQg7) | [Hallelujah I Love Her So](https://open.spotify.com/album/4KkR1fwO3tgHfhsKRgfFuf) | 2:43 | 2022-04-01 |  |
 | [Haven \(from Life Is Strange\)](https://open.spotify.com/track/0bndF6tTweNXPjwpPL7Slt) | [Novo Amor](https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi) | [Haven \(from Life Is Strange\)](https://open.spotify.com/album/1tCKB58FqUBj5beC5nfpFE) | 2:52 | 2021-12-10 |  |
 | [Hearts That Pound Like Yours](https://open.spotify.com/track/1dNYnZaryInEQZ0QWQ85Y2) | [Amelie](https://open.spotify.com/artist/4RxhlsDbWtJfvf0bgXUhLk) | [Hearts That Pound Like Yours](https://open.spotify.com/album/4J7zHXQyKKUSOpha3swQle) | 3:31 | 2021-12-10 | 2022-02-19 |
-| [Heavy](https://open.spotify.com/track/5VpgaWuqcWho0uJMniRNDs) | [Orla Gartland](https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co) | [Heavy](https://open.spotify.com/album/00PsineKfAuLIl2PGnK5LB) | 4:04 | 2021-12-10 |  |
+| [Heavy](https://open.spotify.com/track/5VpgaWuqcWho0uJMniRNDs) | [Orla Gartland](https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co) | [Heavy](https://open.spotify.com/album/00PsineKfAuLIl2PGnK5LB) | 4:04 | 2021-12-10 | 2022-10-09 |
+| [Heavy](https://open.spotify.com/track/7y7Wd6SDy39DHRfRU20GNU) | [Orla Gartland](https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co) | [Heavy](https://open.spotify.com/album/1JvNzY5bVTLty67NvTW4CT) | 4:04 | 2022-08-19 |  |
 | [Helios](https://open.spotify.com/track/5ZhqfB6GDAi5g5bQmPacli) | [NNAVY](https://open.spotify.com/artist/3X9xtTCJtryAoqsSMKCzXu), [A.W.A](https://open.spotify.com/artist/6J8FZOUaWFW8rEdCG3RDjZ) | [Helios](https://open.spotify.com/album/6zoKcY9fsgqCBVYoRKydv8) | 3:00 | 2021-12-10 |  |
 | [High Moon](https://open.spotify.com/track/1p3wVXamX3ceuO8cCPy5fa) | [Tommy Ashby](https://open.spotify.com/artist/7y1RS42LqlRYnpONXTjN3t), [Lydia Clowes](https://open.spotify.com/artist/4KNIAGw8aeV4ZgMxzjqkeH) | [Lay Low EP](https://open.spotify.com/album/6ybtVG56huE7EZGWsz6gYv) | 3:51 | 2022-06-10 |  |
 | [High Moon](https://open.spotify.com/track/5g7kNKE5PK1XNBuVQ6mVyf) | [Tommy Ashby](https://open.spotify.com/artist/7y1RS42LqlRYnpONXTjN3t), [Lydia Clowes](https://open.spotify.com/artist/4KNIAGw8aeV4ZgMxzjqkeH) | [High Moon](https://open.spotify.com/album/4lId9PZ1NyhAb3Tk1NfetV) | 3:51 | 2021-12-10 | 2022-07-29 |

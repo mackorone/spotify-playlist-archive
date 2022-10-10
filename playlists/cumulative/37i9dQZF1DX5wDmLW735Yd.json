@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "The world's biggest Drum 'n' Bass playlist! Cover: Nia Archives",
+  "description": "The world's biggest Drum 'n' Bass playlist! Cover: Sub Focus & Dimension",
   "name": "Massive Drum & Bass",
   "published_playlist_ids": [
     "5ouec8j4Own6wmunVKxeH3"
@@ -133,6 +133,24 @@
       "duration_ms": 168457,
       "name": "All 4 U",
       "url": "https://open.spotify.com/track/2mPeYGo1y7vwkz6vU5dVbI"
+    },
+    {
+      "album": {
+        "name": "All Over You",
+        "url": "https://open.spotify.com/album/7B8gekLXPHr5v9bvqxiDzp"
+      },
+      "artists": [
+        {
+          "name": "The Upbeats",
+          "url": "https://open.spotify.com/artist/5fbq6W6HAncSYaFtlQi7fF"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259764,
+      "name": "All Over You",
+      "url": "https://open.spotify.com/track/46OCS9qV8Vsa9PNFV95bTL"
     },
     {
       "album": {
@@ -269,6 +287,28 @@
       "duration_ms": 272763,
       "name": "Anaesthetist",
       "url": "https://open.spotify.com/track/5Izi5lL265u2iPulLHOG8i"
+    },
+    {
+      "album": {
+        "name": "Arena (Lose My Mind)",
+        "url": "https://open.spotify.com/album/2DLInkcZFGNwSS9q7a8JZ2"
+      },
+      "artists": [
+        {
+          "name": "Leanne Louise",
+          "url": "https://open.spotify.com/artist/7HhwoWGx2DxP9TM33G1Ca8"
+        },
+        {
+          "name": "Tyrunn",
+          "url": "https://open.spotify.com/artist/0PAB3R8w1Y37njFlTHZC97"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163840,
+      "name": "Arena (Lose My Mind)",
+      "url": "https://open.spotify.com/track/5Dxj4kPKFp5vPgK1zeelmR"
     },
     {
       "album": {
@@ -773,7 +813,7 @@
       ],
       "date_added": "2022-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-07",
       "duration_ms": 226206,
       "name": "Brazil",
       "url": "https://open.spotify.com/track/3jrToiaGyx4o553AfgoofP"
@@ -1079,7 +1119,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-01",
+      "date_removed": "2022-10-07",
       "duration_ms": 284137,
       "name": "Close Your Eyes",
       "url": "https://open.spotify.com/track/3WpZaVBGjVgR7lxekzkXTY"
@@ -2483,6 +2523,40 @@
       "duration_ms": 269504,
       "name": "Hardwired",
       "url": "https://open.spotify.com/track/63UmONGWD612D6jn96v9Hu"
+    },
+    {
+      "album": {
+        "name": "Haters",
+        "url": "https://open.spotify.com/album/4HZGh1FhD8Z0srUo3sdxBx"
+      },
+      "artists": [
+        {
+          "name": "DJ Phantasy",
+          "url": "https://open.spotify.com/artist/4yavtFwoJqzLN6uZvbU1Ai"
+        },
+        {
+          "name": "Mr Traumatik",
+          "url": "https://open.spotify.com/artist/2ZKsAq380W6XWsyWyuKv3Z"
+        },
+        {
+          "name": "Harry Shotta",
+          "url": "https://open.spotify.com/artist/1KDOjuXZPd8XA3YBakakMb"
+        },
+        {
+          "name": "Y-Zer",
+          "url": "https://open.spotify.com/artist/4anQIuuirrBGHcOXybmOLp"
+        },
+        {
+          "name": "Slay",
+          "url": "https://open.spotify.com/artist/3mJPM3drRUdlDVXcc3tA0M"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226090,
+      "name": "Haters - Full Vocal",
+      "url": "https://open.spotify.com/track/0VJs7rauVV1dqzLQvZjtKL"
     },
     {
       "album": {
@@ -4350,6 +4424,28 @@
     },
     {
       "album": {
+        "name": "Ready To Fly",
+        "url": "https://open.spotify.com/album/0Gt9NV2s7pSvP7g2F1nXGc"
+      },
+      "artists": [
+        {
+          "name": "Sub Focus",
+          "url": "https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO"
+        },
+        {
+          "name": "Dimension",
+          "url": "https://open.spotify.com/artist/1QMgre3BHX161ZHtWMUu6S"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204500,
+      "name": "Ready To Fly",
+      "url": "https://open.spotify.com/track/0a2cA9H6KuOsoHLCnjl6YL"
+    },
+    {
+      "album": {
         "name": "READY4DEM",
         "url": "https://open.spotify.com/album/5vdRPZLNiSdQbZKAkmRiEE"
       },
@@ -4541,7 +4637,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-07",
       "duration_ms": 270697,
       "name": "Return Of Forever - Camo & Krooked & Mefjus Remix",
       "url": "https://open.spotify.com/track/5EmRq15Ay5NKkxAlLmj9Q9"
@@ -4687,6 +4783,24 @@
       "duration_ms": 208793,
       "name": "Sanctuary 93 - Radio Edit",
       "url": "https://open.spotify.com/track/09bIUlDzTain0SSBm26sU5"
+    },
+    {
+      "album": {
+        "name": "Sapphire",
+        "url": "https://open.spotify.com/album/6MDA7d0uRob3kJv6tb5BRy"
+      },
+      "artists": [
+        {
+          "name": "Leat'eq",
+          "url": "https://open.spotify.com/artist/1iBxtU5394iPOzmot1FDUD"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141176,
+      "name": "Sapphire",
+      "url": "https://open.spotify.com/track/4V7Pr4MiVJBsjQahcEEbKS"
     },
     {
       "album": {
@@ -5233,7 +5347,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-07",
       "duration_ms": 193454,
       "name": "SPACE MAN (ATH Remix)",
       "url": "https://open.spotify.com/track/1EpCeurqbcA5uIXO7v9JtB"
@@ -5475,7 +5589,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-07",
       "duration_ms": 220846,
       "name": "SUMMER",
       "url": "https://open.spotify.com/track/2qYRPvqYtrAMRB00MUhNr9"
@@ -6355,7 +6469,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-07",
       "duration_ms": 237931,
       "name": "Way We Move",
       "url": "https://open.spotify.com/track/4FIReaKIlDRnhfaPe9SXep"

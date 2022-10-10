@@ -1,12 +1,12 @@
 {
   "description": "Enjoy the most epic, electrifying, face-melting axe performances. Cover: Eddie Van Halen",
-  "num_followers": 1255639,
+  "num_followers": 1258297,
   "original_name": "Legendary Guitar Solos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTg2NDUxMiwwMDAwMDAwMDNiYjFkMmI2MzQ0MTIxYTY0ODI5ZjliZDgxOWUzZmVm",
+  "snapshot_id": "MTY2MTg2NDUxMiwwMDAwMDAwMDdlOGQ4NzMwNDk1YzU1N2JkYTRhNTAzOGUxMDk1ZGE3",
   "tracks": [
     {
       "added_at": "2021-12-13 15:23:11",
@@ -171,6 +171,22 @@
     {
       "added_at": "2021-12-13 15:23:11",
       "album": {
+        "name": "Appetite For Destruction",
+        "url": "https://open.spotify.com/album/28yHV3Gdg30AiB8h8em1eW"
+      },
+      "artists": [
+        {
+          "name": "Guns N' Roses",
+          "url": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
+        }
+      ],
+      "duration_ms": 356066,
+      "name": "Sweet Child O' Mine",
+      "url": "https://open.spotify.com/track/7snQQk1zcKl8gZ92AnueZW"
+    },
+    {
+      "added_at": "2021-12-13 15:23:11",
+      "album": {
         "name": "Purple Rain",
         "url": "https://open.spotify.com/album/7nXJ5k4XgRj5OLg9m8V3zc"
       },
@@ -235,18 +251,18 @@
     {
       "added_at": "2021-12-13 15:23:11",
       "album": {
-        "name": "Appetite For Destruction",
-        "url": "https://open.spotify.com/album/28yHV3Gdg30AiB8h8em1eW"
+        "name": "1984 (Remastered)",
+        "url": "https://open.spotify.com/album/3REUXdj5OPKhuDTrTtCBU0"
       },
       "artists": [
         {
-          "name": "Guns N' Roses",
-          "url": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
+          "name": "Van Halen",
+          "url": "https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K"
         }
       ],
-      "duration_ms": 356066,
-      "name": "Sweet Child O' Mine",
-      "url": "https://open.spotify.com/track/7snQQk1zcKl8gZ92AnueZW"
+      "duration_ms": 282746,
+      "name": "Hot for Teacher - 2015 Remaster",
+      "url": "https://open.spotify.com/track/6QDbGdbJ57Mtkflsg42WV5"
     },
     {
       "added_at": "2021-12-13 15:23:11",
@@ -263,22 +279,6 @@
       "duration_ms": 285000,
       "name": "While My Guitar Gently Weeps - Remastered 2009",
       "url": "https://open.spotify.com/track/389QX9Q1eUOEZ19vtzzI9O"
-    },
-    {
-      "added_at": "2021-12-13 15:23:11",
-      "album": {
-        "name": "1984 (Remastered)",
-        "url": "https://open.spotify.com/album/3REUXdj5OPKhuDTrTtCBU0"
-      },
-      "artists": [
-        {
-          "name": "Van Halen",
-          "url": "https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K"
-        }
-      ],
-      "duration_ms": 282746,
-      "name": "Hot for Teacher - 2015 Remaster",
-      "url": "https://open.spotify.com/track/6QDbGdbJ57Mtkflsg42WV5"
     },
     {
       "added_at": "2021-12-13 15:23:11",
@@ -331,22 +331,6 @@
     {
       "added_at": "2021-12-13 15:23:11",
       "album": {
-        "name": "Wish You Were Here",
-        "url": "https://open.spotify.com/album/0bCAjiUamIFqKJsekOYuRw"
-      },
-      "artists": [
-        {
-          "name": "Pink Floyd",
-          "url": "https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9"
-        }
-      ],
-      "duration_ms": 811077,
-      "name": "Shine On You Crazy Diamond (Pts. 1-5)",
-      "url": "https://open.spotify.com/track/6pnwfWyaWjQiHCKTiZLItr"
-    },
-    {
-      "added_at": "2021-12-13 15:23:11",
-      "album": {
         "name": "Ride The Lightning (Deluxe Remaster)",
         "url": "https://open.spotify.com/album/2omIeSJEGQeKHPOpiXgfkr"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 417226,
       "name": "Fade To Black (Remastered)",
       "url": "https://open.spotify.com/track/0dqGfCMAGyDgpUAgLNOjWd"
+    },
+    {
+      "added_at": "2021-12-13 15:23:11",
+      "album": {
+        "name": "Wish You Were Here",
+        "url": "https://open.spotify.com/album/0bCAjiUamIFqKJsekOYuRw"
+      },
+      "artists": [
+        {
+          "name": "Pink Floyd",
+          "url": "https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9"
+        }
+      ],
+      "duration_ms": 811077,
+      "name": "Shine On You Crazy Diamond (Pts. 1-5)",
+      "url": "https://open.spotify.com/track/6pnwfWyaWjQiHCKTiZLItr"
     },
     {
       "added_at": "2021-12-13 15:23:11",
@@ -507,22 +507,6 @@
     {
       "added_at": "2021-12-13 15:23:11",
       "album": {
-        "name": "The Great Southern Trendkill",
-        "url": "https://open.spotify.com/album/4LdquqwQoyu1pE6Vq8PIha"
-      },
-      "artists": [
-        {
-          "name": "Pantera",
-          "url": "https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18"
-        }
-      ],
-      "duration_ms": 419893,
-      "name": "Floods",
-      "url": "https://open.spotify.com/track/1L2ZkXbRX00ZiaUDuMMgf7"
-    },
-    {
-      "added_at": "2021-12-13 15:23:11",
-      "album": {
         "name": "Wheels Of Fire",
         "url": "https://open.spotify.com/album/0zrtTZC7yY2TOEhnbJzSb9"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 258466,
       "name": "Crossroads - Live",
       "url": "https://open.spotify.com/track/6PUabSMXmPnZna361Wwmf7"
+    },
+    {
+      "added_at": "2021-12-13 15:23:11",
+      "album": {
+        "name": "The Great Southern Trendkill",
+        "url": "https://open.spotify.com/album/4LdquqwQoyu1pE6Vq8PIha"
+      },
+      "artists": [
+        {
+          "name": "Pantera",
+          "url": "https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18"
+        }
+      ],
+      "duration_ms": 419893,
+      "name": "Floods",
+      "url": "https://open.spotify.com/track/1L2ZkXbRX00ZiaUDuMMgf7"
     },
     {
       "added_at": "2021-12-13 15:23:11",
@@ -715,22 +715,6 @@
     {
       "added_at": "2021-12-13 15:23:11",
       "album": {
-        "name": "Rides Again",
-        "url": "https://open.spotify.com/album/0FHtUmahwAambT6S4boSP0"
-      },
-      "artists": [
-        {
-          "name": "James Gang",
-          "url": "https://open.spotify.com/artist/5hfOHpGMsi8O3DA0ROLGqF"
-        }
-      ],
-      "duration_ms": 424733,
-      "name": "The Bomber A: Closet Queen B: Bolero C: Cast Your Fate To The Wind - Medley",
-      "url": "https://open.spotify.com/track/7Gq4o3qwY5kTdwNwyQ4lLu"
-    },
-    {
-      "added_at": "2021-12-13 15:23:11",
-      "album": {
         "name": "Van Halen (Remastered)",
         "url": "https://open.spotify.com/album/7DdEbYFPKTZ8KB4z6L4UnQ"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 224600,
       "name": "I'm the One - 2015 Remaster",
       "url": "https://open.spotify.com/track/2xS1lC45sjj60M1eeRsOUp"
+    },
+    {
+      "added_at": "2021-12-13 15:23:11",
+      "album": {
+        "name": "Rides Again",
+        "url": "https://open.spotify.com/album/0FHtUmahwAambT6S4boSP0"
+      },
+      "artists": [
+        {
+          "name": "James Gang",
+          "url": "https://open.spotify.com/artist/5hfOHpGMsi8O3DA0ROLGqF"
+        }
+      ],
+      "duration_ms": 424733,
+      "name": "The Bomber A: Closet Queen B: Bolero C: Cast Your Fate To The Wind - Medley",
+      "url": "https://open.spotify.com/track/7Gq4o3qwY5kTdwNwyQ4lLu"
     },
     {
       "added_at": "2021-12-13 15:23:11",
@@ -779,22 +779,6 @@
     {
       "added_at": "2021-12-13 15:23:11",
       "album": {
-        "name": "Sheer Heart Attack (Deluxe Remastered Version)",
-        "url": "https://open.spotify.com/album/6RJyYMIrOtx3VnNIoq31kj"
-      },
-      "artists": [
-        {
-          "name": "Queen",
-          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
-        }
-      ],
-      "duration_ms": 310013,
-      "name": "Brighton Rock - Remastered 2011",
-      "url": "https://open.spotify.com/track/4ObxJP7kYUkBqpiklCzrBo"
-    },
-    {
-      "added_at": "2021-12-13 15:23:11",
-      "album": {
         "name": "Flying In A Blue Dream",
         "url": "https://open.spotify.com/album/4TZmVQz3aV8yxxcogVNFW6"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 323066,
       "name": "Flying in a Blue Dream",
       "url": "https://open.spotify.com/track/2NrqjA3YUfNuZcmQzE2EJe"
+    },
+    {
+      "added_at": "2021-12-13 15:23:11",
+      "album": {
+        "name": "Sheer Heart Attack (Deluxe Remastered Version)",
+        "url": "https://open.spotify.com/album/6RJyYMIrOtx3VnNIoq31kj"
+      },
+      "artists": [
+        {
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        }
+      ],
+      "duration_ms": 310013,
+      "name": "Brighton Rock - Remastered 2011",
+      "url": "https://open.spotify.com/track/4ObxJP7kYUkBqpiklCzrBo"
     }
   ],
   "unique_name": "Legendary Guitar Solos",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Jggz04vUOo.md) - [plain]
 
 > <a href="spotify:artist:3iT6d90Vy630068736OgW8">Foxall</a>'s favorite tracks\. Updated regularly\. Curated by Foxall\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 355 likes - 70 songs - 7 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 359 likes - 70 songs - 7 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Jggz04vUOo.md) - [plain]
 | 7 | [Salamanquesa](https://open.spotify.com/track/2g0DEj8yNoDmh5BjNg5kcw) | [Onda Mundial](https://open.spotify.com/artist/5c5oay9VCy0a9RzFw1S8Dp), [Klik & Frik](https://open.spotify.com/artist/56P5wn7V6w46OyYV9vS5jC) | [Momoto](https://open.spotify.com/album/3cThlPotjMGdTYVj77PXpA) | 7:07 |
 | 8 | [Marmara](https://open.spotify.com/track/0mWySChvIoNiwwjrseycdT) | [Muno](https://open.spotify.com/artist/1DZGRRvmPsjC8o8F8MwpRe) | [Marmara](https://open.spotify.com/album/4j0YbHO2ronLXxxVXHEMt2) | 5:50 |
 | 9 | [Pire](https://open.spotify.com/track/7eSZ01vwRY59uAzGt5V3lP) | [Oceanvs Orientalis](https://open.spotify.com/artist/3gNEIgLeknpwkNViU8WAhg), [Ilhan Ersahin](https://open.spotify.com/artist/5aweKNLI0ZyI48q5TmoCxT) | [Pire](https://open.spotify.com/album/2mjxQEUX5uXMyHPMd0UHXC) | 7:43 |
-| 10 | [Birds and Smoke](https://open.spotify.com/track/61r7nhS0hlGJeQXDHy58pL) | [Xinobi](https://open.spotify.com/artist/1w7cucUEPR1Yq9g03g6T8m) | [Birds and Smoke](https://open.spotify.com/album/362PlMh5VwHG30Wy6AX2un) | 6:08 |
+| 10 | [Birds and Smoke](https://open.spotify.com/track/6gFvgBSlJFjC4pswZJKSx6) | [Xinobi](https://open.spotify.com/artist/1w7cucUEPR1Yq9g03g6T8m) | [Walden Pond](https://open.spotify.com/album/5yS2vHJXAfLwUNYmuJ556C) | 6:08 |
 | 11 | [Babel](https://open.spotify.com/track/4GYWg4ElWCVlzhdxPhAGDp) | [Foxall](https://open.spotify.com/artist/3iT6d90Vy630068736OgW8), [Deaf Can Dance](https://open.spotify.com/artist/4x4MJgFMr8RcF9XwFIHmtk) | [Follow the Call of the Discoball 2](https://open.spotify.com/album/1xmMyt7Vq316bu9y2cSEOL) | 7:37 |
 | 12 | [Rosas \- Nu Remix](https://open.spotify.com/track/3kfd2K9w54Rqwkr6uFhr6Z) | [Viken Arman](https://open.spotify.com/artist/1xQVwAdSzsF8DO76NsZpMK), [Nu](https://open.spotify.com/artist/5tY2sa8I11tpMuhU9onQ6e) | [PL004](https://open.spotify.com/album/3S9nHXSKFLCrfy8oICa3AS) | 5:32 |
 | 13 | [It's Probably Me](https://open.spotify.com/track/1X3Vb1oIAW6Ee22JZAEi59) | [Sting](https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk), [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Fields Of Gold \- The Best Of Sting 1984 \- 1994](https://open.spotify.com/album/1rZTn68Lgr5J4F4vIpgpWf) | 5:02 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Jggz04vUOo.md) - [plain]
 | 69 | [Luz](https://open.spotify.com/track/5PVVI6EgYnMcNcgU4nY7Wu) | [thds](https://open.spotify.com/artist/6TVqFrTp63smZC4WefwDgA) | [Ubuntu](https://open.spotify.com/album/7F1RAZZQabVvNrLEm6ewoe) | 5:13 |
 | 70 | [Dimanche](https://open.spotify.com/track/72rLUZXj0Yq2Q3LR4YSQ7v) | [CLAAP!](https://open.spotify.com/artist/4DK1qq54kEAEmFiQlDYAD3) | [Dimanche](https://open.spotify.com/album/6lHrrM4SgbNJRvIMI5aebb) | 4:33 |
 
-Snapshot ID: `MTY1ODYxMzYwMCwwMDAwMDAwMDNjODZjNWNjMDU4NzVhYmRkNjM2MjU3Zjc1MWRlNDNj`
+Snapshot ID: `MTY1ODYxMzYwMCwwMDAwMDAwMGJkMjJiZDcyYjdjZWFhNjAyZDM5NWE2ZDVlODk2NTA3`

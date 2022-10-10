@@ -110,6 +110,24 @@
     },
     {
       "album": {
+        "name": "28 Reasons - The 1st Mini Album",
+        "url": "https://open.spotify.com/album/1t5a29WYbJj83iy3RNICHw"
+      },
+      "artists": [
+        {
+          "name": "SEULGI",
+          "url": "https://open.spotify.com/artist/2QM5S4yO6xHgnNvF0nbZZq"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-08",
+      "duration_ms": 189413,
+      "name": "28 Reasons",
+      "url": "https://open.spotify.com/track/1dfsPqH09vnzUWEOsN98Ex"
+    },
+    {
+      "album": {
         "name": "2AM",
         "url": "https://open.spotify.com/album/7nB59ijKokvdKH3JlnTArx"
       },
@@ -737,7 +755,7 @@
       ],
       "date_added": "2022-08-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-30",
+      "date_removed": "2022-10-08",
       "duration_ms": 172714,
       "name": "Bad Decisions (with BTS & Snoop Dogg)",
       "url": "https://open.spotify.com/track/0xzI1KAr0Yd9tv8jlIk3sn"
@@ -2111,7 +2129,7 @@
       ],
       "date_added": "2022-08-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-26",
+      "date_removed": "2022-10-09",
       "duration_ms": 231497,
       "name": "C\u00f3 Ai Th\u01b0\u01a1ng Em Nh\u01b0 Anh (feat. Touliver)",
       "url": "https://open.spotify.com/track/7AD5F85waSb3yZxZxEXhJM"
@@ -2308,6 +2326,24 @@
     },
     {
       "album": {
+        "name": "C\u00f3 \u0110\u00e2u Ai Ng\u1edd",
+        "url": "https://open.spotify.com/album/706NYXSqVRFvEn2L4GFahN"
+      },
+      "artists": [
+        {
+          "name": "C\u1ea7m",
+          "url": "https://open.spotify.com/artist/56vNGG0GJtL6p8ltx7cLvj"
+        }
+      ],
+      "date_added": "2022-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220000,
+      "name": "C\u00f3 \u0110\u00e2u Ai Ng\u1edd",
+      "url": "https://open.spotify.com/track/5OE0IzdS8Bs4UaLvDoTXKD"
+    },
+    {
+      "album": {
         "name": "M\u1ed9t V\u1ea1n N\u0103m",
         "url": "https://open.spotify.com/album/4nfpHvg7KFcAUTg6yajpvN"
       },
@@ -2341,6 +2377,24 @@
       "duration_ms": 236716,
       "name": "C\u01a0N M\u01afA NGANG QUA - REMIX 2022",
       "url": "https://open.spotify.com/track/53JDP7TaGacjUtnStYQp51"
+    },
+    {
+      "album": {
+        "name": "SKY DECADE",
+        "url": "https://open.spotify.com/album/7r2UDe86W9yNHVymWu02xG"
+      },
+      "artists": [
+        {
+          "name": "S\u01a1n T\u00f9ng M-TP",
+          "url": "https://open.spotify.com/artist/5dfZ5uSmzR7VQK0udbAVpf"
+        }
+      ],
+      "date_added": "2022-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196923,
+      "name": "C\u01a1n M\u01b0a Xa D\u1ea7n",
+      "url": "https://open.spotify.com/track/59u8Iu6cAugFqtA1avGFRT"
     },
     {
       "album": {
@@ -3449,7 +3503,7 @@
       ],
       "date_added": "2022-01-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-14",
+      "date_removed": "2022-10-05",
       "duration_ms": 180220,
       "name": "Filter",
       "url": "https://open.spotify.com/track/4bZZVcgWWMWPBwzTTp642w"
@@ -5335,7 +5389,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-09",
       "duration_ms": 240500,
       "name": "kh\u00f4ng m\u1ed9t b\u00e0i h\u00e1t n\u00e0o c\u00f3 th\u1ec3 di\u1ec5n t\u1ea3 c\u1ea3m x\u00fac c\u1ee7a em l\u00fac n\u00e0y. (feat. Thanh Bui)",
       "url": "https://open.spotify.com/track/2AA4UcXp2WRvsU9cyHT6Vy"
@@ -5507,10 +5561,36 @@
       ],
       "date_added": "2022-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-09",
       "duration_ms": 154486,
       "name": "Left and Right (Feat. Jung Kook of BTS)",
       "url": "https://open.spotify.com/track/0mBP9X2gPCuapvpZ7TGDk3"
+    },
+    {
+      "album": {
+        "name": "CHARLIE",
+        "url": "https://open.spotify.com/album/5Jk4Eg7pxYhDrWJCVVzmMt"
+      },
+      "artists": [
+        {
+          "name": "Charlie Puth",
+          "url": "https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7"
+        },
+        {
+          "name": "Jung Kook",
+          "url": "https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc"
+        },
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "date_added": "2022-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154486,
+      "name": "Left and Right (Feat. Jung Kook of BTS)",
+      "url": "https://open.spotify.com/track/5Odq8ohlgIbQKMZivbWkEo"
     },
     {
       "album": {
@@ -5709,7 +5789,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-29",
+      "date_removed": null,
       "duration_ms": 258668,
       "name": "Li\u1ec7u Gi\u1edd",
       "url": "https://open.spotify.com/track/2EZtTS76x5M6hK96CLclPd"
@@ -6393,7 +6473,7 @@
       ],
       "date_added": "2021-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-28",
+      "date_removed": null,
       "duration_ms": 275905,
       "name": "Mu\u1ed9n R\u1ed3i M\u00e0 Sao C\u00f2n",
       "url": "https://open.spotify.com/track/5fFLotKS1286huYIMQHqz7"
@@ -6967,6 +7047,24 @@
       "duration_ms": 188059,
       "name": "N\u1eaeM \u0110\u00d4I B\u00c0N TAY",
       "url": "https://open.spotify.com/track/3kwS7WlPS6NconVfVs6tTZ"
+    },
+    {
+      "album": {
+        "name": "SKY DECADE",
+        "url": "https://open.spotify.com/album/7r2UDe86W9yNHVymWu02xG"
+      },
+      "artists": [
+        {
+          "name": "S\u01a1n T\u00f9ng M-TP",
+          "url": "https://open.spotify.com/artist/5dfZ5uSmzR7VQK0udbAVpf"
+        }
+      ],
+      "date_added": "2022-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195697,
+      "name": "N\u1eafng \u1ea4m Ngang Qua",
+      "url": "https://open.spotify.com/track/6UdpjBhLNMFl3dH46iXlGi"
     },
     {
       "album": {
@@ -9091,7 +9189,7 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-06",
       "duration_ms": 184248,
       "name": "Tally",
       "url": "https://open.spotify.com/track/0bYVPJvXr8ACmw313cVvhB"
@@ -9994,6 +10092,24 @@
     },
     {
       "album": {
+        "name": "T\u1ef1 T\u00ecnh 2",
+        "url": "https://open.spotify.com/album/644Tj4OPFEO8PtpgWhbvug"
+      },
+      "artists": [
+        {
+          "name": "Trung Qu\u00e2n",
+          "url": "https://open.spotify.com/artist/5Cf9nBDNc99UFkq9Yqap7Q"
+        }
+      ],
+      "date_added": "2022-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290976,
+      "name": "T\u1ef1 T\u00ecnh 2",
+      "url": "https://open.spotify.com/track/4AT7ZRCPu3jDxA4Y22IO22"
+    },
+    {
+      "album": {
         "name": "mono.",
         "url": "https://open.spotify.com/album/4f9hYOZPtGfcUd1dT30G1H"
       },
@@ -10027,7 +10143,7 @@
       ],
       "date_added": "2022-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-09",
       "duration_ms": 156943,
       "name": "Unholy (feat. Kim Petras)",
       "url": "https://open.spotify.com/track/3nqQXoyQOWXiESFLlDF1hG"
@@ -10329,7 +10445,7 @@
       ],
       "date_added": "2022-04-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-27",
+      "date_removed": "2022-10-07",
       "duration_ms": 201905,
       "name": "With you",
       "url": "https://open.spotify.com/track/2gzhQaCTeNgxpeB2TPllyY"
@@ -10467,7 +10583,7 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-06",
       "duration_ms": 178923,
       "name": "Yeah Yeah Yeah",
       "url": "https://open.spotify.com/track/5y4WmuvFX1t3NdSId0MFOh"
@@ -10503,7 +10619,7 @@
       ],
       "date_added": "2022-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-06",
       "duration_ms": 223535,
       "name": "Yet To Come (Hyundai Ver.)",
       "url": "https://open.spotify.com/track/4ncTUgTfUV3wrjTPzKvn01"
@@ -10641,7 +10757,7 @@
       ],
       "date_added": "2022-05-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-07",
+      "date_removed": "2022-10-07",
       "duration_ms": 253524,
       "name": "Y\u00eau M\u1ed9t Ng\u01b0\u1eddi C\u00f3 L\u1ebd",
       "url": "https://open.spotify.com/track/2o4dDfLK6NVI7TjBm5VoMv"
@@ -11065,7 +11181,7 @@
       ],
       "date_added": "2022-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-03",
       "duration_ms": 252539,
       "name": "\u0111\u1ee9a n\u00e0o l\u00e0m em bu\u1ed3n?",
       "url": "https://open.spotify.com/track/3CqtQwaoQTdgDWLHyv7Twr"

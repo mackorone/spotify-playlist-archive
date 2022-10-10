@@ -53,6 +53,24 @@
           "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
         }
       ],
+      "date_added": "2022-10-04",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-09",
+      "duration_ms": 182906,
+      "name": "Atrevete A Olvidarme",
+      "url": "https://open.spotify.com/track/22HfGDgdV6EjthbXKpxcT4"
+    },
+    {
+      "album": {
+        "name": "Vive",
+        "url": "https://open.spotify.com/album/4v2fdmkaVrrT0eYhy2ix3a"
+      },
+      "artists": [
+        {
+          "name": "Bobby Pulido",
+          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
+        }
+      ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
       "date_removed": null,
@@ -253,7 +271,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-30",
+      "date_removed": null,
       "duration_ms": 186906,
       "name": "Dime Qu\u00e9 Debo Hacer",
       "url": "https://open.spotify.com/track/4JdXfOJ344Cbf55yzfOZow"
@@ -437,7 +455,7 @@
       ],
       "date_added": "2022-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-09",
       "duration_ms": 212893,
       "name": "La Plancha",
       "url": "https://open.spotify.com/track/0AIZSBwga3mZS7GNJKUVgB"
@@ -455,7 +473,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-02",
+      "date_removed": "2022-10-09",
       "duration_ms": 200169,
       "name": "La Pregunta del Millon",
       "url": "https://open.spotify.com/track/12qn6tXr90rVnctiC9jODD"
@@ -495,7 +513,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-21",
+      "date_removed": "2022-10-09",
       "duration_ms": 360466,
       "name": "La Rosa / Flecha Envenenada (feat. Bobby Pulido)",
       "url": "https://open.spotify.com/track/1CnGSMYKYFMmZGJU4mqtYq"
@@ -625,7 +643,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-02",
+      "date_removed": null,
       "duration_ms": 229826,
       "name": "Mi Alma Esta Enamorada",
       "url": "https://open.spotify.com/track/4wzym8wGWWsI2BHSItMmzH"
@@ -791,7 +809,7 @@
       ],
       "date_added": "2022-07-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-02",
+      "date_removed": "2022-10-09",
       "duration_ms": 208000,
       "name": "Para Que Baile Mi Pueblo",
       "url": "https://open.spotify.com/track/5vtiBtPEyV3id3UhEMWRRW"
@@ -863,7 +881,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-02",
+      "date_removed": null,
       "duration_ms": 223240,
       "name": "Quisiera",
       "url": "https://open.spotify.com/track/72GdSXUOtE6AdBUlNFO9NW"
@@ -1029,7 +1047,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 218226,
       "name": "Soy Yo",
       "url": "https://open.spotify.com/track/2RgBInbB7gq3ewMVkqYIPr"
@@ -1047,7 +1065,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-11",
+      "date_removed": "2022-10-08",
       "duration_ms": 201560,
       "name": "Sustancia",
       "url": "https://open.spotify.com/track/7M3hiMMj3jNkPLj7dzd9sp"
@@ -1065,7 +1083,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-07",
       "duration_ms": 222266,
       "name": "Tal Vez",
       "url": "https://open.spotify.com/track/7MxuCuT5SiVYlOKhSIXN6i"
@@ -1181,6 +1199,44 @@
       "duration_ms": 254440,
       "name": "Vive",
       "url": "https://open.spotify.com/track/6ljSbHWwuUsDfOswRHlomj"
+    },
+    {
+      "album": {
+        "name": "Movie Soundtrack",
+        "url": "https://open.spotify.com/album/6tgYUMd4BkJnE88UfrUSDO"
+      },
+      "artists": [
+        {
+          "name": "Pete Astudillo",
+          "url": "https://open.spotify.com/artist/5wB9uZHnYDudrgfxOXUsjY"
+        },
+        {
+          "name": "Emilio Navaira",
+          "url": "https://open.spotify.com/artist/5ADSZA6X6nJBe7pTgcE6nA"
+        },
+        {
+          "name": "Jennifer Y Los Jetz",
+          "url": "https://open.spotify.com/artist/6RNtyMrzRxg0Ojr0bmS3j7"
+        },
+        {
+          "name": "Bobby Pulido",
+          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
+        },
+        {
+          "name": "Barrio Boyzz",
+          "url": "https://open.spotify.com/artist/2pEJhUF93gQGPdWJnusnZp"
+        },
+        {
+          "name": "Graciela Beltran",
+          "url": "https://open.spotify.com/artist/7HcFX1LEnI6zHIHCt8olTl"
+        }
+      ],
+      "date_added": "2022-10-04",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-09",
+      "duration_ms": 303533,
+      "name": "Viviras Selena",
+      "url": "https://open.spotify.com/track/2pXb4Rtjt4RfmdlxqUYCdG"
     },
     {
       "album": {

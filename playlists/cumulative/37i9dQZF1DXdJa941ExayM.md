@@ -4,7 +4,7 @@
 
 > maybe it's punk, maybe it's not\. Cover: WHOKILLEDXIX
 
-165 songs - 8 hr 41 min - [published](https://open.spotify.com/playlist/4Fx7H5bue0NPuMWQvcMhLl)
+166 songs - 8 hr 43 min - [published](https://open.spotify.com/playlist/4Fx7H5bue0NPuMWQvcMhLl)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -108,7 +108,8 @@
 | [MINE](https://open.spotify.com/track/1OuUogTZKcuAmLgS6FbDRv) | [SLOE JACK](https://open.spotify.com/artist/6LxNb1YrbYYSpIFQAfxUQ1) | [MINE](https://open.spotify.com/album/71bI5cpUU3oudowoIkoGwU) | 2:02 | 2022-08-11 |  |
 | [MMMOOOAAAAAYAYA](https://open.spotify.com/track/5OEhwuwzSVnmeJdREOBqqk) | [illuminati hotties](https://open.spotify.com/artist/3ztRX1UoIOsFqpD7dB6R8O) | [Let Me Do One More](https://open.spotify.com/album/5MH2ICGjLf6Lm9G72Rfx2f) | 3:04 | 2022-07-07 | 2022-08-29 |
 | [MMMOOOAAAAAYAYA](https://open.spotify.com/track/6wOT4xSBIfD6oxSv7dGE6S) | [illuminati hotties](https://open.spotify.com/artist/3ztRX1UoIOsFqpD7dB6R8O) | [MMMOOOAAAAAYAYA](https://open.spotify.com/album/6vLZTDbsUAVSQu5m0Xn9dJ) | 3:04 | 2021-12-20 | 2022-07-29 |
-| [Monkey Mind](https://open.spotify.com/track/0lM6yxZLvHvxqBdYhgr9uo) | [THE BOBBY LEES](https://open.spotify.com/artist/5rk0vdxhhpLJ0mgyvx0BZI) | [Monkey Mind](https://open.spotify.com/album/2tGMS4nGHxcPvD3DEIeaLW) | 2:18 | 2022-08-05 |  |
+| [Monkey Mind](https://open.spotify.com/track/0lM6yxZLvHvxqBdYhgr9uo) | [THE BOBBY LEES](https://open.spotify.com/artist/5rk0vdxhhpLJ0mgyvx0BZI) | [Monkey Mind](https://open.spotify.com/album/2tGMS4nGHxcPvD3DEIeaLW) | 2:18 | 2022-08-05 | 2022-10-09 |
+| [Monkey Mind](https://open.spotify.com/track/7qvwnde6QuoYGd0xUcevIQ) | [THE BOBBY LEES](https://open.spotify.com/artist/5rk0vdxhhpLJ0mgyvx0BZI) | [Bellevue](https://open.spotify.com/album/7nGrRTsbZWCSCOmziwf5Sy) | 2:18 | 2022-09-29 |  |
 | [MOTHERFUCKER](https://open.spotify.com/track/6X8VMfcQXjdwMHOSuS1ULl) | [Billy Sane](https://open.spotify.com/artist/5BN8ZI3WG0brwHXSu5xlw4) | [MOTHERFUCKER](https://open.spotify.com/album/5JvYdJ34ytSm0InoFukcFt) | 1:02 | 2022-08-25 |  |
 | [Multitudes](https://open.spotify.com/track/3TAXiOL3dqNo4YkrdyN73S) | [Sinead O Brien](https://open.spotify.com/artist/0Nron4wq7uF2TwLodaVRHr) | [Multitudes](https://open.spotify.com/album/2o6CaxhzQScrGCSkIZ0N6q) | 4:35 | 2022-06-15 |  |
 | [My Mother Wants Me Dead](https://open.spotify.com/track/3ADDLOa2NjjLFQ7g2FTiYx) | [carolesdaughter](https://open.spotify.com/artist/2hiq2iBnUik3mrOfEgRSpB) | [My Mother Wants Me Dead](https://open.spotify.com/album/0T6yUi3nWoE9c5krkoPYPK) | 1:45 | 2021-12-20 |  |

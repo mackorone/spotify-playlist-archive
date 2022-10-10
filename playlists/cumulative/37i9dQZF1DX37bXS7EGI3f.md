@@ -4,7 +4,7 @@
 
 > Epic and melodic metal, for the dragonslayer in you! Cover: Sabaton
 
-493 songs - 1 day 14 hr 2 min - [published](https://open.spotify.com/playlist/7kEcasUjgrsWeDSNxMBt56)
+494 songs - 1 day 14 hr 7 min - [published](https://open.spotify.com/playlist/7kEcasUjgrsWeDSNxMBt56)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -128,7 +128,7 @@
 | [Ecdysis](https://open.spotify.com/track/3f8cF7lcekpfs0Ww58nunV) | [Set and Setting](https://open.spotify.com/artist/5MDD6ObIICvtWZcMmHrwts) | [Tabula Rasa](https://open.spotify.com/album/2CZ9tJdRdhw4HeH6s9GaOQ) | 7:09 | 2022-07-13 | 2022-07-28 |
 | [Echo Chamber](https://open.spotify.com/track/60f16377jccKJsVAwmnyiR) | [Northlane](https://open.spotify.com/artist/3qyg72RGnGdF521zMU02u9) | [Echo Chamber](https://open.spotify.com/album/1s8WAKE6VnNPW5Mdud6nQF) | 3:47 | 2021-11-13 | 2022-04-23 |
 | [EDM \(E\-Dependent Mind\)](https://open.spotify.com/track/1XUxOG4MhpHiKpZbKZdNdK) | [Kiko Loureiro](https://open.spotify.com/artist/5RmLUrjJz5bpP8dF4lYdyK) | [EDM \(E\-Dependent Mind\)](https://open.spotify.com/album/28VAgEj6MKG8Tf6NCtKSyt) | 4:25 | 2022-07-13 | 2022-07-29 |
-| [Eine Kleine Nachtmusik](https://open.spotify.com/track/2XDlcivRrN2RZ4M1Tr1Gnc) | [Megaraptor](https://open.spotify.com/artist/1I98HSdBKIcRpCmd839ZyA) | [Eine Kleine Nachtmusik](https://open.spotify.com/album/2CJDx6sBOqtrKwXeYCB7rv) | 2:45 | 2022-09-16 |  |
+| [Eine Kleine Nachtmusik](https://open.spotify.com/track/2XDlcivRrN2RZ4M1Tr1Gnc) | [Megaraptor](https://open.spotify.com/artist/1I98HSdBKIcRpCmd839ZyA) | [Eine Kleine Nachtmusik](https://open.spotify.com/album/2CJDx6sBOqtrKwXeYCB7rv) | 2:45 | 2022-09-16 | 2022-10-08 |
 | [Electric Sun](https://open.spotify.com/track/1Lut7VOwl82gWkLuBrKGo6) | [Abnormal Thought Patterns](https://open.spotify.com/artist/5b8wRjxaDeV24tdTzSjM4F) | [Abnormal Thought Patterns](https://open.spotify.com/album/3jEOakH8OYOaEZm8pZTNsk) | 5:10 | 2022-07-13 | 2022-07-27 |
 | [Empire](https://open.spotify.com/track/6oOZSrzBB2QTSRY3qoWaYy) | [Memoremains](https://open.spotify.com/artist/59YzmPPL4s9KUfV4kqWYS1) | [Pop Metal](https://open.spotify.com/album/3chKNZRdtp9IFFIgzYIWoz) | 3:11 | 2022-06-17 |  |
 | [Empire of Oppression](https://open.spotify.com/track/09N6uBQMVshys8RmezKkRx) | [Syberia](https://open.spotify.com/artist/6kCPpsg07MsL7lm6tWzyCY) | [Empire of Oppression](https://open.spotify.com/album/7iX7NtfolSJlCXJB7Llyui) | 6:07 | 2022-07-13 | 2022-07-29 |
@@ -137,7 +137,7 @@
 | [Enemy](https://open.spotify.com/track/6NoaIMlVxsNzwziVODH3XZ) | [Swallow The Sun](https://open.spotify.com/artist/0ulKlNlo0iPx5ZS6VMTHWQ) | [Enemy](https://open.spotify.com/album/4BIUjZYmWfSKRaDDTpHgqR) | 5:39 | 2021-10-23 | 2022-04-23 |
 | [Enigma](https://open.spotify.com/track/52gzNPad3WisbdXbQXjOTI) | [Anup Sastry](https://open.spotify.com/artist/0sCAofrHFyDFPxXA0B7a86) | [Bloom](https://open.spotify.com/album/0s6kzaBapgLEaTrEv1wmz8) | 3:27 | 2022-07-13 | 2022-07-15 |
 | [Ennen](https://open.spotify.com/track/0HpZjIABarod86IOpju4Ll) | [Korpiklaani](https://open.spotify.com/artist/521Yl3LUvD7G9dMRO4fpCy) | [Ennen](https://open.spotify.com/album/4Vv3Kw6ag2PSPmuhIJJVrm) | 2:28 | 2021-09-04 | 2022-05-07 |
-| [Epitaph](https://open.spotify.com/track/0EmDq2qJzPbyAP24MowcEq) | [Moonshade](https://open.spotify.com/artist/4K8ETf2R1Gs7fz5y21CTTN) | [Epitaph](https://open.spotify.com/album/67HLuJLje712aP4z6CGlIJ) | 4:11 | 2022-04-08 |  |
+| [Epitaph](https://open.spotify.com/track/0EmDq2qJzPbyAP24MowcEq) | [Moonshade](https://open.spotify.com/artist/4K8ETf2R1Gs7fz5y21CTTN) | [Epitaph](https://open.spotify.com/album/67HLuJLje712aP4z6CGlIJ) | 4:11 | 2022-04-08 | 2022-10-06 |
 | [Eraser](https://open.spotify.com/track/3Hvg1cYUnHxKr6BJBKLq6S) | [pg.lost](https://open.spotify.com/artist/6YK58h9BCYpFNv10fsMwoS) | [Oscillate](https://open.spotify.com/album/1nsHYACVLo93RusBYHmPXV) | 8:30 | 2022-07-13 | 2022-07-30 |
 | [Erin](https://open.spotify.com/track/5RUc1zzX8MQDcT89JBSH23) | [The Omnific](https://open.spotify.com/artist/5yn8jrJH5Z5PaGFStNUvgR) | [Erin](https://open.spotify.com/album/4o1K1abnEausAip11P4OM1) | 3:20 | 2022-07-13 | 2022-07-30 |
 | [Escape the Silence](https://open.spotify.com/track/7zcTurWu11xVY7MGfjPvaH) | [Brainstorm](https://open.spotify.com/artist/6IlOclSCHgJ9Aix6QEktkO), [Peavy Wagner](https://open.spotify.com/artist/4TUo5Xawcuzz69DKWl91v8) | [Escape the Silence](https://open.spotify.com/album/1iu2v0huz5qp6NVq8qdtza) | 4:23 | 2021-05-14 | 2021-06-25 |
@@ -486,6 +486,7 @@
 | [Whiteworm](https://open.spotify.com/track/6iY9AS4wKGbUCDyxAjWICR) | [Marty Friedman](https://open.spotify.com/artist/5czW6bitDSKbNBNDizRT9p) | [Wall of Sound](https://open.spotify.com/album/0zLXtoeV4X9Pa70507bbFf) | 4:35 | 2022-07-13 | 2022-07-30 |
 | [Who Am I?](https://open.spotify.com/track/1LKatUdpTgcqWNfMm3XprZ) | [DAMPF](https://open.spotify.com/artist/0S3PwQ8ImA3ORcNpYsG6my) | [Who Am I?](https://open.spotify.com/album/6plpyLilJlVK607mkW5cJ3) | 3:53 | 2022-05-13 |  |
 | [Wings of Fire](https://open.spotify.com/track/6OWQLU8zkE7ph047jVwt1i) | [Running Wild](https://open.spotify.com/artist/7954VFaZClkL503srfV5PE) | [Blood on Blood](https://open.spotify.com/album/1OLRjNNIkMhGXRsAa3VSDD) | 3:59 | 2021-10-29 | 2022-05-28 |
+| [Winter Is Coming](https://open.spotify.com/track/1BPFrXiyrInaCIWkuvVRny) | [Beyond The Black](https://open.spotify.com/artist/6swnqiL41Bd4gO2fnAXXrf) | [Winter Is Coming](https://open.spotify.com/album/1tWfmRuAlcjVu4utHgy3fN) | 4:37 | 2022-10-07 |  |
 | [Wired For Madness, Pt\. 1.1 \(Bring It On\)](https://open.spotify.com/track/5Gdgx8sxajwAUykuwha8dj) | [Jordan Rudess](https://open.spotify.com/artist/1eAj0NmIiXgqpy5aN4GlsS) | [Wired For Madness, Pt\. 1](https://open.spotify.com/album/551YLCPFOY6gkn8Yy2pj5i) | 5:20 | 2022-07-13 | 2022-07-26 |
 | [Wired For Madness, Pt\. 1.1 \(Bring It On\)](https://open.spotify.com/track/5mjPofHP2uRZx8IqXs2cki) | [Jordan Rudess](https://open.spotify.com/artist/1eAj0NmIiXgqpy5aN4GlsS) | [Wired For Madness](https://open.spotify.com/album/4qHmxRDBpZ1JnHfVBsu82F) | 5:20 | 2022-07-13 | 2022-07-30 |
 | [Witch House](https://open.spotify.com/track/0RoJGJA3g0Oop7xDfsbTw9) | [Scale The Summit](https://open.spotify.com/artist/16Uqo1jjtPiKI4zU1Ficgb), [Angel Vivaldi](https://open.spotify.com/artist/4IvneyseUnh42KeTx1icxK) | [In a World of Fear](https://open.spotify.com/album/1svX5NjgJMiqEL6ZLvJD0T) | 4:45 | 2022-07-13 | 2022-07-22 |

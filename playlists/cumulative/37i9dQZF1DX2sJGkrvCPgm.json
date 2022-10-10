@@ -977,7 +977,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 181052,
       "name": "Christmas Lights",
       "url": "https://open.spotify.com/track/2JApOkyG5QGrn0luyAAUDz"
@@ -995,7 +995,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 314480,
       "name": "Christmas Offering",
       "url": "https://open.spotify.com/track/5fJszr03uVM8V6P3Ek3gce"
@@ -1893,7 +1893,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 271769,
       "name": "He Comes",
       "url": "https://open.spotify.com/track/0lYkt2IT6tsgccbVjKXTOf"
@@ -3865,7 +3865,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-05",
       "duration_ms": 212802,
       "name": "Silent Night",
       "url": "https://open.spotify.com/track/2pG1HDAy394Fuq7KMuCpFf"
@@ -3985,6 +3985,24 @@
       "duration_ms": 85720,
       "name": "Star of Wonder",
       "url": "https://open.spotify.com/track/1LpLEqamxX9UzruiSL8MYp"
+    },
+    {
+      "album": {
+        "name": "O Holy Night",
+        "url": "https://open.spotify.com/album/5uo3AWPImc2lqOqE64Vf59"
+      },
+      "artists": [
+        {
+          "name": "Sara Groves",
+          "url": "https://open.spotify.com/artist/25Kfw0CRHgjl9oCgMfEYz7"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 85720,
+      "name": "Star Of Wonder",
+      "url": "https://open.spotify.com/track/1Zww1Z4sl3q2pWhkIa8nFg"
     },
     {
       "album": {
@@ -4675,7 +4693,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-21",
+      "date_removed": null,
       "duration_ms": 249720,
       "name": "What Child Is This (Christ the King)",
       "url": "https://open.spotify.com/track/1ToNr7zmERGSpLetXvWF0R"

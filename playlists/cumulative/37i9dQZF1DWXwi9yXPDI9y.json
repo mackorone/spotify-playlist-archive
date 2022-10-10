@@ -59,7 +59,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 198360,
       "name": "All Of Me",
       "url": "https://open.spotify.com/track/0f2HoOAhmbJdO26eZGLqIV"
@@ -135,7 +135,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-27",
+      "date_removed": null,
       "duration_ms": 164826,
       "name": "Am I Blue? - Take 2",
       "url": "https://open.spotify.com/track/59KkICr2P3gksRXtukBrIX"
@@ -1370,6 +1370,24 @@
     },
     {
       "album": {
+        "name": "After Glow",
+        "url": "https://open.spotify.com/album/6ip7LJNKry1lGgpfklpxFC"
+      },
+      "artists": [
+        {
+          "name": "Carmen McRae",
+          "url": "https://open.spotify.com/artist/2E3nXyfocf7qfHAIFNbBuj"
+        }
+      ],
+      "date_added": "2022-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260546,
+      "name": "My Funny Valentine",
+      "url": "https://open.spotify.com/track/1IZc3qoaLTUY5pGiygza3h"
+    },
+    {
+      "album": {
         "name": "I Remember Miles",
         "url": "https://open.spotify.com/album/0hGqrIcYgj6l11MAbmJEmd"
       },
@@ -1501,7 +1519,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-06",
       "duration_ms": 208240,
       "name": "Over the Rainbow",
       "url": "https://open.spotify.com/track/0DqB9KMQnDf9ntG2YdZvUi"
@@ -1627,7 +1645,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-06",
       "duration_ms": 213133,
       "name": "Somebody Loves Me",
       "url": "https://open.spotify.com/track/30VONnonLwftL8WeCopyLt"
@@ -1905,7 +1923,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-22",
+      "date_removed": null,
       "duration_ms": 154306,
       "name": "There Is No Greater Love",
       "url": "https://open.spotify.com/track/0mcL5G9Bf8SSzqpuQQm1bI"
@@ -2267,7 +2285,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-06",
       "duration_ms": 191040,
       "name": "Trav'lin' Light",
       "url": "https://open.spotify.com/track/1ROntzeztBMrLwY6aMAR61"
@@ -2429,7 +2447,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-01",
+      "date_removed": null,
       "duration_ms": 311960,
       "name": "You Better Go Now",
       "url": "https://open.spotify.com/track/064J1edY5qOTLlWqhDScD5"

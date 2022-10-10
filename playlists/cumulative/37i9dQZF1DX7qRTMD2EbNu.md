@@ -4,7 +4,7 @@
 
 > Hottest bars coming live from the 233\.  Cover: <a href="https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ?si=zv6dGmNSTqirkovP3X51iQ"> Black Sherif</a>
 
-75 songs - 3 hr 55 min - not published yet
+75 songs - 3 hr 55 min - [published](https://open.spotify.com/playlist/1DNOYlQCXHEP1xefjAcAjP)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -116,6 +116,24 @@
     },
     {
       "album": {
+        "name": "Mistaken Identity",
+        "url": "https://open.spotify.com/album/3iMwQk5yE0UDDKbLCdcxZA"
+      },
+      "artists": [
+        {
+          "name": "Kim Carnes",
+          "url": "https://open.spotify.com/artist/5PN2aHIvLEM98XIorsPMhE"
+        }
+      ],
+      "date_added": "2022-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228000,
+      "name": "Bette Davis Eyes",
+      "url": "https://open.spotify.com/track/0odIT9B9BvOCnXfS0e4lB5"
+    },
+    {
+      "album": {
         "name": "Bette Davis Eyes",
         "url": "https://open.spotify.com/album/2Jmuuw5ff8gAGAP6B1yKKJ"
       },
@@ -127,7 +145,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-06",
       "duration_ms": 224693,
       "name": "Bette Davis Eyes - Re-Recorded",
       "url": "https://open.spotify.com/track/0kPeymTUiaidv48eRrMISu"

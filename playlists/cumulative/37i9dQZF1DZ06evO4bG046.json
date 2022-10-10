@@ -116,6 +116,24 @@
     },
     {
       "album": {
+        "name": "Hijos de la Tierra",
+        "url": "https://open.spotify.com/album/39aqZbT6zd0UYsI6VFtyJZ"
+      },
+      "artists": [
+        {
+          "name": "Los Jaivas",
+          "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
+        }
+      ],
+      "date_added": "2022-10-04",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-06",
+      "duration_ms": 587266,
+      "name": "Bosques Virginales",
+      "url": "https://open.spotify.com/track/3B9Ld3SEdRplZ15L5nCoOo"
+    },
+    {
+      "album": {
         "name": "Serie De Oro",
         "url": "https://open.spotify.com/album/7A7yT68R727jeKLxPOAiRj"
       },
@@ -199,7 +217,7 @@
       ],
       "date_added": "2022-09-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-02",
+      "date_removed": null,
       "duration_ms": 302560,
       "name": "Cholito Pantal\u00f3n Blanco",
       "url": "https://open.spotify.com/track/3OjqJR8bOY1yNiBGt5iJaV"
@@ -271,7 +289,7 @@
       ],
       "date_added": "2022-09-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-02",
+      "date_removed": null,
       "duration_ms": 136560,
       "name": "Del Aire al Aire",
       "url": "https://open.spotify.com/track/7r9AY06MM9VFmqrnIpzWse"
@@ -379,7 +397,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 156840,
       "name": "Final",
       "url": "https://open.spotify.com/track/5zoXo9EwMCYbcBMpHFE9li"
@@ -491,7 +509,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-09",
       "duration_ms": 361533,
       "name": "Indio Hermano (Versi\u00f3n 1996)",
       "url": "https://open.spotify.com/track/5L55AmtdsVfoik6jLkzkvV"
@@ -741,6 +759,24 @@
       "duration_ms": 317786,
       "name": "Pregon Para Iluminarse",
       "url": "https://open.spotify.com/track/3AMth1gnz9PbQnEfUVZbp2"
+    },
+    {
+      "album": {
+        "name": "Si T\u00fa No Est\u00e1s",
+        "url": "https://open.spotify.com/album/0kGRBbp77zJZjR6SUOGDo2"
+      },
+      "artists": [
+        {
+          "name": "Los Jaivas",
+          "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
+        }
+      ],
+      "date_added": "2022-10-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-07",
+      "duration_ms": 254973,
+      "name": "P\u00e1jaro Errante",
+      "url": "https://open.spotify.com/track/0oNeWVEmDu8GDClUK0AXRS"
     },
     {
       "album": {

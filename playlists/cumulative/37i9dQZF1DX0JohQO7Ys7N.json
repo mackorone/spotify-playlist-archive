@@ -1590,6 +1590,24 @@
     },
     {
       "album": {
+        "name": "Legacy",
+        "url": "https://open.spotify.com/album/1RJZeNA3Awf8RBHPqQ9Cha"
+      },
+      "artists": [
+        {
+          "name": "Papa",
+          "url": "https://open.spotify.com/artist/3yhUYybUxwJn1or7zHXWHy"
+        }
+      ],
+      "date_added": "2022-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149690,
+      "name": "sorry it didn't work out",
+      "url": "https://open.spotify.com/track/2C7AVrBA3vu2mg1zBu0pHk"
+    },
+    {
+      "album": {
         "name": "sorry it didn't work out",
         "url": "https://open.spotify.com/album/5BP6SX5xnt4qvitpCBVKJw"
       },
@@ -1601,7 +1619,7 @@
       ],
       "date_added": "2022-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-09",
       "duration_ms": 149690,
       "name": "sorry it didn't work out",
       "url": "https://open.spotify.com/track/4fhWjpuQMX2JelLPLhTm0a"

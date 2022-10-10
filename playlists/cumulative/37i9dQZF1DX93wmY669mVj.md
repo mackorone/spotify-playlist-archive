@@ -4,7 +4,7 @@
 
 > Explore the music of Franz Liszt.
 
-102 songs - 15 hr 0 min - [published](https://open.spotify.com/playlist/4ld6KBRsJTUukEy8BzbdXO)
+103 songs - 15 hr 6 min - [published](https://open.spotify.com/playlist/4ld6KBRsJTUukEy8BzbdXO)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,7 +94,8 @@
 | [Troisième année S.163: III.Les jeux d'eau de la Villa d'Este](https://open.spotify.com/track/4YUQCUPZZrEA4PySXP40gQ) | [Franz Liszt](https://open.spotify.com/artist/1385hLNbrnbCJGokfH2ac2), [Bertrand Chamayou](https://open.spotify.com/artist/28Bn2PxtmXD8UbBSM968Fp) | [Liszt: Intégrale des années de pélerinage](https://open.spotify.com/album/3YXLEqHOnEjikyFP8FZtYx) | 8:20 | 2021-08-26 | 2022-07-29 |
 | [Unstern! \-Sinistre , S208](https://open.spotify.com/track/0N4sQWENULr0EHhYWDfRw1) | [Franz Liszt](https://open.spotify.com/artist/1385hLNbrnbCJGokfH2ac2), [Pierre\-Laurent Aimard](https://open.spotify.com/artist/0wy0KtAlsZ59mEgtmEjuUk) | [The Liszt Project \- Bartók; Berg; Messiaen; Ravel; Scriabin; Stroppa; Wagner](https://open.spotify.com/album/3RgXHfxrJinj7TJEK2zjeM) | 6:03 | 2021-08-26 | 2022-07-29 |
 | [Unstern! \-Sinistre , S208](https://open.spotify.com/track/16a5AZugitkbqukRT6wXAQ) | [Franz Liszt](https://open.spotify.com/artist/1385hLNbrnbCJGokfH2ac2), [Pierre\-Laurent Aimard](https://open.spotify.com/artist/0wy0KtAlsZ59mEgtmEjuUk) | [The Liszt Project \- Bartók; Berg; Messiaen; Ravel; Scriabin; Stroppa; Wagner](https://open.spotify.com/album/2wPExAXASG4ICQGfzxowCi) | 6:03 | 2022-07-22 | 2022-10-02 |
-| [Unstern! \-Sinistre , S208](https://open.spotify.com/track/5jQGr0npaGbloMggiJLIEY) | [Franz Liszt](https://open.spotify.com/artist/1385hLNbrnbCJGokfH2ac2), [Pierre\-Laurent Aimard](https://open.spotify.com/artist/0wy0KtAlsZ59mEgtmEjuUk) | [A Classical Dawn: Liszt](https://open.spotify.com/album/7f0P02alyNnUbY2uIKQQLb) | 6:03 | 2022-08-05 |  |
+| [Unstern! \-Sinistre , S208](https://open.spotify.com/track/5jQGr0npaGbloMggiJLIEY) | [Franz Liszt](https://open.spotify.com/artist/1385hLNbrnbCJGokfH2ac2), [Pierre\-Laurent Aimard](https://open.spotify.com/artist/0wy0KtAlsZ59mEgtmEjuUk) | [A Classical Dawn: Liszt](https://open.spotify.com/album/7f0P02alyNnUbY2uIKQQLb) | 6:03 | 2022-08-05 | 2022-10-09 |
+| [Unstern! \-Sinistre , S208](https://open.spotify.com/track/6YlNhEvvgM4SL6soJZ43DH) | [Franz Liszt](https://open.spotify.com/artist/1385hLNbrnbCJGokfH2ac2), [Pierre\-Laurent Aimard](https://open.spotify.com/artist/0wy0KtAlsZ59mEgtmEjuUk) | [An Evening of Classical: Liszt](https://open.spotify.com/album/1UXL1hZBO9eo2l9IMssiGD) | 6:03 | 2022-08-05 |  |
 | [Valses oubliées, S\. 215: No\. 1, —](https://open.spotify.com/track/4ZD8KtkiNJI9Jh4joc7gFA) | [Franz Liszt](https://open.spotify.com/artist/1385hLNbrnbCJGokfH2ac2), [Goran Filipec](https://open.spotify.com/artist/0ay4ca3yOhNIRsqKvq2RCW) | [Liszt: Dances](https://open.spotify.com/album/07yv6Mkf1csfdMMm3jtctx) | 2:46 | 2021-08-26 | 2022-07-29 |
 | [Valses oubliées, S\. 215: No\. 1, —](https://open.spotify.com/track/6DbLVTGeYkWTZzHuxxv8nt) | [Franz Liszt](https://open.spotify.com/artist/1385hLNbrnbCJGokfH2ac2), [Goran Filipec](https://open.spotify.com/artist/0ay4ca3yOhNIRsqKvq2RCW) | [Liszt: Dances](https://open.spotify.com/album/0f1VHJdctiGEmL7QJmd4sS) | 2:46 | 2022-07-22 |  |
 | [Variations on the motif "Weinen, klagen, sorgen, zagen", S180/R24](https://open.spotify.com/track/2ohGSOM9bH4EBFS78WRkqI) | [Franz Liszt](https://open.spotify.com/artist/1385hLNbrnbCJGokfH2ac2), [Andreas Rothkopf](https://open.spotify.com/artist/0hnMgiCtTo1ncfRbDpLNd7) | [Liszt: Organ Works, Vol\. 1](https://open.spotify.com/album/3cpSJhv3Ydd0vGU27WoxFB) | 19:27 | 2022-07-22 |  |

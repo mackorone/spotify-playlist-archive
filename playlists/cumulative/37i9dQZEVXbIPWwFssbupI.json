@@ -469,7 +469,7 @@
       ],
       "date_added": "2022-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-03",
       "duration_ms": 167866,
       "name": "A la mode",
       "url": "https://open.spotify.com/track/5FZYRhf3SNsQuHmP83DldK"
@@ -487,7 +487,7 @@
       ],
       "date_added": "2022-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-03",
       "duration_ms": 175754,
       "name": "A tout \u00e0 l'heure",
       "url": "https://open.spotify.com/track/14nd5q1v6c7HsRVwWTAxyN"
@@ -829,7 +829,7 @@
       ],
       "date_added": "2022-08-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-02",
+      "date_removed": "2022-10-08",
       "duration_ms": 166746,
       "name": "Allez dehors",
       "url": "https://open.spotify.com/track/2YGtFjsTpSrsGb2rQy4ARj"
@@ -1057,7 +1057,7 @@
       ],
       "date_added": "2022-09-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-28",
+      "date_removed": null,
       "duration_ms": 244360,
       "name": "Another Love",
       "url": "https://open.spotify.com/track/7jtQIBanIiJOMS6RyCx6jZ"
@@ -1687,7 +1687,7 @@
       ],
       "date_added": "2022-07-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-02",
+      "date_removed": null,
       "duration_ms": 160421,
       "name": "Baila Pa Mi",
       "url": "https://open.spotify.com/track/2GS9AEoOjgbztBfIbCJ2mr"
@@ -1807,7 +1807,7 @@
       ],
       "date_added": "2022-04-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-02",
+      "date_removed": null,
       "duration_ms": 206070,
       "name": "Bam Bam (feat. Ed Sheeran)",
       "url": "https://open.spotify.com/track/2DB4DdfCFMw1iaR6JaR03a"
@@ -2039,7 +2039,7 @@
       ],
       "date_added": "2022-07-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-10",
+      "date_removed": "2022-10-09",
       "duration_ms": 138786,
       "name": "BECTE",
       "url": "https://open.spotify.com/track/0Fqpx84jq1cK3pDtPvTFyM"
@@ -3891,7 +3891,7 @@
       ],
       "date_added": "2022-06-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-28",
+      "date_removed": null,
       "duration_ms": 232373,
       "name": "Coup de vieux",
       "url": "https://open.spotify.com/track/63siBeZzxXVaY0uASns1V2"
@@ -4081,6 +4081,24 @@
       "duration_ms": 278746,
       "name": "Crystal",
       "url": "https://open.spotify.com/track/2Hkj54nCgTnGOqJ3DslNQJ"
+    },
+    {
+      "album": {
+        "name": "RENAISSANCE",
+        "url": "https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb"
+      },
+      "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        }
+      ],
+      "date_added": "2022-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225388,
+      "name": "CUFF IT",
+      "url": "https://open.spotify.com/track/1xzi1Jcr7mEi9K2RfzLOqS"
     },
     {
       "album": {
@@ -4381,7 +4399,7 @@
       ],
       "date_added": "2022-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-03",
       "duration_ms": 182608,
       "name": "Dans ma t\u00eate",
       "url": "https://open.spotify.com/track/7kkqPU6MK4JcPebaDEg9QV"
@@ -4425,7 +4443,7 @@
       ],
       "date_added": "2022-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-03",
       "duration_ms": 156912,
       "name": "Dans nos blocks",
       "url": "https://open.spotify.com/track/1nVM3VSyr53sTjrWnwSXWE"
@@ -5679,7 +5697,7 @@
       ],
       "date_added": "2022-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 214000,
       "name": "Encore une fois (Maman)",
       "url": "https://open.spotify.com/track/3fWhjGSW3jCVL6uLfl6Qlm"
@@ -6821,7 +6839,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-04",
       "duration_ms": 240693,
       "name": "Gangsta's Paradise",
       "url": "https://open.spotify.com/track/1DIXPcTDzTj8ZMHt3PDt8p"
@@ -7385,7 +7403,7 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-09",
       "duration_ms": 178866,
       "name": "Hasarder",
       "url": "https://open.spotify.com/track/6V40xLcDlYwZpz3oKIVNhL"
@@ -9135,7 +9153,7 @@
       ],
       "date_added": "2022-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-03",
       "duration_ms": 138030,
       "name": "La beuh",
       "url": "https://open.spotify.com/track/5vv0ZW6DSpbVmoXP4VfdL9"
@@ -9295,7 +9313,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-27",
+      "date_removed": null,
       "duration_ms": 221149,
       "name": "La goffa Lolita",
       "url": "https://open.spotify.com/track/32ujt0CBVLsFyQtAhVk7WN"
@@ -9559,7 +9577,7 @@
       ],
       "date_added": "2021-10-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-02",
+      "date_removed": null,
       "duration_ms": 193443,
       "name": "La vie qu'on m\u00e8ne",
       "url": "https://open.spotify.com/track/0Jh6iWjna1wk5le0Ahn7No"
@@ -9653,7 +9671,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-02",
+      "date_removed": null,
       "duration_ms": 172342,
       "name": "Last Last",
       "url": "https://open.spotify.com/track/5YbPxJwPfrj7uswNwoF1pJ"
@@ -10135,7 +10153,7 @@
       ],
       "date_added": "2022-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-03",
       "duration_ms": 203067,
       "name": "Les fr\u00e8res",
       "url": "https://open.spotify.com/track/5hgcfNLhMD81mx1DTJVeXp"
@@ -10531,6 +10549,42 @@
       "duration_ms": 344720,
       "name": "Loi de la calle",
       "url": "https://open.spotify.com/track/4Fp9Nwi6lTpMC63igc9U0Z"
+    },
+    {
+      "album": {
+        "name": "Lola",
+        "url": "https://open.spotify.com/album/5ERCsLDY5NZsahMBKE6WFW"
+      },
+      "artists": [
+        {
+          "name": "RK",
+          "url": "https://open.spotify.com/artist/2s7fZ34RK8RUJQ2ewsh6I5"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-09",
+      "duration_ms": 146118,
+      "name": "Lola",
+      "url": "https://open.spotify.com/track/15Cdh1RxOdlaFUm24ifnKH"
+    },
+    {
+      "album": {
+        "name": "Mentalit\u00e9 (Part.1)",
+        "url": "https://open.spotify.com/album/1fLfmnXNbu9crr25QC3esR"
+      },
+      "artists": [
+        {
+          "name": "RK",
+          "url": "https://open.spotify.com/artist/2s7fZ34RK8RUJQ2ewsh6I5"
+        }
+      ],
+      "date_added": "2022-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146133,
+      "name": "Lola",
+      "url": "https://open.spotify.com/track/43vjYTKZg8R5LsuITJ4wVu"
     },
     {
       "album": {
@@ -11959,7 +12013,7 @@
       ],
       "date_added": "2022-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-09",
       "duration_ms": 192920,
       "name": "Mode AV (feat. Niska & Gazo)",
       "url": "https://open.spotify.com/track/5b8HD1dJDuPawgS5FjSC2q"
@@ -12703,7 +12757,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-20",
+      "date_removed": "2022-10-04",
       "duration_ms": 223173,
       "name": "Nazareno",
       "url": "https://open.spotify.com/track/0RGpd5zCowfEItCUF7Itpr"
@@ -14101,7 +14155,7 @@
       ],
       "date_added": "2022-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-07",
       "duration_ms": 190373,
       "name": "Plus belle la vie, plus belle la mort",
       "url": "https://open.spotify.com/track/79MRbiyZFHSPDQkezu3DeM"
@@ -15915,7 +15969,7 @@
       ],
       "date_added": "2022-09-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-02",
+      "date_removed": "2022-10-09",
       "duration_ms": 156862,
       "name": "Selfie",
       "url": "https://open.spotify.com/track/7pZayfJlwlHulmzt0xUN9m"
@@ -16089,7 +16143,7 @@
       ],
       "date_added": "2022-09-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-13",
+      "date_removed": null,
       "duration_ms": 190883,
       "name": "Sharks",
       "url": "https://open.spotify.com/track/7sA2SKTo1QbTSSYn5YvJC4"
@@ -16677,7 +16731,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-27",
+      "date_removed": null,
       "duration_ms": 148064,
       "name": "SUPERMODEL",
       "url": "https://open.spotify.com/track/63WuQOXohQIxOxIFA2K7bR"
@@ -17429,7 +17483,7 @@
       ],
       "date_added": "2022-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-03",
       "duration_ms": 141204,
       "name": "Toujours +",
       "url": "https://open.spotify.com/track/5jceHfkyTOUMFmcZaxfV8t"
@@ -17549,7 +17603,7 @@
       ],
       "date_added": "2022-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-03",
       "duration_ms": 96297,
       "name": "Trafic",
       "url": "https://open.spotify.com/track/0ztoHvOaAfkIUQyDvKpRff"
@@ -17661,6 +17715,24 @@
       "duration_ms": 168373,
       "name": "Trompeta",
       "url": "https://open.spotify.com/track/181AxLRTyYh9WUxEjmJt1Y"
+    },
+    {
+      "album": {
+        "name": "Jeannine",
+        "url": "https://open.spotify.com/album/0n4P6BsuT61HgsKExU0i1R"
+      },
+      "artists": [
+        {
+          "name": "Lomepal",
+          "url": "https://open.spotify.com/artist/1Yfe3ONJlioHys7jwHdfVm"
+        }
+      ],
+      "date_added": "2022-10-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-05",
+      "duration_ms": 244586,
+      "name": "Trop beau",
+      "url": "https://open.spotify.com/track/4WB9OeauHXnGOMUK4s80gM"
     },
     {
       "album": {
@@ -18207,7 +18279,7 @@
       ],
       "date_added": "2022-06-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-02",
+      "date_removed": null,
       "duration_ms": 241160,
       "name": "Vamos",
       "url": "https://open.spotify.com/track/5QowMIujytktMDC8pktNXH"
@@ -18405,7 +18477,7 @@
       ],
       "date_added": "2021-12-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-02",
+      "date_removed": null,
       "duration_ms": 187027,
       "name": "VVS",
       "url": "https://open.spotify.com/track/5S12Ds2RswM2ITC0u1J01f"

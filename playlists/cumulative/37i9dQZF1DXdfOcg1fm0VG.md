@@ -4,7 +4,7 @@
 
 > Double\-jump into these legendary video game soundtracks, featuring old favorites and new classics.
 
-126 songs - 7 hr 13 min - [published](https://open.spotify.com/playlist/6QDrYjPydAImw8FyOhDXlM)
+127 songs - 7 hr 17 min - [published](https://open.spotify.com/playlist/6QDrYjPydAImw8FyOhDXlM)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,7 +48,8 @@
 | [Finding the Pattern](https://open.spotify.com/track/4u2qyRFTBYm3Se02t0Ki7d) | [Jessica Curry](https://open.spotify.com/artist/7maqsg42XWKV2TOwesH5YF) | [Everybody's Gone to the Rapture \(Original Soundtrack\)](https://open.spotify.com/album/0gmge9DFfEc5VSi87yiXyM) | 4:00 | 2021-12-15 |  |
 | [First Steps](https://open.spotify.com/track/03EyMyy76ZYLUh3lvGrNgE) | [Lena Raine](https://open.spotify.com/artist/3Ww8GMbCDMAGwJJ2hd7z7z) | [Celeste \(Original Soundtrack\)](https://open.spotify.com/album/5OZHQ7KG8k04IOkF50fACO) | 3:38 | 2021-12-15 | 2022-07-29 |
 | [First Steps](https://open.spotify.com/track/4MsC3bu5B8WQGHQjOoH2NG) | [Lena Raine](https://open.spotify.com/artist/3Ww8GMbCDMAGwJJ2hd7z7z) | [Celeste \(Original Soundtrack\)](https://open.spotify.com/album/1ZfETfec0U02KrKNI8w3Gf) | 3:38 | 2022-07-27 |  |
-| [Flame of Hope](https://open.spotify.com/track/1by9jxofwB9YKUqOqqOzZM) | [Motoi Sakuraba](https://open.spotify.com/artist/1DdhScDGl9AceKnbvgkFgz) | [Tales of Arise \(Original Game Soundtrack\)](https://open.spotify.com/album/4It1n0UCx3YTbe0vmWeVdS) | 3:51 | 2022-09-09 |  |
+| [Flame of Hope](https://open.spotify.com/track/2LRj7dos9qXcoMSJZ7E9xy) | [Bandai Namco Game Music](https://open.spotify.com/artist/79TdUM8JBfntiLVLJVTS98), [Motoi Sakuraba](https://open.spotify.com/artist/1DdhScDGl9AceKnbvgkFgz) | [Tales of Arise \(Original Soundtrack\)](https://open.spotify.com/album/74coE6457t07plLwF26Bmo) | 3:51 | 2022-09-09 |  |
+| [Flame of Hope](https://open.spotify.com/track/1by9jxofwB9YKUqOqqOzZM) | [Motoi Sakuraba](https://open.spotify.com/artist/1DdhScDGl9AceKnbvgkFgz) | [Tales of Arise \(Original Game Soundtrack\)](https://open.spotify.com/album/4It1n0UCx3YTbe0vmWeVdS) | 3:51 | 2022-09-09 | 2022-10-03 |
 | [Further](https://open.spotify.com/track/5SWI7JbAwfTPgs0cuorR7H) | [Brian Tyler](https://open.spotify.com/artist/109FvbnDVNag1UcJDVpFlr), [Serena McKinney](https://open.spotify.com/artist/7gKCfXkWzSIIqF28LtrnsV) | [Far Cry 3 \(Original Game Soundtrack\)](https://open.spotify.com/album/2AxcQVfBSBQzozMlX8yVxv) | 4:04 | 2021-12-15 |  |
 | [Geralt Of Rivia](https://open.spotify.com/track/0Pfdg72l2kQsh4sQHMRSbv) | [Marcin Przybyłowicz](https://open.spotify.com/artist/07vycW8ICLf5hKb22PFWXw) | [The Witcher 3: Wild Hunt \(Original Game Soundtrack\)](https://open.spotify.com/album/5GAHLnlyZGLpOSdYI1tQ3R) | 2:21 | 2021-12-15 | 2022-07-29 |
 | [Geralt Of Rivia](https://open.spotify.com/track/5tmhUzJuP7XwqCHglyqnt8) | [Marcin Przybyłowicz](https://open.spotify.com/artist/07vycW8ICLf5hKb22PFWXw) | [The Witcher 3: Wild Hunt \(Original Game Soundtrack\)](https://open.spotify.com/album/6pYNEn4tMc6gdv5fIZf5yn) | 2:21 | 2022-07-27 |  |

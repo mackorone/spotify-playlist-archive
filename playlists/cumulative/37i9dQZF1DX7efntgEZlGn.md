@@ -4,7 +4,7 @@
 
 > Fresh Gospel tracks to make you move and bop your head in Praise
 
-50 songs - 2 hr 56 min - not published yet
+50 songs - 2 hr 56 min - [published](https://open.spotify.com/playlist/4voCCAakSbdaILEDDIaot8)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

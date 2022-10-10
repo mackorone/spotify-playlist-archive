@@ -2,9 +2,9 @@
 
 ### [Rap québ](https://open.spotify.com/playlist/37i9dQZF1DWTZeTXqKTge4)
 
-> Le meilleur du hip\-hop québécois\. Photo: FREAKEY!, FouKi
+> Le meilleur du hip\-hop québécois\. Photo: MikeZup
 
-278 songs - 14 hr 17 min - [published](https://open.spotify.com/playlist/4D4AEhD54qWlJrQjbPhrFK)
+280 songs - 14 hr 24 min - [published](https://open.spotify.com/playlist/4D4AEhD54qWlJrQjbPhrFK)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [24 Gang](https://open.spotify.com/track/3E8mWggRxk58HIVV7XmjiX) | [JuicemanSF](https://open.spotify.com/artist/7lmOPad5dsOfryNQB2sDay), [Bouldat](https://open.spotify.com/artist/6OJIqTSNa43LsvZmIURNAb), [BangBangCashout](https://open.spotify.com/artist/6ejrJ9lIzqZ7sATdJaC9Uc) | [24 Gang](https://open.spotify.com/album/4Y9U6MyvAVyG4o00p90ap7) | 3:25 | 2022-02-25 | 2022-03-12 |
 | [3 accords](https://open.spotify.com/track/4Hsywq7qnQVsutWBFf8rPZ) | [Fredz](https://open.spotify.com/artist/6vclJnUiJ9D7IW0OP54MFT) | [3 accords](https://open.spotify.com/album/1IsJS2WEY8FGvmVdX0ehQU) | 2:42 | 2022-02-18 | 2022-09-17 |
 | [3 saisons](https://open.spotify.com/track/7qppWvyQ9uw2TPAlHNzp4H) | [Lary Kidd](https://open.spotify.com/artist/1dHfOiwJsDtNzIIrsQgXtX), [Loud](https://open.spotify.com/artist/5DXzQwj6Kgr5kBjVlYdSHo), [20Some](https://open.spotify.com/artist/5XexJCqZgI59ntWjW3p8jQ) | [3 saisons](https://open.spotify.com/album/3hNE9lZZ7U5EQxYCCZh3zT) | 3:33 | 2022-01-07 | 2022-03-05 |
+| [3.5](https://open.spotify.com/track/2yA4AFOcgm7GoBrqzZuFEv) | [Shreez](https://open.spotify.com/artist/0qNrNX9FKJM0ZJFbcbMlMp) | [Je Suis Canicule](https://open.spotify.com/album/4hWU5w4QTHAkB2mXM5PRgn) | 3:44 | 2022-10-07 |  |
 | [300](https://open.spotify.com/track/7r5grL8qyyy0lmujA3pneU) | [Lebza Khey](https://open.spotify.com/artist/6oW3oCa9th1gUBNkI1LnGA), [Cupidon](https://open.spotify.com/artist/5iLIhZFtUFijzNwplwZtlV) | [300](https://open.spotify.com/album/3Z3fXpDs9XqGrHKlbLeAZp) | 2:47 | 2022-01-21 | 2022-04-23 |
 | [3e avenue](https://open.spotify.com/track/1Utqa3AcyGm5qZGek8WxQP) | [Koriass](https://open.spotify.com/artist/4aLij7W6aqtpsRriCSjGLq) | [3e avenue](https://open.spotify.com/album/7F34U28n3S1sT9jkVWcgd9) | 3:28 | 2022-01-07 | 2022-04-02 |
 | [4 Freestyle](https://open.spotify.com/track/7iwVomN3kJh4qTjCAOlZnS) | [Yes Mccan](https://open.spotify.com/artist/4jZA2jnUB8cz6EgOto9sMS) | [4 Freestyle](https://open.spotify.com/album/0N8iFVEWhVVXla6ASyOa2m) | 2:51 | 2022-01-07 | 2022-01-29 |
@@ -145,7 +146,7 @@
 | [Intemporel](https://open.spotify.com/track/14OiYmRva1c3B3mISSC7Qq) | [Le Snake](https://open.spotify.com/artist/3TRNKLRrNrZlb4HGNwgOUL) | [Intemporel](https://open.spotify.com/album/4ZA0qt6TJpYKgEJ5lxVgsi) | 2:24 | 2022-01-07 | 2022-03-05 |
 | [J'ai mon blick](https://open.spotify.com/track/59DFpv1yqfIb32uz8swkqL) | [Cupidon](https://open.spotify.com/artist/5iLIhZFtUFijzNwplwZtlV) | [J'ai mon blick](https://open.spotify.com/album/4fdDkt3jpOBjEqpKEMt150) | 3:32 | 2022-05-20 | 2022-07-23 |
 | [J'ai pas l'time](https://open.spotify.com/track/7oXiWuQPvywjQgKwoVrDY4) | [Rymz](https://open.spotify.com/artist/3dN1EUAKOFCUBPFXRUdqKu) | [J'ai pas l'time](https://open.spotify.com/album/2Ox36Sou25gwtw8wvA6SUN) | 3:50 | 2022-04-29 |  |
-| [J'pas une star 3](https://open.spotify.com/track/1YiMxNMZzvIuaHj5YisHrk) | [Le Ice](https://open.spotify.com/artist/5Tz7QkwRnEvV0MpWhLdDFI), [Salgrimo](https://open.spotify.com/artist/4UV5H3SeSPhlAgXL6JJBsE) | [J'pas une star 3](https://open.spotify.com/album/5UInEQJXXsunFahA3Xd9w6) | 3:05 | 2022-09-30 |  |
+| [J'pas une star 3](https://open.spotify.com/track/1YiMxNMZzvIuaHj5YisHrk) | [Le Ice](https://open.spotify.com/artist/5Tz7QkwRnEvV0MpWhLdDFI), [Salgrimo](https://open.spotify.com/artist/4UV5H3SeSPhlAgXL6JJBsE) | [J'pas une star 3](https://open.spotify.com/album/5UInEQJXXsunFahA3Xd9w6) | 3:05 | 2022-09-30 | 2022-10-08 |
 | [J'suis Une Star](https://open.spotify.com/track/7G2jhgy1zW8p83pl3quwAm) | [White Migz](https://open.spotify.com/artist/2HLKLDXuuQlYM5YxZ21rN8) | [J'suis Une Star](https://open.spotify.com/album/4DSmfUB6ivQRGdtv9HbmGo) | 2:54 | 2022-07-01 | 2022-10-01 |
 | [J'te mentirai pas](https://open.spotify.com/track/1MjqfHQhJezQYPHLoqaYWZ) | [Psycadelick](https://open.spotify.com/artist/1HqB7rrPzpiqR9OMNKfZdE) | [Dis\-leur](https://open.spotify.com/album/04xd8BuUDzp46firHhtOgx) | 2:20 | 2022-03-18 | 2022-09-17 |
 | [Jacuzzi](https://open.spotify.com/track/7w1RLxc7gA8EBcRsWgSOUu) | [Izzy\-S](https://open.spotify.com/artist/76DXtaWMXZQbRZUHkQEdDQ) | [Jacuzzi](https://open.spotify.com/album/4VR3RBzYwMY1WnpiUsfaWt) | 2:43 | 2022-09-09 |  |
@@ -182,6 +183,7 @@
 | [Moitié plein](https://open.spotify.com/track/15tb8Of2C5NujvAYSWyXao) | [Mantisse](https://open.spotify.com/artist/20iPdUZMRpNULtRfv9mJP7) | [Colin\-Maillard](https://open.spotify.com/album/3ndgfqyim4BNv0ATiLLQ7b) | 3:15 | 2022-09-16 |  |
 | [Mon Canon](https://open.spotify.com/track/5SKHYFOQXcLfuh2z1mc2Ck) | [Izzy\-S](https://open.spotify.com/artist/76DXtaWMXZQbRZUHkQEdDQ) | [Mon Canon](https://open.spotify.com/album/04H677dyIFAcFLyTogZnmo) | 2:46 | 2022-07-08 | 2022-10-01 |
 | [Mon Chaw](https://open.spotify.com/track/5TOn3TDdaQhx9MAFJsw2dx) | [Doug & Jeff](https://open.spotify.com/artist/4emZH10SLlSZFIzVnot3q7) | [Mon Chaw](https://open.spotify.com/album/6LH15PDdq6yI8Mbfr2KlCl) | 2:29 | 2022-08-26 |  |
+| [Monkey See Monkey Do](https://open.spotify.com/track/1nkSM3aKotsIwOgafMpQqQ) | [MikeZup](https://open.spotify.com/artist/3kmw1yvcUhvPD3pDz8hOVk) | [Monkey See Monkey Do](https://open.spotify.com/album/2XHD8IJglSeKL203sKOFkR) | 3:18 | 2022-10-07 |  |
 | [Monnaie](https://open.spotify.com/track/0LIKOSDqVHvvZkBnjaYa2W) | [PETiTOM](https://open.spotify.com/artist/6jdST36R49wOl2Xgy5TOjv) | [PETiTOM](https://open.spotify.com/album/6HXIjuxcjCMm2tBG6HuW5r) | 2:29 | 2022-09-09 | 2022-09-24 |
 | [Monochrome](https://open.spotify.com/track/2Y9DqcZ43ybo06qJoElOR5) | [Guessmi](https://open.spotify.com/artist/1iPrqRhbEuH0BRuIv16zv2) | [Monochrome](https://open.spotify.com/album/37NFf8kkfvIGpOOJlFTGm6) | 2:39 | 2022-04-29 | 2022-05-28 |
 | [Mouiller Le Maillot](https://open.spotify.com/track/3Lhy7t0J2UCHXTk1WhNRp3) | [Loussa](https://open.spotify.com/artist/66JV0RT5jJXASMORQJCuEv) | [Mouiller Le Maillot](https://open.spotify.com/album/1zcoFvG57xznifvJA3MqPm) | 2:58 | 2022-01-14 | 2022-07-30 |
@@ -260,7 +262,7 @@
 | [Sous les étoiles](https://open.spotify.com/track/2kkkIDj5jtz0Owk7FbLH7d) | [Gnino](https://open.spotify.com/artist/03sPkUqjLbCXdxu3e46T3H) | [Sous les étoiles](https://open.spotify.com/album/2ww313PwiVn6jHoWG4Z8yb) | 3:24 | 2022-01-07 | 2022-01-15 |
 | [Sur ma tête](https://open.spotify.com/track/44Oh92jkTz1Wwjvn3ljR69) | [Dirty S](https://open.spotify.com/artist/3uCVM65wRFP6MB5i44HybA) | [Sur ma tête](https://open.spotify.com/album/24oeB4y5KtvehmuKPFLGQh) | 2:18 | 2022-07-25 |  |
 | [SUR MA VIE](https://open.spotify.com/track/2dy5GvWNBz0wFVmrckMRMD) | [David Campana](https://open.spotify.com/artist/0yVnVpHr5djmPUqPtg3efc), [Shah Frank](https://open.spotify.com/artist/02CC6FGDalkdCUBJXAgjc8) | [SUR MA VIE](https://open.spotify.com/album/5gYnlOWSyq1vj0lxMDnFB9) | 2:48 | 2022-03-18 | 2022-04-09 |
-| [Top](https://open.spotify.com/track/7L25Tg4Jxxk1Q5tS59QfUB) | [Shreez](https://open.spotify.com/artist/0qNrNX9FKJM0ZJFbcbMlMp), [FouKi](https://open.spotify.com/artist/3IMC79WXhjXUkDHhpsSN8n) | [Top](https://open.spotify.com/album/5CyS1dpJOA6CAts78IybcG) | 4:01 | 2022-07-29 |  |
+| [Top](https://open.spotify.com/track/7L25Tg4Jxxk1Q5tS59QfUB) | [Shreez](https://open.spotify.com/artist/0qNrNX9FKJM0ZJFbcbMlMp), [FouKi](https://open.spotify.com/artist/3IMC79WXhjXUkDHhpsSN8n) | [Top](https://open.spotify.com/album/5CyS1dpJOA6CAts78IybcG) | 4:01 | 2022-07-29 | 2022-10-08 |
 | [TOUJOU LAKAY](https://open.spotify.com/track/53hOZGibisDj5z7Fq9ePFW) | [David Campana](https://open.spotify.com/artist/0yVnVpHr5djmPUqPtg3efc), [Tows](https://open.spotify.com/artist/0PT0yTrzxUDE7WLZr96qej) | [TOUJOU LAKAY](https://open.spotify.com/album/5hWB7wmExm1ko9U914T8eL) | 3:07 | 2022-01-28 | 2022-02-12 |
 | [Tout c'qu'on connait](https://open.spotify.com/track/6TtAhoS4K18nShC6ggUzXb) | [Joey G](https://open.spotify.com/artist/6p9wdOS2uCLQqiYP1HYeJf), [Brxnsxn](https://open.spotify.com/artist/0U5NHWybzoxuiGX7ZtTaej) | [Trente\-trois](https://open.spotify.com/album/0PqDN5YIGonbe7XyHl1Bky) | 3:07 | 2022-01-07 | 2022-02-19 |
 | [Tout c'que j'connais](https://open.spotify.com/track/6ysi2zSXcx4WjU2gX6Cmcr) | [Shreez](https://open.spotify.com/artist/0qNrNX9FKJM0ZJFbcbMlMp) | [Tout c'que j'connais](https://open.spotify.com/album/5atVuDm8WzCguB6Itn4IyD) | 3:17 | 2022-06-17 | 2022-09-10 |

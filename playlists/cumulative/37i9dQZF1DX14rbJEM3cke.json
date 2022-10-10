@@ -26,6 +26,28 @@
     },
     {
       "album": {
+        "name": "12gauge!",
+        "url": "https://open.spotify.com/album/5BVfws8wnQ9rRmz9RUJOg3"
+      },
+      "artists": [
+        {
+          "name": "Sadfriendd",
+          "url": "https://open.spotify.com/artist/4UT0p3ljEiD472lZp44KLH"
+        },
+        {
+          "name": "Suave Lee",
+          "url": "https://open.spotify.com/artist/5RfBPFjY4Fhgilc3C8cAAg"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 88921,
+      "name": "12gauge!",
+      "url": "https://open.spotify.com/track/5lBXXaxSVZl5p1a5yRxoW9"
+    },
+    {
+      "album": {
         "name": "Life Is Peachy",
         "url": "https://open.spotify.com/album/2b813fSxxzp9lcOfnLrrTH"
       },
@@ -579,7 +601,7 @@
       ],
       "date_added": "2022-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 135295,
       "name": "Come Over",
       "url": "https://open.spotify.com/track/0gTqEEZKoCn53BZAU1A4DG"
@@ -721,7 +743,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 141090,
       "name": "DIRTY WHITE VANS//",
       "url": "https://open.spotify.com/track/51tegOXmUxqJKWMh8l3Oxi"
@@ -815,7 +837,7 @@
       ],
       "date_added": "2022-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 118733,
       "name": "estella//",
       "url": "https://open.spotify.com/track/3emo5sUq2OwBctNgX0NMEV"
@@ -1079,7 +1101,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 160472,
       "name": "Happier Still",
       "url": "https://open.spotify.com/track/0mcuFEYftMEs8rWQKokhqp"
@@ -1213,6 +1235,24 @@
       "duration_ms": 239237,
       "name": "Hit Like A Girl",
       "url": "https://open.spotify.com/track/3kfghhJVXyT2W2TlP2Vsw9"
+    },
+    {
+      "album": {
+        "name": "Hurt You",
+        "url": "https://open.spotify.com/album/6dbhEjyUna0Ts040kPrM8t"
+      },
+      "artists": [
+        {
+          "name": "Connie Constance",
+          "url": "https://open.spotify.com/artist/4RB2kk5dmocmMiHFBlmOEt"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235093,
+      "name": "Hurt You",
+      "url": "https://open.spotify.com/track/1pxLVdC8sjLDA2DF3uOEuW"
     },
     {
       "album": {
@@ -1465,7 +1505,7 @@
       ],
       "date_added": "2022-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 195306,
       "name": "K.M.B.",
       "url": "https://open.spotify.com/track/3v18sKtzeSiREITWYWPGnh"
@@ -1776,6 +1816,24 @@
     },
     {
       "album": {
+        "name": "OFFLINE",
+        "url": "https://open.spotify.com/album/4ywGwCNe0M4AFbePq24wxt"
+      },
+      "artists": [
+        {
+          "name": "James Mantis",
+          "url": "https://open.spotify.com/artist/0HzRhsDxi3nyKikga3GW5r"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149840,
+      "name": "OFFLINE",
+      "url": "https://open.spotify.com/track/01TZYbhQiq0aswhImSbsUC"
+    },
+    {
+      "album": {
         "name": "Brain Drain",
         "url": "https://open.spotify.com/album/5UpjwoQrnySbzFDUbtS74d"
       },
@@ -1841,7 +1899,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 172346,
       "name": "PORN ACTING*",
       "url": "https://open.spotify.com/track/1lu1qW0KFaYUv2cQJl71ok"
@@ -1917,7 +1975,7 @@
       ],
       "date_added": "2022-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 130460,
       "name": "queen st",
       "url": "https://open.spotify.com/track/5iPRPoJMfuwgaPbECWHrIY"
@@ -1953,7 +2011,7 @@
       ],
       "date_added": "2022-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 150039,
       "name": "Respectfully",
       "url": "https://open.spotify.com/track/59ezMUPbbZ5xR8HAtGr24s"
@@ -2112,6 +2170,46 @@
     },
     {
       "album": {
+        "name": "SIMPLE (feat. I DONT KNOW HOW BUT THEY FOUND ME)",
+        "url": "https://open.spotify.com/album/61Lk7onZ1FIkOX2VqqX4e5"
+      },
+      "artists": [
+        {
+          "name": "DE'WAYNE",
+          "url": "https://open.spotify.com/artist/4lpKeKXJYkglSWyEmnOF7O"
+        },
+        {
+          "name": "I DONT KNOW HOW BUT THEY FOUND ME",
+          "url": "https://open.spotify.com/artist/0Raaw7kr1Vzat4ZvHzjsJR"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171706,
+      "name": "SIMPLE (feat. I DONT KNOW HOW BUT THEY FOUND ME)",
+      "url": "https://open.spotify.com/track/6jLIepXJGYHxNsdtn0sOP6"
+    },
+    {
+      "album": {
+        "name": "Sitting on Ice",
+        "url": "https://open.spotify.com/album/1YN7nOQ8g1n4VvHDrMVs60"
+      },
+      "artists": [
+        {
+          "name": "psykhi",
+          "url": "https://open.spotify.com/artist/6Jv3pqZlwHy3RlsfdBGbRc"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179000,
+      "name": "Sitting on Ice",
+      "url": "https://open.spotify.com/track/6RYRFuYDMyJIzmzLprp9rZ"
+    },
+    {
+      "album": {
         "name": "Smack a Bitch",
         "url": "https://open.spotify.com/album/3Ja54bCouLvrDLt3XKzMii"
       },
@@ -2159,7 +2257,7 @@
       ],
       "date_added": "2022-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 85123,
       "name": "STARING AT THE SKY",
       "url": "https://open.spotify.com/track/4KpKyRFwN0gcwj58Uqjv7q"
@@ -2399,7 +2497,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 123532,
       "name": "Thrills & Chills",
       "url": "https://open.spotify.com/track/3x6C7qxez87DKNdodhhu3B"
@@ -2493,6 +2591,24 @@
       "duration_ms": 250213,
       "name": "Unfuck The World",
       "url": "https://open.spotify.com/track/5wFZTk08YJme74WYjauDzp"
+    },
+    {
+      "album": {
+        "name": "<COPINGMECHANISM>",
+        "url": "https://open.spotify.com/album/0oMXn0MNLNyvB4iJPZXOuV"
+      },
+      "artists": [
+        {
+          "name": "WILLOW",
+          "url": "https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125901,
+      "name": "ur a <stranger>",
+      "url": "https://open.spotify.com/track/4OvlUfaJKuZ9aJVAJWmwyE"
     },
     {
       "album": {

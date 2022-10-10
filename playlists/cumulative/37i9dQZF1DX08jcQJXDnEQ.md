@@ -2,7 +2,7 @@
 
 ### [90s Metal Classics](https://open.spotify.com/playlist/37i9dQZF1DX08jcQJXDnEQ)
 
-> A collection of the biggest Metal classics of the 90s.
+> A collection of the biggest Metal classics of the 90s\. Cover: Deftones
 
 241 songs - 18 hr 59 min - [published](https://open.spotify.com/playlist/3h31tTr3Ha92IjfhLZSpkP)
 

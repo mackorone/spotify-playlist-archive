@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ZFVMeJPr1Z.md) - [plain]
 
 > Spellistan för den svenska sommaren.
 
-[Spotify](https://open.spotify.com/user/spotify) - 79,435 likes - 65 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 79,405 likes - 65 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,7 +71,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ZFVMeJPr1Z.md) - [plain]
 | 61 | [Vackert Väder](https://open.spotify.com/track/2TB50PHG8COW0cy70celCj) | [Orup](https://open.spotify.com/artist/6fJM13619LsYtyPqHvsf6A) | [Elva Hjärtan](https://open.spotify.com/album/1uH9bHKCE5p9ZXYAye2Roj) | 3:55 |
 | 62 | [Sommartid](https://open.spotify.com/track/6x0cSVN0ahCXCteCtncdjg) | [Lena Philipsson](https://open.spotify.com/artist/7rZYHhxGKbe1XepzlpDlKm) | [100% Lena Philipsson](https://open.spotify.com/album/0Uii6Rh3iHnzyz0HIXcRue) | 3:41 |
 | 63 | [Idas sommarvisa](https://open.spotify.com/track/2RMsi5l0uQX4P02zNmuSIS) | [Alice Scherman](https://open.spotify.com/artist/0NInuq50w2W3MDM5kZfq7P) | [Idas sommarvisa](https://open.spotify.com/album/7lDGD4QOhMnMMD0Hq42Zy4) | 1:51 |
-| 64 | [Till Stockholms skärgård](https://open.spotify.com/track/3O2FOUxhhmq8dCxceTNG9k) | [Lasse Berghagen](https://open.spotify.com/artist/7kdGjv0IIQJcU2bth1yoqY) | [På begäran](https://open.spotify.com/album/2tKPZAWQQSlzMfc2sdQPoE) | 4:38 |
+| 64 | [Till Stockholms skärgård](https://open.spotify.com/track/7geUU2nienjTgFvUuobfAC) | [Lasse Berghagen](https://open.spotify.com/artist/7kdGjv0IIQJcU2bth1yoqY) | [På begäran](https://open.spotify.com/album/7rN7AM6a6mZ6PfZeC7asUZ) | 4:38 |
 | 65 | [Sommartid](https://open.spotify.com/track/0aKmin3xzPUYtiwCPSJomL) | [Maja Ivarsson](https://open.spotify.com/artist/7mZEi87Lf4Bxy4XQwIyOEK) | [Så mycket bättre \- säsong 3](https://open.spotify.com/album/1w9KVuHbmVhrtHBcPp6gnO) | 4:02 |
 
-Snapshot ID: `MTU5NTUzMDMwMiwwMDAwMDAwMDFlOTlhZDA3MWMzYTEzOGJiMTYyNzg1OTg3NTA2MTY5`
+Snapshot ID: `MTU5NTUzMDMwMiwwMDAwMDAwMGFjYTRmNWExMjFiYTM2ZDZhMDdhYThjNmZhODhmMzQz`

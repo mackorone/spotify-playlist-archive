@@ -1,12 +1,12 @@
 {
   "description": "Father of the symphony and string quartet, and teacher to both Mozart and Beethoven. This is Haydn.",
-  "num_followers": 57449,
+  "num_followers": 57772,
   "original_name": "This Is Haydn",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTA2NzI2MCwwMDAwMDAwMDIzNDI5ZGU1OGE2YzZkNzkzMTMyMjY3NTY1YzljYWZk",
+  "snapshot_id": "MTY1OTA2NzI2MCwwMDAwMDAwMDJkN2IwNTYwNjAyNDJhODA2OTg2Y2U4MDMyMDdhZTll",
   "tracks": [
     {
       "added_at": "2022-07-29 04:01:00",
@@ -275,6 +275,26 @@
     {
       "added_at": "2022-07-29 04:01:00",
       "album": {
+        "name": "Haydn: Piano Trios, Vol. 1",
+        "url": "https://open.spotify.com/album/3TZzjLOg6FxUMuIm4DIImI"
+      },
+      "artists": [
+        {
+          "name": "Joseph Haydn",
+          "url": "https://open.spotify.com/artist/656RXuyw7CE0dtjdPgjJV6"
+        },
+        {
+          "name": "Kungsbacka Piano Trio",
+          "url": "https://open.spotify.com/artist/5gzVaS7L2VUMc3yv6Wfee1"
+        }
+      ],
+      "duration_ms": 158413,
+      "name": "Keyboard Trio No. 24 in D Major, Hob.XV:24: III. Allegro, ma dolce",
+      "url": "https://open.spotify.com/track/1ZAu3D1SvPysNxuXUrLv5h"
+    },
+    {
+      "added_at": "2022-07-29 04:01:00",
+      "album": {
         "name": "Haydn: Piano Concertos, Hob.Xviii:3,4,9,11",
         "url": "https://open.spotify.com/album/0DeTWelzXxtnTWTjl7q68A"
       },
@@ -299,26 +319,6 @@
       "duration_ms": 469133,
       "name": "Keyboard Concertino in C Major, Hob.XIV:11: I. Vivace",
       "url": "https://open.spotify.com/track/6FjbPZCBNNbQnhfKg9RcgW"
-    },
-    {
-      "added_at": "2022-07-29 04:01:00",
-      "album": {
-        "name": "Haydn: Piano Trios, Vol. 1",
-        "url": "https://open.spotify.com/album/3TZzjLOg6FxUMuIm4DIImI"
-      },
-      "artists": [
-        {
-          "name": "Joseph Haydn",
-          "url": "https://open.spotify.com/artist/656RXuyw7CE0dtjdPgjJV6"
-        },
-        {
-          "name": "Kungsbacka Piano Trio",
-          "url": "https://open.spotify.com/artist/5gzVaS7L2VUMc3yv6Wfee1"
-        }
-      ],
-      "duration_ms": 158413,
-      "name": "Keyboard Trio No. 24 in D Major, Hob.XV:24: III. Allegro, ma dolce",
-      "url": "https://open.spotify.com/track/1ZAu3D1SvPysNxuXUrLv5h"
     },
     {
       "added_at": "2022-07-29 04:01:00",
@@ -395,30 +395,6 @@
     {
       "added_at": "2022-07-29 04:01:00",
       "album": {
-        "name": "Haydn: Symphonies Nos 94 \"Surprise\" & 104 \"London\"",
-        "url": "https://open.spotify.com/album/4UiNWz7X5j8MmN0zFquuX8"
-      },
-      "artists": [
-        {
-          "name": "Joseph Haydn",
-          "url": "https://open.spotify.com/artist/656RXuyw7CE0dtjdPgjJV6"
-        },
-        {
-          "name": "Andr\u00e9 Previn",
-          "url": "https://open.spotify.com/artist/2tfWguHr2nj4e8KXLKciVq"
-        },
-        {
-          "name": "Pittsburgh Symphony Orchestra",
-          "url": "https://open.spotify.com/artist/7oOCHAPJjD7IARb5hrzvw9"
-        }
-      ],
-      "duration_ms": 241226,
-      "name": "Haydn: Symphony No. 94 in G Major, Hob. I:94 \"Surprise\": IV. Finale. Allegro di molto",
-      "url": "https://open.spotify.com/track/3ywsgxwRMClaMZLa18UVu3"
-    },
-    {
-      "added_at": "2022-07-29 04:01:00",
-      "album": {
         "name": "Haydn: Grosse Orgelsolomesse - Heiligmesse",
         "url": "https://open.spotify.com/album/5KbXfDgAFnJub3fsW3ra6B"
       },
@@ -463,6 +439,30 @@
       "duration_ms": 171840,
       "name": "Mass No. 5 in E-Flat Major, Hob.XXII:4, \"Missa in honorem BVM\", \"Missa Sancti Josephi\", \"Grosse Orgelsolomesse\": Agnus Dei",
       "url": "https://open.spotify.com/track/62rW7jeulBf0zH12HZxhhH"
+    },
+    {
+      "added_at": "2022-07-29 04:01:00",
+      "album": {
+        "name": "Haydn: Symphonies Nos 94 \"Surprise\" & 104 \"London\"",
+        "url": "https://open.spotify.com/album/4UiNWz7X5j8MmN0zFquuX8"
+      },
+      "artists": [
+        {
+          "name": "Joseph Haydn",
+          "url": "https://open.spotify.com/artist/656RXuyw7CE0dtjdPgjJV6"
+        },
+        {
+          "name": "Andr\u00e9 Previn",
+          "url": "https://open.spotify.com/artist/2tfWguHr2nj4e8KXLKciVq"
+        },
+        {
+          "name": "Pittsburgh Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/7oOCHAPJjD7IARb5hrzvw9"
+        }
+      ],
+      "duration_ms": 241226,
+      "name": "Haydn: Symphony No. 94 in G Major, Hob. I:94 \"Surprise\": IV. Finale. Allegro di molto",
+      "url": "https://open.spotify.com/track/3ywsgxwRMClaMZLa18UVu3"
     },
     {
       "added_at": "2022-07-29 04:01:00",
@@ -599,182 +599,6 @@
     {
       "added_at": "2022-07-29 04:01:00",
       "album": {
-        "name": "Wynton Marsalis: The London Concert",
-        "url": "https://open.spotify.com/album/27rt4OYuTGxFJ1STb6TwPj"
-      },
-      "artists": [
-        {
-          "name": "Joseph Haydn",
-          "url": "https://open.spotify.com/artist/656RXuyw7CE0dtjdPgjJV6"
-        },
-        {
-          "name": "Raymond Leppard",
-          "url": "https://open.spotify.com/artist/6RX3X6dI939ANy78YXqWXT"
-        },
-        {
-          "name": "Wynton Marsalis",
-          "url": "https://open.spotify.com/artist/375zxMmh2cSgUzFFnva0O7"
-        },
-        {
-          "name": "English Chamber Orchestra",
-          "url": "https://open.spotify.com/artist/2DO4p3CPDnInsJfg0jFfaF"
-        }
-      ],
-      "duration_ms": 410960,
-      "name": "Concerto for Trumpet and Orchestra, in E-flat Major Hob.VIIe: 1: I. Allegro",
-      "url": "https://open.spotify.com/track/27VuwTyDyyxXY8Cnl2ZUNO"
-    },
-    {
-      "added_at": "2022-07-29 04:01:00",
-      "album": {
-        "name": "Haydn: Cello Concertos",
-        "url": "https://open.spotify.com/album/7JU273n3wgwvuNGGJfYOPd"
-      },
-      "artists": [
-        {
-          "name": "Joseph Haydn",
-          "url": "https://open.spotify.com/artist/656RXuyw7CE0dtjdPgjJV6"
-        },
-        {
-          "name": "Jian Wang",
-          "url": "https://open.spotify.com/artist/4DcpgOrxEYPTulZEeJhAJ5"
-        },
-        {
-          "name": "The Gulbenkian Orchestra",
-          "url": "https://open.spotify.com/artist/01X0c2VVNZHOzJd2IaSDmi"
-        },
-        {
-          "name": "Muhai Tang",
-          "url": "https://open.spotify.com/artist/0L3QKcn3971zEYSErSNWlt"
-        }
-      ],
-      "duration_ms": 554000,
-      "name": "Cello Concerto in C, H.VIIb, No.1: 2. Adagio",
-      "url": "https://open.spotify.com/track/5eCJktM5Xb2wZFsl8KbC1Y"
-    },
-    {
-      "added_at": "2022-07-29 04:01:00",
-      "album": {
-        "name": "Haydn: Symphonies, Vol. 3 (Nos. 44, 88, 104)",
-        "url": "https://open.spotify.com/album/2YyQPOkhHPjMuzVMDICetx"
-      },
-      "artists": [
-        {
-          "name": "Joseph Haydn",
-          "url": "https://open.spotify.com/artist/656RXuyw7CE0dtjdPgjJV6"
-        },
-        {
-          "name": "Capella Istropolitana",
-          "url": "https://open.spotify.com/artist/3COykW4UPvB0DqwnzlnfWt"
-        },
-        {
-          "name": "Barry Wordsworth",
-          "url": "https://open.spotify.com/artist/5sjJnaI3YhaO8KylpJk3gN"
-        }
-      ],
-      "duration_ms": 383000,
-      "name": "Symphony No. 44 in E Minor, Hob.I:44, \"Trauersinfonie\" (Mourning): II. Menuet and trio",
-      "url": "https://open.spotify.com/track/3QmVZNj2DGxuTP0RtXQ46X"
-    },
-    {
-      "added_at": "2022-07-29 04:01:00",
-      "album": {
-        "name": "Haydn: Piano Trios, Vol. 1",
-        "url": "https://open.spotify.com/album/3TZzjLOg6FxUMuIm4DIImI"
-      },
-      "artists": [
-        {
-          "name": "Joseph Haydn",
-          "url": "https://open.spotify.com/artist/656RXuyw7CE0dtjdPgjJV6"
-        },
-        {
-          "name": "Kungsbacka Piano Trio",
-          "url": "https://open.spotify.com/artist/5gzVaS7L2VUMc3yv6Wfee1"
-        }
-      ],
-      "duration_ms": 205946,
-      "name": "Keyboard Trio No. 25 in G Major, Hob.XV:25, \"Gypsy Rondo\": III. Finale: Rondo all'ongarese",
-      "url": "https://open.spotify.com/track/6m2vd7n1AKinLVKHTNoUsO"
-    },
-    {
-      "added_at": "2022-07-29 04:01:00",
-      "album": {
-        "name": "Haydn: Die sieben letzten Worte unseres Erl\u00f6sers am Kreuze (The Seven Last Words of Christ on the Cross)",
-        "url": "https://open.spotify.com/album/7fcEmjjIqDpDdBhlvMFEWW"
-      },
-      "artists": [
-        {
-          "name": "Joseph Haydn",
-          "url": "https://open.spotify.com/artist/656RXuyw7CE0dtjdPgjJV6"
-        },
-        {
-          "name": "Cuarteto Casals",
-          "url": "https://open.spotify.com/artist/1FUwvrAST5IPF5fxqMz7vS"
-        }
-      ],
-      "duration_ms": 501533,
-      "name": "The Seven Last Words of Christ, Hob.XX:2: Sonata II \"F\u00fcrwahr, ich sag' es dir\" (Grave e cantabile)",
-      "url": "https://open.spotify.com/track/0b5ErGJr4brN0Es73O2BS3"
-    },
-    {
-      "added_at": "2022-07-29 04:01:00",
-      "album": {
-        "name": "Haydn: Masses",
-        "url": "https://open.spotify.com/album/546Sw0Tal4QjDL77WH35T8"
-      },
-      "artists": [
-        {
-          "name": "Joseph Haydn",
-          "url": "https://open.spotify.com/artist/656RXuyw7CE0dtjdPgjJV6"
-        },
-        {
-          "name": "Margaret Marshall",
-          "url": "https://open.spotify.com/artist/5aXY6PYt1nejYAu0OqQTIE"
-        },
-        {
-          "name": "Hansj\u00fcrgen Scholze",
-          "url": "https://open.spotify.com/artist/5jJjCOZab6aSKFqCw2LHY0"
-        },
-        {
-          "name": "MDR Leipzig Radio Chorus",
-          "url": "https://open.spotify.com/artist/5pdCZaDIJipH7hKPVDpctz"
-        },
-        {
-          "name": "Sir Neville Marriner",
-          "url": "https://open.spotify.com/artist/6NUhQz7eAEsZvjEHTKHux9"
-        },
-        {
-          "name": "Staatskapelle Dresden",
-          "url": "https://open.spotify.com/artist/3Vfvyx6OouTxYU3emXonW7"
-        }
-      ],
-      "duration_ms": 266066,
-      "name": "Haydn: Mass in D Minor, Hob. XXII:11 \"Nelson Mass\": Kyrie",
-      "url": "https://open.spotify.com/track/7k22R54vbVSv6QnPVLHjBW"
-    },
-    {
-      "added_at": "2022-07-29 04:01:00",
-      "album": {
-        "name": "Haydn: Piano Trios Nos. 39 \"Gypsy\" & 43-45",
-        "url": "https://open.spotify.com/album/4LSxh7ez4cnOH6uFXqAH5q"
-      },
-      "artists": [
-        {
-          "name": "Joseph Haydn",
-          "url": "https://open.spotify.com/artist/656RXuyw7CE0dtjdPgjJV6"
-        },
-        {
-          "name": "Trio Wanderer",
-          "url": "https://open.spotify.com/artist/30gSCgs3b5RPNMHVjl1RLd"
-        }
-      ],
-      "duration_ms": 356733,
-      "name": "Piano Trio No. 39 in G Major, Hob. XV: 25 'Gypsy\": I. Andante",
-      "url": "https://open.spotify.com/track/1d0mVkzYmxp822pjE2JVrM"
-    },
-    {
-      "added_at": "2022-07-29 04:01:00",
-      "album": {
         "name": "Haydn: Missa brevis (1805 revision) - Creation Mass",
         "url": "https://open.spotify.com/album/3q4RuAcydaMXNSqyY5FFSD"
       },
@@ -827,6 +651,114 @@
     {
       "added_at": "2022-07-29 04:01:00",
       "album": {
+        "name": "Haydn: Masses",
+        "url": "https://open.spotify.com/album/546Sw0Tal4QjDL77WH35T8"
+      },
+      "artists": [
+        {
+          "name": "Joseph Haydn",
+          "url": "https://open.spotify.com/artist/656RXuyw7CE0dtjdPgjJV6"
+        },
+        {
+          "name": "Margaret Marshall",
+          "url": "https://open.spotify.com/artist/5aXY6PYt1nejYAu0OqQTIE"
+        },
+        {
+          "name": "Hansj\u00fcrgen Scholze",
+          "url": "https://open.spotify.com/artist/5jJjCOZab6aSKFqCw2LHY0"
+        },
+        {
+          "name": "MDR Leipzig Radio Chorus",
+          "url": "https://open.spotify.com/artist/5pdCZaDIJipH7hKPVDpctz"
+        },
+        {
+          "name": "Sir Neville Marriner",
+          "url": "https://open.spotify.com/artist/6NUhQz7eAEsZvjEHTKHux9"
+        },
+        {
+          "name": "Staatskapelle Dresden",
+          "url": "https://open.spotify.com/artist/3Vfvyx6OouTxYU3emXonW7"
+        }
+      ],
+      "duration_ms": 266066,
+      "name": "Haydn: Mass in D Minor, Hob. XXII:11 \"Nelson Mass\": Kyrie",
+      "url": "https://open.spotify.com/track/7k22R54vbVSv6QnPVLHjBW"
+    },
+    {
+      "added_at": "2022-07-29 04:01:00",
+      "album": {
+        "name": "Haydn: Cello Concertos",
+        "url": "https://open.spotify.com/album/7JU273n3wgwvuNGGJfYOPd"
+      },
+      "artists": [
+        {
+          "name": "Joseph Haydn",
+          "url": "https://open.spotify.com/artist/656RXuyw7CE0dtjdPgjJV6"
+        },
+        {
+          "name": "Jian Wang",
+          "url": "https://open.spotify.com/artist/4DcpgOrxEYPTulZEeJhAJ5"
+        },
+        {
+          "name": "The Gulbenkian Orchestra",
+          "url": "https://open.spotify.com/artist/01X0c2VVNZHOzJd2IaSDmi"
+        },
+        {
+          "name": "Muhai Tang",
+          "url": "https://open.spotify.com/artist/0L3QKcn3971zEYSErSNWlt"
+        }
+      ],
+      "duration_ms": 554000,
+      "name": "Cello Concerto in C, H.VIIb, No.1: 2. Adagio",
+      "url": "https://open.spotify.com/track/5eCJktM5Xb2wZFsl8KbC1Y"
+    },
+    {
+      "added_at": "2022-07-29 04:01:00",
+      "album": {
+        "name": "Haydn: Piano Trios, Vol. 1",
+        "url": "https://open.spotify.com/album/3TZzjLOg6FxUMuIm4DIImI"
+      },
+      "artists": [
+        {
+          "name": "Joseph Haydn",
+          "url": "https://open.spotify.com/artist/656RXuyw7CE0dtjdPgjJV6"
+        },
+        {
+          "name": "Kungsbacka Piano Trio",
+          "url": "https://open.spotify.com/artist/5gzVaS7L2VUMc3yv6Wfee1"
+        }
+      ],
+      "duration_ms": 205946,
+      "name": "Keyboard Trio No. 25 in G Major, Hob.XV:25, \"Gypsy Rondo\": III. Finale: Rondo all'ongarese",
+      "url": "https://open.spotify.com/track/6m2vd7n1AKinLVKHTNoUsO"
+    },
+    {
+      "added_at": "2022-07-29 04:01:00",
+      "album": {
+        "name": "Haydn: Symphonies, Vol. 3 (Nos. 44, 88, 104)",
+        "url": "https://open.spotify.com/album/2YyQPOkhHPjMuzVMDICetx"
+      },
+      "artists": [
+        {
+          "name": "Joseph Haydn",
+          "url": "https://open.spotify.com/artist/656RXuyw7CE0dtjdPgjJV6"
+        },
+        {
+          "name": "Capella Istropolitana",
+          "url": "https://open.spotify.com/artist/3COykW4UPvB0DqwnzlnfWt"
+        },
+        {
+          "name": "Barry Wordsworth",
+          "url": "https://open.spotify.com/artist/5sjJnaI3YhaO8KylpJk3gN"
+        }
+      ],
+      "duration_ms": 383000,
+      "name": "Symphony No. 44 in E Minor, Hob.I:44, \"Trauersinfonie\" (Mourning): II. Menuet and trio",
+      "url": "https://open.spotify.com/track/3QmVZNj2DGxuTP0RtXQ46X"
+    },
+    {
+      "added_at": "2022-07-29 04:01:00",
+      "album": {
         "name": "Haydn: Symphonies, Vol. 4 (Nos. 45, 48, 102)",
         "url": "https://open.spotify.com/album/6fHq9tL4dpxoE0wIgXchEG"
       },
@@ -847,6 +779,46 @@
       "duration_ms": 340000,
       "name": "Symphony No. 45 in F-Sharp Minor, Hob.I:45, \"Farewell\": I. Allegro assai",
       "url": "https://open.spotify.com/track/4F2YKfoLAJfneX9LrNu6CC"
+    },
+    {
+      "added_at": "2022-07-29 04:01:00",
+      "album": {
+        "name": "Haydn: Die sieben letzten Worte unseres Erl\u00f6sers am Kreuze (The Seven Last Words of Christ on the Cross)",
+        "url": "https://open.spotify.com/album/7fcEmjjIqDpDdBhlvMFEWW"
+      },
+      "artists": [
+        {
+          "name": "Joseph Haydn",
+          "url": "https://open.spotify.com/artist/656RXuyw7CE0dtjdPgjJV6"
+        },
+        {
+          "name": "Cuarteto Casals",
+          "url": "https://open.spotify.com/artist/1FUwvrAST5IPF5fxqMz7vS"
+        }
+      ],
+      "duration_ms": 501533,
+      "name": "The Seven Last Words of Christ, Hob.XX:2: Sonata II \"F\u00fcrwahr, ich sag' es dir\" (Grave e cantabile)",
+      "url": "https://open.spotify.com/track/0b5ErGJr4brN0Es73O2BS3"
+    },
+    {
+      "added_at": "2022-07-29 04:01:00",
+      "album": {
+        "name": "Haydn: Piano Trios Nos. 39 \"Gypsy\" & 43-45",
+        "url": "https://open.spotify.com/album/4LSxh7ez4cnOH6uFXqAH5q"
+      },
+      "artists": [
+        {
+          "name": "Joseph Haydn",
+          "url": "https://open.spotify.com/artist/656RXuyw7CE0dtjdPgjJV6"
+        },
+        {
+          "name": "Trio Wanderer",
+          "url": "https://open.spotify.com/artist/30gSCgs3b5RPNMHVjl1RLd"
+        }
+      ],
+      "duration_ms": 356733,
+      "name": "Piano Trio No. 39 in G Major, Hob. XV: 25 'Gypsy\": I. Andante",
+      "url": "https://open.spotify.com/track/1d0mVkzYmxp822pjE2JVrM"
     },
     {
       "added_at": "2022-07-29 04:01:00",
@@ -875,34 +847,6 @@
       "duration_ms": 304800,
       "name": "Violin Concerto in C Major, Hob.VIIa:1: II. Adagio",
       "url": "https://open.spotify.com/track/3Qs1YxRJa7RcDPr4QYkVPD"
-    },
-    {
-      "added_at": "2022-07-29 04:01:00",
-      "album": {
-        "name": "Haydn: Cello Concertos",
-        "url": "https://open.spotify.com/album/5lIyZy3BA2mzcQjgobHQva"
-      },
-      "artists": [
-        {
-          "name": "Joseph Haydn",
-          "url": "https://open.spotify.com/artist/656RXuyw7CE0dtjdPgjJV6"
-        },
-        {
-          "name": "Gautier Capu\u00e7on",
-          "url": "https://open.spotify.com/artist/57ziOSBD3x0PhVbl7MXTgI"
-        },
-        {
-          "name": "Mahler Chamber Orchestra",
-          "url": "https://open.spotify.com/artist/5g44FyRrB0AUEdQbqW4jAo"
-        },
-        {
-          "name": "Daniel Harding",
-          "url": "https://open.spotify.com/artist/3sjupE75AphhTX12fgkQv6"
-        }
-      ],
-      "duration_ms": 273826,
-      "name": "Haydn: Cello Concerto No. 2 in D Major, Hob. VIIb:2: II. Adagio",
-      "url": "https://open.spotify.com/track/20SEyo1jCgiYxgAabS9W7U"
     },
     {
       "added_at": "2022-07-29 04:01:00",
@@ -947,8 +891,8 @@
     {
       "added_at": "2022-07-29 04:01:00",
       "album": {
-        "name": "Haydn: Symphonies Nos 94 \"Surprise\" & 104 \"London\"",
-        "url": "https://open.spotify.com/album/4UiNWz7X5j8MmN0zFquuX8"
+        "name": "Haydn: Cello Concertos",
+        "url": "https://open.spotify.com/album/5lIyZy3BA2mzcQjgobHQva"
       },
       "artists": [
         {
@@ -956,17 +900,21 @@
           "url": "https://open.spotify.com/artist/656RXuyw7CE0dtjdPgjJV6"
         },
         {
-          "name": "Andr\u00e9 Previn",
-          "url": "https://open.spotify.com/artist/2tfWguHr2nj4e8KXLKciVq"
+          "name": "Gautier Capu\u00e7on",
+          "url": "https://open.spotify.com/artist/57ziOSBD3x0PhVbl7MXTgI"
         },
         {
-          "name": "Pittsburgh Symphony Orchestra",
-          "url": "https://open.spotify.com/artist/7oOCHAPJjD7IARb5hrzvw9"
+          "name": "Mahler Chamber Orchestra",
+          "url": "https://open.spotify.com/artist/5g44FyRrB0AUEdQbqW4jAo"
+        },
+        {
+          "name": "Daniel Harding",
+          "url": "https://open.spotify.com/artist/3sjupE75AphhTX12fgkQv6"
         }
       ],
-      "duration_ms": 328706,
-      "name": "Haydn: Symphony No. 94 in G Major, Hob. I:94 \"Surprise\": III. Menuetto - Trio",
-      "url": "https://open.spotify.com/track/20MBTOOid2UTtIMpr16BIt"
+      "duration_ms": 273826,
+      "name": "Haydn: Cello Concerto No. 2 in D Major, Hob. VIIb:2: II. Adagio",
+      "url": "https://open.spotify.com/track/20SEyo1jCgiYxgAabS9W7U"
     },
     {
       "added_at": "2022-07-29 04:01:00",
@@ -991,6 +939,30 @@
       "duration_ms": 479681,
       "name": "Symphony No. 92 in G Major, Hob. 1:92 \"Oxford Symphony\": I. Adagio - Allegro spiritoso",
       "url": "https://open.spotify.com/track/6su8WsxgKHN7wm93zIZQ7q"
+    },
+    {
+      "added_at": "2022-07-29 04:01:00",
+      "album": {
+        "name": "Haydn: Symphonies Nos 94 \"Surprise\" & 104 \"London\"",
+        "url": "https://open.spotify.com/album/4UiNWz7X5j8MmN0zFquuX8"
+      },
+      "artists": [
+        {
+          "name": "Joseph Haydn",
+          "url": "https://open.spotify.com/artist/656RXuyw7CE0dtjdPgjJV6"
+        },
+        {
+          "name": "Andr\u00e9 Previn",
+          "url": "https://open.spotify.com/artist/2tfWguHr2nj4e8KXLKciVq"
+        },
+        {
+          "name": "Pittsburgh Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/7oOCHAPJjD7IARb5hrzvw9"
+        }
+      ],
+      "duration_ms": 328706,
+      "name": "Haydn: Symphony No. 94 in G Major, Hob. I:94 \"Surprise\": III. Menuetto - Trio",
+      "url": "https://open.spotify.com/track/20MBTOOid2UTtIMpr16BIt"
     },
     {
       "added_at": "2022-07-29 04:01:00",
@@ -1207,30 +1179,6 @@
     {
       "added_at": "2022-07-29 04:01:00",
       "album": {
-        "name": "Haydn: Symphonies, Vol. 5 (Nos. 85, 92, 103)",
-        "url": "https://open.spotify.com/album/2u04gxtAnTADbzKOc1OtW4"
-      },
-      "artists": [
-        {
-          "name": "Joseph Haydn",
-          "url": "https://open.spotify.com/artist/656RXuyw7CE0dtjdPgjJV6"
-        },
-        {
-          "name": "Capella Istropolitana",
-          "url": "https://open.spotify.com/artist/3COykW4UPvB0DqwnzlnfWt"
-        },
-        {
-          "name": "Barry Wordsworth",
-          "url": "https://open.spotify.com/artist/5sjJnaI3YhaO8KylpJk3gN"
-        }
-      ],
-      "duration_ms": 554000,
-      "name": "Symphony No. 103 in E-Flat Major, Hob.I:103, \"Drumroll\"*: I. Adagio - Allegro con spirito",
-      "url": "https://open.spotify.com/track/5x0W4Ed2jjNJs9ztrzexft"
-    },
-    {
-      "added_at": "2022-07-29 04:01:00",
-      "album": {
         "name": "Haydn's Nature",
         "url": "https://open.spotify.com/album/254eoi8iX6byqlyTM86Wja"
       },
@@ -1251,8 +1199,8 @@
     {
       "added_at": "2022-07-29 04:01:00",
       "album": {
-        "name": "Haydn: Piano Sonatas Nos. 59-62",
-        "url": "https://open.spotify.com/album/2ODOgnUglpKQteMsatWMdC"
+        "name": "Haydn: Symphonies, Vol. 5 (Nos. 85, 92, 103)",
+        "url": "https://open.spotify.com/album/2u04gxtAnTADbzKOc1OtW4"
       },
       "artists": [
         {
@@ -1260,13 +1208,17 @@
           "url": "https://open.spotify.com/artist/656RXuyw7CE0dtjdPgjJV6"
         },
         {
-          "name": "Jen\u0151 Jand\u00f3",
-          "url": "https://open.spotify.com/artist/5Kb0Qf13EyYtVJvzCdI9M7"
+          "name": "Capella Istropolitana",
+          "url": "https://open.spotify.com/artist/3COykW4UPvB0DqwnzlnfWt"
+        },
+        {
+          "name": "Barry Wordsworth",
+          "url": "https://open.spotify.com/artist/5sjJnaI3YhaO8KylpJk3gN"
         }
       ],
-      "duration_ms": 608520,
-      "name": "Keyboard Sonata No. 60 in C Major, Hob.XVI:50: I. Allegro",
-      "url": "https://open.spotify.com/track/04EJP4B6tA1AjEy6MqCjit"
+      "duration_ms": 554000,
+      "name": "Symphony No. 103 in E-Flat Major, Hob.I:103, \"Drumroll\"*: I. Adagio - Allegro con spirito",
+      "url": "https://open.spotify.com/track/5x0W4Ed2jjNJs9ztrzexft"
     },
     {
       "added_at": "2022-07-29 04:01:00",
@@ -1319,30 +1271,6 @@
     {
       "added_at": "2022-07-29 04:01:00",
       "album": {
-        "name": "Haydn: Symphonies, Vol. 3 (Nos. 44, 88, 104)",
-        "url": "https://open.spotify.com/album/2YyQPOkhHPjMuzVMDICetx"
-      },
-      "artists": [
-        {
-          "name": "Joseph Haydn",
-          "url": "https://open.spotify.com/artist/656RXuyw7CE0dtjdPgjJV6"
-        },
-        {
-          "name": "Capella Istropolitana",
-          "url": "https://open.spotify.com/artist/3COykW4UPvB0DqwnzlnfWt"
-        },
-        {
-          "name": "Barry Wordsworth",
-          "url": "https://open.spotify.com/artist/5sjJnaI3YhaO8KylpJk3gN"
-        }
-      ],
-      "duration_ms": 326000,
-      "name": "Symphony No. 104 in D Major, Hob.I:104, \"London\": III. Menuet - Trio",
-      "url": "https://open.spotify.com/track/0gAx3tH50bz9pEGhUYkWJH"
-    },
-    {
-      "added_at": "2022-07-29 04:01:00",
-      "album": {
         "name": "Haydn: Die Sch\u00f6pfung",
         "url": "https://open.spotify.com/album/5t76YHO9jr7x7NHQFSrJxN"
       },
@@ -1387,8 +1315,8 @@
     {
       "added_at": "2022-07-29 04:01:00",
       "album": {
-        "name": "Wynton Marsalis: The London Concert",
-        "url": "https://open.spotify.com/album/27rt4OYuTGxFJ1STb6TwPj"
+        "name": "Haydn: Piano Sonatas Nos. 59-62",
+        "url": "https://open.spotify.com/album/2ODOgnUglpKQteMsatWMdC"
       },
       "artists": [
         {
@@ -1396,21 +1324,57 @@
           "url": "https://open.spotify.com/artist/656RXuyw7CE0dtjdPgjJV6"
         },
         {
-          "name": "Raymond Leppard",
-          "url": "https://open.spotify.com/artist/6RX3X6dI939ANy78YXqWXT"
-        },
-        {
-          "name": "Wynton Marsalis",
-          "url": "https://open.spotify.com/artist/375zxMmh2cSgUzFFnva0O7"
-        },
-        {
-          "name": "English Chamber Orchestra",
-          "url": "https://open.spotify.com/artist/2DO4p3CPDnInsJfg0jFfaF"
+          "name": "Jen\u0151 Jand\u00f3",
+          "url": "https://open.spotify.com/artist/5Kb0Qf13EyYtVJvzCdI9M7"
         }
       ],
-      "duration_ms": 191466,
-      "name": "Concerto for Trumpet and Orchestra, in E-flat Major Hob.VIIe: 1: II. Andante",
-      "url": "https://open.spotify.com/track/3LK6ejlzAPgknRdoGA9jkl"
+      "duration_ms": 608520,
+      "name": "Keyboard Sonata No. 60 in C Major, Hob.XVI:50: I. Allegro",
+      "url": "https://open.spotify.com/track/04EJP4B6tA1AjEy6MqCjit"
+    },
+    {
+      "added_at": "2022-07-29 04:01:00",
+      "album": {
+        "name": "Haydn: Symphonies, Vol. 3 (Nos. 44, 88, 104)",
+        "url": "https://open.spotify.com/album/2YyQPOkhHPjMuzVMDICetx"
+      },
+      "artists": [
+        {
+          "name": "Joseph Haydn",
+          "url": "https://open.spotify.com/artist/656RXuyw7CE0dtjdPgjJV6"
+        },
+        {
+          "name": "Capella Istropolitana",
+          "url": "https://open.spotify.com/artist/3COykW4UPvB0DqwnzlnfWt"
+        },
+        {
+          "name": "Barry Wordsworth",
+          "url": "https://open.spotify.com/artist/5sjJnaI3YhaO8KylpJk3gN"
+        }
+      ],
+      "duration_ms": 326000,
+      "name": "Symphony No. 104 in D Major, Hob.I:104, \"London\": III. Menuet - Trio",
+      "url": "https://open.spotify.com/track/0gAx3tH50bz9pEGhUYkWJH"
+    },
+    {
+      "added_at": "2022-07-29 04:01:00",
+      "album": {
+        "name": "Haydn & Scarlatti: Chiaro e scuro",
+        "url": "https://open.spotify.com/album/3K3UEDIZr0sZondWBxRXWM"
+      },
+      "artists": [
+        {
+          "name": "Joseph Haydn",
+          "url": "https://open.spotify.com/artist/656RXuyw7CE0dtjdPgjJV6"
+        },
+        {
+          "name": "Olivier Cav\u00e9",
+          "url": "https://open.spotify.com/artist/6G9eRjdnheAaK4XaBbSGBH"
+        }
+      ],
+      "duration_ms": 230226,
+      "name": "Sonata in D Major, Hob. XVI:37: II. Largo e sostenuto",
+      "url": "https://open.spotify.com/track/4oRtckXvyNHUlpxdiQxdZA"
     },
     {
       "added_at": "2022-07-29 04:01:00",
@@ -1439,26 +1403,6 @@
       "duration_ms": 169160,
       "name": "Keyboard Concerto in F Major, Hob.XVIII:7: II. Adagio",
       "url": "https://open.spotify.com/track/7mCxJpib6p9QhrTxbqU3cC"
-    },
-    {
-      "added_at": "2022-07-29 04:01:00",
-      "album": {
-        "name": "Haydn & Scarlatti: Chiaro e scuro",
-        "url": "https://open.spotify.com/album/3K3UEDIZr0sZondWBxRXWM"
-      },
-      "artists": [
-        {
-          "name": "Joseph Haydn",
-          "url": "https://open.spotify.com/artist/656RXuyw7CE0dtjdPgjJV6"
-        },
-        {
-          "name": "Olivier Cav\u00e9",
-          "url": "https://open.spotify.com/artist/6G9eRjdnheAaK4XaBbSGBH"
-        }
-      ],
-      "duration_ms": 230226,
-      "name": "Sonata in D Major, Hob. XVI:37: II. Largo e sostenuto",
-      "url": "https://open.spotify.com/track/4oRtckXvyNHUlpxdiQxdZA"
     },
     {
       "added_at": "2022-07-29 04:01:00",
@@ -1527,30 +1471,6 @@
     {
       "added_at": "2022-07-29 04:01:00",
       "album": {
-        "name": "Haydn: Symphony No.96 in D 'Miracle'",
-        "url": "https://open.spotify.com/album/3vxHlH78SzI9vwguuYRh7a"
-      },
-      "artists": [
-        {
-          "name": "Joseph Haydn",
-          "url": "https://open.spotify.com/artist/656RXuyw7CE0dtjdPgjJV6"
-        },
-        {
-          "name": "English Chamber Orchestra",
-          "url": "https://open.spotify.com/artist/2DO4p3CPDnInsJfg0jFfaF"
-        },
-        {
-          "name": "Jeffrey Tate",
-          "url": "https://open.spotify.com/artist/08C4m48uN8PsFIPgTS1KqK"
-        }
-      ],
-      "duration_ms": 377640,
-      "name": "Haydn: Symphony No. 96 in D Major, Hob. I:96 \"Miracle\": II. Andante",
-      "url": "https://open.spotify.com/track/7qcCRaa1QdU5bb1DE14VZ9"
-    },
-    {
-      "added_at": "2022-07-29 04:01:00",
-      "album": {
         "name": "Haydn Edition Volume 5 - Masses, Stabat Mater, Seven Last Words",
         "url": "https://open.spotify.com/album/6FNKlnUgxrjE4QFHWVYdVA"
       },
@@ -1583,6 +1503,34 @@
     {
       "added_at": "2022-07-29 04:01:00",
       "album": {
+        "name": "The Essential Wynton Marsalis",
+        "url": "https://open.spotify.com/album/65NkAlSzLswzoFJ3SHezQa"
+      },
+      "artists": [
+        {
+          "name": "Joseph Haydn",
+          "url": "https://open.spotify.com/artist/656RXuyw7CE0dtjdPgjJV6"
+        },
+        {
+          "name": "Raymond Leppard",
+          "url": "https://open.spotify.com/artist/6RX3X6dI939ANy78YXqWXT"
+        },
+        {
+          "name": "Wynton Marsalis",
+          "url": "https://open.spotify.com/artist/375zxMmh2cSgUzFFnva0O7"
+        },
+        {
+          "name": "English Chamber Orchestra",
+          "url": "https://open.spotify.com/artist/2DO4p3CPDnInsJfg0jFfaF"
+        }
+      ],
+      "duration_ms": 410240,
+      "name": "Concerto for Trumpet and Orchestra, in E-flat Major Hob.VIIe: 1: I. Allegro",
+      "url": "https://open.spotify.com/track/7FDwLO15DquYxVyq6jxZGE"
+    },
+    {
+      "added_at": "2022-07-29 04:01:00",
+      "album": {
         "name": "Haydn: Symphony Nos. 104 & 94 'Surprise'",
         "url": "https://open.spotify.com/album/5KyxVX4Mf8TPcuEGul3QUs"
       },
@@ -1607,30 +1555,6 @@
     {
       "added_at": "2022-07-29 04:01:00",
       "album": {
-        "name": "Haydn: Symphonies, Vol. 3 (Nos. 44, 88, 104)",
-        "url": "https://open.spotify.com/album/2YyQPOkhHPjMuzVMDICetx"
-      },
-      "artists": [
-        {
-          "name": "Joseph Haydn",
-          "url": "https://open.spotify.com/artist/656RXuyw7CE0dtjdPgjJV6"
-        },
-        {
-          "name": "Capella Istropolitana",
-          "url": "https://open.spotify.com/artist/3COykW4UPvB0DqwnzlnfWt"
-        },
-        {
-          "name": "Barry Wordsworth",
-          "url": "https://open.spotify.com/artist/5sjJnaI3YhaO8KylpJk3gN"
-        }
-      ],
-      "duration_ms": 502000,
-      "name": "Symphony No. 104 in D Major, Hob.I:104, \"London\": I. Adagio - Allegro",
-      "url": "https://open.spotify.com/track/6EwD2MZgCWyPEsvAZzubZh"
-    },
-    {
-      "added_at": "2022-07-29 04:01:00",
-      "album": {
         "name": "Haydn: Symphony No.92 'Oxford' / Symphony No.104 'London'",
         "url": "https://open.spotify.com/album/6M7dYAsjuBB70WrBRFuwDU"
       },
@@ -1651,6 +1575,54 @@
       "duration_ms": 331000,
       "name": "Symphony No.92 In G, 'Oxford': III. Menuetto, Allegretto",
       "url": "https://open.spotify.com/track/2hPsyyNCbZWCSnXkD99gMV"
+    },
+    {
+      "added_at": "2022-07-29 04:01:00",
+      "album": {
+        "name": "Haydn: Symphony No.96 in D 'Miracle'",
+        "url": "https://open.spotify.com/album/3vxHlH78SzI9vwguuYRh7a"
+      },
+      "artists": [
+        {
+          "name": "Joseph Haydn",
+          "url": "https://open.spotify.com/artist/656RXuyw7CE0dtjdPgjJV6"
+        },
+        {
+          "name": "English Chamber Orchestra",
+          "url": "https://open.spotify.com/artist/2DO4p3CPDnInsJfg0jFfaF"
+        },
+        {
+          "name": "Jeffrey Tate",
+          "url": "https://open.spotify.com/artist/08C4m48uN8PsFIPgTS1KqK"
+        }
+      ],
+      "duration_ms": 377640,
+      "name": "Haydn: Symphony No. 96 in D Major, Hob. I:96 \"Miracle\": II. Andante",
+      "url": "https://open.spotify.com/track/7qcCRaa1QdU5bb1DE14VZ9"
+    },
+    {
+      "added_at": "2022-07-29 04:01:00",
+      "album": {
+        "name": "Haydn: Symphonies, Vol. 3 (Nos. 44, 88, 104)",
+        "url": "https://open.spotify.com/album/2YyQPOkhHPjMuzVMDICetx"
+      },
+      "artists": [
+        {
+          "name": "Joseph Haydn",
+          "url": "https://open.spotify.com/artist/656RXuyw7CE0dtjdPgjJV6"
+        },
+        {
+          "name": "Capella Istropolitana",
+          "url": "https://open.spotify.com/artist/3COykW4UPvB0DqwnzlnfWt"
+        },
+        {
+          "name": "Barry Wordsworth",
+          "url": "https://open.spotify.com/artist/5sjJnaI3YhaO8KylpJk3gN"
+        }
+      ],
+      "duration_ms": 502000,
+      "name": "Symphony No. 104 in D Major, Hob.I:104, \"London\": I. Adagio - Allegro",
+      "url": "https://open.spotify.com/track/6EwD2MZgCWyPEsvAZzubZh"
     },
     {
       "added_at": "2022-07-29 04:01:00",
@@ -1695,6 +1667,26 @@
       "duration_ms": 199386,
       "name": "Song: Love in Return (arr. William Shield)",
       "url": "https://open.spotify.com/track/7ALfUsqXpRpAZlqrssuyY9"
+    },
+    {
+      "added_at": "2022-07-29 04:01:00",
+      "album": {
+        "name": "Haydn: Baryton Trios",
+        "url": "https://open.spotify.com/album/6JJrbE2YuNISkui4qayela"
+      },
+      "artists": [
+        {
+          "name": "Joseph Haydn",
+          "url": "https://open.spotify.com/artist/656RXuyw7CE0dtjdPgjJV6"
+        },
+        {
+          "name": "Netherlands Baryton Trio",
+          "url": "https://open.spotify.com/artist/7BN0SC0N0Dy8uc10JTLvdN"
+        }
+      ],
+      "duration_ms": 322253,
+      "name": "Trio No. 97 in D Major: Adagio cantabile",
+      "url": "https://open.spotify.com/track/4rlbyLN64HPN22NfRz52uE"
     }
   ],
   "unique_name": "This Is Haydn",

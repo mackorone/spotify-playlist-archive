@@ -1,12 +1,12 @@
 {
   "description": "That bouncy, groovy, dancey sound.",
-  "num_followers": 104157,
+  "num_followers": 104682,
   "original_name": "Choice Edit",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDUxMDczNiwwMDAwMDAwMDM5NWZkMTM0NmQzM2ZmNWYzZDk4ZTM5ZWEwMDIxOTI4",
+  "snapshot_id": "MTY2NTEyNjAwMCwwMDAwMDAwMDk3NmEzNTBiZjM5NTgyODFkZDkzYzRmZGQ5NGE4MjNj",
   "tracks": [
     {
       "added_at": "2022-07-29 04:11:59",
@@ -157,6 +157,38 @@
       "url": "https://open.spotify.com/track/4I2v5ENMvhNL51rmFx4t6o"
     },
     {
+      "added_at": "2022-07-29 04:11:59",
+      "album": {
+        "name": "RENAISSANCE",
+        "url": "https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb"
+      },
+      "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        }
+      ],
+      "duration_ms": 273997,
+      "name": "SUMMER RENAISSANCE",
+      "url": "https://open.spotify.com/track/3HyR1j49TY5ACP2lseF1jx"
+    },
+    {
+      "added_at": "2022-09-23 04:08:19",
+      "album": {
+        "name": "Self-Contained",
+        "url": "https://open.spotify.com/album/5HOxi26ZvTMi8zW0iadJtT"
+      },
+      "artists": [
+        {
+          "name": "DWY",
+          "url": "https://open.spotify.com/artist/6rKDNm4z67mZVwDwnE0WsX"
+        }
+      ],
+      "duration_ms": 217485,
+      "name": "You",
+      "url": "https://open.spotify.com/track/1RXm1hOSW6ITZOejiqiNEK"
+    },
+    {
       "added_at": "2022-05-02 22:05:00",
       "album": {
         "name": "Intimidated",
@@ -177,38 +209,6 @@
       "url": "https://open.spotify.com/track/0dFdGPVLs3k0z9ezYWZzUa"
     },
     {
-      "added_at": "2022-09-23 04:08:19",
-      "album": {
-        "name": "Self-Contained",
-        "url": "https://open.spotify.com/album/5HOxi26ZvTMi8zW0iadJtT"
-      },
-      "artists": [
-        {
-          "name": "DWY",
-          "url": "https://open.spotify.com/artist/6rKDNm4z67mZVwDwnE0WsX"
-        }
-      ],
-      "duration_ms": 217485,
-      "name": "You",
-      "url": "https://open.spotify.com/track/1RXm1hOSW6ITZOejiqiNEK"
-    },
-    {
-      "added_at": "2022-07-30 02:24:25",
-      "album": {
-        "name": "Honestly, Nevermind",
-        "url": "https://open.spotify.com/album/3cf4iSSKd8ffTncbtKljXw"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 336924,
-      "name": "Massive",
-      "url": "https://open.spotify.com/track/28JBD8p18xNuOfyV7Cotdn"
-    },
-    {
       "added_at": "2022-07-29 04:11:59",
       "album": {
         "name": "RENAISSANCE",
@@ -225,20 +225,20 @@
       "url": "https://open.spotify.com/track/0mKGwFMHzTprtS2vpR3b6s"
     },
     {
-      "added_at": "2022-07-29 04:11:59",
+      "added_at": "2022-07-30 02:24:25",
       "album": {
-        "name": "RENAISSANCE",
-        "url": "https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb"
+        "name": "Honestly, Nevermind",
+        "url": "https://open.spotify.com/album/3cf4iSSKd8ffTncbtKljXw"
       },
       "artists": [
         {
-          "name": "Beyonc\u00e9",
-          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
         }
       ],
-      "duration_ms": 273997,
-      "name": "SUMMER RENAISSANCE",
-      "url": "https://open.spotify.com/track/3HyR1j49TY5ACP2lseF1jx"
+      "duration_ms": 336924,
+      "name": "Massive",
+      "url": "https://open.spotify.com/track/28JBD8p18xNuOfyV7Cotdn"
     },
     {
       "added_at": "2022-07-30 02:24:25",
@@ -277,24 +277,20 @@
       "url": "https://open.spotify.com/track/207wpnoruEx0FoLj2Z8cQj"
     },
     {
-      "added_at": "2022-05-02 22:05:00",
+      "added_at": "2022-09-23 04:08:19",
       "album": {
-        "name": "99.9%",
-        "url": "https://open.spotify.com/album/6JD4Qerb8IcaAzFgpFw0sa"
+        "name": "Bleu (better with time)",
+        "url": "https://open.spotify.com/album/15vlMi5OpGkF6JSxwUTYjF"
       },
       "artists": [
         {
-          "name": "KAYTRANADA",
-          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
-        },
-        {
-          "name": "Syd",
-          "url": "https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx"
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
         }
       ],
-      "duration_ms": 227706,
-      "name": "YOU'RE THE ONE",
-      "url": "https://open.spotify.com/track/70kdJnm1X6eEM8DbWa8Mnc"
+      "duration_ms": 196965,
+      "name": "Bleu (better with time)",
+      "url": "https://open.spotify.com/track/42RIuav2MTQs3TEelnQDa3"
     },
     {
       "added_at": "2022-07-29 04:11:59",
@@ -341,22 +337,6 @@
       "url": "https://open.spotify.com/track/3KtJc97wstkCvrRLs10epl"
     },
     {
-      "added_at": "2022-09-23 04:08:19",
-      "album": {
-        "name": "Bleu (better with time)",
-        "url": "https://open.spotify.com/album/15vlMi5OpGkF6JSxwUTYjF"
-      },
-      "artists": [
-        {
-          "name": "Fred again..",
-          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
-        }
-      ],
-      "duration_ms": 196965,
-      "name": "Bleu (better with time)",
-      "url": "https://open.spotify.com/track/42RIuav2MTQs3TEelnQDa3"
-    },
-    {
       "added_at": "2022-05-02 22:05:00",
       "album": {
         "name": "Persuasive",
@@ -375,8 +355,8 @@
     {
       "added_at": "2022-05-02 22:05:00",
       "album": {
-        "name": "BUBBA",
-        "url": "https://open.spotify.com/album/5FQ4sOGqRWUA5wO20AwPcO"
+        "name": "99.9%",
+        "url": "https://open.spotify.com/album/6JD4Qerb8IcaAzFgpFw0sa"
       },
       "artists": [
         {
@@ -384,29 +364,13 @@
           "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
         },
         {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+          "name": "Syd",
+          "url": "https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx"
         }
       ],
-      "duration_ms": 186680,
-      "name": "10%",
-      "url": "https://open.spotify.com/track/41SwdQIX8Hy2u6fuEDgvWr"
-    },
-    {
-      "added_at": "2022-09-09 04:08:54",
-      "album": {
-        "name": "Fall In",
-        "url": "https://open.spotify.com/album/14WXlgU3jPNSbkttpoWQsx"
-      },
-      "artists": [
-        {
-          "name": "Naomi Lareine",
-          "url": "https://open.spotify.com/artist/0umAOumGRDuZ2elvqjaK3i"
-        }
-      ],
-      "duration_ms": 159310,
-      "name": "Fall In",
-      "url": "https://open.spotify.com/track/76oTS246cR6Qnk9UznLk0K"
+      "duration_ms": 227706,
+      "name": "YOU'RE THE ONE",
+      "url": "https://open.spotify.com/track/70kdJnm1X6eEM8DbWa8Mnc"
     },
     {
       "added_at": "2022-07-30 02:24:25",
@@ -427,6 +391,22 @@
       "duration_ms": 199090,
       "name": "Don't Forget My Love",
       "url": "https://open.spotify.com/track/2OZZpID4LgZ0GGm8XB99e3"
+    },
+    {
+      "added_at": "2022-09-09 04:08:54",
+      "album": {
+        "name": "Fall In",
+        "url": "https://open.spotify.com/album/14WXlgU3jPNSbkttpoWQsx"
+      },
+      "artists": [
+        {
+          "name": "Naomi Lareine",
+          "url": "https://open.spotify.com/artist/0umAOumGRDuZ2elvqjaK3i"
+        }
+      ],
+      "duration_ms": 159310,
+      "name": "Fall In",
+      "url": "https://open.spotify.com/track/76oTS246cR6Qnk9UznLk0K"
     },
     {
       "added_at": "2022-07-30 02:24:25",
@@ -505,26 +485,6 @@
       "url": "https://open.spotify.com/track/0QezBrYzFFT0f68zK6EvZI"
     },
     {
-      "added_at": "2022-07-30 02:24:25",
-      "album": {
-        "name": "PALAZZO",
-        "url": "https://open.spotify.com/album/2O2xKMqPSpnYYQMk5DPSTf"
-      },
-      "artists": [
-        {
-          "name": "SPINALL",
-          "url": "https://open.spotify.com/artist/2NtQA3PY9chI8l65ejZLTP"
-        },
-        {
-          "name": "Asake",
-          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
-        }
-      ],
-      "duration_ms": 186002,
-      "name": "PALAZZO",
-      "url": "https://open.spotify.com/track/2SaRkvUkzNzL39fBB2hLpt"
-    },
-    {
       "added_at": "2022-05-02 22:05:00",
       "album": {
         "name": "Gold",
@@ -545,10 +505,10 @@
       "url": "https://open.spotify.com/track/5Dz6wdHlI45KAOBAfMSJRS"
     },
     {
-      "added_at": "2022-08-05 04:16:42",
+      "added_at": "2022-05-02 22:05:00",
       "album": {
-        "name": "Twin Flame",
-        "url": "https://open.spotify.com/album/1SzuRFxlqSZTIWUEE587Oy"
+        "name": "BUBBA",
+        "url": "https://open.spotify.com/album/5FQ4sOGqRWUA5wO20AwPcO"
       },
       "artists": [
         {
@@ -556,13 +516,13 @@
           "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
         },
         {
-          "name": "Anderson .Paak",
-          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
         }
       ],
-      "duration_ms": 232122,
-      "name": "Twin Flame",
-      "url": "https://open.spotify.com/track/15cYjzRUBRrDHn76GdxWiv"
+      "duration_ms": 186680,
+      "name": "10%",
+      "url": "https://open.spotify.com/track/41SwdQIX8Hy2u6fuEDgvWr"
     },
     {
       "added_at": "2022-07-30 02:24:25",
@@ -605,6 +565,26 @@
       "url": "https://open.spotify.com/track/4hvWEdTLJxrZsDDjUEcHvy"
     },
     {
+      "added_at": "2022-07-30 02:24:25",
+      "album": {
+        "name": "PALAZZO",
+        "url": "https://open.spotify.com/album/2O2xKMqPSpnYYQMk5DPSTf"
+      },
+      "artists": [
+        {
+          "name": "SPINALL",
+          "url": "https://open.spotify.com/artist/2NtQA3PY9chI8l65ejZLTP"
+        },
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        }
+      ],
+      "duration_ms": 186002,
+      "name": "PALAZZO",
+      "url": "https://open.spotify.com/track/2SaRkvUkzNzL39fBB2hLpt"
+    },
+    {
       "added_at": "2022-05-02 22:05:00",
       "album": {
         "name": "Moon Shoes EP",
@@ -623,22 +603,6 @@
       "duration_ms": 217013,
       "name": "Free Room (feat. Appleby)",
       "url": "https://open.spotify.com/track/3HEn14GqygLCNfroOnYiZb"
-    },
-    {
-      "added_at": "2022-09-09 04:08:54",
-      "album": {
-        "name": "long legs",
-        "url": "https://open.spotify.com/album/1Wrt0ZrCiCYv2og1F07LjE"
-      },
-      "artists": [
-        {
-          "name": "mike.",
-          "url": "https://open.spotify.com/artist/5G9kmDLg3OeUyj8KVBLzbu"
-        }
-      ],
-      "duration_ms": 243869,
-      "name": "long legs",
-      "url": "https://open.spotify.com/track/1h6Clzt71p8iOQpVM4saBz"
     },
     {
       "added_at": "2022-05-02 22:05:00",
@@ -667,6 +631,22 @@
     {
       "added_at": "2022-05-02 22:05:00",
       "album": {
+        "name": "Last Year Was Weird, Vol. 2",
+        "url": "https://open.spotify.com/album/36nDwdvBHoJMIZn0wzYWrD"
+      },
+      "artists": [
+        {
+          "name": "Tkay Maidza",
+          "url": "https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK"
+        }
+      ],
+      "duration_ms": 233537,
+      "name": "24k",
+      "url": "https://open.spotify.com/track/0F2gXzgbzLvK9LrS7yKS8Q"
+    },
+    {
+      "added_at": "2022-05-02 22:05:00",
+      "album": {
         "name": "Out Of Time (Remix Bundle)",
         "url": "https://open.spotify.com/album/6LuY3APmuxui8BM2oibkrZ"
       },
@@ -685,26 +665,10 @@
       "url": "https://open.spotify.com/track/4Rrj1QxDqsj28gv9SiHQRA"
     },
     {
-      "added_at": "2022-05-02 22:05:00",
+      "added_at": "2022-08-05 04:16:42",
       "album": {
-        "name": "Last Year Was Weird, Vol. 2",
-        "url": "https://open.spotify.com/album/36nDwdvBHoJMIZn0wzYWrD"
-      },
-      "artists": [
-        {
-          "name": "Tkay Maidza",
-          "url": "https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK"
-        }
-      ],
-      "duration_ms": 233537,
-      "name": "24k",
-      "url": "https://open.spotify.com/track/0F2gXzgbzLvK9LrS7yKS8Q"
-    },
-    {
-      "added_at": "2022-05-02 22:05:00",
-      "album": {
-        "name": "BUBBA",
-        "url": "https://open.spotify.com/album/5FQ4sOGqRWUA5wO20AwPcO"
+        "name": "Twin Flame",
+        "url": "https://open.spotify.com/album/1SzuRFxlqSZTIWUEE587Oy"
       },
       "artists": [
         {
@@ -712,37 +676,29 @@
           "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
         },
         {
-          "name": "Tinashe",
-          "url": "https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD"
+          "name": "Anderson .Paak",
+          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
         }
       ],
-      "duration_ms": 226720,
-      "name": "The Worst In Me",
-      "url": "https://open.spotify.com/track/4cOVTA2GfYTHw99AJDQpHo"
+      "duration_ms": 232122,
+      "name": "Twin Flame",
+      "url": "https://open.spotify.com/track/15cYjzRUBRrDHn76GdxWiv"
     },
     {
-      "added_at": "2022-05-02 22:05:00",
+      "added_at": "2022-09-09 04:08:54",
       "album": {
-        "name": "Wake Up, Get Down",
-        "url": "https://open.spotify.com/album/5GHIjfV0FiuXa2cvqovHg6"
+        "name": "long legs",
+        "url": "https://open.spotify.com/album/1Wrt0ZrCiCYv2og1F07LjE"
       },
       "artists": [
         {
-          "name": "Cupidon",
-          "url": "https://open.spotify.com/artist/1qz3nYVQit24tcOsCOdCvb"
-        },
-        {
-          "name": "KALLITECHNIS",
-          "url": "https://open.spotify.com/artist/6i3sYlO1zUHf5IWHpXt4Sl"
-        },
-        {
-          "name": "Ric Wilson",
-          "url": "https://open.spotify.com/artist/34zbMuAgXxsgqnGXSxWvCR"
+          "name": "mike.",
+          "url": "https://open.spotify.com/artist/5G9kmDLg3OeUyj8KVBLzbu"
         }
       ],
-      "duration_ms": 259816,
-      "name": "Wake Up, Get Down",
-      "url": "https://open.spotify.com/track/1gEB5InUzgNLHPv8H34v54"
+      "duration_ms": 243869,
+      "name": "long legs",
+      "url": "https://open.spotify.com/track/1h6Clzt71p8iOQpVM4saBz"
     },
     {
       "added_at": "2022-07-30 02:24:25",
@@ -779,6 +735,30 @@
       "duration_ms": 205384,
       "name": "Iced Tea",
       "url": "https://open.spotify.com/track/6kmXHLDDK7RQXTjHooTCzH"
+    },
+    {
+      "added_at": "2022-05-02 22:05:00",
+      "album": {
+        "name": "Wake Up, Get Down",
+        "url": "https://open.spotify.com/album/5GHIjfV0FiuXa2cvqovHg6"
+      },
+      "artists": [
+        {
+          "name": "Cupidon",
+          "url": "https://open.spotify.com/artist/1qz3nYVQit24tcOsCOdCvb"
+        },
+        {
+          "name": "KALLITECHNIS",
+          "url": "https://open.spotify.com/artist/6i3sYlO1zUHf5IWHpXt4Sl"
+        },
+        {
+          "name": "Ric Wilson",
+          "url": "https://open.spotify.com/artist/34zbMuAgXxsgqnGXSxWvCR"
+        }
+      ],
+      "duration_ms": 259816,
+      "name": "Wake Up, Get Down",
+      "url": "https://open.spotify.com/track/1gEB5InUzgNLHPv8H34v54"
     },
     {
       "added_at": "2022-07-30 02:24:25",
@@ -823,30 +803,6 @@
     {
       "added_at": "2022-07-30 02:24:25",
       "album": {
-        "name": "hollaback bitch (with Shygirl & Channel Tres)",
-        "url": "https://open.spotify.com/album/1hITEiMMdQFFFS2mkWmFd5"
-      },
-      "artists": [
-        {
-          "name": "Mura Masa",
-          "url": "https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot"
-        },
-        {
-          "name": "Shygirl",
-          "url": "https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy"
-        },
-        {
-          "name": "Channel Tres",
-          "url": "https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp"
-        }
-      ],
-      "duration_ms": 203549,
-      "name": "hollaback bitch (with Shygirl & Channel Tres)",
-      "url": "https://open.spotify.com/track/2LFLXzQe95ViTXZeq1WRdx"
-    },
-    {
-      "added_at": "2022-07-30 02:24:25",
-      "album": {
         "name": "Streets (Remixes)",
         "url": "https://open.spotify.com/album/2bztR3sQyvs9HxlraqZMRD"
       },
@@ -881,6 +837,26 @@
       "url": "https://open.spotify.com/track/6J1qFWHFbmMgz0A6o10Xaq"
     },
     {
+      "added_at": "2022-05-02 22:05:00",
+      "album": {
+        "name": "BUBBA",
+        "url": "https://open.spotify.com/album/5FQ4sOGqRWUA5wO20AwPcO"
+      },
+      "artists": [
+        {
+          "name": "KAYTRANADA",
+          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
+        },
+        {
+          "name": "Tinashe",
+          "url": "https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD"
+        }
+      ],
+      "duration_ms": 226720,
+      "name": "The Worst In Me",
+      "url": "https://open.spotify.com/track/4cOVTA2GfYTHw99AJDQpHo"
+    },
+    {
       "added_at": "2022-07-30 02:24:25",
       "album": {
         "name": "Run It Up",
@@ -899,6 +875,30 @@
       "duration_ms": 178218,
       "name": "Run It Up",
       "url": "https://open.spotify.com/track/4Tla2jt77nO70DgGwFejbK"
+    },
+    {
+      "added_at": "2022-07-30 02:24:25",
+      "album": {
+        "name": "hollaback bitch (with Shygirl & Channel Tres)",
+        "url": "https://open.spotify.com/album/1hITEiMMdQFFFS2mkWmFd5"
+      },
+      "artists": [
+        {
+          "name": "Mura Masa",
+          "url": "https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot"
+        },
+        {
+          "name": "Shygirl",
+          "url": "https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy"
+        },
+        {
+          "name": "Channel Tres",
+          "url": "https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp"
+        }
+      ],
+      "duration_ms": 203549,
+      "name": "hollaback bitch (with Shygirl & Channel Tres)",
+      "url": "https://open.spotify.com/track/2LFLXzQe95ViTXZeq1WRdx"
     },
     {
       "added_at": "2022-05-02 22:05:00",
@@ -945,24 +945,24 @@
       "url": "https://open.spotify.com/track/5AFrctm65wWIqJsjHPPx85"
     },
     {
-      "added_at": "2022-07-29 04:11:59",
+      "added_at": "2022-07-30 02:24:25",
       "album": {
-        "name": "Black Panther: Wakanda Forever Prologue",
-        "url": "https://open.spotify.com/album/5O6YjrVzzeXStO3YJZuXaM"
+        "name": "Remember Your North Star",
+        "url": "https://open.spotify.com/album/7BhMDGBQ6xtZl1LwOwueYO"
       },
       "artists": [
         {
-          "name": "Amaarae",
-          "url": "https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS"
+          "name": "Yaya Bey",
+          "url": "https://open.spotify.com/artist/6tpaMMCs8X6o8j9H5OmWmT"
         },
         {
-          "name": "Marvel",
-          "url": "https://open.spotify.com/artist/3JKb5kVdAbFREFnHtwhBKa"
+          "name": "DJ Nativesun",
+          "url": "https://open.spotify.com/artist/3rdO5iHjXkfY8ZbnQYJBrm"
         }
       ],
-      "duration_ms": 169583,
-      "name": "A Body, A Coffin",
-      "url": "https://open.spotify.com/track/2YYYrSLbcf5eNB5VQJxfM9"
+      "duration_ms": 125973,
+      "name": "pour up",
+      "url": "https://open.spotify.com/track/0NzTOeYLPLOGFL40dOX3ho"
     }
   ],
   "unique_name": "Choice Edit",

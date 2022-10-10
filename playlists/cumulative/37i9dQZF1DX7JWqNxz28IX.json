@@ -273,6 +273,28 @@
     {
       "album": {
         "name": "Cicatrici",
+        "url": "https://open.spotify.com/album/6Qdg8tGzw265EafPwrrtKT"
+      },
+      "artists": [
+        {
+          "name": "EDN",
+          "url": "https://open.spotify.com/artist/2FfgO1FC4Bp1snTrGYZz9u"
+        },
+        {
+          "name": "Mose",
+          "url": "https://open.spotify.com/artist/6MxxMir5Ey3h9QxsGDfg4L"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191707,
+      "name": "Cicatrici",
+      "url": "https://open.spotify.com/track/3M7tOqC4TBFlZKcUwWkEjo"
+    },
+    {
+      "album": {
+        "name": "Cicatrici",
         "url": "https://open.spotify.com/album/4eQOy5tEVq0Ti6hk8CqKfT"
       },
       "artists": [
@@ -1431,6 +1453,28 @@
       "duration_ms": 186474,
       "name": "Mille Pezzi",
       "url": "https://open.spotify.com/track/6t1XiG2eJ6MtchAdieG8Zn"
+    },
+    {
+      "album": {
+        "name": "Mille Volte (feat. CoCo)",
+        "url": "https://open.spotify.com/album/0dL3GcOmJPvT6OYZNWA44M"
+      },
+      "artists": [
+        {
+          "name": "Plug",
+          "url": "https://open.spotify.com/artist/0PWa13NHPcTgfyBlIkjjBx"
+        },
+        {
+          "name": "CoCo",
+          "url": "https://open.spotify.com/artist/5FEh6KHK99CyLXp3qFvZFM"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Mille Volte (feat. CoCo)",
+      "url": "https://open.spotify.com/track/2DgvnFBzzMjS2GVLAJKS69"
     },
     {
       "album": {

@@ -1,63 +1,15 @@
 {
   "description": "\uc9c0\uae08 \uad6d\ub0b4\uc5d0\uc11c \uac00\uc7a5 \ud56b\ud55c \ub178\ub798\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694! (\ucee4\ubc84: IVE(\uc544\uc774\ube0c))",
-  "num_followers": 14270,
+  "num_followers": 14409,
   "original_name": "\uc778\uae30\uac00\uc694 Hot Now",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Mzc0MTE2NCwwMDAwMDAwMDMwOWZhNjhiNzZiOTAyNWZkMmVhYTcyMzlmNDAxN2M2",
+  "snapshot_id": "MTY2NDk4Mjk1MCwwMDAwMDAwMDViZmY4MjU1ZGY5NTEzMWI1NjIwMWIwNDIyZDgxMzcw",
   "tracks": [
     {
-      "added_at": "2022-09-21 06:19:24",
-      "album": {
-        "name": "After LIKE",
-        "url": "https://open.spotify.com/album/0nzRF7khA2UDSZa9T0B6Da"
-      },
-      "artists": [
-        {
-          "name": "IVE",
-          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
-        }
-      ],
-      "duration_ms": 176973,
-      "name": "After LIKE",
-      "url": "https://open.spotify.com/track/2gYj9lubBorOPIVWsTXugG"
-    },
-    {
-      "added_at": "2022-09-21 06:19:24",
-      "album": {
-        "name": "BORN PINK",
-        "url": "https://open.spotify.com/album/7jaSNQUBJbvfbZHLNFrV7P"
-      },
-      "artists": [
-        {
-          "name": "BLACKPINK",
-          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
-        }
-      ],
-      "duration_ms": 175889,
-      "name": "Shut Down",
-      "url": "https://open.spotify.com/track/0ARKW62l9uWIDYMZTUmJHF"
-    },
-    {
-      "added_at": "2022-09-21 06:19:24",
-      "album": {
-        "name": "NewJeans 1st EP 'New Jeans'",
-        "url": "https://open.spotify.com/album/1HMLpmZAnNyl9pxvOnTovV"
-      },
-      "artists": [
-        {
-          "name": "NewJeans",
-          "url": "https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d"
-        }
-      ],
-      "duration_ms": 180066,
-      "name": "Attention",
-      "url": "https://open.spotify.com/track/2pIUpMhHL6L9Z5lnKxJJr9"
-    },
-    {
-      "added_at": "2022-09-21 06:19:24",
+      "added_at": "2022-10-05 15:15:50",
       "album": {
         "name": "Street Man Fighter Original Vol.3 (Mission by Rank)",
         "url": "https://open.spotify.com/album/54UUQN3j32n8TA2OJxTcHP"
@@ -77,7 +29,75 @@
       "url": "https://open.spotify.com/track/5mdWIwsJAzR97ShGkt8gcR"
     },
     {
-      "added_at": "2022-09-21 06:19:24",
+      "added_at": "2022-10-05 15:15:50",
+      "album": {
+        "name": "After LIKE",
+        "url": "https://open.spotify.com/album/0nzRF7khA2UDSZa9T0B6Da"
+      },
+      "artists": [
+        {
+          "name": "IVE",
+          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
+        }
+      ],
+      "duration_ms": 176973,
+      "name": "After LIKE",
+      "url": "https://open.spotify.com/track/2gYj9lubBorOPIVWsTXugG"
+    },
+    {
+      "added_at": "2022-10-05 15:15:50",
+      "album": {
+        "name": "BORN PINK",
+        "url": "https://open.spotify.com/album/7jaSNQUBJbvfbZHLNFrV7P"
+      },
+      "artists": [
+        {
+          "name": "BLACKPINK",
+          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
+        }
+      ],
+      "duration_ms": 175889,
+      "name": "Shut Down",
+      "url": "https://open.spotify.com/track/0ARKW62l9uWIDYMZTUmJHF"
+    },
+    {
+      "added_at": "2022-10-05 15:15:50",
+      "album": {
+        "name": "Rush Hour",
+        "url": "https://open.spotify.com/album/7egcy2gtlyoUUl1OlQrY3R"
+      },
+      "artists": [
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        },
+        {
+          "name": "j-hope",
+          "url": "https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy"
+        }
+      ],
+      "duration_ms": 177302,
+      "name": "Rush Hour (Feat. j-hope of BTS)",
+      "url": "https://open.spotify.com/track/5aucVLKiumD89mxVCB4zvS"
+    },
+    {
+      "added_at": "2022-10-05 15:15:50",
+      "album": {
+        "name": "NewJeans 1st EP 'New Jeans'",
+        "url": "https://open.spotify.com/album/1HMLpmZAnNyl9pxvOnTovV"
+      },
+      "artists": [
+        {
+          "name": "NewJeans",
+          "url": "https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d"
+        }
+      ],
+      "duration_ms": 180066,
+      "name": "Attention",
+      "url": "https://open.spotify.com/track/2pIUpMhHL6L9Z5lnKxJJr9"
+    },
+    {
+      "added_at": "2022-10-05 15:15:50",
       "album": {
         "name": "Pink Venom",
         "url": "https://open.spotify.com/album/3dZBZnDa3z20uEVnxR38M1"
@@ -93,7 +113,7 @@
       "url": "https://open.spotify.com/track/0skYUMpS0AcbpjcGsAbRGj"
     },
     {
-      "added_at": "2022-09-21 06:19:24",
+      "added_at": "2022-10-05 15:15:50",
       "album": {
         "name": "LOVE DIVE",
         "url": "https://open.spotify.com/album/1AFVTHHm7kKoQ6Rgb25x3p"
@@ -109,7 +129,7 @@
       "url": "https://open.spotify.com/track/0Q5VnK2DYzRyfqQRJuUtvi"
     },
     {
-      "added_at": "2022-09-21 06:19:24",
+      "added_at": "2022-10-05 15:15:50",
       "album": {
         "name": "NewJeans 1st EP 'New Jeans'",
         "url": "https://open.spotify.com/album/1HMLpmZAnNyl9pxvOnTovV"
@@ -125,7 +145,7 @@
       "url": "https://open.spotify.com/track/0a4MMyCrzT0En247IhqZbD"
     },
     {
-      "added_at": "2022-09-21 06:19:24",
+      "added_at": "2022-10-05 15:15:50",
       "album": {
         "name": "CHECKMATE",
         "url": "https://open.spotify.com/album/64EGnoCD5NuC41OqQ3E7UK"
@@ -141,7 +161,7 @@
       "url": "https://open.spotify.com/track/2WoluqyWzsgRmFCeHeGlnm"
     },
     {
-      "added_at": "2022-09-21 06:19:24",
+      "added_at": "2022-10-05 15:15:50",
       "album": {
         "name": "WSG WANNABE 1st Album",
         "url": "https://open.spotify.com/album/3r8M9Yudjzg4kNR4cThoB9"
@@ -157,7 +177,7 @@
       "url": "https://open.spotify.com/track/0CB3B5ir8I2KbB3dkGVtWF"
     },
     {
-      "added_at": "2022-09-21 06:19:24",
+      "added_at": "2022-10-05 15:15:50",
       "album": {
         "name": "IM NAYEON",
         "url": "https://open.spotify.com/album/0wqjfojWuTcbEvwaizvTMw"
@@ -173,7 +193,7 @@
       "url": "https://open.spotify.com/track/3lOMJTQTd6J34faYwASc33"
     },
     {
-      "added_at": "2022-09-21 06:19:24",
+      "added_at": "2022-10-05 15:15:50",
       "album": {
         "name": "WSG WANNABE 1st Album",
         "url": "https://open.spotify.com/album/3r8M9Yudjzg4kNR4cThoB9"
@@ -189,7 +209,7 @@
       "url": "https://open.spotify.com/track/20SIjymeaQNEv0NkPLpa6N"
     },
     {
-      "added_at": "2022-09-21 06:19:24",
+      "added_at": "2022-10-05 15:15:50",
       "album": {
         "name": "Braindead",
         "url": "https://open.spotify.com/album/2dIATUDwagqAym02UKbfWV"
@@ -205,7 +225,7 @@
       "url": "https://open.spotify.com/track/10qiH1RJkexhTUuN562FsP"
     },
     {
-      "added_at": "2022-09-21 06:19:24",
+      "added_at": "2022-10-05 15:15:50",
       "album": {
         "name": "Illusion",
         "url": "https://open.spotify.com/album/4r815m6eq8OXYzfqtk3FST"
@@ -221,7 +241,7 @@
       "url": "https://open.spotify.com/track/5uFqjHOo3Sh0bVPCKf3DdH"
     },
     {
-      "added_at": "2022-09-21 06:19:24",
+      "added_at": "2022-10-05 15:15:50",
       "album": {
         "name": "NewJeans 1st EP 'New Jeans'",
         "url": "https://open.spotify.com/album/1HMLpmZAnNyl9pxvOnTovV"
@@ -237,7 +257,7 @@
       "url": "https://open.spotify.com/track/2DwUdMJ5uxv20EhAildreg"
     },
     {
-      "added_at": "2022-09-21 06:19:24",
+      "added_at": "2022-10-05 15:15:50",
       "album": {
         "name": "Girls - The 2nd Mini Album",
         "url": "https://open.spotify.com/album/4w1dbvUy1crv0knXQvcSeY"
@@ -253,7 +273,7 @@
       "url": "https://open.spotify.com/track/2WTHLEVjfefbGoW7F3dXIg"
     },
     {
-      "added_at": "2022-09-21 06:19:24",
+      "added_at": "2022-10-05 15:15:50",
       "album": {
         "name": "FOREVER 1 - The 7th Album",
         "url": "https://open.spotify.com/album/3CcgnUkTrUaPTt4Ms1MkoP"
@@ -269,7 +289,7 @@
       "url": "https://open.spotify.com/track/1oen3GpTcA486fTHaT7neg"
     },
     {
-      "added_at": "2022-09-21 06:19:24",
+      "added_at": "2022-10-05 15:15:50",
       "album": {
         "name": "MR. BAD",
         "url": "https://open.spotify.com/album/71KOTVJkEhbXVLNdZGKe9a"
@@ -289,7 +309,7 @@
       "url": "https://open.spotify.com/track/5KkAIk1aWPPIWIkSGnEmJg"
     },
     {
-      "added_at": "2022-09-21 06:19:24",
+      "added_at": "2022-10-05 15:15:50",
       "album": {
         "name": "PROTOTYPE RESEARCH #0063",
         "url": "https://open.spotify.com/album/0djyRzAxBwLFkW89M8XdwP"
@@ -305,7 +325,7 @@
       "url": "https://open.spotify.com/track/41HriGdYdajxCJIOMiIBWs"
     },
     {
-      "added_at": "2022-09-21 06:19:24",
+      "added_at": "2022-10-05 15:15:50",
       "album": {
         "name": "NewJeans 1st EP 'New Jeans'",
         "url": "https://open.spotify.com/album/1HMLpmZAnNyl9pxvOnTovV"
@@ -321,7 +341,7 @@
       "url": "https://open.spotify.com/track/5expoVGQPvXuwBBFuNGqBd"
     },
     {
-      "added_at": "2022-09-21 06:19:24",
+      "added_at": "2022-10-05 15:15:50",
       "album": {
         "name": "FEARLESS",
         "url": "https://open.spotify.com/album/4Mc7WwYH41hgUWeKX25Sot"
@@ -337,7 +357,7 @@
       "url": "https://open.spotify.com/track/296nXCOv97WJNRWzIBQnoj"
     },
     {
-      "added_at": "2022-09-21 06:19:24",
+      "added_at": "2022-10-05 15:15:50",
       "album": {
         "name": "Bare&Rare, Pt. 1",
         "url": "https://open.spotify.com/album/5KLYmSbrtpo5pqjOMzDDLi"
@@ -353,7 +373,7 @@
       "url": "https://open.spotify.com/track/34lKiKHCKhMe9PAfGcdFNE"
     },
     {
-      "added_at": "2022-09-21 06:19:24",
+      "added_at": "2022-10-05 15:15:50",
       "album": {
         "name": "PSY 9th",
         "url": "https://open.spotify.com/album/7hbSWdxliNs551GXtflIZB"
@@ -373,7 +393,7 @@
       "url": "https://open.spotify.com/track/7GNRUsU3M4XNDDB9xle5Dz"
     },
     {
-      "added_at": "2022-09-21 06:19:24",
+      "added_at": "2022-10-05 15:15:50",
       "album": {
         "name": "WSG WANNABE 1st Album",
         "url": "https://open.spotify.com/album/3r8M9Yudjzg4kNR4cThoB9"
@@ -389,7 +409,7 @@
       "url": "https://open.spotify.com/track/7rvgQ3kGUqwVkt0V5JpPeT"
     },
     {
-      "added_at": "2022-09-21 06:19:24",
+      "added_at": "2022-10-05 15:15:50",
       "album": {
         "name": "Proof",
         "url": "https://open.spotify.com/album/6al2VdKbb6FIz9d7lU7WRB"
@@ -405,7 +425,7 @@
       "url": "https://open.spotify.com/track/10SRMwb9EuVS1K9rYsBfHQ"
     },
     {
-      "added_at": "2022-09-21 06:19:24",
+      "added_at": "2022-10-05 15:15:50",
       "album": {
         "name": "Jack In The Box",
         "url": "https://open.spotify.com/album/0FrC9lzgVhziJenigsrXdl"
@@ -421,7 +441,7 @@
       "url": "https://open.spotify.com/track/2QWEMqQMJR1KDf6hDjJOs6"
     },
     {
-      "added_at": "2022-09-21 06:19:24",
+      "added_at": "2022-10-05 15:15:50",
       "album": {
         "name": "Room Vol.1",
         "url": "https://open.spotify.com/album/2cSXk0XqGoen6IvmlJmJJt"
@@ -437,7 +457,7 @@
       "url": "https://open.spotify.com/track/2PmLP4DNUPJC98L78mrkal"
     },
     {
-      "added_at": "2022-09-21 06:19:24",
+      "added_at": "2022-10-05 15:15:50",
       "album": {
         "name": "Life's Too Short",
         "url": "https://open.spotify.com/album/11lLYKMkFheiV7ObD7WCnx"
@@ -453,23 +473,27 @@
       "url": "https://open.spotify.com/track/2mgzUVvDpb1zMSB4glLQ6T"
     },
     {
-      "added_at": "2022-09-21 06:19:24",
+      "added_at": "2022-10-05 15:15:50",
       "album": {
-        "name": "SEOUL DRIFT",
-        "url": "https://open.spotify.com/album/1nG8Wxn3f3buiaDg5rGzpC"
+        "name": "FIVE SENSES",
+        "url": "https://open.spotify.com/album/1RZ5UZ7r76wiOjDEZANzOP"
       },
       "artists": [
+        {
+          "name": "BE'O",
+          "url": "https://open.spotify.com/artist/5NUVwRESNqYBUTRbiATjy7"
+        },
         {
           "name": "ZICO",
           "url": "https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0"
         }
       ],
-      "duration_ms": 199626,
-      "name": "SEOUL DRIFT",
-      "url": "https://open.spotify.com/track/26ZVy8n9X8K59DXFyZtkT0"
+      "duration_ms": 195080,
+      "name": "Complex (Feat. ZICO)",
+      "url": "https://open.spotify.com/track/07trPhWMgiagFnSOlmpzl0"
     },
     {
-      "added_at": "2022-09-21 06:19:24",
+      "added_at": "2022-10-05 15:15:50",
       "album": {
         "name": "I NEVER DIE",
         "url": "https://open.spotify.com/album/1T2W9vDajFreUuycPDjUXk"
@@ -485,7 +509,7 @@
       "url": "https://open.spotify.com/track/0IGUXY4JbK18bu9oD4mPIm"
     },
     {
-      "added_at": "2022-09-21 06:19:24",
+      "added_at": "2022-10-05 15:15:50",
       "album": {
         "name": "Beyond Love",
         "url": "https://open.spotify.com/album/5Gp70tE4qrzx93UkoqP5QA"
@@ -505,7 +529,7 @@
       "url": "https://open.spotify.com/track/0HsRZwZzHoZ5AM5W2ZYI5c"
     },
     {
-      "added_at": "2022-09-21 06:19:24",
+      "added_at": "2022-10-05 15:15:50",
       "album": {
         "name": "Still Life",
         "url": "https://open.spotify.com/album/2oCAY48bhZvQte0l7apmYC"
@@ -521,7 +545,7 @@
       "url": "https://open.spotify.com/track/3TSLqZssCoCdDlMhCJ08XW"
     },
     {
-      "added_at": "2022-09-21 06:19:24",
+      "added_at": "2022-10-05 15:15:50",
       "album": {
         "name": "Heart Burn",
         "url": "https://open.spotify.com/album/0ahb3lp7jXxKUx3beS7AVu"
@@ -537,7 +561,7 @@
       "url": "https://open.spotify.com/track/4JmbtS0Muijl37KP9lDscy"
     },
     {
-      "added_at": "2022-09-21 06:19:24",
+      "added_at": "2022-10-05 15:15:50",
       "album": {
         "name": "Beatbox - The 2nd Album Repackage",
         "url": "https://open.spotify.com/album/4sM1qNxjzxOvoH6jeFHx3W"
@@ -553,7 +577,7 @@
       "url": "https://open.spotify.com/track/0CatzXH85XWyBqqdB6qPMB"
     },
     {
-      "added_at": "2022-09-21 06:19:24",
+      "added_at": "2022-10-05 15:15:50",
       "album": {
         "name": "SEVENTEEN 4th Album 'Face the Sun'",
         "url": "https://open.spotify.com/album/4lfFgz2rD1irxf7dZhNJht"
@@ -569,7 +593,7 @@
       "url": "https://open.spotify.com/track/6I2tqFhk8tq69iursYxuxd"
     },
     {
-      "added_at": "2022-09-21 06:19:24",
+      "added_at": "2022-10-05 15:15:50",
       "album": {
         "name": "Dear my X",
         "url": "https://open.spotify.com/album/5BOrfMmeO7t7pDqhZNIhej"
@@ -585,7 +609,7 @@
       "url": "https://open.spotify.com/track/0UnOf7i44YK0ULpkEGHe4R"
     },
     {
-      "added_at": "2022-09-21 06:19:24",
+      "added_at": "2022-10-05 15:15:50",
       "album": {
         "name": "GANADARA",
         "url": "https://open.spotify.com/album/4cwyl5ynvYVojZRbZ3dSFH"
@@ -605,7 +629,7 @@
       "url": "https://open.spotify.com/track/5quFr5s5PXYfUX5jV2EBZ1"
     },
     {
-      "added_at": "2022-09-21 06:19:24",
+      "added_at": "2022-10-05 15:15:50",
       "album": {
         "name": "\u02e3\u203f\u02e3 (SMiLEY)",
         "url": "https://open.spotify.com/album/7qldKtsOWklzmwgll5NjCw"
@@ -625,7 +649,7 @@
       "url": "https://open.spotify.com/track/4zCIxSnVWpGNghERX4uWZF"
     },
     {
-      "added_at": "2022-09-21 06:19:24",
+      "added_at": "2022-10-05 15:15:50",
       "album": {
         "name": "IM HERO",
         "url": "https://open.spotify.com/album/5ITErfEiF1nEo8KTRgLv43"
@@ -641,7 +665,7 @@
       "url": "https://open.spotify.com/track/2RLdkXSaiQjRbey5pvP8Kt"
     },
     {
-      "added_at": "2022-09-21 06:19:24",
+      "added_at": "2022-10-05 15:15:50",
       "album": {
         "name": "LOVE me",
         "url": "https://open.spotify.com/album/47PYjiWlimZJ2QT1LOrtLK"
@@ -657,7 +681,7 @@
       "url": "https://open.spotify.com/track/3oiMjDZ1bShIpFfOQf55IW"
     },
     {
-      "added_at": "2022-09-21 06:19:24",
+      "added_at": "2022-10-05 15:15:50",
       "album": {
         "name": "INVU - The 3rd Album",
         "url": "https://open.spotify.com/album/7i2YLTVQ0dyngRuUqtGmr9"
@@ -673,7 +697,7 @@
       "url": "https://open.spotify.com/track/7rXcCpIAoOUCydkVDMcoPV"
     },
     {
-      "added_at": "2022-09-21 06:19:24",
+      "added_at": "2022-10-05 15:15:50",
       "album": {
         "name": "\u2018The ReVe Festival 2022 - Feel My Rhythm\u2019",
         "url": "https://open.spotify.com/album/3HgoCO9wWuPcNhz8Ip4C46"
@@ -689,7 +713,7 @@
       "url": "https://open.spotify.com/track/2oBMZYteeO8DyXV9gDx6Za"
     },
     {
-      "added_at": "2022-09-21 06:19:24",
+      "added_at": "2022-10-05 15:15:50",
       "album": {
         "name": "NANGMAN",
         "url": "https://open.spotify.com/album/2hBJR1SQ4cGDjGTCY6eV8m"
@@ -713,7 +737,7 @@
       "url": "https://open.spotify.com/track/3bUD1FmJClHcD0U7rIN0TR"
     },
     {
-      "added_at": "2022-09-21 06:19:24",
+      "added_at": "2022-10-05 15:15:50",
       "album": {
         "name": "Savage - The 1st Mini Album",
         "url": "https://open.spotify.com/album/3vyyDkvYWC36DwgZCYd3Wu"
@@ -729,7 +753,7 @@
       "url": "https://open.spotify.com/track/3dbLT62Cvs46Ju7a8gpr36"
     },
     {
-      "added_at": "2022-09-21 06:19:24",
+      "added_at": "2022-10-05 15:15:50",
       "album": {
         "name": "YOUNG-LUV.COM",
         "url": "https://open.spotify.com/album/2xPdgNkM4yIQmP7axJ1T1o"
@@ -745,7 +769,7 @@
       "url": "https://open.spotify.com/track/3gFcGnU4kTdMYLXDjH1TK8"
     },
     {
-      "added_at": "2022-09-21 06:19:24",
+      "added_at": "2022-10-05 15:15:50",
       "album": {
         "name": "from our Memento Box",
         "url": "https://open.spotify.com/album/5HpgQwHm9jI5JcnmJqcCYo"
@@ -761,7 +785,7 @@
       "url": "https://open.spotify.com/track/3pqgVtpnQbBAZoWT4AEm1B"
     },
     {
-      "added_at": "2022-09-21 06:19:24",
+      "added_at": "2022-10-05 15:15:50",
       "album": {
         "name": "DOUBLAST",
         "url": "https://open.spotify.com/album/0yMosWzriw3613d26x7MQK"
@@ -777,7 +801,7 @@
       "url": "https://open.spotify.com/track/3XZAvh2NCDQYHgJei35VQ1"
     },
     {
-      "added_at": "2022-09-21 06:19:24",
+      "added_at": "2022-10-05 15:15:50",
       "album": {
         "name": "ELEVEN",
         "url": "https://open.spotify.com/album/1XMYvsHRt52sMi6wittWqI"
@@ -793,7 +817,7 @@
       "url": "https://open.spotify.com/track/7n2FZQsaLb7ZRfRPfEeIvr"
     },
     {
-      "added_at": "2022-09-21 06:19:24",
+      "added_at": "2022-10-05 15:15:50",
       "album": {
         "name": "Step Back",
         "url": "https://open.spotify.com/album/3gwL04bGAX4Kc2D5Wd7NMk"
@@ -809,23 +833,7 @@
       "url": "https://open.spotify.com/track/3LCwQoTrdQgHsGJE5gGVqx"
     },
     {
-      "added_at": "2022-09-21 06:19:24",
-      "album": {
-        "name": "CRAZY IN LOVE",
-        "url": "https://open.spotify.com/album/4U7rGOkJgtxs27H9L93Xli"
-      },
-      "artists": [
-        {
-          "name": "ITZY",
-          "url": "https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3"
-        }
-      ],
-      "duration_ms": 191462,
-      "name": "LOCO",
-      "url": "https://open.spotify.com/track/56Yxkm62GtEpnPyG7TvwLY"
-    },
-    {
-      "added_at": "2022-09-21 06:19:24",
+      "added_at": "2022-10-05 15:15:50",
       "album": {
         "name": "Next Level",
         "url": "https://open.spotify.com/album/2CzbrboOLzeRoaaH1N5K0N"

@@ -228,6 +228,28 @@
     },
     {
       "album": {
+        "name": "Another Way",
+        "url": "https://open.spotify.com/album/2k8sl8eCdvZGmLT2udUJLe"
+      },
+      "artists": [
+        {
+          "name": "Au5",
+          "url": "https://open.spotify.com/artist/40WIa01eubnEVkxUHeDZyF"
+        },
+        {
+          "name": "EMME",
+          "url": "https://open.spotify.com/artist/04zy0QJacNRBhI0H3WmkSs"
+        }
+      ],
+      "date_added": "2022-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291200,
+      "name": "Another Way",
+      "url": "https://open.spotify.com/track/6sm1OQ89659UUpGctNTXvv"
+    },
+    {
+      "album": {
         "name": "Army Of Angels",
         "url": "https://open.spotify.com/album/08vRZUFEVTfO1Qd7oVIMxG"
       },
@@ -615,7 +637,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-10",
       "duration_ms": 212137,
       "name": "Carry You",
       "url": "https://open.spotify.com/track/0sSldZiqaPK4YmhDui7tN8"
@@ -973,7 +995,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-09",
       "duration_ms": 228467,
       "name": "Do Your Worst (feat. Elle Vee)",
       "url": "https://open.spotify.com/track/2gOBTQhnvDRNAhdDBOb4BT"
@@ -1121,7 +1143,7 @@
           "url": "https://open.spotify.com/artist/6d0ZjIp5L7Ygy2l02HskRX"
         },
         {
-          "name": "Nitti",
+          "name": "NITTI",
           "url": "https://open.spotify.com/artist/21AUdblPrTRzkvJn8FGrlk"
         }
       ],
@@ -2232,6 +2254,28 @@
     },
     {
       "album": {
+        "name": "Hard Part's Over",
+        "url": "https://open.spotify.com/album/2VCtXsszH8Ky5MXoYrCgP7"
+      },
+      "artists": [
+        {
+          "name": "Hoang",
+          "url": "https://open.spotify.com/artist/2KjxvxgJvbwweNVRMSuIRG"
+        },
+        {
+          "name": "Page",
+          "url": "https://open.spotify.com/artist/5Fzm75kD7tt6ldqv3TInbG"
+        }
+      ],
+      "date_added": "2022-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194417,
+      "name": "Hard Part's Over",
+      "url": "https://open.spotify.com/track/2InIRfPZRlTO6k1qCxRsRj"
+    },
+    {
+      "album": {
         "name": "Hate This Kind of Love (feat. HOLT)",
         "url": "https://open.spotify.com/album/7tWS1OfcBKgvupJiebvvu8"
       },
@@ -2438,6 +2482,28 @@
     },
     {
       "album": {
+        "name": "Higher Than Heaven",
+        "url": "https://open.spotify.com/album/4aJ8OzxXJGc9aZzIwIEzjx"
+      },
+      "artists": [
+        {
+          "name": "Blosso",
+          "url": "https://open.spotify.com/artist/5Jn30mbNDGHLSxfCUZc7XM"
+        },
+        {
+          "name": "Nytrix",
+          "url": "https://open.spotify.com/artist/1s8cu0X2A5YDwCLRN8AjFa"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291200,
+      "name": "Higher Than Heaven",
+      "url": "https://open.spotify.com/track/6UdWxz9fpHsd1l7epg4jyH"
+    },
+    {
+      "album": {
         "name": "Hold Me",
         "url": "https://open.spotify.com/album/5aUyuveFrtgWfyXcsTCoX8"
       },
@@ -2519,10 +2585,32 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-09",
       "duration_ms": 216004,
       "name": "Hologram Tears (feat. Monika Santucci)",
       "url": "https://open.spotify.com/track/7gfSFkrGjKZL2XbSggjyxz"
+    },
+    {
+      "album": {
+        "name": "Hurt",
+        "url": "https://open.spotify.com/album/7CUMWsuL3VBhlDaJXZGmX7"
+      },
+      "artists": [
+        {
+          "name": "Heyz",
+          "url": "https://open.spotify.com/artist/5X1EM1jg35YB5jmw7qVIlh"
+        },
+        {
+          "name": "Misdom",
+          "url": "https://open.spotify.com/artist/1DbEQeF7ssOqCMwr6B9jPt"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255846,
+      "name": "Hurt",
+      "url": "https://open.spotify.com/track/4hSmhoWceZfpoTopxcvaEr"
     },
     {
       "album": {
@@ -3364,6 +3452,28 @@
     },
     {
       "album": {
+        "name": "Mirror",
+        "url": "https://open.spotify.com/album/53QPiqPVq7KSdDH7y4gybZ"
+      },
+      "artists": [
+        {
+          "name": "SABAI",
+          "url": "https://open.spotify.com/artist/4OaSyxqlkp7aVpAZwF02QZ"
+        },
+        {
+          "name": "Danni Carra",
+          "url": "https://open.spotify.com/artist/1y2nMsmj0osjLiXHri15M1"
+        }
+      ],
+      "date_added": "2022-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249532,
+      "name": "Mirror",
+      "url": "https://open.spotify.com/track/7Cn5dFvCckY1q6pB8u0WHt"
+    },
+    {
+      "album": {
         "name": "Best Part Of Me EP",
         "url": "https://open.spotify.com/album/163FJeoQmdoWpqDFqV5TiB"
       },
@@ -3585,7 +3695,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-05",
       "duration_ms": 226560,
       "name": "One Day at a Time",
       "url": "https://open.spotify.com/track/4sg2czxO15zhMn1scUXPIL"
@@ -3787,7 +3897,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-05",
       "duration_ms": 152824,
       "name": "PART OF ME",
       "url": "https://open.spotify.com/track/1Hn4Yt7ByliodvxeanCQkS"
@@ -4633,7 +4743,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-07",
       "duration_ms": 191314,
       "name": "Stars Like You",
       "url": "https://open.spotify.com/track/6AGnI7YEUSfkSkzGqb525V"
@@ -4915,7 +5025,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-03",
       "duration_ms": 204000,
       "name": "Tell Me Why",
       "url": "https://open.spotify.com/track/1Ic5GlyRW3eTYC9Yx6kHnb"
@@ -5262,12 +5372,34 @@
     },
     {
       "album": {
+        "name": "Unbreakable",
+        "url": "https://open.spotify.com/album/686cBsfdo35oMwrVgu6g19"
+      },
+      "artists": [
+        {
+          "name": "Hoaprox",
+          "url": "https://open.spotify.com/artist/3tuxyjTQrEDsF0pV0WbqyR"
+        },
+        {
+          "name": "Bianca",
+          "url": "https://open.spotify.com/artist/43BmOTbp0fKzSvC4YxykMl"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174400,
+      "name": "Unbreakable",
+      "url": "https://open.spotify.com/track/72KWzvjNEvKwsJAGBFlrHT"
+    },
+    {
+      "album": {
         "name": "underneath",
         "url": "https://open.spotify.com/album/5rpFQpojtrAhk4DCwNkoTp"
       },
       "artists": [
         {
-          "name": "Cudos",
+          "name": "cudos",
           "url": "https://open.spotify.com/artist/1MUIsgpeFNcUbM5EXZvsnc"
         },
         {
@@ -5281,7 +5413,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-30",
+      "date_removed": null,
       "duration_ms": 196285,
       "name": "underneath",
       "url": "https://open.spotify.com/track/100ItW5hfY7iax9m74rssm"

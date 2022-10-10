@@ -1,12 +1,12 @@
 {
   "description": "Key words: Contemporary pop, legends, country music - and something in between. Just good tunes!",
-  "num_followers": 89344,
+  "num_followers": 89342,
   "original_name": "The New Waltz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU3NTAyMDI3NSwwMDAwMDAwMGE5MzQ2MDdhOTNjMzE4OGMyOWQwYzIzZGEyM2Y4YTM0",
+  "snapshot_id": "MTU3NTAyMDI3NSwwMDAwMDAwMDk0MGM3YTgwNWRjZjg5MzViMjA4ZTIzNzlhNTJmZTE2",
   "tracks": [
     {
       "added_at": "2019-11-29 09:37:55",
@@ -127,6 +127,22 @@
     {
       "added_at": "2019-11-29 09:37:55",
       "album": {
+        "name": "Fire & Brimstone",
+        "url": "https://open.spotify.com/album/54NjC2mCWlhIE3Ji4G9Vl0"
+      },
+      "artists": [
+        {
+          "name": "Brantley Gilbert",
+          "url": "https://open.spotify.com/artist/5q8HGNo0BjLWaTAhRtbwxa"
+        }
+      ],
+      "duration_ms": 176506,
+      "name": "Fire\u2019t Up",
+      "url": "https://open.spotify.com/track/748wrs9n0dSXFyY3VRZB9w"
+    },
+    {
+      "added_at": "2019-11-29 09:37:55",
+      "album": {
         "name": "A Star Is Born Soundtrack (Without Dialogue)",
         "url": "https://open.spotify.com/album/3edjzMAVB9RYRd4UcZBchx"
       },
@@ -147,18 +163,34 @@
     {
       "added_at": "2019-11-29 09:37:55",
       "album": {
-        "name": "Fire & Brimstone",
-        "url": "https://open.spotify.com/album/54NjC2mCWlhIE3Ji4G9Vl0"
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/79Eaui1AldvjTjHIY7V6vu"
       },
       "artists": [
         {
-          "name": "Brantley Gilbert",
-          "url": "https://open.spotify.com/artist/5q8HGNo0BjLWaTAhRtbwxa"
+          "name": "Ray LaMontagne",
+          "url": "https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj"
         }
       ],
-      "duration_ms": 176506,
-      "name": "Fire\u2019t Up",
-      "url": "https://open.spotify.com/track/748wrs9n0dSXFyY3VRZB9w"
+      "duration_ms": 307534,
+      "name": "Such A Simple Thing - Recorded at Sound Stage Studios Nashville",
+      "url": "https://open.spotify.com/track/1xYMyM7MxFi4OuzDA2op9Q"
+    },
+    {
+      "added_at": "2019-11-29 09:37:55",
+      "album": {
+        "name": "Everyday Life",
+        "url": "https://open.spotify.com/album/2FeyIYDDAQqcOJKOKhvHdr"
+      },
+      "artists": [
+        {
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+        }
+      ],
+      "duration_ms": 257546,
+      "name": "Champion Of The World",
+      "url": "https://open.spotify.com/track/6mf7BNgXs8JipPr2QILnyN"
     },
     {
       "added_at": "2019-11-29 09:37:55",
@@ -183,34 +215,18 @@
     {
       "added_at": "2019-11-29 09:37:55",
       "album": {
-        "name": "Everyday Life",
-        "url": "https://open.spotify.com/album/2FeyIYDDAQqcOJKOKhvHdr"
+        "name": "Western Stars",
+        "url": "https://open.spotify.com/album/6BhqPpIgY83rqoZ2L78Lte"
       },
       "artists": [
         {
-          "name": "Coldplay",
-          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
         }
       ],
-      "duration_ms": 257546,
-      "name": "Champion Of The World",
-      "url": "https://open.spotify.com/track/6mf7BNgXs8JipPr2QILnyN"
-    },
-    {
-      "added_at": "2019-11-29 09:37:55",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/79Eaui1AldvjTjHIY7V6vu"
-      },
-      "artists": [
-        {
-          "name": "Ray LaMontagne",
-          "url": "https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj"
-        }
-      ],
-      "duration_ms": 307534,
-      "name": "Such A Simple Thing - Recorded at Sound Stage Studios Nashville",
-      "url": "https://open.spotify.com/track/1xYMyM7MxFi4OuzDA2op9Q"
+      "duration_ms": 234240,
+      "name": "Hello Sunshine",
+      "url": "https://open.spotify.com/track/5bpaHLJ08GNBKW35ZfCYJy"
     },
     {
       "added_at": "2019-11-29 09:37:55",
@@ -227,22 +243,6 @@
       "duration_ms": 236880,
       "name": "Preach",
       "url": "https://open.spotify.com/track/2AaF78iCWISMWYog5RnSi5"
-    },
-    {
-      "added_at": "2019-11-29 09:37:55",
-      "album": {
-        "name": "Western Stars",
-        "url": "https://open.spotify.com/album/6BhqPpIgY83rqoZ2L78Lte"
-      },
-      "artists": [
-        {
-          "name": "Bruce Springsteen",
-          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
-        }
-      ],
-      "duration_ms": 234240,
-      "name": "Hello Sunshine",
-      "url": "https://open.spotify.com/track/5bpaHLJ08GNBKW35ZfCYJy"
     },
     {
       "added_at": "2019-11-29 09:37:55",
@@ -279,22 +279,6 @@
       "duration_ms": 190573,
       "name": "If I Can Dream (from the NBC Elvis All-Star Tribute)",
       "url": "https://open.spotify.com/track/6L0bHTV6hf9UL6uCezlJCC"
-    },
-    {
-      "added_at": "2019-11-29 09:37:55",
-      "album": {
-        "name": "Orphans / Arabesque",
-        "url": "https://open.spotify.com/album/6DX4K0afv5l01Pf6lymJuB"
-      },
-      "artists": [
-        {
-          "name": "Coldplay",
-          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
-        }
-      ],
-      "duration_ms": 197533,
-      "name": "Orphans",
-      "url": "https://open.spotify.com/track/6muOWhMh7Tf0UFUtMDBhUR"
     },
     {
       "added_at": "2019-11-29 09:37:55",
@@ -347,6 +331,22 @@
     {
       "added_at": "2019-11-29 09:37:55",
       "album": {
+        "name": "Orphans / Arabesque",
+        "url": "https://open.spotify.com/album/6DX4K0afv5l01Pf6lymJuB"
+      },
+      "artists": [
+        {
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+        }
+      ],
+      "duration_ms": 197533,
+      "name": "Orphans",
+      "url": "https://open.spotify.com/track/6muOWhMh7Tf0UFUtMDBhUR"
+    },
+    {
+      "added_at": "2019-11-29 09:37:55",
+      "album": {
         "name": "The Highwomen",
         "url": "https://open.spotify.com/album/7sGTt1N5XMIQPCYHAnO1Pl"
       },
@@ -379,6 +379,22 @@
     {
       "added_at": "2019-11-29 09:37:55",
       "album": {
+        "name": "The Big Unknown (From \"Widows\")",
+        "url": "https://open.spotify.com/album/19221iQ9OgS1T1SxaccBhl"
+      },
+      "artists": [
+        {
+          "name": "Sade",
+          "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx"
+        }
+      ],
+      "duration_ms": 261466,
+      "name": "The Big Unknown (From \"Widows\")",
+      "url": "https://open.spotify.com/track/3vvTGcClIV5mocdasOIDsb"
+    },
+    {
+      "added_at": "2019-11-29 09:37:55",
+      "album": {
         "name": "Western Stars",
         "url": "https://open.spotify.com/album/6BhqPpIgY83rqoZ2L78Lte"
       },
@@ -395,18 +411,50 @@
     {
       "added_at": "2019-11-29 09:37:55",
       "album": {
-        "name": "The Big Unknown (From \"Widows\")",
-        "url": "https://open.spotify.com/album/19221iQ9OgS1T1SxaccBhl"
+        "name": "CLOSURE",
+        "url": "https://open.spotify.com/album/6ujQJTTGKCCPdFjeTI4bIh"
       },
       "artists": [
         {
-          "name": "Sade",
-          "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx"
+          "name": "Winona Oak",
+          "url": "https://open.spotify.com/artist/3XC57xz74X3xUi1hv4mge1"
         }
       ],
-      "duration_ms": 261466,
-      "name": "The Big Unknown (From \"Widows\")",
-      "url": "https://open.spotify.com/track/3vvTGcClIV5mocdasOIDsb"
+      "duration_ms": 176044,
+      "name": "Let Me Know",
+      "url": "https://open.spotify.com/track/0HT2pC2Wcl2GGyDTcCWpLU"
+    },
+    {
+      "added_at": "2019-11-29 09:37:55",
+      "album": {
+        "name": "1975",
+        "url": "https://open.spotify.com/album/0rhChR1mcH1LVUCTm1JtHZ"
+      },
+      "artists": [
+        {
+          "name": "Billy Raffoul",
+          "url": "https://open.spotify.com/artist/5gw5ANPCVcxU0maLiGRzzP"
+        }
+      ],
+      "duration_ms": 197839,
+      "name": "Until The Hurting Is Gone",
+      "url": "https://open.spotify.com/track/3GeBvpzVmiqbKIAJZoffVc"
+    },
+    {
+      "added_at": "2019-11-29 09:37:55",
+      "album": {
+        "name": "Run Away from It All (Acoustic)",
+        "url": "https://open.spotify.com/album/67YBhDZbe4OOZNwMdXGT4e"
+      },
+      "artists": [
+        {
+          "name": "Blackberry Smoke",
+          "url": "https://open.spotify.com/artist/5P1oS9DUTPEqcrmXDmX4p8"
+        }
+      ],
+      "duration_ms": 267284,
+      "name": "Run Away from It All - Acoustic",
+      "url": "https://open.spotify.com/track/7MOTCiY8t7HHBwaBb2CafC"
     },
     {
       "added_at": "2019-11-29 09:37:55",
@@ -431,38 +479,6 @@
     {
       "added_at": "2019-11-29 09:37:55",
       "album": {
-        "name": "CLOSURE",
-        "url": "https://open.spotify.com/album/6ujQJTTGKCCPdFjeTI4bIh"
-      },
-      "artists": [
-        {
-          "name": "Winona Oak",
-          "url": "https://open.spotify.com/artist/3XC57xz74X3xUi1hv4mge1"
-        }
-      ],
-      "duration_ms": 176044,
-      "name": "Let Me Know",
-      "url": "https://open.spotify.com/track/0HT2pC2Wcl2GGyDTcCWpLU"
-    },
-    {
-      "added_at": "2019-11-29 09:37:55",
-      "album": {
-        "name": "Run Away from It All (Acoustic)",
-        "url": "https://open.spotify.com/album/67YBhDZbe4OOZNwMdXGT4e"
-      },
-      "artists": [
-        {
-          "name": "Blackberry Smoke",
-          "url": "https://open.spotify.com/artist/5P1oS9DUTPEqcrmXDmX4p8"
-        }
-      ],
-      "duration_ms": 267284,
-      "name": "Run Away from It All - Acoustic",
-      "url": "https://open.spotify.com/track/7MOTCiY8t7HHBwaBb2CafC"
-    },
-    {
-      "added_at": "2019-11-29 09:37:55",
-      "album": {
         "name": "Blind Leading the Blind",
         "url": "https://open.spotify.com/album/07axYwrFUra9cfBF0pNZ8X"
       },
@@ -475,22 +491,6 @@
       "duration_ms": 224703,
       "name": "Blind Leading the Blind",
       "url": "https://open.spotify.com/track/0rxQm3nLcecMGkpqDTH77K"
-    },
-    {
-      "added_at": "2019-11-29 09:37:55",
-      "album": {
-        "name": "1975",
-        "url": "https://open.spotify.com/album/0rhChR1mcH1LVUCTm1JtHZ"
-      },
-      "artists": [
-        {
-          "name": "Billy Raffoul",
-          "url": "https://open.spotify.com/artist/5gw5ANPCVcxU0maLiGRzzP"
-        }
-      ],
-      "duration_ms": 197839,
-      "name": "Until The Hurting Is Gone",
-      "url": "https://open.spotify.com/track/3GeBvpzVmiqbKIAJZoffVc"
     },
     {
       "added_at": "2019-11-29 09:37:55",
@@ -591,26 +591,50 @@
     {
       "added_at": "2019-11-29 09:37:55",
       "album": {
-        "name": "Threads",
-        "url": "https://open.spotify.com/album/4b65ZJhMr04pEScAjHYpg7"
+        "name": "Good Thing Gone",
+        "url": "https://open.spotify.com/album/2w6vx42lq9GcPoz1iMeFuV"
       },
       "artists": [
         {
-          "name": "Sheryl Crow",
-          "url": "https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD"
-        },
-        {
-          "name": "Stevie Nicks",
-          "url": "https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz"
-        },
-        {
-          "name": "Maren Morris",
-          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
+          "name": "Elle King",
+          "url": "https://open.spotify.com/artist/3bhu7P5PfngueRHiB9hjcx"
         }
       ],
-      "duration_ms": 221054,
-      "name": "Prove You Wrong",
-      "url": "https://open.spotify.com/track/4mWc6pp9qeSoQEZ2jYd7a0"
+      "duration_ms": 292594,
+      "name": "Good Thing Gone",
+      "url": "https://open.spotify.com/track/4AhTpAErJb7HZFV7tcUPWD"
+    },
+    {
+      "added_at": "2019-11-29 09:37:55",
+      "album": {
+        "name": "25 Years Later",
+        "url": "https://open.spotify.com/album/4QKirfSQTnnbswBaDl4tl8"
+      },
+      "artists": [
+        {
+          "name": "The Kelly Family",
+          "url": "https://open.spotify.com/artist/5KU4DdFlZy6aiI5u6nhywP"
+        }
+      ],
+      "duration_ms": 227800,
+      "name": "Over The Hump",
+      "url": "https://open.spotify.com/track/5VU0m0N5Y8kHJBjJp40Ipb"
+    },
+    {
+      "added_at": "2019-11-29 09:37:55",
+      "album": {
+        "name": "My Name Is Michael Holbrook",
+        "url": "https://open.spotify.com/album/4bVlbOipapiqrTusSsgvIc"
+      },
+      "artists": [
+        {
+          "name": "MIKA",
+          "url": "https://open.spotify.com/artist/5MmVJVhhYKQ86izuGHzJYA"
+        }
+      ],
+      "duration_ms": 204053,
+      "name": "Sanremo",
+      "url": "https://open.spotify.com/track/1tH4JALrku66weg6Bx5fC9"
     },
     {
       "added_at": "2019-11-29 09:37:55",
@@ -635,40 +659,48 @@
     {
       "added_at": "2019-11-29 09:37:55",
       "album": {
-        "name": "My Name Is Michael Holbrook",
-        "url": "https://open.spotify.com/album/4bVlbOipapiqrTusSsgvIc"
+        "name": "Threads",
+        "url": "https://open.spotify.com/album/4b65ZJhMr04pEScAjHYpg7"
       },
       "artists": [
         {
-          "name": "MIKA",
-          "url": "https://open.spotify.com/artist/5MmVJVhhYKQ86izuGHzJYA"
+          "name": "Sheryl Crow",
+          "url": "https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD"
+        },
+        {
+          "name": "Stevie Nicks",
+          "url": "https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz"
+        },
+        {
+          "name": "Maren Morris",
+          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
         }
       ],
-      "duration_ms": 204053,
-      "name": "Sanremo",
-      "url": "https://open.spotify.com/track/1tH4JALrku66weg6Bx5fC9"
+      "duration_ms": 221054,
+      "name": "Prove You Wrong",
+      "url": "https://open.spotify.com/track/4mWc6pp9qeSoQEZ2jYd7a0"
     },
     {
       "added_at": "2019-11-29 09:37:55",
       "album": {
-        "name": "25 Years Later",
-        "url": "https://open.spotify.com/album/4QKirfSQTnnbswBaDl4tl8"
+        "name": "Western Stars",
+        "url": "https://open.spotify.com/album/6BhqPpIgY83rqoZ2L78Lte"
       },
       "artists": [
         {
-          "name": "The Kelly Family",
-          "url": "https://open.spotify.com/artist/5KU4DdFlZy6aiI5u6nhywP"
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
         }
       ],
-      "duration_ms": 227800,
-      "name": "Over The Hump",
-      "url": "https://open.spotify.com/track/5VU0m0N5Y8kHJBjJp40Ipb"
+      "duration_ms": 209280,
+      "name": "Tucson Train",
+      "url": "https://open.spotify.com/track/4HK0sl3lqQH0RR0dA0ZQH5"
     },
     {
       "added_at": "2019-11-29 09:37:55",
       "album": {
-        "name": "Good Thing Gone",
-        "url": "https://open.spotify.com/album/2w6vx42lq9GcPoz1iMeFuV"
+        "name": "Shake The Spirit",
+        "url": "https://open.spotify.com/album/0YYboPBsKcVDrXiNfNIi7o"
       },
       "artists": [
         {
@@ -676,9 +708,9 @@
           "url": "https://open.spotify.com/artist/3bhu7P5PfngueRHiB9hjcx"
         }
       ],
-      "duration_ms": 292594,
-      "name": "Good Thing Gone",
-      "url": "https://open.spotify.com/track/4AhTpAErJb7HZFV7tcUPWD"
+      "duration_ms": 159267,
+      "name": "Shame",
+      "url": "https://open.spotify.com/track/6pvVzR8VcSQol4EbaUrN0e"
     },
     {
       "added_at": "2019-11-29 09:37:55",
@@ -719,18 +751,18 @@
     {
       "added_at": "2019-11-29 09:37:55",
       "album": {
-        "name": "Western Stars",
-        "url": "https://open.spotify.com/album/6BhqPpIgY83rqoZ2L78Lte"
+        "name": "We Need Love (from Songland)",
+        "url": "https://open.spotify.com/album/5ek765URdBnZNbVtzDmQ8c"
       },
       "artists": [
         {
-          "name": "Bruce Springsteen",
-          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+          "name": "John Legend",
+          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
         }
       ],
-      "duration_ms": 209280,
-      "name": "Tucson Train",
-      "url": "https://open.spotify.com/track/4HK0sl3lqQH0RR0dA0ZQH5"
+      "duration_ms": 159346,
+      "name": "We Need Love - from Songland",
+      "url": "https://open.spotify.com/track/2GtSvnYFfj7vvpo9B0FqlI"
     },
     {
       "added_at": "2019-11-29 09:37:55",
@@ -755,34 +787,18 @@
     {
       "added_at": "2019-11-29 09:37:55",
       "album": {
-        "name": "Shake The Spirit",
-        "url": "https://open.spotify.com/album/0YYboPBsKcVDrXiNfNIi7o"
+        "name": "The Best Of Everything - The Definitive Career Spanning Hits Collection 1976-2016",
+        "url": "https://open.spotify.com/album/32OhZ2CWxc259H9w52JMTH"
       },
       "artists": [
         {
-          "name": "Elle King",
-          "url": "https://open.spotify.com/artist/3bhu7P5PfngueRHiB9hjcx"
+          "name": "Tom Petty and the Heartbreakers",
+          "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
         }
       ],
-      "duration_ms": 159267,
-      "name": "Shame",
-      "url": "https://open.spotify.com/track/6pvVzR8VcSQol4EbaUrN0e"
-    },
-    {
-      "added_at": "2019-11-29 09:37:55",
-      "album": {
-        "name": "We Need Love (from Songland)",
-        "url": "https://open.spotify.com/album/5ek765URdBnZNbVtzDmQ8c"
-      },
-      "artists": [
-        {
-          "name": "John Legend",
-          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
-        }
-      ],
-      "duration_ms": 159346,
-      "name": "We Need Love - from Songland",
-      "url": "https://open.spotify.com/track/2GtSvnYFfj7vvpo9B0FqlI"
+      "duration_ms": 231946,
+      "name": "For Real",
+      "url": "https://open.spotify.com/track/4SazNxh9XSYD65EHiv2ZTx"
     },
     {
       "added_at": "2019-11-29 09:37:55",
@@ -799,22 +815,6 @@
       "duration_ms": 176690,
       "name": "I've Gotta Be Me",
       "url": "https://open.spotify.com/track/19I5aPSNdfo86gMAekHWxT"
-    },
-    {
-      "added_at": "2019-11-29 09:37:55",
-      "album": {
-        "name": "The Best Of Everything - The Definitive Career Spanning Hits Collection 1976-2016",
-        "url": "https://open.spotify.com/album/32OhZ2CWxc259H9w52JMTH"
-      },
-      "artists": [
-        {
-          "name": "Tom Petty and the Heartbreakers",
-          "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
-        }
-      ],
-      "duration_ms": 231946,
-      "name": "For Real",
-      "url": "https://open.spotify.com/track/4SazNxh9XSYD65EHiv2ZTx"
     },
     {
       "added_at": "2019-11-29 09:37:55",
@@ -871,22 +871,6 @@
     {
       "added_at": "2019-11-29 09:37:55",
       "album": {
-        "name": "Egypt Station",
-        "url": "https://open.spotify.com/album/3uLrSFrNqa8CULSIU7e9v5"
-      },
-      "artists": [
-        {
-          "name": "Paul McCartney",
-          "url": "https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB"
-        }
-      ],
-      "duration_ms": 302218,
-      "name": "Dominoes",
-      "url": "https://open.spotify.com/track/7DUTYJGWHalTp97kFDmU64"
-    },
-    {
-      "added_at": "2019-11-29 09:37:55",
-      "album": {
         "name": "Chip Tooth Smile",
         "url": "https://open.spotify.com/album/0vCpM6bbidKly1aRrf8wmz"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 175573,
       "name": "We Were Beautiful",
       "url": "https://open.spotify.com/track/7xkcFfIfRWPbdiuUU2jvZG"
+    },
+    {
+      "added_at": "2019-11-29 09:37:55",
+      "album": {
+        "name": "Egypt Station",
+        "url": "https://open.spotify.com/album/3uLrSFrNqa8CULSIU7e9v5"
+      },
+      "artists": [
+        {
+          "name": "Paul McCartney",
+          "url": "https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB"
+        }
+      ],
+      "duration_ms": 302218,
+      "name": "Dominoes",
+      "url": "https://open.spotify.com/track/7DUTYJGWHalTp97kFDmU64"
     },
     {
       "added_at": "2019-11-29 09:37:55",
@@ -967,6 +967,22 @@
     {
       "added_at": "2019-11-29 09:37:55",
       "album": {
+        "name": "Streets of You",
+        "url": "https://open.spotify.com/album/55TITZzyt9c9nDAljqL1l0"
+      },
+      "artists": [
+        {
+          "name": "Eagle-Eye Cherry",
+          "url": "https://open.spotify.com/artist/3ngKsDXZAssmljeXCvEgOe"
+        }
+      ],
+      "duration_ms": 193600,
+      "name": "Remember to Breathe",
+      "url": "https://open.spotify.com/track/3WopNrzzNTuCr0QXVRhWUQ"
+    },
+    {
+      "added_at": "2019-11-29 09:37:55",
+      "album": {
         "name": "Threads",
         "url": "https://open.spotify.com/album/4b65ZJhMr04pEScAjHYpg7"
       },
@@ -995,22 +1011,6 @@
     {
       "added_at": "2019-11-29 09:37:55",
       "album": {
-        "name": "Streets of You",
-        "url": "https://open.spotify.com/album/55TITZzyt9c9nDAljqL1l0"
-      },
-      "artists": [
-        {
-          "name": "Eagle-Eye Cherry",
-          "url": "https://open.spotify.com/artist/3ngKsDXZAssmljeXCvEgOe"
-        }
-      ],
-      "duration_ms": 193600,
-      "name": "Remember to Breathe",
-      "url": "https://open.spotify.com/track/3WopNrzzNTuCr0QXVRhWUQ"
-    },
-    {
-      "added_at": "2019-11-29 09:37:55",
-      "album": {
         "name": "These Days",
         "url": "https://open.spotify.com/album/0OyJRO76yPcp9woysD5VT6"
       },
@@ -1027,6 +1027,22 @@
     {
       "added_at": "2019-11-29 09:37:55",
       "album": {
+        "name": "Shine A Light",
+        "url": "https://open.spotify.com/album/5Y3mOR1wCRhEhUmncrlLOO"
+      },
+      "artists": [
+        {
+          "name": "Bryan Adams",
+          "url": "https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc"
+        }
+      ],
+      "duration_ms": 206026,
+      "name": "Shine A Light",
+      "url": "https://open.spotify.com/track/3ScCe5tFbRmWdiOdzmaFzr"
+    },
+    {
+      "added_at": "2019-11-29 09:37:55",
+      "album": {
         "name": "Fuh You",
         "url": "https://open.spotify.com/album/5mHdvZojPyBMhgmvQ6HW4U"
       },
@@ -1039,22 +1055,6 @@
       "duration_ms": 203719,
       "name": "Fuh You",
       "url": "https://open.spotify.com/track/6oHXWqyJ9zZngrWch8XjvZ"
-    },
-    {
-      "added_at": "2019-11-29 09:37:55",
-      "album": {
-        "name": "Free",
-        "url": "https://open.spotify.com/album/2aRxolqVA2v2TFeuWPIuEI"
-      },
-      "artists": [
-        {
-          "name": "Iggy Pop",
-          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
-        }
-      ],
-      "duration_ms": 259106,
-      "name": "Loves Missing",
-      "url": "https://open.spotify.com/track/78W2JgujSHp98M87UJkcjM"
     }
   ],
   "unique_name": "The New Waltz",

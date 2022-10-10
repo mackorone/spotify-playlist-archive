@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-10",
-  "description": "la nueva ola de artistas con Nicole Favre en portada. \ud83c\udf0a\u2728 ",
+  "description": "la nueva ola de artistas con Kevin Kaarl en portada. \ud83c\udf0a\u2728 ",
   "name": "la pop~wave",
   "published_playlist_ids": [
     "6I4k19QivQTwxJMIU1FW10"
@@ -707,7 +707,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 148370,
       "name": "Contigo",
       "url": "https://open.spotify.com/track/7mEjQJxrT6jaukzzYMeHVG"
@@ -1058,6 +1058,28 @@
     },
     {
       "album": {
+        "name": "Enferma Despedida",
+        "url": "https://open.spotify.com/album/0ZlbvOSPxMkOHxAOEN0lZ2"
+      },
+      "artists": [
+        {
+          "name": "Jacinto",
+          "url": "https://open.spotify.com/artist/1JYd1ixkJMTMLZ64Byk2uj"
+        },
+        {
+          "name": "RENEE",
+          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152960,
+      "name": "Enferma Despedida",
+      "url": "https://open.spotify.com/track/48WuFR4lmQPfSRpxvvHiGp"
+    },
+    {
+      "album": {
         "name": "es mejor",
         "url": "https://open.spotify.com/album/7CxEhuohjm1rOzuJBszNRZ"
       },
@@ -1315,7 +1337,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 236013,
       "name": "La Del Campo De Fresas",
       "url": "https://open.spotify.com/track/21xwVpmT4Jp9DcJHsm5AoG"
@@ -2762,6 +2784,28 @@
     },
     {
       "album": {
+        "name": "quiero que seas t\u00fa <3",
+        "url": "https://open.spotify.com/album/15YdEPMDeS41taHKc8SVTV"
+      },
+      "artists": [
+        {
+          "name": "Carlos Unger",
+          "url": "https://open.spotify.com/artist/6HjZFRvUOPRuaPNzUxtqWf"
+        },
+        {
+          "name": "Karina Galicia",
+          "url": "https://open.spotify.com/artist/0syMDHmkYbx5dG8bOnZ60z"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215417,
+      "name": "quiero que seas t\u00fa <3",
+      "url": "https://open.spotify.com/track/4SSuBEqhW6CR8yOzmMxTyE"
+    },
+    {
+      "album": {
         "name": "Quiero Quedarme para Siempre",
         "url": "https://open.spotify.com/album/7AQmikvyjRWLYx5cey4JIG"
       },
@@ -3703,7 +3747,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 122693,
       "name": "Tra",
       "url": "https://open.spotify.com/track/443PZH5mjxvjZe2E06fbg6"
@@ -3743,6 +3787,24 @@
       "duration_ms": 180735,
       "name": "Tu Story",
       "url": "https://open.spotify.com/track/6Zfe19c1eJgj6mpsLEeOzW"
+    },
+    {
+      "album": {
+        "name": "Monstruos",
+        "url": "https://open.spotify.com/album/5eBqDH63grduGAMyVGiYRe"
+      },
+      "artists": [
+        {
+          "name": "Bruses",
+          "url": "https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142000,
+      "name": "T\u00e9 De Pi\u00f1a",
+      "url": "https://open.spotify.com/track/1oWmADHtpjSRWFGI6OPC67"
     },
     {
       "album": {

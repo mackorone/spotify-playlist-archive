@@ -4,7 +4,7 @@
 
 > One\-of\-a\-kind Japanese composer/arranger/musician/lyricist/pianist, best known for his works on many anime series, television dramas, and films\. 代表作「進撃の巨人」シリーズ劇伴をはじめ、数々の名曲を世界に送り出している音楽家。SawanoHiroyuki\[nZk\]名義でも精力的に活動中。
 
-115 songs - 8 hr 4 min - [published](https://open.spotify.com/playlist/2rE5a26Axvv4DWNYd8FyYO)
+116 songs - 8 hr 8 min - [published](https://open.spotify.com/playlist/2rE5a26Axvv4DWNYd8FyYO)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,7 +54,8 @@
 | [His/Story](https://open.spotify.com/track/2PvKDoq2wPHhY4oqicrBwJ) | [Takanori Nishikawa](https://open.spotify.com/artist/2ayMogRmamCnzMAk4YiFAz) | [His/Story / Roll The Dice](https://open.spotify.com/album/36kha76MJobek1T7CzFASG) | 3:54 | 2022-06-07 | 2022-07-29 |
 | [Inferno](https://open.spotify.com/track/1haosXb8XNSXWBuNirom1g) | [Hiroyuki Sawano](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y) | [「プロメア」オリジナルサウンドトラック](https://open.spotify.com/album/69VJ66DL7INzABSeI90Ufh) | 3:54 | 2022-06-07 | 2022-07-29 |
 | [Inferno](https://open.spotify.com/track/6ZXVnfb7cIIDxg1DfLCP1M) | [Hiroyuki Sawano](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y) | [「プロメア」オリジナルサウンドトラック](https://open.spotify.com/album/1QZBK8EZ4KSQTlunvEwL7o) | 3:54 | 2022-06-21 |  |
-| [Into the Sky](https://open.spotify.com/track/7rZ5VNIFZo8nC8XSSCvv7K) | [SawanoHiroyuki\[nZk\]](https://open.spotify.com/artist/2EWXgN0xWOnbqJOxa9pWNO), [Tielle](https://open.spotify.com/artist/0o6gAoBM3HpKhCOYQSolLe) | [2V\-Alk](https://open.spotify.com/album/3ncBgCOeYrUJ9hGmySHiUb) | 3:51 | 2022-06-21 |  |
+| [Into the Sky](https://open.spotify.com/track/24BcGYViz1fPTXgqpp1sel) | [SawanoHiroyuki\[nZk\]](https://open.spotify.com/artist/2EWXgN0xWOnbqJOxa9pWNO), [Tielle](https://open.spotify.com/artist/0o6gAoBM3HpKhCOYQSolLe) | [2V\-ALK](https://open.spotify.com/album/6fYnxGhxTWbHLFBnuigaZc) | 3:51 | 2022-09-29 |  |
+| [Into the Sky](https://open.spotify.com/track/7rZ5VNIFZo8nC8XSSCvv7K) | [SawanoHiroyuki\[nZk\]](https://open.spotify.com/artist/2EWXgN0xWOnbqJOxa9pWNO), [Tielle](https://open.spotify.com/artist/0o6gAoBM3HpKhCOYQSolLe) | [2V\-Alk](https://open.spotify.com/album/3ncBgCOeYrUJ9hGmySHiUb) | 3:51 | 2022-06-21 | 2022-10-03 |
 | [Into the Sky](https://open.spotify.com/track/6tlNCRtMwXKf0gw33ynf3X) | [SawanoHiroyuki\[nZk\]:Tielle](https://open.spotify.com/artist/4smWxSH6ikie95jXI9S0Br) | [Into the Sky](https://open.spotify.com/album/4PT63MlJlgFJtBYoNNjMxW) | 3:49 | 2022-06-07 | 2022-07-29 |
 | [Keep on keeping on <MODv>](https://open.spotify.com/track/2g6To9Iv78g0o7An2gPgcA) | [SawanoHiroyuki\[nZk\]](https://open.spotify.com/artist/2EWXgN0xWOnbqJOxa9pWNO), [mizuki](https://open.spotify.com/artist/0Pt3k7cpeOysqGGiw3tQcS) | [iv](https://open.spotify.com/album/5gCI0vdexP2ItOqQnENQ6w) | 3:44 | 2022-06-07 |  |
 | [kIng](https://open.spotify.com/track/11lbUUMW8T5MFpHTYLulmg) | [Emiko Suzuki](https://open.spotify.com/artist/76epfImetf9M3joFnNTrlJ) | [kIng](https://open.spotify.com/album/05KfSFZpuYmktTahDYnjbZ) | 3:50 | 2022-06-07 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7buHbubC96caOTOSQQJ4pl.md) - [plain]
 
 > Another great metal year is coming to a close\. Explore this year's highlights in metal with this playlist!
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,876 likes - 116 songs - 10 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,875 likes - 116 songs - 10 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

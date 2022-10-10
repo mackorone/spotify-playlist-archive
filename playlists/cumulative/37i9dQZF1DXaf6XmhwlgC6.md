@@ -4,7 +4,7 @@
 
 > Music from the ether to focus to.
 
-108 songs - 6 hr 18 min - [published](https://open.spotify.com/playlist/4H4DMjqQpBwmgjBZppzOqM)
+109 songs - 6 hr 21 min - [published](https://open.spotify.com/playlist/4H4DMjqQpBwmgjBZppzOqM)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,6 +43,7 @@
 | [Happy Easters](https://open.spotify.com/track/7fRke8rCGhCzTkPzIh7jqE) | [Gareth Dickson](https://open.spotify.com/artist/5K679k3u9KgR60ESQxyihW) | [Quite A Way Away](https://open.spotify.com/album/2FeEWF8kbqpAjMFv5elAwM) | 5:56 | 2022-03-30 |  |
 | [High Up](https://open.spotify.com/track/794SxkpLERVaBoag5946LG) | [Mirror Inside](https://open.spotify.com/artist/7qoAxsJr24mbtIRupSaI3Z) | [High Up](https://open.spotify.com/album/4DrcJ7w0o3G59qIlS25Mdx) | 2:18 | 2022-03-30 |  |
 | [Horizons](https://open.spotify.com/track/53TsZT0ySAHpRJ8GClsekU) | [Hers Lake](https://open.spotify.com/artist/7EqcX6VMuJAQViJqJrL2yA) | [Horizons](https://open.spotify.com/album/2JualanmCPX3pupSVgIMWZ) | 2:43 | 2022-03-30 |  |
+| [I Found You](https://open.spotify.com/track/5FV8186V5bGlGQa3RhzOcM) | [Black Brunswicker](https://open.spotify.com/artist/3EobQTdmT0DDyzqaByPmB4) | [Under an Autumnal Sky](https://open.spotify.com/album/3NGahLW8AiKzVk3d1laAyR) | 3:24 | 2022-10-07 |  |
 | [I'll Be Gone](https://open.spotify.com/track/5s0gxKFZCSQ6USPwKMdgUu) | [Smoky](https://open.spotify.com/artist/3y90MDsIV7MPY0MckhOOQg) | [It Sounds a Bit Like Heaven](https://open.spotify.com/album/3nPxg4CCoDJFNee7p29QZP) | 2:31 | 2022-05-19 |  |
 | [In Deep Colors](https://open.spotify.com/track/4UZ2mG3RkVtXBBCwHNdN3J) | [Hyalite Glow](https://open.spotify.com/artist/3DT9YiO0OHVX5mEsehDD89) | [In Deep Colors](https://open.spotify.com/album/0hg2UklcSrQrctoVPNbhbw) | 3:21 | 2022-09-02 |  |
 | [jubilance](https://open.spotify.com/track/4F21Bmd7GOjukwGjOUy67I) | [Däalo](https://open.spotify.com/artist/63MSacJKhcx4g646lJsDL7) | [Great Heights, Great Falls](https://open.spotify.com/album/4PQdI5zCwFWpV3D2exeGSl) | 2:42 | 2022-03-30 |  |

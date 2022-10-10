@@ -1058,6 +1058,24 @@
     },
     {
       "album": {
+        "name": "YeahYeahYeah",
+        "url": "https://open.spotify.com/album/3Js1lqJTK5j3fZaZGOixPU"
+      },
+      "artists": [
+        {
+          "name": "Candy Dulfer",
+          "url": "https://open.spotify.com/artist/287jMoxHzjERgHI6ja8TKa"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 317173,
+      "name": "YeahYeahYeah",
+      "url": "https://open.spotify.com/track/7vipNil0y3l3idt9cM3ehi"
+    },
+    {
+      "album": {
         "name": "The Greatest Of Pleasure",
         "url": "https://open.spotify.com/album/6n3TTv12yYErhIaMiL7Fwn"
       },

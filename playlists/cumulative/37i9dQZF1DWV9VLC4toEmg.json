@@ -746,6 +746,24 @@
     },
     {
       "album": {
+        "name": "Fluffy Pillow",
+        "url": "https://open.spotify.com/album/3BafvyZxxVaBbAg7cJ5rcQ"
+      },
+      "artists": [
+        {
+          "name": "Willy Ymer",
+          "url": "https://open.spotify.com/artist/6F5ZrBdFO0aI22v3p4GPK3"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166874,
+      "name": "Rubbing it",
+      "url": "https://open.spotify.com/track/6xYKogdbhvY0BoR50nGdSc"
+    },
+    {
+      "album": {
         "name": "My ASMR World",
         "url": "https://open.spotify.com/album/5NTLeAufx999xaNaHVP4Yq"
       },

@@ -4,7 +4,7 @@
 
 > Travel back to the start, tracing the roots of what would become bluegrass through to some of it's early hits and gems\. Cover: Hazel Dickens & Alice Gerrard
 
-72 songs - 3 hr 1 min - [published](https://open.spotify.com/playlist/07yp3lWFtNeOSgqePmPMKz)
+74 songs - 3 hr 8 min - [published](https://open.spotify.com/playlist/07yp3lWFtNeOSgqePmPMKz)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [Going Back To Old Kentucky](https://open.spotify.com/track/1LiJvHne4paypOp1CHWQtF) | [The Lonesome Pine Fiddlers](https://open.spotify.com/artist/0dNvkcqD114TM9zFeyhxMC) | [Best Of Bluegrass Vol\. 1](https://open.spotify.com/album/0stlomchzhSnSaarj9UeZI) | 2:05 | 2018-04-04 | 2022-09-10 |
 | [Here old rattler here / Sent for my fiddle sent for my bow \(Sent for my fiddle sent for my son\) / Georgia Buck](https://open.spotify.com/track/1YTx4scjuDF6L12gH9zsWt) | [Elizabeth Cotten](https://open.spotify.com/artist/1eTZGzLkukATM7FoGltyFs) | [Freight Train and Other North Carolina Folk Songs and Tunes](https://open.spotify.com/album/37QSIS1QNLCfRvC3OUcqgd) | 3:48 | 2018-04-04 |  |
 | [High on the Mountain](https://open.spotify.com/track/3H88Mnt8OpEVKqtFK4VvLt) | [Ola Belle Reed](https://open.spotify.com/artist/0jUzzv49Ke4m0qqcuudBsw), [David Reed](https://open.spotify.com/artist/3aPOHzWoJLndm8DWc66g8r) | [Rising Sun Melodies](https://open.spotify.com/album/1oAai33BPMT0OdEWNdJEHB) | 3:06 | 2018-04-04 |  |
+| [Home to the Mountains](https://open.spotify.com/track/57sK732mNfISkoPhiHVlfc) | [Betty Fisher](https://open.spotify.com/artist/37JcV5BAEqxOfKkeKQf9pr) | [Smiling Faces & Different Places](https://open.spotify.com/album/6DxIJfgKCZkfcojIPoIjdo) | 3:24 | 2022-10-07 |  |
 | [How Mountain Girls Can Love](https://open.spotify.com/track/3h4ZRO4FPpK53fOYLVZOxJ) | [The Stanley Brothers](https://open.spotify.com/artist/0qqGnmHBX2yVvCITRAvuRD) | [The Stanley Brothers And The Clinch Mountain Boys](https://open.spotify.com/album/4g3jAc1BMq3LCl0YuY6Asz) | 2:07 | 2018-04-04 | 2022-07-29 |
 | [How Mountain Girls Can Love \- Original Gusto Recordings](https://open.spotify.com/track/6HoK2GX9eOU256CMrIUowb) | [The Stanley Brothers](https://open.spotify.com/artist/0qqGnmHBX2yVvCITRAvuRD) | [The Stanley Brothers In Person \(Original Gusto Recordings\)](https://open.spotify.com/album/0xMFn5gLOTDF70vZH9b2Kz) | 2:04 | 2018-04-04 |  |
 | [I Get My Whiskey From Rockingham](https://open.spotify.com/track/4cflYCggviRhnRG5S7imFv) | [Earl Johnson](https://open.spotify.com/artist/5gQB55Wng31KUOSUFQHkBM) | [Earl Johnson Vol\. 1 1927](https://open.spotify.com/album/3Rzrkz2HjdEApCXVeO1KoO) | 3:01 | 2018-04-04 |  |
@@ -51,6 +52,7 @@
 | [Molly & Tenbrooks \- 1957 Single Version](https://open.spotify.com/track/2IwObx0kyltn3kF4Ene9Mn) | [Bill Monroe & His Blue Grass Boys](https://open.spotify.com/artist/64vAECmFoB6mi7n1zTRwR8) | [Anthology](https://open.spotify.com/album/3jOrYZPtUL54bBR71yGixE) | 2:20 | 2018-04-04 |  |
 | [Molly & Tenbrooks \- 1957 Single Version](https://open.spotify.com/track/5HuQt467HFhwROFQeokgJH) | [Bill Monroe & His Blue Grass Boys](https://open.spotify.com/artist/64vAECmFoB6mi7n1zTRwR8) | [20th Century Masters: The Millennium Collection: Best Of Bill Monroe](https://open.spotify.com/album/52sqlqfTLSEJMfO3sEmfC9) | 2:22 | 2018-04-04 | 2022-07-29 |
 | [Nine Pound Hammer Is Too Heavy](https://open.spotify.com/track/23XllLrWH3QweaZ88w6Bxa) | [Bill Monroe](https://open.spotify.com/artist/5CWbfANRpZbnxdstzcNg5H) | [Greatest Hits](https://open.spotify.com/album/4DgDjkzC2O9wIl7rtUqlO2) | 2:40 | 2018-04-04 |  |
+| [Old Home Place](https://open.spotify.com/track/27NYrTdi2Xch1tT9rPtTeX) | [Hubert Cox](https://open.spotify.com/artist/5LGQeUvliIiwY557PnfwTj), [The Southern Grass](https://open.spotify.com/artist/2e5sKadYYbrCBlOhIPuYQB) | [Your Requests](https://open.spotify.com/album/1VDe4RTsD9IefuLu5aAoqc) | 2:50 | 2022-10-07 |  |
 | [On the Banks of the Ohio](https://open.spotify.com/track/5ns4O5fVbhx3BpfqVHA0fC) | [The Monroe Brothers](https://open.spotify.com/artist/4eaGB6IFAhm0pqXElO5MJZ) | [The Essential Bill Monroe](https://open.spotify.com/album/3kAqAMODlj5rjUiqtzlrIo) | 3:26 | 2018-04-04 |  |
 | [Orange Blossom Special](https://open.spotify.com/track/0IaemLXkOOagp5IMG1b73v) | [The Rouse Brothers](https://open.spotify.com/artist/19PcAMFuV5N5B5aj6I8CiU) | [East Virginia Blues \(When The Sun Goes Down Series\)](https://open.spotify.com/album/66wStchYv8JtHijDL3UlA4) | 2:53 | 2018-04-04 |  |
 | [Rabbit In the Log \(with The Virginia Boys\)](https://open.spotify.com/track/6ASifFs9LjXe5sPOiCMGkW) | [Jim & Jesse](https://open.spotify.com/artist/4lCaf25RGJ4ZPz2fsGUVcq), [The Virginia Boys](https://open.spotify.com/artist/0a7GoDJVPmN1ThQg8Kmh31) | [Y'all Come: The Essential Jim & Jesse](https://open.spotify.com/album/0L7k1GF5r8pNMv5xXJ4ptD) | 2:40 | 2018-04-04 |  |

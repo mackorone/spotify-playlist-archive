@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-10",
-  "description": "The best workout playlist is here. Listen to rap and electronic bangers from Nicki Minaj, DJ Snake, and others to power you through.",
+  "description": "The best workout playlist is here. Listen to rap and electronic bangers from Nicki Minaj, DJ Snake, and more.",
   "name": "Workout Bangers",
   "published_playlist_ids": [
     "7g7wPnfrY0sMCexNWzHf2K"
@@ -85,7 +85,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-04",
       "duration_ms": 157440,
       "name": "Blessed - Maliboux Remix",
       "url": "https://open.spotify.com/track/5hb3WmB7mSQoJCxe1PjWak"
@@ -129,6 +129,24 @@
       "duration_ms": 162954,
       "name": "BLOOD SWEAT & TEARS",
       "url": "https://open.spotify.com/track/2sGHNzT76rKbSmAGs8ENH2"
+    },
+    {
+      "album": {
+        "name": "Blow",
+        "url": "https://open.spotify.com/album/07AiRVrtrniKqkxHpLLY2g"
+      },
+      "artists": [
+        {
+          "name": "Moneybagg Yo",
+          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
+        }
+      ],
+      "date_added": "2022-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182533,
+      "name": "Blow",
+      "url": "https://open.spotify.com/track/2g3qKijfeHfDyM7Fmaoi5M"
     },
     {
       "album": {
@@ -973,7 +991,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-07",
+      "date_removed": null,
       "duration_ms": 363521,
       "name": "Rap God",
       "url": "https://open.spotify.com/track/6or1bKJiZ06IlK0vFvY75k"
@@ -1281,7 +1299,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-07",
+      "date_removed": null,
       "duration_ms": 206666,
       "name": "Temper",
       "url": "https://open.spotify.com/track/5Zt29iKebWhkpbnsv92HuT"

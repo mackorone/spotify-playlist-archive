@@ -4,7 +4,7 @@
 
 > 벚꽃이 흩날리고 새싹이 피어오르는 봄의 설레임을 만끽하세요.
 
-143 songs - 8 hr 16 min - [published](https://open.spotify.com/playlist/3bTGjCbNqBInmwb7ojPDvw)
+144 songs - 8 hr 19 min - [published](https://open.spotify.com/playlist/3bTGjCbNqBInmwb7ojPDvw)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,7 +53,7 @@
 | [I'LL BE YOUR SPRING](https://open.spotify.com/track/4C1gPXWkowF036ec0eeyMn) | [Olivia Hye](https://open.spotify.com/artist/0xK6mUZIqDGnxW10RnpycG) | [I'LL BE YOUR SPRING](https://open.spotify.com/album/6AyLZAoKDzbNTRdlGfD8zf) | 3:09 | 2022-05-11 |  |
 | [I'm busy](https://open.spotify.com/track/21QltCzKyoezfGmgjHhXcM) | [IGWI](https://open.spotify.com/artist/4whp4PfaJKVotmQSuMlO4U) | [I'm busy](https://open.spotify.com/album/3Oj5jVbZ57FS5waEWgAf0K) | 3:21 | 2022-05-11 | 2022-07-27 |
 | [If I \(with Yun DDanDDan\)](https://open.spotify.com/track/2Leb6RTSFvdVEXW20Pnv1U) | [saevom](https://open.spotify.com/artist/4GAVUIrGNz35VbCFfHTsca), [Yun DDanDDan](https://open.spotify.com/artist/0fnx3yyvXH5E0UATpygzzt) | [If I \(with Yun DDanDDan\)](https://open.spotify.com/album/6qGRlVGMoRhvsKjkixQe6Y) | 3:49 | 2022-05-11 |  |
-| [Is you](https://open.spotify.com/track/3psUv10FonfFanuBDiM4lb) | [Jay chang](https://open.spotify.com/artist/7H2xroGGrPmbmHtwBOZyLT) | [Is you](https://open.spotify.com/album/6KAKOjRxl9jV0mwLaNEYpk) | 3:51 | 2022-07-04 |  |
+| [Is you](https://open.spotify.com/track/3psUv10FonfFanuBDiM4lb) | [Jay Chang](https://open.spotify.com/artist/7H2xroGGrPmbmHtwBOZyLT) | [Is you](https://open.spotify.com/album/6KAKOjRxl9jV0mwLaNEYpk) | 3:51 | 2022-07-04 |  |
 | [Is you](https://open.spotify.com/track/36HZ2Z3rvP3i4YFB5tUjY9) | [Jay chang](https://open.spotify.com/artist/7H2xroGGrPmbmHtwBOZyLT) | [Is you](https://open.spotify.com/album/7y8QDramTNvHWnbFANijH1) | 3:51 | 2022-05-11 | 2022-07-28 |
 | [Jeju Island blue night](https://open.spotify.com/track/55U6vYIrmGogHjPhZB6kO4) | [MOON BAND](https://open.spotify.com/artist/2053K4zLW7CivPHvamTXkC) | [Jeju Island blue night](https://open.spotify.com/album/5xAfj9tclcX82DopBRYduw) | 3:53 | 2022-05-11 | 2022-07-28 |
 | [Just Can't Say](https://open.spotify.com/track/2E3PNYbkIKRiQrRVDb0pIg) | [Ku One Chan](https://open.spotify.com/artist/6ClAFFqc8VEOKSGTrvy8V5) | [LOG](https://open.spotify.com/album/7xNGojQFo9UPNIVuuDF1EL) | 3:23 | 2022-07-04 |  |
@@ -130,7 +130,7 @@
 | [Troll \(Feat\. DEAN\)](https://open.spotify.com/track/64P4md3mdMM8Dog2aThmzj) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU), [DEAN](https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF) | [IU 5th Album 'LILAC'](https://open.spotify.com/album/01dPJcwyht77brL4JQiR8R) | 3:09 | 2022-05-11 |  |
 | [Tropical Night \(feat\. Yoo Dongmin, Nrin\)](https://open.spotify.com/track/2I2cMyjkIq9ZE8CpykXaSV) | [murmoom](https://open.spotify.com/artist/2vsaAlNouG0tPd8CMKj7l3), [Yoo Dongmin](https://open.spotify.com/artist/0lMqXSoPXpiVBQGNlh21ow), [느린](https://open.spotify.com/artist/1WrIgpb5k5CFA4vXf3lyoC) | [Tropical Night](https://open.spotify.com/album/50wKbFYJ5ZQr2eOsaRAVeb) | 4:10 | 2022-05-11 | 2022-07-28 |
 | [Under The Banyan Tree \(feat\. zitten\)](https://open.spotify.com/track/2XVYkehA6ZBpAbnv2P3Pke) | [Autumn Vacation](https://open.spotify.com/artist/09FfoFiVjZZEQ7ZcFVfYts), [Zitten](https://open.spotify.com/artist/3of4z5k152Et4C0IQ7HUAg) | [The World Is Like a Handkerchief](https://open.spotify.com/album/7trpOK3KKjYt6nxMBKT2S1) | 2:50 | 2022-05-11 | 2022-07-23 |
-| [Walk](https://open.spotify.com/track/6EJXOBn2gYccEJLMsZXiSw) | [Motte](https://open.spotify.com/artist/4bh77HBBwCekmEPcbXAljy) | [Walk](https://open.spotify.com/album/4erB8I424GyOFWNcze24Dd) | 3:35 | 2022-05-11 |  |
+| [Walk](https://open.spotify.com/track/6EJXOBn2gYccEJLMsZXiSw) | [Motte](https://open.spotify.com/artist/4bh77HBBwCekmEPcbXAljy) | [Walk](https://open.spotify.com/album/4erB8I424GyOFWNcze24Dd) | 3:35 | 2022-05-11 | 2022-10-10 |
 | [Walking In The Memory](https://open.spotify.com/track/7EbrlzJyVfSZVldEY0MnCJ) | [MJ](https://open.spotify.com/artist/1eb5JBCoVVqiHp7FdrtBSa) | [The Crush Of Spring OST Special Track](https://open.spotify.com/album/4rUPBt8ztBW38rCPJUdXiT) | 3:10 | 2022-05-11 |  |
 | [Walking In The Rain](https://open.spotify.com/track/1lf2bl8eVxd6oDrTcpCbUs) | [Chancellor](https://open.spotify.com/artist/0u06YeydlBk3awnk5KgdBx), [Younha](https://open.spotify.com/artist/6GwM5CHqhWXzG3l5kzRSAS) | [Walking In The Rain](https://open.spotify.com/album/4PzHDoJiH4w7LZDOFxyD2n) | 4:08 | 2022-05-11 | 2022-07-29 |
 | [Walking In The Rain \(feat\. Younha\)](https://open.spotify.com/track/3cJ520R7Pwav2xrQUHCcZo) | [Chancellor](https://open.spotify.com/artist/0u06YeydlBk3awnk5KgdBx), [Younha](https://open.spotify.com/artist/6GwM5CHqhWXzG3l5kzRSAS) | [Chancellor](https://open.spotify.com/album/5Jw4ohSYaEuxyOeIOR47Hq) | 4:08 | 2022-07-04 |  |
@@ -150,6 +150,7 @@
 | [봄이 좋냐?? What The Spring??](https://open.spotify.com/track/5gkB40BDQE1CvtXpF6fcPm) | [10cm](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [봄이 좋냐?? What The Spring??](https://open.spotify.com/album/0u4WFVJDJh5dbNYgOgbABY) | 3:25 | 2022-05-11 |  |
 | [봄인가 봐 Spring Love](https://open.spotify.com/track/6YOXdy9jShw66iOnBzQMKv) | [WENDY](https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K), [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM) | [봄인가 봐 Spring Love \- SM STATION](https://open.spotify.com/album/1DzMyEZcFmD72jdkp4O73D) | 3:18 | 2022-05-11 |  |
 | [예뻐](https://open.spotify.com/track/1CCuIPrykG6yC6XTz4S6Rn) | [Joonand](https://open.spotify.com/artist/3toxwqi4ajBu4gcnZebBAT), [Jihyeokwon](https://open.spotify.com/artist/0TD6GU8HRvlHAIMP7bPDRs) | [With](https://open.spotify.com/album/3vOKd7vvVvcYZhhaFvT8Fc) | 3:35 | 2022-05-11 | 2022-07-21 |
+| [원 Wish](https://open.spotify.com/track/3vvJdhNvwogyNhmgaGONZw) | [WISUE](https://open.spotify.com/artist/6AtePm872YnH0PPQZpNFry) | [원 Wish](https://open.spotify.com/album/7DagjiIwCFeivyBSZYTsy7) | 3:12 | 2022-10-10 |  |
 | [이미 난 행복한 사람](https://open.spotify.com/track/1OztdNXWqPxXemRYdXCnCu) | [Nadle](https://open.spotify.com/artist/4J3ruXeNKsZ11VHdlCfkCd) | [기막힌 유산 \(Original Television Soundtrack\) Pt\. 33](https://open.spotify.com/album/4b2tpuAJCGzQI3quBsGkxB) | 5:01 | 2022-05-11 | 2022-07-28 |
 
 \*This playlist was first scraped on 2022-05-30. Prior content cannot be recovered.

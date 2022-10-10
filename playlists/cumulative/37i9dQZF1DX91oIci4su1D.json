@@ -1213,7 +1213,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 201175,
       "name": "Braveheart",
       "url": "https://open.spotify.com/track/3N89ndrFYxInEoKOxLqdUL"
@@ -1279,6 +1279,24 @@
       "duration_ms": 222187,
       "name": "Breaking Light",
       "url": "https://open.spotify.com/track/616t2cVL8B7jUtzxqyLRAx"
+    },
+    {
+      "album": {
+        "name": "Breath Of The Wild",
+        "url": "https://open.spotify.com/album/5KPwjMCZyCXLWltnBnewor"
+      },
+      "artists": [
+        {
+          "name": "Alex Sonata & TheRio",
+          "url": "https://open.spotify.com/artist/0R3Imkf3vLjMsdx46OC2Ej"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210923,
+      "name": "Breath Of The Wild",
+      "url": "https://open.spotify.com/track/08ikdgOu28YP4bFKAq44wL"
     },
     {
       "album": {
@@ -1664,6 +1682,28 @@
     },
     {
       "album": {
+        "name": "COLLIDE",
+        "url": "https://open.spotify.com/album/6XvgbHcI3twBpmW6JIVG03"
+      },
+      "artists": [
+        {
+          "name": "Emma Hewitt",
+          "url": "https://open.spotify.com/artist/1t65YxEAtU3iii6bCzSGF8"
+        },
+        {
+          "name": "Ben Nicky",
+          "url": "https://open.spotify.com/artist/3Bd1phrOZJuCev9U0bzdtA"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209142,
+      "name": "COLLIDE",
+      "url": "https://open.spotify.com/track/1M7h0DxRLM9qctzi9KmdNX"
+    },
+    {
+      "album": {
         "name": "Horizons [Part 1]",
         "url": "https://open.spotify.com/album/2ju1ICgpwj2sMq5VMoMY8i"
       },
@@ -1701,7 +1741,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 169565,
       "name": "Completely",
       "url": "https://open.spotify.com/track/6narPoP1lFtQmKdHeHYXiD"
@@ -2411,7 +2451,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-02",
+      "date_removed": null,
       "duration_ms": 270000,
       "name": "Euphoria",
       "url": "https://open.spotify.com/track/1Xm26qAA8qJ1cYNZHgyoLs"
@@ -2733,7 +2773,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-09",
       "duration_ms": 157389,
       "name": "Fears In The Fire",
       "url": "https://open.spotify.com/track/19PH9jGNbIx64MbF7Uy7kT"
@@ -3415,7 +3455,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 233619,
       "name": "Gratitude",
       "url": "https://open.spotify.com/track/0KU8W0lHfsNlH7lfV1dz29"
@@ -4846,6 +4886,28 @@
     },
     {
       "album": {
+        "name": "Lonely With You",
+        "url": "https://open.spotify.com/album/37VdhrfrONjJFL21OinnZv"
+      },
+      "artists": [
+        {
+          "name": "Skytech",
+          "url": "https://open.spotify.com/artist/4CrDEHL7ysNabeYvL3xjUX"
+        },
+        {
+          "name": "Mingue",
+          "url": "https://open.spotify.com/artist/4esHHdhDN4oeg9zYkAFpUs"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205714,
+      "name": "Lonely With You",
+      "url": "https://open.spotify.com/track/4Y5FAQrTSqI2mlDF5i8lTi"
+    },
+    {
+      "album": {
         "name": "Lose Myself",
         "url": "https://open.spotify.com/album/5w2RTmb6Kt6KWnndX7CVxJ"
       },
@@ -6067,7 +6129,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 232727,
       "name": "Numb - Nifra Remix",
       "url": "https://open.spotify.com/track/276Iin2SLb9XoXVP6RHrdA"
@@ -6191,7 +6253,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 226225,
       "name": "Offshore - Evolution Mix",
       "url": "https://open.spotify.com/track/2O0HETfHUQNumACQ7Yg6sm"

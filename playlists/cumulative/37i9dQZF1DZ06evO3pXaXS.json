@@ -397,7 +397,7 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-09",
       "duration_ms": 192013,
       "name": "It's Alright For You",
       "url": "https://open.spotify.com/track/5fTI7JCaMRK09WtwG8ZrRK"
@@ -476,6 +476,24 @@
     },
     {
       "album": {
+        "name": "Outlandos D'Amour (Remastered 2003)",
+        "url": "https://open.spotify.com/album/1H9g6j4Wwj6wh6p8YHVtkf"
+      },
+      "artists": [
+        {
+          "name": "The Police",
+          "url": "https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-08",
+      "duration_ms": 171973,
+      "name": "Next To You",
+      "url": "https://open.spotify.com/track/7HjipY3Vy2HAN11D2juKHT"
+    },
+    {
+      "album": {
         "name": "Reggatta De Blanc (Remastered 2003)",
         "url": "https://open.spotify.com/album/2EpuND32cO7CX0gXZl2NB6"
       },
@@ -505,7 +523,7 @@
       ],
       "date_added": "2022-09-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-28",
+      "date_removed": null,
       "duration_ms": 185133,
       "name": "Reggatta De Blanc",
       "url": "https://open.spotify.com/track/2EEp2vTGSRDSLHWUF80EZZ"

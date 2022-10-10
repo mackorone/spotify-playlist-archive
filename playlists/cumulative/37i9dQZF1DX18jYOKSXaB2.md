@@ -4,7 +4,7 @@
 
 > consider this an RSVP to littest wedding parties
 
-56 songs - 3 hr 3 min - [published](https://open.spotify.com/playlist/0bSPCUxLrbY58psnl7ryQ1)
+57 songs - 3 hr 6 min - [published](https://open.spotify.com/playlist/0bSPCUxLrbY58psnl7ryQ1)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [Flex](https://open.spotify.com/track/1mZBFDxLjiBjWBZHIdumGc) | [Skiibii](https://open.spotify.com/artist/72Z2AhMKpxZjLNnPMyinUE) | [Life Of A King \(Aiye Oba\)](https://open.spotify.com/album/46dcA76CBDlPcuBgzdVfUg) | 2:45 | 2022-09-01 |  |
 | [Forever](https://open.spotify.com/track/17NVTfQBL35FZMAN5nd1pD) | [Magixx](https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142) | [ATOM](https://open.spotify.com/album/7FhB7PZyXqiiq5sFAfAqfg) | 3:04 | 2022-07-22 |  |
 | [Hard to Find](https://open.spotify.com/track/2DEfBwqL5U7OP3UFKQJ0cq) | [Chike](https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q), [Flavour](https://open.spotify.com/artist/0oKNR4ahj1CPnK2kQmbOfo) | [Hard to Find](https://open.spotify.com/album/5OgLCYPqsqVdwlGEijUEpQ) | 3:08 | 2022-07-14 |  |
+| [I'll Be There](https://open.spotify.com/track/4b8ae3a3l1vfpEumO8ijcS) | [Asi Renie](https://open.spotify.com/artist/6LN0wKo0KuF6TBgwn0hvja) | [I'll Be There](https://open.spotify.com/album/62vCC7b3Jgv7gc1gKnQ1ci) | 2:59 | 2022-10-07 |  |
 | [If](https://open.spotify.com/track/0XQuWhRG7qD7OYHKsgt0BN) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [If](https://open.spotify.com/album/1N4On17z3onc2NH2XgHdLx) | 3:57 | 2022-02-11 |  |
 | [Infinity \(feat\. Omah Lay\)](https://open.spotify.com/track/5DS9LiyEdw2zY8bM6kjjgM) | [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr), [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Carpe Diem](https://open.spotify.com/album/6fG2eFCgUmytQWL6umtsCh) | 2:51 | 2022-02-11 |  |
 | [Julie](https://open.spotify.com/track/58f9RS1Wkaapezwhu5Cu3L) | [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [UY Scuti](https://open.spotify.com/album/2nDH1AOBaaugSngw9Yiwyw) | 1:57 | 2022-02-11 |  |

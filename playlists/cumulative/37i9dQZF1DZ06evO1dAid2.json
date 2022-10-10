@@ -41,7 +41,7 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-07",
       "duration_ms": 141960,
       "name": "Almost Grown",
       "url": "https://open.spotify.com/track/6Kl1mOpVOIg17MQmcjeUO5"
@@ -77,7 +77,7 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-02",
+      "date_removed": null,
       "duration_ms": 162400,
       "name": "Around And Around",
       "url": "https://open.spotify.com/track/39AyLDOmmidKqmwvkNfnD9"
@@ -95,7 +95,7 @@
       ],
       "date_added": "2022-09-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-30",
+      "date_removed": null,
       "duration_ms": 146893,
       "name": "Back In The U.S.A.",
       "url": "https://open.spotify.com/track/114gCJP9NGrrs5gjPU8RTi"
@@ -138,6 +138,24 @@
     },
     {
       "album": {
+        "name": "One Dozen Berry's",
+        "url": "https://open.spotify.com/album/7CwgdWMtqOgQRzOdzHMwiQ"
+      },
+      "artists": [
+        {
+          "name": "Chuck Berry",
+          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-09",
+      "duration_ms": 179400,
+      "name": "Blue Feeling",
+      "url": "https://open.spotify.com/track/5nufXDYNNysRenPf1Kbm0C"
+    },
+    {
+      "album": {
         "name": "Berry Is On Top",
         "url": "https://open.spotify.com/album/6eedtCtCjibu80yOhylSGL"
       },
@@ -167,7 +185,7 @@
       ],
       "date_added": "2022-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-09",
       "duration_ms": 157240,
       "name": "Bordeaux In My Pirough",
       "url": "https://open.spotify.com/track/3RVH1OQ7AH4A4iac4MzqLT"
@@ -203,7 +221,7 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-09",
       "duration_ms": 122533,
       "name": "Bye Bye Johnny - Single Version",
       "url": "https://open.spotify.com/track/6qIMhhXZckFxcWLzevDQaz"
@@ -221,7 +239,7 @@
       ],
       "date_added": "2022-09-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-02",
+      "date_removed": null,
       "duration_ms": 168600,
       "name": "Carol",
       "url": "https://open.spotify.com/track/41ADUIxv4MkkWi7kgaZMrH"
@@ -257,7 +275,7 @@
       ],
       "date_added": "2022-09-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-02",
+      "date_removed": "2022-10-09",
       "duration_ms": 107026,
       "name": "Come On - Stereo Version",
       "url": "https://open.spotify.com/track/5Ua8GaCh6GAOXu3zXJXyzQ"
@@ -311,7 +329,7 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-01",
+      "date_removed": "2022-10-09",
       "duration_ms": 130506,
       "name": "Down The Road Apiece",
       "url": "https://open.spotify.com/track/40CEDufMDlElkfyBvWUtsE"
@@ -329,10 +347,46 @@
       ],
       "date_added": "2022-09-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-01",
+      "date_removed": "2022-10-08",
       "duration_ms": 169173,
       "name": "Downbound Train",
       "url": "https://open.spotify.com/track/4q0J9IdCJ7l8YjNNxp4UZL"
+    },
+    {
+      "album": {
+        "name": "Rockin' At The Hops",
+        "url": "https://open.spotify.com/album/48jzxU4WCz6726keexOGoe"
+      },
+      "artists": [
+        {
+          "name": "Chuck Berry",
+          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
+        }
+      ],
+      "date_added": "2022-10-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-05",
+      "duration_ms": 136640,
+      "name": "Driftin' Blues",
+      "url": "https://open.spotify.com/track/2IU72SQcNQd668V0tWToNe"
+    },
+    {
+      "album": {
+        "name": "Chuck",
+        "url": "https://open.spotify.com/album/74y5Z8TjHts4ATRMPZ7NLi"
+      },
+      "artists": [
+        {
+          "name": "Chuck Berry",
+          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227606,
+      "name": "Dutchman",
+      "url": "https://open.spotify.com/track/2frsHNDxTSKVM7nPPUdtIk"
     },
     {
       "album": {
@@ -347,7 +401,7 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-29",
+      "date_removed": "2022-10-08",
       "duration_ms": 147177,
       "name": "Eyes Of Man",
       "url": "https://open.spotify.com/track/5Ct3NYsxo6hZm67Vy0kqQl"
@@ -419,7 +473,7 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-30",
+      "date_removed": "2022-10-09",
       "duration_ms": 139520,
       "name": "Guitar Boogie",
       "url": "https://open.spotify.com/track/5ryMXRfAlmV5nyNueN3B1q"
@@ -437,7 +491,7 @@
       ],
       "date_added": "2022-09-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-26",
+      "date_removed": "2022-10-09",
       "duration_ms": 186706,
       "name": "Havana Moon",
       "url": "https://open.spotify.com/track/1dwg7tCqzs616yYWj6NJ2i"
@@ -473,7 +527,7 @@
       ],
       "date_added": "2022-09-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-28",
+      "date_removed": "2022-10-08",
       "duration_ms": 117066,
       "name": "Hey Pedro",
       "url": "https://open.spotify.com/track/0VUc41McjQW8ILujFWlP5t"
@@ -491,7 +545,7 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-02",
+      "date_removed": null,
       "duration_ms": 147866,
       "name": "House Of Blue Lights",
       "url": "https://open.spotify.com/track/2dp8UKD7PuF6UG0brvp8O2"
@@ -527,7 +581,7 @@
       ],
       "date_added": "2022-09-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-02",
+      "date_removed": null,
       "duration_ms": 132973,
       "name": "I Got To Find My Baby - Single Version",
       "url": "https://open.spotify.com/track/5qojkHvPBrbT0Z7SAgYboD"
@@ -563,7 +617,7 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-09",
       "duration_ms": 108320,
       "name": "I'm Talking About You",
       "url": "https://open.spotify.com/track/4Qz94VdIvKAmtBIyuoAZW9"
@@ -625,10 +679,28 @@
       ],
       "date_added": "2022-09-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-30",
+      "date_removed": "2022-10-07",
       "duration_ms": 161560,
       "name": "Johnny B. Goode",
       "url": "https://open.spotify.com/track/2QfiRTz5Yc8DdShCxG1tB2"
+    },
+    {
+      "album": {
+        "name": "Chuck",
+        "url": "https://open.spotify.com/album/74y5Z8TjHts4ATRMPZ7NLi"
+      },
+      "artists": [
+        {
+          "name": "Chuck Berry",
+          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
+        }
+      ],
+      "date_added": "2022-10-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-05",
+      "duration_ms": 175560,
+      "name": "Lady B. Goode",
+      "url": "https://open.spotify.com/track/3mtry5ywMoh9yz388egZb9"
     },
     {
       "album": {
@@ -643,7 +715,7 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-28",
+      "date_removed": null,
       "duration_ms": 102800,
       "name": "Let It Rock - Single Version",
       "url": "https://open.spotify.com/track/2OCoH12t6olzx9bT1PEC8F"
@@ -697,7 +769,7 @@
       ],
       "date_added": "2022-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-07",
       "duration_ms": 163800,
       "name": "Little Queenie",
       "url": "https://open.spotify.com/track/0OA0lBeSRzpXyAbv8iTXw6"
@@ -751,7 +823,7 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-02",
+      "date_removed": "2022-10-07",
       "duration_ms": 143240,
       "name": "Maybellene",
       "url": "https://open.spotify.com/track/3SQhmctWreNM0X6Zkm2K5R"
@@ -787,7 +859,7 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-05",
       "duration_ms": 131800,
       "name": "Memphis, Tennessee",
       "url": "https://open.spotify.com/track/3UYtylPa55RqHS1YDGZoLs"
@@ -841,7 +913,7 @@
       ],
       "date_added": "2022-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-09",
       "duration_ms": 169000,
       "name": "Nadine - Stereo Remix",
       "url": "https://open.spotify.com/track/5QHrCl8kOMIFOWYQQzHXFH"
@@ -931,7 +1003,7 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-02",
+      "date_removed": null,
       "duration_ms": 143306,
       "name": "Promised Land",
       "url": "https://open.spotify.com/track/2lDArps4owX3Q6rOIA4Osp"
@@ -949,7 +1021,7 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-09",
       "duration_ms": 156173,
       "name": "Ramblin' Rose",
       "url": "https://open.spotify.com/track/411K0FJ0dHHCqxy6S3lOvC"
@@ -985,7 +1057,7 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-28",
+      "date_removed": "2022-10-06",
       "duration_ms": 129626,
       "name": "Rip It Up",
       "url": "https://open.spotify.com/track/1UsUBJcQkR4Z1acjqXpXOJ"
@@ -1021,7 +1093,7 @@
       ],
       "date_added": "2022-09-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-01",
+      "date_removed": "2022-10-06",
       "duration_ms": 144600,
       "name": "Roll Over Beethoven",
       "url": "https://open.spotify.com/track/6C7aTTCUWRK7dD379yUT3W"
@@ -1039,7 +1111,7 @@
       ],
       "date_added": "2022-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-06",
       "duration_ms": 171413,
       "name": "Route 66",
       "url": "https://open.spotify.com/track/6TXnGAr6DLVYshIrMeP0lZ"
@@ -1057,7 +1129,7 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-02",
+      "date_removed": null,
       "duration_ms": 205733,
       "name": "San Francisco Dues",
       "url": "https://open.spotify.com/track/2ksmbGi6N2xe3ToE6V7rsd"
@@ -1111,7 +1183,7 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-02",
+      "date_removed": null,
       "duration_ms": 157320,
       "name": "St. Louis Blues",
       "url": "https://open.spotify.com/track/0tsgFZdGoCVMeaXVmnrWbF"
@@ -1129,7 +1201,7 @@
       ],
       "date_added": "2022-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 145000,
       "name": "Stop And Listen",
       "url": "https://open.spotify.com/track/5whtQ7ikMFVYSDWtC0Un3P"
@@ -1147,7 +1219,7 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 148973,
       "name": "Surfin' Steel",
       "url": "https://open.spotify.com/track/5YaHA0d2R9zlKkxkzjpPag"
@@ -1201,7 +1273,7 @@
       ],
       "date_added": "2022-09-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-30",
+      "date_removed": "2022-10-05",
       "duration_ms": 180746,
       "name": "Sweet Little Sixteen",
       "url": "https://open.spotify.com/track/4GWHrdyVTC0AWwuRgoWzE7"
@@ -1219,7 +1291,7 @@
       ],
       "date_added": "2022-09-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-26",
+      "date_removed": null,
       "duration_ms": 165413,
       "name": "Sweet Sixteen",
       "url": "https://open.spotify.com/track/0MOJRZrM1SvFN8mEtHCy5d"
@@ -1237,7 +1309,7 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-02",
+      "date_removed": "2022-10-09",
       "duration_ms": 161200,
       "name": "The Things I Used To Do",
       "url": "https://open.spotify.com/track/1SN4rhqg4U3mlS6oxSP1jZ"
@@ -1363,7 +1435,7 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-01",
+      "date_removed": "2022-10-06",
       "duration_ms": 182906,
       "name": "Wee Wee Hours",
       "url": "https://open.spotify.com/track/2P7FDhmzGh4iJ2ATb7d9oo"
@@ -1399,7 +1471,7 @@
       ],
       "date_added": "2022-09-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-25",
+      "date_removed": "2022-10-07",
       "duration_ms": 128000,
       "name": "Worried Life Blues",
       "url": "https://open.spotify.com/track/1329OxVQDaX1fRbgBz4z9N"
@@ -1417,7 +1489,7 @@
       ],
       "date_added": "2022-09-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-02",
+      "date_removed": null,
       "duration_ms": 162586,
       "name": "You Can't Catch Me - Single Version",
       "url": "https://open.spotify.com/track/4xPPWZKEMw6u2cfmqcswSP"
@@ -1453,7 +1525,7 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-09",
       "duration_ms": 129840,
       "name": "You Two",
       "url": "https://open.spotify.com/track/3TuiKidTSxOK2bk9RPhrpN"

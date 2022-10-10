@@ -764,6 +764,28 @@
     },
     {
       "album": {
+        "name": "Ciclos",
+        "url": "https://open.spotify.com/album/1de4pIwXgTDs0YWu1jAwAr"
+      },
+      "artists": [
+        {
+          "name": "Analaga",
+          "url": "https://open.spotify.com/artist/4LTPxLxjiT5pzYd5WZAR3v"
+        },
+        {
+          "name": "Caracol.A",
+          "url": "https://open.spotify.com/artist/7kcH00HHM8BkhfySXoQfUo"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193001,
+      "name": "Ciclos",
+      "url": "https://open.spotify.com/track/4MSY2abyzFULkXnHGOCN4v"
+    },
+    {
+      "album": {
         "name": "Ciganinha",
         "url": "https://open.spotify.com/album/6u6OZwcdslmYQ4hbavsELN"
       },
@@ -3977,7 +3999,7 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 178930,
       "name": "Troglomitus Broncossaurus",
       "url": "https://open.spotify.com/track/0KzAD3JNICUb07omGGlY5s"

@@ -1320,7 +1320,7 @@
         },
         {
           "name": "Kiefer",
-          "url": "https://open.spotify.com/artist/147JrO3YiY9nLD40wAlFvi"
+          "url": "https://open.spotify.com/artist/5lDtfHPqWN6MG9tFywnW8J"
         }
       ],
       "date_added": "2022-07-28",
@@ -2980,6 +2980,28 @@
     },
     {
       "album": {
+        "name": "la danse",
+        "url": "https://open.spotify.com/album/6HHA2Wth4o5ntz3GZ4O0XL"
+      },
+      "artists": [
+        {
+          "name": "berlioz",
+          "url": "https://open.spotify.com/artist/3k3RY7kR8f0vp8Cq27P141"
+        },
+        {
+          "name": "Ted Jasper",
+          "url": "https://open.spotify.com/artist/4PfXiTCDXTYEobjXjcRFNW"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177136,
+      "name": "la danse",
+      "url": "https://open.spotify.com/track/1UbfKuIjG38PR3MpjVsbyX"
+    },
+    {
+      "album": {
         "name": "no song without you (remixes)",
         "url": "https://open.spotify.com/album/5inpbJ69LftnwUoXChmJ3n"
       },
@@ -3929,7 +3951,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 328988,
       "name": "No BS",
       "url": "https://open.spotify.com/track/4evaB44maldA4OML15SHQk"
@@ -4593,7 +4615,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-06",
       "duration_ms": 221000,
       "name": "Searching",
       "url": "https://open.spotify.com/track/5YqtViWfGGRKAev4K1FJnC"
@@ -6171,7 +6193,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-30",
+      "date_removed": null,
       "duration_ms": 496546,
       "name": "Warm Data",
       "url": "https://open.spotify.com/track/0mfh5RdoeDV7DGLOMytUyc"

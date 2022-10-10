@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5l8NqdrXc4JHxSu1arjWgC.md) - [plain]
 
 > 
 
-[Red Vox](https://open.spotify.com/user/vinnyvinesauce) - 3,684 likes - 652 songs - 1 day 19 hr 49 min
+[Red Vox](https://open.spotify.com/user/vinnyvinesauce) - 3,699 likes - 655 songs - 1 day 20 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -660,5 +660,8 @@ pretty - [cumulative](/playlists/cumulative/5l8NqdrXc4JHxSu1arjWgC.md) - [plain]
 | 650 | [The Getaway](https://open.spotify.com/track/6v4T1yS6LCRPMHE4zrgfKU) | [The Afghan Whigs](https://open.spotify.com/artist/7IDrRpDz0cOuUVC32c8PKD) | [The Getaway](https://open.spotify.com/album/0XXzAo1VN3kdJmt1Z8YA14) | 3:05 |
 | 651 | [You Make Loving Fun \- 2004 Remaster](https://open.spotify.com/track/28H3wOEKsaEa8NBEYCLl4j) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Rumours](https://open.spotify.com/album/1bt6q2SruMsBtcerNVtpZB) | 3:33 |
 | 652 | [Second Hand News \- 2004 Remaster](https://open.spotify.com/track/0hlniElQOr5tvSKBaSpAQi) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Rumours](https://open.spotify.com/album/1bt6q2SruMsBtcerNVtpZB) | 2:56 |
+| 653 | [Embassy Row \- Remastered](https://open.spotify.com/track/49SU8RpuDc3thJiOidCrqr) | [Pavement](https://open.spotify.com/artist/3inCNiUr4R6XQ3W43s9Aqi) | [Quarantine The Past: The Best Of Pavement](https://open.spotify.com/album/1SEcCdWiDHYEtQLjD4o212) | 3:50 |
+| 654 | [Grounded \- Remastered](https://open.spotify.com/track/0RvVB5q8bzBiSuDBtLs8MZ) | [Pavement](https://open.spotify.com/artist/3inCNiUr4R6XQ3W43s9Aqi) | [Quarantine The Past: The Best Of Pavement](https://open.spotify.com/album/1SEcCdWiDHYEtQLjD4o212) | 4:15 |
+| 655 | [Mobius Trip](https://open.spotify.com/track/1bgTHTsCYkQVzZEJUks8la) | [H.P\. Lovecraft](https://open.spotify.com/artist/6VF7eMgoQIHyufTkib3Fff) | [H\. P\. Lovecraft II](https://open.spotify.com/album/0O0jxEVJruecYXTCQ8tNNj) | 2:44 |
 
-Snapshot ID: `MTY3NSw3MWVmNjdmZTgyMzQ2ZjZjZTU3NDIyMDI1MzliMzkyNmM4NGJjMWZl`
+Snapshot ID: `MTY3OCwzN2RjMzA2ZDk4OWJhZmE3MDNjNTE5YWY3NjA4Zjk4N2M2ZWY1OWY4`

@@ -2,15 +2,16 @@
 
 ### [EQUAL Colombia](https://open.spotify.com/playlist/37i9dQZF1DWSWHOzidsSnO)
 
-> ¡María Cristina Plata y más mujeres, a todo volumen!
+> ¡Bad Milk y más mujeres, a todo volumen!
 
-121 songs - 6 hr 53 min - [published](https://open.spotify.com/playlist/4BjclhMki5D8Bs9ZwTy9s8)
+122 songs - 6 hr 56 min - [published](https://open.spotify.com/playlist/4BjclhMki5D8Bs9ZwTy9s8)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A Tu Lado](https://open.spotify.com/track/2sxGambjEMewIexGbpP089) | [Paula Arenas](https://open.spotify.com/artist/4ay2pQwnYqa44OAnWCGix2) | [A Tu Lado](https://open.spotify.com/album/4unZDGlQA29DS3atjhfUQJ) | 4:04 | 2022-07-06 |  |
 | [A Tu Lado](https://open.spotify.com/track/5EWino1os6FUYJ1q7KRDnN) | [Paula Arenas](https://open.spotify.com/artist/4ay2pQwnYqa44OAnWCGix2) | [A Tu Lado](https://open.spotify.com/album/1XtVGi0vSh9FSIZ6lfrDeE) | 4:04 | 2022-01-05 | 2022-07-29 |
 | [Adicta al Perreo](https://open.spotify.com/track/7xj6vIyvd8qh9JjPzQhvHa) | [Farina](https://open.spotify.com/artist/7cYik4OyfBXYV5Z2TI7p90) | [Adicta al Perreo](https://open.spotify.com/album/6E4zCCVrnmZigYPqJJshdV) | 2:50 | 2022-03-10 |  |
+| [AL NATURAL](https://open.spotify.com/track/2Hr2c6kxojvdyu5eJzq4NE) | [Bad Milk](https://open.spotify.com/artist/5rMUEBZwYHovrlnuzggrVR) | [AL NATURAL](https://open.spotify.com/album/1BmvwEPLkAqdVOeW19LW4t) | 3:15 | 2022-10-05 |  |
 | [Al Tiempo](https://open.spotify.com/track/4qzItEnlJBTPp1ByoYIoIx) | [Las Áñez](https://open.spotify.com/artist/1j2LXEgnuKC1ghy9ioDxl9), [Kevin Johansen](https://open.spotify.com/artist/7qjoG7bwhAjSd7nJTcjgAk) | [Al Tiempo](https://open.spotify.com/album/2s0S6lQrbEyKsjRoosKIg3) | 3:37 | 2022-01-05 |  |
 | [Amar Así](https://open.spotify.com/track/4e6eL4Iv54MzHC6Ce9lL5C) | [Bomba Estéreo](https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2) | [Ayo](https://open.spotify.com/album/2OxYGrY7nYt2ymmoFaebqB) | 3:57 | 2022-01-05 | 2022-03-10 |
 | [Amor de mi vida](https://open.spotify.com/track/53TlwMMz8k4wrfmcXyALIq) | [Fanny Lu](https://open.spotify.com/artist/6GRC8segVAr34gm6pjfSoQ) | [Amor de mi vida](https://open.spotify.com/album/1PpckLJMITfyaGw4yrWCZu) | 3:04 | 2022-08-03 |  |
@@ -58,7 +59,7 @@
 | [La Cara](https://open.spotify.com/track/48hh5h1N1oe2zmapBQ4uye) | [La Muchacha](https://open.spotify.com/artist/74IAICxWfYBsjabuEbKQXV) | [La Cara](https://open.spotify.com/album/3n4PlVDnUeFUuS1oIyuS7D) | 2:03 | 2022-01-05 |  |
 | [La Diferente](https://open.spotify.com/track/4Nivbcp45LZSLnPRjNrlBg) | [Pitizion](https://open.spotify.com/artist/0GWdY55YF6xzN5L1A0X8nq) | [La Diferente](https://open.spotify.com/album/2S4Go2c9gl4qsGgQwAeBe2) | 3:07 | 2022-01-05 | 2022-03-10 |
 | [La Golondrina](https://open.spotify.com/track/6C844QxMDqREFU36dK2JOd) | [Sara Acero](https://open.spotify.com/artist/6W6fsqgVlpnVT4hRA4eAA3) | [La Golondrina](https://open.spotify.com/album/4JduN8steJ6xSfzLPHFIHr) | 3:09 | 2022-01-05 |  |
-| [La Macorina](https://open.spotify.com/track/3pske1T4sIKMsow2JqnNLK) | [Flora Martínez](https://open.spotify.com/artist/7gjr06Lie1BDJuefW3v9YQ) | [La Macorina](https://open.spotify.com/album/1J1cxfagMyYDRt1eddsqic) | 3:10 | 2022-01-05 |  |
+| [La Macorina](https://open.spotify.com/track/3pske1T4sIKMsow2JqnNLK) | [Flora Martínez](https://open.spotify.com/artist/7gjr06Lie1BDJuefW3v9YQ) | [La Macorina](https://open.spotify.com/album/1J1cxfagMyYDRt1eddsqic) | 3:10 | 2022-01-05 | 2022-10-06 |
 | [La Parcera](https://open.spotify.com/track/5JWpcxLcC41EaKGOimEUlV) | [La Muchacha](https://open.spotify.com/artist/74IAICxWfYBsjabuEbKQXV) | [La Parcera](https://open.spotify.com/album/05kaSB2HeYy1t4aCmOeNWb) | 2:58 | 2022-01-05 |  |
 | [La Sentada](https://open.spotify.com/track/6iql0jmyrOmtI58SGMI3IJ) | [La Muchacha](https://open.spotify.com/artist/74IAICxWfYBsjabuEbKQXV) | [Más Canciones Crudas](https://open.spotify.com/album/72xjCUlKRiJbEtQo9Zt9BV) | 2:28 | 2022-01-05 | 2022-03-11 |
 | [La Sombra \(feat\. Leonel García\)](https://open.spotify.com/track/1AMzClglf6ggXTomlMOMkk) | [Monsieur Periné](https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK), [Leonel García](https://open.spotify.com/artist/3t7UqWteBBmHXkcVhMSyay) | [Encanto Tropical](https://open.spotify.com/album/65dDJHiGH66LQPEiLHKDma) | 3:40 | 2022-01-05 | 2022-09-09 |

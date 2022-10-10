@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1S4JPQeJxtsN37X8as5EPk.md) - [plain]
 
 > Classic folk, bluegrass, country blues, and spirituals, along with some recent songs that have a traditional vibe.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,516 likes - 49 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,515 likes - 49 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

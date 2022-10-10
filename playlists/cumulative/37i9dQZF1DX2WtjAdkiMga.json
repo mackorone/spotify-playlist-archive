@@ -1016,6 +1016,24 @@
     },
     {
       "album": {
+        "name": "Slow Beating",
+        "url": "https://open.spotify.com/album/2YuV2c38SCT7oX7I8lVp6f"
+      },
+      "artists": [
+        {
+          "name": "Gabe Bacci",
+          "url": "https://open.spotify.com/artist/5L3DHS5kxkPeyMqddjxsc7"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152054,
+      "name": "Slow Beating",
+      "url": "https://open.spotify.com/track/4s3QLbtj2wqWKd2FLwFt7z"
+    },
+    {
+      "album": {
         "name": "Smile",
         "url": "https://open.spotify.com/album/264uDpoSYiQWeHXvwQcAa0"
       },
@@ -1301,6 +1319,24 @@
       "duration_ms": 137656,
       "name": "Time After Time",
       "url": "https://open.spotify.com/track/0MljxuIuG5VkNEhZy0Wn1j"
+    },
+    {
+      "album": {
+        "name": "Under the Mango Tree",
+        "url": "https://open.spotify.com/album/0oBtirMIo2gIJiK2m6zyHj"
+      },
+      "artists": [
+        {
+          "name": "Erika Stevenson",
+          "url": "https://open.spotify.com/artist/3qqiQwpDv5suNnRA8lCMAE"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128345,
+      "name": "Under the Mango Tree",
+      "url": "https://open.spotify.com/track/33KChiNPI0s6An3lRKjcQV"
     },
     {
       "album": {

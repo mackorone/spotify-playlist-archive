@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Lj01u3MgX5.md) - [plain]
 
 > 80's Edition!  D\-Nice's essential jams for any party at home!
 
-[Spotify](https://open.spotify.com/user/spotify) - 131,153 likes - 69 songs - 5 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 131,534 likes - 69 songs - 5 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Lj01u3MgX5.md) - [plain]
 | 39 | [Eye of the Tiger](https://open.spotify.com/track/2KH16WveTQWT6KOG9Rg6e2) | [Survivor](https://open.spotify.com/artist/26bcq2nyj5GB7uRr558iQg) | [Rocky IV](https://open.spotify.com/album/3t3BbpFJiGcXl4jI5CRLLA) | 4:05 |
 | 40 | [Fake](https://open.spotify.com/track/3wN45r0Lz73AQcuvY2pdVe) | [Alexander O'Neal](https://open.spotify.com/artist/047D9GgqEzyMoULd2oKr7G) | [Hearsay](https://open.spotify.com/album/5K4obZM7WvlNQ5B9CJ6KgA) | 3:55 |
 | 41 | [The Glow of Love](https://open.spotify.com/track/2tpRtiVvuI4WnwpPYwk9Z6) | [Change](https://open.spotify.com/artist/2fJ2vi4PUSxyvYaeq0FTbE) | [The Glow Of Love](https://open.spotify.com/album/2rzk6jm1tR1ZSAU5IVvyFP) | 6:14 |
-| 42 | [Forget Me Nots \- Remastered](https://open.spotify.com/track/4UQH52FfgGpzDShKDbBvEA) | [Patrice Rushen](https://open.spotify.com/artist/1mNnxxnPfHQDOkFjnZmdkc) | [Straight From The Heart](https://open.spotify.com/album/1y2MGKwD1ap3FxPc4ii6QO) | 4:44 |
+| 42 | [Forget Me Nots \- Remastered](https://open.spotify.com/track/5ERZGchTi6sysVmA913Ryx) | [Patrice Rushen](https://open.spotify.com/artist/1mNnxxnPfHQDOkFjnZmdkc) | [Straight from the Heart \(Remastered\)](https://open.spotify.com/album/2tc6ZlzJS56yiVvo40R03g) | 4:44 |
 | 43 | [Found a Cure](https://open.spotify.com/track/1gND1zOlYtYgXdhRmpIOGJ) | [Ashford & Simpson](https://open.spotify.com/artist/2EURsXo9qlt1aMWlviGCRi), [James Simpson](https://open.spotify.com/artist/2iphCH37GnHODxVanwu4Wf) | [Stay Free](https://open.spotify.com/album/0deJgBEQc6s9ljcW2My2uV) | 7:01 |
 | 44 | [Freaks Come Out at Night](https://open.spotify.com/track/1JKJZLqLUh0vlemaD3IfLe) | [Whodini](https://open.spotify.com/artist/4dBOV77d0Fy9KcTZkieXcu) | [Escape \(Expanded Edition\)](https://open.spotify.com/album/0wXylkn9taeEjiiac1S2zU) | 4:44 |
 | 45 | [Funky Sensation](https://open.spotify.com/track/3SHKFKCccGc2gZkI7G1hMZ) | [Gwen McCrae](https://open.spotify.com/artist/742YR9ZgF0tCO5juBfvPAU) | [Funky Sensation \(MAW Mix\)](https://open.spotify.com/album/3xur0MAndcfC6MxQUa9o60) | 6:38 |
@@ -78,4 +78,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Lj01u3MgX5.md) - [plain]
 | 68 | [Sucker M.C.'s \(Krush\-Groove 1\)](https://open.spotify.com/track/3hx5R8nOKu5zvhlfDNSIQC) | [Run–D.M.C.](https://open.spotify.com/artist/3CQIn7N5CuRDP8wEI7FiDA) | [RUN\-DMC \(Expanded Edition\)](https://open.spotify.com/album/5nK0vU32lSmcGrglfcOfg8) | 3:09 |
 | 69 | [The Show](https://open.spotify.com/track/3umJExJml0XrE3BcGtAoCU) | [Slick Rick](https://open.spotify.com/artist/1W9qOBYRTfP7HcizWN43G1), [Doug E\. Fresh](https://open.spotify.com/artist/7xN8vFwslE67EC3DhgB9Ip) | [Dame Dash Presents Paid In Full / Dream Team](https://open.spotify.com/album/6cea3Mk3rvbeqZFqSt7TEy) | 4:26 |
 
-Snapshot ID: `MTU4NzA1NDUzNiwwMDAwMDAwMGYwNDEyZTUzMDQ4MGQzOGFjNTc4MjIxZjM0M2Y5ODE3`
+Snapshot ID: `MTU4NzA1NDUzNiwwMDAwMDAwMGVmNTQwMjJjOGNiNmYwZjQwMmZlNjQ3MjM4Y2UzNjVl`

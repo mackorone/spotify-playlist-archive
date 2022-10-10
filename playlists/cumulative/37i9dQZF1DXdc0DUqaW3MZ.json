@@ -829,7 +829,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-07",
       "duration_ms": 189683,
       "name": "Can You Feel It",
       "url": "https://open.spotify.com/track/4jbzmPDdZMp4JFcif3OPnH"
@@ -3167,7 +3167,7 @@
       ],
       "date_added": "2022-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-03",
       "duration_ms": 446590,
       "name": "Leslie",
       "url": "https://open.spotify.com/track/6NzAnIRwtBKacxkLzva4e7"
@@ -4189,6 +4189,24 @@
       "duration_ms": 158834,
       "name": "Not About Love",
       "url": "https://open.spotify.com/track/6gpgIeEuc8X1Wn4Q70VGYI"
+    },
+    {
+      "album": {
+        "name": "Not Today Mate",
+        "url": "https://open.spotify.com/album/7K0pacPIm9EqjXkX5NUhMQ"
+      },
+      "artists": [
+        {
+          "name": "Yazmin Lacey",
+          "url": "https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg"
+        }
+      ],
+      "date_added": "2022-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217093,
+      "name": "Not Today Mate",
+      "url": "https://open.spotify.com/track/5UQhTk7Pn3ZpXrqnYgJpPm"
     },
     {
       "album": {
@@ -5775,7 +5793,7 @@
       ],
       "date_added": "2022-06-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-01",
+      "date_removed": null,
       "duration_ms": 177560,
       "name": "Without You",
       "url": "https://open.spotify.com/track/4fkgjkCqxOsjePLSpHZbpa"

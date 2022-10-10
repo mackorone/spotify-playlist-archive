@@ -4,7 +4,7 @@
 
 > It's not just about the music, it's about the culture\. Cover: <a href="https://open.spotify.com/artist/5ZU2z8HnE8qlUdBpUoCkMr?si=oYfLmeh0Q7K9yhdpNp0aFg">Cairo CPT</a>
 
-70 songs - 6 hr 22 min - not published yet
+70 songs - 6 hr 22 min - [published](https://open.spotify.com/playlist/7uMJ9CoeHul7GwURVi0bpy)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

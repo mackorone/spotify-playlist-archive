@@ -49,7 +49,7 @@
       ],
       "date_added": "2022-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-04",
       "duration_ms": 177600,
       "name": "3 DI CUORI (feat. Lazza)",
       "url": "https://open.spotify.com/track/5w1eX8eQf8Z9jvqTCAtHkY"
@@ -435,7 +435,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-04",
       "duration_ms": 198888,
       "name": "Blessed (con Madame, Drast, thasup & ARIETE)",
       "url": "https://open.spotify.com/track/0mOF3hQ4UNx8f19iuzYxJN"
@@ -489,7 +489,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 339555,
       "name": "BTX Posse (con Fabri Fibra, Ernia, Lazza, Tony Effe, Coez, Geolier, Gu\u00e8, Paky & MamboLosco)",
       "url": "https://open.spotify.com/track/1pHJWDHje5vfV4sTvRNtuT"
@@ -519,6 +519,28 @@
       "duration_ms": 164327,
       "name": "BUBBLE (feat. thasup & Salmo)",
       "url": "https://open.spotify.com/track/3fIB4IEcvjlzItwnFUvIBk"
+    },
+    {
+      "album": {
+        "name": "c@ra++ere s?ec!@le",
+        "url": "https://open.spotify.com/album/7nDSuDHGJMKFtUTEEVJvUS"
+      },
+      "artists": [
+        {
+          "name": "thasup",
+          "url": "https://open.spotify.com/artist/19i93sA0D7yS9dYoVNBqAA"
+        },
+        {
+          "name": "Rondodasosa",
+          "url": "https://open.spotify.com/artist/61bQ4nwIioR8w6PGxzpyY3"
+        }
+      ],
+      "date_added": "2022-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212920,
+      "name": "c!ao (feat. Rondodasosa)",
+      "url": "https://open.spotify.com/track/78xAYXMtvQkDvlqJA3fKu6"
     },
     {
       "album": {
@@ -1182,6 +1204,40 @@
     },
     {
       "album": {
+        "name": "Botox",
+        "url": "https://open.spotify.com/album/1CjtjrWyjx2eT5OejciTVr"
+      },
+      "artists": [
+        {
+          "name": "Night Skinny",
+          "url": "https://open.spotify.com/artist/2E6AK3UPEGCvjnzuygCh2h"
+        },
+        {
+          "name": "Paky",
+          "url": "https://open.spotify.com/artist/1KQJOTeIMbixtnSWY4sYs2"
+        },
+        {
+          "name": "Noyz Narcos",
+          "url": "https://open.spotify.com/artist/49UAapOfpOg1ZOU4xf2NgY"
+        },
+        {
+          "name": "Geolier",
+          "url": "https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s"
+        },
+        {
+          "name": "Shiva",
+          "url": "https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS"
+        }
+      ],
+      "date_added": "2022-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172519,
+      "name": "Giorni Contati (con Paky, Noyz Narcos, Geolier & Shiva)",
+      "url": "https://open.spotify.com/track/6QjpEvmiZIM9qgTQhg5dzi"
+    },
+    {
+      "album": {
         "name": "Hustle Mixtape",
         "url": "https://open.spotify.com/album/6LmhYmD5q0vflzqQhkfeN1"
       },
@@ -1511,7 +1567,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 309650,
       "name": "La Famiglia (feat. 8blevrai, Kassimi, Yunes LaGrintaa, Sisco, N\u00e9za & Nabi)",
       "url": "https://open.spotify.com/track/3I8BqKLrfzZk1oGRe2pcnV"
@@ -1869,6 +1925,40 @@
       "duration_ms": 166796,
       "name": "Mamma Mia",
       "url": "https://open.spotify.com/track/7d7xucQmFY7PoESyJm2V9J"
+    },
+    {
+      "album": {
+        "name": "Botox",
+        "url": "https://open.spotify.com/album/1CjtjrWyjx2eT5OejciTVr"
+      },
+      "artists": [
+        {
+          "name": "Night Skinny",
+          "url": "https://open.spotify.com/artist/2E6AK3UPEGCvjnzuygCh2h"
+        },
+        {
+          "name": "Rkomi",
+          "url": "https://open.spotify.com/artist/056KMTw6IztdQjBmFfVyO3"
+        },
+        {
+          "name": "Pyrex",
+          "url": "https://open.spotify.com/artist/7h1amg0X7Q5d0D5KfuyKTg"
+        },
+        {
+          "name": "VillaBanks",
+          "url": "https://open.spotify.com/artist/3ASAxVN1hNoYfoMcIkzZWL"
+        },
+        {
+          "name": "Carl Brave",
+          "url": "https://open.spotify.com/artist/29nrwultxQ8jENVmXoyMqK"
+        }
+      ],
+      "date_added": "2022-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171428,
+      "name": "Marmellata (con Rkomi, Pyrex, VillaBanks & Carl Brave)",
+      "url": "https://open.spotify.com/track/5QJzkTjIrK6vXiNc7mpk7s"
     },
     {
       "album": {
@@ -2558,6 +2648,24 @@
     },
     {
       "album": {
+        "name": "Rari",
+        "url": "https://open.spotify.com/album/4nKa1aVHe4MdYdBMIPKnJ0"
+      },
+      "artists": [
+        {
+          "name": "Rose Villain",
+          "url": "https://open.spotify.com/artist/2aya6KuqjXEhHBqYKsTPLs"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168190,
+      "name": "Rari",
+      "url": "https://open.spotify.com/track/2pObwRg2GniOUROCOk0pDk"
+    },
+    {
+      "album": {
         "name": "Regina del Block",
         "url": "https://open.spotify.com/album/4nYOFpq5MQ0Eq5KvxfqsTD"
       },
@@ -2990,6 +3098,28 @@
     },
     {
       "album": {
+        "name": "Tchikita",
+        "url": "https://open.spotify.com/album/4bCnf6PzUd47Wrhfz3OrUE"
+      },
+      "artists": [
+        {
+          "name": "Medy",
+          "url": "https://open.spotify.com/artist/3lbFUmlaNMa9ZVSabLlkhn"
+        },
+        {
+          "name": "Timongothekeys",
+          "url": "https://open.spotify.com/artist/1pXa6QH7HpQcw3FCP7MQQk"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156000,
+      "name": "Tchikita",
+      "url": "https://open.spotify.com/track/3ztWRav85xIq8FUmBDr3cu"
+    },
+    {
+      "album": {
         "name": "Te Quiero",
         "url": "https://open.spotify.com/album/65qboLlffe6X2GHje6HA4j"
       },
@@ -3083,7 +3213,7 @@
       ],
       "date_added": "2022-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-04",
       "duration_ms": 265637,
       "name": "TRAVESURAS (feat. MV Killa, Yung Snapp, Lele Blade, Vale Lambo)",
       "url": "https://open.spotify.com/track/7IrtgihaMKV0DOVcB0TcBG"

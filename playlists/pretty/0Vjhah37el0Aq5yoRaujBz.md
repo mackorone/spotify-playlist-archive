@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0Vjhah37el0Aq5yoRaujBz.md) - [plain]
 
 > Let this upbeat playlist power you through your day
 
-[Jeffry Harrison](https://open.spotify.com/user/1231779322) - 3,182 likes - 306 songs - 18 hr 4 min
+[Jeffry Harrison](https://open.spotify.com/user/1231779322) - 3,186 likes - 306 songs - 18 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -119,7 +119,7 @@ pretty - [cumulative](/playlists/cumulative/0Vjhah37el0Aq5yoRaujBz.md) - [plain]
 | 109 | [You & Me \(Jupiter Project vs Adam Trigger\)](https://open.spotify.com/track/0sZyGHS3NyAaC8YuyhaF8b) | [Jupiter Project](https://open.spotify.com/artist/1wH5LoIgKQmq8VhaoP8FZO), [Adam Trigger](https://open.spotify.com/artist/6nXmnBpdFvzImqLQb3HBa9) | [You & Me \(Jupiter Project vs Adam Trigger\)](https://open.spotify.com/album/0P3FGSN7vx7MBECqZJKjrs) | 2:48 |
 | 110 | [All About It](https://open.spotify.com/track/30E8XAlfh6zoVsxga5LOIc) | [Sketchy Bongo](https://open.spotify.com/artist/6da0IfHaN561OqJxQ3JyKh), [Jimmy Nevis](https://open.spotify.com/artist/5qfN4DJ457Fvmu5z2DwUx3) | [All About It](https://open.spotify.com/album/0i5nUs6cvpZL4QNxV1Hror) | 3:21 |
 | 111 | [Lies \(feat\. SZA\)](https://open.spotify.com/track/69uWK3Zy6dZ8gIrQpn26l1) | [Felix Snow](https://open.spotify.com/artist/1qskAseW7apRxJBpYAO9Yk), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Lies \(feat\. SZA\)](https://open.spotify.com/album/6mx2DMgqbXAX1czTm0RDHj) | 3:52 |
-| 112 | [The Ocean \(feat\. Shy Martin\)](https://open.spotify.com/track/2CPqh63wRVscbceKcPxwvv) | [Mike Perry](https://open.spotify.com/artist/6lB8vOoI4DRrrVxXwuV19c), [SHY Martin](https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM) | [The Ocean \(feat\. Shy Martin\)](https://open.spotify.com/album/4pgNeQfSctryAw4e0uESHe) | 3:03 |
+| 112 | [The Ocean \(feat\. Shy Martin\)](https://open.spotify.com/track/2CPqh63wRVscbceKcPxwvv) | [Mike Perry](https://open.spotify.com/artist/6lB8vOoI4DRrrVxXwuV19c), [shy martin](https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM) | [The Ocean \(feat\. Shy Martin\)](https://open.spotify.com/album/4pgNeQfSctryAw4e0uESHe) | 3:03 |
 | 113 | [Once in a While](https://open.spotify.com/track/4cBGOdNeyGhu8ROeIC6H9Q) | [Timeflies](https://open.spotify.com/artist/6dC0rIJNLSFZwqckLgXJ8p) | [Once in a While](https://open.spotify.com/album/6lGFw9LteAzsbZ3Fv4iwj7) | 3:35 |
 | 114 | [Lose](https://open.spotify.com/track/5CldHsz8DpKHk2OiCs12RZ) | [Hvnnibvl](https://open.spotify.com/artist/7vTVlsNH3dt1nn4TMkRQIN) | [Lose \- Single](https://open.spotify.com/album/4dW3V2yteWNKITuDL2wDAu) | 3:50 |
 | 115 | [Burn Brighter](https://open.spotify.com/track/3WG7UMFxPC9MWbxhJIv4lN) | [Pavlova](https://open.spotify.com/artist/6CVfBbyPv7FnJ1nEFo58pv) | [Burn Brighter](https://open.spotify.com/album/1y7ibcgKjzZgZWH4Ied6Q7) | 3:32 |
@@ -246,7 +246,7 @@ pretty - [cumulative](/playlists/cumulative/0Vjhah37el0Aq5yoRaujBz.md) - [plain]
 | 236 | [Weak \- Cheat Codes Remix](https://open.spotify.com/track/62Uf8EAHQIhA1nOYYJewr3) | [AJR](https://open.spotify.com/artist/6s22t5Y3prQHyaHWUN1R1C), [Cheat Codes](https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU) | [Weak \(Remixes\)](https://open.spotify.com/album/1KmoAIEdwPiJVnbYOsttCc) | 2:57 |
 | 237 | [Mama](https://open.spotify.com/track/47OVNnZJzIkrsEiZ4n187p) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [William Singe](https://open.spotify.com/artist/5exS0bytCYdixgv02DaCm3) | [Mama](https://open.spotify.com/album/1PJTxJTsQxGT7KTY8gBfR7) | 3:04 |
 | 238 | [Brunch at the Bodega](https://open.spotify.com/track/2DYb9OVtTaRWVA7qmZ4CdX) | [Flamingosis](https://open.spotify.com/artist/75cW8FFekyCjj0mfZM1Gfb) | [Bright Moments](https://open.spotify.com/album/79A60jmAsN0A0vmbqosE6w) | 2:39 |
-| 239 | [Raincoat \(feat\. Shy Martin\)](https://open.spotify.com/track/5xYVqJ7ppf4bTbbztvVOYx) | [Timeflies](https://open.spotify.com/artist/6dC0rIJNLSFZwqckLgXJ8p), [SHY Martin](https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM) | [Raincoat \(feat\. Shy Martin\)](https://open.spotify.com/album/3Fx3f5TqmpaqlWdbUa2LpX) | 3:37 |
+| 239 | [Raincoat \(feat\. Shy Martin\)](https://open.spotify.com/track/5xYVqJ7ppf4bTbbztvVOYx) | [Timeflies](https://open.spotify.com/artist/6dC0rIJNLSFZwqckLgXJ8p), [shy martin](https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM) | [Raincoat \(feat\. Shy Martin\)](https://open.spotify.com/album/3Fx3f5TqmpaqlWdbUa2LpX) | 3:37 |
 | 240 | [Don’t You Feel It](https://open.spotify.com/track/1kW0EhrR7VdrXRexVIDIiB) | [Sub Focus](https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO), [ALMA](https://open.spotify.com/artist/6c0mTNAxJxlp9HpKTUZwA8) | [Don't You Feel It](https://open.spotify.com/album/0RkIZtap4bsBP2rEb3tJUQ) | 3:27 |
 | 241 | [We Could Be Beautiful](https://open.spotify.com/track/6p2l8mki7sBTvF89R3tcBj) | [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [We Could Be Beautiful](https://open.spotify.com/album/1knxEStPE5aiGzJDa75Zrf) | 3:20 |
 | 242 | [I'm Addicted \(Feat\. Jessi Lee\)](https://open.spotify.com/track/0lxFfhHYZ0CDv7avrEK85r) | [Broken Luxury](https://open.spotify.com/artist/7pNCWotpCKv6inhjEvVFc3), [Jessi Lee](https://open.spotify.com/artist/3MPPYgyycAuT0lobzEHb4i) | [I'm Addicted \(Feat\. Jessi Lee\)](https://open.spotify.com/album/2HAkUsMSVhkYsvf2uv4kme) | 3:34 |

@@ -8,6 +8,24 @@
   "tracks": [
     {
       "album": {
+        "name": "5 Minutes",
+        "url": "https://open.spotify.com/album/50m0nBNNmLRfgF9DXtUSeL"
+      },
+      "artists": [
+        {
+          "name": "Allen Stone",
+          "url": "https://open.spotify.com/artist/536osqBGKzeozje8BfcGsa"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195000,
+      "name": "5 Minutes",
+      "url": "https://open.spotify.com/track/5XUv1bnwbWqG59pzNVtocn"
+    },
+    {
+      "album": {
         "name": "All I Need (with Mahalia & Ty Dolla $ign)",
         "url": "https://open.spotify.com/album/4vSD7Y3Ob3H5nhfgWX8OPf"
       },
@@ -929,6 +947,24 @@
       "duration_ms": 184786,
       "name": "Mariposa",
       "url": "https://open.spotify.com/track/0D15z5l7YWqwyJ8wkO2oaA"
+    },
+    {
+      "album": {
+        "name": "An Orange Colored Day",
+        "url": "https://open.spotify.com/album/5nS7yXoaIU2y6xZ6I8hm8o"
+      },
+      "artists": [
+        {
+          "name": "Arima Ederra",
+          "url": "https://open.spotify.com/artist/0wJIP9Wlhn3aSLLaB31IK3"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206706,
+      "name": "Message",
+      "url": "https://open.spotify.com/track/0KIDpvQMzAAmwtsnSwBUN2"
     },
     {
       "album": {

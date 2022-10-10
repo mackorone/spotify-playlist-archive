@@ -1162,6 +1162,24 @@
     },
     {
       "album": {
+        "name": "The Exorcist: Main Theme: Tubular Bells",
+        "url": "https://open.spotify.com/album/69QzpucwLGZth7srwmGyqB"
+      },
+      "artists": [
+        {
+          "name": "Geek Music",
+          "url": "https://open.spotify.com/artist/4TkCMPznXOjlsYLfzIU1rw"
+        }
+      ],
+      "date_added": "2022-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158620,
+      "name": "The Exorcist: Main Theme: Tubular Bells",
+      "url": "https://open.spotify.com/track/3ZzJMjqypHG6hn7SqtMUKc"
+    },
+    {
+      "album": {
         "name": "Rachmaninov: Symphony No. 1; The Isle of Dead",
         "url": "https://open.spotify.com/album/2piZ6h6BZRAIAGp25nPJAS"
       },
@@ -1237,6 +1255,24 @@
       "duration_ms": 1213413,
       "name": "The Water Goblin, Op. 107",
       "url": "https://open.spotify.com/track/4b1brNQBEcvw4Eut1JHEfw"
+    },
+    {
+      "album": {
+        "name": "Vitamin String Quartet Performs the Nightmare Before Christmas",
+        "url": "https://open.spotify.com/album/1kQbCezHW2WISK4pcXl8Fi"
+      },
+      "artists": [
+        {
+          "name": "Vitamin String Quartet",
+          "url": "https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198840,
+      "name": "This Is Halloween",
+      "url": "https://open.spotify.com/track/61OAY1Rtoc80jfqUwYI9qM"
     },
     {
       "album": {
@@ -1321,7 +1357,7 @@
       ],
       "date_added": "2021-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-06",
       "duration_ms": 1561133,
       "name": "Tubular Bells - Pt. I",
       "url": "https://open.spotify.com/track/7ERSQrRptZVM7q3VOdM7OL"

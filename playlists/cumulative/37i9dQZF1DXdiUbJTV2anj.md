@@ -2,9 +2,9 @@
 
 ### [New Blood](https://open.spotify.com/playlist/37i9dQZF1DXdiUbJTV2anj)
 
-> Heavy new bands you need to have an eye on\. Cover: WARGASM \(UK\)
+> Heavy new bands you need to have an eye on\. Cover: Show Me the Body
 
-95 songs - 5 hr 37 min - [published](https://open.spotify.com/playlist/0gTCJ5PNCODVC0yVCIKhB7)
+96 songs - 5 hr 41 min - [published](https://open.spotify.com/playlist/0gTCJ5PNCODVC0yVCIKhB7)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,6 +83,7 @@
 | [Super Fiend](https://open.spotify.com/track/2JOYAjpbutUFqxHYncleLf) | [WARGASM \(UK\)](https://open.spotify.com/artist/1NRudBLaT84LXxfsYdFMhB) | [EXPLICIT: The MiXXXtape](https://open.spotify.com/album/0AGZmPToQJuD4DTh6bFGQ2) | 3:28 | 2022-09-09 |  |
 | [Telescope](https://open.spotify.com/track/0EY7Er3cOHyLZplxeODrcs) | [Tallah](https://open.spotify.com/artist/6Idb4IHX4Mf8IlB6sXcsdf) | [Telescope](https://open.spotify.com/album/5G4YhsTHSNpLSAutMvL80X) | 4:09 | 2022-07-29 | 2022-08-27 |
 | [Thanatos](https://open.spotify.com/track/1nckYgkJGeJFvcEwKrSCe7) | [Dead/Awake](https://open.spotify.com/artist/2Mtcd92iGg5ZXYaSUhZEQm) | [Thanatos](https://open.spotify.com/album/1SwglEKNRXgmlGP3csWSJV) | 2:56 | 2022-08-26 |  |
+| [The Dearly Beloved](https://open.spotify.com/track/65ISG3z0biln1mB8wakFEi) | [VCTMS](https://open.spotify.com/artist/0Gav1syIZzd1D6fiyhd9dT) | [The Dearly Beloved](https://open.spotify.com/album/3985j1Z12r21NCWCbGHTY2) | 3:56 | 2022-10-07 |  |
 | [The End](https://open.spotify.com/track/09STcjQLFcCE7TzjBmIXML) | [Stoned Statues](https://open.spotify.com/artist/4T3zk8OMwpondwavcnTZeQ) | [Stoned Statues](https://open.spotify.com/album/0NpgStIxQiQV5TmEmu7UJK) | 3:45 | 2022-07-29 | 2022-10-01 |
 | [The Enemy](https://open.spotify.com/track/3mgF9Ku2ufETtnLpCRwyET) | [The GFM Band](https://open.spotify.com/artist/1G2MgpunAePYtc83tCxZYK), [Gold, Frankincense, & Myrrh](https://open.spotify.com/artist/2NzvxoOoIshAvoQ2wYbZhj) | [The Enemy](https://open.spotify.com/album/4SQrKvM6xrxbvGRd33bGty) | 4:21 | 2022-07-29 |  |
 | [The Future Says Thank You](https://open.spotify.com/track/0ZJ2BP0U1H8uhy0LnYDXjk) | [Ithaca](https://open.spotify.com/artist/7HIvrtPrTTxXrBeJkiRj8x) | [They Fear Us](https://open.spotify.com/album/6RHap8m4NlsvCq2v2fPvCP) | 3:38 | 2022-07-29 | 2022-09-17 |

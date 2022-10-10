@@ -451,6 +451,24 @@
     {
       "album": {
         "name": "Don't Explain",
+        "url": "https://open.spotify.com/album/2uyORQ080sXcPN0oO5lXvT"
+      },
+      "artists": [
+        {
+          "name": "Beth Hart, Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/5n1XQGBfQhNsALjJs0APL5"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274546,
+      "name": "Don't Explain",
+      "url": "https://open.spotify.com/track/4aTIy3tZ3THeVp3eu6nsw8"
+    },
+    {
+      "album": {
+        "name": "Don't Explain",
         "url": "https://open.spotify.com/album/0b9pdQ9aJApcnIZ1OLZF7h"
       },
       "artists": [
@@ -469,28 +487,6 @@
       "duration_ms": 274546,
       "name": "Don't Explain",
       "url": "https://open.spotify.com/track/0Uu9jiyQ0PE7LGpGs5SA7F"
-    },
-    {
-      "album": {
-        "name": "Don't Explain",
-        "url": "https://open.spotify.com/album/2uyORQ080sXcPN0oO5lXvT"
-      },
-      "artists": [
-        {
-          "name": "Joe Bonamassa",
-          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
-        },
-        {
-          "name": "Beth Hart",
-          "url": "https://open.spotify.com/artist/30TrHDLNCKQVTYWOn9QqOC"
-        }
-      ],
-      "date_added": "2022-05-25",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 274546,
-      "name": "Don't Explain",
-      "url": "https://open.spotify.com/track/4aTIy3tZ3THeVp3eu6nsw8"
     },
     {
       "album": {
@@ -1027,12 +1023,8 @@
       },
       "artists": [
         {
-          "name": "Joe Bonamassa",
-          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
-        },
-        {
-          "name": "Beth Hart",
-          "url": "https://open.spotify.com/artist/30TrHDLNCKQVTYWOn9QqOC"
+          "name": "Beth Hart, Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/5n1XQGBfQhNsALjJs0APL5"
         }
       ],
       "date_added": "2022-05-25",
@@ -1369,7 +1361,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-28",
+      "date_removed": null,
       "duration_ms": 154226,
       "name": "Other Side of Goodbye",
       "url": "https://open.spotify.com/track/36C3122Qre8AjCMdCQNeAe"
@@ -1405,7 +1397,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-09",
       "duration_ms": 160800,
       "name": "Pulling Down The Ride",
       "url": "https://open.spotify.com/track/7JOMqLn74IaT8TkETwBTwS"

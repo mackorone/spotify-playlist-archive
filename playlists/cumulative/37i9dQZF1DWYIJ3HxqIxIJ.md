@@ -4,7 +4,7 @@
 
 > Grentperez is our new RADAR artist to watch!
 
-145 songs - 7 hr 36 min - [published](https://open.spotify.com/playlist/04ix1C8A2r6zTd5sj7E8wt)
+146 songs - 7 hr 38 min - [published](https://open.spotify.com/playlist/04ix1C8A2r6zTd5sj7E8wt)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -86,7 +86,8 @@
 | [MF ILY](https://open.spotify.com/track/3EivEDlbLFYosFPcW9UiQl) | [iyah may](https://open.spotify.com/artist/060ow5U2oWdOVFgffCgpwp) | [MF ILY](https://open.spotify.com/album/2MELzbc2Ts8s3rZCFjdH4B) | 3:00 | 2021-10-15 | 2022-08-16 |
 | [Mid Years](https://open.spotify.com/track/3DweCW4XdD9BWzSjMkj0as) | [George Alice](https://open.spotify.com/artist/2qmz9qPEFq5phZ8bscA2oL) | [Mid Years](https://open.spotify.com/album/6goF0ZEnG6xaySuYrYAeEH) | 2:58 | 2021-10-15 | 2022-08-16 |
 | [Might Just \(feat\. Kings & eleven7four\)](https://open.spotify.com/track/48lL7tsUr8tAlHg5Rpoxn6) | [CHAII](https://open.spotify.com/artist/5QYfFIxVcsJtK600MxqtpF), [Kings](https://open.spotify.com/artist/32GMj177nVLZPp3lqVrCXp), [eleven7four](https://open.spotify.com/artist/3R7vsIfCvXWZ95uFCDAgJa) | [Might Just \(feat\. Kings & eleven7four\)](https://open.spotify.com/album/7yJ7l28LyqyRdWStPN0QdD) | 3:38 | 2021-10-15 | 2022-08-16 |
-| [Missing You](https://open.spotify.com/track/1crht72poF4DKmkelzypLN) | [Will Swinton](https://open.spotify.com/artist/1fUcXY3KcnNvCP2dnF7XCh) | [Missing You](https://open.spotify.com/album/2WRDX1r97g3G40Y4HMlTQn) | 2:28 | 2022-08-15 |  |
+| [Missing You](https://open.spotify.com/track/0HxVZLIsHtmANlPe5365CI) | [Will Swinton](https://open.spotify.com/artist/1fUcXY3KcnNvCP2dnF7XCh) | [Missing You](https://open.spotify.com/album/7tZNUkPLh4bj1iDphlnDkV) | 2:28 | 2022-08-28 |  |
+| [Missing You](https://open.spotify.com/track/1crht72poF4DKmkelzypLN) | [Will Swinton](https://open.spotify.com/artist/1fUcXY3KcnNvCP2dnF7XCh) | [Missing You](https://open.spotify.com/album/2WRDX1r97g3G40Y4HMlTQn) | 2:28 | 2022-08-15 | 2022-10-09 |
 | [Mom Jeans](https://open.spotify.com/track/4Q2ccX0e7grpqZal3OuTuX) | [morgen](https://open.spotify.com/artist/6jadsn0j1QjrlJTMiaUJYF) | [Mom Jeans](https://open.spotify.com/album/6a2gZjOyZD9Qg8SaLKLbtt) | 1:59 | 2022-08-15 |  |
 | [Motels](https://open.spotify.com/track/1V888fh2JLVzMElr1pEz6Z) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [Motels](https://open.spotify.com/album/59ok1dIXKrSGEuyziyoyfO) | 3:23 | 2022-08-15 |  |
 | [Never Forget \[Feat\. Chef 187, Tio Nason, Mwanjé\]](https://open.spotify.com/track/4pBr2SjDVIxfGkUwvOJLx7) | [Sampa the Great](https://open.spotify.com/artist/7fw0E8WHdG3r9SuPBcGmWk), [Chef 187](https://open.spotify.com/artist/26fSO7cYQ1Txtb8xNi8byv), [Tio Nason](https://open.spotify.com/artist/44vOrGC9wQuBCQIeBUNc1O), [Mwanje](https://open.spotify.com/artist/3BM1y5iZJFNwGFZC8ivubP) | [Never Forget](https://open.spotify.com/album/1TGT83DEhv2ovTITDUQA2q) | 3:37 | 2022-08-15 |  |

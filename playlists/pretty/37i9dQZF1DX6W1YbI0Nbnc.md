@@ -2,34 +2,34 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6W1YbI0Nbnc.md) - [plain]
 
 ### [EQUAL Hong Kong](https://open.spotify.com/playlist/37i9dQZF1DX6W1YbI0Nbnc)
 
-> 一起感受香港製造的女聲力量！\(cover: Gin Lee\)
+> 一起感受香港製造的女聲力量！\(cover: moon tang\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,816 likes - 50 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,893 likes - 50 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [虛榮](https://open.spotify.com/track/5puEYsEdjTrlUmnjSNfR2u) | [Gin Lee](https://open.spotify.com/artist/0UtXMxHMXhwQUI6G6TFDt1) | [Time & Faith](https://open.spotify.com/album/4kVnFSELfabAHeMobiNSGv) | 3:52 |
-| 2 | [人間英靈](https://open.spotify.com/track/7oNv5d0pYrSzIiYA5fRydi) | [葉巧琳](https://open.spotify.com/artist/48tRNx6mDy91ETezlPgihs) | [人間英靈](https://open.spotify.com/album/1yzycSWu0g8BCJ63E5m9sj) | 4:10 |
-| 3 | [u owe me $$](https://open.spotify.com/track/1suYIEpjPMDs8b8ouSWfV7) | [Kiri T](https://open.spotify.com/artist/1gpUtHqrKRAEy8w7ojs8l5) | [u owe me $$](https://open.spotify.com/album/45ws2OGii3pGImgyhePhBC) | 2:37 |
-| 4 | [凡星 \(天星銀行airstar音樂劇場主題曲\)](https://open.spotify.com/track/7eZJLfMQ5mDtejHitRkzRf) | [Panther Chan](https://open.spotify.com/artist/3jS58yKkLzOd8S8IHyCsEm) | [凡星 \(天星銀行airstar音樂劇場主題曲\)](https://open.spotify.com/album/5f1R2DOR0cLJlUmpO1gtjC) | 4:44 |
-| 5 | [剛好](https://open.spotify.com/track/2glEQhYzV4hvVM5tTuKzI2) | [Gin Lee](https://open.spotify.com/artist/0UtXMxHMXhwQUI6G6TFDt1) | [Time & Faith](https://open.spotify.com/album/4kVnFSELfabAHeMobiNSGv) | 3:49 |
-| 6 | [一個傻瓜一個啞](https://open.spotify.com/track/0VlWjFvXbxqOYruXnE675K) | [陳葦璇](https://open.spotify.com/artist/0nA2s878rKSluSrpBTpABm) | [一個傻瓜一個啞](https://open.spotify.com/album/3yu6YCKuwt1CQRN4nYei1H) | 3:55 |
-| 7 | [樹木真美](https://open.spotify.com/track/3V62hqp8AIqkSfr8Ys2lzP) | [Serrini](https://open.spotify.com/artist/0u3m5Sy2zsq4Gk0aduH9s7) | [樹木真美](https://open.spotify.com/album/24gJxtIlfZDK6SnR2MiuiU) | 4:06 |
-| 8 | [OFF/ON](https://open.spotify.com/track/1k4epQqpbGkyIm3O6bRALu) | [COLLAR](https://open.spotify.com/artist/1IlMpBkrZ4Na4S9fOcuN3f) | [OFF/ON](https://open.spotify.com/album/2rbid0M6p0FaDplPh5ey6P) | 3:28 |
-| 9 | [到了那裏就對吧](https://open.spotify.com/track/21ENVTzs1QqHLn8bNygoGD) | [Cloud 雲浩影](https://open.spotify.com/artist/4LM4l7LiE1ulVQ32zZTtJk) | [到了那裏就對吧](https://open.spotify.com/album/6AIYlSiFW4giKz0GWlLhxE) | 4:14 |
+| 1 | [i love u](https://open.spotify.com/track/5y5JrAfwqYDoVrXfv532W4) | [moon tang](https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7) | [i love u](https://open.spotify.com/album/4np08DYpAtw26nV2UUX47D) | 3:34 |
+| 2 | [虛榮](https://open.spotify.com/track/5puEYsEdjTrlUmnjSNfR2u) | [Gin Lee](https://open.spotify.com/artist/0UtXMxHMXhwQUI6G6TFDt1) | [Time & Faith](https://open.spotify.com/album/4kVnFSELfabAHeMobiNSGv) | 3:52 |
+| 3 | [人間英靈](https://open.spotify.com/track/7oNv5d0pYrSzIiYA5fRydi) | [葉巧琳](https://open.spotify.com/artist/48tRNx6mDy91ETezlPgihs) | [人間英靈](https://open.spotify.com/album/1yzycSWu0g8BCJ63E5m9sj) | 4:10 |
+| 4 | [u owe me $$](https://open.spotify.com/track/1suYIEpjPMDs8b8ouSWfV7) | [Kiri T](https://open.spotify.com/artist/1gpUtHqrKRAEy8w7ojs8l5) | [u owe me $$](https://open.spotify.com/album/45ws2OGii3pGImgyhePhBC) | 2:37 |
+| 5 | [凡星 \(天星銀行airstar音樂劇場主題曲\)](https://open.spotify.com/track/7eZJLfMQ5mDtejHitRkzRf) | [Panther Chan](https://open.spotify.com/artist/3jS58yKkLzOd8S8IHyCsEm) | [凡星 \(天星銀行airstar音樂劇場主題曲\)](https://open.spotify.com/album/5f1R2DOR0cLJlUmpO1gtjC) | 4:44 |
+| 6 | [剛好](https://open.spotify.com/track/2glEQhYzV4hvVM5tTuKzI2) | [Gin Lee](https://open.spotify.com/artist/0UtXMxHMXhwQUI6G6TFDt1) | [Time & Faith](https://open.spotify.com/album/4kVnFSELfabAHeMobiNSGv) | 3:49 |
+| 7 | [一個傻瓜一個啞](https://open.spotify.com/track/0VlWjFvXbxqOYruXnE675K) | [陳葦璇](https://open.spotify.com/artist/0nA2s878rKSluSrpBTpABm) | [一個傻瓜一個啞](https://open.spotify.com/album/3yu6YCKuwt1CQRN4nYei1H) | 3:55 |
+| 8 | [樹木真美](https://open.spotify.com/track/3V62hqp8AIqkSfr8Ys2lzP) | [Serrini](https://open.spotify.com/artist/0u3m5Sy2zsq4Gk0aduH9s7) | [樹木真美](https://open.spotify.com/album/24gJxtIlfZDK6SnR2MiuiU) | 4:06 |
+| 9 | [OFF/ON](https://open.spotify.com/track/1k4epQqpbGkyIm3O6bRALu) | [COLLAR](https://open.spotify.com/artist/1IlMpBkrZ4Na4S9fOcuN3f) | [OFF/ON](https://open.spotify.com/album/2rbid0M6p0FaDplPh5ey6P) | 3:28 |
 | 10 | [呼吸之間](https://open.spotify.com/track/1eVGIJZMTyms9dpWI70aJi) | [Janice Vidal](https://open.spotify.com/artist/68gYAqni9tSrACmLCp4qoM) | [呼吸之間](https://open.spotify.com/album/2W6R3leFpPzSrZLkF7oFJR) | 4:13 |
-| 11 | [東京夢遊 \(東京一轉 Japanese Version\)](https://open.spotify.com/track/5o4KlQR1SDK6A2ux7hJE33) | [麗英](https://open.spotify.com/artist/0Ikg5QGqfXvrtaSosMFruS) | [東京夢遊 \(東京一轉 Japanese Version\)](https://open.spotify.com/album/5AL0bGaBBTRVw7bPD9cb2c) | 3:46 |
-| 12 | [歸零](https://open.spotify.com/track/7axP3vilxbXHd1cv6eRqp7) | [駱胤鳴](https://open.spotify.com/artist/4x0AqvSUmkoazJYSz9q4wq) | [歸零](https://open.spotify.com/album/4qqcdAk38QXTenIwAo4ezW) | 4:17 |
-| 13 | [焰](https://open.spotify.com/track/4nKDougYpys5mubDgbO5rb) | [Gigi炎明熹](https://open.spotify.com/artist/7McwvS0kWbED0fxl6orCjA) | [焰](https://open.spotify.com/album/6j6Q2Chk9OvMHOcsCtmiKt) | 3:55 |
-| 14 | [當你睡著的時候](https://open.spotify.com/track/5cq3lcOJi4CU14LmSJL8Lv) | [JUDE](https://open.spotify.com/artist/0fs8Z11YQwRDEhdgRXoi4q) | [當你睡著的時候](https://open.spotify.com/album/6dilfUvZmJlag4W2UGv424) | 3:44 |
-| 15 | [你是你本身的傳奇](https://open.spotify.com/track/5uMkdWf1H6JEcpcdnPOSZM) | [Charmaine Fong](https://open.spotify.com/artist/1DgBVE3lCnC7Osg9zpAt6N) | [404 Not Found](https://open.spotify.com/album/4xl2rRkillqFASqckMIjLy) | 3:48 |
-| 16 | [靜夜歌](https://open.spotify.com/track/7uVPQnJIh2x4J3UOZSELYN) | [Kay Tse](https://open.spotify.com/artist/6XtWdWAC7rNqXwbs8hGqP9) | [靜夜歌](https://open.spotify.com/album/6GZ1SDblzNaLfcMerPxgRJ) | 4:48 |
-| 17 | [HW1](https://open.spotify.com/track/7CbFYLWp5WI3K9p57d1X9w) | [Charmaine Fong](https://open.spotify.com/artist/1DgBVE3lCnC7Osg9zpAt6N) | [HW1](https://open.spotify.com/album/27olYw9kfefaxM2oqtXhbg) | 4:19 |
-| 18 | [Never\-never Land](https://open.spotify.com/track/2MKENhpdJ8egUGHl6EWG5F) | [COLLAR](https://open.spotify.com/artist/1IlMpBkrZ4Na4S9fOcuN3f) | [Never\-never Land](https://open.spotify.com/album/1rMS9dyJwf4mPubmsoGhh4) | 3:32 |
-| 19 | [到時見 \(Acoustic Version\)](https://open.spotify.com/track/23I26HyXJO6i9PH8BJKpQL) | [Sabrina Cheung 張蔓莎](https://open.spotify.com/artist/5EFPewjksQrnI87VOsvFHh) | [到時見 \(Acoustic Version\)](https://open.spotify.com/album/1DnNwfhdTujJLKUSeGU4oY) | 2:27 |
-| 20 | [怕黑](https://open.spotify.com/track/4jO2OsxutgsDsedqUs2sYL) | [Tang Siu Hau](https://open.spotify.com/artist/01LAw9Av7Zcg01A8McfGYB) | [Petit Fours](https://open.spotify.com/album/2Cs7d4bQgWBkdb3YZnOm2P) | 3:37 |
-| 21 | [憶年](https://open.spotify.com/track/5uxCNlVVR6Y5knXfooC8Yr) | [Kay Tse](https://open.spotify.com/artist/6XtWdWAC7rNqXwbs8hGqP9) | [憶年](https://open.spotify.com/album/1aukOJN5KfQmvudlbgVmby) | 3:42 |
-| 22 | [願望之翼](https://open.spotify.com/track/21Kzm94SbTfBWfnAgcK02E) | [Cloud 雲浩影](https://open.spotify.com/artist/4LM4l7LiE1ulVQ32zZTtJk) | [願望之翼](https://open.spotify.com/album/21OfoQE1oqFyCNaccSVAW8) | 3:44 |
+| 11 | [i hate u](https://open.spotify.com/track/1SMS6ig5qiNbjYfm3du2rM) | [moon tang](https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7) | [i hate u](https://open.spotify.com/album/34CBGNvwe29SICNBKEXhzI) | 2:49 |
+| 12 | [東京夢遊 \(東京一轉 Japanese Version\)](https://open.spotify.com/track/5o4KlQR1SDK6A2ux7hJE33) | [麗英](https://open.spotify.com/artist/0Ikg5QGqfXvrtaSosMFruS) | [東京夢遊 \(東京一轉 Japanese Version\)](https://open.spotify.com/album/5AL0bGaBBTRVw7bPD9cb2c) | 3:46 |
+| 13 | [歸零](https://open.spotify.com/track/7axP3vilxbXHd1cv6eRqp7) | [駱胤鳴](https://open.spotify.com/artist/4x0AqvSUmkoazJYSz9q4wq) | [歸零](https://open.spotify.com/album/4qqcdAk38QXTenIwAo4ezW) | 4:17 |
+| 14 | [焰](https://open.spotify.com/track/4nKDougYpys5mubDgbO5rb) | [Gigi炎明熹](https://open.spotify.com/artist/7McwvS0kWbED0fxl6orCjA) | [焰](https://open.spotify.com/album/6j6Q2Chk9OvMHOcsCtmiKt) | 3:55 |
+| 15 | [當你睡著的時候](https://open.spotify.com/track/5cq3lcOJi4CU14LmSJL8Lv) | [JUDE](https://open.spotify.com/artist/0fs8Z11YQwRDEhdgRXoi4q) | [當你睡著的時候](https://open.spotify.com/album/6dilfUvZmJlag4W2UGv424) | 3:44 |
+| 16 | [你是你本身的傳奇](https://open.spotify.com/track/5uMkdWf1H6JEcpcdnPOSZM) | [Charmaine Fong](https://open.spotify.com/artist/1DgBVE3lCnC7Osg9zpAt6N) | [404 Not Found](https://open.spotify.com/album/4xl2rRkillqFASqckMIjLy) | 3:48 |
+| 17 | [靜夜歌](https://open.spotify.com/track/7uVPQnJIh2x4J3UOZSELYN) | [Kay Tse](https://open.spotify.com/artist/6XtWdWAC7rNqXwbs8hGqP9) | [靜夜歌](https://open.spotify.com/album/6GZ1SDblzNaLfcMerPxgRJ) | 4:48 |
+| 18 | [HW1](https://open.spotify.com/track/7CbFYLWp5WI3K9p57d1X9w) | [Charmaine Fong](https://open.spotify.com/artist/1DgBVE3lCnC7Osg9zpAt6N) | [HW1](https://open.spotify.com/album/27olYw9kfefaxM2oqtXhbg) | 4:19 |
+| 19 | [Never\-never Land](https://open.spotify.com/track/2MKENhpdJ8egUGHl6EWG5F) | [COLLAR](https://open.spotify.com/artist/1IlMpBkrZ4Na4S9fOcuN3f) | [Never\-never Land](https://open.spotify.com/album/1rMS9dyJwf4mPubmsoGhh4) | 3:32 |
+| 20 | [到時見 \(Acoustic Version\)](https://open.spotify.com/track/23I26HyXJO6i9PH8BJKpQL) | [Sabrina Cheung 張蔓莎](https://open.spotify.com/artist/5EFPewjksQrnI87VOsvFHh) | [到時見 \(Acoustic Version\)](https://open.spotify.com/album/1DnNwfhdTujJLKUSeGU4oY) | 2:27 |
+| 21 | [怕黑](https://open.spotify.com/track/4jO2OsxutgsDsedqUs2sYL) | [Tang Siu Hau](https://open.spotify.com/artist/01LAw9Av7Zcg01A8McfGYB) | [Petit Fours](https://open.spotify.com/album/2Cs7d4bQgWBkdb3YZnOm2P) | 3:37 |
+| 22 | [憶年](https://open.spotify.com/track/5uxCNlVVR6Y5knXfooC8Yr) | [Kay Tse](https://open.spotify.com/artist/6XtWdWAC7rNqXwbs8hGqP9) | [憶年](https://open.spotify.com/album/1aukOJN5KfQmvudlbgVmby) | 3:42 |
 | 23 | [有效承諾](https://open.spotify.com/track/2sUGlTZO6Ptq0gDHZixhti) | [駱胤鳴](https://open.spotify.com/artist/4x0AqvSUmkoazJYSz9q4wq) | [有效承諾](https://open.spotify.com/album/61VT2iErazRvdepgOuM3B3) | 4:18 |
 | 24 | [真話的清高](https://open.spotify.com/track/0wW3KdmRH7K4ruByXTi4Xv) | [Gigi炎明熹](https://open.spotify.com/artist/7McwvS0kWbED0fxl6orCjA) | [真話的清高](https://open.spotify.com/album/54R99UaKuQwZCB4T0yV7FK) | 3:41 |
 | 25 | [三分甜](https://open.spotify.com/track/2KAUjZ3n3UmaRveXMvzgUu) | [Lolly Talk](https://open.spotify.com/artist/58mVHcSF3eyFFKomq28iRr) | [三分甜](https://open.spotify.com/album/68v7jR4cAvUiyzK7oL7HnI) | 3:53 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6W1YbI0Nbnc.md) - [plain]
 | 49 | [8SEC](https://open.spotify.com/track/5iUu6TerlD7QGVeJyXRd3r) | [Lolly Talk](https://open.spotify.com/artist/58mVHcSF3eyFFKomq28iRr) | [8SEC](https://open.spotify.com/album/4Rej6saAxyu8MQD21E8QeN) | 3:37 |
 | 50 | [Get Lost](https://open.spotify.com/track/6T5h25GMtJWOhGcObvjlHq) | [moon tang](https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7) | [Get Lost](https://open.spotify.com/album/0xie7ofeyXxvtFqPgvnSIv) | 3:06 |
 
-Snapshot ID: `MTY2MjQ4MDAwMCwwMDAwMDAwMDAwNTUyM2QyYTkwN2JiNWRmN2EyZTQwMWQ3OTQ4MDdh`
+Snapshot ID: `MTY2NDk0NTY0NSwwMDAwMDAwMDk3YzAyMzNjN2YzZTVmMTVmOTlmYjY1MzE5NzNmNGE1`

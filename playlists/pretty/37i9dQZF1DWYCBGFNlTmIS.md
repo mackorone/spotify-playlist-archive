@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYCBGFNlTmIS.md) - [plain]
 
 > 生命中有各種離別時刻，在告別前，你會點播那一首歌給那位聽？
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,980 likes - 78 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,988 likes - 78 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [HW1](https://open.spotify.com/track/7CbFYLWp5WI3K9p57d1X9w) | [Charmaine Fong](https://open.spotify.com/artist/1DgBVE3lCnC7Osg9zpAt6N) | [HW1](https://open.spotify.com/album/27olYw9kfefaxM2oqtXhbg) | 4:19 |
 | 2 | [Long D](https://open.spotify.com/track/3tzjn5ILVuHc4eSLTH60lY) | [Jace Chan](https://open.spotify.com/artist/1SCaQu3jTbcKIjy8aC7KHa) | [Long D](https://open.spotify.com/album/3SGir5Xnex2E02jNYAzRnr) | 3:41 |
-| 3 | [逐個逐個](https://open.spotify.com/track/1yQwV08EuKDeAcV9HHL4Gd) | [Jan Curious](https://open.spotify.com/artist/1DxU7yGnE1XPeLYzOHdKSy) | [亞水](https://open.spotify.com/album/5BIynFkSbcq2esNGgH4YwO) | 3:17 |
+| 3 | [逐個逐個](https://open.spotify.com/track/2m1oTvhKULLdLHKNRCKp3J) | [Jan Curious](https://open.spotify.com/artist/1DxU7yGnE1XPeLYzOHdKSy) | [亞水](https://open.spotify.com/album/3Tq4VEvtEoMpG3qh8fR145) | 3:17 |
 | 4 | [Wish You Were Ok](https://open.spotify.com/track/2w69Skv6oxKvFJNmPzdYzb) | [Regen C.](https://open.spotify.com/artist/4KInUUpPn9iBZgkSKTo4vv) | [Wish You Were Ok](https://open.spotify.com/album/3IjSBZBsyps4wwdD4f2x9G) | 4:27 |
 | 5 | [沒有人可以為你的幸福負責](https://open.spotify.com/track/2lkYHFcSUywPfVhXEkFM4p) | [Alfred Hui](https://open.spotify.com/artist/0GCtLaB5rBjoUpQdXogZzj) | [沒有人可以為你的幸福負責](https://open.spotify.com/album/2YBZzO6Y9cogGy6H662L1r) | 3:33 |
 | 6 | [無常家](https://open.spotify.com/track/5HE9tB9RHyoHVMdpOQmOHs) | [Yoyo Sham](https://open.spotify.com/artist/2OrCYFzQYE1TmevdYARnU1) | [無常家](https://open.spotify.com/album/7GsVzjPuZJbKrbeEgqR23h) | 3:59 |
@@ -87,4 +87,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYCBGFNlTmIS.md) - [plain]
 | 77 | [獨家村](https://open.spotify.com/track/0FlQr1kPj50rAee1kJjk5p) | [Kay Tse](https://open.spotify.com/artist/6XtWdWAC7rNqXwbs8hGqP9) | [KONTINUE](https://open.spotify.com/album/5p2E0WphdOZE45CUoRbHg7) | 4:20 |
 | 78 | [鐵塔凌雲](https://open.spotify.com/track/5ALKwvEgxQpqrtCAJCvQhA) | [Sam Hui](https://open.spotify.com/artist/1SglpJrPltamdJLLwInIL7) | [真經典 \- 許冠傑](https://open.spotify.com/album/6Lzj5H2oIrmZgynj212qal) | 3:02 |
 
-Snapshot ID: `MTY0OTg3MzY5NSwwMDAwMDAwMGJmNDI4ZmM5NWMzZTNmY2MwN2QxOGMyYjA0NmQ3YWVj`
+Snapshot ID: `MTY0OTg3MzY5NSwwMDAwMDAwMDI5YjIyN2ZkMGZlNDg2NGU1NDhhZDliYzc3M2FiNmE2`

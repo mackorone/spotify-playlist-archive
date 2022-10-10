@@ -2,7 +2,7 @@
 
 ### [Esquenta Sertanejo](https://open.spotify.com/playlist/37i9dQZF1DXdSjVZQzv2tl)
 
-> O melhor do sertanejo em uma só playlist! Foto: Jorge & Mateus
+> O melhor do sertanejo em uma só playlist! Foto: Henrique & Juliano
 
 97 songs - 4 hr 40 min - [published](https://open.spotify.com/playlist/1QClRCShAKNcti565v7TOp)
 

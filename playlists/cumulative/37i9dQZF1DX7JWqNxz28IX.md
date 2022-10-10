@@ -4,7 +4,7 @@
 
 > 🩹 \(in cover, i lost kids\)
 
-136 songs - 6 hr 8 min - [published](https://open.spotify.com/playlist/7fBkDuj9jj7rj8liyTLX4S)
+138 songs - 6 hr 15 min - [published](https://open.spotify.com/playlist/7fBkDuj9jj7rj8liyTLX4S)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [Barbie](https://open.spotify.com/track/6FyL3LaA6KriOfgHJUnhVS) | [SHYGUY.OG](https://open.spotify.com/artist/5OGilC8ZDq4jiufxRylb0X) | [Barbie](https://open.spotify.com/album/7GJY1BE2OnuQBnWNvKHWJK) | 1:22 | 2022-06-23 | 2022-08-13 |
 | [Bombay Lemon](https://open.spotify.com/track/3L98UZzDKHC4koi1TKmO0J) | [Cloudì](https://open.spotify.com/artist/14F6TgN7IOUEReU7piFW82), [Bipolar](https://open.spotify.com/artist/36CoTQmA5QgZvVpG81y1di) | [Bombay Lemon](https://open.spotify.com/album/5kSewiNIIo210XyP54tzSo) | 2:56 | 2022-04-21 |  |
 | [cento metri](https://open.spotify.com/track/3xfBKb2gdbtcyJdQMwPmPO) | [Chakra](https://open.spotify.com/artist/78tkEnghpGYk8stmKlkxbv) | [cento metri](https://open.spotify.com/album/393JFt171sEH0GisXy7WeM) | 2:05 | 2022-04-21 |  |
+| [Cicatrici](https://open.spotify.com/track/3M7tOqC4TBFlZKcUwWkEjo) | [EDN](https://open.spotify.com/artist/2FfgO1FC4Bp1snTrGYZz9u), [Mose](https://open.spotify.com/artist/6MxxMir5Ey3h9QxsGDfg4L) | [Cicatrici](https://open.spotify.com/album/6Qdg8tGzw265EafPwrrtKT) | 3:11 | 2022-10-06 |  |
 | [Cicatrici](https://open.spotify.com/track/7t8s9YRj6sQwTDECF0lT0d) | [piccoli brividi](https://open.spotify.com/artist/6m5gjMXPUZztfLUomW1n3r), [Jianguar](https://open.spotify.com/artist/4E09DNh6BhvlvyoOlXCHuF), [Kuiper](https://open.spotify.com/artist/4yeIBrzWWNRbnAd1Aq3oLG) | [Cicatrici](https://open.spotify.com/album/4eQOy5tEVq0Ti6hk8CqKfT) | 3:50 | 2022-07-28 |  |
 | [Cicatrici](https://open.spotify.com/track/4RVJ9ftLiCwxSVSVTvQBQm) | [Zeta](https://open.spotify.com/artist/6gRamOYCDmzgHxeWxO1RRP), [Tenth Sky](https://open.spotify.com/artist/2VFljEy461d5COnyYGISD1) | [Cicatrici](https://open.spotify.com/album/3YwKjZZThIr9sFFXS0AXnO) | 2:28 | 2022-04-21 | 2022-07-29 |
 | [Cicatrici \(feat\. Tenth Sky\)](https://open.spotify.com/track/3FZlx13Vs5tZm3u0PH5i7v) | [Zeta](https://open.spotify.com/artist/6gRamOYCDmzgHxeWxO1RRP), [Tenth Sky](https://open.spotify.com/artist/2VFljEy461d5COnyYGISD1) | [Lacrime](https://open.spotify.com/album/5drTfTuBNR87cXnyJdn7En) | 2:28 | 2022-07-28 |  |
@@ -79,6 +80,7 @@
 | [ME & YOU](https://open.spotify.com/track/6aUqWalFUc8uaPRbnx4Drq) | [Zyrtck](https://open.spotify.com/artist/4kzy5r1zhu4jC0LhQ15nti), [Friman](https://open.spotify.com/artist/1fiZijV9uuS7ZZmxnAbjEQ) | [ME & YOU](https://open.spotify.com/album/1laFOBIGISoV3AtdDFTP9H) | 2:17 | 2022-04-21 |  |
 | [Mille Gatti](https://open.spotify.com/track/23hjyl5BiuPM5brnFrxIL5) | [Lost Kids](https://open.spotify.com/artist/5ly3ec0V7ETrC9fSvOX9G6), [Ayden Lau](https://open.spotify.com/artist/3o7aFoRens3q0PemGHwM6X), [Close Listen](https://open.spotify.com/artist/1nYewcxiLilP3ju14xOaov) | [Mille Gatti](https://open.spotify.com/album/3lul0L0dQhpxFrgA4oudMB) | 2:44 | 2022-07-28 |  |
 | [Mille Pezzi](https://open.spotify.com/track/6t1XiG2eJ6MtchAdieG8Zn) | [TB](https://open.spotify.com/artist/1z2PiwIAFADDrAnR52LBkN) | [Mille Pezzi](https://open.spotify.com/album/6O9TdMLd0pOmHz8Sh690JF) | 3:06 | 2022-06-23 |  |
+| [Mille Volte \(feat\. CoCo\)](https://open.spotify.com/track/2DgvnFBzzMjS2GVLAJKS69) | [Plug](https://open.spotify.com/artist/0PWa13NHPcTgfyBlIkjjBx), [CoCo](https://open.spotify.com/artist/5FEh6KHK99CyLXp3qFvZFM) | [Mille Volte \(feat\. CoCo\)](https://open.spotify.com/album/0dL3GcOmJPvT6OYZNWA44M) | 3:00 | 2022-10-06 |  |
 | [minuti che vivi](https://open.spotify.com/track/25QQoIufdkPTyY5ruvdaZy) | [Edra](https://open.spotify.com/artist/3mxIKZRca9G3N1C1dfbBzY) | [minuti che vivi](https://open.spotify.com/album/2Nj03riqaVvEDDTN6peIqm) | 2:41 | 2022-04-21 | 2022-08-13 |
 | [Miss Guid](https://open.spotify.com/track/0PvgTLCseyPRJFAI6HlHsK) | [LXX Blood](https://open.spotify.com/artist/01JV7meMCVebgwpU2UN0h5), [Naima Blood](https://open.spotify.com/artist/4PK1VPNg3zWSbIK4SboMa9) | [DIE](https://open.spotify.com/album/2IZzc3V9rB6zYZm0uwra6D) | 2:29 | 2022-04-21 |  |
 | [molecole \(interlude\)](https://open.spotify.com/track/7vsofh7bdDeL0n0lodFiCi) | [thasup](https://open.spotify.com/artist/19i93sA0D7yS9dYoVNBqAA) | [c@ra++ere s?ec!@le](https://open.spotify.com/album/7nDSuDHGJMKFtUTEEVJvUS) | 2:05 | 2022-09-29 |  |

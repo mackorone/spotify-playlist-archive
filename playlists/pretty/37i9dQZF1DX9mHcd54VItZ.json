@@ -1,28 +1,28 @@
 {
-  "description": "Only the hottest out now in South African Rock and Punk. Cover: <a href=\"https://open.spotify.com/artist/36P4zQxOGCSabr44bXS8kW?si=G9Ia9ChuTPeQ1Z7iZd3bYw\">Droomsindroom</a>",
-  "num_followers": 11120,
+  "description": "Only the hottest out now in South African Rock and Punk. Cover: <a href=\"https://open.spotify.com/artist/786vB3MPgJ2kUzhNrbeaMZ?si=iRBNl1GmTFSUQQjaHnjWFA\">Hugo Pooe</a>",
+  "num_followers": 11171,
   "original_name": "SA Rock Essentials",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Mzg4Mzk0MCwwMDAwMDAwMDYwMjc4YjgzYjlkZGM0NTM4ZTg3ZTU3ZGJhNTcyNTA0",
+  "snapshot_id": "MTY2NTA5MzU0MCwwMDAwMDAwMDRlNzYyMjIxYmU3MmFlNDIxYzJmMGM5MTBhNjVkYjdi",
   "tracks": [
     {
-      "added_at": "2022-09-22 21:59:00",
+      "added_at": "2022-10-06 21:59:00",
       "album": {
-        "name": "Kanniedood",
-        "url": "https://open.spotify.com/album/2sAn67LpCat3XJqDuMmtTh"
+        "name": "Distopia",
+        "url": "https://open.spotify.com/album/1D37tFbgePiH2NuBrzOAm9"
       },
       "artists": [
         {
-          "name": "Francois van Coke",
-          "url": "https://open.spotify.com/artist/7pJtnZQLPJmqzVfdIz7eFF"
+          "name": "Hugo Pooe",
+          "url": "https://open.spotify.com/artist/786vB3MPgJ2kUzhNrbeaMZ"
         }
       ],
-      "duration_ms": 159494,
-      "name": "Nie Alleen Nie",
-      "url": "https://open.spotify.com/track/0yXCVcqwnZdM2GVGtSMRS3"
+      "duration_ms": 213940,
+      "name": "Parasite",
+      "url": "https://open.spotify.com/track/1wJsjT1Oo2Kh2H3J9WOmde"
     },
     {
       "added_at": "2022-09-15 21:59:00",
@@ -81,6 +81,22 @@
       "url": "https://open.spotify.com/track/4UFuCgW8yugNXB5SMn3MQs"
     },
     {
+      "added_at": "2022-07-21 21:59:00",
+      "album": {
+        "name": "kill all my feelings",
+        "url": "https://open.spotify.com/album/1onwNNRB0cQ5gBRFknbYPp"
+      },
+      "artists": [
+        {
+          "name": "Will Linley",
+          "url": "https://open.spotify.com/artist/3xnCBQeZDec3FFo8vUSt4N"
+        }
+      ],
+      "duration_ms": 182984,
+      "name": "kill all my feelings",
+      "url": "https://open.spotify.com/track/0dlCaafsMEfprlXtoogDgm"
+    },
+    {
       "added_at": "2022-07-28 21:59:00",
       "album": {
         "name": "Book of Miriam",
@@ -95,22 +111,6 @@
       "duration_ms": 204106,
       "name": "The Waltz",
       "url": "https://open.spotify.com/track/1o75mFZMjlWXDupelG6AM7"
-    },
-    {
-      "added_at": "2022-09-15 21:59:00",
-      "album": {
-        "name": "Oh No!",
-        "url": "https://open.spotify.com/album/64Na1iGg8petII9jhmDNf3"
-      },
-      "artists": [
-        {
-          "name": "aboynamedblu",
-          "url": "https://open.spotify.com/artist/4DCRHW4ITYEaA0qmW3PYJj"
-        }
-      ],
-      "duration_ms": 145907,
-      "name": "Oh No!",
-      "url": "https://open.spotify.com/track/4QOGyHQHQBh8Legq1hrOcE"
     },
     {
       "added_at": "2021-11-18 21:59:00",
@@ -133,6 +133,22 @@
       "url": "https://open.spotify.com/track/22mVe2AVZRBmAnveENz9qn"
     },
     {
+      "added_at": "2022-09-15 21:59:00",
+      "album": {
+        "name": "Oh No!",
+        "url": "https://open.spotify.com/album/64Na1iGg8petII9jhmDNf3"
+      },
+      "artists": [
+        {
+          "name": "aboynamedblu",
+          "url": "https://open.spotify.com/artist/4DCRHW4ITYEaA0qmW3PYJj"
+        }
+      ],
+      "duration_ms": 145907,
+      "name": "Oh No!",
+      "url": "https://open.spotify.com/track/4QOGyHQHQBh8Legq1hrOcE"
+    },
+    {
       "added_at": "2022-09-22 21:59:00",
       "album": {
         "name": "Stay",
@@ -149,6 +165,38 @@
       "url": "https://open.spotify.com/track/1pc4xCCi7VhemQGSk8eQyz"
     },
     {
+      "added_at": "2022-09-22 21:59:00",
+      "album": {
+        "name": "Kanniedood",
+        "url": "https://open.spotify.com/album/2sAn67LpCat3XJqDuMmtTh"
+      },
+      "artists": [
+        {
+          "name": "Francois van Coke",
+          "url": "https://open.spotify.com/artist/7pJtnZQLPJmqzVfdIz7eFF"
+        }
+      ],
+      "duration_ms": 159494,
+      "name": "Nie Alleen Nie",
+      "url": "https://open.spotify.com/track/0yXCVcqwnZdM2GVGtSMRS3"
+    },
+    {
+      "added_at": "2021-06-10 21:59:00",
+      "album": {
+        "name": "Ons Het Gewen",
+        "url": "https://open.spotify.com/album/2hJ1WMh8F9qtnLHpgr9J3O"
+      },
+      "artists": [
+        {
+          "name": "Francois van Coke",
+          "url": "https://open.spotify.com/artist/7pJtnZQLPJmqzVfdIz7eFF"
+        }
+      ],
+      "duration_ms": 182410,
+      "name": "Ons Het Gewen",
+      "url": "https://open.spotify.com/track/11CVceR6cMGoXEA9IM18sO"
+    },
+    {
       "added_at": "2022-08-25 21:59:00",
       "album": {
         "name": "Howl A Little Louder Just Don't Spit In My Mouth",
@@ -163,22 +211,6 @@
       "duration_ms": 233185,
       "name": "Silver Foyer",
       "url": "https://open.spotify.com/track/7z0kfDxyBzRkHxoEEjQxU7"
-    },
-    {
-      "added_at": "2022-07-21 21:59:00",
-      "album": {
-        "name": "kill all my feelings",
-        "url": "https://open.spotify.com/album/1onwNNRB0cQ5gBRFknbYPp"
-      },
-      "artists": [
-        {
-          "name": "Will Linley",
-          "url": "https://open.spotify.com/artist/3xnCBQeZDec3FFo8vUSt4N"
-        }
-      ],
-      "duration_ms": 182984,
-      "name": "kill all my feelings",
-      "url": "https://open.spotify.com/track/0dlCaafsMEfprlXtoogDgm"
     },
     {
       "added_at": "2022-09-22 21:59:00",
@@ -199,22 +231,6 @@
       "duration_ms": 147519,
       "name": "PITY PARTY",
       "url": "https://open.spotify.com/track/275HPZ0ZqO7aVvP0oNqO5b"
-    },
-    {
-      "added_at": "2021-06-10 21:59:00",
-      "album": {
-        "name": "Ons Het Gewen",
-        "url": "https://open.spotify.com/album/2hJ1WMh8F9qtnLHpgr9J3O"
-      },
-      "artists": [
-        {
-          "name": "Francois van Coke",
-          "url": "https://open.spotify.com/artist/7pJtnZQLPJmqzVfdIz7eFF"
-        }
-      ],
-      "duration_ms": 182410,
-      "name": "Ons Het Gewen",
-      "url": "https://open.spotify.com/track/11CVceR6cMGoXEA9IM18sO"
     },
     {
       "added_at": "2022-05-26 22:01:57",
@@ -331,6 +347,22 @@
       "duration_ms": 238586,
       "name": "Wasted Time",
       "url": "https://open.spotify.com/track/12HG1wEqsG2im9oTX5baIq"
+    },
+    {
+      "added_at": "2022-10-06 21:59:00",
+      "album": {
+        "name": "Allan",
+        "url": "https://open.spotify.com/album/19kis2Tm2560bvWxFGBIoW"
+      },
+      "artists": [
+        {
+          "name": "the klubs",
+          "url": "https://open.spotify.com/artist/6hbEqXIhCdWLuQn3SUgibF"
+        }
+      ],
+      "duration_ms": 198403,
+      "name": "Allan",
+      "url": "https://open.spotify.com/track/7EsJj7ryKHTThQpDxqP3ND"
     },
     {
       "added_at": "2022-03-31 21:59:00",
@@ -809,26 +841,6 @@
       "url": "https://open.spotify.com/track/4hZR6HRe5UnXs5CqdIjIen"
     },
     {
-      "added_at": "2022-07-21 21:59:00",
-      "album": {
-        "name": "BLAH BLAH BLAH",
-        "url": "https://open.spotify.com/album/282KDJUgTAO64N8HMeiUAR"
-      },
-      "artists": [
-        {
-          "name": "Yung Beathoven",
-          "url": "https://open.spotify.com/artist/1jRPlDFS33VKRsW5WYBNTs"
-        },
-        {
-          "name": "Alex Solomon",
-          "url": "https://open.spotify.com/artist/0T4llo79dwDWJrgR7FP0sU"
-        }
-      ],
-      "duration_ms": 112000,
-      "name": "BLAH BLAH BLAH",
-      "url": "https://open.spotify.com/track/5ncpsijPbqSkfej6b8PGjw"
-    },
-    {
       "added_at": "2022-02-25 07:24:37",
       "album": {
         "name": "Shelter Of Bones",
@@ -1127,22 +1139,6 @@
       "duration_ms": 310500,
       "name": "Elephant in the Room",
       "url": "https://open.spotify.com/track/0fIpv8JGDaKwtlFfAAcUnS"
-    },
-    {
-      "added_at": "2022-03-24 21:59:00",
-      "album": {
-        "name": "Caught in Suspension",
-        "url": "https://open.spotify.com/album/6kAvyAnQPl6iQ2HVcMAGWG"
-      },
-      "artists": [
-        {
-          "name": "Dream Demon",
-          "url": "https://open.spotify.com/artist/2YQKfqhM5oQ2u59LelCzki"
-        }
-      ],
-      "duration_ms": 247411,
-      "name": "Caught in Suspension",
-      "url": "https://open.spotify.com/track/0CnVzLrxK0iRXuCk6vPeOi"
     },
     {
       "added_at": "2021-05-05 11:25:00",

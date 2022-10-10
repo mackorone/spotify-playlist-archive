@@ -4,7 +4,7 @@
 
 > Mellow songs from the 1970s.
 
-281 songs - 18 hr 3 min - [published](https://open.spotify.com/playlist/55JECVuG1IkXGyKrIFKeiW)
+282 songs - 18 hr 7 min - [published](https://open.spotify.com/playlist/55JECVuG1IkXGyKrIFKeiW)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -186,6 +186,7 @@
 | [Only Sixteen](https://open.spotify.com/track/41hirbtJ1ShR5wGZcrnu4p) | [Dr\. Hook](https://open.spotify.com/artist/2Mhi3jfuRSdbVZPdjqsnnN) | [Bankrupt](https://open.spotify.com/album/2KJNTkuBGBNtkoLXpgIjro) | 2:47 | 2021-04-22 | 2022-06-27 |
 | [Our House](https://open.spotify.com/track/2hitsKa8SthKhRJBXUHbIv) | [Crosby, Stills, Nash & Young](https://open.spotify.com/artist/1CYsQCypByMVgnv17qsSbQ) | [Deja Vu](https://open.spotify.com/album/5bHkK1X4WEOzNvRhehvOcb) | 2:59 | 2022-08-12 |  |
 | [Our Love](https://open.spotify.com/track/4Oe8GNcT42Vhu0S9plFryE) | [Natalie Cole](https://open.spotify.com/artist/5tTsrGPwQRWUsHR2Xf7Ke9) | [Thankful](https://open.spotify.com/album/5KUru32rxqL7jGIKyi0HXp) | 5:23 | 2021-04-22 | 2022-04-18 |
+| [Please Don't Go \- Single Version](https://open.spotify.com/track/6dw6BquK0Mv72p6HpusqKN) | [KC & The Sunshine Band](https://open.spotify.com/artist/3mQBpAOMWYqAZyxtyeo4Lo) | [Do You Wanna Go Party](https://open.spotify.com/album/1VyflnFsIEfcxPj4JgM5QR) | 3:50 | 2022-10-03 |  |
 | [Puppy Love](https://open.spotify.com/track/7HWH4kGaHR3ZwKNFPT4dSW) | [Donny Osmond](https://open.spotify.com/artist/5ZEAzHE2TzAwUcOj6jMIgf) | [Portrait Of Donny](https://open.spotify.com/album/6quP8dKzcKp5JON8hWKkeD) | 3:04 | 2021-04-22 | 2022-07-28 |
 | [Raindrops Keep Fallin' On My Head](https://open.spotify.com/track/0zRtBDhwtIFTfoK2HuURbM) | [B.J\. Thomas](https://open.spotify.com/artist/0uUNzXylqsZdmFDwdxaP1V) | [Raindrops Keep Fallin' On My Head](https://open.spotify.com/album/7lU97qE3TN6fmF2f6ncoel) | 3:04 | 2021-04-22 | 2022-04-20 |
 | [Raindrops Keep Fallin' on My Head \- Rerecorded](https://open.spotify.com/track/1oOnOS4xNZOMpCT0lKTNo2) | [B.J\. Thomas](https://open.spotify.com/artist/0uUNzXylqsZdmFDwdxaP1V) | [B.J\. Thomas](https://open.spotify.com/album/3BKmp3IRv514x7Yv0D1fXc) | 2:58 | 2021-04-22 |  |
@@ -198,11 +199,11 @@
 | [Sad Eyes \- Remastered](https://open.spotify.com/track/3w3rLh6wmne91BS2rwgcog) | [Robert John](https://open.spotify.com/artist/3pbKylceBTiUa0fZk4J4sJ) | [Classic Masters](https://open.spotify.com/album/48PU11yPb5ZWZ7cOHDXOxo) | 4:13 | 2021-04-22 |  |
 | [Sail On](https://open.spotify.com/track/71Py1OGkgBQVTHa0aUyG4y) | [Commodores](https://open.spotify.com/artist/6twIAGnYuIT1pncMAsXnEm) | [All The Great Love Songs](https://open.spotify.com/album/1M2c57R5rPEqZzTzh2yooj) | 4:00 | 2021-04-22 | 2022-07-29 |
 | [Sealed with a Kiss](https://open.spotify.com/track/26mlDJoh5bQiC7efK7xq9z) | [Bobby Vinton](https://open.spotify.com/artist/6bOYtKnpLPQSfMpS2ilotK) | [Sealed With A Kiss](https://open.spotify.com/album/5q8NaDLTXTNHtAmROLoQeF) | 2:49 | 2021-04-22 | 2022-04-20 |
-| [Seasons in the Sun](https://open.spotify.com/track/0X3d9gx7UDYgcwwkgTeNLR) | [Terry Jacks](https://open.spotify.com/artist/09dDdtfi4mWLdC2BHOrIrl) | [Radio Hits Of the '70s](https://open.spotify.com/album/2JcwQwy2KY3CEIzHUC30wG) | 3:29 | 2021-04-22 | 2022-08-10 |
+| [Seasons in the Sun](https://open.spotify.com/track/0X3d9gx7UDYgcwwkgTeNLR) | [Terry Jacks](https://open.spotify.com/artist/09dDdtfi4mWLdC2BHOrIrl) | [Radio Hits Of the '70s](https://open.spotify.com/album/2JcwQwy2KY3CEIzHUC30wG) | 3:29 | 2021-04-22 | 2022-10-04 |
 | [Send One Your Love](https://open.spotify.com/track/73cq57VIFVDdjRuhpcfgSK) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Original Musiquarium](https://open.spotify.com/album/2g9Ij40DD7aPaG4hwa8Uab) | 4:00 | 2021-04-22 | 2022-04-20 |
 | [September Morn](https://open.spotify.com/track/2CXkN6UAb3jAFwz4VbsDq0) | [Neil Diamond](https://open.spotify.com/artist/7mEIug7XUlQHikrFxjTWes) | [September Morn](https://open.spotify.com/album/6TGyHFvMMeLaKWPYTcRQU4) | 3:52 | 2021-04-22 |  |
 | [Sexy Eyes](https://open.spotify.com/track/0QpZ69CTjRbJ3ZVsnTaGfa) | [Dr\. Hook](https://open.spotify.com/artist/2Mhi3jfuRSdbVZPdjqsnnN) | [Greatest Hits](https://open.spotify.com/album/0gC5d1rbDIOAx4OR5pG4MW) | 3:29 | 2021-04-22 | 2022-04-21 |
-| [Sexy Eyes](https://open.spotify.com/track/3i5lBv18B3RBnzjdxh9oFR) | [Dr\. Hook](https://open.spotify.com/artist/2Mhi3jfuRSdbVZPdjqsnnN) | [Greatest Hits](https://open.spotify.com/album/6rZyWDvLwKIkfSZ8qcmmdK) | 3:29 | 2021-04-22 |  |
+| [Sexy Eyes](https://open.spotify.com/track/3i5lBv18B3RBnzjdxh9oFR) | [Dr\. Hook](https://open.spotify.com/artist/2Mhi3jfuRSdbVZPdjqsnnN) | [Greatest Hits](https://open.spotify.com/album/6rZyWDvLwKIkfSZ8qcmmdK) | 3:29 | 2021-04-22 | 2022-10-03 |
 | [Shannon](https://open.spotify.com/track/4IYoyOVK9oQyJS1QZt5Vyj) | [Henry Gross](https://open.spotify.com/artist/3u2E9OhKS2vkxi08itc25a) | [Release](https://open.spotify.com/album/5KoWyVRECXH3IYrGuF4oza) | 3:53 | 2021-04-22 | 2022-07-29 |
 | [Sharing The Night Together](https://open.spotify.com/track/4M0m4FUdc4wD2guhUHogLF) | [Dr\. Hook](https://open.spotify.com/artist/2Mhi3jfuRSdbVZPdjqsnnN) | [Pleasure & Pain](https://open.spotify.com/album/35XG1sovYmuWPpYCJsEX6F) | 2:54 | 2021-04-22 |  |
 | [She \- Tous les visages de l’amour](https://open.spotify.com/track/2OxkfL5jW8bvYTCNDLlRSY) | [Charles Aznavour](https://open.spotify.com/artist/2hgP9Ap2tc10R5jrQaEpMT), [Richard Galliano](https://open.spotify.com/artist/6yXri0y0q95UDiAyLzTM1y), [Eddie Louiss](https://open.spotify.com/artist/0Z7cUaHzuRp2moYQtVDBFp) | [Greatest Golden Hits](https://open.spotify.com/album/6u7CZtz83tmwcgEBIIr3GG) | 2:33 | 2021-04-22 |  |

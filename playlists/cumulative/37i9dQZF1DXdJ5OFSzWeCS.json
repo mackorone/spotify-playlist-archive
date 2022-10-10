@@ -379,7 +379,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 68347,
       "name": "ABC Lullaby",
       "url": "https://open.spotify.com/track/1CMkyoCGz83jr1GO3jgWmE"
@@ -451,7 +451,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 117000,
       "name": "All of my Stories",
       "url": "https://open.spotify.com/track/5AIYXd7vaQHtdwzXrj6Fzd"
@@ -1549,7 +1549,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 94000,
       "name": "Dancing With My Sweetheart",
       "url": "https://open.spotify.com/track/05WUhJz30fw4VsdbNdF6yn"
@@ -1891,7 +1891,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 233250,
       "name": "Dreams Of Spring",
       "url": "https://open.spotify.com/track/3XJXBc9hvWrN5E9h36jO6l"
@@ -2467,7 +2467,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 87624,
       "name": "F\u00f8r du falder i s\u00f8vn",
       "url": "https://open.spotify.com/track/0tZHT47w9bjBgTahJRk71l"
@@ -3115,7 +3115,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 143015,
       "name": "Hymn",
       "url": "https://open.spotify.com/track/4FOhzTO7AErvRzEmI08qTv"
@@ -3331,7 +3331,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 96000,
       "name": "If I Had A Unicorn",
       "url": "https://open.spotify.com/track/6MRVcmKI6kzfsN2pWfRAxa"
@@ -3349,7 +3349,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 95750,
       "name": "If I Were a Dog",
       "url": "https://open.spotify.com/track/3bWsLKRPFXwbfQmRnDqF4g"
@@ -3457,7 +3457,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 140874,
       "name": "It is a Beauteous Evening",
       "url": "https://open.spotify.com/track/3nZ31x1cLcCRnIRpiOIkPU"
@@ -4411,10 +4411,28 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 175357,
       "name": "Morning Has Broken",
       "url": "https://open.spotify.com/track/0jLoULVwUgZkrqNC7JlSeE"
+    },
+    {
+      "album": {
+        "name": "Mors Lilla Olle",
+        "url": "https://open.spotify.com/album/6T95pqyEwi7mdO2jTwSuuz"
+      },
+      "artists": [
+        {
+          "name": "Algot Malkolmsson",
+          "url": "https://open.spotify.com/artist/4BV3JZZRbxITWwgpbgZHtQ"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 51284,
+      "name": "Mors Lilla Olle - Piano Version",
+      "url": "https://open.spotify.com/track/77X9hoxQd2nmxNbLqniA9Z"
     },
     {
       "album": {
@@ -5077,7 +5095,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 106050,
       "name": "Origami",
       "url": "https://open.spotify.com/track/5MIyzgrAUZ5TryLLF30hcY"
@@ -5203,7 +5221,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 86500,
       "name": "Polly Put The Kettle On",
       "url": "https://open.spotify.com/track/06qo8rt6Yy6hLaUKZxUlAO"
@@ -5509,7 +5527,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 132471,
       "name": "S Cookie",
       "url": "https://open.spotify.com/track/3Ibxvlp5Ib0U8TcnyHZbmZ"
@@ -5923,7 +5941,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 123534,
       "name": "Slumra i min famn",
       "url": "https://open.spotify.com/track/6y9ZWh1WBU9PwFI10v2go9"
@@ -6103,7 +6121,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 167797,
       "name": "Song For Little L",
       "url": "https://open.spotify.com/track/5GIVd1jf9UIkeA2HkuoQo4"
@@ -6661,7 +6679,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 139966,
       "name": "The Sleeping Star",
       "url": "https://open.spotify.com/track/25ru3w4fBntWLUZezchfRm"
@@ -7111,7 +7129,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 175118,
       "name": "True Colors - Piano Version",
       "url": "https://open.spotify.com/track/047B5xypjW3iozKNgJgHMK"
@@ -7187,6 +7205,24 @@
       "duration_ms": 98000,
       "name": "Under My bed",
       "url": "https://open.spotify.com/track/17PMAp6sXY9cCwzt8COsUw"
+    },
+    {
+      "album": {
+        "name": "You're my everything",
+        "url": "https://open.spotify.com/album/0YRViadV5ghRes4vmmAXgA"
+      },
+      "artists": [
+        {
+          "name": "Laya Amon",
+          "url": "https://open.spotify.com/artist/0oICzQe4s0CgUAuocB6eN9"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121132,
+      "name": "Under my blanket",
+      "url": "https://open.spotify.com/track/46zdATIqD1gVof6LLRXYWB"
     },
     {
       "album": {
@@ -7309,7 +7345,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 86000,
       "name": "When All Stars Twinkle",
       "url": "https://open.spotify.com/track/4HqQVrPQ1xEsVzxqE4bSqp"
@@ -7637,6 +7673,24 @@
       "duration_ms": 83146,
       "name": "Wiz In The Box",
       "url": "https://open.spotify.com/track/4NzC1FtUvaZeeuxfV0ddz0"
+    },
+    {
+      "album": {
+        "name": "Working Down The Railroad",
+        "url": "https://open.spotify.com/album/4kLx5Ad5ibFSp2OXTeqo6E"
+      },
+      "artists": [
+        {
+          "name": "Lovisa Vonn",
+          "url": "https://open.spotify.com/artist/5r5YDW1RgQqg288qcjcNQx"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160480,
+      "name": "Working Down The Railroad",
+      "url": "https://open.spotify.com/track/0uTRIpKux4qrcxNBlT7lFM"
     },
     {
       "album": {

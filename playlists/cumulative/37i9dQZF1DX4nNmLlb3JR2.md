@@ -4,7 +4,7 @@
 
 > A fresh spin on your favourite tunes \- Instrumental lofi covers for chill, work and play.
 
-78 songs - 3 hr 9 min - [published](https://open.spotify.com/playlist/0iwVMDx4NSRh0sfP026H4E)
+80 songs - 3 hr 14 min - [published](https://open.spotify.com/playlist/0iwVMDx4NSRh0sfP026H4E)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,6 +76,7 @@
 | [Still D.R.E.](https://open.spotify.com/track/7sQwpVMPCZsqKGXxbfzSaQ) | [Lofi Fruits Music](https://open.spotify.com/artist/1dABGukgZ8XKKOdd2rVSHM), [Chill Fruits Music](https://open.spotify.com/artist/34b7j3TqM5ramjmt2mc8tB) | [Old School Songs But It's Lofi Fruits Remix](https://open.spotify.com/album/07nDgaXP2iBDew71yLsLKZ) | 1:46 | 2022-09-02 |  |
 | [sunday morning](https://open.spotify.com/track/2Kqb9yoRNsSiHZT26dg2zs) | [Billy Hammer](https://open.spotify.com/artist/5xeMVXkveG9VsUdcZweo3N) | [sunday morning](https://open.spotify.com/album/3WvUvyo7aNjOGlpFZE7nqg) | 3:43 | 2022-09-02 |  |
 | [Sunny](https://open.spotify.com/track/1LG2brYleAjyAbOgYDAjG8) | [AMV](https://open.spotify.com/artist/7lkaZYDiy9cgckUDibxHsn) | [Sunny](https://open.spotify.com/album/1a8VE2Tf2qQoEXldyBBDJz) | 2:29 | 2022-09-02 |  |
+| [That's The Way It Is](https://open.spotify.com/track/4KlG6TcBmbr56ejToFZZNM) | [Slowzy](https://open.spotify.com/artist/3DTvvf1uRWl4XzJdpsoERl) | [That's the Way It Is](https://open.spotify.com/album/3JNRLXYVdLBni8VY92Irve) | 1:27 | 2022-10-07 |  |
 | [The Girl From Ipanema LOFI](https://open.spotify.com/track/2DJWyNeqPNKYuWl0DaKbuX) | [Sunday Vibes](https://open.spotify.com/artist/7JKSeskk0pavgHwIGtAV8H) | [The Girl From Ipanema LOFI](https://open.spotify.com/album/47l9le8szu3caAh0n5Hlz2) | 1:59 | 2022-09-02 |  |
 | [Umbrella](https://open.spotify.com/track/5cfUalgs5w98W14C4Lt0Xh) | [Slowzy](https://open.spotify.com/artist/3DTvvf1uRWl4XzJdpsoERl) | [Umbrella](https://open.spotify.com/album/7nhVqmRzva6w501zTLcZJn) | 1:48 | 2022-09-23 |  |
 | [Viva La Vida](https://open.spotify.com/track/0rZ4Yyt5Su46Uo6mqci1iW) | [Phatazza Cat](https://open.spotify.com/artist/3dV8aCIrUUtXrOnU6qo3rN) | [Viva La Vida](https://open.spotify.com/album/25q2SkwrmZmcnhGAAeUGci) | 2:57 | 2022-09-30 |  |
@@ -85,6 +86,7 @@
 | [when the party's over](https://open.spotify.com/track/0gL7REEt5oI4DfvP8dJnUO) | [lokash](https://open.spotify.com/artist/3TenU6iPLdqp8732iFSVQj) | [when the party's over](https://open.spotify.com/album/1pq4TXmaQPGCmApo1HiZsT) | 2:49 | 2022-09-02 |  |
 | [Where Is My Mind? \- Instrumental Version](https://open.spotify.com/track/766XB704U3TCxAyU9xMthL) | [Gal Dahan](https://open.spotify.com/artist/21x9QjLzTIpMonjnMzVvQB), [Ezraz](https://open.spotify.com/artist/63DrGLldYLdFyqmDsy1m2S) | [Where Is My Mind? \(Instrumental Version\)](https://open.spotify.com/album/7AG3bIphLFGTtCeJbSdN0m) | 1:27 | 2022-09-16 |  |
 | [Wish You Were Here](https://open.spotify.com/track/5kr227jZLwUeZCDMU4JT1d) | [Fletcher Reed](https://open.spotify.com/artist/2sQKM93VxtEcafQ1f1ukgl) | [Wish You Were Here](https://open.spotify.com/album/18SIXuoraTIBZdMy4jPVPD) | 2:57 | 2022-09-02 |  |
+| [You Oughta Know](https://open.spotify.com/track/1wy11OtTLB78IcBoDrPP9W) | [Yoga Beats](https://open.spotify.com/artist/0YgFSc6eJJRhhgDnTdifyt), [Cameron Ford](https://open.spotify.com/artist/2Epdw19iNTn6Wv4YV29h9y) | [Jagged Little Chill](https://open.spotify.com/album/4WcB9SSwOI0DgKp2OJ6oFz) | 3:33 | 2022-10-07 |  |
 | [Zombie \- Lofi Version](https://open.spotify.com/track/6SWHBTsYe0WO7fFPfZAPKv) | [Sunday Without You](https://open.spotify.com/artist/2kfCeQSDYdHyURFQtS9I53) | [Zombie \(Lofi Version\)](https://open.spotify.com/album/7hsBeH5HSpCC3nOwsqQdkB) | 3:00 | 2022-09-02 |  |
 
 \*This playlist was first scraped on 2022-09-09. Prior content cannot be recovered.

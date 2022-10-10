@@ -4,7 +4,7 @@
 
 > The tracks that you love from the artists you love\. Cover: Erykah Badu
 
-145 songs - 10 hr 54 min - [published](https://open.spotify.com/playlist/55RU8oZjX8hltMj0iIsfn8)
+146 songs - 10 hr 58 min - [published](https://open.spotify.com/playlist/55RU8oZjX8hltMj0iIsfn8)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,7 +61,8 @@
 | [Give In](https://open.spotify.com/track/65e736LZ2Piea2Hmg7kclT) | [4hero](https://open.spotify.com/artist/1BlBZ9jQGOjmj6Zykgg43L), [Darien Brockington](https://open.spotify.com/artist/2yNKEtbsHXCHkkluxANoD8), [Phonte](https://open.spotify.com/artist/5SyCTZ8X8YQCI0J1VRp4iC) | [Play With The Changes](https://open.spotify.com/album/7o6XzFc6ZwdmqW8tDxlHyk) | 4:52 | 2021-07-09 | 2022-07-29 |
 | [Golden](https://open.spotify.com/track/0bHs3ly4Bv5BlzE3KrePfX) | [Jill Scott](https://open.spotify.com/artist/6AVLthptCPhfrxlHadOBJD) | [Beautifully Human: Words and Sounds Vol\. 2](https://open.spotify.com/album/21JbNB7qmJoOr03sM9dMeR) | 3:51 | 2022-06-16 |  |
 | [Golden \- Remastered](https://open.spotify.com/track/3x9r5R43GfefRlYFltxvyG) | [Jill Scott](https://open.spotify.com/artist/6AVLthptCPhfrxlHadOBJD) | [Golden Moments](https://open.spotify.com/album/4ozaleREZDqTnSLuwUeYLQ) | 3:46 | 2021-07-09 | 2022-07-29 |
-| [Got 'Til It's Gone](https://open.spotify.com/track/6jUyYHDikmw9WltPojSR37) | [Janet Jackson](https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W), [Q\-Tip](https://open.spotify.com/artist/3ZotbHeyVQKxQCPDJuQ4SU), [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [The Velvet Rope](https://open.spotify.com/album/6ZANEjETQ9L9pjBuvOAhCQ) | 4:01 | 2021-07-09 |  |
+| [Got 'Til It's Gone](https://open.spotify.com/track/6jUyYHDikmw9WltPojSR37) | [Janet Jackson](https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W), [Q\-Tip](https://open.spotify.com/artist/3ZotbHeyVQKxQCPDJuQ4SU), [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [The Velvet Rope](https://open.spotify.com/album/6ZANEjETQ9L9pjBuvOAhCQ) | 4:01 | 2021-07-09 | 2022-10-09 |
+| [Got 'Til It's Gone](https://open.spotify.com/track/3X9EUk2EHrpPzUs7qiUsqi) | [Janet Jackson](https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W), [Q\-Tip](https://open.spotify.com/artist/3ZotbHeyVQKxQCPDJuQ4SU), [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [90s RnB](https://open.spotify.com/album/2CrTdUbLTzDsyfLvLPI3sG) | 4:02 | 2022-06-16 |  |
 | [Halfcrazy](https://open.spotify.com/track/3oXNIpoUMdk8qGkwCeXqGv) | [Musiq Soulchild](https://open.spotify.com/artist/3UVRliakQfa1pMWIsNuiZ8) | [Juslisen](https://open.spotify.com/album/070dWVyJIxcKQmxPRov0Y5) | 4:14 | 2021-07-09 |  |
 | [Hear Me \- Jazzyfatnastees](https://open.spotify.com/track/0diM9EauCprZhM25ew6qof) | [Jazzyfatnastees](https://open.spotify.com/artist/4o6gZFD9CkUCVzYqrDR3wV) | [Muzik of the Mind and Spirit \- a Concept Compilation](https://open.spotify.com/album/7ermETX1IloxCO80fX1poy) | 4:33 | 2021-07-09 |  |
 | [Heard It All Before](https://open.spotify.com/track/0xikWgPgYN9BEes0ieZ8Co) | [Sunshine Anderson](https://open.spotify.com/artist/0hnmRa5ahunapQbPjKUbMK) | [Your Woman](https://open.spotify.com/album/2y7sSNd02a5uTfauRPY0lp) | 4:55 | 2021-07-09 |  |

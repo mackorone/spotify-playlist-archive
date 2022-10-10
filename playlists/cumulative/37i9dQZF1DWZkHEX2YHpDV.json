@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Pop-punk, emo, post-hardcore, alternative - it's whatever you want it to be. Cover: nothing, nowhere",
+  "description": "pop punk, emo, post-hardcore, alt. it's what you want it to be. Cover: Meet Me @ The Altar",
   "name": "The Scene",
   "published_playlist_ids": [
     "4Z9TvdiaBBwAHoM8rp9lOU"
@@ -347,7 +347,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-01",
+      "date_removed": null,
       "duration_ms": 183564,
       "name": "Act Like That",
       "url": "https://open.spotify.com/track/2qcYGGuNPYilXVwFx0KEFz"
@@ -785,7 +785,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 194118,
       "name": "ANXIETY",
       "url": "https://open.spotify.com/track/2OBWPvxRkPHw898IApdrwe"
@@ -929,7 +929,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 161697,
       "name": "ATTENTION!",
       "url": "https://open.spotify.com/track/5w4nlSCMfNT2TdopSd0Lmu"
@@ -4490,6 +4490,24 @@
     },
     {
       "album": {
+        "name": "<COPINGMECHANISM>",
+        "url": "https://open.spotify.com/album/0oMXn0MNLNyvB4iJPZXOuV"
+      },
+      "artists": [
+        {
+          "name": "WILLOW",
+          "url": "https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174545,
+      "name": "Falling Endlessly",
+      "url": "https://open.spotify.com/track/0LCHO5qNN5fEncfAIcjtAH"
+    },
+    {
+      "album": {
         "name": "Falling In",
         "url": "https://open.spotify.com/album/2jQArXi0HXeZjq68IR4jQp"
       },
@@ -5337,6 +5355,24 @@
       "duration_ms": 162913,
       "name": "GLITTER",
       "url": "https://open.spotify.com/track/4eNNYDbObUm6GUYFLbBCxC"
+    },
+    {
+      "album": {
+        "name": "CHAOS NOW*",
+        "url": "https://open.spotify.com/album/1h6QGKzD4kzEZDzojyXeoM"
+      },
+      "artists": [
+        {
+          "name": "Jean Dawson",
+          "url": "https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194840,
+      "name": "GLORY*",
+      "url": "https://open.spotify.com/track/6WzFwY9BjUXO7ztVkUJ0Hm"
     },
     {
       "album": {
@@ -6514,6 +6550,24 @@
     },
     {
       "album": {
+        "name": "Get A Job",
+        "url": "https://open.spotify.com/album/4J4wfSzNBR5hBABl1dgcYG"
+      },
+      "artists": [
+        {
+          "name": "Games We Play",
+          "url": "https://open.spotify.com/artist/4yP4eYthbuCNIcoQtqwj40"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179850,
+      "name": "I Hope You\u2019re Happy",
+      "url": "https://open.spotify.com/track/1sBvGY100lfD3w6tR22M1D"
+    },
+    {
+      "album": {
         "name": "I Hope You\u2019re Happy",
         "url": "https://open.spotify.com/album/48M1E73JIiEgVpXKwppWLK"
       },
@@ -6597,7 +6651,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 222617,
       "name": "I MISS 2003",
       "url": "https://open.spotify.com/track/0KvlvootDUnrXPdZLq57tn"
@@ -7806,6 +7860,24 @@
     },
     {
       "album": {
+        "name": "Levity",
+        "url": "https://open.spotify.com/album/661ymP9Uncq9ZFjFUYxefv"
+      },
+      "artists": [
+        {
+          "name": "Action/Adventure",
+          "url": "https://open.spotify.com/artist/7uBCPmZFHJzrQDlxHNsFwF"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200200,
+      "name": "Levity",
+      "url": "https://open.spotify.com/track/50VmAefTGokvpBLNTBhN9Y"
+    },
+    {
+      "album": {
         "name": "Red Lights",
         "url": "https://open.spotify.com/album/7iHCk7cHjGFSTosuhwhArm"
       },
@@ -7853,7 +7925,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 170563,
       "name": "Lies",
       "url": "https://open.spotify.com/track/23T4s8TZHQQvrBz6TOlJQI"
@@ -10143,7 +10215,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-02",
+      "date_removed": "2022-10-10",
       "duration_ms": 144478,
       "name": "Perfectly Imperfect",
       "url": "https://open.spotify.com/track/3dWy0VondkohX7GE6aOI3c"
@@ -10583,6 +10655,24 @@
       "duration_ms": 192244,
       "name": "Projector",
       "url": "https://open.spotify.com/track/3gMptGImK6XHJhFuWwmqtE"
+    },
+    {
+      "album": {
+        "name": "Psycho",
+        "url": "https://open.spotify.com/album/4toEJiFEggtxsZPewZmLat"
+      },
+      "artists": [
+        {
+          "name": "Taylor Acorn",
+          "url": "https://open.spotify.com/artist/1A0WloDoRE88uUwo3wensY"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179707,
+      "name": "Psycho",
+      "url": "https://open.spotify.com/track/29GKyMCkBY2Kc7M2VcAZJE"
     },
     {
       "album": {
@@ -11233,7 +11323,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 157053,
       "name": "SELF-SABOTAGE",
       "url": "https://open.spotify.com/track/6uEBUvGjFsoVdEf775Coa3"
@@ -11823,6 +11913,24 @@
       "duration_ms": 246560,
       "name": "Sleepwalker",
       "url": "https://open.spotify.com/track/1lC5rRa2ivaqAbK2i1tUHG"
+    },
+    {
+      "album": {
+        "name": "Sleepwalking",
+        "url": "https://open.spotify.com/album/4bI5LF5zauGsBIL9z8mLyl"
+      },
+      "artists": [
+        {
+          "name": "All Time Low",
+          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187140,
+      "name": "Sleepwalking",
+      "url": "https://open.spotify.com/track/4SOtTsuFYYlkOOvXMbroUv"
     },
     {
       "album": {
@@ -12699,7 +12807,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 168030,
       "name": "t r a n s p a r e n t s o u l feat. Travis Barker",
       "url": "https://open.spotify.com/track/1QL7nSDZCwZMnbisV4KOXt"
@@ -14209,7 +14317,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 194695,
       "name": "Vandalize - Japanese Version",
       "url": "https://open.spotify.com/track/2nuDirYeA0wsYcFMgC7L8E"

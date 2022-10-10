@@ -4,7 +4,7 @@
 
 > The calming and pensive side of electric guitar\. Instrumental only.
 
-94 songs - 4 hr 49 min - [published](https://open.spotify.com/playlist/3oJlWxouvmQCoHhx3LLhbO)
+96 songs - 4 hr 54 min - [published](https://open.spotify.com/playlist/3oJlWxouvmQCoHhx3LLhbO)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,12 +26,14 @@
 | [Dance for Two Strangers](https://open.spotify.com/track/2GREyN7Ff5LeXWU50uX3lq) | [Kevin McCormick](https://open.spotify.com/artist/6qG8VCk5ZaX7jP37A6dUoe), [David Horridge](https://open.spotify.com/artist/184zVIpW2ua3bIEeF77LTV) | [Light Patterns](https://open.spotify.com/album/0PgtpfELQuN9Rt4Pu3ai3N) | 2:23 | 2022-05-13 |  |
 | [Dark Sky City](https://open.spotify.com/track/3PlXrxRDrSpg2JEShdEPGY) | [Amparo](https://open.spotify.com/artist/55FRGLGEoc58o9fNM6gEdf) | [Dark Sky City](https://open.spotify.com/album/1n30D8qOtqf6IimgHXz8wF) | 2:37 | 2022-05-13 |  |
 | [Dawning](https://open.spotify.com/track/57u6QzHGiQ3StJd6jvdrBF) | [Sheltered Solitude](https://open.spotify.com/artist/2DsYHbz0OEIGzYynekPLlB) | [Dawning](https://open.spotify.com/album/763ZNUvb9O0SpjjcpakkvV) | 2:24 | 2022-05-13 |  |
+| [Distant Roads](https://open.spotify.com/track/6GLI5euDmcPIB19IjyqzDP) | [Light of Sun](https://open.spotify.com/artist/1G18ferRDAgDuiTaMkoFQf) | [Distant Roads](https://open.spotify.com/album/3GxH3FW59guYKpYi3ok0y6) | 2:47 | 2022-10-07 |  |
 | [Dunlin](https://open.spotify.com/track/7LQGIJsi90gdSKo5yzEDOb) | [Dust Follows](https://open.spotify.com/artist/5ANgyunkGzckn6Pn0AK5FC) | [Swan](https://open.spotify.com/album/3CcjnNWOPCrrDBKEgUQ3Mk) | 2:22 | 2022-05-13 |  |
 | [El Corral](https://open.spotify.com/track/2mxt92U4KWQ5IrZV1lOHRl) | [Amparo](https://open.spotify.com/artist/55FRGLGEoc58o9fNM6gEdf) | [El Corral](https://open.spotify.com/album/0pancCB4keYwRvDqx2Jmxr) | 3:40 | 2022-05-13 |  |
 | [Empty Spaces](https://open.spotify.com/track/4zmfaatjJ1ztln2FmDLy4X) | [Shadows + Shapes](https://open.spotify.com/artist/3BjU4RF6x4SG9akxiHjQIt) | [Empty Spaces](https://open.spotify.com/album/2u7SsDt93gxW8XsRMWIJd2) | 3:26 | 2022-05-13 | 2022-07-15 |
 | [Epilogue 3](https://open.spotify.com/track/2OnwgWybQQHFav2sQahgFm) | [Ben Tofft](https://open.spotify.com/artist/5A2sXpZZ3Es4AgRGrJACy9) | [Silver City](https://open.spotify.com/album/0zeC3nS5nlOK1aJ9vK8mFE) | 2:47 | 2022-05-13 |  |
 | [Everything Must Go \(Frank Collage\)](https://open.spotify.com/track/2BY40RfMfBavzsjiTfbow3) | [Keegan DeWitt](https://open.spotify.com/artist/1QkkfXx0WxSxmUIQOkSWa2) | [Hearts Beat Loud \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1IDULQwFEIbHUGFWSpjByu) | 3:34 | 2022-05-13 | 2022-07-29 |
 | [Everything Must Go \- Frank Collage](https://open.spotify.com/track/3Zr9l3vUJtVp06y9Fnc0O5) | [Keegan DeWitt](https://open.spotify.com/artist/1QkkfXx0WxSxmUIQOkSWa2) | [Hearts Beat Loud \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/16wCSAPcCvedM9X0sOksYO) | 3:34 | 2022-07-15 |  |
+| [Fairydust](https://open.spotify.com/track/5kxb2HoHMpIb5jrpPNbSfC) | [Elementaries](https://open.spotify.com/artist/1kB8QJP6BXE8ezroP29Z5r) | [Fairydust](https://open.spotify.com/album/1ukCkF4pmtmbHn1gwM7CB2) | 2:30 | 2022-10-07 |  |
 | [fall in fields](https://open.spotify.com/track/6EqPZBsaD90uY5grCAJeCf) | [Reinhold Schiller](https://open.spotify.com/artist/4SpgEBf5YGvuJGYA1UFnfZ) | [entranced exit](https://open.spotify.com/album/7ccrcFFjhiUVDiFQiJQq0J) | 2:35 | 2022-05-13 |  |
 | [Flatiron](https://open.spotify.com/track/4a8njLGIK0meARLqzvysDn) | [Suzanne Kraft](https://open.spotify.com/artist/1FTn5osUbCr8n7WgYmbK5m) | [Talk from Home](https://open.spotify.com/album/1RMrV8gQc6f3csRiNoQwP6) | 7:00 | 2022-05-13 |  |
 | [Floral Hymn](https://open.spotify.com/track/2gCd69plASs1CIhfArHlPQ) | [Echo Ark](https://open.spotify.com/artist/3i21BFL67igZbgH8Pj0Xlz) | [Echo Ark](https://open.spotify.com/album/4PUBYJiKEdJKdMwqHSeilt) | 3:35 | 2022-05-13 |  |

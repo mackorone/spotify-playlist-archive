@@ -1,12 +1,12 @@
 {
   "description": "Celebrated composer of jazz standards, classical masterpieces and some very catchy love songs; this is Gershwin.",
-  "num_followers": 72335,
+  "num_followers": 72491,
   "original_name": "This is Gershwin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTY3MjEyMCwwMDAwMDAwMDU3ODhmYjJjOWFiMjQ4NzI2NGY5Yzk3NmFhNzJmNzgy",
+  "snapshot_id": "MTY1OTY3MjEyMCwwMDAwMDAwMGRiMGViNzg4NmIxM2JlMTRmNGQ1ZGRmOWE4YTdkNTE4",
   "tracks": [
     {
       "added_at": "2022-08-05 04:02:00",
@@ -215,22 +215,6 @@
     {
       "added_at": "2022-08-05 04:02:00",
       "album": {
-        "name": "Ella Fitzgerald Sings The George And Ira Gershwin Song Book",
-        "url": "https://open.spotify.com/album/2vz9bOelnO5EoDBPkzEJjt"
-      },
-      "artists": [
-        {
-          "name": "Ella Fitzgerald",
-          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
-        }
-      ],
-      "duration_ms": 211480,
-      "name": "'S Wonderful",
-      "url": "https://open.spotify.com/track/4qrNDqLkVXz7t5fJnGqr6B"
-    },
-    {
-      "added_at": "2022-08-05 04:02:00",
-      "album": {
         "name": "Sings For Two In Love",
         "url": "https://open.spotify.com/album/1evRgENnDDNYH6KPjIFdQi"
       },
@@ -243,6 +227,22 @@
       "duration_ms": 169786,
       "name": "Love Is Here To Stay",
       "url": "https://open.spotify.com/track/4bIeo029q0hlNl2d3XJ0iM"
+    },
+    {
+      "added_at": "2022-08-05 04:02:00",
+      "album": {
+        "name": "Ella Fitzgerald Sings The George And Ira Gershwin Song Book",
+        "url": "https://open.spotify.com/album/2vz9bOelnO5EoDBPkzEJjt"
+      },
+      "artists": [
+        {
+          "name": "Ella Fitzgerald",
+          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
+        }
+      ],
+      "duration_ms": 211480,
+      "name": "'S Wonderful",
+      "url": "https://open.spotify.com/track/4qrNDqLkVXz7t5fJnGqr6B"
     },
     {
       "added_at": "2022-08-05 04:02:00",
@@ -263,26 +263,6 @@
     {
       "added_at": "2022-08-05 04:02:00",
       "album": {
-        "name": "Louis Armstrong Meets Oscar Peterson (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6P8XQuvUsn5L1xiGJUXLJ0"
-      },
-      "artists": [
-        {
-          "name": "Louis Armstrong",
-          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
-        },
-        {
-          "name": "Oscar Peterson",
-          "url": "https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB"
-        }
-      ],
-      "duration_ms": 358640,
-      "name": "How Long Has This Been Going On?",
-      "url": "https://open.spotify.com/track/5axYHelFYVT2Qb5R49LMX6"
-    },
-    {
-      "added_at": "2022-08-05 04:02:00",
-      "album": {
         "name": "Gershwin Plays Gershwin: The Piano Rolls",
         "url": "https://open.spotify.com/album/4sX0syeh1dyi8s7Gx0m7H0"
       },
@@ -299,6 +279,26 @@
       "duration_ms": 258093,
       "name": "So Am I",
       "url": "https://open.spotify.com/track/4BG2tiyGdAY8PWbvXd3587"
+    },
+    {
+      "added_at": "2022-08-05 04:02:00",
+      "album": {
+        "name": "Louis Armstrong Meets Oscar Peterson (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6P8XQuvUsn5L1xiGJUXLJ0"
+      },
+      "artists": [
+        {
+          "name": "Louis Armstrong",
+          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
+        },
+        {
+          "name": "Oscar Peterson",
+          "url": "https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB"
+        }
+      ],
+      "duration_ms": 358640,
+      "name": "How Long Has This Been Going On?",
+      "url": "https://open.spotify.com/track/5axYHelFYVT2Qb5R49LMX6"
     },
     {
       "added_at": "2022-08-05 04:02:00",
@@ -376,9 +376,9 @@
           "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
         }
       ],
-      "duration_ms": 305000,
-      "name": "Girl Crazy (Arr. For Trumpet And Piano): But Not For Me",
-      "url": "https://open.spotify.com/track/4viP4whWV1MDWxeFJe1A1V"
+      "duration_ms": 278000,
+      "name": "The Man I Love",
+      "url": "https://open.spotify.com/track/2nr3BJgSKhoDA3M9D06BqV"
     },
     {
       "added_at": "2022-08-05 04:02:00",
@@ -460,9 +460,9 @@
           "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
         }
       ],
-      "duration_ms": 278000,
-      "name": "The Man I Love",
-      "url": "https://open.spotify.com/track/2nr3BJgSKhoDA3M9D06BqV"
+      "duration_ms": 305000,
+      "name": "Girl Crazy (Arr. For Trumpet And Piano): But Not For Me",
+      "url": "https://open.spotify.com/track/4viP4whWV1MDWxeFJe1A1V"
     },
     {
       "added_at": "2022-08-05 04:02:00",
@@ -508,9 +508,9 @@
           "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
         }
       ],
-      "duration_ms": 366960,
-      "name": "Rosalie: How Long Has This Been Going On?",
-      "url": "https://open.spotify.com/track/0eImsHIGM7PmltQo7zlChL"
+      "duration_ms": 510600,
+      "name": "A Damsel In Distress: A Foggy Day",
+      "url": "https://open.spotify.com/track/25D61jSJbWDsCVXxRvTk0Z"
     },
     {
       "added_at": "2022-08-05 04:02:00",
@@ -532,9 +532,9 @@
           "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
         }
       ],
-      "duration_ms": 510600,
-      "name": "A Damsel In Distress: A Foggy Day",
-      "url": "https://open.spotify.com/track/25D61jSJbWDsCVXxRvTk0Z"
+      "duration_ms": 366960,
+      "name": "Rosalie: How Long Has This Been Going On?",
+      "url": "https://open.spotify.com/track/0eImsHIGM7PmltQo7zlChL"
     },
     {
       "added_at": "2022-08-05 04:02:00",
@@ -655,6 +655,34 @@
     {
       "added_at": "2022-08-05 04:02:00",
       "album": {
+        "name": "Mademoiselle in New York",
+        "url": "https://open.spotify.com/album/024Dffa0Le6qspFynJmMGU"
+      },
+      "artists": [
+        {
+          "name": "George Gershwin",
+          "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
+        },
+        {
+          "name": "Lucienne Renaudin Vary",
+          "url": "https://open.spotify.com/artist/24GBjJEWkP0b1NiOTheF54"
+        },
+        {
+          "name": "Bill Elliott",
+          "url": "https://open.spotify.com/artist/3m37vbDpkiEDSUXQcJJhcZ"
+        },
+        {
+          "name": "BBC Concert Orchestra",
+          "url": "https://open.spotify.com/artist/3dIPaddbWppnquuPkcYVDg"
+        }
+      ],
+      "duration_ms": 238413,
+      "name": "Porgy and Bess, Act 2: I Loves You, Porgy",
+      "url": "https://open.spotify.com/track/4LWX33zyFJYbm0NQ0QJHFi"
+    },
+    {
+      "added_at": "2022-08-05 04:02:00",
+      "album": {
         "name": "Gershwin: Rhapsody in Blue; Piano Concerto in F; Catfish Row etc",
         "url": "https://open.spotify.com/album/5xOmD6lLCcDtmsj61EbxOi"
       },
@@ -683,34 +711,6 @@
       "duration_ms": 275720,
       "name": "Rialto Ripples (Rag)",
       "url": "https://open.spotify.com/track/0VEWcDQ9GHPKVlHT3CrGhR"
-    },
-    {
-      "added_at": "2022-08-05 04:02:00",
-      "album": {
-        "name": "Mademoiselle in New York",
-        "url": "https://open.spotify.com/album/024Dffa0Le6qspFynJmMGU"
-      },
-      "artists": [
-        {
-          "name": "George Gershwin",
-          "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
-        },
-        {
-          "name": "Lucienne Renaudin Vary",
-          "url": "https://open.spotify.com/artist/24GBjJEWkP0b1NiOTheF54"
-        },
-        {
-          "name": "Bill Elliott",
-          "url": "https://open.spotify.com/artist/3m37vbDpkiEDSUXQcJJhcZ"
-        },
-        {
-          "name": "BBC Concert Orchestra",
-          "url": "https://open.spotify.com/artist/3dIPaddbWppnquuPkcYVDg"
-        }
-      ],
-      "duration_ms": 238413,
-      "name": "Porgy and Bess, Act 2: I Loves You, Porgy",
-      "url": "https://open.spotify.com/track/4LWX33zyFJYbm0NQ0QJHFi"
     },
     {
       "added_at": "2022-08-05 04:02:00",
@@ -948,9 +948,9 @@
           "url": "https://open.spotify.com/artist/4XNYbiwP1fToWVyvNPTMMK"
         }
       ],
-      "duration_ms": 949253,
-      "name": "Second Rhapsody",
-      "url": "https://open.spotify.com/track/52W0Vd6r7byNRIHCOqXjHE"
+      "duration_ms": 762453,
+      "name": "Piano Concerto in F Major: II. Andante con moto",
+      "url": "https://open.spotify.com/track/269PXHuflueJlNaPSnN13u"
     },
     {
       "added_at": "2022-08-05 04:02:00",
@@ -1004,9 +1004,9 @@
           "url": "https://open.spotify.com/artist/4XNYbiwP1fToWVyvNPTMMK"
         }
       ],
-      "duration_ms": 762453,
-      "name": "Piano Concerto in F Major: II. Andante con moto",
-      "url": "https://open.spotify.com/track/269PXHuflueJlNaPSnN13u"
+      "duration_ms": 949253,
+      "name": "Second Rhapsody",
+      "url": "https://open.spotify.com/track/52W0Vd6r7byNRIHCOqXjHE"
     },
     {
       "added_at": "2022-08-05 04:02:00",
@@ -1039,26 +1039,6 @@
     {
       "added_at": "2022-08-05 04:02:00",
       "album": {
-        "name": "Gershwin Take Two",
-        "url": "https://open.spotify.com/album/1eUkvcNIuj8xjJb38Cp5vY"
-      },
-      "artists": [
-        {
-          "name": "George Gershwin",
-          "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
-        },
-        {
-          "name": "Simon Tedeschi",
-          "url": "https://open.spotify.com/artist/7oB8O1OribJYpFWTfRrbl6"
-        }
-      ],
-      "duration_ms": 47426,
-      "name": "I'll Build a Stairway to Paradise",
-      "url": "https://open.spotify.com/track/1PKu4cKPcE8s3yxNatioM1"
-    },
-    {
-      "added_at": "2022-08-05 04:02:00",
-      "album": {
         "name": "Gershwin - Set: Bernstein/Ozawa/Previn/Levine",
         "url": "https://open.spotify.com/album/4OCPUWvxvehvgxAv5nOJ4i"
       },
@@ -1079,6 +1059,26 @@
       "duration_ms": 204920,
       "name": "3 Preludes for Piano Solo: 2. Andante con moto e poco rubato (Arr. Jascha Heifetz)",
       "url": "https://open.spotify.com/track/0SIRzB0ZuR3LTPisCFPsAp"
+    },
+    {
+      "added_at": "2022-08-05 04:02:00",
+      "album": {
+        "name": "Gershwin Take Two",
+        "url": "https://open.spotify.com/album/1eUkvcNIuj8xjJb38Cp5vY"
+      },
+      "artists": [
+        {
+          "name": "George Gershwin",
+          "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
+        },
+        {
+          "name": "Simon Tedeschi",
+          "url": "https://open.spotify.com/artist/7oB8O1OribJYpFWTfRrbl6"
+        }
+      ],
+      "duration_ms": 47426,
+      "name": "I'll Build a Stairway to Paradise",
+      "url": "https://open.spotify.com/track/1PKu4cKPcE8s3yxNatioM1"
     },
     {
       "added_at": "2022-08-05 04:02:00",

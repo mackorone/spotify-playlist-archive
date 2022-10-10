@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYXEO3u0YOMv.md) - [plain]
 
 > 設立10周年を迎えた<a href="http://www.mappa.co.jp/">MAPPA</a>。2022年6月までに公開された作品の音楽をひとつのプレイリストに。Listen to the songs from 30+ anime shows MAPPA has produced in the last decade of its history!
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,217 likes - 100 songs - 6 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,520 likes - 100 songs - 6 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYXEO3u0YOMv.md) - [plain]
 | 59 | [ナナツイロ REALiZE](https://open.spotify.com/track/54IcYBsKHecx4MgZyqF8TB) | [IDOLiSH7](https://open.spotify.com/artist/0IcPjyCeXNduddHImlSKLH) | [ナナツイロ REALiZE](https://open.spotify.com/album/6Gae1e4UtFVseYUcDkGNeH) | 4:48 |
 | 60 | [コノユビトマレ](https://open.spotify.com/track/47ltbGJTejvcljxYfzAlUZ) | [JUNNA](https://open.spotify.com/artist/4l9mhLGvHBgUXIrDGUjy5d) | [コノユビトマレ](https://open.spotify.com/album/5xpmbprnRWDZfDCF8kCU63) | 4:59 |
 | 61 | [AlegriA](https://open.spotify.com/track/2IpweUPafBsEGOsv9Anblr) | [D\-selections](https://open.spotify.com/artist/3XBLtyAdNpfVKQGnVh0nTL) | [AlegriA](https://open.spotify.com/album/3IaYkVi9q4MoXPWMBm3BxO) | 4:42 |
-| 62 | [火炎](https://open.spotify.com/track/3xVCQGla5LLhrwqNS2FcHo) | [QUEEN BEE](https://open.spotify.com/artist/6whFEcaV75AmQMiwlfaxvc) | [Fire \(Full Edition\)](https://open.spotify.com/album/74Ml5uN949WSHheLQxgaeB) | 3:35 |
-| 63 | [さよならごっこ](https://open.spotify.com/track/7ha9B32izQ0Ni2RtSzm2C4) | [amazarashi](https://open.spotify.com/artist/6T4K8YuFc0JPDrYgABbxao) | [BOYCOTT](https://open.spotify.com/album/1PdHNXd6zUwYxcadffHHBX) | 4:32 |
+| 62 | [火炎](https://open.spotify.com/track/4k2GMy34pt5rQT9aVEzEwq) | [QUEEN BEE](https://open.spotify.com/artist/6whFEcaV75AmQMiwlfaxvc) | [火炎\(Full Edition\)](https://open.spotify.com/album/6DdJGNawJYKpYq6A9hwcfp) | 3:35 |
+| 63 | [さよならごっこ](https://open.spotify.com/track/7H09NfuWbm1lhCqtPb5M5s) | [amazarashi](https://open.spotify.com/artist/6T4K8YuFc0JPDrYgABbxao) | [ボイコット](https://open.spotify.com/album/3L2UTa9fUGVuIGtrOqsMGX) | 4:32 |
 | 64 | [Dororo](https://open.spotify.com/track/57Wtf9KjFm6GKjJ9qZ2pI5) | [ASIAN KUNG\-FU GENERATION](https://open.spotify.com/artist/0MK8l3nURwwQIjafvXoJJt) | [Dororo / 解放区](https://open.spotify.com/album/7F9ytEr5V8SSCLzuL2Yg8d) | 2:41 |
 | 65 | [闇夜](https://open.spotify.com/track/6aW8fq5lGlhoZxhLyC7JuL) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [闇夜](https://open.spotify.com/album/1BB2OJJteupdXb2jYDH4Bp) | 3:49 |
 | 66 | [まっさら](https://open.spotify.com/track/3ZlbFeHjcbZOX43v4peFWZ) | [KANA\-BOON](https://open.spotify.com/artist/3PWp9R5HvbQgxI5KBx5kVd) | [まっさら](https://open.spotify.com/album/4hBvsx4tu4hXaYTXveupAp) | 4:54 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYXEO3u0YOMv.md) - [plain]
 | 99 | [鳴り響く限り](https://open.spotify.com/track/1AudHfLgLyJoDvqBTZBtSU) | [YUKI](https://open.spotify.com/artist/380DW51qbu5pSP8crFRIII) | [鳴り響く限り](https://open.spotify.com/album/6NDdztWIUAsK2pbmDvWjND) | 3:53 |
 | 100 | [風、花](https://open.spotify.com/track/2LyD72XzzJMSKqGrddyVr4) | [Hitorie](https://open.spotify.com/artist/0ouUO7PZ76vjBJytaT2Na0) | [風、花](https://open.spotify.com/album/0uZBgvAuuoejT0ZcCzFXaj) | 3:16 |
 
-Snapshot ID: `MTY1MjE1ODUzMiwwMDAwMDAwMGY1ZjJhNDAyY2E4MTUzZWUzMGVlNDlkZDY4ZmQ2ZjQx`
+Snapshot ID: `MTY1MjE1ODUzMiwwMDAwMDAwMGQ0MGZmZDAzMDhlNjU1MjYzMTRhYmRjMzg0YTlkOTQ2`

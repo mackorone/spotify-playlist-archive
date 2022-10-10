@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/68oeNrImf1nxjL0RbpZkij.md) - [plain]
 
 > Chill songs for lazy mornings\. You'll roll out of bed and get the coffee on, eventually ...
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,102 likes - 27 songs - 1 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,103 likes - 27 songs - 1 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

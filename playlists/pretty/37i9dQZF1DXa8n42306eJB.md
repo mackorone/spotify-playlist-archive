@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa8n42306eJB.md) - [plain]
 
 > Good vibes for good times!
 
-[Spotify](https://open.spotify.com/user/spotify) - 245,038 likes - 71 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 245,267 likes - 71 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa8n42306eJB.md) - [plain]
 | 7 | [Banana \(feat\. Shaggy\)](https://open.spotify.com/track/13OdVDwHdPlGkKHyjPoadB) | [Conkarah](https://open.spotify.com/artist/7vPGzgDg3qGUY5bWtrO3K4), [Shaggy](https://open.spotify.com/artist/5EvFsr3kj42KNv97ZEnqij) | [Banana \(feat\. Shaggy\) \[DJ FLe \- Minisiren Remix\]](https://open.spotify.com/album/4txsHyrnh5YNezMNlknYv4) | 3:04 |
 | 8 | [Show Me](https://open.spotify.com/track/2tCPIp83mRXvVTytTAf1W4) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Unorthodox Jukebox](https://open.spotify.com/album/58ufpQsJ1DS5kq4hhzQDiI) | 3:27 |
 | 9 | [We Smoke](https://open.spotify.com/track/7ypcbwvatoanQoXHLWXmaZ) | [Bodega Collective](https://open.spotify.com/artist/1kgMO1lOMZtHhRd7oOdHAW), [Big Skeez](https://open.spotify.com/artist/0N4XZEiYb7RIeIN0lsmVMu), [Elijah Yo](https://open.spotify.com/artist/4QdSwI8nLBjrN7344lBCbL), [RenzoMck.](https://open.spotify.com/artist/7h6GkKpa1H12PiOQ6RiRh4), [Gold Fang](https://open.spotify.com/artist/1e8lOc1h26CVBSGh3iiW7M) | [We Smoke](https://open.spotify.com/album/2Za3qO1esJmOgd77kqakkz) | 3:01 |
-| 10 | [Hello](https://open.spotify.com/track/6esa48W1Uh3WNuznkDkUuX) | [Kes](https://open.spotify.com/artist/7E6r9S8qCRfZVCjF1A8do6) | [Get Soca 2018](https://open.spotify.com/album/6ugS3I8nHZY4tlOel3BKKc) | 3:19 |
+| 10 | [Hello](https://open.spotify.com/track/3cmdQZ2yzUjtKTedabLjqu) | [Kes](https://open.spotify.com/artist/7E6r9S8qCRfZVCjF1A8do6) | [Folklore Riddim](https://open.spotify.com/album/48nubh7FCkPvIG8DqHdLbm) | 3:18 |
 | 11 | [Dance My Stress Away \(with Stephen Marley\)](https://open.spotify.com/track/4YzBQfeZtXKEQABl61rT6f) | [Demarco](https://open.spotify.com/artist/0af5VM6xubf8EXKvoG35x6), [Stephen Marley](https://open.spotify.com/artist/0CIwCGmQMqHqiblnZlFia1) | [Dance My Stress Away \(with Stephen Marley\)](https://open.spotify.com/album/4qAB2fZm1df7LhxPIiXAmW) | 3:34 |
 | 12 | [Circus Slave](https://open.spotify.com/track/3nGPtleu2jIeCG0mxv2pRT) | [Kolohe Kai](https://open.spotify.com/artist/3Je8tRazTtqZxGkbeJDGL8) | [Hazel Eyes](https://open.spotify.com/album/5UW0VIeQ1cgfXJxGqddBm1) | 3:24 |
 | 13 | [Press Rewind](https://open.spotify.com/track/1JOnK0BwXTDKdWbXiYQ11h) | [SOJA](https://open.spotify.com/artist/2vaWvC8suCFkRXejDOK7EE), [J Boog](https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4), [Collie Buddz](https://open.spotify.com/artist/5Ayl2bJtN5mdCsxZoxs9n1) | [Press Rewind](https://open.spotify.com/album/6hvO38m9TnmmyAerAfvpkm) | 4:34 |
@@ -80,4 +80,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa8n42306eJB.md) - [plain]
 | 70 | [My Baby](https://open.spotify.com/track/784sJR2S68F1joSvINXhe0) | [L.A.B.](https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC) | [L.A.B IV](https://open.spotify.com/album/15CViSIGJXmn2dn0Tt1wm1) | 3:56 |
 | 71 | [Rhythm in My Soul](https://open.spotify.com/track/1U9GsSNJ2gypyLCRbbvNa1) | [Unity Pacific](https://open.spotify.com/artist/0e0rH9Exdpkq3d7ZSi9VN5) | [Into the Dread](https://open.spotify.com/album/0XUxsYbbxTmkhzMAA9YeTe) | 6:16 |
 
-Snapshot ID: `MTY1OTgzMzY0MSwwMDAwMDAwMDU1NjcyNzYzMjc1YmFmYjg4ODc4YjMxYzU3N2NlOWQ5`
+Snapshot ID: `MTY1OTgzMzY0MSwwMDAwMDAwMDg2YjA5OGFlYWU3MGIxNzYzMWU1OGEyNmUxMzcwMjIx`

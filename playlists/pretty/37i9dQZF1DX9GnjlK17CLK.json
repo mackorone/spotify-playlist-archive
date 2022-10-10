@@ -1,15 +1,15 @@
 {
   "description": "Plugged in and cranked up; the hottest Blues records from an amplified era. Cover: B.B. King.",
-  "num_followers": 60997,
+  "num_followers": 62137,
   "original_name": "Electric Blues Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDU1OTg1MSwwMDAwMDAwMGY2MzRlODNjYjZmN2U2ZDFlMzQ2MDg0NThlYzQ0YmY4",
+  "snapshot_id": "MTY2NDg4MjM1MCwwMDAwMDAwMGU5MGU0MjJmNGU0NzgwNWNlYjA2MWRjMTY3MDk3NmY2",
   "tracks": [
     {
-      "added_at": "2022-09-30 17:44:11",
+      "added_at": "2022-10-04 11:19:10",
       "album": {
         "name": "Berry Is On Top",
         "url": "https://open.spotify.com/album/6eedtCtCjibu80yOhylSGL"
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/2QfiRTz5Yc8DdShCxG1tB2"
     },
     {
-      "added_at": "2022-09-30 17:44:11",
+      "added_at": "2022-10-04 11:19:10",
       "album": {
         "name": "Green Onions",
         "url": "https://open.spotify.com/album/2aGFVLz0oQPa3uxCfq9lcU"
@@ -41,7 +41,7 @@
       "url": "https://open.spotify.com/track/4fQMGlCawbTkH9yPPZ49kP"
     },
     {
-      "added_at": "2022-09-30 17:44:11",
+      "added_at": "2022-10-04 11:19:10",
       "album": {
         "name": "Texas Flood (Legacy Edition)",
         "url": "https://open.spotify.com/album/1AL5oXZRtTc8PyhcTwg4xQ"
@@ -57,7 +57,7 @@
       "url": "https://open.spotify.com/track/1a2iF9XymafjRk56q7oCxo"
     },
     {
-      "added_at": "2022-09-30 17:44:11",
+      "added_at": "2022-10-04 11:19:10",
       "album": {
         "name": "King Of The Electric Blues",
         "url": "https://open.spotify.com/album/4fOVcN7X7vQ8L41is621uJ"
@@ -73,7 +73,7 @@
       "url": "https://open.spotify.com/track/58PSYdY0GFg0LFb2PxYk4T"
     },
     {
-      "added_at": "2022-09-30 17:44:11",
+      "added_at": "2022-10-04 11:19:10",
       "album": {
         "name": "Completely Well",
         "url": "https://open.spotify.com/album/7gzkgAWjOjEf5o6sIvBvT1"
@@ -89,7 +89,7 @@
       "url": "https://open.spotify.com/track/4NQfrmGs9iQXVQI9IpRhjM"
     },
     {
-      "added_at": "2022-09-30 17:44:11",
+      "added_at": "2022-10-04 11:19:10",
       "album": {
         "name": "Moanin' In The Moonlight",
         "url": "https://open.spotify.com/album/76MT4lqzC1oSvSYnHHjMam"
@@ -105,23 +105,7 @@
       "url": "https://open.spotify.com/track/2HUZVffVPXvqnrml0gXggp"
     },
     {
-      "added_at": "2022-09-30 17:44:11",
-      "album": {
-        "name": "Taj Mahal",
-        "url": "https://open.spotify.com/album/0kEaFupzvrGdcczROS519i"
-      },
-      "artists": [
-        {
-          "name": "Taj Mahal",
-          "url": "https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp"
-        }
-      ],
-      "duration_ms": 178973,
-      "name": "Statesboro Blues",
-      "url": "https://open.spotify.com/track/4uIHPormmUH31qyjP7CU4d"
-    },
-    {
-      "added_at": "2022-09-30 17:44:11",
+      "added_at": "2022-10-04 11:19:10",
       "album": {
         "name": "Born Under A Bad Sign (Mono)",
         "url": "https://open.spotify.com/album/0Ez9S8Dhzr1fa6ZCkcIJiR"
@@ -137,7 +121,39 @@
       "url": "https://open.spotify.com/track/3ocm1Cf1Dk1ODrdBdybh82"
     },
     {
-      "added_at": "2022-09-30 17:44:11",
+      "added_at": "2022-10-04 11:19:10",
+      "album": {
+        "name": "The Real Folk Blues",
+        "url": "https://open.spotify.com/album/6AToTGNfNIiOSMcl6xGJTY"
+      },
+      "artists": [
+        {
+          "name": "John Lee Hooker",
+          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
+        }
+      ],
+      "duration_ms": 184960,
+      "name": "One Bourbon, One Scotch, One Beer",
+      "url": "https://open.spotify.com/track/2dp14VWbIxOVNmaWKkVB1r"
+    },
+    {
+      "added_at": "2022-10-04 11:19:10",
+      "album": {
+        "name": "Taj Mahal",
+        "url": "https://open.spotify.com/album/0kEaFupzvrGdcczROS519i"
+      },
+      "artists": [
+        {
+          "name": "Taj Mahal",
+          "url": "https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp"
+        }
+      ],
+      "duration_ms": 178973,
+      "name": "Statesboro Blues",
+      "url": "https://open.spotify.com/track/4uIHPormmUH31qyjP7CU4d"
+    },
+    {
+      "added_at": "2022-10-04 11:19:10",
       "album": {
         "name": "Bluesbreakers",
         "url": "https://open.spotify.com/album/4bSvzPMgzwvfqHAbcWG88o"
@@ -157,39 +173,7 @@
       "url": "https://open.spotify.com/track/1yKah8BCP3Vgq2tPBOLKL0"
     },
     {
-      "added_at": "2022-09-30 17:44:11",
-      "album": {
-        "name": "The Real Folk Blues",
-        "url": "https://open.spotify.com/album/6AToTGNfNIiOSMcl6xGJTY"
-      },
-      "artists": [
-        {
-          "name": "John Lee Hooker",
-          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
-        }
-      ],
-      "duration_ms": 184960,
-      "name": "One Bourbon, One Scotch, One Beer",
-      "url": "https://open.spotify.com/track/2dp14VWbIxOVNmaWKkVB1r"
-    },
-    {
-      "added_at": "2022-09-30 17:44:11",
-      "album": {
-        "name": "Lie To Me",
-        "url": "https://open.spotify.com/album/6RIlPlBtXSMN9UePrFIBio"
-      },
-      "artists": [
-        {
-          "name": "Jonny Lang",
-          "url": "https://open.spotify.com/artist/5rX1EodZfwxmW4fQX2Caot"
-        }
-      ],
-      "duration_ms": 251306,
-      "name": "Lie To Me",
-      "url": "https://open.spotify.com/track/6DCALWbYX0BCOAGy0hMmRs"
-    },
-    {
-      "added_at": "2022-09-30 17:44:11",
+      "added_at": "2022-10-04 11:19:10",
       "album": {
         "name": "Texas Flood (Legacy Edition)",
         "url": "https://open.spotify.com/album/1AL5oXZRtTc8PyhcTwg4xQ"
@@ -205,23 +189,23 @@
       "url": "https://open.spotify.com/track/5MtN38MGEWJt60LwtBmFNP"
     },
     {
-      "added_at": "2022-09-30 17:44:11",
+      "added_at": "2022-10-04 11:19:10",
       "album": {
-        "name": "Taj Mahal",
-        "url": "https://open.spotify.com/album/0kEaFupzvrGdcczROS519i"
+        "name": "Lie To Me",
+        "url": "https://open.spotify.com/album/6RIlPlBtXSMN9UePrFIBio"
       },
       "artists": [
         {
-          "name": "Taj Mahal",
-          "url": "https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp"
+          "name": "Jonny Lang",
+          "url": "https://open.spotify.com/artist/5rX1EodZfwxmW4fQX2Caot"
         }
       ],
-      "duration_ms": 289560,
-      "name": "Leaving Trunk",
-      "url": "https://open.spotify.com/track/3E0VKSvZp76kvBU2WwwBul"
+      "duration_ms": 251306,
+      "name": "Lie To Me",
+      "url": "https://open.spotify.com/track/6DCALWbYX0BCOAGy0hMmRs"
     },
     {
-      "added_at": "2022-09-30 17:44:11",
+      "added_at": "2022-10-04 11:19:10",
       "album": {
         "name": "King Of The Electric Blues",
         "url": "https://open.spotify.com/album/4fOVcN7X7vQ8L41is621uJ"
@@ -237,7 +221,7 @@
       "url": "https://open.spotify.com/track/3KSchPNSklO5McIqRH3qYX"
     },
     {
-      "added_at": "2022-09-30 17:44:11",
+      "added_at": "2022-10-04 11:19:10",
       "album": {
         "name": "Getting Ready... (World)",
         "url": "https://open.spotify.com/album/2bNjljctm6ynfp9Xzdy7RI"
@@ -253,7 +237,7 @@
       "url": "https://open.spotify.com/track/2Qj1FilGsXITZbFVmVeoLy"
     },
     {
-      "added_at": "2022-09-30 17:44:11",
+      "added_at": "2022-10-04 11:19:10",
       "album": {
         "name": "Johnny Winter",
         "url": "https://open.spotify.com/album/5RNAJslV8AaTq2gM5JJ9Ch"
@@ -269,7 +253,7 @@
       "url": "https://open.spotify.com/track/3YGsgJqtIWKjMjZtKLk11Z"
     },
     {
-      "added_at": "2022-09-30 17:44:11",
+      "added_at": "2022-10-04 11:19:10",
       "album": {
         "name": "Mourning In The Morning",
         "url": "https://open.spotify.com/album/39zS4QvdYkdcoa7VzG7KHe"
@@ -285,7 +269,7 @@
       "url": "https://open.spotify.com/track/4Gia17DzXBhYFbYiJj6SyW"
     },
     {
-      "added_at": "2022-09-30 17:44:11",
+      "added_at": "2022-10-04 11:19:10",
       "album": {
         "name": "20th Century Masters: The Millennium Collection: Best Of Robert Cray",
         "url": "https://open.spotify.com/album/7jFlpHRQMaYHxKP5z0ZqiL"
@@ -301,7 +285,23 @@
       "url": "https://open.spotify.com/track/5tRu8kA4d17uwGVT7I3YIR"
     },
     {
-      "added_at": "2022-09-30 17:44:11",
+      "added_at": "2022-10-04 11:19:10",
+      "album": {
+        "name": "Taj Mahal",
+        "url": "https://open.spotify.com/album/0kEaFupzvrGdcczROS519i"
+      },
+      "artists": [
+        {
+          "name": "Taj Mahal",
+          "url": "https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp"
+        }
+      ],
+      "duration_ms": 289560,
+      "name": "Leaving Trunk",
+      "url": "https://open.spotify.com/track/3E0VKSvZp76kvBU2WwwBul"
+    },
+    {
+      "added_at": "2022-10-04 11:19:10",
       "album": {
         "name": "The Very Best of Jimmy Reed",
         "url": "https://open.spotify.com/album/2PMRy0eJABQCG5glccW4pk"
@@ -317,7 +317,7 @@
       "url": "https://open.spotify.com/track/05oMNN5Rbv6rVqyFFG9uTl"
     },
     {
-      "added_at": "2022-09-30 17:44:11",
+      "added_at": "2022-10-04 11:19:10",
       "album": {
         "name": "Boom Boom",
         "url": "https://open.spotify.com/album/5Bsx6KPTdZfbmwIWbxK0wo"
@@ -333,7 +333,7 @@
       "url": "https://open.spotify.com/track/6MBlp2Gs9Q9aGWqDDJiNkt"
     },
     {
-      "added_at": "2022-09-30 17:44:11",
+      "added_at": "2022-10-04 11:19:10",
       "album": {
         "name": "Ice Pickin'",
         "url": "https://open.spotify.com/album/7K0AX1jtXt1iLCtPLM3dab"
@@ -349,7 +349,7 @@
       "url": "https://open.spotify.com/track/5qPJSWhuZpD79C3CloJvDA"
     },
     {
-      "added_at": "2022-09-30 17:44:11",
+      "added_at": "2022-10-04 11:19:10",
       "album": {
         "name": "Poet Of the Blues (Mojo Workin'- Blues For The Next Generation)",
         "url": "https://open.spotify.com/album/5kOOtdwY3JI17osYqWEbnD"
@@ -365,7 +365,7 @@
       "url": "https://open.spotify.com/track/6c2qCpSjexlM9HYg9TnFFt"
     },
     {
-      "added_at": "2022-09-30 17:44:11",
+      "added_at": "2022-10-04 11:19:10",
       "album": {
         "name": "Shake Your Moneymaker: The Best of the Fire Sessions",
         "url": "https://open.spotify.com/album/04c932ZDWrJTCdBLfUCgUj"
@@ -381,7 +381,7 @@
       "url": "https://open.spotify.com/track/0qRz3AYteD6VX65GkBqcel"
     },
     {
-      "added_at": "2022-09-30 17:44:11",
+      "added_at": "2022-10-04 11:19:10",
       "album": {
         "name": "Al's Big Deal",
         "url": "https://open.spotify.com/album/4tjoWIPvhO3GW5vty6tHUn"
@@ -397,23 +397,7 @@
       "url": "https://open.spotify.com/track/1eWZY9g8A7GAbBTfxMUy14"
     },
     {
-      "added_at": "2022-09-30 17:44:11",
-      "album": {
-        "name": "The Very Best of Jimmy Reed",
-        "url": "https://open.spotify.com/album/2PMRy0eJABQCG5glccW4pk"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Reed",
-          "url": "https://open.spotify.com/artist/41ZMMuFFLPTVPkUsSI5KlV"
-        }
-      ],
-      "duration_ms": 169306,
-      "name": "Shame, Shame, Shame",
-      "url": "https://open.spotify.com/track/2uRHKB4BYOF2A6a6PZXKE0"
-    },
-    {
-      "added_at": "2022-09-30 17:44:11",
+      "added_at": "2022-10-04 11:19:10",
       "album": {
         "name": "Deluxe Edition",
         "url": "https://open.spotify.com/album/0Jvj3KAEiuS4bAFiPmiNFH"
@@ -429,7 +413,7 @@
       "url": "https://open.spotify.com/track/0nko6BnrANIqS303Ynl53p"
     },
     {
-      "added_at": "2022-09-30 17:44:11",
+      "added_at": "2022-10-04 11:19:10",
       "album": {
         "name": "Both Sides of the Sky",
         "url": "https://open.spotify.com/album/0EfHWQeb3T1UJw9KrqN407"
@@ -445,7 +429,7 @@
       "url": "https://open.spotify.com/track/2YFfcJF038SQMtHUwOKO6P"
     },
     {
-      "added_at": "2022-09-30 17:44:11",
+      "added_at": "2022-10-04 11:19:10",
       "album": {
         "name": "King Of The Electric Blues",
         "url": "https://open.spotify.com/album/4fOVcN7X7vQ8L41is621uJ"
@@ -461,7 +445,23 @@
       "url": "https://open.spotify.com/track/4pyJrDKo7bXM51Q94Rxzkc"
     },
     {
-      "added_at": "2022-09-30 17:44:11",
+      "added_at": "2022-10-04 11:19:10",
+      "album": {
+        "name": "The Very Best of Jimmy Reed",
+        "url": "https://open.spotify.com/album/2PMRy0eJABQCG5glccW4pk"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Reed",
+          "url": "https://open.spotify.com/artist/41ZMMuFFLPTVPkUsSI5KlV"
+        }
+      ],
+      "duration_ms": 169306,
+      "name": "Shame, Shame, Shame",
+      "url": "https://open.spotify.com/track/2uRHKB4BYOF2A6a6PZXKE0"
+    },
+    {
+      "added_at": "2022-10-04 11:19:10",
       "album": {
         "name": "In Session (Remaster w/ eBooklet)",
         "url": "https://open.spotify.com/album/62rUsLpP1lxJ1gJUiXJJI4"
@@ -481,23 +481,7 @@
       "url": "https://open.spotify.com/track/0v6tG0HoAHiluZAeany7oU"
     },
     {
-      "added_at": "2022-09-30 17:44:11",
-      "album": {
-        "name": "From the Cradle",
-        "url": "https://open.spotify.com/album/0im1aMw5Wf5PUOdRKVLU1w"
-      },
-      "artists": [
-        {
-          "name": "Eric Clapton",
-          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
-        }
-      ],
-      "duration_ms": 177506,
-      "name": "Blues Before Sunrise",
-      "url": "https://open.spotify.com/track/18bSzFqEPn4A9d8AyzxI6g"
-    },
-    {
-      "added_at": "2022-09-30 17:44:11",
+      "added_at": "2022-10-04 11:19:10",
       "album": {
         "name": "Street Talkin'",
         "url": "https://open.spotify.com/album/1po8PLsiylhu2cuvR1Xw3L"
@@ -513,7 +497,23 @@
       "url": "https://open.spotify.com/track/7egQm3o9Qem3FhzUNi66rI"
     },
     {
-      "added_at": "2022-09-30 17:44:11",
+      "added_at": "2022-10-04 11:19:10",
+      "album": {
+        "name": "From the Cradle",
+        "url": "https://open.spotify.com/album/0im1aMw5Wf5PUOdRKVLU1w"
+      },
+      "artists": [
+        {
+          "name": "Eric Clapton",
+          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+        }
+      ],
+      "duration_ms": 177506,
+      "name": "Blues Before Sunrise",
+      "url": "https://open.spotify.com/track/18bSzFqEPn4A9d8AyzxI6g"
+    },
+    {
+      "added_at": "2022-10-04 11:19:10",
       "album": {
         "name": "Hoodoo Man Blues",
         "url": "https://open.spotify.com/album/6whq5Ok1wCTlrXRNyzDSJ4"
@@ -533,23 +533,7 @@
       "url": "https://open.spotify.com/track/1Q6anBZ21FGcaHvR50d326"
     },
     {
-      "added_at": "2022-09-30 17:44:11",
-      "album": {
-        "name": "Blues",
-        "url": "https://open.spotify.com/album/6kvCH4eS92QkpBNdTmjLEz"
-      },
-      "artists": [
-        {
-          "name": "Jimi Hendrix",
-          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
-        }
-      ],
-      "duration_ms": 223906,
-      "name": "Red House",
-      "url": "https://open.spotify.com/track/1ska3YnfMLiOJ6YH7EpZa9"
-    },
-    {
-      "added_at": "2022-09-30 17:44:11",
+      "added_at": "2022-10-04 11:19:10",
       "album": {
         "name": "Ice Pickin'",
         "url": "https://open.spotify.com/album/7K0AX1jtXt1iLCtPLM3dab"
@@ -565,7 +549,39 @@
       "url": "https://open.spotify.com/track/7z3wUQAFexFWpUaKZDktZr"
     },
     {
-      "added_at": "2022-09-30 17:44:11",
+      "added_at": "2022-10-04 11:19:10",
+      "album": {
+        "name": "1956-1958 Cobra Recordings",
+        "url": "https://open.spotify.com/album/2qmdzBnhgSKueas63F83g7"
+      },
+      "artists": [
+        {
+          "name": "Otis Rush",
+          "url": "https://open.spotify.com/artist/1h0hOL3bVcYlg4xcSjU7fP"
+        }
+      ],
+      "duration_ms": 158200,
+      "name": "All Your Love",
+      "url": "https://open.spotify.com/track/3dTKNQxas5m4cuunpHiVpi"
+    },
+    {
+      "added_at": "2022-10-04 11:19:10",
+      "album": {
+        "name": "Blues",
+        "url": "https://open.spotify.com/album/6kvCH4eS92QkpBNdTmjLEz"
+      },
+      "artists": [
+        {
+          "name": "Jimi Hendrix",
+          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+        }
+      ],
+      "duration_ms": 223906,
+      "name": "Red House",
+      "url": "https://open.spotify.com/track/1ska3YnfMLiOJ6YH7EpZa9"
+    },
+    {
+      "added_at": "2022-10-04 11:19:10",
       "album": {
         "name": "West Side Soul (Deluxe Edition)",
         "url": "https://open.spotify.com/album/2bonSc9cW7a0YcFBiH9naX"
@@ -597,7 +613,7 @@
       "url": "https://open.spotify.com/track/2DODPLqY24UuvUokVh2JwF"
     },
     {
-      "added_at": "2022-09-30 17:44:11",
+      "added_at": "2022-10-04 11:19:10",
       "album": {
         "name": "East West",
         "url": "https://open.spotify.com/album/7dhvHytrXT38CEy21dNam3"
@@ -613,39 +629,7 @@
       "url": "https://open.spotify.com/track/0aBF6Zob3o2GthzPTuVplz"
     },
     {
-      "added_at": "2022-09-30 17:44:11",
-      "album": {
-        "name": "1956-1958 Cobra Recordings",
-        "url": "https://open.spotify.com/album/2qmdzBnhgSKueas63F83g7"
-      },
-      "artists": [
-        {
-          "name": "Otis Rush",
-          "url": "https://open.spotify.com/artist/1h0hOL3bVcYlg4xcSjU7fP"
-        }
-      ],
-      "duration_ms": 158200,
-      "name": "All Your Love",
-      "url": "https://open.spotify.com/track/3dTKNQxas5m4cuunpHiVpi"
-    },
-    {
-      "added_at": "2022-09-30 17:44:11",
-      "album": {
-        "name": "Whose Muddy Shoes",
-        "url": "https://open.spotify.com/album/50X6gAsoV3eM9O2QrIf2rp"
-      },
-      "artists": [
-        {
-          "name": "Elmore James",
-          "url": "https://open.spotify.com/artist/0q9kpdDkEA3H17gcRMjgVS"
-        }
-      ],
-      "duration_ms": 179760,
-      "name": "Dust My Broom",
-      "url": "https://open.spotify.com/track/1mbD2setZsn2n4U6xs3Dxg"
-    },
-    {
-      "added_at": "2022-09-30 17:44:11",
+      "added_at": "2022-10-04 11:19:10",
       "album": {
         "name": "461 Ocean Boulevard",
         "url": "https://open.spotify.com/album/73cxqemPE6sVoCkwRuPU6E"
@@ -661,7 +645,23 @@
       "url": "https://open.spotify.com/track/1v0PatOEeF1g1fVRNlmw9k"
     },
     {
-      "added_at": "2022-09-30 17:44:11",
+      "added_at": "2022-10-04 11:19:10",
+      "album": {
+        "name": "Whose Muddy Shoes",
+        "url": "https://open.spotify.com/album/50X6gAsoV3eM9O2QrIf2rp"
+      },
+      "artists": [
+        {
+          "name": "Elmore James",
+          "url": "https://open.spotify.com/artist/0q9kpdDkEA3H17gcRMjgVS"
+        }
+      ],
+      "duration_ms": 179760,
+      "name": "Dust My Broom",
+      "url": "https://open.spotify.com/track/1mbD2setZsn2n4U6xs3Dxg"
+    },
+    {
+      "added_at": "2022-10-04 11:19:10",
       "album": {
         "name": "I Am The Blues",
         "url": "https://open.spotify.com/album/0y79HnVGwEtybfIcfD6M7N"
@@ -677,7 +677,7 @@
       "url": "https://open.spotify.com/track/4iKp3icJChjTFQBYbydH43"
     },
     {
-      "added_at": "2022-09-30 17:44:11",
+      "added_at": "2022-10-04 11:19:10",
       "album": {
         "name": "Bluesbreakers",
         "url": "https://open.spotify.com/album/4bSvzPMgzwvfqHAbcWG88o"
@@ -697,7 +697,7 @@
       "url": "https://open.spotify.com/track/07fmUH4VMyKkCRaugAyke7"
     },
     {
-      "added_at": "2022-09-30 17:44:11",
+      "added_at": "2022-10-04 11:19:10",
       "album": {
         "name": "A Long Time Comin'",
         "url": "https://open.spotify.com/album/5816bqBdozCXD95olZoLHk"
@@ -713,7 +713,7 @@
       "url": "https://open.spotify.com/track/47KjgcMPHmdhZZYJARV8dT"
     },
     {
-      "added_at": "2022-09-30 17:44:11",
+      "added_at": "2022-10-04 11:19:10",
       "album": {
         "name": "The Complete Imperial Recordings, 1950-1954",
         "url": "https://open.spotify.com/album/5wu5aLFVDLguiEmgWzraOX"
@@ -729,7 +729,7 @@
       "url": "https://open.spotify.com/track/5C4lqxcOb2aZPxMV73G00U"
     },
     {
-      "added_at": "2022-09-30 17:44:11",
+      "added_at": "2022-10-04 11:19:10",
       "album": {
         "name": "1956-1958 Cobra Recordings",
         "url": "https://open.spotify.com/album/2qmdzBnhgSKueas63F83g7"
@@ -745,23 +745,7 @@
       "url": "https://open.spotify.com/track/3JggrSor1wtd74bvF2fsmz"
     },
     {
-      "added_at": "2022-09-30 17:44:11",
-      "album": {
-        "name": "Blues Brothers 2000",
-        "url": "https://open.spotify.com/album/6xj8KDSoPvZCquyIHWo0PJ"
-      },
-      "artists": [
-        {
-          "name": "The Paul Butterfield Blues Band",
-          "url": "https://open.spotify.com/artist/6kz7WuPaUa4QVreP27I33i"
-        }
-      ],
-      "duration_ms": 185226,
-      "name": "Born In Chicago",
-      "url": "https://open.spotify.com/track/6tUCV9S6JZT7qzW65ptXqc"
-    },
-    {
-      "added_at": "2022-09-30 17:44:11",
+      "added_at": "2022-10-04 11:19:10",
       "album": {
         "name": "The Chess Story 1957-1964",
         "url": "https://open.spotify.com/album/6hLDuFXaABk2LySPldc5CB"
@@ -777,7 +761,23 @@
       "url": "https://open.spotify.com/track/4cLPvcojgZHpaxP7d5akhG"
     },
     {
-      "added_at": "2022-09-30 17:44:11",
+      "added_at": "2022-10-04 11:19:10",
+      "album": {
+        "name": "Blues Brothers 2000",
+        "url": "https://open.spotify.com/album/6xj8KDSoPvZCquyIHWo0PJ"
+      },
+      "artists": [
+        {
+          "name": "The Paul Butterfield Blues Band",
+          "url": "https://open.spotify.com/artist/6kz7WuPaUa4QVreP27I33i"
+        }
+      ],
+      "duration_ms": 185226,
+      "name": "Born In Chicago",
+      "url": "https://open.spotify.com/track/6tUCV9S6JZT7qzW65ptXqc"
+    },
+    {
+      "added_at": "2022-10-04 11:19:10",
       "album": {
         "name": "What It Takes: The Chess Years",
         "url": "https://open.spotify.com/album/4w1M6BA0n3LB2GhlZXzQbC"
@@ -793,7 +793,7 @@
       "url": "https://open.spotify.com/track/6BRPW9P9EfuesEenxbM6zj"
     },
     {
-      "added_at": "2022-09-30 17:44:11",
+      "added_at": "2022-10-04 11:19:10",
       "album": {
         "name": "The Best Of Muddy Waters",
         "url": "https://open.spotify.com/album/6xU8hHhpGaDmFdOVEGRzpY"
@@ -809,7 +809,7 @@
       "url": "https://open.spotify.com/track/6uSBSTEnZJY0XI3IS69gBU"
     },
     {
-      "added_at": "2022-09-30 17:44:11",
+      "added_at": "2022-10-04 11:19:10",
       "album": {
         "name": "Completely Well",
         "url": "https://open.spotify.com/album/7gzkgAWjOjEf5o6sIvBvT1"
@@ -825,20 +825,20 @@
       "url": "https://open.spotify.com/track/1YAqMv5kabudsXnTrCj9KL"
     },
     {
-      "added_at": "2022-09-30 17:44:11",
+      "added_at": "2022-10-04 11:19:10",
       "album": {
-        "name": "A Hard Road (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0DMfmALbvN3V0GAkzpeRw1"
+        "name": "Green Onions",
+        "url": "https://open.spotify.com/album/2sSDqJOZ7gea3yMbqPUrhq"
       },
       "artists": [
         {
-          "name": "John Mayall & The Bluesbreakers",
-          "url": "https://open.spotify.com/artist/2ScuQMRWThcifBRIvNDFDC"
+          "name": "Booker T. & the M.G.'s",
+          "url": "https://open.spotify.com/artist/2vDV0T8sxx2ENnKXds75e5"
         }
       ],
-      "duration_ms": 171946,
-      "name": "The Stumble",
-      "url": "https://open.spotify.com/track/2t47sX3S0tR3JJeqYADnIN"
+      "duration_ms": 150693,
+      "name": "Jelly Bread",
+      "url": "https://open.spotify.com/track/2eaAUnd8AKIFD0RAfPiW3z"
     }
   ],
   "unique_name": "Electric Blues Classics",

@@ -1,33 +1,13 @@
 {
   "description": "\u00a1Ay, chiquitita, c\u00f3mo la quiero! \u00a1Y puro Grupo Firme!",
-  "num_followers": 729779,
+  "num_followers": 736205,
   "original_name": "This Is Grupo Firme",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDg0OTIwMCwwMDAwMDAwMDQ4OTgxNDFhNzhlYWU5OWU5MjkyNTkwOTEyOGNmOTk3",
+  "snapshot_id": "MTY2NDgxNjQ4MCwwMDAwMDAwMDQ4YTFkZTRkYjY5MWJhMzg3ZDk4MTk0ODljMWY1NGQ0",
   "tracks": [
-    {
-      "added_at": "2022-08-18 19:00:00",
-      "album": {
-        "name": "Alaska",
-        "url": "https://open.spotify.com/album/6un8b7BMCwlYBFxbf3rSnZ"
-      },
-      "artists": [
-        {
-          "name": "Camilo",
-          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
-        },
-        {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        }
-      ],
-      "duration_ms": 241106,
-      "name": "Alaska",
-      "url": "https://open.spotify.com/track/607ZGkxOxHJUVDEU3MZl86"
-    },
     {
       "added_at": "2022-07-12 16:46:18",
       "album": {
@@ -47,26 +27,6 @@
       "duration_ms": 263100,
       "name": "T\u00fa - En Vivo",
       "url": "https://open.spotify.com/track/25nTvCyHzlMp3bizueut5U"
-    },
-    {
-      "added_at": "2022-07-12 16:46:18",
-      "album": {
-        "name": "Calidad",
-        "url": "https://open.spotify.com/album/2ZaaYylAxHJ6sPJe9mHwHb"
-      },
-      "artists": [
-        {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        },
-        {
-          "name": "Luis Mexia",
-          "url": "https://open.spotify.com/artist/4IEP61D1hdCPQVzAYzP9VC"
-        }
-      ],
-      "duration_ms": 170053,
-      "name": "Calidad",
-      "url": "https://open.spotify.com/track/0uBcoM4zxRXk7kmsmxoiFS"
     },
     {
       "added_at": "2022-07-12 16:46:18",
@@ -91,8 +51,8 @@
     {
       "added_at": "2022-07-12 16:46:18",
       "album": {
-        "name": "El Amor No Fue Pa\u00b4 M\u00ed (En Vivo)",
-        "url": "https://open.spotify.com/album/2GmxvaOlvl9OSOW3FnVcbX"
+        "name": "En Tu Perra Vida",
+        "url": "https://open.spotify.com/album/754Bhr4Ck2WcFAvHWlykmp"
       },
       "artists": [
         {
@@ -100,13 +60,13 @@
           "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
         },
         {
-          "name": "Banda Coloso",
-          "url": "https://open.spotify.com/artist/4SmIb5onxiijhyC8BilFED"
+          "name": "Lenin Ram\u00edrez",
+          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
         }
       ],
-      "duration_ms": 226815,
-      "name": "El Amor No Fue Pa\u00b4 M\u00ed - En Vivo",
-      "url": "https://open.spotify.com/track/3dkEwOKhFselY2m22Nj2vi"
+      "duration_ms": 238677,
+      "name": "En Tu Perra Vida",
+      "url": "https://open.spotify.com/track/0ldT3gl7aGNzrJyd4b1CA4"
     },
     {
       "added_at": "2022-07-12 16:46:18",
@@ -127,8 +87,8 @@
     {
       "added_at": "2022-07-12 16:46:18",
       "album": {
-        "name": "El Reemplazo",
-        "url": "https://open.spotify.com/album/0QaYqMY1nTvvKzUOf4F0tu"
+        "name": "El Amor No Fue Pa\u00b4 M\u00ed (En Vivo)",
+        "url": "https://open.spotify.com/album/2GmxvaOlvl9OSOW3FnVcbX"
       },
       "artists": [
         {
@@ -136,19 +96,19 @@
           "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
         },
         {
-          "name": "Banda El Recodo",
-          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
+          "name": "Banda Coloso",
+          "url": "https://open.spotify.com/artist/4SmIb5onxiijhyC8BilFED"
         }
       ],
-      "duration_ms": 235213,
-      "name": "El Reemplazo",
-      "url": "https://open.spotify.com/track/6mVWXZDsMguKrTHfiCyIVu"
+      "duration_ms": 226815,
+      "name": "El Amor No Fue Pa\u00b4 M\u00ed - En Vivo",
+      "url": "https://open.spotify.com/track/3dkEwOKhFselY2m22Nj2vi"
     },
     {
       "added_at": "2022-07-12 16:46:18",
       "album": {
-        "name": "En Tu Perra Vida",
-        "url": "https://open.spotify.com/album/754Bhr4Ck2WcFAvHWlykmp"
+        "name": "Calidad",
+        "url": "https://open.spotify.com/album/2ZaaYylAxHJ6sPJe9mHwHb"
       },
       "artists": [
         {
@@ -156,13 +116,13 @@
           "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
         },
         {
-          "name": "Lenin Ram\u00edrez",
-          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
+          "name": "Luis Mexia",
+          "url": "https://open.spotify.com/artist/4IEP61D1hdCPQVzAYzP9VC"
         }
       ],
-      "duration_ms": 238677,
-      "name": "En Tu Perra Vida",
-      "url": "https://open.spotify.com/track/0ldT3gl7aGNzrJyd4b1CA4"
+      "duration_ms": 170053,
+      "name": "Calidad",
+      "url": "https://open.spotify.com/track/0uBcoM4zxRXk7kmsmxoiFS"
     },
     {
       "added_at": "2022-07-12 16:46:18",
@@ -207,8 +167,8 @@
     {
       "added_at": "2022-07-12 16:46:18",
       "album": {
-        "name": "Fuera de Servicio (En Vivo)",
-        "url": "https://open.spotify.com/album/0FTqYpjo7FxglsdqWNoO0q"
+        "name": "El Reemplazo",
+        "url": "https://open.spotify.com/album/0QaYqMY1nTvvKzUOf4F0tu"
       },
       "artists": [
         {
@@ -216,13 +176,49 @@
           "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
         },
         {
-          "name": "El Fantasma",
-          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
+          "name": "Banda El Recodo",
+          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
         }
       ],
-      "duration_ms": 206506,
-      "name": "Fuera de Servicio - En Vivo",
-      "url": "https://open.spotify.com/track/03XQEYWR7q7aQUGp43Pwah"
+      "duration_ms": 235213,
+      "name": "El Reemplazo",
+      "url": "https://open.spotify.com/track/6mVWXZDsMguKrTHfiCyIVu"
+    },
+    {
+      "added_at": "2022-08-18 19:00:00",
+      "album": {
+        "name": "Alaska",
+        "url": "https://open.spotify.com/album/6un8b7BMCwlYBFxbf3rSnZ"
+      },
+      "artists": [
+        {
+          "name": "Camilo",
+          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
+        },
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        }
+      ],
+      "duration_ms": 241106,
+      "name": "Alaska",
+      "url": "https://open.spotify.com/track/607ZGkxOxHJUVDEU3MZl86"
+    },
+    {
+      "added_at": "2022-07-12 16:46:18",
+      "album": {
+        "name": "El Mundo a Tus Pies",
+        "url": "https://open.spotify.com/album/1l46GFEU94JAnUZfFIcifM"
+      },
+      "artists": [
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        }
+      ],
+      "duration_ms": 176226,
+      "name": "El Mundo a Tus Pies",
+      "url": "https://open.spotify.com/track/4MDLvDUSbL6TEtc12CxNyp"
     },
     {
       "added_at": "2022-07-12 16:46:18",
@@ -267,74 +263,6 @@
     {
       "added_at": "2022-07-12 16:46:18",
       "album": {
-        "name": "El Mundo a Tus Pies",
-        "url": "https://open.spotify.com/album/1l46GFEU94JAnUZfFIcifM"
-      },
-      "artists": [
-        {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        }
-      ],
-      "duration_ms": 176226,
-      "name": "El Mundo a Tus Pies",
-      "url": "https://open.spotify.com/track/4MDLvDUSbL6TEtc12CxNyp"
-    },
-    {
-      "added_at": "2022-07-12 16:46:18",
-      "album": {
-        "name": "El Roto (En Vivo)",
-        "url": "https://open.spotify.com/album/27s5ZMaL6YlRmV1DIeIONb"
-      },
-      "artists": [
-        {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        }
-      ],
-      "duration_ms": 193237,
-      "name": "El Roto - En Vivo",
-      "url": "https://open.spotify.com/track/21bfgzz92T3L96IsFn8Kvy"
-    },
-    {
-      "added_at": "2022-07-12 16:46:18",
-      "album": {
-        "name": "Ya Sup\u00e9rame (En Vivo)",
-        "url": "https://open.spotify.com/album/1Aiov6IELpNAdCHMzbz6Ml"
-      },
-      "artists": [
-        {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        }
-      ],
-      "duration_ms": 189050,
-      "name": "Ya Sup\u00e9rame (En Vivo)",
-      "url": "https://open.spotify.com/track/6HIIuuUIEzH1meVdGbMXyf"
-    },
-    {
-      "added_at": "2022-07-12 16:46:18",
-      "album": {
-        "name": "El T\u00f3xico",
-        "url": "https://open.spotify.com/album/0FbcuKOFPTtZgqAucm31iG"
-      },
-      "artists": [
-        {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        },
-        {
-          "name": "Carin Leon",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        }
-      ],
-      "duration_ms": 179745,
-      "name": "El T\u00f3xico",
-      "url": "https://open.spotify.com/track/7E9GeFGfjXw9LAI4ay6rsw"
-    },
-    {
-      "added_at": "2022-07-12 16:46:18",
-      "album": {
         "name": "Ac\u00e1bame de Matar (Feat. Luis Angel \"El Flaco\")",
         "url": "https://open.spotify.com/album/5gJytBbQyZB1voWvuVk6of"
       },
@@ -351,26 +279,6 @@
       "duration_ms": 214199,
       "name": "Ac\u00e1bame de Matar (Feat. Luis Angel \"El Flaco\")",
       "url": "https://open.spotify.com/track/3Tq17cNZ19NxBlNgLPXx7u"
-    },
-    {
-      "added_at": "2022-07-12 16:46:18",
-      "album": {
-        "name": "Hasta la Miel Amarga (feat. Grupo Firme)",
-        "url": "https://open.spotify.com/album/1un5ATKBBkOD7L9d2e7sUD"
-      },
-      "artists": [
-        {
-          "name": "Luis Angel \"El Flaco\"",
-          "url": "https://open.spotify.com/artist/4kJ2OBSNasUA4yOT5NCfCl"
-        },
-        {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        }
-      ],
-      "duration_ms": 258355,
-      "name": "Hasta la Miel Amarga (feat. Grupo Firme)",
-      "url": "https://open.spotify.com/track/3D3W7rDsuJIAtjInwh6Moc"
     },
     {
       "added_at": "2022-07-12 16:46:18",
@@ -395,6 +303,98 @@
     {
       "added_at": "2022-07-12 16:46:18",
       "album": {
+        "name": "Ya Sup\u00e9rame (En Vivo)",
+        "url": "https://open.spotify.com/album/1Aiov6IELpNAdCHMzbz6Ml"
+      },
+      "artists": [
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        }
+      ],
+      "duration_ms": 189050,
+      "name": "Ya Sup\u00e9rame (En Vivo)",
+      "url": "https://open.spotify.com/track/6HIIuuUIEzH1meVdGbMXyf"
+    },
+    {
+      "added_at": "2022-07-12 16:46:18",
+      "album": {
+        "name": "Fuera de Servicio (En Vivo)",
+        "url": "https://open.spotify.com/album/0FTqYpjo7FxglsdqWNoO0q"
+      },
+      "artists": [
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        },
+        {
+          "name": "El Fantasma",
+          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
+        }
+      ],
+      "duration_ms": 206506,
+      "name": "Fuera de Servicio - En Vivo",
+      "url": "https://open.spotify.com/track/03XQEYWR7q7aQUGp43Pwah"
+    },
+    {
+      "added_at": "2022-07-12 16:46:18",
+      "album": {
+        "name": "El Roto (En Vivo)",
+        "url": "https://open.spotify.com/album/27s5ZMaL6YlRmV1DIeIONb"
+      },
+      "artists": [
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        }
+      ],
+      "duration_ms": 193237,
+      "name": "El Roto - En Vivo",
+      "url": "https://open.spotify.com/track/21bfgzz92T3L96IsFn8Kvy"
+    },
+    {
+      "added_at": "2022-07-12 16:46:18",
+      "album": {
+        "name": "El T\u00f3xico",
+        "url": "https://open.spotify.com/album/0FbcuKOFPTtZgqAucm31iG"
+      },
+      "artists": [
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        },
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "duration_ms": 179745,
+      "name": "El T\u00f3xico",
+      "url": "https://open.spotify.com/track/7E9GeFGfjXw9LAI4ay6rsw"
+    },
+    {
+      "added_at": "2022-07-12 16:46:18",
+      "album": {
+        "name": "Hasta la Miel Amarga (feat. Grupo Firme)",
+        "url": "https://open.spotify.com/album/1un5ATKBBkOD7L9d2e7sUD"
+      },
+      "artists": [
+        {
+          "name": "Luis Angel \"El Flaco\"",
+          "url": "https://open.spotify.com/artist/4kJ2OBSNasUA4yOT5NCfCl"
+        },
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        }
+      ],
+      "duration_ms": 258355,
+      "name": "Hasta la Miel Amarga (feat. Grupo Firme)",
+      "url": "https://open.spotify.com/track/3D3W7rDsuJIAtjInwh6Moc"
+    },
+    {
+      "added_at": "2022-07-12 16:46:18",
+      "album": {
         "name": "Gracias (En Vivo)",
         "url": "https://open.spotify.com/album/1J5sBLRkJnpnXOYK31M2ad"
       },
@@ -411,26 +411,6 @@
       "duration_ms": 235221,
       "name": "Gracias - En Vivo",
       "url": "https://open.spotify.com/track/2XlGKZNMkRKvEJsbwQ6MCl"
-    },
-    {
-      "added_at": "2022-07-12 16:46:18",
-      "album": {
-        "name": "El G\u00fcero (Feat. Marca MP)",
-        "url": "https://open.spotify.com/album/6JB7kAukHIaovbGdgkvCfI"
-      },
-      "artists": [
-        {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        },
-        {
-          "name": "Marca MP",
-          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
-        }
-      ],
-      "duration_ms": 213254,
-      "name": "El G\u00fcero (Feat. Marca MP)",
-      "url": "https://open.spotify.com/track/2MeEuwplwbbjZ7hxRI6viw"
     },
     {
       "added_at": "2022-07-12 16:46:18",
@@ -487,6 +467,26 @@
     {
       "added_at": "2022-07-12 16:46:18",
       "album": {
+        "name": "El G\u00fcero (Feat. Marca MP)",
+        "url": "https://open.spotify.com/album/6JB7kAukHIaovbGdgkvCfI"
+      },
+      "artists": [
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        },
+        {
+          "name": "Marca MP",
+          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
+        }
+      ],
+      "duration_ms": 213254,
+      "name": "El G\u00fcero (Feat. Marca MP)",
+      "url": "https://open.spotify.com/track/2MeEuwplwbbjZ7hxRI6viw"
+    },
+    {
+      "added_at": "2022-07-12 16:46:18",
+      "album": {
         "name": "Decide T\u00fa",
         "url": "https://open.spotify.com/album/3xQxAY9NIQsUUocYxGWxcW"
       },
@@ -503,22 +503,6 @@
       "duration_ms": 232611,
       "name": "Decide T\u00fa",
       "url": "https://open.spotify.com/track/1BzsZa83qlhgv8hyt1UtWc"
-    },
-    {
-      "added_at": "2022-07-12 16:46:18",
-      "album": {
-        "name": "Enfiestados y Amanecidos",
-        "url": "https://open.spotify.com/album/2VIflon8rCV9ME8mY2LFR8"
-      },
-      "artists": [
-        {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        }
-      ],
-      "duration_ms": 147875,
-      "name": "Algo Tranki",
-      "url": "https://open.spotify.com/track/0GL5Hf91WU1nHpkBD748cd"
     },
     {
       "added_at": "2022-07-12 16:46:18",
@@ -575,18 +559,22 @@
     {
       "added_at": "2022-07-12 16:46:18",
       "album": {
-        "name": "La Estoy Pasando Mal",
-        "url": "https://open.spotify.com/album/2vaYWR9abky08e59kiZEOF"
+        "name": "En Realidad (En Vivo)",
+        "url": "https://open.spotify.com/album/4FEP3Mcoimrhbv0o7Oe34u"
       },
       "artists": [
         {
           "name": "Grupo Firme",
           "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        },
+        {
+          "name": "Banda Coloso",
+          "url": "https://open.spotify.com/artist/4SmIb5onxiijhyC8BilFED"
         }
       ],
-      "duration_ms": 214445,
-      "name": "La Estoy Pasando Mal",
-      "url": "https://open.spotify.com/track/35aju8GgJmbaMk9zmhNhg4"
+      "duration_ms": 208845,
+      "name": "En Realidad - En Vivo",
+      "url": "https://open.spotify.com/track/5qMcCmuqBDvE6iVxeuqunC"
     },
     {
       "added_at": "2022-07-12 16:46:18",
@@ -603,6 +591,22 @@
       "duration_ms": 206368,
       "name": "Hablemos",
       "url": "https://open.spotify.com/track/5SJZyvGjW0zGdUYIUchHHk"
+    },
+    {
+      "added_at": "2022-07-12 16:46:18",
+      "album": {
+        "name": "La Estoy Pasando Mal",
+        "url": "https://open.spotify.com/album/2vaYWR9abky08e59kiZEOF"
+      },
+      "artists": [
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        }
+      ],
+      "duration_ms": 214445,
+      "name": "La Estoy Pasando Mal",
+      "url": "https://open.spotify.com/track/35aju8GgJmbaMk9zmhNhg4"
     },
     {
       "added_at": "2022-07-12 16:46:18",
@@ -643,22 +647,18 @@
     {
       "added_at": "2022-07-12 16:46:18",
       "album": {
-        "name": "En Realidad (En Vivo)",
-        "url": "https://open.spotify.com/album/4FEP3Mcoimrhbv0o7Oe34u"
+        "name": "Descuide",
+        "url": "https://open.spotify.com/album/28EXFZcrUDheYQcin98jmv"
       },
       "artists": [
         {
           "name": "Grupo Firme",
           "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        },
-        {
-          "name": "Banda Coloso",
-          "url": "https://open.spotify.com/artist/4SmIb5onxiijhyC8BilFED"
         }
       ],
-      "duration_ms": 208845,
-      "name": "En Realidad - En Vivo",
-      "url": "https://open.spotify.com/track/5qMcCmuqBDvE6iVxeuqunC"
+      "duration_ms": 205624,
+      "name": "Descuide",
+      "url": "https://open.spotify.com/track/7APmLuBrYJfp7pnXCYXR4v"
     },
     {
       "added_at": "2022-07-12 16:46:18",
@@ -679,6 +679,58 @@
       "duration_ms": 202021,
       "name": "Se Fue La Pantera (En Vivo)",
       "url": "https://open.spotify.com/track/6Yard5LK4aXEn0kBKtHSob"
+    },
+    {
+      "added_at": "2022-07-12 16:46:18",
+      "album": {
+        "name": "Enfiestados y Amanecidos",
+        "url": "https://open.spotify.com/album/2VIflon8rCV9ME8mY2LFR8"
+      },
+      "artists": [
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        }
+      ],
+      "duration_ms": 147875,
+      "name": "Algo Tranki",
+      "url": "https://open.spotify.com/track/0GL5Hf91WU1nHpkBD748cd"
+    },
+    {
+      "added_at": "2022-07-12 16:46:18",
+      "album": {
+        "name": "Porque Te Quiero",
+        "url": "https://open.spotify.com/album/6OXFXRIMRCHKyUOaujFwbo"
+      },
+      "artists": [
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        },
+        {
+          "name": "Luis Alfonso Partida El Yaki",
+          "url": "https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk"
+        }
+      ],
+      "duration_ms": 229651,
+      "name": "Porque Te Quiero (Feat. Luis Alfonso Partida \"El Yaki\")",
+      "url": "https://open.spotify.com/track/5i4mvYSt8A5tAd1X8wb97g"
+    },
+    {
+      "added_at": "2022-07-12 16:46:18",
+      "album": {
+        "name": "Todos Hablan, Nada Saben (En Vivo)",
+        "url": "https://open.spotify.com/album/2VSqknX0ntFH9Pa84vJc61"
+      },
+      "artists": [
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        }
+      ],
+      "duration_ms": 199253,
+      "name": "Todos Hablan, Nada Saben - En Vivo",
+      "url": "https://open.spotify.com/track/0f8BAWyKFaUMBTqBIy9Fef"
     },
     {
       "added_at": "2022-07-12 16:46:18",
@@ -707,40 +759,8 @@
     {
       "added_at": "2022-07-12 16:46:18",
       "album": {
-        "name": "Todos Hablan, Nada Saben (En Vivo)",
-        "url": "https://open.spotify.com/album/2VSqknX0ntFH9Pa84vJc61"
-      },
-      "artists": [
-        {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        }
-      ],
-      "duration_ms": 199253,
-      "name": "Todos Hablan, Nada Saben - En Vivo",
-      "url": "https://open.spotify.com/track/0f8BAWyKFaUMBTqBIy9Fef"
-    },
-    {
-      "added_at": "2022-07-12 16:46:18",
-      "album": {
-        "name": "Descuide",
-        "url": "https://open.spotify.com/album/28EXFZcrUDheYQcin98jmv"
-      },
-      "artists": [
-        {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        }
-      ],
-      "duration_ms": 205624,
-      "name": "Descuide",
-      "url": "https://open.spotify.com/track/7APmLuBrYJfp7pnXCYXR4v"
-    },
-    {
-      "added_at": "2022-07-12 16:46:18",
-      "album": {
-        "name": "Porque Te Quiero",
-        "url": "https://open.spotify.com/album/6OXFXRIMRCHKyUOaujFwbo"
+        "name": "Nos Divertimos Logrando Lo Imposible",
+        "url": "https://open.spotify.com/album/5zUXAGfz0d2WXpxTeXjVSP"
       },
       "artists": [
         {
@@ -748,13 +768,33 @@
           "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
         },
         {
-          "name": "Luis Alfonso Partida El Yaki",
-          "url": "https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk"
+          "name": "Espinoza Paz",
+          "url": "https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y"
         }
       ],
-      "duration_ms": 229651,
-      "name": "Porque Te Quiero (Feat. Luis Alfonso Partida \"El Yaki\")",
-      "url": "https://open.spotify.com/track/5i4mvYSt8A5tAd1X8wb97g"
+      "duration_ms": 247209,
+      "name": "Cuando Me Ten\u00edas",
+      "url": "https://open.spotify.com/track/4bPKM2jZ9PU1uzANyOC0G7"
+    },
+    {
+      "added_at": "2022-07-12 16:46:18",
+      "album": {
+        "name": "Amor Borrachito",
+        "url": "https://open.spotify.com/album/4V7LGD03uKHxCJrIy6gjOK"
+      },
+      "artists": [
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        },
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        }
+      ],
+      "duration_ms": 175777,
+      "name": "Amor Borrachito",
+      "url": "https://open.spotify.com/track/2yzM8Nq2ykj03M6OGhgLTW"
     },
     {
       "added_at": "2022-07-12 16:46:18",
@@ -795,46 +835,6 @@
     {
       "added_at": "2022-07-12 16:46:18",
       "album": {
-        "name": "Amor Borrachito",
-        "url": "https://open.spotify.com/album/4V7LGD03uKHxCJrIy6gjOK"
-      },
-      "artists": [
-        {
-          "name": "Carin Leon",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        },
-        {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        }
-      ],
-      "duration_ms": 175777,
-      "name": "Amor Borrachito",
-      "url": "https://open.spotify.com/track/2yzM8Nq2ykj03M6OGhgLTW"
-    },
-    {
-      "added_at": "2022-07-12 16:46:18",
-      "album": {
-        "name": "Mi Amor Por Ti (En Vivo)",
-        "url": "https://open.spotify.com/album/2uApDE90u1pYGQvHlkoAyg"
-      },
-      "artists": [
-        {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        },
-        {
-          "name": "Edicion Especial",
-          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
-        }
-      ],
-      "duration_ms": 239695,
-      "name": "Mi Amor Por Ti (En Vivo)",
-      "url": "https://open.spotify.com/track/463qI2v2wPH2OOF5m6J8Gm"
-    },
-    {
-      "added_at": "2022-07-12 16:46:18",
-      "album": {
         "name": "Nos Divertimos Logrando Lo Imposible",
         "url": "https://open.spotify.com/album/5zUXAGfz0d2WXpxTeXjVSP"
       },
@@ -842,31 +842,11 @@
         {
           "name": "Grupo Firme",
           "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        },
-        {
-          "name": "Espinoza Paz",
-          "url": "https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y"
         }
       ],
-      "duration_ms": 247209,
-      "name": "Cuando Me Ten\u00edas",
-      "url": "https://open.spotify.com/track/4bPKM2jZ9PU1uzANyOC0G7"
-    },
-    {
-      "added_at": "2022-07-12 16:46:18",
-      "album": {
-        "name": "Te Hice Mal",
-        "url": "https://open.spotify.com/album/4KfUHdHx3Q0Gze9c2t6WJu"
-      },
-      "artists": [
-        {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        }
-      ],
-      "duration_ms": 261000,
-      "name": "Te Hice Mal",
-      "url": "https://open.spotify.com/track/5WFQckzXtuWnkM5OYV7SA5"
+      "duration_ms": 194538,
+      "name": "Me Gustas",
+      "url": "https://open.spotify.com/track/67FjCsBqtUZLz6JICBZPTf"
     },
     {
       "added_at": "2022-07-12 16:46:18",
@@ -887,22 +867,6 @@
     {
       "added_at": "2022-07-12 16:46:18",
       "album": {
-        "name": "Nos Divertimos Logrando Lo Imposible",
-        "url": "https://open.spotify.com/album/5zUXAGfz0d2WXpxTeXjVSP"
-      },
-      "artists": [
-        {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        }
-      ],
-      "duration_ms": 194538,
-      "name": "Me Gustas",
-      "url": "https://open.spotify.com/track/67FjCsBqtUZLz6JICBZPTf"
-    },
-    {
-      "added_at": "2022-07-12 16:46:18",
-      "album": {
         "name": "Pasado, Presente, Futuro",
         "url": "https://open.spotify.com/album/4Q42ObSABKF4NXlQ5h6Hqi"
       },
@@ -915,74 +879,6 @@
       "duration_ms": 254587,
       "name": "Perd\u00f3name",
       "url": "https://open.spotify.com/track/10W9LKS82T6Y3NaZTdmJfy"
-    },
-    {
-      "added_at": "2022-07-12 16:46:18",
-      "album": {
-        "name": "Enfocado (En Vivo)",
-        "url": "https://open.spotify.com/album/3LZrYqt1zQIJm2VSB5Uj8S"
-      },
-      "artists": [
-        {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        },
-        {
-          "name": "Adrian Chaparro",
-          "url": "https://open.spotify.com/artist/54mMnlc78Gn8CR4MKyPEIE"
-        }
-      ],
-      "duration_ms": 183125,
-      "name": "Enfocado (En Vivo)",
-      "url": "https://open.spotify.com/track/6MdLiuRuuBey2QVeIQXdc6"
-    },
-    {
-      "added_at": "2022-07-12 16:46:18",
-      "album": {
-        "name": "El Barco",
-        "url": "https://open.spotify.com/album/3ZjT0Vfuv3zjAIs2rIfPa8"
-      },
-      "artists": [
-        {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        }
-      ],
-      "duration_ms": 201465,
-      "name": "Loco",
-      "url": "https://open.spotify.com/track/4dWNUUDkYKSnB5HFfgw05S"
-    },
-    {
-      "added_at": "2022-07-12 16:46:18",
-      "album": {
-        "name": "Tusa",
-        "url": "https://open.spotify.com/album/1NAiAWHpl19IT0LheAEESB"
-      },
-      "artists": [
-        {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        }
-      ],
-      "duration_ms": 153962,
-      "name": "Tusa - En Vivo",
-      "url": "https://open.spotify.com/track/3rLogBxZoYL47FlB3TrB5z"
-    },
-    {
-      "added_at": "2022-07-12 16:46:18",
-      "album": {
-        "name": "Enfiestados y Amanecidos",
-        "url": "https://open.spotify.com/album/2VIflon8rCV9ME8mY2LFR8"
-      },
-      "artists": [
-        {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        }
-      ],
-      "duration_ms": 228923,
-      "name": "Efectos del Alcohol",
-      "url": "https://open.spotify.com/track/54BB7C9M1VOMzRd5Uul7Dh"
     },
     {
       "added_at": "2022-07-12 16:46:18",
@@ -1007,22 +903,50 @@
     {
       "added_at": "2022-07-12 16:46:18",
       "album": {
-        "name": "Quiero Pistear (feat. Luis Angel \"El Flaco\")",
-        "url": "https://open.spotify.com/album/4GY3Z4T2qGldfPrvhsg6X9"
+        "name": "Te Hice Mal",
+        "url": "https://open.spotify.com/album/4KfUHdHx3Q0Gze9c2t6WJu"
       },
       "artists": [
         {
           "name": "Grupo Firme",
           "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        },
-        {
-          "name": "Luis Angel \"El Flaco\"",
-          "url": "https://open.spotify.com/artist/4kJ2OBSNasUA4yOT5NCfCl"
         }
       ],
-      "duration_ms": 185357,
-      "name": "Quiero Pistear (feat. Luis Angel \"El Flaco\")",
-      "url": "https://open.spotify.com/track/1kXRRE6pRDBvtdgQuiHzy7"
+      "duration_ms": 261000,
+      "name": "Te Hice Mal",
+      "url": "https://open.spotify.com/track/5WFQckzXtuWnkM5OYV7SA5"
+    },
+    {
+      "added_at": "2022-07-12 16:46:18",
+      "album": {
+        "name": "Enfiestados y Amanecidos",
+        "url": "https://open.spotify.com/album/2VIflon8rCV9ME8mY2LFR8"
+      },
+      "artists": [
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        }
+      ],
+      "duration_ms": 228923,
+      "name": "Efectos del Alcohol",
+      "url": "https://open.spotify.com/track/54BB7C9M1VOMzRd5Uul7Dh"
+    },
+    {
+      "added_at": "2022-07-12 16:46:18",
+      "album": {
+        "name": "El Barco",
+        "url": "https://open.spotify.com/album/3ZjT0Vfuv3zjAIs2rIfPa8"
+      },
+      "artists": [
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        }
+      ],
+      "duration_ms": 201465,
+      "name": "Loco",
+      "url": "https://open.spotify.com/track/4dWNUUDkYKSnB5HFfgw05S"
     },
     {
       "added_at": "2022-07-12 16:46:18",
@@ -1043,8 +967,8 @@
     {
       "added_at": "2022-07-12 16:46:18",
       "album": {
-        "name": "Casi Perfecta",
-        "url": "https://open.spotify.com/album/7pcJSHA6dzjmoUZVoyVuen"
+        "name": "Enfocado (En Vivo)",
+        "url": "https://open.spotify.com/album/3LZrYqt1zQIJm2VSB5Uj8S"
       },
       "artists": [
         {
@@ -1052,13 +976,61 @@
           "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
         },
         {
-          "name": "Mane de la Parra",
-          "url": "https://open.spotify.com/artist/0HADOzU8NWOajMtJvwG4Ck"
+          "name": "Adrian Chaparro",
+          "url": "https://open.spotify.com/artist/54mMnlc78Gn8CR4MKyPEIE"
         }
       ],
-      "duration_ms": 167076,
-      "name": "Casi Perfecta",
-      "url": "https://open.spotify.com/track/11LsnRtCKFgqhQGqnAekFA"
+      "duration_ms": 183125,
+      "name": "Enfocado (En Vivo)",
+      "url": "https://open.spotify.com/track/6MdLiuRuuBey2QVeIQXdc6"
+    },
+    {
+      "added_at": "2022-07-12 16:46:18",
+      "album": {
+        "name": "Tusa",
+        "url": "https://open.spotify.com/album/1NAiAWHpl19IT0LheAEESB"
+      },
+      "artists": [
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        }
+      ],
+      "duration_ms": 153962,
+      "name": "Tusa - En Vivo",
+      "url": "https://open.spotify.com/track/3rLogBxZoYL47FlB3TrB5z"
+    },
+    {
+      "added_at": "2022-07-12 16:46:18",
+      "album": {
+        "name": "La Cajetosa",
+        "url": "https://open.spotify.com/album/64tBOtmmk92n8xRqSm99Gj"
+      },
+      "artists": [
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        }
+      ],
+      "duration_ms": 154048,
+      "name": "La Cajetosa",
+      "url": "https://open.spotify.com/track/0qoFqGPhJ4G1BJ2dEqyKgp"
+    },
+    {
+      "added_at": "2022-07-12 16:46:18",
+      "album": {
+        "name": "Hasta Que un d\u00eda",
+        "url": "https://open.spotify.com/album/6eeRsUeGzjjg0MHek4DmcR"
+      },
+      "artists": [
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        }
+      ],
+      "duration_ms": 170626,
+      "name": "Hasta Que un d\u00eda",
+      "url": "https://open.spotify.com/track/007EFIByaEW4dgEcIbfBg9"
     },
     {
       "added_at": "2022-07-12 16:46:18",
@@ -1083,34 +1055,42 @@
     {
       "added_at": "2022-07-12 16:46:18",
       "album": {
-        "name": "Hasta Que un d\u00eda",
-        "url": "https://open.spotify.com/album/6eeRsUeGzjjg0MHek4DmcR"
+        "name": "Casi Perfecta",
+        "url": "https://open.spotify.com/album/7pcJSHA6dzjmoUZVoyVuen"
       },
       "artists": [
         {
           "name": "Grupo Firme",
           "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        },
+        {
+          "name": "Mane de la Parra",
+          "url": "https://open.spotify.com/artist/0HADOzU8NWOajMtJvwG4Ck"
         }
       ],
-      "duration_ms": 170626,
-      "name": "Hasta Que un d\u00eda",
-      "url": "https://open.spotify.com/track/007EFIByaEW4dgEcIbfBg9"
+      "duration_ms": 167076,
+      "name": "Casi Perfecta",
+      "url": "https://open.spotify.com/track/11LsnRtCKFgqhQGqnAekFA"
     },
     {
       "added_at": "2022-07-12 16:46:18",
       "album": {
-        "name": "La Cajetosa",
-        "url": "https://open.spotify.com/album/64tBOtmmk92n8xRqSm99Gj"
+        "name": "Quiero Pistear (feat. Luis Angel \"El Flaco\")",
+        "url": "https://open.spotify.com/album/4GY3Z4T2qGldfPrvhsg6X9"
       },
       "artists": [
         {
           "name": "Grupo Firme",
           "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        },
+        {
+          "name": "Luis Angel \"El Flaco\"",
+          "url": "https://open.spotify.com/artist/4kJ2OBSNasUA4yOT5NCfCl"
         }
       ],
-      "duration_ms": 154048,
-      "name": "La Cajetosa",
-      "url": "https://open.spotify.com/track/0qoFqGPhJ4G1BJ2dEqyKgp"
+      "duration_ms": 185357,
+      "name": "Quiero Pistear (feat. Luis Angel \"El Flaco\")",
+      "url": "https://open.spotify.com/track/1kXRRE6pRDBvtdgQuiHzy7"
     },
     {
       "added_at": "2022-07-12 16:46:18",
@@ -1151,22 +1131,6 @@
       "duration_ms": 283217,
       "name": "Se Despide Juanito (En Vivo)",
       "url": "https://open.spotify.com/track/05UtcKKY8rtzIUwa8JhaAd"
-    },
-    {
-      "added_at": "2022-07-12 16:46:18",
-      "album": {
-        "name": "Enloqu\u00e9ceme",
-        "url": "https://open.spotify.com/album/4aMNVrwGdzxra0YjpiKrRo"
-      },
-      "artists": [
-        {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        }
-      ],
-      "duration_ms": 232433,
-      "name": "Enloqu\u00e9ceme",
-      "url": "https://open.spotify.com/track/1Z88pFqoxXfFJ519ZR7rOe"
     },
     {
       "added_at": "2022-07-12 16:46:18",
@@ -1215,6 +1179,22 @@
     {
       "added_at": "2022-07-12 16:46:18",
       "album": {
+        "name": "Enloqu\u00e9ceme",
+        "url": "https://open.spotify.com/album/4aMNVrwGdzxra0YjpiKrRo"
+      },
+      "artists": [
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        }
+      ],
+      "duration_ms": 232433,
+      "name": "Enloqu\u00e9ceme",
+      "url": "https://open.spotify.com/track/1Z88pFqoxXfFJ519ZR7rOe"
+    },
+    {
+      "added_at": "2022-07-12 16:46:18",
+      "album": {
         "name": "Don (En Vivo)",
         "url": "https://open.spotify.com/album/1mBLOV4RWG5j012WYoQkoy"
       },
@@ -1231,6 +1211,26 @@
       "duration_ms": 210383,
       "name": "Don (En Vivo)",
       "url": "https://open.spotify.com/track/3T8fM36Q8KLkGlZKVMmy0G"
+    },
+    {
+      "added_at": "2022-07-12 16:46:18",
+      "album": {
+        "name": "Mi Amor Por Ti (En Vivo)",
+        "url": "https://open.spotify.com/album/2uApDE90u1pYGQvHlkoAyg"
+      },
+      "artists": [
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        },
+        {
+          "name": "Edicion Especial",
+          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
+        }
+      ],
+      "duration_ms": 239695,
+      "name": "Mi Amor Por Ti (En Vivo)",
+      "url": "https://open.spotify.com/track/463qI2v2wPH2OOF5m6J8Gm"
     }
   ],
   "unique_name": "This Is Grupo Firme",

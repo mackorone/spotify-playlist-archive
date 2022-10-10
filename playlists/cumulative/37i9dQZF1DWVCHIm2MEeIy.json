@@ -257,7 +257,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 454838,
       "name": "Andromeda",
       "url": "https://open.spotify.com/track/4pB3Uiyv8HbuUAB9YYq7hK"
@@ -1995,7 +1995,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 184320,
       "name": "Human Element",
       "url": "https://open.spotify.com/track/0u2k5ZReAHv0Et3Gu8jqdn"
@@ -2935,7 +2935,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-27",
+      "date_removed": null,
       "duration_ms": 416921,
       "name": "Other Side",
       "url": "https://open.spotify.com/track/6pZVmX53ZAFis8ambncbZj"
@@ -3363,7 +3363,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 446999,
       "name": "Resistance",
       "url": "https://open.spotify.com/track/76TAjkJMvZIjpxWlbRN8sE"
@@ -3509,6 +3509,24 @@
       "duration_ms": 367862,
       "name": "Save The Rave",
       "url": "https://open.spotify.com/track/0F98k4uhiiQhyCMKojTkFB"
+    },
+    {
+      "album": {
+        "name": "Set My Mind Free",
+        "url": "https://open.spotify.com/album/3ecx2vhbNcocjrQ0M74TnO"
+      },
+      "artists": [
+        {
+          "name": "Matt Guy",
+          "url": "https://open.spotify.com/artist/09eFtzPTf7Rbkb1z7n7S5B"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180461,
+      "name": "Set My Mind Free",
+      "url": "https://open.spotify.com/track/6YG9ny9p9PmMjIyJ0B1pVw"
     },
     {
       "album": {
@@ -4349,7 +4367,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-01",
+      "date_removed": null,
       "duration_ms": 226771,
       "name": "VIBIN",
       "url": "https://open.spotify.com/track/3rbG1qQlzkijc5tfGvjNJC"

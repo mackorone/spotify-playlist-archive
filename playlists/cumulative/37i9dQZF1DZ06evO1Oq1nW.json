@@ -19,7 +19,7 @@
       ],
       "date_added": "2022-06-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-30",
+      "date_removed": null,
       "duration_ms": 198733,
       "name": "(They Call Me) Mr. Lucky",
       "url": "https://open.spotify.com/track/3kQ6dKdmI178UNlgf0JWAc"
@@ -229,6 +229,24 @@
       "duration_ms": 315666,
       "name": "Emotionally Yours",
       "url": "https://open.spotify.com/track/1SkVy7i1WQ5QteieGb9qeI"
+    },
+    {
+      "album": {
+        "name": "Serious",
+        "url": "https://open.spotify.com/album/5nZjWXpp6xHMshWatGuHUG"
+      },
+      "artists": [
+        {
+          "name": "The O'Jays",
+          "url": "https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-09",
+      "duration_ms": 406506,
+      "name": "Fading",
+      "url": "https://open.spotify.com/track/1nq2iaxAzhVWeAszQHiJ7R"
     },
     {
       "album": {
@@ -521,7 +539,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-02",
+      "date_removed": null,
       "duration_ms": 269320,
       "name": "Let Life Flow",
       "url": "https://open.spotify.com/track/64tjdNWWJA9RDh9NZGoPU9"
@@ -557,7 +575,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-22",
+      "date_removed": "2022-10-07",
       "duration_ms": 292320,
       "name": "Let Me Touch You",
       "url": "https://open.spotify.com/track/5DqMdR9SmhgTRF0DsRI7fJ"
@@ -737,7 +755,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-01",
+      "date_removed": null,
       "duration_ms": 238533,
       "name": "People Keep Tellin' Me",
       "url": "https://open.spotify.com/track/23zcctQcy5iglNa4W93ChD"
@@ -773,7 +791,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-09",
       "duration_ms": 247066,
       "name": "Put Your Hands Together",
       "url": "https://open.spotify.com/track/57yGqjGKJUIzgKWdIZo9aR"
@@ -827,7 +845,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-09",
       "duration_ms": 577066,
       "name": "Ship Ahoy",
       "url": "https://open.spotify.com/track/5GTd3l7ShrGaziT7kvnNnj"
@@ -935,7 +953,7 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-30",
+      "date_removed": null,
       "duration_ms": 233000,
       "name": "This Air I Breathe",
       "url": "https://open.spotify.com/track/7tVyJAzdKekmH0ChZxHhxB"
@@ -1025,7 +1043,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-09",
       "duration_ms": 318066,
       "name": "When the World's at Peace",
       "url": "https://open.spotify.com/track/5Z52756ttqY4zJMFhK1clR"
@@ -1169,7 +1187,7 @@
       ],
       "date_added": "2022-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-06",
       "duration_ms": 349253,
       "name": "Your True Heart (And Shining Star)",
       "url": "https://open.spotify.com/track/5tJQbWlusbXJkCnSRTTRfH"

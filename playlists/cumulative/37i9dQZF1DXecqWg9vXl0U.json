@@ -98,6 +98,32 @@
     },
     {
       "album": {
+        "name": "A Veces",
+        "url": "https://open.spotify.com/album/5qQHr5uOjIzDqw9WOwkXFr"
+      },
+      "artists": [
+        {
+          "name": "Rayo Ultravioleta",
+          "url": "https://open.spotify.com/artist/7qCyS1SJOxtniq2SuhpHpB"
+        },
+        {
+          "name": "Velero Norte",
+          "url": "https://open.spotify.com/artist/6TBD2rLl4F6tIPF3oO62Ot"
+        },
+        {
+          "name": "Adonai Melod\u00edas",
+          "url": "https://open.spotify.com/artist/5GdCwsX6wfVlTWdv76aUzI"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133316,
+      "name": "A Veces",
+      "url": "https://open.spotify.com/track/1c8OwMD1nzoKnLnxXyaP54"
+    },
+    {
+      "album": {
         "name": "Adentro M\u00edo",
         "url": "https://open.spotify.com/album/4LUtBY7vKqZ8ctSk195AcJ"
       },
@@ -565,6 +591,28 @@
       "duration_ms": 257170,
       "name": "Cosas raras (feat. Pimp Flaco)",
       "url": "https://open.spotify.com/track/6b7U0cQstqjoRLA2Xpd3Dg"
+    },
+    {
+      "album": {
+        "name": "Curriculum Completo",
+        "url": "https://open.spotify.com/album/5k20Vj3lG8aoiFjkuX8NiC"
+      },
+      "artists": [
+        {
+          "name": "Clara Cava",
+          "url": "https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY"
+        },
+        {
+          "name": "Lautaro Lopez",
+          "url": "https://open.spotify.com/artist/4nD4jJ7anYuvuMtM8Wrspz"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145401,
+      "name": "Curriculum Completo",
+      "url": "https://open.spotify.com/track/2hsCy9vR1eAswd4Iuo7qAy"
     },
     {
       "album": {
@@ -1283,7 +1331,7 @@
       ],
       "date_added": "2022-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 313885,
       "name": "Laurel",
       "url": "https://open.spotify.com/track/37YyT8i9em5eFScILi8Pcy"
@@ -1501,6 +1549,24 @@
       "duration_ms": 149900,
       "name": "Me Gustas T\u00fa",
       "url": "https://open.spotify.com/track/5rKuJ17ulyXWrqtLKS4sFM"
+    },
+    {
+      "album": {
+        "name": "me pongo un poco sad",
+        "url": "https://open.spotify.com/album/3SWWEY1GChVLNY4be0j37U"
+      },
+      "artists": [
+        {
+          "name": "tom\u00e1sss",
+          "url": "https://open.spotify.com/artist/1nOrtxkuKfkyRj34uW9bsw"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199357,
+      "name": "me pongo un poco sad",
+      "url": "https://open.spotify.com/track/2DNIlO8K5KAmyTuLuaNBFe"
     },
     {
       "album": {
@@ -2111,7 +2177,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 154440,
       "name": "Perdida En Un Sue\u00f1o",
       "url": "https://open.spotify.com/track/1wRVAinPRWyR67BD7DIlRJ"
@@ -2867,7 +2933,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 256907,
       "name": "Una Sola Vez",
       "url": "https://open.spotify.com/track/6ppst2BmCySRxbPRIVSrfX"

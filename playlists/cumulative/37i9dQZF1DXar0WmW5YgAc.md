@@ -2,7 +2,7 @@
 
 ### [Soundtrack Love Songs](https://open.spotify.com/playlist/37i9dQZF1DXar0WmW5YgAc)
 
-> Love songs from your favorite films!
+> Love songs from your favorite films
 
 119 songs - 8 hr 15 min - [published](https://open.spotify.com/playlist/5n4bAfqXL1AIL7z3Ma3gPK)
 

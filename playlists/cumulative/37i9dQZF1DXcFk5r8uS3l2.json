@@ -767,7 +767,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 210546,
       "name": "Dark Roses (Live From Sunset Sound)",
       "url": "https://open.spotify.com/track/6U685GBNARP2yH1ZIsIui3"
@@ -933,7 +933,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-30",
+      "date_removed": null,
       "duration_ms": 137413,
       "name": "Feels so Bad - Previously Unreleased Take",
       "url": "https://open.spotify.com/track/5cl45ejCEAoCeYzuOr7k1z"
@@ -2934,6 +2934,24 @@
     },
     {
       "album": {
+        "name": "She",
+        "url": "https://open.spotify.com/album/6rVUQtUjLguzMmdCIcy1A4"
+      },
+      "artists": [
+        {
+          "name": "Ash Radford",
+          "url": "https://open.spotify.com/artist/5xbTNkvW7vgjRXPKjwBEyw"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228226,
+      "name": "She",
+      "url": "https://open.spotify.com/track/2QQl8r7xYRQgqRA1UOHjWH"
+    },
+    {
+      "album": {
         "name": "So Far Gone",
         "url": "https://open.spotify.com/album/3EHloWp5pOdn9FE5aqRII4"
       },
@@ -3425,7 +3443,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 215760,
       "name": "The Last Time",
       "url": "https://open.spotify.com/track/7MTUA6kke0Q1p86I2XQL34"

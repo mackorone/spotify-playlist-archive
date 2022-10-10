@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-09",
-  "description": "Digging deep into the history of 10s pop.",
+  "description": "Digging deep into the history of 10s pop. Cover: Ellie Goulding.",
   "name": "Deep Dive: 10s Pop",
   "published_playlist_ids": [
     "4jFBFoNSnmjtPM7QWXc7vG"
@@ -115,7 +115,7 @@
           "url": "https://open.spotify.com/artist/5pXe6yFchq1oyYK3rq2A8i"
         },
         {
-          "name": "SHY Martin",
+          "name": "shy martin",
           "url": "https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM"
         },
         {
@@ -1151,10 +1151,32 @@
       ],
       "date_added": "2021-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-09",
       "duration_ms": 225217,
       "name": "Body on Me (feat. Chris Brown)",
       "url": "https://open.spotify.com/track/3qRHCvn70YpVFFkx3lrAYf"
+    },
+    {
+      "album": {
+        "name": "Body On Me ft. Chris Brown",
+        "url": "https://open.spotify.com/album/4FJK77Oqgnuaz8MMMeJE3f"
+      },
+      "artists": [
+        {
+          "name": "Rita Ora",
+          "url": "https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr"
+        },
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        }
+      ],
+      "date_added": "2022-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225217,
+      "name": "Body On Me ft. Chris Brown",
+      "url": "https://open.spotify.com/track/1Bjpfvw2dhivyludgB0fyt"
     },
     {
       "album": {
@@ -3105,7 +3127,7 @@
       },
       "artists": [
         {
-          "name": "SHY Martin",
+          "name": "shy martin",
           "url": "https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM"
         }
       ],
@@ -3617,7 +3639,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-02",
+      "date_removed": null,
       "duration_ms": 218589,
       "name": "Graffiti",
       "url": "https://open.spotify.com/track/0SOeDDPvWi1gBxwOwIhIw1"
@@ -3653,7 +3675,7 @@
       ],
       "date_added": "2021-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-03",
       "duration_ms": 218589,
       "name": "Graffiti",
       "url": "https://open.spotify.com/track/2tzs8aV8k9xnbAiaHDn4YP"
@@ -6157,7 +6179,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-02",
+      "date_removed": null,
       "duration_ms": 188251,
       "name": "Miracle",
       "url": "https://open.spotify.com/track/2Kc1WhZsBbR2ZLbSyv83hO"
@@ -6193,7 +6215,7 @@
       ],
       "date_added": "2021-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-03",
       "duration_ms": 188251,
       "name": "Miracle",
       "url": "https://open.spotify.com/track/6vgqv2UHRvXopkV9RbG7Wq"

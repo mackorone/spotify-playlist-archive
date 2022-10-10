@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX81zN3B2MJGq.md) - [plain]
 
 > Come on a wild ride through <a href="spotify:artist:4Ws2otunReOa6BbwxxpCt6">Benny Benassi</a>'s hits and selections!
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,092 likes - 15 songs - 1 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,534 likes - 15 songs - 1 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX81zN3B2MJGq.md) - [plain]
 | 4 | [Offshore \- Mixed](https://open.spotify.com/track/1NRojfOQZj4qSj7JY2JsAv) | [Chicane](https://open.spotify.com/artist/5GxyeQagayzZOg4UwffQlD), [AVIRA](https://open.spotify.com/artist/7rznn3BVOuA5jyPB275jmS), [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5) | [Offshore \(Mixed\)](https://open.spotify.com/album/6UnZbqSH5fGNWxmz2SvBPv) | 4:36 |
 | 5 | [Don’t Keep Me Waiting \- Mixed](https://open.spotify.com/track/0nCUZenxG8YFep6v64V9lJ) | [SIDEPIECE](https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk) | [Don’t Keep Me Waiting \(Mixed\)](https://open.spotify.com/album/6bHk1lT7GPemfikep4ATaz) | 3:49 |
 | 6 | [Close To You \(feat\. Domino\) \- Mixed](https://open.spotify.com/track/43LFhLyccR8yvMZWYmTlxn) | [Domino](https://open.spotify.com/artist/2zqeXK0XOiBRC2e6doSIrN), [Constantin](https://open.spotify.com/artist/1bW3e15ewZUHeQkIpgXoxg) | [Close To You \(feat\. Domino\) \[Mixed\]](https://open.spotify.com/album/6aupQgVkaYI4qULb5bnlKI) | 3:07 |
-| 7 | [Escape \(feat\. Hayla\) \- Mixed](https://open.spotify.com/track/0fBVqac8RVkQbGrGBls3gI) | [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1), [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx), [Kx5](https://open.spotify.com/artist/2avRYQUWQpIkzJOEkf0MdY), [Hayla](https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc) | [Escape \(feat\. Hayla\) \[Mixed\]](https://open.spotify.com/album/7HJe31bY6MogRfAfIh5pMp) | 3:50 |
+| 7 | [Escape \- Mixed](https://open.spotify.com/track/4RPOlgEveNyRRHiOeF5qbX) | [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1), [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx), [Kx5](https://open.spotify.com/artist/2avRYQUWQpIkzJOEkf0MdY), [Hayla](https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc) | [Escape \(Mixed\)](https://open.spotify.com/album/3eEiA493aA0FlFtm6Av9ZB) | 3:50 |
 | 8 | [I'll Be Your Friend \- Mixed](https://open.spotify.com/track/4U8C7LynsOAhhRC2wgZnNb) | [CeCe Rogers](https://open.spotify.com/artist/2hNpOiBBvdArEJy7ACY4O1), [Benny Benassi](https://open.spotify.com/artist/4Ws2otunReOa6BbwxxpCt6) | [I'll Be Your Friend \(Mixed\)](https://open.spotify.com/album/5wNJu9UqKx1JLFXzKRsVVK) | 3:18 |
 | 9 | [Dance \- Mixed](https://open.spotify.com/track/4Nbwrx3S1a1yWwiJ3KFlkD) | [Zanjma](https://open.spotify.com/artist/53gwozfdRGVTjJapLWJUQy), [Haze\-M](https://open.spotify.com/artist/2bExjraDTchNnGtxECSQSn) | [Dance \(Mixed\)](https://open.spotify.com/album/5GXuqTO1CA5pkCkskGgheD) | 3:52 |
 | 10 | [Where's Your Head At \- Martin Ikin Remix \- Edit \- Mixed](https://open.spotify.com/track/0JXtaaR6DIysJRaZv9Eyq2) | [Basement Jaxx](https://open.spotify.com/artist/4YrKBkKSVeqDamzBPWVnSJ), [Martin Ikin](https://open.spotify.com/artist/7DhdJhd6DrxeJlUajwttd1) | [Where's Your Head At \- Martin Ikin Remix \- Edit \(Mixed\)](https://open.spotify.com/album/6WpK28cpskQHrMDY0sjAEp) | 3:47 |
@@ -24,4 +24,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX81zN3B2MJGq.md) - [plain]
 | 14 | [Sinner \- Mixed](https://open.spotify.com/track/4BU3lzv2Pf64wSCKRPUXUK) | [Bklava](https://open.spotify.com/artist/71t5uC7AYxisT7Z55Y2Kqd), [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J) | [Sinner \(Mixed\)](https://open.spotify.com/album/0yCSB8ISxFGDqT0aT4Xvp7) | 5:01 |
 | 15 | [My Paradise \- Mixed](https://open.spotify.com/track/6BhmPMXeGxuHzC01cpuozC) | [Jamie Jones](https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji) | [My Paradise \(Mixed\)](https://open.spotify.com/album/42B9prasHTb18UosuK4J6x) | 7:07 |
 
-Snapshot ID: `MTY2MzU3NjI1OCwwMDAwMDAwMDRjYmJiODAxZjgyYTU5ZGQ3MzY0NjUxM2ZhZmMzYzJk`
+Snapshot ID: `MTY2NTA3OTQzNCwwMDAwMDAwMGI5ODVlMzNlYThkNDdiNDM2MDYwNTQxZDdjNzBiYjI3`

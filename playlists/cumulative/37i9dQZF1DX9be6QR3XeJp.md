@@ -2,9 +2,9 @@
 
 ### [RADAR: First Listen](https://open.spotify.com/playlist/37i9dQZF1DX9be6QR3XeJp)
 
-> Discover your new favourite artists\. Cover: Shygirl
+> Discover your new favourite artists\. Cover: Sfven
 
-144 songs - 7 hr 58 min - [published](https://open.spotify.com/playlist/6qn9QC3gawWvZcEMTsuVpt)
+146 songs - 8 hr 4 min - [published](https://open.spotify.com/playlist/6qn9QC3gawWvZcEMTsuVpt)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,7 +62,8 @@
 | [HEART ATTACK](https://open.spotify.com/track/15w5MdxTlGiaeiaYiC821r) | [Alex Gough](https://open.spotify.com/artist/1rNNeas60ogZm9uhv1VZOh) | [HEART ATTACK](https://open.spotify.com/album/1ttzoKE3qsZqoQ20Acc2qN) | 3:02 | 2022-02-18 |  |
 | [Hold Me](https://open.spotify.com/track/2FyKNGjjdGFY26MODQcR8s) | [shiv](https://open.spotify.com/artist/5rxxzsO9zojzg0FfWVmIv7) | [Hold Me](https://open.spotify.com/album/1lPP40l172ZtM0JK0wrfbC) | 3:34 | 2022-02-18 |  |
 | [Hotel Amour](https://open.spotify.com/track/46jFeLj6khIo9v5RJTpdPO) | [Tara Lily](https://open.spotify.com/artist/1bt3qLrv0clLAZStcQf4zy) | [Hotel Amour](https://open.spotify.com/album/2o0zdg8tAFcj8dN6cbjN1P) | 2:33 | 2022-08-18 |  |
-| [Hungover](https://open.spotify.com/track/58z2lQaugyYqDausYuYvev) | [Eloise](https://open.spotify.com/artist/7LlIWfvgWlDBXfxCvCFbuC) | [Somewhere In\-Between](https://open.spotify.com/album/6rV900qbJeP9I3QwrZMfsO) | 3:36 | 2022-07-28 |  |
+| [Hungover](https://open.spotify.com/track/2pHEFGVwMMcSDIVQ15aMMY) | [Eloise](https://open.spotify.com/artist/7LlIWfvgWlDBXfxCvCFbuC) | [Somewhere In\-Between](https://open.spotify.com/album/2ZM9VkZ1rsJsKgwW1V99Ju) | 3:36 | 2022-09-22 |  |
+| [Hungover](https://open.spotify.com/track/58z2lQaugyYqDausYuYvev) | [Eloise](https://open.spotify.com/artist/7LlIWfvgWlDBXfxCvCFbuC) | [Somewhere In\-Between](https://open.spotify.com/album/6rV900qbJeP9I3QwrZMfsO) | 3:36 | 2022-07-28 | 2022-10-06 |
 | [Hungover](https://open.spotify.com/track/70JprBohaP4XFM1a9qgeUZ) | [Eloise](https://open.spotify.com/artist/7LlIWfvgWlDBXfxCvCFbuC) | [Hungover](https://open.spotify.com/album/18OwIh08SEdS09STX6cys3) | 3:36 | 2022-02-18 | 2022-07-29 |
 | [I Don't Want Your Money](https://open.spotify.com/track/1a2fG9pKo7jR6Fot0GJQM1) | [Mae Muller](https://open.spotify.com/artist/1BEUkE2CSUgHTLSBMZdnFB) | [I Don't Want Your Money](https://open.spotify.com/album/5rm8vpCa1QCUdKErG4Y3a6) | 3:00 | 2022-02-18 |  |
 | [I Like Me](https://open.spotify.com/track/1Z8d3f6vuedyPzrfPuA5Yl) | [dexter](https://open.spotify.com/artist/3bAdh9KH0kxlwrfz7Uh5Aa) | [I Do Love a Good Sandwich](https://open.spotify.com/album/2mYyy4WDJ0wegNinX4I3i8) | 2:30 | 2022-07-28 |  |
@@ -79,6 +80,7 @@
 | [L.S.O.M](https://open.spotify.com/track/6kwQLsUX8402NQNH0OCSko) | [Nino SLG](https://open.spotify.com/artist/6OwZwBy6DBYq9vVINyAhGe) | [State Of Mind](https://open.spotify.com/album/5JgqSIyBUAqyiCRJ3Qu2Ff) | 3:08 | 2022-02-18 |  |
 | [Last Before Lights](https://open.spotify.com/track/4XJzx9heqQe10RmwHRVYIl) | [Anz](https://open.spotify.com/artist/1Ysz8yMgr4g1Ol3l1m3yOt) | [All Hours](https://open.spotify.com/album/3IR4b0tGlu8yYzHFix9TwN) | 6:06 | 2022-02-18 |  |
 | [Leave](https://open.spotify.com/track/6XxLyQcf5medRSvuMo2B50) | [Bklava](https://open.spotify.com/artist/71t5uC7AYxisT7Z55Y2Kqd) | [Autonomy EP](https://open.spotify.com/album/4WvieX96tzcCZlGI8CEDdW) | 2:57 | 2022-02-18 |  |
+| [little things](https://open.spotify.com/track/01m94gvzukbNDEZGjjhx4R) | [Sfven](https://open.spotify.com/artist/77NQclqFwTZe98FzGpHsIb) | [little things](https://open.spotify.com/album/4VUImLdCRQZ7lDm8gqNrDL) | 2:45 | 2022-10-06 |  |
 | [LOCK OFF](https://open.spotify.com/track/75a2Fusn6ySL6yVACqYmp9) | [ShaSimone](https://open.spotify.com/artist/0R9Z8Eu8CF5KN4zLJSRFJw) | [LOCK OFF](https://open.spotify.com/album/6r7d0q8bj7YdOVp5ZgkteW) | 2:24 | 2022-04-28 |  |
 | [Lost in Therapy](https://open.spotify.com/track/0mbANhAzETyMsFjUhUOmlo) | [Rushes](https://open.spotify.com/artist/7uC2mHk7XiLKrePh3kiDlN) | [Glowchild](https://open.spotify.com/album/5HR3Q9Vg5xvAiRnpgWWgPG) | 3:39 | 2022-02-18 |  |
 | [Lost Myself Again](https://open.spotify.com/track/1uRkLJG9sdMFIB8Hb18uGx) | [JADED](https://open.spotify.com/artist/6tCJN1fQNdFCEaOa8Da9Wf) | [Lost Myself Again](https://open.spotify.com/album/1h5Xisd09gC9H641NaRwaY) | 2:52 | 2022-02-18 |  |

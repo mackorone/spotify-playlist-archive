@@ -686,6 +686,24 @@
     },
     {
       "album": {
+        "name": "Broken",
+        "url": "https://open.spotify.com/album/4BQbbtC6O1tYPVN4IZjOKW"
+      },
+      "artists": [
+        {
+          "name": "WHITE SURF!",
+          "url": "https://open.spotify.com/artist/507VXioEUYbyb6NXATi8Cl"
+        }
+      ],
+      "date_added": "2022-10-04",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-07",
+      "duration_ms": 241373,
+      "name": "Broken",
+      "url": "https://open.spotify.com/track/5iueD90uxIah1pCKFTRLPW"
+    },
+    {
+      "album": {
         "name": "The Visible One & The Invisible One",
         "url": "https://open.spotify.com/album/6tX37Pzb9Xa9Z7coSVxVN6"
       },
@@ -1893,7 +1911,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-05",
       "duration_ms": 190164,
       "name": "HATE",
       "url": "https://open.spotify.com/track/4oe6XEilgvCRpRr2WZfhcN"
@@ -2301,6 +2319,24 @@
       "duration_ms": 119000,
       "name": "INVITATION",
       "url": "https://open.spotify.com/track/5UeAFjIxgay5XnbfhaJ0hq"
+    },
+    {
+      "album": {
+        "name": "It's a Wonderful Life! ~Heat Up Theme ~ .",
+        "url": "https://open.spotify.com/album/5cV5NuuUhNhhQoCYIRj3SH"
+      },
+      "artists": [
+        {
+          "name": "175R",
+          "url": "https://open.spotify.com/artist/40y1P1mpPSpiRxL5LDv6aI"
+        }
+      ],
+      "date_added": "2022-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208772,
+      "name": "It's a Wonderful Life! ~Heat Up Theme ~ .",
+      "url": "https://open.spotify.com/track/5k4vMqDvrkMq4roJ1CEcQ5"
     },
     {
       "album": {

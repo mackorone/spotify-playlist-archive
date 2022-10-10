@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5sFZ3M4gXeYScR9VJTyBh2.md) - [plain]
 
 > You can't win 'em all\. Drown your sorrows with a cold brew and this drinking playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 609 likes - 23 songs - 1 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 608 likes - 23 songs - 1 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,12 +1,12 @@
 {
   "description": "Blues with a British flavor. Cover: Jeff Beck",
-  "num_followers": 101680,
+  "num_followers": 102132,
   "original_name": "Brit-Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzMwMDg2MCwwMDAwMDAwMDYzOTIxODI1NjM5NjM2ZTIwZjdlZjBkZGNjODBmNWY0",
+  "snapshot_id": "MTY2MzMwMDg2MCwwMDAwMDAwMGE3Y2FkNjQzYzRmMWJiZWU4ZmQ5NjU4ZDgzZTIzNDQz",
   "tracks": [
     {
       "added_at": "2021-04-22 22:35:02",
@@ -239,22 +239,6 @@
     {
       "added_at": "2021-04-22 22:35:02",
       "album": {
-        "name": "Who Do You Love - The Anthology",
-        "url": "https://open.spotify.com/album/5k8WOyyBWIkB2egLehwOPb"
-      },
-      "artists": [
-        {
-          "name": "Juicy Lucy",
-          "url": "https://open.spotify.com/artist/7pngx7BrbiM6QFuaHyw0RY"
-        }
-      ],
-      "duration_ms": 180146,
-      "name": "Who Do You Love?",
-      "url": "https://open.spotify.com/track/7bX0AR2q50IfDu0TnmTdwP"
-    },
-    {
-      "added_at": "2021-04-22 22:35:02",
-      "album": {
         "name": "With A Little Help From My Friends",
         "url": "https://open.spotify.com/album/74sIm8QdXqFwYeDS7OfYVw"
       },
@@ -271,18 +255,34 @@
     {
       "added_at": "2021-04-22 22:35:02",
       "album": {
-        "name": "In the Skies",
-        "url": "https://open.spotify.com/album/2lN1smqF0snKbzvR6ZY7FJ"
+        "name": "Who Do You Love - The Anthology",
+        "url": "https://open.spotify.com/album/5k8WOyyBWIkB2egLehwOPb"
       },
       "artists": [
         {
-          "name": "Peter Green",
-          "url": "https://open.spotify.com/artist/3y1DgnVXqckGJrbwOKchdU"
+          "name": "Juicy Lucy",
+          "url": "https://open.spotify.com/artist/7pngx7BrbiM6QFuaHyw0RY"
         }
       ],
-      "duration_ms": 229000,
-      "name": "In the Skies",
-      "url": "https://open.spotify.com/track/526nHQfF4e5fqr6I2WwyVE"
+      "duration_ms": 180146,
+      "name": "Who Do You Love?",
+      "url": "https://open.spotify.com/track/7bX0AR2q50IfDu0TnmTdwP"
+    },
+    {
+      "added_at": "2021-04-22 22:35:02",
+      "album": {
+        "name": "Tons Of Sobs",
+        "url": "https://open.spotify.com/album/3h2uQXJFhgBTVQpZWfXKi9"
+      },
+      "artists": [
+        {
+          "name": "Free",
+          "url": "https://open.spotify.com/artist/2e53aHBQdCMKWqHDuyJsjC"
+        }
+      ],
+      "duration_ms": 210426,
+      "name": "Walk In My Shadow",
+      "url": "https://open.spotify.com/track/6URu54HPMyL9SjnzXn607m"
     },
     {
       "added_at": "2021-04-22 22:35:02",
@@ -303,6 +303,38 @@
     {
       "added_at": "2021-04-22 22:35:02",
       "album": {
+        "name": "Street Corner Talking",
+        "url": "https://open.spotify.com/album/5oq20r8iNOO9fpw8R2h3vE"
+      },
+      "artists": [
+        {
+          "name": "Savoy Brown",
+          "url": "https://open.spotify.com/artist/17obwOahRWI121iMUZznh2"
+        }
+      ],
+      "duration_ms": 323733,
+      "name": "Tell Mama",
+      "url": "https://open.spotify.com/track/53g0wWZkXPiQPjqVuZ5TFS"
+    },
+    {
+      "added_at": "2021-04-22 22:35:02",
+      "album": {
+        "name": "In the Skies",
+        "url": "https://open.spotify.com/album/2lN1smqF0snKbzvR6ZY7FJ"
+      },
+      "artists": [
+        {
+          "name": "Peter Green",
+          "url": "https://open.spotify.com/artist/3y1DgnVXqckGJrbwOKchdU"
+        }
+      ],
+      "duration_ms": 229000,
+      "name": "In the Skies",
+      "url": "https://open.spotify.com/track/526nHQfF4e5fqr6I2WwyVE"
+    },
+    {
+      "added_at": "2021-04-22 22:35:02",
+      "album": {
         "name": "Boneyard",
         "url": "https://open.spotify.com/album/6PAu4B2YSVrbCzELEhyAmU"
       },
@@ -315,22 +347,6 @@
       "duration_ms": 200000,
       "name": "Boneyard - Edit",
       "url": "https://open.spotify.com/track/1zHHwTIloBthaYONQX2TZ0"
-    },
-    {
-      "added_at": "2021-04-22 22:35:02",
-      "album": {
-        "name": "Tons Of Sobs",
-        "url": "https://open.spotify.com/album/3h2uQXJFhgBTVQpZWfXKi9"
-      },
-      "artists": [
-        {
-          "name": "Free",
-          "url": "https://open.spotify.com/artist/2e53aHBQdCMKWqHDuyJsjC"
-        }
-      ],
-      "duration_ms": 210426,
-      "name": "Walk In My Shadow",
-      "url": "https://open.spotify.com/track/6URu54HPMyL9SjnzXn607m"
     },
     {
       "added_at": "2021-04-22 22:35:02",
@@ -363,22 +379,6 @@
       "duration_ms": 323733,
       "name": "(I Know) I'm Losing You",
       "url": "https://open.spotify.com/track/7s7ylhLGL0sV6TU9bzpN5S"
-    },
-    {
-      "added_at": "2021-04-22 22:35:02",
-      "album": {
-        "name": "Street Corner Talking",
-        "url": "https://open.spotify.com/album/5oq20r8iNOO9fpw8R2h3vE"
-      },
-      "artists": [
-        {
-          "name": "Savoy Brown",
-          "url": "https://open.spotify.com/artist/17obwOahRWI121iMUZznh2"
-        }
-      ],
-      "duration_ms": 323733,
-      "name": "Tell Mama",
-      "url": "https://open.spotify.com/track/53g0wWZkXPiQPjqVuZ5TFS"
     },
     {
       "added_at": "2022-03-25 04:01:00",
@@ -421,20 +421,20 @@
       "url": "https://open.spotify.com/track/1RzvCKDGLcPaz9jEpsADWZ"
     },
     {
-      "added_at": "2022-09-09 04:01:00",
+      "added_at": "2021-04-22 22:35:02",
       "album": {
-        "name": "Deuce (50th Anniversary)",
-        "url": "https://open.spotify.com/album/5OL57ObDW2DkOHQp0jQDeX"
+        "name": "Free",
+        "url": "https://open.spotify.com/album/2yZXtlCUGjaOYBGc9qqeay"
       },
       "artists": [
         {
-          "name": "Rory Gallagher",
-          "url": "https://open.spotify.com/artist/1kcWyDvrlPUbyxkIoM6pAV"
+          "name": "Free",
+          "url": "https://open.spotify.com/artist/2e53aHBQdCMKWqHDuyJsjC"
         }
       ],
-      "duration_ms": 334000,
-      "name": "In Your Town - Alternate Take 3",
-      "url": "https://open.spotify.com/track/31qFaijhaTMs3Xe0pzq0Bl"
+      "duration_ms": 215626,
+      "name": "Songs Of Yesterday",
+      "url": "https://open.spotify.com/track/7jYXoudEWfERVDFZHM8Nfw"
     },
     {
       "added_at": "2021-04-22 22:35:02",
@@ -451,22 +451,6 @@
       "duration_ms": 330400,
       "name": "I Woke up This Morning",
       "url": "https://open.spotify.com/track/20yxud4lZiqNzkreGyliiA"
-    },
-    {
-      "added_at": "2021-04-22 22:35:02",
-      "album": {
-        "name": "Free",
-        "url": "https://open.spotify.com/album/2yZXtlCUGjaOYBGc9qqeay"
-      },
-      "artists": [
-        {
-          "name": "Free",
-          "url": "https://open.spotify.com/artist/2e53aHBQdCMKWqHDuyJsjC"
-        }
-      ],
-      "duration_ms": 215626,
-      "name": "Songs Of Yesterday",
-      "url": "https://open.spotify.com/track/7jYXoudEWfERVDFZHM8Nfw"
     },
     {
       "added_at": "2021-04-22 22:35:02",
@@ -503,6 +487,22 @@
     {
       "added_at": "2021-04-22 22:35:02",
       "album": {
+        "name": "On The Boards",
+        "url": "https://open.spotify.com/album/6UP7rSugk9wAcMYnqZ6Ti8"
+      },
+      "artists": [
+        {
+          "name": "Taste",
+          "url": "https://open.spotify.com/artist/4Se7TFuKKQVCzttyri6bg3"
+        }
+      ],
+      "duration_ms": 216426,
+      "name": "Railway And Gun",
+      "url": "https://open.spotify.com/track/0T7D44xh8oCPLYDfi8HIo7"
+    },
+    {
+      "added_at": "2021-04-22 22:35:02",
+      "album": {
         "name": "Joe Cocker!",
         "url": "https://open.spotify.com/album/3MoIn4co8ZN5vhLNekUqnc"
       },
@@ -515,22 +515,6 @@
       "duration_ms": 170160,
       "name": "Delta Lady",
       "url": "https://open.spotify.com/track/0gHjMu0zgdBA0GcaA6B6x0"
-    },
-    {
-      "added_at": "2021-04-22 22:35:02",
-      "album": {
-        "name": "Parachute",
-        "url": "https://open.spotify.com/album/1mz6AZJZanmgynkVQgflMK"
-      },
-      "artists": [
-        {
-          "name": "The Pretty Things",
-          "url": "https://open.spotify.com/artist/5U16QlMnlSAhkQxBZpLyLO"
-        }
-      ],
-      "duration_ms": 388200,
-      "name": "Cries from the Midnight Circus",
-      "url": "https://open.spotify.com/track/52Fn9DRxCDZlcjZXXxxqT5"
     },
     {
       "added_at": "2021-04-22 22:35:02",
@@ -553,6 +537,38 @@
       "url": "https://open.spotify.com/track/4jb8VQ2XbpXf8doWXUJU29"
     },
     {
+      "added_at": "2022-09-09 04:01:00",
+      "album": {
+        "name": "Deuce (50th Anniversary)",
+        "url": "https://open.spotify.com/album/4aCigoJ1Vh797W4FaPWIkU"
+      },
+      "artists": [
+        {
+          "name": "Rory Gallagher",
+          "url": "https://open.spotify.com/artist/1kcWyDvrlPUbyxkIoM6pAV"
+        }
+      ],
+      "duration_ms": 334000,
+      "name": "In Your Town - Alternate Take 3",
+      "url": "https://open.spotify.com/track/29x3HEIlwM6qn6dEQgRKRa"
+    },
+    {
+      "added_at": "2021-04-22 22:35:02",
+      "album": {
+        "name": "Parachute",
+        "url": "https://open.spotify.com/album/1mz6AZJZanmgynkVQgflMK"
+      },
+      "artists": [
+        {
+          "name": "The Pretty Things",
+          "url": "https://open.spotify.com/artist/5U16QlMnlSAhkQxBZpLyLO"
+        }
+      ],
+      "duration_ms": 388200,
+      "name": "Cries from the Midnight Circus",
+      "url": "https://open.spotify.com/track/52Fn9DRxCDZlcjZXXxxqT5"
+    },
+    {
       "added_at": "2021-04-22 22:35:02",
       "album": {
         "name": "Blues Helping",
@@ -567,22 +583,6 @@
       "duration_ms": 310360,
       "name": "3 O'Clock Blues - 1999 RemasterStereo",
       "url": "https://open.spotify.com/track/41849X1PrqMv0elH2prPWp"
-    },
-    {
-      "added_at": "2021-04-22 22:35:02",
-      "album": {
-        "name": "On The Boards",
-        "url": "https://open.spotify.com/album/6UP7rSugk9wAcMYnqZ6Ti8"
-      },
-      "artists": [
-        {
-          "name": "Taste",
-          "url": "https://open.spotify.com/artist/4Se7TFuKKQVCzttyri6bg3"
-        }
-      ],
-      "duration_ms": 216426,
-      "name": "Railway And Gun",
-      "url": "https://open.spotify.com/track/0T7D44xh8oCPLYDfi8HIo7"
     },
     {
       "added_at": "2022-03-25 04:01:00",
@@ -633,6 +633,22 @@
       "url": "https://open.spotify.com/track/3AaXHBFpwXWmtg3kcfuwhQ"
     },
     {
+      "added_at": "2021-04-22 22:35:02",
+      "album": {
+        "name": "Mk. II (Remastered)",
+        "url": "https://open.spotify.com/album/1BSUQlD675LWJVS4owvcQn"
+      },
+      "artists": [
+        {
+          "name": "Steamhammer",
+          "url": "https://open.spotify.com/artist/78sxSGdMQas5prtm6LZXyj"
+        }
+      ],
+      "duration_ms": 295213,
+      "name": "Contemporary Chick Con Song - Remastered",
+      "url": "https://open.spotify.com/track/0ejMOOcG8JLEum6LfoPVtl"
+    },
+    {
       "added_at": "2022-03-25 04:01:00",
       "album": {
         "name": "Precious Little",
@@ -651,22 +667,6 @@
     {
       "added_at": "2021-04-22 22:35:02",
       "album": {
-        "name": "Mk. II (Remastered)",
-        "url": "https://open.spotify.com/album/1BSUQlD675LWJVS4owvcQn"
-      },
-      "artists": [
-        {
-          "name": "Steamhammer",
-          "url": "https://open.spotify.com/artist/78sxSGdMQas5prtm6LZXyj"
-        }
-      ],
-      "duration_ms": 295213,
-      "name": "Contemporary Chick Con Song - Remastered",
-      "url": "https://open.spotify.com/track/0ejMOOcG8JLEum6LfoPVtl"
-    },
-    {
-      "added_at": "2021-04-22 22:35:02",
-      "album": {
         "name": "The Yardbirds Story - Pt. 3 - 1965/66 - Big Hits & America Calling",
         "url": "https://open.spotify.com/album/0lYmtEuL0fLXPP4XKr5O8K"
       },
@@ -679,54 +679,6 @@
       "duration_ms": 208493,
       "name": "The Train Kept A-Rollin'",
       "url": "https://open.spotify.com/track/6pW2lKORQaIC6JR4qBNG9e"
-    },
-    {
-      "added_at": "2021-04-22 22:35:02",
-      "album": {
-        "name": "Pigthology",
-        "url": "https://open.spotify.com/album/3niZZYiT58YjUbT4roGEli"
-      },
-      "artists": [
-        {
-          "name": "Blodwyn Pig",
-          "url": "https://open.spotify.com/artist/0O9Mz12rueCsrgUqItvvnw"
-        }
-      ],
-      "duration_ms": 202760,
-      "name": "It's Only Love",
-      "url": "https://open.spotify.com/track/4N5FQb7LHkSP2tMHdv9rFQ"
-    },
-    {
-      "added_at": "2022-03-25 04:01:00",
-      "album": {
-        "name": "Home",
-        "url": "https://open.spotify.com/album/46jRgQN63M7lI9PphL7R3T"
-      },
-      "artists": [
-        {
-          "name": "Aynsley Lister",
-          "url": "https://open.spotify.com/artist/7hueZY91Csxv57p4KnPVcU"
-        }
-      ],
-      "duration_ms": 391560,
-      "name": "Home",
-      "url": "https://open.spotify.com/track/2EEvpwNJQGN0nokOv0CxCO"
-    },
-    {
-      "added_at": "2021-04-22 22:35:02",
-      "album": {
-        "name": "Twice Removed from Yesterday",
-        "url": "https://open.spotify.com/album/15XZ5bvCoiEXEBprtGkpZu"
-      },
-      "artists": [
-        {
-          "name": "Robin Trower",
-          "url": "https://open.spotify.com/artist/0MAvx5yzdhylg2ztJC3MD3"
-        }
-      ],
-      "duration_ms": 321160,
-      "name": "I Can't Wait Much Longer",
-      "url": "https://open.spotify.com/track/4tHfqhXZAnCFH5JiU6YId3"
     },
     {
       "added_at": "2022-03-25 04:01:00",
@@ -747,34 +699,34 @@
     {
       "added_at": "2022-03-25 04:01:00",
       "album": {
-        "name": "What's It Gonna Be",
-        "url": "https://open.spotify.com/album/3Kli0Sl1FQROgD5ZRV3eFv"
+        "name": "Home",
+        "url": "https://open.spotify.com/album/46jRgQN63M7lI9PphL7R3T"
       },
       "artists": [
         {
-          "name": "Laurence Jones",
-          "url": "https://open.spotify.com/artist/2vX8hKHgReZ15YguZe3Zxj"
+          "name": "Aynsley Lister",
+          "url": "https://open.spotify.com/artist/7hueZY91Csxv57p4KnPVcU"
         }
       ],
-      "duration_ms": 256733,
-      "name": "What's It Gonna Be",
-      "url": "https://open.spotify.com/track/0VG3aWRkTce1pcPLkjoFRd"
+      "duration_ms": 391560,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/2EEvpwNJQGN0nokOv0CxCO"
     },
     {
       "added_at": "2021-04-22 22:35:02",
       "album": {
-        "name": "Thank Christ For The Bomb",
-        "url": "https://open.spotify.com/album/5su5yHTN1f4O6IGHxhXarw"
+        "name": "Pigthology",
+        "url": "https://open.spotify.com/album/3niZZYiT58YjUbT4roGEli"
       },
       "artists": [
         {
-          "name": "The Groundhogs",
-          "url": "https://open.spotify.com/artist/0c3RL3vVEgfxD6VBv7CGak"
+          "name": "Blodwyn Pig",
+          "url": "https://open.spotify.com/artist/0O9Mz12rueCsrgUqItvvnw"
         }
       ],
-      "duration_ms": 304933,
-      "name": "Eccentric Man - 2003 Remastered Version",
-      "url": "https://open.spotify.com/track/4gEnYfvY1tJhV5NkE35pEu"
+      "duration_ms": 202760,
+      "name": "It's Only Love",
+      "url": "https://open.spotify.com/track/4N5FQb7LHkSP2tMHdv9rFQ"
     },
     {
       "added_at": "2021-04-22 22:35:02",
@@ -795,6 +747,54 @@
     {
       "added_at": "2021-04-22 22:35:02",
       "album": {
+        "name": "Twice Removed from Yesterday",
+        "url": "https://open.spotify.com/album/15XZ5bvCoiEXEBprtGkpZu"
+      },
+      "artists": [
+        {
+          "name": "Robin Trower",
+          "url": "https://open.spotify.com/artist/0MAvx5yzdhylg2ztJC3MD3"
+        }
+      ],
+      "duration_ms": 321160,
+      "name": "I Can't Wait Much Longer",
+      "url": "https://open.spotify.com/track/4tHfqhXZAnCFH5JiU6YId3"
+    },
+    {
+      "added_at": "2021-04-22 22:35:02",
+      "album": {
+        "name": "Thank Christ For The Bomb",
+        "url": "https://open.spotify.com/album/5su5yHTN1f4O6IGHxhXarw"
+      },
+      "artists": [
+        {
+          "name": "The Groundhogs",
+          "url": "https://open.spotify.com/artist/0c3RL3vVEgfxD6VBv7CGak"
+        }
+      ],
+      "duration_ms": 304933,
+      "name": "Eccentric Man - 2003 Remastered Version",
+      "url": "https://open.spotify.com/track/4gEnYfvY1tJhV5NkE35pEu"
+    },
+    {
+      "added_at": "2022-03-25 04:01:00",
+      "album": {
+        "name": "What's It Gonna Be",
+        "url": "https://open.spotify.com/album/3Kli0Sl1FQROgD5ZRV3eFv"
+      },
+      "artists": [
+        {
+          "name": "Laurence Jones",
+          "url": "https://open.spotify.com/artist/2vX8hKHgReZ15YguZe3Zxj"
+        }
+      ],
+      "duration_ms": 256733,
+      "name": "What's It Gonna Be",
+      "url": "https://open.spotify.com/track/0VG3aWRkTce1pcPLkjoFRd"
+    },
+    {
+      "added_at": "2021-04-22 22:35:02",
+      "album": {
         "name": "Tons Of Sobs",
         "url": "https://open.spotify.com/album/3h2uQXJFhgBTVQpZWfXKi9"
       },
@@ -807,6 +807,22 @@
       "duration_ms": 500626,
       "name": "Goin' Down Slow",
       "url": "https://open.spotify.com/track/4JkNSMKERJEZiIcNzsqqmQ"
+    },
+    {
+      "added_at": "2021-04-22 22:35:02",
+      "album": {
+        "name": "A Hard Road (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0DMfmALbvN3V0GAkzpeRw1"
+      },
+      "artists": [
+        {
+          "name": "John Mayall & The Bluesbreakers",
+          "url": "https://open.spotify.com/artist/2ScuQMRWThcifBRIvNDFDC"
+        }
+      ],
+      "duration_ms": 189360,
+      "name": "A Hard Road",
+      "url": "https://open.spotify.com/track/0WJGPcD139Pga5SgNV4Pj1"
     },
     {
       "added_at": "2022-03-25 04:01:00",
@@ -827,34 +843,18 @@
     {
       "added_at": "2021-04-22 22:35:02",
       "album": {
-        "name": "A Hard Road (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0DMfmALbvN3V0GAkzpeRw1"
+        "name": "100 Ton Chicken",
+        "url": "https://open.spotify.com/album/4Rk1tX6aIuvsJCtkM3bmwM"
       },
       "artists": [
         {
-          "name": "John Mayall & The Bluesbreakers",
-          "url": "https://open.spotify.com/artist/2ScuQMRWThcifBRIvNDFDC"
+          "name": "Chicken Shack",
+          "url": "https://open.spotify.com/artist/7aUVQRiWaOqZU0JwOlGfWi"
         }
       ],
-      "duration_ms": 189360,
-      "name": "A Hard Road",
-      "url": "https://open.spotify.com/track/0WJGPcD139Pga5SgNV4Pj1"
-    },
-    {
-      "added_at": "2021-04-22 22:35:02",
-      "album": {
-        "name": "Eric Clapton",
-        "url": "https://open.spotify.com/album/3taJF5jtfoJZ3zDKJBu5zG"
-      },
-      "artists": [
-        {
-          "name": "Eric Clapton",
-          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
-        }
-      ],
-      "duration_ms": 189053,
-      "name": "Blues Power",
-      "url": "https://open.spotify.com/track/5631mk9iLBe2y6adelMpcF"
+      "duration_ms": 268920,
+      "name": "The Way It Is",
+      "url": "https://open.spotify.com/track/7A7DjkAK1MVYFuYRtqOvWm"
     },
     {
       "added_at": "2022-03-25 04:01:00",
@@ -871,22 +871,6 @@
       "duration_ms": 357813,
       "name": "Won't Be Taken Down",
       "url": "https://open.spotify.com/track/5s5hWAZii6ahuLEyVXG2L9"
-    },
-    {
-      "added_at": "2022-03-25 04:01:00",
-      "album": {
-        "name": "Thunder in the Sky",
-        "url": "https://open.spotify.com/album/0zgK9ZHyTBf2Lxpda6zuBb"
-      },
-      "artists": [
-        {
-          "name": "Laurence Jones",
-          "url": "https://open.spotify.com/artist/2vX8hKHgReZ15YguZe3Zxj"
-        }
-      ],
-      "duration_ms": 396106,
-      "name": "Thunder in the Sky",
-      "url": "https://open.spotify.com/track/0RpaZgPXBD6PbjRaCofTjm"
     },
     {
       "added_at": "2021-04-22 22:35:02",
@@ -907,50 +891,18 @@
     {
       "added_at": "2021-04-22 22:35:02",
       "album": {
-        "name": "100 Ton Chicken",
-        "url": "https://open.spotify.com/album/4Rk1tX6aIuvsJCtkM3bmwM"
+        "name": "Eric Clapton",
+        "url": "https://open.spotify.com/album/3taJF5jtfoJZ3zDKJBu5zG"
       },
       "artists": [
         {
-          "name": "Chicken Shack",
-          "url": "https://open.spotify.com/artist/7aUVQRiWaOqZU0JwOlGfWi"
+          "name": "Eric Clapton",
+          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
         }
       ],
-      "duration_ms": 268920,
-      "name": "The Way It Is",
-      "url": "https://open.spotify.com/track/7A7DjkAK1MVYFuYRtqOvWm"
-    },
-    {
-      "added_at": "2022-09-16 04:01:00",
-      "album": {
-        "name": "Telegram",
-        "url": "https://open.spotify.com/album/3Rb0WoIosAvat8zyJkiIzP"
-      },
-      "artists": [
-        {
-          "name": "Mick Clarke",
-          "url": "https://open.spotify.com/artist/67mAkA5iBh0bWPJojt1AHt"
-        }
-      ],
-      "duration_ms": 252948,
-      "name": "Telegram",
-      "url": "https://open.spotify.com/track/0kY1WQ375QtoFP75dLgRgy"
-    },
-    {
-      "added_at": "2021-04-22 22:35:02",
-      "album": {
-        "name": "The Climax Blues Band Plays On",
-        "url": "https://open.spotify.com/album/7Dyfx1BcJMbajqziS2ppka"
-      },
-      "artists": [
-        {
-          "name": "Climax Blues Band",
-          "url": "https://open.spotify.com/artist/4eeRviM714mXXeILmKHxh2"
-        }
-      ],
-      "duration_ms": 266120,
-      "name": "Hey Baby, Everything's Gonna Be Alright, Yeh Yeh Yeh",
-      "url": "https://open.spotify.com/track/0IDPpYCPWQfcMJABUxqoGc"
+      "duration_ms": 189053,
+      "name": "Blues Power",
+      "url": "https://open.spotify.com/track/5631mk9iLBe2y6adelMpcF"
     },
     {
       "added_at": "2021-04-22 22:35:02",
@@ -971,6 +923,38 @@
     {
       "added_at": "2021-04-22 22:35:02",
       "album": {
+        "name": "The Climax Blues Band Plays On",
+        "url": "https://open.spotify.com/album/7Dyfx1BcJMbajqziS2ppka"
+      },
+      "artists": [
+        {
+          "name": "Climax Blues Band",
+          "url": "https://open.spotify.com/artist/4eeRviM714mXXeILmKHxh2"
+        }
+      ],
+      "duration_ms": 266120,
+      "name": "Hey Baby, Everything's Gonna Be Alright, Yeh Yeh Yeh",
+      "url": "https://open.spotify.com/track/0IDPpYCPWQfcMJABUxqoGc"
+    },
+    {
+      "added_at": "2022-03-25 04:01:00",
+      "album": {
+        "name": "Thunder in the Sky",
+        "url": "https://open.spotify.com/album/0zgK9ZHyTBf2Lxpda6zuBb"
+      },
+      "artists": [
+        {
+          "name": "Laurence Jones",
+          "url": "https://open.spotify.com/artist/2vX8hKHgReZ15YguZe3Zxj"
+        }
+      ],
+      "duration_ms": 396106,
+      "name": "Thunder in the Sky",
+      "url": "https://open.spotify.com/track/0RpaZgPXBD6PbjRaCofTjm"
+    },
+    {
+      "added_at": "2021-04-22 22:35:02",
+      "album": {
         "name": "Peter Green's Fleetwood Mac (Deluxe)",
         "url": "https://open.spotify.com/album/4QtzKoXiBdSUTJbukiEiPr"
       },
@@ -983,54 +967,6 @@
       "duration_ms": 212333,
       "name": "My Heart Beat Like a Hammer - Take 2",
       "url": "https://open.spotify.com/track/6miLmB0XTcmTqGFoz3gWAA"
-    },
-    {
-      "added_at": "2021-04-22 22:35:02",
-      "album": {
-        "name": "Their First LP (Mono Version)",
-        "url": "https://open.spotify.com/album/3S64E4pbZbfsB7gJWxrRDT"
-      },
-      "artists": [
-        {
-          "name": "The Spencer Davis Group",
-          "url": "https://open.spotify.com/artist/3i9hP422d2KMjaupTzBNVS"
-        }
-      ],
-      "duration_ms": 177306,
-      "name": "Sittin' And Thinkin' - Mono Version",
-      "url": "https://open.spotify.com/track/0umo8TT1q9CQbOwfjHHK1O"
-    },
-    {
-      "added_at": "2021-04-22 22:35:02",
-      "album": {
-        "name": "As Safe As Yesterday Is",
-        "url": "https://open.spotify.com/album/43KR0GXJQQ7uBwTdga0QLw"
-      },
-      "artists": [
-        {
-          "name": "Humble Pie",
-          "url": "https://open.spotify.com/artist/2CxLP749mup3ncPrXgCnvU"
-        }
-      ],
-      "duration_ms": 387640,
-      "name": "Desperation (Stereo Version)",
-      "url": "https://open.spotify.com/track/1wgPsruWiUSxgeFel6L7t5"
-    },
-    {
-      "added_at": "2021-04-22 22:35:02",
-      "album": {
-        "name": "Them",
-        "url": "https://open.spotify.com/album/5woWYPtFL1yreRRqKEGUyQ"
-      },
-      "artists": [
-        {
-          "name": "Them",
-          "url": "https://open.spotify.com/artist/5BaHqGtf6UAZnHfqdPaTDA"
-        }
-      ],
-      "duration_ms": 175853,
-      "name": "Jo Ann",
-      "url": "https://open.spotify.com/track/2fsmlot7lUJuNMt3AIcSys"
     },
     {
       "added_at": "2022-03-25 04:01:00",
@@ -1051,6 +987,54 @@
     {
       "added_at": "2021-04-22 22:35:02",
       "album": {
+        "name": "As Safe As Yesterday Is",
+        "url": "https://open.spotify.com/album/43KR0GXJQQ7uBwTdga0QLw"
+      },
+      "artists": [
+        {
+          "name": "Humble Pie",
+          "url": "https://open.spotify.com/artist/2CxLP749mup3ncPrXgCnvU"
+        }
+      ],
+      "duration_ms": 387640,
+      "name": "Desperation (Stereo Version)",
+      "url": "https://open.spotify.com/track/1wgPsruWiUSxgeFel6L7t5"
+    },
+    {
+      "added_at": "2022-09-16 04:01:00",
+      "album": {
+        "name": "Telegram",
+        "url": "https://open.spotify.com/album/3Rb0WoIosAvat8zyJkiIzP"
+      },
+      "artists": [
+        {
+          "name": "Mick Clarke",
+          "url": "https://open.spotify.com/artist/67mAkA5iBh0bWPJojt1AHt"
+        }
+      ],
+      "duration_ms": 252948,
+      "name": "Telegram",
+      "url": "https://open.spotify.com/track/0kY1WQ375QtoFP75dLgRgy"
+    },
+    {
+      "added_at": "2022-03-25 04:01:00",
+      "album": {
+        "name": "Throw Away Your Blues",
+        "url": "https://open.spotify.com/album/6o0oOQJLcdw8v65RwBohCe"
+      },
+      "artists": [
+        {
+          "name": "Kyla Brox",
+          "url": "https://open.spotify.com/artist/2PhZS7xGMEpgT6xdNgrm42"
+        }
+      ],
+      "duration_ms": 298173,
+      "name": "If You See Him",
+      "url": "https://open.spotify.com/track/1nPXV1tU2TwxWCcGEI2NR3"
+    },
+    {
+      "added_at": "2021-04-22 22:35:02",
+      "album": {
         "name": "Blues & Gospel (Rare & Unreleased Recordings)",
         "url": "https://open.spotify.com/album/1X6zfC44u7x4iDVrrX1bo9"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 216186,
       "name": "Someday Baby Blues",
       "url": "https://open.spotify.com/track/0KkRdukZsl1Fzc56pgorCd"
+    },
+    {
+      "added_at": "2021-04-22 22:35:02",
+      "album": {
+        "name": "Them",
+        "url": "https://open.spotify.com/album/5woWYPtFL1yreRRqKEGUyQ"
+      },
+      "artists": [
+        {
+          "name": "Them",
+          "url": "https://open.spotify.com/artist/5BaHqGtf6UAZnHfqdPaTDA"
+        }
+      ],
+      "duration_ms": 175853,
+      "name": "Jo Ann",
+      "url": "https://open.spotify.com/track/2fsmlot7lUJuNMt3AIcSys"
     }
   ],
   "unique_name": "Brit-Blues",

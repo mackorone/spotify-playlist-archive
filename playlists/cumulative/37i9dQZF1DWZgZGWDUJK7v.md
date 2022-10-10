@@ -4,7 +4,7 @@
 
 > Meet the popular webtoon OSTs now! \(Cover: Good Doctor\(굿닥터\)\) 지금 인기 있는 웹툰 OST들을 만나보세요!
 
-86 songs - 5 hr 17 min - [published](https://open.spotify.com/playlist/377FgqWa97oJx7N6DPIrtB)
+87 songs - 5 hr 20 min - [published](https://open.spotify.com/playlist/377FgqWa97oJx7N6DPIrtB)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,6 +61,7 @@
 | [Never Loved This Way Before](https://open.spotify.com/track/0WbOmRgxeIScXc0H50zjIx) | [CHEEZE](https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht) | [Never Loved This Way Before \(From “Odd Girl Out” \[Original Soundtrack\]\)](https://open.spotify.com/album/5LfgBPnKXHErPlbLBdQyvG) | 4:19 | 2022-05-09 |  |
 | [Only you \(Romance 101 X Yang Yo Seop\)](https://open.spotify.com/track/6YXYyEdmUNDuzNIiRBVZQi) | [Yang Yoseob](https://open.spotify.com/artist/1fwMtpwCEJovQuyxSuHcAd) | [Only you \(Romance 101 X Yang Yo Seop\)](https://open.spotify.com/album/0pB5NYeRyaboqz4ZUFdxhZ) | 3:23 | 2022-05-09 |  |
 | [Only you \(The Moon during the Day X GB9\)](https://open.spotify.com/track/3sa9y64Wx3P6lwJMifujf4) | [GB9](https://open.spotify.com/artist/2QQUaQXZalrJh9JYTiVMkr) | [Only you \(The Moon during the Day X GB9\)](https://open.spotify.com/album/3uNHehmSwCjlZDJ0jcZwyw) | 4:46 | 2022-05-09 |  |
+| [Painful, Angry and Sorry](https://open.spotify.com/track/5nYbI8sOHwRGBEGsSLh9bM) | [Baek A Yeon](https://open.spotify.com/artist/5UKoKVlU7EDN4UgDuVRAbX) | [Painful, Angry and Sorry](https://open.spotify.com/album/6qPARj3DqxMNepmW1cnMLO) | 2:57 | 2022-10-07 |  |
 | [Pont Alexandre iii \(Nth Romance X KIMMUSEUM\)](https://open.spotify.com/track/1JfGO5Y59Ly5KK5cjncV1r) | [KIMMUSEUM](https://open.spotify.com/artist/1NVRvV0KqaO7VtSaVQcm3V) | [Pont Alexandre iii \(Nth Romance X KIMMUSEUM\)](https://open.spotify.com/album/2LhHwUyIqFp8dlJc6OGxGT) | 2:45 | 2022-05-09 |  |
 | [Propose Song \(WEBTOON 'Discovery of Love' X LEE RAON\)](https://open.spotify.com/track/73whlfYeKmtBeOOuNFLeqT) | [Leeraon](https://open.spotify.com/artist/5FsMBpsPFTzURDjb2T3ane) | [Propose Song \(WEBTOON 'Discovery of Love' X LEE RAON\)](https://open.spotify.com/album/2SxtplELKtfdrzQesuUTRR) | 3:37 | 2022-09-19 |  |
 | [Sad Ending \[From "Anonymous, I Know You!" \(Original Soundtrack\) Pt\. 5\]](https://open.spotify.com/track/5qYNQiXaRyUV2JBux6kIXv) | [Kang Min Hee](https://open.spotify.com/artist/3yvJrrnTj0rlI3DJ8NMnKH) | [Sad Ending \[From "Anonymous, I Know You!" \(Original Soundtrack\) Pt\. 5\]](https://open.spotify.com/album/15WI2IO8kqv9cChrbc65A2) | 3:27 | 2022-05-09 |  |

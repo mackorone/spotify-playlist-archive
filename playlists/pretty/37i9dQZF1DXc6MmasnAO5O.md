@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc6MmasnAO5O.md) - [plain]
 
 > <a href="spotify:artist:7zm3aSdmGiOkTt0aZFSO8R">Wax Motif</a> transports us to a house\-filled rave.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,651 likes - 24 songs - 1 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,678 likes - 24 songs - 1 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Come Again \(feat\. Scrufizzer\) \- Mixed](https://open.spotify.com/track/25yF7Et24JJ2WuKPmbOLMm) | [Wax Motif](https://open.spotify.com/artist/7zm3aSdmGiOkTt0aZFSO8R), [Shahay](https://open.spotify.com/artist/1pjJMzKi91pQ2AWcEcXPZ2), [Scrufizzer](https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1) | [Come Again \(feat\. Scrufizzer\) \[Mixed\]](https://open.spotify.com/album/26Y57XaEmMFcj5XeU7hQcz) | 2:40 |
 | 2 | [Give It Up \- Mixed](https://open.spotify.com/track/5lkqw8AQ3dv8eKWftI4vwz) | [Max Styler](https://open.spotify.com/artist/3NKKngINK1tP6BFy0WOyWk), [Kyle Walker](https://open.spotify.com/artist/4kB1srfgZ4eok7CmDqyOJP) | [Give It Up \(Mixed\)](https://open.spotify.com/album/2zFbE01xL3j8Sx1BVKF0pV) | 1:45 |
 | 3 | [R.E.A.L \- Mixed](https://open.spotify.com/track/0wFNkVTH6LGsKNRQSfvoCx) | [Dombresky](https://open.spotify.com/artist/2GVtgxcx7jg5xVCZsIHSGN), [CID](https://open.spotify.com/artist/4FCzCS0KEgb0rgySWINItO) | [R.E.A.L \(Mixed\)](https://open.spotify.com/album/1bpxV4DbcpB3qyF7mqvrPI) | 1:48 |
-| 4 | [Hallucinations \- Mixed](https://open.spotify.com/track/0jnch4H8IbjbkgDJYh03I5) | [Dave Winnel](https://open.spotify.com/artist/1K80Wcuuo13i28cVd68mxm) | [Hallucinations \(Mixed\)](https://open.spotify.com/album/3SRih1PuVCfvmn0jj76FMb) | 2:04 |
+| 4 | [Hallucinations \- Mixed](https://open.spotify.com/track/25qVz448auOcbIgphQI5iY) | [Dave Winnel](https://open.spotify.com/artist/1K80Wcuuo13i28cVd68mxm) | [Hallucinations \(Mixed\)](https://open.spotify.com/album/1WUMh9v8sW2S2OeqtQQJWg) | 2:04 |
 | 5 | [Sometimes \- Mixed](https://open.spotify.com/track/3LlQeUd3uxCyRReESWrBiU) | [Martin Ikin](https://open.spotify.com/artist/7DhdJhd6DrxeJlUajwttd1) | [Sometimes \(Mixed\)](https://open.spotify.com/album/1nHMy5XbnXistsTJAz7pnx) | 1:46 |
 | 6 | [Lifting \- Mixed](https://open.spotify.com/track/7DukNn0SveaebeRyHVKmTd) | [Matroda](https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz) | [Lifting \(Mixed\)](https://open.spotify.com/album/2MLZvQ7X7DkhtpwMN6N0om) | 4:04 |
 | 7 | [Fula \- Mixed](https://open.spotify.com/track/2OmtNfsAFglUIzpNTMdQMt) | [Juos](https://open.spotify.com/artist/25b30wypcCBgPGWG28RUcl) | [Fula \(Mixed\)](https://open.spotify.com/album/27Ndg89DOFi3uY3uGDLdqK) | 2:16 |
@@ -33,4 +33,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc6MmasnAO5O.md) - [plain]
 | 23 | [Strangers \(with Mansionair\) \- Mixed](https://open.spotify.com/track/1kfsdKEJnvM8yYlmFAuDXL) | [Dom Dolla](https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m), [Mansionair](https://open.spotify.com/artist/4qOzMSukiZoiSjPQw8Zs7s) | [Strangers \(with Mansionair\) \[Mixed\]](https://open.spotify.com/album/6sXSX51hrOCLfKRnjq0A9v) | 5:20 |
 | 24 | [Koalack \- Mixed](https://open.spotify.com/track/23Dgwjz6JSw4zPIIzL8UGQ) | [Wax Motif](https://open.spotify.com/artist/7zm3aSdmGiOkTt0aZFSO8R) | [Koalack \(Mixed\)](https://open.spotify.com/album/1moUNFDHaoFELrrycEkfpU) | 4:20 |
 
-Snapshot ID: `MTY2MDY2MTM4NiwwMDAwMDAwMGNjMzNhNjIzZDAxZmEwNmNiMWNjYTJiODY5Y2M0Nzk1`
+Snapshot ID: `MTY2NDk5MDM2OCwwMDAwMDAwMDUwNWIyODRlZGFlYTJmODI4MTFmNzk3M2RlZTk2YmIy`

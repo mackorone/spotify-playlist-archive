@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX92T9KVmPAYW.md) - [plain]
 
 > Classic Ambient and Environmental music made in Japan.
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,739 likes - 46 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,188 likes - 46 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,4 +55,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX92T9KVmPAYW.md) - [plain]
 | 45 | [Blink](https://open.spotify.com/track/0Bc4abgrOxonETzZupd4BE) | [Hiroshi Yoshimura](https://open.spotify.com/artist/1DGpHnPOpMYY780hcQHmPB) | [Kankyō Ongaku: Japanese Ambient, Environmental & New Age Music 1980\-1990](https://open.spotify.com/album/63x6MwkzIVtoH6lbHIYEtr) | 4:44 |
 | 46 | [Tomoshibi](https://open.spotify.com/track/7lmpi4NLJ86s013B9f6XSf) | [Shiho Yabuki](https://open.spotify.com/artist/72H54BeNWF82wu5czm91VX) | [The Body Is a Message of the Universe \- からだは宇宙のメッセージ](https://open.spotify.com/album/2JdjNySHankOkjITDAo5YT) | 7:00 |
 
-Snapshot ID: `MTY2MDMyMDAzMywwMDAwMDAwMGJmYjQ1YzNhZjFhOWIzMWYyMjA1ZjIwNWNkYjFlMDhl`
+Snapshot ID: `MTY2NDg5Mzg2NSwwMDAwMDAwMDFjOTIxMzQ0NGU3MjI0MTk4NTA2OWQwOGQ1ZWJlOWQy`

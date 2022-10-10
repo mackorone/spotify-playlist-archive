@@ -647,10 +647,28 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-09",
       "duration_ms": 244946,
       "name": "Heavy",
       "url": "https://open.spotify.com/track/5VpgaWuqcWho0uJMniRNDs"
+    },
+    {
+      "album": {
+        "name": "Heavy",
+        "url": "https://open.spotify.com/album/1JvNzY5bVTLty67NvTW4CT"
+      },
+      "artists": [
+        {
+          "name": "Orla Gartland",
+          "url": "https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244946,
+      "name": "Heavy",
+      "url": "https://open.spotify.com/track/7y7Wd6SDy39DHRfRU20GNU"
     },
     {
       "album": {

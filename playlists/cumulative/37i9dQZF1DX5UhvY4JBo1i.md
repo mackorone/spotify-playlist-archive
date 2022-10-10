@@ -4,7 +4,7 @@
 
 > Enjoy music from "Case Closed"! アニメ「名探偵コナン」の世界を彩る音楽をプレイリストで。©2020 青山剛昌／名探偵コナン製作委員会
 
-109 songs - 7 hr 35 min - not published yet
+110 songs - 7 hr 39 min - [published](https://open.spotify.com/playlist/4PJtO01CxXlVEi8RCU2y7N)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,6 +94,7 @@
 | [恋に恋して](https://open.spotify.com/track/1YVNiHqZGO3eK7n4Yw1fVL) | [Mai Kuraki](https://open.spotify.com/artist/4x3GOic9xXFOoOBrEMuvN9) | [倉木麻衣×名探偵コナン COLLABORATION BEST 21 \-真実はいつも歌にある!\-](https://open.spotify.com/album/5iR9vsmguPIjTun6cJVb0Q) | 4:08 | 2022-10-01 |  |
 | [悲しいほど貴方が好き](https://open.spotify.com/track/7drrNTgt8Aw4fjknaKRzCY) | [ZARD](https://open.spotify.com/artist/2NKadilSWCwuqGp5QoDeUS) | [悲しいほど貴方が好き/カラッといこう!](https://open.spotify.com/album/2sWEz8mLwhiASSGUJf4MCK) | 4:49 | 2022-10-01 |  |
 | [愛は暗闇の中で featuring Aya Kamiki](https://open.spotify.com/track/3s9VhbIMXojx9NMPnhQllx) | [ZARD](https://open.spotify.com/artist/2NKadilSWCwuqGp5QoDeUS) | [翼を広げて / 愛は暗闇の中で](https://open.spotify.com/album/2VPyIHpSzemIBnEiTrKylf) | 4:33 | 2022-10-01 |  |
+| [捕まえて、今夜。](https://open.spotify.com/track/0Tw3GoF2O6XA7DmytMKNLL) | [新浜レオン](https://open.spotify.com/artist/6WHw9pdyHYT9c952yPaGM2) | [捕まえて、今夜。](https://open.spotify.com/album/4D0ZJVYQKa1I0OdY04UtND) | 4:10 | 2022-10-04 |  |
 | [明日を夢見て](https://open.spotify.com/track/5TKZqlpqmtl4XvSTmeW1vm) | [ZARD](https://open.spotify.com/artist/2NKadilSWCwuqGp5QoDeUS) | [明日を夢見て](https://open.spotify.com/album/0r9ZkQ0hO5jrdfLVk6jgDA) | 4:35 | 2022-10-01 |  |
 | [星のかがやきよ](https://open.spotify.com/track/4Y6qtft7tEIl1B24cx5BCk) | [ZARD](https://open.spotify.com/artist/2NKadilSWCwuqGp5QoDeUS) | [星のかがやきよ/夏を待つセイル\(帆\)のように](https://open.spotify.com/album/2K0gt5eUoq9Rkhb6j8xdSD) | 3:47 | 2022-10-01 |  |
 | [星合](https://open.spotify.com/track/14QL2HVxeoJw8xbv69BsIP) | [all at once](https://open.spotify.com/artist/48BElNPYehUg03qOO3puCo) | [星合](https://open.spotify.com/album/2s3hfyYLabW4X4RIL20PGw) | 3:43 | 2022-10-01 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2UkbeRPWQqZ.md) - [plain]
 
 > Sweet lullabies on guitar for little dreamers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,847 likes - 111 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,057 likes - 111 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,7 +67,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2UkbeRPWQqZ.md) - [plain]
 | 57 | [Kling och klang](https://open.spotify.com/track/183VkWkmFqG7iv6AbtbW5H) | [Simon Fjällström](https://open.spotify.com/artist/5cmNqNdfwQv9XZWjT7YGpT) | [Kling och klang](https://open.spotify.com/album/2BsQ8v9OA15dH9XZo0SpYe) | 2:27 |
 | 58 | [This Old Man](https://open.spotify.com/track/0FFtYy25WDwgdTlKOyFFui) | [Funny Fanny](https://open.spotify.com/artist/1kvETyy8pcVERDBrk7Txdh) | [This Old Man](https://open.spotify.com/album/0iL8y62kdnKlUv0l1n5LLb) | 2:00 |
 | 59 | [Hush Little Baby](https://open.spotify.com/track/6dugEik4VDbYV5TNRIElnj) | [Celeste Knight](https://open.spotify.com/artist/1UgS4sDHUIYMiwbzV2LkXl) | [Hush Little Baby](https://open.spotify.com/album/5TKlJrkT8ZN64kGMWx7SSm) | 1:38 |
-| 60 | [Gymnopedie No\. 1](https://open.spotify.com/track/0GPd82b6UWTpAxl6qk2Zic) | [The Lullaby Minstrel](https://open.spotify.com/artist/5jvlg5xpRicJbcuvyZx1Kb) | [Gentle Guitar Lullabies for Sleep: Soothing Melodies to Calm Your Children for Bedtime](https://open.spotify.com/album/7fhZEguQ78stjH3Qf8uma2) | 1:51 |
+| 60 | [Gymnopedie No\. 1](https://open.spotify.com/track/2RNTTudMu6XvPUDuYJFdvW) | [The Lullaby Minstrel](https://open.spotify.com/artist/5jvlg5xpRicJbcuvyZx1Kb) | [Gentle Guitar Lullabies for Sleep: Soothing Melodies to Calm Your Children for Bedtime](https://open.spotify.com/album/4hzafnxDtzvzQd3oZIulHU) | 1:51 |
 | 61 | [Good Night Hug](https://open.spotify.com/track/5wiOuGEIWtgcBrt134k4lF) | [Bella Wonder](https://open.spotify.com/artist/4anNtmalUlxmPp1vCwLS8a) | [Good Night Hug](https://open.spotify.com/album/4S6vHbsrpruKvkyQBqB4yD) | 1:56 |
 | 62 | [The Wheels On The Bus](https://open.spotify.com/track/7IpF6HgZeSeQ4VS3fxbqxw) | [The Singing Guitar](https://open.spotify.com/artist/4HuZFgsc8Y4blxFSzwNTWF) | [Lullabies](https://open.spotify.com/album/6Mk6zRNF5DNBoUo1b8lxpW) | 2:06 |
 | 63 | [Stars at Night](https://open.spotify.com/track/4ItX9mxGkbuwNo4TwNhTMF) | [3rd Street Guitar](https://open.spotify.com/artist/2A7EWzNXsSbpTOpw8NvUhF) | [Stars at Night](https://open.spotify.com/album/3MQuWn9w5Vqv0AjrLNnsCP) | 1:42 |
@@ -120,4 +120,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2UkbeRPWQqZ.md) - [plain]
 | 110 | [Bedtime Song](https://open.spotify.com/track/1VQoBu1BFz1VicW34FUGmW) | [High Road Guitars](https://open.spotify.com/artist/0f6A9z1kx48hxKrL0trfGw) | [Bedtime Song](https://open.spotify.com/album/7CV29FfihxpwnunsoDAVfH) | 1:36 |
 | 111 | [Moonlight](https://open.spotify.com/track/6HjGZns9Umkfllzifv5Cxx) | [Marius Hallman](https://open.spotify.com/artist/0UPmd3m1jLjkDWZVdIMsel) | [Moonlight](https://open.spotify.com/album/55KSFSpaZ22Bfdp9avt9zE) | 1:19 |
 
-Snapshot ID: `MTY2Mzg1MjcxNSwwMDAwMDAwMDAwZmQyMzE1NWViNzUwMjcyZjIxNGViNjA5NTE0OTYy`
+Snapshot ID: `MTY2Mzg1MjcxNSwwMDAwMDAwMDliMWJhM2E4M2MxNTg5NGU4Yzc3ZjI1MzQ1Y2QyNzVl`

@@ -1592,6 +1592,24 @@
     },
     {
       "album": {
+        "name": "JACK",
+        "url": "https://open.spotify.com/album/46dR56iHGOs4sN5CAOfZnc"
+      },
+      "artists": [
+        {
+          "name": "HARDY",
+          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168630,
+      "name": "JACK",
+      "url": "https://open.spotify.com/track/189D3XLBjj2YTCTD6QKdJY"
+    },
+    {
+      "album": {
         "name": "John Wayne",
         "url": "https://open.spotify.com/album/1O9rZ9fDKAddiZSImbxRpG"
       },
@@ -2146,6 +2164,24 @@
     },
     {
       "album": {
+        "name": "One Last F.U.",
+        "url": "https://open.spotify.com/album/2Hy6LylULjswLYmkCVHgcz"
+      },
+      "artists": [
+        {
+          "name": "Lucero",
+          "url": "https://open.spotify.com/artist/1MspPfENB9nzFGaagXmF7R"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194800,
+      "name": "One Last F.U.",
+      "url": "https://open.spotify.com/track/0y62PAVboSnmr0UEDFB2UQ"
+    },
+    {
+      "album": {
         "name": "Outlaws & Outsiders",
         "url": "https://open.spotify.com/album/1FMwktOdGcAx5tzgdHRUf4"
       },
@@ -2457,7 +2493,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 202912,
       "name": "SOLD OUT",
       "url": "https://open.spotify.com/track/3I56OBwJkDAyt9L00c8ois"
@@ -2753,7 +2789,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 229472,
       "name": "The War Inside (feat. Chris Stapleton)",
       "url": "https://open.spotify.com/track/0AeKE6Cz7EPw9Eld1tJ6fz"

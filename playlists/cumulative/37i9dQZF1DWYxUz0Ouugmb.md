@@ -2,9 +2,9 @@
 
 ### [RADAR Indonesia](https://open.spotify.com/playlist/37i9dQZF1DWYxUz0Ouugmb)
 
-> Deretan musisi dalam negeri yang patut diantisipasi\. Cover: noui
+> Deretan musisi dalam negeri yang patut diantisipasi\. Cover: Shanna Shannon
 
-112 songs - 7 hr 0 min - [published](https://open.spotify.com/playlist/37dv0S75HQ2Wer6Z25cDjS)
+113 songs - 7 hr 4 min - [published](https://open.spotify.com/playlist/37dv0S75HQ2Wer6Z25cDjS)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,6 +51,7 @@
 | [jealous over you](https://open.spotify.com/track/2ldcIznpTSRjxoDsNpM3wF) | [Arash Buana](https://open.spotify.com/artist/3OFUmiZcD0AWtjOYFJVpwM) | [logic mess](https://open.spotify.com/album/5O73HFP1TRW52nqawnv7iz) | 4:17 | 2022-08-18 |  |
 | [Journey on September](https://open.spotify.com/track/22PhxtknUvYnNNidP1cuGJ) | [GANGGA](https://open.spotify.com/artist/4nd1IvFkUoQinjvYdUmOBI) | [Journey on September](https://open.spotify.com/album/6Z7AkTjYkglyuDNEYXZd4h) | 3:58 | 2021-11-25 | 2022-03-25 |
 | [Kaktus](https://open.spotify.com/track/31byM0OBU7OoKuVkTrTCOh) | [Suara Kayu](https://open.spotify.com/artist/327ipGIr9bD3MkLb2eucqC) | [Kaktus](https://open.spotify.com/album/15mi7JkXNjMScyGbX1nlTg) | 3:07 | 2021-11-25 | 2022-03-25 |
+| [Karma](https://open.spotify.com/track/5EdR4T0aRFTb18gtmbCNYL) | [Shanna Shannon](https://open.spotify.com/artist/2wJ77L3w0hTQDJH9uH39c2) | [Karma](https://open.spotify.com/album/59BX9nwYcT4VuU9TbAf7HA) | 3:49 | 2022-10-06 |  |
 | [Kau Rumahku](https://open.spotify.com/track/7IRi1d3Nsrww8mnGv1YW4l) | [raissa anggiani](https://open.spotify.com/artist/11k3Y6uyixbyGfgPl8qZTZ) | [Kau Rumahku](https://open.spotify.com/album/4NAkOFSqThyy06ViavcOpQ) | 4:35 | 2022-03-24 | 2022-07-29 |
 | [Kau Rumahku](https://open.spotify.com/track/7nQoDLkzCcoIpKPQt3eCdN) | [raissa anggiani](https://open.spotify.com/artist/11k3Y6uyixbyGfgPl8qZTZ) | [Kau Rumahku](https://open.spotify.com/album/7vPQboGZn7eLlwwyOeCTQO) | 4:35 | 2022-07-28 |  |
 | [Kebal Kelaran](https://open.spotify.com/track/2PJt7EOOh92Khzjr9T7QTq) | [Happy Asmara](https://open.spotify.com/artist/5423rMdVbchY2cgu0GgH5X) | [Kebal Kelaran](https://open.spotify.com/album/39PM31EBVu9TUyeql8wJhz) | 4:29 | 2021-11-25 | 2022-03-25 |

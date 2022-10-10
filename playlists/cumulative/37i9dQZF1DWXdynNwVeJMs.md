@@ -4,7 +4,7 @@
 
 > Listen to the finest Jazz made in Belgium\. Cover: M.CHUZI
 
-115 songs - 9 hr 30 min - [published](https://open.spotify.com/playlist/0BGpoGk8zyTnHesLTcROQ8)
+119 songs - 9 hr 48 min - [published](https://open.spotify.com/playlist/0BGpoGk8zyTnHesLTcROQ8)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,7 +75,8 @@
 | [Meshnada](https://open.spotify.com/track/4CvohkP6MgXHZtvDDQqnL2) | [VENTILATEUR](https://open.spotify.com/artist/1ysLLF8knGo0MnhPn1bDaf) | [Meshnada](https://open.spotify.com/album/4cdXg1ezUqgqO7gAgCJnuh) | 5:09 | 2022-09-08 |  |
 | [Monkey Burns Lab](https://open.spotify.com/track/09wFS50QSqlwF8YvKvdxVO) | [Echoes of Zoo](https://open.spotify.com/artist/6aYyo8CRlyAGNa9KNYzxRf) | [Breakout](https://open.spotify.com/album/4223UDnLtfRY2w6JQzi2Dg) | 5:19 | 2022-09-08 |  |
 | [Moody Soft](https://open.spotify.com/track/4sCso2tE97IQYQDxO6sGfl) | [Libertino Live Band](https://open.spotify.com/artist/4dob1Ok3CLKjDWKBv3lpi9) | [Moody](https://open.spotify.com/album/4myf8khR0BLCRzksEq5plK) | 3:56 | 2022-09-08 |  |
-| [Mumpsimus](https://open.spotify.com/track/3vDDo27qTtttNNYc2WICKp) | [Lucid Lucia](https://open.spotify.com/artist/2kq88GbQw1ieU5VvWVZFYI) | [Reminiscence](https://open.spotify.com/album/1lLkH3BBGY9BPoiIqQ8ZiU) | 4:21 | 2022-09-15 |  |
+| [Mumpsimus](https://open.spotify.com/track/1jv1v75OhCe82Xtulem3h3) | [Lucid Lucia](https://open.spotify.com/artist/2kq88GbQw1ieU5VvWVZFYI) | [Ever\-changing Light](https://open.spotify.com/album/5r5AlE4mnza28bHs9EWZiA) | 4:21 | 2022-10-07 |  |
+| [Mumpsimus](https://open.spotify.com/track/3vDDo27qTtttNNYc2WICKp) | [Lucid Lucia](https://open.spotify.com/artist/2kq88GbQw1ieU5VvWVZFYI) | [Reminiscence](https://open.spotify.com/album/1lLkH3BBGY9BPoiIqQ8ZiU) | 4:21 | 2022-09-15 | 2022-10-09 |
 | [Mumpsimus](https://open.spotify.com/track/7rtqxc9XHdKMuXtMx5pE4E) | [Lucid Lucia](https://open.spotify.com/artist/2kq88GbQw1ieU5VvWVZFYI) | [Mumpsimus](https://open.spotify.com/album/522FzSPIqNqXVxhr7A3MmK) | 4:21 | 2022-09-08 | 2022-09-26 |
 | [Murmur](https://open.spotify.com/track/5df3MATNvijZnmPik9Kbb9) | [Compro Oro](https://open.spotify.com/artist/1Bd10SiF1s1INXXIXJ9hvc), [Murat Ertel](https://open.spotify.com/artist/0xL4lPu0avBlTeNCXUA5B5), [Esma Ertel](https://open.spotify.com/artist/7vE5ljGnXMDMHrdAIhJIuQ) | [Simurg](https://open.spotify.com/album/1NmwJIHYJzfmgGi7XcdtKQ) | 5:07 | 2022-09-08 |  |
 | [Nebula](https://open.spotify.com/track/3KAlACCWFTqhqYSDCt3ReO) | [Alex Koo](https://open.spotify.com/artist/1sR6UagoDJiGkAjTmMITg0), [Attila Gyárfás](https://open.spotify.com/artist/2evqpNR4DDSHiUxGMokRJI), [Ralph Alessi](https://open.spotify.com/artist/2yHcAgHAPUdUhVuiIWWcba) | [Nebula](https://open.spotify.com/album/2MJS0DePEXAG9WXJhAsmzC) | 5:45 | 2022-09-08 |  |
@@ -94,10 +95,12 @@
 | [Pigeons](https://open.spotify.com/track/5feVFAGv8aOhz7zFUczpUr) | [Lucid Lucia](https://open.spotify.com/artist/2kq88GbQw1ieU5VvWVZFYI) | [Pigeons](https://open.spotify.com/album/5O1WgrvNp2LPu9LWHL6XPD) | 4:38 | 2022-09-08 | 2022-09-16 |
 | [Portal](https://open.spotify.com/track/2kyEGIQlE4W2UXbgJk30Vd) | [Nordmann](https://open.spotify.com/artist/0Uox3PUw47qEqroDggrDRE) | [Portal](https://open.spotify.com/album/0UyQ9R0WB9N4ncFbI2xKMs) | 4:18 | 2022-09-08 |  |
 | [Prospect](https://open.spotify.com/track/2Bf6F6mWOEjI8HxcaHPUEZ) | [ROSHIMA](https://open.spotify.com/artist/1ESM3iS4CDpxrVcRYvzJxN), [Jan Morez](https://open.spotify.com/artist/4MRRTWCvkHzfw953JHybmz), [Glenn Deveron](https://open.spotify.com/artist/3CSRC3GUnVsTgobvO8AZ7w) | [Prospect](https://open.spotify.com/album/7Cy5dDz0PkdI4JoisX1P9E) | 2:09 | 2022-09-08 |  |
+| [Quanked](https://open.spotify.com/track/4ScsbA64TjlH2szHkAW8Kz) | [Lucid Lucia](https://open.spotify.com/artist/2kq88GbQw1ieU5VvWVZFYI) | [Ever\-changing Light](https://open.spotify.com/album/5r5AlE4mnza28bHs9EWZiA) | 4:02 | 2022-10-07 |  |
 | [Rake](https://open.spotify.com/track/4Zg32wHgWeBMfuuxNEBJea) | [Bert Dockx](https://open.spotify.com/artist/0nD5LTV5BZ6Dl7BbjGpHv1) | [Transit](https://open.spotify.com/album/58J5Tg7SnhkUcJsweg8xE0) | 6:13 | 2022-09-08 |  |
 | [Reflet](https://open.spotify.com/track/7bTgbkJmcJ11R0yqVC8qFg) | [Glass Museum](https://open.spotify.com/artist/0bq8ZdJxUOXswye4qT4zzU) | [Reflet](https://open.spotify.com/album/3rCk8CngEX5UIxpWgh4WgI) | 5:42 | 2022-09-08 | 2022-09-25 |
 | [Reflet](https://open.spotify.com/track/7tNYzBbufvOtKyRcw0vPqd) | [Glass Museum](https://open.spotify.com/artist/0bq8ZdJxUOXswye4qT4zzU) | [Reflet](https://open.spotify.com/album/4Y2YPVgmP5iwUVBmhA8vD1) | 5:42 | 2022-09-15 |  |
-| [Reminiscence](https://open.spotify.com/track/5mbDO1wbecRbF5iQqEn8ty) | [Lucid Lucia](https://open.spotify.com/artist/2kq88GbQw1ieU5VvWVZFYI) | [Reminiscence](https://open.spotify.com/album/1lLkH3BBGY9BPoiIqQ8ZiU) | 4:31 | 2022-09-15 |  |
+| [Reminiscence](https://open.spotify.com/track/27ijI4NwO9znLJJ7a776Uj) | [Lucid Lucia](https://open.spotify.com/artist/2kq88GbQw1ieU5VvWVZFYI) | [Ever\-changing Light](https://open.spotify.com/album/5r5AlE4mnza28bHs9EWZiA) | 4:28 | 2022-10-07 |  |
+| [Reminiscence](https://open.spotify.com/track/5mbDO1wbecRbF5iQqEn8ty) | [Lucid Lucia](https://open.spotify.com/artist/2kq88GbQw1ieU5VvWVZFYI) | [Reminiscence](https://open.spotify.com/album/1lLkH3BBGY9BPoiIqQ8ZiU) | 4:31 | 2022-09-15 | 2022-10-09 |
 | [Rhymes On Our Mind](https://open.spotify.com/track/4Ry0Lk8vLR3avAZpYbw6tp) | [Condor Gruppe](https://open.spotify.com/artist/0qaYncC2MFURFgMB8MQvqm) | [Gulliver](https://open.spotify.com/album/6gMzMxSQ5zwlOtlfuEFo5h) | 5:59 | 2022-09-15 |  |
 | [Rhymes On Our Mind](https://open.spotify.com/track/6EJUuDETlcuLn76NNLc3Ey) | [Condor Gruppe](https://open.spotify.com/artist/0qaYncC2MFURFgMB8MQvqm) | [Rhymes On Our Mind](https://open.spotify.com/album/0rpq83kd4ptF8dTyBHu39b) | 5:59 | 2022-09-08 | 2022-09-25 |
 | [Rostfrei](https://open.spotify.com/track/6hmuL1lUUd10z0SxMANUO1) | [schroothoop](https://open.spotify.com/artist/2gbO1WIhdYAqbwwh6LaASF) | [Klein Gevaarlijk Afval](https://open.spotify.com/album/3Mbm4tvDYbzC9FzaQ340LZ) | 2:31 | 2022-09-08 |  |
@@ -120,8 +123,9 @@
 | [Verloren Buffels](https://open.spotify.com/track/4FMb1GtQ3uR8tIkyKCu25M) | [Donder](https://open.spotify.com/artist/5FBAdptDafa4fx8gGKDqBF), [Sigbjørn Apeland](https://open.spotify.com/artist/1nVOaRO8R3WXKXr1ywpULw) | [Het Verdriet](https://open.spotify.com/album/4iWJVM8EoN10L603olZx8o) | 1:33 | 2022-09-08 |  |
 | [Waksi](https://open.spotify.com/track/04UtGDGd2196p3Z0t1DMCv) | [STUFF.](https://open.spotify.com/artist/2arPbOlDKD5g7asu7NSfCr) | [Waksi](https://open.spotify.com/album/6KzDyvv51a6uZAKIF0LLvV) | 3:35 | 2022-09-08 | 2022-09-26 |
 | [Waksi](https://open.spotify.com/track/6klvTcqZqEdAU7UvKJmX8C) | [STUFF.](https://open.spotify.com/artist/2arPbOlDKD5g7asu7NSfCr) | [T\(h\)reats](https://open.spotify.com/album/3jJMW4RjWkAjJGxW2GF8DI) | 3:35 | 2022-09-15 |  |
+| [Wessel](https://open.spotify.com/track/1qpwLKM8ipm4V21h3eXuuU) | [Stellar Legions](https://open.spotify.com/artist/0OVerCSCBhKBEXrCLPxxJO) | [Odyssey](https://open.spotify.com/album/3h8dvqsbbIlx2rPPYjNi4q) | 5:03 | 2022-09-29 |  |
 | [Wessel](https://open.spotify.com/track/4wmiOqY3jAPOkS6pzYvyIs) | [Stellar Legions](https://open.spotify.com/artist/0OVerCSCBhKBEXrCLPxxJO) | [Wessel](https://open.spotify.com/album/0OEduMDNnxOH9s5wRRzIpQ) | 5:03 | 2022-09-08 | 2022-09-25 |
-| [Wessel](https://open.spotify.com/track/672F19pjKGG8SsqArjk1EX) | [Stellar Legions](https://open.spotify.com/artist/0OVerCSCBhKBEXrCLPxxJO) | [An Arp in Tunisia](https://open.spotify.com/album/2lz6ITi3CbuZgS6TmMV6iy) | 5:03 | 2022-09-15 |  |
+| [Wessel](https://open.spotify.com/track/672F19pjKGG8SsqArjk1EX) | [Stellar Legions](https://open.spotify.com/artist/0OVerCSCBhKBEXrCLPxxJO) | [An Arp in Tunisia](https://open.spotify.com/album/2lz6ITi3CbuZgS6TmMV6iy) | 5:03 | 2022-09-15 | 2022-10-03 |
 | [Wolk](https://open.spotify.com/track/1psgbIT91j1nQMWMG9puWg) | [Dans Dans](https://open.spotify.com/artist/5x3LMsfwbAiYZy5lAqgM2m) | [Wolk](https://open.spotify.com/album/5KEYqGAofKWeCD7CZzojpB) | 3:59 | 2022-09-08 |  |
 
 \*This playlist was first scraped on 2022-09-09. Prior content cannot be recovered.

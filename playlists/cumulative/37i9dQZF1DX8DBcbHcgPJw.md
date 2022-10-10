@@ -4,7 +4,7 @@
 
 > ¡Lo mejor de la Cumbia Pop! <br/>Foto: Rei.
 
-307 songs - 15 hr 27 min - [published](https://open.spotify.com/playlist/7vDusSvVBxYbBiawprvkqw)
+308 songs - 15 hr 30 min - [published](https://open.spotify.com/playlist/7vDusSvVBxYbBiawprvkqw)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -209,7 +209,7 @@
 | [Perdí la cuenta](https://open.spotify.com/track/3nYBXAImMXLQm1Kx75AA6R) | [Laguna](https://open.spotify.com/artist/5AEQ9NQK8LJSpUzhuJga5u), [El Super Hobby](https://open.spotify.com/artist/4nTNHKAVWQyqnvRuBW4N4V) | [Perdí la cuenta](https://open.spotify.com/album/05rxpKDQCVgnTFfCn6b9Pj) | 2:39 | 2022-01-21 | 2022-07-07 |
 | [Perdóname](https://open.spotify.com/track/1myDKm1jNafNgx53GSP3t0) | [LemonChamp](https://open.spotify.com/artist/3Tralte9fDtBGOq8ULPaXn) | [Perdóname](https://open.spotify.com/album/29b9UQw9UwVIuO4b5aEJGW) | 1:51 | 2022-03-30 | 2022-05-07 |
 | [Persia / YO SE QUE TU / Millonario](https://open.spotify.com/track/1YbZ9b1mqsTQdt1amdNIuS) | [El Rodri](https://open.spotify.com/artist/1fosVknoHjmETFcLUMCRjm) | [Persia / YO SE QUE TU / Millonario](https://open.spotify.com/album/0cYCBuuYYaZQygefwFGBxs) | 4:56 | 2022-03-30 |  |
-| [Pibe Cantina](https://open.spotify.com/track/14P2CPErwCwlRp5HutEZ7i) | [LemonChamp](https://open.spotify.com/artist/3Tralte9fDtBGOq8ULPaXn), [Yerba Brava](https://open.spotify.com/artist/7JRxvyluWYJ3M3ssmZrVs6) | [Pibe Cantina](https://open.spotify.com/album/1rLmjtiiQyJbIDgp5xfgAm) | 2:13 | 2022-08-26 |  |
+| [Pibe Cantina](https://open.spotify.com/track/14P2CPErwCwlRp5HutEZ7i) | [LemonChamp](https://open.spotify.com/artist/3Tralte9fDtBGOq8ULPaXn), [Yerba Brava](https://open.spotify.com/artist/7JRxvyluWYJ3M3ssmZrVs6) | [Pibe Cantina](https://open.spotify.com/album/1rLmjtiiQyJbIDgp5xfgAm) | 2:13 | 2022-08-26 | 2022-10-08 |
 | [Picasso](https://open.spotify.com/track/6iLR0qOc8txYkVBQKVXIIN) | [KEPÁ](https://open.spotify.com/artist/5a42D6pc8V0pLSEp5IVSLJ) | [Picasso](https://open.spotify.com/album/0h88IN1xE99JnL5umOcuaa) | 2:06 | 2022-06-17 | 2022-07-02 |
 | [Piel a Piel](https://open.spotify.com/track/2q3B7GLCEA4uYvuo2g5P82) | [Dame 5](https://open.spotify.com/artist/0J65S0gB0D1gDEd0hK196k) | [Piel a Piel](https://open.spotify.com/album/2yNvAGaBafYOZbQsG7wQaJ) | 2:35 | 2021-12-23 |  |
 | [Plegarias](https://open.spotify.com/track/0i79fEDmEK8WE4fKGhNsNw) | [LemonChamp](https://open.spotify.com/artist/3Tralte9fDtBGOq8ULPaXn) | [Plegarias](https://open.spotify.com/album/6Bk3uRGvbQi5vH3rzBqFNX) | 2:21 | 2021-12-23 | 2022-06-15 |
@@ -282,6 +282,7 @@
 | [Tranquila](https://open.spotify.com/track/5NMPnWUDvXr8Vnauv7I7YZ) | [FMK](https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [Tranquila](https://open.spotify.com/album/4VoOmCYmdOgQEK4TidgNtj) | 3:03 | 2022-07-08 |  |
 | [Tranquila](https://open.spotify.com/track/0EKb4wjBgn26iU6eYnGAqx) | [LemonChamp](https://open.spotify.com/artist/3Tralte9fDtBGOq8ULPaXn) | [Tranquila](https://open.spotify.com/album/4Up8dxf1iRmtcHHCJYCpIm) | 2:46 | 2022-03-04 | 2022-07-29 |
 | [Tranquila](https://open.spotify.com/track/7A0uUOdqyFPTigJxMywYch) | [Marito](https://open.spotify.com/artist/6635eN3p3KGQiPdlFFvred), [Nani](https://open.spotify.com/artist/4csfMLGLT1ikinHV3FRTmL) | [Tranquila](https://open.spotify.com/album/28nZzqhD6ToY7huYN0LzrD) | 3:25 | 2022-07-01 | 2022-07-08 |
+| [Trato de Olvidarte](https://open.spotify.com/track/7qlNg7nyyrU4weeD7GVfO6) | [Alex Tisien](https://open.spotify.com/artist/2bPiMXabGAZUTZvXdsIMnb), [18 Kilates](https://open.spotify.com/artist/2rqtqFiCGyzaRSYdgMiMNC) | [Trato de Olvidarte](https://open.spotify.com/album/2Q92KYVBNsiMIG4Zkgnzxb) | 2:41 | 2022-10-07 |  |
 | [Travesuras / Se Me Ha Perdido un Corazon](https://open.spotify.com/track/4rVhs9LlKB2ofHKnHR3FSw) | [Sentimiento Urbano](https://open.spotify.com/artist/4fb7ulRyWNBolty2fvgaBx), [Mozthaza](https://open.spotify.com/artist/1IF5pf9iB2D66RVVbuFSGP) | [Travesuras / Se Me Ha Perdido un Corazon](https://open.spotify.com/album/5k6rSJ7G8N7HJpFOXsplUm) | 2:54 | 2022-01-03 | 2022-07-29 |
 | [Tu Error](https://open.spotify.com/track/0fLdDZsFAmCs5zOCj516UK) | [Dame 5](https://open.spotify.com/artist/0J65S0gB0D1gDEd0hK196k) | [Tu Error](https://open.spotify.com/album/0SOv5dYYLIHeXB7kiYe1jQ) | 2:24 | 2022-03-04 | 2022-04-28 |
 | [Tu Estas Dura Sin Ir al Gym \(Fiel\)](https://open.spotify.com/track/0BExZoLgurIrhxMszxNEft) | [Marito](https://open.spotify.com/artist/6635eN3p3KGQiPdlFFvred) | [Tu Estas Dura Sin Ir al Gym \(Fiel\)](https://open.spotify.com/album/1RF1yDuugqziyC35DSJpg5) | 4:01 | 2021-12-23 |  |

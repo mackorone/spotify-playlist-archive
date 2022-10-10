@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-01",
-  "description": "Inspired by African drums. Cover: Ayra Starr, Kelly Rowland \ud83c\uddf3\ud83c\uddec \ud83c\uddfa\ud83c\uddf8",
+  "description": "Inspired by African drums. Cover: Diljit Dosanjh, Diamond Platnumz \ud83c\uddee\ud83c\uddf3 \ud83c\uddf9\ud83c\uddff ",
   "name": "Crxss Current",
   "published_playlist_ids": [
     "3Nva1foeKA4kN9RYANT1NX"
@@ -918,6 +918,24 @@
     },
     {
       "album": {
+        "name": "C'est Bon",
+        "url": "https://open.spotify.com/album/6t7gv04LSCXcdzmbq0IbSu"
+      },
+      "artists": [
+        {
+          "name": "Lu City",
+          "url": "https://open.spotify.com/artist/5UoVuwjRIYT6WGDUJjT1Se"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155454,
+      "name": "C'est Bon",
+      "url": "https://open.spotify.com/track/1mbA1wMausD6dFJwAZhs0N"
+    },
+    {
+      "album": {
         "name": "C'est dos\u00e9",
         "url": "https://open.spotify.com/album/5FY4VGL8QWWn3Vu6gNrKQ5"
       },
@@ -1283,6 +1301,28 @@
       "duration_ms": 179775,
       "name": "Dumebi",
       "url": "https://open.spotify.com/track/0SjQBdIddPvKSWxr8vk6QX"
+    },
+    {
+      "album": {
+        "name": "Ego",
+        "url": "https://open.spotify.com/album/66gJbsWDrMcgkBs6PYUFOl"
+      },
+      "artists": [
+        {
+          "name": "1da Banton",
+          "url": "https://open.spotify.com/artist/6dlzQ6fiPna40trq1Ek6cb"
+        },
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156080,
+      "name": "Ego",
+      "url": "https://open.spotify.com/track/3u9ptDnhV4pUhyjBaG3i6D"
     },
     {
       "album": {
@@ -2160,6 +2200,28 @@
     },
     {
       "album": {
+        "name": "Jugni",
+        "url": "https://open.spotify.com/album/2f4OFd2m05NI1WSJnhJi9v"
+      },
+      "artists": [
+        {
+          "name": "Diljit Dosanjh",
+          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
+        },
+        {
+          "name": "Diamond Platnumz",
+          "url": "https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193190,
+      "name": "Jugni",
+      "url": "https://open.spotify.com/track/0gHFDbhx2RFBrhJplPxlcT"
+    },
+    {
+      "album": {
         "name": "The Wal\u00e9 Project",
         "url": "https://open.spotify.com/album/0ISnwh4dunq4gUPT9TsmMq"
       },
@@ -2215,7 +2277,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 173465,
       "name": "Ki Manny\u00e9",
       "url": "https://open.spotify.com/track/0v391pPJXysSBHuq94eKeS"
@@ -2464,6 +2526,28 @@
     },
     {
       "album": {
+        "name": "Like Dat",
+        "url": "https://open.spotify.com/album/6z720xQ3VQnESEKUDISzno"
+      },
+      "artists": [
+        {
+          "name": "DJ Spider",
+          "url": "https://open.spotify.com/artist/4IIKLm6H0rXxvn6DWNhWcq"
+        },
+        {
+          "name": "Klassik Frescobar",
+          "url": "https://open.spotify.com/artist/2kEIOdyvN8XjC6UqysNWJ4"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136663,
+      "name": "Like Dat",
+      "url": "https://open.spotify.com/track/5dNlxKgi1aVsi5sTuOcN4P"
+    },
+    {
+      "album": {
         "name": "Arch & Bend Riddim Reloaded",
         "url": "https://open.spotify.com/album/5l7lnLGSa1TFfpKQioDPI0"
       },
@@ -2479,7 +2563,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-06",
       "duration_ms": 136724,
       "name": "Like Dat",
       "url": "https://open.spotify.com/track/3yKQU0uEWv6ulIKpXDLaip"
@@ -2563,10 +2647,86 @@
       ],
       "date_added": "2022-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 138567,
       "name": "Likkle Miss (with Skeng) - Remix",
       "url": "https://open.spotify.com/track/2VdsU2IJdx3i1aCsbyMlm6"
+    },
+    {
+      "album": {
+        "name": "Likkle Miss (THE FINE NINE REMIX)",
+        "url": "https://open.spotify.com/album/6wwwQnxcyo5Mh94TpZlE5B"
+      },
+      "artists": [
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        },
+        {
+          "name": "Skeng",
+          "url": "https://open.spotify.com/artist/4SGo67MJz6DdsjzaRZ4OD7"
+        },
+        {
+          "name": "Spice",
+          "url": "https://open.spotify.com/artist/1agX5xuqpSUDQ55gkdQbZk"
+        },
+        {
+          "name": "Destra Garcia",
+          "url": "https://open.spotify.com/artist/2xY7ztTvCsTQGTFc0Bk1oZ"
+        },
+        {
+          "name": "Patrice Roberts",
+          "url": "https://open.spotify.com/artist/0crMctn4iXaE3XCHpeBkOt"
+        },
+        {
+          "name": "Lady Leshurr",
+          "url": "https://open.spotify.com/artist/1Bk2KyFVMN5PeyVyDIiLqF"
+        },
+        {
+          "name": "Pamputtae",
+          "url": "https://open.spotify.com/artist/3qu3PIngYcX3SzOVcNGSTF"
+        },
+        {
+          "name": "Dovey Magnum",
+          "url": "https://open.spotify.com/artist/2QXURwKFTGg2RfgSKJ4HlR"
+        },
+        {
+          "name": "Lisa Mercedez",
+          "url": "https://open.spotify.com/artist/2uL8gbwzpTKZKSNcCTHm0p"
+        },
+        {
+          "name": "London Hill",
+          "url": "https://open.spotify.com/artist/1GHGcTFOhjYspfN2UKhhY8"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 370514,
+      "name": "Likkle Miss - THE FINE NINE REMIX",
+      "url": "https://open.spotify.com/track/0fbtPvz0y7t1ka4APqqt67"
+    },
+    {
+      "album": {
+        "name": "Live Some Life (feat. DING DONG)",
+        "url": "https://open.spotify.com/album/3SwPKWhYOkIGL3AF0CC6sY"
+      },
+      "artists": [
+        {
+          "name": "AMARIA BB",
+          "url": "https://open.spotify.com/artist/1AC6rw8sH8VGrzMzgFUDG5"
+        },
+        {
+          "name": "DING DONG",
+          "url": "https://open.spotify.com/artist/351x2S7CduShTNvtzgkMl7"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185191,
+      "name": "Live Some Life (feat. DING DONG)",
+      "url": "https://open.spotify.com/track/35MNHqBGewFxlJZtjHOxvj"
     },
     {
       "album": {
@@ -2709,7 +2869,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 206060,
       "name": "Love You First",
       "url": "https://open.spotify.com/track/0J9eUfu4zaTGFV8O4LvBT6"
@@ -2891,7 +3051,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 208366,
       "name": "Muselu",
       "url": "https://open.spotify.com/track/3OkLPaGFAjbpCVC31V6pNL"
@@ -3000,6 +3160,24 @@
     },
     {
       "album": {
+        "name": "No Mercy",
+        "url": "https://open.spotify.com/album/0L7p2x1XWK0Ooh4GDy9nGG"
+      },
+      "artists": [
+        {
+          "name": "Hey Choppi",
+          "url": "https://open.spotify.com/artist/27GA6NMM69byd5ankSWsXw"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159714,
+      "name": "No Mercy",
+      "url": "https://open.spotify.com/track/2k387ny7eq4QRyF42qRQON"
+    },
+    {
+      "album": {
         "name": "No Wahala (Remix)",
         "url": "https://open.spotify.com/album/1CuCITWTEr6lE2q3MraOSG"
       },
@@ -3019,7 +3197,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 178413,
       "name": "No Wahala - Remix",
       "url": "https://open.spotify.com/track/4yaPPFIafaVaMRHZ5IHkbA"
@@ -3203,7 +3381,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 128399,
       "name": "One Boyfriend",
       "url": "https://open.spotify.com/track/08QsuSdDXweRmh8y5SnlLo"
@@ -4252,6 +4430,32 @@
     },
     {
       "album": {
+        "name": "Superstar",
+        "url": "https://open.spotify.com/album/4G7Ss5mK4cMH81YEF7cj8U"
+      },
+      "artists": [
+        {
+          "name": "Costa Titch",
+          "url": "https://open.spotify.com/artist/5IaDEj02UeuU9YQSunGWgG"
+        },
+        {
+          "name": "Diamond Platnumz",
+          "url": "https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod"
+        },
+        {
+          "name": "Ma Gang Official",
+          "url": "https://open.spotify.com/artist/6oorjOsgeEP2V4gSOFoZHB"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278282,
+      "name": "Superstar",
+      "url": "https://open.spotify.com/track/0MEo0is8RinzoUGYvy3BgK"
+    },
+    {
+      "album": {
         "name": "Rising",
         "url": "https://open.spotify.com/album/1HREWIDOSN2kOOq0FtPQVr"
       },
@@ -4603,7 +4807,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 175677,
       "name": "Toni-Ann Singh (feat. Popcaan)",
       "url": "https://open.spotify.com/track/4bUe0OUcwdu85AMBkZzYFg"

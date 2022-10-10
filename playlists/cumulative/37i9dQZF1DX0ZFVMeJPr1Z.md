@@ -4,7 +4,7 @@
 
 > Spellistan för den svenska sommaren.
 
-93 songs - 5 hr 41 min - [published](https://open.spotify.com/playlist/4mrmOcrXwC1fOiVBPSDUca)
+94 songs - 5 hr 46 min - [published](https://open.spotify.com/playlist/4mrmOcrXwC1fOiVBPSDUca)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,7 +88,8 @@
 | [Så skimrande var aldrig havet](https://open.spotify.com/track/4p1LKZie1pNqfzzCYRrqmD) | [Marie Fredriksson](https://open.spotify.com/artist/4YkPXMsmFf3K2XFHPddqFU) | [Tid för tystnad \- Marie Fredrikssons ballader](https://open.spotify.com/album/1xEIu43pPZ8UFP5JWhixtk) | 3:52 | 2020-07-23 |  |
 | [Sångerna Om Sommaren](https://open.spotify.com/track/49OimCzeIacaDPsdKGlYKt) | [Glenmark Eriksson Strömstedt](https://open.spotify.com/artist/18zO6eeR1PG505akCHt9yB) | [Sångerna om sommaren](https://open.spotify.com/album/1IxGVyIExZXOj7PczM80fg) | 4:09 | 2020-07-23 |  |
 | [Ta mig till havet](https://open.spotify.com/track/1ykDKuKIU9pNFoOeR2VvN4) | [Peter Lundblad](https://open.spotify.com/artist/5yuHwiLMl8Mz5onBhn5HII) | ["Samlad \- 1981 \- 1994"](https://open.spotify.com/album/4Zcn8uXBKXRjv9AdgoVh8j) | 4:28 | 2020-07-23 |  |
-| [Till Stockholms skärgård](https://open.spotify.com/track/3O2FOUxhhmq8dCxceTNG9k) | [Lasse Berghagen](https://open.spotify.com/artist/7kdGjv0IIQJcU2bth1yoqY) | [På begäran](https://open.spotify.com/album/2tKPZAWQQSlzMfc2sdQPoE) | 4:38 | 2020-07-23 |  |
+| [Till Stockholms skärgård](https://open.spotify.com/track/3O2FOUxhhmq8dCxceTNG9k) | [Lasse Berghagen](https://open.spotify.com/artist/7kdGjv0IIQJcU2bth1yoqY) | [På begäran](https://open.spotify.com/album/2tKPZAWQQSlzMfc2sdQPoE) | 4:38 | 2020-07-23 | 2022-10-06 |
+| [Till Stockholms skärgård](https://open.spotify.com/track/7geUU2nienjTgFvUuobfAC) | [Lasse Berghagen](https://open.spotify.com/artist/7kdGjv0IIQJcU2bth1yoqY) | [På begäran](https://open.spotify.com/album/7rN7AM6a6mZ6PfZeC7asUZ) | 4:38 | 2020-07-23 |  |
 | [Till Stockholms skärgård](https://open.spotify.com/track/3OvozltJNr6KgHXW9K2Bxt) | [Lasse Berghagen](https://open.spotify.com/artist/7kdGjv0IIQJcU2bth1yoqY) | [Saltstänkta Sånger](https://open.spotify.com/album/1BgHdnasaOGvfBAvtw35xt) | 4:40 | 2020-07-23 | 2022-07-29 |
 | [Turistens klagan](https://open.spotify.com/track/4nFo5g8L40JXqWlh4LPu4l) | [Cornelis Vreeswijk](https://open.spotify.com/artist/5B38ZGYpd0msq1LKOyz2r9) | [Den svenska sommaren](https://open.spotify.com/album/5P5XwOAYMZleMz7HLqTYlX) | 3:22 | 2020-07-23 | 2022-07-29 |
 | [Turistens klagan](https://open.spotify.com/track/1sqembPbjeLU5HAiyzeEKa) | [Cornelis Vreeswijk](https://open.spotify.com/artist/5B38ZGYpd0msq1LKOyz2r9) | [Midsommarklassiker 2021](https://open.spotify.com/album/5fAkO01sraQ7NUWqFdY7FV) | 3:29 | 2020-07-23 |  |

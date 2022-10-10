@@ -4,7 +4,7 @@
 
 > The historic Italian crew delivers a mix for the ages—featuring contributions by <a href="spotify:artist:4sIhi1hLpRYRGxuPGgucTx">Ricky Le Roy</a>, <a href="spotify:artist:5Aj10ZmH8mlNB8tirOAo4f">Mario Più</a>, <a href="spotify:artist:4JrU565LFXyKjDaHhdmPR6">Joy Kitikonti</a> and <a href="spotify:artist:12cfYIEB508tIyRhgf8Hla">00Zicky</a>.
 
-14 songs - 1 hr 0 min - not published yet
+14 songs - 1 hr 0 min - [published](https://open.spotify.com/playlist/1h4kvAWwBZ7sX9BF5MBX3w)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

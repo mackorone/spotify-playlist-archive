@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdcb8m3Nt9YW.md) - [plain]
 
 > ¡De la tarima a tus bocinas! Los mejores corridos en vivo\. Grupo Marca Registrada & Gerardo Ortíz en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 138,549 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 139,924 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

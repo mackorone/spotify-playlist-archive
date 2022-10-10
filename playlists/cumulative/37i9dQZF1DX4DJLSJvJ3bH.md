@@ -4,7 +4,7 @@
 
 > All your favourite holiday jazz classics for your christmas dinner party.
 
-100 songs - 5 hr 38 min - [published](https://open.spotify.com/playlist/1RCTc7oBE4t1Ge16K09W30)
+101 songs - 5 hr 41 min - [published](https://open.spotify.com/playlist/1RCTc7oBE4t1Ge16K09W30)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -93,7 +93,8 @@
 | [The Christmas Song \(Merry Christmas To You\)](https://open.spotify.com/track/4PS1e8f2LvuTFgUs1Cn3ON) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [The Christmas Song \(Expanded Edition\)](https://open.spotify.com/album/6vBGI5522jvPi0ZZuGQNp4) | 3:12 | 2021-12-21 |  |
 | [The Christmas Waltz \- Remastered 1999](https://open.spotify.com/track/6G7QhTqDsP5vIdLQTYXXOU) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [A Jolly Christmas From Frank Sinatra](https://open.spotify.com/album/0ny6mZMBrYSO0s8HAKbcVq) | 3:01 | 2021-12-21 |  |
 | [The Holly and the Ivy](https://open.spotify.com/track/6kp3aicXY4wM8GtKjhT7jk) | [Flatland Park](https://open.spotify.com/artist/6xOql32xqR0X46QkNLCzPd) | [The First Noel](https://open.spotify.com/album/0UykYUfd6JfL0WXXqbKGiX) | 1:30 | 2021-12-21 |  |
-| [The Little Drummer Boy](https://open.spotify.com/track/7vZXx451PBO88CM7e3oSOL) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0), [Fred Waring & The Pennsylvanians](https://open.spotify.com/artist/6kgYj0BHuAkQkZVkxYFCVC) | [Ultimate Christmas](https://open.spotify.com/album/1gCLWt3kXk5kNTZdsx6P8a) | 3:05 | 2021-12-21 |  |
+| [The Little Drummer Boy](https://open.spotify.com/track/5rVzhhZwZpclUXEp0V16TQ) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0), [Fred Waring & The Pennsylvanians](https://open.spotify.com/artist/6kgYj0BHuAkQkZVkxYFCVC) | [XMAS](https://open.spotify.com/album/07gcCXuyT2NDA7LrmKPTz7) | 3:04 | 2022-09-27 |  |
+| [The Little Drummer Boy](https://open.spotify.com/track/7vZXx451PBO88CM7e3oSOL) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0), [Fred Waring & The Pennsylvanians](https://open.spotify.com/artist/6kgYj0BHuAkQkZVkxYFCVC) | [Ultimate Christmas](https://open.spotify.com/album/1gCLWt3kXk5kNTZdsx6P8a) | 3:05 | 2021-12-21 | 2022-10-09 |
 | [The Secret Of Christmas](https://open.spotify.com/track/4JfmVZv6rhWBxKSf7xfe5F) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Ella Wishes You A Swinging Christmas \(Expanded Edition\)](https://open.spotify.com/album/2UhPCUgK2IGUrg7lIvMYfb) | 2:45 | 2021-12-21 |  |
 | [The Time of the Year](https://open.spotify.com/track/5QgDnPnQrHvM9x9p67XAYg) | [Niklas Gabrielsson with Martin Landström & His Orchestra](https://open.spotify.com/artist/6tXmWC5IoHPCCyKzg9Pgjm) | [The Time of the Year](https://open.spotify.com/album/3uhQZntd41T2H4mL5eO6w8) | 3:28 | 2021-12-21 |  |
 | [The Twelve Days of Christmas](https://open.spotify.com/track/0vJXil4qDbtkwXmxo0Rl1T) | [Perry Como](https://open.spotify.com/artist/5v8jlSmAQfrkTjAlpUfWtu) | [Greatest Christmas Songs](https://open.spotify.com/album/4lculT3R9mxFqdmXOCLuY7) | 4:00 | 2022-01-03 |  |

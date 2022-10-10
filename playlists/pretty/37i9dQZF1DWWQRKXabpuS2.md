@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWQRKXabpuS2.md) - [plain]
 
 ### [خليجي جديد](https://open.spotify.com/playlist/37i9dQZF1DWWQRKXabpuS2)
 
-> ابق على اطلاع بأحدث الأغاني الخليجية! الغلاف: فؤاد عبدالواحد
+> كل شي خليجي جديد\. الغلاف: فؤاد عبدالواحد
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,025 likes - 51 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,109 likes - 51 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWQRKXabpuS2.md) - [plain]
 | 50 | [Leh Rajee](https://open.spotify.com/track/2rTe08BVkNA9S8xaC4ZqTD) | [Al Anean](https://open.spotify.com/artist/4OGe22HHsE2RKyb710cHI3) | [Leh Rajee](https://open.spotify.com/album/2CiC0SU1r3W3MPcoHuFMyr) | 3:43 |
 | 51 | [Ahla Watan](https://open.spotify.com/track/0l96bCDCnawVGivHaq9GZw) | [Majid Almohandis](https://open.spotify.com/artist/2YquYFTCdzTnrcxZzzrNbj) | [Ahla Watan](https://open.spotify.com/album/1VSx7ihfIys5LekVlkUjY2) | 2:02 |
 
-Snapshot ID: `MTY2NDU0MjQ3NiwwMDAwMDAwMDkzMmU2MzJjY2ExMzE4NDNhY2JiZTg5NjhmY2FmYWFl`
+Snapshot ID: `MTY2NDg4NzE3MSwwMDAwMDAwMDhkMjJhMDFiNmQ5ZTg2NzdmOTQ1NjQ0ZmM0YmQ3ZGY4`

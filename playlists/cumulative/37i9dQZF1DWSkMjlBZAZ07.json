@@ -517,7 +517,7 @@
       ],
       "date_added": "2022-06-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-02",
+      "date_removed": null,
       "duration_ms": 190786,
       "name": "Can't Cheat Death",
       "url": "https://open.spotify.com/track/2W7LF1AC58Y4Qmk9UpZ5c1"
@@ -1170,6 +1170,24 @@
     },
     {
       "album": {
+        "name": "Different Kinds of Light",
+        "url": "https://open.spotify.com/album/1f1u0MpV823YGBjQBb8JJ9"
+      },
+      "artists": [
+        {
+          "name": "Jade Bird",
+          "url": "https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S"
+        }
+      ],
+      "date_added": "2022-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142818,
+      "name": "Headstart",
+      "url": "https://open.spotify.com/track/7pwv5cbW7hj4HVv3US4XUT"
+    },
+    {
+      "album": {
         "name": "Here Comes The Light (The B-Sides)",
         "url": "https://open.spotify.com/album/4dZFpop6NMrixJRdxhKf8p"
       },
@@ -1383,7 +1401,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-07",
       "duration_ms": 192743,
       "name": "Hummingbird",
       "url": "https://open.spotify.com/track/6VJESmw3puw9eFpmglP2dM"
@@ -1729,7 +1747,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-09",
       "duration_ms": 195680,
       "name": "Little Road",
       "url": "https://open.spotify.com/track/4wDhECcwcKR4jZEEDiye5a"
@@ -1891,7 +1909,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-09",
       "duration_ms": 117146,
       "name": "Mighty Soul",
       "url": "https://open.spotify.com/track/1beRzsjfMsFtrXkw0I4OPZ"
@@ -2585,7 +2603,7 @@
       ],
       "date_added": "2022-06-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-01",
+      "date_removed": null,
       "duration_ms": 188453,
       "name": "Shape of Love",
       "url": "https://open.spotify.com/track/6eQYZ57P28uc8caJagxYcZ"

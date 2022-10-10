@@ -1,12 +1,12 @@
 {
   "description": "That feeling of being punched in the gut by a song.",
-  "num_followers": 91334,
+  "num_followers": 3916,
   "original_name": "Devastating",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYxOTgwMzc4NywwMDAwMDAwMDdhYzFjMjgyMTk1MGM3MDQ5YThkODRkNDM5Yjg3YTQx",
+  "snapshot_id": "MTY2NDg5NTMwMiwwMDAwMDAwMGNjNWQ0NTU2YzcwM2NmZWIxZDBkNTU1YjNkNTU3MDdm",
   "tracks": [
     {
       "added_at": "2021-04-30 17:29:47",
@@ -139,6 +139,22 @@
     {
       "added_at": "2021-04-30 17:29:47",
       "album": {
+        "name": "Bathing Beach",
+        "url": "https://open.spotify.com/album/4vGuMdwnxc6X8izbVS6MTN"
+      },
+      "artists": [
+        {
+          "name": "Novo Amor",
+          "url": "https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi"
+        }
+      ],
+      "duration_ms": 273106,
+      "name": "Carry You",
+      "url": "https://open.spotify.com/track/0u4rkpmNtgcFxYHepnVF4v"
+    },
+    {
+      "added_at": "2021-04-30 17:29:47",
+      "album": {
         "name": "Trading Snakeoil for Wolftickets",
         "url": "https://open.spotify.com/album/1OydCrx4m7fguwcX4stR9z"
       },
@@ -155,22 +171,6 @@
       "duration_ms": 189506,
       "name": "Mad World",
       "url": "https://open.spotify.com/track/3JOVTQ5h8HGFnDdp4VT3MP"
-    },
-    {
-      "added_at": "2021-04-30 17:29:47",
-      "album": {
-        "name": "Bathing Beach",
-        "url": "https://open.spotify.com/album/4vGuMdwnxc6X8izbVS6MTN"
-      },
-      "artists": [
-        {
-          "name": "Novo Amor",
-          "url": "https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi"
-        }
-      ],
-      "duration_ms": 273106,
-      "name": "Carry You",
-      "url": "https://open.spotify.com/track/0u4rkpmNtgcFxYHepnVF4v"
     },
     {
       "added_at": "2021-04-30 17:29:47",
@@ -207,22 +207,6 @@
     {
       "added_at": "2021-04-30 17:29:47",
       "album": {
-        "name": "I Don't Want to Lose You",
-        "url": "https://open.spotify.com/album/3SCtqzIjuEm8ApS4PyqBWE"
-      },
-      "artists": [
-        {
-          "name": "Luca Fogale",
-          "url": "https://open.spotify.com/artist/3GKdEPHUSBp3iNT4SG2Med"
-        }
-      ],
-      "duration_ms": 171013,
-      "name": "I Don't Want to Lose You",
-      "url": "https://open.spotify.com/track/4F2OxwQFkM7rFhwuz4akT9"
-    },
-    {
-      "added_at": "2021-04-30 17:29:47",
-      "album": {
         "name": "Plans",
         "url": "https://open.spotify.com/album/1NFGnxmeIEBakre4DvLaJq"
       },
@@ -251,6 +235,22 @@
       "duration_ms": 318908,
       "name": "In My Veins - Feat. Erin Mccarley",
       "url": "https://open.spotify.com/track/7LwGBxB0h0CVmkOZxYKn0g"
+    },
+    {
+      "added_at": "2021-04-30 17:29:47",
+      "album": {
+        "name": "I Don't Want to Lose You",
+        "url": "https://open.spotify.com/album/3SCtqzIjuEm8ApS4PyqBWE"
+      },
+      "artists": [
+        {
+          "name": "Luca Fogale",
+          "url": "https://open.spotify.com/artist/3GKdEPHUSBp3iNT4SG2Med"
+        }
+      ],
+      "duration_ms": 171013,
+      "name": "I Don't Want to Lose You",
+      "url": "https://open.spotify.com/track/4F2OxwQFkM7rFhwuz4akT9"
     },
     {
       "added_at": "2021-04-30 17:29:47",
@@ -423,6 +423,22 @@
     {
       "added_at": "2021-04-30 17:29:47",
       "album": {
+        "name": "Speak Now (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5EpMjweRD573ASl7uNiHym"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 367133,
+      "name": "Last Kiss",
+      "url": "https://open.spotify.com/track/1D27z8xNzjW0Mwwt1NCWhJ"
+    },
+    {
+      "added_at": "2021-04-30 17:29:47",
+      "album": {
         "name": "Only One",
         "url": "https://open.spotify.com/album/2ar6Yxkh6psvQOrGqk248v"
       },
@@ -439,22 +455,6 @@
       "duration_ms": 280226,
       "name": "Only One",
       "url": "https://open.spotify.com/track/0j35X8cTq543QDYLOyqB8W"
-    },
-    {
-      "added_at": "2021-04-30 17:29:47",
-      "album": {
-        "name": "Speak Now (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/5EpMjweRD573ASl7uNiHym"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 367133,
-      "name": "Last Kiss",
-      "url": "https://open.spotify.com/track/1D27z8xNzjW0Mwwt1NCWhJ"
     },
     {
       "added_at": "2021-04-30 17:29:47",
@@ -555,22 +555,6 @@
     {
       "added_at": "2021-04-30 17:29:47",
       "album": {
-        "name": "Whatever And Ever Amen (Remastered Edition)",
-        "url": "https://open.spotify.com/album/3oz8kworUyU7oXjaEVhDsZ"
-      },
-      "artists": [
-        {
-          "name": "Ben Folds Five",
-          "url": "https://open.spotify.com/artist/44gRHbEm4Uqa0ykW0rDTNk"
-        }
-      ],
-      "duration_ms": 271720,
-      "name": "Brick",
-      "url": "https://open.spotify.com/track/4jKq1e80xAYixkIwt6YyV1"
-    },
-    {
-      "added_at": "2021-04-30 17:29:47",
-      "album": {
         "name": "Ie+",
         "url": "https://open.spotify.com/album/0Q0dRDcgxKmNqtwdva153b"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 248032,
       "name": "Dancing Without Music",
       "url": "https://open.spotify.com/track/35JqhVvhuyBoPLLUY8Klqd"
+    },
+    {
+      "added_at": "2021-04-30 17:29:47",
+      "album": {
+        "name": "Whatever And Ever Amen (Remastered Edition)",
+        "url": "https://open.spotify.com/album/3oz8kworUyU7oXjaEVhDsZ"
+      },
+      "artists": [
+        {
+          "name": "Ben Folds Five",
+          "url": "https://open.spotify.com/artist/44gRHbEm4Uqa0ykW0rDTNk"
+        }
+      ],
+      "duration_ms": 271720,
+      "name": "Brick",
+      "url": "https://open.spotify.com/track/4jKq1e80xAYixkIwt6YyV1"
     },
     {
       "added_at": "2021-04-30 17:29:47",
@@ -619,22 +619,6 @@
     {
       "added_at": "2021-04-30 17:29:47",
       "album": {
-        "name": "Twenty Something",
-        "url": "https://open.spotify.com/album/04fOj55fAN5mWhs7DMvNiH"
-      },
-      "artists": [
-        {
-          "name": "Jon Bryant",
-          "url": "https://open.spotify.com/artist/2gzH4rGNFJeNg13yv2uI4L"
-        }
-      ],
-      "duration_ms": 269986,
-      "name": "Wilderness",
-      "url": "https://open.spotify.com/track/2dS2710jYUM8gE2V1KC3uG"
-    },
-    {
-      "added_at": "2021-04-30 17:29:47",
-      "album": {
         "name": "songs from 3am",
         "url": "https://open.spotify.com/album/4NeqpTtchhJkrFhW0kQgrH"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 178895,
       "name": "i don't miss u",
       "url": "https://open.spotify.com/track/5WgdCkTa3l9GznpPQaQH6W"
+    },
+    {
+      "added_at": "2021-04-30 17:29:47",
+      "album": {
+        "name": "Twenty Something",
+        "url": "https://open.spotify.com/album/04fOj55fAN5mWhs7DMvNiH"
+      },
+      "artists": [
+        {
+          "name": "Jon Bryant",
+          "url": "https://open.spotify.com/artist/2gzH4rGNFJeNg13yv2uI4L"
+        }
+      ],
+      "duration_ms": 269986,
+      "name": "Wilderness",
+      "url": "https://open.spotify.com/track/2dS2710jYUM8gE2V1KC3uG"
     },
     {
       "added_at": "2021-04-30 17:29:47",
@@ -683,22 +683,6 @@
     {
       "added_at": "2021-04-30 17:29:47",
       "album": {
-        "name": "MASSEDUCTION",
-        "url": "https://open.spotify.com/album/4RoOGpdrgfiIUyv0kLaC4e"
-      },
-      "artists": [
-        {
-          "name": "St. Vincent",
-          "url": "https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6"
-        }
-      ],
-      "duration_ms": 154960,
-      "name": "New York",
-      "url": "https://open.spotify.com/track/5IXTT9RvcVupmzLTFqIInj"
-    },
-    {
-      "added_at": "2021-04-30 17:29:47",
-      "album": {
         "name": "Let There Be Morning (Bonus Track Version)",
         "url": "https://open.spotify.com/album/5p30s78WN0bRMuUZk64k0w"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 189240,
       "name": "Pills",
       "url": "https://open.spotify.com/track/0dnRlO7IDzbN9ixVld7hz6"
+    },
+    {
+      "added_at": "2021-04-30 17:29:47",
+      "album": {
+        "name": "MASSEDUCTION",
+        "url": "https://open.spotify.com/album/4RoOGpdrgfiIUyv0kLaC4e"
+      },
+      "artists": [
+        {
+          "name": "St. Vincent",
+          "url": "https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6"
+        }
+      ],
+      "duration_ms": 154960,
+      "name": "New York",
+      "url": "https://open.spotify.com/track/5IXTT9RvcVupmzLTFqIInj"
     },
     {
       "added_at": "2021-04-30 17:29:47",
@@ -875,34 +875,18 @@
     {
       "added_at": "2021-04-30 17:29:47",
       "album": {
-        "name": "Cry Forever",
-        "url": "https://open.spotify.com/album/3pb256CZQ5vf8kbDlguYhD"
+        "name": "Transcendental Highway",
+        "url": "https://open.spotify.com/album/6ooDMq5QxVHFeMootZ7D7m"
       },
       "artists": [
         {
-          "name": "Amy Shark",
-          "url": "https://open.spotify.com/artist/2DORQjKJVYZMx9uu82UGtT"
+          "name": "Colin Hay",
+          "url": "https://open.spotify.com/artist/5mxB08ktCukEhGMg2YZeEv"
         }
       ],
-      "duration_ms": 181213,
-      "name": "Worst Day of My Life",
-      "url": "https://open.spotify.com/track/2xRUyAQeYVYCohZrEBpbiu"
-    },
-    {
-      "added_at": "2021-04-30 17:29:47",
-      "album": {
-        "name": "Mt. Joy",
-        "url": "https://open.spotify.com/album/5h9FO7QRZMcrcnSYvihQ01"
-      },
-      "artists": [
-        {
-          "name": "Mt. Joy",
-          "url": "https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI"
-        }
-      ],
-      "duration_ms": 297240,
-      "name": "Younger Days",
-      "url": "https://open.spotify.com/track/73DoUyxCAGBTzr5RFOEHXo"
+      "duration_ms": 328560,
+      "name": "I Just Don't Think I'll Ever Get Over You",
+      "url": "https://open.spotify.com/track/2IR01O6kw4IB68hcV9FWYN"
     },
     {
       "added_at": "2021-04-30 17:29:47",
@@ -923,6 +907,38 @@
     {
       "added_at": "2021-04-30 17:29:47",
       "album": {
+        "name": "Mt. Joy",
+        "url": "https://open.spotify.com/album/5h9FO7QRZMcrcnSYvihQ01"
+      },
+      "artists": [
+        {
+          "name": "Mt. Joy",
+          "url": "https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI"
+        }
+      ],
+      "duration_ms": 297240,
+      "name": "Younger Days",
+      "url": "https://open.spotify.com/track/73DoUyxCAGBTzr5RFOEHXo"
+    },
+    {
+      "added_at": "2021-04-30 17:29:47",
+      "album": {
+        "name": "Cry Forever",
+        "url": "https://open.spotify.com/album/3pb256CZQ5vf8kbDlguYhD"
+      },
+      "artists": [
+        {
+          "name": "Amy Shark",
+          "url": "https://open.spotify.com/artist/2DORQjKJVYZMx9uu82UGtT"
+        }
+      ],
+      "duration_ms": 181213,
+      "name": "Worst Day of My Life",
+      "url": "https://open.spotify.com/track/2xRUyAQeYVYCohZrEBpbiu"
+    },
+    {
+      "added_at": "2021-04-30 17:29:47",
+      "album": {
         "name": "If You Wait",
         "url": "https://open.spotify.com/album/2J4dwQHk8EZKPKGhM1EzOU"
       },
@@ -939,18 +955,18 @@
     {
       "added_at": "2021-04-30 17:29:47",
       "album": {
-        "name": "Transcendental Highway",
-        "url": "https://open.spotify.com/album/6ooDMq5QxVHFeMootZ7D7m"
+        "name": "The Civil Wars",
+        "url": "https://open.spotify.com/album/79FSQez4eiOFA4Kx8Bxgyy"
       },
       "artists": [
         {
-          "name": "Colin Hay",
-          "url": "https://open.spotify.com/artist/5mxB08ktCukEhGMg2YZeEv"
+          "name": "The Civil Wars",
+          "url": "https://open.spotify.com/artist/6J7rw7NELJUCThPbAfyLIE"
         }
       ],
-      "duration_ms": 328560,
-      "name": "I Just Don't Think I'll Ever Get Over You",
-      "url": "https://open.spotify.com/track/2IR01O6kw4IB68hcV9FWYN"
+      "duration_ms": 229666,
+      "name": "Dust to Dust",
+      "url": "https://open.spotify.com/track/0vwRHdpyDLRchRBtMjjjBH"
     },
     {
       "added_at": "2021-04-30 17:29:47",
@@ -967,22 +983,6 @@
       "duration_ms": 238176,
       "name": "Stay",
       "url": "https://open.spotify.com/track/2ilo3w0stilJKeQZS61FeN"
-    },
-    {
-      "added_at": "2021-04-30 17:29:47",
-      "album": {
-        "name": "The Civil Wars",
-        "url": "https://open.spotify.com/album/79FSQez4eiOFA4Kx8Bxgyy"
-      },
-      "artists": [
-        {
-          "name": "The Civil Wars",
-          "url": "https://open.spotify.com/artist/6J7rw7NELJUCThPbAfyLIE"
-        }
-      ],
-      "duration_ms": 229666,
-      "name": "Dust to Dust",
-      "url": "https://open.spotify.com/track/0vwRHdpyDLRchRBtMjjjBH"
     },
     {
       "added_at": "2021-04-30 17:29:47",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2021-04-30 17:29:47",
       "album": {
-        "name": "Quiver",
-        "url": "https://open.spotify.com/album/3iJqPoSepf0oHwIWd7K83f"
-      },
-      "artists": [
-        {
-          "name": "Lonas",
-          "url": "https://open.spotify.com/artist/4IK8Q9friPfYKvX4n83vYL"
-        }
-      ],
-      "duration_ms": 251872,
-      "name": "Quiver",
-      "url": "https://open.spotify.com/track/0yPm9Wg6qcTwLZIXweNGpA"
-    },
-    {
-      "added_at": "2021-04-30 17:29:47",
-      "album": {
         "name": "Veckatimest",
         "url": "https://open.spotify.com/album/6FIFqclBriPCb0SjWDaHIk"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 215373,
       "name": "Foreground",
       "url": "https://open.spotify.com/track/2MTQDSB9XLD1ejc6tAMQfv"
+    },
+    {
+      "added_at": "2021-04-30 17:29:47",
+      "album": {
+        "name": "Quiver",
+        "url": "https://open.spotify.com/album/3iJqPoSepf0oHwIWd7K83f"
+      },
+      "artists": [
+        {
+          "name": "Lonas",
+          "url": "https://open.spotify.com/artist/4IK8Q9friPfYKvX4n83vYL"
+        }
+      ],
+      "duration_ms": 251872,
+      "name": "Quiver",
+      "url": "https://open.spotify.com/track/0yPm9Wg6qcTwLZIXweNGpA"
     },
     {
       "added_at": "2021-04-30 17:29:47",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2021-04-30 17:29:47",
       "album": {
-        "name": "I Love You, Honeybear",
-        "url": "https://open.spotify.com/album/4vTEFCLgDEgKIQXTrsmS6F"
-      },
-      "artists": [
-        {
-          "name": "Father John Misty",
-          "url": "https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT"
-        }
-      ],
-      "duration_ms": 266053,
-      "name": "I Went To The Store One Day",
-      "url": "https://open.spotify.com/track/46OdBjlDe1JVm81dmNYdyX"
-    },
-    {
-      "added_at": "2021-04-30 17:29:47",
-      "album": {
         "name": "Better Oblivion Community Center",
         "url": "https://open.spotify.com/album/0uJIxkI8D0rR4shEIKeiDs"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 272033,
       "name": "Dominos",
       "url": "https://open.spotify.com/track/5JquknF5yqKV2lZFeffMIQ"
+    },
+    {
+      "added_at": "2021-04-30 17:29:47",
+      "album": {
+        "name": "I Love You, Honeybear",
+        "url": "https://open.spotify.com/album/4vTEFCLgDEgKIQXTrsmS6F"
+      },
+      "artists": [
+        {
+          "name": "Father John Misty",
+          "url": "https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT"
+        }
+      ],
+      "duration_ms": 266053,
+      "name": "I Went To The Store One Day",
+      "url": "https://open.spotify.com/track/46OdBjlDe1JVm81dmNYdyX"
     },
     {
       "added_at": "2021-04-30 17:29:47",
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2021-04-30 17:29:47",
       "album": {
-        "name": "If & When",
-        "url": "https://open.spotify.com/album/39VHhQwmza9iT3K3PuNHSU"
-      },
-      "artists": [
-        {
-          "name": "Margaret Glaspy",
-          "url": "https://open.spotify.com/artist/13YVfXddjRIUrubItJjadb"
-        }
-      ],
-      "duration_ms": 213252,
-      "name": "You're Smiling (But I Don't Believe You)",
-      "url": "https://open.spotify.com/track/7ajY0y3joEbeL1gZW4ujmR"
-    },
-    {
-      "added_at": "2021-04-30 17:29:47",
-      "album": {
         "name": "From A Basement On The Hill",
         "url": "https://open.spotify.com/album/2K4OE5cl22fNSRrwzrhIZZ"
       },
@@ -1331,6 +1315,38 @@
       "duration_ms": 181680,
       "name": "Seaweed",
       "url": "https://open.spotify.com/track/2jpaYrcduGAlHkFZwLobxN"
+    },
+    {
+      "added_at": "2021-04-30 17:29:47",
+      "album": {
+        "name": "placeholder",
+        "url": "https://open.spotify.com/album/5MByQp3pFETiRZxcwnZsZz"
+      },
+      "artists": [
+        {
+          "name": "Hand Habits",
+          "url": "https://open.spotify.com/artist/5poU7FPEYoBlwjzOEWMbX5"
+        }
+      ],
+      "duration_ms": 230006,
+      "name": "placeholder",
+      "url": "https://open.spotify.com/track/0p0BfeqMWoToqbPVzXxAIZ"
+    },
+    {
+      "added_at": "2021-04-30 17:29:47",
+      "album": {
+        "name": "If & When",
+        "url": "https://open.spotify.com/album/39VHhQwmza9iT3K3PuNHSU"
+      },
+      "artists": [
+        {
+          "name": "Margaret Glaspy",
+          "url": "https://open.spotify.com/artist/13YVfXddjRIUrubItJjadb"
+        }
+      ],
+      "duration_ms": 213252,
+      "name": "You're Smiling (But I Don't Believe You)",
+      "url": "https://open.spotify.com/track/7ajY0y3joEbeL1gZW4ujmR"
     },
     {
       "added_at": "2021-04-30 17:29:47",
@@ -1447,22 +1463,6 @@
     {
       "added_at": "2021-04-30 17:29:47",
       "album": {
-        "name": "Think Twice",
-        "url": "https://open.spotify.com/album/5MfzmKy0kDnz0KntikIFxP"
-      },
-      "artists": [
-        {
-          "name": "Nick Wilson",
-          "url": "https://open.spotify.com/artist/09Z3wZ88af1pfyJxziESQF"
-        }
-      ],
-      "duration_ms": 211770,
-      "name": "Think Twice",
-      "url": "https://open.spotify.com/track/3AUUytODwlkGAeQa7yfkfr"
-    },
-    {
-      "added_at": "2021-04-30 17:29:47",
-      "album": {
         "name": "Giants",
         "url": "https://open.spotify.com/album/5jZ99kZu474tcvbhzBuqHI"
       },
@@ -1479,6 +1479,22 @@
     {
       "added_at": "2021-04-30 17:29:47",
       "album": {
+        "name": "Think Twice",
+        "url": "https://open.spotify.com/album/5MfzmKy0kDnz0KntikIFxP"
+      },
+      "artists": [
+        {
+          "name": "Nick Wilson",
+          "url": "https://open.spotify.com/artist/09Z3wZ88af1pfyJxziESQF"
+        }
+      ],
+      "duration_ms": 211770,
+      "name": "Think Twice",
+      "url": "https://open.spotify.com/track/3AUUytODwlkGAeQa7yfkfr"
+    },
+    {
+      "added_at": "2021-04-30 17:29:47",
+      "album": {
         "name": "Daisies Of The Galaxy",
         "url": "https://open.spotify.com/album/1myZZzfBVfMo7t4yvgAXte"
       },
@@ -1491,22 +1507,6 @@
       "duration_ms": 131733,
       "name": "It's A Motherfucker",
       "url": "https://open.spotify.com/track/7KFcK6EDxAl0HrFoFhTsuC"
-    },
-    {
-      "added_at": "2021-04-30 17:29:47",
-      "album": {
-        "name": "placeholder",
-        "url": "https://open.spotify.com/album/5MByQp3pFETiRZxcwnZsZz"
-      },
-      "artists": [
-        {
-          "name": "Hand Habits",
-          "url": "https://open.spotify.com/artist/5poU7FPEYoBlwjzOEWMbX5"
-        }
-      ],
-      "duration_ms": 230006,
-      "name": "placeholder",
-      "url": "https://open.spotify.com/track/0p0BfeqMWoToqbPVzXxAIZ"
     },
     {
       "added_at": "2021-04-30 17:29:47",
@@ -1559,6 +1559,22 @@
     {
       "added_at": "2021-04-30 17:29:47",
       "album": {
+        "name": "Kaleidoscope Heart",
+        "url": "https://open.spotify.com/album/627ukPRwYxyBREHxBq0vGJ"
+      },
+      "artists": [
+        {
+          "name": "Sara Bareilles",
+          "url": "https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM"
+        }
+      ],
+      "duration_ms": 251840,
+      "name": "Basket Case",
+      "url": "https://open.spotify.com/track/7AXUdQmZMA5u221iv6gB0m"
+    },
+    {
+      "added_at": "2021-04-30 17:29:47",
+      "album": {
         "name": "Undiscovered",
         "url": "https://open.spotify.com/album/00QEcKEqSmwP8odEMImIuz"
       },
@@ -1591,22 +1607,6 @@
     {
       "added_at": "2021-04-30 17:29:47",
       "album": {
-        "name": "Kaleidoscope Heart",
-        "url": "https://open.spotify.com/album/627ukPRwYxyBREHxBq0vGJ"
-      },
-      "artists": [
-        {
-          "name": "Sara Bareilles",
-          "url": "https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM"
-        }
-      ],
-      "duration_ms": 251840,
-      "name": "Basket Case",
-      "url": "https://open.spotify.com/track/7AXUdQmZMA5u221iv6gB0m"
-    },
-    {
-      "added_at": "2021-04-30 17:29:47",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/4DyuXP04lvFmYh01L94WH2"
       },
@@ -1623,22 +1623,18 @@
     {
       "added_at": "2021-04-30 17:29:47",
       "album": {
-        "name": "No Need To Argue",
-        "url": "https://open.spotify.com/album/7gQuPkANfJX8bHWJypWDlX"
+        "name": "In The Aeroplane Over The Sea",
+        "url": "https://open.spotify.com/album/3QSWBOJ6C8nEI35vhOkZ4u"
       },
       "artists": [
         {
-          "name": "Hannah Georgas",
-          "url": "https://open.spotify.com/artist/1ZBR8sri8ddYowXDENBwKS"
-        },
-        {
-          "name": "Lucius",
-          "url": "https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas"
+          "name": "Dan Mangan",
+          "url": "https://open.spotify.com/artist/5ByjU6oarxRC2Y85JpKx1n"
         }
       ],
-      "duration_ms": 193011,
-      "name": "No Need To Argue",
-      "url": "https://open.spotify.com/track/6bMtHFNzq1PU6HD7h8SUkd"
+      "duration_ms": 221440,
+      "name": "In The Aeroplane Over The Sea",
+      "url": "https://open.spotify.com/track/1uR8YDxSxeo8BkbR6MUdvg"
     }
   ],
   "unique_name": "Devastating",

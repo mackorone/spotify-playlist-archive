@@ -542,6 +542,24 @@
     },
     {
       "album": {
+        "name": "IMPERIAL CHAIN",
+        "url": "https://open.spotify.com/album/5LEMeHQkS5yakdGYSQsbn7"
+      },
+      "artists": [
+        {
+          "name": "\u0179OO\u013b",
+          "url": "https://open.spotify.com/artist/2ZJxvizuWt2geMy6D2p3ol"
+        }
+      ],
+      "date_added": "2022-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252920,
+      "name": "IMPERIAL CHAIN",
+      "url": "https://open.spotify.com/track/2aeYYVYK2upJ0gmQ7GosK1"
+    },
+    {
+      "album": {
         "name": "REGALITY",
         "url": "https://open.spotify.com/album/1lYrz8KfQ6O2sb31UMtTrU"
       },
@@ -1588,6 +1606,24 @@
     },
     {
       "album": {
+        "name": "WONDER LiGHT",
+        "url": "https://open.spotify.com/album/2IrYnafy5p44G36o8eDvJs"
+      },
+      "artists": [
+        {
+          "name": "IDOLiSH7",
+          "url": "https://open.spotify.com/artist/0IcPjyCeXNduddHImlSKLH"
+        }
+      ],
+      "date_added": "2022-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207120,
+      "name": "WONDER LiGHT",
+      "url": "https://open.spotify.com/track/3DxQteR3hlJvFGR3NrH7IL"
+    },
+    {
+      "album": {
         "name": "Bang!Bang!Bang!",
         "url": "https://open.spotify.com/album/3mvj8t30jZOic1I5Oe2gFg"
       },
@@ -1599,7 +1635,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-05",
       "duration_ms": 241200,
       "name": "ZONE OF OVERLAP",
       "url": "https://open.spotify.com/track/3G7t21C567I2ryejOVX2ue"
@@ -2051,7 +2087,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-05",
       "duration_ms": 263386,
       "name": "\u6fc0\u60c5",
       "url": "https://open.spotify.com/track/3qOVMClhpgvWo1NLVeCn6T"

@@ -451,7 +451,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-14",
+      "date_removed": null,
       "duration_ms": 192000,
       "name": "Beatrix",
       "url": "https://open.spotify.com/track/00kG2B5W9MQYdPxrICYhNg"
@@ -3401,6 +3401,24 @@
     {
       "album": {
         "name": "Love and Rockets",
+        "url": "https://open.spotify.com/album/3lqy9ZOzLlwDTfXOkpubgU"
+      },
+      "artists": [
+        {
+          "name": "Love and Rockets",
+          "url": "https://open.spotify.com/artist/09mvgMBvJkxarNIDGdwPWg"
+        }
+      ],
+      "date_added": "2021-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257825,
+      "name": "So Alive",
+      "url": "https://open.spotify.com/track/7pfP8Z9M9KRUtzTLcnjem5"
+    },
+    {
+      "album": {
+        "name": "Love and Rockets",
         "url": "https://open.spotify.com/album/7ySBlv1N2wbYcaIwHBcBuy"
       },
       "artists": [
@@ -3415,24 +3433,6 @@
       "duration_ms": 257826,
       "name": "So Alive",
       "url": "https://open.spotify.com/track/6amZm52SfS7d6oCEu9NDMl"
-    },
-    {
-      "album": {
-        "name": "Love and Rockets",
-        "url": "https://open.spotify.com/album/3lqy9ZOzLlwDTfXOkpubgU"
-      },
-      "artists": [
-        {
-          "name": "Love and Rockets",
-          "url": "https://open.spotify.com/artist/09mvgMBvJkxarNIDGdwPWg"
-        }
-      ],
-      "date_added": "2021-10-15",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 257826,
-      "name": "So Alive",
-      "url": "https://open.spotify.com/track/7pfP8Z9M9KRUtzTLcnjem5"
     },
     {
       "album": {
@@ -3465,7 +3465,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-07",
       "duration_ms": 260746,
       "name": "Somewhere",
       "url": "https://open.spotify.com/track/5XYCe2ek8lMcTQXYDgQAGG"

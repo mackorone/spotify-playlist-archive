@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-21",
-  "description": "Andrekza y m\u00e1s mujeres, a todo volumen.",
+  "description": "Clara Yolks y m\u00e1s mujeres, a todo volumen.",
   "name": "EQUAL Andes",
   "published_playlist_ids": [
     "4ig5nNsfONZJzmj3q1Nolg"
@@ -153,7 +153,7 @@
       ],
       "date_added": "2022-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-06",
       "duration_ms": 182933,
       "name": "AMOR TRISTE",
       "url": "https://open.spotify.com/track/7mI2XiWxINozftY8mzQqKR"
@@ -569,7 +569,7 @@
       ],
       "date_added": "2022-03-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-04",
+      "date_removed": null,
       "duration_ms": 189333,
       "name": "Emocional",
       "url": "https://open.spotify.com/track/2mob68KQblU3mK2hIdF9R1"
@@ -995,7 +995,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-06",
       "duration_ms": 249310,
       "name": "Luisa",
       "url": "https://open.spotify.com/track/46yArd7VDfAZxKDGoKgE7Z"
@@ -1851,6 +1851,28 @@
       "duration_ms": 207375,
       "name": "Si Quieres Tenerme",
       "url": "https://open.spotify.com/track/5aOYQ6P64bDwlsld671J7Z"
+    },
+    {
+      "album": {
+        "name": "Siempre Hago Lo Que Quiero",
+        "url": "https://open.spotify.com/album/0FOVQGRKiBAXNRc0nPg2Tt"
+      },
+      "artists": [
+        {
+          "name": "Clara Yolks",
+          "url": "https://open.spotify.com/artist/7EGQpkwkyAgaJSgnRGHJ59"
+        },
+        {
+          "name": "Duplat",
+          "url": "https://open.spotify.com/artist/74Bgwc5zD9KyNHiMqy2QJO"
+        }
+      ],
+      "date_added": "2022-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224000,
+      "name": "Siempre Hago Lo Que Quiero",
+      "url": "https://open.spotify.com/track/1vplR8zbm1rQWYskepMvtb"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Celebrate the great women composers who continue to transform the classical world\. Cover: Olivia Belli
 
-70 songs - 6 hr 8 min - [published](https://open.spotify.com/playlist/0WktRk73nv0k8V6CAxvsRm)
+71 songs - 6 hr 11 min - [published](https://open.spotify.com/playlist/0WktRk73nv0k8V6CAxvsRm)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [Berceuse](https://open.spotify.com/track/1Y3NJjnXXaXmrfSLeDMaU7) | [Germaine Tailleferre](https://open.spotify.com/artist/6BPFsvVekatEQbA8l07afM), [Sara Chenal](https://open.spotify.com/artist/00JrlzGhrk892JNRAAQOTo), [Jean\-Pierre Ferey](https://open.spotify.com/artist/5kdpljCuyKmbDLT2NAUpc8) | [Violon au féminin: Compositrices françaises](https://open.spotify.com/album/6siGUFHjGuPLis1gkhqP3F) | 2:28 | 2022-01-26 |  |
 | [Bright Star](https://open.spotify.com/track/0eNmPoRTUgk7XmRZS7SnQY) | [Margaret Bonds](https://open.spotify.com/artist/5rAjCNBtMjC6cP6IVpaC9l), [Lara Downes](https://open.spotify.com/artist/2pSV3M4cqq8MUqT3SrXdpS) | [Bright Star](https://open.spotify.com/album/6eMjICXr9rv1eqSvofY8TM) | 1:26 | 2022-07-01 |  |
 | [Bright Star \(Arr\. L\. Downes\)](https://open.spotify.com/track/0poqcwY3KzT86iRCwxTTuJ) | [Margaret Bonds](https://open.spotify.com/artist/5rAjCNBtMjC6cP6IVpaC9l), [Lara Downes](https://open.spotify.com/artist/2pSV3M4cqq8MUqT3SrXdpS) | [Bright Star \(Arr\. L\. Downes\)](https://open.spotify.com/album/1Wv6mx3vxz6ZsnFAB8TTrO) | 1:26 | 2021-12-13 | 2022-07-29 |
+| [Cello Sonata, Op\. 46: II\. Andante Sostenuto \(Arr\. for Violin and String Ensemble by Ellie Consta\)](https://open.spotify.com/track/5kZrrNIfz9lfDdTVivyFzp) | [Louise Farrenc](https://open.spotify.com/artist/3cCP79U05k4MrNSU06eBy2), [Esther Abrami](https://open.spotify.com/artist/5zCkKfOMcIx8ISU53JBPng), [Her Ensemble](https://open.spotify.com/artist/60LMcgWPaQLRwx8dZicM3z) | [Cello Sonata, Op\. 46: II\. Andante Sostenuto \(Arr\. for Violin and String Ensemble by Ellie Consta\)](https://open.spotify.com/album/6ssxox9onGUTt5WtmMPkkD) | 3:46 | 2022-10-07 |  |
 | [Chamber Sonata No\. 4 in G Minor: I\. Grave](https://open.spotify.com/track/79IEO4HeDBjJ0lZ3gCowrz) | [Élisabeth Jacquet de La Guerre](https://open.spotify.com/artist/2mIU8f4NWYIEYkhE8gBkJq), [Musica Fiorita](https://open.spotify.com/artist/5snw1wAyf91SXqRb7DiDX2) | [Jacquet de la Guerre: Chamber Music](https://open.spotify.com/album/0dgplHDUVPyDimnP6k8Kk2) | 1:23 | 2022-08-17 |  |
 | [Chord Left](https://open.spotify.com/track/3H8tLzrJPjfGEiAf7E3sab) | [Agnes Obel](https://open.spotify.com/artist/1rKrEdI6GKirxWHxIUPYms) | [Aventine](https://open.spotify.com/album/011ifQyKbsMAWCUFDZiMaa) | 2:29 | 2021-12-13 |  |
 | [Concerto pour piano](https://open.spotify.com/track/6BsyXTqcpmZwVxNA4mM3Gr) | [Germaine Tailleferre](https://open.spotify.com/artist/6BPFsvVekatEQbA8l07afM), [The California Parallele Ensemble](https://open.spotify.com/artist/7f4L4cFCHOpGoWjDtmYUYx), [UC Santa Cruz Orchestra](https://open.spotify.com/artist/2DxSpGjhjB1ACnheLMTTqp), [Nicole Paiement](https://open.spotify.com/artist/1PJrimF235j9hK3mOazERA) | [La Musique de Germaine Tailleferre Vol\. II](https://open.spotify.com/album/3gqNTgiPPS7fd13zigKSZs) | 4:52 | 2021-12-13 |  |

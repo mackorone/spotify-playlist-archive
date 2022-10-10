@@ -4,7 +4,7 @@
 
 > Beta frequencies for increased concentration.
 
-50 songs - 2 hr 36 min - [published](https://open.spotify.com/playlist/5ut6icI7FhIjnPBgG0hnSt)
+54 songs - 2 hr 48 min - [published](https://open.spotify.com/playlist/5ut6icI7FhIjnPBgG0hnSt)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [Beta Air 16 Hz](https://open.spotify.com/track/6nEcvyEGYkXNRhIjkVl1vT) | [Atoom](https://open.spotify.com/artist/3rH1VXAVGu5RvvPrkWvTjL) | [Binaural Air](https://open.spotify.com/album/7dp6tirAcf60q6p48NsQwj) | 2:54 | 2022-09-06 |  |
 | [Beta Atmos](https://open.spotify.com/track/6o5yj52orwKaBw66O4t311) | [DreamDeeper](https://open.spotify.com/artist/5OyM0rVbelDv6mU0FEjdNL) | [Textures](https://open.spotify.com/album/3vIYI9geHSqDN9LkIvXXuk) | 2:24 | 2022-09-06 |  |
 | [Beta Brainwave State](https://open.spotify.com/track/7zDu2bXHrl9ZMbTTBuvdyl) | [Noise Shapers](https://open.spotify.com/artist/4Ck8TQHS7YHz4ql7WbAwFY) | [BINAURAL BEATS AND BRAIN WAVES](https://open.spotify.com/album/3a7X3L16okHpF6c21jM3yH) | 3:40 | 2022-09-06 |  |
+| [Beta Escapes 103 hz \- 101 hz](https://open.spotify.com/track/2EEZjBet51P9GrEGJWIAME) | [Floating](https://open.spotify.com/artist/3k5YPHQtmwwAFV47yGDf1C) | [Beta Binaural Flow](https://open.spotify.com/album/0BbjO786iZzVcE3qeUaBYE) | 3:21 | 2022-10-04 |  |
 | [Beta Focus](https://open.spotify.com/track/4ckDde7PeNPjU5kBAp2mYt) | [Ambient Chronicity](https://open.spotify.com/artist/4JTLdCWEDemwSJPOyNT0h8) | [BINAURAL BEATS AND BRAIN WAVES](https://open.spotify.com/album/3a7X3L16okHpF6c21jM3yH) | 3:30 | 2022-09-06 |  |
 | [Beta Focus \(93.1Hz \- 117.6Hz\)](https://open.spotify.com/track/6mv8zFO8Mx3l2HIz3mT29U) | [Binaural Boy](https://open.spotify.com/artist/0hUEiberyRotUdOWeIuQ4z) | [Beta Focus](https://open.spotify.com/album/0hYfcRanSfzxLG0o7dsVdd) | 3:57 | 2022-09-06 |  |
 | [Beta Frequencies 15 Hz](https://open.spotify.com/track/6BYNC28bMxoLVeEL91RDXi) | [Sonic Being](https://open.spotify.com/artist/6IEjVEVLQvv1NLUyxyfL36) | [Sonic Being](https://open.spotify.com/album/72aSiTZaYkKT3Pr96Vy9x4) | 2:46 | 2022-09-06 |  |
@@ -30,8 +31,11 @@
 | [Beta Sinus 300 Hz \- 330 Hz](https://open.spotify.com/track/72MPhPPWvBM81cfb9u66qx) | [Tonal Facts](https://open.spotify.com/artist/70pyv2E4S8IT4C9glkrLTx) | [Tonal Facts](https://open.spotify.com/album/2KiES8NDkTdNtMGiQV7JvX) | 3:28 | 2022-09-06 |  |
 | [Beta Sinus 432 Hz \- 446 Hz](https://open.spotify.com/track/4XdUOoovbSY6SyVWBx5btW) | [Alm Bark](https://open.spotify.com/artist/5nWf0HFYDtFvizyAsKJZNG) | [Alm Bark](https://open.spotify.com/album/7kjqxCNiLvwxwDHA8DcJvI) | 3:37 | 2022-09-06 |  |
 | [Beta Sinus 90 Hz \- 120 Hz](https://open.spotify.com/track/7hu35Cc7XxthGP1gZ7SkgK) | [Higher Highs](https://open.spotify.com/artist/4b6guplHYPbkerTOAplBK8) | [Higher Highs](https://open.spotify.com/album/7IxHihP3UrmIRVUeXPfl7t) | 3:31 | 2022-09-06 |  |
+| [Beta Time 86,4 hz \-84,1 hz](https://open.spotify.com/track/2pGVCr1MRiSC5a4EeG7iOn) | [Floating](https://open.spotify.com/artist/3k5YPHQtmwwAFV47yGDf1C) | [Beta Binaural Flow](https://open.spotify.com/album/0BbjO786iZzVcE3qeUaBYE) | 2:57 | 2022-10-04 |  |
 | [Beta Waves 110Hz \- 130Hz](https://open.spotify.com/track/1I4eSbuHixX9quSXmnPbxg) | [Calming Beats](https://open.spotify.com/artist/0J8vrJR47xFULSWnTpv85L) | [α&β](https://open.spotify.com/album/6Ct2kqxlRdvp1uwuTVBBt5) | 2:40 | 2022-09-06 |  |
 | [Beta Waves 136Hz \- 150Hz](https://open.spotify.com/track/7lrpJMBhSskfIGnysg7Svk) | [Calming Beats](https://open.spotify.com/artist/0J8vrJR47xFULSWnTpv85L) | [α&β](https://open.spotify.com/album/6Ct2kqxlRdvp1uwuTVBBt5) | 2:47 | 2022-09-06 |  |
+| [Beta Waves Therapy 92 hz \- 90,2 hz](https://open.spotify.com/track/1bmzp8SQ3b6N7JyaJhVA3J) | [Floating](https://open.spotify.com/artist/3k5YPHQtmwwAFV47yGDf1C) | [Beta Binaural Flow](https://open.spotify.com/album/0BbjO786iZzVcE3qeUaBYE) | 2:53 | 2022-10-04 |  |
+| [Beta Wind 131 hz \- 127 hz](https://open.spotify.com/track/5zu6rdWllmkKp5tpvQduX8) | [Floating](https://open.spotify.com/artist/3k5YPHQtmwwAFV47yGDf1C) | [Beta Binaural Flow](https://open.spotify.com/album/0BbjO786iZzVcE3qeUaBYE) | 2:24 | 2022-10-04 |  |
 | [Beta Zone](https://open.spotify.com/track/4tng20Ebg02qGs4z5r1dji) | [Zone Out](https://open.spotify.com/artist/5UCAXVoSSpKZMGnyrTU4hY) | [Binaural](https://open.spotify.com/album/4nDz7dL6A1JJ2q5QWdpY5p) | 3:20 | 2022-09-06 |  |
 | [Beta Zone 26 Hz](https://open.spotify.com/track/6gRrGekJCZzZfv0en94Ghh) | [Atoom](https://open.spotify.com/artist/3rH1VXAVGu5RvvPrkWvTjL) | [Binaural Zones](https://open.spotify.com/album/25HMKjzXf5IpFE1Zfw9Kba) | 2:51 | 2022-09-06 |  |
 | [Binaural Algorithms Beta 15Hz](https://open.spotify.com/track/753yBTnJhDhE8zDOtNRQN8) | [Big Ordo](https://open.spotify.com/artist/73c5wyovvb1Zs1WxYUd2ql) | [Binaural Algorithms](https://open.spotify.com/album/4NrYgDTodsxChEuHeXCZR1) | 2:19 | 2022-09-06 |  |

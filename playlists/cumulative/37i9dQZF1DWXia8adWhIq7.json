@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-09-15",
-  "description": "Ou\u00e7a as novidades e sucessos do Pop Crist\u00e3o. Foto: Leidy Murilho",
+  "description": "Ou\u00e7a as novidades e sucessos do Pop Crist\u00e3o. Foto: Gabriela Gomes",
   "name": "Pop Gospel",
   "published_playlist_ids": [
     "4QDjpH3HmVOxtM4Kgm7yQa"
@@ -123,6 +123,24 @@
       "duration_ms": 182080,
       "name": "Amor Leal",
       "url": "https://open.spotify.com/track/6rrbLn49jsw8sdcCqdFgbN"
+    },
+    {
+      "album": {
+        "name": "Ao Que \u00c9 At\u00e9 Meu \u00daltimo Suspiro",
+        "url": "https://open.spotify.com/album/47jB9qef9k3HiK5elsfhQj"
+      },
+      "artists": [
+        {
+          "name": "Tamara Pyller",
+          "url": "https://open.spotify.com/artist/20vcBBOWdZLyUo297CcBGO"
+        }
+      ],
+      "date_added": "2022-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223042,
+      "name": "Amor Maior",
+      "url": "https://open.spotify.com/track/6NaE0m9L89zJ8uO6nfySvx"
     },
     {
       "album": {
@@ -1479,7 +1497,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 168990,
       "name": "Vem Com Teu Esp\u00edrito",
       "url": "https://open.spotify.com/track/5eLUik7N6bsWvQ2rKPA7xz"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXrDQedVqw6q.md) - [plain]
 
 > Calm music to help you focus on your reading.
 
-[Spotify](https://open.spotify.com/user/spotify) - 420,247 likes - 122 songs - 5 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 420,641 likes - 122 songs - 5 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -131,4 +131,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXrDQedVqw6q.md) - [plain]
 | 121 | [The Shores](https://open.spotify.com/track/4pUSEwCVnD5fYYb6pDkJNw) | [Hermosa Dawn](https://open.spotify.com/artist/2MjjjAZZhgYEyywzBnhZbN) | [The Shores](https://open.spotify.com/album/0sxe2UItX3hliFGbvLxwPq) | 2:01 |
 | 122 | [Wandering](https://open.spotify.com/track/3DSmKmCgRH7vSmdZXBbH4P) | [Jars Of Bees](https://open.spotify.com/artist/3Ni9BAJnZMfBG74X6Osx9N) | [An Opening](https://open.spotify.com/album/5n0dpiHtn11yPUbyBQY5Ak) | 3:15 |
 
-Snapshot ID: `MTY2NDU2MjQ4MCwwMDAwMDAwMDYwOWYyODhkNDhmZjQ3Mzk3YjhmNzBmNzhmZjQ4NjE3`
+Snapshot ID: `MTY2NDg4MjA3NSwwMDAwMDAwMDRiMDZmZjEzOTIxNWRjNWY0YzA1YjA5ZWUwM2IxNzYz`

@@ -559,7 +559,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-09",
       "duration_ms": 331673,
       "name": "Listo Medell\u00edn",
       "url": "https://open.spotify.com/track/0irGrW0zW3BZdqWe518knd"
@@ -721,7 +721,7 @@
       ],
       "date_added": "2022-09-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-02",
+      "date_removed": null,
       "duration_ms": 323026,
       "name": "No Tuve A Quien Decirle Amor",
       "url": "https://open.spotify.com/track/0e1G4VKnhcVMsRM0bLtHAa"
@@ -883,10 +883,28 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-09",
       "duration_ms": 250696,
       "name": "Tocando el Cielo Con las Manos",
       "url": "https://open.spotify.com/track/6YnkOFLD5ecp9EhxDxKemx"
+    },
+    {
+      "album": {
+        "name": "Tocando el Cielo Con las Manos",
+        "url": "https://open.spotify.com/album/7lQolVdhEBRtv8Ayzhi2p4"
+      },
+      "artists": [
+        {
+          "name": "Grupo Niche",
+          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
+        }
+      ],
+      "date_added": "2022-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287441,
+      "name": "Tocando el Cielo Con las Manos",
+      "url": "https://open.spotify.com/track/4QhxN9hf5LWvYIqJcjwxQ6"
     },
     {
       "album": {

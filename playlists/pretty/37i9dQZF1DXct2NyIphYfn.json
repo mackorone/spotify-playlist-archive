@@ -1,12 +1,12 @@
 {
   "description": "Some of the most beautiful French love songs. ",
-  "num_followers": 53622,
+  "num_followers": 53883,
   "original_name": "Je t'aime",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MjgwMDAwMywwMDAwMDAwMDZiNzVjODlmYmE1YjZmMTZkNTUwOTczMDAwODdlMmE5",
+  "snapshot_id": "MTY0MjgwMDAwMywwMDAwMDAwMGYwZTMwM2MyNmM0MWQ0NTI5MjNlY2Q3ODQxZmUyMWNl",
   "tracks": [
     {
       "added_at": "2022-01-18 23:00:02",
@@ -121,22 +121,6 @@
       "url": "https://open.spotify.com/track/0Nic6UN7Gkmc0KEGZeD5lL"
     },
     {
-      "added_at": "2022-01-18 23:00:02",
-      "album": {
-        "name": "Fran\u00e7oise Hardy (Tous les gar\u00e7ons et les filles)",
-        "url": "https://open.spotify.com/album/0TcP4beTgxQmREuHJ7BBY2"
-      },
-      "artists": [
-        {
-          "name": "Fran\u00e7oise Hardy",
-          "url": "https://open.spotify.com/artist/7x3f7c0fBanNlQwpx1255g"
-        }
-      ],
-      "duration_ms": 144826,
-      "name": "Le temps de l'amour",
-      "url": "https://open.spotify.com/track/6rqUOLt9dpfMANLMKTzoWj"
-    },
-    {
       "added_at": "2021-01-30 03:13:15",
       "album": {
         "name": "Highlights From His Decca Years",
@@ -151,6 +135,22 @@
       "duration_ms": 206333,
       "name": "La vie en rose - Single Version",
       "url": "https://open.spotify.com/track/3yYfoYGVpriV4fG9L1ogsD"
+    },
+    {
+      "added_at": "2022-01-18 23:00:02",
+      "album": {
+        "name": "Fran\u00e7oise Hardy (Tous les gar\u00e7ons et les filles)",
+        "url": "https://open.spotify.com/album/0TcP4beTgxQmREuHJ7BBY2"
+      },
+      "artists": [
+        {
+          "name": "Fran\u00e7oise Hardy",
+          "url": "https://open.spotify.com/artist/7x3f7c0fBanNlQwpx1255g"
+        }
+      ],
+      "duration_ms": 144826,
+      "name": "Le temps de l'amour",
+      "url": "https://open.spotify.com/track/6rqUOLt9dpfMANLMKTzoWj"
     },
     {
       "added_at": "2022-01-18 23:00:02",
@@ -525,22 +525,6 @@
       "url": "https://open.spotify.com/track/0n1GxWrgNWZKfmDdpuAJUf"
     },
     {
-      "added_at": "2021-01-30 03:13:15",
-      "album": {
-        "name": "Live From Paris",
-        "url": "https://open.spotify.com/album/0qE6Dd97eQiywwpbrhb5fX"
-      },
-      "artists": [
-        {
-          "name": "Shakira",
-          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
-        }
-      ],
-      "duration_ms": 230453,
-      "name": "Je l'aime \u00e0 mourir - Live from Paris",
-      "url": "https://open.spotify.com/track/0MOXq3Fg8y3HtFGT1qLH40"
-    },
-    {
       "added_at": "2022-01-18 23:00:02",
       "album": {
         "name": "Brol",
@@ -559,18 +543,18 @@
     {
       "added_at": "2021-01-30 03:13:15",
       "album": {
-        "name": "Ilo Veyou",
-        "url": "https://open.spotify.com/album/0tOFyyQeAYENYub9DDloWP"
+        "name": "Live From Paris",
+        "url": "https://open.spotify.com/album/0qE6Dd97eQiywwpbrhb5fX"
       },
       "artists": [
         {
-          "name": "Camille",
-          "url": "https://open.spotify.com/artist/0gOsZcHl7H3ewXVIEnWFZX"
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
         }
       ],
-      "duration_ms": 223880,
-      "name": "Que je t'aime",
-      "url": "https://open.spotify.com/track/2wqHH4mITmvGf0ogwCzS5r"
+      "duration_ms": 230453,
+      "name": "Je l'aime \u00e0 mourir - Live from Paris",
+      "url": "https://open.spotify.com/track/0MOXq3Fg8y3HtFGT1qLH40"
     },
     {
       "added_at": "2021-01-30 03:13:15",
@@ -591,18 +575,18 @@
     {
       "added_at": "2021-01-30 03:13:15",
       "album": {
-        "name": "Sarbacane (Remastered)",
-        "url": "https://open.spotify.com/album/7e7sLjpyMxBeF6UyHl57Ul"
+        "name": "Ilo Veyou",
+        "url": "https://open.spotify.com/album/0tOFyyQeAYENYub9DDloWP"
       },
       "artists": [
         {
-          "name": "Francis Cabrel",
-          "url": "https://open.spotify.com/artist/5uo5NwSONVNfvSHHMQrHAv"
+          "name": "Camille",
+          "url": "https://open.spotify.com/artist/0gOsZcHl7H3ewXVIEnWFZX"
         }
       ],
-      "duration_ms": 353266,
-      "name": "C'est \u00e9crit - Remastered",
-      "url": "https://open.spotify.com/track/1nlG27VjnsZqh5t4PqPcPB"
+      "duration_ms": 223880,
+      "name": "Que je t'aime",
+      "url": "https://open.spotify.com/track/2wqHH4mITmvGf0ogwCzS5r"
     },
     {
       "added_at": "2021-01-30 03:13:15",
@@ -621,20 +605,20 @@
       "url": "https://open.spotify.com/track/5KwJJz1nqsu5Edy1f4HGWe"
     },
     {
-      "added_at": "2022-01-18 23:00:02",
+      "added_at": "2021-01-30 03:13:15",
       "album": {
-        "name": "Le temps est bon",
-        "url": "https://open.spotify.com/album/3DLFupu4f4MmTLy6TZv4sw"
+        "name": "Sarbacane (Remastered)",
+        "url": "https://open.spotify.com/album/7e7sLjpyMxBeF6UyHl57Ul"
       },
       "artists": [
         {
-          "name": "Isabelle Pierre",
-          "url": "https://open.spotify.com/artist/6defgaFYnHND3Zy5CZf8Ix"
+          "name": "Francis Cabrel",
+          "url": "https://open.spotify.com/artist/5uo5NwSONVNfvSHHMQrHAv"
         }
       ],
-      "duration_ms": 209360,
-      "name": "Le temps est bon",
-      "url": "https://open.spotify.com/track/3XXd9jqR6IpMtxMmbMuoyn"
+      "duration_ms": 353266,
+      "name": "C'est \u00e9crit - Remastered",
+      "url": "https://open.spotify.com/track/1nlG27VjnsZqh5t4PqPcPB"
     },
     {
       "added_at": "2021-01-30 03:13:15",
@@ -651,6 +635,22 @@
       "duration_ms": 258519,
       "name": "On va s'aimer encore",
       "url": "https://open.spotify.com/track/6SQxzjbQ6rFkzFC0vbTZBL"
+    },
+    {
+      "added_at": "2022-01-18 23:00:02",
+      "album": {
+        "name": "Le temps est bon",
+        "url": "https://open.spotify.com/album/3DLFupu4f4MmTLy6TZv4sw"
+      },
+      "artists": [
+        {
+          "name": "Isabelle Pierre",
+          "url": "https://open.spotify.com/artist/6defgaFYnHND3Zy5CZf8Ix"
+        }
+      ],
+      "duration_ms": 209360,
+      "name": "Le temps est bon",
+      "url": "https://open.spotify.com/track/3XXd9jqR6IpMtxMmbMuoyn"
     },
     {
       "added_at": "2021-01-30 03:13:15",
@@ -749,22 +749,6 @@
       "url": "https://open.spotify.com/track/0h1yRXb0VDMH64xCsXoxaj"
     },
     {
-      "added_at": "2021-01-30 03:13:15",
-      "album": {
-        "name": "Au masculin",
-        "url": "https://open.spotify.com/album/1UsDlpZBxnuZBo1xSyYax6"
-      },
-      "artists": [
-        {
-          "name": "Amandine Bourgeois",
-          "url": "https://open.spotify.com/artist/5f2vuPQdfpjzhuIA0W9bNm"
-        }
-      ],
-      "duration_ms": 298062,
-      "name": "Je t'aimais, je t'aime et je t'aimerai",
-      "url": "https://open.spotify.com/track/7Kw8uSGbshybOzw4fmosUx"
-    },
-    {
       "added_at": "2022-01-18 23:00:02",
       "album": {
         "name": "Le pied dans ma bulle",
@@ -783,18 +767,18 @@
     {
       "added_at": "2021-01-30 03:13:15",
       "album": {
-        "name": "Je te dis vous",
-        "url": "https://open.spotify.com/album/6IRWC0tQS54aZeL6ptB2TG"
+        "name": "Au masculin",
+        "url": "https://open.spotify.com/album/1UsDlpZBxnuZBo1xSyYax6"
       },
       "artists": [
         {
-          "name": "Patricia Kaas",
-          "url": "https://open.spotify.com/artist/4JQHNk6teUNYxC27Bg0UPI"
+          "name": "Amandine Bourgeois",
+          "url": "https://open.spotify.com/artist/5f2vuPQdfpjzhuIA0W9bNm"
         }
       ],
-      "duration_ms": 321266,
-      "name": "Il me dit que je suis belle (Version album)",
-      "url": "https://open.spotify.com/track/5oHLDVSTy3M5mXWNAgnzvF"
+      "duration_ms": 298062,
+      "name": "Je t'aimais, je t'aime et je t'aimerai",
+      "url": "https://open.spotify.com/track/7Kw8uSGbshybOzw4fmosUx"
     },
     {
       "added_at": "2022-01-18 23:00:02",
@@ -815,18 +799,18 @@
     {
       "added_at": "2021-01-30 03:13:15",
       "album": {
-        "name": "On ne change pas",
-        "url": "https://open.spotify.com/album/5uIfKRSjRf70LnCTCw2jJO"
+        "name": "Je te dis vous",
+        "url": "https://open.spotify.com/album/6IRWC0tQS54aZeL6ptB2TG"
       },
       "artists": [
         {
-          "name": "C\u00e9line Dion",
-          "url": "https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK"
+          "name": "Patricia Kaas",
+          "url": "https://open.spotify.com/artist/4JQHNk6teUNYxC27Bg0UPI"
         }
       ],
-      "duration_ms": 214600,
-      "name": "S'il suffisait d'aimer",
-      "url": "https://open.spotify.com/track/5QsVz6hMVGPia0NOMQ8wOS"
+      "duration_ms": 321266,
+      "name": "Il me dit que je suis belle (Version album)",
+      "url": "https://open.spotify.com/track/5oHLDVSTy3M5mXWNAgnzvF"
     },
     {
       "added_at": "2021-01-30 03:13:15",
@@ -843,6 +827,22 @@
       "duration_ms": 232377,
       "name": "T'embellis ma vie",
       "url": "https://open.spotify.com/track/6Ej9I1OaT13pHqHqjSn84i"
+    },
+    {
+      "added_at": "2021-01-30 03:13:15",
+      "album": {
+        "name": "On ne change pas",
+        "url": "https://open.spotify.com/album/5uIfKRSjRf70LnCTCw2jJO"
+      },
+      "artists": [
+        {
+          "name": "C\u00e9line Dion",
+          "url": "https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK"
+        }
+      ],
+      "duration_ms": 214600,
+      "name": "S'il suffisait d'aimer",
+      "url": "https://open.spotify.com/track/5QsVz6hMVGPia0NOMQ8wOS"
     },
     {
       "added_at": "2021-01-30 03:13:15",
@@ -925,22 +925,6 @@
       "url": "https://open.spotify.com/track/3zgQHblUM4t8JkX7rRLAZI"
     },
     {
-      "added_at": "2021-01-30 03:13:15",
-      "album": {
-        "name": "D'Eux",
-        "url": "https://open.spotify.com/album/0DdTKXdgMLcSqccdyj6D9p"
-      },
-      "artists": [
-        {
-          "name": "C\u00e9line Dion",
-          "url": "https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK"
-        }
-      ],
-      "duration_ms": 263693,
-      "name": "J'attendais",
-      "url": "https://open.spotify.com/track/3WjGs9JgOrN3uCX06glf4c"
-    },
-    {
       "added_at": "2022-01-18 23:00:02",
       "album": {
         "name": "Equilibre",
@@ -955,6 +939,22 @@
       "duration_ms": 201573,
       "name": "Il n'y a que toi",
       "url": "https://open.spotify.com/track/437SZweapEV4CPxYc6OHi2"
+    },
+    {
+      "added_at": "2021-01-30 03:13:15",
+      "album": {
+        "name": "Le Volume Du Vent",
+        "url": "https://open.spotify.com/album/5VZPXsKSKwSCspFMR55ePF"
+      },
+      "artists": [
+        {
+          "name": "Karkwa",
+          "url": "https://open.spotify.com/artist/6l8KabfQ4VAdFHzm3ZOOYZ"
+        }
+      ],
+      "duration_ms": 186373,
+      "name": "Oublie Pas",
+      "url": "https://open.spotify.com/track/518uaTT6eo2V8n8iuUxmWg"
     },
     {
       "added_at": "2022-01-18 23:00:02",
@@ -979,50 +979,18 @@
     {
       "added_at": "2021-01-30 03:13:15",
       "album": {
-        "name": "Le Volume Du Vent",
-        "url": "https://open.spotify.com/album/5VZPXsKSKwSCspFMR55ePF"
+        "name": "D'Eux",
+        "url": "https://open.spotify.com/album/0DdTKXdgMLcSqccdyj6D9p"
       },
       "artists": [
         {
-          "name": "Karkwa",
-          "url": "https://open.spotify.com/artist/6l8KabfQ4VAdFHzm3ZOOYZ"
+          "name": "C\u00e9line Dion",
+          "url": "https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK"
         }
       ],
-      "duration_ms": 186373,
-      "name": "Oublie Pas",
-      "url": "https://open.spotify.com/track/518uaTT6eo2V8n8iuUxmWg"
-    },
-    {
-      "added_at": "2021-01-30 03:13:15",
-      "album": {
-        "name": "Lisa LeBlanc",
-        "url": "https://open.spotify.com/album/6qkkBPeN0eLTk9oDvvew2V"
-      },
-      "artists": [
-        {
-          "name": "Lisa LeBlanc",
-          "url": "https://open.spotify.com/artist/4YsjYDobnm0mf2tB4I9Zya"
-        }
-      ],
-      "duration_ms": 191093,
-      "name": "Kraft Dinner",
-      "url": "https://open.spotify.com/track/75tmUxexYj2WgMpCdBtdT0"
-    },
-    {
-      "added_at": "2021-01-30 03:13:15",
-      "album": {
-        "name": "Fanny Bloom",
-        "url": "https://open.spotify.com/album/2AkUJJ4DUHVT9Wg8V7xO2P"
-      },
-      "artists": [
-        {
-          "name": "Fanny Bloom",
-          "url": "https://open.spotify.com/artist/5WjAa6SM7JS2zr4HfSPsII"
-        }
-      ],
-      "duration_ms": 230986,
-      "name": "Dis, quand reviendras-tu ?",
-      "url": "https://open.spotify.com/track/69VtPeUVg5gBtaPOZWxSHC"
+      "duration_ms": 263693,
+      "name": "J'attendais",
+      "url": "https://open.spotify.com/track/3WjGs9JgOrN3uCX06glf4c"
     },
     {
       "added_at": "2021-01-30 03:13:15",
@@ -1039,6 +1007,22 @@
       "duration_ms": 163578,
       "name": "Quelqu'un M'a Dit",
       "url": "https://open.spotify.com/track/2v9AGeylYJq2EjC9vtSr99"
+    },
+    {
+      "added_at": "2021-01-30 03:13:15",
+      "album": {
+        "name": "Lisa LeBlanc",
+        "url": "https://open.spotify.com/album/6qkkBPeN0eLTk9oDvvew2V"
+      },
+      "artists": [
+        {
+          "name": "Lisa LeBlanc",
+          "url": "https://open.spotify.com/artist/4YsjYDobnm0mf2tB4I9Zya"
+        }
+      ],
+      "duration_ms": 191093,
+      "name": "Kraft Dinner",
+      "url": "https://open.spotify.com/track/75tmUxexYj2WgMpCdBtdT0"
     },
     {
       "added_at": "2021-01-30 03:13:15",
@@ -1063,18 +1047,34 @@
     {
       "added_at": "2021-01-30 03:13:15",
       "album": {
-        "name": "Desjardins",
-        "url": "https://open.spotify.com/album/2VPoXJSzpdtKp5VTrds7XC"
+        "name": "Fanny Bloom",
+        "url": "https://open.spotify.com/album/2AkUJJ4DUHVT9Wg8V7xO2P"
       },
       "artists": [
         {
-          "name": "Saratoga",
-          "url": "https://open.spotify.com/artist/7cclLKr5Adggnygyq0ybOn"
+          "name": "Fanny Bloom",
+          "url": "https://open.spotify.com/artist/5WjAa6SM7JS2zr4HfSPsII"
         }
       ],
-      "duration_ms": 204377,
-      "name": "Quand j'aime une fois j'aime pour toujours",
-      "url": "https://open.spotify.com/track/40PuSCcS6qI3J9iEJeP3od"
+      "duration_ms": 230986,
+      "name": "Dis, quand reviendras-tu ?",
+      "url": "https://open.spotify.com/track/69VtPeUVg5gBtaPOZWxSHC"
+    },
+    {
+      "added_at": "2021-01-30 03:13:15",
+      "album": {
+        "name": "Mara Tremblay",
+        "url": "https://open.spotify.com/album/7xY5VWfJROGenbou4vtfz6"
+      },
+      "artists": [
+        {
+          "name": "Mara Tremblay",
+          "url": "https://open.spotify.com/artist/1tt3YXVP4AltaStku4rpf3"
+        }
+      ],
+      "duration_ms": 245093,
+      "name": "Les Aurores",
+      "url": "https://open.spotify.com/track/1AaMx4sHbjGx5h38jsjBCF"
     },
     {
       "added_at": "2021-01-30 03:13:15",
@@ -1095,18 +1095,18 @@
     {
       "added_at": "2021-01-30 03:13:15",
       "album": {
-        "name": "Mara Tremblay",
-        "url": "https://open.spotify.com/album/7xY5VWfJROGenbou4vtfz6"
+        "name": "Desjardins",
+        "url": "https://open.spotify.com/album/2VPoXJSzpdtKp5VTrds7XC"
       },
       "artists": [
         {
-          "name": "Mara Tremblay",
-          "url": "https://open.spotify.com/artist/1tt3YXVP4AltaStku4rpf3"
+          "name": "Saratoga",
+          "url": "https://open.spotify.com/artist/7cclLKr5Adggnygyq0ybOn"
         }
       ],
-      "duration_ms": 245093,
-      "name": "Les Aurores",
-      "url": "https://open.spotify.com/track/1AaMx4sHbjGx5h38jsjBCF"
+      "duration_ms": 204377,
+      "name": "Quand j'aime une fois j'aime pour toujours",
+      "url": "https://open.spotify.com/track/40PuSCcS6qI3J9iEJeP3od"
     },
     {
       "added_at": "2021-01-30 03:13:15",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2021-01-30 03:13:15",
       "album": {
-        "name": "Fanny Bloom",
-        "url": "https://open.spotify.com/album/2AkUJJ4DUHVT9Wg8V7xO2P"
-      },
-      "artists": [
-        {
-          "name": "Fanny Bloom",
-          "url": "https://open.spotify.com/artist/5WjAa6SM7JS2zr4HfSPsII"
-        }
-      ],
-      "duration_ms": 234573,
-      "name": "Danse avec moi",
-      "url": "https://open.spotify.com/track/6GUIugMBHC5mAFJGQ6MIKa"
-    },
-    {
-      "added_at": "2021-01-30 03:13:15",
-      "album": {
         "name": "La Voix 5",
         "url": "https://open.spotify.com/album/5lc1e0BZoxJSvbWI7l6KNW"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 215866,
       "name": "Quand on n\u2019a que l\u2019amour",
       "url": "https://open.spotify.com/track/3N36V5cm6DGRLSAZJec8sq"
+    },
+    {
+      "added_at": "2021-01-30 03:13:15",
+      "album": {
+        "name": "Fanny Bloom",
+        "url": "https://open.spotify.com/album/2AkUJJ4DUHVT9Wg8V7xO2P"
+      },
+      "artists": [
+        {
+          "name": "Fanny Bloom",
+          "url": "https://open.spotify.com/artist/5WjAa6SM7JS2zr4HfSPsII"
+        }
+      ],
+      "duration_ms": 234573,
+      "name": "Danse avec moi",
+      "url": "https://open.spotify.com/track/6GUIugMBHC5mAFJGQ6MIKa"
     },
     {
       "added_at": "2021-01-30 03:13:15",
@@ -1221,20 +1221,20 @@
       "url": "https://open.spotify.com/track/66TPZLJOEAhnIYGGEbpB8G"
     },
     {
-      "added_at": "2021-01-30 03:13:15",
+      "added_at": "2022-01-18 23:00:02",
       "album": {
-        "name": "Grand Amour",
-        "url": "https://open.spotify.com/album/7EoqJ8qHetcN3wPzmG5k2I"
+        "name": "22h22",
+        "url": "https://open.spotify.com/album/2HdjJqBfxdOKa4LHZB21X8"
       },
       "artists": [
         {
-          "name": "Maissiat",
-          "url": "https://open.spotify.com/artist/2ZUpe06uC011TqhQjBhB0n"
+          "name": "Ariane Moffatt",
+          "url": "https://open.spotify.com/artist/5x9UA1g9OYt1wCyPb0YN8l"
         }
       ],
-      "duration_ms": 238293,
-      "name": "Grand Amour",
-      "url": "https://open.spotify.com/track/1d2it6glA0gGa9to0YpuZH"
+      "duration_ms": 194360,
+      "name": "Debout",
+      "url": "https://open.spotify.com/track/4WPqwHscUKuB8x1NqK5tT2"
     }
   ],
   "unique_name": "Je t'aime",

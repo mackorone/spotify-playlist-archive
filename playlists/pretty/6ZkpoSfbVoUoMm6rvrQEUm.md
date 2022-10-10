@@ -1,0 +1,32 @@
+pretty - [cumulative](/playlists/cumulative/6ZkpoSfbVoUoMm6rvrQEUm.md) - [plain](/playlists/plain/6ZkpoSfbVoUoMm6rvrQEUm) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/6ZkpoSfbVoUoMm6rvrQEUm)
+
+### [FRIDAY HAUS \- " PLAYLIST BY BLEU CLAIR "](https://open.spotify.com/playlist/6ZkpoSfbVoUoMm6rvrQEUm)
+
+> Friday Haus \- Freshest house tunes every week\. Updated Every Friday !
+
+[Kurniawan Wicaksono](https://open.spotify.com/user/bleuclairmusic) - 4,250 likes - 20 songs - 1 hr 11 min
+
+| No. | Title | Artist(s) | Album | Length |
+|---|---|---|---|---|
+| 1 | [Killer Bee](https://open.spotify.com/track/3vq4X1cphzASnVAPR3Tfqg) | [Bleu Clair](https://open.spotify.com/artist/7kA4sEagpoNK91I7wr9tYr), [OOTORO](https://open.spotify.com/artist/3kWLEfykUXgiuhbR2NwnLI), [Chyra](https://open.spotify.com/artist/0O6GiRrnADewkp91ELz39s) | [Killer Bee](https://open.spotify.com/album/2wggVJCG8JFzXKHg14zkyl) | 2:46 |
+| 2 | [The Game is Dead \(with Tony Romera\)](https://open.spotify.com/track/4G9GQHAowiz2KNaJIHJpvd) | [Malaa](https://open.spotify.com/artist/7w1eTNePApzDk8XtgykCPS), [Tony Romera](https://open.spotify.com/artist/7GQsOji7pfixzkLt63awo5) | [Don Malaa](https://open.spotify.com/album/6241SeUdcPm2i4ZFIqqCUP) | 3:24 |
+| 3 | [Tequila](https://open.spotify.com/track/5PQXYypgc0syPHLT6dIuvM) | [San Pacho](https://open.spotify.com/artist/5jBerZvTAajwYvdxt3UhgU), [Maahez](https://open.spotify.com/artist/3i6JYFidKoDsJTtRLMkPXZ) | [Tequila](https://open.spotify.com/album/6obdoKvDd4xA7Ukrw0BiXF) | 3:30 |
+| 4 | [Morenita \- Matroda Remix](https://open.spotify.com/track/4Qa9y4SXsLBAhcRZUdtpOw) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [Cumbiafrica](https://open.spotify.com/artist/72zmP13MQQhZHt4Kl0FOTs), [Matroda](https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz) | [Morenita \(Matroda Remix\)](https://open.spotify.com/album/1tNmIcWQWpkkGq2Jb7yJMR) | 2:59 |
+| 5 | [Build It Up \- Original Mix](https://open.spotify.com/track/5XZHS3DvMDSqrC11ZXuNZI) | [K & K](https://open.spotify.com/artist/2oivl6K9oJeJSKNPRvjJKj) | [Build It Up](https://open.spotify.com/album/4AVeN3CJBj1eMfFIVL7FlU) | 5:37 |
+| 6 | [Clover](https://open.spotify.com/track/12gj3li4RuNhQfCFPJ0UGF) | [Market Memories](https://open.spotify.com/artist/074cDp31tXSQ2M9bRa1kQA), [Mike Callander](https://open.spotify.com/artist/18QARuj33wwYZR2FeXbYm4) | [Clover](https://open.spotify.com/album/1ga2dnqRY2fNNlTIpxbhiA) | 5:06 |
+| 7 | [Take Me High](https://open.spotify.com/track/4gjN40eaGDu02UhcIB0mVi) | [Kx5](https://open.spotify.com/artist/2avRYQUWQpIkzJOEkf0MdY), [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx), [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1) | [Take Me High](https://open.spotify.com/album/7B1o7ADGNrli4kqnxTH4fL) | 4:15 |
+| 8 | [Forever Summer](https://open.spotify.com/track/0SNGFkJ4OUrrRAzLCaYZlO) | [Ben Rau](https://open.spotify.com/artist/1TnMHkjDz4jm8H8QxnyAAC) | [8\-track](https://open.spotify.com/album/6pvOoDWC7QDy9n2zw0tjLd) | 3:27 |
+| 9 | [Dipped In $ugar](https://open.spotify.com/track/37IKuXFdoYsfL4RyoxhO6k) | [€URO TRA$H](https://open.spotify.com/artist/18pzORU0ImCwhbZgPZYTI9), [Yellow Claw](https://open.spotify.com/artist/47z7ZrgFoBvVpCnElCE3Zh) | [Dipped In $ugar](https://open.spotify.com/album/0NBWcDaIvs1YxDeuLkqA5Y) | 3:50 |
+| 10 | [Vacation](https://open.spotify.com/track/3GEDeY9CBWwpBLq18H545u) | [Ben Miller \(Aus\)](https://open.spotify.com/artist/5cqGrWHL35BEuTpahcON5J) | [Grab the Mic / Vacation](https://open.spotify.com/album/0xmoqzbS8X7yPhMtCADJWV) | 3:41 |
+| 11 | [Somebody To Love](https://open.spotify.com/track/6VKpDRWz9HAUOEpElNvjSi) | [Ben Kim](https://open.spotify.com/artist/0quOpHBDwcOmM5B9V3TPpL), [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J) | [Somebody To Love](https://open.spotify.com/album/69Jz6rL189yH01zQZzm7Y9) | 3:42 |
+| 12 | [Better Things \(feat\. Tania Foster\)](https://open.spotify.com/track/3lX5X6V3Tas48tuZ8g3PLU) | [Bleu Clair](https://open.spotify.com/artist/7kA4sEagpoNK91I7wr9tYr), [Tania Foster](https://open.spotify.com/artist/4Edy0AEO2mh3eZSNggPM7Y) | [Better Things \(feat\. Tania Foster\)](https://open.spotify.com/album/5RFAAqoNmmhMebhjlFEsF4) | 3:25 |
+| 13 | [Perfect](https://open.spotify.com/track/2I8xBxd5peNvfQF7XhfoOV) | [Westend](https://open.spotify.com/artist/4epc3Bd0DOBA0kDywkRAsu) | [Perfect](https://open.spotify.com/album/2WxxeepcQgfaoXp7eO9YGS) | 2:41 |
+| 14 | [Aura](https://open.spotify.com/track/2Bj5ZUeHEke7ovkkpPbG7d) | [Bleu Clair](https://open.spotify.com/artist/7kA4sEagpoNK91I7wr9tYr), [Jargen](https://open.spotify.com/artist/7eNmYIb1F1EUjKBc4UIJBl) | [Aura](https://open.spotify.com/album/0itIElpJrQZ30aPUilSDgn) | 3:04 |
+| 15 | [Where I Want 2 B](https://open.spotify.com/track/0YEgVqBmj14YWgv7w32Qm4) | [CID](https://open.spotify.com/artist/4FCzCS0KEgb0rgySWINItO) | [Where I Want 2 B](https://open.spotify.com/album/31USpiwo0nxCexaClvJYkL) | 3:21 |
+| 16 | [Check Out](https://open.spotify.com/track/2n6qz4opcJlHsEpI8030YM) | [J\. Worra](https://open.spotify.com/artist/4q0N3EI67tVnAeeaXbNQIj), [Leo Stannard](https://open.spotify.com/artist/37fzXndf2fxVrk7qarhyo0) | [Check Out](https://open.spotify.com/album/1i9flcfwW08i5ynf4YZHsb) | 2:54 |
+| 17 | [Mistake](https://open.spotify.com/track/0kQSRUHcJZr9nfX1R5HZcN) | [Bleu Clair](https://open.spotify.com/artist/7kA4sEagpoNK91I7wr9tYr) | [Mistake](https://open.spotify.com/album/55LisGoTtgPe7c0cyrgFO6) | 3:05 |
+| 18 | [Fudge \- Low Steppa Remix \- Edit](https://open.spotify.com/track/7aG1R1bEiDPVBp123t6gLA) | [Idris Elba](https://open.spotify.com/artist/0Dc2rdPzleezxhvQhQbXuS), [Eliza Legzdina](https://open.spotify.com/artist/0oehZWYTU3DazM5gV7i6Op), [Low Steppa](https://open.spotify.com/artist/5OImcY3khBn9UFjzgaapob) | [Fudge \(Low Steppa Remix\)](https://open.spotify.com/album/2z65XMrnPHAupsBgeBX5LU) | 3:15 |
+| 19 | [Stereotypes](https://open.spotify.com/track/4ifpL4JeazlBGjvyzWgVzo) | [Chris Lorenzo](https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj) | [Late Checkout](https://open.spotify.com/album/7EKYXT614EhSh5jLDUdFAj) | 4:20 |
+| 20 | [Sand Dunes](https://open.spotify.com/track/2Oh4jKif9YIlxbg8aX6Km0) | [Bleu Clair](https://open.spotify.com/artist/7kA4sEagpoNK91I7wr9tYr) | [Sand Dunes](https://open.spotify.com/album/7z4cJm01ThOpkmGdf6MoqC) | 3:25 |
+
+Snapshot ID: `MjczNyw5NWU5ZGI4MmI1NjcwNzA4NjYyZDhjYzIxZTAzZDEwY2EwYTJhNzk4`

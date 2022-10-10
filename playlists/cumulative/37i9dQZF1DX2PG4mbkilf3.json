@@ -310,6 +310,24 @@
     },
     {
       "album": {
+        "name": "again",
+        "url": "https://open.spotify.com/album/7fM8bSojWxNGXQFfFqsqmZ"
+      },
+      "artists": [
+        {
+          "name": "CUBE",
+          "url": "https://open.spotify.com/artist/1r3YnMSGcT7Hnm76aStA3r"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228545,
+      "name": "again",
+      "url": "https://open.spotify.com/track/22suMDhP7SweqGcCmbBOmK"
+    },
+    {
+      "album": {
         "name": "Airplane Mode",
         "url": "https://open.spotify.com/album/5n2BO8pOPn8K4mLPFz7c2y"
       },
@@ -911,7 +929,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 123629,
       "name": "Bruce Wayne",
       "url": "https://open.spotify.com/track/2POzxzlAyRJ2yEMD8XyV7a"
@@ -947,7 +965,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 170908,
       "name": "B\u00e9 B\u00e9",
       "url": "https://open.spotify.com/track/3oz2KZeJsrqHpEpcroZs9e"
@@ -2226,7 +2244,7 @@
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 223160,
+      "duration_ms": 223157,
       "name": "FOREVER (with 6LACK)",
       "url": "https://open.spotify.com/track/2lVYLiHGIX6GajMqYXF1Un"
     },
@@ -4638,6 +4656,24 @@
     },
     {
       "album": {
+        "name": "No Matter",
+        "url": "https://open.spotify.com/album/5YMAnynlISa3BMwqPOompE"
+      },
+      "artists": [
+        {
+          "name": "Shaykeh",
+          "url": "https://open.spotify.com/artist/6QxdilrVBMz20FdxEMlzpR"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176213,
+      "name": "No Matter",
+      "url": "https://open.spotify.com/track/694TBPnzN8G5lgXxb6LEXX"
+    },
+    {
+      "album": {
         "name": "No Relation",
         "url": "https://open.spotify.com/album/0YngRAPJdgoKdDksYeSDuW"
       },
@@ -4974,7 +5010,7 @@
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 183893,
+      "duration_ms": 183895,
       "name": "ONLY ONE",
       "url": "https://open.spotify.com/track/04xnC2Uwq38RPrwCLv6f0G"
     },
@@ -5049,7 +5085,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 164865,
       "name": "Only You",
       "url": "https://open.spotify.com/track/0bPjOJdD1OV1x3ihKbJMBS"
@@ -6366,6 +6402,24 @@
     },
     {
       "album": {
+        "name": "Every Lie is Two Lies",
+        "url": "https://open.spotify.com/album/3bfxgzdQ84efmbinTHGali"
+      },
+      "artists": [
+        {
+          "name": "JYDN HILL",
+          "url": "https://open.spotify.com/artist/0kGGkgl2qYgVzrMKw2KjY2"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177352,
+      "name": "Stages",
+      "url": "https://open.spotify.com/track/2k7Xg0C7DkioPHtbB77rLA"
+    },
+    {
+      "album": {
         "name": "Stand Tall",
         "url": "https://open.spotify.com/album/7AgW641KN9rBQxN6AuVM5f"
       },
@@ -7052,6 +7106,24 @@
     },
     {
       "album": {
+        "name": "Trust",
+        "url": "https://open.spotify.com/album/4R536rrBEQjh7g1MrhasoS"
+      },
+      "artists": [
+        {
+          "name": "RealestK",
+          "url": "https://open.spotify.com/artist/35R1B97CfrqKFFI3QBkTDx"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165419,
+      "name": "Trust",
+      "url": "https://open.spotify.com/track/6YecmNnABghHDPTNlG3md5"
+    },
+    {
+      "album": {
         "name": "Trust You Now",
         "url": "https://open.spotify.com/album/6NZ26QeaZQsUeUwRoGOzNq"
       },
@@ -7063,7 +7135,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 182736,
       "name": "Trust You Now",
       "url": "https://open.spotify.com/track/1oVNPc9Cw5eFfjQLt8ezTt"

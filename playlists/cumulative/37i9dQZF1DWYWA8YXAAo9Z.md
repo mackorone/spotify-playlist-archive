@@ -4,7 +4,7 @@
 
 > Pushing the envelope; musicians at the forefront of modular synthesis.
 
-132 songs - 11 hr 8 min - [published](https://open.spotify.com/playlist/2Iyz83CmkFejFUFqhihQGl)
+133 songs - 11 hr 14 min - [published](https://open.spotify.com/playlist/2Iyz83CmkFejFUFqhihQGl)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,6 +50,7 @@
 | [Empty House](https://open.spotify.com/track/44wMuVcGt4VkYpWGQEnq2C) | [Music is Love](https://open.spotify.com/artist/7zIjtXdgvjqvKAZNbbFjvy) | [Empty House](https://open.spotify.com/album/6DreRxZHfhlKNHYTLvqWdb) | 4:16 | 2022-01-28 | 2022-07-28 |
 | [End of One Thing](https://open.spotify.com/track/6oTYXtsJWi30jH5dIPWTyQ) | [David Baron](https://open.spotify.com/artist/3ZZxsC7f0fufApo1cm117d) | [End of One Thing](https://open.spotify.com/album/17ELwWPid9JFCtW6Xkwa9w) | 4:31 | 2021-12-24 | 2022-07-28 |
 | [Entropy](https://open.spotify.com/track/0IVwlvQ2NiuI6IjCXfzfFI) | [Bostro Pesopeo](https://open.spotify.com/artist/6pBvpRI7qsmSp0C4DbH1MD) | [Entropy](https://open.spotify.com/album/0qBy084Hayhv3cXrz2sJ6b) | 4:49 | 2022-01-14 |  |
+| [Every Night](https://open.spotify.com/track/0uNy3DnZuVajMHDMDcFrIG) | [Sam Prekop](https://open.spotify.com/artist/4Vtlz5IfA9y4EBwmp20wwk) | [The Sparrow](https://open.spotify.com/album/2DLMVaEDhrEeAmhV9JCytt) | 5:57 | 2022-09-30 |  |
 | [First Frost](https://open.spotify.com/track/2zJzDb6WVwDmfp0GN7FOOF) | [Zen Wires](https://open.spotify.com/artist/04yseDPSSQVkAo8cXqDwnZ) | [Mind Jail](https://open.spotify.com/album/1QO5ZC9QhFCUeKLA1TOJ6o) | 3:40 | 2021-12-24 | 2022-02-13 |
 | [Flight Plan](https://open.spotify.com/track/2IC4hQBLtMfbn2vfh3TwOH) | [Paul Cousins](https://open.spotify.com/artist/5bMFBUxzXBVvltK6Ph6OIK) | [SPACEY ARPS](https://open.spotify.com/album/4ovC6NeOD7JDRRDIATPWdR) | 3:09 | 2022-03-25 | 2022-07-29 |
 | [Floating](https://open.spotify.com/track/3TOQrOkWBUmeVYiiAClMNB) | [Today Again](https://open.spotify.com/artist/6DwLz91sevSw7PI0ma8nL5) | [Floating](https://open.spotify.com/album/2EOrv87xrfeA71o6Taoz18) | 3:08 | 2022-01-21 | 2022-07-27 |
@@ -125,7 +126,7 @@
 | [The Hermit](https://open.spotify.com/track/7uP27nSIwuPhLsCV0i7fJI) | [Lightbath](https://open.spotify.com/artist/4AIr46FQ8PXGH880gA3g9I) | [full/new](https://open.spotify.com/album/2QjD5gBRPzvQDtASXMaitU) | 7:32 | 2022-07-01 |  |
 | [The Secret Garden](https://open.spotify.com/track/0t2NFrMc8tN7ILhForVafb) | [µ\-Ziq](https://open.spotify.com/artist/7AiamoV760pPGGM5PbOC6X), [Mrs Jynx](https://open.spotify.com/artist/1fk2SqCITKPp4UvJfJhB2Q) | [The Secret Garden](https://open.spotify.com/album/5mihlvzwZlyOSyMN2dpqsl) | 4:41 | 2021-12-24 | 2022-07-29 |
 | [The Secret Garden](https://open.spotify.com/track/5nQzwQJAMxPR8TV6BXhthc) | [µ\-Ziq](https://open.spotify.com/artist/7AiamoV760pPGGM5PbOC6X), [Mrs Jynx](https://open.spotify.com/artist/1fk2SqCITKPp4UvJfJhB2Q) | [Secret Garden](https://open.spotify.com/album/5XSfsdujTPlwsr4zCup4p2) | 4:41 | 2022-07-01 |  |
-| [The Station Is Alive Again](https://open.spotify.com/track/0ZarJjfxdlt6ppX7ZAT0Za) | [Hermbot](https://open.spotify.com/artist/4uLnFbwbNSbUZxy5lrZ9pt) | [Moonbase Alpha](https://open.spotify.com/album/4gscm6WoyI96BUCKeWORvO) | 2:25 | 2021-12-24 |  |
+| [The Station Is Alive Again](https://open.spotify.com/track/0ZarJjfxdlt6ppX7ZAT0Za) | [Hermbot](https://open.spotify.com/artist/4uLnFbwbNSbUZxy5lrZ9pt) | [Moonbase Alpha](https://open.spotify.com/album/4gscm6WoyI96BUCKeWORvO) | 2:25 | 2021-12-24 | 2022-10-07 |
 | [Through Circle and Shadow](https://open.spotify.com/track/2OBRaX5PhBAlgo6TvQMVqX) | [Robert Scott Thompson](https://open.spotify.com/artist/3cLV4eGuwG8hXQ8JDS6ZKd) | [Through Circle and Shadow](https://open.spotify.com/album/2pQYZP433rFGCGSA6SWOpF) | 7:35 | 2021-12-24 | 2022-08-31 |
 | [Tide Pools](https://open.spotify.com/track/1xc9Cc2F9A2kfLnjmrBsIw) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [Tide Pools](https://open.spotify.com/album/3xT2c2VcLlawCPbdBMJOxH) | 4:28 | 2021-12-24 |  |
 | [Tides I](https://open.spotify.com/track/7E7NGJaerM9PyGI7RLrDvV) | [Kaitlyn Aurelia Smith](https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH) | [Tides: Music for Meditation and Yoga](https://open.spotify.com/album/3RV45YANay6vYeX0BKbGnh) | 5:08 | 2021-12-24 | 2022-07-27 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFWSTYGmXDl.md) - [plain]
 
 > Soft and warm Christmas songs from recent years\. Cover: Gwen Stefani.
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,525 likes - 122 songs - 6 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,692 likes - 122 songs - 6 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,7 +89,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFWSTYGmXDl.md) - [plain]
 | 79 | [O’Holy Night](https://open.spotify.com/track/4csQ5HPKp41UUaEdzpepRQ) | [Kat Cunning](https://open.spotify.com/artist/0THdxk7bYWo6wciF1gInBK) | [O’Holy Night](https://open.spotify.com/album/6UZ92OsliFZN4TrzPyFT7D) | 2:53 |
 | 80 | [Angels We Have Heard On High \- Recorded At Electric Lady Studios NYC](https://open.spotify.com/track/3mORNTAlAguOAiP7Habmo2) | [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr) | [Angels We Have Heard On High \(Recorded At Electric Lady Studios NYC\)](https://open.spotify.com/album/0jYV35MYyEIRXCuZWKK3Mw) | 2:58 |
 | 81 | [I Hope It Snows](https://open.spotify.com/track/1Tu2vqQl3Oo7HaQP1AS38G) | [Mitchell Tenpenny](https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc), [Meghan Patrick](https://open.spotify.com/artist/5bQxLohAAiOat0EMYuHjzJ) | [Naughty List](https://open.spotify.com/album/0BXmUn9V11LhVai6Ac6vb1) | 3:59 |
-| 82 | [Lonely on Christmas](https://open.spotify.com/track/413BayIMRQRXKnbq33qbcR) | [JUJ](https://open.spotify.com/artist/7lZrzIQbiKFehHNTXCMP6z) | [Lonely on Christmas](https://open.spotify.com/album/7FMXqdSk2EJbNjnG4o4a1V) | 3:03 |
+| 82 | [Lonely on Christmas](https://open.spotify.com/track/7oO4kVfkhcwKfEAKm9sWfN) | [JUJ](https://open.spotify.com/artist/7lZrzIQbiKFehHNTXCMP6z) | [Lonely on Christmas](https://open.spotify.com/album/7LVvUXICGDvSo9DIjDIQb9) | 3:03 |
 | 83 | [Come Whatever, Come What May](https://open.spotify.com/track/7h6dAktpx3MeQMfqN84JBW) | [My Marianne](https://open.spotify.com/artist/26a4tbq9f4QZCHArsoQkWn), [Jonathan Johansson](https://open.spotify.com/artist/3i0VvjFfLzfX8TgDhgNWfe) | [Come Whatever, Come What May](https://open.spotify.com/album/48I5yrMUYUbaMRVx88TsVj) | 3:39 |
 | 84 | [It's Christmas Time \(with Michael Bolton\)](https://open.spotify.com/track/0NLV6yzZjNYIGkWcEH7qhN) | [Matoma](https://open.spotify.com/artist/4YXycRbyyAE0wozTk7QMEq), [Michael Bolton](https://open.spotify.com/artist/6YHEMoNPbcheiWS2haGzkn) | [It's Christmas Time \(with Michael Bolton\)](https://open.spotify.com/album/6TyBrpxi8Bq36ahEpytZ7C) | 3:23 |
 | 85 | [Now I've Got You](https://open.spotify.com/track/75WgIVJyqJjjCish2FPrkW) | [Matilda](https://open.spotify.com/artist/4F7wGFfIXuQUBFoxiZ9WFp) | [Now I've Got You](https://open.spotify.com/album/0AJGu7Jwds2feeiF7aYygC) | 3:09 |
@@ -131,4 +131,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFWSTYGmXDl.md) - [plain]
 | 121 | [True Love](https://open.spotify.com/track/4NRF1B6kriUmtXflcVmed7) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Christmas & Chill](https://open.spotify.com/album/6yi7FjzeCHGVJJAdWRYAmk) | 2:46 |
 | 122 | [Love Is Christmas](https://open.spotify.com/track/7edfMl8VjYXRMFzy4LQLGs) | [Rosie Darling](https://open.spotify.com/artist/6kDXH8d9LugUAsHIozzDAI) | [Love Is Christmas](https://open.spotify.com/album/35AQxuSSqGQadvkcnk28TG) | 2:46 |
 
-Snapshot ID: `MTY2NDIwMjEzMCwwMDAwMDAwMDkwYmMwZjc1ODJkMDFkMGFjZDNlMWRiOTFlZWNmYmI1`
+Snapshot ID: `MTY2NDIwMjEzMCwwMDAwMDAwMDZmNWM4MGE5ZGFhYzVlMWNhM2UxZmM3N2M3MWU0ZTAw`

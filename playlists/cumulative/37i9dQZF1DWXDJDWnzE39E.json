@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-12-07",
-  "description": "A salute to all of the women that like it loud & heavy. Cover: Scene Queen",
+  "description": "A salute to all of the women that like it loud & heavy. Cover: Poppy",
   "name": "Heavy Queens",
   "published_playlist_ids": [
     "2PwU7tbcMm117R21Ot8It9"
@@ -242,6 +242,24 @@
     },
     {
       "album": {
+        "name": "The Heart Of Everything",
+        "url": "https://open.spotify.com/album/4jE1uyxDWwHuSGQmbsusLM"
+      },
+      "artists": [
+        {
+          "name": "Within Temptation",
+          "url": "https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a"
+        }
+      ],
+      "date_added": "2022-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290946,
+      "name": "All I Need",
+      "url": "https://open.spotify.com/track/02oW7CYWjfiCs1rZs7GNes"
+    },
+    {
+      "album": {
         "name": "And So It Went",
         "url": "https://open.spotify.com/album/3i32UJ5zr5ZEuGbiovsIY3"
       },
@@ -409,6 +427,28 @@
       "duration_ms": 209893,
       "name": "Back From The Dead",
       "url": "https://open.spotify.com/track/3HmacKgc27YnAfSwxGVxW2"
+    },
+    {
+      "album": {
+        "name": "Barbie & Ken",
+        "url": "https://open.spotify.com/album/4mljsOFQj7XRh77BAVF1aq"
+      },
+      "artists": [
+        {
+          "name": "Scene Queen",
+          "url": "https://open.spotify.com/artist/6WandyxeDxlcOTwxtnTKP4"
+        },
+        {
+          "name": "Set It Off",
+          "url": "https://open.spotify.com/artist/06bDwgCHeMAwhgI8il4Y5k"
+        }
+      ],
+      "date_added": "2022-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135000,
+      "name": "Barbie & Ken",
+      "url": "https://open.spotify.com/track/7aVUykGDZCRyLRKCQrtrbx"
     },
     {
       "album": {
@@ -877,7 +917,7 @@
       ],
       "date_added": "2020-12-07",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-10-04",
       "duration_ms": 216450,
       "name": "Crave",
       "url": "https://open.spotify.com/track/7ykAoOUwjYSzqinw4Sk7vc"
@@ -1079,7 +1119,7 @@
       ],
       "date_added": "2020-12-07",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-10-04",
       "duration_ms": 234922,
       "name": "Ella",
       "url": "https://open.spotify.com/track/6QXieDRlH4Ofjg864USffV"
@@ -1281,7 +1321,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-04",
       "duration_ms": 257398,
       "name": "Father Of Lies",
       "url": "https://open.spotify.com/track/2Ow2S3k1Ggr2Ek76a7YoCe"
@@ -1357,7 +1397,7 @@
       ],
       "date_added": "2021-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-04",
       "duration_ms": 300647,
       "name": "Flux",
       "url": "https://open.spotify.com/track/59yzTH5FEyyaDXs5Qo5aq7"
@@ -1469,6 +1509,24 @@
       "duration_ms": 345933,
       "name": "Frostbite",
       "url": "https://open.spotify.com/track/5EsFccsQ6TLO7rpJXq2YMW"
+    },
+    {
+      "album": {
+        "name": "FYB",
+        "url": "https://open.spotify.com/album/0elEacBFrTn1uMQTd2pBLG"
+      },
+      "artists": [
+        {
+          "name": "Poppy",
+          "url": "https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv"
+        }
+      ],
+      "date_added": "2022-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106331,
+      "name": "FYB",
+      "url": "https://open.spotify.com/track/4qsinCdV0mxSrTHubbQywu"
     },
     {
       "album": {
@@ -2428,6 +2486,24 @@
     },
     {
       "album": {
+        "name": "Once",
+        "url": "https://open.spotify.com/album/0aDCpYtFdQ0S8C3oAtOonk"
+      },
+      "artists": [
+        {
+          "name": "Nightwish",
+          "url": "https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1"
+        }
+      ],
+      "date_added": "2022-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276200,
+      "name": "Nemo",
+      "url": "https://open.spotify.com/track/5OF7nhjVV0dmngqYjDrZGw"
+    },
+    {
+      "album": {
         "name": "Never Die",
         "url": "https://open.spotify.com/album/3ewJ6ftp5b87dcVoMYbmDI"
       },
@@ -2529,7 +2605,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-04",
       "duration_ms": 216520,
       "name": "One Second",
       "url": "https://open.spotify.com/track/6gsgFHFxZTUL6W9j1sGeUD"
@@ -2715,7 +2791,7 @@
       ],
       "date_added": "2021-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-04",
       "duration_ms": 229327,
       "name": "Radium Girls",
       "url": "https://open.spotify.com/track/3sParXYPLALwjvEvdUFy5v"
@@ -2827,6 +2903,24 @@
       "duration_ms": 217327,
       "name": "Rest In Peace",
       "url": "https://open.spotify.com/track/1nx0EzitUaNF08xrQunABp"
+    },
+    {
+      "album": {
+        "name": "Rotoscope",
+        "url": "https://open.spotify.com/album/0twOWaleSiQaUUSTFegpds"
+      },
+      "artists": [
+        {
+          "name": "Spiritbox",
+          "url": "https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW"
+        }
+      ],
+      "date_added": "2022-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215362,
+      "name": "Rotoscope",
+      "url": "https://open.spotify.com/track/3TV6XEPjXQhbSneiEXRNEr"
     },
     {
       "album": {
@@ -3039,10 +3133,28 @@
       ],
       "date_added": "2021-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-04",
       "duration_ms": 263799,
       "name": "Selkie",
       "url": "https://open.spotify.com/track/7KmOdUvmCw5VQSXRt4qsef"
+    },
+    {
+      "album": {
+        "name": "The Phantom Agony (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5qBmY4zyWEYP8bNJsq9Xjf"
+      },
+      "artists": [
+        {
+          "name": "Epica",
+          "url": "https://open.spotify.com/artist/5HA5aLY3jJV7eimXWkRBBp"
+        }
+      ],
+      "date_added": "2022-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289306,
+      "name": "Sensorium",
+      "url": "https://open.spotify.com/track/5Souga96S54RLFk30XrEJP"
     },
     {
       "album": {
@@ -3061,6 +3173,24 @@
       "duration_ms": 214320,
       "name": "Serves You Right",
       "url": "https://open.spotify.com/track/1xPlB6cboQgE0C9yVlVc0v"
+    },
+    {
+      "album": {
+        "name": "The Reckoning",
+        "url": "https://open.spotify.com/album/6sjhRKMnjF180XD3qli9c5"
+      },
+      "artists": [
+        {
+          "name": "Icon For Hire",
+          "url": "https://open.spotify.com/artist/1Jy0lTKAQDnTklKzF0g2o7"
+        }
+      ],
+      "date_added": "2022-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228626,
+      "name": "Shadow",
+      "url": "https://open.spotify.com/track/1iFIRC1D9NnxjTwF240jZy"
     },
     {
       "album": {
@@ -3238,6 +3368,24 @@
     },
     {
       "album": {
+        "name": "Sunset over the Empire",
+        "url": "https://open.spotify.com/album/0Nx1Azswts2lQwxpqtwrL9"
+      },
+      "artists": [
+        {
+          "name": "Arch Enemy",
+          "url": "https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx"
+        }
+      ],
+      "date_added": "2022-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243080,
+      "name": "Sunset over the Empire",
+      "url": "https://open.spotify.com/track/1AtE4xrxLR7nSPWSk1VGqM"
+    },
+    {
+      "album": {
         "name": "Worlds",
         "url": "https://open.spotify.com/album/2CuDTHaPofIqYTy2UZYkUR"
       },
@@ -3253,6 +3401,24 @@
       "duration_ms": 250600,
       "name": "Survive",
       "url": "https://open.spotify.com/track/52NcH4UUTchFFVFSCTZd45"
+    },
+    {
+      "album": {
+        "name": "Swamped XX",
+        "url": "https://open.spotify.com/album/6FkY7M23Zqy1MrRYJJJals"
+      },
+      "artists": [
+        {
+          "name": "Lacuna Coil",
+          "url": "https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL"
+        }
+      ],
+      "date_added": "2022-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212826,
+      "name": "Swamped XX",
+      "url": "https://open.spotify.com/track/3iqzSkWevZvDTgugUQhUB9"
     },
     {
       "album": {
@@ -3873,7 +4039,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-04",
       "duration_ms": 189946,
       "name": "Vertigo",
       "url": "https://open.spotify.com/track/0hQwt8gMWXHtQyJ1dqcUE2"
@@ -4101,7 +4267,7 @@
       ],
       "date_added": "2020-12-07",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-10-04",
       "duration_ms": 456466,
       "name": "You Belong to Me",
       "url": "https://open.spotify.com/track/55CskTAlGmdKUZb7FHwKpb"

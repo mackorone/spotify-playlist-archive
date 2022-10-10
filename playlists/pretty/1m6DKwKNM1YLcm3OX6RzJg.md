@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1m6DKwKNM1YLcm3OX6RzJg.md) - [plain]
 
 > Upptäck svenska talanger som kommer att vara soundtracket till ditt 2014\.  En spellista som ständigt uppdateras.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,290 likes - 63 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,289 likes - 63 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

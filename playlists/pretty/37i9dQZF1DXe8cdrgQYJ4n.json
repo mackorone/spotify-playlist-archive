@@ -1,12 +1,12 @@
 {
   "description": "\uc194\ub85c\uc5ec\ub3c4 \uad1c\ucc2e\uc740 \ub098\ub97c \uc704\ud55c \ub178\ub798\ub4e4",
-  "num_followers": 7375,
+  "num_followers": 7555,
   "original_name": "I'M FINE, SOLO. AND U?",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDgzMjc3NSwwMDAwMDAwMDY0Y2U1NGM3ZjZmMTBmNWUyYzAyMGZmMTU0NTEyYjUy",
+  "snapshot_id": "MTY2MDgzMjc3NSwwMDAwMDAwMDNlODZjY2E4NjRmMjQzZDczNzZhMmY1N2M1ZGIyM2E4",
   "tracks": [
     {
       "added_at": "2022-08-18 14:26:15",
@@ -155,6 +155,22 @@
     {
       "added_at": "2022-08-18 14:26:15",
       "album": {
+        "name": "The Most Beautiful Moment in Life: Young Forever",
+        "url": "https://open.spotify.com/album/1k5bJ8l5oL5xxVBVHjil09"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "duration_ms": 203351,
+      "name": "Burning Up (Fire)",
+      "url": "https://open.spotify.com/track/0aE3V0zgSD2YwkEHW42gxG"
+    },
+    {
+      "added_at": "2022-08-18 14:26:15",
+      "album": {
         "name": "Hello Bitches",
         "url": "https://open.spotify.com/album/1pu6aEuAKBdTdQLSbfBNTG"
       },
@@ -211,22 +227,6 @@
     {
       "added_at": "2022-08-18 14:26:15",
       "album": {
-        "name": "COUP D'ETAT",
-        "url": "https://open.spotify.com/album/4msI9bSfKohOPFic15aLR4"
-      },
-      "artists": [
-        {
-          "name": "G-DRAGON",
-          "url": "https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c"
-        }
-      ],
-      "duration_ms": 224792,
-      "name": "CROOKED",
-      "url": "https://open.spotify.com/track/4EwNWRBWdZ6bgvxRHlZ8OO"
-    },
-    {
-      "added_at": "2022-08-18 14:26:15",
-      "album": {
         "name": "KILL THIS LOVE",
         "url": "https://open.spotify.com/album/3PNxZ3BELbUXJ1XLktXiHz"
       },
@@ -239,22 +239,6 @@
       "duration_ms": 191050,
       "name": "Kill This Love",
       "url": "https://open.spotify.com/track/6hvczQ05jc1yGlp9zhb95V"
-    },
-    {
-      "added_at": "2022-08-18 14:26:15",
-      "album": {
-        "name": "The Most Beautiful Moment in Life: Young Forever",
-        "url": "https://open.spotify.com/album/1k5bJ8l5oL5xxVBVHjil09"
-      },
-      "artists": [
-        {
-          "name": "BTS",
-          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
-        }
-      ],
-      "duration_ms": 203351,
-      "name": "Burning Up (Fire)",
-      "url": "https://open.spotify.com/track/0aE3V0zgSD2YwkEHW42gxG"
     },
     {
       "added_at": "2022-08-18 14:26:15",
@@ -275,18 +259,18 @@
     {
       "added_at": "2022-08-18 14:26:15",
       "album": {
-        "name": "BIRTHDAY",
-        "url": "https://open.spotify.com/album/3lms4btHVQwQdmlk2a4oQx"
+        "name": "COUP D'ETAT",
+        "url": "https://open.spotify.com/album/4msI9bSfKohOPFic15aLR4"
       },
       "artists": [
         {
-          "name": "JEON SOMI",
-          "url": "https://open.spotify.com/artist/7zYj9S9SdIunYCfSm7vzAR"
+          "name": "G-DRAGON",
+          "url": "https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c"
         }
       ],
-      "duration_ms": 185796,
-      "name": "BIRTHDAY",
-      "url": "https://open.spotify.com/track/5XcM0eD1lsWZibqJ9AUTFq"
+      "duration_ms": 224792,
+      "name": "CROOKED",
+      "url": "https://open.spotify.com/track/4EwNWRBWdZ6bgvxRHlZ8OO"
     },
     {
       "added_at": "2022-08-18 14:26:15",
@@ -371,6 +355,22 @@
     {
       "added_at": "2022-08-18 14:26:15",
       "album": {
+        "name": "BIRTHDAY",
+        "url": "https://open.spotify.com/album/3lms4btHVQwQdmlk2a4oQx"
+      },
+      "artists": [
+        {
+          "name": "JEON SOMI",
+          "url": "https://open.spotify.com/artist/7zYj9S9SdIunYCfSm7vzAR"
+        }
+      ],
+      "duration_ms": 185796,
+      "name": "BIRTHDAY",
+      "url": "https://open.spotify.com/track/5XcM0eD1lsWZibqJ9AUTFq"
+    },
+    {
+      "added_at": "2022-08-18 14:26:15",
+      "album": {
         "name": "6equence",
         "url": "https://open.spotify.com/album/0SXzCRUFSNGBG1S1lqvzb1"
       },
@@ -439,6 +439,22 @@
     {
       "added_at": "2022-08-18 14:26:15",
       "album": {
+        "name": "Love Yourself \u7d50 'Answer'",
+        "url": "https://open.spotify.com/album/43wFM1HquliY3iwKWzPN4y"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "duration_ms": 235779,
+      "name": "Go Go",
+      "url": "https://open.spotify.com/track/4kZoZfj7IBg8eo1JZ2vsGO"
+    },
+    {
+      "added_at": "2022-08-18 14:26:15",
+      "album": {
         "name": "ALPHA",
         "url": "https://open.spotify.com/album/32lsJQmgxK7swVFGZYfQWg"
       },
@@ -467,58 +483,6 @@
       "duration_ms": 210705,
       "name": "\ub0a8\uc790 \uc5c6\uc774 \uc798 \uc0b4\uc544",
       "url": "https://open.spotify.com/track/7hCnoPpEDBMGnooYnOCRPX"
-    },
-    {
-      "added_at": "2022-08-18 14:26:15",
-      "album": {
-        "name": "SELFISH",
-        "url": "https://open.spotify.com/album/0HtGtnnnFeWmtvgNFg0dr1"
-      },
-      "artists": [
-        {
-          "name": "Moon Byul",
-          "url": "https://open.spotify.com/artist/1eTft3tXynrKdo6XD7QHLL"
-        },
-        {
-          "name": "SEULGI",
-          "url": "https://open.spotify.com/artist/2QM5S4yO6xHgnNvF0nbZZq"
-        }
-      ],
-      "duration_ms": 192577,
-      "name": "SELFISH (Feat. SEULGI Of Red Velvet)",
-      "url": "https://open.spotify.com/track/4Lgd631IfDKMLPu6t7L0Tj"
-    },
-    {
-      "added_at": "2022-08-18 14:26:15",
-      "album": {
-        "name": "CRUSH",
-        "url": "https://open.spotify.com/album/4OviNx5CqaeGhARVtHYtDL"
-      },
-      "artists": [
-        {
-          "name": "2NE1",
-          "url": "https://open.spotify.com/artist/1l0mKo96Jh9HVYONcRl3Yp"
-        }
-      ],
-      "duration_ms": 216750,
-      "name": "HAPPY",
-      "url": "https://open.spotify.com/track/5UteR9bUlDg8I70brft1Vh"
-    },
-    {
-      "added_at": "2022-08-18 14:26:15",
-      "album": {
-        "name": "Love Yourself \u7d50 'Answer'",
-        "url": "https://open.spotify.com/album/43wFM1HquliY3iwKWzPN4y"
-      },
-      "artists": [
-        {
-          "name": "BTS",
-          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
-        }
-      ],
-      "duration_ms": 235779,
-      "name": "Go Go",
-      "url": "https://open.spotify.com/track/4kZoZfj7IBg8eo1JZ2vsGO"
     },
     {
       "added_at": "2022-08-18 14:26:15",
@@ -579,6 +543,42 @@
     {
       "added_at": "2022-08-18 14:26:15",
       "album": {
+        "name": "SELFISH",
+        "url": "https://open.spotify.com/album/0HtGtnnnFeWmtvgNFg0dr1"
+      },
+      "artists": [
+        {
+          "name": "Moon Byul",
+          "url": "https://open.spotify.com/artist/1eTft3tXynrKdo6XD7QHLL"
+        },
+        {
+          "name": "SEULGI",
+          "url": "https://open.spotify.com/artist/2QM5S4yO6xHgnNvF0nbZZq"
+        }
+      ],
+      "duration_ms": 192577,
+      "name": "SELFISH (Feat. SEULGI Of Red Velvet)",
+      "url": "https://open.spotify.com/track/4Lgd631IfDKMLPu6t7L0Tj"
+    },
+    {
+      "added_at": "2022-08-18 14:26:15",
+      "album": {
+        "name": "CRUSH",
+        "url": "https://open.spotify.com/album/4OviNx5CqaeGhARVtHYtDL"
+      },
+      "artists": [
+        {
+          "name": "2NE1",
+          "url": "https://open.spotify.com/artist/1l0mKo96Jh9HVYONcRl3Yp"
+        }
+      ],
+      "duration_ms": 216750,
+      "name": "HAPPY",
+      "url": "https://open.spotify.com/track/5UteR9bUlDg8I70brft1Vh"
+    },
+    {
+      "added_at": "2022-08-18 14:26:15",
+      "album": {
         "name": "Wish & Wind",
         "url": "https://open.spotify.com/album/5Fs2dlwUz1zkNcUPu6KaKF"
       },
@@ -627,22 +627,6 @@
     {
       "added_at": "2022-08-18 14:26:15",
       "album": {
-        "name": "Dear X Who Doesn't Love Me, Pt. 5 (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/3ydjTxtIV74JPcsXff9hoh"
-      },
-      "artists": [
-        {
-          "name": "HYOJUNG",
-          "url": "https://open.spotify.com/artist/6seuyGQ3Fq56sS06YVPsOk"
-        }
-      ],
-      "duration_ms": 203146,
-      "name": "Dear, Beloved - Original Version",
-      "url": "https://open.spotify.com/track/5AwhDE42bfgFw9Nm5iv66T"
-    },
-    {
-      "added_at": "2022-08-18 14:26:15",
-      "album": {
         "name": "SOLO DAY",
         "url": "https://open.spotify.com/album/5bzGBXIqZIiqKJHDTNP8ix"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 199040,
       "name": "SOLO DAY",
       "url": "https://open.spotify.com/track/58wbNn4eEsvAqTz4JJxn9L"
+    },
+    {
+      "added_at": "2022-08-18 14:26:15",
+      "album": {
+        "name": "Dear X Who Doesn't Love Me, Pt. 5 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/3ydjTxtIV74JPcsXff9hoh"
+      },
+      "artists": [
+        {
+          "name": "HYOJUNG",
+          "url": "https://open.spotify.com/artist/6seuyGQ3Fq56sS06YVPsOk"
+        }
+      ],
+      "duration_ms": 203146,
+      "name": "Dear, Beloved - Original Version",
+      "url": "https://open.spotify.com/track/5AwhDE42bfgFw9Nm5iv66T"
     },
     {
       "added_at": "2022-08-18 14:26:15",
@@ -711,18 +711,18 @@
     {
       "added_at": "2022-08-18 14:26:15",
       "album": {
-        "name": "24\u2103",
-        "url": "https://open.spotify.com/album/5u9CP1NknadV33hZepVEy5"
+        "name": "Do Not Want To Do It",
+        "url": "https://open.spotify.com/album/1QGkSuxkIqUmnX2r2Vdr95"
       },
       "artists": [
         {
-          "name": "LeeHi",
-          "url": "https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu"
+          "name": "meenoi",
+          "url": "https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH"
         }
       ],
-      "duration_ms": 176759,
-      "name": "20MIN",
-      "url": "https://open.spotify.com/track/1Wl9MPBkb50b4uevY6sxkA"
+      "duration_ms": 232318,
+      "name": "Do Not Want To Do It",
+      "url": "https://open.spotify.com/track/5LhlnraUYxYccDUqnEayri"
     },
     {
       "added_at": "2022-08-18 14:26:15",
@@ -743,34 +743,18 @@
     {
       "added_at": "2022-08-18 14:26:15",
       "album": {
-        "name": "LEGO(Let's Go)",
-        "url": "https://open.spotify.com/album/7IMiyn6pyeKOX4GXTIk4M8"
+        "name": "24\u2103",
+        "url": "https://open.spotify.com/album/5u9CP1NknadV33hZepVEy5"
       },
       "artists": [
         {
-          "name": "curv moon",
-          "url": "https://open.spotify.com/artist/5Lv4ukV1IsTbFO3WupJRL4"
+          "name": "LeeHi",
+          "url": "https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu"
         }
       ],
-      "duration_ms": 113346,
-      "name": "LEGO(Let's Go)",
-      "url": "https://open.spotify.com/track/6LBaBhUnFywBr4HP6a5RDM"
-    },
-    {
-      "added_at": "2022-08-18 14:26:15",
-      "album": {
-        "name": "Do Not Want To Do It",
-        "url": "https://open.spotify.com/album/1QGkSuxkIqUmnX2r2Vdr95"
-      },
-      "artists": [
-        {
-          "name": "meenoi",
-          "url": "https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH"
-        }
-      ],
-      "duration_ms": 232318,
-      "name": "Do Not Want To Do It",
-      "url": "https://open.spotify.com/track/5LhlnraUYxYccDUqnEayri"
+      "duration_ms": 176759,
+      "name": "20MIN",
+      "url": "https://open.spotify.com/track/1Wl9MPBkb50b4uevY6sxkA"
     },
     {
       "added_at": "2022-08-18 14:26:15",
@@ -835,6 +819,22 @@
     {
       "added_at": "2022-08-18 14:26:15",
       "album": {
+        "name": "LEGO(Let's Go)",
+        "url": "https://open.spotify.com/album/7IMiyn6pyeKOX4GXTIk4M8"
+      },
+      "artists": [
+        {
+          "name": "curv moon",
+          "url": "https://open.spotify.com/artist/5Lv4ukV1IsTbFO3WupJRL4"
+        }
+      ],
+      "duration_ms": 113346,
+      "name": "LEGO(Let's Go)",
+      "url": "https://open.spotify.com/track/6LBaBhUnFywBr4HP6a5RDM"
+    },
+    {
+      "added_at": "2022-08-18 14:26:15",
+      "album": {
         "name": "#LOVEMEORHATEME",
         "url": "https://open.spotify.com/album/3UIen3gIyymppgXGLjc5xk"
       },
@@ -895,22 +895,6 @@
     {
       "added_at": "2022-08-18 14:26:15",
       "album": {
-        "name": "My Move",
-        "url": "https://open.spotify.com/album/7fcDWzalNj9GIV3D17DJIH"
-      },
-      "artists": [
-        {
-          "name": "SAAY",
-          "url": "https://open.spotify.com/artist/2pvCf5g7XBReiPIvcq7W18"
-        }
-      ],
-      "duration_ms": 220853,
-      "name": "My Move",
-      "url": "https://open.spotify.com/track/5PyfW50o3iKQ1rfvBNIYPC"
-    },
-    {
-      "added_at": "2022-08-18 14:26:15",
-      "album": {
         "name": "People like us",
         "url": "https://open.spotify.com/album/20iphJISZQnqBcBxj5qLjJ"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 193200,
       "name": "People like us",
       "url": "https://open.spotify.com/track/6HhhUwGX3emVIxKvVunpp9"
+    },
+    {
+      "added_at": "2022-08-18 14:26:15",
+      "album": {
+        "name": "My Move",
+        "url": "https://open.spotify.com/album/7fcDWzalNj9GIV3D17DJIH"
+      },
+      "artists": [
+        {
+          "name": "SAAY",
+          "url": "https://open.spotify.com/artist/2pvCf5g7XBReiPIvcq7W18"
+        }
+      ],
+      "duration_ms": 220853,
+      "name": "My Move",
+      "url": "https://open.spotify.com/track/5PyfW50o3iKQ1rfvBNIYPC"
     },
     {
       "added_at": "2022-08-18 14:26:15",

@@ -1,12 +1,12 @@
 {
   "description": "When the funk is just too funky for words to keep up.",
-  "num_followers": 305515,
+  "num_followers": 306500,
   "original_name": "Instrumental Funk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzkwNTYwMCwwMDAwMDAwMDBlOWVkNmVjNjI5MWMxOGM5MWQyMmEwMzQ3YmI3MDYw",
+  "snapshot_id": "MTY2MzkwNTYwMCwwMDAwMDAwMGI1NzhhYjY2N2QwNjFjOTQ4MjY2N2FhOWE1OTllYjYy",
   "tracks": [
     {
       "added_at": "2020-11-13 05:02:00",
@@ -57,22 +57,6 @@
       "url": "https://open.spotify.com/track/4Ce66JznW8QbeyTdSzdGwR"
     },
     {
-      "added_at": "2020-11-13 05:02:00",
-      "album": {
-        "name": "I Told You So",
-        "url": "https://open.spotify.com/album/1wdTI56LWM9Bcbfx4zVxX4"
-      },
-      "artists": [
-        {
-          "name": "Delvon Lamarr Organ Trio",
-          "url": "https://open.spotify.com/artist/7owr01EP6gwCYjnfQtPKy8"
-        }
-      ],
-      "duration_ms": 239080,
-      "name": "Call Your Mom",
-      "url": "https://open.spotify.com/track/2PiYyDEaXrT5PtJxJE3l7E"
-    },
-    {
       "added_at": "2022-02-04 05:02:00",
       "album": {
         "name": "The Fearless Flyers III",
@@ -91,6 +75,38 @@
       "duration_ms": 96884,
       "name": "Patrol Acrobatique",
       "url": "https://open.spotify.com/track/37nNjtdPywMHpMZumunVP7"
+    },
+    {
+      "added_at": "2020-11-13 05:02:00",
+      "album": {
+        "name": "I Told You So",
+        "url": "https://open.spotify.com/album/1wdTI56LWM9Bcbfx4zVxX4"
+      },
+      "artists": [
+        {
+          "name": "Delvon Lamarr Organ Trio",
+          "url": "https://open.spotify.com/artist/7owr01EP6gwCYjnfQtPKy8"
+        }
+      ],
+      "duration_ms": 239080,
+      "name": "Call Your Mom",
+      "url": "https://open.spotify.com/track/2PiYyDEaXrT5PtJxJE3l7E"
+    },
+    {
+      "added_at": "2020-11-13 05:02:00",
+      "album": {
+        "name": "Parking Lot Symphony",
+        "url": "https://open.spotify.com/album/37KlzjSTrsjai1w1hfzsdV"
+      },
+      "artists": [
+        {
+          "name": "Trombone Shorty",
+          "url": "https://open.spotify.com/artist/37ZvFp654tY74Z1D2TLOGR"
+        }
+      ],
+      "duration_ms": 139105,
+      "name": "Tripped Out Slim",
+      "url": "https://open.spotify.com/track/7b3ceiH1Cy03cR0GtlqgHV"
     },
     {
       "added_at": "2020-11-13 05:02:00",
@@ -143,38 +159,6 @@
     {
       "added_at": "2020-11-13 05:02:00",
       "album": {
-        "name": "Parking Lot Symphony",
-        "url": "https://open.spotify.com/album/37KlzjSTrsjai1w1hfzsdV"
-      },
-      "artists": [
-        {
-          "name": "Trombone Shorty",
-          "url": "https://open.spotify.com/artist/37ZvFp654tY74Z1D2TLOGR"
-        }
-      ],
-      "duration_ms": 139105,
-      "name": "Tripped Out Slim",
-      "url": "https://open.spotify.com/track/7b3ceiH1Cy03cR0GtlqgHV"
-    },
-    {
-      "added_at": "2021-04-02 05:01:00",
-      "album": {
-        "name": "Jimmy's Groove",
-        "url": "https://open.spotify.com/album/3lmBmGEnn642E7Zs3F9fH2"
-      },
-      "artists": [
-        {
-          "name": "Delvon Lamarr Organ Trio",
-          "url": "https://open.spotify.com/artist/7owr01EP6gwCYjnfQtPKy8"
-        }
-      ],
-      "duration_ms": 377171,
-      "name": "Jimmy's Groove",
-      "url": "https://open.spotify.com/track/2sSi5vdL5eEpg3I53oa9Xx"
-    },
-    {
-      "added_at": "2020-11-13 05:02:00",
-      "album": {
         "name": "Smooth Move",
         "url": "https://open.spotify.com/album/6o9IZz9yXexSURHtYenXSa"
       },
@@ -203,6 +187,22 @@
       "duration_ms": 251533,
       "name": "The Vice Yard",
       "url": "https://open.spotify.com/track/3H47SylMu2eMbc5WLZThPm"
+    },
+    {
+      "added_at": "2022-03-11 05:02:00",
+      "album": {
+        "name": "Unify",
+        "url": "https://open.spotify.com/album/0b7YzSdS2YIQp1uuPL05k5"
+      },
+      "artists": [
+        {
+          "name": "Lettuce",
+          "url": "https://open.spotify.com/artist/1fZXjUQEkVbB0TvZX4qFR8"
+        }
+      ],
+      "duration_ms": 359698,
+      "name": "Gravy Train",
+      "url": "https://open.spotify.com/track/1AvimDFJoOVRv6feqjsE5p"
     },
     {
       "added_at": "2020-11-13 05:02:00",
@@ -261,36 +261,36 @@
       "url": "https://open.spotify.com/track/1MrzCY8KeTcU2UGDITsAoz"
     },
     {
-      "added_at": "2022-03-11 05:02:00",
+      "added_at": "2021-04-02 05:01:00",
       "album": {
-        "name": "Unify",
-        "url": "https://open.spotify.com/album/0b7YzSdS2YIQp1uuPL05k5"
+        "name": "Jimmy's Groove",
+        "url": "https://open.spotify.com/album/3lmBmGEnn642E7Zs3F9fH2"
       },
       "artists": [
         {
-          "name": "Lettuce",
-          "url": "https://open.spotify.com/artist/1fZXjUQEkVbB0TvZX4qFR8"
+          "name": "Delvon Lamarr Organ Trio",
+          "url": "https://open.spotify.com/artist/7owr01EP6gwCYjnfQtPKy8"
         }
       ],
-      "duration_ms": 359698,
-      "name": "Gravy Train",
-      "url": "https://open.spotify.com/track/1AvimDFJoOVRv6feqjsE5p"
+      "duration_ms": 377171,
+      "name": "Jimmy's Groove",
+      "url": "https://open.spotify.com/track/2sSi5vdL5eEpg3I53oa9Xx"
     },
     {
       "added_at": "2020-11-13 05:02:00",
       "album": {
-        "name": "Gun Metal Grey",
-        "url": "https://open.spotify.com/album/1ksIAr0EZzkqpKuVI9BgJQ"
+        "name": "The Striped Album",
+        "url": "https://open.spotify.com/album/7BWRgbyTOEjtPyVUnTxwj8"
       },
       "artists": [
         {
-          "name": "The Budos Band",
-          "url": "https://open.spotify.com/artist/5q4eLKmqFVP0xII8087PHz"
+          "name": "Cory Wong",
+          "url": "https://open.spotify.com/artist/6xt9sJmmyYwWkJv8A6ssiU"
         }
       ],
-      "duration_ms": 196746,
-      "name": "Gun Metal Grey",
-      "url": "https://open.spotify.com/track/2xBMnos2JHuKgRGr0cSgK5"
+      "duration_ms": 178486,
+      "name": "Lilypad",
+      "url": "https://open.spotify.com/track/1nNBY2quWBB0h27OtuR9wx"
     },
     {
       "added_at": "2020-11-13 05:02:00",
@@ -315,6 +315,22 @@
     {
       "added_at": "2020-11-13 05:02:00",
       "album": {
+        "name": "Gun Metal Grey",
+        "url": "https://open.spotify.com/album/1ksIAr0EZzkqpKuVI9BgJQ"
+      },
+      "artists": [
+        {
+          "name": "The Budos Band",
+          "url": "https://open.spotify.com/artist/5q4eLKmqFVP0xII8087PHz"
+        }
+      ],
+      "duration_ms": 196746,
+      "name": "Gun Metal Grey",
+      "url": "https://open.spotify.com/track/2xBMnos2JHuKgRGr0cSgK5"
+    },
+    {
+      "added_at": "2020-11-13 05:02:00",
+      "album": {
         "name": "Laid Black",
         "url": "https://open.spotify.com/album/3REq2IkHZ1fo8BNWnfGGNc"
       },
@@ -335,18 +351,22 @@
     {
       "added_at": "2020-11-13 05:02:00",
       "album": {
-        "name": "The Striped Album",
-        "url": "https://open.spotify.com/album/7BWRgbyTOEjtPyVUnTxwj8"
+        "name": "Tailwinds",
+        "url": "https://open.spotify.com/album/6qPLq4JNIUi0BEj1OHwEkg"
       },
       "artists": [
         {
-          "name": "Cory Wong",
-          "url": "https://open.spotify.com/artist/6xt9sJmmyYwWkJv8A6ssiU"
+          "name": "The Fearless Flyers",
+          "url": "https://open.spotify.com/artist/1JyLSGXC3aWzjY6ZdxvIXh"
+        },
+        {
+          "name": "Vulf",
+          "url": "https://open.spotify.com/artist/3zN4g0kL9VJNTVo5Woh5BL"
         }
       ],
-      "duration_ms": 178486,
-      "name": "Lilypad",
-      "url": "https://open.spotify.com/track/1nNBY2quWBB0h27OtuR9wx"
+      "duration_ms": 137288,
+      "name": "Nate Smith Is the Ace of Aces",
+      "url": "https://open.spotify.com/track/3p8Gxhqy3pzCU7BRfqhqPE"
     },
     {
       "added_at": "2020-11-13 05:02:00",
@@ -383,26 +403,6 @@
     {
       "added_at": "2020-11-13 05:02:00",
       "album": {
-        "name": "Tailwinds",
-        "url": "https://open.spotify.com/album/6qPLq4JNIUi0BEj1OHwEkg"
-      },
-      "artists": [
-        {
-          "name": "The Fearless Flyers",
-          "url": "https://open.spotify.com/artist/1JyLSGXC3aWzjY6ZdxvIXh"
-        },
-        {
-          "name": "Vulf",
-          "url": "https://open.spotify.com/artist/3zN4g0kL9VJNTVo5Woh5BL"
-        }
-      ],
-      "duration_ms": 137288,
-      "name": "Nate Smith Is the Ace of Aces",
-      "url": "https://open.spotify.com/track/3p8Gxhqy3pzCU7BRfqhqPE"
-    },
-    {
-      "added_at": "2020-11-13 05:02:00",
-      "album": {
         "name": "Bacano",
         "url": "https://open.spotify.com/album/0WSLWbijlDB3tnbl2WcSgt"
       },
@@ -415,22 +415,6 @@
       "duration_ms": 309092,
       "name": "Open Season",
       "url": "https://open.spotify.com/track/5jjzzQ9xQ1iYsrqABU2cYH"
-    },
-    {
-      "added_at": "2020-11-13 05:02:00",
-      "album": {
-        "name": "The Olympians",
-        "url": "https://open.spotify.com/album/4XipjE8vNOXj7Xc9FlD962"
-      },
-      "artists": [
-        {
-          "name": "The Olympians",
-          "url": "https://open.spotify.com/artist/0ZPqGxW2iwZz7vGJWzuTUi"
-        }
-      ],
-      "duration_ms": 217053,
-      "name": "Saturn",
-      "url": "https://open.spotify.com/track/19pDIVteJMebeU3KrB7rYR"
     },
     {
       "added_at": "2021-01-29 05:01:00",
@@ -451,66 +435,18 @@
     {
       "added_at": "2020-11-13 05:02:00",
       "album": {
-        "name": "Hot Chicken",
-        "url": "https://open.spotify.com/album/5D7hc9k3V0WKdU754REsIk"
+        "name": "The Olympians",
+        "url": "https://open.spotify.com/album/4XipjE8vNOXj7Xc9FlD962"
       },
       "artists": [
         {
-          "name": "DLG 3",
-          "url": "https://open.spotify.com/artist/2aibOlbkbZ3Wzu9pw7uT1I"
+          "name": "The Olympians",
+          "url": "https://open.spotify.com/artist/0ZPqGxW2iwZz7vGJWzuTUi"
         }
       ],
-      "duration_ms": 241306,
-      "name": "Hot Chicken",
-      "url": "https://open.spotify.com/track/1uy8jY4k6SmI2Zr6fwbldQ"
-    },
-    {
-      "added_at": "2020-11-13 05:02:00",
-      "album": {
-        "name": "Dallas",
-        "url": "https://open.spotify.com/album/5vH49ZbRg8Y8Yq52r7RiFg"
-      },
-      "artists": [
-        {
-          "name": "L'\u00e9clair",
-          "url": "https://open.spotify.com/artist/7iKleRyjLc8sVDN551vyiX"
-        }
-      ],
-      "duration_ms": 214387,
-      "name": "Dallas",
-      "url": "https://open.spotify.com/track/2HYk4Wh5L4MiZ6s6myy4bI"
-    },
-    {
-      "added_at": "2020-11-13 05:02:00",
-      "album": {
-        "name": "Resonate",
-        "url": "https://open.spotify.com/album/32wdlbMm4TWfi75n9qW1rs"
-      },
-      "artists": [
-        {
-          "name": "Lettuce",
-          "url": "https://open.spotify.com/artist/1fZXjUQEkVbB0TvZX4qFR8"
-        }
-      ],
-      "duration_ms": 381040,
-      "name": "Blaze",
-      "url": "https://open.spotify.com/track/1cFgKdRa1Zir3fVQgfTIwH"
-    },
-    {
-      "added_at": "2020-11-13 05:02:00",
-      "album": {
-        "name": "Jazz In The Present Tense",
-        "url": "https://open.spotify.com/album/6mB4Dw3ryI693Cpm1KOYIK"
-      },
-      "artists": [
-        {
-          "name": "Solsonics",
-          "url": "https://open.spotify.com/artist/0hRcHqu2R885utzNyofwbj"
-        }
-      ],
-      "duration_ms": 249933,
-      "name": "Montuno Funk",
-      "url": "https://open.spotify.com/track/1HwXgiTt6K0MtxxBriAQEl"
+      "duration_ms": 217053,
+      "name": "Saturn",
+      "url": "https://open.spotify.com/track/19pDIVteJMebeU3KrB7rYR"
     },
     {
       "added_at": "2020-11-13 05:02:00",
@@ -531,6 +467,54 @@
       "duration_ms": 193573,
       "name": "Assassin",
       "url": "https://open.spotify.com/track/6VO9i1n879SKNqjZkzaPvB"
+    },
+    {
+      "added_at": "2020-11-13 05:02:00",
+      "album": {
+        "name": "Jazz In The Present Tense",
+        "url": "https://open.spotify.com/album/6mB4Dw3ryI693Cpm1KOYIK"
+      },
+      "artists": [
+        {
+          "name": "Solsonics",
+          "url": "https://open.spotify.com/artist/0hRcHqu2R885utzNyofwbj"
+        }
+      ],
+      "duration_ms": 249933,
+      "name": "Montuno Funk",
+      "url": "https://open.spotify.com/track/1HwXgiTt6K0MtxxBriAQEl"
+    },
+    {
+      "added_at": "2020-11-13 05:02:00",
+      "album": {
+        "name": "Dallas",
+        "url": "https://open.spotify.com/album/5vH49ZbRg8Y8Yq52r7RiFg"
+      },
+      "artists": [
+        {
+          "name": "L'\u00e9clair",
+          "url": "https://open.spotify.com/artist/7iKleRyjLc8sVDN551vyiX"
+        }
+      ],
+      "duration_ms": 214387,
+      "name": "Dallas",
+      "url": "https://open.spotify.com/track/2HYk4Wh5L4MiZ6s6myy4bI"
+    },
+    {
+      "added_at": "2020-11-13 05:02:00",
+      "album": {
+        "name": "Scratch My Itch",
+        "url": "https://open.spotify.com/album/50JWmtnK2xUgMY321aZyzs"
+      },
+      "artists": [
+        {
+          "name": "The Soul Snatchers",
+          "url": "https://open.spotify.com/artist/7DssAVUkBP2JAMLRvfrg20"
+        }
+      ],
+      "duration_ms": 239280,
+      "name": "Do You Wanna Get Down",
+      "url": "https://open.spotify.com/track/1U2WuiUGSpZfzoL0e3n8Kj"
     },
     {
       "added_at": "2020-11-13 05:02:00",
@@ -567,6 +551,22 @@
     {
       "added_at": "2020-11-13 05:02:00",
       "album": {
+        "name": "Resonate",
+        "url": "https://open.spotify.com/album/32wdlbMm4TWfi75n9qW1rs"
+      },
+      "artists": [
+        {
+          "name": "Lettuce",
+          "url": "https://open.spotify.com/artist/1fZXjUQEkVbB0TvZX4qFR8"
+        }
+      ],
+      "duration_ms": 381040,
+      "name": "Blaze",
+      "url": "https://open.spotify.com/track/1cFgKdRa1Zir3fVQgfTIwH"
+    },
+    {
+      "added_at": "2020-11-13 05:02:00",
+      "album": {
         "name": "The Fox",
         "url": "https://open.spotify.com/album/6jNDtYJlpZtqjEqc0a3I9J"
       },
@@ -583,34 +583,18 @@
     {
       "added_at": "2020-11-13 05:02:00",
       "album": {
-        "name": "Golden Ticket",
-        "url": "https://open.spotify.com/album/0iOLQnizNBBrvLbvmdUPF6"
+        "name": "Hot Chicken",
+        "url": "https://open.spotify.com/album/5D7hc9k3V0WKdU754REsIk"
       },
       "artists": [
         {
-          "name": "Brasstracks",
-          "url": "https://open.spotify.com/artist/5sKvgmG84C0bIMWeS2SRPr"
+          "name": "DLG 3",
+          "url": "https://open.spotify.com/artist/2aibOlbkbZ3Wzu9pw7uT1I"
         }
       ],
-      "duration_ms": 228986,
-      "name": "Basket Case",
-      "url": "https://open.spotify.com/track/4X9qoigjhdm32eRJRcjtm2"
-    },
-    {
-      "added_at": "2020-11-13 05:02:00",
-      "album": {
-        "name": "Scratch My Itch",
-        "url": "https://open.spotify.com/album/50JWmtnK2xUgMY321aZyzs"
-      },
-      "artists": [
-        {
-          "name": "The Soul Snatchers",
-          "url": "https://open.spotify.com/artist/7DssAVUkBP2JAMLRvfrg20"
-        }
-      ],
-      "duration_ms": 239280,
-      "name": "Do You Wanna Get Down",
-      "url": "https://open.spotify.com/track/1U2WuiUGSpZfzoL0e3n8Kj"
+      "duration_ms": 241306,
+      "name": "Hot Chicken",
+      "url": "https://open.spotify.com/track/1uy8jY4k6SmI2Zr6fwbldQ"
     },
     {
       "added_at": "2020-11-13 05:02:00",
@@ -651,50 +635,18 @@
     {
       "added_at": "2020-11-13 05:02:00",
       "album": {
-        "name": "Resonate",
-        "url": "https://open.spotify.com/album/32wdlbMm4TWfi75n9qW1rs"
+        "name": "Golden Ticket",
+        "url": "https://open.spotify.com/album/0iOLQnizNBBrvLbvmdUPF6"
       },
       "artists": [
         {
-          "name": "Lettuce",
-          "url": "https://open.spotify.com/artist/1fZXjUQEkVbB0TvZX4qFR8"
+          "name": "Brasstracks",
+          "url": "https://open.spotify.com/artist/5sKvgmG84C0bIMWeS2SRPr"
         }
       ],
-      "duration_ms": 310561,
-      "name": "NDUGU",
-      "url": "https://open.spotify.com/track/7v4FBNdpo3FQwmHcU7hDnI"
-    },
-    {
-      "added_at": "2020-11-13 05:02:00",
-      "album": {
-        "name": "Canoga Madness",
-        "url": "https://open.spotify.com/album/6KP257UWJsfOnJ5stxJ2MC"
-      },
-      "artists": [
-        {
-          "name": "Mestizo Beat",
-          "url": "https://open.spotify.com/artist/15Jjcp8FbI1GWwMxb5xkns"
-        }
-      ],
-      "duration_ms": 207093,
-      "name": "El Camino Del Caballo",
-      "url": "https://open.spotify.com/track/3EY95RjI4HbKXgUJqMmgu6"
-    },
-    {
-      "added_at": "2020-11-13 05:02:00",
-      "album": {
-        "name": "The Groove Cubed",
-        "url": "https://open.spotify.com/album/0agUvZzRFE3DuNYG4qIPRK"
-      },
-      "artists": [
-        {
-          "name": "Rock Candy Funk Party",
-          "url": "https://open.spotify.com/artist/0n6R1WkjWzYq9NblwRLaBQ"
-        }
-      ],
-      "duration_ms": 412733,
-      "name": "In the Groove",
-      "url": "https://open.spotify.com/track/5YPvJO7U1HhwuJBLrD1f0q"
+      "duration_ms": 228986,
+      "name": "Basket Case",
+      "url": "https://open.spotify.com/track/4X9qoigjhdm32eRJRcjtm2"
     },
     {
       "added_at": "2020-11-13 05:02:00",
@@ -715,6 +667,22 @@
     {
       "added_at": "2020-11-13 05:02:00",
       "album": {
+        "name": "Canoga Madness",
+        "url": "https://open.spotify.com/album/6KP257UWJsfOnJ5stxJ2MC"
+      },
+      "artists": [
+        {
+          "name": "Mestizo Beat",
+          "url": "https://open.spotify.com/artist/15Jjcp8FbI1GWwMxb5xkns"
+        }
+      ],
+      "duration_ms": 207093,
+      "name": "El Camino Del Caballo",
+      "url": "https://open.spotify.com/track/3EY95RjI4HbKXgUJqMmgu6"
+    },
+    {
+      "added_at": "2020-11-13 05:02:00",
+      "album": {
         "name": "Tej b/w Short Shrift",
         "url": "https://open.spotify.com/album/3S9mtVCdQOkf0OHTNIfDQu"
       },
@@ -727,6 +695,22 @@
       "duration_ms": 328433,
       "name": "Tej",
       "url": "https://open.spotify.com/track/6gOJKUz0gLllkOzvZ2f7XD"
+    },
+    {
+      "added_at": "2020-11-13 05:02:00",
+      "album": {
+        "name": "Resonate",
+        "url": "https://open.spotify.com/album/32wdlbMm4TWfi75n9qW1rs"
+      },
+      "artists": [
+        {
+          "name": "Lettuce",
+          "url": "https://open.spotify.com/artist/1fZXjUQEkVbB0TvZX4qFR8"
+        }
+      ],
+      "duration_ms": 310561,
+      "name": "NDUGU",
+      "url": "https://open.spotify.com/track/7v4FBNdpo3FQwmHcU7hDnI"
     },
     {
       "added_at": "2021-06-11 04:01:00",
@@ -749,24 +733,36 @@
       "url": "https://open.spotify.com/track/7hePUwn6gsIUe6KC4ACdXB"
     },
     {
-      "added_at": "2022-08-26 04:02:00",
+      "added_at": "2020-11-13 05:02:00",
       "album": {
-        "name": "Watchu Want",
-        "url": "https://open.spotify.com/album/1t1DLpoawvMQz4vzNSAMOh"
+        "name": "The Groove Cubed",
+        "url": "https://open.spotify.com/album/0agUvZzRFE3DuNYG4qIPRK"
       },
       "artists": [
         {
-          "name": "The New Mastersounds",
-          "url": "https://open.spotify.com/artist/1DJVvIcjKhdedkuGRzW7PG"
-        },
-        {
-          "name": "Eddie Roberts",
-          "url": "https://open.spotify.com/artist/7oitwuUO5J1Bd9ItTsc3bI"
+          "name": "Rock Candy Funk Party",
+          "url": "https://open.spotify.com/artist/0n6R1WkjWzYq9NblwRLaBQ"
         }
       ],
-      "duration_ms": 160866,
-      "name": "Watchu Want",
-      "url": "https://open.spotify.com/track/5zuvfo5EyQvM116kKxRgQZ"
+      "duration_ms": 412733,
+      "name": "In the Groove",
+      "url": "https://open.spotify.com/track/5YPvJO7U1HhwuJBLrD1f0q"
+    },
+    {
+      "added_at": "2022-01-07 05:02:00",
+      "album": {
+        "name": "Cold As Weiss",
+        "url": "https://open.spotify.com/album/39wAzMaFzTVEN0yqJXYyzK"
+      },
+      "artists": [
+        {
+          "name": "Delvon Lamarr Organ Trio",
+          "url": "https://open.spotify.com/artist/7owr01EP6gwCYjnfQtPKy8"
+        }
+      ],
+      "duration_ms": 314080,
+      "name": "Don't Worry 'Bout What I Do",
+      "url": "https://open.spotify.com/track/2NrgFbqq1uCovinEtTw3Mj"
     },
     {
       "added_at": "2020-11-13 05:02:00",
@@ -785,20 +781,20 @@
       "url": "https://open.spotify.com/track/5YRjOIXSQ95AIvy4h5xkbu"
     },
     {
-      "added_at": "2022-01-07 05:02:00",
+      "added_at": "2020-11-13 05:02:00",
       "album": {
-        "name": "Cold As Weiss",
-        "url": "https://open.spotify.com/album/39wAzMaFzTVEN0yqJXYyzK"
+        "name": "Wired",
+        "url": "https://open.spotify.com/album/0vo9nZNFMaFASINLCzmzcU"
       },
       "artists": [
         {
-          "name": "Delvon Lamarr Organ Trio",
-          "url": "https://open.spotify.com/artist/7owr01EP6gwCYjnfQtPKy8"
+          "name": "Jeff Beck",
+          "url": "https://open.spotify.com/artist/0AD4odMWVQ2wUSlgxOB5Rl"
         }
       ],
-      "duration_ms": 314080,
-      "name": "Don't Worry 'Bout What I Do",
-      "url": "https://open.spotify.com/track/2NrgFbqq1uCovinEtTw3Mj"
+      "duration_ms": 164173,
+      "name": "Head for Backstage Pass",
+      "url": "https://open.spotify.com/track/6ZHbdm3MUHqDkYV8ZkY0lZ"
     },
     {
       "added_at": "2021-12-24 05:01:00",
@@ -849,20 +845,24 @@
       "url": "https://open.spotify.com/track/0RyrQ4Xh6Z0wE8DQOjKvUa"
     },
     {
-      "added_at": "2020-11-13 05:02:00",
+      "added_at": "2022-08-26 04:02:00",
       "album": {
-        "name": "Wired",
-        "url": "https://open.spotify.com/album/0vo9nZNFMaFASINLCzmzcU"
+        "name": "Watchu Want",
+        "url": "https://open.spotify.com/album/1t1DLpoawvMQz4vzNSAMOh"
       },
       "artists": [
         {
-          "name": "Jeff Beck",
-          "url": "https://open.spotify.com/artist/0AD4odMWVQ2wUSlgxOB5Rl"
+          "name": "The New Mastersounds",
+          "url": "https://open.spotify.com/artist/1DJVvIcjKhdedkuGRzW7PG"
+        },
+        {
+          "name": "Eddie Roberts",
+          "url": "https://open.spotify.com/artist/7oitwuUO5J1Bd9ItTsc3bI"
         }
       ],
-      "duration_ms": 164173,
-      "name": "Head for Backstage Pass",
-      "url": "https://open.spotify.com/track/6ZHbdm3MUHqDkYV8ZkY0lZ"
+      "duration_ms": 160866,
+      "name": "Watchu Want",
+      "url": "https://open.spotify.com/track/5zuvfo5EyQvM116kKxRgQZ"
     },
     {
       "added_at": "2021-04-02 05:01:00",
@@ -879,6 +879,22 @@
       "duration_ms": 261426,
       "name": "Chemical Plant Zone",
       "url": "https://open.spotify.com/track/4xhyuLEk3hkOzU0JV1kOPr"
+    },
+    {
+      "added_at": "2020-11-13 05:02:00",
+      "album": {
+        "name": "False Prophets",
+        "url": "https://open.spotify.com/album/5CujzokHgFMEPtzUdetfyO"
+      },
+      "artists": [
+        {
+          "name": "The Motet",
+          "url": "https://open.spotify.com/artist/4nEUXGyTWXweCdfVf7f8zN"
+        }
+      ],
+      "duration_ms": 352374,
+      "name": "False Prophets",
+      "url": "https://open.spotify.com/track/6sOL29bZBilHSiuFEwtNS9"
     },
     {
       "added_at": "2021-12-10 05:01:00",
@@ -899,38 +915,6 @@
     {
       "added_at": "2020-11-13 05:02:00",
       "album": {
-        "name": "Greasin The Wheels",
-        "url": "https://open.spotify.com/album/4sXHD4MaPHwTdjivbWMmtO"
-      },
-      "artists": [
-        {
-          "name": "The Sound Stylistics",
-          "url": "https://open.spotify.com/artist/104foQZN65b6NnTR40dwOO"
-        }
-      ],
-      "duration_ms": 293880,
-      "name": "THE CRISIS GENERATOR",
-      "url": "https://open.spotify.com/track/761kW7EB1ZjHCvGkEhoWHd"
-    },
-    {
-      "added_at": "2020-11-13 05:02:00",
-      "album": {
-        "name": "False Prophets",
-        "url": "https://open.spotify.com/album/5CujzokHgFMEPtzUdetfyO"
-      },
-      "artists": [
-        {
-          "name": "The Motet",
-          "url": "https://open.spotify.com/artist/4nEUXGyTWXweCdfVf7f8zN"
-        }
-      ],
-      "duration_ms": 352374,
-      "name": "False Prophets",
-      "url": "https://open.spotify.com/track/6sOL29bZBilHSiuFEwtNS9"
-    },
-    {
-      "added_at": "2020-11-13 05:02:00",
-      "album": {
         "name": "Live A Ponte Sisto",
         "url": "https://open.spotify.com/album/6f3eNyHGDyc94yn5wStBYV"
       },
@@ -947,18 +931,34 @@
     {
       "added_at": "2020-11-13 05:02:00",
       "album": {
-        "name": "Uh Yeah!",
-        "url": "https://open.spotify.com/album/6l1B3uOyqe1kWKQnMNIZdk"
+        "name": "Greasin The Wheels",
+        "url": "https://open.spotify.com/album/4sXHD4MaPHwTdjivbWMmtO"
       },
       "artists": [
         {
-          "name": "Funk Off",
-          "url": "https://open.spotify.com/artist/7lis4nJqfPm4jTXZdfAJDy"
+          "name": "The Sound Stylistics",
+          "url": "https://open.spotify.com/artist/104foQZN65b6NnTR40dwOO"
         }
       ],
-      "duration_ms": 188840,
-      "name": "Living Off",
-      "url": "https://open.spotify.com/track/7zLbAUkKTTQmNj0kPs55LH"
+      "duration_ms": 293880,
+      "name": "THE CRISIS GENERATOR",
+      "url": "https://open.spotify.com/track/761kW7EB1ZjHCvGkEhoWHd"
+    },
+    {
+      "added_at": "2021-07-09 04:01:00",
+      "album": {
+        "name": "Praise Me Now",
+        "url": "https://open.spotify.com/album/1XWqVrK5rTsKxL4rXrjHm5"
+      },
+      "artists": [
+        {
+          "name": "Funky Destination",
+          "url": "https://open.spotify.com/artist/2FK2jZ7cuokxYOC5nSM7bK"
+        }
+      ],
+      "duration_ms": 220363,
+      "name": "Mr Bong",
+      "url": "https://open.spotify.com/track/51DMIydCssADRLfnmgt8ZI"
     },
     {
       "added_at": "2021-04-16 04:00:00",
@@ -1001,20 +1001,20 @@
       "url": "https://open.spotify.com/track/0WEMvMJZUrCUJJtu7rOPjB"
     },
     {
-      "added_at": "2021-07-09 04:01:00",
+      "added_at": "2020-11-13 05:02:00",
       "album": {
-        "name": "Praise Me Now",
-        "url": "https://open.spotify.com/album/1XWqVrK5rTsKxL4rXrjHm5"
+        "name": "Uh Yeah!",
+        "url": "https://open.spotify.com/album/6l1B3uOyqe1kWKQnMNIZdk"
       },
       "artists": [
         {
-          "name": "Funky Destination",
-          "url": "https://open.spotify.com/artist/2FK2jZ7cuokxYOC5nSM7bK"
+          "name": "Funk Off",
+          "url": "https://open.spotify.com/artist/7lis4nJqfPm4jTXZdfAJDy"
         }
       ],
-      "duration_ms": 220363,
-      "name": "Mr Bong",
-      "url": "https://open.spotify.com/track/51DMIydCssADRLfnmgt8ZI"
+      "duration_ms": 188840,
+      "name": "Living Off",
+      "url": "https://open.spotify.com/track/7zLbAUkKTTQmNj0kPs55LH"
     },
     {
       "added_at": "2022-04-01 04:02:00",
@@ -1053,20 +1053,36 @@
       "url": "https://open.spotify.com/track/60UQSMnnVZvTGkvx2BlTH0"
     },
     {
-      "added_at": "2022-07-08 04:02:00",
+      "added_at": "2021-01-15 21:11:37",
       "album": {
-        "name": "Prospect Park West",
-        "url": "https://open.spotify.com/album/0zWAfTc8xuvjciEGSfp6EJ"
+        "name": "The Duke",
+        "url": "https://open.spotify.com/album/2FnbvOsZ4x8mnx4eKOKnA9"
       },
       "artists": [
         {
-          "name": "Jerry McHoy",
-          "url": "https://open.spotify.com/artist/3RyPaTgdLCj9NnEvjoI8Jf"
+          "name": "Menahan Street Band",
+          "url": "https://open.spotify.com/artist/1PryMSya1JnSAlcwYawCxp"
         }
       ],
-      "duration_ms": 176184,
-      "name": "Prospect Park West",
-      "url": "https://open.spotify.com/track/2kOjBttPwSgiyF7bCVposZ"
+      "duration_ms": 166760,
+      "name": "The Duke",
+      "url": "https://open.spotify.com/track/11V8HzOfn85nFZmDntBvnP"
+    },
+    {
+      "added_at": "2020-11-13 05:02:00",
+      "album": {
+        "name": "Soul Jazz Express",
+        "url": "https://open.spotify.com/album/7uPIvk4yyavHHaz2HfZqXk"
+      },
+      "artists": [
+        {
+          "name": "Soul Jazz Express",
+          "url": "https://open.spotify.com/artist/477IJP2IAlgmpJL0Bc8gXh"
+        }
+      ],
+      "duration_ms": 317000,
+      "name": "Couple A Brownies",
+      "url": "https://open.spotify.com/track/6MPy26h9zPjTYRGV9sYXQO"
     },
     {
       "added_at": "2021-04-16 04:00:00",
@@ -1085,20 +1101,36 @@
       "url": "https://open.spotify.com/track/5poYqonWICaAZaQCZIPMcu"
     },
     {
-      "added_at": "2021-01-15 21:11:37",
+      "added_at": "2020-11-13 05:02:00",
       "album": {
-        "name": "The Duke",
-        "url": "https://open.spotify.com/album/2FnbvOsZ4x8mnx4eKOKnA9"
+        "name": "Stay Awhile",
+        "url": "https://open.spotify.com/album/1EnNQRl2u7SVbSfaLp8ZN1"
       },
       "artists": [
         {
-          "name": "Menahan Street Band",
-          "url": "https://open.spotify.com/artist/1PryMSya1JnSAlcwYawCxp"
+          "name": "Jay Soto",
+          "url": "https://open.spotify.com/artist/5uDQgKIEg2yDXU3FQBD7Me"
         }
       ],
-      "duration_ms": 166760,
-      "name": "The Duke",
-      "url": "https://open.spotify.com/track/11V8HzOfn85nFZmDntBvnP"
+      "duration_ms": 255093,
+      "name": "Make It Happen",
+      "url": "https://open.spotify.com/track/508i2fa2DAEchJjKbW3bb9"
+    },
+    {
+      "added_at": "2022-07-08 04:02:00",
+      "album": {
+        "name": "Prospect Park West",
+        "url": "https://open.spotify.com/album/0zWAfTc8xuvjciEGSfp6EJ"
+      },
+      "artists": [
+        {
+          "name": "Jerry McHoy",
+          "url": "https://open.spotify.com/artist/3RyPaTgdLCj9NnEvjoI8Jf"
+        }
+      ],
+      "duration_ms": 176184,
+      "name": "Prospect Park West",
+      "url": "https://open.spotify.com/track/2kOjBttPwSgiyF7bCVposZ"
     },
     {
       "added_at": "2021-10-22 04:02:00",
@@ -1119,50 +1151,18 @@
     {
       "added_at": "2020-11-13 05:02:00",
       "album": {
-        "name": "Soul Jazz Express",
-        "url": "https://open.spotify.com/album/7uPIvk4yyavHHaz2HfZqXk"
+        "name": "Funkedemia",
+        "url": "https://open.spotify.com/album/7HKRAGoXo7IWvMhkpT6NMb"
       },
       "artists": [
         {
-          "name": "Soul Jazz Express",
-          "url": "https://open.spotify.com/artist/477IJP2IAlgmpJL0Bc8gXh"
+          "name": "Mac James",
+          "url": "https://open.spotify.com/artist/2lV3UEHZZ7gYzj5Iv0NLJ3"
         }
       ],
-      "duration_ms": 317000,
-      "name": "Couple A Brownies",
-      "url": "https://open.spotify.com/track/6MPy26h9zPjTYRGV9sYXQO"
-    },
-    {
-      "added_at": "2020-11-13 05:02:00",
-      "album": {
-        "name": "The Basement Beat",
-        "url": "https://open.spotify.com/album/3JrhYYG6NXmVmLQ2mH8zaB"
-      },
-      "artists": [
-        {
-          "name": "Chris Hazelton's Boogaloo 7",
-          "url": "https://open.spotify.com/artist/74IYxnwsZ1xNeGIDDujtWr"
-        }
-      ],
-      "duration_ms": 470371,
-      "name": "Bambu",
-      "url": "https://open.spotify.com/track/2zMTauBe9guPMWLTbG1pAH"
-    },
-    {
-      "added_at": "2020-11-13 05:02:00",
-      "album": {
-        "name": "Stay Awhile",
-        "url": "https://open.spotify.com/album/1EnNQRl2u7SVbSfaLp8ZN1"
-      },
-      "artists": [
-        {
-          "name": "Jay Soto",
-          "url": "https://open.spotify.com/artist/5uDQgKIEg2yDXU3FQBD7Me"
-        }
-      ],
-      "duration_ms": 255093,
-      "name": "Make It Happen",
-      "url": "https://open.spotify.com/track/508i2fa2DAEchJjKbW3bb9"
+      "duration_ms": 133381,
+      "name": "Funkedemia",
+      "url": "https://open.spotify.com/track/3Y4OuMnrh3An9tpxGWtd0z"
     },
     {
       "added_at": "2020-11-13 05:02:00",
@@ -1185,36 +1185,52 @@
       "url": "https://open.spotify.com/track/3TNH0Ae83rW4hNM0LfKxFi"
     },
     {
-      "added_at": "2021-01-22 05:01:00",
+      "added_at": "2020-11-13 05:02:00",
       "album": {
-        "name": "Sunday Afternoon",
-        "url": "https://open.spotify.com/album/2GEg0F8CDPyC2lLSWIN5Xy"
+        "name": "Baked, Broiled & Fried",
+        "url": "https://open.spotify.com/album/5TB3O4gATp2KZ9R65dsDuN"
       },
       "artists": [
         {
-          "name": "True Loves",
-          "url": "https://open.spotify.com/artist/1IlKHxSbOJDx10sotxhk4Z"
+          "name": "Cookin' On 3 Burners",
+          "url": "https://open.spotify.com/artist/726MxZBpkxnnoKl6aN7mmj"
         }
       ],
-      "duration_ms": 252106,
-      "name": "First Impression",
-      "url": "https://open.spotify.com/track/4RPt0Kh6elRr1UCdlyU4qn"
+      "duration_ms": 210560,
+      "name": "Keb's Bucket",
+      "url": "https://open.spotify.com/track/43eTrnAbpvPedfm5pYvpb8"
+    },
+    {
+      "added_at": "2021-11-26 05:01:00",
+      "album": {
+        "name": "Sir Somebody",
+        "url": "https://open.spotify.com/album/4SQDM8myIkEa4MDA5hz5fH"
+      },
+      "artists": [
+        {
+          "name": "Family Company",
+          "url": "https://open.spotify.com/artist/68TMIdW3csuFrzKleLKrM0"
+        }
+      ],
+      "duration_ms": 242226,
+      "name": "Sir Somebody",
+      "url": "https://open.spotify.com/track/7aHHRCZdz4ZW9tCN3nX5uv"
     },
     {
       "added_at": "2020-11-13 05:02:00",
       "album": {
-        "name": "Funkedemia",
-        "url": "https://open.spotify.com/album/7HKRAGoXo7IWvMhkpT6NMb"
+        "name": "The Basement Beat",
+        "url": "https://open.spotify.com/album/3JrhYYG6NXmVmLQ2mH8zaB"
       },
       "artists": [
         {
-          "name": "Mac James",
-          "url": "https://open.spotify.com/artist/2lV3UEHZZ7gYzj5Iv0NLJ3"
+          "name": "Chris Hazelton's Boogaloo 7",
+          "url": "https://open.spotify.com/artist/74IYxnwsZ1xNeGIDDujtWr"
         }
       ],
-      "duration_ms": 133381,
-      "name": "Funkedemia",
-      "url": "https://open.spotify.com/track/3Y4OuMnrh3An9tpxGWtd0z"
+      "duration_ms": 470371,
+      "name": "Bambu",
+      "url": "https://open.spotify.com/track/2zMTauBe9guPMWLTbG1pAH"
     },
     {
       "added_at": "2022-02-25 05:02:00",
@@ -1233,36 +1249,36 @@
       "url": "https://open.spotify.com/track/07ma7BgUd9SUyOWSkpQCLp"
     },
     {
-      "added_at": "2020-11-13 05:02:00",
+      "added_at": "2021-01-22 05:01:00",
       "album": {
-        "name": "Baked, Broiled & Fried",
-        "url": "https://open.spotify.com/album/5TB3O4gATp2KZ9R65dsDuN"
+        "name": "Sunday Afternoon",
+        "url": "https://open.spotify.com/album/2GEg0F8CDPyC2lLSWIN5Xy"
       },
       "artists": [
         {
-          "name": "Cookin' On 3 Burners",
-          "url": "https://open.spotify.com/artist/726MxZBpkxnnoKl6aN7mmj"
+          "name": "True Loves",
+          "url": "https://open.spotify.com/artist/1IlKHxSbOJDx10sotxhk4Z"
         }
       ],
-      "duration_ms": 210560,
-      "name": "Keb's Bucket",
-      "url": "https://open.spotify.com/track/43eTrnAbpvPedfm5pYvpb8"
+      "duration_ms": 252106,
+      "name": "First Impression",
+      "url": "https://open.spotify.com/track/4RPt0Kh6elRr1UCdlyU4qn"
     },
     {
-      "added_at": "2020-11-13 05:02:00",
+      "added_at": "2022-04-15 04:02:00",
       "album": {
-        "name": "The Fun Ones",
-        "url": "https://open.spotify.com/album/4xTGDldacEINrMyVRXUfVH"
+        "name": "Lost Knights",
+        "url": "https://open.spotify.com/album/06wmF4jhsHKfmqhKdAZfvi"
       },
       "artists": [
         {
-          "name": "RJD2",
-          "url": "https://open.spotify.com/artist/1O3ZOjqFLEnbpZexcRjocn"
+          "name": "Orgone",
+          "url": "https://open.spotify.com/artist/4WmMnGO1nLIsE85XwcBAZE"
         }
       ],
-      "duration_ms": 281805,
-      "name": "Indoor S'mores",
-      "url": "https://open.spotify.com/track/2bzch1uNsKXSXE1zoctEag"
+      "duration_ms": 222533,
+      "name": "Samson",
+      "url": "https://open.spotify.com/track/6d2O45piXdSJ1ieRFuYYXn"
     },
     {
       "added_at": "2020-11-13 05:02:00",
@@ -1309,20 +1325,20 @@
       "url": "https://open.spotify.com/track/0sGUOyUDs3xySpBS0mWUCy"
     },
     {
-      "added_at": "2022-04-15 04:02:00",
+      "added_at": "2020-11-13 05:02:00",
       "album": {
-        "name": "Lost Knights",
-        "url": "https://open.spotify.com/album/06wmF4jhsHKfmqhKdAZfvi"
+        "name": "The Fun Ones",
+        "url": "https://open.spotify.com/album/4xTGDldacEINrMyVRXUfVH"
       },
       "artists": [
         {
-          "name": "Orgone",
-          "url": "https://open.spotify.com/artist/4WmMnGO1nLIsE85XwcBAZE"
+          "name": "RJD2",
+          "url": "https://open.spotify.com/artist/1O3ZOjqFLEnbpZexcRjocn"
         }
       ],
-      "duration_ms": 222533,
-      "name": "Samson",
-      "url": "https://open.spotify.com/track/6d2O45piXdSJ1ieRFuYYXn"
+      "duration_ms": 281805,
+      "name": "Indoor S'mores",
+      "url": "https://open.spotify.com/track/2bzch1uNsKXSXE1zoctEag"
     },
     {
       "added_at": "2020-11-13 05:02:00",
@@ -1339,22 +1355,6 @@
       "duration_ms": 324078,
       "name": "Royal Highness",
       "url": "https://open.spotify.com/track/42y27OIathcePEZFs5bYSk"
-    },
-    {
-      "added_at": "2021-11-26 05:01:00",
-      "album": {
-        "name": "Sir Somebody",
-        "url": "https://open.spotify.com/album/4SQDM8myIkEa4MDA5hz5fH"
-      },
-      "artists": [
-        {
-          "name": "Family Company",
-          "url": "https://open.spotify.com/artist/68TMIdW3csuFrzKleLKrM0"
-        }
-      ],
-      "duration_ms": 242226,
-      "name": "Sir Somebody",
-      "url": "https://open.spotify.com/track/7aHHRCZdz4ZW9tCN3nX5uv"
     },
     {
       "added_at": "2020-11-13 05:02:00",

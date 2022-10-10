@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "The best new music by independent artists and labels, updated every Wednesday. Cover: New Husband, Artwork: Isu Kim.\n",
+  "description": "The best new music by independent artists and labels, updated every Wednesday. Cover: RAR, Artwork: Isu Kim.\n",
   "name": "Fresh Finds GSA",
   "published_playlist_ids": [
     "769sf2A9Kk835wCxbodHwy"
@@ -413,7 +413,7 @@
       ],
       "date_added": "2022-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-06",
       "duration_ms": 188728,
       "name": "always okay",
       "url": "https://open.spotify.com/track/70sd0T6eTCowGMu9m1n0mz"
@@ -719,7 +719,7 @@
       ],
       "date_added": "2022-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-06",
       "duration_ms": 326973,
       "name": "Before It All Disappears",
       "url": "https://open.spotify.com/track/65qS1335WlxpMFh9xYnz5G"
@@ -1200,6 +1200,24 @@
     },
     {
       "album": {
+        "name": "Bury",
+        "url": "https://open.spotify.com/album/6PROlvRu6Bdg4pibyt0djK"
+      },
+      "artists": [
+        {
+          "name": "Enola Reverof",
+          "url": "https://open.spotify.com/artist/01e3nElOItks5SiotTKWA4"
+        }
+      ],
+      "date_added": "2022-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227287,
+      "name": "Bury",
+      "url": "https://open.spotify.com/track/5OSqJ1CTt014a9INi0HLUU"
+    },
+    {
+      "album": {
         "name": "Into Bloom",
         "url": "https://open.spotify.com/album/6zRMHHL2ijmWB4IjLBbNoL"
       },
@@ -1327,6 +1345,24 @@
       "duration_ms": 147391,
       "name": "Chardonnay",
       "url": "https://open.spotify.com/track/0QIrFBfloQn3DxvsZPariB"
+    },
+    {
+      "album": {
+        "name": "Cheerful Pessimist",
+        "url": "https://open.spotify.com/album/5z5LpevdN0rM7mfQ99VwUd"
+      },
+      "artists": [
+        {
+          "name": "Alehlokapi",
+          "url": "https://open.spotify.com/artist/5fRz1MzBBDipLeNsguEn0x"
+        }
+      ],
+      "date_added": "2022-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212664,
+      "name": "Cheerful Pessimist",
+      "url": "https://open.spotify.com/track/1zRjEdR28LqVJDWYVYoTes"
     },
     {
       "album": {
@@ -1720,6 +1756,24 @@
     },
     {
       "album": {
+        "name": "Die sch\u00f6nste Misere",
+        "url": "https://open.spotify.com/album/4cYGjze1LpkmR0IzHVYYHu"
+      },
+      "artists": [
+        {
+          "name": "RAR",
+          "url": "https://open.spotify.com/artist/0ms1soCPtzKiqFMK198lya"
+        }
+      ],
+      "date_added": "2022-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220000,
+      "name": "Die sch\u00f6nste Misere",
+      "url": "https://open.spotify.com/track/4C7Ws7OAAfZq5dYZZ2W9aa"
+    },
+    {
+      "album": {
         "name": "Die Welt ist fertig",
         "url": "https://open.spotify.com/album/5nTHiVkexfddhYi4XGT5N1"
       },
@@ -1749,7 +1803,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-06",
       "duration_ms": 169125,
       "name": "Disco im Kopf",
       "url": "https://open.spotify.com/track/7ITzXFp8QFlij6rLWCvKfp"
@@ -2543,7 +2597,7 @@
       ],
       "date_added": "2022-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-06",
       "duration_ms": 255095,
       "name": "For My Ego",
       "url": "https://open.spotify.com/track/0D0XravH6Ou1TxOhBilHfE"
@@ -2605,6 +2659,28 @@
       "duration_ms": 275153,
       "name": "Fruitarian Girl",
       "url": "https://open.spotify.com/track/2FknSy7oUAfNwbcfWRfL0U"
+    },
+    {
+      "album": {
+        "name": "IAM ALFRED HEINRICHS feat. Haexxa",
+        "url": "https://open.spotify.com/album/1Cr9a95UD5guifadqpth5N"
+      },
+      "artists": [
+        {
+          "name": "Alfred Heinrichs",
+          "url": "https://open.spotify.com/artist/6kzCLJOC7MU8mAbhIJNpIo"
+        },
+        {
+          "name": "Haexxa",
+          "url": "https://open.spotify.com/artist/0GY1LiRaEjFG0n8rP8wvrC"
+        }
+      ],
+      "date_added": "2022-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 359816,
+      "name": "F\u00fcr die Seele feat. Haexxa",
+      "url": "https://open.spotify.com/track/2fKUMYknbSWF7WOKwMQUZE"
     },
     {
       "album": {
@@ -3205,7 +3281,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-06",
       "duration_ms": 140146,
       "name": "Hey Hey!",
       "url": "https://open.spotify.com/track/5l7yKkAlM51E71TxtiOYid"
@@ -3411,7 +3487,7 @@
       ],
       "date_added": "2022-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-06",
       "duration_ms": 210138,
       "name": "How Far",
       "url": "https://open.spotify.com/track/3Qe7XWT704KD1hi4CwWb9d"
@@ -5195,7 +5271,7 @@
       ],
       "date_added": "2022-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-06",
       "duration_ms": 354800,
       "name": "Noiseless Noise",
       "url": "https://open.spotify.com/track/6bAuq7rBeyX8x0qIbIvHKK"
@@ -5217,6 +5293,24 @@
       "duration_ms": 322000,
       "name": "Not Alone",
       "url": "https://open.spotify.com/track/1QE8Kb0Sb9FsQXS585oka8"
+    },
+    {
+      "album": {
+        "name": "Nur zu weit",
+        "url": "https://open.spotify.com/album/1kRSNpQb8JDBBH5g4scIg1"
+      },
+      "artists": [
+        {
+          "name": "Traumatin",
+          "url": "https://open.spotify.com/artist/7a3E1IT2qaGIq6M4cW2NtV"
+        }
+      ],
+      "date_added": "2022-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226500,
+      "name": "Nur zu weit",
+      "url": "https://open.spotify.com/track/6aIHRl2E7HJ148v0zSE5xq"
     },
     {
       "album": {
@@ -5733,6 +5827,24 @@
       "duration_ms": 251029,
       "name": "Power",
       "url": "https://open.spotify.com/track/4X5Flo8xkXzpoYR4pvFQQu"
+    },
+    {
+      "album": {
+        "name": "Pretty",
+        "url": "https://open.spotify.com/album/3yGuiwKxEpIz64OjLiWOta"
+      },
+      "artists": [
+        {
+          "name": "Vigo Blax",
+          "url": "https://open.spotify.com/artist/2dCFfiM1tyvxWDL8puUTOJ"
+        }
+      ],
+      "date_added": "2022-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146092,
+      "name": "Pretty",
+      "url": "https://open.spotify.com/track/7ntXzseBU5DBoVSjmJ6NIP"
     },
     {
       "album": {
@@ -6566,6 +6678,24 @@
     },
     {
       "album": {
+        "name": "SLOWDANCE",
+        "url": "https://open.spotify.com/album/50aXLAsxwTs8meTVA7m6pa"
+      },
+      "artists": [
+        {
+          "name": "FRANZ Pop Collective",
+          "url": "https://open.spotify.com/artist/16eDY2pftnSh3oLOdgjt3i"
+        }
+      ],
+      "date_added": "2022-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220953,
+      "name": "SLOWDANCE",
+      "url": "https://open.spotify.com/track/52T9hjruVPKQBN4sj89nrJ"
+    },
+    {
+      "album": {
         "name": "Slowly",
         "url": "https://open.spotify.com/album/68WXuBImJzicXgPZ7njGxA"
       },
@@ -6989,7 +7119,7 @@
       ],
       "date_added": "2022-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-06",
       "duration_ms": 219562,
       "name": "Stuck",
       "url": "https://open.spotify.com/track/3d2oVtfkR9fZGIejnA4fY8"
@@ -7033,6 +7163,24 @@
       "duration_ms": 262222,
       "name": "Summer is Gone",
       "url": "https://open.spotify.com/track/42zDdOjb59esXiwAEPkcUZ"
+    },
+    {
+      "album": {
+        "name": "Summerchild",
+        "url": "https://open.spotify.com/album/0SUFmKIXuz0BCpUHehkxXs"
+      },
+      "artists": [
+        {
+          "name": "Jennifer Touch",
+          "url": "https://open.spotify.com/artist/2RTTomV6iq54PkO0g3KLOO"
+        }
+      ],
+      "date_added": "2022-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239747,
+      "name": "Summerchild",
+      "url": "https://open.spotify.com/track/0rJs6QGxCdlUwD1LzIxMPF"
     },
     {
       "album": {
@@ -7329,6 +7477,24 @@
       "duration_ms": 269948,
       "name": "The Golden Age",
       "url": "https://open.spotify.com/track/1xgPK4mEiu0ej3K9OFWwJ8"
+    },
+    {
+      "album": {
+        "name": "The Happy Song (My Cool)",
+        "url": "https://open.spotify.com/album/2dEVAYfkQnEMYUFtsUYoO2"
+      },
+      "artists": [
+        {
+          "name": "DEVADO",
+          "url": "https://open.spotify.com/artist/6PKF4fIUipCe45VN6iVbsL"
+        }
+      ],
+      "date_added": "2022-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131876,
+      "name": "The Happy Song (My Cool)",
+      "url": "https://open.spotify.com/track/0FzEymqOSe4kYC4ZzRsVjI"
     },
     {
       "album": {
@@ -8370,6 +8536,24 @@
     },
     {
       "album": {
+        "name": "Wir gehen in die Sonne",
+        "url": "https://open.spotify.com/album/6ABHz5uEtcHF5jKfPUgc3i"
+      },
+      "artists": [
+        {
+          "name": "David Julian Kirchner",
+          "url": "https://open.spotify.com/artist/5cNEi6XXWtSaavO0KLTBZ1"
+        }
+      ],
+      "date_added": "2022-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268352,
+      "name": "Wir gehen in die Sonne",
+      "url": "https://open.spotify.com/track/6hz6fKj65JsYTSXsbvDr6x"
+    },
+    {
+      "album": {
         "name": "wohin",
         "url": "https://open.spotify.com/album/0AJTh9sd8Li8dtRgUXH4Zz"
       },
@@ -8457,7 +8641,7 @@
       ],
       "date_added": "2022-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-06",
       "duration_ms": 157029,
       "name": "World of Mine",
       "url": "https://open.spotify.com/track/1JkdKPSdwGEcUhj6oOEc2z"
@@ -8533,7 +8717,7 @@
       ],
       "date_added": "2022-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-06",
       "duration_ms": 142153,
       "name": "You Can't Stop Us",
       "url": "https://open.spotify.com/track/39stAgopu3xQH0ZpEiNNw3"

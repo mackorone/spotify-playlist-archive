@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUcRrhkfhG22.md) - [plain]
 
 > Funky vocoders and talk boxes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,722 likes - 77 songs - 5 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,043 likes - 77 songs - 5 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUcRrhkfhG22.md) - [plain]
 | 25 | [\(We Go Together Like\) Saturday & Sunday](https://open.spotify.com/track/40KwK6ekSsxLN1r2XG6ZNQ) | [Diamond Ortiz](https://open.spotify.com/artist/4tm2O1beMNSAdbG3pQvDCP) | [Loveline](https://open.spotify.com/album/3gIf24xmoiKSq3gVSisAz4) | 2:51 |
 | 26 | [Nunk \- New Wave Funk](https://open.spotify.com/track/5BVXwRFMuybkl3X1hRWZ53) | [Warp 9](https://open.spotify.com/artist/5V22HAzz3d8zQCbWdpJiJh) | [It's a Beat Wave](https://open.spotify.com/album/45lhligWbNdW3zGcgUm3Yl) | 7:13 |
 | 27 | [Heartbreaker \(Pt\. I, Pt\. II\)](https://open.spotify.com/track/487lDz6QPxnAgrVTpykRHb) | [Zapp](https://open.spotify.com/artist/396Kh0m4wGUvcMUULw71yi) | [All the Greatest Hits](https://open.spotify.com/album/3aUZ0iLjcePsDggYsZAGBZ) | 4:15 |
-| 28 | [What U Do](https://open.spotify.com/track/3rw6Y1CGiJcnQ27QyYpZ6f) | [Moullinex](https://open.spotify.com/artist/1XFbnj1jNNzzyg46ni3dnr), [Lorenz Rhode](https://open.spotify.com/artist/44fZOPBpIQYrr8faORvMiF) | [What U Do](https://open.spotify.com/album/3Ewvl9pL2nfoyKw0pktqoK) | 5:42 |
+| 28 | [What U Do](https://open.spotify.com/track/4Y6D4pNgcDIQ0zeeARUmcd) | [Moullinex](https://open.spotify.com/artist/1XFbnj1jNNzzyg46ni3dnr), [Lorenz Rhode](https://open.spotify.com/artist/44fZOPBpIQYrr8faORvMiF) | [What U Do](https://open.spotify.com/album/1FB09P6gwDqt4iD9iUcXyZ) | 5:42 |
 | 29 | [Love Thang \- Long Version](https://open.spotify.com/track/55Q1gdClrnRYk8HnRkUK0m) | [Fredi Grace](https://open.spotify.com/artist/1lDpsgE48uQcfZh6vpj8Fh), [Rhinstone](https://open.spotify.com/artist/53kfXebhQMaddxG1eDbCgp) | [Get On Your Mark \(Expanded Version\)](https://open.spotify.com/album/1CzTtpcgi4LvfR3u02t1gk) | 7:17 |
 | 30 | [More Than A Lover \- Remix](https://open.spotify.com/track/0YzS2vJwkzvoHHhjCzbNx2) | [Erica Campbell](https://open.spotify.com/artist/46CCmeVLrgc6MnyVpVMOzp), [Mr\. Talkbox](https://open.spotify.com/artist/3ZGbMG70LcEEo7SBIE3jMH) | [Help 2.0](https://open.spotify.com/album/3uAuno5UPTQSyRUOEYwxS2) | 3:21 |
 | 31 | [Do that dance](https://open.spotify.com/track/5GoI2NdKncz3WERdzO68KV) | [Modogsta](https://open.spotify.com/artist/786qXsqlTqvPpf5ncqTOWV) | [Modogsta](https://open.spotify.com/album/2R7oZd9PZE6jl7ueT7uekh) | 4:27 |
@@ -86,4 +86,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUcRrhkfhG22.md) - [plain]
 | 76 | [All Yours](https://open.spotify.com/track/2Ve7DnsbG1TBmzSZUdVz0m) | [Ben Maxwell](https://open.spotify.com/artist/6OPUscoxZHZHQ2wUbiQhmR) | [All Yours](https://open.spotify.com/album/0dgErgADgR9uDN5dSaP29f) | 3:23 |
 | 77 | [Baby \- Short Version](https://open.spotify.com/track/0Wq4qAWGtK2mTX3ljg7Euw) | [Girls of the Internet](https://open.spotify.com/artist/5tGmvKTFVL9bGZTxtvopHE) | [Baby](https://open.spotify.com/album/0ahizNeWVa0gfdTYyowEka) | 3:07 |
 
-Snapshot ID: `MTY2MzMwMDg2MCwwMDAwMDAwMDAxMzcwNGI5YjAxOTU5YzhkMTE4MDlkM2YxYmVjZmNl`
+Snapshot ID: `MTY2MzMwMDg2MCwwMDAwMDAwMGQ2MmFhMmRjMjUzYTI3NTFhMWFlZWEzOTUzMTU4NTUz`

@@ -19,7 +19,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-02",
+      "date_removed": null,
       "duration_ms": 363413,
       "name": "4am Exhale (Chill Out World!)",
       "url": "https://open.spotify.com/track/7rzfUCGJIRV4fQ68T07x9A"
@@ -37,7 +37,7 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-29",
+      "date_removed": "2022-10-07",
       "duration_ms": 315071,
       "name": "5th Dimensions",
       "url": "https://open.spotify.com/track/3Ntkr1qvo6UVMBuBtOeECM"
@@ -73,7 +73,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-21",
+      "date_removed": "2022-10-06",
       "duration_ms": 245451,
       "name": "9 elms over river eno (channel 9)",
       "url": "https://open.spotify.com/track/36BI2fXvlLxVoJKF9csjE9"
@@ -139,7 +139,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-02",
+      "date_removed": "2022-10-09",
       "duration_ms": 442217,
       "name": "A Huge Ever Growing Pulsating Brain That Rules From The Centre Of The Ultraworld : Loving You - Aubrey Mix Mk 11 By Jimmy Cauty & Dr. Alex Paterson",
       "url": "https://open.spotify.com/track/5JN6YQJWXMrwaDt43DNKXw"
@@ -303,7 +303,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-02",
+      "date_removed": null,
       "duration_ms": 251057,
       "name": "Ball of Fire",
       "url": "https://open.spotify.com/track/41Dci0Gdz1RatEXwLEl8z9"
@@ -321,7 +321,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-26",
+      "date_removed": "2022-10-09",
       "duration_ms": 271333,
       "name": "Bedouin",
       "url": "https://open.spotify.com/track/0D657mUEeTbY2nmeNyU2Vq"
@@ -469,7 +469,7 @@
       ],
       "date_added": "2022-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-07",
       "duration_ms": 101676,
       "name": "Drift",
       "url": "https://open.spotify.com/track/0yxjWgKXPMt9xls7P3e63e"
@@ -549,7 +549,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-28",
+      "date_removed": null,
       "duration_ms": 329360,
       "name": "Go Down Evil",
       "url": "https://open.spotify.com/track/79AofcxiLVPQ2E0t8JgBSJ"
@@ -567,7 +567,7 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 884200,
       "name": "God's Mirrorball",
       "url": "https://open.spotify.com/track/1AiexVTC5gIpLkIxhCX4sw"
@@ -618,6 +618,24 @@
     },
     {
       "album": {
+        "name": "Pomme Fritz",
+        "url": "https://open.spotify.com/album/6dRtPQENkx83CiyWdAazE1"
+      },
+      "artists": [
+        {
+          "name": "The Orb",
+          "url": "https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF"
+        }
+      ],
+      "date_added": "2022-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126866,
+      "name": "His Immortal Logness",
+      "url": "https://open.spotify.com/track/4Ar51FLzmqkDv0wiBnjZxP"
+    },
+    {
+      "album": {
         "name": "Presents the Orbserver in the Star House",
         "url": "https://open.spotify.com/album/6w2RmVdD0JqHDyeYOlzhIm"
       },
@@ -633,7 +651,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-01",
+      "date_removed": "2022-10-09",
       "duration_ms": 261141,
       "name": "Hold Me Upsetter",
       "url": "https://open.spotify.com/track/3bMR9NyBHxt1pZadTvGbRs"
@@ -651,7 +669,7 @@
       ],
       "date_added": "2022-08-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-02",
+      "date_removed": null,
       "duration_ms": 302520,
       "name": "Honey Moonies - Brain Washed at Area 49 Mix",
       "url": "https://open.spotify.com/track/6bU2QcIhbCupPsLel0eLiR"
@@ -669,7 +687,7 @@
       ],
       "date_added": "2022-06-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-01",
+      "date_removed": "2022-10-07",
       "duration_ms": 367733,
       "name": "House of Narcotics - Opium Wars Mix",
       "url": "https://open.spotify.com/track/2NAFoD9GIibDSEWofqtSxW"
@@ -731,6 +749,24 @@
       "duration_ms": 414657,
       "name": "Ital Orb (Iron Chair) - Gaudi Remix",
       "url": "https://open.spotify.com/track/2x2b7BBPR6XjWd0pS84WWa"
+    },
+    {
+      "album": {
+        "name": "COW / Chill Out, World!",
+        "url": "https://open.spotify.com/album/0l5czlo6eYAxcpw95BtPVZ"
+      },
+      "artists": [
+        {
+          "name": "The Orb",
+          "url": "https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-08",
+      "duration_ms": 261984,
+      "name": "Just Because I Really Really Luv Ya",
+      "url": "https://open.spotify.com/track/197qEq8OyjaWcHQvGkiwNJ"
     },
     {
       "album": {
@@ -821,7 +857,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-07",
       "duration_ms": 244311,
       "name": "Man in the Moon",
       "url": "https://open.spotify.com/track/2IdEhAIOQS0T6d79DBaTr6"
@@ -919,7 +955,7 @@
       ],
       "date_added": "2022-06-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-26",
+      "date_removed": "2022-10-09",
       "duration_ms": 880493,
       "name": "Moon Scapes 2703 BC",
       "url": "https://open.spotify.com/track/0tF5FCXgG3mroz1rV3gtxx"
@@ -937,7 +973,7 @@
       ],
       "date_added": "2022-06-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-02",
+      "date_removed": "2022-10-09",
       "duration_ms": 784173,
       "name": "Moonbuilding 2703 AD",
       "url": "https://open.spotify.com/track/2Bzo7YPDd1s0n9VDVKxAOU"
@@ -973,7 +1009,7 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-23",
+      "date_removed": "2022-10-09",
       "duration_ms": 834533,
       "name": "Occidental",
       "url": "https://open.spotify.com/track/7cTPTSaSWMpeL2Ea8gdAuF"
@@ -1009,7 +1045,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-20",
+      "date_removed": "2022-10-06",
       "duration_ms": 503626,
       "name": "Outlands",
       "url": "https://open.spotify.com/track/2McI8eLgOMGov9kzZARkdC"
@@ -1081,7 +1117,7 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-05",
       "duration_ms": 250960,
       "name": "Pervitin - Empire Culling & The Hemlock Stone Version",
       "url": "https://open.spotify.com/track/6KCulEFcEZ0LvPfWul3n7T"
@@ -1121,7 +1157,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-01",
+      "date_removed": "2022-10-08",
       "duration_ms": 451244,
       "name": "Pillow Fight @ Shag Mountain",
       "url": "https://open.spotify.com/track/76ZZNFBRTnnGH0Ye81SEnJ"
@@ -1197,7 +1233,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-22",
+      "date_removed": "2022-10-06",
       "duration_ms": 327000,
       "name": "Promis",
       "url": "https://open.spotify.com/track/43V7oxArZZrZZWDABM3FpX"
@@ -1273,7 +1309,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-20",
+      "date_removed": null,
       "duration_ms": 327400,
       "name": "Say Cheese - Siberian Tiger Cookie Mix",
       "url": "https://open.spotify.com/track/6aWUSS1czLVNMASHk84XNV"
@@ -1327,7 +1363,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-30",
+      "date_removed": "2022-10-09",
       "duration_ms": 651773,
       "name": "Shape Shifters (In Two Parts) - Coffee & Ghost Train Mix",
       "url": "https://open.spotify.com/track/44aGofylvEmsS6oFMDhG3d"
@@ -1385,7 +1421,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-11",
+      "date_removed": null,
       "duration_ms": 362234,
       "name": "Soulman",
       "url": "https://open.spotify.com/track/1RaWh6yydQyNMVjxhUwSWV"
@@ -1447,7 +1483,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-02",
+      "date_removed": "2022-10-07",
       "duration_ms": 425454,
       "name": "Squirrels in Jumpsuits",
       "url": "https://open.spotify.com/track/5Z6KB3zOCuKRcy2scNdtDi"
@@ -1465,7 +1501,7 @@
       ],
       "date_added": "2022-06-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-01",
+      "date_removed": "2022-10-09",
       "duration_ms": 490573,
       "name": "Star 6 & 7 8 9",
       "url": "https://open.spotify.com/track/2rptpw6hQQ8YewzB2hKOrj"
@@ -1483,7 +1519,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-29",
+      "date_removed": "2022-10-09",
       "duration_ms": 50400,
       "name": "Sticky End",
       "url": "https://open.spotify.com/track/5OSSD6jXQBMnvjMuGyp0UC"
@@ -1545,7 +1581,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-02",
+      "date_removed": "2022-10-07",
       "duration_ms": 283000,
       "name": "Switch on Leon",
       "url": "https://open.spotify.com/track/5YYjzjQKL32k7pqJmaJRQn"
@@ -1585,7 +1621,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 335866,
       "name": "The Cult Of Youth Ambient Mix Parts 1 & 2 (feat. David Gilmour) - Edit",
       "url": "https://open.spotify.com/track/4iPCa0uM1gkpDkkdP8VCdi"
@@ -1621,7 +1657,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-23",
+      "date_removed": null,
       "duration_ms": 305560,
       "name": "The Queen of Hearts - Princess of Clubs Mix",
       "url": "https://open.spotify.com/track/2xDbv8rllgzq8Be9XjetKE"
@@ -1639,7 +1675,7 @@
       ],
       "date_added": "2022-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-05",
       "duration_ms": 750560,
       "name": "The Weekend It Rained Forever - Oseberg Buddha Mix (The Ravens Have Left the Tower)",
       "url": "https://open.spotify.com/track/3tRgsntvKAFbAVj0SzcsNe"
@@ -1795,7 +1831,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-09",
       "duration_ms": 576600,
       "name": "White River Junction",
       "url": "https://open.spotify.com/track/1Cy8r0ylCPuFiljj7V7hMQ"
@@ -1813,7 +1849,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-09",
       "duration_ms": 341254,
       "name": "Wireless MK2",
       "url": "https://open.spotify.com/track/7xF48L0fjSDWAlZxsY5Et6"

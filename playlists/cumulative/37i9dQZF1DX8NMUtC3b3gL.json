@@ -798,6 +798,24 @@
     },
     {
       "album": {
+        "name": "Commuter",
+        "url": "https://open.spotify.com/album/73ddBbDKMzEiLWqA3VDXi0"
+      },
+      "artists": [
+        {
+          "name": "CLOCC",
+          "url": "https://open.spotify.com/artist/1QNQOpFcbLjmKPiCDKSiGG"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120000,
+      "name": "Commuter",
+      "url": "https://open.spotify.com/track/4Rf27qELU6XDQx8DtFHU4Q"
+    },
+    {
+      "album": {
         "name": "Complicated",
         "url": "https://open.spotify.com/album/1oinxow7bxtoCfkATM8Hzo"
       },
@@ -1247,6 +1265,24 @@
       "duration_ms": 125714,
       "name": "First Blossoms",
       "url": "https://open.spotify.com/track/2ydYzoDJ6zJO8CAx5XVTPB"
+    },
+    {
+      "album": {
+        "name": "First Impressions",
+        "url": "https://open.spotify.com/album/6UaF71BrRIVOoKWoqOaGPx"
+      },
+      "artists": [
+        {
+          "name": "Hale Ztrike",
+          "url": "https://open.spotify.com/artist/4D0c2cETxMrps8sKgzKQVH"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131001,
+      "name": "First Impressions",
+      "url": "https://open.spotify.com/track/4m4QBep0gtfC3g8wjev0QB"
     },
     {
       "album": {
@@ -2029,6 +2065,24 @@
       "duration_ms": 102857,
       "name": "Melrose",
       "url": "https://open.spotify.com/track/0Rgl3ZlwYRIqBXnlpswWTM"
+    },
+    {
+      "album": {
+        "name": "Mirage",
+        "url": "https://open.spotify.com/album/1YxkNRrF5w5WQJyMURd69z"
+      },
+      "artists": [
+        {
+          "name": "David Payne",
+          "url": "https://open.spotify.com/artist/1ytC4mMzuUs1yVcqMM1lu0"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154838,
+      "name": "Mirage",
+      "url": "https://open.spotify.com/track/6WhmXYh77rfG5KieYfx5ad"
     },
     {
       "album": {

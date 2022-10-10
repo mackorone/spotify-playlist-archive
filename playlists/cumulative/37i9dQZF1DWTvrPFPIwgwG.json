@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-09-15",
-  "description": "Ou\u00e7a as novidades e grandes louvores Pentecostais. Foto: Damares, Can\u00e7\u00e3o & Louvor",
+  "description": "Ou\u00e7a as novidades e grandes louvores Pentecostais. Foto: Damares",
   "name": "Louvores Pentecostais",
   "published_playlist_ids": [
     "2TO2MpzJje9bKw3Lpv5pLG"
@@ -48,6 +48,24 @@
     },
     {
       "album": {
+        "name": "A Vit\u00f3ria Chegou",
+        "url": "https://open.spotify.com/album/1P28T4BaWp9gTd2CgIRRKP"
+      },
+      "artists": [
+        {
+          "name": "Ant\u00f4nia Gomes",
+          "url": "https://open.spotify.com/artist/6xeuvoHDP4RdrmqzPP8Coe"
+        }
+      ],
+      "date_added": "2022-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238167,
+      "name": "A Vit\u00f3ria Chegou",
+      "url": "https://open.spotify.com/track/1Q5uwkMkLNhBMzKsK4veVc"
+    },
+    {
+      "album": {
         "name": "Abra\u00e7o e Renovo",
         "url": "https://open.spotify.com/album/4MsZ3ZFjzjp5ygxVHSi5zB"
       },
@@ -81,6 +99,36 @@
       "duration_ms": 304210,
       "name": "Acredite",
       "url": "https://open.spotify.com/track/1mdMSYPevGNZMfGnSWCxzN"
+    },
+    {
+      "album": {
+        "name": "Adorarei",
+        "url": "https://open.spotify.com/album/1EI39CSfZIwDWQ0qjd8HUS"
+      },
+      "artists": [
+        {
+          "name": "Valesca Mayssa",
+          "url": "https://open.spotify.com/artist/4K4fsuNkaAwysF3AxRPLNh"
+        },
+        {
+          "name": "Stella Laura",
+          "url": "https://open.spotify.com/artist/1lqxvuE0yfesGRZ4sdVVNm"
+        },
+        {
+          "name": "Nath\u00e1lia Braga",
+          "url": "https://open.spotify.com/artist/4QkSOV4m3EYCOhZXK9y5vV"
+        },
+        {
+          "name": "Kellen Byanca",
+          "url": "https://open.spotify.com/artist/0aCN6JIKoXyhkzyL3LaCpI"
+        }
+      ],
+      "date_added": "2022-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 379560,
+      "name": "Adorarei",
+      "url": "https://open.spotify.com/track/1IrOfZTENgD6zd7ijPl2bB"
     },
     {
       "album": {
@@ -1245,7 +1293,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 337173,
       "name": "Quero-Quero",
       "url": "https://open.spotify.com/track/3qPQ2dkC5GQDAd2QoMHDTj"
@@ -1421,7 +1469,7 @@
           "url": "https://open.spotify.com/artist/0aCN6JIKoXyhkzyL3LaCpI"
         }
       ],
-      "date_added": "2022-10-01",
+      "date_added": "2022-09-30",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 301454,
@@ -1597,7 +1645,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 284342,
       "name": "Vivendo pela Gra\u00e7a",
       "url": "https://open.spotify.com/track/5esJW5MuLVYLCtEm0Vi8lj"

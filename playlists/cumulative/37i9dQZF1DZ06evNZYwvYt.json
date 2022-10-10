@@ -455,7 +455,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 295106,
       "name": "Miel",
       "url": "https://open.spotify.com/track/2IbiZBpJuvY8pMzKhDtWLP"
@@ -617,7 +617,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 254120,
       "name": "Que pena siente el alma",
       "url": "https://open.spotify.com/track/62QHlRTwHX7cocYq2F4cIg"
@@ -660,6 +660,28 @@
     },
     {
       "album": {
+        "name": "Rescatame",
+        "url": "https://open.spotify.com/album/3bOkkudjnp66n6MYzhMshl"
+      },
+      "artists": [
+        {
+          "name": "De Saloon",
+          "url": "https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt"
+        },
+        {
+          "name": "DLD",
+          "url": "https://open.spotify.com/artist/7CwiLiC1S8B69RMPxbDb6S"
+        }
+      ],
+      "date_added": "2022-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251454,
+      "name": "Rescatame",
+      "url": "https://open.spotify.com/track/0GjoTJLgbBerEXztomm2WU"
+    },
+    {
+      "album": {
         "name": "Resiste M\u00e1s Que Yo",
         "url": "https://open.spotify.com/album/1lJTxv8uuQ7JduMfysDUJv"
       },
@@ -693,7 +715,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-09",
       "duration_ms": 378017,
       "name": "Solo el Sol - Remix",
       "url": "https://open.spotify.com/track/3TBTVJRElT9eO7WXcj2HMN"
@@ -754,6 +776,24 @@
     },
     {
       "album": {
+        "name": "Fortaleza",
+        "url": "https://open.spotify.com/album/1I4TrEzzQ23JMNsBskiLjU"
+      },
+      "artists": [
+        {
+          "name": "De Saloon",
+          "url": "https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt"
+        }
+      ],
+      "date_added": "2022-10-04",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-09",
+      "duration_ms": 229373,
+      "name": "Tu fortaleza",
+      "url": "https://open.spotify.com/track/13LkDt8sE3yOAvmKHYwDdr"
+    },
+    {
+      "album": {
         "name": "Delicada violencia",
         "url": "https://open.spotify.com/album/59Q0c0KggY96mWYhd4Hq5A"
       },
@@ -787,6 +827,24 @@
       "duration_ms": 286106,
       "name": "Verdad",
       "url": "https://open.spotify.com/track/1dmqa40DwTbUv3SzUaUMvH"
+    },
+    {
+      "album": {
+        "name": "De Saloon",
+        "url": "https://open.spotify.com/album/4b3mG8286S6WyRdJVvW0BS"
+      },
+      "artists": [
+        {
+          "name": "De Saloon",
+          "url": "https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt"
+        }
+      ],
+      "date_added": "2022-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191173,
+      "name": "Vibraciones",
+      "url": "https://open.spotify.com/track/4Tas7vDWX3Pxeyha9DLXNC"
     },
     {
       "album": {
@@ -837,7 +895,7 @@
       ],
       "date_added": "2022-09-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-26",
+      "date_removed": "2022-10-08",
       "duration_ms": 287702,
       "name": "Zona de promesas",
       "url": "https://open.spotify.com/track/0lNlxx9ZbsnXqbmgylFALP"

@@ -63,7 +63,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-09",
       "duration_ms": 170000,
       "name": "202",
       "url": "https://open.spotify.com/track/3imzmQM2DPPVBLMiBBexRL"
@@ -364,6 +364,28 @@
     },
     {
       "album": {
+        "name": "Nunca \u00c9 de Boa (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4bqa0aVDsbzosiuRJ0W4wh"
+      },
+      "artists": [
+        {
+          "name": "Paulo e Nathan",
+          "url": "https://open.spotify.com/artist/3CGLLDfrPjF2FJ8HDCKMMv"
+        },
+        {
+          "name": "Hugo & Guilherme",
+          "url": "https://open.spotify.com/artist/1LIuN7ov1IBQDdLsU83ojl"
+        }
+      ],
+      "date_added": "2022-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223489,
+      "name": "Acabei de Terminar - Ao Vivo",
+      "url": "https://open.spotify.com/track/0BWEkqsmPe3qOzrRVztHU3"
+    },
+    {
+      "album": {
         "name": "Acabei de Terminar (Ao Vivo)",
         "url": "https://open.spotify.com/album/0jliIkYIynexQBf1Oj9KPo"
       },
@@ -401,7 +423,7 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-09",
       "duration_ms": 223489,
       "name": "Acabei de Terminar - Ao Vivo",
       "url": "https://open.spotify.com/track/7dG9DMiqxz365ItjlsRGMQ"
@@ -509,7 +531,7 @@
       ],
       "date_added": "2022-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-05",
       "duration_ms": 176491,
       "name": "Ai Eu Chorei - Ao Vivo",
       "url": "https://open.spotify.com/track/5TPXcKSOlPaz2pkYbWiWHU"
@@ -885,7 +907,7 @@
       ],
       "date_added": "2021-12-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-28",
+      "date_removed": null,
       "duration_ms": 153409,
       "name": "Arranh\u00e3o - Ao Vivo",
       "url": "https://open.spotify.com/track/3IMLoeLerS7TMpKjxUgAhx"
@@ -1195,7 +1217,7 @@
       ],
       "date_added": "2022-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-09",
       "duration_ms": 124238,
       "name": "Bagulho Louco",
       "url": "https://open.spotify.com/track/04vzhKfl5HtPEgrdZJCZ7L"
@@ -3705,10 +3727,28 @@
       ],
       "date_added": "2022-05-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-17",
+      "date_removed": null,
       "duration_ms": 183244,
       "name": "Evento Cancelado - Ao Vivo",
       "url": "https://open.spotify.com/track/11fqunD6qlOCrRd88kMOk6"
+    },
+    {
+      "album": {
+        "name": "Buteco Goi\u00e2nia (Ao Vivo)",
+        "url": "https://open.spotify.com/album/00jkZlcpl1OU9kZbgLqBMT"
+      },
+      "artists": [
+        {
+          "name": "Gusttavo Lima",
+          "url": "https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN"
+        }
+      ],
+      "date_added": "2022-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182805,
+      "name": "Ex dos Meus Sonhos - Ao Vivo",
+      "url": "https://open.spotify.com/track/7LUZT12r4xmwR1Kh8TJgjv"
     },
     {
       "album": {
@@ -4751,7 +4791,7 @@
       ],
       "date_added": "2022-09-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-02",
+      "date_removed": "2022-10-09",
       "duration_ms": 175238,
       "name": "I'm Good (Blue)",
       "url": "https://open.spotify.com/track/4uUG5RXrOk84mYEfFvj3cK"
@@ -5079,7 +5119,7 @@
       ],
       "date_added": "2022-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-03",
       "duration_ms": 210461,
       "name": "Kikando e Me Olhando",
       "url": "https://open.spotify.com/track/4a0sqvCBo7aRIS4GzBQpnp"
@@ -6043,7 +6083,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-09",
       "duration_ms": 162538,
       "name": "Molhando o Volante",
       "url": "https://open.spotify.com/track/3ITkrUvAA6gzxer2UIom3P"
@@ -7644,6 +7684,32 @@
     },
     {
       "album": {
+        "name": "Quem N\u00e3o Conhece T\u00e1 Sem Internet",
+        "url": "https://open.spotify.com/album/5NHD24GC7W9uH2fdLzteGB"
+      },
+      "artists": [
+        {
+          "name": "MC Marks",
+          "url": "https://open.spotify.com/artist/04QHNiih9ZesPvals6II1h"
+        },
+        {
+          "name": "DJ BOY",
+          "url": "https://open.spotify.com/artist/5ncITNKBT3RMa1U2NsuE7V"
+        },
+        {
+          "name": "Dj GM",
+          "url": "https://open.spotify.com/artist/03PnQHlbH5nDDVX3hNg628"
+        }
+      ],
+      "date_added": "2022-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146823,
+      "name": "Quem N\u00e3o Conhece T\u00e1 Sem Internet",
+      "url": "https://open.spotify.com/track/5mJFh4iRzgmWuEVPG8257V"
+    },
+    {
+      "album": {
         "name": "Quer Voar",
         "url": "https://open.spotify.com/album/7JtB0tcIiJn1gJhDbCCL0e"
       },
@@ -8756,6 +8822,24 @@
     },
     {
       "album": {
+        "name": "Te Love (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0CbwVnmNGzzjFxnkuFLQTX"
+      },
+      "artists": [
+        {
+          "name": "Kevi Jonny",
+          "url": "https://open.spotify.com/artist/3PVg0vaMUNTOu7C2GmYfSg"
+        }
+      ],
+      "date_added": "2022-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169002,
+      "name": "Te Love - Ao Vivo",
+      "url": "https://open.spotify.com/track/6TnCI16uLWhyQCrHva9VWj"
+    },
+    {
+      "album": {
         "name": "Sin Miedo (del Amor y Otros Demonios) \u221e",
         "url": "https://open.spotify.com/album/00wSTrFxoSzA7eeS1UxHgd"
       },
@@ -8789,7 +8873,7 @@
       ],
       "date_added": "2022-08-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-28",
+      "date_removed": null,
       "duration_ms": 202562,
       "name": "Tem Cabar\u00e9 Essa Noite",
       "url": "https://open.spotify.com/track/25rz3D4oroFC0GXm3xFXnG"
@@ -9174,6 +9258,24 @@
     },
     {
       "album": {
+        "name": "Tubarao Te Amo vs Andou Na Prancha Cuidado Tubarao Vai te Pegar",
+        "url": "https://open.spotify.com/album/1srwuY94jh8m6OYYCbA1Dv"
+      },
+      "artists": [
+        {
+          "name": "diorrboy",
+          "url": "https://open.spotify.com/artist/1txNI43n0I4SIvKeOEfM7g"
+        }
+      ],
+      "date_added": "2022-10-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-06",
+      "duration_ms": 152241,
+      "name": "Tubarao Te Amo vs Andou Na Prancha Cuidado Tubarao Vai te Pegar",
+      "url": "https://open.spotify.com/track/20AZdKe5RIGArK9rjqwcAg"
+    },
+    {
+      "album": {
         "name": "Cumpra-se (Ao Vivo)",
         "url": "https://open.spotify.com/album/17k2RAZkXJwm7bmiGAr0FZ"
       },
@@ -9321,7 +9423,7 @@
       ],
       "date_added": "2022-09-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-02",
+      "date_removed": "2022-10-09",
       "duration_ms": 184613,
       "name": "Under The Influence",
       "url": "https://open.spotify.com/track/5IgjP7X4th6nMNDh4akUHb"
@@ -9921,7 +10023,7 @@
       ],
       "date_added": "2022-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-09",
       "duration_ms": 188852,
       "name": "X1",
       "url": "https://open.spotify.com/track/0dcHD9QhnWRA41zoLnC83X"

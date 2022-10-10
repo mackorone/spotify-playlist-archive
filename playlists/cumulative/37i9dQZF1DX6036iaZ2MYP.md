@@ -4,7 +4,7 @@
 
 > Tracks popping off in the global Afro scene\. Cover: Ayra Starr
 
-81 songs - 4 hr 5 min - [published](https://open.spotify.com/playlist/3nZuXQa2F2MSgHEfT2QpvH)
+82 songs - 4 hr 9 min - [published](https://open.spotify.com/playlist/3nZuXQa2F2MSgHEfT2QpvH)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,6 +58,7 @@
 | [Man Of The Year](https://open.spotify.com/track/42aQ9uWh6A1UeFODblprU8) | [Niphkeys](https://open.spotify.com/artist/6vAWSq2hKcuItyByR5krQV), [Reekado Banks](https://open.spotify.com/artist/3bxZkzk0PLHcetO9o4oxXn) | [Man Of The Year](https://open.spotify.com/album/0wx7vhMKi20ejhghIHYkHA) | 2:15 | 2022-07-13 |  |
 | [Mexican Girl](https://open.spotify.com/track/2ufffe9fIe123XR3YvpQO5) | [Nice Life](https://open.spotify.com/artist/3aItXxnatnsBD8y7r80GuZ), [Sheny](https://open.spotify.com/artist/4pD42rt571GLYtLZxn24Mt) | [Mexican Girl](https://open.spotify.com/album/0iczvaW9REVqI5fbR6OYBI) | 3:31 | 2022-07-13 |  |
 | [My Man](https://open.spotify.com/track/6VaZy3CmYDMafPC6myZDeZ) | [Yemi Alade](https://open.spotify.com/artist/7fKO99ryLDo8VocdtVvwZW), [Kranium](https://open.spotify.com/artist/1LKo6ZA3RNvKtLa6zDu32S) | [My Man](https://open.spotify.com/album/2P0BnbvscGJpuGBlCUEIUA) | 3:38 | 2022-07-13 |  |
+| [Never Let Go \- Remix](https://open.spotify.com/track/7LOZ9ogL9heo1JiA7Va175) | [DJ FiiFii](https://open.spotify.com/artist/3OnR9rQurffV6EPVk46fwU), [Yung D3mz](https://open.spotify.com/artist/2PWdxiDyY5rv1qBHEUfqQf), [BKO](https://open.spotify.com/artist/3ZZlaq6tv1IcMjNtrZpsLd), [Amartey](https://open.spotify.com/artist/2yVIMZ3tHWSmoP3ZLwJmJu), [Yung Dada](https://open.spotify.com/artist/69G9yOls2tiws5DaLkXZnJ) | [Never Let Go Remix](https://open.spotify.com/album/4fV1WkpgkI1eeisnKQjohB) | 4:17 | 2022-10-06 |  |
 | [NISHALEWA](https://open.spotify.com/track/7BYBqKKbJclOWJXUwZINle) | [Bartofso](https://open.spotify.com/artist/5EBNHekbDwV3Q9POxvSMBI), [Yacn](https://open.spotify.com/artist/1GJs903cqCxvcxyLoKTeDH) | [NISHALEWA](https://open.spotify.com/album/4YtJE09qGavW9e84Hst1qS) | 1:50 | 2022-07-13 | 2022-08-26 |
 | [No Dey Form](https://open.spotify.com/track/1a5glQzge8OW5w2izckOGN) | [AV](https://open.spotify.com/artist/4zSFP72igZmzWSRpK7AepF) | [No Dey Form](https://open.spotify.com/album/019TDVSSWLHZtDiqJlSiLV) | 2:20 | 2022-07-13 |  |
 | [No Wahala \- Remix](https://open.spotify.com/track/4yaPPFIafaVaMRHZ5IHkbA) | [1da Banton](https://open.spotify.com/artist/6dlzQ6fiPna40trq1Ek6cb), [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV), [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc) | [No Wahala \(Remix\)](https://open.spotify.com/album/1CuCITWTEr6lE2q3MraOSG) | 2:58 | 2022-07-13 | 2022-08-26 |

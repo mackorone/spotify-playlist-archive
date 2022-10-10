@@ -1,12 +1,12 @@
 {
   "description": "The hottest alternative music from Nairobi to Dar!",
-  "num_followers": 7571,
+  "num_followers": 7614,
   "original_name": "Eastern Vibes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Mzg4MDM0MCwwMDAwMDAwMDQzMjBkMGEyZTliNDAzN2FiOWFiNzk0ZGQyNmU2YTEx",
+  "snapshot_id": "MTY2NTA4OTk0MCwwMDAwMDAwMDY4MDNhNzRlNWVhNTNiM2I0MDExNThkOGI2MGVhNDBj",
   "tracks": [
     {
       "added_at": "2022-01-27 20:59:00",
@@ -95,6 +95,22 @@
       "duration_ms": 126000,
       "name": "Gangverment",
       "url": "https://open.spotify.com/track/2sEswtS0JbRU8WnjciNz8I"
+    },
+    {
+      "added_at": "2022-10-06 20:59:00",
+      "album": {
+        "name": "4 U",
+        "url": "https://open.spotify.com/album/1MgRMCqug76YT5f3dMp4vk"
+      },
+      "artists": [
+        {
+          "name": "Ceee",
+          "url": "https://open.spotify.com/artist/2lLAmI8Hqtx7lvD9tDSFgT"
+        }
+      ],
+      "duration_ms": 135965,
+      "name": "4 U",
+      "url": "https://open.spotify.com/track/1sZFtAyyx16gmGz2wnp7ve"
     },
     {
       "added_at": "2022-03-17 20:59:00",
@@ -817,6 +833,186 @@
       "url": "https://open.spotify.com/track/5NLPsDXx7q3zZFbFv5pdeQ"
     },
     {
+      "added_at": "2021-11-25 20:59:00",
+      "album": {
+        "name": "Strings Attached",
+        "url": "https://open.spotify.com/album/3BDQeqmBSiDtgPbKDAhakq"
+      },
+      "artists": [
+        {
+          "name": "Kash Kaaria",
+          "url": "https://open.spotify.com/artist/3KUhMnCH2rmkW5jNhW7qoi"
+        },
+        {
+          "name": "Maandy",
+          "url": "https://open.spotify.com/artist/3AaXIAk5OkIRmHnoEP4XmP"
+        }
+      ],
+      "duration_ms": 187792,
+      "name": "Solo",
+      "url": "https://open.spotify.com/track/3UwxFtfHmrllZzm8bExvRb"
+    },
+    {
+      "added_at": "2022-01-27 20:59:00",
+      "album": {
+        "name": "21",
+        "url": "https://open.spotify.com/album/2KecTQNTYIbN0Fyu6TCl68"
+      },
+      "artists": [
+        {
+          "name": "TrishaGrey",
+          "url": "https://open.spotify.com/artist/1lKTTkoqEttbG5Tdn9X8Jx"
+        }
+      ],
+      "duration_ms": 168344,
+      "name": "Switch Energy",
+      "url": "https://open.spotify.com/track/7ihOawZIhBgY3txKEIGauf"
+    },
+    {
+      "added_at": "2021-10-29 06:04:39",
+      "album": {
+        "name": "Old Ghosts",
+        "url": "https://open.spotify.com/album/0L2hcwVhhMdCrT2WDxNJor"
+      },
+      "artists": [
+        {
+          "name": "Jason Sibi-Okumu",
+          "url": "https://open.spotify.com/artist/62RxzBJ449g8jS0gZp4X06"
+        }
+      ],
+      "duration_ms": 171459,
+      "name": "Old Ghosts",
+      "url": "https://open.spotify.com/track/7mdxLKcj9fgsMPy3pJhadc"
+    },
+    {
+      "added_at": "2021-12-16 20:59:00",
+      "album": {
+        "name": "Never Loose",
+        "url": "https://open.spotify.com/album/3AnUhJWeLVlQ1hD16fQ4bC"
+      },
+      "artists": [
+        {
+          "name": "Bura",
+          "url": "https://open.spotify.com/artist/368JQ3ZxIJ55JQaKaGdh8k"
+        }
+      ],
+      "duration_ms": 195892,
+      "name": "Never Loose",
+      "url": "https://open.spotify.com/track/3W7ZhocyMpK2b4MxwbpGu5"
+    },
+    {
+      "added_at": "2021-12-09 20:59:00",
+      "album": {
+        "name": "Microwave",
+        "url": "https://open.spotify.com/album/5ozHQm7hB3VlhMz1wIfm1E"
+      },
+      "artists": [
+        {
+          "name": "Flier",
+          "url": "https://open.spotify.com/artist/4GG9mTTEeOa6zUYwO3YmgU"
+        }
+      ],
+      "duration_ms": 165750,
+      "name": "Microwave",
+      "url": "https://open.spotify.com/track/34vw8DKn7RIcoC7igRqUGC"
+    },
+    {
+      "added_at": "2022-05-05 20:59:00",
+      "album": {
+        "name": "The Ugandan",
+        "url": "https://open.spotify.com/album/3oyokB16SXiEeZybhCS2V8"
+      },
+      "artists": [
+        {
+          "name": "The Mith",
+          "url": "https://open.spotify.com/artist/1xGpeTWvpYbkDTpP5dXyNf"
+        },
+        {
+          "name": "Herbert Ssensamba",
+          "url": "https://open.spotify.com/artist/551y4ECPYt7eD0EIlew8sg"
+        }
+      ],
+      "duration_ms": 278804,
+      "name": "I Give Her Love",
+      "url": "https://open.spotify.com/track/6haw04b2NBB93aG0xeuZ5c"
+    },
+    {
+      "added_at": "2021-12-16 20:59:00",
+      "album": {
+        "name": "Oh! My Dear...",
+        "url": "https://open.spotify.com/album/6Is4wsIEwh0xT5FZ9aRnaI"
+      },
+      "artists": [
+        {
+          "name": "Wamugunda",
+          "url": "https://open.spotify.com/artist/2Mj0SBavSxKCv3MMUfvBEP"
+        },
+        {
+          "name": "Muthoni Njoroge",
+          "url": "https://open.spotify.com/artist/3UmkRFAyY476ELymys1RUP"
+        }
+      ],
+      "duration_ms": 399999,
+      "name": "Oh! My Dear...",
+      "url": "https://open.spotify.com/track/28HrRHjy9GDMcHjOzLMOVE"
+    },
+    {
+      "added_at": "2021-10-29 06:04:39",
+      "album": {
+        "name": "Echoes (Remix)",
+        "url": "https://open.spotify.com/album/21mY94BhJNjVcHXuTuBElI"
+      },
+      "artists": [
+        {
+          "name": "Maurice Kirya",
+          "url": "https://open.spotify.com/artist/74irFmh7k7vfTa2QXwI729"
+        },
+        {
+          "name": "K!MERA",
+          "url": "https://open.spotify.com/artist/1C3pCs0DmKTCvmqAJYerKN"
+        }
+      ],
+      "duration_ms": 167500,
+      "name": "Echoes - Remix",
+      "url": "https://open.spotify.com/track/3B7XQSWXPAsz50D3NZTmZi"
+    },
+    {
+      "added_at": "2022-03-03 20:59:00",
+      "album": {
+        "name": "Sana",
+        "url": "https://open.spotify.com/album/6DIKpG4tLCzL3VXkohDwrR"
+      },
+      "artists": [
+        {
+          "name": "Joshua Baraka",
+          "url": "https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW"
+        },
+        {
+          "name": "Merry-Lynn",
+          "url": "https://open.spotify.com/artist/5SX1BNsF4WtgumEhJ2B9o7"
+        }
+      ],
+      "duration_ms": 163200,
+      "name": "Sana",
+      "url": "https://open.spotify.com/track/6cNt6K8BTWyX3ntnMBHjgt"
+    },
+    {
+      "added_at": "2021-10-15 19:38:29",
+      "album": {
+        "name": "New Level // SUPERWATER",
+        "url": "https://open.spotify.com/album/2N0k8TVpxu2uZuR3C0tQHH"
+      },
+      "artists": [
+        {
+          "name": "BEMATA",
+          "url": "https://open.spotify.com/artist/795rusHeDFKZwVrgmzx87x"
+        }
+      ],
+      "duration_ms": 200682,
+      "name": "New Level // SUPERWATER",
+      "url": "https://open.spotify.com/track/0wIDhVcSIKvB8zxpfJc9dC"
+    },
+    {
       "added_at": "2021-10-15 19:38:29",
       "album": {
         "name": "Blue",
@@ -1051,202 +1247,6 @@
       "duration_ms": 228983,
       "name": "Secret Love",
       "url": "https://open.spotify.com/track/0GtSe2T7ddleLyYRrDQwSF"
-    },
-    {
-      "added_at": "2021-11-25 20:59:00",
-      "album": {
-        "name": "Strings Attached",
-        "url": "https://open.spotify.com/album/3BDQeqmBSiDtgPbKDAhakq"
-      },
-      "artists": [
-        {
-          "name": "Kash Kaaria",
-          "url": "https://open.spotify.com/artist/3KUhMnCH2rmkW5jNhW7qoi"
-        },
-        {
-          "name": "Maandy",
-          "url": "https://open.spotify.com/artist/3AaXIAk5OkIRmHnoEP4XmP"
-        }
-      ],
-      "duration_ms": 187792,
-      "name": "Solo",
-      "url": "https://open.spotify.com/track/3UwxFtfHmrllZzm8bExvRb"
-    },
-    {
-      "added_at": "2022-01-27 20:59:00",
-      "album": {
-        "name": "21",
-        "url": "https://open.spotify.com/album/2KecTQNTYIbN0Fyu6TCl68"
-      },
-      "artists": [
-        {
-          "name": "TrishaGrey",
-          "url": "https://open.spotify.com/artist/1lKTTkoqEttbG5Tdn9X8Jx"
-        }
-      ],
-      "duration_ms": 168344,
-      "name": "Switch Energy",
-      "url": "https://open.spotify.com/track/7ihOawZIhBgY3txKEIGauf"
-    },
-    {
-      "added_at": "2021-10-29 06:04:39",
-      "album": {
-        "name": "Old Ghosts",
-        "url": "https://open.spotify.com/album/0L2hcwVhhMdCrT2WDxNJor"
-      },
-      "artists": [
-        {
-          "name": "Jason Sibi-Okumu",
-          "url": "https://open.spotify.com/artist/62RxzBJ449g8jS0gZp4X06"
-        }
-      ],
-      "duration_ms": 171459,
-      "name": "Old Ghosts",
-      "url": "https://open.spotify.com/track/7mdxLKcj9fgsMPy3pJhadc"
-    },
-    {
-      "added_at": "2021-12-16 20:59:00",
-      "album": {
-        "name": "Never Loose",
-        "url": "https://open.spotify.com/album/3AnUhJWeLVlQ1hD16fQ4bC"
-      },
-      "artists": [
-        {
-          "name": "Bura",
-          "url": "https://open.spotify.com/artist/368JQ3ZxIJ55JQaKaGdh8k"
-        }
-      ],
-      "duration_ms": 195892,
-      "name": "Never Loose",
-      "url": "https://open.spotify.com/track/3W7ZhocyMpK2b4MxwbpGu5"
-    },
-    {
-      "added_at": "2021-12-09 20:59:00",
-      "album": {
-        "name": "Microwave",
-        "url": "https://open.spotify.com/album/5ozHQm7hB3VlhMz1wIfm1E"
-      },
-      "artists": [
-        {
-          "name": "Flier",
-          "url": "https://open.spotify.com/artist/4GG9mTTEeOa6zUYwO3YmgU"
-        }
-      ],
-      "duration_ms": 165750,
-      "name": "Microwave",
-      "url": "https://open.spotify.com/track/34vw8DKn7RIcoC7igRqUGC"
-    },
-    {
-      "added_at": "2022-05-05 20:59:00",
-      "album": {
-        "name": "The Ugandan",
-        "url": "https://open.spotify.com/album/3oyokB16SXiEeZybhCS2V8"
-      },
-      "artists": [
-        {
-          "name": "The Mith",
-          "url": "https://open.spotify.com/artist/1xGpeTWvpYbkDTpP5dXyNf"
-        },
-        {
-          "name": "Herbert Ssensamba",
-          "url": "https://open.spotify.com/artist/551y4ECPYt7eD0EIlew8sg"
-        }
-      ],
-      "duration_ms": 278804,
-      "name": "I Give Her Love",
-      "url": "https://open.spotify.com/track/6haw04b2NBB93aG0xeuZ5c"
-    },
-    {
-      "added_at": "2021-12-16 20:59:00",
-      "album": {
-        "name": "Oh! My Dear...",
-        "url": "https://open.spotify.com/album/6Is4wsIEwh0xT5FZ9aRnaI"
-      },
-      "artists": [
-        {
-          "name": "Wamugunda",
-          "url": "https://open.spotify.com/artist/2Mj0SBavSxKCv3MMUfvBEP"
-        },
-        {
-          "name": "Muthoni Njoroge",
-          "url": "https://open.spotify.com/artist/3UmkRFAyY476ELymys1RUP"
-        }
-      ],
-      "duration_ms": 399999,
-      "name": "Oh! My Dear...",
-      "url": "https://open.spotify.com/track/28HrRHjy9GDMcHjOzLMOVE"
-    },
-    {
-      "added_at": "2021-10-29 06:04:39",
-      "album": {
-        "name": "Echoes (Remix)",
-        "url": "https://open.spotify.com/album/21mY94BhJNjVcHXuTuBElI"
-      },
-      "artists": [
-        {
-          "name": "Maurice Kirya",
-          "url": "https://open.spotify.com/artist/74irFmh7k7vfTa2QXwI729"
-        },
-        {
-          "name": "K!MERA",
-          "url": "https://open.spotify.com/artist/1C3pCs0DmKTCvmqAJYerKN"
-        }
-      ],
-      "duration_ms": 167500,
-      "name": "Echoes - Remix",
-      "url": "https://open.spotify.com/track/3B7XQSWXPAsz50D3NZTmZi"
-    },
-    {
-      "added_at": "2021-11-11 20:59:00",
-      "album": {
-        "name": "Full Circle",
-        "url": "https://open.spotify.com/album/4PhEHRqWfgTnTwDXAVq4SN"
-      },
-      "artists": [
-        {
-          "name": "Hamzaa",
-          "url": "https://open.spotify.com/artist/3TXjnAw0sg1VVdnR9fGdBs"
-        }
-      ],
-      "duration_ms": 154493,
-      "name": "WHO\u2019S LOVING YOU?",
-      "url": "https://open.spotify.com/track/0ODyFLoeeVJwWhZCAzLyf1"
-    },
-    {
-      "added_at": "2022-03-03 20:59:00",
-      "album": {
-        "name": "Sana",
-        "url": "https://open.spotify.com/album/6DIKpG4tLCzL3VXkohDwrR"
-      },
-      "artists": [
-        {
-          "name": "Joshua Baraka",
-          "url": "https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW"
-        },
-        {
-          "name": "Merry-Lynn",
-          "url": "https://open.spotify.com/artist/5SX1BNsF4WtgumEhJ2B9o7"
-        }
-      ],
-      "duration_ms": 163200,
-      "name": "Sana",
-      "url": "https://open.spotify.com/track/6cNt6K8BTWyX3ntnMBHjgt"
-    },
-    {
-      "added_at": "2021-10-15 19:38:29",
-      "album": {
-        "name": "New Level // SUPERWATER",
-        "url": "https://open.spotify.com/album/2N0k8TVpxu2uZuR3C0tQHH"
-      },
-      "artists": [
-        {
-          "name": "BEMATA",
-          "url": "https://open.spotify.com/artist/795rusHeDFKZwVrgmzx87x"
-        }
-      ],
-      "duration_ms": 200682,
-      "name": "New Level // SUPERWATER",
-      "url": "https://open.spotify.com/track/0wIDhVcSIKvB8zxpfJc9dC"
     }
   ],
   "unique_name": "Eastern Vibes",

@@ -702,6 +702,36 @@
     },
     {
       "album": {
+        "name": "Dirty Grease",
+        "url": "https://open.spotify.com/album/2uJDg09aX2m6hZznK6KTyd"
+      },
+      "artists": [
+        {
+          "name": "David Garfield",
+          "url": "https://open.spotify.com/artist/3RPnyf7t9phTwwSzQgaZYb"
+        },
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        },
+        {
+          "name": "Robben Ford",
+          "url": "https://open.spotify.com/artist/7C1CFA2GWGFc51SrvX5Bvy"
+        },
+        {
+          "name": "Doug Bossi",
+          "url": "https://open.spotify.com/artist/6I8Aan08YoXLddBSwCbCI4"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 376646,
+      "name": "Dirty Grease",
+      "url": "https://open.spotify.com/track/1Nd89XqdXUj1zv9meZbPYR"
+    },
+    {
+      "album": {
         "name": "Don't You Forget About Me",
         "url": "https://open.spotify.com/album/2zxmGfJwrZ6BhaMLrpV8EK"
       },

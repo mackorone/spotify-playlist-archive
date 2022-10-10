@@ -299,7 +299,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-07",
       "duration_ms": 133717,
       "name": "Ancient Delta",
       "url": "https://open.spotify.com/track/3UWxF4IfvfgZSbm3HnSYdW"
@@ -1188,7 +1188,7 @@
         },
         {
           "name": "Kiefer",
-          "url": "https://open.spotify.com/artist/147JrO3YiY9nLD40wAlFvi"
+          "url": "https://open.spotify.com/artist/5lDtfHPqWN6MG9tFywnW8J"
         }
       ],
       "date_added": "2021-10-01",
@@ -1719,7 +1719,7 @@
       ],
       "date_added": "2021-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 162633,
       "name": "Flipside",
       "url": "https://open.spotify.com/track/0gK9406OcLfxwjnkQt8HDv"
@@ -1893,7 +1893,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-05",
       "duration_ms": 142750,
       "name": "Gigi\u2019s Revenge",
       "url": "https://open.spotify.com/track/4RAEg1FjBjXwo0qykxrnF3"
@@ -2148,6 +2148,24 @@
     },
     {
       "album": {
+        "name": "Modern Life",
+        "url": "https://open.spotify.com/album/18dz9uFRrFkmcLe8P5yjsp"
+      },
+      "artists": [
+        {
+          "name": "Ralph Heidel",
+          "url": "https://open.spotify.com/artist/0bMg0IViAwAYQ5WUenR92H"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255173,
+      "name": "HULO",
+      "url": "https://open.spotify.com/track/4XmgxD5c2roG5xop55DfVw"
+    },
+    {
+      "album": {
         "name": "Hummingbird",
         "url": "https://open.spotify.com/album/4s1FfyvuF0u8WntCqgTdn8"
       },
@@ -2301,7 +2319,7 @@
       ],
       "date_added": "2021-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-09",
       "duration_ms": 204000,
       "name": "Inner Inference",
       "url": "https://open.spotify.com/track/32uvNS0ih528wPtjz4z9JN"
@@ -2589,7 +2607,7 @@
       ],
       "date_added": "2021-09-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-29",
+      "date_removed": null,
       "duration_ms": 168160,
       "name": "Life Of Leisure",
       "url": "https://open.spotify.com/track/0P88cwiU0x8rrYudwmO3Pj"
@@ -2611,7 +2629,7 @@
       ],
       "date_added": "2022-08-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-02",
+      "date_removed": null,
       "duration_ms": 131006,
       "name": "Lift Off For AJ",
       "url": "https://open.spotify.com/track/60DBYLqdLMqF3x7FS0yL7K"
@@ -3521,7 +3539,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-30",
+      "date_removed": null,
       "duration_ms": 177036,
       "name": "PRNDL.exe",
       "url": "https://open.spotify.com/track/0e769kt6Sk1QMKZdeveyKx"
@@ -4763,7 +4781,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-03",
       "duration_ms": 272955,
       "name": "Timeline-100",
       "url": "https://open.spotify.com/track/3RqzZUxCXl6Rowgc6fnuwE"
@@ -5505,7 +5523,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-03",
+      "date_removed": null,
       "duration_ms": 361602,
       "name": "Yanavy Obaki",
       "url": "https://open.spotify.com/track/64jaRzgaubbHXplhfauxYz"

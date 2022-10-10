@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "Home to all the latest indie jams. Cover: Men I Trust",
+  "description": "Home to all the latest indie jams. Cover: Alvvays",
   "name": "Indie All Stars",
   "published_playlist_ids": [
     "4hpfeoyJCUxj1W1YZOVAqm"
@@ -199,7 +199,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 246694,
       "name": "A Little Better Every Time",
       "url": "https://open.spotify.com/track/3tHW6ezWcYlMGgZZ3OZT0s"
@@ -264,6 +264,42 @@
     },
     {
       "album": {
+        "name": "Blue Rev",
+        "url": "https://open.spotify.com/album/4BvnbCJbTPkyZYYBWVijgq"
+      },
+      "artists": [
+        {
+          "name": "Alvvays",
+          "url": "https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185276,
+      "name": "After The Earthquake",
+      "url": "https://open.spotify.com/track/5fcVB2CYi7GAgQcQfqsTVL"
+    },
+    {
+      "album": {
+        "name": "After The Earthquake",
+        "url": "https://open.spotify.com/album/0v9aO9vrJoL169wRJYm40k"
+      },
+      "artists": [
+        {
+          "name": "Alvvays",
+          "url": "https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-09",
+      "duration_ms": 185276,
+      "name": "After The Earthquake",
+      "url": "https://open.spotify.com/track/6BiECF48e7qu8Z81xJL7sB"
+    },
+    {
+      "album": {
         "name": "WE",
         "url": "https://open.spotify.com/album/2sAePf08xIp4tnDlMUCV8B"
       },
@@ -279,6 +315,24 @@
       "duration_ms": 401253,
       "name": "Age of Anxiety II (Rabbit Hole)",
       "url": "https://open.spotify.com/track/2z0nkZLzKp1IbZzdQCaD6Z"
+    },
+    {
+      "album": {
+        "name": "Ain't No Cowboys In Georgia",
+        "url": "https://open.spotify.com/album/2r06kS7KFzXHPLA6DdT9IS"
+      },
+      "artists": [
+        {
+          "name": "Honey Harper",
+          "url": "https://open.spotify.com/artist/01JvPU3kH9sxiT4EP0kmKg"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152921,
+      "name": "Ain't No Cowboys In Georgia",
+      "url": "https://open.spotify.com/track/3MENr2sOd9lrNzDW0ZA91D"
     },
     {
       "album": {
@@ -409,6 +463,24 @@
       "duration_ms": 252653,
       "name": "All Night Long",
       "url": "https://open.spotify.com/track/2ZMuOq3HOG8dMcQY7B1Mfl"
+    },
+    {
+      "album": {
+        "name": "All Roads",
+        "url": "https://open.spotify.com/album/1wlb3EzPVN4A7h6bx2gyWL"
+      },
+      "artists": [
+        {
+          "name": "Dan Mangan",
+          "url": "https://open.spotify.com/artist/5ByjU6oarxRC2Y85JpKx1n"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217973,
+      "name": "All Roads",
+      "url": "https://open.spotify.com/track/2bbkQoF99vgiXdkKQo0mHA"
     },
     {
       "album": {
@@ -575,7 +647,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 209310,
       "name": "ANTIFREEZE",
       "url": "https://open.spotify.com/track/6hVwUD1XjVGsX9GBUcoEYc"
@@ -673,6 +745,24 @@
       "duration_ms": 286903,
       "name": "Atopos",
       "url": "https://open.spotify.com/track/6BggRT92i1xD3MXCTt64J1"
+    },
+    {
+      "album": {
+        "name": "Autopilot",
+        "url": "https://open.spotify.com/album/2w3rgPGdANyLaRSbGIZD13"
+      },
+      "artists": [
+        {
+          "name": "Ev Bird",
+          "url": "https://open.spotify.com/artist/5ZLnYZBRZimCRU1vJzzGsI"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148320,
+      "name": "Autopilot",
+      "url": "https://open.spotify.com/track/523hC1uqbhUPq8swyxd3gn"
     },
     {
       "album": {
@@ -925,7 +1015,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 165445,
       "name": "Belinda Says",
       "url": "https://open.spotify.com/track/6S7GTK0cOhHIHCIlT6eCcR"
@@ -1406,7 +1496,7 @@
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 191373,
+      "duration_ms": 193811,
       "name": "BREAK ME DOWN",
       "url": "https://open.spotify.com/track/3View4Eq2QWlXVrOME2j39"
     },
@@ -2497,7 +2587,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 218000,
       "name": "Deep End",
       "url": "https://open.spotify.com/track/3NE8bmyye8sEOQtWknh8Vi"
@@ -3474,6 +3564,24 @@
     },
     {
       "album": {
+        "name": "Bad Posture",
+        "url": "https://open.spotify.com/album/7fAznyEY9ZOOGn4fR5sCpt"
+      },
+      "artists": [
+        {
+          "name": "Charlie Houston",
+          "url": "https://open.spotify.com/artist/6BkSTbIWZrLZZK0sa2GehR"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182643,
+      "name": "Falling Out",
+      "url": "https://open.spotify.com/track/3H8zeSxIzl98QJaM5gi4tv"
+    },
+    {
+      "album": {
         "name": "Formentera",
         "url": "https://open.spotify.com/album/1S5vq5vSHCnCJnMljIiuS6"
       },
@@ -3909,7 +4017,7 @@
     {
       "album": {
         "name": "Fossora",
-        "url": "https://open.spotify.com/album/6pK5iO6z0HZ917NucdOvny"
+        "url": "https://open.spotify.com/album/5NchVUjB8yqNhqSeBYaFVy"
       },
       "artists": [
         {
@@ -3924,6 +4032,28 @@
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 259064,
+      "name": "Fossora",
+      "url": "https://open.spotify.com/track/2urZy4XZCrD2cow5fieB9Y"
+    },
+    {
+      "album": {
+        "name": "Fossora",
+        "url": "https://open.spotify.com/album/6pK5iO6z0HZ917NucdOvny"
+      },
+      "artists": [
+        {
+          "name": "Bj\u00f6rk",
+          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
+        },
+        {
+          "name": "Kasimyn",
+          "url": "https://open.spotify.com/artist/2q51gH6fgmHILYSIfsVkU5"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-03",
       "duration_ms": 259064,
       "name": "Fossora",
       "url": "https://open.spotify.com/track/36xiucrIrEd6kiTfvwUqWC"
@@ -4053,7 +4183,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 132573,
       "name": "Fuel",
       "url": "https://open.spotify.com/track/4QeienZEwF2dZ09pIvDllc"
@@ -4205,6 +4335,24 @@
       "duration_ms": 267946,
       "name": "Go Easy, Kid (with James Blake)",
       "url": "https://open.spotify.com/track/0y8MdWQBAXTTm8BFdqjfrD"
+    },
+    {
+      "album": {
+        "name": "Go Write with the Stars",
+        "url": "https://open.spotify.com/album/1WSBhoawi94swRpqd0weQF"
+      },
+      "artists": [
+        {
+          "name": "Clerel",
+          "url": "https://open.spotify.com/artist/5hGVJeSkWYpZgvXaDhbnE8"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213402,
+      "name": "Go Write with the Stars",
+      "url": "https://open.spotify.com/track/0LIojBe01OpupDLuMUYwHK"
     },
     {
       "album": {
@@ -5118,6 +5266,24 @@
     },
     {
       "album": {
+        "name": "HotMom.com",
+        "url": "https://open.spotify.com/album/7m4p607UjRClyEYBjPr2GN"
+      },
+      "artists": [
+        {
+          "name": "Oscar Louis",
+          "url": "https://open.spotify.com/artist/3beovFcnzA9hTr18ZxymFK"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144269,
+      "name": "HotMom.com",
+      "url": "https://open.spotify.com/track/6leIMUV6IC5hQEvwPPdsrK"
+    },
+    {
+      "album": {
         "name": "Ideas of Space",
         "url": "https://open.spotify.com/album/1mlSOZAqGsWU4c8A3cyYhE"
       },
@@ -5227,6 +5393,24 @@
       "duration_ms": 205750,
       "name": "Hurt Happens",
       "url": "https://open.spotify.com/track/2tZwyOCd9xoDzlXUJgjojB"
+    },
+    {
+      "album": {
+        "name": "Hurt You",
+        "url": "https://open.spotify.com/album/6dbhEjyUna0Ts040kPrM8t"
+      },
+      "artists": [
+        {
+          "name": "Connie Constance",
+          "url": "https://open.spotify.com/artist/4RB2kk5dmocmMiHFBlmOEt"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235093,
+      "name": "Hurt You",
+      "url": "https://open.spotify.com/track/1pxLVdC8sjLDA2DF3uOEuW"
     },
     {
       "album": {
@@ -6369,7 +6553,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 133373,
       "name": "Just Know It",
       "url": "https://open.spotify.com/track/1kZmbM1VRxNvtMTKQqdKT2"
@@ -7479,7 +7663,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 196266,
       "name": "Miracles",
       "url": "https://open.spotify.com/track/2H0Aiqfj2ipE7xAHadLu7M"
@@ -7569,7 +7753,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 209286,
       "name": "Motel",
       "url": "https://open.spotify.com/track/55X3Lhv9agCd5BtYUFR7vi"
@@ -7797,6 +7981,24 @@
       "duration_ms": 288062,
       "name": "Never Seen You Dance",
       "url": "https://open.spotify.com/track/5mdOo5OClzyz4kgdiek8Pu"
+    },
+    {
+      "album": {
+        "name": "Never Want to Leave",
+        "url": "https://open.spotify.com/album/05QFzhwkX0wMv4KsUiSuUf"
+      },
+      "artists": [
+        {
+          "name": "Ging",
+          "url": "https://open.spotify.com/artist/4140hprCX3y5AHFsZ2Tqe5"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154386,
+      "name": "Never Want to Leave",
+      "url": "https://open.spotify.com/track/2RgHZv1fA9vFEsFouCvvd5"
     },
     {
       "album": {
@@ -8147,7 +8349,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 237316,
       "name": "Nostalgia",
       "url": "https://open.spotify.com/track/3gV7y7IwafryNLEnhh9gKb"
@@ -8313,6 +8515,24 @@
       "duration_ms": 112625,
       "name": "On the Line",
       "url": "https://open.spotify.com/track/7xewyb0B9uRuf4GicaMMNC"
+    },
+    {
+      "album": {
+        "name": "INTO THE BLUE",
+        "url": "https://open.spotify.com/album/2CKqapMPL6O0T8cqvFmyVz"
+      },
+      "artists": [
+        {
+          "name": "Broken Bells",
+          "url": "https://open.spotify.com/artist/6dgwEwnK0YtDfS9XhRwBTG"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229226,
+      "name": "One Night",
+      "url": "https://open.spotify.com/track/4R1jaW2mVVct5MU29o6Ysr"
     },
     {
       "album": {
@@ -9049,6 +9269,24 @@
       "duration_ms": 297946,
       "name": "Q4",
       "url": "https://open.spotify.com/track/6GN8fc9sxaltugkHyRYUTN"
+    },
+    {
+      "album": {
+        "name": "People In Motion",
+        "url": "https://open.spotify.com/album/6qXDmHqkVW2O8FQUKWiHh4"
+      },
+      "artists": [
+        {
+          "name": "Dayglow",
+          "url": "https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194800,
+      "name": "Radio",
+      "url": "https://open.spotify.com/track/10SOOaAA0JVdnroFkcZT7w"
     },
     {
       "album": {
@@ -10072,6 +10310,24 @@
     },
     {
       "album": {
+        "name": "Slowing Down",
+        "url": "https://open.spotify.com/album/4lFKMJASTntuvHbLhjt4g4"
+      },
+      "artists": [
+        {
+          "name": "The Backseat Lovers",
+          "url": "https://open.spotify.com/artist/6p2HnfM955TI1bX34dkLnI"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 320186,
+      "name": "Slowing Down",
+      "url": "https://open.spotify.com/track/5hP4E6151iBhUXsuNhuwfk"
+    },
+    {
+      "album": {
         "name": "So Excited",
         "url": "https://open.spotify.com/album/1M0jL56cPNrsT6hNV7g5W8"
       },
@@ -10643,7 +10899,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 221082,
       "name": "Sweet Tooth",
       "url": "https://open.spotify.com/track/2Mjp4aXF79Ciex4hA5K4MA"
@@ -11501,7 +11757,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 208880,
       "name": "Till The World's Awake",
       "url": "https://open.spotify.com/track/4hedQVjhX9bdo7DAUDWtex"
@@ -12004,6 +12260,24 @@
     },
     {
       "album": {
+        "name": "Videotape",
+        "url": "https://open.spotify.com/album/5gQhgsJT4IFjVmEHVTDvkT"
+      },
+      "artists": [
+        {
+          "name": "Birds of Bellwoods",
+          "url": "https://open.spotify.com/artist/3ZtRAJvBArlocyjPbm4Lvr"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188516,
+      "name": "Videotape",
+      "url": "https://open.spotify.com/track/0Pk0hNayBWxGrcrS93pvvc"
+    },
+    {
+      "album": {
         "name": "Voyage",
         "url": "https://open.spotify.com/album/15sfmnhUkreeJiqKjTH4mE"
       },
@@ -12415,7 +12689,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 247893,
       "name": "What Do We Do Now?",
       "url": "https://open.spotify.com/track/06HgiR8nOgQaXuQQdGQbS9"
@@ -12851,7 +13125,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 185377,
       "name": "You're Not The Worst",
       "url": "https://open.spotify.com/track/4ac1ae4rv8Bzywe3NwUgAf"

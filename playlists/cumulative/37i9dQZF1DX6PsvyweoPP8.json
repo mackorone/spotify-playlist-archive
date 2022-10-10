@@ -146,6 +146,36 @@
     },
     {
       "album": {
+        "name": "Casa UMusicPlay Urbanamente (Vol. 1)",
+        "url": "https://open.spotify.com/album/0x0sbTpKTN1xLfkKot5iSR"
+      },
+      "artists": [
+        {
+          "name": "UMusicPlay",
+          "url": "https://open.spotify.com/artist/49rYuhLNSc8WNdIw5CV0kT"
+        },
+        {
+          "name": "Dalua",
+          "url": "https://open.spotify.com/artist/7awGveT87ZP4UoZxuv0zym"
+        },
+        {
+          "name": "Isis Orbelli",
+          "url": "https://open.spotify.com/artist/4rflqymMDgNe10ldH5lGCY"
+        },
+        {
+          "name": "Modestto",
+          "url": "https://open.spotify.com/artist/4foTKCq94d6Krz1soMJgGd"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150020,
+      "name": "A.P",
+      "url": "https://open.spotify.com/track/1BRrmSdjTjHgCMSGtIT0Za"
+    },
+    {
+      "album": {
         "name": "Acende o Isqueiro",
         "url": "https://open.spotify.com/album/141vLpxhW08k1udBJoTW1r"
       },
@@ -2203,7 +2233,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 168176,
       "name": "VAMPIRA",
       "url": "https://open.spotify.com/track/1vUf2pQNYT0EEEU5RLxO4h"

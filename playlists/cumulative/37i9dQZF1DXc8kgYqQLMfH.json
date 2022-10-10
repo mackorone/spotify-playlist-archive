@@ -95,7 +95,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 121778,
       "name": "305 sky",
       "url": "https://open.spotify.com/track/3gIJheKHSVrhs5EkxHdNpA"
@@ -563,6 +563,36 @@
       "duration_ms": 141971,
       "name": "ambar",
       "url": "https://open.spotify.com/track/0VOuTIdSvi1JdrbUA79hLs"
+    },
+    {
+      "album": {
+        "name": "An Evening in March",
+        "url": "https://open.spotify.com/album/3wrDjzDWqnEon5qyXHDeR1"
+      },
+      "artists": [
+        {
+          "name": "Smith Beats",
+          "url": "https://open.spotify.com/artist/5HHXSrUf66808GVDTVmH1u"
+        },
+        {
+          "name": "Banks",
+          "url": "https://open.spotify.com/artist/6L9h5cN2DNOoMqFRgIv7uU"
+        },
+        {
+          "name": "Hendy",
+          "url": "https://open.spotify.com/artist/6McvQxkxDcQzLzRdDDhbMd"
+        },
+        {
+          "name": "koolmonke",
+          "url": "https://open.spotify.com/artist/7M0d2czaURfOceXzgtcA2b"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127000,
+      "name": "An Evening In March",
+      "url": "https://open.spotify.com/track/0N1ICKD9OJEoMOeTGBDnNy"
     },
     {
       "album": {
@@ -1065,6 +1095,24 @@
       "duration_ms": 245250,
       "name": "Black Sands White Coffee",
       "url": "https://open.spotify.com/track/2ZpxtRMNvBkgQVZiCGIIub"
+    },
+    {
+      "album": {
+        "name": "Blossom's Day",
+        "url": "https://open.spotify.com/album/4cYgeynqELpDFRPxaiWhwh"
+      },
+      "artists": [
+        {
+          "name": "Perspolis",
+          "url": "https://open.spotify.com/artist/6M0KZSevYJX27uqBGw3Ae9"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 101759,
+      "name": "Blossom's Day",
+      "url": "https://open.spotify.com/track/2kQKAtga9QYY9RV4xO8huL"
     },
     {
       "album": {
@@ -3937,7 +3985,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 129403,
       "name": "Frozen Trees",
       "url": "https://open.spotify.com/track/5FkZ9xAb6k2XfHrR1zjnee"
@@ -4136,6 +4184,24 @@
     },
     {
       "album": {
+        "name": "Grab a Chair",
+        "url": "https://open.spotify.com/album/2TgvWCNTjr2ramzv8PgtSr"
+      },
+      "artists": [
+        {
+          "name": "Giorgio Robertini",
+          "url": "https://open.spotify.com/artist/3CfYXa3IM5nDW2rzaVRQRV"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124500,
+      "name": "Grab a Chair",
+      "url": "https://open.spotify.com/track/2z97snT0H6GsFnJl9hvMEp"
+    },
+    {
+      "album": {
         "name": "Gravity",
         "url": "https://open.spotify.com/album/4w0EdRKTU2b6EWS8AOP3ha"
       },
@@ -4277,7 +4343,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 156004,
       "name": "Hashtag Beat",
       "url": "https://open.spotify.com/track/7oyFxQvP9oQC1B2QFc9xOr"
@@ -5115,7 +5181,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 130782,
       "name": "It's all Happening",
       "url": "https://open.spotify.com/track/7vaLupBut9f0QwJ1tWNl9N"
@@ -8266,6 +8332,24 @@
     },
     {
       "album": {
+        "name": "Perspectives",
+        "url": "https://open.spotify.com/album/1jVvR2En0bcnT9rMruX36k"
+      },
+      "artists": [
+        {
+          "name": "Binne Boy",
+          "url": "https://open.spotify.com/artist/6R1LtZTsDKgRxDcToj6LA2"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 102639,
+      "name": "Perspectives",
+      "url": "https://open.spotify.com/track/3ClaQnmhFjogl21KC3BrBQ"
+    },
+    {
+      "album": {
         "name": "Phantasm",
         "url": "https://open.spotify.com/album/1BRN65hsYehFmALUjpJHZ7"
       },
@@ -8939,6 +9023,28 @@
       "duration_ms": 212000,
       "name": "Room Service 24/7",
       "url": "https://open.spotify.com/track/1IXm9rvU1QIbP9xoSR9fRm"
+    },
+    {
+      "album": {
+        "name": "Roseship",
+        "url": "https://open.spotify.com/album/0vCUA9kfmR98zY4QyIwnLW"
+      },
+      "artists": [
+        {
+          "name": "F\u0131rat Durak",
+          "url": "https://open.spotify.com/artist/478TYt4lme8W8GuK7kXZLe"
+        },
+        {
+          "name": "greenface",
+          "url": "https://open.spotify.com/artist/2aTEuIyczpLxQw9I0UiEFL"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158048,
+      "name": "Roseship",
+      "url": "https://open.spotify.com/track/6fkYSkZr3GAbPckhYXTA1Z"
     },
     {
       "album": {
@@ -9855,6 +9961,24 @@
       "duration_ms": 179443,
       "name": "Somewhere Around Here",
       "url": "https://open.spotify.com/track/57a2PeuLm9V53lgurUzzMh"
+    },
+    {
+      "album": {
+        "name": "Sons & Daughters",
+        "url": "https://open.spotify.com/album/2mhmmQr212vOWbi5XsFDMc"
+      },
+      "artists": [
+        {
+          "name": "OnurOHA",
+          "url": "https://open.spotify.com/artist/59GI9tAkVAL2QjhOBRLPVZ"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155317,
+      "name": "Sons & Daughters",
+      "url": "https://open.spotify.com/track/6yq6dvbTKnPu7KFbchVrTm"
     },
     {
       "album": {
@@ -10981,6 +11105,24 @@
       "duration_ms": 189600,
       "name": "toucanteloupe",
       "url": "https://open.spotify.com/track/3DE86ZQ10wuzbCZN1ApZjx"
+    },
+    {
+      "album": {
+        "name": "Drifted",
+        "url": "https://open.spotify.com/album/3E6Y3GEkUa7laqIvSwiQ4z"
+      },
+      "artists": [
+        {
+          "name": "Dpsht",
+          "url": "https://open.spotify.com/artist/2VhyMRukJ2e1CgZ6k7Tux3"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140000,
+      "name": "Traces Left Behind",
+      "url": "https://open.spotify.com/track/7JBZA48IlwHczdv4Tuxluv"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Sophisticated palates only\. Curated by: <a href="https://open.spotify.com/artist/2PIYZpNwZRt8BDALIFazZh?si=s0u7SNJXQQ\-JKMPH3p8dSw">Usain Bolt</a>
 
-50 songs - 2 hr 43 min - not published yet
+50 songs - 2 hr 43 min - [published](https://open.spotify.com/playlist/4HjCpbcqqGK3SEefouVnLk)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

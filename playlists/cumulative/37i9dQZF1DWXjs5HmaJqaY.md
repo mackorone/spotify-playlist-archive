@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:6caPJFLv1wesmM7gwK1ACy">Boris Brejcha</a>'s favorite tracks\. Updated regularly\. Curated by Boris Brejcha\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-72 songs - 7 hr 37 min - [published](https://open.spotify.com/playlist/4zXlNISwGhCKz7Rl5RQDhn)
+73 songs - 7 hr 41 min - [published](https://open.spotify.com/playlist/4zXlNISwGhCKz7Rl5RQDhn)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,8 +23,9 @@
 | [Dawn of Man](https://open.spotify.com/track/1eKXY9F9BZzDHraaFCajoh) | [Shydow](https://open.spotify.com/artist/7MctCeJARCIyIfzE1RGFV9) | [Dawn of Man](https://open.spotify.com/album/6ygNkqCX4Ud8CwRtzf700V) | 6:17 | 2022-09-16 |  |
 | [Dicke Disko](https://open.spotify.com/track/7F6T8NsGPnQn8GdYRkTblw) | [Der Dritte Raum](https://open.spotify.com/artist/5RZGHff3PE1rPUKOpDIqaO) | [KOMMIT](https://open.spotify.com/album/3jjmGtJT3ZHFV272azCeYl) | 6:36 | 2022-09-16 |  |
 | [Dominator \- Rebūke Remix](https://open.spotify.com/track/6cKvyvg3sMnyZZsi8tgXMP) | [Human Resource](https://open.spotify.com/artist/28LgRKFEN8GXeORbdViP7t), [Rebūke](https://open.spotify.com/artist/113reBz1jA6rVxbXl55mlj) | [Dominator \(Rebūke Remix\)](https://open.spotify.com/album/7n6n1dLOtrxPa3HV29b1Vr) | 3:59 | 2022-09-16 |  |
+| [Dualism](https://open.spotify.com/track/5BOR3weDfPrKSU01sHiaY9) | [Deniz Bul](https://open.spotify.com/artist/4H267HByup3kdzVdYLhp21) | [Dualism](https://open.spotify.com/album/0pQ00YF0S5Xj68eJlWxwAN) | 3:56 | 2022-10-07 |  |
 | [Ego Rave B](https://open.spotify.com/track/1PhMiQKoYQr0jX0XZbh3sb) | [Deetron](https://open.spotify.com/artist/0d4nL4lAEkHJIqLZSHBuav) | [Ego Rave](https://open.spotify.com/album/1FZjqtGarKJCB38L042Vdw) | 6:42 | 2022-09-16 |  |
-| [Fata Morgana](https://open.spotify.com/track/4euEvn1jjxEqY9AOXCwR1y) | [Deniz Bul](https://open.spotify.com/artist/4H267HByup3kdzVdYLhp21) | [Fata Morgana](https://open.spotify.com/album/1DkEi6XopdxU3NGXYmYdAu) | 3:09 | 2022-09-16 |  |
+| [Fata Morgana](https://open.spotify.com/track/4euEvn1jjxEqY9AOXCwR1y) | [Deniz Bul](https://open.spotify.com/artist/4H267HByup3kdzVdYLhp21) | [Fata Morgana](https://open.spotify.com/album/1DkEi6XopdxU3NGXYmYdAu) | 3:09 | 2022-09-16 | 2022-10-08 |
 | [Fire](https://open.spotify.com/track/02xvpUN3o4BegUDrfqv5ao) | [CJ Bolland](https://open.spotify.com/artist/51OKtNtm24ALAjAHBMiFng) | [The Fire](https://open.spotify.com/album/3Fe4a70NPiblcAadRnUXcv) | 4:25 | 2022-09-16 |  |
 | [Flight Number](https://open.spotify.com/track/5Ek7y6nNqZaQaC8s005K5O) | [Smilla](https://open.spotify.com/artist/4GNUAjOnCWs0kuq2ikLBVK) | [Shift Sequence](https://open.spotify.com/album/4MeMM1mQNBMUlrJtDV8WXn) | 5:56 | 2022-09-16 |  |
 | [Freedom \- Breitenstein Remix](https://open.spotify.com/track/4vl5XHDOzZfFSxh5kFC7A7) | [Sikora](https://open.spotify.com/artist/4cKdwlnRYAkd3MFwN4AJvj), [Breitenstein](https://open.spotify.com/artist/1ksDKTQ1DzaLdpVeM6bZcs) | [Freedom Remixes](https://open.spotify.com/album/0mvihIyrSPWeVF7zCpJPtv) | 7:02 | 2022-09-16 |  |

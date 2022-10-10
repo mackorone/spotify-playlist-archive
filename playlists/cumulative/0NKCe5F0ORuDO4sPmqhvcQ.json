@@ -2603,7 +2603,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-06",
       "duration_ms": 166451,
       "name": "High On That New Love",
       "url": "https://open.spotify.com/track/1QH1Lhz1GFShACuoKgFcL9"
@@ -2774,6 +2774,28 @@
     },
     {
       "album": {
+        "name": "I Kill Everything",
+        "url": "https://open.spotify.com/album/4Vit7uug9JxFeTKtrO3bWd"
+      },
+      "artists": [
+        {
+          "name": "DeathbyRomy",
+          "url": "https://open.spotify.com/artist/7aWpPjjgItUnXljFxYYKZI"
+        },
+        {
+          "name": "AWAY",
+          "url": "https://open.spotify.com/artist/2ZmerElhvxg8uVKCmlZ4ij"
+        }
+      ],
+      "date_added": "2022-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216333,
+      "name": "I Kill Everything",
+      "url": "https://open.spotify.com/track/67yPz95D3cWkA0afvBGgtP"
+    },
+    {
+      "album": {
         "name": "I See You (with Marc E. Bassy)",
         "url": "https://open.spotify.com/album/0R5neGxstfsw1hZpjFSHcm"
       },
@@ -2927,6 +2949,28 @@
       "duration_ms": 174000,
       "name": "Incorrect",
       "url": "https://open.spotify.com/track/4ytbLcGPlrnniNHxKOCV5u"
+    },
+    {
+      "album": {
+        "name": "Inside My Head",
+        "url": "https://open.spotify.com/album/46Xk8s8C66TNraDW6r4dWs"
+      },
+      "artists": [
+        {
+          "name": "XANU",
+          "url": "https://open.spotify.com/artist/3R51EM0ysdhs3FRbaw8mvN"
+        },
+        {
+          "name": "biblemami",
+          "url": "https://open.spotify.com/artist/6Wl8Lok0dnlLHeURIWeGHV"
+        }
+      ],
+      "date_added": "2022-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162146,
+      "name": "Inside My Head",
+      "url": "https://open.spotify.com/track/4wjk41EIeEwam4t2dyFD1F"
     },
     {
       "album": {
@@ -3193,6 +3237,28 @@
       "duration_ms": 144500,
       "name": "Like A Boulder",
       "url": "https://open.spotify.com/track/5nXj09XZiJCvuw973BVD3q"
+    },
+    {
+      "album": {
+        "name": "Like Me (feat. Hooli)",
+        "url": "https://open.spotify.com/album/0rpyBk3C7Ttr7AyzlSyULH"
+      },
+      "artists": [
+        {
+          "name": "R3LL",
+          "url": "https://open.spotify.com/artist/1oIdLFKLJx0NicqeiEvBj5"
+        },
+        {
+          "name": "Hooli",
+          "url": "https://open.spotify.com/artist/2WyNeweHZJAuEy3Mrtj0iW"
+        }
+      ],
+      "date_added": "2022-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143997,
+      "name": "Like Me (feat. Hooli)",
+      "url": "https://open.spotify.com/track/5NIRCmno5NeeDl8Bu5z0M9"
     },
     {
       "album": {
@@ -4776,6 +4842,28 @@
     },
     {
       "album": {
+        "name": "Scandalous (with Tinashe)",
+        "url": "https://open.spotify.com/album/2EHnywdcT0XROIxAK8VIoP"
+      },
+      "artists": [
+        {
+          "name": "Gryffin",
+          "url": "https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh"
+        },
+        {
+          "name": "Tinashe",
+          "url": "https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159252,
+      "name": "Scandalous (with Tinashe)",
+      "url": "https://open.spotify.com/track/0HoDk4kVVbMfdBm5yy8jZq"
+    },
+    {
+      "album": {
         "name": "Ophelia Presents: Advent Volume 4",
         "url": "https://open.spotify.com/album/5qocn2lAsog53oZj9VoF03"
       },
@@ -5086,6 +5174,24 @@
     },
     {
       "album": {
+        "name": "Sound of Alarms",
+        "url": "https://open.spotify.com/album/3htmYVkmlo7j17NNmUWNCH"
+      },
+      "artists": [
+        {
+          "name": "SEBASTIAN MARKUS",
+          "url": "https://open.spotify.com/artist/1tsbyuUTh7L63K0lyMi05a"
+        }
+      ],
+      "date_added": "2022-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176100,
+      "name": "Sound of Alarms",
+      "url": "https://open.spotify.com/track/3XLoTi3vJLH8ynBhFzOVUt"
+    },
+    {
+      "album": {
         "name": "Spaz Out",
         "url": "https://open.spotify.com/album/6HkBbZCjDPs1pXDoYCPcI1"
       },
@@ -5211,7 +5317,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-06",
       "duration_ms": 160201,
       "name": "Summer Lasts Forever (feat. Love Jesse)",
       "url": "https://open.spotify.com/track/32piXs0Tz0bkuYMfB4Cazk"
@@ -6157,7 +6263,7 @@
       ],
       "date_added": "2022-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-06",
       "duration_ms": 207216,
       "name": "Weekdays",
       "url": "https://open.spotify.com/track/1fmLw7Ai93hZI7b34NPhyn"
@@ -6321,6 +6427,10 @@
         {
           "name": "WOBBLEBUG",
           "url": "https://open.spotify.com/artist/7gPfQfayKKrJ6X2zHg49Zu"
+        },
+        {
+          "name": "Wuki",
+          "url": "https://open.spotify.com/artist/6Se1y4vDcu9fVHLqdj1N3q"
         }
       ],
       "date_added": "2022-09-30",

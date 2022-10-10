@@ -1,12 +1,12 @@
 {
   "description": "M\u00fasicas para dan\u00e7ar e louvar com os pequenos adoradores.",
-  "num_followers": 40427,
+  "num_followers": 40811,
   "original_name": "Gospel Kids",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjA4NzYwMCwwMDAwMDAwMGFiOTQ2MmE0MzM4NDc5NDk1NjU2MDY2MmUxZjQ5ZTUw",
+  "snapshot_id": "MTY2MjA4NzYwMCwwMDAwMDAwMDNhYTFjYWQzMWRhMGVjY2E4ZTM1NzQwZTFlNDNkYzQ0",
   "tracks": [
     {
       "added_at": "2022-09-02 03:00:00",
@@ -47,22 +47,6 @@
     {
       "added_at": "2022-09-02 03:00:00",
       "album": {
-        "name": "Crian\u00e7as Diante do Trono",
-        "url": "https://open.spotify.com/album/0NQ0gD4kZUZ7NR76X1QCqk"
-      },
-      "artists": [
-        {
-          "name": "Crian\u00e7as Diante do Trono",
-          "url": "https://open.spotify.com/artist/1DrV98ubDph1jAWq7ikcF5"
-        }
-      ],
-      "duration_ms": 272933,
-      "name": "Aos Olhos do Pai",
-      "url": "https://open.spotify.com/track/28ATy9KFpbfUujbB8ZMkWc"
-    },
-    {
-      "added_at": "2022-09-02 03:00:00",
-      "album": {
         "name": "Aline Barros e Cia 3",
         "url": "https://open.spotify.com/album/6dtJQolCzJVqKjpBE72gpg"
       },
@@ -75,6 +59,22 @@
       "duration_ms": 173267,
       "name": "Dan\u00e7a do Canguru",
       "url": "https://open.spotify.com/track/1U4Vl0LRSvWtfBtRI6bnBN"
+    },
+    {
+      "added_at": "2022-09-02 03:00:00",
+      "album": {
+        "name": "Crian\u00e7as Diante do Trono",
+        "url": "https://open.spotify.com/album/0NQ0gD4kZUZ7NR76X1QCqk"
+      },
+      "artists": [
+        {
+          "name": "Crian\u00e7as Diante do Trono",
+          "url": "https://open.spotify.com/artist/1DrV98ubDph1jAWq7ikcF5"
+        }
+      ],
+      "duration_ms": 272933,
+      "name": "Aos Olhos do Pai",
+      "url": "https://open.spotify.com/track/28ATy9KFpbfUujbB8ZMkWc"
     },
     {
       "added_at": "2022-09-02 03:00:00",
@@ -119,22 +119,6 @@
     {
       "added_at": "2022-09-02 03:00:00",
       "album": {
-        "name": "Trio R3 Kids",
-        "url": "https://open.spotify.com/album/3iXWPgtTT7O1t7e5eZoDmf"
-      },
-      "artists": [
-        {
-          "name": "Trio R3",
-          "url": "https://open.spotify.com/artist/1j80V5H3SnqrUDKhpAo1OE"
-        }
-      ],
-      "duration_ms": 202743,
-      "name": "A Alegria Est\u00e1 no Cora\u00e7\u00e3o / Celebrai / Solta o Cabo da Nau",
-      "url": "https://open.spotify.com/track/7FNueAtAXOl1aImDlO9jO0"
-    },
-    {
-      "added_at": "2022-09-02 03:00:00",
-      "album": {
         "name": "Cabe\u00e7a, Ombro, Joelho e P\u00e9",
         "url": "https://open.spotify.com/album/1F1pwnUBYMI9vFVpIQF97W"
       },
@@ -147,22 +131,6 @@
       "duration_ms": 132240,
       "name": "Cabe\u00e7a, Ombro, Joelho e P\u00e9",
       "url": "https://open.spotify.com/track/3lRfG9FccT67tuGboXeEZs"
-    },
-    {
-      "added_at": "2022-09-02 03:00:00",
-      "album": {
-        "name": "Eu Nasci",
-        "url": "https://open.spotify.com/album/2HmqtDhNBSUKR42VLi2Evl"
-      },
-      "artists": [
-        {
-          "name": "Leandro Borges",
-          "url": "https://open.spotify.com/artist/1W08UTn6HSj0dHarQE7ReQ"
-        }
-      ],
-      "duration_ms": 214089,
-      "name": "Eu Nasci",
-      "url": "https://open.spotify.com/track/2dE7xXqKFCUAnL8njBXUrI"
     },
     {
       "added_at": "2022-09-02 03:00:00",
@@ -183,18 +151,34 @@
     {
       "added_at": "2022-09-02 03:00:00",
       "album": {
-        "name": "Crian\u00e7as Diante do Trono",
-        "url": "https://open.spotify.com/album/0NQ0gD4kZUZ7NR76X1QCqk"
+        "name": "Trio R3 Kids",
+        "url": "https://open.spotify.com/album/3iXWPgtTT7O1t7e5eZoDmf"
       },
       "artists": [
         {
-          "name": "Crian\u00e7as Diante do Trono",
-          "url": "https://open.spotify.com/artist/1DrV98ubDph1jAWq7ikcF5"
+          "name": "Trio R3",
+          "url": "https://open.spotify.com/artist/1j80V5H3SnqrUDKhpAo1OE"
         }
       ],
-      "duration_ms": 310106,
-      "name": "O Amor do Nosso Deus",
-      "url": "https://open.spotify.com/track/2gvn5QvlQdnE2T06ErTaer"
+      "duration_ms": 202743,
+      "name": "A Alegria Est\u00e1 no Cora\u00e7\u00e3o / Celebrai / Solta o Cabo da Nau",
+      "url": "https://open.spotify.com/track/7FNueAtAXOl1aImDlO9jO0"
+    },
+    {
+      "added_at": "2022-09-02 03:00:00",
+      "album": {
+        "name": "Eu Nasci",
+        "url": "https://open.spotify.com/album/2HmqtDhNBSUKR42VLi2Evl"
+      },
+      "artists": [
+        {
+          "name": "Leandro Borges",
+          "url": "https://open.spotify.com/artist/1W08UTn6HSj0dHarQE7ReQ"
+        }
+      ],
+      "duration_ms": 214089,
+      "name": "Eu Nasci",
+      "url": "https://open.spotify.com/track/2dE7xXqKFCUAnL8njBXUrI"
     },
     {
       "added_at": "2022-09-02 03:00:00",
@@ -215,18 +199,18 @@
     {
       "added_at": "2022-09-02 03:00:00",
       "album": {
-        "name": "Mara Lima e Seus Amiguinhos, Vol. 6",
-        "url": "https://open.spotify.com/album/1cAgUMSQibfGNArPNRIJKn"
+        "name": "Eu Canto pra Jesus",
+        "url": "https://open.spotify.com/album/2WHmaYUFvRDjwnlm43omei"
       },
       "artists": [
         {
-          "name": "Mara Lima",
-          "url": "https://open.spotify.com/artist/3r3fXHLRkaNVAuP7ckBJOV"
+          "name": "Rayne Almeida",
+          "url": "https://open.spotify.com/artist/2WtIzFKxQniqeliHt4vIVj"
         }
       ],
-      "duration_ms": 203885,
-      "name": "A Alegria Est\u00e1 no Cora\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/61PU43JNFgjn1zuAaAz96d"
+      "duration_ms": 182910,
+      "name": "Eu Canto pra Jesus",
+      "url": "https://open.spotify.com/track/2xsZveD2EsMMjp7JbIVu3h"
     },
     {
       "added_at": "2022-09-02 03:00:00",
@@ -255,50 +239,18 @@
     {
       "added_at": "2022-09-02 03:00:00",
       "album": {
-        "name": "Eu Canto pra Jesus",
-        "url": "https://open.spotify.com/album/2WHmaYUFvRDjwnlm43omei"
+        "name": "Crian\u00e7as Diante do Trono",
+        "url": "https://open.spotify.com/album/0NQ0gD4kZUZ7NR76X1QCqk"
       },
       "artists": [
         {
-          "name": "Rayne Almeida",
-          "url": "https://open.spotify.com/artist/2WtIzFKxQniqeliHt4vIVj"
+          "name": "Crian\u00e7as Diante do Trono",
+          "url": "https://open.spotify.com/artist/1DrV98ubDph1jAWq7ikcF5"
         }
       ],
-      "duration_ms": 182910,
-      "name": "Eu Canto pra Jesus",
-      "url": "https://open.spotify.com/track/2xsZveD2EsMMjp7JbIVu3h"
-    },
-    {
-      "added_at": "2022-09-02 03:00:00",
-      "album": {
-        "name": "Tesouro",
-        "url": "https://open.spotify.com/album/61v4qQZaJwjprUBIJx9c1v"
-      },
-      "artists": [
-        {
-          "name": "Vaneyse",
-          "url": "https://open.spotify.com/artist/3S1zrPd36u0KRCPF6HUAOl"
-        }
-      ],
-      "duration_ms": 205403,
-      "name": "Tesouro",
-      "url": "https://open.spotify.com/track/0d7iluBpPMuBSFxrhqfDyF"
-    },
-    {
-      "added_at": "2022-09-02 03:00:00",
-      "album": {
-        "name": "Aline Barros e Cia 2",
-        "url": "https://open.spotify.com/album/58dham8BeNuWKBJJTbzenr"
-      },
-      "artists": [
-        {
-          "name": "Aline Barros",
-          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
-        }
-      ],
-      "duration_ms": 189939,
-      "name": "Pedro, Tiago e Jo\u00e3o no Barquinho",
-      "url": "https://open.spotify.com/track/1180Pe0jjGNslftSXTrEKi"
+      "duration_ms": 310106,
+      "name": "O Amor do Nosso Deus",
+      "url": "https://open.spotify.com/track/2gvn5QvlQdnE2T06ErTaer"
     },
     {
       "added_at": "2022-09-02 03:00:00",
@@ -319,18 +271,66 @@
     {
       "added_at": "2022-09-02 03:00:00",
       "album": {
-        "name": "Reluz",
-        "url": "https://open.spotify.com/album/4Oolk7dVn9F9EfQoomK1w8"
+        "name": "Mara Lima e Seus Amiguinhos, Vol. 6",
+        "url": "https://open.spotify.com/album/1cAgUMSQibfGNArPNRIJKn"
       },
       "artists": [
         {
-          "name": "Mara Maravilha",
-          "url": "https://open.spotify.com/artist/2vEZbLLAKRqzoiTR9aupGu"
+          "name": "Mara Lima",
+          "url": "https://open.spotify.com/artist/3r3fXHLRkaNVAuP7ckBJOV"
         }
       ],
-      "duration_ms": 226486,
-      "name": "Rei Davi",
-      "url": "https://open.spotify.com/track/4v1Yf5GPWOAgOk67CSU0dP"
+      "duration_ms": 203885,
+      "name": "A Alegria Est\u00e1 no Cora\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/61PU43JNFgjn1zuAaAz96d"
+    },
+    {
+      "added_at": "2022-09-02 03:00:00",
+      "album": {
+        "name": "Aline Barros e Cia 2",
+        "url": "https://open.spotify.com/album/58dham8BeNuWKBJJTbzenr"
+      },
+      "artists": [
+        {
+          "name": "Aline Barros",
+          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
+        }
+      ],
+      "duration_ms": 189939,
+      "name": "Pedro, Tiago e Jo\u00e3o no Barquinho",
+      "url": "https://open.spotify.com/track/1180Pe0jjGNslftSXTrEKi"
+    },
+    {
+      "added_at": "2022-09-02 03:00:00",
+      "album": {
+        "name": "Tesouro",
+        "url": "https://open.spotify.com/album/61v4qQZaJwjprUBIJx9c1v"
+      },
+      "artists": [
+        {
+          "name": "Vaneyse",
+          "url": "https://open.spotify.com/artist/3S1zrPd36u0KRCPF6HUAOl"
+        }
+      ],
+      "duration_ms": 205403,
+      "name": "Tesouro",
+      "url": "https://open.spotify.com/track/0d7iluBpPMuBSFxrhqfDyF"
+    },
+    {
+      "added_at": "2022-09-02 03:00:00",
+      "album": {
+        "name": "Turminha da Cristina Mel - Fazendo a Diferen\u00e7a",
+        "url": "https://open.spotify.com/album/6T5y5A3YoPNXQsUu7OlAaX"
+      },
+      "artists": [
+        {
+          "name": "Cristina Mel",
+          "url": "https://open.spotify.com/artist/0vKtp60PHfEnBSLJU9uHgP"
+        }
+      ],
+      "duration_ms": 188653,
+      "name": "Brilhando",
+      "url": "https://open.spotify.com/track/6aMHKxUyAUsbVNJa8TbyuX"
     },
     {
       "added_at": "2022-09-02 03:00:00",
@@ -355,22 +355,6 @@
     {
       "added_at": "2022-09-02 03:00:00",
       "album": {
-        "name": "Turminha da Cristina Mel - Fazendo a Diferen\u00e7a",
-        "url": "https://open.spotify.com/album/6T5y5A3YoPNXQsUu7OlAaX"
-      },
-      "artists": [
-        {
-          "name": "Cristina Mel",
-          "url": "https://open.spotify.com/artist/0vKtp60PHfEnBSLJU9uHgP"
-        }
-      ],
-      "duration_ms": 188653,
-      "name": "Brilhando",
-      "url": "https://open.spotify.com/track/6aMHKxUyAUsbVNJa8TbyuX"
-    },
-    {
-      "added_at": "2022-09-02 03:00:00",
-      "album": {
         "name": "Bruna Kids",
         "url": "https://open.spotify.com/album/0W7kUdHwTI6L17XHH73HY2"
       },
@@ -387,34 +371,18 @@
     {
       "added_at": "2022-09-02 03:00:00",
       "album": {
-        "name": "Mara Lima e Seus Amiguinhos, Vol. 5",
-        "url": "https://open.spotify.com/album/5hCu7mordTwYqr2n2rW0LR"
+        "name": "Amigo de Deus",
+        "url": "https://open.spotify.com/album/6Ks1nDyBm9wyusj94wCSox"
       },
       "artists": [
         {
-          "name": "Mara Lima",
-          "url": "https://open.spotify.com/artist/3r3fXHLRkaNVAuP7ckBJOV"
+          "name": "Crian\u00e7as Diante do Trono",
+          "url": "https://open.spotify.com/artist/1DrV98ubDph1jAWq7ikcF5"
         }
       ],
-      "duration_ms": 197893,
-      "name": "Erguei as M\u00e3os",
-      "url": "https://open.spotify.com/track/7GTVVZiren9LxoyNW4pATK"
-    },
-    {
-      "added_at": "2022-09-02 03:00:00",
-      "album": {
-        "name": "Aline Barros e Cia 3",
-        "url": "https://open.spotify.com/album/6dtJQolCzJVqKjpBE72gpg"
-      },
-      "artists": [
-        {
-          "name": "Aline Barros",
-          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
-        }
-      ],
-      "duration_ms": 201038,
-      "name": "Arca de No\u00e9",
-      "url": "https://open.spotify.com/track/2IlFyiCXLg5EK5JChEgWGA"
+      "duration_ms": 329840,
+      "name": "A B\u00edblia",
+      "url": "https://open.spotify.com/track/2MlMPbEM8qbDxsEBV6vkYw"
     },
     {
       "added_at": "2022-09-02 03:00:00",
@@ -435,6 +403,54 @@
     {
       "added_at": "2022-09-02 03:00:00",
       "album": {
+        "name": "Reluz",
+        "url": "https://open.spotify.com/album/4Oolk7dVn9F9EfQoomK1w8"
+      },
+      "artists": [
+        {
+          "name": "Mara Maravilha",
+          "url": "https://open.spotify.com/artist/2vEZbLLAKRqzoiTR9aupGu"
+        }
+      ],
+      "duration_ms": 226486,
+      "name": "Rei Davi",
+      "url": "https://open.spotify.com/track/4v1Yf5GPWOAgOk67CSU0dP"
+    },
+    {
+      "added_at": "2022-09-02 03:00:00",
+      "album": {
+        "name": "Aline Barros e Cia 3",
+        "url": "https://open.spotify.com/album/6dtJQolCzJVqKjpBE72gpg"
+      },
+      "artists": [
+        {
+          "name": "Aline Barros",
+          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
+        }
+      ],
+      "duration_ms": 201038,
+      "name": "Arca de No\u00e9",
+      "url": "https://open.spotify.com/track/2IlFyiCXLg5EK5JChEgWGA"
+    },
+    {
+      "added_at": "2022-09-02 03:00:00",
+      "album": {
+        "name": "Mara Lima e Seus Amiguinhos, Vol. 5",
+        "url": "https://open.spotify.com/album/5hCu7mordTwYqr2n2rW0LR"
+      },
+      "artists": [
+        {
+          "name": "Mara Lima",
+          "url": "https://open.spotify.com/artist/3r3fXHLRkaNVAuP7ckBJOV"
+        }
+      ],
+      "duration_ms": 197893,
+      "name": "Erguei as M\u00e3os",
+      "url": "https://open.spotify.com/track/7GTVVZiren9LxoyNW4pATK"
+    },
+    {
+      "added_at": "2022-09-02 03:00:00",
+      "album": {
         "name": "Brincando de Escolinha",
         "url": "https://open.spotify.com/album/28QrtBn35MNZOGsNMjUrja"
       },
@@ -447,22 +463,6 @@
       "duration_ms": 186224,
       "name": "Hit da Formiguinha",
       "url": "https://open.spotify.com/track/2jxOwM1YWNLdVtYKhHjY4r"
-    },
-    {
-      "added_at": "2022-09-02 03:00:00",
-      "album": {
-        "name": "Amigo de Deus",
-        "url": "https://open.spotify.com/album/6Ks1nDyBm9wyusj94wCSox"
-      },
-      "artists": [
-        {
-          "name": "Crian\u00e7as Diante do Trono",
-          "url": "https://open.spotify.com/artist/1DrV98ubDph1jAWq7ikcF5"
-        }
-      ],
-      "duration_ms": 329840,
-      "name": "A B\u00edblia",
-      "url": "https://open.spotify.com/track/2MlMPbEM8qbDxsEBV6vkYw"
     },
     {
       "added_at": "2022-09-02 03:00:00",
@@ -495,6 +495,58 @@
       "duration_ms": 196270,
       "name": "Fam\u00edlia Perfeita",
       "url": "https://open.spotify.com/track/25UWTOQyH5eOcvMyWb0VKR"
+    },
+    {
+      "added_at": "2022-09-02 03:00:00",
+      "album": {
+        "name": "Quem Ama os Animais: Yasminzinha",
+        "url": "https://open.spotify.com/album/7zDczluqFBHATzo2eXUWZC"
+      },
+      "artists": [
+        {
+          "name": "Yasmin Verissimo",
+          "url": "https://open.spotify.com/artist/1O6na9PsfEQLFmZHg8MEyE"
+        }
+      ],
+      "duration_ms": 138240,
+      "name": "Quem Ama os Animais: Yasminzinha",
+      "url": "https://open.spotify.com/track/3QeEhShhm4xarUOUmHS4tn"
+    },
+    {
+      "added_at": "2022-09-02 03:00:00",
+      "album": {
+        "name": "Bruna Kids",
+        "url": "https://open.spotify.com/album/0W7kUdHwTI6L17XHH73HY2"
+      },
+      "artists": [
+        {
+          "name": "Bruna Karla",
+          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
+        }
+      ],
+      "duration_ms": 186967,
+      "name": "Sapo Aben\u00e7oado",
+      "url": "https://open.spotify.com/track/6udRCH0KMT8k4GrXAsoI6e"
+    },
+    {
+      "added_at": "2022-09-02 03:00:00",
+      "album": {
+        "name": "Crian\u00e7a Nota 10",
+        "url": "https://open.spotify.com/album/2nFtRppoPctEbxAUTpynL3"
+      },
+      "artists": [
+        {
+          "name": "Elaine Martins",
+          "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
+        },
+        {
+          "name": "Coral de Crian\u00e7as",
+          "url": "https://open.spotify.com/artist/2qUfzKBWjm4UpH1MjdKnSi"
+        }
+      ],
+      "duration_ms": 164165,
+      "name": "Crian\u00e7a Nota 10",
+      "url": "https://open.spotify.com/track/2kPwaMnS3qowXfg8aBh7nn"
     },
     {
       "added_at": "2022-09-02 03:00:00",
@@ -551,58 +603,6 @@
       "duration_ms": 252493,
       "name": "Medley das Crian\u00e7as",
       "url": "https://open.spotify.com/track/04lDkeEi5mxKfXkBXcmrAQ"
-    },
-    {
-      "added_at": "2022-09-02 03:00:00",
-      "album": {
-        "name": "Bruna Kids",
-        "url": "https://open.spotify.com/album/0W7kUdHwTI6L17XHH73HY2"
-      },
-      "artists": [
-        {
-          "name": "Bruna Karla",
-          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
-        }
-      ],
-      "duration_ms": 186967,
-      "name": "Sapo Aben\u00e7oado",
-      "url": "https://open.spotify.com/track/6udRCH0KMT8k4GrXAsoI6e"
-    },
-    {
-      "added_at": "2022-09-02 03:00:00",
-      "album": {
-        "name": "Quem Ama os Animais: Yasminzinha",
-        "url": "https://open.spotify.com/album/7zDczluqFBHATzo2eXUWZC"
-      },
-      "artists": [
-        {
-          "name": "Yasmin Verissimo",
-          "url": "https://open.spotify.com/artist/1O6na9PsfEQLFmZHg8MEyE"
-        }
-      ],
-      "duration_ms": 138240,
-      "name": "Quem Ama os Animais: Yasminzinha",
-      "url": "https://open.spotify.com/track/3QeEhShhm4xarUOUmHS4tn"
-    },
-    {
-      "added_at": "2022-09-02 03:00:00",
-      "album": {
-        "name": "Crian\u00e7a Nota 10",
-        "url": "https://open.spotify.com/album/2nFtRppoPctEbxAUTpynL3"
-      },
-      "artists": [
-        {
-          "name": "Elaine Martins",
-          "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
-        },
-        {
-          "name": "Coral de Crian\u00e7as",
-          "url": "https://open.spotify.com/artist/2qUfzKBWjm4UpH1MjdKnSi"
-        }
-      ],
-      "duration_ms": 164165,
-      "name": "Crian\u00e7a Nota 10",
-      "url": "https://open.spotify.com/track/2kPwaMnS3qowXfg8aBh7nn"
     },
     {
       "added_at": "2022-09-02 03:00:00",
@@ -755,18 +755,18 @@
     {
       "added_at": "2022-09-02 03:00:00",
       "album": {
-        "name": "Comigo Sonhou",
-        "url": "https://open.spotify.com/album/3tbgkAsVPkMHK4TBOwIwpV"
+        "name": "Com Jesus",
+        "url": "https://open.spotify.com/album/0GPGJJUSk7pCTOrMkKgy60"
       },
       "artists": [
         {
-          "name": "Louvor Videira Kids",
-          "url": "https://open.spotify.com/artist/5xQlLW7wWdVaYLUzbphgGu"
+          "name": "Bunek\u00e3o de Jesus",
+          "url": "https://open.spotify.com/artist/3EzcPGgFNYyoFpcLjec4c2"
         }
       ],
-      "duration_ms": 187586,
-      "name": "Obra do Criador - Ao Vivo",
-      "url": "https://open.spotify.com/track/6H4h2cnyfeTnqAHfdqi5dw"
+      "duration_ms": 178301,
+      "name": "Com Jesus",
+      "url": "https://open.spotify.com/track/1teeml3NtPVTvfdrPiuxID"
     },
     {
       "added_at": "2022-09-02 03:00:00",
@@ -787,6 +787,22 @@
     {
       "added_at": "2022-09-02 03:00:00",
       "album": {
+        "name": "Comigo Sonhou",
+        "url": "https://open.spotify.com/album/3tbgkAsVPkMHK4TBOwIwpV"
+      },
+      "artists": [
+        {
+          "name": "Louvor Videira Kids",
+          "url": "https://open.spotify.com/artist/5xQlLW7wWdVaYLUzbphgGu"
+        }
+      ],
+      "duration_ms": 187586,
+      "name": "Obra do Criador - Ao Vivo",
+      "url": "https://open.spotify.com/track/6H4h2cnyfeTnqAHfdqi5dw"
+    },
+    {
+      "added_at": "2022-09-02 03:00:00",
+      "album": {
         "name": "Deus Grand\u00e3o",
         "url": "https://open.spotify.com/album/1zkpj6qPydhF9RAaDnrWRn"
       },
@@ -799,22 +815,6 @@
       "duration_ms": 251147,
       "name": "Deus Grand\u00e3o",
       "url": "https://open.spotify.com/track/4P0TyPgmAOq2gVQJf7LMV5"
-    },
-    {
-      "added_at": "2022-09-02 03:00:00",
-      "album": {
-        "name": "Com Jesus",
-        "url": "https://open.spotify.com/album/0GPGJJUSk7pCTOrMkKgy60"
-      },
-      "artists": [
-        {
-          "name": "Bunek\u00e3o de Jesus",
-          "url": "https://open.spotify.com/artist/3EzcPGgFNYyoFpcLjec4c2"
-        }
-      ],
-      "duration_ms": 178301,
-      "name": "Com Jesus",
-      "url": "https://open.spotify.com/track/1teeml3NtPVTvfdrPiuxID"
     },
     {
       "added_at": "2022-09-02 03:00:00",

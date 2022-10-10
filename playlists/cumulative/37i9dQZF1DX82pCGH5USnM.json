@@ -668,6 +668,24 @@
     },
     {
       "album": {
+        "name": "Avenue",
+        "url": "https://open.spotify.com/album/0henwo6nuPSccQ6GE4pByT"
+      },
+      "artists": [
+        {
+          "name": "Ms. Velvet",
+          "url": "https://open.spotify.com/artist/0y0wpWjKYzAqmY0nQkaZcH"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195500,
+      "name": "Avenue",
+      "url": "https://open.spotify.com/track/4lAI0wYKhHfAx8PWJgCKqH"
+    },
+    {
+      "album": {
         "name": "Nothing Stays in One Place for Long",
         "url": "https://open.spotify.com/album/6LG30qpC6gwWTx4JsGWGf9"
       },
@@ -1925,7 +1943,7 @@
       ],
       "date_added": "2021-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-07",
       "duration_ms": 214030,
       "name": "Colors of You",
       "url": "https://open.spotify.com/track/0fVisMBg8MPemjOxLj3Jeu"
@@ -2649,6 +2667,24 @@
       "duration_ms": 390117,
       "name": "Easy Living",
       "url": "https://open.spotify.com/track/71SNVJxqOEZdG9cSvHWk2D"
+    },
+    {
+      "album": {
+        "name": "eazy eve",
+        "url": "https://open.spotify.com/album/414wliVLhq5yZEXrtL02n6"
+      },
+      "artists": [
+        {
+          "name": "frukks",
+          "url": "https://open.spotify.com/artist/1y4w1ZX8F5vH0aT3rMuz1M"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141595,
+      "name": "eazy eve",
+      "url": "https://open.spotify.com/track/29cC6bQqSFxERHGHm9XNWS"
     },
     {
       "album": {
@@ -3695,6 +3731,24 @@
       "duration_ms": 145724,
       "name": "Good Rising",
       "url": "https://open.spotify.com/track/74f0VaipJke6lIWI5BEfTW"
+    },
+    {
+      "album": {
+        "name": "Grain Memory",
+        "url": "https://open.spotify.com/album/15UNPwV2xuAzyl0vRr8tfo"
+      },
+      "artists": [
+        {
+          "name": "Spectral Sketches",
+          "url": "https://open.spotify.com/artist/4ZmHtXGCAmROqQRycKMjLf"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184504,
+      "name": "Grain Memory",
+      "url": "https://open.spotify.com/track/4tQNIGCMbmZsVC8D5Vrspn"
     },
     {
       "album": {
@@ -4898,6 +4952,24 @@
     },
     {
       "album": {
+        "name": "Lagoon",
+        "url": "https://open.spotify.com/album/4BAdgIlpj9wGnR5ovLaqbf"
+      },
+      "artists": [
+        {
+          "name": "Cluster",
+          "url": "https://open.spotify.com/artist/6muNOCYNkZNb4QUPTmFjPN"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133461,
+      "name": "Lagoon",
+      "url": "https://open.spotify.com/track/2vKK6rJqYfeFOMMjQlvO7M"
+    },
+    {
+      "album": {
         "name": "Last Dream",
         "url": "https://open.spotify.com/album/19hum2Jtf27MsPyb9nEHK9"
       },
@@ -4913,6 +4985,42 @@
       "duration_ms": 214067,
       "name": "Last Dream",
       "url": "https://open.spotify.com/track/1p3kZCSx1LxmemXq7efQ5U"
+    },
+    {
+      "album": {
+        "name": "Last Time",
+        "url": "https://open.spotify.com/album/73YAZ9qBPpSx3bn2oK0FOl"
+      },
+      "artists": [
+        {
+          "name": "Prigida",
+          "url": "https://open.spotify.com/artist/4Ab2SjCDNyDAgkLfzzucWY"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133565,
+      "name": "Last Time",
+      "url": "https://open.spotify.com/track/2h4wIFtj26OnX7aW1zmest"
+    },
+    {
+      "album": {
+        "name": "Late Night Hours",
+        "url": "https://open.spotify.com/album/6sSBBCYBJJr6yxSrC3AQtJ"
+      },
+      "artists": [
+        {
+          "name": "CL1P_",
+          "url": "https://open.spotify.com/artist/5kC1MlND8XmFASxv1WFTYD"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176500,
+      "name": "Late Night Hours",
+      "url": "https://open.spotify.com/track/2SIN8OixGaJKWgkHnJHtTV"
     },
     {
       "album": {
@@ -5021,6 +5129,24 @@
       "duration_ms": 244285,
       "name": "Lemonade",
       "url": "https://open.spotify.com/track/78aKh27mFx6ZLhP65hPryp"
+    },
+    {
+      "album": {
+        "name": "Leopard",
+        "url": "https://open.spotify.com/album/1CgRMTVsUt7wY2L963K4UF"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e9 Aguado",
+          "url": "https://open.spotify.com/artist/6USxBSmx4wkhLW61dT1DgC"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213746,
+      "name": "Leopard",
+      "url": "https://open.spotify.com/track/6iGlQo9EoxSWmtg9g0d4oP"
     },
     {
       "album": {
@@ -5201,6 +5327,24 @@
       "duration_ms": 184940,
       "name": "Lonely Hour",
       "url": "https://open.spotify.com/track/560p69yXiFLwFW8uXQN6uI"
+    },
+    {
+      "album": {
+        "name": "Longe Gone",
+        "url": "https://open.spotify.com/album/4UD5Y7m1vQZ4KRpDJAptt0"
+      },
+      "artists": [
+        {
+          "name": "Maea Sid",
+          "url": "https://open.spotify.com/artist/61tIMgKcUFt94NcDrTbgwS"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243600,
+      "name": "Longe Gone",
+      "url": "https://open.spotify.com/track/0OQjCfhFysOkJsikZ9xt5R"
     },
     {
       "album": {
@@ -6430,6 +6574,24 @@
     },
     {
       "album": {
+        "name": "One Day Back",
+        "url": "https://open.spotify.com/album/0tqrWV0uxSRhDVRS1pf8Tj"
+      },
+      "artists": [
+        {
+          "name": "Tobias Bergson",
+          "url": "https://open.spotify.com/artist/0OaBO8SytZzvzAO3NOWiv3"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210025,
+      "name": "One Day Back",
+      "url": "https://open.spotify.com/track/3DrTuirQtYns2DOev8VVag"
+    },
+    {
+      "album": {
         "name": "One Try",
         "url": "https://open.spotify.com/album/6lsgyMkymdgSTK43XGqvqI"
       },
@@ -7482,6 +7644,24 @@
     },
     {
       "album": {
+        "name": "Rollin'",
+        "url": "https://open.spotify.com/album/7InuZ6AYnxpz7eYbqDKGfA"
+      },
+      "artists": [
+        {
+          "name": "Klejv",
+          "url": "https://open.spotify.com/artist/491ZjutBNQPFA6hn5lDQW4"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138813,
+      "name": "Rollin'",
+      "url": "https://open.spotify.com/track/1uvQ1k2fAgAUIf7pd0j2Am"
+    },
+    {
+      "album": {
         "name": "Rooftop",
         "url": "https://open.spotify.com/album/6CIk1vRJBoBq0bzDnRnY8o"
       },
@@ -7789,6 +7969,24 @@
       "duration_ms": 218947,
       "name": "Screensaver Fractals",
       "url": "https://open.spotify.com/track/6mMHIARU9ghCV4pnLk7TGz"
+    },
+    {
+      "album": {
+        "name": "Sea Me",
+        "url": "https://open.spotify.com/album/2wxPyv4sSWaC0DxI6XILkq"
+      },
+      "artists": [
+        {
+          "name": "MOTYL",
+          "url": "https://open.spotify.com/artist/2nvlSEgmC8Cnixxkykhrbo"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156106,
+      "name": "Sea Me",
+      "url": "https://open.spotify.com/track/3x1zrRDZGEMdlR1InGAOl9"
     },
     {
       "album": {
@@ -10053,6 +10251,24 @@
       "duration_ms": 275593,
       "name": "Varg",
       "url": "https://open.spotify.com/track/29ImxexC5xgRWYz8iUPL4H"
+    },
+    {
+      "album": {
+        "name": "Varuna / UP2U",
+        "url": "https://open.spotify.com/album/6Sq4QBMeCu2DrYOW6gRFqO"
+      },
+      "artists": [
+        {
+          "name": "Twelwe",
+          "url": "https://open.spotify.com/artist/0cXv4l0iCzhQrRljsAQyQW"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 314250,
+      "name": "Varuna",
+      "url": "https://open.spotify.com/track/3jxl6mTtkQwGCgzKleyYC5"
     },
     {
       "album": {

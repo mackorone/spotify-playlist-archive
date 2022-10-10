@@ -1,12 +1,12 @@
 {
   "description": "Best of Bollywood - Brahmastra - Kesariya, Raataan Lambiyan, Ranjha , Param Sundari, Shayad and more ft. A R Rahman, Pritam, Arijit Singh, Neha Kakkar, Badshah, B Praak and the best of India. Listen to Bollywood favourites only on this playlist! ",
-  "num_followers": 217107,
+  "num_followers": 217317,
   "original_name": "Bollywood Top 50",
   "owner": {
     "name": "Filtr India",
     "url": "https://open.spotify.com/user/filtrindia"
   },
-  "snapshot_id": "NDUyMCwyZDE1MmE5MWZlMzlmM2EyOWIxYjQwMTA2YmI1YmY1NGZiN2FlYzg0",
+  "snapshot_id": "NDUzNCwxNWVlZDA3NTczMmE4ZGIyZDhjMzY1MGY5ZmM2MjA3YjMzNjQ4YjZh",
   "tracks": [
     {
       "added_at": "2022-07-18 10:03:31",
@@ -61,28 +61,36 @@
       "url": "https://open.spotify.com/track/0IGXY47K2ha3AHfX57wY1O"
     },
     {
-      "added_at": "2022-09-01 10:27:11",
+      "added_at": "2022-10-06 09:06:23",
       "album": {
-        "name": "Liger (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/2BTKYNhK0CDKREHPiDPUv5"
+        "name": "Manike (From \"Thank God\")",
+        "url": "https://open.spotify.com/album/30CfQvXOWrJx6kCglMcbo3"
       },
       "artists": [
+        {
+          "name": "Yohani",
+          "url": "https://open.spotify.com/artist/6hyCmqlpgEhkMKKr65sFgI"
+        },
+        {
+          "name": "Jubin Nautiyal",
+          "url": "https://open.spotify.com/artist/1tqysapcCh1lWEAc9dIFpa"
+        },
         {
           "name": "Tanishk Bagchi",
           "url": "https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt"
         },
         {
-          "name": "Kunaal Vermaa",
-          "url": "https://open.spotify.com/artist/52XgeWw24o4klNdfwvB0Vx"
+          "name": "Rashmi Virag",
+          "url": "https://open.spotify.com/artist/5r2baeTwcCJnuIsDIlxUJo"
         },
         {
-          "name": "Lakshay Kapoor",
-          "url": "https://open.spotify.com/artist/5M4WmRBIQBWlBflNZj7BTG"
+          "name": "Surya Ragunaathan",
+          "url": "https://open.spotify.com/artist/0GiAC4VvvYCypjRH6IiasK"
         }
       ],
-      "duration_ms": 246805,
-      "name": "Mera Banega Tu",
-      "url": "https://open.spotify.com/track/3HjMAWTLyUM4irdbsudw26"
+      "duration_ms": 197473,
+      "name": "Manike (From \"Thank God\")",
+      "url": "https://open.spotify.com/track/0zlGnseLGzRIBA0TJcb3Bo"
     },
     {
       "added_at": "2022-08-19 06:37:19",
@@ -99,30 +107,6 @@
       "duration_ms": 177391,
       "name": "Summer High",
       "url": "https://open.spotify.com/track/1aL9518P5G72N92b48tuKw"
-    },
-    {
-      "added_at": "2022-09-06 07:38:30",
-      "album": {
-        "name": "Dance Ka Bhoot (From \"Brahmastra\")",
-        "url": "https://open.spotify.com/album/4vOdoBnuF9sXjpRsofpJAv"
-      },
-      "artists": [
-        {
-          "name": "Pritam",
-          "url": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
-        },
-        {
-          "name": "Arijit Singh",
-          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
-        },
-        {
-          "name": "Amitabh Bhattacharya",
-          "url": "https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx"
-        }
-      ],
-      "duration_ms": 245735,
-      "name": "Dance Ka Bhoot (From \"Brahmastra\")",
-      "url": "https://open.spotify.com/track/5OcGETO7eEKjKme4gm0r7y"
     },
     {
       "added_at": "2022-09-26 10:00:52",
@@ -149,6 +133,66 @@
       "url": "https://open.spotify.com/track/4Hv055xg1SZZgwwGBx8Cr5"
     },
     {
+      "added_at": "2022-09-06 07:38:30",
+      "album": {
+        "name": "Dance Ka Bhoot (From \"Brahmastra\")",
+        "url": "https://open.spotify.com/album/4vOdoBnuF9sXjpRsofpJAv"
+      },
+      "artists": [
+        {
+          "name": "Pritam",
+          "url": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
+        },
+        {
+          "name": "Arijit Singh",
+          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+        },
+        {
+          "name": "Amitabh Bhattacharya",
+          "url": "https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx"
+        }
+      ],
+      "duration_ms": 245735,
+      "name": "Dance Ka Bhoot (From \"Brahmastra\")",
+      "url": "https://open.spotify.com/track/5OcGETO7eEKjKme4gm0r7y"
+    },
+    {
+      "added_at": "2022-10-07 06:40:38",
+      "album": {
+        "name": "Desi Bop",
+        "url": "https://open.spotify.com/album/3NHo9d6ouStZfWRDQnJUe6"
+      },
+      "artists": [
+        {
+          "name": "AJWAVY",
+          "url": "https://open.spotify.com/artist/6UR3ut2Rwbfc2caZxtVa0T"
+        },
+        {
+          "name": "Badshah",
+          "url": "https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1"
+        },
+        {
+          "name": "Anirudh Ravichander",
+          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
+        },
+        {
+          "name": "Diljit Dosanjh",
+          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
+        },
+        {
+          "name": "Aastha Gill",
+          "url": "https://open.spotify.com/artist/1BYjhAClGpBTLZfics0VRZ"
+        },
+        {
+          "name": "Dhanush",
+          "url": "https://open.spotify.com/artist/2F3KtUVtrt2GLjcl6pB4cz"
+        }
+      ],
+      "duration_ms": 151200,
+      "name": "Desi Bop",
+      "url": "https://open.spotify.com/track/3CoxH43C1CQr7yXItaoYlE"
+    },
+    {
       "added_at": "2022-03-08 11:29:38",
       "album": {
         "name": "Chaand Baaliyan",
@@ -163,6 +207,30 @@
       "duration_ms": 103264,
       "name": "Chaand Baaliyan",
       "url": "https://open.spotify.com/track/0snQrp1VaY5Pj1YIHRJpRJ"
+    },
+    {
+      "added_at": "2022-09-01 10:27:11",
+      "album": {
+        "name": "Liger (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2BTKYNhK0CDKREHPiDPUv5"
+      },
+      "artists": [
+        {
+          "name": "Tanishk Bagchi",
+          "url": "https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt"
+        },
+        {
+          "name": "Kunaal Vermaa",
+          "url": "https://open.spotify.com/artist/52XgeWw24o4klNdfwvB0Vx"
+        },
+        {
+          "name": "Lakshay Kapoor",
+          "url": "https://open.spotify.com/artist/5M4WmRBIQBWlBflNZj7BTG"
+        }
+      ],
+      "duration_ms": 246805,
+      "name": "Mera Banega Tu",
+      "url": "https://open.spotify.com/track/3HjMAWTLyUM4irdbsudw26"
     },
     {
       "added_at": "2022-08-19 05:58:25",

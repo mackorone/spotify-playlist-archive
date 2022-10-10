@@ -26,6 +26,24 @@
     },
     {
       "album": {
+        "name": "Plux Quba",
+        "url": "https://open.spotify.com/album/5RXy2dzARyTcyXn4Vwomzr"
+      },
+      "artists": [
+        {
+          "name": "Nuno Canavarro",
+          "url": "https://open.spotify.com/artist/1Af916mBj2FbJyBEB3U13b"
+        }
+      ],
+      "date_added": "2022-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165280,
+      "name": "[Untitled]",
+      "url": "https://open.spotify.com/track/2qQjc7iFLNkyKm9GeetnDJ"
+    },
+    {
+      "album": {
         "name": "Mist",
         "url": "https://open.spotify.com/album/73kfSMiQB5qRFkG9Rdvggl"
       },

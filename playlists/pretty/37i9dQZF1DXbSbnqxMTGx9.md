@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSbnqxMTGx9.md) - [plain]
 
 > The ultimate reggae playlist\. Cover: Bunny Wailer
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,693,482 likes - 250 songs - 13 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,696,347 likes - 250 songs - 13 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSbnqxMTGx9.md) - [plain]
 | 43 | [The Three Bells \(aka Jimmy Brown\)](https://open.spotify.com/track/0FQdjip13LhPA4CFK9cOwR) | [Ken Parker](https://open.spotify.com/artist/3VaRnHxXoKH77giznfGDgh) | [Treasure Isle Presents: Original Reggae](https://open.spotify.com/album/224KlK9NLFFpJ8bxpQwcOP) | 2:29 |
 | 44 | [I Love You Madly](https://open.spotify.com/track/4oQqhPHN4Q8QeKZYrjRNKr) | [Busty Brown](https://open.spotify.com/artist/0ox6JRx6pHMdRTZnMblCIg) | [I Love You Madly](https://open.spotify.com/album/52HBRmrgNY4QjWIK2aGNVC) | 3:23 |
 | 45 | [Pity The Children](https://open.spotify.com/track/4t5V4BI03aLxsT7mp7vBMu) | [Cornell Campbell](https://open.spotify.com/artist/1FOvLj8sNCGHjgueUOVvJi), [Eternals](https://open.spotify.com/artist/5yctaFufYJut6DqHvmpKX5) | [The Story Of Trojan Records](https://open.spotify.com/album/1SudwwvggZ8pGJhtF0MlsO) | 2:38 |
-| 46 | [Lively Up Yourself](https://open.spotify.com/track/7lNytAEsXlIsY8K7S0IfDa) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Bob Marley: One Love](https://open.spotify.com/album/5OP1EOceIY6UXIR4B0xIzq) | 2:52 |
+| 46 | [Lively Up Yourself \- Eric ET Thorngren Remix](https://open.spotify.com/track/6FjQMNFRwyedMWtGjaWmvl) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Essential Marley](https://open.spotify.com/album/2uthDmiULpCwlJBvo4qCT4) | 2:55 |
 | 47 | [This Is Reggae Music \- Single Version](https://open.spotify.com/track/55ycfO5gPho2ds0IudKQGK) | [Zap Pow](https://open.spotify.com/artist/4HLDioLcWkWNKy9gWJMZAU) | [This Is Reggae Music / Break Down The Barriers](https://open.spotify.com/album/37jPyNvX9rYXJEM7D11zSJ) | 3:10 |
 | 48 | [Book Of Rules](https://open.spotify.com/track/4PKri4OX2AB2RXj95Y9ZgB) | [The Heptones](https://open.spotify.com/artist/6b5Hxvp7SWlJY5uUrRlzx4) | [Night Food](https://open.spotify.com/album/4ZOQeByfXd1iAgmMk8xpYN) | 3:31 |
 | 49 | [Life](https://open.spotify.com/track/2OW7O0i5KH33BUiDod0gve) | [Bob Andy](https://open.spotify.com/artist/6GFAZnwXhNER0WS76WMpS4) | [Pied Piper \- The Best of Bob & Marcia](https://open.spotify.com/album/0G2bhhYFafOJExUbKOVcsA) | 3:42 |
@@ -259,4 +259,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSbnqxMTGx9.md) - [plain]
 | 249 | [Monkey Man](https://open.spotify.com/track/4g4BE9VeeQwPOvQ5sJTpj2) | [The Maytals](https://open.spotify.com/artist/6eHPmq8aR8X4TZIMvrD9Bo) | [Sweet and Dandy](https://open.spotify.com/album/6sn6gS4YnlAbxzetlJsUxQ) | 3:45 |
 | 250 | [The Tide Is High \- Stereo Version](https://open.spotify.com/track/7056gVvC7P3PpltHgippd2) | [The Paragons](https://open.spotify.com/artist/5sCZ2Gc3nZaE3Cav8WG7WG) | [On the Beach: The Anthology](https://open.spotify.com/album/5OegFjiVvk3WecDO5Bofbw) | 2:41 |
 
-Snapshot ID: `MTY2Mzg1NDU3MCwwMDAwMDAwMGE0ODJiNjkyNDBmZGNmODQwMjU3OTEzYmU5NWUyYTQ3`
+Snapshot ID: `MTY2Mzg1NDU3MCwwMDAwMDAwMGFjZjVlYjQ3MmEwZjY2OGQyN2ZlNjVjYWE5ZTAwM2Qz`

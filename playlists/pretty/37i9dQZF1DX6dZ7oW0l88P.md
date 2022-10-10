@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dZ7oW0l88P.md) - [plain]
 
 > Beautiful and serene harp music for relaxation, meditation and unwinding from the day.
 
-[Spotify](https://open.spotify.com/user/spotify) - 97,541 likes - 85 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 98,462 likes - 85 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dZ7oW0l88P.md) - [plain]
 | 29 | [Blue Fern](https://open.spotify.com/track/7kE0id7v2vqSnztyBn2gwN) | [Jessica Gallo](https://open.spotify.com/artist/0AUXT7h44snL3V6J0jBame), [Kenji Azuma](https://open.spotify.com/artist/0mXX3f6gHD2LPwHv6n5E2D) | [Nature Walks, Vol\. 1](https://open.spotify.com/album/4LnGmQk6wKOWBEYfJWkxn6) | 3:25 |
 | 30 | [Beside the Still Waters](https://open.spotify.com/track/29drEBVsnX9aLZhSBvZSbn) | [Maria Duhova Trevor](https://open.spotify.com/artist/1moHmQ1eb3nFxuOXprU4Us) | [Healing Harp](https://open.spotify.com/album/6z8qAgApt7tid0srTfKJvF) | 2:06 |
 | 31 | [Maryanne's Song](https://open.spotify.com/track/62EvyXd17LzHEBXPZurMHj) | [Lola Fiennes](https://open.spotify.com/artist/2AxgpeDAr8BILZvsEO445F) | [Maryanne's Song](https://open.spotify.com/album/4C5NJRe1QDXvyKQrP3hbKR) | 1:18 |
-| 32 | [Relaxing Harp](https://open.spotify.com/track/6BdDlXdELLGgLlSD9fxodd) | [Alan Baratieri](https://open.spotify.com/artist/1FbUxr0wVOPPMFPq9qjv0w), [Músicas Para Relaxar](https://open.spotify.com/artist/1GpHohMWr8ZzO6CkaKOC6G), [Relaxing Musics](https://open.spotify.com/artist/4yfZySvyTem0vYS7RiaGyD) | [The Harp of Heaven Relaxing Healing Harps Musics](https://open.spotify.com/album/1NBsYTU5EvP55o3mqhzbR9) | 2:45 |
+| 32 | [Relaxing Harp](https://open.spotify.com/track/3BnRMdI0hOH4SO3YWYCkem) | [Músicas Para Relaxar](https://open.spotify.com/artist/1GpHohMWr8ZzO6CkaKOC6G), [Alan Baratieri](https://open.spotify.com/artist/1FbUxr0wVOPPMFPq9qjv0w) | [The Harp of Heaven Relaxing Healing Harps Musics](https://open.spotify.com/album/1s7dbimo6JmbOmlJNekmV6) | 2:46 |
 | 33 | [Raindrops on the Dunes](https://open.spotify.com/track/1sMlNsgaJqL4Sy1HcFxl2U) | [Zen of Harp](https://open.spotify.com/artist/55AxE4yhhIf9nr1EtXi7Ti) | [Raindrops on the Dunes](https://open.spotify.com/album/4s4KCcfkb6nbu4Tj9LiNeS) | 3:15 |
 | 34 | [Harp Lullaby](https://open.spotify.com/track/7H5vKsjiKOJHCejokRXTTn) | [Gemma Leslie](https://open.spotify.com/artist/5h4IQnkFpwCjNQm83ucDlL) | [Harp Lullaby](https://open.spotify.com/album/4dNCOJKuAbXc7hlFnQYOn3) | 3:11 |
 | 35 | [Prelude in C](https://open.spotify.com/track/5dfyZGnyhJnD0OP9i7Rxo4) | [Maria Duhova Trevor](https://open.spotify.com/artist/1moHmQ1eb3nFxuOXprU4Us) | [Healing Harp](https://open.spotify.com/album/6z8qAgApt7tid0srTfKJvF) | 2:22 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dZ7oW0l88P.md) - [plain]
 | 84 | [Without me](https://open.spotify.com/track/5GeGVfKzixdHU91E03x4bb) | [Mia Zand](https://open.spotify.com/artist/7oA0yR25YU6LLZYg4Eur1n) | [Mia Zand](https://open.spotify.com/album/5k7rzNbcEUcrGUVw1gPOU8) | 1:55 |
 | 85 | [Soft harp world](https://open.spotify.com/track/4Kx7N7sHcJ0MamSpuDKfV5) | [Lorenzo Tempesti](https://open.spotify.com/artist/0S6YGr0wEbA6C0BVpvvdJ6) | [Traveling in space](https://open.spotify.com/album/6b0oJa9QYiPNfF1os8pba9) | 3:38 |
 
-Snapshot ID: `MTY2MDEzMTkwMiwwMDAwMDAwMDJiZTRiODI2NTViNGE1ZWJkMmJjYzJiNzc5NDUzMjlh`
+Snapshot ID: `MTY2MDEzMTkwMiwwMDAwMDAwMDg3YjY0NWY5YzEwNzQ4MzE1NmQ5ZWNhZDYzNWQ2M2E1`

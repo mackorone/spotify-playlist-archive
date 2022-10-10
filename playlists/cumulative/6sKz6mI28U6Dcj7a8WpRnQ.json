@@ -102,24 +102,6 @@
     },
     {
       "album": {
-        "name": "The Best Of Robbie Neville",
-        "url": "https://open.spotify.com/album/42fYChDO5P83qQ4NQs6bS4"
-      },
-      "artists": [
-        {
-          "name": "Robbie Nevil",
-          "url": "https://open.spotify.com/artist/4NkLjsRsFnuPu9B4zqzBqq"
-        }
-      ],
-      "date_added": "2013-06-27",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 271666,
-      "name": "C'est La Vie",
-      "url": "https://open.spotify.com/track/6Ce9ItNCpk2PkAMq5v6EEV"
-    },
-    {
-      "album": {
         "name": "Who's That Girl Soundtrack",
         "url": "https://open.spotify.com/album/21vHnROXDZY51gJxsjTLXZ"
       },
@@ -153,6 +135,24 @@
       "duration_ms": 353306,
       "name": "Control",
       "url": "https://open.spotify.com/track/5vywtoD7fO1CP0B2wtm6I6"
+    },
+    {
+      "album": {
+        "name": "The Best Of Robbie Neville",
+        "url": "https://open.spotify.com/album/42fYChDO5P83qQ4NQs6bS4"
+      },
+      "artists": [
+        {
+          "name": "Robbie Nevil",
+          "url": "https://open.spotify.com/artist/4NkLjsRsFnuPu9B4zqzBqq"
+        }
+      ],
+      "date_added": "2013-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271666,
+      "name": "C\u2019est la vie",
+      "url": "https://open.spotify.com/track/6Ce9ItNCpk2PkAMq5v6EEV"
     },
     {
       "album": {

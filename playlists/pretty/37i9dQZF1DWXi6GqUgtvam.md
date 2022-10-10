@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXi6GqUgtvam.md) - [plain]
 
 > medieval tunes for board gaming, roleplay or some historical chill.
 
-[Spotify](https://open.spotify.com/user/spotify) - 195,564 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 196,943 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXi6GqUgtvam.md) - [plain]
 | 49 | [Quan je voy le duç](https://open.spotify.com/track/35VIYtvrvDsaAv7HNW62C0) | [Anonymous](https://open.spotify.com/artist/4kCZ5nyurc9eIqLJfUcW0Y), [Early Music Consort Of London](https://open.spotify.com/artist/3KJWGEUmYDVD1BIzFjd0kd), [David Munrow](https://open.spotify.com/artist/3g42bvWbvi723weXdEiROz) | [Early Music Festival](https://open.spotify.com/album/3OWVzjvXl5cq42I7Nc7cpQ) | 2:18 |
 | 50 | [England \(The Medieval Era\)](https://open.spotify.com/track/4Jt5UkcyYL261tokw058x0) | [Geoff Knorr](https://open.spotify.com/artist/1OFCjpSAsyIOWWzIAYb3OI) | [Sid Meier's Civilization VI \(Original Game Soundtrack\)](https://open.spotify.com/album/6ERIx2c5kFBBFj6CEI7BWd) | 4:09 |
 
-Snapshot ID: `MTY2NDE5NjA0MywwMDAwMDAwMDAxYzg1MTk0ZmEwZmE4MDM1ODg0N2EyOTNlMWE1Mzlm`
+Snapshot ID: `MTY2NDc5MzE0NywwMDAwMDAwMGJlNTdlZGIwYzhiMzFiNzczY2UxMTExMTIzZjUyZGQx`

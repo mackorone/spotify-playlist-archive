@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4xdNq2nL8N6vOtFnWrznjY.md) - [plain]
 
 > This hard hitting rock playlist features rock icons YUNGBLUD, The 1975, and more!
 
-[Digster](https://open.spotify.com/user/digster.fm) - 733 likes - 63 songs - 3 hr 45 min
+[Digster](https://open.spotify.com/user/digster.fm) - 734 likes - 63 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

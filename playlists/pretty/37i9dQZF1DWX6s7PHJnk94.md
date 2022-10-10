@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX6s7PHJnk94.md) - [plain]
 
 > Spellistan att ta fram när det är dags för dans runt midsommarstången.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,422 likes - 25 songs - 40 min 2 sec
+[Spotify](https://open.spotify.com/user/spotify) - 5,421 likes - 25 songs - 40 min 2 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

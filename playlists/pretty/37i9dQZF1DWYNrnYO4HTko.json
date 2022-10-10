@@ -1,6 +1,6 @@
 {
   "description": "Fresh takes - from new revisions and iconic covers to unexpected versions and the <a href=\"https://artists.spotify.com/songwriter/2M9tzAw4sMHnOJ58l5uo82\">songwriter's</a> own covers. ",
-  "num_followers": 151,
+  "num_followers": 172,
   "original_name": "Otis Redding: Covered",
   "owner": {
     "name": "Spotify",
@@ -1431,13 +1431,17 @@
     {
       "added_at": "2021-10-01 04:00:00",
       "album": {
-        "name": "People Get Ready",
+        "name": "People Get Ready (feat. Wayne Henderson)",
         "url": "https://open.spotify.com/album/4sZJQZA40YWfofsHINS1Gs"
       },
       "artists": [
         {
           "name": "The Freedom Sounds Featuring Wayne Henderson",
           "url": "https://open.spotify.com/artist/0B8tMvNxl04bM3bhgYAl4b"
+        },
+        {
+          "name": "Wayne Henderson",
+          "url": "https://open.spotify.com/artist/55PU5eP7Ndxn5T3TvBdXZ2"
         }
       ],
       "duration_ms": 176293,

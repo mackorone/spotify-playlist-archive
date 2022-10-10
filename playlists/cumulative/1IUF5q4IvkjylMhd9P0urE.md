@@ -2,7 +2,7 @@
 
 ### [XL Play](https://open.spotify.com/playlist/1IUF5q4IvkjylMhd9P0urE)
 
-> Our favourite new music, updated monthly by the XL team\. Returing AW22
+> Our favourite new music, updated monthly by the XL team.
 
 51 songs - 2 hr 59 min - [published](https://open.spotify.com/playlist/7vO4O5wNNjqWMnmzz1WRbr)
 

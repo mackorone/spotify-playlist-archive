@@ -1,12 +1,12 @@
 {
-  "description": "A new shade of Country. Cover: Tyler Childers",
-  "num_followers": 398410,
+  "description": "A new shade of Country. Cover: Warren Zeiders",
+  "num_followers": 399636,
   "original_name": "Indigo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDUxMDQwMCwwMDAwMDAwMGIwMWM2MTQ0NGY5MzYxMmViNzkwODAyMDhjNjg4ZmI5",
+  "snapshot_id": "MTY2NTExNTIwMCwwMDAwMDAwMDA0MGUzNmQ2ZTBiOWNkMTJjMGRlNTI5NjkxOTg2YzAx",
   "tracks": [
     {
       "added_at": "2022-09-30 04:00:00",
@@ -25,6 +25,22 @@
       "url": "https://open.spotify.com/track/3mXMXwi6zJ7XVaG4PbpcjS"
     },
     {
+      "added_at": "2022-10-07 04:00:00",
+      "album": {
+        "name": "Long Journey Home / Life To Go",
+        "url": "https://open.spotify.com/album/5d7E0CoRDHwdPE0i3JW53C"
+      },
+      "artists": [
+        {
+          "name": "Billy Strings",
+          "url": "https://open.spotify.com/artist/1ZN1c1qWEGZNX1pGeKCPpf"
+        }
+      ],
+      "duration_ms": 177453,
+      "name": "Long Journey Home",
+      "url": "https://open.spotify.com/track/1LSTsFWHtku4E76HlIAOYm"
+    },
+    {
       "added_at": "2022-09-30 04:00:00",
       "album": {
         "name": "Live Off",
@@ -39,6 +55,22 @@
       "duration_ms": 215733,
       "name": "Live Off",
       "url": "https://open.spotify.com/track/62NCBgd9im9741RNTVNahK"
+    },
+    {
+      "added_at": "2022-09-30 04:00:00",
+      "album": {
+        "name": "One Hell of an Angel",
+        "url": "https://open.spotify.com/album/4qngZnFUHmu4I3cGpENpWF"
+      },
+      "artists": [
+        {
+          "name": "Warren Zeiders",
+          "url": "https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi"
+        }
+      ],
+      "duration_ms": 211517,
+      "name": "One Hell of an Angel",
+      "url": "https://open.spotify.com/track/1SniaPt656Q2RJFOh5QBPK"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -105,6 +137,38 @@
       "url": "https://open.spotify.com/track/3qNCc4GzLQKpAhTjXYBR8z"
     },
     {
+      "added_at": "2022-10-07 04:00:00",
+      "album": {
+        "name": "Old Before My Time",
+        "url": "https://open.spotify.com/album/2x9OgHhWx59NIU7JV8iTd4"
+      },
+      "artists": [
+        {
+          "name": "Alex Williams",
+          "url": "https://open.spotify.com/artist/5cbi8Etv86wgoqJW2jfSyl"
+        }
+      ],
+      "duration_ms": 216480,
+      "name": "Old Before My Time",
+      "url": "https://open.spotify.com/track/1QaFCynmvTvyipCwY8d2s0"
+    },
+    {
+      "added_at": "2022-09-30 04:00:00",
+      "album": {
+        "name": "Comeback Kid",
+        "url": "https://open.spotify.com/album/7vs8zVEytvdxIhIsgVYWgl"
+      },
+      "artists": [
+        {
+          "name": "Town Mountain",
+          "url": "https://open.spotify.com/artist/5cudslRGWg0GsXaN79Wifs"
+        }
+      ],
+      "duration_ms": 256053,
+      "name": "Comeback Kid",
+      "url": "https://open.spotify.com/track/1ViNv171bw5aC5rcD9MC4M"
+    },
+    {
       "added_at": "2022-09-30 04:00:00",
       "album": {
         "name": "Change Of Heart",
@@ -119,22 +183,6 @@
       "duration_ms": 243586,
       "name": "Change Of Heart",
       "url": "https://open.spotify.com/track/68DSsSVGCUwfEMeZI6xhxW"
-    },
-    {
-      "added_at": "2022-09-30 04:00:00",
-      "album": {
-        "name": "One Hell of an Angel",
-        "url": "https://open.spotify.com/album/4qngZnFUHmu4I3cGpENpWF"
-      },
-      "artists": [
-        {
-          "name": "Warren Zeiders",
-          "url": "https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi"
-        }
-      ],
-      "duration_ms": 211517,
-      "name": "One Hell of an Angel",
-      "url": "https://open.spotify.com/track/1SniaPt656Q2RJFOh5QBPK"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -303,22 +351,6 @@
       "duration_ms": 247666,
       "name": "Big Time",
       "url": "https://open.spotify.com/track/3RZ5VvBcCQgrRl8XaKZLa4"
-    },
-    {
-      "added_at": "2022-09-30 04:00:00",
-      "album": {
-        "name": "Comeback Kid",
-        "url": "https://open.spotify.com/album/7vs8zVEytvdxIhIsgVYWgl"
-      },
-      "artists": [
-        {
-          "name": "Town Mountain",
-          "url": "https://open.spotify.com/artist/5cudslRGWg0GsXaN79Wifs"
-        }
-      ],
-      "duration_ms": 256053,
-      "name": "Comeback Kid",
-      "url": "https://open.spotify.com/track/1ViNv171bw5aC5rcD9MC4M"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -1319,22 +1351,6 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
-        "name": "Don't Do It In Texas",
-        "url": "https://open.spotify.com/album/2jPUGtTyhOEhG9V6sy5SeP"
-      },
-      "artists": [
-        {
-          "name": "Catie Offerman",
-          "url": "https://open.spotify.com/artist/5uB8p8cO6UniAn2rnOsaXT"
-        }
-      ],
-      "duration_ms": 265500,
-      "name": "Don't Do It In Texas",
-      "url": "https://open.spotify.com/track/0fCzJ0moRAJyt03FFbdZT3"
-    },
-    {
-      "added_at": "2022-09-30 04:00:00",
-      "album": {
         "name": "Ready or Not (feat. Sierra Ferrell)",
         "url": "https://open.spotify.com/album/5JcW9l6CD3JJbn7DbJrrkh"
       },
@@ -2179,22 +2195,6 @@
       "duration_ms": 222400,
       "name": "Marfa Lights",
       "url": "https://open.spotify.com/track/62TNzM2AkC9NiTu9nEcmMI"
-    },
-    {
-      "added_at": "2022-09-30 04:00:00",
-      "album": {
-        "name": "Run Like a Bull",
-        "url": "https://open.spotify.com/album/61PLAYtZkCVhS8PeOBMSZm"
-      },
-      "artists": [
-        {
-          "name": "Ryan Culwell",
-          "url": "https://open.spotify.com/artist/40IqnqvUuwdqvOflDfyWZ6"
-        }
-      ],
-      "duration_ms": 157080,
-      "name": "Colorado Blues",
-      "url": "https://open.spotify.com/track/2uug7N1S3J0IXW8LaytlDO"
     },
     {
       "added_at": "2022-09-30 04:00:00",

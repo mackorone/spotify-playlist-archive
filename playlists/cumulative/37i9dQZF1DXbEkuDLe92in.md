@@ -4,7 +4,7 @@
 
 > Beautiful classical Indian Ragas to soundtrack your Yoga session.
 
-50 songs - 6 hr 58 min - [published](https://open.spotify.com/playlist/5nvpEmZ7xtA24TRw5qVog0)
+53 songs - 7 hr 6 min - [published](https://open.spotify.com/playlist/5nvpEmZ7xtA24TRw5qVog0)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [Bhairav](https://open.spotify.com/track/5ICE5HeCD5EHuNk3MkPw9O) | [Hariprasad Chaurasia](https://open.spotify.com/artist/7CozfB3IEACZpAelpwkUon) | [The Raga Guide](https://open.spotify.com/album/6LX6cgc3VpmVozT2wz83yy) | 4:16 | 2022-09-01 |  |
 | [Bhupali](https://open.spotify.com/track/3hfh3VfPtFVtB9KnuNtJXo) | [Hariprasad Chaurasia](https://open.spotify.com/artist/7CozfB3IEACZpAelpwkUon) | [The Raga Guide](https://open.spotify.com/album/6LX6cgc3VpmVozT2wz83yy) | 3:34 | 2022-09-01 |  |
 | [Dhun in Misra Anandi](https://open.spotify.com/track/3p7Z5jTeZLjDk7bruuPVs6) | [Tarun Bhattacharya](https://open.spotify.com/artist/75pVYyeJxeZZMforYr50pA) | [Traditional Indian Ragas for Yoga, Deep Meditation, And Relaxation](https://open.spotify.com/album/2OgurzMcXr4zLdFCjhflQx) | 8:19 | 2022-09-01 |  |
+| [Flute Bhupal Todi](https://open.spotify.com/track/0tQCT4UbdmbOOAXGSYbOrI) | [Bapu Padmanabha](https://open.spotify.com/artist/5Sf70jLYRR15STASRqsC3x) | [Relaxing Ragas, Vol\. 5](https://open.spotify.com/album/5lSKOHtzMpxfh1nVr53dGI) | 2:06 | 2022-10-06 |  |
 | [Guru: Raga Jogeshwari \- Jod, Jhala](https://open.spotify.com/track/0aoSkr47lLA6irEzU9kfdl) | [Anoushka Shankar](https://open.spotify.com/artist/6MTByljF8u5omBltY2VKPU), [Kenji Ota](https://open.spotify.com/artist/040krAnKe0UWfJkm7NBMyT) | [Reflections](https://open.spotify.com/album/1PLFjFH557aoApbm2t9OtZ) | 3:59 | 2022-09-01 |  |
 | [Jogiya](https://open.spotify.com/track/7oDCqI6qYIc2ebiduj7RkM) | [Hariprasad Chaurasia](https://open.spotify.com/artist/7CozfB3IEACZpAelpwkUon) | [The Raga Guide](https://open.spotify.com/album/6LX6cgc3VpmVozT2wz83yy) | 3:59 | 2022-09-01 |  |
 | [Love \(alap\)](https://open.spotify.com/track/3NtO6vGj5BjIHT9Fq9FRZH) | [Pandit Shivkumar Sharma & Pandit Hariprasad Chaurasia](https://open.spotify.com/artist/1nJHIxlczWcRhAGZLY1qom) | [The Valley Recalls \- Peace, Love & Harmony](https://open.spotify.com/album/2B5qYV1Iqjwsn8AIHVf9d9) | 5:56 | 2022-09-01 |  |
@@ -55,6 +56,8 @@
 | [Raga Sindhi Bhairavi: Dadra Tal \(6 beats\)](https://open.spotify.com/track/5CMW3bF5enCbAFV4aZTbec) | [Ali Akbar Khan](https://open.spotify.com/artist/2GUxWjR8cNgljddVLEp72u), [L\. Subramaniam](https://open.spotify.com/artist/3PwzNTwCiUHdV5hWjwaTfD), [Zakir Hussain](https://open.spotify.com/artist/6DDCjHWtL6jTl1B5wG8tF6), [Ramnad Raghavan](https://open.spotify.com/artist/3gS4uNbTzraFAoJDWA2r4l) | [Raga Sindhi Bhairavi](https://open.spotify.com/album/7CrkucXPzqO5B0ScFRqQL9) | 11:51 | 2022-09-01 |  |
 | [Raga Yaman Kalyan \- Jor](https://open.spotify.com/track/3Rl1DWTHmtRDKJngqK0zP2) | [Nikhil Banerjee](https://open.spotify.com/artist/7ieM2QOG3mf89WSTAfGvu1) | [Pratibha](https://open.spotify.com/album/4vAU7dQnBqlwZ26K4Dg1Mz) | 9:48 | 2022-09-01 |  |
 | [Relaxing Into The Self \- Maya Malav Gaulay](https://open.spotify.com/track/4LHPsWgpZieOaXZDWqREYR) | [Music for Deep Meditation](https://open.spotify.com/artist/7rZubTb0F8TCTUsNBgfy9I) | [Classical Indian Music for Healing and Relaxation \- The Ancient Beauty of the Veena With Young Virtuosa Gayatri Govindarajan](https://open.spotify.com/album/6dJxnAd9TI4qc4PeEoVqxr) | 6:04 | 2022-09-01 |  |
+| [Santoor Yaman](https://open.spotify.com/track/1KZkbtEiFUbyisNfS0AhUh) | [Bapu Padmanabha](https://open.spotify.com/artist/5Sf70jLYRR15STASRqsC3x) | [Relaxing Ragas, Vol\. 5](https://open.spotify.com/album/5lSKOHtzMpxfh1nVr53dGI) | 2:16 | 2022-10-06 |  |
+| [Sarod Kirwani](https://open.spotify.com/track/4XYiWAs6052ibYaYPaGJOj) | [Bapu Padmanabha](https://open.spotify.com/artist/5Sf70jLYRR15STASRqsC3x) | [Relaxing Ragas, Vol\. 5](https://open.spotify.com/album/5lSKOHtzMpxfh1nVr53dGI) | 3:15 | 2022-10-06 |  |
 | [Serenity \- Raga Jaijaivanti](https://open.spotify.com/track/2nud2gDGnF8gh0r1owaf0U) | [Amjad Ali Khan](https://open.spotify.com/artist/1IsvL603uF5ieIXYApKcnr) | [Ragas For Relaxation \- Absolute Calm](https://open.spotify.com/album/2wPCr8ABCsk6txreAXXZie) | 13:49 | 2022-09-01 |  |
 | [Shri Ranjani\- Play of Consciousness](https://open.spotify.com/track/38W6cHZcyVGXRJxkBKEtCM) | [Music for Deep Meditation](https://open.spotify.com/artist/7rZubTb0F8TCTUsNBgfy9I) | [Classical Indian Music for Healing and Relaxation \- The Ancient Beauty of the Veena With Young Virtuosa Gayatri Govindarajan](https://open.spotify.com/album/6dJxnAd9TI4qc4PeEoVqxr) | 7:46 | 2022-09-01 |  |
 | [Three Ragas \- Bhupali](https://open.spotify.com/track/3BVlTuJdHO7lTmswWjKXID) | [Amjad Ali Khan](https://open.spotify.com/artist/1IsvL603uF5ieIXYApKcnr), [Vineet Vyas](https://open.spotify.com/artist/2LoZY0DHAUbX2is0THMZOC) | [Samaagam](https://open.spotify.com/album/4RTM8LbsP5jqFnnlwHY9AN) | 7:29 | 2022-09-01 |  |

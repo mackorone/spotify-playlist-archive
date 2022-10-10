@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX92zI3Y5s9Wf.md) - [plain]
 
 > Up & coming Indonesian producer <a href="spotify:artist:7kA4sEagpoNK91I7wr9tYr">Bleu Clair</a> brings his high\-powered energy to his mix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,761 likes - 17 songs - 59 min 26 sec
+[Spotify](https://open.spotify.com/user/spotify) - 2,801 likes - 17 songs - 59 min 26 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX92zI3Y5s9Wf.md) - [plain]
 | 13 | [Have Me All \(feat\. Jelita\) \- Mixed](https://open.spotify.com/track/59sqCjbqNacXS8EZILgtuD) | [Bleu Clair](https://open.spotify.com/artist/7kA4sEagpoNK91I7wr9tYr), [Jelita](https://open.spotify.com/artist/596BA0qMEP52RCEOiqIrnr) | [Have Me All \(feat\. Jelita\) \[Mixed\]](https://open.spotify.com/album/2Ro4h8rwVVNzFAdLXfKhaz) | 2:38 |
 | 14 | [Beat Like This \- Mixed](https://open.spotify.com/track/4QfdVFOWLKZCxpvDdO4L46) | [Bleu Clair](https://open.spotify.com/artist/7kA4sEagpoNK91I7wr9tYr), [OOTORO](https://open.spotify.com/artist/3kWLEfykUXgiuhbR2NwnLI) | [Beat Like This \(Mixed\)](https://open.spotify.com/album/3pTmP7BaGyhwGzjq3WjPQ1) | 3:09 |
 | 15 | [Gold \- Mixed](https://open.spotify.com/track/0J6R9VDXUuh6ILV4GfpCIk) | [Bleu Clair](https://open.spotify.com/artist/7kA4sEagpoNK91I7wr9tYr), [Rhiannon Roze](https://open.spotify.com/artist/3epScA5vlvqzr2AfI7JJ2f) | [Gold \(Mixed\)](https://open.spotify.com/album/0RfzwpK5C39h0C70GElnml) | 3:50 |
-| 16 | [Ocean \- Walker & Royce Mix \- Mixed](https://open.spotify.com/track/0kBuDXCWzMLRYdpmZKY8Du) | [Teachers](https://open.spotify.com/artist/0D0wa2W41SfFzUKoWec8sE), [Walker & Royce](https://open.spotify.com/artist/1lAwVq9MxNJkB0dEY6xNoV) | [Ocean \- Walker & Royce Mix \(Mixed\)](https://open.spotify.com/album/125XwONQjhxo6gMsmyKx0e) | 4:30 |
+| 16 | [Ocean \- Walker & Royce Mix \- Mixed](https://open.spotify.com/track/76dWV8LuOUowkq7maSoF3j) | [Teachers](https://open.spotify.com/artist/0D0wa2W41SfFzUKoWec8sE), [Walker & Royce](https://open.spotify.com/artist/1lAwVq9MxNJkB0dEY6xNoV) | [Ocean \- Walker & Royce Mix \(Mixed\)](https://open.spotify.com/album/6Vl8XyTW8iMKKJ7EhMq8Qe) | 4:30 |
 | 17 | [Hyperspace \(feat\. Teza Sumendra\) \- Mixed](https://open.spotify.com/track/2v1FEhMiFDZzZN08tfZe4v) | [Bleu Clair](https://open.spotify.com/artist/7kA4sEagpoNK91I7wr9tYr), [Teza Sumendra](https://open.spotify.com/artist/2fS9sWFJcWN8wVhYbCfdC7) | [Hyperspace \(feat\. Teza Sumendra\) \[Mixed\]](https://open.spotify.com/album/7MtmtT5r0gwLIbayb9ouT0) | 3:52 |
 
-Snapshot ID: `MTYzOTc1NDQ5OCwwMDAwMDAwMDhkOWY5MTRjNTQyNTRhYzU5MTc5OGVhOGMxNThhYWYx`
+Snapshot ID: `MTY2NTA3ODgyOSwwMDAwMDAwMDBjZmUyMTAzZTFiNGY4ZDlhMGZjNGY2NmI1MDQ1MTVi`

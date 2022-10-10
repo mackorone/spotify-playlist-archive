@@ -4,7 +4,7 @@
 
 > 每日都有咁多壞消息，我心情真係好肉酸呀！只可以同自己講聲「撐住」！
 
-91 songs - 5 hr 54 min - [published](https://open.spotify.com/playlist/4Kjp35jrALLwqpzQypFyiK)
+92 songs - 5 hr 58 min - [published](https://open.spotify.com/playlist/4Kjp35jrALLwqpzQypFyiK)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,7 +27,8 @@
 | [一口氣](https://open.spotify.com/track/0QeieyfAsXbJEXEtkXdlY3) | [ToNick](https://open.spotify.com/artist/3oONGjPFxkb1rqTtFx8fl2) | [一口氣](https://open.spotify.com/album/37T5nCk3fL9AdhFp466kPo) | 4:03 | 2022-04-13 |  |
 | [一步一悔過](https://open.spotify.com/track/2q81As6nMolcizDA78SeFH) | [Jay Fung](https://open.spotify.com/artist/4EXI1ieJe2VDbvNsKOaNQL) | [LIFE / LINE](https://open.spotify.com/album/5COhcdEYRQm7wFjsfB8NxA) | 4:25 | 2022-04-13 |  |
 | [三個字](https://open.spotify.com/track/524AUGUhR1F8SRiumM4T5e) | [Anson Kong 江𤒹生](https://open.spotify.com/artist/7bkvIZ8KT4kxelaAmobX8D) | [三個字](https://open.spotify.com/album/4caS8RrS6eIRCPi5JTsFQG) | 3:46 | 2022-04-13 |  |
-| [人間有愛](https://open.spotify.com/track/1A82lER0hubY5nEQlV5glC) | [R.O.O.T](https://open.spotify.com/artist/0EUSaBjG1G6lMFm9FFZfNj) | [人間有愛](https://open.spotify.com/album/1Ol0nJXt9NeabxeisaDbG1) | 3:32 | 2022-04-13 |  |
+| [人間有愛](https://open.spotify.com/track/1A82lER0hubY5nEQlV5glC) | [R.O.O.T](https://open.spotify.com/artist/0EUSaBjG1G6lMFm9FFZfNj) | [人間有愛](https://open.spotify.com/album/1Ol0nJXt9NeabxeisaDbG1) | 3:32 | 2022-04-13 | 2022-10-07 |
+| [人間有愛](https://open.spotify.com/track/5V0p5mAIDgMTwlC5xtTt5B) | [R.O.O.T](https://open.spotify.com/artist/0EUSaBjG1G6lMFm9FFZfNj) | [人間有愛](https://open.spotify.com/album/4A9qg8Q4J20FBqyuhVHC3M) | 3:32 | 2022-04-13 |  |
 | [人類不宜飛行](https://open.spotify.com/track/2R6LC73jLhgOekUBfTcE23) | [Dear Jane](https://open.spotify.com/artist/6V1SwiosQqf5XvmoTMCGa9) | [人類不宜飛行](https://open.spotify.com/album/4hO1qoffkZbefMbWnQzgNT) | 3:57 | 2022-04-13 |  |
 | [人類群星閃耀時](https://open.spotify.com/track/10nbKFoqDjsauhJQTHWfkg) | [Jer 柳應廷](https://open.spotify.com/artist/6FH5vFm7hqDm3UzEAYuizY) | [人類群星閃耀時](https://open.spotify.com/album/1hLx0tCFnduODpxvYYum9o) | 5:46 | 2022-04-13 |  |
 | [今宵多珍重](https://open.spotify.com/track/7hM5duVObouIsRhz1Y2OcH) | [my little airport](https://open.spotify.com/artist/3yfDRplDZh03Y0fEeCd6B0) | [LMFXXYEARFEST](https://open.spotify.com/album/4xb2VaWVJCC5da4ZEEmHeb) | 2:41 | 2022-04-13 |  |

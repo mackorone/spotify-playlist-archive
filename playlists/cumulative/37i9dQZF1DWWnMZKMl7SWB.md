@@ -4,7 +4,7 @@
 
 > Bases suaves para inspirarte mientras trabajas.
 
-269 songs - 17 hr 13 min - [published](https://open.spotify.com/playlist/2SfGU6Jvcp2B2brAOygqpz)
+270 songs - 17 hr 20 min - [published](https://open.spotify.com/playlist/2SfGU6Jvcp2B2brAOygqpz)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -153,7 +153,8 @@
 | [My Only Love](https://open.spotify.com/track/1aBL7hGElHgydpTQmWvQGQ) | [Garden City Movement](https://open.spotify.com/artist/3HrczLBDJXJu6dJWEMbKHa) | [My Only Love](https://open.spotify.com/album/04KKaXDIiTSd1muqAuYKKR) | 3:26 | 2022-04-12 |  |
 | [Never Lost](https://open.spotify.com/track/1YqOZ2frFFiyMIkAuKH48k) | [Amtrac](https://open.spotify.com/artist/3ifxHfYz2pqHku0bwx8H5J) | [1987](https://open.spotify.com/album/6wwiwIueaNNBxuabXP39VZ) | 6:46 | 2022-04-12 |  |
 | [Never Lost](https://open.spotify.com/track/5gFYPS2iyiiQMMvzBlF4a5) | [Amtrac](https://open.spotify.com/artist/3ifxHfYz2pqHku0bwx8H5J) | [1987](https://open.spotify.com/album/1mWQKczLANctDIiOKYc4IM) | 6:46 | 2022-04-12 | 2022-07-29 |
-| [Nico](https://open.spotify.com/track/2VS6CRgA68sO4NQLM1s7IU) | [Breach](https://open.spotify.com/artist/2MMkuQE0f6CDaamJdWXaCC) | [Culture](https://open.spotify.com/album/24BipwyBivjGOMXSJQAJGq) | 7:23 | 2022-09-09 |  |
+| [Nico](https://open.spotify.com/track/1KiTPYOFaYU5aSIwpvZUHr) | [Breach](https://open.spotify.com/artist/2MMkuQE0f6CDaamJdWXaCC) | [Culture](https://open.spotify.com/album/4GUidWgIFuLfcr8btReanA) | 7:23 | 2022-09-09 |  |
+| [Nico](https://open.spotify.com/track/2VS6CRgA68sO4NQLM1s7IU) | [Breach](https://open.spotify.com/artist/2MMkuQE0f6CDaamJdWXaCC) | [Culture](https://open.spotify.com/album/24BipwyBivjGOMXSJQAJGq) | 7:23 | 2022-09-09 | 2022-10-06 |
 | [Nico](https://open.spotify.com/track/7tQDkqd7UhBIjhV0EYJ8Ae) | [Breach](https://open.spotify.com/artist/2MMkuQE0f6CDaamJdWXaCC) | [Culture](https://open.spotify.com/album/3y0ulDKE7OQQ6hJs7XkXN9) | 7:23 | 2022-04-12 | 2022-07-28 |
 | [Night Stroll](https://open.spotify.com/track/1Ucx9ID568FuqWfxNt7f7E) | [Ensidya](https://open.spotify.com/artist/2lenoWzSFNMSFJU05uqIrj), [Fractite](https://open.spotify.com/artist/6ex1nFRXHTVXl7qcbR2nZc) | [Rooftop Sessions](https://open.spotify.com/album/1k9R00w206ngLhFw5NblFV) | 2:50 | 2022-04-12 |  |
 | [Nightfall](https://open.spotify.com/track/6bmCFy256PgDmS7feDNp69) | [David Cutter Music](https://open.spotify.com/artist/5yhFNHP0rMKAtz0fP7IArF) | [Nightfall](https://open.spotify.com/album/03jwEEmv0efetAenFebML3) | 2:18 | 2022-04-12 |  |

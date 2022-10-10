@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa4Mh4maMlwS.md) - [plain]
 
 > Soundtrack your 2022 resolutions with Amanda Kloots.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,141 likes - 33 songs - 1 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,142 likes - 33 songs - 1 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -56,6 +56,32 @@
     },
     {
       "album": {
+        "name": "Abracadabra",
+        "url": "https://open.spotify.com/album/1kT9IWwVHocHo28hAkHpeY"
+      },
+      "artists": [
+        {
+          "name": "Rexxie",
+          "url": "https://open.spotify.com/artist/5z207JpMeX1oCYVvMKReku"
+        },
+        {
+          "name": "Naira Marley",
+          "url": "https://open.spotify.com/artist/5DfaMudUwkoz6TAPYifqkJ"
+        },
+        {
+          "name": "Skiibii",
+          "url": "https://open.spotify.com/artist/72Z2AhMKpxZjLNnPMyinUE"
+        }
+      ],
+      "date_added": "2022-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182073,
+      "name": "Abracadabra",
+      "url": "https://open.spotify.com/track/7zhLSGUbneW7Tm3wpp3HjY"
+    },
+    {
+      "album": {
         "name": "Ah Ah Ah",
         "url": "https://open.spotify.com/album/3vXKsTdymqUvbtXIC6PHLy"
       },
@@ -1081,7 +1107,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 157773,
       "name": "Fvck Off",
       "url": "https://open.spotify.com/track/6suEGaFoeHV8eNQau8itvT"
@@ -1107,6 +1133,24 @@
       "duration_ms": 203568,
       "name": "Gbee Body (feat. Edem)",
       "url": "https://open.spotify.com/track/4UkCWodJ0mU4BQ1M5Aifdb"
+    },
+    {
+      "album": {
+        "name": "Gboza",
+        "url": "https://open.spotify.com/album/1xdEbTrHZcaRKs3gjLFVQ5"
+      },
+      "artists": [
+        {
+          "name": "DopeNation",
+          "url": "https://open.spotify.com/artist/25vbw2Uw68Ny6ae7tekmky"
+        }
+      ],
+      "date_added": "2022-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199934,
+      "name": "Gboza",
+      "url": "https://open.spotify.com/track/6K9kZQF9mugqUJ47BWf1jL"
     },
     {
       "album": {
@@ -1204,6 +1248,28 @@
     },
     {
       "album": {
+        "name": "Hard",
+        "url": "https://open.spotify.com/album/7JmZvsK13hg7x6WBwJG6WE"
+      },
+      "artists": [
+        {
+          "name": "Moliy",
+          "url": "https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK"
+        },
+        {
+          "name": "Moonchild Sanelly",
+          "url": "https://open.spotify.com/artist/6aDX1jzNVAI9enlQzW0Pgw"
+        }
+      ],
+      "date_added": "2022-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195000,
+      "name": "Hard",
+      "url": "https://open.spotify.com/track/7aQvOqPkqGbug8TnMz3jxo"
+    },
+    {
+      "album": {
         "name": "Hasta Luego",
         "url": "https://open.spotify.com/album/0EAAPEajgMXR0LpK9k3jeu"
       },
@@ -1275,6 +1341,24 @@
       "duration_ms": 183829,
       "name": "Hennessy - Remix",
       "url": "https://open.spotify.com/track/6B6yXEraBwQVlTdqtT03Lx"
+    },
+    {
+      "album": {
+        "name": "High",
+        "url": "https://open.spotify.com/album/7iIWG1sDD904p7EcjKCdpO"
+      },
+      "artists": [
+        {
+          "name": "Quamina Mp",
+          "url": "https://open.spotify.com/artist/7lv12RUXorFKjX5hKtNwUw"
+        }
+      ],
+      "date_added": "2022-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168500,
+      "name": "High",
+      "url": "https://open.spotify.com/track/0FvTXHU6xNn1jkjpJ6Mvm1"
     },
     {
       "album": {
@@ -2139,7 +2223,7 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 252785,
       "name": "Moyo (feat. Costa Titch & Phantom Steeze)",
       "url": "https://open.spotify.com/track/7ekrjUWevBEalqmms6kM3K"
@@ -2761,7 +2845,7 @@
       ],
       "date_added": "2021-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 152727,
       "name": "S3k3",
       "url": "https://open.spotify.com/track/29FGO8Iej8cr7R6WdoPDG7"
@@ -2783,7 +2867,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 204031,
       "name": "Say You Bad (Remix)",
       "url": "https://open.spotify.com/track/7nMrhVzouCx2Igpdwzo0Ta"
@@ -2971,12 +3055,12 @@
           "url": "https://open.spotify.com/artist/0TvqXK5QXVEf8d2jjrYrCo"
         },
         {
-          "name": "Bapi Joss",
-          "url": "https://open.spotify.com/artist/650EjRE3msuYaSw2hWLVPH"
-        },
-        {
           "name": "Soko7",
           "url": "https://open.spotify.com/artist/0e1BsiL7aSsI4ZYVPfOuLd"
+        },
+        {
+          "name": "Bapi Joss",
+          "url": "https://open.spotify.com/artist/650EjRE3msuYaSw2hWLVPH"
         }
       ],
       "date_added": "2022-09-30",

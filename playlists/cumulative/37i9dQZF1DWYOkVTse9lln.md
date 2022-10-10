@@ -4,7 +4,7 @@
 
 > Saca la estrella que llevas dentro.
 
-204 songs - 13 hr 36 min - [published](https://open.spotify.com/playlist/6oY4DmRICrPnvL5GJB36NT)
+205 songs - 13 hr 39 min - [published](https://open.spotify.com/playlist/6oY4DmRICrPnvL5GJB36NT)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,7 @@
 | [A Labio Dulce](https://open.spotify.com/track/3VeKeODaz7TABGpl1LGUBu) | [Iskander](https://open.spotify.com/artist/6qEHX4yRVZ5WP069VAaC2p), [Le Dune Recording Studio ´s](https://open.spotify.com/artist/38u5Z6xmpGHykG9XS1o6Cr) | [Fresas Con Vodka](https://open.spotify.com/album/6k22H0sfFwoCewViTEoQcQ) | 3:48 | 2021-12-09 | 2022-07-29 |
 | [A quién le importa](https://open.spotify.com/track/3Qa1r7Ii95K0A9Gerh4dKS) | [Alaska Y Dinarama](https://open.spotify.com/artist/2mDlFcPtgXtLF1gEshEInh) | [The Platinum Collection: Alaska](https://open.spotify.com/album/7qwvrBicEWpZWYRoWvM8OA) | 3:25 | 2021-12-09 | 2022-08-30 |
 | [Abrázame Muy Fuerte](https://open.spotify.com/track/2nejvFyJeTDtMRP2nUMt0J) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Abrázame Muy Fuerte](https://open.spotify.com/album/2ERJFuFlmwOV0bxl8VOtdU) | 3:59 | 2021-12-09 |  |
-| [Adiós](https://open.spotify.com/track/1K9kurErEhKCF1YIWLmKJj) | [Jesse & Joy](https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR) | [Electricidad](https://open.spotify.com/album/20NECwP90e07AD6Ti6OBiY) | 4:09 | 2022-07-26 |  |
+| [Adiós](https://open.spotify.com/track/1K9kurErEhKCF1YIWLmKJj) | [Jesse & Joy](https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR) | [Electricidad](https://open.spotify.com/album/20NECwP90e07AD6Ti6OBiY) | 4:09 | 2022-07-26 | 2022-10-09 |
 | [Adiós](https://open.spotify.com/track/6ZG1S5NIZ6qrSrEeiODOoK) | [Jesse & Joy](https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR) | [Electricidad \(Apple\)](https://open.spotify.com/album/5eDQOkAHrNo6Pmkt8ZI8wd) | 4:09 | 2021-12-09 | 2022-07-29 |
 | [Algo Contigo](https://open.spotify.com/track/4zsDA31stWMtLveU61hejd) | [Vicentico](https://open.spotify.com/artist/25THA9HUHoxpCT4LBp7UsZ) | [Vicentico](https://open.spotify.com/album/6Qt9Yiol5QcAEeKPyIQafo) | 3:38 | 2021-12-09 |  |
 | [Amor Prohibido](https://open.spotify.com/track/1kCewNSs909Xj1naXr36X8) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [Amor Prohibido](https://open.spotify.com/album/6iv9WTw1nhNxSsgKaxMp4E) | 2:52 | 2021-12-09 |  |
@@ -190,6 +190,7 @@
 | [Tocando Fondo](https://open.spotify.com/track/12KP3TP0BYKhYWp0H3YXtq) | [Kalimba](https://open.spotify.com/artist/4RjamFQJNT8nVbTKXJDJgv) | [Aerosoul](https://open.spotify.com/album/2sIZCYi1DM51AheC1HiqgG) | 4:06 | 2021-12-09 |  |
 | [Todavia](https://open.spotify.com/track/5wPhERt9izm1T45aFXDWPe) | [La Factoria](https://open.spotify.com/artist/4VsbQvC84B8Z3IsBY1HLQy) | [Exitos](https://open.spotify.com/album/3oIRbufih3VX2kDgTLnk4X) | 3:23 | 2021-12-09 | 2022-07-29 |
 | [Todavia](https://open.spotify.com/track/7gaovXojjqfn276uZR0omT) | [La Factoria](https://open.spotify.com/artist/4VsbQvC84B8Z3IsBY1HLQy) | [Todavia](https://open.spotify.com/album/6MLmdGugNROactcsaoxk9n) | 3:24 | 2022-07-26 | 2022-08-27 |
+| [Todavia](https://open.spotify.com/track/1yGjmKvs01WPabHY1ky4jW) | [La Factoria](https://open.spotify.com/artist/4VsbQvC84B8Z3IsBY1HLQy) | [Todavia](https://open.spotify.com/album/3lZogNziQuUo6hWLOayPhj) | 3:26 | 2022-08-31 |  |
 | [Todo Cambió](https://open.spotify.com/track/4OyzSXRSadNQt5EMwASdap) | [Camila](https://open.spotify.com/artist/2gRP1Ezbtj3qrERnd0XasU) | [Todo Cambio](https://open.spotify.com/album/7dTSfhp5okEjaYXp38LwVf) | 3:13 | 2021-12-09 |  |
 | [Todo De Ti](https://open.spotify.com/track/4fSIb4hdOQ151TILNsSEaF) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Todo De Ti](https://open.spotify.com/album/3zjKITMp5FHj5aqtWWXrxH) | 3:19 | 2021-12-09 |  |
 | [Torero](https://open.spotify.com/track/2es7AohVgF03LwjmQyaVMl) | [Chayanne](https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv) | [Chayanne](https://open.spotify.com/album/51dg2LdYMIVQqCuUBlfQsN) | 3:38 | 2021-12-09 |  |

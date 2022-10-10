@@ -1,8 +1,10 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "New and emerging R&B and Alternative tracks. Cover: <a href=\"https://open.spotify.com/artist/41fhfR098MSw8CTCFcr1od?si=u-jJ8QFIR8KCr2-tje4T1g\"> Ria Sean</a> ",
+  "description": "New and emerging R&B and Alternative tracks. Cover: <a href=\"https://open.spotify.com/artist/0ixmjHuzMTxPyps7w28tnH?si=KCZK6jN9SAianhPy9puMCQ\"> Kemuel </a> ",
   "name": "Sizzlers ",
-  "published_playlist_ids": [],
+  "published_playlist_ids": [
+    "2KdrLZRa87xIWjORQ3USHT"
+  ],
   "tracks": [
     {
       "album": {
@@ -260,6 +262,28 @@
     },
     {
       "album": {
+        "name": "Kae's Study",
+        "url": "https://open.spotify.com/album/3zvBH4f8pSkOgOfkn6fHVV"
+      },
+      "artists": [
+        {
+          "name": "KAESTYLE",
+          "url": "https://open.spotify.com/artist/0o4t6y0LBJWs76vvuuzg50"
+        },
+        {
+          "name": "Omah Lay",
+          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160851,
+      "name": "Blessings",
+      "url": "https://open.spotify.com/track/0U7ZICZtRhWB3oSMdtulDL"
+    },
+    {
+      "album": {
         "name": "Bayanni",
         "url": "https://open.spotify.com/album/0XIgw74GKfTD6MCOHzhovL"
       },
@@ -319,6 +343,24 @@
       "duration_ms": 237391,
       "name": "Can't Get Enough",
       "url": "https://open.spotify.com/track/553jHYX9KWMe4ww9XnQSb9"
+    },
+    {
+      "album": {
+        "name": "CHAMPAGNE GIRL",
+        "url": "https://open.spotify.com/album/5C7Txmzu3t6zVrpoEhLA4S"
+      },
+      "artists": [
+        {
+          "name": "Kemuel",
+          "url": "https://open.spotify.com/artist/0ixmjHuzMTxPyps7w28tnH"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140833,
+      "name": "CHAMPAGNE GIRL",
+      "url": "https://open.spotify.com/track/478cS3LW0O2VL1vW0kYMKd"
     },
     {
       "album": {
@@ -880,6 +922,24 @@
     },
     {
       "album": {
+        "name": "I'll Be There",
+        "url": "https://open.spotify.com/album/62vCC7b3Jgv7gc1gKnQ1ci"
+      },
+      "artists": [
+        {
+          "name": "Asi Renie",
+          "url": "https://open.spotify.com/artist/6LN0wKo0KuF6TBgwn0hvja"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179882,
+      "name": "I'll Be There",
+      "url": "https://open.spotify.com/track/4b8ae3a3l1vfpEumO8ijcS"
+    },
+    {
+      "album": {
         "name": "Festival of the Sun",
         "url": "https://open.spotify.com/album/4KBAvXtsBubhWTTdKy9lfD"
       },
@@ -1303,7 +1363,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-07",
       "duration_ms": 171958,
       "name": "NOT LOVE?!",
       "url": "https://open.spotify.com/track/2pAmFEcLok5Saxt3lX5ZOm"
@@ -1619,7 +1679,7 @@
       ],
       "date_added": "2022-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-07",
       "duration_ms": 254326,
       "name": "Suga Candy",
       "url": "https://open.spotify.com/track/3I4vcrlm9FLM2IT0xTuef8"
@@ -1681,7 +1741,7 @@
       ],
       "date_added": "2022-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-07",
       "duration_ms": 150588,
       "name": "time (with my ex)",
       "url": "https://open.spotify.com/track/1zIOhLm0hlzXjUrwVEzAbW"

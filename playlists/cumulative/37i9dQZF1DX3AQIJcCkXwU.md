@@ -4,7 +4,7 @@
 
 > Sitar, flute, and sounds inspired by India.
 
-120 songs - 9 hr 17 min - [published](https://open.spotify.com/playlist/35PeRJtM8vZWEeAUhuM5S9)
+124 songs - 9 hr 31 min - [published](https://open.spotify.com/playlist/35PeRJtM8vZWEeAUhuM5S9)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,12 +24,14 @@
 | [Blue Mosaic](https://open.spotify.com/track/2yhi4k6GZzEFNfPcys6HMt) | [Bombay Dub Orchestra](https://open.spotify.com/artist/070RPr7Euzwf3yboA9Xp2U) | [Tales from the Grand Bazaar](https://open.spotify.com/album/1XlBWu2ANXdvk4t378lrqR) | 7:16 | 2022-04-04 |  |
 | [Bombay Sunrise](https://open.spotify.com/track/6Qnj1hZkw76PzZdvpH0DRH) | [Mehdi Teyt & Rehla X](https://open.spotify.com/artist/0UfCWBHRcFM2ZqmnjkmJV9) | [Bombay Sunrise](https://open.spotify.com/album/1IczgH7IBmw7pcgcGEb6B8) | 2:47 | 2022-04-04 |  |
 | [Calm](https://open.spotify.com/track/3uHdKaAsG53vKxp5hKYxYU) | [Govinda](https://open.spotify.com/artist/0il1nryhnpaNrP63qYWWCC) | [Worlds Within](https://open.spotify.com/album/6ckfZUWTBzZGKzEzNLToET) | 5:12 | 2022-04-04 |  |
+| [Charukeshi Night](https://open.spotify.com/track/5G5NoxyuuL3DqYw3UInwro) | [Pawan Krishna](https://open.spotify.com/artist/7MYonYhUeKuW4KKXg3EJ1O) | [Indigo Sky](https://open.spotify.com/album/10s61p3x4e2Y3wBR7kgQz5) | 3:02 | 2022-10-08 |  |
 | [Chennai Anthem](https://open.spotify.com/track/7ihw8cWsxvc3GqkoGp7JM4) | [Dolkar Gurung](https://open.spotify.com/artist/6kMFvbChvt6LSvBY4361ZR) | [Chennai Anthem](https://open.spotify.com/album/32ABJ1jAshHThHKanHTozL) | 3:47 | 2022-04-04 |  |
 | [Colors of Love](https://open.spotify.com/track/06qxVIUENc5A9YhR02onIF) | [Sudhir Din](https://open.spotify.com/artist/7Hfu3XWHwdd2PgF0CAxIAr) | [Colors of Love](https://open.spotify.com/album/0celRHv5GlfB3k5Xsj2eHw) | 3:51 | 2022-04-04 |  |
 | [Common Pierrot Paths](https://open.spotify.com/track/3Xm4iHDqUc7NS4PNNLxxP1) | [Ranjan E](https://open.spotify.com/artist/6cREMEcDlVDzlRcvGzHrQq) | [Common Pierrot Paths](https://open.spotify.com/album/0WfnQuBv1xEqxvshcaaPe9) | 3:21 | 2022-07-11 |  |
 | [Conscious Journey](https://open.spotify.com/track/2ETuChyJUeHa3qeLqm0bOW) | [Sacred Flute](https://open.spotify.com/artist/6dn5BFtVFrmBuZXS3Pt2Qi) | [Conscious Journey](https://open.spotify.com/album/4bxQH9hlcLBBa92bGXVFqb) | 2:16 | 2022-09-30 |  |
 | [Cosmos](https://open.spotify.com/track/2ZJhL2pkytU1udly94xV7j) | [G.S\. Sachdev](https://open.spotify.com/artist/6jGk8eDMQBWb1IjNLI51Yz) | [Bansuri \- The Bamboo Flute of India](https://open.spotify.com/album/7l6MK2rackkPHiHhCINSxI) | 4:56 | 2022-04-04 |  |
 | [Dance with the Gods](https://open.spotify.com/track/2CbuXkrjjd5SlbleoqUKhB) | [Mystic Flute](https://open.spotify.com/artist/6M39PKc1oDclJBcQVpOgyc) | [Vaayu \- Elemental Indian Bamboo Flute](https://open.spotify.com/album/7cNbb370gpMoNVvgKgTOJ7) | 10:59 | 2022-04-04 |  |
+| [Dark to Light](https://open.spotify.com/track/6OTMqCpaAzJXu8TuR1ou2p) | [Pawan Krishna](https://open.spotify.com/artist/7MYonYhUeKuW4KKXg3EJ1O) | [Indigo Sky](https://open.spotify.com/album/10s61p3x4e2Y3wBR7kgQz5) | 3:44 | 2022-10-08 |  |
 | [Dawn Dusk Divinity](https://open.spotify.com/track/3Gs2uBopmgSkqI6Ww2IYnm) | [Devansh Tushar](https://open.spotify.com/artist/6A6XOlnYgaiM9qfRvSIHQL) | [Happy](https://open.spotify.com/album/6FXJ200cFy73fvSBZm0xfJ) | 2:59 | 2022-04-04 |  |
 | [Dervish Dream](https://open.spotify.com/track/3hGwUpndi1F8yEISLTJ0oH) | [Karunesh](https://open.spotify.com/artist/4M6YdvdCPW1fvQYbLwmNWZ) | [Colors of the East](https://open.spotify.com/album/2txU1Fihy0kyBEZHBYvp16) | 5:54 | 2022-04-04 |  |
 | [Designated Solitude](https://open.spotify.com/track/1KD5sDTDCSj2yPBh3OxQ1i) | [Sight of Wonders](https://open.spotify.com/artist/4TVuWsAEx3S4UnsJhA7QYD) | [Designated Solitude](https://open.spotify.com/album/1DDlDMpNFef0ksiYQCZ6j4) | 3:03 | 2022-04-04 |  |
@@ -59,6 +61,7 @@
 | [Kirwani](https://open.spotify.com/track/0j438lJoTSWzhmdaokcljh) | [Tenderlonious](https://open.spotify.com/artist/5D1w6T6H7pnRDQZIrhwlxo), [Jaubi](https://open.spotify.com/artist/3nb0xF02MfjP2lM9zVNgnp) | [Ragas from Lahore: Improvisations with Jaubi](https://open.spotify.com/album/5SB0DHPRMnyCY8tbMvDkmB) | 4:32 | 2022-07-18 | 2022-08-13 |
 | [Kirwani](https://open.spotify.com/track/3uEHOHPX2pDBLQ6QHWBpZs) | [Tenderlonious](https://open.spotify.com/artist/5D1w6T6H7pnRDQZIrhwlxo), [Jaubi](https://open.spotify.com/artist/3nb0xF02MfjP2lM9zVNgnp) | [Ragas from Lahore: Improvisations with Jaubi](https://open.spotify.com/album/7a3OBCH6fWKGb1MuKpIBKn) | 4:32 | 2022-04-04 | 2022-07-29 |
 | [Koodu Beat](https://open.spotify.com/track/3eWSufYeo9lVW9QvorDuPz) | [Qalander](https://open.spotify.com/artist/1fgzNEfvwvl89CVNprnohN) | [Koodu Beat](https://open.spotify.com/album/2HMB79pfnDfhWUtC3uosfV) | 3:35 | 2022-04-04 |  |
+| [Lok Samastha \- Instrumental Version](https://open.spotify.com/track/4l3rzdMhFlvk48wCQhAqyN) | [Pawan Krishna](https://open.spotify.com/artist/7MYonYhUeKuW4KKXg3EJ1O) | [Indigo Sky](https://open.spotify.com/album/10s61p3x4e2Y3wBR7kgQz5) | 2:44 | 2022-10-08 |  |
 | [Loving\-Kindness](https://open.spotify.com/track/4YQn86jDGtlXovQJT9nwiB) | [Vimassana](https://open.spotify.com/artist/1JwJysIUFMsM5HjV5fJvGv) | [Loving\-Kindness](https://open.spotify.com/album/0cHpCmG4oLbGPStNrpdgMD) | 2:50 | 2022-04-04 |  |
 | [Magnetic](https://open.spotify.com/track/31Wui18tjMUSmIig5fvf6o) | [Tabla Beat Science](https://open.spotify.com/artist/4jd6GufdXsJXzwXXb0zX2T) | [Tala Matrix](https://open.spotify.com/album/7K5JvSfWk1vQNdS9V5DNxu) | 7:43 | 2022-04-04 | 2022-09-07 |
 | [Matunga Road](https://open.spotify.com/track/1xyPoM0HauExUsfEaIzdF0) | [Pawan Krishna](https://open.spotify.com/artist/7MYonYhUeKuW4KKXg3EJ1O) | [Moksha](https://open.spotify.com/album/0Kv8gZ0PQe6Bm7CP9Pv9qY) | 3:17 | 2022-05-16 |  |
@@ -100,6 +103,7 @@
 | [Santosa \(Contentment\)](https://open.spotify.com/track/2oa9m04tRuNocGalPvAv4R) | [Michael Mandrell and Benjy Wertheimer](https://open.spotify.com/artist/0F6XbRSKV9dbY94XFhaAqD) | [Anjali](https://open.spotify.com/album/0nIweyYVQ98alzO6T2LOm7) | 8:36 | 2022-04-04 |  |
 | [Sapphire Dreams](https://open.spotify.com/track/26jg6XR2GmKTomzljp9aTC) | [Ledd Blue](https://open.spotify.com/artist/1YGWpdwoILEnUbvEZx3xnE) | [Sapphire Dreams](https://open.spotify.com/album/6rbIV6wLOZVpHkyThEFsE5) | 3:22 | 2022-04-04 |  |
 | [Shaantipoorn Sardee](https://open.spotify.com/track/32J8PZ2TsVXaylMujwAfQs) | [Kanti Kata](https://open.spotify.com/artist/2YKTWzjZkpGVHMdbAP0df5) | [Shaant Garmee](https://open.spotify.com/album/1OUUILFcARqONfzoxVxTlf) | 3:47 | 2022-05-09 |  |
+| [Shakthi Ganapathy](https://open.spotify.com/track/03nIRan6UXhE1LauTQuEPG) | [Aman Nandi](https://open.spotify.com/artist/6xc1xUCBEBFTkpn6czPe10) | [Garuda Sevai](https://open.spotify.com/album/3QjGleINdYDm4weNifzoyI) | 4:49 | 2022-10-05 |  |
 | [Sharad Rtu Hiran](https://open.spotify.com/track/3P5LCGwst6MHnfmCoDUqkq) | [Chand Adwani](https://open.spotify.com/artist/13fCAM11qEb6Jud1D48RLi) | [Aatma Momabattee](https://open.spotify.com/album/4vcltSZOJLMWgyomcNKHps) | 3:54 | 2022-05-24 |  |
 | [Shiva's Meditation](https://open.spotify.com/track/0TxmxoCQMiXvfFA6DPM1wT) | [Chinmaya Dunster](https://open.spotify.com/artist/7IZWH07w9P4HXc2Qo9xwpY) | [Ragas Relax](https://open.spotify.com/album/2PsPxcW53XCjlO4zaAhELj) | 5:09 | 2022-04-04 |  |
 | [Sights in Sound \(Shiva\)](https://open.spotify.com/track/7CatPZZMG9tx1Crhy5oTgL) | [DJ Drez](https://open.spotify.com/artist/5j3iObqG7iT7utWpTTmC7F) | [The Magnificent Hum](https://open.spotify.com/album/3UTW7AeSNDdZVKQBi8MjDM) | 4:22 | 2022-04-04 |  |

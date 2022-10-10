@@ -1,12 +1,12 @@
 {
   "description": "Celebrate the spirit of independence! Cover: John Mark McMillan",
-  "num_followers": 42522,
+  "num_followers": 42620,
   "original_name": "Indie Spirit",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYwODI3MTMzNCwwMDAwMDAwMDE5MjEzMWE3MzgzYzgxNjQ2ZTU2MDNlMjc1ZDgxOWMy",
+  "snapshot_id": "MTYwODI3MTMzNCwwMDAwMDAwMDRhYjljNGEyZjQ5MzRhMjlkN2QyYmNlZThkNWYwNjQ0",
   "tracks": [
     {
       "added_at": "2020-12-18 06:02:14",
@@ -211,6 +211,22 @@
     {
       "added_at": "2020-12-18 06:02:14",
       "album": {
+        "name": "Peace to All Who Enter Here",
+        "url": "https://open.spotify.com/album/5OSq9qdMdN2DyGx90wekZk"
+      },
+      "artists": [
+        {
+          "name": "Josh Garrels",
+          "url": "https://open.spotify.com/artist/16QSVsPKl743hu4U5C18R8"
+        }
+      ],
+      "duration_ms": 222800,
+      "name": "Wash Me Clean",
+      "url": "https://open.spotify.com/track/7jnKoJHxdjjjQGqbkgyRPH"
+    },
+    {
+      "added_at": "2020-12-18 06:02:14",
+      "album": {
         "name": "Come What May / Thought I Could Manage",
         "url": "https://open.spotify.com/album/4WqqatnIZhbNV2Ev91OsOD"
       },
@@ -231,22 +247,6 @@
     {
       "added_at": "2020-12-18 06:02:14",
       "album": {
-        "name": "Come Thou Fount of Every Blessing",
-        "url": "https://open.spotify.com/album/0makQ28NRMiZ1RsM9sUozp"
-      },
-      "artists": [
-        {
-          "name": "Cross Gray",
-          "url": "https://open.spotify.com/artist/1jmJ7gGsC5tgoQYXDnXArP"
-        }
-      ],
-      "duration_ms": 263954,
-      "name": "Come Thou Fount of Every Blessing",
-      "url": "https://open.spotify.com/track/5kbl04brVXsCOyDIHPVStj"
-    },
-    {
-      "added_at": "2020-12-18 06:02:14",
-      "album": {
         "name": "Carrollton",
         "url": "https://open.spotify.com/album/4oBlrxNq2gvN8OFwB05gYf"
       },
@@ -263,18 +263,18 @@
     {
       "added_at": "2020-12-18 06:02:14",
       "album": {
-        "name": "Peace to All Who Enter Here",
-        "url": "https://open.spotify.com/album/5OSq9qdMdN2DyGx90wekZk"
+        "name": "Come Thou Fount of Every Blessing",
+        "url": "https://open.spotify.com/album/0makQ28NRMiZ1RsM9sUozp"
       },
       "artists": [
         {
-          "name": "Josh Garrels",
-          "url": "https://open.spotify.com/artist/16QSVsPKl743hu4U5C18R8"
+          "name": "Cross Gray",
+          "url": "https://open.spotify.com/artist/1jmJ7gGsC5tgoQYXDnXArP"
         }
       ],
-      "duration_ms": 222800,
-      "name": "Wash Me Clean",
-      "url": "https://open.spotify.com/track/7jnKoJHxdjjjQGqbkgyRPH"
+      "duration_ms": 263954,
+      "name": "Come Thou Fount of Every Blessing",
+      "url": "https://open.spotify.com/track/5kbl04brVXsCOyDIHPVStj"
     },
     {
       "added_at": "2020-12-18 06:02:14",
@@ -291,42 +291,6 @@
       "duration_ms": 380800,
       "name": "Saving Me Still",
       "url": "https://open.spotify.com/track/1Hbao8n85TOgeIZFfZmCdV"
-    },
-    {
-      "added_at": "2020-12-18 06:02:14",
-      "album": {
-        "name": "Fractioned Heart",
-        "url": "https://open.spotify.com/album/4dPbUeI5mJoGjaUebBpIFL"
-      },
-      "artists": [
-        {
-          "name": "Gable Price and Friends",
-          "url": "https://open.spotify.com/artist/6d9rhdwIVsqblUFXu7qEBp"
-        },
-        {
-          "name": "Mark Barlow",
-          "url": "https://open.spotify.com/artist/6hR5fuwetYvTHfea4EwHvl"
-        }
-      ],
-      "duration_ms": 298093,
-      "name": "Communion",
-      "url": "https://open.spotify.com/track/797iTBEDnnkVfhBPNC17af"
-    },
-    {
-      "added_at": "2020-12-18 06:02:14",
-      "album": {
-        "name": "Find My Home",
-        "url": "https://open.spotify.com/album/64CTIXrru4VpjjUQi2MWLy"
-      },
-      "artists": [
-        {
-          "name": "Shiny Penny",
-          "url": "https://open.spotify.com/artist/7IL4gxLGehk1CQJFkzKBUy"
-        }
-      ],
-      "duration_ms": 260173,
-      "name": "Find My Home",
-      "url": "https://open.spotify.com/track/2UXLovstwsvXw01s3GIOqK"
     },
     {
       "added_at": "2020-12-18 06:02:14",
@@ -351,18 +315,22 @@
     {
       "added_at": "2020-12-18 06:02:14",
       "album": {
-        "name": "Twenty Four",
-        "url": "https://open.spotify.com/album/0tyhsvvuD7LAkKv2Z9FfU2"
+        "name": "Fractioned Heart",
+        "url": "https://open.spotify.com/album/4dPbUeI5mJoGjaUebBpIFL"
       },
       "artists": [
         {
-          "name": "Jonathan Ogden",
-          "url": "https://open.spotify.com/artist/2Q1d40J0u4IWGg4oZNPBZ7"
+          "name": "Gable Price and Friends",
+          "url": "https://open.spotify.com/artist/6d9rhdwIVsqblUFXu7qEBp"
+        },
+        {
+          "name": "Mark Barlow",
+          "url": "https://open.spotify.com/artist/6hR5fuwetYvTHfea4EwHvl"
         }
       ],
-      "duration_ms": 156386,
-      "name": "07:00 the Morning Comes",
-      "url": "https://open.spotify.com/track/1C8T1La2K8P9IyoIl9EYVK"
+      "duration_ms": 298093,
+      "name": "Communion",
+      "url": "https://open.spotify.com/track/797iTBEDnnkVfhBPNC17af"
     },
     {
       "added_at": "2020-12-18 06:02:14",
@@ -387,6 +355,38 @@
     {
       "added_at": "2020-12-18 06:02:14",
       "album": {
+        "name": "Twenty Four",
+        "url": "https://open.spotify.com/album/0tyhsvvuD7LAkKv2Z9FfU2"
+      },
+      "artists": [
+        {
+          "name": "Jonathan Ogden",
+          "url": "https://open.spotify.com/artist/2Q1d40J0u4IWGg4oZNPBZ7"
+        }
+      ],
+      "duration_ms": 156386,
+      "name": "07:00 the Morning Comes",
+      "url": "https://open.spotify.com/track/1C8T1La2K8P9IyoIl9EYVK"
+    },
+    {
+      "added_at": "2020-12-18 06:02:14",
+      "album": {
+        "name": "Find My Home",
+        "url": "https://open.spotify.com/album/64CTIXrru4VpjjUQi2MWLy"
+      },
+      "artists": [
+        {
+          "name": "Shiny Penny",
+          "url": "https://open.spotify.com/artist/7IL4gxLGehk1CQJFkzKBUy"
+        }
+      ],
+      "duration_ms": 260173,
+      "name": "Find My Home",
+      "url": "https://open.spotify.com/track/2UXLovstwsvXw01s3GIOqK"
+    },
+    {
+      "added_at": "2020-12-18 06:02:14",
+      "album": {
         "name": "Refuge",
         "url": "https://open.spotify.com/album/2rPhIcGwjnoNlXRpM454LH"
       },
@@ -403,22 +403,6 @@
     {
       "added_at": "2020-12-18 06:02:14",
       "album": {
-        "name": "VILLAIN",
-        "url": "https://open.spotify.com/album/1WYu7wMRAWA0G3IwqcwFAL"
-      },
-      "artists": [
-        {
-          "name": "Jared Marc",
-          "url": "https://open.spotify.com/artist/4VGrnFhLNsG1ni78qk7ZWM"
-        }
-      ],
-      "duration_ms": 246760,
-      "name": "Avalanche - Piano Version",
-      "url": "https://open.spotify.com/track/5P9944uZjaKP2TzRdtErdd"
-    },
-    {
-      "added_at": "2020-12-18 06:02:14",
-      "album": {
         "name": "Waters",
         "url": "https://open.spotify.com/album/20gTNgwCNIZeIM08IstOmi"
       },
@@ -431,6 +415,22 @@
       "duration_ms": 240630,
       "name": "Waters",
       "url": "https://open.spotify.com/track/44p22nZcu3acWIW8q7Qil8"
+    },
+    {
+      "added_at": "2020-12-18 06:02:14",
+      "album": {
+        "name": "VILLAIN",
+        "url": "https://open.spotify.com/album/1WYu7wMRAWA0G3IwqcwFAL"
+      },
+      "artists": [
+        {
+          "name": "Jared Marc",
+          "url": "https://open.spotify.com/artist/4VGrnFhLNsG1ni78qk7ZWM"
+        }
+      ],
+      "duration_ms": 246760,
+      "name": "Avalanche - Piano Version",
+      "url": "https://open.spotify.com/track/5P9944uZjaKP2TzRdtErdd"
     },
     {
       "added_at": "2020-12-18 06:02:14",
@@ -543,22 +543,6 @@
     {
       "added_at": "2020-12-18 06:02:14",
       "album": {
-        "name": "Sweet Water",
-        "url": "https://open.spotify.com/album/05T3jbSK1BqRRvSU5q0P9Q"
-      },
-      "artists": [
-        {
-          "name": "Beach Chapel",
-          "url": "https://open.spotify.com/artist/0xDQejb43c7yJ5nfCA7jv5"
-        }
-      ],
-      "duration_ms": 249066,
-      "name": "Sweet Water",
-      "url": "https://open.spotify.com/track/4hKM2qMuzJksWGyJcOyiAK"
-    },
-    {
-      "added_at": "2020-12-18 06:02:14",
-      "album": {
         "name": "Stained Glass",
         "url": "https://open.spotify.com/album/3Noi0cW0w1cMaWP0VCZxJN"
       },
@@ -575,18 +559,18 @@
     {
       "added_at": "2020-12-18 06:02:14",
       "album": {
-        "name": "Hollows",
-        "url": "https://open.spotify.com/album/2imamoQz5Xq5JRVd1SFP0l"
+        "name": "Sweet Water",
+        "url": "https://open.spotify.com/album/05T3jbSK1BqRRvSU5q0P9Q"
       },
       "artists": [
         {
-          "name": "Lion & Bear",
-          "url": "https://open.spotify.com/artist/5TsRb3Um92OMG44jdhhk1g"
+          "name": "Beach Chapel",
+          "url": "https://open.spotify.com/artist/0xDQejb43c7yJ5nfCA7jv5"
         }
       ],
-      "duration_ms": 266169,
-      "name": "Held by Your Love",
-      "url": "https://open.spotify.com/track/0dg0c9iEAUZkMb7bKjMjVK"
+      "duration_ms": 249066,
+      "name": "Sweet Water",
+      "url": "https://open.spotify.com/track/4hKM2qMuzJksWGyJcOyiAK"
     },
     {
       "added_at": "2020-12-18 06:02:14",
@@ -603,6 +587,22 @@
       "duration_ms": 294780,
       "name": "Loved by You",
       "url": "https://open.spotify.com/track/6MAjOwyEXcZtwZUPNpIeij"
+    },
+    {
+      "added_at": "2020-12-18 06:02:14",
+      "album": {
+        "name": "Hollows",
+        "url": "https://open.spotify.com/album/2imamoQz5Xq5JRVd1SFP0l"
+      },
+      "artists": [
+        {
+          "name": "Lion & Bear",
+          "url": "https://open.spotify.com/artist/5TsRb3Um92OMG44jdhhk1g"
+        }
+      ],
+      "duration_ms": 266169,
+      "name": "Held by Your Love",
+      "url": "https://open.spotify.com/track/0dg0c9iEAUZkMb7bKjMjVK"
     },
     {
       "added_at": "2020-12-18 06:02:14",
@@ -719,18 +719,18 @@
     {
       "added_at": "2020-12-18 06:02:14",
       "album": {
-        "name": "Take All of Me",
-        "url": "https://open.spotify.com/album/5HQj9QFkG10YJWHU70N2jr"
+        "name": "Keeper of Days",
+        "url": "https://open.spotify.com/album/0flP7iXzaUHPPyOeizocTn"
       },
       "artists": [
         {
-          "name": "Andrew Marcus",
-          "url": "https://open.spotify.com/artist/2tVAwkz1ElBIuRY3jk86yT"
+          "name": "Jon Guerra",
+          "url": "https://open.spotify.com/artist/0T5EH22oyMja9UmN0Rz95o"
         }
       ],
-      "duration_ms": 232506,
-      "name": "Take All of Me",
-      "url": "https://open.spotify.com/track/7iiGzIvHSPmf1dAuRoKJ5J"
+      "duration_ms": 244270,
+      "name": "Hiding Lord",
+      "url": "https://open.spotify.com/track/742fiVYKoENoZUaGtA8TMw"
     },
     {
       "added_at": "2020-12-18 06:02:14",
@@ -751,38 +751,6 @@
     {
       "added_at": "2020-12-18 06:02:14",
       "album": {
-        "name": "Everything Is Possible",
-        "url": "https://open.spotify.com/album/0u2ivB7R3oDMcA5zfUfeuX"
-      },
-      "artists": [
-        {
-          "name": "Matthew Zigenis",
-          "url": "https://open.spotify.com/artist/6qW8jmrfF8dslzJDELDxdj"
-        }
-      ],
-      "duration_ms": 269560,
-      "name": "Yes and Amen",
-      "url": "https://open.spotify.com/track/4DgiEJ7Jd1P91E88iswJoX"
-    },
-    {
-      "added_at": "2020-12-18 06:02:14",
-      "album": {
-        "name": "Keeper of Days",
-        "url": "https://open.spotify.com/album/0flP7iXzaUHPPyOeizocTn"
-      },
-      "artists": [
-        {
-          "name": "Jon Guerra",
-          "url": "https://open.spotify.com/artist/0T5EH22oyMja9UmN0Rz95o"
-        }
-      ],
-      "duration_ms": 244270,
-      "name": "Hiding Lord",
-      "url": "https://open.spotify.com/track/742fiVYKoENoZUaGtA8TMw"
-    },
-    {
-      "added_at": "2020-12-18 06:02:14",
-      "album": {
         "name": "Island",
         "url": "https://open.spotify.com/album/6xYY34SDgAPg308e965q0H"
       },
@@ -799,6 +767,22 @@
     {
       "added_at": "2020-12-18 06:02:14",
       "album": {
+        "name": "Take All of Me",
+        "url": "https://open.spotify.com/album/5HQj9QFkG10YJWHU70N2jr"
+      },
+      "artists": [
+        {
+          "name": "Andrew Marcus",
+          "url": "https://open.spotify.com/artist/2tVAwkz1ElBIuRY3jk86yT"
+        }
+      ],
+      "duration_ms": 232506,
+      "name": "Take All of Me",
+      "url": "https://open.spotify.com/track/7iiGzIvHSPmf1dAuRoKJ5J"
+    },
+    {
+      "added_at": "2020-12-18 06:02:14",
+      "album": {
         "name": "Magic in the Moment",
         "url": "https://open.spotify.com/album/7EIeW01jBbDJDgfMEVIhi2"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 193480,
       "name": "Magic in the Moment",
       "url": "https://open.spotify.com/track/7uQ2MT9hkwys1psdwVuFL3"
+    },
+    {
+      "added_at": "2020-12-18 06:02:14",
+      "album": {
+        "name": "Everything Is Possible",
+        "url": "https://open.spotify.com/album/0u2ivB7R3oDMcA5zfUfeuX"
+      },
+      "artists": [
+        {
+          "name": "Matthew Zigenis",
+          "url": "https://open.spotify.com/artist/6qW8jmrfF8dslzJDELDxdj"
+        }
+      ],
+      "duration_ms": 269560,
+      "name": "Yes and Amen",
+      "url": "https://open.spotify.com/track/4DgiEJ7Jd1P91E88iswJoX"
     },
     {
       "added_at": "2020-12-18 06:02:14",
@@ -879,18 +879,18 @@
     {
       "added_at": "2020-12-18 06:02:14",
       "album": {
-        "name": "Good As Gone",
-        "url": "https://open.spotify.com/album/32y5C6o9zbNZYypf951kAZ"
+        "name": "Trust",
+        "url": "https://open.spotify.com/album/4FG2QHZ20IVXsbyYY4Jz64"
       },
       "artists": [
         {
-          "name": "Citizens",
-          "url": "https://open.spotify.com/artist/3e7KVnSiZjsBkReSv0L6db"
+          "name": "Strahan",
+          "url": "https://open.spotify.com/artist/4x0DaBFhtHy0ol0ia4UJaP"
         }
       ],
-      "duration_ms": 239400,
-      "name": "Good As Gone",
-      "url": "https://open.spotify.com/track/5sKTOx9wcRrW84darhOBc5"
+      "duration_ms": 317989,
+      "name": "Trust",
+      "url": "https://open.spotify.com/track/0sPyXfEgBXTAvI5LMdyY91"
     },
     {
       "added_at": "2020-12-18 06:02:14",
@@ -911,34 +911,18 @@
     {
       "added_at": "2020-12-18 06:02:14",
       "album": {
-        "name": "Trust",
-        "url": "https://open.spotify.com/album/4FG2QHZ20IVXsbyYY4Jz64"
+        "name": "Good As Gone",
+        "url": "https://open.spotify.com/album/32y5C6o9zbNZYypf951kAZ"
       },
       "artists": [
         {
-          "name": "Strahan",
-          "url": "https://open.spotify.com/artist/4x0DaBFhtHy0ol0ia4UJaP"
+          "name": "Citizens",
+          "url": "https://open.spotify.com/artist/3e7KVnSiZjsBkReSv0L6db"
         }
       ],
-      "duration_ms": 317989,
-      "name": "Trust",
-      "url": "https://open.spotify.com/track/0sPyXfEgBXTAvI5LMdyY91"
-    },
-    {
-      "added_at": "2020-12-18 06:02:14",
-      "album": {
-        "name": "Follow Me",
-        "url": "https://open.spotify.com/album/0VUJTXs1I6cpspWGfjcIjJ"
-      },
-      "artists": [
-        {
-          "name": "Angelique Marketon",
-          "url": "https://open.spotify.com/artist/75aegD7DtUiK9w9LP9iwsA"
-        }
-      ],
-      "duration_ms": 312789,
-      "name": "Follow Me",
-      "url": "https://open.spotify.com/track/2Qq5fpfXnpqWvHsvXuMH3O"
+      "duration_ms": 239400,
+      "name": "Good As Gone",
+      "url": "https://open.spotify.com/track/5sKTOx9wcRrW84darhOBc5"
     },
     {
       "added_at": "2020-12-18 06:02:14",
@@ -959,38 +943,18 @@
     {
       "added_at": "2020-12-18 06:02:14",
       "album": {
-        "name": "What Living's All About",
-        "url": "https://open.spotify.com/album/6j6dWYkn8W6sZdyJw1NWqU"
+        "name": "Follow Me",
+        "url": "https://open.spotify.com/album/0VUJTXs1I6cpspWGfjcIjJ"
       },
       "artists": [
         {
-          "name": "LOVKN",
-          "url": "https://open.spotify.com/artist/2bEFxVGVlzEIEdDAaQZCrc"
+          "name": "Angelique Marketon",
+          "url": "https://open.spotify.com/artist/75aegD7DtUiK9w9LP9iwsA"
         }
       ],
-      "duration_ms": 186906,
-      "name": "What Living's All About",
-      "url": "https://open.spotify.com/track/6NPKhuDKnzS9U7HWzUhVxe"
-    },
-    {
-      "added_at": "2020-12-18 06:02:14",
-      "album": {
-        "name": "I Am One",
-        "url": "https://open.spotify.com/album/0UBI5alyeqYSys0BUPAnEF"
-      },
-      "artists": [
-        {
-          "name": "Sandra McCracken",
-          "url": "https://open.spotify.com/artist/435UmkDo0uchwmDeHdKWGN"
-        },
-        {
-          "name": "Citizens",
-          "url": "https://open.spotify.com/artist/3e7KVnSiZjsBkReSv0L6db"
-        }
-      ],
-      "duration_ms": 250409,
-      "name": "I Am One",
-      "url": "https://open.spotify.com/track/6cuwOV2JrWQSY2wKBCawzJ"
+      "duration_ms": 312789,
+      "name": "Follow Me",
+      "url": "https://open.spotify.com/track/2Qq5fpfXnpqWvHsvXuMH3O"
     },
     {
       "added_at": "2020-12-18 06:02:14",
@@ -1007,6 +971,38 @@
       "duration_ms": 197462,
       "name": "Found",
       "url": "https://open.spotify.com/track/1P1GB5tbf3wF9e7RyH1Qqu"
+    },
+    {
+      "added_at": "2020-12-18 06:02:14",
+      "album": {
+        "name": "What Living's All About",
+        "url": "https://open.spotify.com/album/6j6dWYkn8W6sZdyJw1NWqU"
+      },
+      "artists": [
+        {
+          "name": "LOVKN",
+          "url": "https://open.spotify.com/artist/2bEFxVGVlzEIEdDAaQZCrc"
+        }
+      ],
+      "duration_ms": 186906,
+      "name": "What Living's All About",
+      "url": "https://open.spotify.com/track/6NPKhuDKnzS9U7HWzUhVxe"
+    },
+    {
+      "added_at": "2020-12-18 06:02:14",
+      "album": {
+        "name": "Wendigo",
+        "url": "https://open.spotify.com/album/1F3g88B97YjpzE2Pc6Rw1q"
+      },
+      "artists": [
+        {
+          "name": "Penny and Sparrow",
+          "url": "https://open.spotify.com/artist/65o6y7GtoXzchyiJB3r9Ur"
+        }
+      ],
+      "duration_ms": 261191,
+      "name": "Salome & Saint Procula",
+      "url": "https://open.spotify.com/track/3U6uXEUbqUT8OlYrLgccOX"
     }
   ],
   "unique_name": "Indie Spirit",

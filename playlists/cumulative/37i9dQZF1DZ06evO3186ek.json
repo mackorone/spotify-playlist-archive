@@ -8,6 +8,36 @@
   "tracks": [
     {
       "album": {
+        "name": "Como En El Cielo",
+        "url": "https://open.spotify.com/album/144N5Ys734Sm3JHLXTTnCD"
+      },
+      "artists": [
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "Maverick City Musica",
+          "url": "https://open.spotify.com/artist/29lt2pgyQRRWbMqIeVHc9a"
+        },
+        {
+          "name": "Laila Olivera",
+          "url": "https://open.spotify.com/artist/5VtJqt6InNwbrpeZ492kWX"
+        },
+        {
+          "name": "Johnny Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/02vFhaWs4QCenZimcS7FTG"
+        }
+      ],
+      "date_added": "2022-10-04",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-06",
+      "duration_ms": 474408,
+      "name": "Acercame (feat. Johnny Pe\u00f1a & Laila Olivera)",
+      "url": "https://open.spotify.com/track/4kEF0MXh1BWR0c48T7a9RS"
+    },
+    {
+      "album": {
         "name": "Maverick City Music, Vol. 3: Pt. 2",
         "url": "https://open.spotify.com/album/2R4bNnZCEQUkebqJmcySBt"
       },
@@ -53,7 +83,7 @@
       ],
       "date_added": "2022-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-09",
       "duration_ms": 519396,
       "name": "Before and After (feat. Amanda Lindsey Cook)",
       "url": "https://open.spotify.com/track/1JICbpzjKvImlgKQOu7pf1"
@@ -83,7 +113,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-02",
+      "date_removed": null,
       "duration_ms": 494862,
       "name": "Better (feat. Brandon Lake & Tianna)",
       "url": "https://open.spotify.com/track/1lGDCGKIMrRTSQl8fjtn5l"
@@ -177,7 +207,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-02",
+      "date_removed": null,
       "duration_ms": 522994,
       "name": "Canvas & Clay (King of My Heart) [feat. DOE & Jonathan Traylor]",
       "url": "https://open.spotify.com/track/6amNHx1sQVZpsuAYkNO9n4"
@@ -207,7 +237,7 @@
       ],
       "date_added": "2022-09-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-21",
+      "date_removed": "2022-10-09",
       "duration_ms": 449704,
       "name": "Champion (feat. Brandon Lake & Maryanne J. George)",
       "url": "https://open.spotify.com/track/18drykjTj4apowUYLaTenY"
@@ -741,7 +771,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-30",
+      "date_removed": null,
       "duration_ms": 565833,
       "name": "Kingdom (feat. Naomi Raine & Chandler Moore)",
       "url": "https://open.spotify.com/track/4UTJRQlIDvePxa6deMMk4j"
@@ -927,7 +957,7 @@
       ],
       "date_added": "2022-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-09",
       "duration_ms": 621222,
       "name": "Move Your Heart (feat. Dante Bowe & Elyssa Smith)",
       "url": "https://open.spotify.com/track/66yilG6117AXfAjtzjtxk7"
@@ -953,7 +983,7 @@
       ],
       "date_added": "2022-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-05",
       "duration_ms": 421165,
       "name": "My Life is in Your Hands (feat. Chandler Moore)",
       "url": "https://open.spotify.com/track/73HndhN1se7Bdmwl5o4vVz"
@@ -1165,7 +1195,7 @@
       ],
       "date_added": "2022-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-05",
       "duration_ms": 578433,
       "name": "Remember (feat. Dante Bowe & Eniola Abioye)",
       "url": "https://open.spotify.com/track/7HoKBaEzZTKQYEB75e9lo4"
@@ -1247,7 +1277,7 @@
       ],
       "date_added": "2022-09-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-28",
+      "date_removed": null,
       "duration_ms": 489781,
       "name": "Shall Not Want (feat. Chandler Moore)",
       "url": "https://open.spotify.com/track/2mA8BJg8PWOJbsyah9MQ8Z"

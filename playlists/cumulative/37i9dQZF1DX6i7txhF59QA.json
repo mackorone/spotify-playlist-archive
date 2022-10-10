@@ -1191,7 +1191,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 206786,
       "name": "Barefooted youth",
       "url": "https://open.spotify.com/track/2quEJ0O0lsvl46cyvCiiaJ"
@@ -2433,7 +2433,7 @@
       ],
       "date_added": "2022-08-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-30",
+      "date_removed": "2022-10-08",
       "duration_ms": 241653,
       "name": "Dancing queen",
       "url": "https://open.spotify.com/track/3kOLMqLWYXUPd9fKMOYbN3"
@@ -5099,7 +5099,7 @@
       ],
       "date_added": "2022-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-05",
       "duration_ms": 190160,
       "name": "I happened to see her",
       "url": "https://open.spotify.com/track/2dJWB9GmhYlQGSr2gbuH8q"
@@ -7245,7 +7245,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-28",
+      "date_removed": "2022-10-06",
       "duration_ms": 108333,
       "name": "Man of harbor",
       "url": "https://open.spotify.com/track/6k2uEsC4enRSqgf3utAltW"
@@ -7453,7 +7453,7 @@
       ],
       "date_added": "2022-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-05",
       "duration_ms": 177626,
       "name": "MMM",
       "url": "https://open.spotify.com/track/10hdUAZZO3qVHr8KpwaB1U"
@@ -7471,7 +7471,7 @@
       ],
       "date_added": "2022-07-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-25",
+      "date_removed": null,
       "duration_ms": 177626,
       "name": "MMM",
       "url": "https://open.spotify.com/track/6hLDLjfNsCOs5Z7rCBnmqL"
@@ -13662,6 +13662,24 @@
     },
     {
       "album": {
+        "name": "\uc6b0\ub9ac\u5bb6",
+        "url": "https://open.spotify.com/album/3mUM8eFah712mh4MUdDx7w"
+      },
+      "artists": [
+        {
+          "name": "Kim Ho Joong",
+          "url": "https://open.spotify.com/artist/4T9AuhR3YqSqaPgXzPiAuH"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251173,
+      "name": "\ub098\ubcf4\ub2e4 \ub354 \uc0ac\ub791\ud574\uc694",
+      "url": "https://open.spotify.com/track/4aOozUyHI6r5LauMX6TtUw"
+    },
+    {
+      "album": {
         "name": "Korean Trot Contest PART.5",
         "url": "https://open.spotify.com/album/73AYOATUIFhqWlhWCAR3eF"
       },
@@ -13959,7 +13977,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-09",
       "duration_ms": 156356,
       "name": "\ubaa9\uacc4\ub098\ub8e8",
       "url": "https://open.spotify.com/track/4kMFwlv0Njwnakcy473jw3"
@@ -14053,6 +14071,24 @@
       "duration_ms": 201000,
       "name": "\ubb3c\uc548\uac1c \ube14\ub8e8\uc2a4(Bossa) Cafe Water Fog Blues(Bossa)",
       "url": "https://open.spotify.com/track/50QrAx0hzJemxQS6bM88pI"
+    },
+    {
+      "album": {
+        "name": "\ubc14\ubcf4 \uac19\uc740 \uc0ac\ub78c",
+        "url": "https://open.spotify.com/album/3XrJa2kkNDvkD0LMz7ECve"
+      },
+      "artists": [
+        {
+          "name": "YOYOMI",
+          "url": "https://open.spotify.com/artist/0wsUMUOnEa7yYtdqo1WFOR"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228172,
+      "name": "\ubc14\ubcf4 \uac19\uc740 \uc0ac\ub78c",
+      "url": "https://open.spotify.com/track/1YGw2tcb8dsBtcIrZYlj5s"
     },
     {
       "album": {
@@ -14281,6 +14317,24 @@
       "duration_ms": 212133,
       "name": "\uc2dc\uce58\ubbf8",
       "url": "https://open.spotify.com/track/2ua2r4tgzsFfKlSkgLWpug"
+    },
+    {
+      "album": {
+        "name": "\uc2f1\uae00 2 \ubc99\uae00",
+        "url": "https://open.spotify.com/album/1Rt0xebO1UFGpnXP2AtzzU"
+      },
+      "artists": [
+        {
+          "name": "DooRi",
+          "url": "https://open.spotify.com/artist/7ni7Z9DysFM0rbMnpvyzfs"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225693,
+      "name": "\uc2f1\uae00 2 \ubc99\uae00",
+      "url": "https://open.spotify.com/track/5yRSYLoDaJ3OnyYK9VXTJd"
     },
     {
       "album": {

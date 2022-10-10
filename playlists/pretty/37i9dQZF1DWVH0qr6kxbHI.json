@@ -1,12 +1,12 @@
 {
   "description": "Canciones inmortales, sentimientos a flor de piel y figuras gigantescas de nuestra m\u00fasica. Foto: Roc\u00edo Jurado",
-  "num_followers": 40036,
+  "num_followers": 40595,
   "original_name": "Reinas de la Canci\u00f3n Espa\u00f1ola",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MTE4MzMyMCwwMDAwMDAwMDgxZjFkMTM0NGFlYmIxYzY2ZDkwYjY1MWJhNjg0ZGU4",
+  "snapshot_id": "MTY1MTE4MzMyMCwwMDAwMDAwMDg3OGUyYzE5YzVjY2NkODhiYzdhNmI0ZGViYmQ0NTVm",
   "tracks": [
     {
       "added_at": "2022-04-28 22:02:00",
@@ -455,6 +455,22 @@
     {
       "added_at": "2022-04-28 22:02:00",
       "album": {
+        "name": "Amar Duele",
+        "url": "https://open.spotify.com/album/1kytw4zNG55ejk7a4xI3u2"
+      },
+      "artists": [
+        {
+          "name": "Falete",
+          "url": "https://open.spotify.com/artist/4y7BzzNw7IVw2J7IjDHaqD"
+        }
+      ],
+      "duration_ms": 226693,
+      "name": "S.O.S.",
+      "url": "https://open.spotify.com/track/2UHz5julqHL9gtroI5c1Vt"
+    },
+    {
+      "added_at": "2022-04-28 22:02:00",
+      "album": {
         "name": "15 Exitos Originales Con Rocio Jurado",
         "url": "https://open.spotify.com/album/2uQ2R6i42oi4qVF4JUxlMf"
       },
@@ -487,34 +503,18 @@
     {
       "added_at": "2022-04-28 22:02:00",
       "album": {
-        "name": "Amar Duele",
-        "url": "https://open.spotify.com/album/1kytw4zNG55ejk7a4xI3u2"
+        "name": "20 A\u00f1os De Amor",
+        "url": "https://open.spotify.com/album/0KduP5O1M4iAwubhBzFs9A"
       },
       "artists": [
         {
-          "name": "Falete",
-          "url": "https://open.spotify.com/artist/4y7BzzNw7IVw2J7IjDHaqD"
+          "name": "Tamara",
+          "url": "https://open.spotify.com/artist/1BY90fgPEPLRdSrdIV9zrz"
         }
       ],
-      "duration_ms": 226693,
-      "name": "S.O.S.",
-      "url": "https://open.spotify.com/track/2UHz5julqHL9gtroI5c1Vt"
-    },
-    {
-      "added_at": "2022-04-28 22:02:00",
-      "album": {
-        "name": "La Inimitable",
-        "url": "https://open.spotify.com/album/1XgissTsraQasZKaNzxWvZ"
-      },
-      "artists": [
-        {
-          "name": "Lola Flores",
-          "url": "https://open.spotify.com/artist/1ZcvF2meiXi5UPDJWxrKR5"
-        }
-      ],
-      "duration_ms": 208666,
-      "name": "A Tu Vera",
-      "url": "https://open.spotify.com/track/4awJGQ6TIS542X4XS7PWu7"
+      "duration_ms": 266986,
+      "name": "Si No Te Hubieras Ido",
+      "url": "https://open.spotify.com/track/0qSlVX5N1OCTIjQhI6uc8F"
     },
     {
       "added_at": "2022-04-28 22:02:00",
@@ -571,18 +571,18 @@
     {
       "added_at": "2022-04-28 22:02:00",
       "album": {
-        "name": "20 A\u00f1os De Amor",
-        "url": "https://open.spotify.com/album/0KduP5O1M4iAwubhBzFs9A"
+        "name": "La Inimitable",
+        "url": "https://open.spotify.com/album/1XgissTsraQasZKaNzxWvZ"
       },
       "artists": [
         {
-          "name": "Tamara",
-          "url": "https://open.spotify.com/artist/1BY90fgPEPLRdSrdIV9zrz"
+          "name": "Lola Flores",
+          "url": "https://open.spotify.com/artist/1ZcvF2meiXi5UPDJWxrKR5"
         }
       ],
-      "duration_ms": 266986,
-      "name": "Si No Te Hubieras Ido",
-      "url": "https://open.spotify.com/track/0qSlVX5N1OCTIjQhI6uc8F"
+      "duration_ms": 208666,
+      "name": "A Tu Vera",
+      "url": "https://open.spotify.com/track/4awJGQ6TIS542X4XS7PWu7"
     },
     {
       "added_at": "2022-04-28 22:02:00",
@@ -635,26 +635,6 @@
     {
       "added_at": "2022-04-28 22:02:00",
       "album": {
-        "name": "Gracias A Vosotros",
-        "url": "https://open.spotify.com/album/0U2kCRus4ANRCL4SoDkNRO"
-      },
-      "artists": [
-        {
-          "name": "Maria Dolores Pradera",
-          "url": "https://open.spotify.com/artist/58LNn3iNPmmHusH1EkyBm4"
-        },
-        {
-          "name": "Pablo Albor\u00e1n",
-          "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
-        }
-      ],
-      "duration_ms": 224000,
-      "name": "No Se por Que Te Quiero (with Pablo Alb\u00f3ran) - Con Pablo Alboran",
-      "url": "https://open.spotify.com/track/0545pp6WZyT1aSd9stPeu9"
-    },
-    {
-      "added_at": "2022-04-28 22:02:00",
-      "album": {
         "name": "Un Ramito De Violetas",
         "url": "https://open.spotify.com/album/6Kp4RsT85CYZq11sqzfPAw"
       },
@@ -671,18 +651,22 @@
     {
       "added_at": "2022-04-28 22:02:00",
       "album": {
-        "name": "Grandes exitos",
-        "url": "https://open.spotify.com/album/5QUmSZfBRoQbxCgGKCkTEP"
+        "name": "Gracias A Vosotros",
+        "url": "https://open.spotify.com/album/0U2kCRus4ANRCL4SoDkNRO"
       },
       "artists": [
         {
-          "name": "Lolita",
-          "url": "https://open.spotify.com/artist/1Jl0XzEt7csnco2FUybCrK"
+          "name": "Maria Dolores Pradera",
+          "url": "https://open.spotify.com/artist/58LNn3iNPmmHusH1EkyBm4"
+        },
+        {
+          "name": "Pablo Albor\u00e1n",
+          "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
         }
       ],
-      "duration_ms": 240200,
-      "name": "Sarandonga",
-      "url": "https://open.spotify.com/track/5zyYWk0NT25VIpcvg1OJ53"
+      "duration_ms": 224000,
+      "name": "No Se por Que Te Quiero (with Pablo Alb\u00f3ran) - Con Pablo Alboran",
+      "url": "https://open.spotify.com/track/0545pp6WZyT1aSd9stPeu9"
     },
     {
       "added_at": "2022-04-28 22:02:00",
@@ -723,6 +707,22 @@
     {
       "added_at": "2022-04-28 22:02:00",
       "album": {
+        "name": "Grandes exitos",
+        "url": "https://open.spotify.com/album/5QUmSZfBRoQbxCgGKCkTEP"
+      },
+      "artists": [
+        {
+          "name": "Lolita",
+          "url": "https://open.spotify.com/artist/1Jl0XzEt7csnco2FUybCrK"
+        }
+      ],
+      "duration_ms": 240200,
+      "name": "Sarandonga",
+      "url": "https://open.spotify.com/track/5zyYWk0NT25VIpcvg1OJ53"
+    },
+    {
+      "added_at": "2022-04-28 22:02:00",
+      "album": {
         "name": "No te olvides de mi (edicion original)",
         "url": "https://open.spotify.com/album/1CNbzyIo5xgLVZz2nZLA1V"
       },
@@ -735,22 +735,6 @@
       "duration_ms": 305106,
       "name": "Sola",
       "url": "https://open.spotify.com/track/2EMkMUHKcocs6BJatgmyfI"
-    },
-    {
-      "added_at": "2022-04-28 22:02:00",
-      "album": {
-        "name": "Amigo Conductor",
-        "url": "https://open.spotify.com/album/3o56rtilWI16b1gFSKK1Ub"
-      },
-      "artists": [
-        {
-          "name": "Perlita de Huelva",
-          "url": "https://open.spotify.com/artist/5zTPEWVkwm8Bl7ORmaPyyk"
-        }
-      ],
-      "duration_ms": 213000,
-      "name": "Amigo Conductor",
-      "url": "https://open.spotify.com/track/27m6FU6uMMmrhiOwgIQAjh"
     },
     {
       "added_at": "2022-04-28 22:02:00",
@@ -775,34 +759,18 @@
     {
       "added_at": "2022-04-28 22:02:00",
       "album": {
-        "name": "Banderas De Nadie",
-        "url": "https://open.spotify.com/album/5fhK35LQpXRXyRJoxpC1Kr"
+        "name": "Amigo Conductor",
+        "url": "https://open.spotify.com/album/3o56rtilWI16b1gFSKK1Ub"
       },
       "artists": [
         {
-          "name": "Pasi\u00f3n Vega",
-          "url": "https://open.spotify.com/artist/6M7I15G01CY1bzvGtfir9b"
+          "name": "Perlita de Huelva",
+          "url": "https://open.spotify.com/artist/5zTPEWVkwm8Bl7ORmaPyyk"
         }
       ],
-      "duration_ms": 245186,
-      "name": "Maria Se Bebe las Calles",
-      "url": "https://open.spotify.com/track/1IF2G18XKNrToVG1yiCmsj"
-    },
-    {
-      "added_at": "2022-04-28 22:02:00",
-      "album": {
-        "name": "Una estrella en mi jard\u00edn",
-        "url": "https://open.spotify.com/album/63KTRdfNbLMuJoMWKeaavu"
-      },
-      "artists": [
-        {
-          "name": "Mari Trini",
-          "url": "https://open.spotify.com/artist/0CVHw8AAgA5brxfblp1lsQ"
-        }
-      ],
-      "duration_ms": 303826,
-      "name": "Una estrella en mi jard\u00edn",
-      "url": "https://open.spotify.com/track/2nbX9cz1hpsLsi5fqVnlKK"
+      "duration_ms": 213000,
+      "name": "Amigo Conductor",
+      "url": "https://open.spotify.com/track/27m6FU6uMMmrhiOwgIQAjh"
     },
     {
       "added_at": "2022-04-28 22:02:00",
@@ -823,6 +791,22 @@
     {
       "added_at": "2022-04-28 22:02:00",
       "album": {
+        "name": "Banderas De Nadie",
+        "url": "https://open.spotify.com/album/5fhK35LQpXRXyRJoxpC1Kr"
+      },
+      "artists": [
+        {
+          "name": "Pasi\u00f3n Vega",
+          "url": "https://open.spotify.com/artist/6M7I15G01CY1bzvGtfir9b"
+        }
+      ],
+      "duration_ms": 245186,
+      "name": "Maria Se Bebe las Calles",
+      "url": "https://open.spotify.com/track/1IF2G18XKNrToVG1yiCmsj"
+    },
+    {
+      "added_at": "2022-04-28 22:02:00",
+      "album": {
         "name": "Mis Mejores Canciones",
         "url": "https://open.spotify.com/album/3t2qZdlJXoWGeenwUPD5qQ"
       },
@@ -839,18 +823,18 @@
     {
       "added_at": "2022-04-28 22:02:00",
       "album": {
-        "name": "Mis Recuerdos",
-        "url": "https://open.spotify.com/album/62UaBhe2SrSualZdmfXE0h"
+        "name": "Una estrella en mi jard\u00edn",
+        "url": "https://open.spotify.com/album/63KTRdfNbLMuJoMWKeaavu"
       },
       "artists": [
         {
-          "name": "Lolita",
-          "url": "https://open.spotify.com/artist/1Jl0XzEt7csnco2FUybCrK"
+          "name": "Mari Trini",
+          "url": "https://open.spotify.com/artist/0CVHw8AAgA5brxfblp1lsQ"
         }
       ],
-      "duration_ms": 230186,
-      "name": "Amor, Amor",
-      "url": "https://open.spotify.com/track/6lGrDctccq26IsZ2MDTxZU"
+      "duration_ms": 303826,
+      "name": "Una estrella en mi jard\u00edn",
+      "url": "https://open.spotify.com/track/2nbX9cz1hpsLsi5fqVnlKK"
     },
     {
       "added_at": "2022-04-28 22:02:00",
@@ -867,6 +851,22 @@
       "duration_ms": 241986,
       "name": "C\u00e1ntame",
       "url": "https://open.spotify.com/track/6p78Dg7LQNMwkVMj0O1Xso"
+    },
+    {
+      "added_at": "2022-04-28 22:02:00",
+      "album": {
+        "name": "Mis Recuerdos",
+        "url": "https://open.spotify.com/album/62UaBhe2SrSualZdmfXE0h"
+      },
+      "artists": [
+        {
+          "name": "Lolita",
+          "url": "https://open.spotify.com/artist/1Jl0XzEt7csnco2FUybCrK"
+        }
+      ],
+      "duration_ms": 230186,
+      "name": "Amor, Amor",
+      "url": "https://open.spotify.com/track/6lGrDctccq26IsZ2MDTxZU"
     },
     {
       "added_at": "2022-04-28 22:02:00",
@@ -911,22 +911,6 @@
     {
       "added_at": "2022-04-28 22:02:00",
       "album": {
-        "name": "Esc\u00fachame",
-        "url": "https://open.spotify.com/album/6xFDhmKZHP8nnUewCwcnTu"
-      },
-      "artists": [
-        {
-          "name": "Mari Trini",
-          "url": "https://open.spotify.com/artist/0CVHw8AAgA5brxfblp1lsQ"
-        }
-      ],
-      "duration_ms": 232000,
-      "name": "Que seas feliz",
-      "url": "https://open.spotify.com/track/1nZMtFO99lI9ks0g3Iqugo"
-    },
-    {
-      "added_at": "2022-04-28 22:02:00",
-      "album": {
         "name": "Viva Carlos Cano (Remasterizado)",
         "url": "https://open.spotify.com/album/4cGadXY3rcIvwxUGvsILly"
       },
@@ -947,6 +931,22 @@
     {
       "added_at": "2022-04-28 22:02:00",
       "album": {
+        "name": "De siempre - Antolog\u00eda de las sevillanas Vol. 1",
+        "url": "https://open.spotify.com/album/28m2JE16jXiHf6z2Rqlj2R"
+      },
+      "artists": [
+        {
+          "name": "Maria Del Monte",
+          "url": "https://open.spotify.com/artist/1WUrbWXyKy3FNdiLuRhlwW"
+        }
+      ],
+      "duration_ms": 215626,
+      "name": "Y se amaron dos caballos",
+      "url": "https://open.spotify.com/track/2VD2r9lDh1FgaoBI0H2K5Z"
+    },
+    {
+      "added_at": "2022-04-28 22:02:00",
+      "album": {
         "name": "Canciones De Oro",
         "url": "https://open.spotify.com/album/4uk4tv0wCcgsU4SbswJjO2"
       },
@@ -963,34 +963,18 @@
     {
       "added_at": "2022-04-28 22:02:00",
       "album": {
-        "name": "Ni\u00f1a de fuego (Standard version)",
-        "url": "https://open.spotify.com/album/0ISrJWxZE7Pt54vQTcIhbP"
+        "name": "Esc\u00fachame",
+        "url": "https://open.spotify.com/album/6xFDhmKZHP8nnUewCwcnTu"
       },
       "artists": [
         {
-          "name": "Buika",
-          "url": "https://open.spotify.com/artist/1gbXoccc8bjK8eUh92mILy"
+          "name": "Mari Trini",
+          "url": "https://open.spotify.com/artist/0CVHw8AAgA5brxfblp1lsQ"
         }
       ],
-      "duration_ms": 219640,
-      "name": "La ni\u00f1a de fuego",
-      "url": "https://open.spotify.com/track/49cz5QoR3gQepQFTA6tjZu"
-    },
-    {
-      "added_at": "2022-04-28 22:02:00",
-      "album": {
-        "name": "Mujeres de M\u00fasica",
-        "url": "https://open.spotify.com/album/3R5uLGZ1DpE9HqG7Vgcoim"
-      },
-      "artists": [
-        {
-          "name": "Sole Gimenez",
-          "url": "https://open.spotify.com/artist/56FObtReljLqgs2bgQ0kZS"
-        }
-      ],
-      "duration_ms": 243386,
-      "name": "El Talism\u00e1n",
-      "url": "https://open.spotify.com/track/2DY2ZBvw0YK4fha1Ou5zNv"
+      "duration_ms": 232000,
+      "name": "Que seas feliz",
+      "url": "https://open.spotify.com/track/1nZMtFO99lI9ks0g3Iqugo"
     },
     {
       "added_at": "2022-04-28 22:02:00",
@@ -1011,6 +995,22 @@
       "duration_ms": 191973,
       "name": "En Un Mundo Raro",
       "url": "https://open.spotify.com/track/7pTetUpUv25OmBHfcnKpJa"
+    },
+    {
+      "added_at": "2022-04-28 22:02:00",
+      "album": {
+        "name": "Ni\u00f1a de fuego (Standard version)",
+        "url": "https://open.spotify.com/album/0ISrJWxZE7Pt54vQTcIhbP"
+      },
+      "artists": [
+        {
+          "name": "Buika",
+          "url": "https://open.spotify.com/artist/1gbXoccc8bjK8eUh92mILy"
+        }
+      ],
+      "duration_ms": 219640,
+      "name": "La ni\u00f1a de fuego",
+      "url": "https://open.spotify.com/track/49cz5QoR3gQepQFTA6tjZu"
     }
   ],
   "unique_name": "Reinas de la Canci\u00f3n Espa\u00f1ola",

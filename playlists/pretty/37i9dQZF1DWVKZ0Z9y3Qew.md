@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKZ0Z9y3Qew.md) - [plain]
 
 > Pacific Northwest music breaking waves\. Cover, Black Tones
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,586 likes - 50 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,593 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKZ0Z9y3Qew.md) - [plain]
 | 11 | [Lyfestyle](https://open.spotify.com/track/5YL0mkC377PDDrGSFqZ3q1) | [Wranq Ramone](https://open.spotify.com/artist/2kuCqR7ylTOiOWmELTPil5), [Jango](https://open.spotify.com/artist/5sB5Fubu4hC9D8NOlTuqJ6) | [Lyfestyle](https://open.spotify.com/album/5EF5vclHcgq1MIqNkCZDm0) | 3:13 |
 | 12 | [9 Out of 10](https://open.spotify.com/track/1bSU4pzBX5WtayjHEWjOLa) | [Tyrell G](https://open.spotify.com/artist/7r7eC2gycCXTwzykipt2Gf), [Highway](https://open.spotify.com/artist/3ipYF6lYiU7lmIb5k3JGej) | [9 Out of 10](https://open.spotify.com/album/4MUpu8JgpDBpPg9kWpet0X) | 3:09 |
 | 13 | [Herbs](https://open.spotify.com/track/6U3dD0Ab653YZoPOvpiaVO) | [Kid Cambo](https://open.spotify.com/artist/4n9wn5OJVBp96xO2cAqVDf), [SuburbanTrapstar](https://open.spotify.com/artist/0G4D8cALvzSuA5a1G9sAR7) | [Herbs](https://open.spotify.com/album/2LwZvilrgs9o0cUrmI7AuH) | 2:51 |
-| 14 | [Cant miss](https://open.spotify.com/track/5GZq8vKDxkWowB2liA9mBU) | [Dmann](https://open.spotify.com/artist/2nCBL8gOThAAnLFlVVeVlH) | [Cant miss](https://open.spotify.com/album/4L5mB4nqFFy8IBAGggcmXT) | 1:49 |
+| 14 | [Cant miss](https://open.spotify.com/track/5GZq8vKDxkWowB2liA9mBU) | [Dmann](https://open.spotify.com/artist/6m6qEhROja4gZPi0vQDiGr) | [Cant miss](https://open.spotify.com/album/4L5mB4nqFFy8IBAGggcmXT) | 1:49 |
 | 15 | [Counterfeit](https://open.spotify.com/track/5jrIJGAazBJqr85B3SIHnB) | [Lazā](https://open.spotify.com/artist/7KWbU8vlvkICzAOXsiRLal) | [Split](https://open.spotify.com/album/77HdnE9idz2OSqmw9VffSS) | 2:22 |
 | 16 | [AGIRLISAGUN ︻デ═一](https://open.spotify.com/track/4h0tUPK7QdiCnik9Tu2xjW) | [Noah](https://open.spotify.com/artist/3SlqdFKG2hP7Hjq8ZRVObZ), [Yung Wolf](https://open.spotify.com/artist/27gPbWnoWp4klWhkPVOA9H) | [AGIRLISAGUN ︻デ═一](https://open.spotify.com/album/5l4CDzPTdVCEkYJ9QB9FF9) | 2:03 |
 | 17 | [Can’t Decide](https://open.spotify.com/track/6pJT5pUwqdeWe22gxvid2G) | [Aminé](https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ) | [Limbo \(Deluxe\)](https://open.spotify.com/album/7v9X4S8SFPAgbhCQOM6RuR) | 2:40 |

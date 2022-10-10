@@ -4,7 +4,7 @@
 
 > Tengan a la mano las máscaras de lucha libre y la tabla de surf.
 
-220 songs - 10 hr 53 min - [published](https://open.spotify.com/playlist/3DsOFDYX7Pe6GJzMeJ9QUl)
+221 songs - 10 hr 56 min - [published](https://open.spotify.com/playlist/3DsOFDYX7Pe6GJzMeJ9QUl)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,6 +54,7 @@
 | [Corralera del veneno](https://open.spotify.com/track/2m53ucPyOfQ7NHHXAfVcF9) | [Guadalupe Plata](https://open.spotify.com/artist/7j7j2bTOawrElFWLh1bsoK) | [Guadalupe Plata 2018](https://open.spotify.com/album/7zLxRzZnE5Lkk8K9mtNogL) | 2:14 | 2021-09-03 | 2022-07-29 |
 | [Crime Scene](https://open.spotify.com/track/22G5ONHY2sCfNGLySQVDx0) | [Los Straitjacket](https://open.spotify.com/artist/5kZHM1iLvRuruP7dNAR8ak) | [Jet Set](https://open.spotify.com/album/6cPEX5uD34EuPDZYisJu3w) | 2:34 | 2021-09-03 | 2022-07-13 |
 | [Cuando No Estoy Contigo](https://open.spotify.com/track/2919sjFdazH79snBQfS7jZ) | [Rebel Cats](https://open.spotify.com/artist/2ukziVbiZa3N5eSdUOXgXL), [Luis Humberto Navejas](https://open.spotify.com/artist/7KSYCds3IeHtit1aYZZR4A) | [Rebel Cats Y Sus Amigos](https://open.spotify.com/album/6eEtfyJ0LiBL2EueE8Wmfw) | 3:40 | 2021-09-03 |  |
+| [Defcon 5](https://open.spotify.com/track/5Esuk5nhe9nBgTDLXZWh0V) | [Man Or Astro\-Man?](https://open.spotify.com/artist/3z3lEz2qH5h6qJa8DYukxY) | [Defcon 5...4...3...2...1](https://open.spotify.com/album/5b59CWlbRYqdAJkoj1gQKe) | 3:13 | 2021-09-03 | 2022-10-10 |
 | [Demolicion](https://open.spotify.com/track/2y09VqX40HrMpd3skVobOa) | [Wau y Los Arrrghs!!!](https://open.spotify.com/artist/6E5KbVutTSwdQMVtCDUVlh) | [Canten en Espanol](https://open.spotify.com/album/4fP6yefBsMCraBXac208kD) | 2:35 | 2021-09-03 | 2022-07-29 |
 | [Demolicion](https://open.spotify.com/track/4pRfLTRysjmc0gDRg9pRjr) | [Wau y Los Arrrghs!!!](https://open.spotify.com/artist/6E5KbVutTSwdQMVtCDUVlh) | [Canten en Espanol](https://open.spotify.com/album/2HpUINC7m9OS5B5hpPi5OO) | 2:35 | 2021-09-03 |  |
 | [Destino Cruel](https://open.spotify.com/track/7ByLKqJCBIoAJ3q0fOSvWp) | [Los Kahunas](https://open.spotify.com/artist/7BaYvs3P41031o3edkXrce) | [7 Mares](https://open.spotify.com/album/5DZIGy4HA6nnRP4GKyCVqi) | 2:46 | 2021-09-03 | 2022-07-17 |
@@ -213,7 +214,7 @@
 | [There But for the Grace of God Go I](https://open.spotify.com/track/0pDMnocBxXOPjBiTfYr8bl) | [The Gories](https://open.spotify.com/artist/5tcr1ujTO3Q0WH2wkY7RWh) | [Outta Here](https://open.spotify.com/album/0lmtSiRNAX5QXkQm4IuWHb) | 3:07 | 2021-09-03 |  |
 | [Third Stone From The Sun](https://open.spotify.com/track/7exSUyB5lLDAtrXN0FqIS1) | [Dick Dale](https://open.spotify.com/artist/6Ycrt8OjGSSFihsb0446eg) | [Guitar Legend: The Very Best Of Dick Dale](https://open.spotify.com/album/3K9OepIUQhdzIK298ljEol) | 6:34 | 2021-09-03 |  |
 | [Thompson & Richardson](https://open.spotify.com/track/5V6IpJRwPcddIgBtRkWdMl) | [Los Oxidados](https://open.spotify.com/artist/3OlKkG7n2HiLZieo4p8AFS) | [Death Man](https://open.spotify.com/album/5QRcivcTEBxWURU97CLdEL) | 2:11 | 2021-09-03 | 2022-07-09 |
-| [Tierra del Fuego](https://open.spotify.com/track/1RXRAgFZxwgfodanVexAfO) | [Langhorns](https://open.spotify.com/artist/1iReuG3AVPCkrxBtXEeUhV) | [Langhorns](https://open.spotify.com/album/5kQLgTlaXTkcq27zaGTSk4) | 2:40 | 2021-09-03 | 2022-10-02 |
+| [Tierra del Fuego](https://open.spotify.com/track/1RXRAgFZxwgfodanVexAfO) | [Langhorns](https://open.spotify.com/artist/1iReuG3AVPCkrxBtXEeUhV) | [Langhorns](https://open.spotify.com/album/5kQLgTlaXTkcq27zaGTSk4) | 2:40 | 2021-09-03 | 2022-10-08 |
 | [Tiki Surf](https://open.spotify.com/track/1OAcBwfDqJXWOawfaSfark) | [Sr\. Bikini](https://open.spotify.com/artist/1BtFs6l5AAFQ8FV5SHiz1J) | [Surf Extremo](https://open.spotify.com/album/6czwZmHzgAKNBeiypypGVK) | 1:56 | 2021-09-03 | 2022-07-29 |
 | [Tsunami Tsurprise](https://open.spotify.com/track/3wMrGuCEolLgMFwco9ZbMa) | [The Space Cossacks](https://open.spotify.com/artist/1XhaaT9U8CACi8QQepcl3p) | [Never Mind The Bolsheviks \- The Best Of…](https://open.spotify.com/album/6wz7bEL4keadApTdRTYy3z) | 3:37 | 2021-09-03 | 2022-07-26 |
 | [Twin Peaks Twist](https://open.spotify.com/track/6ORuHaU0JoaI2SpdbwmNSo) | [Messer Chups](https://open.spotify.com/artist/756Li3sKcK4EdDiniLPqRl) | [Heretic Channel](https://open.spotify.com/album/0TTC3ZnQ8BWvUGkMIiQ3Gl) | 3:23 | 2021-09-03 |  |

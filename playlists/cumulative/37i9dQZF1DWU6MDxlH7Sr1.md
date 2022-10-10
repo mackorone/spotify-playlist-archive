@@ -4,7 +4,7 @@
 
 > Soft Jazz in the background of your cocktail party.
 
-143 songs - 9 hr 58 min - [published](https://open.spotify.com/playlist/2vEWDsu9Afic181JBShVxc)
+146 songs - 10 hr 8 min - [published](https://open.spotify.com/playlist/2vEWDsu9Afic181JBShVxc)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [Day by Day](https://open.spotify.com/track/3XEbmnM9sO4aAmwzlZoBca) | [Old Town Trio](https://open.spotify.com/artist/4dSiNMDfIlI3qwNuAlk4dZ) | [I Wish I Knew How](https://open.spotify.com/album/1hTWsiAwmLzazoypEV1B67) | 3:50 | 2022-05-24 |  |
 | [Dear Old Stockholm](https://open.spotify.com/track/1ZrMKSaSBxizjBCYmxf1kg) | [CMC 3](https://open.spotify.com/artist/6GtEW3IyxraJqKi2h86JqC) | [Dear Old Stockholm](https://open.spotify.com/album/4GI4i7HoTbp7QQdMTGn28L) | 4:15 | 2022-04-26 |  |
 | [Deed I Do](https://open.spotify.com/track/7KKEgOZ5s7BzVHdkixB1wI) | [Sophia Holmes Band](https://open.spotify.com/artist/3EePJolpEJShAqsbVPPt95) | [Gloria's Step](https://open.spotify.com/album/1djIP5wgiaEERDzq0wA77c) | 3:25 | 2022-04-26 |  |
+| [Dog Day](https://open.spotify.com/track/1XMZnGBdPepIKvMFai5v2f) | [Martin Hoper](https://open.spotify.com/artist/6WkApyKcrvkGbgyASLSVbc) | [Dog Day](https://open.spotify.com/album/6XaCeKX8eXfyQQWseBzknI) | 3:39 | 2022-10-06 |  |
 | [Dolphin Dance](https://open.spotify.com/track/4Gj72lKjVm63j0gMLGaKSM) | [Gene Hart Trio](https://open.spotify.com/artist/5iUzoJfVuTECa0aM3nCCCh) | [The Way You Look Tonight](https://open.spotify.com/album/0nzNkXdsBxf7cvkBb19ihp) | 4:54 | 2022-04-26 |  |
 | [Dream A Little Dream](https://open.spotify.com/track/4WTZZfZC8DUontKybMe0ls) | [Tom Lewis Band](https://open.spotify.com/artist/2RJB1Zbmj9IK6f3OPHUBVx) | [Dream A Little Dream](https://open.spotify.com/album/4MU6tyhz6jdSLdR8wo4f9H) | 3:44 | 2022-04-26 |  |
 | [Easy To Love](https://open.spotify.com/track/5p5CfayA88AVKc76DcwK5e) | [Mike Coen](https://open.spotify.com/artist/17USEyRv0BAOsxvM5pnsA8) | [Easy To Love](https://open.spotify.com/album/3UdLObFDAErU8FcAkhtPCr) | 3:23 | 2022-09-06 |  |
@@ -72,6 +73,7 @@
 | [It's You Or No One](https://open.spotify.com/track/3CewMyxVNsiu94v6Vm0SS2) | [The Blue Green](https://open.spotify.com/artist/2MV5ORkK9NtSHyy4WbwY80) | [It's You Or No One](https://open.spotify.com/album/21kjz5LLIGohYrVYgkEI0r) | 3:34 | 2022-08-30 |  |
 | [It´s Easy To Remember](https://open.spotify.com/track/5PExCVG0iW5oiWpzHZjxMq) | [Geeder](https://open.spotify.com/artist/65SoHM1qvoOmpiIBxWGAk1) | [It´s Easy To Remember](https://open.spotify.com/album/2mQbfegP0VRuYuBP5sKihX) | 3:32 | 2022-04-26 |  |
 | [I´m Glad There Is You](https://open.spotify.com/track/5aSfAExWXaU5P4wuPkBINx) | [Carlton Maison Quartet](https://open.spotify.com/artist/0Tq1tUZV3Vw3CUvNwIjxpm) | [I´m Glad There Is You](https://open.spotify.com/album/5S8DO23pBgOdUIIfeup4IT) | 4:29 | 2022-04-26 |  |
+| [Just A Piece of My Heart](https://open.spotify.com/track/2XYa5MJShUKZ8wjnrVa2z6) | [6th Street Jazz](https://open.spotify.com/artist/1EQvOf7PPTDB3s0q1y9eD1) | [Romeo's Mood](https://open.spotify.com/album/2KVvscZOAVN4PwSo76HyjI) | 2:53 | 2022-10-06 |  |
 | [Kathy's Waltz](https://open.spotify.com/track/3XfaSRXfGuWT1rrn9lWx30) | [The Dave Brubeck Quartet](https://open.spotify.com/artist/4iRZAbYvBqnxrbs6K25aJ7) | [Time Out](https://open.spotify.com/album/0nTTEAhCZsbbeplyDMIFuA) | 4:47 | 2022-06-29 |  |
 | [Kathy's Waltz](https://open.spotify.com/track/4vNhTztObTig8utYwGsETO) | [The Dave Brubeck Quartet](https://open.spotify.com/artist/4iRZAbYvBqnxrbs6K25aJ7) | [Time Out](https://open.spotify.com/album/6P3jzdPK5VMbzuJ2HcRt9y) | 4:47 | 2022-04-26 | 2022-07-29 |
 | [Lady in the Blue Dress](https://open.spotify.com/track/4PtCTyed2hD6brWYYBZSQj) | [James Jackson Jazz Trio](https://open.spotify.com/artist/2VQmB7dgKLHJve0htcYfiQ) | [Lady in the Blue Dress](https://open.spotify.com/album/2nN6DzHIhxoFSzfEdxZszD) | 4:07 | 2022-04-26 | 2022-09-07 |
@@ -137,6 +139,7 @@
 | [The Duke](https://open.spotify.com/track/6V0opjIJTcAfcrwPVgDfb6) | [Bill Charlap Trio](https://open.spotify.com/artist/5isSr1JUeHt5cgh8oWz1Ja) | [The Duke](https://open.spotify.com/album/6C6SvmCkEqoNTFHMjEtwLk) | 6:45 | 2022-04-26 | 2022-06-23 |
 | [The Getaway](https://open.spotify.com/track/4Gme05BoYrBSgNJL3Ibo9E) | [Burt Mitchell](https://open.spotify.com/artist/5Wj6zFHgENkOCOMh4ZwGX0) | [The Getaway](https://open.spotify.com/album/140DzepgudObqMe1uv4W1f) | 3:36 | 2022-04-26 |  |
 | [The More I See You](https://open.spotify.com/track/35Hy6ZgjdMwwNqxLhjwfgA) | [10th Avenue Trio](https://open.spotify.com/artist/75ROAQf2ztcoLeAJJWcXjF) | [The End of a Love Affair](https://open.spotify.com/album/5VyKHmOAvAtmN2scwpPBwu) | 4:12 | 2022-04-26 |  |
+| [The Night We Called It A Day](https://open.spotify.com/track/6ltEJhAuJ2ofBl63qbHVN0) | [Odo Lefebvre](https://open.spotify.com/artist/7lLtsVLpDbuhSvr5UE6HIU) | [The Night We Called It A Day](https://open.spotify.com/album/6l6Z60Wy6MTZtbrBrJT5Cw) | 3:32 | 2022-10-06 |  |
 | [The Old Country](https://open.spotify.com/track/4Ttz5EWZc9f7sxdsAUnDQp) | [Ballroom Jazz Collective](https://open.spotify.com/artist/0i7Yh2vJ2r5pMEMUjgntGL) | [Somebody Like You](https://open.spotify.com/album/5mJN2sBu9QWJfwTM9YX6cR) | 3:38 | 2022-04-26 |  |
 | [The One I Love Belongs To Somebody Else](https://open.spotify.com/track/5NhuQJvgVRcZ0RgK9G2xoe) | [Bill Charlap Trio](https://open.spotify.com/artist/5isSr1JUeHt5cgh8oWz1Ja) | [Uptown, Downtown](https://open.spotify.com/album/5sLAAuNixDNK7b91imiLfM) | 5:01 | 2022-04-26 |  |
 | [These Foolish Things](https://open.spotify.com/track/2GkEZi94MfDIxjp36MAFuj) | [Willowdale](https://open.spotify.com/artist/57UeAcyqrdUXJlNLqXFtIF) | [These Foolish Things](https://open.spotify.com/album/5a7xDAK31J6a7T6ExUTDYn) | 3:32 | 2022-04-26 |  |

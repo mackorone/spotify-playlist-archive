@@ -91,7 +91,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-30",
+      "date_removed": null,
       "duration_ms": 155720,
       "name": "Blasteroid",
       "url": "https://open.spotify.com/track/5Z1dxiIrZGvnViXtY7N8g9"
@@ -307,7 +307,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-09",
       "duration_ms": 262783,
       "name": "Fallen Torches",
       "url": "https://open.spotify.com/track/55PBokVAiehQnFfapP54PK"
@@ -361,7 +361,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-02",
+      "date_removed": null,
       "duration_ms": 324786,
       "name": "Ghost of Karelia",
       "url": "https://open.spotify.com/track/2VzyWKHUmuxUq7J7I8wbng"
@@ -397,7 +397,7 @@
       ],
       "date_added": "2022-08-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-02",
+      "date_removed": "2022-10-07",
       "duration_ms": 279053,
       "name": "Halloween",
       "url": "https://open.spotify.com/track/17S89qlqmhEtGbHjzWWLaT"
@@ -505,7 +505,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-29",
+      "date_removed": "2022-10-09",
       "duration_ms": 213026,
       "name": "Joseph Merrick - Instrumental",
       "url": "https://open.spotify.com/track/10DrDEatayhTM9dx9FIHSF"
@@ -595,7 +595,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-03",
+      "date_removed": "2022-10-06",
       "duration_ms": 222266,
       "name": "Naked Burn",
       "url": "https://open.spotify.com/track/348pOMYZ4f4j8bkbX0hQcZ"
@@ -667,7 +667,7 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-29",
+      "date_removed": "2022-10-06",
       "duration_ms": 495591,
       "name": "Orion",
       "url": "https://open.spotify.com/track/1tvr1RopO3KsVQwP8etKA5"
@@ -757,7 +757,7 @@
       ],
       "date_added": "2022-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-09",
       "duration_ms": 327480,
       "name": "Quintessence",
       "url": "https://open.spotify.com/track/7n2K9HW8OhwFpWEdzeYu79"
@@ -833,6 +833,24 @@
       "duration_ms": 377695,
       "name": "Sickle and Peace",
       "url": "https://open.spotify.com/track/47RRcu032tugUTX8i6OGlt"
+    },
+    {
+      "album": {
+        "name": "Hushed and Grim",
+        "url": "https://open.spotify.com/album/5xnZl7sdxxIb4rkDcbD4IC"
+      },
+      "artists": [
+        {
+          "name": "Mastodon",
+          "url": "https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-09",
+      "duration_ms": 304231,
+      "name": "Skeleton of Splendor",
+      "url": "https://open.spotify.com/track/6CUu7qclEVd0pGZr6hFYZS"
     },
     {
       "album": {

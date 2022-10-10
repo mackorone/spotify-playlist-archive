@@ -4,7 +4,7 @@
 
 > Il meglio da Napoli e dalla scena campana\. Cover: Geolier, Luchè
 
-110 songs - 5 hr 17 min - [published](https://open.spotify.com/playlist/24YJoDhwO3164C86soW14C)
+111 songs - 5 hr 18 min - [published](https://open.spotify.com/playlist/24YJoDhwO3164C86soW14C)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -113,10 +113,11 @@
 | [U Know](https://open.spotify.com/track/1y3ubfKyYu9C0AtFGRcOdd) | [Hosawa](https://open.spotify.com/artist/0CA0vPSeG4YNObQrpfUq8H), [emvnuel](https://open.spotify.com/artist/6rGb0Db2lSQVMVWuSwzQBj) | [U Know](https://open.spotify.com/album/4Y7rrNJRqI3NLgY3tEZsP6) | 3:06 | 2022-05-10 | 2022-05-20 |
 | [UEUE](https://open.spotify.com/track/5Vq17WvWaqM8B6dj0qGFkB) | [Capozanarky](https://open.spotify.com/artist/4L2hq3OboU70UVsqOrU6qt) | [UEUE](https://open.spotify.com/album/2XCdtqGGbxzFq6OVg5jVK9) | 1:56 | 2022-06-23 | 2022-07-22 |
 | [Vado Fuori](https://open.spotify.com/track/368Bj5HWZe98B6ChmsK1XE) | [J Lord](https://open.spotify.com/artist/1SDzdhISMGaEQzOCaJQ45C) | [Vado Fuori](https://open.spotify.com/album/4OaeZ07Z64dd2sijgj5jvM) | 2:22 | 2022-06-02 | 2022-07-01 |
-| [Vida Loca](https://open.spotify.com/track/63WzPPR8lS0ibJeZvngg9A) | [Guerra](https://open.spotify.com/artist/4kEZMl8mZ5WX2fAQq6feTC) | [Vida Loca](https://open.spotify.com/album/4rLBnUhWRXUg8s1OOsWxNw) | 2:54 | 2022-09-08 |  |
+| [Vida Loca](https://open.spotify.com/track/63WzPPR8lS0ibJeZvngg9A) | [Guerra](https://open.spotify.com/artist/4kEZMl8mZ5WX2fAQq6feTC) | [Vida Loca](https://open.spotify.com/album/4rLBnUhWRXUg8s1OOsWxNw) | 2:54 | 2022-09-08 | 2022-10-08 |
 | [VIENI](https://open.spotify.com/track/6ga53DHuFADei7Y0onoWUd) | [Nicola Siciliano](https://open.spotify.com/artist/0q0CTttRdwiuDFmDiN7jAt) | [VIENI](https://open.spotify.com/album/0sgWDwkBePNAxRQsYniAiY) | 2:21 | 2022-07-28 |  |
 | [Vir' Napl](https://open.spotify.com/track/1UYR5OlOapoY15Ab1P4LLD) | [Oro](https://open.spotify.com/artist/5O698gAaB7zJPmKISQbmD5) | [Vir' Napl](https://open.spotify.com/album/0x6LcJ8VJaEorHhrl3keu7) | 2:44 | 2022-05-12 | 2022-07-01 |
 | [Vivo](https://open.spotify.com/track/7zWK17rJf8lZ4KDSRzdtfx) | [Moderup](https://open.spotify.com/artist/0EE0rv2NG4drYTTQrT0saQ) | [Vivo](https://open.spotify.com/album/3eYSp8MgzCLTPXTeAiF9GU) | 2:38 | 2022-05-10 | 2022-06-03 |
+| [WAVE](https://open.spotify.com/track/40WehEb4Lu7yItCp7AbNIj) | [MACHETE](https://open.spotify.com/artist/7Do8se3ZoaVqUt3woqqSrD), [Kunta](https://open.spotify.com/artist/2yJDUGrAgtX7NyJ1RULAnX) | [CANTERA MACHETE, VOL\. II](https://open.spotify.com/album/41nzTTUD0063x7Te16AYau) | 1:17 | 2022-10-07 |  |
 | [‘O Mar For](https://open.spotify.com/track/6P1AALlzkAOIyU6iBuQ9nU) | [Stefano Lentini](https://open.spotify.com/artist/064Wlx4YXsDEqEG0o5Hjxg), [Matteo Paolillo \- Icaro](https://open.spotify.com/artist/1bzx15Bv1ioIaewP85ad5J), [Lolloflow](https://open.spotify.com/artist/6od7hFnrVLa1zCuSyQimic), [Raiz](https://open.spotify.com/artist/6lEWyvLmlGZnwDdsUtu13P) | [The Sea Beyond \(Original TV Series Soundtrack\)](https://open.spotify.com/album/1x1DFGOBEtllKlV1PwwzG5) | 3:19 | 2022-05-10 | 2022-06-03 |
 
 \*This playlist was first scraped on 2022-05-12. Prior content cannot be recovered.

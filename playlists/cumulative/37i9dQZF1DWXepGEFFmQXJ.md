@@ -2,9 +2,9 @@
 
 ### [Fresh Country](https://open.spotify.com/playlist/37i9dQZF1DWXepGEFFmQXJ)
 
-> The cream of today's Country crop\. Cover: Kelsea Ballerini
+> The cream of today's Country crop\. Cover: Kaylee Bell
 
-234 songs - 12 hr 43 min - [published](https://open.spotify.com/playlist/4BrfIt5VuvXM9ZKeooO5jX)
+237 songs - 12 hr 54 min - [published](https://open.spotify.com/playlist/4BrfIt5VuvXM9ZKeooO5jX)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,7 @@
 | [AA](https://open.spotify.com/track/77oKig47u34qCCFWKMfu1e) | [Walker Hayes](https://open.spotify.com/artist/7sKxqpSqbIzphAKAhrqvlf) | [AA](https://open.spotify.com/album/7m5hJYb9a0sxNstIKm3PPz) | 3:09 | 2022-01-21 | 2022-06-24 |
 | [Admire](https://open.spotify.com/track/0wdFJP36ORnHvKNK0fEtTg) | [Jake Davey](https://open.spotify.com/artist/5dlylLGY11H1ekOD9hwHuK) | [Admire](https://open.spotify.com/album/6OpFEhugnMcaFwgVGoFFcg) | 3:34 | 2022-03-04 | 2022-07-18 |
 | [After the Breakdown](https://open.spotify.com/track/5XsBQNOToyIfL0dGp7KIna) | [McAlister Kemp](https://open.spotify.com/artist/3kYvlV6E961RxSCtavDXe6) | [After the Breakdown](https://open.spotify.com/album/6TDFO09pfq3OdtvKFEj9Ey) | 3:24 | 2022-03-31 | 2022-06-17 |
-| [Ain't Goin' Home](https://open.spotify.com/track/4HpMCEkK2bAYTsIaMnVfsc) | [Vixens Of Fall](https://open.spotify.com/artist/5E8CKxCEIm6vLESXqUExBt) | [Ain't Goin' Home](https://open.spotify.com/album/2BaCaOKP9hMhf68PTLKJY6) | 3:18 | 2022-07-21 |  |
+| [Ain't Goin' Home](https://open.spotify.com/track/4HpMCEkK2bAYTsIaMnVfsc) | [Vixens Of Fall](https://open.spotify.com/artist/5E8CKxCEIm6vLESXqUExBt) | [Ain't Goin' Home](https://open.spotify.com/album/2BaCaOKP9hMhf68PTLKJY6) | 3:18 | 2022-07-21 | 2022-10-07 |
 | [All Or Nothing](https://open.spotify.com/track/1LiMVKhl8eQNhhNTBRowb1) | [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia) | [All Or Nothing](https://open.spotify.com/album/78CHrctUDb2LjgFdInJwms) | 3:27 | 2022-05-06 | 2022-08-27 |
 | [Along The Way](https://open.spotify.com/track/23ZMim7wzLtHQW6bO0E2YK) | [Ella Powell](https://open.spotify.com/artist/1FvZtQAyRZTO5uSrazRJNe) | [Along The Way](https://open.spotify.com/album/2AjS8t5O4Q6hQUaAtLmgdt) | 3:18 | 2022-06-23 | 2022-09-09 |
 | [American Dream Truck](https://open.spotify.com/track/152TIXJ0UwKuf7j6nL0HFa) | [Morgan Evans](https://open.spotify.com/artist/6fzQ81ouajOEFqCIB9VwrS) | [The Country And The Coast Side A](https://open.spotify.com/album/1ElweYFwJ8U3meh38gMa8R) | 3:33 | 2021-12-30 | 2022-03-18 |
@@ -105,6 +105,7 @@
 | [Home To Me](https://open.spotify.com/track/1BWrFZ30QHoGVvz7JFsf70) | [Amy Sheppard](https://open.spotify.com/artist/3nF6cVGjzDA9S5rDyZLffl) | [Nothing But Wild](https://open.spotify.com/album/46YbOwWy2Dm27YsZDOCgpW) | 2:54 | 2022-09-15 |  |
 | [Homegrown Love](https://open.spotify.com/track/5f5YJPmTv7PiYgwN52btb5) | [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia) | [All Or Nothing](https://open.spotify.com/album/4Ficof37YsNcrLKaWSIbdp) | 3:10 | 2022-08-26 |  |
 | [Hope It's Hot Out](https://open.spotify.com/track/4CH3ynSZbUWlQO9n1P8j3V) | [Kyle Clark](https://open.spotify.com/artist/7mog8g5ixRhdaeCgIsiYtN) | [Hope It's Hot Out](https://open.spotify.com/album/7ovAaBOHPb0MhiefUZ9E8D) | 2:47 | 2022-06-02 |  |
+| [How You Love Someone](https://open.spotify.com/track/56XDLBRNjRSnQnwlWTuwKh) | [Mickey Guyton](https://open.spotify.com/artist/6nfN5B7Jmi853SHa9106Hz) | [How You Love Someone](https://open.spotify.com/album/5E3d726Sw4jFs5PPiDe5Du) | 4:25 | 2022-10-06 |  |
 | [Human](https://open.spotify.com/track/5AihIu9yF3flkw1jFMyfwW) | [Cody Johnson](https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I) | [Human The Double Album](https://open.spotify.com/album/3og8X1LYiVq3nPdMxpM9Wb) | 3:41 | 2022-09-08 |  |
 | [Humble Quest](https://open.spotify.com/track/2kxytjpDPwjZGqVLH8eWkr) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [Humble Quest](https://open.spotify.com/album/3BEDHGAd2zJh5dUL4dbmiw) | 3:24 | 2022-03-24 | 2022-06-17 |
 | [I Got You](https://open.spotify.com/track/7B7NXVMNyIel9Lux4uhVe2) | [McAlister Kemp](https://open.spotify.com/artist/3kYvlV6E961RxSCtavDXe6) | [We Roll On](https://open.spotify.com/album/0eAvk2L6IzDtdQMTJcveuA) | 3:51 | 2022-08-18 |  |
@@ -139,6 +140,7 @@
 | [Messy](https://open.spotify.com/track/1P9PIhdizfnJMHbTn3EJP5) | [Dozzi](https://open.spotify.com/artist/3oJVfkpZAG0eof3DVocdLB) | [Messy](https://open.spotify.com/album/5W9lqFf7aQ9T4NS4x4HmOf) | 2:51 | 2021-12-30 | 2022-01-07 |
 | [Mind Of Its Own](https://open.spotify.com/track/7kaWbPYrx51y8rdZ4vjT5d) | [Hunter Kaine](https://open.spotify.com/artist/7BLTxK00NuwBUyY9crfwt2) | [Mind Of Its Own](https://open.spotify.com/album/6f8oqU2S6SFdshhQyCorkk) | 3:09 | 2022-06-23 | 2022-09-24 |
 | [Minimum Wage](https://open.spotify.com/track/4ijajhHtBsOn91S4dgkhu7) | [Blake Shelton](https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw) | [Minimum Wage](https://open.spotify.com/album/0fQJbMjhfuiiP9HAQtrJEX) | 3:48 | 2021-12-30 | 2022-01-28 |
+| [Mr I Don't Care](https://open.spotify.com/track/2C5mtY0lQK9qyX8fJx6rOw) | [Emmagen Rain](https://open.spotify.com/artist/49eeshhMCwAN2P4HubqQQg) | [Mr I Don't Care](https://open.spotify.com/album/3YGsyzak046vwihQx3zThq) | 2:49 | 2022-10-06 |  |
 | [MUSCLE MEMORY](https://open.spotify.com/track/3rLEBpW17OHOovVl0kcFKZ) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [SUBJECT TO CHANGE](https://open.spotify.com/album/6twfTQ122kNcHAUXjFbe8a) | 3:31 | 2022-09-23 |  |
 | [My First Rodeo](https://open.spotify.com/track/66WyxMQdjf1TzFwOfzrLIi) | [Nikita Karmen](https://open.spotify.com/artist/4nqXJm2HDxew6vauRbyUAM) | [My First Rodeo](https://open.spotify.com/album/6cms9is1rZDsWLllknPs1t) | 3:15 | 2022-09-23 |  |
 | [MY PEOPLE](https://open.spotify.com/track/0dpR0v87wHwPKrBXwqxoEI) | [James Johnston](https://open.spotify.com/artist/69HMYPrcstafeCTHI3Dcp1) | [MY PEOPLE](https://open.spotify.com/album/6Yfvq2yJAHGJzEzwDWoF0i) | 2:55 | 2022-09-23 |  |
@@ -180,6 +182,7 @@
 | [Slow Down Girl](https://open.spotify.com/track/1vY84RjMLrximsaUSuUVgJ) | [Abby Christo](https://open.spotify.com/artist/0aE69mf1NjsaqZzXsoo4qH) | [Slow Down Girl](https://open.spotify.com/album/0h0scsiujwR3ZDmdaE6ia8) | 3:06 | 2022-08-05 |  |
 | [Slow Down Summer](https://open.spotify.com/track/1fff5nZGyRJtFLkOrSSwOU) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [Slow Down Summer](https://open.spotify.com/album/6uWWkRv3qKdFcFyayL1Vw4) | 3:36 | 2021-12-30 | 2022-04-01 |
 | [SMALL TOWN](https://open.spotify.com/track/1NesmjPETOsK9X9jR9qXZR) | [James Johnston](https://open.spotify.com/artist/69HMYPrcstafeCTHI3Dcp1) | [SMALL TOWN](https://open.spotify.com/album/3hCTc2Vollvn6DSK2uzMe3) | 2:40 | 2021-12-30 | 2022-06-17 |
+| [Small Town Friday Nights](https://open.spotify.com/track/4NkGmYoyhZ8qsJILRd5QSV) | [Kaylee Bell](https://open.spotify.com/artist/4J3TXBvAMckFbTxqxNYpDj) | [Small Town Friday Nights](https://open.spotify.com/album/1q499514mNBWntSo9j1n5i) | 3:03 | 2022-10-06 |  |
 | [Some Other Bar](https://open.spotify.com/track/1Y4smjUloaPcgZh99z0SGJ) | [ERNEST](https://open.spotify.com/artist/4GGfAshSkqoxpZdoaHm7ky) | [Some Other Bar](https://open.spotify.com/album/6hYRFzxWwKRLpasujAegzw) | 3:19 | 2022-03-17 | 2022-07-22 |
 | [Something Good's Gonna Happen \(feat\. Amy Sheppard\)](https://open.spotify.com/track/6xvx0rx68HedQx8U8UZwpx) | [The Wolfe Brothers](https://open.spotify.com/artist/1McMRetlMqavXFC8TCVfma), [Amy Sheppard](https://open.spotify.com/artist/3nF6cVGjzDA9S5rDyZLffl) | [Kids on Cassette](https://open.spotify.com/album/5VoiqgwCQqpnMB55nIMGni) | 2:21 | 2022-06-30 |  |
 | [Something I'll Never Get Back](https://open.spotify.com/track/1LQ1PCZsbIxz2uhkGNct9p) | [Kaylee Bell](https://open.spotify.com/artist/4J3TXBvAMckFbTxqxNYpDj) | [Silver Linings](https://open.spotify.com/album/5EMEAda8t8zLXlZ0oSFUZg) | 3:08 | 2021-12-30 | 2022-04-01 |
@@ -238,7 +241,7 @@
 | [Wishful Drinking \(with Sam Hunt\)](https://open.spotify.com/track/3HGnIIdHYIbkowzLk8UHbE) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii), [Sam Hunt](https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38) | [Wishful Drinking \(with Sam Hunt\)](https://open.spotify.com/album/2vb8B3MYGjfYlGch4KlEfe) | 3:14 | 2021-12-30 | 2022-04-15 |
 | [Y'all Life](https://open.spotify.com/track/1KHCFA1Wb1MYQi4WQIYqrm) | [Walker Hayes](https://open.spotify.com/artist/7sKxqpSqbIzphAKAhrqvlf) | [Y'all Life](https://open.spotify.com/album/50v40WMdEdqVFy9stzuW3y) | 3:12 | 2022-07-18 |  |
 | [Y'all Means All \- from Season 6 of Queer Eye](https://open.spotify.com/track/0gWFFtKm8PaAJdpkajFlD1) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Y'all Means All \(from Season 6 of Queer Eye\)](https://open.spotify.com/album/5erJBPynDfaVs7es8K1kJ9) | 2:36 | 2021-12-30 | 2022-07-08 |
-| [You](https://open.spotify.com/track/2xPV95cfbyusygMTxpa3SW) | [Dan + Shay](https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T) | [Good Things](https://open.spotify.com/album/7L8IHgiomfEpxOm61vgPTm) | 3:16 | 2022-06-16 |  |
+| [You](https://open.spotify.com/track/2xPV95cfbyusygMTxpa3SW) | [Dan + Shay](https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T) | [Good Things](https://open.spotify.com/album/7L8IHgiomfEpxOm61vgPTm) | 3:16 | 2022-06-16 | 2022-10-07 |
 | [you and i](https://open.spotify.com/track/3jON45G4VACuJLaTrxyo24) | [Emmagen Rain](https://open.spotify.com/artist/49eeshhMCwAN2P4HubqQQg) | [you and i](https://open.spotify.com/album/0C9jaTxfUQQBlMLBG4XD4E) | 3:26 | 2022-04-07 | 2022-06-24 |
 | [You Proof](https://open.spotify.com/track/5uU1uuyaUIBOiiUSQG7Wl3) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [You Proof](https://open.spotify.com/album/2ORO3nNnFXxsvz9Pcd9RdI) | 2:37 | 2022-05-12 |  |
 | [Young Lovers](https://open.spotify.com/track/1bTL636ZejLR9VEgaLHMOU) | [Andrew Swift](https://open.spotify.com/artist/428gAQRnMEaxHVT0VoUNCd) | [Young Lovers](https://open.spotify.com/album/4pPOeH8ptXvDiLLohk0c5C) | 3:38 | 2022-04-07 | 2022-06-24 |

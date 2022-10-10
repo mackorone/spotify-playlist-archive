@@ -4,7 +4,7 @@
 
 > Afro culture mixed with Arab vibes\. Cover: Ali Loka.
 
-64 songs - 3 hr 26 min - [published](https://open.spotify.com/playlist/6p7Ms4VM5FDRXVJGpZcmVc)
+66 songs - 3 hr 34 min - [published](https://open.spotify.com/playlist/6p7Ms4VM5FDRXVJGpZcmVc)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,8 +14,9 @@
 | [Africa](https://open.spotify.com/track/2VQoGtt4uLmv5qTpei7BgB) | [Loun](https://open.spotify.com/artist/7owHrEghIYMf5fTVPPwkVB) | [Africa](https://open.spotify.com/album/1fAwh435ehVSq2uEuNJsZb) | 3:43 | 2022-06-29 |  |
 | [Africain](https://open.spotify.com/track/2SUjVxW58Oof4jbBt8oe5c) | [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh) | [Africain](https://open.spotify.com/album/0iRz9kDeFzcbXinRnk0jMh) | 3:44 | 2022-06-29 |  |
 | [Allo Mama](https://open.spotify.com/track/0X3j7PKZYinokK4csqWKdZ) | [NEGAPHONE](https://open.spotify.com/artist/3Sfm2ZwC8k4XhMMJpP4hgM) | [Allo Mama](https://open.spotify.com/album/4eInwPKDlzgMU0c9s90UdV) | 3:05 | 2022-06-29 |  |
-| [Bambina](https://open.spotify.com/track/09NO7m5tTpmYhiEL5sBPwt) | [Aezaddy](https://open.spotify.com/artist/2EKF1Ek1qKKDzYfeBq9Y3i) | [Bambina](https://open.spotify.com/album/1Kfc1pIltwwiY27TLdFwrs) | 3:20 | 2022-06-29 |  |
+| [Bambina](https://open.spotify.com/track/09NO7m5tTpmYhiEL5sBPwt) | [Aezaddy](https://open.spotify.com/artist/2EKF1Ek1qKKDzYfeBq9Y3i) | [Bambina](https://open.spotify.com/album/1Kfc1pIltwwiY27TLdFwrs) | 3:20 | 2022-06-29 | 2022-10-03 |
 | [Bambina](https://open.spotify.com/track/0lOLxwEXLME2ErktCMPCqM) | [Aezaddy](https://open.spotify.com/artist/2EKF1Ek1qKKDzYfeBq9Y3i) | [Bambina](https://open.spotify.com/album/4X7dvnMEgl6DU8K3QW3IYT) | 3:20 | 2022-06-29 | 2022-07-29 |
+| [Bambina](https://open.spotify.com/track/7GRkUt2D8RZJVn8uWVpa9o) | [Aezaddy](https://open.spotify.com/artist/2EKF1Ek1qKKDzYfeBq9Y3i) | [Bambina](https://open.spotify.com/album/6pVwkIiwNhL0Vd3auyMEjj) | 3:20 | 2022-07-29 |  |
 | [Bent Bledi](https://open.spotify.com/track/6pmfgLXdjDGh7yZNJm9UzE) | [JahMxli](https://open.spotify.com/artist/7M7zf29Oe6dQh3xmAk2DlN) | [Bent Bledi](https://open.spotify.com/album/7fGghF4qh710J4MH17PkdD) | 3:25 | 2022-06-29 |  |
 | [Camarade](https://open.spotify.com/track/0CfObNLYtMjLl48C6mas3e) | [Abdeelgha4](https://open.spotify.com/artist/714WB17jXnpvAmSRQJpYGv) | [Camarade](https://open.spotify.com/album/793etT1bYUi0QuQYKaXwjq) | 2:42 | 2022-06-29 |  |
 | [Cartable](https://open.spotify.com/track/0L1amLwBWnkKWJsNrOC2Y2) | [Mons](https://open.spotify.com/artist/7douYKOyzk9ZRvGFu9UOnm) | [Têtu \(Deluxe Version\)](https://open.spotify.com/album/57LaqfE51kDdWhhWtjfn71) | 3:12 | 2022-06-29 |  |
@@ -53,6 +54,7 @@
 | [MaMuhim](https://open.spotify.com/track/5jqrCxRC2qTQxYuz9oWuPH) | [MazMars](https://open.spotify.com/artist/19m8P5KGufVKe4a29nwACa), [Seidosimba](https://open.spotify.com/artist/0IYctk4zZNrGlxLmWgQ88H) | [MaMuhim](https://open.spotify.com/album/7BZDsvwxKBjboLoGY4UtdO) | 3:43 | 2022-06-29 | 2022-07-29 |
 | [Man On Fire \- North Africa Remix](https://open.spotify.com/track/416C8Z5XpYe3Bw6ARnFieF) | [Idahams](https://open.spotify.com/artist/6jPVueiSr0OHgVetuTuv5O), [Jaylann](https://open.spotify.com/artist/27vSXvM0Ht2xGwRUUwpBAg) | [Man On Fire \(North Africa Remix\)](https://open.spotify.com/album/3IdsPL40Zv0UQfWpCRoPtk) | 2:47 | 2022-06-29 |  |
 | [Mehtar](https://open.spotify.com/track/0HOuIvqIhg8gmLSmh8tbOD) | [Ali Loka](https://open.spotify.com/artist/2llLuXpn4BLMUltSxkkcJ1) | [Mehtar](https://open.spotify.com/album/0JuLiEE1xg9UPf9M6KHqC7) | 3:27 | 2022-06-29 |  |
+| [Nansa](https://open.spotify.com/track/3evFZBD8uSlXvqBYWuUfri) | [A.L.A](https://open.spotify.com/artist/3MKpGPhBp9KeXjGooKHNDX) | [Balance](https://open.spotify.com/album/4CqnL9u5Vb1mtRTrk9C02x) | 4:10 | 2022-10-05 | 2022-10-07 |
 | [OU TT](https://open.spotify.com/track/7JotlZMd14McnZK1WcIdYX) | [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh), [Draganov](https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ) | [OU TT](https://open.spotify.com/album/5UPztfSCllKM7sHwKcHL45) | 4:04 | 2022-06-29 |  |
 | [Prblms](https://open.spotify.com/track/4Nm7SrYl6iaJ2wP1qLging) | [Syc](https://open.spotify.com/artist/6IayXElM5gfjgyWj9Ipbiu) | [Prblms](https://open.spotify.com/album/5ZbdbOFkiDW6puijGldPY5) | 3:10 | 2022-06-29 |  |
 | [Sabbinaha](https://open.spotify.com/track/4q7MWhLldYu7gyXRoHax5g) | [The C!rcle](https://open.spotify.com/artist/0O2a7rwD6h8c5atrT84A5F), [TooDope](https://open.spotify.com/artist/7D0M64Ii5Iv83dlQ50PMnd) | [A 249 Experience, Vol\. 1](https://open.spotify.com/album/5aPoFtmnkmYctV1f1vlVfI) | 3:02 | 2022-07-29 |  |

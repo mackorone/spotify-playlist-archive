@@ -565,7 +565,7 @@
       ],
       "date_added": "2022-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-04",
       "duration_ms": 202587,
       "name": "Samarcande",
       "url": "https://open.spotify.com/track/0kBBID6PJWjdh0Feew3rtW"
@@ -1778,6 +1778,24 @@
     },
     {
       "album": {
+        "name": "\u5929\u6c14\u9884\u62a5",
+        "url": "https://open.spotify.com/album/5GJpp6vX5tAvJhzV0HWptC"
+      },
+      "artists": [
+        {
+          "name": "Cindy\u5927\u87e0\u6843\u5b50",
+          "url": "https://open.spotify.com/artist/3bdkqX2OKcnxvqnG5DmBSH"
+        }
+      ],
+      "date_added": "2022-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171639,
+      "name": "\u5929\u6c14\u9884\u62a5",
+      "url": "https://open.spotify.com/track/29PXFwJJJhbv3qSvW1GD0H"
+    },
+    {
+      "album": {
         "name": "\u5929\u751f\u4e00\u5c0d",
         "url": "https://open.spotify.com/album/5uSx00qbtn0iZbyM44YXYY"
       },
@@ -2195,6 +2213,24 @@
       "duration_ms": 177757,
       "name": "\u5c6c\u65bc\u4f60 - \u96fb\u5f71\u300a\u4e00\u5468\u7684\u670b\u53cb\u300b\u63d2\u66f2",
       "url": "https://open.spotify.com/track/6aAWv8sFAh1l1buBTUgTWo"
+    },
+    {
+      "album": {
+        "name": "\u5de6\u8fb9",
+        "url": "https://open.spotify.com/album/3l0aC2xHOJaDF9EWLeJQpx"
+      },
+      "artists": [
+        {
+          "name": "\u5c0f\u5305",
+          "url": "https://open.spotify.com/artist/70GgkbQstBRQJLwJsKADnC"
+        }
+      ],
+      "date_added": "2022-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182400,
+      "name": "\u5de6\u8fb9",
+      "url": "https://open.spotify.com/track/16nxkgxMYayeSct6XY4SmW"
     },
     {
       "album": {
@@ -2789,7 +2825,7 @@
       ],
       "date_added": "2022-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-04",
       "duration_ms": 207371,
       "name": "\u6162\u6162\u9760\u8fd1",
       "url": "https://open.spotify.com/track/1M0MsRnz3NfKqE37VyexwV"
@@ -3349,7 +3385,7 @@
       ],
       "date_added": "2022-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-07",
       "duration_ms": 283360,
       "name": "\u6eab\u6cc9",
       "url": "https://open.spotify.com/track/04GpBu5gm14iLJRfmwi4RS"
@@ -3693,6 +3729,28 @@
       "duration_ms": 246580,
       "name": "\u76f4\u5230\u6211\u9047\u898b\u4e86\u4f60",
       "url": "https://open.spotify.com/track/3LAgIUioZHAUaCjj4KsX9Y"
+    },
+    {
+      "album": {
+        "name": "\u96fb\u8996\u5287\u300a\u4f60\u5fae\u7b11\u6642\u5f88\u7f8e\u300b\u5f71\u8996\u539f\u8072\u5e36",
+        "url": "https://open.spotify.com/album/3chqJvgxqZfXOhISPnJCNs"
+      },
+      "artists": [
+        {
+          "name": "Kai Xu",
+          "url": "https://open.spotify.com/artist/5aL82Rnbtx5DQp5cAcCUdI"
+        },
+        {
+          "name": "Xiao Cheng",
+          "url": "https://open.spotify.com/artist/1o4C8yeeDMUpc2Hq4jRTwT"
+        }
+      ],
+      "date_added": "2022-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208998,
+      "name": "\u7b2c\u4e00\u9ed8\u5951 (\u7535\u89c6\u5267 \u300a\u4f60\u5fae\u7b11\u65f6\u5f88\u7f8e\u300b \u7247\u5c3e\u66f2)",
+      "url": "https://open.spotify.com/track/4Y7gVsky7KNr4P8Bjbtlcy"
     },
     {
       "album": {

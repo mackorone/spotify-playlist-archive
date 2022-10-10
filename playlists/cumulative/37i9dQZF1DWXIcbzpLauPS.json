@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "This is the new Core at its finest. Cover: Lorna Shore",
+  "description": "This is the new Core at its finest. Cover: From Ashes to New feat. Matty Mullins",
   "name": "The Core",
   "published_playlist_ids": [
     "3WEyotDPwbgzHjigMpDgbN"
@@ -2517,6 +2517,28 @@
       "duration_ms": 255750,
       "name": "Deadlock",
       "url": "https://open.spotify.com/track/2etljcSPMGHn4xvBW2MKV6"
+    },
+    {
+      "album": {
+        "name": "Deadly Potential",
+        "url": "https://open.spotify.com/album/3MQj3V69ZtkWi9mLV3lcmy"
+      },
+      "artists": [
+        {
+          "name": "Unseen Faith",
+          "url": "https://open.spotify.com/artist/0jxsB41mcHVlqUygQZ9o7V"
+        },
+        {
+          "name": "Siamese",
+          "url": "https://open.spotify.com/artist/0Hx4gv3eoiodtu6XYHF1X0"
+        }
+      ],
+      "date_added": "2022-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184500,
+      "name": "Deadly Potential",
+      "url": "https://open.spotify.com/track/1JZx2mGv66ttbIExCIDytp"
     },
     {
       "album": {
@@ -5889,7 +5911,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 252000,
       "name": "Low",
       "url": "https://open.spotify.com/track/1HG4TOUb5ETGmd6mJAwQrZ"
@@ -6647,7 +6669,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-01",
+      "date_removed": "2022-10-06",
       "duration_ms": 192000,
       "name": "No King Rules Forever",
       "url": "https://open.spotify.com/track/33a56ZdHf1SrYxgbGLf14n"
@@ -9911,7 +9933,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-23",
+      "date_removed": "2022-10-08",
       "duration_ms": 204198,
       "name": "Trapped",
       "url": "https://open.spotify.com/track/2rggHX6x7fQUmo4WXTBzMQ"
@@ -10121,6 +10143,28 @@
       "duration_ms": 262977,
       "name": "Unspoken",
       "url": "https://open.spotify.com/track/45A5LSkr8lptp6M1JYfpPo"
+    },
+    {
+      "album": {
+        "name": "Until We Break (feat. Matty Mullins of Memphis May Fire)",
+        "url": "https://open.spotify.com/album/5RcDVFgqW9VHShesfquQER"
+      },
+      "artists": [
+        {
+          "name": "From Ashes to New",
+          "url": "https://open.spotify.com/artist/4HrkLxQHZ5mgCtIVpiH5QX"
+        },
+        {
+          "name": "Memphis May Fire",
+          "url": "https://open.spotify.com/artist/7cNNNhdJDrt3vgQjwSavNf"
+        }
+      ],
+      "date_added": "2022-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214028,
+      "name": "Until We Break (feat. Matty Mullins of Memphis Mayfire)",
+      "url": "https://open.spotify.com/track/3uRuVa1eBgOjfsCegIq1lb"
     },
     {
       "album": {
@@ -10597,7 +10641,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-05",
       "duration_ms": 230068,
       "name": "White Rabbit",
       "url": "https://open.spotify.com/track/48gotqEngeagErLW3C1FUs"

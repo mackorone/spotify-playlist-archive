@@ -2,14 +2,16 @@
 
 ### [Afro Fusion](https://open.spotify.com/playlist/37i9dQZF1DXdiuTkmMSmb9)
 
-> Tropical jams to catch a vibe and whine to\. Cover: Sampa The Great
+> Tropical jams to catch a vibe and whine to\. Cover: Oxlade
 
-171 songs - 9 hr 2 min - [published](https://open.spotify.com/playlist/1ArHPlQ8o3lzkRSvom6Xc2)
+175 songs - 9 hr 15 min - [published](https://open.spotify.com/playlist/1ArHPlQ8o3lzkRSvom6Xc2)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [10 Toes \(feat\. Omah Lay\)](https://open.spotify.com/track/7JVUJLsVXysVpSWChbnz9I) | [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf), [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [5 Star](https://open.spotify.com/album/32Ls6JAwVZTbiRIyZ2H0lt) | 2:57 | 2022-07-21 |  |
+| [45](https://open.spotify.com/track/7xLP9GqWARDKSoGPsU3126) | [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [The Villain I Never Was](https://open.spotify.com/album/7mnGUuvsSbUHZdKkJYdmOg) | 2:52 | 2022-10-06 |  |
 | [Abeg](https://open.spotify.com/track/62cC7k1opRIS9sdviJnVj5) | [DJ Neptune](https://open.spotify.com/artist/3L4ZO0ZaSe1qeucpQK8tBR), [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF), [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Greatness 2.0](https://open.spotify.com/album/09HVEH824tr4OBfQmxgIxT) | 2:39 | 2022-07-18 |  |
+| [Abena](https://open.spotify.com/track/7zo5cuRZ2huGvHhfVrztr3) | [Kwame Anthem](https://open.spotify.com/artist/43FZHTH6FsPw5jEXT9yJp9) | [Abena](https://open.spotify.com/album/5hZpDWuDVdcVN8maH0WR8d) | 3:25 | 2022-10-06 |  |
 | [All Of Us \(Ashawo\)](https://open.spotify.com/track/6459gZKddpOoPIH8PAcCwS) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [Playboy](https://open.spotify.com/album/1pUJnA3OSbvVr5afqxNARZ) | 3:03 | 2022-08-04 |  |
 | [Ama](https://open.spotify.com/track/0jUtRyBXXB5EwrSd9zg6BM) | [Mike Akox](https://open.spotify.com/artist/4sdJBwV7eUY5d1BDpPPrIp) | [Ama](https://open.spotify.com/album/1kHJNx3QUnGiuXSWEPqAhL) | 3:43 | 2022-07-18 | 2022-08-26 |
 | [AMELA](https://open.spotify.com/track/2yj46P03UhlyepdGwOTPET) | [$tREETZ](https://open.spotify.com/artist/64S0MqV5RtfLcvoSmCfbSG), [H Lui\-Même](https://open.spotify.com/artist/5eAZHFWq1UpAVVdYVrZvlC) | [AMELA](https://open.spotify.com/album/0f6ooDeq4LHY3wSkTZBVD1) | 3:00 | 2022-07-18 | 2022-08-19 |
@@ -18,6 +20,7 @@
 | [Ayo Girl \(Fayahh Beat\) \[feat\. Rema\]](https://open.spotify.com/track/57Hk0AE5OhgXrPWZOhipHt) | [Robinson](https://open.spotify.com/artist/352VD5fhV8xzAFcmO7lMwg), [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Ayo Girl \(Fayahh Beat\) \[feat\. Rema\]](https://open.spotify.com/album/3yR3SqAQdeR0fGXdV4NhXu) | 2:45 | 2022-07-18 |  |
 | [B\. D’OR \(feat\. Wizkid\)](https://open.spotify.com/track/3ketN3dth18vSJ1T3HIztN) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [B\. D’OR \(feat\. Wizkid\)](https://open.spotify.com/album/2Nwv16YY4xo8Jm4TVm54i9) | 3:09 | 2022-07-18 |  |
 | [Babyana](https://open.spotify.com/track/5dy9lQPfPsYgx8JNhguqgM) | [TheWesternGuide](https://open.spotify.com/artist/3Ps1KUmU2DZIpboms9Bozn) | [Babyana](https://open.spotify.com/album/3J4gCEIsspF9BppDLjZyGK) | 2:52 | 2022-07-18 |  |
+| [Back In Uni](https://open.spotify.com/track/1DjjSWom4la3p67sZcBWTN) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W), [JAE5](https://open.spotify.com/artist/3NbqBIc16CNAe5nYSmHR3p) | [Back In Uni](https://open.spotify.com/album/3QvPbmCWd2dOOB0ZztZN5I) | 2:30 | 2022-10-06 |  |
 | [Bad n Rude \(feat\. WSTRN\)](https://open.spotify.com/track/5vwKhgUVH6G17g664pSZbf) | [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf), [WSTRN](https://open.spotify.com/artist/5nSAh3wlH7VaqpnkiMjzDs) | [Bad n Rude \(feat\. WSTRN\)](https://open.spotify.com/album/4t9NUCaBagfEhBDUgOPYGc) | 3:46 | 2022-07-18 | 2022-08-19 |
 | [Balance](https://open.spotify.com/track/2GWkmTjlEtBN6n6POjqLWP) | [Simi](https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0), [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s) | [TBH \(To Be Honest\)](https://open.spotify.com/album/3ok45X5OZt6s9PkZljnT5r) | 3:10 | 2022-07-18 |  |
 | [Bandana](https://open.spotify.com/track/5CTQCPv51aLWpwTbqo8mEL) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY), [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Bandana](https://open.spotify.com/album/18ykMJdXdkUldVNESaXDke) | 2:58 | 2022-07-28 |  |
@@ -79,6 +82,7 @@
 | [Last Last](https://open.spotify.com/track/5YbPxJwPfrj7uswNwoF1pJ) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Love, Damini](https://open.spotify.com/album/6kgDkAupBVRSqbJPUaTJwQ) | 2:52 | 2022-08-25 |  |
 | [LAVIDA](https://open.spotify.com/track/5i49kt8tpc85VbOHx3lz0T) | [Raf Receipt](https://open.spotify.com/artist/1VKRxxtnMP0EYuTmJ52m95) | [LAVIDA](https://open.spotify.com/album/6FUol8gRcthNNFKVVv9XBY) | 2:37 | 2022-09-08 |  |
 | [Lele](https://open.spotify.com/track/1I697suBHNxZ92r7RoqwK6) | [JKING](https://open.spotify.com/artist/305wwkdz2V7qZtTIvwPfMp), [Blueboy](https://open.spotify.com/artist/49tPWZ7vQeE7VscuIHqrn6), [Rowena](https://open.spotify.com/artist/47eKYwFgXbaQrFN2DUo485) | [WAHYAHSEY](https://open.spotify.com/album/4BZ1EKmrNVF316EYam3Pni) | 2:44 | 2022-09-08 |  |
+| [Let Me Be Great \[Feat\. Angélique Kidjo\]](https://open.spotify.com/track/7sXjwoCydLIZlJ1WpIyh9J) | [Sampa the Great](https://open.spotify.com/artist/7fw0E8WHdG3r9SuPBcGmWk), [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M) | [As Above, So Below](https://open.spotify.com/album/3QBYDADSp9ca7yNWL4hGzu) | 3:54 | 2022-10-06 |  |
 | [Life Goes On \(feat\. Sampa the Great\)](https://open.spotify.com/track/7pEAzggpyq4sjREdLBfcuX) | [Ezra Collective](https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W), [Sampa the Great](https://open.spotify.com/artist/7fw0E8WHdG3r9SuPBcGmWk) | [Life Goes On \(feat\. Sampa the Great\)](https://open.spotify.com/album/6cEqbEv5wTsNkOGr7k3HTU) | 3:23 | 2022-08-25 |  |
 | [Like This](https://open.spotify.com/track/3NPhVitPBsJnXkJeMvjNb2) | [Serge Ibaka](https://open.spotify.com/artist/4fDx6CTJ4KWhnAg6TvwmWe), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Gyakie](https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ) | [Like This](https://open.spotify.com/album/5VOK2852Mgf5GBTkUe1mFR) | 2:44 | 2022-07-18 |  |
 | [Litt](https://open.spotify.com/track/2QcW9UbaAB6ZRoEUxvz8ne) | [Ck The Walker](https://open.spotify.com/artist/1qj7aZCAUofmM7oDp3zpkq), [Jaybeecombz](https://open.spotify.com/artist/3U3lYfjXKhvJIJj7AbSLS2) | [HENNY TIME](https://open.spotify.com/album/5tvhCXK3tjFkJgwG0Uhqng) | 3:45 | 2022-07-18 | 2022-08-26 |

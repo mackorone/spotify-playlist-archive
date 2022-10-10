@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdfOcg1fm0VG.md) - [plain]
 
 > Double\-jump into these legendary video game soundtracks, featuring old favorites and new classics.
 
-[Spotify](https://open.spotify.com/user/spotify) - 568,651 likes - 106 songs - 6 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 570,842 likes - 106 songs - 6 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdfOcg1fm0VG.md) - [plain]
 | 26 | [Godrick the Grafted](https://open.spotify.com/track/6RhrqyCOyLiA3MzTu8ecmD) | [Shoi Miyazawa](https://open.spotify.com/artist/5RpBia18SUKXrsrHLYlrrd) | [Elden Ring \(Original Soundtrack\)](https://open.spotify.com/album/6WWL32UxPnjrIWlgLdzoir) | 4:48 |
 | 27 | [FFVII REMAKE: 闘う者達 \-なんでも屋の仕事\- \(Let the Battles Begin! \- A Merc's Job\)](https://open.spotify.com/track/43SHYfEdVPCIag9L3xtUVm) | [Nobuo Uematsu](https://open.spotify.com/artist/3V79CTgRnsDdJSTqKitROv) | [FINAL FANTASY VII REMAKE Original Soundtrack](https://open.spotify.com/album/2ufkFJsK2Hh2ZdmgrRmCv3) | 2:53 |
 | 28 | [Colored Engine](https://open.spotify.com/track/2U832A0zdb8OABhBmFjlWS) | [Joel Schoch](https://open.spotify.com/artist/6jDyAH1lGJdLV9rfEFgeGH) | [Far: Lone Sails](https://open.spotify.com/album/0WqpTTuUTg5jwnHC3raWgU) | 3:01 |
-| 29 | [Flame of Hope](https://open.spotify.com/track/1by9jxofwB9YKUqOqqOzZM) | [Motoi Sakuraba](https://open.spotify.com/artist/1DdhScDGl9AceKnbvgkFgz) | [Tales of Arise \(Original Game Soundtrack\)](https://open.spotify.com/album/4It1n0UCx3YTbe0vmWeVdS) | 3:51 |
+| 29 | [Flame of Hope](https://open.spotify.com/track/2LRj7dos9qXcoMSJZ7E9xy) | [Bandai Namco Game Music](https://open.spotify.com/artist/79TdUM8JBfntiLVLJVTS98), [Motoi Sakuraba](https://open.spotify.com/artist/1DdhScDGl9AceKnbvgkFgz) | [Tales of Arise \(Original Soundtrack\)](https://open.spotify.com/album/74coE6457t07plLwF26Bmo) | 3:51 |
 | 30 | [Super Mario Bros: Theme](https://open.spotify.com/track/5sDx7tlKik6y6k2wfCnrxL) | [Koji Kondo](https://open.spotify.com/artist/1CRvJnCbPjgx0xmBdoex0c), [Andrew Skeet](https://open.spotify.com/artist/3HohCe6uYgTtBJcV4PamyK), [London Philharmonic Orchestra](https://open.spotify.com/artist/3PfJE6ebCbCHeuqO4BfNeA) | [The Greatest Video Game Music](https://open.spotify.com/album/3bBCofH4VxHokZ6fRCgbGx) | 4:12 |
 | 31 | [Start a Cult](https://open.spotify.com/track/1ISexq6FLytZxcEqvn7LOk) | [River Boy](https://open.spotify.com/artist/0jyJkJaH4nFWPopjeIYRlA) | [Cult of the Lamb \(Original Soundtrack\)](https://open.spotify.com/album/6uFdRK2clKYng68ThOFDIE) | 4:59 |
 | 32 | [A Plague Tale Requiem](https://open.spotify.com/track/6QTIrIYGPNDpbcV961TJS1) | [Olivier Deriviere](https://open.spotify.com/artist/2CXwRGFTYdcEAI44NT7qDR), [Eric Maria Couturier](https://open.spotify.com/artist/0UqAL9Ez6drtGaSr9WuTZ1), [Estonian Philharmonic Chamber Choir](https://open.spotify.com/artist/4xz6NoBwhQYH0TLJU8bn5a) | [A Plague Tale: Requiem \(Original Soundtrack\)](https://open.spotify.com/album/7h4CSV1MgXOf5XKntD3Ivj) | 3:59 |
@@ -115,4 +115,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdfOcg1fm0VG.md) - [plain]
 | 105 | [Fabula Nova Crystallis \(From "Final Fantasy XIII"\)](https://open.spotify.com/track/0jJwod2HN9wpPEv6Io1wfa) | [Masashi Hamauzu](https://open.spotify.com/artist/63aGIPDyyk7J6s68Yy8vf5) | [Distant Worlds III: More Music from Final Fantasy](https://open.spotify.com/album/0jQi3Ed1ujzx8K12u9DIr6) | 2:54 |
 | 106 | [Get To Potions](https://open.spotify.com/track/3Wc0JpVHqMjXV5W9VNiWIn) | [James Hannigan](https://open.spotify.com/artist/6kfhASNYuazU444iSF4iuI) | [Ea Music Composer Series: James Hannigan, Vol\. 1 \(Original Soundtrack\)](https://open.spotify.com/album/234mcpdkR9lNkLt3TrPtkZ) | 1:46 |
 
-Snapshot ID: `MTY2MjcxOTQ1NywwMDAwMDAwMDZjMGJmYjIxMTg1YzY2Yzc0NTU4ZWYyNmJlNDhiY2Rj`
+Snapshot ID: `MTY2MjcxOTQ1NywwMDAwMDAwMGQzMzRmNGZkZmRjNjQ2ZTdiNjY3NTNmNzhmYmFlOTM2`

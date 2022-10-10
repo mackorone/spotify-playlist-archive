@@ -679,7 +679,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-03",
       "duration_ms": 212725,
       "name": "Hummingbird",
       "url": "https://open.spotify.com/track/6mgIfZWip9DpqFD6q2Gf4G"
@@ -911,6 +911,24 @@
       "duration_ms": 295396,
       "name": "Listening In",
       "url": "https://open.spotify.com/track/2MiE4uNtlIr7GKM6DwiUgl"
+    },
+    {
+      "album": {
+        "name": "Critical Equation",
+        "url": "https://open.spotify.com/album/2NsHYx621pWYlCrJFhTDaq"
+      },
+      "artists": [
+        {
+          "name": "Dr. Dog",
+          "url": "https://open.spotify.com/artist/4mLJ3XfOM5FPjSAWdQ2Jk7"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295396,
+      "name": "Listening In",
+      "url": "https://open.spotify.com/track/46D2L5WkfinP6scJ7sLX3Z"
     },
     {
       "album": {

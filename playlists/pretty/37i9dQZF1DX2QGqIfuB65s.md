@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2QGqIfuB65s.md) - [plain]
 
 > Get ready for a great week of golf with song picks from Justin Thomas, Jon Rahm, Bubba Watson, Collin Morikawa, & Max Homa.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,011 likes - 58 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,014 likes - 58 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViyN2b86Qnu.md) - [plain]
 
 > Removing the barriers of gender and genre, these are the brilliant sounds of transgender, non\-binary and gender\-fluid artists\. Cover: G Flip
 
-[Spotify](https://open.spotify.com/user/spotify) - 101,814 likes - 100 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 102,081 likes - 100 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViyN2b86Qnu.md) - [plain]
 | 13 | [Wave](https://open.spotify.com/track/4uhSS1aE2C4j9lk7Ea7XiW) | [Mo’Ju](https://open.spotify.com/artist/08kSC3EyOASw4LU1BmBG6g) | [O.K.](https://open.spotify.com/album/2roZhR0fCZQbphZ0M7Ek01) | 2:44 |
 | 14 | [A Shitty Gay Song About You](https://open.spotify.com/track/15ZQD1iYC6kZ0Z07D2aTcT) | [Ezra Williams](https://open.spotify.com/artist/0vNuaHjk7DINrw3iRkYs48) | [A Shitty Gay Song About You](https://open.spotify.com/album/0j4m5d4NaTU2y94sVAWz25) | 1:55 |
 | 15 | [Mannish Boy](https://open.spotify.com/track/4P8w7rdtAHEibetAqD8aF9) | [imbi](https://open.spotify.com/artist/2IHmdcnsjh89cIaDcVxTuF) | [Mannish Boy](https://open.spotify.com/album/4bv0aDc9XUkx9UcxuzR4p2) | 4:47 |
-| 16 | [Fall In Love With A Girl \(feat\. Beabadoobee\)](https://open.spotify.com/track/0rH1Y0mcALJgAq8EKF2Zwt) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8), [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Fall In Love With A Girl \(feat\. Beabadoobee\)](https://open.spotify.com/album/18czgkFPCbEyxqTGt3dBQ1) | 3:11 |
+| 16 | [fall in love with a girl \(feat\. Beabadoobee\)](https://open.spotify.com/track/0rH1Y0mcALJgAq8EKF2Zwt) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8), [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Fall In Love With A Girl \(feat\. Beabadoobee\)](https://open.spotify.com/album/18czgkFPCbEyxqTGt3dBQ1) | 3:11 |
 | 17 | [Dysphoria](https://open.spotify.com/track/1v7i4SO2KTF2hMnDODyoCo) | [Saint Wellesley](https://open.spotify.com/artist/5sMNbIyT8Uzg51gx65UvH6) | [You Don't Know Shit 'Bout](https://open.spotify.com/album/1ySu6uBo7PMgKvGmeuNvVO) | 2:40 |
 | 18 | [Heatwave](https://open.spotify.com/track/0aGbjADuRz7IUuZD5MZ4F6) | [Randa](https://open.spotify.com/artist/2XwPmktVwkeMCmxtpd3EKL) | [Heatwave](https://open.spotify.com/album/1JyYFAhNv3oeYc7J9K3uLl) | 4:11 |
 | 19 | [GAY 4 ME \- Spotify Singles \(feat\. Lauren Sanderson\)](https://open.spotify.com/track/4E1QNVcaLYlqyfjklxvwOK) | [G Flip](https://open.spotify.com/artist/4SdIXLzfabqU61iK7SnKAU), [Lauren Sanderson](https://open.spotify.com/artist/06vRrrjT3DBRkhBlXoBdYj) | [Spotify Singles](https://open.spotify.com/album/5T0dKiFf28USkwX1hGFzT8) | 4:44 |

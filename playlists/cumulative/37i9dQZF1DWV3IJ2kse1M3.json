@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-09",
-  "description": "\u5728\u97f3\u6a02\u7684\u61f7\u62b1\u88e1\uff0c\u4f60\u60f3\u54ed\u5c31\u54ed\u3002\n\u600e\u9ebc\u5148\u71be\u71b1\u7684\u537b\u5148\u8b8a\u51b7\u4e86\uff0c\u6162\u71b1\u7684\u537b\u505c\u4e0d\u4e86\u9084\u5728\u6cb8\u9a30\u8457\u3002",
+  "description": "\u5728\u97f3\u6a02\u7684\u61f7\u62b1\u88e1\uff0c\u4f60\u60f3\u54ed\u5c31\u54ed\u3002\n\u4f46\u4f60\u624d\u771f\u7684\u53ef\u60e1 \u83ab\u540d\u50b7\u5f97\u9ad4\u7121\u5b8c\u819a\n\u70ba\u8a8d\u771f\u6f14\u51fa \u7d50\u675f\u5f97\u5009\u4fc3 \u541e\u541e\u53c8\u5410\u5410\n\u8ab0\u62b1\u982d\u5730\u75db\u54ed \u71b1\u60c5\u5730\u6b61\u547c \u90fd\u53ef\u6709\u53ef\u7121\u3002",
   "name": "\u60b2\u50b7\u91cb\u653e",
   "published_playlist_ids": [
     "2SCoxCvdP1evPUUya0Z55H"
@@ -224,6 +224,24 @@
     },
     {
       "album": {
+        "name": "\u4e0d\u5728\u4e00\u8d77\u5c31\u4e0d\u6703\u5206\u958b",
+        "url": "https://open.spotify.com/album/3zdOCw1uKKB8I9jHC0E7Cg"
+      },
+      "artists": [
+        {
+          "name": "Pei-Yu Hung",
+          "url": "https://open.spotify.com/artist/0rARfHZ4ZteUlzbAuxUwAs"
+        }
+      ],
+      "date_added": "2022-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287333,
+      "name": "\u4e0d\u5728\u4e00\u8d77\u5c31\u4e0d\u6703\u5206\u958b",
+      "url": "https://open.spotify.com/track/4ozGCLtrgrzy6Ve3WWwtjN"
+    },
+    {
+      "album": {
         "name": "\u4e0d\u5728\u5834\u795d\u798f",
         "url": "https://open.spotify.com/album/3jpU9LGTmBdol6VS5fJtN9"
       },
@@ -426,6 +444,24 @@
     },
     {
       "album": {
+        "name": "\u4f60\u4e0d\u662f\u7b2c\u4e00\u500b\u96e2\u958b\u7684\u4eba",
+        "url": "https://open.spotify.com/album/2C8bIw4bA99REC2i34epaK"
+      },
+      "artists": [
+        {
+          "name": "G.E.M.",
+          "url": "https://open.spotify.com/artist/7aRC4L63dBn3CiLDuWaLSI"
+        }
+      ],
+      "date_added": "2022-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200287,
+      "name": "\u4f60\u4e0d\u662f\u7b2c\u4e00\u500b\u96e2\u958b\u7684\u4eba",
+      "url": "https://open.spotify.com/track/2uY8mN0tdlmy9E1zuHmWOh"
+    },
+    {
+      "album": {
         "name": "\u610f\u5916",
         "url": "https://open.spotify.com/album/6fdVEfGvTcT7TgipOorHD5"
       },
@@ -437,7 +473,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-05",
       "duration_ms": 310295,
       "name": "\u4f60\u8fd8\u8981\u6211\u600e\u6837",
       "url": "https://open.spotify.com/track/0kuKQQMx6L3efJuRVTgWQb"
@@ -639,6 +675,24 @@
       "duration_ms": 305333,
       "name": "\u534a\u60c5\u6b4c",
       "url": "https://open.spotify.com/track/4VfcZ1QIunfm38pd1lr1dW"
+    },
+    {
+      "album": {
+        "name": "BJ\u8086",
+        "url": "https://open.spotify.com/album/5T35349hTMWRleq4coPvV0"
+      },
+      "artists": [
+        {
+          "name": "Buddha Jump",
+          "url": "https://open.spotify.com/artist/43k1nPBByWctkFAvo16Xbc"
+        }
+      ],
+      "date_added": "2022-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253154,
+      "name": "\u53ef\u6709\u53ef\u7121",
+      "url": "https://open.spotify.com/track/1X9O2CmT8BYS5BDJki3UZL"
     },
     {
       "album": {
@@ -851,7 +905,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-05",
       "duration_ms": 287013,
       "name": "\u5982\u679c\u6c92\u6709\u4f60",
       "url": "https://open.spotify.com/track/5u6hY0h8gUWfPQSdNuKgQb"
@@ -1161,7 +1215,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-05",
       "duration_ms": 320400,
       "name": "\u6211\u4e0d\u96e3\u904e",
       "url": "https://open.spotify.com/track/4XrWar13kLO1jr535AzKrQ"
@@ -1475,6 +1529,24 @@
       "duration_ms": 266960,
       "name": "\u6697\u6200(\u96fb\u5f71\u300a\u6697\u6200\u00b7\u6a58\u751f\u6dee\u5357\u300b\u4e3b\u984c\u66f2)",
       "url": "https://open.spotify.com/track/1oJTWZecSvNcxXrPvY6AHA"
+    },
+    {
+      "album": {
+        "name": "\u6700\u5f8c\u4e00\u5802\u8ab2 (\u300a\u5abd,\u5225\u9b27\u4e86!\u300b\u5f71\u96c6\u7247\u5c3e\u66f2)",
+        "url": "https://open.spotify.com/album/5x6j8vBf5m91MUBEO5Jdxy"
+      },
+      "artists": [
+        {
+          "name": "Eric Chou",
+          "url": "https://open.spotify.com/artist/5fEQLwq1BWWQNR8GzhOIvi"
+        }
+      ],
+      "date_added": "2022-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278914,
+      "name": "\u6700\u5f8c\u4e00\u5802\u8ab2 - \u300a\u5abd,\u5225\u9b27\u4e86!\u300b\u5f71\u96c6\u7247\u5c3e\u66f2",
+      "url": "https://open.spotify.com/track/2OR5FUKy3GQ7I9DCbRnfsW"
     },
     {
       "album": {
@@ -1961,7 +2033,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-05",
       "duration_ms": 248573,
       "name": "\u8857\u89d2\u7684\u795d\u798f",
       "url": "https://open.spotify.com/track/1M5MN2PnMtf7YhnqukD4xa"

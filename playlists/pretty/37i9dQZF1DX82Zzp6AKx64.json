@@ -1,12 +1,12 @@
 {
   "description": "Emotional and powerful - let your feelings out with these classic power ballads. Cover: Meat Loaf\n",
-  "num_followers": 1064123,
+  "num_followers": 1065520,
   "original_name": "Rock Power Ballads",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzAxMDE4MywwMDAwMDAwMDlkNTk4MDAxYjc3YmYzNTZjOTZmNjZmY2UwY2ZiMmQ0",
+  "snapshot_id": "MTY2MzAxMDE4MywwMDAwMDAwMDBmYjdhNDU4OTg3NTNmOTc2ODQ5ZjUwZGI0ZGJhNTk2",
   "tracks": [
     {
       "added_at": "2022-09-12 19:16:23",
@@ -379,22 +379,6 @@
     {
       "added_at": "2022-09-12 19:16:23",
       "album": {
-        "name": "Theatre of Pain (2021 - Remaster)",
-        "url": "https://open.spotify.com/album/4ns4vxdkk4PdkneLNfJL52"
-      },
-      "artists": [
-        {
-          "name": "M\u00f6tley Cr\u00fce",
-          "url": "https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL"
-        }
-      ],
-      "duration_ms": 239080,
-      "name": "Home Sweet Home",
-      "url": "https://open.spotify.com/track/2C0hJUVjp7FSchyhYiceJq"
-    },
-    {
-      "added_at": "2022-09-12 19:16:23",
-      "album": {
         "name": "Skid Row",
         "url": "https://open.spotify.com/album/0kSTuMp9GpX9pJR45Bksgi"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 229960,
       "name": "18 and Life",
       "url": "https://open.spotify.com/track/0qgrrDnUUhyxpxbBznUnzg"
+    },
+    {
+      "added_at": "2022-09-12 19:16:23",
+      "album": {
+        "name": "Theatre of Pain (2021 - Remaster)",
+        "url": "https://open.spotify.com/album/4ns4vxdkk4PdkneLNfJL52"
+      },
+      "artists": [
+        {
+          "name": "M\u00f6tley Cr\u00fce",
+          "url": "https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL"
+        }
+      ],
+      "duration_ms": 239080,
+      "name": "Home Sweet Home",
+      "url": "https://open.spotify.com/track/2C0hJUVjp7FSchyhYiceJq"
     },
     {
       "added_at": "2022-09-12 19:16:23",
@@ -443,22 +443,6 @@
     {
       "added_at": "2022-09-12 19:16:23",
       "album": {
-        "name": "Frontiers",
-        "url": "https://open.spotify.com/album/2EFUNYmwxe0AOGxBORrfaw"
-      },
-      "artists": [
-        {
-          "name": "Journey",
-          "url": "https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt"
-        }
-      ],
-      "duration_ms": 267080,
-      "name": "Faithfully",
-      "url": "https://open.spotify.com/track/57ebBLITHpRgRKGrlbxMZS"
-    },
-    {
-      "added_at": "2022-09-12 19:16:23",
-      "album": {
         "name": "Brigade",
         "url": "https://open.spotify.com/album/5CuSWXFhWielWXrXK8Sd8m"
       },
@@ -491,22 +475,6 @@
     {
       "added_at": "2022-09-12 19:16:23",
       "album": {
-        "name": "Skid Row",
-        "url": "https://open.spotify.com/album/0kSTuMp9GpX9pJR45Bksgi"
-      },
-      "artists": [
-        {
-          "name": "Skid Row",
-          "url": "https://open.spotify.com/artist/4opTS86dN9uO313J9CE8xg"
-        }
-      ],
-      "duration_ms": 313693,
-      "name": "I Remember You",
-      "url": "https://open.spotify.com/track/4ZpXHlV2vQVfPXUvbDSZ92"
-    },
-    {
-      "added_at": "2022-09-12 19:16:23",
-      "album": {
         "name": "Lap Of Luxury",
         "url": "https://open.spotify.com/album/1aYjx4tcmci0lYwT5sKgvM"
       },
@@ -519,6 +487,38 @@
       "duration_ms": 338800,
       "name": "The Flame",
       "url": "https://open.spotify.com/track/528CAH5pTLq86oZ52fHifA"
+    },
+    {
+      "added_at": "2022-09-12 19:16:23",
+      "album": {
+        "name": "Frontiers",
+        "url": "https://open.spotify.com/album/2EFUNYmwxe0AOGxBORrfaw"
+      },
+      "artists": [
+        {
+          "name": "Journey",
+          "url": "https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt"
+        }
+      ],
+      "duration_ms": 267080,
+      "name": "Faithfully",
+      "url": "https://open.spotify.com/track/57ebBLITHpRgRKGrlbxMZS"
+    },
+    {
+      "added_at": "2022-09-12 19:16:23",
+      "album": {
+        "name": "Skid Row",
+        "url": "https://open.spotify.com/album/0kSTuMp9GpX9pJR45Bksgi"
+      },
+      "artists": [
+        {
+          "name": "Skid Row",
+          "url": "https://open.spotify.com/artist/4opTS86dN9uO313J9CE8xg"
+        }
+      ],
+      "duration_ms": 313693,
+      "name": "I Remember You",
+      "url": "https://open.spotify.com/track/4ZpXHlV2vQVfPXUvbDSZ92"
     },
     {
       "added_at": "2022-09-12 19:16:23",
@@ -555,22 +555,6 @@
     {
       "added_at": "2022-09-12 19:16:23",
       "album": {
-        "name": "Take My Breath Away",
-        "url": "https://open.spotify.com/album/1gwQ8OK1YHKpzIxLKuc1MQ"
-      },
-      "artists": [
-        {
-          "name": "Berlin",
-          "url": "https://open.spotify.com/artist/2aS6jYh7ysTL1ZUsHneNgM"
-        }
-      ],
-      "duration_ms": 264213,
-      "name": "Take My Breath Away",
-      "url": "https://open.spotify.com/track/1hZJcuz9iMoz6tLkFlIaUy"
-    },
-    {
-      "added_at": "2022-09-12 19:16:23",
-      "album": {
         "name": "Love At First Sting",
         "url": "https://open.spotify.com/album/71cfSO0iO1fjgQLEb3Wc6C"
       },
@@ -587,18 +571,18 @@
     {
       "added_at": "2022-09-12 19:16:23",
       "album": {
-        "name": "Whitesnake (2018 Remaster)",
-        "url": "https://open.spotify.com/album/5drgoLSnXSDIhNK4ms3P7I"
+        "name": "Take My Breath Away",
+        "url": "https://open.spotify.com/album/1gwQ8OK1YHKpzIxLKuc1MQ"
       },
       "artists": [
         {
-          "name": "Whitesnake",
-          "url": "https://open.spotify.com/artist/3UbyYnvNIT5DFXU4WgiGpP"
+          "name": "Berlin",
+          "url": "https://open.spotify.com/artist/2aS6jYh7ysTL1ZUsHneNgM"
         }
       ],
-      "duration_ms": 275395,
-      "name": "Here I Go Again - 2018 Remaster",
-      "url": "https://open.spotify.com/track/1qOU8KzFifXE9YrgjVwYvc"
+      "duration_ms": 264213,
+      "name": "Take My Breath Away",
+      "url": "https://open.spotify.com/track/1hZJcuz9iMoz6tLkFlIaUy"
     },
     {
       "added_at": "2022-09-12 19:16:23",
@@ -615,6 +599,22 @@
       "duration_ms": 288933,
       "name": "Never Say Goodbye",
       "url": "https://open.spotify.com/track/4AfsbRvvuN7nEHAhONdeEp"
+    },
+    {
+      "added_at": "2022-09-12 19:16:23",
+      "album": {
+        "name": "Whitesnake (2018 Remaster)",
+        "url": "https://open.spotify.com/album/5drgoLSnXSDIhNK4ms3P7I"
+      },
+      "artists": [
+        {
+          "name": "Whitesnake",
+          "url": "https://open.spotify.com/artist/3UbyYnvNIT5DFXU4WgiGpP"
+        }
+      ],
+      "duration_ms": 275395,
+      "name": "Here I Go Again - 2018 Remaster",
+      "url": "https://open.spotify.com/track/1qOU8KzFifXE9YrgjVwYvc"
     },
     {
       "added_at": "2022-09-12 19:16:23",
@@ -795,22 +795,6 @@
     {
       "added_at": "2022-09-12 19:16:23",
       "album": {
-        "name": "Long Cold Winter",
-        "url": "https://open.spotify.com/album/5EsAeGDozof1PIH3WPXLr2"
-      },
-      "artists": [
-        {
-          "name": "Cinderella",
-          "url": "https://open.spotify.com/artist/7HL4id2U7FSDJtfKQHMgQx"
-        }
-      ],
-      "duration_ms": 354640,
-      "name": "Don't Know What You Got (Till It's Gone)",
-      "url": "https://open.spotify.com/track/5QRs63VVKNaqUjg6XSSckM"
-    },
-    {
-      "added_at": "2022-09-12 19:16:23",
-      "album": {
         "name": "Dirty Rotten Filthy Stinking Rich",
         "url": "https://open.spotify.com/album/1HWrP6U3m3z23H5FxFsxYS"
       },
@@ -827,22 +811,34 @@
     {
       "added_at": "2022-09-12 19:16:23",
       "album": {
-        "name": "Lita",
-        "url": "https://open.spotify.com/album/5nfd1bXqze24U3EZXP1Qlk"
+        "name": "Pride",
+        "url": "https://open.spotify.com/album/571UdIx8tcDmBPgLSW8KG2"
       },
       "artists": [
         {
-          "name": "Lita Ford",
-          "url": "https://open.spotify.com/artist/77tBvvyd6SD4Y9Um1xcbxP"
-        },
-        {
-          "name": "Ozzy Osbourne",
-          "url": "https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY"
+          "name": "White Lion",
+          "url": "https://open.spotify.com/artist/3nLYJvqbEzs5kg2TlprxIG"
         }
       ],
-      "duration_ms": 283133,
-      "name": "Close My Eyes Forever",
-      "url": "https://open.spotify.com/track/43thLwzSasUUZEYjYPeJh3"
+      "duration_ms": 258600,
+      "name": "When the Children Cry",
+      "url": "https://open.spotify.com/track/4ZCLM74MYhUy80TPiaAuee"
+    },
+    {
+      "added_at": "2022-09-12 19:16:23",
+      "album": {
+        "name": "Long Cold Winter",
+        "url": "https://open.spotify.com/album/5EsAeGDozof1PIH3WPXLr2"
+      },
+      "artists": [
+        {
+          "name": "Cinderella",
+          "url": "https://open.spotify.com/artist/7HL4id2U7FSDJtfKQHMgQx"
+        }
+      ],
+      "duration_ms": 354640,
+      "name": "Don't Know What You Got (Till It's Gone)",
+      "url": "https://open.spotify.com/track/5QRs63VVKNaqUjg6XSSckM"
     },
     {
       "added_at": "2022-09-12 19:16:23",
@@ -863,18 +859,22 @@
     {
       "added_at": "2022-09-12 19:16:23",
       "album": {
-        "name": "Pride",
-        "url": "https://open.spotify.com/album/571UdIx8tcDmBPgLSW8KG2"
+        "name": "Lita",
+        "url": "https://open.spotify.com/album/5nfd1bXqze24U3EZXP1Qlk"
       },
       "artists": [
         {
-          "name": "White Lion",
-          "url": "https://open.spotify.com/artist/3nLYJvqbEzs5kg2TlprxIG"
+          "name": "Lita Ford",
+          "url": "https://open.spotify.com/artist/77tBvvyd6SD4Y9Um1xcbxP"
+        },
+        {
+          "name": "Ozzy Osbourne",
+          "url": "https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY"
         }
       ],
-      "duration_ms": 258600,
-      "name": "When the Children Cry",
-      "url": "https://open.spotify.com/track/4ZCLM74MYhUy80TPiaAuee"
+      "duration_ms": 283133,
+      "name": "Close My Eyes Forever",
+      "url": "https://open.spotify.com/track/43thLwzSasUUZEYjYPeJh3"
     },
     {
       "added_at": "2022-09-12 19:16:23",
@@ -911,6 +911,22 @@
     {
       "added_at": "2022-09-12 19:16:23",
       "album": {
+        "name": "Mane Attraction",
+        "url": "https://open.spotify.com/album/49q8hRnhM6xM5PD5tQSGxb"
+      },
+      "artists": [
+        {
+          "name": "White Lion",
+          "url": "https://open.spotify.com/artist/3nLYJvqbEzs5kg2TlprxIG"
+        }
+      ],
+      "duration_ms": 265160,
+      "name": "You're All I Need",
+      "url": "https://open.spotify.com/track/4C8qZRxrteBY9F8r2oZrV3"
+    },
+    {
+      "added_at": "2022-09-12 19:16:23",
+      "album": {
         "name": "Tooth and Nail",
         "url": "https://open.spotify.com/album/0opFMR8DprHzu1nPHhoHuL"
       },
@@ -943,22 +959,6 @@
     {
       "added_at": "2022-09-12 19:16:23",
       "album": {
-        "name": "Mane Attraction",
-        "url": "https://open.spotify.com/album/49q8hRnhM6xM5PD5tQSGxb"
-      },
-      "artists": [
-        {
-          "name": "White Lion",
-          "url": "https://open.spotify.com/artist/3nLYJvqbEzs5kg2TlprxIG"
-        }
-      ],
-      "duration_ms": 265160,
-      "name": "You're All I Need",
-      "url": "https://open.spotify.com/track/4C8qZRxrteBY9F8r2oZrV3"
-    },
-    {
-      "added_at": "2022-09-12 19:16:23",
-      "album": {
         "name": "Alias",
         "url": "https://open.spotify.com/album/2almhUpe1eEbKQiRT1BlPF"
       },
@@ -971,22 +971,6 @@
       "duration_ms": 234196,
       "name": "More Than Words Can Say",
       "url": "https://open.spotify.com/track/1EB3Z38oKDKVp4K2yEO2dl"
-    },
-    {
-      "added_at": "2022-09-12 19:16:23",
-      "album": {
-        "name": "5150",
-        "url": "https://open.spotify.com/album/5Ew5vOg3PYyT9QUPCrdIZq"
-      },
-      "artists": [
-        {
-          "name": "Van Halen",
-          "url": "https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K"
-        }
-      ],
-      "duration_ms": 310933,
-      "name": "Love Walks In",
-      "url": "https://open.spotify.com/track/6FRQGRdhueJGTKiYnirDNy"
     },
     {
       "added_at": "2022-09-12 19:16:23",
@@ -1023,6 +1007,22 @@
     {
       "added_at": "2022-09-12 19:16:23",
       "album": {
+        "name": "5150",
+        "url": "https://open.spotify.com/album/5Ew5vOg3PYyT9QUPCrdIZq"
+      },
+      "artists": [
+        {
+          "name": "Van Halen",
+          "url": "https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K"
+        }
+      ],
+      "duration_ms": 310933,
+      "name": "Love Walks In",
+      "url": "https://open.spotify.com/track/6FRQGRdhueJGTKiYnirDNy"
+    },
+    {
+      "added_at": "2022-09-12 19:16:23",
+      "album": {
         "name": "Flesh & Blood",
         "url": "https://open.spotify.com/album/7alngtync76VqYWSKxcBhB"
       },
@@ -1035,22 +1035,6 @@
       "duration_ms": 328360,
       "name": "Something To Believe In - Remastered",
       "url": "https://open.spotify.com/track/7pUYjnFTXMs0mFWsE9epqV"
-    },
-    {
-      "added_at": "2022-09-12 19:16:23",
-      "album": {
-        "name": "Dr. Feelgood (2021 - Remaster)",
-        "url": "https://open.spotify.com/album/1pRY36LiSRq5oBwdrLKrF2"
-      },
-      "artists": [
-        {
-          "name": "M\u00f6tley Cr\u00fce",
-          "url": "https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL"
-        }
-      ],
-      "duration_ms": 278858,
-      "name": "Don't Go Away Mad (Just Go Away)",
-      "url": "https://open.spotify.com/track/4kXV4Kf4IeeA9Ah9RH3VY1"
     },
     {
       "added_at": "2022-09-12 19:16:23",
@@ -1071,22 +1055,6 @@
     {
       "added_at": "2022-09-12 19:16:23",
       "album": {
-        "name": "Stay Hungry",
-        "url": "https://open.spotify.com/album/0dzqapIToiOhULGvzDKpXm"
-      },
-      "artists": [
-        {
-          "name": "Twisted Sister",
-          "url": "https://open.spotify.com/artist/7b85ve82Sh36a3UAx74wut"
-        }
-      ],
-      "duration_ms": 229493,
-      "name": "The Price",
-      "url": "https://open.spotify.com/track/5iF683hJagzos663BxLns9"
-    },
-    {
-      "added_at": "2022-09-12 19:16:23",
-      "album": {
         "name": "Vital Signs",
         "url": "https://open.spotify.com/album/7t6t815Z23bjBVU4Qon6HD"
       },
@@ -1103,18 +1071,34 @@
     {
       "added_at": "2022-09-12 19:16:23",
       "album": {
-        "name": "Look What The Cat Dragged In - 20th Anniversary Edition",
-        "url": "https://open.spotify.com/album/2SkbSj0eZ2H5uqKYEnMmIe"
+        "name": "Stay Hungry",
+        "url": "https://open.spotify.com/album/0dzqapIToiOhULGvzDKpXm"
       },
       "artists": [
         {
-          "name": "Poison",
-          "url": "https://open.spotify.com/artist/1fBCIkoPOPCDLUxGuWNvyo"
+          "name": "Twisted Sister",
+          "url": "https://open.spotify.com/artist/7b85ve82Sh36a3UAx74wut"
         }
       ],
-      "duration_ms": 214373,
-      "name": "I Won't Forget You - Remastered",
-      "url": "https://open.spotify.com/track/6WmVgLj2htklkU3SZOsItg"
+      "duration_ms": 229493,
+      "name": "The Price",
+      "url": "https://open.spotify.com/track/5iF683hJagzos663BxLns9"
+    },
+    {
+      "added_at": "2022-09-12 19:16:23",
+      "album": {
+        "name": "Dr. Feelgood (2021 - Remaster)",
+        "url": "https://open.spotify.com/album/1pRY36LiSRq5oBwdrLKrF2"
+      },
+      "artists": [
+        {
+          "name": "M\u00f6tley Cr\u00fce",
+          "url": "https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL"
+        }
+      ],
+      "duration_ms": 278858,
+      "name": "Don't Go Away Mad (Just Go Away)",
+      "url": "https://open.spotify.com/track/4kXV4Kf4IeeA9Ah9RH3VY1"
     },
     {
       "added_at": "2022-09-12 19:16:23",
@@ -1131,6 +1115,22 @@
       "duration_ms": 348800,
       "name": "Wasted Time",
       "url": "https://open.spotify.com/track/4BAhIRDG9GNeMvcigDKF7L"
+    },
+    {
+      "added_at": "2022-09-12 19:16:23",
+      "album": {
+        "name": "Look What The Cat Dragged In - 20th Anniversary Edition",
+        "url": "https://open.spotify.com/album/2SkbSj0eZ2H5uqKYEnMmIe"
+      },
+      "artists": [
+        {
+          "name": "Poison",
+          "url": "https://open.spotify.com/artist/1fBCIkoPOPCDLUxGuWNvyo"
+        }
+      ],
+      "duration_ms": 214373,
+      "name": "I Won't Forget You - Remastered",
+      "url": "https://open.spotify.com/track/6WmVgLj2htklkU3SZOsItg"
     },
     {
       "added_at": "2022-09-12 19:16:23",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2022-09-12 19:16:23",
       "album": {
-        "name": "Dr. Feelgood (Deluxe Version)",
-        "url": "https://open.spotify.com/album/23krn1eEy7o3u9laLI1PLD"
-      },
-      "artists": [
-        {
-          "name": "M\u00f6tley Cr\u00fce",
-          "url": "https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL"
-        }
-      ],
-      "duration_ms": 270186,
-      "name": "Without You",
-      "url": "https://open.spotify.com/track/2Pntw3RoGXhANFihOS8XyD"
-    },
-    {
-      "added_at": "2022-09-12 19:16:23",
-      "album": {
         "name": "In The Heart Of The Young",
         "url": "https://open.spotify.com/album/2P5MIQaEXsyDtiXXChyijs"
       },
@@ -1211,86 +1195,6 @@
       "duration_ms": 252866,
       "name": "Miles Away",
       "url": "https://open.spotify.com/track/3Bzh1AtiViTIaZV6yqySZH"
-    },
-    {
-      "added_at": "2022-09-12 19:16:23",
-      "album": {
-        "name": "Psychotic Supper",
-        "url": "https://open.spotify.com/album/0JHYpUoXnAHGdd6rE9nrLY"
-      },
-      "artists": [
-        {
-          "name": "Tesla",
-          "url": "https://open.spotify.com/artist/0dgnITyIAN4NrmUVisvxHU"
-        }
-      ],
-      "duration_ms": 435226,
-      "name": "What You Give",
-      "url": "https://open.spotify.com/track/6XKLX2SOAdS0ZDQK2PbZKn"
-    },
-    {
-      "added_at": "2022-09-12 19:16:23",
-      "album": {
-        "name": "The Lizard",
-        "url": "https://open.spotify.com/album/0nZIjKvxpkli74fs827sAJ"
-      },
-      "artists": [
-        {
-          "name": "Saigon Kick",
-          "url": "https://open.spotify.com/artist/1Qt3QdA0ZoOoeWfrJzA12d"
-        }
-      ],
-      "duration_ms": 264173,
-      "name": "Love Is on the Way",
-      "url": "https://open.spotify.com/track/3F3n2V9XBrtb1omqLfcNPe"
-    },
-    {
-      "added_at": "2022-09-12 19:16:23",
-      "album": {
-        "name": "Vital Signs",
-        "url": "https://open.spotify.com/album/7t6t815Z23bjBVU4Qon6HD"
-      },
-      "artists": [
-        {
-          "name": "Survivor",
-          "url": "https://open.spotify.com/artist/26bcq2nyj5GB7uRr558iQg"
-        }
-      ],
-      "duration_ms": 238800,
-      "name": "I Can't Hold Back",
-      "url": "https://open.spotify.com/track/46NtQJH1eok28bucLlHqQT"
-    },
-    {
-      "added_at": "2022-09-12 19:16:23",
-      "album": {
-        "name": "Mane Attraction",
-        "url": "https://open.spotify.com/album/49q8hRnhM6xM5PD5tQSGxb"
-      },
-      "artists": [
-        {
-          "name": "White Lion",
-          "url": "https://open.spotify.com/artist/3nLYJvqbEzs5kg2TlprxIG"
-        }
-      ],
-      "duration_ms": 326826,
-      "name": "Til Death Do Us Part",
-      "url": "https://open.spotify.com/track/57DRDn3OKZyKQniRNAjYIQ"
-    },
-    {
-      "added_at": "2022-09-12 19:16:23",
-      "album": {
-        "name": "Sheriff",
-        "url": "https://open.spotify.com/album/23sISo3WqoIysj2AHHem3V"
-      },
-      "artists": [
-        {
-          "name": "Sheriff",
-          "url": "https://open.spotify.com/artist/5jllns7VtBfhF3AyjvZP8d"
-        }
-      ],
-      "duration_ms": 238040,
-      "name": "When I'm With You",
-      "url": "https://open.spotify.com/track/3RJof5CojqlbgZ5adHw50O"
     },
     {
       "added_at": "2022-09-12 19:16:23",
@@ -1311,18 +1215,82 @@
     {
       "added_at": "2022-09-12 19:16:23",
       "album": {
-        "name": "Boogie Nights / Music From The Original Motion Picture",
-        "url": "https://open.spotify.com/album/4HUntZg0YV0qCvRxmIhq2U"
+        "name": "Dr. Feelgood (Deluxe Version)",
+        "url": "https://open.spotify.com/album/23krn1eEy7o3u9laLI1PLD"
       },
       "artists": [
         {
-          "name": "Night Ranger",
-          "url": "https://open.spotify.com/artist/1Ha0Fz4i0d4gu5fZbhBCtH"
+          "name": "M\u00f6tley Cr\u00fce",
+          "url": "https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL"
         }
       ],
-      "duration_ms": 300066,
-      "name": "Sister Christian",
-      "url": "https://open.spotify.com/track/6LoSKNsYkRQbyuiReooMjG"
+      "duration_ms": 270186,
+      "name": "Without You",
+      "url": "https://open.spotify.com/track/2Pntw3RoGXhANFihOS8XyD"
+    },
+    {
+      "added_at": "2022-09-12 19:16:23",
+      "album": {
+        "name": "Vital Signs",
+        "url": "https://open.spotify.com/album/7t6t815Z23bjBVU4Qon6HD"
+      },
+      "artists": [
+        {
+          "name": "Survivor",
+          "url": "https://open.spotify.com/artist/26bcq2nyj5GB7uRr558iQg"
+        }
+      ],
+      "duration_ms": 238800,
+      "name": "I Can't Hold Back",
+      "url": "https://open.spotify.com/track/46NtQJH1eok28bucLlHqQT"
+    },
+    {
+      "added_at": "2022-09-12 19:16:23",
+      "album": {
+        "name": "Sheriff",
+        "url": "https://open.spotify.com/album/23sISo3WqoIysj2AHHem3V"
+      },
+      "artists": [
+        {
+          "name": "Sheriff",
+          "url": "https://open.spotify.com/artist/5jllns7VtBfhF3AyjvZP8d"
+        }
+      ],
+      "duration_ms": 238040,
+      "name": "When I'm With You",
+      "url": "https://open.spotify.com/track/3RJof5CojqlbgZ5adHw50O"
+    },
+    {
+      "added_at": "2022-09-12 19:16:23",
+      "album": {
+        "name": "Mane Attraction",
+        "url": "https://open.spotify.com/album/49q8hRnhM6xM5PD5tQSGxb"
+      },
+      "artists": [
+        {
+          "name": "White Lion",
+          "url": "https://open.spotify.com/artist/3nLYJvqbEzs5kg2TlprxIG"
+        }
+      ],
+      "duration_ms": 326826,
+      "name": "Til Death Do Us Part",
+      "url": "https://open.spotify.com/track/57DRDn3OKZyKQniRNAjYIQ"
+    },
+    {
+      "added_at": "2022-09-12 19:16:23",
+      "album": {
+        "name": "The Lizard",
+        "url": "https://open.spotify.com/album/0nZIjKvxpkli74fs827sAJ"
+      },
+      "artists": [
+        {
+          "name": "Saigon Kick",
+          "url": "https://open.spotify.com/artist/1Qt3QdA0ZoOoeWfrJzA12d"
+        }
+      ],
+      "duration_ms": 264173,
+      "name": "Love Is on the Way",
+      "url": "https://open.spotify.com/track/3F3n2V9XBrtb1omqLfcNPe"
     },
     {
       "added_at": "2022-09-12 19:16:23",
@@ -1343,6 +1311,22 @@
     {
       "added_at": "2022-09-12 19:16:23",
       "album": {
+        "name": "Boogie Nights / Music From The Original Motion Picture",
+        "url": "https://open.spotify.com/album/4HUntZg0YV0qCvRxmIhq2U"
+      },
+      "artists": [
+        {
+          "name": "Night Ranger",
+          "url": "https://open.spotify.com/artist/1Ha0Fz4i0d4gu5fZbhBCtH"
+        }
+      ],
+      "duration_ms": 300066,
+      "name": "Sister Christian",
+      "url": "https://open.spotify.com/track/6LoSKNsYkRQbyuiReooMjG"
+    },
+    {
+      "added_at": "2022-09-12 19:16:23",
+      "album": {
         "name": "Wings Of Tomorrow",
         "url": "https://open.spotify.com/album/0xvqPhWUfdiLly1cdR4WVx"
       },
@@ -1355,6 +1339,22 @@
       "duration_ms": 246733,
       "name": "Open Your Heart",
       "url": "https://open.spotify.com/track/4cPE441DlsfXRh57rl1PAX"
+    },
+    {
+      "added_at": "2022-09-12 19:16:23",
+      "album": {
+        "name": "Psychotic Supper",
+        "url": "https://open.spotify.com/album/0JHYpUoXnAHGdd6rE9nrLY"
+      },
+      "artists": [
+        {
+          "name": "Tesla",
+          "url": "https://open.spotify.com/artist/0dgnITyIAN4NrmUVisvxHU"
+        }
+      ],
+      "duration_ms": 435226,
+      "name": "What You Give",
+      "url": "https://open.spotify.com/track/6XKLX2SOAdS0ZDQK2PbZKn"
     },
     {
       "added_at": "2022-09-12 19:16:23",
@@ -1375,6 +1375,22 @@
     {
       "added_at": "2022-09-12 19:16:23",
       "album": {
+        "name": "Heartbreak Station",
+        "url": "https://open.spotify.com/album/0wN0VkL96A1hHe2FrGfdOA"
+      },
+      "artists": [
+        {
+          "name": "Cinderella",
+          "url": "https://open.spotify.com/artist/7HL4id2U7FSDJtfKQHMgQx"
+        }
+      ],
+      "duration_ms": 268840,
+      "name": "Heartbreak Station",
+      "url": "https://open.spotify.com/track/71cWHhV018hztNkCC45Ayo"
+    },
+    {
+      "added_at": "2022-09-12 19:16:23",
+      "album": {
         "name": "Holy Water",
         "url": "https://open.spotify.com/album/30ts0TMRhxu4usurOw99cE"
       },
@@ -1387,22 +1403,6 @@
       "duration_ms": 261000,
       "name": "If You Needed Somebody",
       "url": "https://open.spotify.com/track/6GaFUMG9opnMytdc0lwnQw"
-    },
-    {
-      "added_at": "2022-09-12 19:16:23",
-      "album": {
-        "name": "Steelheart",
-        "url": "https://open.spotify.com/album/3jUqHgt6rAFx1D7Ck6Q5hw"
-      },
-      "artists": [
-        {
-          "name": "STEELHEART",
-          "url": "https://open.spotify.com/artist/0ecbvwhuhiEAWOLHlRXpqD"
-        }
-      ],
-      "duration_ms": 306560,
-      "name": "I'll Never Let You Go",
-      "url": "https://open.spotify.com/track/2GeCfHlX5hfFKcy1aICNwR"
     },
     {
       "added_at": "2022-09-12 19:16:23",
@@ -1423,6 +1423,22 @@
     {
       "added_at": "2022-09-12 19:16:23",
       "album": {
+        "name": "Steelheart",
+        "url": "https://open.spotify.com/album/3jUqHgt6rAFx1D7Ck6Q5hw"
+      },
+      "artists": [
+        {
+          "name": "STEELHEART",
+          "url": "https://open.spotify.com/artist/0ecbvwhuhiEAWOLHlRXpqD"
+        }
+      ],
+      "duration_ms": 306560,
+      "name": "I'll Never Let You Go",
+      "url": "https://open.spotify.com/track/2GeCfHlX5hfFKcy1aICNwR"
+    },
+    {
+      "added_at": "2022-09-12 19:16:23",
+      "album": {
         "name": "Balance",
         "url": "https://open.spotify.com/album/7nbwELkBki6HJrDZoEfXa3"
       },
@@ -1435,6 +1451,22 @@
       "duration_ms": 247466,
       "name": "Can't Stop Lovin' You",
       "url": "https://open.spotify.com/track/6z3JD6IqVvu6TUBtCfQPbe"
+    },
+    {
+      "added_at": "2022-09-12 19:16:23",
+      "album": {
+        "name": "Run For Cover",
+        "url": "https://open.spotify.com/album/5L7OArC51NP8i6EswjugZI"
+      },
+      "artists": [
+        {
+          "name": "Gary Moore",
+          "url": "https://open.spotify.com/artist/23wr9RJZg0PmYvVFyNkQ4j"
+        }
+      ],
+      "duration_ms": 257440,
+      "name": "Empty Rooms",
+      "url": "https://open.spotify.com/track/21hvIW7umCAu3dWab4MYR1"
     },
     {
       "added_at": "2022-09-12 19:16:23",
@@ -1455,6 +1487,22 @@
     {
       "added_at": "2022-09-12 19:16:23",
       "album": {
+        "name": "Straight Between The Eyes",
+        "url": "https://open.spotify.com/album/2TjkjpMXM0fsgmmVjmxNmI"
+      },
+      "artists": [
+        {
+          "name": "Rainbow",
+          "url": "https://open.spotify.com/artist/6SLAMfhOi7UJI0fMztaK0m"
+        }
+      ],
+      "duration_ms": 317306,
+      "name": "Stone Cold",
+      "url": "https://open.spotify.com/track/7HXYoe65kmrPrJR1r0DGtW"
+    },
+    {
+      "added_at": "2022-09-12 19:16:23",
+      "album": {
         "name": "Treasure Chest (Bonus Track Edition)",
         "url": "https://open.spotify.com/album/1AikzyggH724jKtyzwJ2ii"
       },
@@ -1471,34 +1519,34 @@
     {
       "added_at": "2022-09-12 19:16:23",
       "album": {
-        "name": "Heartbreak Station",
-        "url": "https://open.spotify.com/album/0wN0VkL96A1hHe2FrGfdOA"
+        "name": "Vixen",
+        "url": "https://open.spotify.com/album/51aj98h378eXQJZXtIZKjK"
       },
       "artists": [
         {
-          "name": "Cinderella",
-          "url": "https://open.spotify.com/artist/7HL4id2U7FSDJtfKQHMgQx"
+          "name": "Vixen",
+          "url": "https://open.spotify.com/artist/4wlPkvHKZzP2K8wtBzFRyY"
         }
       ],
-      "duration_ms": 268840,
-      "name": "Heartbreak Station",
-      "url": "https://open.spotify.com/track/71cWHhV018hztNkCC45Ayo"
+      "duration_ms": 265333,
+      "name": "Edge Of A Broken Heart",
+      "url": "https://open.spotify.com/track/2mEk0VdrbDJ11DBC6Y92mh"
     },
     {
       "added_at": "2022-09-12 19:16:23",
       "album": {
-        "name": "Run For Cover",
-        "url": "https://open.spotify.com/album/5L7OArC51NP8i6EswjugZI"
+        "name": "Blizzard Of Ozz (40th Anniversary Expanded Edition)",
+        "url": "https://open.spotify.com/album/4qUMByJ3Pk94BFnCmGaUPS"
       },
       "artists": [
         {
-          "name": "Gary Moore",
-          "url": "https://open.spotify.com/artist/23wr9RJZg0PmYvVFyNkQ4j"
+          "name": "Ozzy Osbourne",
+          "url": "https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY"
         }
       ],
-      "duration_ms": 257440,
-      "name": "Empty Rooms",
-      "url": "https://open.spotify.com/track/21hvIW7umCAu3dWab4MYR1"
+      "duration_ms": 335872,
+      "name": "Goodbye to Romance",
+      "url": "https://open.spotify.com/track/44iFQNDCVfv2WHPdn7Wy1R"
     },
     {
       "added_at": "2022-09-12 19:16:23",
@@ -1531,54 +1579,6 @@
       "duration_ms": 277173,
       "name": "Show Me The Way",
       "url": "https://open.spotify.com/track/2upjcGvuiTCGSaGPZZ2dtD"
-    },
-    {
-      "added_at": "2022-09-12 19:16:23",
-      "album": {
-        "name": "Blizzard Of Ozz (40th Anniversary Expanded Edition)",
-        "url": "https://open.spotify.com/album/4qUMByJ3Pk94BFnCmGaUPS"
-      },
-      "artists": [
-        {
-          "name": "Ozzy Osbourne",
-          "url": "https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY"
-        }
-      ],
-      "duration_ms": 335872,
-      "name": "Goodbye to Romance",
-      "url": "https://open.spotify.com/track/44iFQNDCVfv2WHPdn7Wy1R"
-    },
-    {
-      "added_at": "2022-09-12 19:16:23",
-      "album": {
-        "name": "Vixen",
-        "url": "https://open.spotify.com/album/51aj98h378eXQJZXtIZKjK"
-      },
-      "artists": [
-        {
-          "name": "Vixen",
-          "url": "https://open.spotify.com/artist/4wlPkvHKZzP2K8wtBzFRyY"
-        }
-      ],
-      "duration_ms": 265333,
-      "name": "Edge Of A Broken Heart",
-      "url": "https://open.spotify.com/track/2mEk0VdrbDJ11DBC6Y92mh"
-    },
-    {
-      "added_at": "2022-09-12 19:16:23",
-      "album": {
-        "name": "Straight Between The Eyes",
-        "url": "https://open.spotify.com/album/2TjkjpMXM0fsgmmVjmxNmI"
-      },
-      "artists": [
-        {
-          "name": "Rainbow",
-          "url": "https://open.spotify.com/artist/6SLAMfhOi7UJI0fMztaK0m"
-        }
-      ],
-      "duration_ms": 317306,
-      "name": "Stone Cold",
-      "url": "https://open.spotify.com/track/7HXYoe65kmrPrJR1r0DGtW"
     },
     {
       "added_at": "2022-09-12 19:16:23",

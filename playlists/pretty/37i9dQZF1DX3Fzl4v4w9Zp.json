@@ -1,12 +1,12 @@
 {
   "description": "Keep your finger on the pulse of Americana. Cover: Nikki Lane",
-  "num_followers": 591561,
+  "num_followers": 592173,
   "original_name": "The Pulse of Americana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDUxMDQwMCwwMDAwMDAwMGNjNTBhNmJkODgxYTljMTU5OTYxZWQwMjFiYTBiOGZj",
+  "snapshot_id": "MTY2NTExNTIwMCwwMDAwMDAwMDgyMzNiYjcxNjM3NTYxNTU5NTRmNTEzY2EwZTgxYTI2",
   "tracks": [
     {
       "added_at": "2022-09-30 04:00:00",
@@ -23,6 +23,22 @@
       "duration_ms": 254258,
       "name": "Something in the Orange - Z&E's Version",
       "url": "https://open.spotify.com/track/3rU2QIyNDk2OWV6mAW2qQr"
+    },
+    {
+      "added_at": "2022-09-30 04:00:00",
+      "album": {
+        "name": "Lavender Days",
+        "url": "https://open.spotify.com/album/6RgGsXtsTnwA53ts3jDeDW"
+      },
+      "artists": [
+        {
+          "name": "Caamp",
+          "url": "https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix"
+        }
+      ],
+      "duration_ms": 178080,
+      "name": "The Otter",
+      "url": "https://open.spotify.com/track/0zesU7Cq6UM582kMYC6J3E"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -89,20 +105,20 @@
       "url": "https://open.spotify.com/track/4w5iyFl701rTcsw8VFenfe"
     },
     {
-      "added_at": "2022-09-30 04:00:00",
+      "added_at": "2022-10-07 04:00:00",
       "album": {
-        "name": "Lavender Days",
-        "url": "https://open.spotify.com/album/6RgGsXtsTnwA53ts3jDeDW"
+        "name": "Lines in the Levee",
+        "url": "https://open.spotify.com/album/3Kjt0tpYJudd0DgsOciiaQ"
       },
       "artists": [
         {
-          "name": "Caamp",
-          "url": "https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix"
+          "name": "Town Mountain",
+          "url": "https://open.spotify.com/artist/5cudslRGWg0GsXaN79Wifs"
         }
       ],
-      "duration_ms": 178080,
-      "name": "The Otter",
-      "url": "https://open.spotify.com/track/0zesU7Cq6UM582kMYC6J3E"
+      "duration_ms": 276800,
+      "name": "Unsung Heroes",
+      "url": "https://open.spotify.com/track/0w2PDgVUMnEbrtcIOJkIXj"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -207,6 +223,22 @@
       "duration_ms": 309746,
       "name": "You're Not Alone [Feat. Brandi Carlile]",
       "url": "https://open.spotify.com/track/4ltCYG04Xhzv5cViM6mp16"
+    },
+    {
+      "added_at": "2022-09-30 04:00:00",
+      "album": {
+        "name": "Satellite",
+        "url": "https://open.spotify.com/album/1RzcWepHYgRdm07qC7CFjh"
+      },
+      "artists": [
+        {
+          "name": "Courtney Marie Andrews",
+          "url": "https://open.spotify.com/artist/1EI0B66miJj5Fl408B7E9H"
+        }
+      ],
+      "duration_ms": 174540,
+      "name": "Satellite",
+      "url": "https://open.spotify.com/track/5r882UNUUII5EKZ9rlVImU"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -827,22 +859,6 @@
       "duration_ms": 179026,
       "name": "I Got This",
       "url": "https://open.spotify.com/track/3KMrapCsGVYo4LtT6vHjn2"
-    },
-    {
-      "added_at": "2022-09-30 04:00:00",
-      "album": {
-        "name": "Satellite",
-        "url": "https://open.spotify.com/album/1RzcWepHYgRdm07qC7CFjh"
-      },
-      "artists": [
-        {
-          "name": "Courtney Marie Andrews",
-          "url": "https://open.spotify.com/artist/1EI0B66miJj5Fl408B7E9H"
-        }
-      ],
-      "duration_ms": 174540,
-      "name": "Satellite",
-      "url": "https://open.spotify.com/track/5r882UNUUII5EKZ9rlVImU"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -2043,22 +2059,6 @@
       "duration_ms": 246306,
       "name": "Shine",
       "url": "https://open.spotify.com/track/6IzFGv9kIlHlOamtyDsGW4"
-    },
-    {
-      "added_at": "2022-09-30 04:00:00",
-      "album": {
-        "name": "Modern Woman",
-        "url": "https://open.spotify.com/album/30kbdtHtt6rJShWGeMsVcI"
-      },
-      "artists": [
-        {
-          "name": "Erin Rae",
-          "url": "https://open.spotify.com/artist/167VlZ0C0ewQbgKexRFcs6"
-        }
-      ],
-      "duration_ms": 204946,
-      "name": "Modern Woman",
-      "url": "https://open.spotify.com/track/5ZaSoSM8VR7OUiYyEKBmL9"
     },
     {
       "added_at": "2022-09-30 04:00:00",

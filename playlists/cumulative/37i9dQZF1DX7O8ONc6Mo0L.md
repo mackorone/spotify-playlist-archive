@@ -2,9 +2,9 @@
 
 ### [Gospel Acústico](https://open.spotify.com/playlist/37i9dQZF1DX7O8ONc6Mo0L)
 
-> Relaxe com hinos acústicos\. Foto: Gabriel Guedes de Almeida
+> Relaxe com hinos acústicos\. Foto: André e Felipe
 
-83 songs - 6 hr 23 min - [published](https://open.spotify.com/playlist/2qVFdBscejCMla6A7JhqfJ)
+84 songs - 6 hr 28 min - [published](https://open.spotify.com/playlist/2qVFdBscejCMla6A7JhqfJ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,7 +50,7 @@
 | [Mais Que Uma Voz](https://open.spotify.com/track/1RlwQdnnfFYIIPEnYj6yI8) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW), [Weslei Santos](https://open.spotify.com/artist/4y6Ve3GJGW72qVUqalUvKi) | [Mais Que Uma Voz / A Ele a Glória](https://open.spotify.com/album/1sPNFLs4tFZmpMLep14OgN) | 4:02 | 2022-09-02 |  |
 | [Me Deixe Aqui](https://open.spotify.com/track/31j38rRemGuqA4z83EQduw) | [Weslei Santos](https://open.spotify.com/artist/4y6Ve3GJGW72qVUqalUvKi) | [Unplugged](https://open.spotify.com/album/7IvxPrVTnaP3iOqQQgsQ12) | 4:37 | 2022-09-02 |  |
 | [Me Enche de Amor \- Acústico](https://open.spotify.com/track/5rl3Hz8gsiZlzsL0RbgB2D) | [Duo Franco](https://open.spotify.com/artist/0rnMMhoMmFkyFZe4dNY29b), [Bekah Costa](https://open.spotify.com/artist/43GhsjEls2W0kceLxCK9cb) | [Me Enche de Amor \(Acústico\)](https://open.spotify.com/album/3TU29wyioIazh3c70dXs8f) | 5:09 | 2022-09-02 |  |
-| [Me Ensina a Depender \- Acústico](https://open.spotify.com/track/3uwk3N4xVvtdS4mk2AaOB0) | [Mateus Brito](https://open.spotify.com/artist/12sMRxeNux6TB0Kz1rVcLN) | [Me Ensina a Depender \(Acústico\)](https://open.spotify.com/album/3xTpjjSHdWJfwYO3lM7kiG) | 4:50 | 2022-09-02 |  |
+| [Me Ensina a Depender \- Acústico](https://open.spotify.com/track/3uwk3N4xVvtdS4mk2AaOB0) | [Mateus Brito](https://open.spotify.com/artist/12sMRxeNux6TB0Kz1rVcLN) | [Me Ensina a Depender \(Acústico\)](https://open.spotify.com/album/3xTpjjSHdWJfwYO3lM7kiG) | 4:50 | 2022-09-02 | 2022-10-08 |
 | [Melhor Lugar: Sessão Acústica](https://open.spotify.com/track/7fpvwvVR2zhNaWUAUDXznF) | [Marcelo Markes](https://open.spotify.com/artist/6SuvEQMnKI1I4rfErcOdi2) | [Melhor Lugar: Sessão Acústica](https://open.spotify.com/album/1Rz6o5OcmhO1YevBCg8bvw) | 4:12 | 2022-09-02 |  |
 | [Meu Barquinho](https://open.spotify.com/track/7ap8AwNHEltHYVd889t6Wc) | [André e Felipe](https://open.spotify.com/artist/5QQUuUIP9gjrkI8amLfIlb), [Preto no Branco](https://open.spotify.com/artist/0JC6R3kbXUHe5QrxqzFwom) | [Meu Barquinho](https://open.spotify.com/album/313crnqVtVcq7iTiaxn4Va) | 3:56 | 2022-09-02 |  |
 | [Milagres \- Acústico](https://open.spotify.com/track/6ael0a5FVQXGupOfzpkoOB) | [Lukas Agustinho](https://open.spotify.com/artist/14IQ7niDNXIIrOSjr32E7O) | [Milagres \(Acústico\)](https://open.spotify.com/album/7p8ZJylSvIeJZcGGUvBcnE) | 4:50 | 2022-09-02 |  |
@@ -58,6 +58,7 @@
 | [Muda os Planos \- Ao Vivo](https://open.spotify.com/track/6IMGV8bFVfP8SARKRnWDfs) | [Ventania](https://open.spotify.com/artist/4ZgHby6oTRKwiGbf38dPs1), [Pedro Valença](https://open.spotify.com/artist/2fBxIdkeMcxcjtBlPuWZl7), [Manu](https://open.spotify.com/artist/7gz120VZ7N6mvk7nfq8cXV) | [Muda os Planos \(Ao Vivo\)](https://open.spotify.com/album/3sAkhNWVeIjO8GWWc8YFSk) | 4:50 | 2022-09-02 |  |
 | [Na Casa](https://open.spotify.com/track/4ogfIbc7uyb6M2btL5VJXj) | [Paulo Cesar Baruk](https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD) | [Na Casa](https://open.spotify.com/album/3CXvWLGCOKSVO8qI6dDqMN) | 3:11 | 2022-09-02 |  |
 | [Nenhuma Condenação Há](https://open.spotify.com/track/0ykHRYx1naTjHMDOajzjcA) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Ecoar](https://open.spotify.com/album/7l4U3R2gcIAEIWDuiqEg06) | 5:14 | 2022-09-02 |  |
+| [Ninguém Explica Deus](https://open.spotify.com/track/4tKdITTT7wvJNvl8c5Qoth) | [Clovis](https://open.spotify.com/artist/703PFYg5UbYSaUKry9NWhF), [Ton Carfi](https://open.spotify.com/artist/4IefiwlkKHUFoRdBsGj756) | [Ninguém Explica Deus](https://open.spotify.com/album/0rtnasiLRIz9jg94tmwTU3) | 5:01 | 2022-10-07 |  |
 | [No Quarto Com Deus](https://open.spotify.com/track/5lHZfFfNno9z9az0zk06mS) | [Claudio Louvor](https://open.spotify.com/artist/4g5J5IEGJ5DzEyCqJbHEJA) | [No Quarto Com Deus](https://open.spotify.com/album/53SeiqJysDCQ8XymuHdc9l) | 4:01 | 2022-09-30 |  |
 | [No Secreto](https://open.spotify.com/track/3e8PGGVzq84sBU1EuGBJ9k) | [Israel Salazar](https://open.spotify.com/artist/5EkloP4VRw1NBP9NypZpDC) | [No Secreto](https://open.spotify.com/album/6OGCe2qL5x7Xh3cWbuOk6K) | 6:50 | 2022-09-02 |  |
 | [Nos Braços do Pai](https://open.spotify.com/track/7sSwgBxIAbYfijM34gTxOw) | [Klebson Kollins](https://open.spotify.com/artist/6dovZGo5G0ziUKZFLWfFxH) | [Nos Braços do Pai](https://open.spotify.com/album/3il2SE9rmAIqStzbzGm94l) | 6:12 | 2022-09-02 |  |

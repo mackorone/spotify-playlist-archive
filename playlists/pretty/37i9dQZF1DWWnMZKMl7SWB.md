@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWnMZKMl7SWB.md) - [plain]
 
 > Bases suaves para inspirarte mientras trabajas.
 
-[Spotify](https://open.spotify.com/user/spotify) - 623,036 likes - 214 songs - 13 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 623,077 likes - 214 songs - 13 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -193,7 +193,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWnMZKMl7SWB.md) - [plain]
 | 183 | [Serious Mood](https://open.spotify.com/track/1ZgQnD9g6koKGpBUmYDBNq) | [Point Point](https://open.spotify.com/artist/5L67d6oZKOOmXcBcMMJdZZ), [Pyramid](https://open.spotify.com/artist/3aSTe6gzR3XChH1wcLfhmD) | [Serious Mood](https://open.spotify.com/album/1AiJtsc3rR17zE9lgh6Sg6) | 3:38 |
 | 184 | [I Promise](https://open.spotify.com/track/2FG1ayvioaTgtj8dhcZGCV) | [Fossa Beats](https://open.spotify.com/artist/2J7Bw3q4TQwPwSjNPmASKt), [Thomas White](https://open.spotify.com/artist/4g03rM1dkEDxd2nrURVNML), [LIA](https://open.spotify.com/artist/7MkglOKmkE2iIJOZngg3Kj) | [I Promise](https://open.spotify.com/album/6RQ3my9LG8W8uO90TZlHhe) | 3:13 |
 | 185 | [Noth](https://open.spotify.com/track/035epJwRLJQLXbQ7XtPFEf) | [Mad Zach](https://open.spotify.com/artist/1RxjZjOSbva0JR7T2LsRve), [yunis](https://open.spotify.com/artist/7mwowsRa7r8SLzx93Xqc0g) | [Noth](https://open.spotify.com/album/6832kAHzTWaKroYt2Dk8dE) | 3:12 |
-| 186 | [Nico](https://open.spotify.com/track/2VS6CRgA68sO4NQLM1s7IU) | [Breach](https://open.spotify.com/artist/2MMkuQE0f6CDaamJdWXaCC) | [Culture](https://open.spotify.com/album/24BipwyBivjGOMXSJQAJGq) | 7:23 |
+| 186 | [Nico](https://open.spotify.com/track/1KiTPYOFaYU5aSIwpvZUHr) | [Breach](https://open.spotify.com/artist/2MMkuQE0f6CDaamJdWXaCC) | [Culture](https://open.spotify.com/album/4GUidWgIFuLfcr8btReanA) | 7:23 |
 | 187 | [self\-love](https://open.spotify.com/track/63PjUXm7NNcqm5OCyRMbr5) | [San Holo](https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo) | [The Trip EP](https://open.spotify.com/album/647Fq4w3G1lqfi210TCblk) | 2:23 |
 | 188 | [fancy\_data](https://open.spotify.com/track/6BRdWpgnxgH5QCGYdc304A) | [Allem Iversom](https://open.spotify.com/artist/6RaUtVLO8R5TsVdJIxSrq1), [Zane Schaffer](https://open.spotify.com/artist/1stp6XCHbjsyVmOYGyYBuz) | [Go\_computer](https://open.spotify.com/album/6kfeEnnnwH8dxXznfZbnzh) | 3:12 |
 | 189 | [Rare](https://open.spotify.com/track/3vO4yolddOhdDHWL5GB0Fn) | [Blake Skowron](https://open.spotify.com/artist/5TjySSb3LXfqe0zvyrmFgf), [Harris Cole](https://open.spotify.com/artist/6DnF6PBcTSsEZuEjXpK0gX) | [Rare](https://open.spotify.com/album/3H5ua9cshyjUJof3yYFmo8) | 5:30 |
@@ -223,4 +223,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWnMZKMl7SWB.md) - [plain]
 | 213 | [Rose's Thorn](https://open.spotify.com/track/0VCUjtHZm8SRvKLWGzQKBf) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI) | [Lune Rouge](https://open.spotify.com/album/45CvmoLWs7OKLnWr5kBR9s) | 4:24 |
 | 214 | [A Bird's Call](https://open.spotify.com/track/0zDeGbSeyIloTRHQhTXhys) | [Nebulae](https://open.spotify.com/artist/3UKaTOMvInYrOVb2SXiO9v) | [A Bird's Call](https://open.spotify.com/album/3PD5R09YXs4zCo34UoDmP2) | 3:02 |
 
-Snapshot ID: `MTY2MjY4MTYwMCwwMDAwMDAwMDYxNjVjMThkNDQ0NDVjMzQ2YWE2ZTAzNzg5NzQ0MTNl`
+Snapshot ID: `MTY2MjY4MTYwMCwwMDAwMDAwMDIyNGE1YzQ3YWY2NzkyMTBlOTFlOGZmNGZjNDllMTIy`

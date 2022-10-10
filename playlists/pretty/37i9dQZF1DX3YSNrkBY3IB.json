@@ -1,12 +1,12 @@
 {
   "description": "Check out these Hip Hop classics that are great for the whole family.",
-  "num_followers": 29325,
+  "num_followers": 30281,
   "original_name": "Raised on Hip Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0OTc5NjA1NSwwMDAwMDAwMDg5ZTYyYWNlYjM2MTdhZTYxY2JkYmM4ZWQwYzFlMzdh",
+  "snapshot_id": "MTY0OTc5NjA1NSwwMDAwMDAwMDc0MmEyMmI3OTNlYmRmNDUyMjI4OGNjZmM4ZTU2NzY0",
   "tracks": [
     {
       "added_at": "2020-09-29 17:19:21",
@@ -269,6 +269,22 @@
       "url": "https://open.spotify.com/track/5l7icgnicl7JToRxPkSXyy"
     },
     {
+      "added_at": "2020-09-29 17:19:21",
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/36F8dqIQunGUWbsOPWQSjz"
+      },
+      "artists": [
+        {
+          "name": "DJ Jazzy Jeff & The Fresh Prince",
+          "url": "https://open.spotify.com/artist/1mG23iQeR29Ojhq89D5gbh"
+        }
+      ],
+      "duration_ms": 177266,
+      "name": "The Fresh Prince of Bel-Air",
+      "url": "https://open.spotify.com/track/0UREO3QWbXJW3gOUXpK1am"
+    },
+    {
       "added_at": "2021-03-19 15:07:31",
       "album": {
         "name": "Jazzmatazz Volume 1",
@@ -333,38 +349,6 @@
       "url": "https://open.spotify.com/track/5DOYik1z3Of1wAFfY3dYbC"
     },
     {
-      "added_at": "2020-09-29 17:19:21",
-      "album": {
-        "name": "Profilin': The Hits",
-        "url": "https://open.spotify.com/album/6a6h1DRImqxSsXfn3bk6XU"
-      },
-      "artists": [
-        {
-          "name": "Rob Base & DJ EZ Rock",
-          "url": "https://open.spotify.com/artist/6vwFR7NilfrQ4AX0d41fWu"
-        }
-      ],
-      "duration_ms": 301893,
-      "name": "It Takes Two",
-      "url": "https://open.spotify.com/track/3Yxmpx64AdWAzG3qAD4Dty"
-    },
-    {
-      "added_at": "2020-09-29 17:19:21",
-      "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/36F8dqIQunGUWbsOPWQSjz"
-      },
-      "artists": [
-        {
-          "name": "DJ Jazzy Jeff & The Fresh Prince",
-          "url": "https://open.spotify.com/artist/1mG23iQeR29Ojhq89D5gbh"
-        }
-      ],
-      "duration_ms": 177266,
-      "name": "The Fresh Prince of Bel-Air",
-      "url": "https://open.spotify.com/track/0UREO3QWbXJW3gOUXpK1am"
-    },
-    {
       "added_at": "2022-01-10 20:50:24",
       "album": {
         "name": "The Best Of Del Tha Funkee Homosapien [The Elektra Years]: The B-Boy Handbook",
@@ -379,6 +363,22 @@
       "duration_ms": 260306,
       "name": "Mistadobalina",
       "url": "https://open.spotify.com/track/0KQd3QY1Y8zC2rfO4ZBQRC"
+    },
+    {
+      "added_at": "2020-09-29 17:19:21",
+      "album": {
+        "name": "Profilin': The Hits",
+        "url": "https://open.spotify.com/album/6a6h1DRImqxSsXfn3bk6XU"
+      },
+      "artists": [
+        {
+          "name": "Rob Base & DJ EZ Rock",
+          "url": "https://open.spotify.com/artist/6vwFR7NilfrQ4AX0d41fWu"
+        }
+      ],
+      "duration_ms": 301893,
+      "name": "It Takes Two",
+      "url": "https://open.spotify.com/track/3Yxmpx64AdWAzG3qAD4Dty"
     },
     {
       "added_at": "2021-04-08 15:31:12",
@@ -429,22 +429,6 @@
       "url": "https://open.spotify.com/track/6jg8Y7gArYgZeXUBPMre0V"
     },
     {
-      "added_at": "2020-09-29 17:19:21",
-      "album": {
-        "name": "3 Years, 5 Months And 2 Days In The Life Of...",
-        "url": "https://open.spotify.com/album/4QrhfVaznhrAPlM5xCKBPh"
-      },
-      "artists": [
-        {
-          "name": "Arrested Development",
-          "url": "https://open.spotify.com/artist/5Va9LuEmaZxnbk1gMnjMD7"
-        }
-      ],
-      "duration_ms": 272706,
-      "name": "Tennessee",
-      "url": "https://open.spotify.com/track/1aaoIHFT9UqhlaEwLAhh00"
-    },
-    {
       "added_at": "2021-03-19 15:07:31",
       "album": {
         "name": "Life After Death (2014 Remaster)",
@@ -467,6 +451,22 @@
       "duration_ms": 257786,
       "name": "Mo Money Mo Problems (feat. Puff Daddy & Mase) - 2014 Remaster",
       "url": "https://open.spotify.com/track/7xykwR6UJ4XNND931IsDLW"
+    },
+    {
+      "added_at": "2020-09-29 17:19:21",
+      "album": {
+        "name": "3 Years, 5 Months And 2 Days In The Life Of...",
+        "url": "https://open.spotify.com/album/4QrhfVaznhrAPlM5xCKBPh"
+      },
+      "artists": [
+        {
+          "name": "Arrested Development",
+          "url": "https://open.spotify.com/artist/5Va9LuEmaZxnbk1gMnjMD7"
+        }
+      ],
+      "duration_ms": 272706,
+      "name": "Tennessee",
+      "url": "https://open.spotify.com/track/1aaoIHFT9UqhlaEwLAhh00"
     },
     {
       "added_at": "2020-09-29 17:19:21",
@@ -587,22 +587,6 @@
     {
       "added_at": "2020-09-29 17:19:21",
       "album": {
-        "name": "RUN-DMC (Expanded Edition)",
-        "url": "https://open.spotify.com/album/5nK0vU32lSmcGrglfcOfg8"
-      },
-      "artists": [
-        {
-          "name": "Run\u2013D.M.C.",
-          "url": "https://open.spotify.com/artist/3CQIn7N5CuRDP8wEI7FiDA"
-        }
-      ],
-      "duration_ms": 330573,
-      "name": "Rock Box",
-      "url": "https://open.spotify.com/track/2XYNq7LIQrh82m7LPiPN8w"
-    },
-    {
-      "added_at": "2020-09-29 17:19:21",
-      "album": {
         "name": "Holy Intellect (Expanded Edition)",
         "url": "https://open.spotify.com/album/79kOIV8l2lC7oZtRrvjNPm"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 284040,
       "name": "Gittin' Funky",
       "url": "https://open.spotify.com/track/1gnOtJnOZErFPsADj08XVr"
+    },
+    {
+      "added_at": "2020-09-29 17:19:21",
+      "album": {
+        "name": "RUN-DMC (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5nK0vU32lSmcGrglfcOfg8"
+      },
+      "artists": [
+        {
+          "name": "Run\u2013D.M.C.",
+          "url": "https://open.spotify.com/artist/3CQIn7N5CuRDP8wEI7FiDA"
+        }
+      ],
+      "duration_ms": 330573,
+      "name": "Rock Box",
+      "url": "https://open.spotify.com/track/2XYNq7LIQrh82m7LPiPN8w"
     },
     {
       "added_at": "2020-09-29 17:19:21",

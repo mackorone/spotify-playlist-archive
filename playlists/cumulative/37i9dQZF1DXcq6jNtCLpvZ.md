@@ -4,7 +4,7 @@
 
 > Music from "Symphogear"! /アニメ「戦姫絶唱シンフォギア」の楽曲を1つのプレイリストで。Ⓒproject シンフォギアXV
 
-56 songs - 4 hr 5 min - [published](https://open.spotify.com/playlist/1KjOcTBVr824LaVF6eI116)
+58 songs - 4 hr 13 min - [published](https://open.spotify.com/playlist/1KjOcTBVr824LaVF6eI116)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,10 +21,12 @@
 | [Lasting Song](https://open.spotify.com/track/39zpWzmP0uewN7ymH1WvJQ) | [Ayahi Takagaki](https://open.spotify.com/artist/6i5Ibaw62PidoTtJ7NlkzZ) | [Radiant Memories](https://open.spotify.com/album/5srZNtgzyWkjFCaOJKahUf) | 4:31 | 2022-09-29 |  |
 | [METANOIA](https://open.spotify.com/track/1pu0l2CLyOBzI9SRdqOqTV) | [Nana Mizuki](https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE) | [METANOIA](https://open.spotify.com/album/2dTATpcLTVwwestFBVO8v7) | 4:35 | 2022-09-29 |  |
 | [Meteor Light](https://open.spotify.com/track/2niQtODa8i0yckO5HkuFid) | [Ayahi Takagaki](https://open.spotify.com/artist/6i5Ibaw62PidoTtJ7NlkzZ) | [relation](https://open.spotify.com/album/5YM6BovRbsFgpPhszIvc81) | 4:37 | 2022-09-29 |  |
-| [Next Destination](https://open.spotify.com/track/3dsw54C5lq2vdrNgp8xhft) | [Ayahi Takagaki](https://open.spotify.com/artist/6i5Ibaw62PidoTtJ7NlkzZ) | [individual](https://open.spotify.com/album/7ASj6T3GNYYpgJC27UeTwc) | 4:33 | 2022-09-29 |  |
+| [Next Destination](https://open.spotify.com/track/3dsw54C5lq2vdrNgp8xhft) | [Ayahi Takagaki](https://open.spotify.com/artist/6i5Ibaw62PidoTtJ7NlkzZ) | [individual](https://open.spotify.com/album/7ASj6T3GNYYpgJC27UeTwc) | 4:33 | 2022-09-29 | 2022-10-04 |
+| [Next Destination](https://open.spotify.com/track/6ijvhaTbzRMGHbaDZ9GSh7) | [Ayahi Takagaki](https://open.spotify.com/artist/6i5Ibaw62PidoTtJ7NlkzZ) | [individual](https://open.spotify.com/album/2BgjPNHgBMSCxJ99XZuuFH) | 4:33 | 2022-09-29 |  |
 | [PERFECT SYMPHONY](https://open.spotify.com/track/7lgtctytqj7oQHdYRLSfwL) | [立花響×風鳴翼×雪音クリス×マリア×月読調×暁切歌×キャロル\(CV:悠木碧×水樹奈々×高垣彩陽×日笠陽子×南條愛乃×茅野愛衣×水瀬いのり\)](https://open.spotify.com/artist/4131BisGtltreRPNb5fSox) | [戦姫絶唱シンフォギアXV キャラクターソングアルバム](https://open.spotify.com/album/26heZ21VqsczDI7NbXx2OT) | 4:39 | 2022-09-29 |  |
 | [RADIANT FORCE](https://open.spotify.com/track/0CPDXQNskqyAAXxOZnrqsA) | [立花響×風鳴翼×雪音クリス\(CV:悠木碧×水樹奈々×高垣彩陽\)](https://open.spotify.com/artist/4HaF6uBPF9cbSpByTal0u5) | [戦姫絶唱シンフォギアGX キャラクターソングアルバム](https://open.spotify.com/album/5OER0RYfJhbdG4dgNdrKP2) | 4:34 | 2022-09-29 |  |
-| [Rebirth\-day](https://open.spotify.com/track/2nDy9NgkRIElBVYtVorzIs) | [Ayahi Takagaki](https://open.spotify.com/artist/6i5Ibaw62PidoTtJ7NlkzZ) | [individual](https://open.spotify.com/album/7ASj6T3GNYYpgJC27UeTwc) | 4:04 | 2022-09-29 |  |
+| [Rebirth\-day](https://open.spotify.com/track/2nDy9NgkRIElBVYtVorzIs) | [Ayahi Takagaki](https://open.spotify.com/artist/6i5Ibaw62PidoTtJ7NlkzZ) | [individual](https://open.spotify.com/album/7ASj6T3GNYYpgJC27UeTwc) | 4:04 | 2022-09-29 | 2022-10-03 |
+| [Rebirth\-day](https://open.spotify.com/track/4dzRh3D8MfAU3tvIAdZn8c) | [Ayahi Takagaki](https://open.spotify.com/artist/6i5Ibaw62PidoTtJ7NlkzZ) | [individual](https://open.spotify.com/album/2BgjPNHgBMSCxJ99XZuuFH) | 4:04 | 2022-09-29 |  |
 | [Stand up! Ready!!](https://open.spotify.com/track/1Nurm8feenXln21uUCEWLL) | [マリア・カデンツァヴナ・イヴ\(CV:日笠陽子\)](https://open.spotify.com/artist/33yellon8TKTgyyl9Xtwky) | [戦姫絶唱シンフォギアAXZ キャラクターソングアルバム](https://open.spotify.com/album/3SWLNQqvKmDvaGwBBQ6i6U) | 4:18 | 2022-09-29 |  |
 | [Synchrogazer](https://open.spotify.com/track/3Y0vHa9j7yyznCZoRwkSlM) | [Nana Mizuki](https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE) | [Synchrogazer](https://open.spotify.com/album/0em2lAYqDwbG6EZ2tAokS8) | 4:24 | 2022-09-29 |  |
 | [Take this! “All loaded"](https://open.spotify.com/track/4ixLm2HQgGW7iyQ2YBjPC6) | [雪音クリス\(CV:高垣彩陽\)](https://open.spotify.com/artist/6eSv0sJzPHboLDUYAkm9Q2) | [戦姫絶唱シンフォギアXV キャラクターソングアルバム](https://open.spotify.com/album/26heZ21VqsczDI7NbXx2OT) | 4:17 | 2022-09-29 |  |

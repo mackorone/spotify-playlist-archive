@@ -152,6 +152,24 @@
     },
     {
       "album": {
+        "name": "Adjacent",
+        "url": "https://open.spotify.com/album/2SnEZhNI9s5vSLsmIvOrRJ"
+      },
+      "artists": [
+        {
+          "name": "Bill Valentino",
+          "url": "https://open.spotify.com/artist/0I1EsNzqgWLBylHYY8kQnN"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231038,
+      "name": "Adjacent",
+      "url": "https://open.spotify.com/track/2xfu6IZrsxJmbVRM4slfN9"
+    },
+    {
+      "album": {
         "name": "Aeonian",
         "url": "https://open.spotify.com/album/10TTVSf5z979cewemtMlep"
       },
@@ -275,7 +293,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-07",
       "duration_ms": 156328,
       "name": "Aria Amore",
       "url": "https://open.spotify.com/track/2gbiV6hshIr99CuE8Jmc1J"
@@ -2286,6 +2304,24 @@
     },
     {
       "album": {
+        "name": "Nostalgia",
+        "url": "https://open.spotify.com/album/1z0H1oKZ2DSHvjpG4dDbMX"
+      },
+      "artists": [
+        {
+          "name": "Manuel Boltano",
+          "url": "https://open.spotify.com/artist/1VPn9LztA72am356jYFyMH"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216931,
+      "name": "Nostalgie",
+      "url": "https://open.spotify.com/track/3nCXrX86dijsLaCS7jzLlB"
+    },
+    {
+      "album": {
         "name": "Notturno No. 3",
         "url": "https://open.spotify.com/album/019lCBtr2ly5sXuIFzc5Du"
       },
@@ -2578,6 +2614,24 @@
     },
     {
       "album": {
+        "name": "Port Blair",
+        "url": "https://open.spotify.com/album/1URrRnZNIpkpRRVGcOJszd"
+      },
+      "artists": [
+        {
+          "name": "Marino Calle",
+          "url": "https://open.spotify.com/artist/7B5DgVnyn7BhJ3gWxIWCYJ"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154911,
+      "name": "Port Blair",
+      "url": "https://open.spotify.com/track/1jMovOA0kIWC73Xio4pdXT"
+    },
+    {
+      "album": {
         "name": "Ericeira",
         "url": "https://open.spotify.com/album/32NGueMRUQl0zGowxzQIbG"
       },
@@ -2762,6 +2816,24 @@
     },
     {
       "album": {
+        "name": "Romeo",
+        "url": "https://open.spotify.com/album/3FY0f4yVshMeNhh9VwYZtl"
+      },
+      "artists": [
+        {
+          "name": "Julia Quir\u00f3s",
+          "url": "https://open.spotify.com/artist/1WxwRcRO4zK1lfqC5qFsZF"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177725,
+      "name": "Romeo",
+      "url": "https://open.spotify.com/track/6p6SkdKACD6Yxv4OTF3RRi"
+    },
+    {
+      "album": {
         "name": "Roots",
         "url": "https://open.spotify.com/album/44ysmHkHLWluf64LGdFUpD"
       },
@@ -2849,6 +2921,60 @@
       "duration_ms": 137652,
       "name": "Saramjan",
       "url": "https://open.spotify.com/track/1fuyZkRvsGM42RQC8Hs306"
+    },
+    {
+      "album": {
+        "name": "Sat\u00e9lite",
+        "url": "https://open.spotify.com/album/5Y6HlNBOqKWJEdEohqgcN2"
+      },
+      "artists": [
+        {
+          "name": "Marta Fiscovich",
+          "url": "https://open.spotify.com/artist/6B7cCKWOKNqdjU5bqeZAS7"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148500,
+      "name": "Sat\u00e9lite",
+      "url": "https://open.spotify.com/track/4bACm2m5ym6bX4QaPbUwYX"
+    },
+    {
+      "album": {
+        "name": "Secreto a gritos",
+        "url": "https://open.spotify.com/album/1awQz7qa436GOIuQJUsdVt"
+      },
+      "artists": [
+        {
+          "name": "Nuria Polanka",
+          "url": "https://open.spotify.com/artist/2kq2VvWZunlZU33VuP144d"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185000,
+      "name": "Secreto a gritos",
+      "url": "https://open.spotify.com/track/4nfhvNVF4APrKYyakiVvbJ"
+    },
+    {
+      "album": {
+        "name": "Senza Fine",
+        "url": "https://open.spotify.com/album/2831RPrm9Yal2OCTmcNJ59"
+      },
+      "artists": [
+        {
+          "name": "Valerio Castilla",
+          "url": "https://open.spotify.com/artist/4kot0Uzr67BAdjYsmnUczI"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185671,
+      "name": "Senza Fine",
+      "url": "https://open.spotify.com/track/2EGESNjQMOr0WPl9RCmtQo"
     },
     {
       "album": {
@@ -3122,6 +3248,24 @@
     },
     {
       "album": {
+        "name": "Taller Than Trees",
+        "url": "https://open.spotify.com/album/5KV0i5o9Dzpmgh9YcyTgOT"
+      },
+      "artists": [
+        {
+          "name": "Josephine Forrester",
+          "url": "https://open.spotify.com/artist/3hGRgVdSwQQVheMJ6pizcz"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151212,
+      "name": "Taller Than Trees",
+      "url": "https://open.spotify.com/track/44sLGlyVicqZ8iyyLSzRye"
+    },
+    {
+      "album": {
         "name": "Tant va au ciel (Hommage \u00e0 Roland Dyens)",
         "url": "https://open.spotify.com/album/3tsdk6rAfOfe0WQbC50l7V"
       },
@@ -3357,6 +3501,24 @@
       "duration_ms": 145728,
       "name": "Tranquility",
       "url": "https://open.spotify.com/track/0TACgDNHOuXWhcxAU3dKKz"
+    },
+    {
+      "album": {
+        "name": "Traveling Home",
+        "url": "https://open.spotify.com/album/42UuqeNyhpaG8Le833PpRX"
+      },
+      "artists": [
+        {
+          "name": "Miko Yoshida",
+          "url": "https://open.spotify.com/artist/54v563e3Njq2wjXwnXM6DR"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193866,
+      "name": "Traveling Home",
+      "url": "https://open.spotify.com/track/6UpA9GfzGPuny8IzZHu3ce"
     },
     {
       "album": {

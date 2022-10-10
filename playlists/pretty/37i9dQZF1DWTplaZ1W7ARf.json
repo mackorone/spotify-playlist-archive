@@ -1,28 +1,48 @@
 {
   "description": "Neighborhood Storytellers. Cover: Lil Tjay",
-  "num_followers": 52079,
+  "num_followers": 52314,
   "original_name": "Street Soul",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDUxMDQwMCwwMDAwMDAwMDMwMGRkNzNhMTQ3YmVkZTVlODRmNjhlZGI2MjVhZTBh",
+  "snapshot_id": "MTY2NTExNTIwMCwwMDAwMDAwMDA3MWQ3ZGJiNDFhY2M1MTJkZWZlY2YxMTBkOTNhMjQ2",
   "tracks": [
     {
-      "added_at": "2022-09-09 04:00:00",
+      "added_at": "2022-10-07 04:00:00",
       "album": {
-        "name": "Beat the Odds",
-        "url": "https://open.spotify.com/album/5jopeyeE3iVZ5zlEMadVcv"
+        "name": "Family & Mula",
+        "url": "https://open.spotify.com/album/5qUom4uwQJLIbmRUEgv0pa"
       },
       "artists": [
         {
-          "name": "Lil Tjay",
-          "url": "https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR"
+          "name": "Rich Homie Quan",
+          "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
+        },
+        {
+          "name": "NoCap",
+          "url": "https://open.spotify.com/artist/4PNHuWkk4ee6R8WEhFVPf5"
         }
       ],
-      "duration_ms": 150000,
-      "name": "Beat the Odds",
-      "url": "https://open.spotify.com/track/2BJWxD8xKrDv8vneTvTIm9"
+      "duration_ms": 249270,
+      "name": "Bigger Jeans (feat. NoCap)",
+      "url": "https://open.spotify.com/track/0B3iyAwE81D2weW8MrwE7h"
+    },
+    {
+      "added_at": "2022-09-23 04:00:00",
+      "album": {
+        "name": "Realer 2",
+        "url": "https://open.spotify.com/album/0HYHImbSqwsuU61PSMEe8J"
+      },
+      "artists": [
+        {
+          "name": "YoungBoy Never Broke Again",
+          "url": "https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b"
+        }
+      ],
+      "duration_ms": 136258,
+      "name": "Purge Me",
+      "url": "https://open.spotify.com/track/4HTkk2vceRNg08yGcRJtBS"
     },
     {
       "added_at": "2022-07-08 01:21:55",
@@ -45,20 +65,36 @@
       "url": "https://open.spotify.com/track/79TJ0JoYhZYJLEozMVrT0T"
     },
     {
-      "added_at": "2022-09-09 04:00:00",
+      "added_at": "2022-09-16 04:00:00",
       "album": {
-        "name": "Hell",
-        "url": "https://open.spotify.com/album/1F5dynTBqwMT46sY4OcvO6"
+        "name": "Risk Takers",
+        "url": "https://open.spotify.com/album/4zcudfEaBMysM9hvHiLRN1"
       },
       "artists": [
         {
-          "name": "EST Gee",
-          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
+          "name": "Rich Homie Quan",
+          "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
         }
       ],
-      "duration_ms": 139265,
-      "name": "Hell",
-      "url": "https://open.spotify.com/track/5X79uZsOrtg2iolPYhqeUa"
+      "duration_ms": 141888,
+      "name": "Risk Takers",
+      "url": "https://open.spotify.com/track/6BJGlhrDS2mKteYz7o2bt6"
+    },
+    {
+      "added_at": "2022-09-09 04:00:00",
+      "album": {
+        "name": "Beat the Odds",
+        "url": "https://open.spotify.com/album/5jopeyeE3iVZ5zlEMadVcv"
+      },
+      "artists": [
+        {
+          "name": "Lil Tjay",
+          "url": "https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "Beat the Odds",
+      "url": "https://open.spotify.com/track/2BJWxD8xKrDv8vneTvTIm9"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -81,36 +117,20 @@
       "url": "https://open.spotify.com/track/7ci1R1e89Zw0HumjHSN5XF"
     },
     {
-      "added_at": "2022-09-16 04:00:00",
+      "added_at": "2022-10-07 04:00:00",
       "album": {
-        "name": "Risk Takers",
-        "url": "https://open.spotify.com/album/4zcudfEaBMysM9hvHiLRN1"
+        "name": "Tez & Tone 1",
+        "url": "https://open.spotify.com/album/22SPzvel0IVFXbPPjGo7nd"
       },
       "artists": [
         {
-          "name": "Rich Homie Quan",
-          "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
+          "name": "Tee Grizzley",
+          "url": "https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO"
         }
       ],
-      "duration_ms": 141888,
-      "name": "Risk Takers",
-      "url": "https://open.spotify.com/track/6BJGlhrDS2mKteYz7o2bt6"
-    },
-    {
-      "added_at": "2022-09-23 04:00:00",
-      "album": {
-        "name": "Realer 2",
-        "url": "https://open.spotify.com/album/0HYHImbSqwsuU61PSMEe8J"
-      },
-      "artists": [
-        {
-          "name": "YoungBoy Never Broke Again",
-          "url": "https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b"
-        }
-      ],
-      "duration_ms": 136258,
-      "name": "Purge Me",
-      "url": "https://open.spotify.com/track/4HTkk2vceRNg08yGcRJtBS"
+      "duration_ms": 230526,
+      "name": "Tez & Tone 1",
+      "url": "https://open.spotify.com/track/7mXhmsSwfZCcPGA0M993Rl"
     },
     {
       "added_at": "2022-09-09 04:00:00",
@@ -127,6 +147,22 @@
       "duration_ms": 245153,
       "name": "Rumors",
       "url": "https://open.spotify.com/track/5HmhRq9DfQy66F27HzxIor"
+    },
+    {
+      "added_at": "2022-09-09 04:00:00",
+      "album": {
+        "name": "Hell",
+        "url": "https://open.spotify.com/album/1F5dynTBqwMT46sY4OcvO6"
+      },
+      "artists": [
+        {
+          "name": "EST Gee",
+          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
+        }
+      ],
+      "duration_ms": 139265,
+      "name": "Hell",
+      "url": "https://open.spotify.com/track/5X79uZsOrtg2iolPYhqeUa"
     },
     {
       "added_at": "2022-09-09 04:00:00",
@@ -559,8 +595,8 @@
     {
       "added_at": "2022-08-05 04:00:00",
       "album": {
-        "name": "Blood Boy",
-        "url": "https://open.spotify.com/album/0hnSyql4qfnASDuxO58g2p"
+        "name": "Legendary",
+        "url": "https://open.spotify.com/album/7pDUpSYX9059HWV94jJbqQ"
       },
       "artists": [
         {
@@ -568,9 +604,9 @@
           "url": "https://open.spotify.com/artist/7jkEdcZtIMWXlEM5sgZ2uK"
         }
       ],
-      "duration_ms": 146823,
+      "duration_ms": 149043,
       "name": "Blood Boy",
-      "url": "https://open.spotify.com/track/3Mk9L0W0T3ubitZjaYOC8w"
+      "url": "https://open.spotify.com/track/5aqeqiO73dCUNfrOX6NxD3"
     },
     {
       "added_at": "2022-08-26 08:25:37",
@@ -745,22 +781,6 @@
       "url": "https://open.spotify.com/track/34nGTjKinQV46a8C8T2HfY"
     },
     {
-      "added_at": "2022-07-15 04:01:00",
-      "album": {
-        "name": "Rain",
-        "url": "https://open.spotify.com/album/2Tw5eFuipEz0DsS8J9WVTR"
-      },
-      "artists": [
-        {
-          "name": "2KBABY",
-          "url": "https://open.spotify.com/artist/4mkjpWbFO45SyaHiM9GOVE"
-        }
-      ],
-      "duration_ms": 170145,
-      "name": "Rain",
-      "url": "https://open.spotify.com/track/0IWNj3KbZQeh3iQOXSMzYQ"
-    },
-    {
       "added_at": "2022-05-06 04:00:00",
       "album": {
         "name": "Borderline (feat. EST Gee)",
@@ -779,22 +799,6 @@
       "duration_ms": 171996,
       "name": "Borderline (feat. EST Gee)",
       "url": "https://open.spotify.com/track/5kJfSYnaiX9b1wmihtUmXd"
-    },
-    {
-      "added_at": "2022-08-05 04:00:00",
-      "album": {
-        "name": "222",
-        "url": "https://open.spotify.com/album/3zSACdYWSh5TPr5fn0YO0T"
-      },
-      "artists": [
-        {
-          "name": "Kalan.FrFr",
-          "url": "https://open.spotify.com/artist/47TMF0JlFsz01KilGzc5Ly"
-        }
-      ],
-      "duration_ms": 323720,
-      "name": "Going Through Things",
-      "url": "https://open.spotify.com/track/1QLroFtslxVkJ9vfSadxAJ"
     },
     {
       "added_at": "2022-05-06 04:00:00",

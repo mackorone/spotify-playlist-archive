@@ -4,7 +4,7 @@
 
 > Have some chill house with your coffee.
 
-101 songs - 7 hr 13 min - [published](https://open.spotify.com/playlist/7cWqG54YefbuLPCla0PZhk)
+102 songs - 7 hr 20 min - [published](https://open.spotify.com/playlist/7cWqG54YefbuLPCla0PZhk)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,12 +63,13 @@
 | [Messin' Around \- Mogul Remix](https://open.spotify.com/track/2MuVffmR9wAEFbXFyd75W8) | [Berry Juice](https://open.spotify.com/artist/2V5pNnEusCUalcRoeG9uOL), [Josh Tobias](https://open.spotify.com/artist/51baoJSjBSHXbpgLMRReCt), [Mogul](https://open.spotify.com/artist/6sqiRzYTXxK2QixYmy3Ebz) | [Messin' Around \(Mogul Remix\)](https://open.spotify.com/album/29hveGpUSeZEDiYOw78PdX) | 3:53 | 2022-09-15 |  |
 | [Midnight \- Ambient Edit](https://open.spotify.com/track/6zWkS1HDW9k91fSvYsBheY) | [Alex Lustig](https://open.spotify.com/artist/5oLxJrktO7kOEJANS6nkZB) | [Edits 001](https://open.spotify.com/album/7KVQivbhzpMiRbQj4mNw4g) | 2:11 | 2022-09-15 |  |
 | [Moraine](https://open.spotify.com/track/68gG8lazvms6X0uC6MWmFz) | [Sebastian Davidson](https://open.spotify.com/artist/1uO4ut3M0hYeCfEEUdFnEp) | [Moraine](https://open.spotify.com/album/47dCDllqthOKWSyMw3yLQb) | 3:57 | 2022-09-15 |  |
-| [No Color \(Reimagined\)](https://open.spotify.com/track/3j7JyIQECpvg3UB6LAwu4m) | [Mayer Malik](https://open.spotify.com/artist/0WMRcmW4gPPbnJOR6XJXmc), [Boaz van de Beatz](https://open.spotify.com/artist/7Gl7G1JK7feTWHy1YJExfw) | [No Color \(Reimagined\)](https://open.spotify.com/album/1uDWCY3t0JATslapdFavnK) | 2:59 | 2022-09-15 | 2022-09-19 |
+| [No Color \(Reimagined\)](https://open.spotify.com/track/3j7JyIQECpvg3UB6LAwu4m) | [Mayer Malik](https://open.spotify.com/artist/0WMRcmW4gPPbnJOR6XJXmc), [Boaz van de Beatz](https://open.spotify.com/artist/7Gl7G1JK7feTWHy1YJExfw) | [No Color \(Reimagined\)](https://open.spotify.com/album/1uDWCY3t0JATslapdFavnK) | 2:59 | 2022-09-15 | 2022-10-07 |
 | [No More](https://open.spotify.com/track/1XHCxvbJuVLd6n8Tj9oiCy) | [Bros Bros](https://open.spotify.com/artist/5QQgP1TsYXJmb0VhOjO6ZX), [Jon the Gold](https://open.spotify.com/artist/00vagRdyf9Xku8Gi0zPv0x) | [No More / You Like Me](https://open.spotify.com/album/2J3FizlVKqLcGKYCYP3KNc) | 2:38 | 2022-09-15 |  |
 | [Nothing Happened](https://open.spotify.com/track/7aMBDyba2YVpoKWHXBijrG) | [Bølling](https://open.spotify.com/artist/3lTVwL069q4XSE9pcacCXS) | [Chill Executive Officer \(CEO\), Vol\. 7 \[Selected by Maykel Piron\]](https://open.spotify.com/album/4wvrrh7LugJVuufRSpE4pt) | 3:19 | 2022-09-15 |  |
 | [Objects](https://open.spotify.com/track/4FxDO7idxRd2P8sri4gNif) | [End of Time](https://open.spotify.com/artist/6dNTNj0L3lC10XwVX6xu4C), [Trippin Jaguar](https://open.spotify.com/artist/6Fxw93ezsZRlLdYWxyHqO0) | [Forms / Objects](https://open.spotify.com/album/25f72Bhjb3GOERoGTNAnMu) | 6:26 | 2022-09-15 |  |
 | [Obscure](https://open.spotify.com/track/636E5CfJPN1GlWhhYcQMzY) | [LYANE](https://open.spotify.com/artist/0cQEcLmC43QHccKlphpAYK) | [Obscure](https://open.spotify.com/album/0mrJoQMHdOz37Zd4Ucpo6F) | 2:33 | 2022-09-15 |  |
-| [Of Sea](https://open.spotify.com/track/3cGYeXxZTPqmxaZ27JUJsD) | [Nuage](https://open.spotify.com/artist/40aC0ICH8LjuNvZrh30WtD), [Omfeel](https://open.spotify.com/artist/01koLF6f9W9lvfj1EIsSbQ) | [Our Language](https://open.spotify.com/album/26s1tsgYX1rsNvsjjYmxuc) | 6:04 | 2022-09-15 |  |
+| [Of Sea](https://open.spotify.com/track/3cGYeXxZTPqmxaZ27JUJsD) | [Nuage](https://open.spotify.com/artist/40aC0ICH8LjuNvZrh30WtD), [Omfeel](https://open.spotify.com/artist/01koLF6f9W9lvfj1EIsSbQ) | [Our Language](https://open.spotify.com/album/26s1tsgYX1rsNvsjjYmxuc) | 6:04 | 2022-09-15 | 2022-10-05 |
+| [Of Sea](https://open.spotify.com/track/5XYSBPFLufUCyMo3hXD9uP) | [Nuage](https://open.spotify.com/artist/40aC0ICH8LjuNvZrh30WtD), [Omfeel](https://open.spotify.com/artist/01koLF6f9W9lvfj1EIsSbQ) | [Our Language](https://open.spotify.com/album/5MsxvhXIJxpiXJI2MNF3VE) | 6:04 | 2022-09-15 |  |
 | [One 4 the Dreamers](https://open.spotify.com/track/2TXzAr3G4t3Ojh8udkFDiW) | [Makèz](https://open.spotify.com/artist/0jJ2FmezizVLUIll3rbXmE) | [Elevation](https://open.spotify.com/album/59qFQKextrHGWvevo8az3R) | 6:39 | 2022-09-15 |  |
 | [Overdrive](https://open.spotify.com/track/5PhuSPukGj9G50AWPdpa93) | [Silo](https://open.spotify.com/artist/2TFaSCsqBNMcZ1daHE0pNA) | [Overdrive](https://open.spotify.com/album/5swcUAvJoBBxKmwH60xs18) | 4:30 | 2022-09-15 |  |
 | [Para Mi](https://open.spotify.com/track/2RBzADQT2i31c0Au59HnP8) | [ARTO](https://open.spotify.com/artist/3T70Dxzh4RhkD3jPvkRLxn) | [Chill Executive Officer \(CEO\), Vol\. 20 \[Selected by Maykel Piron\]](https://open.spotify.com/album/5WOoYzx48dwyrW0KQquytu) | 2:38 | 2022-09-15 |  |

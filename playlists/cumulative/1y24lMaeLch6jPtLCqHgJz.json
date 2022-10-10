@@ -391,7 +391,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 195058,
       "name": "Chasing Bliss",
       "url": "https://open.spotify.com/track/2D3aVWaHfXemcFgn9T50AK"
@@ -879,6 +879,32 @@
     {
       "album": {
         "name": "Hurricane",
+        "url": "https://open.spotify.com/album/43UsFyzWE1Uom2rpVohnJg"
+      },
+      "artists": [
+        {
+          "name": "Blackcode",
+          "url": "https://open.spotify.com/artist/2O0GPxVfZuYNQP0V6mJ3FL"
+        },
+        {
+          "name": "ASTER",
+          "url": "https://open.spotify.com/artist/6Jt9U8bJ56jqNdEKdLZ7Yw"
+        },
+        {
+          "name": "Robbie Rosen",
+          "url": "https://open.spotify.com/artist/1569hvm0IW3DHOfruYP2lM"
+        }
+      ],
+      "date_added": "2022-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199384,
+      "name": "Hurricane",
+      "url": "https://open.spotify.com/track/44fKrt6SHESPvP3H1IpvBy"
+    },
+    {
+      "album": {
+        "name": "Hurricane",
         "url": "https://open.spotify.com/album/7bz61NaPnWWrTNt7fLDG4G"
       },
       "artists": [
@@ -1111,6 +1137,36 @@
       "duration_ms": 199906,
       "name": "Levels - Radio Edit",
       "url": "https://open.spotify.com/track/5UqCQaDshqbIk3pkhy4Pjg"
+    },
+    {
+      "album": {
+        "name": "Revealed Recordings presents ADE Sampler 2022",
+        "url": "https://open.spotify.com/album/5CZASEqfAIx22yQEaiBKXi"
+      },
+      "artists": [
+        {
+          "name": "Patrick Moreno",
+          "url": "https://open.spotify.com/artist/1cgYwI8wy6MB26Mgtr4Ubx"
+        },
+        {
+          "name": "SOUNDCHECK",
+          "url": "https://open.spotify.com/artist/4cJtXXdfujLT0wr1DY9pdl"
+        },
+        {
+          "name": "Replay M",
+          "url": "https://open.spotify.com/artist/6XTVE58RFOIxPuDGSkXa4z"
+        },
+        {
+          "name": "Michael Zhonga",
+          "url": "https://open.spotify.com/artist/1FeScSe5coyXzmJ8ATtj9O"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169687,
+      "name": "Losing Focus",
+      "url": "https://open.spotify.com/track/0NiksN12Vqtj2XmOnFOFxz"
     },
     {
       "album": {
@@ -1915,7 +1971,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-04",
       "duration_ms": 210475,
       "name": "There's Still Time",
       "url": "https://open.spotify.com/track/7yh0Nvp2RacQ42AIWZu8Py"

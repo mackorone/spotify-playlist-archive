@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6o0zIiTnhmq.md) - [plain]
 
 > Mantras for meditation
 
-[Spotify](https://open.spotify.com/user/spotify) - 110,731 likes - 33 songs - 9 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 111,865 likes - 33 songs - 9 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6o0zIiTnhmq.md) - [plain]
 | 21 | [Nam Myoho Renge Kyo Mantra \(Devotion to the Mystic Law\)](https://open.spotify.com/track/4exQWqZNQ4aQzasBj3Dir9) | [Deva Premal](https://open.spotify.com/artist/2970BxpdOBQmkMit6i9kVF), [Miten](https://open.spotify.com/artist/4jrXM6oLQfV9L458Luwc3P), [Manose](https://open.spotify.com/artist/4JuGrH8E5Xgddd61nqIViQ) | [Mantras for Life](https://open.spotify.com/album/74COwDRGbAiTH04LbYsYUP) | 4:11 |
 | 22 | [Om Namo Bhagavate Vasudevaya \(Liberation\)](https://open.spotify.com/track/1uzmVgbFP4UsMnTP1RXfQ5) | [Deva Premal](https://open.spotify.com/artist/2970BxpdOBQmkMit6i9kVF) | [Mantras for Precarious Times](https://open.spotify.com/album/1bSEZ4sgMJNKeP2sYyuwnX) | 9:29 |
 | 23 | [Om Tryambakam: Mantra for Health](https://open.spotify.com/track/7xHqunPfTTNAsJvBjSzDsH) | [Ananda Vdovic](https://open.spotify.com/artist/0pyLDBws2r1CNSkLJol5tN), [Davor Vdovic](https://open.spotify.com/artist/19dzgXUMohaOgGPT3OzpAJ) | [Mantras for a Happy Life](https://open.spotify.com/album/6zCF7QiMqi8CY8J4qP1a0k) | 8:33 |
-| 24 | [Restorative Mantras](https://open.spotify.com/track/7jB2WjGFOiaH5zk6XijoYp) | [Zen Healing Music Collective](https://open.spotify.com/artist/40VM3yuQwPc2smHc4vvtok) | [Healing Mantras: Gentle Rhythms for Yoga, Relaxation and Calm in an Anxious World](https://open.spotify.com/album/0sHBRGUwClkWlEDadjt0eo) | 1:39 |
+| 24 | [Restorative Mantras](https://open.spotify.com/track/6Mp8hiNPzsvsCXxAmmUK2d) | [Zen Healing Music Collective](https://open.spotify.com/artist/40VM3yuQwPc2smHc4vvtok) | [Healing Mantras: Gentle Rhythms for Yoga, Relaxation and Calm in an Anxious World](https://open.spotify.com/album/0OZgLEU0uhjVxIPpNlrIfL) | 1:39 |
 | 25 | [Medicine Buddha Mantra](https://open.spotify.com/track/1oZomIXDVknb470AOo66cN) | [Buddha Music Sanctuary](https://open.spotify.com/artist/4FD6Q9i4uAwn5PEwirPyJ3) | [111 Tracks: Meditation Mantras \- Zen Garden & Asian Chakra Balancing, Reiki Healing Therapy Sounds, Buddha Lounge Music & Yoga Studio](https://open.spotify.com/album/4MKhYNmN88Obpo0FvJCYlU) | 3:10 |
 | 26 | [Om Mani Padme Hum 1](https://open.spotify.com/track/0Wt0mAqujcgSIP6xEV0rdp) | [Jane Winther](https://open.spotify.com/artist/0PO9NIghm5IGR1uIqCRJ1s) | [Yoga Music Collection "Blissfull Mantras & Prayers"](https://open.spotify.com/album/1bCI6dcUsLfJvIJGWwhv7T) | 8:24 |
 | 27 | [Durga Mantra](https://open.spotify.com/track/0gJNEG3bWdslbqGOf8VOWj) | [Meditative Mind](https://open.spotify.com/artist/1PTLyE54UyxphMo43yaSc7) | [Magical Mantras for Meditation \- Volume Two](https://open.spotify.com/album/2SyTtRLOHedCwGOBNiQcU4) | 43:59 |
@@ -42,4 +42,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6o0zIiTnhmq.md) - [plain]
 | 32 | [Guru Smaranam](https://open.spotify.com/track/6n4Oa9DqN2ZaAGQlJ94WiR) | [Sadhana Sargam](https://open.spotify.com/artist/1HGMG8RHvcu1mfdM9MeTek) | [Morning Mantras](https://open.spotify.com/album/7rZWkCmz3Eli2Q9WkOXV0W) | 3:39 |
 | 33 | [Antarjami Purakh Bidhate](https://open.spotify.com/track/6gKNIl2Cv47OKDa9JKwX40) | [Meditative Mind](https://open.spotify.com/artist/1PTLyE54UyxphMo43yaSc7) | [Mantras for Positive Energy](https://open.spotify.com/album/7C97tpyMI6dTlWVAkWXBZ7) | 11:20 |
 
-Snapshot ID: `MTY1OTcwMjg3MCwwMDAwMDAwMDI5ZjRiYTE1ZmUyNDM2ZThjYTNhZTFjMzFkZDc1ODhi`
+Snapshot ID: `MTY1OTcwMjg3MCwwMDAwMDAwMDQ1YTc0Y2I5MzJhNWVhYzhiYjJhYjY2ZTJkZGFlNWVj`

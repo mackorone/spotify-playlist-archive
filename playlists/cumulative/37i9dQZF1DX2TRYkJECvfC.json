@@ -9,6 +9,24 @@
     {
       "album": {
         "name": "(i am) here",
+        "url": "https://open.spotify.com/album/3UDg4lvnb5fAD88D0L1uYE"
+      },
+      "artists": [
+        {
+          "name": "offrami",
+          "url": "https://open.spotify.com/artist/733pYGuQ9xwCh15uK2VWT1"
+        }
+      ],
+      "date_added": "2022-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141290,
+      "name": "(i am) here",
+      "url": "https://open.spotify.com/track/6pcg56OCArCi2RJFY1Khvn"
+    },
+    {
+      "album": {
+        "name": "(i am) here",
         "url": "https://open.spotify.com/album/55Hyob33Ny0evME5BVGOGZ"
       },
       "artists": [
@@ -581,7 +599,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-07",
       "duration_ms": 349767,
       "name": "Boats",
       "url": "https://open.spotify.com/track/5NOroGtZSBsdCid7axlyXj"
@@ -2349,7 +2367,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-30",
+      "date_removed": null,
       "duration_ms": 263785,
       "name": "Le Crocodile",
       "url": "https://open.spotify.com/track/6Diwqd0hI8ychp5DL5QVMb"
@@ -2629,7 +2647,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-01",
+      "date_removed": "2022-10-08",
       "duration_ms": 420495,
       "name": "Make a Wish",
       "url": "https://open.spotify.com/track/3sUV3UODz1JL2Bv4kkz6u1"
@@ -3036,6 +3054,24 @@
     },
     {
       "album": {
+        "name": "Nillla (La la La la La)",
+        "url": "https://open.spotify.com/album/6LOzTtWRvtuCHlsRZchMu4"
+      },
+      "artists": [
+        {
+          "name": "100 Keigh",
+          "url": "https://open.spotify.com/artist/1FQzMTtbPIlbti4O3Z6MYm"
+        }
+      ],
+      "date_added": "2022-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242068,
+      "name": "Nillla (La la La la La)",
+      "url": "https://open.spotify.com/track/1Y5C8ioJGpEYzSdAbcJsqn"
+    },
+    {
+      "album": {
         "name": "All That Must Be",
         "url": "https://open.spotify.com/album/52LJO0cNeBErBohaxNZ0t4"
       },
@@ -3189,7 +3225,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-05",
       "duration_ms": 364226,
       "name": "Of Sea",
       "url": "https://open.spotify.com/track/3cGYeXxZTPqmxaZ27JUJsD"
@@ -4513,7 +4549,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-09",
       "duration_ms": 176000,
       "name": "Sorry I Hide in My Room",
       "url": "https://open.spotify.com/track/5pwScWoXXIPhAeY90OY8Sd"

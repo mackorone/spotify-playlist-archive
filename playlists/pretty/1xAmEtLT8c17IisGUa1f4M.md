@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1xAmEtLT8c17IisGUa1f4M.md) - [plain]
 
 > 38 great tunes by female singers only!
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,386 likes - 38 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,389 likes - 38 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -945,7 +945,7 @@
       ],
       "date_added": "2022-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-07",
       "duration_ms": 165000,
       "name": "FAX",
       "url": "https://open.spotify.com/track/3f7DEE3i9IzH7ieoKOLdvr"
@@ -1385,7 +1385,7 @@
       ],
       "date_added": "2022-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-07",
       "duration_ms": 158555,
       "name": "Mo Money Mo Problems",
       "url": "https://open.spotify.com/track/4bRd2tebqOfIYxsyIGUzDd"
@@ -2186,6 +2186,28 @@
     },
     {
       "album": {
+        "name": "S\u00f3 Se N\u00e3o Quiseres",
+        "url": "https://open.spotify.com/album/2A53Atg8lJ5gSe2oEMb4Gn"
+      },
+      "artists": [
+        {
+          "name": "Breyth",
+          "url": "https://open.spotify.com/artist/1ASRVb6tSo0Pdb6yEKZhmx"
+        },
+        {
+          "name": "Vado M\u00e1s Ki \u00c1s",
+          "url": "https://open.spotify.com/artist/6HmLPYedWhpFhiF8BonrMG"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172560,
+      "name": "S\u00f3 Se N\u00e3o Quiseres",
+      "url": "https://open.spotify.com/track/0dTFrJx3UeD54dZhGXBeNb"
+    },
+    {
+      "album": {
         "name": "teach me how to love",
         "url": "https://open.spotify.com/album/53a3gVxPs0JZvEYSTMrWRj"
       },
@@ -2245,6 +2267,32 @@
       "duration_ms": 203351,
       "name": "That's Me",
       "url": "https://open.spotify.com/track/1ktNayJwoiwQoWq7ffKMJf"
+    },
+    {
+      "album": {
+        "name": "The Cold Room - S2-E10",
+        "url": "https://open.spotify.com/album/0u9GlXYupjr425whxAzcuA"
+      },
+      "artists": [
+        {
+          "name": "XROOTZ",
+          "url": "https://open.spotify.com/artist/0ZDuMqcz7YEc0sJDijQmEb"
+        },
+        {
+          "name": "Tweeko",
+          "url": "https://open.spotify.com/artist/22wD142FUVQatdB5g8mxTF"
+        },
+        {
+          "name": "Mixtape Madness",
+          "url": "https://open.spotify.com/artist/4ocdD0Bi1syVqLs1GiHqQ9"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174857,
+      "name": "The Cold Room - S2-E10 - Pt.1",
+      "url": "https://open.spotify.com/track/1cpiaL8iQnE3BssTcp6DvV"
     },
     {
       "album": {
@@ -2423,7 +2471,7 @@
       ],
       "date_added": "2022-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-07",
       "duration_ms": 175609,
       "name": "WUOW",
       "url": "https://open.spotify.com/track/0eXD7LAkqQ9LWyXa0hQkBG"

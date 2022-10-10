@@ -4,7 +4,7 @@
 
 > Sophisticated palates only\. Curated by: <a href="https://www.instagram.com/nigelsylvester/">Nigel Sylvester</a>
 
-30 songs - 1 hr 51 min - not published yet
+30 songs - 1 hr 51 min - [published](https://open.spotify.com/playlist/1WoRnU3lczU28uxSLqDFVT)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -140,6 +140,24 @@
     },
     {
       "album": {
+        "name": "All Through The Day",
+        "url": "https://open.spotify.com/album/4nZxZJv3TFbVq9cDqQjkhS"
+      },
+      "artists": [
+        {
+          "name": "Las Los",
+          "url": "https://open.spotify.com/artist/3WqvmoaOxt3SeGPoEew1L1"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182926,
+      "name": "All Through The Day",
+      "url": "https://open.spotify.com/track/1PzCaE03jo2hmMm261h0XP"
+    },
+    {
+      "album": {
         "name": "Centre",
         "url": "https://open.spotify.com/album/2JizQfhhkRRiyOFlwVikV7"
       },
@@ -371,7 +389,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-06",
       "duration_ms": 211505,
       "name": "Blame Me",
       "url": "https://open.spotify.com/track/2gFGw9tnS0ixQL9SmEoI0J"
@@ -939,7 +957,7 @@
     {
       "album": {
         "name": "Fossora",
-        "url": "https://open.spotify.com/album/6pK5iO6z0HZ917NucdOvny"
+        "url": "https://open.spotify.com/album/5NchVUjB8yqNhqSeBYaFVy"
       },
       "artists": [
         {
@@ -954,6 +972,28 @@
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 259064,
+      "name": "Fossora",
+      "url": "https://open.spotify.com/track/2urZy4XZCrD2cow5fieB9Y"
+    },
+    {
+      "album": {
+        "name": "Fossora",
+        "url": "https://open.spotify.com/album/6pK5iO6z0HZ917NucdOvny"
+      },
+      "artists": [
+        {
+          "name": "Bj\u00f6rk",
+          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
+        },
+        {
+          "name": "Kasimyn",
+          "url": "https://open.spotify.com/artist/2q51gH6fgmHILYSIfsVkU5"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-03",
       "duration_ms": 259064,
       "name": "Fossora",
       "url": "https://open.spotify.com/track/36xiucrIrEd6kiTfvwUqWC"
@@ -1029,6 +1069,24 @@
       "duration_ms": 215583,
       "name": "Garter Snake",
       "url": "https://open.spotify.com/track/546luzeHBxdcU8YZmOs6ph"
+    },
+    {
+      "album": {
+        "name": "Gloss",
+        "url": "https://open.spotify.com/album/1XFeTBRv2lsIL6UBijuI76"
+      },
+      "artists": [
+        {
+          "name": "Laundromat",
+          "url": "https://open.spotify.com/artist/4MyYqCvbqndRDqEqBzuHXm"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145641,
+      "name": "Gloss",
+      "url": "https://open.spotify.com/track/1oOBDH2gmnVY1ABieYuYXB"
     },
     {
       "album": {
@@ -1971,7 +2029,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-06",
       "duration_ms": 241560,
       "name": "Mouth",
       "url": "https://open.spotify.com/track/05cL1sVT4MNyBqBw3ef5vb"
@@ -2184,6 +2242,24 @@
     },
     {
       "album": {
+        "name": "Fossora",
+        "url": "https://open.spotify.com/album/5NchVUjB8yqNhqSeBYaFVy"
+      },
+      "artists": [
+        {
+          "name": "Bj\u00f6rk",
+          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
+        }
+      ],
+      "date_added": "2022-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218154,
+      "name": "Ovule",
+      "url": "https://open.spotify.com/track/01uiiE7cNaoMAvdtsiDqMd"
+    },
+    {
+      "album": {
         "name": "Ovule",
         "url": "https://open.spotify.com/album/5GQmiJ4JRv6pvcTZbBD4Wu"
       },
@@ -2195,7 +2271,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-03",
       "duration_ms": 218154,
       "name": "Ovule",
       "url": "https://open.spotify.com/track/3epjx0KBU45yCx7KtOXF2Z"

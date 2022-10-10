@@ -109,7 +109,7 @@
       ],
       "date_added": "2022-03-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-09",
+      "date_removed": null,
       "duration_ms": 271674,
       "name": "Amigo Cu\u00eddala",
       "url": "https://open.spotify.com/track/4fDgJFwupM4Z1PYBFzfasP"
@@ -397,7 +397,7 @@
       ],
       "date_added": "2022-03-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-05",
+      "date_removed": "2022-10-06",
       "duration_ms": 321619,
       "name": "Calculadora",
       "url": "https://open.spotify.com/track/2P4onY7I6vpae0hw15SkAe"
@@ -707,7 +707,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-04",
       "duration_ms": 268573,
       "name": "Cuando Acaba el Placer",
       "url": "https://open.spotify.com/track/1XiiRnqI0K4d6YyRiRf0GK"
@@ -3831,10 +3831,28 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-04",
       "duration_ms": 303306,
       "name": "Y Qu\u00e9 Me Pasa - Salsa",
       "url": "https://open.spotify.com/track/3OXeVpFbzJVZpOtXItrTyN"
+    },
+    {
+      "album": {
+        "name": "Luchar\u00e9",
+        "url": "https://open.spotify.com/album/2TLAq5snR8KdndLMVCzHC4"
+      },
+      "artists": [
+        {
+          "name": "Mickey Taveras",
+          "url": "https://open.spotify.com/artist/1iVpMZKqpnZWfCXO2vIozm"
+        }
+      ],
+      "date_added": "2022-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303306,
+      "name": "Y Qu\u00e9 Me Pasa - Salsa",
+      "url": "https://open.spotify.com/track/7E6LWDOm7duh7iXF3is22H"
     },
     {
       "album": {

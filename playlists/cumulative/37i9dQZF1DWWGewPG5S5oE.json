@@ -26,6 +26,24 @@
     },
     {
       "album": {
+        "name": "All The Things You Are",
+        "url": "https://open.spotify.com/album/3XLtciMbAUrvX4EiFwcCe9"
+      },
+      "artists": [
+        {
+          "name": "Mao Sone",
+          "url": "https://open.spotify.com/artist/674ZhINhNClUw6elVb96BG"
+        }
+      ],
+      "date_added": "2022-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155733,
+      "name": "All The Things You Are",
+      "url": "https://open.spotify.com/track/1HObIEY8XDGgNjSTGJxMV0"
+    },
+    {
+      "album": {
         "name": "Crossing Reality",
         "url": "https://open.spotify.com/album/1D26JQHB9n7RDINZ5O8tXe"
       },
@@ -327,7 +345,7 @@
       ],
       "date_added": "2022-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-03",
       "duration_ms": 253413,
       "name": "Japan Beauty",
       "url": "https://open.spotify.com/track/6mWVGALFfErKjjl5EOYS1D"
@@ -381,7 +399,7 @@
       ],
       "date_added": "2022-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-05",
       "duration_ms": 228902,
       "name": "MASQUERADE!",
       "url": "https://open.spotify.com/track/7COeUxxiLP2GqTIzOvCZhK"
@@ -611,7 +629,7 @@
       ],
       "date_added": "2022-09-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-01",
+      "date_removed": "2022-10-05",
       "duration_ms": 716744,
       "name": "SAMURAI - 2022 version",
       "url": "https://open.spotify.com/track/3lr6p7ELCMXMfxGJgh3FBu"
@@ -680,6 +698,28 @@
     },
     {
       "album": {
+        "name": "Spain",
+        "url": "https://open.spotify.com/album/3LOZ21HBgvxGVdytLCdkoE"
+      },
+      "artists": [
+        {
+          "name": "Iori Kimura",
+          "url": "https://open.spotify.com/artist/3uaby7kqnBFvf4mXlPjrvO"
+        },
+        {
+          "name": "\u6728\u6751\u4ec1\u661f",
+          "url": "https://open.spotify.com/artist/6ok0SyTEykPHk0V41lBBj8"
+        }
+      ],
+      "date_added": "2022-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 311233,
+      "name": "Spain",
+      "url": "https://open.spotify.com/track/2MAcJ1Z0ShlQPDXPWsZwwc"
+    },
+    {
+      "album": {
         "name": "Satisfaction",
         "url": "https://open.spotify.com/album/0j9epI3pFTdwfQa5PfiYSV"
       },
@@ -727,7 +767,7 @@
       ],
       "date_added": "2022-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-05",
       "duration_ms": 278666,
       "name": "Stella by Starlight",
       "url": "https://open.spotify.com/track/1chMKcHHoT8KVcr7DLDFJa"
@@ -1039,8 +1079,8 @@
           "url": "https://open.spotify.com/artist/3mHyQil6LHrtKvJ2hrFN6e"
         },
         {
-          "name": "\u77f3\u6a4b\u82f1\u5b50",
-          "url": "https://open.spotify.com/artist/6TqkXTayB3g6wUVNwonIf1"
+          "name": "Eiko Ishibashi",
+          "url": "https://open.spotify.com/artist/0E2zPwLuNlSFdSI5wmqox7"
         }
       ],
       "date_added": "2022-09-27",
@@ -1103,6 +1143,24 @@
       "duration_ms": 256360,
       "name": "\u4e59\u5973\u306e\u7948\u308a",
       "url": "https://open.spotify.com/track/1vdO8aMVXs3OqGkwEmjA2f"
+    },
+    {
+      "album": {
+        "name": "\u4eca\u65e5\u3001\u660e\u65e5",
+        "url": "https://open.spotify.com/album/5F2ivWiZ8ABtYHib8KWQ4E"
+      },
+      "artists": [
+        {
+          "name": "H ZETTRIO",
+          "url": "https://open.spotify.com/artist/5Ga4ie7tlXW9Fc6ObLbSCY"
+        }
+      ],
+      "date_added": "2022-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287000,
+      "name": "\u4eca\u65e5\u3001\u660e\u65e5",
+      "url": "https://open.spotify.com/track/0hbipI6H7ZniYEiUYTZjpl"
     },
     {
       "album": {

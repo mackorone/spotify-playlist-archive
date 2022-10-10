@@ -2111,6 +2111,24 @@
     {
       "album": {
         "name": "Let the Vultures In",
+        "url": "https://open.spotify.com/album/0NvZagPSgA7PLFI7yydUTn"
+      },
+      "artists": [
+        {
+          "name": "Des Rocs",
+          "url": "https://open.spotify.com/artist/2kO6mP0olFJGGh6kvUdNC8"
+        }
+      ],
+      "date_added": "2022-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207141,
+      "name": "Let Me Live / Let Me Die",
+      "url": "https://open.spotify.com/track/0AVIswXP3Q5FnlorjU0DbI"
+    },
+    {
+      "album": {
+        "name": "Let the Vultures In",
         "url": "https://open.spotify.com/album/0fnAV8la7b1AZjAfY1oyXZ"
       },
       "artists": [
@@ -3095,7 +3113,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-04",
       "duration_ms": 225027,
       "name": "Straight to Hell",
       "url": "https://open.spotify.com/track/1mbPPfppc4tbxyvSRpgPrY"
@@ -3185,7 +3203,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": "2022-10-06",
       "duration_ms": 192951,
       "name": "Teach Me To Fight",
       "url": "https://open.spotify.com/track/73BDFtqyGUgQN35Gw3jzYH"

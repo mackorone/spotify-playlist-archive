@@ -19,7 +19,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-02",
+      "date_removed": null,
       "duration_ms": 170133,
       "name": "All Aboard",
       "url": "https://open.spotify.com/track/1vEUJUU0PlMJa3XSJKTefe"
@@ -197,7 +197,7 @@
       ],
       "date_added": "2022-08-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-02",
+      "date_removed": "2022-10-08",
       "duration_ms": 185373,
       "name": "Close To You",
       "url": "https://open.spotify.com/track/7bxvSVLeUMtCEi3BdscXUw"
@@ -237,6 +237,24 @@
       "duration_ms": 293266,
       "name": "County Jail - Live",
       "url": "https://open.spotify.com/track/6YHCmE0IM50ZlHUOIhuF9z"
+    },
+    {
+      "album": {
+        "name": "You Shook Me - The Chess Masters, Vol. 3, 1958 To 1963",
+        "url": "https://open.spotify.com/album/7H6gYOQY7PQX5CMBr8r3ol"
+      },
+      "artists": [
+        {
+          "name": "Muddy Waters",
+          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
+        }
+      ],
+      "date_added": "2022-10-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-05",
+      "duration_ms": 149626,
+      "name": "Crawlin' Kingsnake",
+      "url": "https://open.spotify.com/track/2fXcmQZ7lYoCxzQmZoDN06"
     },
     {
       "album": {
@@ -339,7 +357,7 @@
       ],
       "date_added": "2022-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-09",
       "duration_ms": 132800,
       "name": "Evans' Shuffle",
       "url": "https://open.spotify.com/track/0qjSYugTXUitQdXfd0V6te"
@@ -411,7 +429,7 @@
       ],
       "date_added": "2022-08-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-25",
+      "date_removed": null,
       "duration_ms": 174567,
       "name": "Forty Days And Forty Nights",
       "url": "https://open.spotify.com/track/7FQje5Elyeuou3n5lUbgvs"
@@ -531,7 +549,7 @@
       ],
       "date_added": "2022-08-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-30",
+      "date_removed": "2022-10-08",
       "duration_ms": 200434,
       "name": "Honey Bee",
       "url": "https://open.spotify.com/track/2XwAWk73TyUGjXkYFBz8Ys"
@@ -567,7 +585,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-09",
       "duration_ms": 162933,
       "name": "I Can't Be Satisfied",
       "url": "https://open.spotify.com/track/7FDFtgdyzlBN0tUo3boGZe"
@@ -585,7 +603,7 @@
       ],
       "date_added": "2022-08-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-26",
+      "date_removed": "2022-10-06",
       "duration_ms": 174573,
       "name": "I Feel So Good",
       "url": "https://open.spotify.com/track/2pdRmHCY8d3u4oEVLWvws2"
@@ -603,7 +621,7 @@
       ],
       "date_added": "2022-08-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-29",
+      "date_removed": null,
       "duration_ms": 171600,
       "name": "I Love The Life I Live (I Live The Life I Love)",
       "url": "https://open.spotify.com/track/2aZ8nrq3RIXEXUviAwzyLV"
@@ -683,7 +701,7 @@
       ],
       "date_added": "2022-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-05",
       "duration_ms": 184906,
       "name": "I'm Ready",
       "url": "https://open.spotify.com/track/6MK4Omudz4gPzLCgvTXOXs"
@@ -791,7 +809,7 @@
       ],
       "date_added": "2022-08-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-21",
+      "date_removed": "2022-10-09",
       "duration_ms": 147493,
       "name": "Key To The Highway",
       "url": "https://open.spotify.com/track/4GtWHmkHwW32qmmhmhCKwn"
@@ -827,7 +845,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-01",
+      "date_removed": "2022-10-09",
       "duration_ms": 183120,
       "name": "Lonesome Road Blues",
       "url": "https://open.spotify.com/track/1lp1zm1MSYzwt3vAPhdIMQ"
@@ -871,7 +889,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-01",
+      "date_removed": "2022-10-08",
       "duration_ms": 554826,
       "name": "Long Distance Call",
       "url": "https://open.spotify.com/track/1puGCG7BtUHdN3G3R4YdTw"
@@ -987,7 +1005,7 @@
       ],
       "date_added": "2022-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-06",
       "duration_ms": 137733,
       "name": "Mean Red Spider",
       "url": "https://open.spotify.com/track/6iukeqLbu4VAniiFbKQ6My"
@@ -1031,7 +1049,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-29",
+      "date_removed": "2022-10-08",
       "duration_ms": 313493,
       "name": "My Captain",
       "url": "https://open.spotify.com/track/6VPDybo2KPOV9r7nqCxDiV"
@@ -1049,7 +1067,7 @@
       ],
       "date_added": "2022-08-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-02",
+      "date_removed": null,
       "duration_ms": 241000,
       "name": "My Home Is In The Delta",
       "url": "https://open.spotify.com/track/5IMCtjbZEd5L22AeRNC4FI"
@@ -1074,6 +1092,24 @@
     },
     {
       "album": {
+        "name": "Muddy Waters: The Montreux Years (Live)",
+        "url": "https://open.spotify.com/album/2Yk0tXjdAqvv5ExmcKWSku"
+      },
+      "artists": [
+        {
+          "name": "Muddy Waters",
+          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
+        }
+      ],
+      "date_added": "2022-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224213,
+      "name": "Nobody Knows Chicago Like I Do - Live - Montreux Jazz Festival",
+      "url": "https://open.spotify.com/track/41veTHbb8G5RHYsmKQA9w5"
+    },
+    {
+      "album": {
         "name": "The Super, Super Blues Band",
         "url": "https://open.spotify.com/album/3hYDvg91x5TuC0G7m7Ubyc"
       },
@@ -1093,7 +1129,7 @@
       ],
       "date_added": "2022-08-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-01",
+      "date_removed": "2022-10-09",
       "duration_ms": 394173,
       "name": "Ooh, Baby / Wrecking My Love Life - Medley",
       "url": "https://open.spotify.com/track/0lp6c7BBYNlDVksKGQqy8X"
@@ -1111,7 +1147,7 @@
       ],
       "date_added": "2022-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 191800,
       "name": "Rock Me",
       "url": "https://open.spotify.com/track/6gyqTl2VM4eL4chXOXjuAw"
@@ -1147,7 +1183,7 @@
       ],
       "date_added": "2022-08-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-01",
+      "date_removed": null,
       "duration_ms": 188160,
       "name": "Rollin' Stone",
       "url": "https://open.spotify.com/track/61K6lqGyrl2Aerk0LjAZem"
@@ -1303,7 +1339,7 @@
       ],
       "date_added": "2022-08-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-30",
+      "date_removed": "2022-10-08",
       "duration_ms": 200106,
       "name": "Still A Fool",
       "url": "https://open.spotify.com/track/1IS6IcuoQpQSZIGdKoUsPJ"
@@ -1383,7 +1419,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-09",
       "duration_ms": 135973,
       "name": "Tell Me Baby",
       "url": "https://open.spotify.com/track/71yVjDvQpUzzPdocf3DAYo"
@@ -1445,7 +1481,7 @@
       ],
       "date_added": "2022-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 165133,
       "name": "The Same Thing",
       "url": "https://open.spotify.com/track/5tDx3DmAvMfB5dPHiTbtse"
@@ -1481,10 +1517,28 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-02",
+      "date_removed": "2022-10-09",
       "duration_ms": 162000,
       "name": "Trouble No More",
       "url": "https://open.spotify.com/track/3wFXuJfiiQYZquZmNnH3m6"
+    },
+    {
+      "album": {
+        "name": "Live At The Checkerboard Lounge",
+        "url": "https://open.spotify.com/album/0SLzwxGYeOdJYbjxbE9plW"
+      },
+      "artists": [
+        {
+          "name": "Muddy Waters",
+          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
+        }
+      ],
+      "date_added": "2022-10-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-07",
+      "duration_ms": 168120,
+      "name": "Trouble No More - Live",
+      "url": "https://open.spotify.com/track/4xitsAjiloQxAyS6QdJI4K"
     },
     {
       "album": {
@@ -1499,7 +1553,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-02",
+      "date_removed": "2022-10-07",
       "duration_ms": 178600,
       "name": "Walkin' Blues",
       "url": "https://open.spotify.com/track/2xF0ubRru7TwLHdqFwH6Uo"
@@ -1553,10 +1607,28 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-28",
+      "date_removed": "2022-10-05",
       "duration_ms": 185960,
       "name": "When I Get To Thinking",
       "url": "https://open.spotify.com/track/1QepT9veYgc2mv1OLPWLwE"
+    },
+    {
+      "album": {
+        "name": "The Muddy Waters Woodstock Album",
+        "url": "https://open.spotify.com/album/1cJ1E6JSFq5bzwFteBicnZ"
+      },
+      "artists": [
+        {
+          "name": "Muddy Waters",
+          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
+        }
+      ],
+      "date_added": "2022-10-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-05",
+      "duration_ms": 217800,
+      "name": "Why Are People Like That",
+      "url": "https://open.spotify.com/track/5IDTHikhhqhYZa8FrPDe4D"
     },
     {
       "album": {
@@ -1651,7 +1723,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-02",
+      "date_removed": null,
       "duration_ms": 165106,
       "name": "You Need Love",
       "url": "https://open.spotify.com/track/7Ak1aR9cK5b4yKHdhIhNVq"
@@ -1669,7 +1741,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-09",
       "duration_ms": 166493,
       "name": "You Shook Me",
       "url": "https://open.spotify.com/track/0JGycbFUWSITx4NFCkEeqM"
@@ -1687,7 +1759,7 @@
       ],
       "date_added": "2022-08-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-30",
+      "date_removed": null,
       "duration_ms": 181933,
       "name": "Young Fashioned Ways",
       "url": "https://open.spotify.com/track/11ne5fiCfAmqxqRCUuPO0o"

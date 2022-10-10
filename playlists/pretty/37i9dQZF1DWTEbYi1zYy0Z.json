@@ -1,15 +1,51 @@
 {
   "description": "So fresh, so smooth. Cover: Kim Scott",
-  "num_followers": 36596,
+  "num_followers": 37003,
   "original_name": "New Smooth Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDUxMDQ2MCwwMDAwMDAwMGU1NDJjYmVkODY5OWM2OGYyZTg5Njk1YjM1ZGEyNjFj",
+  "snapshot_id": "MTY2NTExNTI2MCwwMDAwMDAwMGViZWZjNGY0ZTY3OWRkMTMxMTYxYTA5N2YyNGVkNWIy",
   "tracks": [
     {
-      "added_at": "2022-10-02 01:27:08",
+      "added_at": "2022-09-23 04:01:00",
+      "album": {
+        "name": "Off The Top",
+        "url": "https://open.spotify.com/album/5BjKIGb4H5EVxaIhLgaR4a"
+      },
+      "artists": [
+        {
+          "name": "Kim Scott",
+          "url": "https://open.spotify.com/artist/68nDtoCQKhf7AxQP0q3wSP"
+        }
+      ],
+      "duration_ms": 259044,
+      "name": "Off The Top - radio single",
+      "url": "https://open.spotify.com/track/6kp0EMPhVaxY4HSo9vjSVV"
+    },
+    {
+      "added_at": "2022-10-10 01:22:35",
+      "album": {
+        "name": "Free",
+        "url": "https://open.spotify.com/album/1JsNa5M9CjJcK56SbXlcsU"
+      },
+      "artists": [
+        {
+          "name": "J. White",
+          "url": "https://open.spotify.com/artist/10LN78B3CGfkHBYptZGbov"
+        },
+        {
+          "name": "Lin Rountree",
+          "url": "https://open.spotify.com/artist/4SVXSNL59kiSLgjwZeEfDg"
+        }
+      ],
+      "duration_ms": 264573,
+      "name": "Motor City Moves (feat. Lin Rountree)",
+      "url": "https://open.spotify.com/track/5P8qx52DAW0ZQ4qijSHePN"
+    },
+    {
+      "added_at": "2022-09-30 04:01:00",
       "album": {
         "name": "H.A.D.",
         "url": "https://open.spotify.com/album/6mD6cwDTyVZ1csISyYTvbZ"
@@ -29,22 +65,6 @@
       "url": "https://open.spotify.com/track/72ZZhAjKqZbx6u33C7jghZ"
     },
     {
-      "added_at": "2022-09-23 04:01:00",
-      "album": {
-        "name": "Off The Top",
-        "url": "https://open.spotify.com/album/5BjKIGb4H5EVxaIhLgaR4a"
-      },
-      "artists": [
-        {
-          "name": "Kim Scott",
-          "url": "https://open.spotify.com/artist/68nDtoCQKhf7AxQP0q3wSP"
-        }
-      ],
-      "duration_ms": 259044,
-      "name": "Off The Top - radio single",
-      "url": "https://open.spotify.com/track/6kp0EMPhVaxY4HSo9vjSVV"
-    },
-    {
       "added_at": "2022-03-11 05:02:00",
       "album": {
         "name": "What You Do To Me",
@@ -59,6 +79,22 @@
       "duration_ms": 297750,
       "name": "What You Do To Me",
       "url": "https://open.spotify.com/track/60fLe1NP8QEIAbMc9V4SPq"
+    },
+    {
+      "added_at": "2022-05-13 04:02:00",
+      "album": {
+        "name": "Workin'",
+        "url": "https://open.spotify.com/album/4A7dd18P9hBcBImg4tf3np"
+      },
+      "artists": [
+        {
+          "name": "Jazz Holdouts",
+          "url": "https://open.spotify.com/artist/1opzXqZeqkYLVzBsXw45qJ"
+        }
+      ],
+      "duration_ms": 246024,
+      "name": "Workin'",
+      "url": "https://open.spotify.com/track/73PMlacQVhln12IqZi16ep"
     },
     {
       "added_at": "2022-08-12 04:02:00",
@@ -77,6 +113,22 @@
       "url": "https://open.spotify.com/track/2MGeSEuFPUd3YPOWSFzdqC"
     },
     {
+      "added_at": "2022-10-10 01:22:35",
+      "album": {
+        "name": "Look Both Ways",
+        "url": "https://open.spotify.com/album/6S2AOidMcHGkQDOiDpAxrj"
+      },
+      "artists": [
+        {
+          "name": "Ken Navarro",
+          "url": "https://open.spotify.com/artist/6qA8zAyPYgmtPQtQz2G96a"
+        }
+      ],
+      "duration_ms": 283760,
+      "name": "Look Both Ways",
+      "url": "https://open.spotify.com/track/1v1SJOhvTYwMbamGubPw34"
+    },
+    {
       "added_at": "2022-09-23 04:01:00",
       "album": {
         "name": "Detour",
@@ -91,58 +143,6 @@
       "duration_ms": 248573,
       "name": "Detour",
       "url": "https://open.spotify.com/track/0oWyGFYrxLSsgZkgeIZvsu"
-    },
-    {
-      "added_at": "2022-04-15 04:02:00",
-      "album": {
-        "name": "Summer Solstice",
-        "url": "https://open.spotify.com/album/3RjqIXF2BUrwBrCwd7kZYz"
-      },
-      "artists": [
-        {
-          "name": "Anthony Island",
-          "url": "https://open.spotify.com/artist/16Qk6lelYJUiCbuZQAPm7v"
-        },
-        {
-          "name": "Pete Dingon",
-          "url": "https://open.spotify.com/artist/5lZnAbDvhOcVlcdIV7ajzC"
-        }
-      ],
-      "duration_ms": 200050,
-      "name": "Summer Solstice",
-      "url": "https://open.spotify.com/track/2pRAu9T3XHAf9HNR9vb1jY"
-    },
-    {
-      "added_at": "2022-09-23 04:01:00",
-      "album": {
-        "name": "Here She Comes",
-        "url": "https://open.spotify.com/album/3YJsSNEY87S84ghTUPvCbk"
-      },
-      "artists": [
-        {
-          "name": "Herb Alpert",
-          "url": "https://open.spotify.com/artist/1PqdKx88nAgPolRy079lMl"
-        }
-      ],
-      "duration_ms": 219777,
-      "name": "Here She Comes",
-      "url": "https://open.spotify.com/track/00b26U0KfuVGD9Wl6Ud4dG"
-    },
-    {
-      "added_at": "2022-02-25 05:02:00",
-      "album": {
-        "name": "Business As Usual",
-        "url": "https://open.spotify.com/album/6H9GZBSACCRi8fVk8Wp2F5"
-      },
-      "artists": [
-        {
-          "name": "Sean U",
-          "url": "https://open.spotify.com/artist/0z87sJVJOzK2uqJ4lsxUdE"
-        }
-      ],
-      "duration_ms": 216129,
-      "name": "Business As Usual",
-      "url": "https://open.spotify.com/track/3Wxtwc8fYISyUwqIRONuzc"
     },
     {
       "added_at": "2022-09-16 04:01:00",
@@ -179,6 +179,42 @@
     {
       "added_at": "2022-04-15 04:02:00",
       "album": {
+        "name": "Summer Solstice",
+        "url": "https://open.spotify.com/album/3RjqIXF2BUrwBrCwd7kZYz"
+      },
+      "artists": [
+        {
+          "name": "Anthony Island",
+          "url": "https://open.spotify.com/artist/16Qk6lelYJUiCbuZQAPm7v"
+        },
+        {
+          "name": "Pete Dingon",
+          "url": "https://open.spotify.com/artist/5lZnAbDvhOcVlcdIV7ajzC"
+        }
+      ],
+      "duration_ms": 200050,
+      "name": "Summer Solstice",
+      "url": "https://open.spotify.com/track/2pRAu9T3XHAf9HNR9vb1jY"
+    },
+    {
+      "added_at": "2022-02-25 05:02:00",
+      "album": {
+        "name": "Business As Usual",
+        "url": "https://open.spotify.com/album/6H9GZBSACCRi8fVk8Wp2F5"
+      },
+      "artists": [
+        {
+          "name": "Sean U",
+          "url": "https://open.spotify.com/artist/0z87sJVJOzK2uqJ4lsxUdE"
+        }
+      ],
+      "duration_ms": 216129,
+      "name": "Business As Usual",
+      "url": "https://open.spotify.com/track/3Wxtwc8fYISyUwqIRONuzc"
+    },
+    {
+      "added_at": "2022-04-15 04:02:00",
+      "album": {
         "name": "Lavish",
         "url": "https://open.spotify.com/album/79403QrfIWgvNOgjmwrw1p"
       },
@@ -195,38 +231,6 @@
       "duration_ms": 257410,
       "name": "Lavish",
       "url": "https://open.spotify.com/track/7HWcoYr38NGhW8yIXcTLib"
-    },
-    {
-      "added_at": "2022-05-13 04:02:00",
-      "album": {
-        "name": "Workin'",
-        "url": "https://open.spotify.com/album/4A7dd18P9hBcBImg4tf3np"
-      },
-      "artists": [
-        {
-          "name": "Jazz Holdouts",
-          "url": "https://open.spotify.com/artist/1opzXqZeqkYLVzBsXw45qJ"
-        }
-      ],
-      "duration_ms": 246024,
-      "name": "Workin'",
-      "url": "https://open.spotify.com/track/73PMlacQVhln12IqZi16ep"
-    },
-    {
-      "added_at": "2022-08-26 04:02:00",
-      "album": {
-        "name": "Tribute",
-        "url": "https://open.spotify.com/album/7Io45dFofkBVEzQdMTXxsl"
-      },
-      "artists": [
-        {
-          "name": "Boney James",
-          "url": "https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS"
-        }
-      ],
-      "duration_ms": 245426,
-      "name": "Tribute",
-      "url": "https://open.spotify.com/track/50MtaTholYQZwggn6EvbTl"
     },
     {
       "added_at": "2022-06-17 04:02:00",
@@ -247,22 +251,6 @@
       "duration_ms": 250813,
       "name": "Deep Into You",
       "url": "https://open.spotify.com/track/1K0U3DzDQ3bohci5WRgmkd"
-    },
-    {
-      "added_at": "2022-03-04 05:01:00",
-      "album": {
-        "name": "Foolish Heart",
-        "url": "https://open.spotify.com/album/6HPS4UYCNF4snOQHcCTLlj"
-      },
-      "artists": [
-        {
-          "name": "Johnny James Dr J",
-          "url": "https://open.spotify.com/artist/7u6nxhjlzbZs2q7tJlP0SJ"
-        }
-      ],
-      "duration_ms": 217151,
-      "name": "Foolish Heart",
-      "url": "https://open.spotify.com/track/3AiFaW6A7PTMAJoekZ85qq"
     },
     {
       "added_at": "2022-03-18 05:00:00",
@@ -295,6 +283,38 @@
       "duration_ms": 231509,
       "name": "In His Vision",
       "url": "https://open.spotify.com/track/5Db5oB7ScEzWsmkr8nH5Pb"
+    },
+    {
+      "added_at": "2022-08-26 04:02:00",
+      "album": {
+        "name": "Tribute",
+        "url": "https://open.spotify.com/album/7Io45dFofkBVEzQdMTXxsl"
+      },
+      "artists": [
+        {
+          "name": "Boney James",
+          "url": "https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS"
+        }
+      ],
+      "duration_ms": 245426,
+      "name": "Tribute",
+      "url": "https://open.spotify.com/track/50MtaTholYQZwggn6EvbTl"
+    },
+    {
+      "added_at": "2022-03-04 05:01:00",
+      "album": {
+        "name": "Foolish Heart",
+        "url": "https://open.spotify.com/album/6HPS4UYCNF4snOQHcCTLlj"
+      },
+      "artists": [
+        {
+          "name": "Johnny James Dr J",
+          "url": "https://open.spotify.com/artist/7u6nxhjlzbZs2q7tJlP0SJ"
+        }
+      ],
+      "duration_ms": 217151,
+      "name": "Foolish Heart",
+      "url": "https://open.spotify.com/track/3AiFaW6A7PTMAJoekZ85qq"
     },
     {
       "added_at": "2022-06-17 04:02:00",
@@ -349,20 +369,20 @@
       "url": "https://open.spotify.com/track/1qSDVsYoVR0XCx3xINyqi4"
     },
     {
-      "added_at": "2022-06-03 04:02:00",
+      "added_at": "2022-09-23 04:01:00",
       "album": {
-        "name": "Another Day In Paradise",
-        "url": "https://open.spotify.com/album/20nnoaK341xKWNK6cNlNBn"
+        "name": "Here She Comes",
+        "url": "https://open.spotify.com/album/3YJsSNEY87S84ghTUPvCbk"
       },
       "artists": [
         {
-          "name": "Boney James",
-          "url": "https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS"
+          "name": "Herb Alpert",
+          "url": "https://open.spotify.com/artist/1PqdKx88nAgPolRy079lMl"
         }
       ],
-      "duration_ms": 275680,
-      "name": "Another Day In Paradise",
-      "url": "https://open.spotify.com/track/07EjeqkqzPeEhz6B2zgmDU"
+      "duration_ms": 219777,
+      "name": "Here She Comes",
+      "url": "https://open.spotify.com/track/00b26U0KfuVGD9Wl6Ud4dG"
     },
     {
       "added_at": "2022-05-20 04:02:00",
@@ -381,20 +401,20 @@
       "url": "https://open.spotify.com/track/7cpU9JiLhdxF75HXFBcNh6"
     },
     {
-      "added_at": "2022-07-15 04:02:00",
+      "added_at": "2022-06-03 04:02:00",
       "album": {
-        "name": "Promised Land",
-        "url": "https://open.spotify.com/album/7ctpJMlFR5SQamyhoAyeEM"
+        "name": "Another Day In Paradise",
+        "url": "https://open.spotify.com/album/20nnoaK341xKWNK6cNlNBn"
       },
       "artists": [
         {
-          "name": "Paul Brown",
-          "url": "https://open.spotify.com/artist/4Hisv12GBxgMUsB2eBW5jy"
+          "name": "Boney James",
+          "url": "https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS"
         }
       ],
-      "duration_ms": 240640,
-      "name": "Secret Sauce",
-      "url": "https://open.spotify.com/track/3A7ltXDaw2o8kdXttc9rXp"
+      "duration_ms": 275680,
+      "name": "Another Day In Paradise",
+      "url": "https://open.spotify.com/track/07EjeqkqzPeEhz6B2zgmDU"
     },
     {
       "added_at": "2022-03-25 04:01:00",
@@ -415,6 +435,38 @@
       "duration_ms": 264640,
       "name": "Movin' N Groovin",
       "url": "https://open.spotify.com/track/5NmCYR2MIpJhHzB5nAwDUE"
+    },
+    {
+      "added_at": "2022-07-15 04:02:00",
+      "album": {
+        "name": "Promised Land",
+        "url": "https://open.spotify.com/album/7ctpJMlFR5SQamyhoAyeEM"
+      },
+      "artists": [
+        {
+          "name": "Paul Brown",
+          "url": "https://open.spotify.com/artist/4Hisv12GBxgMUsB2eBW5jy"
+        }
+      ],
+      "duration_ms": 240640,
+      "name": "Secret Sauce",
+      "url": "https://open.spotify.com/track/3A7ltXDaw2o8kdXttc9rXp"
+    },
+    {
+      "added_at": "2022-04-08 04:02:00",
+      "album": {
+        "name": "Catalina Nights",
+        "url": "https://open.spotify.com/album/0qAGgRZUQlLzmIHww3hz97"
+      },
+      "artists": [
+        {
+          "name": "Braxton Brothers",
+          "url": "https://open.spotify.com/artist/6nkylX7POzzqZ44nSYH2hw"
+        }
+      ],
+      "duration_ms": 244435,
+      "name": "Catalina Nights",
+      "url": "https://open.spotify.com/track/1P0QSIHqHQVMQXsm7zX1c6"
     },
     {
       "added_at": "2022-09-02 04:02:00",
@@ -449,22 +501,6 @@
       "url": "https://open.spotify.com/track/4HjRmQiDLMQ1VQcVQuuh3d"
     },
     {
-      "added_at": "2022-04-08 04:02:00",
-      "album": {
-        "name": "Catalina Nights",
-        "url": "https://open.spotify.com/album/0qAGgRZUQlLzmIHww3hz97"
-      },
-      "artists": [
-        {
-          "name": "Braxton Brothers",
-          "url": "https://open.spotify.com/artist/6nkylX7POzzqZ44nSYH2hw"
-        }
-      ],
-      "duration_ms": 244435,
-      "name": "Catalina Nights",
-      "url": "https://open.spotify.com/track/1P0QSIHqHQVMQXsm7zX1c6"
-    },
-    {
       "added_at": "2022-06-17 04:02:00",
       "album": {
         "name": "Make Up Your Mind (Radio Edit)",
@@ -479,22 +515,6 @@
       "duration_ms": 240280,
       "name": "Make Up Your Mind - Radio Edit",
       "url": "https://open.spotify.com/track/0RGZmBcov71tCy54JdHwcu"
-    },
-    {
-      "added_at": "2022-09-02 04:02:00",
-      "album": {
-        "name": "Donut Jam",
-        "url": "https://open.spotify.com/album/7iGtZfFdUgJnEGrGkUgAcQ"
-      },
-      "artists": [
-        {
-          "name": "Peet Project",
-          "url": "https://open.spotify.com/artist/7fiTd7VknYFR4muiLHf1yD"
-        }
-      ],
-      "duration_ms": 216437,
-      "name": "Donut Jam",
-      "url": "https://open.spotify.com/track/4pXtjONiRse7CmVqc9Ujjs"
     },
     {
       "added_at": "2022-05-13 04:02:00",
@@ -513,56 +533,20 @@
       "url": "https://open.spotify.com/track/1TOR7FOoECmAgHgFvyzM6i"
     },
     {
-      "added_at": "2022-09-09 04:01:00",
+      "added_at": "2022-09-02 04:02:00",
       "album": {
-        "name": "Hello Beautiful",
-        "url": "https://open.spotify.com/album/1NXp9ZbxAhtxyMrnIV7PoM"
+        "name": "Donut Jam",
+        "url": "https://open.spotify.com/album/7iGtZfFdUgJnEGrGkUgAcQ"
       },
       "artists": [
         {
-          "name": "Blair Bryant",
-          "url": "https://open.spotify.com/artist/1bNvtqK9g0M2hDWRLdwpZq"
+          "name": "Peet Project",
+          "url": "https://open.spotify.com/artist/7fiTd7VknYFR4muiLHf1yD"
         }
       ],
-      "duration_ms": 268538,
-      "name": "Hello Beautiful - radio single",
-      "url": "https://open.spotify.com/track/2uhzjs4LLyyQdhCbYWFyFp"
-    },
-    {
-      "added_at": "2022-05-20 04:02:00",
-      "album": {
-        "name": "Summertime in Nyc (Instrumental Mix)",
-        "url": "https://open.spotify.com/album/6Npy31tIY5yvCpV77agfU0"
-      },
-      "artists": [
-        {
-          "name": "Dave Koz",
-          "url": "https://open.spotify.com/artist/0ZcJXldoq09BRIMl0Qh1Vm"
-        }
-      ],
-      "duration_ms": 210179,
-      "name": "Summertime in Nyc (Instrumental Mix)",
-      "url": "https://open.spotify.com/track/2noLzEHQMcnY5IPSfAruFZ"
-    },
-    {
-      "added_at": "2022-05-06 04:02:00",
-      "album": {
-        "name": "The Inauguration of Jtjazz (Jesse Thompson the Man Behind the Keys)",
-        "url": "https://open.spotify.com/album/6fBZT07tMHRqSCNYwPJE3a"
-      },
-      "artists": [
-        {
-          "name": "Jesse Thompson",
-          "url": "https://open.spotify.com/artist/6gaTtx4sTEvLIX01paATf5"
-        },
-        {
-          "name": "Althea Rene",
-          "url": "https://open.spotify.com/artist/5FnGUGAaOtAqnk6Zxn6nFY"
-        }
-      ],
-      "duration_ms": 293280,
-      "name": "Weekend Groove",
-      "url": "https://open.spotify.com/track/6v8AwEkXA8IvgVz00otrNT"
+      "duration_ms": 216437,
+      "name": "Donut Jam",
+      "url": "https://open.spotify.com/track/4pXtjONiRse7CmVqc9Ujjs"
     },
     {
       "added_at": "2022-06-17 04:02:00",
@@ -581,24 +565,36 @@
       "url": "https://open.spotify.com/track/5X2j0GGlmibh2OK99qRzGO"
     },
     {
-      "added_at": "2022-07-01 04:02:00",
+      "added_at": "2022-05-20 04:02:00",
       "album": {
-        "name": "Making Love To You",
-        "url": "https://open.spotify.com/album/6BTMbPWNBqjkTzOczj8Kj7"
+        "name": "Summertime in Nyc (Instrumental Mix)",
+        "url": "https://open.spotify.com/album/6Npy31tIY5yvCpV77agfU0"
       },
       "artists": [
         {
-          "name": "Rocco Ventrella",
-          "url": "https://open.spotify.com/artist/6X06HdPkKhybx6Q0FKESFJ"
-        },
-        {
-          "name": "Andrea Razzauti",
-          "url": "https://open.spotify.com/artist/37JnRNxKxXJzBZ8Yo7itp1"
+          "name": "Dave Koz",
+          "url": "https://open.spotify.com/artist/0ZcJXldoq09BRIMl0Qh1Vm"
         }
       ],
-      "duration_ms": 285069,
-      "name": "Making Love To You",
-      "url": "https://open.spotify.com/track/76M4Z7niotejRyHwsFnEvh"
+      "duration_ms": 210179,
+      "name": "Summertime in Nyc (Instrumental Mix)",
+      "url": "https://open.spotify.com/track/2noLzEHQMcnY5IPSfAruFZ"
+    },
+    {
+      "added_at": "2022-07-01 04:02:00",
+      "album": {
+        "name": "Stride",
+        "url": "https://open.spotify.com/album/4G0oTjBaePASiWKmPPvhkF"
+      },
+      "artists": [
+        {
+          "name": "Eric Essix",
+          "url": "https://open.spotify.com/artist/4wvpXjRsX6L8NJMbx996yp"
+        }
+      ],
+      "duration_ms": 254346,
+      "name": "Stride",
+      "url": "https://open.spotify.com/track/67WJeEof1aydWU9S7CyRVg"
     },
     {
       "added_at": "2022-03-25 04:01:00",
@@ -635,24 +631,28 @@
     {
       "added_at": "2022-07-01 04:02:00",
       "album": {
-        "name": "Stride",
-        "url": "https://open.spotify.com/album/4G0oTjBaePASiWKmPPvhkF"
+        "name": "Making Love To You",
+        "url": "https://open.spotify.com/album/6BTMbPWNBqjkTzOczj8Kj7"
       },
       "artists": [
         {
-          "name": "Eric Essix",
-          "url": "https://open.spotify.com/artist/4wvpXjRsX6L8NJMbx996yp"
+          "name": "Rocco Ventrella",
+          "url": "https://open.spotify.com/artist/6X06HdPkKhybx6Q0FKESFJ"
+        },
+        {
+          "name": "Andrea Razzauti",
+          "url": "https://open.spotify.com/artist/37JnRNxKxXJzBZ8Yo7itp1"
         }
       ],
-      "duration_ms": 254346,
-      "name": "Stride",
-      "url": "https://open.spotify.com/track/67WJeEof1aydWU9S7CyRVg"
+      "duration_ms": 285069,
+      "name": "Making Love To You",
+      "url": "https://open.spotify.com/track/76M4Z7niotejRyHwsFnEvh"
     },
     {
-      "added_at": "2022-04-15 04:02:00",
+      "added_at": "2022-09-09 04:01:00",
       "album": {
-        "name": "Red Tiger",
-        "url": "https://open.spotify.com/album/2jYih8CJwo4nzuzy5aokwV"
+        "name": "Hello Beautiful",
+        "url": "https://open.spotify.com/album/1NXp9ZbxAhtxyMrnIV7PoM"
       },
       "artists": [
         {
@@ -660,25 +660,29 @@
           "url": "https://open.spotify.com/artist/1bNvtqK9g0M2hDWRLdwpZq"
         }
       ],
-      "duration_ms": 249262,
-      "name": "Relentless",
-      "url": "https://open.spotify.com/track/3S7QaZDPqc14xWObHGVfyk"
+      "duration_ms": 268538,
+      "name": "Hello Beautiful - radio single",
+      "url": "https://open.spotify.com/track/2uhzjs4LLyyQdhCbYWFyFp"
     },
     {
-      "added_at": "2022-01-14 05:01:00",
+      "added_at": "2022-05-06 04:02:00",
       "album": {
-        "name": "Feet First",
-        "url": "https://open.spotify.com/album/7wPrYwfDcF2vPw429fnuC0"
+        "name": "The Inauguration of Jtjazz (Jesse Thompson the Man Behind the Keys)",
+        "url": "https://open.spotify.com/album/6fBZT07tMHRqSCNYwPJE3a"
       },
       "artists": [
         {
-          "name": "Rick Braun",
-          "url": "https://open.spotify.com/artist/4ThkLup6LmqCUuHuG434zZ"
+          "name": "Jesse Thompson",
+          "url": "https://open.spotify.com/artist/6gaTtx4sTEvLIX01paATf5"
+        },
+        {
+          "name": "Althea Rene",
+          "url": "https://open.spotify.com/artist/5FnGUGAaOtAqnk6Zxn6nFY"
         }
       ],
-      "duration_ms": 240906,
-      "name": "Feet First",
-      "url": "https://open.spotify.com/track/2tkh6CxhyZKv9Jio6Ow77W"
+      "duration_ms": 293280,
+      "name": "Weekend Groove",
+      "url": "https://open.spotify.com/track/6v8AwEkXA8IvgVz00otrNT"
     },
     {
       "added_at": "2022-09-23 04:01:00",
@@ -695,26 +699,6 @@
       "duration_ms": 227369,
       "name": "One More Night - Single Edit",
       "url": "https://open.spotify.com/track/3haYZOORhPDg539xt8vO4J"
-    },
-    {
-      "added_at": "2022-03-11 05:02:00",
-      "album": {
-        "name": "Radio Vibe",
-        "url": "https://open.spotify.com/album/3GjKiMur3GBEWHIrQEjjTq"
-      },
-      "artists": [
-        {
-          "name": "Tom Browne",
-          "url": "https://open.spotify.com/artist/4Ytvi4r3WPIZmEw1Ndmkp9"
-        },
-        {
-          "name": "Jeanette Harris",
-          "url": "https://open.spotify.com/artist/7jGPYcJEXorMuY90PnvvXn"
-        }
-      ],
-      "duration_ms": 249529,
-      "name": "Radio Vibe - radio single",
-      "url": "https://open.spotify.com/track/37kqA5lnqJMJzDXeVuiTgj"
     },
     {
       "added_at": "2022-01-21 05:02:00",
@@ -737,36 +721,40 @@
       "url": "https://open.spotify.com/track/2MBoLsxCadKKMNTcpt8yGU"
     },
     {
-      "added_at": "2022-02-25 05:02:00",
+      "added_at": "2022-03-11 05:02:00",
       "album": {
-        "name": "Simply Worship",
-        "url": "https://open.spotify.com/album/7o99jciAk5Pr2myTCnMWh9"
+        "name": "Radio Vibe",
+        "url": "https://open.spotify.com/album/3GjKiMur3GBEWHIrQEjjTq"
       },
       "artists": [
         {
-          "name": "Uriel Vega",
-          "url": "https://open.spotify.com/artist/1m9G79dw6i91jo4o5k6AEg"
+          "name": "Tom Browne",
+          "url": "https://open.spotify.com/artist/4Ytvi4r3WPIZmEw1Ndmkp9"
+        },
+        {
+          "name": "Jeanette Harris",
+          "url": "https://open.spotify.com/artist/7jGPYcJEXorMuY90PnvvXn"
         }
       ],
-      "duration_ms": 249720,
-      "name": "Way Maker",
-      "url": "https://open.spotify.com/track/5mwRmYIiy0rISoe74f1Hol"
+      "duration_ms": 249529,
+      "name": "Radio Vibe - radio single",
+      "url": "https://open.spotify.com/track/37kqA5lnqJMJzDXeVuiTgj"
     },
     {
-      "added_at": "2022-03-04 05:01:00",
+      "added_at": "2022-01-14 05:01:00",
       "album": {
-        "name": "Driving All Night",
-        "url": "https://open.spotify.com/album/19kgqKAGo9ELEpX9hw3hBz"
+        "name": "Feet First",
+        "url": "https://open.spotify.com/album/7wPrYwfDcF2vPw429fnuC0"
       },
       "artists": [
         {
-          "name": "Igor Gerzina",
-          "url": "https://open.spotify.com/artist/13OiSfq8TINbHcI9X1BLAW"
+          "name": "Rick Braun",
+          "url": "https://open.spotify.com/artist/4ThkLup6LmqCUuHuG434zZ"
         }
       ],
-      "duration_ms": 210714,
-      "name": "Driving All Night",
-      "url": "https://open.spotify.com/track/46D1DkTFAG8l1LDQgoeKDz"
+      "duration_ms": 240906,
+      "name": "Feet First",
+      "url": "https://open.spotify.com/track/2tkh6CxhyZKv9Jio6Ow77W"
     },
     {
       "added_at": "2022-02-14 15:14:54",
@@ -785,56 +773,28 @@
       "url": "https://open.spotify.com/track/53djpTONT01aF8xYjuLosr"
     },
     {
-      "added_at": "2022-04-15 04:02:00",
+      "added_at": "2022-04-29 04:02:00",
       "album": {
-        "name": "Blue",
-        "url": "https://open.spotify.com/album/6OXq9kgHo787SpOBuRp9qk"
+        "name": "Ticket to Pittsburgh",
+        "url": "https://open.spotify.com/album/3OTI2McvDpATafqL7qxUq7"
       },
       "artists": [
         {
-          "name": "Jessy J",
-          "url": "https://open.spotify.com/artist/4WrtIP5PIekZwaAZo1tb0x"
-        }
-      ],
-      "duration_ms": 216550,
-      "name": "Dig It",
-      "url": "https://open.spotify.com/track/2zhLDKuqClyWEJJfHVGe2y"
-    },
-    {
-      "added_at": "2022-04-01 04:02:00",
-      "album": {
-        "name": "SOLO",
-        "url": "https://open.spotify.com/album/0MurAaGHilyDEL78yDIYGA"
-      },
-      "artists": [
-        {
-          "name": "Julian Vaughn",
-          "url": "https://open.spotify.com/artist/6NS4Qt4ISw27NC9tIN9jgg"
+          "name": "David Garfield",
+          "url": "https://open.spotify.com/artist/3RPnyf7t9phTwwSzQgaZYb"
         },
         {
-          "name": "Steve Cole",
-          "url": "https://open.spotify.com/artist/6rpOQ4XZKUz0ayWSMgvmWb"
-        }
-      ],
-      "duration_ms": 274096,
-      "name": "Busta Move",
-      "url": "https://open.spotify.com/track/4SHv5Chn9bYy55YtUzwmqF"
-    },
-    {
-      "added_at": "2022-01-28 05:02:00",
-      "album": {
-        "name": "Soul to Soul",
-        "url": "https://open.spotify.com/album/2FSxMIU0mbvZKmTBAZ99WJ"
-      },
-      "artists": [
+          "name": "Paul Jackson, Jr.",
+          "url": "https://open.spotify.com/artist/2OeN0JVfTWYog354hHhQ2S"
+        },
         {
-          "name": "Christophe Goze",
-          "url": "https://open.spotify.com/artist/5RzGiZsH8BHkjjrvANvk4H"
+          "name": "Eric Marienthal",
+          "url": "https://open.spotify.com/artist/4wmaum7AmnVV5riHLEWvaK"
         }
       ],
-      "duration_ms": 228102,
-      "name": "Soul to Soul - 2022 Version",
-      "url": "https://open.spotify.com/track/78y37Rtf5UXolH7LqUNjF7"
+      "duration_ms": 323500,
+      "name": "Ticket to Pittsburgh",
+      "url": "https://open.spotify.com/track/108rbeIEFrj81JWNXXWsX4"
     },
     {
       "added_at": "2022-05-20 04:02:00",
@@ -855,6 +815,54 @@
       "duration_ms": 255466,
       "name": "Fika Talk",
       "url": "https://open.spotify.com/track/6QZdkQEGmJp4LTpLCIf80U"
+    },
+    {
+      "added_at": "2022-03-04 05:01:00",
+      "album": {
+        "name": "Driving All Night",
+        "url": "https://open.spotify.com/album/19kgqKAGo9ELEpX9hw3hBz"
+      },
+      "artists": [
+        {
+          "name": "Igor Gerzina",
+          "url": "https://open.spotify.com/artist/13OiSfq8TINbHcI9X1BLAW"
+        }
+      ],
+      "duration_ms": 210714,
+      "name": "Driving All Night",
+      "url": "https://open.spotify.com/track/46D1DkTFAG8l1LDQgoeKDz"
+    },
+    {
+      "added_at": "2022-04-15 04:02:00",
+      "album": {
+        "name": "Red Tiger",
+        "url": "https://open.spotify.com/album/2jYih8CJwo4nzuzy5aokwV"
+      },
+      "artists": [
+        {
+          "name": "Blair Bryant",
+          "url": "https://open.spotify.com/artist/1bNvtqK9g0M2hDWRLdwpZq"
+        }
+      ],
+      "duration_ms": 249262,
+      "name": "Relentless",
+      "url": "https://open.spotify.com/track/3S7QaZDPqc14xWObHGVfyk"
+    },
+    {
+      "added_at": "2022-02-25 05:02:00",
+      "album": {
+        "name": "Simply Worship",
+        "url": "https://open.spotify.com/album/7o99jciAk5Pr2myTCnMWh9"
+      },
+      "artists": [
+        {
+          "name": "Uriel Vega",
+          "url": "https://open.spotify.com/artist/1m9G79dw6i91jo4o5k6AEg"
+        }
+      ],
+      "duration_ms": 249720,
+      "name": "Way Maker",
+      "url": "https://open.spotify.com/track/5mwRmYIiy0rISoe74f1Hol"
     }
   ],
   "unique_name": "New Smooth Jazz",

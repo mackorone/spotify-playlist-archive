@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3TurM2x1HaeNEztqBnomV6.md) - [plain]
 
 > Get through your workday with 8 hours of singer\-songwriter tunes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,449 likes - 123 songs - 7 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,448 likes - 123 songs - 7 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

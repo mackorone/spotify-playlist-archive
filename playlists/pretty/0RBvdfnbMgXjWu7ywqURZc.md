@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0RBvdfnbMgXjWu7ywqURZc.md) - [plain]
 
 > All the best hits from Shawn Mendes, Taylor Swift and more!
 
-[Digster](https://open.spotify.com/user/digster.fm) - 1,752 likes - 66 songs - 3 hr 37 min
+[Digster](https://open.spotify.com/user/digster.fm) - 1,759 likes - 66 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,7 +58,7 @@ pretty - [cumulative](/playlists/cumulative/0RBvdfnbMgXjWu7ywqURZc.md) - [plain]
 | 48 | [The Game](https://open.spotify.com/track/24nN6MHT8RXVLMPp5Xxfje) | [Milky Chance](https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs) | [Mind The Moon](https://open.spotify.com/album/4IVcJES0Og7KzrtA70DgC2) | 3:33 |
 | 49 | [Lil Boat](https://open.spotify.com/track/3Zcv9IeYgCvEhxFTfsduaQ) | [88GLAM](https://open.spotify.com/artist/2I9SLklAOG0vdMiUUMNxRl) | [88GLAM2](https://open.spotify.com/album/1BgPkFMgud3lmEc6enZsjd) | 3:00 |
 | 50 | [Jenny](https://open.spotify.com/track/2OeqBq7sa3QaN5pj3WmVSd) | [Mae Muller](https://open.spotify.com/artist/1BEUkE2CSUgHTLSBMZdnFB) | [Chapter 1](https://open.spotify.com/album/59ofrvJe4ZF6ogxmOSMYA3) | 2:55 |
-| 51 | [Keep You Mine](https://open.spotify.com/track/0OJN2A3Qyvd7pwSF0AIteC) | [NOTD](https://open.spotify.com/artist/5jAMCwdNHWr7JThxtMuEyy), [SHY Martin](https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM) | [Keep You Mine](https://open.spotify.com/album/6r3wtqeQLGFb59YJWz2jHC) | 2:54 |
+| 51 | [Keep You Mine](https://open.spotify.com/track/0OJN2A3Qyvd7pwSF0AIteC) | [NOTD](https://open.spotify.com/artist/5jAMCwdNHWr7JThxtMuEyy), [shy martin](https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM) | [Keep You Mine](https://open.spotify.com/album/6r3wtqeQLGFb59YJWz2jHC) | 2:54 |
 | 52 | [Just Like You](https://open.spotify.com/track/0sYfwwEy0UyNizk6na4zGm) | [Emotional Oranges](https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C) | [The Juice: Vol\. II](https://open.spotify.com/album/6q8BNcH6wkWwWC0fGoJwkS) | 3:35 |
 | 53 | [belong](https://open.spotify.com/track/33n1o7mzohXiCzS6Rr5q2E) | [slenderbodies](https://open.spotify.com/artist/3S4d3YRNGg2OhnNm3QvfhA) | [komorebi](https://open.spotify.com/album/6JZtYt3v32a9sTRxPlMZEn) | 2:53 |
 | 54 | [Feel Up](https://open.spotify.com/track/4lTLA56cAilcRXpZWCWyS2) | [Pia Mia](https://open.spotify.com/artist/1BhWF9W2PngtPSyobKg0rP), [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY) | [Feel Up](https://open.spotify.com/album/5LACQrcCig2eYAbJFB8cTS) | 2:39 |

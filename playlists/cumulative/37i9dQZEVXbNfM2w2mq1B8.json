@@ -2175,7 +2175,7 @@
       ],
       "date_added": "2022-06-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-02",
+      "date_removed": null,
       "duration_ms": 228373,
       "name": "Call Out My Name",
       "url": "https://open.spotify.com/track/09mEdoA6zrmBPgTEN5qXmN"
@@ -3149,7 +3149,7 @@
       ],
       "date_added": "2022-07-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-01",
+      "date_removed": null,
       "duration_ms": 260253,
       "name": "Die For You",
       "url": "https://open.spotify.com/track/2LBqCSwhJGcFQeTHMVGwy3"
@@ -3265,7 +3265,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-28",
+      "date_removed": "2022-10-08",
       "duration_ms": 272394,
       "name": "Do I Wanna Know?",
       "url": "https://open.spotify.com/track/3rq5w4bQGigXOfdN30ATJt"
@@ -3605,7 +3605,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-07",
       "duration_ms": 170918,
       "name": "DROGA",
       "url": "https://open.spotify.com/track/6kl1QzJtnTgToGGxZWeTJw"
@@ -5197,7 +5197,7 @@
       ],
       "date_added": "2022-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-03",
       "duration_ms": 189350,
       "name": "GRRT",
       "url": "https://open.spotify.com/track/2tqDS3gLLAPh66bSm8I32D"
@@ -5411,7 +5411,7 @@
       ],
       "date_added": "2021-04-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-02",
+      "date_removed": "2022-10-06",
       "duration_ms": 238805,
       "name": "Heat Waves",
       "url": "https://open.spotify.com/track/02MWAaffLxlfxAUY7c5dvx"
@@ -6027,6 +6027,24 @@
     {
       "album": {
         "name": "AM",
+        "url": "https://open.spotify.com/album/78bpIziExqiI9qztvNFlQu"
+      },
+      "artists": [
+        {
+          "name": "Arctic Monkeys",
+          "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
+        }
+      ],
+      "date_added": "2022-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183956,
+      "name": "I Wanna Be Yours",
+      "url": "https://open.spotify.com/track/5XeFesFbtLpXzIVDNQP22n"
+    },
+    {
+      "album": {
+        "name": "AM",
         "url": "https://open.spotify.com/album/6645HGh7ZOZSUTpqW9iYLR"
       },
       "artists": [
@@ -6037,7 +6055,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-09",
       "duration_ms": 183956,
       "name": "I Wanna Be Yours",
       "url": "https://open.spotify.com/track/7a8GawTVgHZvBLQOh46he7"
@@ -6553,7 +6571,7 @@
       ],
       "date_added": "2022-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-09",
       "duration_ms": 218364,
       "name": "Jimmy Cooks (feat. 21 Savage)",
       "url": "https://open.spotify.com/track/3F5CgOj3wFlRv51JsHbxhe"
@@ -7932,6 +7950,28 @@
     },
     {
       "album": {
+        "name": "Mangava Tut",
+        "url": "https://open.spotify.com/album/0cV79ZKtvQg9Vkj4ol3uW4"
+      },
+      "artists": [
+        {
+          "name": "Preslava",
+          "url": "https://open.spotify.com/artist/2Dj0euYPa8eiI6Ee5VLBwg"
+        },
+        {
+          "name": "Sofi Marinova",
+          "url": "https://open.spotify.com/artist/0uQufSOI58CZsze92brlhq"
+        }
+      ],
+      "date_added": "2022-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263642,
+      "name": "Mangava Tut",
+      "url": "https://open.spotify.com/track/4DxgAA7IHwrmYDRzf0xvht"
+    },
+    {
+      "album": {
         "name": "ODDINARY",
         "url": "https://open.spotify.com/album/1byOOf9U3IiQN1cVHqRqEF"
       },
@@ -8229,7 +8269,7 @@
       ],
       "date_added": "2022-08-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-23",
+      "date_removed": "2022-10-07",
       "duration_ms": 178000,
       "name": "Med",
       "url": "https://open.spotify.com/track/4Nkgkvf4AKvt6a3VXlyM0O"
@@ -10081,7 +10121,7 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-09",
       "duration_ms": 186964,
       "name": "Pink Venom",
       "url": "https://open.spotify.com/track/5zwwW9Oq7ubSxoCGyW1nbY"
@@ -10613,7 +10653,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-28",
+      "date_removed": "2022-10-05",
       "duration_ms": 169245,
       "name": "RAVE",
       "url": "https://open.spotify.com/track/01kfSdF9zfcDLri5sSWEoL"
@@ -12316,6 +12356,28 @@
     },
     {
       "album": {
+        "name": "The Eminem Show",
+        "url": "https://open.spotify.com/album/2cWBwpqMsDJC1ZUwz813lo"
+      },
+      "artists": [
+        {
+          "name": "Eminem",
+          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+        },
+        {
+          "name": "Dina Rae",
+          "url": "https://open.spotify.com/artist/5jNmxPYz8QE5rYp4GDil8t"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-09",
+      "duration_ms": 350320,
+      "name": "Superman",
+      "url": "https://open.spotify.com/track/4woTEX1wYOTGDqNXuavlRC"
+    },
+    {
+      "album": {
         "name": "SUPERMODEL",
         "url": "https://open.spotify.com/album/5jhbLeXH1a3SRSOg84GSUn"
       },
@@ -12884,6 +12946,24 @@
     },
     {
       "album": {
+        "name": "THE LONELIEST",
+        "url": "https://open.spotify.com/album/1DFNeS38zvoPkx9wwMEwbc"
+      },
+      "artists": [
+        {
+          "name": "M\u00e5neskin",
+          "url": "https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr"
+        }
+      ],
+      "date_added": "2022-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247067,
+      "name": "THE LONELIEST",
+      "url": "https://open.spotify.com/track/1Ame8XTX6QHY0l0ahqUhgv"
+    },
+    {
+      "album": {
         "name": "The Motto",
         "url": "https://open.spotify.com/album/278z9UXJaMNDH9Bel9uAxV"
       },
@@ -13295,7 +13375,7 @@
       ],
       "date_added": "2022-01-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-20",
+      "date_removed": "2022-10-06",
       "duration_ms": 198800,
       "name": "Toxic",
       "url": "https://open.spotify.com/track/6I9VzXrHxO9rA9A5euc8Ak"
@@ -14823,7 +14903,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-21",
+      "date_removed": null,
       "duration_ms": 230755,
       "name": "\u0410+\u0413=\u0412\u041d\u041b",
       "url": "https://open.spotify.com/track/5bYyQzaUSXpGGrJuGZfafd"
@@ -14933,7 +15013,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-29",
+      "date_removed": null,
       "duration_ms": 158439,
       "name": "\u0411\u0435\u0437 \u0442\u0435\u0431",
       "url": "https://open.spotify.com/track/4cLi9bZRMvDITlmKdo6D2l"
@@ -14973,7 +15053,7 @@
       ],
       "date_added": "2022-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-03",
       "duration_ms": 233513,
       "name": "\u0411\u0440\u0443\u0442\u0430\u043b\u0435\u043d",
       "url": "https://open.spotify.com/track/4JFBEg1MNSuzGgsJNgoyYG"
@@ -15207,7 +15287,7 @@
       ],
       "date_added": "2022-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-09",
       "duration_ms": 212783,
       "name": "\u0414\u0435\u043f\u0443\u0442\u0430\u0442\u0430 \u0425\u0440\u0438\u0441\u0442\u043e",
       "url": "https://open.spotify.com/track/0zbZVkNiZfelBLVrdJvuiX"
@@ -15735,7 +15815,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-26",
+      "date_removed": "2022-10-08",
       "duration_ms": 201000,
       "name": "\u041c\u0440. \u041f\u0435\u0440\u0444\u0435\u043a\u0442\u0435\u043d",
       "url": "https://open.spotify.com/track/3EafBu8bBdhrkLe84OgnNZ"
@@ -16079,7 +16159,7 @@
       ],
       "date_added": "2022-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-03",
       "duration_ms": 272215,
       "name": "\u041f\u0430\u043a \u0449\u0435 \u0441\u0435 \u0431\u0440\u043e\u0438\u0448",
       "url": "https://open.spotify.com/track/3Ya6AUGGni7HPC5P9gh2bj"
@@ -16619,6 +16699,24 @@
       "duration_ms": 249230,
       "name": "\u0427\u0438\u0441\u0442\u0438 \u0441\u043c\u0435\u0442\u043a\u0438",
       "url": "https://open.spotify.com/track/6YH2SZWaLNmDMCBYIqjx39"
+    },
+    {
+      "album": {
+        "name": "\u0427\u0443\u043f\u043a\u0438 \u0432 \u043a\u0440\u044a\u0441\u0442\u0430",
+        "url": "https://open.spotify.com/album/4S8oWdBdBhTZvSCkTD1d94"
+      },
+      "artists": [
+        {
+          "name": "Fiki",
+          "url": "https://open.spotify.com/artist/7JLPN5CklYCRotAvFGw4Q1"
+        }
+      ],
+      "date_added": "2022-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295657,
+      "name": "\u0427\u0443\u043f\u043a\u0438 \u0432 \u043a\u0440\u044a\u0441\u0442\u0430",
+      "url": "https://open.spotify.com/track/3FkA5BCzxB4SeQ7fSzUmJE"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZEVXbNfM2w2mq1B8"

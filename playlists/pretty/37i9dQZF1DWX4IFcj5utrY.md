@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4IFcj5utrY.md) - [plain]
 
 > Only the hottest South African House and Dance singles out right now\. Cover: <a href="https://open.spotify.com/artist/1Gj6W2RfGpl6ebJGle93VG?si=NLue8GotQvWr87ZS6141aA">Drega</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,022 likes - 75 songs - 7 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,257 likes - 75 songs - 7 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,7 +58,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4IFcj5utrY.md) - [plain]
 | 48 | [iFu](https://open.spotify.com/track/7dbfI3aPl94kEEl1rPuXgW) | [Maline Aura](https://open.spotify.com/artist/1LcX3ZFNBeGKxkpfCIr4cP), [Karyendasoul](https://open.spotify.com/artist/2eSj64hhMVJPYbjpli6k4p) | [iFu](https://open.spotify.com/album/5avT3gQsru5kveW0urcN8f) | 5:59 |
 | 49 | [Ooye](https://open.spotify.com/track/0sAi2uIjWBBBjFXjQ3hMrV) | [Anrey](https://open.spotify.com/artist/7a2a36QkRDDOhyHWkDXYGw), [Idd Aziz](https://open.spotify.com/artist/0LC3HTEh3afI3UfpmSdShk) | [Ooye](https://open.spotify.com/album/6ZrjSKBhdvS3gd5NQS20NJ) | 5:49 |
 | 50 | [Don't Wanna Be Myself](https://open.spotify.com/track/5jJFXPFguqo6fZqqGggwuq) | [Pando G](https://open.spotify.com/artist/4nbklwOZ5lnv1otsaaDJZg) | [Don't Wanna Be Myself](https://open.spotify.com/album/1ewQWghR0AV0TnBaMpT0Ml) | 8:45 |
-| 51 | [Libalele](https://open.spotify.com/track/1Y4NgoSRcJxzQgRoVX6WEQ) | [Nana Atta](https://open.spotify.com/artist/1B4FnAkti1c4KGQDv78pYq), [DJ Thakzin](https://open.spotify.com/artist/1wQJJZACSdm3x7odU1bIRM) | [Libalele](https://open.spotify.com/album/3B0TxLdlJen0o9TCwWTXp7) | 5:36 |
+| 51 | [Libalele](https://open.spotify.com/track/1Y4NgoSRcJxzQgRoVX6WEQ) | [Nana Atta](https://open.spotify.com/artist/1B4FnAkti1c4KGQDv78pYq), [Thakzin](https://open.spotify.com/artist/5IqRgFYiImSVQrScLaFyEE) | [Libalele](https://open.spotify.com/album/3B0TxLdlJen0o9TCwWTXp7) | 5:36 |
 | 52 | [Yok'ba](https://open.spotify.com/track/1RQiSCfqj3C51Om1glomKR) | [The Billionaires](https://open.spotify.com/artist/5gLAgBXxn26YXtBIODWfks), [Toshi](https://open.spotify.com/artist/2bIg95CGHmriFZX7MsnFRK), [Mzux Maen](https://open.spotify.com/artist/3AqE17ZUeQYdJuQhb1gFZ0) | [Yok'ba](https://open.spotify.com/album/3Pr4qbUM4E3jTZCtLuwWRH) | 5:08 |
 | 53 | [Can't Wait \(feat\. Aubrey Qwana\)](https://open.spotify.com/track/4DLuYtFnbYWIIH6piTnu74) | [Huxley](https://open.spotify.com/artist/6fJvW51nWhRImJyos6O7sT), [Aubrey Qwana](https://open.spotify.com/artist/6uVEWgg7sAAzfPQsXjzTRi) | [Can't Wait \(feat\. Aubrey Qwana\)](https://open.spotify.com/album/4QtX3HhLYYVrKURW5Lqxip) | 3:11 |
 | 54 | [Mmantwa's Groove](https://open.spotify.com/track/5hGktS3qbk8HDhdICoo3s7) | [Gabbana](https://open.spotify.com/artist/0I3Acccg46Me47afcARZYX) | [We Groove Different](https://open.spotify.com/album/1bx9h91xZGDa2mfh60RbZ3) | 7:17 |

@@ -4,7 +4,7 @@
 
 > A collection of Grieg's finest songs, symphonies and suites.
 
-61 songs - 4 hr 43 min - [published](https://open.spotify.com/playlist/18CkEV4o34PZUxDKJ4FaDk)
+62 songs - 4 hr 49 min - [published](https://open.spotify.com/playlist/18CkEV4o34PZUxDKJ4FaDk)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,6 +68,7 @@
 | [Symphony in C Minor, EG 119: II\. Adagio espressivo](https://open.spotify.com/track/5fcDG7g1ZyUfxJ6X9c0H2i) | [Edvard Grieg](https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy), [Malmö Symphony Orchestra](https://open.spotify.com/artist/24TyvSlEEO55MTNEJo5VFc), [Bjarte Engeset](https://open.spotify.com/artist/52qpSzpo16ijYC3yO2PK1d) | [Grieg: Orchestral Music, Vol\. 3: Symphony in C Minor \- Old Norwegian Romance With Variations](https://open.spotify.com/album/4AeO1xXgVbFN0wSiO6awht) | 7:20 | 2022-06-24 |  |
 | [Symphony in C Minor, EG 119: IV\. Finale: Allegro molto vivace](https://open.spotify.com/track/4laNVdT2pxMOOcVyh4F2I8) | [Edvard Grieg](https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy), [Malmö Symphony Orchestra](https://open.spotify.com/artist/24TyvSlEEO55MTNEJo5VFc), [Bjarte Engeset](https://open.spotify.com/artist/52qpSzpo16ijYC3yO2PK1d) | [Grieg: Orchestral Music, Vol\. 3: Symphony in C Minor \- Old Norwegian Romance With Variations](https://open.spotify.com/album/4AeO1xXgVbFN0wSiO6awht) | 7:40 | 2022-06-24 |  |
 | [The Mountain Thrall, Op\. 32](https://open.spotify.com/track/5fBUHjqqtBwX36qabYf8Ep) | [Edvard Grieg](https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy), [Carole Farley](https://open.spotify.com/artist/4Mbf0FnvmCFLOU8ic7tNwS), [London Philharmonic Orchestra](https://open.spotify.com/artist/3PfJE6ebCbCHeuqO4BfNeA), [José Serebrier](https://open.spotify.com/artist/1C3E8y3WbXJJYWs9Ex11et) | [Grieg: Songs](https://open.spotify.com/album/77ECwA3RIFptg5sTjz21Sb) | 6:19 | 2022-06-24 |  |
-| [Wedding Day at Troldhaugen](https://open.spotify.com/track/5cW9SuSsEBid7xyAuLTrGS) | [Edvard Grieg](https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy), [Joseph Cooper](https://open.spotify.com/artist/3rJMOsUpapG0VdsQCc5DX9) | [Piano Essentials](https://open.spotify.com/album/0N3gJdVR85bZAipAMQJk7L) | 6:02 | 2022-06-24 |  |
+| [Wedding Day at Troldhaugen](https://open.spotify.com/track/5cW9SuSsEBid7xyAuLTrGS) | [Edvard Grieg](https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy), [Joseph Cooper](https://open.spotify.com/artist/3rJMOsUpapG0VdsQCc5DX9) | [Piano Essentials](https://open.spotify.com/album/0N3gJdVR85bZAipAMQJk7L) | 6:02 | 2022-06-24 | 2022-10-03 |
+| [Wedding Day at Troldhaugen](https://open.spotify.com/track/6AQdLlBskLdAtPtT5iRwE9) | [Edvard Grieg](https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy), [Joseph Cooper](https://open.spotify.com/artist/3rJMOsUpapG0VdsQCc5DX9) | [An Evening of Classical: Grieg](https://open.spotify.com/album/6frAJCnH1IN7WIw8qvyfyX) | 6:02 | 2022-09-30 |  |
 
 \*This playlist was first scraped on 2022-08-25. Prior content cannot be recovered.

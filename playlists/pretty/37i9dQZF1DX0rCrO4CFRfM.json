@@ -1,12 +1,12 @@
 {
   "description": "Relax to acoustic versions of your favorite rock songs.",
-  "num_followers": 831551,
+  "num_followers": 833418,
   "original_name": "Acoustic Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Mzg0MTg2MiwwMDAwMDAwMDU5MjdhYWQ0MjQzYzNjY2RlNWM4MzA1NmEzYmExNTA5",
+  "snapshot_id": "MTY2Mzg0MTg2MiwwMDAwMDAwMDUxNDNmNzM0MTk1MWI1ZWJkYTE1YmM3NzA3NTk4YmU2",
   "tracks": [
     {
       "added_at": "2022-09-22 10:17:42",
@@ -243,22 +243,6 @@
     {
       "added_at": "2022-09-22 10:17:42",
       "album": {
-        "name": "Ghost",
-        "url": "https://open.spotify.com/album/2fOrhbh7CVDA44Hld9WIfX"
-      },
-      "artists": [
-        {
-          "name": "Badflower",
-          "url": "https://open.spotify.com/artist/3T55D3LMiygE9eSKFpiAye"
-        }
-      ],
-      "duration_ms": 269323,
-      "name": "Ghost - Acoustic",
-      "url": "https://open.spotify.com/track/23SVad8eDBAtoCFgF8vOFl"
-    },
-    {
-      "added_at": "2022-09-22 10:17:42",
-      "album": {
         "name": "Live From Soho",
         "url": "https://open.spotify.com/album/0abkVfZF9JpWbHA1Cm2Jgq"
       },
@@ -271,6 +255,22 @@
       "duration_ms": 290266,
       "name": "How to Save a Life - Live in NYC - 2009",
       "url": "https://open.spotify.com/track/3OPVsn0Dk3s8vWhXxnK35p"
+    },
+    {
+      "added_at": "2022-09-22 10:17:42",
+      "album": {
+        "name": "Ghost",
+        "url": "https://open.spotify.com/album/2fOrhbh7CVDA44Hld9WIfX"
+      },
+      "artists": [
+        {
+          "name": "Badflower",
+          "url": "https://open.spotify.com/artist/3T55D3LMiygE9eSKFpiAye"
+        }
+      ],
+      "duration_ms": 269323,
+      "name": "Ghost - Acoustic",
+      "url": "https://open.spotify.com/track/23SVad8eDBAtoCFgF8vOFl"
     },
     {
       "added_at": "2022-09-22 10:17:42",
@@ -371,22 +371,6 @@
     {
       "added_at": "2022-09-22 10:17:42",
       "album": {
-        "name": "Stay With Me",
-        "url": "https://open.spotify.com/album/0fsWxXjjgHAnFLCEAGWHS5"
-      },
-      "artists": [
-        {
-          "name": "You Me At Six",
-          "url": "https://open.spotify.com/artist/1kNQXvepPjaPgUfeDAF2h6"
-        }
-      ],
-      "duration_ms": 198573,
-      "name": "Stay With Me - Acoustic Version",
-      "url": "https://open.spotify.com/track/39IX2P1yPA5opcTaHXLPlW"
-    },
-    {
-      "added_at": "2022-09-22 10:17:42",
-      "album": {
         "name": "Broken Machine (Deluxe)",
         "url": "https://open.spotify.com/album/0r7wrRVD77lNrD9t2QgZrq"
       },
@@ -403,6 +387,22 @@
     {
       "added_at": "2022-09-22 10:17:42",
       "album": {
+        "name": "SoCal Sessions",
+        "url": "https://open.spotify.com/album/6ZLA8OYBtkOXuY7IBXYWDo"
+      },
+      "artists": [
+        {
+          "name": "P.O.D.",
+          "url": "https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU"
+        }
+      ],
+      "duration_ms": 262253,
+      "name": "Youth Of The Nation - Acoustic Version",
+      "url": "https://open.spotify.com/track/4gkzgIySsIKS4FAlF724Bm"
+    },
+    {
+      "added_at": "2022-09-22 10:17:42",
+      "album": {
         "name": "Come Clean",
         "url": "https://open.spotify.com/album/4oWz3E9jTrBe9sVkiX2sJ5"
       },
@@ -415,6 +415,38 @@
       "duration_ms": 247920,
       "name": "Control - Acoustic Version",
       "url": "https://open.spotify.com/track/325aNb4eh8HesYlrJmLSMX"
+    },
+    {
+      "added_at": "2022-09-22 10:17:42",
+      "album": {
+        "name": "Wolfmother (10th Anniversary Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6TqFe1KFG3NdofscJrSPc4"
+      },
+      "artists": [
+        {
+          "name": "Wolfmother",
+          "url": "https://open.spotify.com/artist/3yEnArbNHyTCwMRvD9SBy4"
+        }
+      ],
+      "duration_ms": 160346,
+      "name": "Vagabond - Acoustic Version",
+      "url": "https://open.spotify.com/track/6HzpmmaLVHC88XQY4e0YZL"
+    },
+    {
+      "added_at": "2022-09-22 10:17:42",
+      "album": {
+        "name": "Stay With Me",
+        "url": "https://open.spotify.com/album/0fsWxXjjgHAnFLCEAGWHS5"
+      },
+      "artists": [
+        {
+          "name": "You Me At Six",
+          "url": "https://open.spotify.com/artist/1kNQXvepPjaPgUfeDAF2h6"
+        }
+      ],
+      "duration_ms": 198573,
+      "name": "Stay With Me - Acoustic Version",
+      "url": "https://open.spotify.com/track/39IX2P1yPA5opcTaHXLPlW"
     },
     {
       "added_at": "2022-09-22 10:17:42",
@@ -467,18 +499,18 @@
     {
       "added_at": "2022-09-22 10:17:42",
       "album": {
-        "name": "Wolfmother (10th Anniversary Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6TqFe1KFG3NdofscJrSPc4"
+        "name": "Acoustic at The Ryman (Live)",
+        "url": "https://open.spotify.com/album/6N3W6VPGBBxZcYajhZB75a"
       },
       "artists": [
         {
-          "name": "Wolfmother",
-          "url": "https://open.spotify.com/artist/3yEnArbNHyTCwMRvD9SBy4"
+          "name": "Band of Horses",
+          "url": "https://open.spotify.com/artist/0OdUWJ0sBjDrqHygGUXeCF"
         }
       ],
-      "duration_ms": 160346,
-      "name": "Vagabond - Acoustic Version",
-      "url": "https://open.spotify.com/track/6HzpmmaLVHC88XQY4e0YZL"
+      "duration_ms": 307760,
+      "name": "The Funeral - Live Acoustic",
+      "url": "https://open.spotify.com/track/1jKvrkkZxtQ7ZDiXdITOis"
     },
     {
       "added_at": "2022-09-22 10:17:42",
@@ -499,34 +531,18 @@
     {
       "added_at": "2022-09-22 10:17:42",
       "album": {
-        "name": "Acoustic at The Ryman (Live)",
-        "url": "https://open.spotify.com/album/6N3W6VPGBBxZcYajhZB75a"
+        "name": "Us and Them (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/311sQUy4H8IFHsY9j8kx5q"
       },
       "artists": [
         {
-          "name": "Band of Horses",
-          "url": "https://open.spotify.com/artist/0OdUWJ0sBjDrqHygGUXeCF"
+          "name": "Shinedown",
+          "url": "https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI"
         }
       ],
-      "duration_ms": 307760,
-      "name": "The Funeral - Live Acoustic",
-      "url": "https://open.spotify.com/track/1jKvrkkZxtQ7ZDiXdITOis"
-    },
-    {
-      "added_at": "2022-09-22 10:17:42",
-      "album": {
-        "name": "SoCal Sessions",
-        "url": "https://open.spotify.com/album/6ZLA8OYBtkOXuY7IBXYWDo"
-      },
-      "artists": [
-        {
-          "name": "P.O.D.",
-          "url": "https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU"
-        }
-      ],
-      "duration_ms": 262253,
-      "name": "Youth Of The Nation - Acoustic Version",
-      "url": "https://open.spotify.com/track/4gkzgIySsIKS4FAlF724Bm"
+      "duration_ms": 202080,
+      "name": "Save Me - Acoustic",
+      "url": "https://open.spotify.com/track/0mqBx2unSAs6w8qHWDHdC7"
     },
     {
       "added_at": "2022-09-22 10:17:42",
@@ -543,22 +559,6 @@
       "duration_ms": 262186,
       "name": "Boxes - Acoustic",
       "url": "https://open.spotify.com/track/09gtDKL49tnLXMwN68D7JO"
-    },
-    {
-      "added_at": "2022-09-22 10:17:42",
-      "album": {
-        "name": "Us and Them (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/311sQUy4H8IFHsY9j8kx5q"
-      },
-      "artists": [
-        {
-          "name": "Shinedown",
-          "url": "https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI"
-        }
-      ],
-      "duration_ms": 202080,
-      "name": "Save Me - Acoustic",
-      "url": "https://open.spotify.com/track/0mqBx2unSAs6w8qHWDHdC7"
     },
     {
       "added_at": "2022-09-22 10:17:42",
@@ -611,18 +611,34 @@
     {
       "added_at": "2022-09-22 10:17:42",
       "album": {
-        "name": "The Best Of - Volume One",
-        "url": "https://open.spotify.com/album/5MgR5qQCxsusIOui4S2io5"
+        "name": "12\" Masters - The Essential Mixes",
+        "url": "https://open.spotify.com/album/2jJ6cDLNPwLyVNC1qqVwOT"
       },
       "artists": [
         {
-          "name": "Silverchair",
-          "url": "https://open.spotify.com/artist/4iudEcmuPlYNdbP3e1bdn1"
+          "name": "Avril Lavigne",
+          "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
         }
       ],
-      "duration_ms": 230666,
-      "name": "Ana's Song (Open Fire) - Acoustic Re-Mix",
-      "url": "https://open.spotify.com/track/4FM8TeKWsro8yjzbpDwocN"
+      "duration_ms": 237533,
+      "name": "When You're Gone - Acoustic Version",
+      "url": "https://open.spotify.com/track/3fcOPNiuzOsjwaguaxrAon"
+    },
+    {
+      "added_at": "2022-09-22 10:17:42",
+      "album": {
+        "name": "Night Visions (Expanded Edition / Super Deluxe)",
+        "url": "https://open.spotify.com/album/0LLA5YL3g2UReWlP7nWqGh"
+      },
+      "artists": [
+        {
+          "name": "Imagine Dragons",
+          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
+        }
+      ],
+      "duration_ms": 270080,
+      "name": "Radioactive - Live London Sessions / 2013",
+      "url": "https://open.spotify.com/track/3T09JC1tNKcHZPhisKKUm8"
     },
     {
       "added_at": "2022-09-22 10:17:42",
@@ -643,18 +659,18 @@
     {
       "added_at": "2022-09-22 10:17:42",
       "album": {
-        "name": "12\" Masters - The Essential Mixes",
-        "url": "https://open.spotify.com/album/2jJ6cDLNPwLyVNC1qqVwOT"
+        "name": "The Best Of - Volume One",
+        "url": "https://open.spotify.com/album/5MgR5qQCxsusIOui4S2io5"
       },
       "artists": [
         {
-          "name": "Avril Lavigne",
-          "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
+          "name": "Silverchair",
+          "url": "https://open.spotify.com/artist/4iudEcmuPlYNdbP3e1bdn1"
         }
       ],
-      "duration_ms": 237533,
-      "name": "When You're Gone - Acoustic Version",
-      "url": "https://open.spotify.com/track/3fcOPNiuzOsjwaguaxrAon"
+      "duration_ms": 230666,
+      "name": "Ana's Song (Open Fire) - Acoustic Re-Mix",
+      "url": "https://open.spotify.com/track/4FM8TeKWsro8yjzbpDwocN"
     },
     {
       "added_at": "2022-09-22 10:17:42",
@@ -691,22 +707,6 @@
     {
       "added_at": "2022-09-22 10:17:42",
       "album": {
-        "name": "Legendary (Acoustic)",
-        "url": "https://open.spotify.com/album/1hj9cR7EcEIisOX3eeke2x"
-      },
-      "artists": [
-        {
-          "name": "Welshly Arms",
-          "url": "https://open.spotify.com/artist/1xKrH6GSh9CJh8nYwbqW7B"
-        }
-      ],
-      "duration_ms": 216940,
-      "name": "Legendary - Acoustic",
-      "url": "https://open.spotify.com/track/5l4O7VzsZhKpAJO8w2jrC9"
-    },
-    {
-      "added_at": "2022-09-22 10:17:42",
-      "album": {
         "name": "...Like Cologne (Spotify Exclusive)",
         "url": "https://open.spotify.com/album/4emoC6C9fCDkWPdTuxN9an"
       },
@@ -739,6 +739,22 @@
     {
       "added_at": "2022-09-22 10:17:42",
       "album": {
+        "name": "Legendary (Acoustic)",
+        "url": "https://open.spotify.com/album/1hj9cR7EcEIisOX3eeke2x"
+      },
+      "artists": [
+        {
+          "name": "Welshly Arms",
+          "url": "https://open.spotify.com/artist/1xKrH6GSh9CJh8nYwbqW7B"
+        }
+      ],
+      "duration_ms": 216940,
+      "name": "Legendary - Acoustic",
+      "url": "https://open.spotify.com/track/5l4O7VzsZhKpAJO8w2jrC9"
+    },
+    {
+      "added_at": "2022-09-22 10:17:42",
+      "album": {
         "name": "Spotify Sessions",
         "url": "https://open.spotify.com/album/148mo9e8hv2UZsxS2YKf9T"
       },
@@ -751,22 +767,6 @@
       "duration_ms": 224353,
       "name": "Island in the Sun - Live from Spotify NYC",
       "url": "https://open.spotify.com/track/6QuYC4Vcr3myWxZRJxg4NZ"
-    },
-    {
-      "added_at": "2022-09-22 10:17:42",
-      "album": {
-        "name": "Scumbag (Acoustic)",
-        "url": "https://open.spotify.com/album/3bauwJBwUAGFxVCoajMIKv"
-      },
-      "artists": [
-        {
-          "name": "Goody Grace",
-          "url": "https://open.spotify.com/artist/1iH2Yx2Ea0kZ0zKI3Nlk30"
-        }
-      ],
-      "duration_ms": 209420,
-      "name": "Scumbag - Acoustic",
-      "url": "https://open.spotify.com/track/37Eb16TFeVB2dxkoEnzW4W"
     },
     {
       "added_at": "2022-09-22 10:17:42",
@@ -791,18 +791,18 @@
     {
       "added_at": "2022-09-22 10:17:42",
       "album": {
-        "name": "Night Visions (Expanded Edition / Super Deluxe)",
-        "url": "https://open.spotify.com/album/0LLA5YL3g2UReWlP7nWqGh"
+        "name": "Scumbag (Acoustic)",
+        "url": "https://open.spotify.com/album/3bauwJBwUAGFxVCoajMIKv"
       },
       "artists": [
         {
-          "name": "Imagine Dragons",
-          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
+          "name": "Goody Grace",
+          "url": "https://open.spotify.com/artist/1iH2Yx2Ea0kZ0zKI3Nlk30"
         }
       ],
-      "duration_ms": 270080,
-      "name": "Radioactive - Live London Sessions / 2013",
-      "url": "https://open.spotify.com/track/3T09JC1tNKcHZPhisKKUm8"
+      "duration_ms": 209420,
+      "name": "Scumbag - Acoustic",
+      "url": "https://open.spotify.com/track/37Eb16TFeVB2dxkoEnzW4W"
     },
     {
       "added_at": "2022-09-22 10:17:42",

@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1tZzam7CfKP.md) - [plain]
 
 > All funk, all live\. Cover: Earth Wind & Fire
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,710 likes - 54 songs - 5 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,872 likes - 54 songs - 5 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [1999 \- Live In Syracuse, March 30, 1985 \- 2022 Remaster](https://open.spotify.com/track/6ADP8ay0KMHR0A3ZYQOqdG) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Prince and The Revolution: Live \(2022 Remaster\)](https://open.spotify.com/album/4Y8oukfqpJupRcCsHucO7J) | 5:50 |
 | 2 | [She's Strange](https://open.spotify.com/track/1oQRTKLcFe5E3ZObO8iz8b) | [Cameo](https://open.spotify.com/artist/545idYhdloaSlLGBY8E9u2) | [Nasty](https://open.spotify.com/album/5O46WJRJ7AMYEAyKVLvEhP) | 2:37 |
-| 3 | [We Want the Funk \- Live from Metropolis](https://open.spotify.com/track/2ZvgUipjG2wjEp1Ei74Dlf) | [George Clinton](https://open.spotify.com/artist/2GVBp7QyHckoOg7rYkLvrA) | [George Clinton P\-Funk: Live from Metropolis Studios](https://open.spotify.com/album/0FNqj3ZqoIBQartZIg5GkP) | 5:11 |
-| 4 | [Fast Lane \- Live \(Remastered\)](https://open.spotify.com/track/1PdBabuRpBR8P3QiQf3Oow) | [Gil Scott\-Heron](https://open.spotify.com/artist/0kEfub5RzlZOB2zGomqVSU) | [Hold Onto Your Dreams \[Live \(Remastered\)\]](https://open.spotify.com/album/1vnnqR8Vt3X8ynTC5SIIV1) | 4:51 |
+| 3 | [Wake Me \(Live\)](https://open.spotify.com/track/4USchbsYWOLEMPUCIT9EG1) | [Nigel Hall](https://open.spotify.com/artist/04HwdlOSZ8Rnmp4D3vyjI2) | [Wake Me \(Live\)](https://open.spotify.com/album/6XpKCIgD8za1q08PUkpa9n) | 4:57 |
+| 4 | [We Want the Funk \- Live from Metropolis](https://open.spotify.com/track/2ZvgUipjG2wjEp1Ei74Dlf) | [George Clinton](https://open.spotify.com/artist/2GVBp7QyHckoOg7rYkLvrA) | [George Clinton P\-Funk: Live from Metropolis Studios](https://open.spotify.com/album/0FNqj3ZqoIBQartZIg5GkP) | 5:11 |
 | 5 | [Wind Me Up Chuck / Hoochie Coochie Man \(Live\)](https://open.spotify.com/track/3j0h8GVtHdkb8PMHp6r4pF) | [Chuck Brown](https://open.spotify.com/artist/2ssIfCr0vMmCuesIw9U4eg) | [Your Game‚ Live At the 9: 30 Club, Washington, D.C.](https://open.spotify.com/album/2Emrjdw9u7VQmsuhXn46vR) | 6:21 |
 | 6 | [Manic Panic Epiphanic \- Live](https://open.spotify.com/track/1EOJiUpdqskM1kcZu1xwZi) | [Kurt Elling](https://open.spotify.com/artist/1UhC1mCcd9SFXLibHhMX61), [Charlie Hunter](https://open.spotify.com/artist/0si9BxvM2C33fAIkr1pgUc) | [Manic Panic Epiphanic \(Live\)](https://open.spotify.com/album/0K2ivbkmwxapmIkFzMWkDA) | 8:50 |
 | 7 | [1+1+1 is 3 \- Live from One Nite Alone Tour 2002](https://open.spotify.com/track/7w0qo3yQoAuiBK4C0Aw7ir) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j), [The New Power Generation](https://open.spotify.com/artist/1xtGjxE9c1YmEmFPCH6Izp) | [One Nite Alone..\. Live!](https://open.spotify.com/album/4WaF42nHDVOOGnE8KIwQyJ) | 6:05 |
@@ -63,4 +63,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1tZzam7CfKP.md) - [plain]
 | 53 | [Psychoticbumpschool \- Live Version](https://open.spotify.com/track/24TPNhH0tX9f7QxfGMb4ho) | [Bootsy Collins](https://open.spotify.com/artist/5K0rbdBrs2tNXe5LeWMATT) | [Back In The Day: The Best Of Bootsy](https://open.spotify.com/album/5drHXExICEAsiNehDQvYwV) | 6:37 |
 | 54 | [Let Yourself Go \- Live At The Apollo Theater, 1967](https://open.spotify.com/track/5Fw86IXdNhRyDaY45PzeRx) | [James Brown & The Famous Flames](https://open.spotify.com/artist/32r72WOqqRO1DtSznId7Lr) | ['Live' At The Apollo \(Vol\. II\)](https://open.spotify.com/album/3jbnkGDaYChChu5Cs8LEvD) | 4:00 |
 
-Snapshot ID: `MTY2MjY5NjA2MCwwMDAwMDAwMDhkNWVhMGM2OTZhNDlhYjViM2YxMTFiNTRhNGI0YWZh`
+Snapshot ID: `MTY2NTExNTI2MCwwMDAwMDAwMGRhNTgxNjdhYmVjYThmN2FlY2Y1MDQ4YTM1NmY2Njk1`

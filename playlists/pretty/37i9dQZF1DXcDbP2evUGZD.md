@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcDbP2evUGZD.md) - [plain]
 
 > The K\-artists that you need to pay attention to right now will all be at <a href="http://mucon.kr/index.html">MU:CON 2022</a>! Meet them first at the MU:CON 2022 official playlist\. \(뮤콘 2022 쇼케이스에 선정된 아티스트들을 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,823 likes - 113 songs - 7 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,892 likes - 113 songs - 7 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -122,4 +122,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcDbP2evUGZD.md) - [plain]
 | 112 | [Lip balm](https://open.spotify.com/track/4wii40hlqbVqbSeXuDtySq) | [WOO JIN YOUNG](https://open.spotify.com/artist/1vpeQFhw90qhSRmzBd1ivl) | [\[DELICIOUS\]](https://open.spotify.com/album/03b7sXntDsxzF3nG9KmJ8G) | 3:16 |
 | 113 | [Happy Birthday](https://open.spotify.com/track/5WBC8Ymk4UsMecQgLpwfqQ) | [WOO JIN YOUNG](https://open.spotify.com/artist/1vpeQFhw90qhSRmzBd1ivl) | [\[3\-2=A\]](https://open.spotify.com/album/12f7MPJxreN85KhapL4Ayz) | 3:05 |
 
-Snapshot ID: `MTY2NDM0MTE0MiwwMDAwMDAwMGE3YWFmMDAwM2FlMTgxMjYwMmJkN2EzZTc2NTg5MGUz`
+Snapshot ID: `MTY2NDkzNjQ2MSwwMDAwMDAwMDE2MWFiZTE5ODAwNDQwZjNiZTg4NmI4NTZiYTllNGUw`

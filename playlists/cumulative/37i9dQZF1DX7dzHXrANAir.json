@@ -529,7 +529,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-11",
+      "date_removed": null,
       "duration_ms": 266785,
       "name": "Charles Duke",
       "url": "https://open.spotify.com/track/2C7lu8FJWZXeIv1MV6ena8"
@@ -809,7 +809,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-07",
       "duration_ms": 289000,
       "name": "Critical Spirit",
       "url": "https://open.spotify.com/track/6dVEJCuNc1XnWn9S3yiksd"
@@ -827,7 +827,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-10",
       "duration_ms": 669726,
       "name": "Critical Spirit - Live",
       "url": "https://open.spotify.com/track/0hlFgnsQV1zPdCD9agrSc2"
@@ -1233,7 +1233,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-04",
       "duration_ms": 105600,
       "name": "Everything in Life is Vibration",
       "url": "https://open.spotify.com/track/2pcvIesWIdt5S8E4haQngr"
@@ -1273,7 +1273,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-31",
+      "date_removed": null,
       "duration_ms": 187850,
       "name": "False Sunset - Todd & Klein Rework",
       "url": "https://open.spotify.com/track/7z6FjRYp5m3PVGIyV8cM9u"
@@ -1845,6 +1845,28 @@
       "duration_ms": 190078,
       "name": "I Knew It Was Going To Destroy You",
       "url": "https://open.spotify.com/track/0y9mQx4ul1bL8Vq3rlat2w"
+    },
+    {
+      "album": {
+        "name": "In All This Heavy Blue",
+        "url": "https://open.spotify.com/album/5Gs15uO4czslWbMG08vchM"
+      },
+      "artists": [
+        {
+          "name": "Hania Rani",
+          "url": "https://open.spotify.com/artist/14YzutUdMwS9yTnI0IFBaD"
+        },
+        {
+          "name": "Colin Stetson",
+          "url": "https://open.spotify.com/artist/4G6HhUUQ1LgyYnA2WJppf8"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276610,
+      "name": "In All This Heavy Blue",
+      "url": "https://open.spotify.com/track/29wVDybi61uHac7gi0aZFB"
     },
     {
       "album": {
@@ -2479,7 +2501,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-05",
       "duration_ms": 208307,
       "name": "Mia",
       "url": "https://open.spotify.com/track/5MdHNfHC2dH0872v9IF12c"
@@ -2581,7 +2603,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 393813,
       "name": "mist",
       "url": "https://open.spotify.com/track/2xuM99rQr2oORCVsLbkhMt"
@@ -3697,7 +3719,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-30",
+      "date_removed": null,
       "duration_ms": 243431,
       "name": "Sh\u00e9h\u00e9razade - Laura Masotto Rework",
       "url": "https://open.spotify.com/track/4ZKoLAjGLLLwKFBADGh2SO"
@@ -4229,7 +4251,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-06",
       "duration_ms": 197041,
       "name": "Vermilion",
       "url": "https://open.spotify.com/track/4V2Hz5O0EOui1S3coZhdTd"

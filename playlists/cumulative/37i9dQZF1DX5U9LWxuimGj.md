@@ -4,10 +4,11 @@
 
 > Country music with a Latin flair\. Cover: Frank Ray
 
-100 songs - 5 hr 34 min - [published](https://open.spotify.com/playlist/1WK5MqHO5idzyfqGcT0LRT)
+102 songs - 5 hr 40 min - [published](https://open.spotify.com/playlist/1WK5MqHO5idzyfqGcT0LRT)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [1990s Drunk](https://open.spotify.com/track/70DLKdtq1mq4UT05jnXh8Z) | [Mario Flores](https://open.spotify.com/artist/2xUSUDfwQAxQq9WEal8sId) | [1990s Drunk](https://open.spotify.com/album/4T7NUH0KI8yXRcCrgs0Doz) | 2:58 | 2022-10-07 |  |
 | [506](https://open.spotify.com/track/4scwMEdlKi8qWJzzyDB8Z3) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD), [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7) | [506](https://open.spotify.com/album/38coX6excq4obQR4Z7sww7) | 3:00 | 2022-09-02 |  |
 | [Achy Breaky Heart 25 \(Spanglish\) \[feat\. Jencarlos Canela\]](https://open.spotify.com/track/6AJJN8totfQ19PPft5qJqt) | [Billy Ray Cyrus](https://open.spotify.com/artist/60rpJ9SgigSd16DOAG7GSa), [JENCARLOS](https://open.spotify.com/artist/3f4OfcNtgL9MLgiyOdIHC7) | [Set the Record Straight](https://open.spotify.com/album/65HZxbBL9viNkzeFJM53tE) | 3:14 | 2022-07-08 |  |
 | [Achy Breaky Heart 25 \- Spanglish \(feat\. Jencarlos Canela\)](https://open.spotify.com/track/7BsOKmHxQ9vvpFZaRR8Tzm) | [Billy Ray Cyrus](https://open.spotify.com/artist/60rpJ9SgigSd16DOAG7GSa), [The Silver Mullet Band](https://open.spotify.com/artist/0OUA8eU4zKdxFX9DL2sdkR), [JENCARLOS](https://open.spotify.com/artist/3f4OfcNtgL9MLgiyOdIHC7) | [Achy Breaky Heart 25 \- Spanglish \(feat\. Jencarlos Canela\)](https://open.spotify.com/album/3fO7J7vXdxv5IdixnK2O3K) | 3:14 | 2021-12-10 | 2022-07-29 |
@@ -95,6 +96,7 @@
 | [Tears Of Gold](https://open.spotify.com/track/1GmQN5AYSmZFYTw10AfcLe) | [David Bisbal](https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB), [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Tears Of Gold](https://open.spotify.com/album/2US38BIkYb1habQEAGJyfD) | 2:56 | 2021-12-10 |  |
 | [Tequila Sundown](https://open.spotify.com/track/4nN7chRIK66RfXKTqM3GwS) | [Jon Wolfe](https://open.spotify.com/artist/7fmSLVnnxwwMYj8Wc0rKyp) | [Dos Corazones Chapter One](https://open.spotify.com/album/58qPvTFiBZPYubdX9GVFNM) | 3:52 | 2021-12-10 |  |
 | [Texas Swing \(with Squeezebox Bandits & Jessica Roadcap\)](https://open.spotify.com/track/2yfzrPr0hBXLNFSbSBftj4) | [Triston Marez](https://open.spotify.com/artist/34J7mIMU9nyg5px9m3ur88), [Squeezebox Bandits](https://open.spotify.com/artist/4a02tpn91oE3Yj912u4Dp2), [Jessica Roadcap](https://open.spotify.com/artist/7wCLGdBWLxknkk0klqSs1t) | [Triston Marez](https://open.spotify.com/album/0MLWqiGjmaYa46WL2Rv56N) | 4:39 | 2021-12-10 |  |
+| [That Kind of Cowboy](https://open.spotify.com/track/18ZH8MilaP3O2FVZhb0JYO) | [The Last Bandoleros](https://open.spotify.com/artist/3Zk03qhmFLepNYW2atWkmE) | [Tex Flex](https://open.spotify.com/album/4BEnJ4m3oTjGbFWfhdb0VI) | 2:57 | 2022-10-07 |  |
 | [The Unforgiven](https://open.spotify.com/track/4xfUlRu5KWuf3RvpyBzkgg) | [Ha\*Ash](https://open.spotify.com/artist/5xd2Tg7Zo8755eCy8Gxkp8) | [The Unforgiven](https://open.spotify.com/album/4fKKWNlAQjOY8zG8pY4ZmW) | 4:05 | 2021-12-10 | 2022-07-29 |
 | [The Unforgiven](https://open.spotify.com/track/2OzMQSnYu4wVYBhCm3sNSZ) | [Ha\*Ash](https://open.spotify.com/artist/5xd2Tg7Zo8755eCy8Gxkp8) | [The Unforgiven](https://open.spotify.com/album/7KpZPUNuZBarex1NYPCezR) | 4:05 | 2022-07-08 |  |
 | [Timeless \(Spanish Version\)](https://open.spotify.com/track/5tddHCci9vyQVnNWVSJs4G) | [Valerie Ponzio](https://open.spotify.com/artist/6lyvojQxyHnM61PUWTUKQQ) | [Timeless](https://open.spotify.com/album/6pKXgkrBT3Gz7jixcrBCJ6) | 3:17 | 2021-12-10 |  |

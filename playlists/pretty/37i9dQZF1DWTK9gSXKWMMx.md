@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTK9gSXKWMMx.md) - [plain]
 
 > Sit back and relax to the smooth sound of blues piano.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,107 likes - 54 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,302 likes - 54 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,4 +63,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTK9gSXKWMMx.md) - [plain]
 | 53 | [Blues Cafe Farewell](https://open.spotify.com/track/6VYyVwNHlnb15nXL1UPmPF) | [Christian Rannenberg](https://open.spotify.com/artist/0FXwEMAkZkvmLPeIl57OtB) | [Blues](https://open.spotify.com/album/7neO63jZj32xSLnSSa25Z5) | 4:32 |
 | 54 | [Un piccolo vecchio swing](https://open.spotify.com/track/60DRLblaDS96A0c2Bqwp4I) | [Gian Marco La Serra](https://open.spotify.com/artist/2UqzItH7bRUBh8hfjSkKMq), [Andrea Moro](https://open.spotify.com/artist/15hCfSudwmzOQbx2xavIG4) | [Un piccolo vecchio swing](https://open.spotify.com/album/1dhJbEok8jzxoyVH7tYTMv) | 2:29 |
 
-Snapshot ID: `MTY2Mzk0Nzk0MiwwMDAwMDAwMGIzYjJmOGZmY2M2MmViMDJjZWFhNDM2OGQxN2M4MGEy`
+Snapshot ID: `MTY2NDg5MzI4MSwwMDAwMDAwMGI2NmY1ODkyMGMzYWQ3ZjAxMGRlYTI1ODJiZWRmY2Yy`

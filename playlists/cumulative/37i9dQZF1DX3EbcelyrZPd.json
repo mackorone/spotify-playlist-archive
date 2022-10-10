@@ -1112,6 +1112,28 @@
     },
     {
       "album": {
+        "name": "Jugni",
+        "url": "https://open.spotify.com/album/2f4OFd2m05NI1WSJnhJi9v"
+      },
+      "artists": [
+        {
+          "name": "Diljit Dosanjh",
+          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
+        },
+        {
+          "name": "Diamond Platnumz",
+          "url": "https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193190,
+      "name": "Jugni",
+      "url": "https://open.spotify.com/track/0gHFDbhx2RFBrhJplPxlcT"
+    },
+    {
+      "album": {
         "name": "Wanangu 99",
         "url": "https://open.spotify.com/album/5R6gnSXhq3hNUgeeaKBlZJ"
       },
@@ -1321,6 +1343,24 @@
       "duration_ms": 261896,
       "name": "Kunjani",
       "url": "https://open.spotify.com/track/1eAoxRoicPL7yEBe2yUXg9"
+    },
+    {
+      "album": {
+        "name": "Kwikwi",
+        "url": "https://open.spotify.com/album/4Ylrz9HbGlQnEKHCe511nJ"
+      },
+      "artists": [
+        {
+          "name": "Zuchu",
+          "url": "https://open.spotify.com/artist/6LzSS8yBk2YQpAvQxzOu0M"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191862,
+      "name": "Kwikwi",
+      "url": "https://open.spotify.com/track/6RdkggWArMBHrxBmKTvsaj"
     },
     {
       "album": {
@@ -1591,6 +1631,28 @@
       "duration_ms": 197727,
       "name": "Mapenzi",
       "url": "https://open.spotify.com/track/3mZvb0NR0xI1OsD0U8yeQx"
+    },
+    {
+      "album": {
+        "name": "Melody",
+        "url": "https://open.spotify.com/album/3IsdN5UkV8Ri9F1KFDiL05"
+      },
+      "artists": [
+        {
+          "name": "Robby Vibe",
+          "url": "https://open.spotify.com/artist/5MbMEjr2wDI9iczXvMCmUC"
+        },
+        {
+          "name": "Lody Music",
+          "url": "https://open.spotify.com/artist/74V5EGZx8m1D9pAErk5TEz"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178387,
+      "name": "Melody",
+      "url": "https://open.spotify.com/track/4SU8d5EyTg6fM4AUkrWmCg"
     },
     {
       "album": {
@@ -2251,7 +2313,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 148924,
       "name": "Nishazama",
       "url": "https://open.spotify.com/track/3fG8h0OYj0mcPr1pY4a3xm"
@@ -2429,7 +2491,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 133770,
       "name": "Papaa",
       "url": "https://open.spotify.com/track/06MXbcZxZqPJPcFHaQLmkL"
@@ -2786,6 +2848,32 @@
     },
     {
       "album": {
+        "name": "Superstar",
+        "url": "https://open.spotify.com/album/4G7Ss5mK4cMH81YEF7cj8U"
+      },
+      "artists": [
+        {
+          "name": "Costa Titch",
+          "url": "https://open.spotify.com/artist/5IaDEj02UeuU9YQSunGWgG"
+        },
+        {
+          "name": "Diamond Platnumz",
+          "url": "https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod"
+        },
+        {
+          "name": "Ma Gang Official",
+          "url": "https://open.spotify.com/artist/6oorjOsgeEP2V4gSOFoZHB"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278282,
+      "name": "Superstar",
+      "url": "https://open.spotify.com/track/0MEo0is8RinzoUGYvy3BgK"
+    },
+    {
+      "album": {
         "name": "Swagg",
         "url": "https://open.spotify.com/album/3sz09gojJ618LB5ilGNhTA"
       },
@@ -3017,7 +3105,7 @@
       ],
       "date_added": "2022-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 199615,
       "name": "Toroka (feat. Harmonize)",
       "url": "https://open.spotify.com/track/31MN3z8m1u2fcd5q1zWrV2"
@@ -3075,7 +3163,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 146399,
       "name": "U & I",
       "url": "https://open.spotify.com/track/7eC2CHUQLTUCMoM4TJWlWS"

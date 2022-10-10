@@ -464,6 +464,36 @@
     },
     {
       "album": {
+        "name": "Atlas (Shall Ocin & Artbat Remix)",
+        "url": "https://open.spotify.com/album/2wonCAxmz7xKzCa5I5TlnA"
+      },
+      "artists": [
+        {
+          "name": "Marc Romboy",
+          "url": "https://open.spotify.com/artist/623ecFS6T9xsx9Rb98eii5"
+        },
+        {
+          "name": "Stephan Bodzin",
+          "url": "https://open.spotify.com/artist/2nq2BeSbzExGAv3Y4HgUf7"
+        },
+        {
+          "name": "ARTBAT",
+          "url": "https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1"
+        },
+        {
+          "name": "Shall Ocin",
+          "url": "https://open.spotify.com/artist/6OP6u8D2Icl5qmrCbyTY7M"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 380952,
+      "name": "Atlas - Shall Ocin & Artbat Remix",
+      "url": "https://open.spotify.com/track/1CgZ0pKxdBB9trUYULmKSs"
+    },
+    {
+      "album": {
         "name": "Illusion of Perfection",
         "url": "https://open.spotify.com/album/26medpL8stPGWfE0xRuJT2"
       },
@@ -2237,7 +2267,7 @@
       ],
       "date_added": "2021-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-03",
       "duration_ms": 193563,
       "name": "Hero",
       "url": "https://open.spotify.com/track/5XAQO5MN3T7Z5ecAAql0JV"
@@ -3099,7 +3129,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 305078,
       "name": "LINE IN THE SAND",
       "url": "https://open.spotify.com/track/1ChJyLrvuFRUQIbBuavjcO"
@@ -3175,7 +3205,7 @@
       ],
       "date_added": "2021-05-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-01",
+      "date_removed": "2022-10-05",
       "duration_ms": 305401,
       "name": "Lost Gravity",
       "url": "https://open.spotify.com/track/4UwtgYX9wp4z9zLIfzVviV"
@@ -3447,7 +3477,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-03",
       "duration_ms": 308571,
       "name": "Murphy - Edit",
       "url": "https://open.spotify.com/track/4n8fxV2m3ESCoQgOaMrR2n"
@@ -4103,7 +4133,7 @@
       ],
       "date_added": "2021-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-07",
       "duration_ms": 232740,
       "name": "Paradise (feat. Lucas Ariel)",
       "url": "https://open.spotify.com/track/299lnrCInmGfXBeSu8A6lw"
@@ -5131,7 +5161,7 @@
       ],
       "date_added": "2021-05-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-01",
+      "date_removed": null,
       "duration_ms": 358095,
       "name": "Steps",
       "url": "https://open.spotify.com/track/1pIBxvFjjnp7tAKOTwA0Az"

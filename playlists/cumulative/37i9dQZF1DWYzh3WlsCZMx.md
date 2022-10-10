@@ -4,7 +4,7 @@
 
 > Sophisticated palates only\. Curated by: <a href="https://open.spotify.com/playlist/5FWhibjoWhSsyfQveXzmRv?si=0a61027ee6a34d36">HBO's Rap Sh!t</a>
 
-48 songs - 2 hr 22 min - not published yet
+48 songs - 2 hr 22 min - [published](https://open.spotify.com/playlist/2bjKfCvyPIfvmZmIqrEO65)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

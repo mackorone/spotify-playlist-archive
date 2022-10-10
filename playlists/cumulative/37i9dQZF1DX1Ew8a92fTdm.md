@@ -4,7 +4,7 @@
 
 > Peaceful music box tunes for sleepy babies.
 
-153 songs - 3 hr 49 min - [published](https://open.spotify.com/playlist/6TPXRhAYwfF0T2qiE0ZMzm)
+157 songs - 3 hr 55 min - [published](https://open.spotify.com/playlist/6TPXRhAYwfF0T2qiE0ZMzm)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,11 +35,13 @@
 | [Big City Dreams](https://open.spotify.com/track/6Rqt1bYulvMlGFOg3wDsLG) | [Country Dreaming](https://open.spotify.com/artist/2jWdCVzyXyIfDusxd6YNGT) | [Cowboys and Cowgirls](https://open.spotify.com/album/4SCRx8zNYOAEHRnk8sQeLd) | 2:03 | 2022-02-10 |  |
 | [Big Fat Cat](https://open.spotify.com/track/4fhl9JjNb9CMTAnFJ5k8UA) | [Sophie Turnberry](https://open.spotify.com/artist/3MN0u1ZzvzfVsRuTa1smgf) | [Big Fat Cat \(Music Box\)](https://open.spotify.com/album/56fEdK7ecDFBfc32ICwhHC) | 1:59 | 2022-02-10 |  |
 | [Blow Me A Kiss](https://open.spotify.com/track/3hGa4W9QcfGEjmSjSyXDgN) | [Yasu Carter](https://open.spotify.com/artist/1a5lbgjd8frJ8UirtYdtpQ) | [Blow Me A Kiss](https://open.spotify.com/album/0kll38lENG3yiWNG88geKR) | 1:15 | 2022-04-22 |  |
+| [Blue](https://open.spotify.com/track/0nNHzlAaX6Rcg6MYXLSFkg) | [Sleepmoon](https://open.spotify.com/artist/46ipcNL1MA2CAdElB0jki4) | [Blue](https://open.spotify.com/album/67eKzGIohJwUN0to526eY8) | 1:48 | 2022-10-07 |  |
 | [Brahms Lullaby](https://open.spotify.com/track/4aTYnK3QB1PLbwsb11OsBu) | [The Boxxers](https://open.spotify.com/artist/14mKDSMzWp7sxTiCwwJFwP) | [Brahms Lullaby](https://open.spotify.com/album/78CVjmcZf59p7ouiZVEfhQ) | 1:35 | 2022-02-10 |  |
 | [Brother John](https://open.spotify.com/track/7cSlfPE7Wnpqoqqo0vW4cF) | [Torben Overgaard](https://open.spotify.com/artist/2wrZRfjoJ5N3f1WyYjbKXL) | [Hush little baby](https://open.spotify.com/album/5ERuVhhDbPdquvPMWuE1Uq) | 0:56 | 2022-02-10 | 2022-04-23 |
 | [Bubble Bath](https://open.spotify.com/track/1628ekWldpzuKjr94qB1F0) | [Bubbles & Soap](https://open.spotify.com/artist/6hxN0gH6z5uckTX4FxCOB6) | [Bath Time Lullabies](https://open.spotify.com/album/7aH1XxefhIjFAKWMcdU4ID) | 1:45 | 2022-04-22 |  |
 | [Bug Juice Summer](https://open.spotify.com/track/29uMnRN95ImeQVvQhky5Pk) | [Samantha Ant](https://open.spotify.com/artist/6PVRdp7qSiUrGPo8Gj9FU1) | [Caterpillar Waltz](https://open.spotify.com/album/2DSkZZVi8VFdDp0YHUan8U) | 1:49 | 2022-02-10 |  |
 | [Calm Story](https://open.spotify.com/track/2JfSBZNtR4RlzoTtuASeO7) | [Jannah Zoey](https://open.spotify.com/artist/0aTx7Dr1FQMw3BNWISMmA1) | [Calm Story](https://open.spotify.com/album/7qg5bHIbYVLCbwPSQ34I6Y) | 1:28 | 2022-02-10 |  |
+| [Captain Adventure](https://open.spotify.com/track/7MpoAKqBEqzUYlCUKseSZq) | [Candy Pirates](https://open.spotify.com/artist/5t0D8K9ZJUzi0tNnuwZTjn) | [Captain Adventure](https://open.spotify.com/album/73UN2PPCs3a0JbPFbN1XTO) | 1:34 | 2022-10-07 |  |
 | [Cielito Lindo](https://open.spotify.com/track/633k2PmrV5MMNXAKcOmPpq) | [Hakima Feré](https://open.spotify.com/artist/265CoPrCR8buOOIW2YLWRf) | [Cielito Lindo](https://open.spotify.com/album/5F7kxYBfQJqQAjmDLMVwmn) | 1:29 | 2022-02-10 |  |
 | [Close Together](https://open.spotify.com/track/4bXwpLhOCnHZScpOPmOI7X) | [Linnea Nord](https://open.spotify.com/artist/4PquHZJBaOcfBdPliZvCLq) | [Close Together](https://open.spotify.com/album/3XlXwOJ9yHcMYrJ5nXKRhY) | 1:14 | 2022-02-10 |  |
 | [Cloud Castles](https://open.spotify.com/track/6Fq1ceTEqN9eMDq7QNPMld) | [Irving Simon](https://open.spotify.com/artist/7hZbX41Usjsq13fQDqXSHa) | [Cloud Castles](https://open.spotify.com/album/4sprVQ6qKOBMFMjljbb1Or) | 2:08 | 2022-02-10 |  |
@@ -90,7 +92,7 @@
 | [Lullaby of Colors](https://open.spotify.com/track/0tBZQVRq7zRvTUHv7LnpkT) | [Peggy Roxie](https://open.spotify.com/artist/3FWKZdvRjRtGSgMNnVis04) | [Lullaby of Colors](https://open.spotify.com/album/7kf9KGjbvQqRIMHeynnkPP) | 1:10 | 2022-02-10 |  |
 | [Minuet in G major](https://open.spotify.com/track/1dbOTzFPfYfIjGeMKZG014) | [Casey Freeman](https://open.spotify.com/artist/38Nkn4vkDsDxi5SthUeeNf) | [Classics on Music Box](https://open.spotify.com/album/5bMZ8ncLdI2lF2nKzPgmPx) | 1:13 | 2022-02-10 |  |
 | [Mon papa est fou!](https://open.spotify.com/track/4yLF6kMSFyQRaEVfBE3QJ3) | [Chante Abbott](https://open.spotify.com/artist/1T4QcRl1ubcs9mJgtjjP8q) | [Mon papa est fou!](https://open.spotify.com/album/44OlIOrbu2SBVRgs3tXUF3) | 1:17 | 2022-02-10 |  |
-| [My Bedtime Fairytale](https://open.spotify.com/track/6g1ykf0HVQpZwnNolxNZrK) | [Egil Nielsen](https://open.spotify.com/artist/0oZuyZXAZ8zvY3ygyApIHf) | [A Goodnight Lullaby](https://open.spotify.com/album/5bUFergE5isqK0EzbLnVQk) | 1:49 | 2022-02-10 |  |
+| [My Bedtime Fairytale](https://open.spotify.com/track/6g1ykf0HVQpZwnNolxNZrK) | [Egil Nielsen](https://open.spotify.com/artist/0oZuyZXAZ8zvY3ygyApIHf) | [A Goodnight Lullaby](https://open.spotify.com/album/5bUFergE5isqK0EzbLnVQk) | 1:49 | 2022-02-10 | 2022-10-08 |
 | [My Big Red Lollipop](https://open.spotify.com/track/6YM1LT4Lky8LVGr3MnUzYd) | [Lucie Avila](https://open.spotify.com/artist/2FPmkspLV88EjMpP6XKnwv) | [My Big Red Lollipop](https://open.spotify.com/album/6mjHxtb2Vbc0naLmpbX2qS) | 1:23 | 2022-02-10 |  |
 | [My Bonnie Lies Over The Ocean](https://open.spotify.com/track/55fdCHjMrDwp7a016z4zC7) | [Jesse Nielsen](https://open.spotify.com/artist/28hL1CMeKSmGDu43cUqsWW) | [Lullabies on Music Box](https://open.spotify.com/album/1hDnsG6Lx0x4J2Q8pdJTo1) | 1:53 | 2022-02-10 |  |
 | [My Grandfather's Clock](https://open.spotify.com/track/2JkK9MpwEoU1JuhWFsnUrG) | [Philip Stuart](https://open.spotify.com/artist/0jvpyMCQkgCjMtOUdd8RoJ) | [Girls and Boys Come Out to Play](https://open.spotify.com/album/22ytu5JUFTp0aBdzFuHd8v) | 3:24 | 2022-02-10 |  |
@@ -130,7 +132,9 @@
 | [Sunset Dreams](https://open.spotify.com/track/1Xz6iQJctwyQqrsW7xUb7o) | [Emma Fredrikson](https://open.spotify.com/artist/593Pvds6UCt7EErZ6I63y9) | [Sunset Dreams](https://open.spotify.com/album/5IUCv34ZLj2JtfRMCRYMcd) | 1:19 | 2022-02-10 |  |
 | [Suo Gân](https://open.spotify.com/track/5ejZpwnJQipTb8H7IHr6va) | [Royce Prichard](https://open.spotify.com/artist/4iajyddKaNIX6a1LKwpovL) | [Somewhere over the rainbow](https://open.spotify.com/album/6OmptZeMhscTHVBeReXTz1) | 1:08 | 2022-02-10 |  |
 | [Teddy Toddler](https://open.spotify.com/track/5n2NlCI1zRcvPHTmiKSgds) | [Eli Demir](https://open.spotify.com/artist/51Nt493ykLjC5PvLbGmP9N) | [Teddy Toddler](https://open.spotify.com/album/3KSh6T3Lk7LWhuaecGZAUp) | 1:18 | 2022-02-10 |  |
+| [Teeny Tiny Fortress](https://open.spotify.com/track/1sYRJMBcaS5TIfelrS4MXE) | [Laila Walton](https://open.spotify.com/artist/6JuIEojmY6muknH6pXp4ZR) | [Teeny Tiny Fortress](https://open.spotify.com/album/3IMKliBe95wlMROqgquHC3) | 1:27 | 2022-10-07 |  |
 | [Ten Green Bottles](https://open.spotify.com/track/253pJVE3sYCzpEWZqteYZh) | [Mamie Botello](https://open.spotify.com/artist/0DIxPs7iNFy6DEvl86W9Yo) | [Sailor Went To Sea](https://open.spotify.com/album/4pHl7jAk6iXfpnkCRIScw6) | 0:46 | 2022-02-10 | 2022-04-23 |
+| [The Astronaut](https://open.spotify.com/track/6fh2DF5RlwJwIuvpTUHSqw) | [Three Potatoes](https://open.spotify.com/artist/2mbvwbw8vinmBCmtNmTOTq) | [The Astronaut](https://open.spotify.com/album/7AaVdOmjThttQc8PsP8bQV) | 1:18 | 2022-10-07 |  |
 | [The Bestest Friend](https://open.spotify.com/track/3vT72R7AePCJXPKLMvqbpy) | [Tip Tap Toe](https://open.spotify.com/artist/4FaFReBiOHAUBP72P5y6Zq) | [The Bestest Friend](https://open.spotify.com/album/4IfCGH5U9lMo8sfv80Xha1) | 1:41 | 2022-02-10 |  |
 | [The Carousel](https://open.spotify.com/track/4RTdBnJYhV58DGrhCJy8Q2) | [Gobblis](https://open.spotify.com/artist/3YSmdEAelsfSIm4uArfV3O) | [The Carousel](https://open.spotify.com/album/3d14PkRC52xnekQ7C6QDTC) | 1:12 | 2022-02-10 |  |
 | [The Fisherman](https://open.spotify.com/track/61ZWC8H3rJ5HP4mwt6CR3Y) | [Hannah Belstead](https://open.spotify.com/artist/1qRdZ3SW7xLqk4GszgtCK6) | [The Fisherman](https://open.spotify.com/album/1xGyvv3513BTEYFACrEdF2) | 1:16 | 2022-02-10 |  |

@@ -8,6 +8,24 @@
   "tracks": [
     {
       "album": {
+        "name": "12am",
+        "url": "https://open.spotify.com/album/54BSoPYRODCtunqN0TobKB"
+      },
+      "artists": [
+        {
+          "name": "Mike Oliver",
+          "url": "https://open.spotify.com/artist/19K0OLGUGXU9PGvbJ2aAHn"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171187,
+      "name": "12am",
+      "url": "https://open.spotify.com/track/0BsZBFtJj64wr7ii2179vX"
+    },
+    {
+      "album": {
         "name": "A beautiful day",
         "url": "https://open.spotify.com/album/2YFg6gt0UE5yo3E3z6cs0P"
       },
@@ -527,7 +545,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-07",
       "duration_ms": 213011,
       "name": "Better Vibes",
       "url": "https://open.spotify.com/track/0o7EZM7Pjx1h5fe4rjL3UU"
@@ -624,6 +642,24 @@
     },
     {
       "album": {
+        "name": "bubble beach",
+        "url": "https://open.spotify.com/album/7ASNeFNx3Eg0kYgUHzNAR1"
+      },
+      "artists": [
+        {
+          "name": "Sunset-buff",
+          "url": "https://open.spotify.com/artist/4vwwK0iaZVthftLEr8As6W"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193392,
+      "name": "bubble beach",
+      "url": "https://open.spotify.com/track/7uwZt4cO0n0d0aI3VaiSGf"
+    },
+    {
+      "album": {
         "name": "Bye Felicia!",
         "url": "https://open.spotify.com/album/6F9IaDzXYEFQNn3bJFQrKf"
       },
@@ -696,6 +732,24 @@
     },
     {
       "album": {
+        "name": "Cancelling Plans",
+        "url": "https://open.spotify.com/album/33AWjc88zIczN31UGQh3Pa"
+      },
+      "artists": [
+        {
+          "name": "My Companion",
+          "url": "https://open.spotify.com/artist/4A9LJwmKMwv6PfGKU2CN1E"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136666,
+      "name": "Cancelling Plans",
+      "url": "https://open.spotify.com/track/54djx2u1kdBBi8agW4FffU"
+    },
+    {
+      "album": {
         "name": "Monty Hall",
         "url": "https://open.spotify.com/album/4MPyqq00qt7THWrpiHwRa7"
       },
@@ -711,6 +765,24 @@
       "duration_ms": 221284,
       "name": "Cannonball",
       "url": "https://open.spotify.com/track/7f1ZpHuGeGQOzD5qumBg5F"
+    },
+    {
+      "album": {
+        "name": "Capri",
+        "url": "https://open.spotify.com/album/3jKmqQJtpkFQGw3yjS3c0q"
+      },
+      "artists": [
+        {
+          "name": "Blank & Jones",
+          "url": "https://open.spotify.com/artist/2XTff332rrZaE1rBM47Krp"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197843,
+      "name": "Capri",
+      "url": "https://open.spotify.com/track/2Dd5DmhTHDZwKfyASYb1xb"
     },
     {
       "album": {
@@ -815,7 +887,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-07",
       "duration_ms": 161013,
       "name": "Chi-town",
       "url": "https://open.spotify.com/track/6IlUL7y90tJ87q4f37egWZ"
@@ -1745,7 +1817,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-07",
       "duration_ms": 152288,
       "name": "Floating In Space",
       "url": "https://open.spotify.com/track/4iUX9qCWkcwLkZCH8AFzCc"
@@ -2116,6 +2188,24 @@
     },
     {
       "album": {
+        "name": "Gold Coast",
+        "url": "https://open.spotify.com/album/6mGgCQtLcHNKmZmjFewPMg"
+      },
+      "artists": [
+        {
+          "name": "Hibiscus",
+          "url": "https://open.spotify.com/artist/1glR6ydlaQZmHrZPUgod5Z"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129039,
+      "name": "Gold Coast",
+      "url": "https://open.spotify.com/track/5XVEEfGmtPbUNUgtZhplx7"
+    },
+    {
+      "album": {
         "name": "Golden Route",
         "url": "https://open.spotify.com/album/2rRVx1Ujfr2HwYipoJwO5a"
       },
@@ -2265,6 +2355,24 @@
       "duration_ms": 186821,
       "name": "Heaven",
       "url": "https://open.spotify.com/track/6X35WKQ3YgELrIj3CT3NOt"
+    },
+    {
+      "album": {
+        "name": "Her Universe",
+        "url": "https://open.spotify.com/album/3IJ5PVtarhwisMYO1z33g8"
+      },
+      "artists": [
+        {
+          "name": "Floating Bits",
+          "url": "https://open.spotify.com/artist/4CmfscPBgrYJQuZP1nTQbs"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105047,
+      "name": "Her Universe",
+      "url": "https://open.spotify.com/track/17yHJKIZIOprUbTTD6Et0E"
     },
     {
       "album": {
@@ -2809,6 +2917,24 @@
       "duration_ms": 220363,
       "name": "Las Vegas",
       "url": "https://open.spotify.com/track/0748dugTfsE4teDzF7Dmhx"
+    },
+    {
+      "album": {
+        "name": "late hours",
+        "url": "https://open.spotify.com/album/1xVZe1oQp8MzstqKoHCOgt"
+      },
+      "artists": [
+        {
+          "name": "Peed Hus",
+          "url": "https://open.spotify.com/artist/4LpZEO5wsgiBMLhl7Mpec7"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124076,
+      "name": "late hours",
+      "url": "https://open.spotify.com/track/7nBwHiPERl38w1mfBt6E6t"
     },
     {
       "album": {
@@ -3811,7 +3937,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-07",
       "duration_ms": 157285,
       "name": "Nuages",
       "url": "https://open.spotify.com/track/5zABvoRurfZ456yMRvqjZ7"
@@ -3905,6 +4031,24 @@
       "duration_ms": 197058,
       "name": "One for Babushka",
       "url": "https://open.spotify.com/track/6YfQRaPuHSNcNSyMQ3DXno"
+    },
+    {
+      "album": {
+        "name": "One More Chance",
+        "url": "https://open.spotify.com/album/30pyUMMvt5woLa1GzSKl5g"
+      },
+      "artists": [
+        {
+          "name": "Dulcet",
+          "url": "https://open.spotify.com/artist/7kOMTlIze4HK68RCpaLBTp"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 88000,
+      "name": "One More Chance",
+      "url": "https://open.spotify.com/track/74u8Oi33nb7F0rT3QUEOxD"
     },
     {
       "album": {
@@ -4247,6 +4391,24 @@
       "duration_ms": 119914,
       "name": "Real space",
       "url": "https://open.spotify.com/track/5vaFORH4cfFX5z3qerjAVk"
+    },
+    {
+      "album": {
+        "name": "Recession",
+        "url": "https://open.spotify.com/album/1tBpP6NT0HmFqqOTTQ5cNT"
+      },
+      "artists": [
+        {
+          "name": "Sphinxa",
+          "url": "https://open.spotify.com/artist/6iTEnXh4upG3YW3yRfoiCj"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "recession",
+      "url": "https://open.spotify.com/track/7cayqs4BnxtUMuPfrj3if8"
     },
     {
       "album": {
@@ -4740,6 +4902,24 @@
     },
     {
       "album": {
+        "name": "Shaving My Soul",
+        "url": "https://open.spotify.com/album/1IWx9i8ikU7jDl1FPeamAQ"
+      },
+      "artists": [
+        {
+          "name": "Commie Banana",
+          "url": "https://open.spotify.com/artist/6j5kIcreX87MxiG6GyCV5Y"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156080,
+      "name": "Shaving My Soul",
+      "url": "https://open.spotify.com/track/0ws1igakuG95McJdPvWh2Z"
+    },
+    {
+      "album": {
         "name": "She\u00b4s fly",
         "url": "https://open.spotify.com/album/2EyfCQBUEYnfmBAJoUVKcT"
       },
@@ -4795,6 +4975,24 @@
       "duration_ms": 121846,
       "name": "Sleepy",
       "url": "https://open.spotify.com/track/72lefppJV4GNMzknCilJzd"
+    },
+    {
+      "album": {
+        "name": "slidetrue",
+        "url": "https://open.spotify.com/album/1AAdHgpindiS49ByNr2Js4"
+      },
+      "artists": [
+        {
+          "name": "slidetrue",
+          "url": "https://open.spotify.com/artist/4Oq8o8jhgkLjQ9NucCooSY"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128000,
+      "name": "slidetrue",
+      "url": "https://open.spotify.com/track/6cCO2dCy6CHt4III6cGep8"
     },
     {
       "album": {
@@ -5526,6 +5724,24 @@
     },
     {
       "album": {
+        "name": "Transparency",
+        "url": "https://open.spotify.com/album/624fKqZVSU5Ontdjnyfpa0"
+      },
+      "artists": [
+        {
+          "name": "People Safari",
+          "url": "https://open.spotify.com/artist/4iHmCfEwNugPXuVF2D523z"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142304,
+      "name": "Transparency",
+      "url": "https://open.spotify.com/track/4FITePahtXRtlC4VXbl7b2"
+    },
+    {
+      "album": {
         "name": "Tryin' - Chill House",
         "url": "https://open.spotify.com/album/7toIQ03j9CygKydoqvhzff"
       },
@@ -5945,6 +6161,24 @@
       "duration_ms": 107763,
       "name": "Why, Rose?",
       "url": "https://open.spotify.com/track/0gSirh7kcMYR6wkFkOyJ6y"
+    },
+    {
+      "album": {
+        "name": "Window in Time",
+        "url": "https://open.spotify.com/album/59rKbmjCHpwkGniq34qANA"
+      },
+      "artists": [
+        {
+          "name": "MC Baptiste",
+          "url": "https://open.spotify.com/artist/6JaDPnL6ur7OkTwD6wKyhL"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187699,
+      "name": "Window in Time",
+      "url": "https://open.spotify.com/track/45M34uxWB4RGb9Nh16luLs"
     },
     {
       "album": {

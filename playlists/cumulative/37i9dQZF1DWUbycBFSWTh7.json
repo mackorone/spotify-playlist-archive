@@ -958,6 +958,24 @@
     },
     {
       "album": {
+        "name": "Learn to Love",
+        "url": "https://open.spotify.com/album/7kI2zOz0wrsF9CZsbP0KD9"
+      },
+      "artists": [
+        {
+          "name": "Vesin",
+          "url": "https://open.spotify.com/artist/16bt4x9EfkHTAvJsaz9wh5"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302022,
+      "name": "Learn to Love",
+      "url": "https://open.spotify.com/track/6tyREpqBKbEfkUeYTlH4nX"
+    },
+    {
+      "album": {
         "name": "Lecture Day EP",
         "url": "https://open.spotify.com/album/07WAV8w7gtmYnvgBobXozj"
       },

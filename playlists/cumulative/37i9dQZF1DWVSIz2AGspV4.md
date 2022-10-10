@@ -2,7 +2,7 @@
 
 ### [عراقي جديد](https://open.spotify.com/playlist/37i9dQZF1DWVSIz2AGspV4)
 
-> احدث الاغاني العراقية\. غلاف: حسام الرسام
+> احدث الاغاني العراقية\. غلاف: محمد التركي
 
 159 songs - 9 hr 29 min - [published](https://open.spotify.com/playlist/2b4NEcjpEh5tkIFGfGPh1W)
 

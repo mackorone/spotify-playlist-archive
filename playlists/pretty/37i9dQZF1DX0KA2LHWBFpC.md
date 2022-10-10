@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KA2LHWBFpC.md) - [plain]
 
 > 11月11日\(金\)に公開される映画<a href="https://suzume\-tojimari\-movie.jp/">『すずめの戸締まり』</a>を記念して、新海誠監督作品を彩ってきた数多くの名曲をひとつのプレイリストにしました。 <a href="spotify:show:5nlDsmpul9enHhSHgkfPD5">音声版『聴く小説・すずめの戸締まり』</a>は平日毎日更新。 © 2022「すずめの戸締まり」製作委員会
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,324 likes - 30 songs - 1 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,368 likes - 30 songs - 1 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KA2LHWBFpC.md) - [plain]
 | 29 | [The voices of distant star \~PREVIEW\~](https://open.spotify.com/track/6oTgn5L290FDJfunuzRA3m) | [天門](https://open.spotify.com/artist/0dZaFaggaLMwGbMrO39KJJ) | [「ほしのこえ」SOUNDTRACK](https://open.spotify.com/album/7aADsc9Vj2R8ckH6ULg7hf) | 1:11 |
 | 30 | [Main Theme](https://open.spotify.com/track/2H1FBwAjqbTn8aEj65Xfd4) | [天門](https://open.spotify.com/artist/0dZaFaggaLMwGbMrO39KJJ) | [彼女と彼女の猫 SOUNDTRACKS](https://open.spotify.com/album/0IC4wHA2HkbqzZI6oxUcSJ) | 1:23 |
 
-Snapshot ID: `MTY2NDUyMTY2MSwwMDAwMDAwMGMxNWJlMTQyZTMxNGY1NDliMDFhNmMxNzAyNDZiOWZh`
+Snapshot ID: `MTY2NTExNTEwMSwwMDAwMDAwMGMzZjQzMTllN2VjOGM1YWZjMmJhNWNmMjQ1NGUwZTdh`

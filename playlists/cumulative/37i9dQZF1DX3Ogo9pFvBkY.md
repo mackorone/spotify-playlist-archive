@@ -4,7 +4,7 @@
 
 > Relax and unwind with chill, ambient music.
 
-683 songs - 1 day 12 hr 14 min - [published](https://open.spotify.com/playlist/4jfP2jJUFCxoSc7UvsCsbj)
+684 songs - 1 day 12 hr 16 min - [published](https://open.spotify.com/playlist/4jfP2jJUFCxoSc7UvsCsbj)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -554,6 +554,7 @@
 | [Soul Connect](https://open.spotify.com/track/1EVG8oKkYocWnjot9oPZHB) | [Elise Magnefold](https://open.spotify.com/artist/6NwzoAF59ghN7JuBvwHVex) | [Soul Connect](https://open.spotify.com/album/4CA9koIi5G0oRNLrPxv6UL) | 3:16 | 2021-09-29 |  |
 | [Soul Touch](https://open.spotify.com/track/7apRzgUmowaP3Xc0syvoa5) | [Steven Goldmund](https://open.spotify.com/artist/3dwkO7z23scCJppeqHGTy3) | [Integrating](https://open.spotify.com/album/2tPY3IAMnGDBKJevNL4iRi) | 4:06 | 2019-05-26\* | 2020-05-18 |
 | [Sparrow](https://open.spotify.com/track/7cIQ3Qr4DN5KvnUd1VbdNO) | [Momento](https://open.spotify.com/artist/2HD6u9F4pocPtFgmev72AK) | [Focus](https://open.spotify.com/album/1XysO46cLGEsyihFfPR9Gf) | 3:30 | 2019-05-26\* | 2020-01-03 |
+| [Spatial Dreams](https://open.spotify.com/track/16p2gXFq1tUMuid42TCahy) | [Daron Robson](https://open.spotify.com/artist/4vJc8H12qzSFspaOVcN1dN) | [Human Touch](https://open.spotify.com/album/2CpdACxBkLfHqXxMKXbIot) | 2:30 | 2022-10-07 |  |
 | [Spatsmanium](https://open.spotify.com/track/7jUjRQpX5NCXhOgwtW5J47) | [Ben Jinn](https://open.spotify.com/artist/40ZZSzRJe2W6JFoAGOcrfP) | [Spatsmanium](https://open.spotify.com/album/5sEk9boEfqnmH7i4h3DxEx) | 3:11 | 2021-07-01 |  |
 | [Sphere](https://open.spotify.com/track/07CcNtxvGbffdU6wrwmqKq) | [Jakob Ahlbom](https://open.spotify.com/artist/2VZTNKYLnhbnV3FwGJlp3K) | [Distant Echo](https://open.spotify.com/album/7fFn2jrNGSSr8HFXHXzV8y) | 3:20 | 2019-05-26\* | 2021-09-14 |
 | [Spirals](https://open.spotify.com/track/2V44hSJNBbay5Xsxm5isjy) | [Liwia Antas](https://open.spotify.com/artist/2vDjp8PFFifCgAE0MZkHap) | [Spirals](https://open.spotify.com/album/6mNT1NjK9v4rtENleh3QPO) | 4:02 | 2020-01-03 | 2022-08-24 |
@@ -680,7 +681,7 @@
 | [When Crickets Sing](https://open.spotify.com/track/0nXETrkCqANlPdWDDFmhCY) | [Mehdi Teyt & Rehla X](https://open.spotify.com/artist/0UfCWBHRcFM2ZqmnjkmJV9) | [Gentle Stream](https://open.spotify.com/album/2gBUn1kftYn7xkpvDfV70V) | 2:56 | 2019-12-07 | 2020-07-11 |
 | [Whispered Dreams](https://open.spotify.com/track/0wz1CgXFr0aSu1UzqEGG4C) | [El Ambiente](https://open.spotify.com/artist/65DwviFYxUr0wAh3Du1y2J) | [Whispered Dreams](https://open.spotify.com/album/4gGMNIuAR2JqtKBPIfiDYA) | 3:13 | 2022-09-13 |  |
 | [White Clouds](https://open.spotify.com/track/0oc8j70828V2wJgp7PIWEk) | [Night Sounds](https://open.spotify.com/artist/23t9fvBqS4kZ6aBANPfsb5) | [White Clouds](https://open.spotify.com/album/54uMaCxZWeMGRzGaOQSEUe) | 2:59 | 2020-01-09 |  |
-| [White Dove](https://open.spotify.com/track/0TXwtGVDlyxefhSQb8QCA3) | [TN2020](https://open.spotify.com/artist/5OhsS6nG8LaW0V6QtxIFr0) | [White Dove](https://open.spotify.com/album/3VxlCszbdAMtaEhlYRxFTY) | 3:30 | 2020-07-11 |  |
+| [White Dove](https://open.spotify.com/track/0TXwtGVDlyxefhSQb8QCA3) | [TN2020](https://open.spotify.com/artist/5OhsS6nG8LaW0V6QtxIFr0) | [White Dove](https://open.spotify.com/album/3VxlCszbdAMtaEhlYRxFTY) | 3:30 | 2020-07-11 | 2022-10-08 |
 | [White Noise](https://open.spotify.com/track/4bRFA518eVXt6aXvf4YLVU) | [M1ND](https://open.spotify.com/artist/3opgcftoLQXdBYFrwP8xoR) | [Highs and Lows](https://open.spotify.com/album/44b7dcLecGIDWRNzfMUQ3x) | 2:51 | 2020-01-03 | 2021-09-14 |
 | [White Waves](https://open.spotify.com/track/2IqOZtwGjYV9sko1NCzbKI) | [Cooper Sams](https://open.spotify.com/artist/5dQtzw5YaP9ZCMv0GWymws) | [White Waves](https://open.spotify.com/album/1Pe5dUn4lNyyrnqcPPbzOk) | 3:51 | 2019-05-26\* | 2020-05-18 |
 | [Wild Soul](https://open.spotify.com/track/0PSoQovKUDaVl7TBVGAmt4) | [The Aural Healer](https://open.spotify.com/artist/5aS55avvX9UAYN3LVTRwyr) | [Dream Catcher](https://open.spotify.com/album/3JTj8NXeqCzU8DzEbEgp1S) | 3:29 | 2019-05-26\* | 2020-05-18 |

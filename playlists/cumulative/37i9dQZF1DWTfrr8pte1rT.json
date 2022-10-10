@@ -497,7 +497,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-01",
+      "date_removed": null,
       "duration_ms": 173333,
       "name": "Blame It On Me",
       "url": "https://open.spotify.com/track/4v7GciNsOxRYSgkEsaFjn7"
@@ -1877,7 +1877,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 208016,
       "name": "Flatline",
       "url": "https://open.spotify.com/track/3mNMRpuv9V7DtVMVPh2saF"
@@ -2193,6 +2193,32 @@
       "duration_ms": 217394,
       "name": "Hearteater",
       "url": "https://open.spotify.com/track/6MOxVSR91hsELyBKwJPvPB"
+    },
+    {
+      "album": {
+        "name": "Here and Now",
+        "url": "https://open.spotify.com/album/2j446mPzcNYRgMqFZ3Kzsp"
+      },
+      "artists": [
+        {
+          "name": "YULTRON",
+          "url": "https://open.spotify.com/artist/3n2H1XlCyS1WQ0vyVUFEma"
+        },
+        {
+          "name": "Hot Laundry",
+          "url": "https://open.spotify.com/artist/0WzKbQgJdy366oUDAToP2x"
+        },
+        {
+          "name": "Jacob Lauing",
+          "url": "https://open.spotify.com/artist/0pg6TFVif7XPHoCxF35ngj"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205241,
+      "name": "Here and Now",
+      "url": "https://open.spotify.com/track/2f6x7QwXjRkCtKlY6eTsdu"
     },
     {
       "album": {
@@ -4293,7 +4319,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 226758,
       "name": "Someone Else",
       "url": "https://open.spotify.com/track/44MxUoeZg6FXDlHMrSbVjX"
@@ -4639,6 +4665,28 @@
       "duration_ms": 277555,
       "name": "The Change (feat. DMA\u2019S)",
       "url": "https://open.spotify.com/track/7wjAu7AeBQFDVhSXQQ4Ji5"
+    },
+    {
+      "album": {
+        "name": "The Dead March",
+        "url": "https://open.spotify.com/album/3FpZzHO2jDXRjMX2C9bxNU"
+      },
+      "artists": [
+        {
+          "name": "Sullivan King",
+          "url": "https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e"
+        },
+        {
+          "name": "Ray Volpe",
+          "url": "https://open.spotify.com/artist/2K9qsrYnsu1EWt7ZQkkuXb"
+        }
+      ],
+      "date_added": "2022-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162356,
+      "name": "The Dead March",
+      "url": "https://open.spotify.com/track/0eabdClGMPVwX7gJ8ilNke"
     },
     {
       "album": {
@@ -5027,7 +5075,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 204375,
       "name": "Venomous (feat. Spencer Charnas of Ice Nine Kills)",
       "url": "https://open.spotify.com/track/6my1SNH8U6TTT5S5vLOKVW"

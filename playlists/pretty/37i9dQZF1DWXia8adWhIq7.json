@@ -1,28 +1,28 @@
 {
-  "description": "Ou\u00e7a as novidades e sucessos do Pop Crist\u00e3o. Foto: Leidy Murilho",
-  "num_followers": 53256,
+  "description": "Ou\u00e7a as novidades e sucessos do Pop Crist\u00e3o. Foto: Gabriela Gomes",
+  "num_followers": 53613,
   "original_name": "Pop Gospel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTY3MjE3MCwwMDAwMDAwMDY3NmU5NGVlZGE5ODVhMzIxN2YzNGU1MzNjZjFjYjg2",
+  "snapshot_id": "MTY2NTEyMDI4MywwMDAwMDAwMDExMTJiZWRlNTNmODliNmY5NGFmMzUyNDhiYzYzNDky",
   "tracks": [
     {
       "added_at": "2022-08-05 04:02:50",
       "album": {
-        "name": "Por Completo",
-        "url": "https://open.spotify.com/album/0foeg5VyoAQBSmWf3JNCHx"
+        "name": "SL.27.4",
+        "url": "https://open.spotify.com/album/1dRT83wTKwey6FeWv177iy"
       },
       "artists": [
         {
-          "name": "Leidy Murilho",
-          "url": "https://open.spotify.com/artist/4tld50GNxSiqbzRGRi5nwv"
+          "name": "Gabriela Gomes",
+          "url": "https://open.spotify.com/artist/2e84TbIwlMbSgm1CO6chyE"
         }
       ],
-      "duration_ms": 212160,
-      "name": "Te Vejo L\u00e1",
-      "url": "https://open.spotify.com/track/1J3AyZHElKl8EDeXXdreJO"
+      "duration_ms": 237209,
+      "name": "Tudo",
+      "url": "https://open.spotify.com/track/5wbSVolmtQA6kodui95x40"
     },
     {
       "added_at": "2022-08-05 04:02:50",
@@ -99,22 +99,6 @@
     {
       "added_at": "2022-08-05 04:02:50",
       "album": {
-        "name": "Eu Vou",
-        "url": "https://open.spotify.com/album/4jYJAnAnJjxPwVPFWRdvVp"
-      },
-      "artists": [
-        {
-          "name": "Thiago Ramalho",
-          "url": "https://open.spotify.com/artist/5maeLmILKilfauXPQFcemJ"
-        }
-      ],
-      "duration_ms": 209664,
-      "name": "Eu Vou",
-      "url": "https://open.spotify.com/track/519QsRMwlkuirzde4fbtwr"
-    },
-    {
-      "added_at": "2022-08-05 04:02:50",
-      "album": {
         "name": "Eu Vou Correr",
         "url": "https://open.spotify.com/album/5SG58E8VnndS1SkrpGn3X8"
       },
@@ -131,22 +115,18 @@
     {
       "added_at": "2022-08-05 04:02:50",
       "album": {
-        "name": "Dono dos Meus Dias",
-        "url": "https://open.spotify.com/album/0nklO7xX9T6fnQuDqzMPJU"
+        "name": "Eu Vou",
+        "url": "https://open.spotify.com/album/4jYJAnAnJjxPwVPFWRdvVp"
       },
       "artists": [
         {
-          "name": "Daniela Ara\u00fajo",
-          "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
-        },
-        {
-          "name": "Isadora Pompeo",
-          "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
+          "name": "Thiago Ramalho",
+          "url": "https://open.spotify.com/artist/5maeLmILKilfauXPQFcemJ"
         }
       ],
-      "duration_ms": 239946,
-      "name": "Dono dos Meus Dias",
-      "url": "https://open.spotify.com/track/4DqMjreua66sH84GbccttX"
+      "duration_ms": 209664,
+      "name": "Eu Vou",
+      "url": "https://open.spotify.com/track/519QsRMwlkuirzde4fbtwr"
     },
     {
       "added_at": "2022-08-05 04:02:50",
@@ -167,18 +147,22 @@
     {
       "added_at": "2022-08-05 04:02:50",
       "album": {
-        "name": "Resultado",
-        "url": "https://open.spotify.com/album/3Yon9LyJOWdwpwDcoDCvaH"
+        "name": "Dono dos Meus Dias",
+        "url": "https://open.spotify.com/album/0nklO7xX9T6fnQuDqzMPJU"
       },
       "artists": [
+        {
+          "name": "Daniela Ara\u00fajo",
+          "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
+        },
         {
           "name": "Isadora Pompeo",
           "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
         }
       ],
-      "duration_ms": 200453,
-      "name": "Resultado",
-      "url": "https://open.spotify.com/track/7aBQQ6sJixQFZCuC3HPVHI"
+      "duration_ms": 239946,
+      "name": "Dono dos Meus Dias",
+      "url": "https://open.spotify.com/track/4DqMjreua66sH84GbccttX"
     },
     {
       "added_at": "2022-08-05 04:02:50",
@@ -259,6 +243,22 @@
     {
       "added_at": "2022-08-05 04:02:50",
       "album": {
+        "name": "Resultado",
+        "url": "https://open.spotify.com/album/3Yon9LyJOWdwpwDcoDCvaH"
+      },
+      "artists": [
+        {
+          "name": "Isadora Pompeo",
+          "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
+        }
+      ],
+      "duration_ms": 200453,
+      "name": "Resultado",
+      "url": "https://open.spotify.com/track/7aBQQ6sJixQFZCuC3HPVHI"
+    },
+    {
+      "added_at": "2022-08-05 04:02:50",
+      "album": {
         "name": "Sopro de Deus",
         "url": "https://open.spotify.com/album/7bKnZnhZYll8ysyoeofg1c"
       },
@@ -275,38 +275,6 @@
       "duration_ms": 261290,
       "name": "Sopro de Deus",
       "url": "https://open.spotify.com/track/1gDFq8cOSG6NLTCxdrF6p6"
-    },
-    {
-      "added_at": "2022-08-05 04:02:50",
-      "album": {
-        "name": "Tens o Meu Sim",
-        "url": "https://open.spotify.com/album/57Fxlm00hYPsdzsaFYfUfx"
-      },
-      "artists": [
-        {
-          "name": "Amanda Dutra",
-          "url": "https://open.spotify.com/artist/7cgQz3P8pAb9fEAr33Apo1"
-        }
-      ],
-      "duration_ms": 224000,
-      "name": "Tens o Meu Sim",
-      "url": "https://open.spotify.com/track/2VW8ntuRL6gWNyhQ1tJmCQ"
-    },
-    {
-      "added_at": "2022-08-05 04:02:50",
-      "album": {
-        "name": "SOCORRO",
-        "url": "https://open.spotify.com/album/0SlvlaBGd8P2dZ9hcKmHyU"
-      },
-      "artists": [
-        {
-          "name": "Rebeca Carvalho",
-          "url": "https://open.spotify.com/artist/7ejjZWVYdXuGjkLsUPW4xL"
-        }
-      ],
-      "duration_ms": 245744,
-      "name": "SOCORRO",
-      "url": "https://open.spotify.com/track/5M2v0sO51o9nbXzsCqVt9D"
     },
     {
       "added_at": "2022-08-05 04:02:50",
@@ -331,34 +299,34 @@
     {
       "added_at": "2022-08-05 04:02:50",
       "album": {
-        "name": "Tranquilo",
-        "url": "https://open.spotify.com/album/6a6l1rcXkDIgEeXynqIrxy"
+        "name": "Por Completo",
+        "url": "https://open.spotify.com/album/0foeg5VyoAQBSmWf3JNCHx"
       },
       "artists": [
         {
-          "name": "Isadora Pompeo",
-          "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
+          "name": "Leidy Murilho",
+          "url": "https://open.spotify.com/artist/4tld50GNxSiqbzRGRi5nwv"
         }
       ],
-      "duration_ms": 240697,
-      "name": "Tranquilo",
-      "url": "https://open.spotify.com/track/6RknNslwpjiHMgO4nKBgsQ"
+      "duration_ms": 212160,
+      "name": "Te Vejo L\u00e1",
+      "url": "https://open.spotify.com/track/1J3AyZHElKl8EDeXXdreJO"
     },
     {
       "added_at": "2022-08-05 04:02:50",
       "album": {
-        "name": "Voc\u00ea Por Perto",
-        "url": "https://open.spotify.com/album/3B8bR2QhFW5k2VUFmcMCew"
+        "name": "Tens o Meu Sim",
+        "url": "https://open.spotify.com/album/57Fxlm00hYPsdzsaFYfUfx"
       },
       "artists": [
         {
-          "name": "Amanda Loyola",
-          "url": "https://open.spotify.com/artist/4VKcPBViTvYJyYpI6qb2Al"
+          "name": "Amanda Dutra",
+          "url": "https://open.spotify.com/artist/7cgQz3P8pAb9fEAr33Apo1"
         }
       ],
-      "duration_ms": 231679,
-      "name": "Voc\u00ea Por Perto",
-      "url": "https://open.spotify.com/track/796SV74nPB0puKX8HFMFs9"
+      "duration_ms": 224000,
+      "name": "Tens o Meu Sim",
+      "url": "https://open.spotify.com/track/2VW8ntuRL6gWNyhQ1tJmCQ"
     },
     {
       "added_at": "2022-08-05 04:02:50",
@@ -379,6 +347,54 @@
     {
       "added_at": "2022-08-05 04:02:50",
       "album": {
+        "name": "Voc\u00ea Por Perto",
+        "url": "https://open.spotify.com/album/3B8bR2QhFW5k2VUFmcMCew"
+      },
+      "artists": [
+        {
+          "name": "Amanda Loyola",
+          "url": "https://open.spotify.com/artist/4VKcPBViTvYJyYpI6qb2Al"
+        }
+      ],
+      "duration_ms": 231679,
+      "name": "Voc\u00ea Por Perto",
+      "url": "https://open.spotify.com/track/796SV74nPB0puKX8HFMFs9"
+    },
+    {
+      "added_at": "2022-08-05 04:02:50",
+      "album": {
+        "name": "SOCORRO",
+        "url": "https://open.spotify.com/album/0SlvlaBGd8P2dZ9hcKmHyU"
+      },
+      "artists": [
+        {
+          "name": "Rebeca Carvalho",
+          "url": "https://open.spotify.com/artist/7ejjZWVYdXuGjkLsUPW4xL"
+        }
+      ],
+      "duration_ms": 245744,
+      "name": "SOCORRO",
+      "url": "https://open.spotify.com/track/5M2v0sO51o9nbXzsCqVt9D"
+    },
+    {
+      "added_at": "2022-08-05 04:02:50",
+      "album": {
+        "name": "Tranquilo",
+        "url": "https://open.spotify.com/album/6a6l1rcXkDIgEeXynqIrxy"
+      },
+      "artists": [
+        {
+          "name": "Isadora Pompeo",
+          "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
+        }
+      ],
+      "duration_ms": 240697,
+      "name": "Tranquilo",
+      "url": "https://open.spotify.com/track/6RknNslwpjiHMgO4nKBgsQ"
+    },
+    {
+      "added_at": "2022-08-05 04:02:50",
+      "album": {
         "name": "Pequenas Coisas",
         "url": "https://open.spotify.com/album/13OgPKKENrLrisf9GFKDGQ"
       },
@@ -391,22 +407,6 @@
       "duration_ms": 159119,
       "name": "Pequenas Coisas",
       "url": "https://open.spotify.com/track/336AL4KrdFPQdKpV34cmWe"
-    },
-    {
-      "added_at": "2022-08-05 04:02:50",
-      "album": {
-        "name": "SL.27.4",
-        "url": "https://open.spotify.com/album/1dRT83wTKwey6FeWv177iy"
-      },
-      "artists": [
-        {
-          "name": "Gabriela Gomes",
-          "url": "https://open.spotify.com/artist/2e84TbIwlMbSgm1CO6chyE"
-        }
-      ],
-      "duration_ms": 237209,
-      "name": "Tudo",
-      "url": "https://open.spotify.com/track/5wbSVolmtQA6kodui95x40"
     },
     {
       "added_at": "2022-08-05 04:02:50",
@@ -427,38 +427,6 @@
     {
       "added_at": "2022-08-05 04:02:50",
       "album": {
-        "name": "Teu Reino Venha",
-        "url": "https://open.spotify.com/album/7AXrbAIoCbiI3ixrnLcCWw"
-      },
-      "artists": [
-        {
-          "name": "Cord\u00e3o de Tr\u00eas",
-          "url": "https://open.spotify.com/artist/7KsRO9uCI003Ks8wBTTy88"
-        }
-      ],
-      "duration_ms": 222103,
-      "name": "Teu Reino Venha",
-      "url": "https://open.spotify.com/track/2xYtgaVWlSpUBDq8BoAynx"
-    },
-    {
-      "added_at": "2022-08-05 04:02:50",
-      "album": {
-        "name": "Epifania",
-        "url": "https://open.spotify.com/album/55tRKqircj6qHHB3tzMrGr"
-      },
-      "artists": [
-        {
-          "name": "Clovis",
-          "url": "https://open.spotify.com/artist/703PFYg5UbYSaUKry9NWhF"
-        }
-      ],
-      "duration_ms": 281775,
-      "name": "Eu N\u00e3o Sei Viver Sem Deus",
-      "url": "https://open.spotify.com/track/4Qv4gxwa4xeQQ2K3wHItrR"
-    },
-    {
-      "added_at": "2022-08-05 04:02:50",
-      "album": {
         "name": "Vida Leve",
         "url": "https://open.spotify.com/album/08ujgEoWflIBTXaf0T5XUl"
       },
@@ -471,6 +439,22 @@
       "duration_ms": 176417,
       "name": "Vida Leve",
       "url": "https://open.spotify.com/track/7jb65juKqmYcQg5qXhJSVw"
+    },
+    {
+      "added_at": "2022-08-05 04:02:50",
+      "album": {
+        "name": "Teu Reino Venha",
+        "url": "https://open.spotify.com/album/7AXrbAIoCbiI3ixrnLcCWw"
+      },
+      "artists": [
+        {
+          "name": "Cord\u00e3o de Tr\u00eas",
+          "url": "https://open.spotify.com/artist/7KsRO9uCI003Ks8wBTTy88"
+        }
+      ],
+      "duration_ms": 222103,
+      "name": "Teu Reino Venha",
+      "url": "https://open.spotify.com/track/2xYtgaVWlSpUBDq8BoAynx"
     },
     {
       "added_at": "2022-08-05 04:02:50",
@@ -507,22 +491,18 @@
     {
       "added_at": "2022-08-05 04:02:50",
       "album": {
-        "name": "Levanto um Aleluia",
-        "url": "https://open.spotify.com/album/5ICoXgfFN4Xr7viHJg0A4U"
+        "name": "Epifania",
+        "url": "https://open.spotify.com/album/55tRKqircj6qHHB3tzMrGr"
       },
       "artists": [
         {
-          "name": "Anna Fernandes",
-          "url": "https://open.spotify.com/artist/3XM89NsDdkXwh8y9Sfsy6H"
-        },
-        {
-          "name": "Eli Soares",
-          "url": "https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V"
+          "name": "Clovis",
+          "url": "https://open.spotify.com/artist/703PFYg5UbYSaUKry9NWhF"
         }
       ],
-      "duration_ms": 233261,
-      "name": "Levanto um Aleluia",
-      "url": "https://open.spotify.com/track/7D9DSnpESw53koPAgzk3kS"
+      "duration_ms": 281775,
+      "name": "Eu N\u00e3o Sei Viver Sem Deus",
+      "url": "https://open.spotify.com/track/4Qv4gxwa4xeQQ2K3wHItrR"
     },
     {
       "added_at": "2022-08-05 04:02:50",
@@ -543,38 +523,22 @@
     {
       "added_at": "2022-08-05 04:02:50",
       "album": {
-        "name": "Apenas Can\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/7JfcTaZohCXrarbXMox1Cg"
+        "name": "Levanto um Aleluia",
+        "url": "https://open.spotify.com/album/5ICoXgfFN4Xr7viHJg0A4U"
       },
       "artists": [
         {
-          "name": "Patricia Romania",
-          "url": "https://open.spotify.com/artist/0ffURL6H2AXKNqc2yvTN5K"
+          "name": "Anna Fernandes",
+          "url": "https://open.spotify.com/artist/3XM89NsDdkXwh8y9Sfsy6H"
         },
         {
-          "name": "Delino Mar\u00e7al",
-          "url": "https://open.spotify.com/artist/0MGbmpBm2Gzvy6ENd9D1qv"
+          "name": "Eli Soares",
+          "url": "https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V"
         }
       ],
-      "duration_ms": 266020,
-      "name": "Apenas Can\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/43ZMXD6nz8fDresDGJWcFV"
-    },
-    {
-      "added_at": "2022-08-05 04:02:50",
-      "album": {
-        "name": "Voc\u00ea Acredita?",
-        "url": "https://open.spotify.com/album/2iYsPUuXs2GPQwUksocbBa"
-      },
-      "artists": [
-        {
-          "name": "Clovis",
-          "url": "https://open.spotify.com/artist/703PFYg5UbYSaUKry9NWhF"
-        }
-      ],
-      "duration_ms": 194623,
-      "name": "Voc\u00ea Acredita?",
-      "url": "https://open.spotify.com/track/1HJ0nfxiaOGKewT5banSjb"
+      "duration_ms": 233261,
+      "name": "Levanto um Aleluia",
+      "url": "https://open.spotify.com/track/7D9DSnpESw53koPAgzk3kS"
     },
     {
       "added_at": "2022-08-05 04:02:50",
@@ -595,18 +559,22 @@
     {
       "added_at": "2022-08-05 04:02:50",
       "album": {
-        "name": "Pai Nosso",
-        "url": "https://open.spotify.com/album/2CunA6PC2Oxb5fRjaX4Kcl"
+        "name": "Apenas Can\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/7JfcTaZohCXrarbXMox1Cg"
       },
       "artists": [
         {
-          "name": "Welcson",
-          "url": "https://open.spotify.com/artist/24KBFgKuNtKpvYdxm5CAqN"
+          "name": "Patricia Romania",
+          "url": "https://open.spotify.com/artist/0ffURL6H2AXKNqc2yvTN5K"
+        },
+        {
+          "name": "Delino Mar\u00e7al",
+          "url": "https://open.spotify.com/artist/0MGbmpBm2Gzvy6ENd9D1qv"
         }
       ],
-      "duration_ms": 261200,
-      "name": "Pai Nosso - Our Father",
-      "url": "https://open.spotify.com/track/5UcxW6kkmh1wkhkxFRzqOp"
+      "duration_ms": 266020,
+      "name": "Apenas Can\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/43ZMXD6nz8fDresDGJWcFV"
     },
     {
       "added_at": "2022-08-05 04:02:50",
@@ -647,6 +615,22 @@
     {
       "added_at": "2022-08-05 04:02:50",
       "album": {
+        "name": "Voc\u00ea Acredita?",
+        "url": "https://open.spotify.com/album/2iYsPUuXs2GPQwUksocbBa"
+      },
+      "artists": [
+        {
+          "name": "Clovis",
+          "url": "https://open.spotify.com/artist/703PFYg5UbYSaUKry9NWhF"
+        }
+      ],
+      "duration_ms": 194623,
+      "name": "Voc\u00ea Acredita?",
+      "url": "https://open.spotify.com/track/1HJ0nfxiaOGKewT5banSjb"
+    },
+    {
+      "added_at": "2022-08-05 04:02:50",
+      "album": {
         "name": "Daqui pra Frente",
         "url": "https://open.spotify.com/album/2XgO11b1fJWeunYCiggbqv"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 271631,
       "name": "Daqui pra Frente",
       "url": "https://open.spotify.com/track/5TWHfJt1ViGzfNDOmNVPTT"
+    },
+    {
+      "added_at": "2022-08-05 04:02:50",
+      "album": {
+        "name": "Pai Nosso",
+        "url": "https://open.spotify.com/album/2CunA6PC2Oxb5fRjaX4Kcl"
+      },
+      "artists": [
+        {
+          "name": "Welcson",
+          "url": "https://open.spotify.com/artist/24KBFgKuNtKpvYdxm5CAqN"
+        }
+      ],
+      "duration_ms": 261200,
+      "name": "Pai Nosso - Our Father",
+      "url": "https://open.spotify.com/track/5UcxW6kkmh1wkhkxFRzqOp"
     },
     {
       "added_at": "2022-08-05 04:02:50",
@@ -759,6 +759,22 @@
     {
       "added_at": "2022-08-05 04:02:50",
       "album": {
+        "name": "Asas",
+        "url": "https://open.spotify.com/album/0t6Y2mC822PeB4CI3bvFwC"
+      },
+      "artists": [
+        {
+          "name": "Daniela Ara\u00fajo",
+          "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
+        }
+      ],
+      "duration_ms": 217941,
+      "name": "Asas",
+      "url": "https://open.spotify.com/track/19bV8Y5dqrDUNgV2uCV69Q"
+    },
+    {
+      "added_at": "2022-08-05 04:02:50",
+      "album": {
         "name": "Agora",
         "url": "https://open.spotify.com/album/4U92cEpwlKPbTOc1lwImMn"
       },
@@ -779,22 +795,6 @@
       "duration_ms": 196093,
       "name": "Agora",
       "url": "https://open.spotify.com/track/5EewDYykR42DHWCcRh2wO2"
-    },
-    {
-      "added_at": "2022-08-05 04:02:50",
-      "album": {
-        "name": "Tua Gra\u00e7a",
-        "url": "https://open.spotify.com/album/3HrKiqGRAM85QQNtH81ywu"
-      },
-      "artists": [
-        {
-          "name": "Carol Aguiar",
-          "url": "https://open.spotify.com/artist/6UWc0mUbFhZyW5VZbY2w4m"
-        }
-      ],
-      "duration_ms": 235997,
-      "name": "Tua Gra\u00e7a",
-      "url": "https://open.spotify.com/track/0CzdBHBIMdChN40eKy9fbP"
     },
     {
       "added_at": "2022-08-05 04:02:50",
@@ -823,18 +823,34 @@
     {
       "added_at": "2022-08-05 04:02:50",
       "album": {
-        "name": "Asas",
-        "url": "https://open.spotify.com/album/0t6Y2mC822PeB4CI3bvFwC"
+        "name": "Te Vejo",
+        "url": "https://open.spotify.com/album/4F5ccF1Z6aw4YHXvHZkohv"
       },
       "artists": [
         {
-          "name": "Daniela Ara\u00fajo",
-          "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
+          "name": "Hadassah Perez",
+          "url": "https://open.spotify.com/artist/0xGcz3etCHBOf6ZmZB6YAb"
         }
       ],
-      "duration_ms": 217941,
-      "name": "Asas",
-      "url": "https://open.spotify.com/track/19bV8Y5dqrDUNgV2uCV69Q"
+      "duration_ms": 210125,
+      "name": "Te Vejo",
+      "url": "https://open.spotify.com/track/6CS88lKEQ0A7xvGqL0r5Z1"
+    },
+    {
+      "added_at": "2022-08-05 04:02:50",
+      "album": {
+        "name": "Sabe Tudo",
+        "url": "https://open.spotify.com/album/0Ud02xzVUjRVeLL7gHiEyt"
+      },
+      "artists": [
+        {
+          "name": "Leidy Murilho",
+          "url": "https://open.spotify.com/artist/4tld50GNxSiqbzRGRi5nwv"
+        }
+      ],
+      "duration_ms": 193388,
+      "name": "Sabe Tudo",
+      "url": "https://open.spotify.com/track/0QAelR36l8kKZjccUbJ6ah"
     },
     {
       "added_at": "2022-08-05 04:02:50",
@@ -851,6 +867,26 @@
       "duration_ms": 165954,
       "name": "Plano B",
       "url": "https://open.spotify.com/track/3aYe9vkyWX31Z39LpvMh2x"
+    },
+    {
+      "added_at": "2022-08-05 04:02:50",
+      "album": {
+        "name": "Epifania",
+        "url": "https://open.spotify.com/album/55tRKqircj6qHHB3tzMrGr"
+      },
+      "artists": [
+        {
+          "name": "Clovis",
+          "url": "https://open.spotify.com/artist/703PFYg5UbYSaUKry9NWhF"
+        },
+        {
+          "name": "Daniela Ara\u00fajo",
+          "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
+        }
+      ],
+      "duration_ms": 207667,
+      "name": "A Chave",
+      "url": "https://open.spotify.com/track/6kk7NYRUwebj54yAHZWU7j"
     },
     {
       "added_at": "2022-08-05 04:02:50",
@@ -879,18 +915,18 @@
     {
       "added_at": "2022-08-05 04:02:50",
       "album": {
-        "name": "Sabe Tudo",
-        "url": "https://open.spotify.com/album/0Ud02xzVUjRVeLL7gHiEyt"
+        "name": "Tua Gra\u00e7a",
+        "url": "https://open.spotify.com/album/3HrKiqGRAM85QQNtH81ywu"
       },
       "artists": [
         {
-          "name": "Leidy Murilho",
-          "url": "https://open.spotify.com/artist/4tld50GNxSiqbzRGRi5nwv"
+          "name": "Carol Aguiar",
+          "url": "https://open.spotify.com/artist/6UWc0mUbFhZyW5VZbY2w4m"
         }
       ],
-      "duration_ms": 193388,
-      "name": "Sabe Tudo",
-      "url": "https://open.spotify.com/track/0QAelR36l8kKZjccUbJ6ah"
+      "duration_ms": 235997,
+      "name": "Tua Gra\u00e7a",
+      "url": "https://open.spotify.com/track/0CzdBHBIMdChN40eKy9fbP"
     },
     {
       "added_at": "2022-08-05 04:02:50",
@@ -911,38 +947,18 @@
     {
       "added_at": "2022-08-05 04:02:50",
       "album": {
-        "name": "Te Vejo",
-        "url": "https://open.spotify.com/album/4F5ccF1Z6aw4YHXvHZkohv"
+        "name": "Crescer",
+        "url": "https://open.spotify.com/album/7eodR01E7NwsvSRIm0JY9T"
       },
       "artists": [
         {
-          "name": "Hadassah Perez",
-          "url": "https://open.spotify.com/artist/0xGcz3etCHBOf6ZmZB6YAb"
+          "name": "Paulo Cesar Baruk",
+          "url": "https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD"
         }
       ],
-      "duration_ms": 210125,
-      "name": "Te Vejo",
-      "url": "https://open.spotify.com/track/6CS88lKEQ0A7xvGqL0r5Z1"
-    },
-    {
-      "added_at": "2022-08-05 04:02:50",
-      "album": {
-        "name": "Epifania",
-        "url": "https://open.spotify.com/album/55tRKqircj6qHHB3tzMrGr"
-      },
-      "artists": [
-        {
-          "name": "Clovis",
-          "url": "https://open.spotify.com/artist/703PFYg5UbYSaUKry9NWhF"
-        },
-        {
-          "name": "Daniela Ara\u00fajo",
-          "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
-        }
-      ],
-      "duration_ms": 207667,
-      "name": "A Chave",
-      "url": "https://open.spotify.com/track/6kk7NYRUwebj54yAHZWU7j"
+      "duration_ms": 237244,
+      "name": "Crescer",
+      "url": "https://open.spotify.com/track/2rzHjYk44JJAeg0qiWx5us"
     },
     {
       "added_at": "2022-08-05 04:02:50",
@@ -963,18 +979,22 @@
     {
       "added_at": "2022-08-05 04:02:50",
       "album": {
-        "name": "Crescer",
-        "url": "https://open.spotify.com/album/7eodR01E7NwsvSRIm0JY9T"
+        "name": "Leve",
+        "url": "https://open.spotify.com/album/6aTANRPCMqRssjccxkYExE"
       },
       "artists": [
         {
-          "name": "Paulo Cesar Baruk",
-          "url": "https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD"
+          "name": "Lagoinha Music",
+          "url": "https://open.spotify.com/artist/2zU9KvRIyqKppyGRam4lhG"
+        },
+        {
+          "name": "Samuel Mizrahy",
+          "url": "https://open.spotify.com/artist/5KjzizwcrrTujTyKJjmyC7"
         }
       ],
-      "duration_ms": 237244,
-      "name": "Crescer",
-      "url": "https://open.spotify.com/track/2rzHjYk44JJAeg0qiWx5us"
+      "duration_ms": 204173,
+      "name": "Leve",
+      "url": "https://open.spotify.com/track/6NEBjm4QrmQB4chfVfQLdj"
     },
     {
       "added_at": "2022-08-05 04:02:50",
@@ -995,22 +1015,6 @@
       "duration_ms": 314622,
       "name": "Neste Lugar",
       "url": "https://open.spotify.com/track/64rFHVKbXxm2xzFbkjIZ6d"
-    },
-    {
-      "added_at": "2022-08-05 04:02:50",
-      "album": {
-        "name": "Rota",
-        "url": "https://open.spotify.com/album/4YeDhdeWBJCA9CyQytxhoH"
-      },
-      "artists": [
-        {
-          "name": "Isabella Lopes",
-          "url": "https://open.spotify.com/artist/4Anc0OS4S3ZOLk295QoHds"
-        }
-      ],
-      "duration_ms": 196032,
-      "name": "Rota",
-      "url": "https://open.spotify.com/track/2ce659MS4j8MCjpebtgcL4"
     },
     {
       "added_at": "2022-08-05 04:02:50",
@@ -1047,6 +1051,22 @@
       "duration_ms": 230208,
       "name": "Mostra-Me Tua Gl\u00f3ria",
       "url": "https://open.spotify.com/track/4lpmXAuqiQ3h69eIzQ57lQ"
+    },
+    {
+      "added_at": "2022-08-05 04:02:50",
+      "album": {
+        "name": "Rota",
+        "url": "https://open.spotify.com/album/4YeDhdeWBJCA9CyQytxhoH"
+      },
+      "artists": [
+        {
+          "name": "Isabella Lopes",
+          "url": "https://open.spotify.com/artist/4Anc0OS4S3ZOLk295QoHds"
+        }
+      ],
+      "duration_ms": 196032,
+      "name": "Rota",
+      "url": "https://open.spotify.com/track/2ce659MS4j8MCjpebtgcL4"
     },
     {
       "added_at": "2022-08-05 04:02:50",
@@ -1099,22 +1119,6 @@
     {
       "added_at": "2022-08-05 04:02:50",
       "album": {
-        "name": "Sinal de Aviso",
-        "url": "https://open.spotify.com/album/0b9NRTT6BnPxZXrdW7CBZI"
-      },
-      "artists": [
-        {
-          "name": "Duo Franco",
-          "url": "https://open.spotify.com/artist/0rnMMhoMmFkyFZe4dNY29b"
-        }
-      ],
-      "duration_ms": 195422,
-      "name": "Sinal de Aviso",
-      "url": "https://open.spotify.com/track/5PY2MOXyMqxtEhrWQyiQkj"
-    },
-    {
-      "added_at": "2022-08-05 04:02:50",
-      "album": {
         "name": "Azul do C\u00e9u",
         "url": "https://open.spotify.com/album/68akHXeQKYnjTELPGdV2JI"
       },
@@ -1135,34 +1139,18 @@
     {
       "added_at": "2022-08-05 04:02:50",
       "album": {
-        "name": "Vem Com Teu Esp\u00edrito",
-        "url": "https://open.spotify.com/album/2Zci8Uw9pwTctGoaorDbVj"
+        "name": "Sinal de Aviso",
+        "url": "https://open.spotify.com/album/0b9NRTT6BnPxZXrdW7CBZI"
       },
       "artists": [
         {
-          "name": "Tomatti",
-          "url": "https://open.spotify.com/artist/6QSaldbCVLPl1QYQFYALrR"
+          "name": "Duo Franco",
+          "url": "https://open.spotify.com/artist/0rnMMhoMmFkyFZe4dNY29b"
         }
       ],
-      "duration_ms": 168990,
-      "name": "Vem Com Teu Esp\u00edrito",
-      "url": "https://open.spotify.com/track/5eLUik7N6bsWvQ2rKPA7xz"
-    },
-    {
-      "added_at": "2022-08-05 04:02:50",
-      "album": {
-        "name": "Batida",
-        "url": "https://open.spotify.com/album/7997L9t3OvtVovg51EsNNm"
-      },
-      "artists": [
-        {
-          "name": "Silas Magalh\u00e3es",
-          "url": "https://open.spotify.com/artist/4XEgyepPNaJ86gsPESPAg5"
-        }
-      ],
-      "duration_ms": 244539,
-      "name": "Batida",
-      "url": "https://open.spotify.com/track/0ijEZW5pIhMu0mDaQdPArX"
+      "duration_ms": 195422,
+      "name": "Sinal de Aviso",
+      "url": "https://open.spotify.com/track/5PY2MOXyMqxtEhrWQyiQkj"
     },
     {
       "added_at": "2022-08-05 04:02:50",
@@ -1179,46 +1167,6 @@
       "duration_ms": 194034,
       "name": "Teus Rios",
       "url": "https://open.spotify.com/track/34EF4hF2gVbSWiTbTXTaPv"
-    },
-    {
-      "added_at": "2022-08-05 04:02:50",
-      "album": {
-        "name": "Leve",
-        "url": "https://open.spotify.com/album/6aTANRPCMqRssjccxkYExE"
-      },
-      "artists": [
-        {
-          "name": "Lagoinha Music",
-          "url": "https://open.spotify.com/artist/2zU9KvRIyqKppyGRam4lhG"
-        },
-        {
-          "name": "Samuel Mizrahy",
-          "url": "https://open.spotify.com/artist/5KjzizwcrrTujTyKJjmyC7"
-        }
-      ],
-      "duration_ms": 204173,
-      "name": "Leve",
-      "url": "https://open.spotify.com/track/6NEBjm4QrmQB4chfVfQLdj"
-    },
-    {
-      "added_at": "2022-08-05 04:02:50",
-      "album": {
-        "name": "Teu Calor",
-        "url": "https://open.spotify.com/album/3vPE8PhgjRTYSJATjYDRNm"
-      },
-      "artists": [
-        {
-          "name": "Thais Castro",
-          "url": "https://open.spotify.com/artist/2niScuDrXnzm3VrBdmVIwF"
-        },
-        {
-          "name": "Duo Franco",
-          "url": "https://open.spotify.com/artist/0rnMMhoMmFkyFZe4dNY29b"
-        }
-      ],
-      "duration_ms": 224000,
-      "name": "Teu Calor",
-      "url": "https://open.spotify.com/track/4VCJzN8CnPPyRtzfYaWtIT"
     },
     {
       "added_at": "2022-08-05 04:02:50",
@@ -1255,6 +1203,26 @@
     {
       "added_at": "2022-08-05 04:02:50",
       "album": {
+        "name": "Teu Calor",
+        "url": "https://open.spotify.com/album/3vPE8PhgjRTYSJATjYDRNm"
+      },
+      "artists": [
+        {
+          "name": "Thais Castro",
+          "url": "https://open.spotify.com/artist/2niScuDrXnzm3VrBdmVIwF"
+        },
+        {
+          "name": "Duo Franco",
+          "url": "https://open.spotify.com/artist/0rnMMhoMmFkyFZe4dNY29b"
+        }
+      ],
+      "duration_ms": 224000,
+      "name": "Teu Calor",
+      "url": "https://open.spotify.com/track/4VCJzN8CnPPyRtzfYaWtIT"
+    },
+    {
+      "added_at": "2022-08-05 04:02:50",
+      "album": {
         "name": "Me Chamar de Filho",
         "url": "https://open.spotify.com/album/59m8L5x58ZYO2j2pimCJrM"
       },
@@ -1267,6 +1235,38 @@
       "duration_ms": 187565,
       "name": "Me Chamar de Filho",
       "url": "https://open.spotify.com/track/6wJEeDU8gqDrX4yw2ggmo0"
+    },
+    {
+      "added_at": "2022-08-05 04:02:50",
+      "album": {
+        "name": "Batida",
+        "url": "https://open.spotify.com/album/7997L9t3OvtVovg51EsNNm"
+      },
+      "artists": [
+        {
+          "name": "Silas Magalh\u00e3es",
+          "url": "https://open.spotify.com/artist/4XEgyepPNaJ86gsPESPAg5"
+        }
+      ],
+      "duration_ms": 244539,
+      "name": "Batida",
+      "url": "https://open.spotify.com/track/0ijEZW5pIhMu0mDaQdPArX"
+    },
+    {
+      "added_at": "2022-08-05 04:02:50",
+      "album": {
+        "name": "GPS",
+        "url": "https://open.spotify.com/album/0RP1BkkknVO5bYYSUMjp2b"
+      },
+      "artists": [
+        {
+          "name": "Ana Gabriela",
+          "url": "https://open.spotify.com/artist/1lIUn0y4rx85uawdgAHzjF"
+        }
+      ],
+      "duration_ms": 215057,
+      "name": "GPS",
+      "url": "https://open.spotify.com/track/41o7R8todwMq1U9SEhSgB9"
     },
     {
       "added_at": "2022-08-05 04:02:50",
@@ -1299,6 +1299,22 @@
     {
       "added_at": "2022-08-05 04:02:50",
       "album": {
+        "name": "Manuscrito",
+        "url": "https://open.spotify.com/album/4sQnOzkB97HBeG2AmYMGLB"
+      },
+      "artists": [
+        {
+          "name": "JARDENYA",
+          "url": "https://open.spotify.com/artist/7qpTv7VDYeg2EwHrDjln66"
+        }
+      ],
+      "duration_ms": 223111,
+      "name": "Manuscrito",
+      "url": "https://open.spotify.com/track/2ramZL8iUXXFgSbgZZ3Tiu"
+    },
+    {
+      "added_at": "2022-08-05 04:02:50",
+      "album": {
         "name": "Amado",
         "url": "https://open.spotify.com/album/373Qpp1O7HijqwAIMNO8VE"
       },
@@ -1319,22 +1335,6 @@
     {
       "added_at": "2022-08-05 04:02:50",
       "album": {
-        "name": "GPS",
-        "url": "https://open.spotify.com/album/0RP1BkkknVO5bYYSUMjp2b"
-      },
-      "artists": [
-        {
-          "name": "Ana Gabriela",
-          "url": "https://open.spotify.com/artist/1lIUn0y4rx85uawdgAHzjF"
-        }
-      ],
-      "duration_ms": 215057,
-      "name": "GPS",
-      "url": "https://open.spotify.com/track/41o7R8todwMq1U9SEhSgB9"
-    },
-    {
-      "added_at": "2022-08-05 04:02:50",
-      "album": {
         "name": "Teu Calor (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/7gvDYalsG1qogowfBLJ2zY"
       },
@@ -1351,22 +1351,6 @@
       "duration_ms": 224083,
       "name": "Teu Calor - Ac\u00fastico",
       "url": "https://open.spotify.com/track/4N6ShFZEd74fQWyZejZGUS"
-    },
-    {
-      "added_at": "2022-08-05 04:02:50",
-      "album": {
-        "name": "Manuscrito",
-        "url": "https://open.spotify.com/album/4sQnOzkB97HBeG2AmYMGLB"
-      },
-      "artists": [
-        {
-          "name": "JARDENYA",
-          "url": "https://open.spotify.com/artist/7qpTv7VDYeg2EwHrDjln66"
-        }
-      ],
-      "duration_ms": 223111,
-      "name": "Manuscrito",
-      "url": "https://open.spotify.com/track/2ramZL8iUXXFgSbgZZ3Tiu"
     },
     {
       "added_at": "2022-08-05 04:02:50",
@@ -1399,6 +1383,22 @@
       "duration_ms": 186947,
       "name": "Eu S\u00f3 Pe\u00e7o a Deus",
       "url": "https://open.spotify.com/track/0YbWUvV9EpeAQEwMfryios"
+    },
+    {
+      "added_at": "2022-10-10 01:31:34",
+      "album": {
+        "name": "Ao Que \u00c9 At\u00e9 Meu \u00daltimo Suspiro",
+        "url": "https://open.spotify.com/album/47jB9qef9k3HiK5elsfhQj"
+      },
+      "artists": [
+        {
+          "name": "Tamara Pyller",
+          "url": "https://open.spotify.com/artist/20vcBBOWdZLyUo297CcBGO"
+        }
+      ],
+      "duration_ms": 223042,
+      "name": "Amor Maior",
+      "url": "https://open.spotify.com/track/6NaE0m9L89zJ8uO6nfySvx"
     },
     {
       "added_at": "2022-08-05 04:02:50",

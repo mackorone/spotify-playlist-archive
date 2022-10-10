@@ -1,12 +1,12 @@
 {
   "description": "Dip your feet in the pool and enjoy this perfect summer house mix!",
-  "num_followers": 339832,
+  "num_followers": 340573,
   "original_name": "Summer House 2022",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDUzOTc5NSwwMDAwMDAwMDdhNDVlMzFiMTE5OWMxOTM4Y2JhMWJmN2Q2NzZhOTFi",
+  "snapshot_id": "MTY2NDUzOTc5NSwwMDAwMDAwMGVmY2YyZWZhYTI4NDI5NjNmODRkNDE1ODA2ZTBjOGYz",
   "tracks": [
     {
       "added_at": "2022-09-30 12:09:55",
@@ -371,26 +371,6 @@
     {
       "added_at": "2022-09-30 12:09:55",
       "album": {
-        "name": "Bloom",
-        "url": "https://open.spotify.com/album/1Po5dB5KhCrqfvg7ViH7aB"
-      },
-      "artists": [
-        {
-          "name": "Lucas Estrada",
-          "url": "https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz"
-        },
-        {
-          "name": "TWOPILOTS",
-          "url": "https://open.spotify.com/artist/6tV2P2SciHytsSDufKr57B"
-        }
-      ],
-      "duration_ms": 179428,
-      "name": "Bloom",
-      "url": "https://open.spotify.com/track/4hHvZD1pcvG8rxUkhau6Is"
-    },
-    {
-      "added_at": "2022-09-30 12:09:55",
-      "album": {
         "name": "Diplo",
         "url": "https://open.spotify.com/album/5pdR4YX2zWMXotdF034UYY"
       },
@@ -407,6 +387,26 @@
       "duration_ms": 199090,
       "name": "Don't Forget My Love",
       "url": "https://open.spotify.com/track/22pjmqZq2oTZtEThEt66Zn"
+    },
+    {
+      "added_at": "2022-09-30 12:09:55",
+      "album": {
+        "name": "Bloom",
+        "url": "https://open.spotify.com/album/1Po5dB5KhCrqfvg7ViH7aB"
+      },
+      "artists": [
+        {
+          "name": "Lucas Estrada",
+          "url": "https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz"
+        },
+        {
+          "name": "TWOPILOTS",
+          "url": "https://open.spotify.com/artist/6tV2P2SciHytsSDufKr57B"
+        }
+      ],
+      "duration_ms": 179428,
+      "name": "Bloom",
+      "url": "https://open.spotify.com/track/4hHvZD1pcvG8rxUkhau6Is"
     },
     {
       "added_at": "2022-09-30 12:09:55",
@@ -447,22 +447,18 @@
     {
       "added_at": "2022-09-30 12:09:55",
       "album": {
-        "name": "Tears In Ibiza (feat. AR/CO)",
-        "url": "https://open.spotify.com/album/3j1gIUlWUvy3ihysDQUYpg"
+        "name": "Closer To You",
+        "url": "https://open.spotify.com/album/7406FZf3JxgLG19sskEfsG"
       },
       "artists": [
         {
-          "name": "The Stickmen Project",
-          "url": "https://open.spotify.com/artist/13wroZC00C9ix8fUR0JvaY"
-        },
-        {
-          "name": "AR/CO",
-          "url": "https://open.spotify.com/artist/7mGI9Sd66FqHjIkwzkgbG7"
+          "name": "Lucas Nord",
+          "url": "https://open.spotify.com/artist/4ZUg3IUvAPAl8coXQAxaXd"
         }
       ],
-      "duration_ms": 143579,
-      "name": "Tears In Ibiza (feat. AR/CO)",
-      "url": "https://open.spotify.com/track/7A0xA68c4NiTvbWWAsIsoN"
+      "duration_ms": 166456,
+      "name": "Closer To You",
+      "url": "https://open.spotify.com/track/09CanZmO6paS3VIPtoVJsh"
     },
     {
       "added_at": "2022-09-30 12:09:55",
@@ -499,38 +495,22 @@
     {
       "added_at": "2022-09-30 12:09:55",
       "album": {
-        "name": "Closer To You",
-        "url": "https://open.spotify.com/album/7406FZf3JxgLG19sskEfsG"
+        "name": "Tears In Ibiza (feat. AR/CO)",
+        "url": "https://open.spotify.com/album/3j1gIUlWUvy3ihysDQUYpg"
       },
       "artists": [
         {
-          "name": "Lucas Nord",
-          "url": "https://open.spotify.com/artist/4ZUg3IUvAPAl8coXQAxaXd"
-        }
-      ],
-      "duration_ms": 166456,
-      "name": "Closer To You",
-      "url": "https://open.spotify.com/track/09CanZmO6paS3VIPtoVJsh"
-    },
-    {
-      "added_at": "2022-09-30 12:09:55",
-      "album": {
-        "name": "Pyramids",
-        "url": "https://open.spotify.com/album/6fKnjZO8LRYLNjEBGLb9LG"
-      },
-      "artists": [
-        {
-          "name": "Otto Knows",
-          "url": "https://open.spotify.com/artist/5fahUm8t5c0GIdeTq0ZaG8"
+          "name": "The Stickmen Project",
+          "url": "https://open.spotify.com/artist/13wroZC00C9ix8fUR0JvaY"
         },
         {
-          "name": "Alex Aris",
-          "url": "https://open.spotify.com/artist/7J7YzKnvAyEmHCg7LGWW0G"
+          "name": "AR/CO",
+          "url": "https://open.spotify.com/artist/7mGI9Sd66FqHjIkwzkgbG7"
         }
       ],
-      "duration_ms": 232682,
-      "name": "Pyramids",
-      "url": "https://open.spotify.com/track/5d3Wbdgw3zIf8B5eGXznLL"
+      "duration_ms": 143579,
+      "name": "Tears In Ibiza (feat. AR/CO)",
+      "url": "https://open.spotify.com/track/7A0xA68c4NiTvbWWAsIsoN"
     },
     {
       "added_at": "2022-09-30 12:09:55",
@@ -551,6 +531,26 @@
       "duration_ms": 242000,
       "name": "Mirror",
       "url": "https://open.spotify.com/track/3uRAxz8ic40d9IuNe8fnsb"
+    },
+    {
+      "added_at": "2022-09-30 12:09:55",
+      "album": {
+        "name": "Pyramids",
+        "url": "https://open.spotify.com/album/6fKnjZO8LRYLNjEBGLb9LG"
+      },
+      "artists": [
+        {
+          "name": "Otto Knows",
+          "url": "https://open.spotify.com/artist/5fahUm8t5c0GIdeTq0ZaG8"
+        },
+        {
+          "name": "Alex Aris",
+          "url": "https://open.spotify.com/artist/7J7YzKnvAyEmHCg7LGWW0G"
+        }
+      ],
+      "duration_ms": 232682,
+      "name": "Pyramids",
+      "url": "https://open.spotify.com/track/5d3Wbdgw3zIf8B5eGXznLL"
     },
     {
       "added_at": "2022-09-30 12:09:55",
@@ -619,6 +619,30 @@
     {
       "added_at": "2022-09-30 12:09:55",
       "album": {
+        "name": "Home",
+        "url": "https://open.spotify.com/album/5w3vUnEpFqhgvTUmTwoBbR"
+      },
+      "artists": [
+        {
+          "name": "Jewels",
+          "url": "https://open.spotify.com/artist/4C9H5Lat1NEZasl8MQHvtB"
+        },
+        {
+          "name": "Discrete",
+          "url": "https://open.spotify.com/artist/7arwEayqcKWkzDmGEB7xov"
+        },
+        {
+          "name": "Tudor",
+          "url": "https://open.spotify.com/artist/6YPmhC6xckfcUiw4undxAb"
+        }
+      ],
+      "duration_ms": 225088,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/58W6OdSaSsRDcMQYdC2SB5"
+    },
+    {
+      "added_at": "2022-09-30 12:09:55",
+      "album": {
         "name": "Body on Fire",
         "url": "https://open.spotify.com/album/4sK64oC4oTFy2tCA18ktl9"
       },
@@ -667,30 +691,6 @@
     {
       "added_at": "2022-09-30 12:09:55",
       "album": {
-        "name": "Home",
-        "url": "https://open.spotify.com/album/5w3vUnEpFqhgvTUmTwoBbR"
-      },
-      "artists": [
-        {
-          "name": "Jewels",
-          "url": "https://open.spotify.com/artist/4C9H5Lat1NEZasl8MQHvtB"
-        },
-        {
-          "name": "Discrete",
-          "url": "https://open.spotify.com/artist/7arwEayqcKWkzDmGEB7xov"
-        },
-        {
-          "name": "Tudor",
-          "url": "https://open.spotify.com/artist/6YPmhC6xckfcUiw4undxAb"
-        }
-      ],
-      "duration_ms": 225088,
-      "name": "Home",
-      "url": "https://open.spotify.com/track/58W6OdSaSsRDcMQYdC2SB5"
-    },
-    {
-      "added_at": "2022-09-30 12:09:55",
-      "album": {
         "name": "This Love",
         "url": "https://open.spotify.com/album/1zMyK6lBwXheSrJkRlwb9o"
       },
@@ -707,6 +707,26 @@
       "duration_ms": 235763,
       "name": "This Love",
       "url": "https://open.spotify.com/track/2PviJnruGMviJLMtNgFgSD"
+    },
+    {
+      "added_at": "2022-09-30 12:09:55",
+      "album": {
+        "name": "Forever And A Day",
+        "url": "https://open.spotify.com/album/36WARq51pYeQO75a2YNjaj"
+      },
+      "artists": [
+        {
+          "name": "LP Giobbi",
+          "url": "https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J"
+        },
+        {
+          "name": "Caroline Byrne",
+          "url": "https://open.spotify.com/artist/2tVd9Bpt5Li9UsmKwhJ1nG"
+        }
+      ],
+      "duration_ms": 166230,
+      "name": "Forever And A Day",
+      "url": "https://open.spotify.com/track/5o1mS67lEoLCeFobGIaNb2"
     },
     {
       "added_at": "2022-09-30 12:09:55",
@@ -731,22 +751,6 @@
     {
       "added_at": "2022-09-30 12:09:55",
       "album": {
-        "name": "Moonlight",
-        "url": "https://open.spotify.com/album/4GU0ggvEBJ6RuoSjNuFM3l"
-      },
-      "artists": [
-        {
-          "name": "Thunder",
-          "url": "https://open.spotify.com/artist/0LnP8n2mREw2UvRL00TJqt"
-        }
-      ],
-      "duration_ms": 127433,
-      "name": "Moonlight",
-      "url": "https://open.spotify.com/track/5ycuH4IVcbiubxosObIPhw"
-    },
-    {
-      "added_at": "2022-09-30 12:09:55",
-      "album": {
         "name": "Ibiza",
         "url": "https://open.spotify.com/album/55UbwPK8mr7bSv1Qm0X1uC"
       },
@@ -759,46 +763,6 @@
       "duration_ms": 145833,
       "name": "Ibiza",
       "url": "https://open.spotify.com/track/3dQkixAA0EprLAfta5lw2S"
-    },
-    {
-      "added_at": "2022-09-30 12:09:55",
-      "album": {
-        "name": "Face To Face",
-        "url": "https://open.spotify.com/album/5RpzJv0gRYNNstJ092JcGg"
-      },
-      "artists": [
-        {
-          "name": "Don Diablo",
-          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
-        },
-        {
-          "name": "WATTS",
-          "url": "https://open.spotify.com/artist/4B3aifxHtpcKHuNi12lmSt"
-        }
-      ],
-      "duration_ms": 216666,
-      "name": "Face To Face",
-      "url": "https://open.spotify.com/track/28pyXNW0jwILn3SZ0zIzJc"
-    },
-    {
-      "added_at": "2022-09-30 12:09:55",
-      "album": {
-        "name": "Forever And A Day",
-        "url": "https://open.spotify.com/album/36WARq51pYeQO75a2YNjaj"
-      },
-      "artists": [
-        {
-          "name": "LP Giobbi",
-          "url": "https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J"
-        },
-        {
-          "name": "Caroline Byrne",
-          "url": "https://open.spotify.com/artist/2tVd9Bpt5Li9UsmKwhJ1nG"
-        }
-      ],
-      "duration_ms": 166230,
-      "name": "Forever And A Day",
-      "url": "https://open.spotify.com/track/5o1mS67lEoLCeFobGIaNb2"
     },
     {
       "added_at": "2022-09-30 12:09:55",
@@ -827,6 +791,42 @@
       "duration_ms": 177637,
       "name": "Forget About Me",
       "url": "https://open.spotify.com/track/6EafRI0UtUidrZbbKpFRYq"
+    },
+    {
+      "added_at": "2022-09-30 12:09:55",
+      "album": {
+        "name": "Moonlight",
+        "url": "https://open.spotify.com/album/4GU0ggvEBJ6RuoSjNuFM3l"
+      },
+      "artists": [
+        {
+          "name": "Thunder",
+          "url": "https://open.spotify.com/artist/0LnP8n2mREw2UvRL00TJqt"
+        }
+      ],
+      "duration_ms": 127433,
+      "name": "Moonlight",
+      "url": "https://open.spotify.com/track/5ycuH4IVcbiubxosObIPhw"
+    },
+    {
+      "added_at": "2022-09-30 12:09:55",
+      "album": {
+        "name": "Face To Face",
+        "url": "https://open.spotify.com/album/5RpzJv0gRYNNstJ092JcGg"
+      },
+      "artists": [
+        {
+          "name": "Don Diablo",
+          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
+        },
+        {
+          "name": "WATTS",
+          "url": "https://open.spotify.com/artist/4B3aifxHtpcKHuNi12lmSt"
+        }
+      ],
+      "duration_ms": 216666,
+      "name": "Face To Face",
+      "url": "https://open.spotify.com/track/28pyXNW0jwILn3SZ0zIzJc"
     },
     {
       "added_at": "2022-09-30 12:09:55",
@@ -871,6 +871,26 @@
     {
       "added_at": "2022-09-30 12:09:55",
       "album": {
+        "name": "Daydreamer",
+        "url": "https://open.spotify.com/album/6B9sxNotNmncxGEPcFzjrF"
+      },
+      "artists": [
+        {
+          "name": "KC Lights",
+          "url": "https://open.spotify.com/artist/0bUZrFj7rstq07E4iAJHgZ"
+        },
+        {
+          "name": "Leo Stannard",
+          "url": "https://open.spotify.com/artist/37fzXndf2fxVrk7qarhyo0"
+        }
+      ],
+      "duration_ms": 160403,
+      "name": "Daydreamer",
+      "url": "https://open.spotify.com/track/3660k2kZKOFOFS8Cv6DkJy"
+    },
+    {
+      "added_at": "2022-09-30 12:09:55",
+      "album": {
         "name": "Tulum",
         "url": "https://open.spotify.com/album/7DumTW0espT5WuAGKnMBLp"
       },
@@ -911,22 +931,18 @@
     {
       "added_at": "2022-09-30 12:09:55",
       "album": {
-        "name": "Daydreamer",
-        "url": "https://open.spotify.com/album/6B9sxNotNmncxGEPcFzjrF"
+        "name": "Back 2 U",
+        "url": "https://open.spotify.com/album/4b9pbSew5hwaGri6KZ6ZBM"
       },
       "artists": [
         {
-          "name": "KC Lights",
-          "url": "https://open.spotify.com/artist/0bUZrFj7rstq07E4iAJHgZ"
-        },
-        {
-          "name": "Leo Stannard",
-          "url": "https://open.spotify.com/artist/37fzXndf2fxVrk7qarhyo0"
+          "name": "Scott Rill",
+          "url": "https://open.spotify.com/artist/7dNg7OLrxcWU9cVe3sQoMV"
         }
       ],
-      "duration_ms": 160403,
-      "name": "Daydreamer",
-      "url": "https://open.spotify.com/track/3660k2kZKOFOFS8Cv6DkJy"
+      "duration_ms": 160168,
+      "name": "Back 2 U",
+      "url": "https://open.spotify.com/track/3lrQX2YbeXOmnMvtAu30iB"
     },
     {
       "added_at": "2022-09-30 12:09:55",
@@ -951,38 +967,6 @@
     {
       "added_at": "2022-09-30 12:09:55",
       "album": {
-        "name": "Back 2 U",
-        "url": "https://open.spotify.com/album/4b9pbSew5hwaGri6KZ6ZBM"
-      },
-      "artists": [
-        {
-          "name": "Scott Rill",
-          "url": "https://open.spotify.com/artist/7dNg7OLrxcWU9cVe3sQoMV"
-        }
-      ],
-      "duration_ms": 160168,
-      "name": "Back 2 U",
-      "url": "https://open.spotify.com/track/3lrQX2YbeXOmnMvtAu30iB"
-    },
-    {
-      "added_at": "2022-09-30 12:09:55",
-      "album": {
-        "name": "I Feel Fine",
-        "url": "https://open.spotify.com/album/32fuBZ59NFOdFcjAC9m6A7"
-      },
-      "artists": [
-        {
-          "name": "Klangkarussell",
-          "url": "https://open.spotify.com/artist/041iTeoMIwXMlShuQPIVKo"
-        }
-      ],
-      "duration_ms": 198200,
-      "name": "I Feel Fine",
-      "url": "https://open.spotify.com/track/265bwW6oJeDfm04EPElVQv"
-    },
-    {
-      "added_at": "2022-09-30 12:09:55",
-      "album": {
         "name": "Human",
         "url": "https://open.spotify.com/album/7kvzygcfZ2c2ndMxhi92uo"
       },
@@ -1003,6 +987,22 @@
     {
       "added_at": "2022-09-30 12:09:55",
       "album": {
+        "name": "I Feel Fine",
+        "url": "https://open.spotify.com/album/32fuBZ59NFOdFcjAC9m6A7"
+      },
+      "artists": [
+        {
+          "name": "Klangkarussell",
+          "url": "https://open.spotify.com/artist/041iTeoMIwXMlShuQPIVKo"
+        }
+      ],
+      "duration_ms": 198200,
+      "name": "I Feel Fine",
+      "url": "https://open.spotify.com/track/265bwW6oJeDfm04EPElVQv"
+    },
+    {
+      "added_at": "2022-09-30 12:09:55",
+      "album": {
         "name": "Dream Dimension",
         "url": "https://open.spotify.com/album/3TIcSrROV3PLNVq5rMMlWJ"
       },
@@ -1015,26 +1015,6 @@
       "duration_ms": 220000,
       "name": "High Tide",
       "url": "https://open.spotify.com/track/4PkWff16v14sACvFBrKtI0"
-    },
-    {
-      "added_at": "2022-09-30 12:09:55",
-      "album": {
-        "name": "Sun Is Shining",
-        "url": "https://open.spotify.com/album/0W5Q4QB5XqFJZbd2ZhCfWK"
-      },
-      "artists": [
-        {
-          "name": "Bob Marley & The Wailers",
-          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
-        },
-        {
-          "name": "Robin Schulz",
-          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
-        }
-      ],
-      "duration_ms": 185000,
-      "name": "Sun Is Shining",
-      "url": "https://open.spotify.com/track/48xPlyqrp76RSwJirihTHo"
     },
     {
       "added_at": "2022-09-30 12:09:55",
@@ -1063,42 +1043,6 @@
     {
       "added_at": "2022-09-30 12:09:55",
       "album": {
-        "name": "Waiting",
-        "url": "https://open.spotify.com/album/0KL9SoyKme5QJ19m2IgR64"
-      },
-      "artists": [
-        {
-          "name": "Moonkids",
-          "url": "https://open.spotify.com/artist/2OozlR5HfAAp7LwPmOxcsm"
-        }
-      ],
-      "duration_ms": 159153,
-      "name": "Waiting",
-      "url": "https://open.spotify.com/track/1HnFqtNMbrUrkbRUxRD3Sl"
-    },
-    {
-      "added_at": "2022-09-30 12:09:55",
-      "album": {
-        "name": "Still Love You",
-        "url": "https://open.spotify.com/album/5Q80IrelKfhPp0z63gXfV0"
-      },
-      "artists": [
-        {
-          "name": "JAS1X",
-          "url": "https://open.spotify.com/artist/1gE67JBAV50qI94fX4nz3F"
-        },
-        {
-          "name": "fuse.",
-          "url": "https://open.spotify.com/artist/7yLOR62W5h5j5Y4M8nHnAY"
-        }
-      ],
-      "duration_ms": 195499,
-      "name": "Still Love You",
-      "url": "https://open.spotify.com/track/057SolKingTw6AEgBL7q9r"
-    },
-    {
-      "added_at": "2022-09-30 12:09:55",
-      "album": {
         "name": "Ani Kuni",
         "url": "https://open.spotify.com/album/225g0HM8FJAep14tN7H7aA"
       },
@@ -1115,42 +1059,58 @@
     {
       "added_at": "2022-09-30 12:09:55",
       "album": {
-        "name": "Rooftop in Amsterdam",
-        "url": "https://open.spotify.com/album/6WJP5GynkcMG3RRuOxn9KI"
+        "name": "Sun Is Shining",
+        "url": "https://open.spotify.com/album/0W5Q4QB5XqFJZbd2ZhCfWK"
       },
       "artists": [
         {
-          "name": "Zwette",
-          "url": "https://open.spotify.com/artist/6J2749jPHYhAZUq79rsNi0"
+          "name": "Bob Marley & The Wailers",
+          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
         },
         {
-          "name": "Alex Hosking",
-          "url": "https://open.spotify.com/artist/5YCU9eHY4IYTyNa8XRFuw9"
+          "name": "Robin Schulz",
+          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
         }
       ],
-      "duration_ms": 181217,
-      "name": "Rooftop in Amsterdam",
-      "url": "https://open.spotify.com/track/4n2YcXCH9G4TeCzAGyHWzw"
+      "duration_ms": 185000,
+      "name": "Sun Is Shining",
+      "url": "https://open.spotify.com/track/48xPlyqrp76RSwJirihTHo"
     },
     {
       "added_at": "2022-09-30 12:09:55",
       "album": {
-        "name": "Waves (feat. Grace Tither)",
-        "url": "https://open.spotify.com/album/2IYPZalD9Rc91KERQfYIaf"
+        "name": "Hold This Memory",
+        "url": "https://open.spotify.com/album/7G39pVt7Ed3PTkC0tHw7QG"
       },
       "artists": [
         {
-          "name": "BLOND:ISH",
-          "url": "https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR"
+          "name": "Deepend",
+          "url": "https://open.spotify.com/artist/0uGApGjjFXKwUOAqYBeX7B"
         },
         {
-          "name": "Grace Tither",
-          "url": "https://open.spotify.com/artist/0W2uPY2bPqyGxEYBJUuHfa"
+          "name": "Madism",
+          "url": "https://open.spotify.com/artist/5UUdxfBMwm0hLlLgnZtBFv"
         }
       ],
-      "duration_ms": 202501,
-      "name": "Waves (feat. Grace Tither)",
-      "url": "https://open.spotify.com/track/6ymVxYG0UHqIjXmclbE1cu"
+      "duration_ms": 160071,
+      "name": "Hold This Memory",
+      "url": "https://open.spotify.com/track/21VnSlwtvNKUFFHHKqt7fI"
+    },
+    {
+      "added_at": "2022-09-30 12:09:55",
+      "album": {
+        "name": "Waiting",
+        "url": "https://open.spotify.com/album/0KL9SoyKme5QJ19m2IgR64"
+      },
+      "artists": [
+        {
+          "name": "Moonkids",
+          "url": "https://open.spotify.com/artist/2OozlR5HfAAp7LwPmOxcsm"
+        }
+      ],
+      "duration_ms": 159153,
+      "name": "Waiting",
+      "url": "https://open.spotify.com/track/1HnFqtNMbrUrkbRUxRD3Sl"
     },
     {
       "added_at": "2022-09-30 12:09:55",
@@ -1179,22 +1139,62 @@
     {
       "added_at": "2022-09-30 12:09:55",
       "album": {
-        "name": "Green Green Grass (Majestic Remix)",
-        "url": "https://open.spotify.com/album/3kWWCohWkatO0uyYxXTQas"
+        "name": "Still Love You",
+        "url": "https://open.spotify.com/album/5Q80IrelKfhPp0z63gXfV0"
       },
       "artists": [
         {
-          "name": "George Ezra",
-          "url": "https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j"
+          "name": "JAS1X",
+          "url": "https://open.spotify.com/artist/1gE67JBAV50qI94fX4nz3F"
         },
         {
-          "name": "Majestic",
-          "url": "https://open.spotify.com/artist/6QMABvTzixnxzsLYyhqRxI"
+          "name": "fuse.",
+          "url": "https://open.spotify.com/artist/7yLOR62W5h5j5Y4M8nHnAY"
         }
       ],
-      "duration_ms": 191700,
-      "name": "Green Green Grass - Majestic Remix",
-      "url": "https://open.spotify.com/track/5HQrESmLNtomQpoVALIVuJ"
+      "duration_ms": 195499,
+      "name": "Still Love You",
+      "url": "https://open.spotify.com/track/057SolKingTw6AEgBL7q9r"
+    },
+    {
+      "added_at": "2022-09-30 12:09:55",
+      "album": {
+        "name": "Waves (feat. Grace Tither)",
+        "url": "https://open.spotify.com/album/2IYPZalD9Rc91KERQfYIaf"
+      },
+      "artists": [
+        {
+          "name": "BLOND:ISH",
+          "url": "https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR"
+        },
+        {
+          "name": "Grace Tither",
+          "url": "https://open.spotify.com/artist/0W2uPY2bPqyGxEYBJUuHfa"
+        }
+      ],
+      "duration_ms": 202501,
+      "name": "Waves (feat. Grace Tither)",
+      "url": "https://open.spotify.com/track/6ymVxYG0UHqIjXmclbE1cu"
+    },
+    {
+      "added_at": "2022-09-30 12:09:55",
+      "album": {
+        "name": "Rooftop in Amsterdam",
+        "url": "https://open.spotify.com/album/6WJP5GynkcMG3RRuOxn9KI"
+      },
+      "artists": [
+        {
+          "name": "Zwette",
+          "url": "https://open.spotify.com/artist/6J2749jPHYhAZUq79rsNi0"
+        },
+        {
+          "name": "Alex Hosking",
+          "url": "https://open.spotify.com/artist/5YCU9eHY4IYTyNa8XRFuw9"
+        }
+      ],
+      "duration_ms": 181217,
+      "name": "Rooftop in Amsterdam",
+      "url": "https://open.spotify.com/track/4n2YcXCH9G4TeCzAGyHWzw"
     }
   ],
   "unique_name": "Summer House 2022",

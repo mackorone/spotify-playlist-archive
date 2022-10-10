@@ -869,7 +869,7 @@
     {
       "album": {
         "name": "Solo Recordings, Vol. 3",
-        "url": "https://open.spotify.com/album/7s0ssvbmHNrMUA1z2TTp5k"
+        "url": "https://open.spotify.com/album/30Ww7ImwchFWThx0qTrhHa"
       },
       "artists": [
         {
@@ -880,6 +880,24 @@
       "date_added": "2020-08-11",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 297848,
+      "name": "Going Down the Road Feeling Bad",
+      "url": "https://open.spotify.com/track/2sTHsK8xaGGg7PRLiSnhhY"
+    },
+    {
+      "album": {
+        "name": "Solo Recordings, Vol. 3",
+        "url": "https://open.spotify.com/album/7s0ssvbmHNrMUA1z2TTp5k"
+      },
+      "artists": [
+        {
+          "name": "Steve Hill",
+          "url": "https://open.spotify.com/artist/2f1hLQKsXGmF9rxdrq6Jt4"
+        }
+      ],
+      "date_added": "2020-08-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-06",
       "duration_ms": 297880,
       "name": "Going Down the Road Feeling Bad",
       "url": "https://open.spotify.com/track/0GKIy4nMb4mclMsgsSoAsw"
@@ -2245,10 +2263,28 @@
       ],
       "date_added": "2020-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-06",
       "duration_ms": 206492,
       "name": "Slowly Slipping Away",
       "url": "https://open.spotify.com/track/2esnC3sEMqLfQvF4qaCJfA"
+    },
+    {
+      "album": {
+        "name": "Solo Recordings, Vol. 3",
+        "url": "https://open.spotify.com/album/30Ww7ImwchFWThx0qTrhHa"
+      },
+      "artists": [
+        {
+          "name": "Steve Hill",
+          "url": "https://open.spotify.com/artist/2f1hLQKsXGmF9rxdrq6Jt4"
+        }
+      ],
+      "date_added": "2020-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207547,
+      "name": "Slowly Slipping Away",
+      "url": "https://open.spotify.com/track/0IdWFitNfPCkUKSRfufc6C"
     },
     {
       "album": {

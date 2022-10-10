@@ -1,13 +1,49 @@
 {
-  "description": "New music breaking waves.  Cover: MAVI",
-  "num_followers": 19367,
+  "description": "New music breaking waves.  Cover: SHABOOZEY",
+  "num_followers": 19574,
   "original_name": "Ripple Effect",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDUxMDgyNiwwMDAwMDAwMGI3OGRkZDM1MjAxNTIxZmYzZmVmYjUzMTZlZmJmZGMy",
+  "snapshot_id": "MTY2NTExNTIwMCwwMDAwMDAwMDI4MWYzZTFhNWQ2NjMxNDc3MzBlODk5NGYwOGQ4NGFk",
   "tracks": [
+    {
+      "added_at": "2022-10-07 04:00:00",
+      "album": {
+        "name": "Cowboys Live Forever, Outlaws Never Die",
+        "url": "https://open.spotify.com/album/3QEQeBF0NJ5BvvPY8lyWsP"
+      },
+      "artists": [
+        {
+          "name": "Shaboozey",
+          "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
+        }
+      ],
+      "duration_ms": 144807,
+      "name": "Snake",
+      "url": "https://open.spotify.com/track/6QRDewZDz4f9CJEasgWZKt"
+    },
+    {
+      "added_at": "2022-10-07 04:00:00",
+      "album": {
+        "name": "IDC",
+        "url": "https://open.spotify.com/album/6uIzsp3chN2DLPSA6IW0fI"
+      },
+      "artists": [
+        {
+          "name": "Jordan Ward",
+          "url": "https://open.spotify.com/artist/3DGlTwdM5Dim9XQipb3jMf"
+        },
+        {
+          "name": "Joony",
+          "url": "https://open.spotify.com/artist/0gY0jm6QAzJCAslmZC3T35"
+        }
+      ],
+      "duration_ms": 112666,
+      "name": "IDC",
+      "url": "https://open.spotify.com/track/7dXLivL0wsQhxq9D9eIfDr"
+    },
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
@@ -95,6 +131,22 @@
       "duration_ms": 196122,
       "name": "If You Must Go",
       "url": "https://open.spotify.com/track/7l5t0qNaHHMUOWgIrnJ4ft"
+    },
+    {
+      "added_at": "2022-10-07 04:00:00",
+      "album": {
+        "name": "All Over This Party",
+        "url": "https://open.spotify.com/album/4ofp2cEcuD3oelw7Qp3ooz"
+      },
+      "artists": [
+        {
+          "name": "Sans Soucis",
+          "url": "https://open.spotify.com/artist/4vXFvvWirlvTwcl184KfDc"
+        }
+      ],
+      "duration_ms": 212830,
+      "name": "All Over This Party",
+      "url": "https://open.spotify.com/track/4Wbfb7B6ke5nJZUHX0P7mk"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -827,62 +879,6 @@
       "duration_ms": 149231,
       "name": "Ain't Going Back",
       "url": "https://open.spotify.com/track/1Iot1CYAcasgCDUxndVt7D"
-    },
-    {
-      "added_at": "2022-06-24 04:35:01",
-      "album": {
-        "name": "Hell Shot",
-        "url": "https://open.spotify.com/album/5kaqmOQfV1eGTaN0md4Jt4"
-      },
-      "artists": [
-        {
-          "name": "Thouxanbanfauni",
-          "url": "https://open.spotify.com/artist/1O8X4zxUh4AdAPFttOTlLr"
-        },
-        {
-          "name": "Robb Bank$",
-          "url": "https://open.spotify.com/artist/7KduBCxhfAMiQlhMOHL3IZ"
-        }
-      ],
-      "duration_ms": 208901,
-      "name": "Hell Shot",
-      "url": "https://open.spotify.com/track/60Yi5Vxd5oFcuIxXuerCSU"
-    },
-    {
-      "added_at": "2022-06-24 04:35:01",
-      "album": {
-        "name": "HAHA (feat. Pusha T)",
-        "url": "https://open.spotify.com/album/01dfvcwL8PhZ9IDlzjBO4M"
-      },
-      "artists": [
-        {
-          "name": "Al-Doms",
-          "url": "https://open.spotify.com/artist/2SjTz6It0TjopEYQjJMxqb"
-        },
-        {
-          "name": "Pusha T",
-          "url": "https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy"
-        }
-      ],
-      "duration_ms": 129535,
-      "name": "HAHA (feat. Pusha T)",
-      "url": "https://open.spotify.com/track/2H01cB8CXFLRc4TriH5UYW"
-    },
-    {
-      "added_at": "2022-06-24 04:35:01",
-      "album": {
-        "name": "THE INSPECTION",
-        "url": "https://open.spotify.com/album/7r0skq33hRLV2Sr4xYGp9B"
-      },
-      "artists": [
-        {
-          "name": "Cochise",
-          "url": "https://open.spotify.com/artist/46HzS7yz0c9udVwtbHk1sx"
-        }
-      ],
-      "duration_ms": 132505,
-      "name": "FINALLY",
-      "url": "https://open.spotify.com/track/1qPRRErp0RlPJ74tWj2QJr"
     }
   ],
   "unique_name": "Ripple Effect",

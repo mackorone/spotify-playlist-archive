@@ -1,12 +1,12 @@
 {
   "description": "A celebration of Norway's dance scene!",
-  "num_followers": 120231,
+  "num_followers": 120394,
   "original_name": "Space Disco",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjA2OTYwMCwwMDAwMDAwMDNhOTFlYTg1ZTA5MjhkMTFjODlhZGRmNTM1ZTVhNWZl",
+  "snapshot_id": "MTY2MjA2OTYwMCwwMDAwMDAwMGE0NzA3ZGI3MDRiMmI0ZjBjYTlmZTIyZjcyMmUzZjhk",
   "tracks": [
     {
       "added_at": "2022-09-01 22:00:00",
@@ -167,18 +167,18 @@
     {
       "added_at": "2022-09-01 22:00:00",
       "album": {
-        "name": "It's Album Time",
-        "url": "https://open.spotify.com/album/4pefQ21iSk8hdnxw3WSB5Y"
+        "name": "Moon Jocks n Prog Rocks",
+        "url": "https://open.spotify.com/album/1mAPYemEY9Bb5K3L0T0nT6"
       },
       "artists": [
         {
-          "name": "Todd Terje",
-          "url": "https://open.spotify.com/artist/49gaZqfow2v8EEQmjGyEIw"
+          "name": "Mungolian Jetset",
+          "url": "https://open.spotify.com/artist/3we4aZ9sQc0tp8UOyOEtpt"
         }
       ],
-      "duration_ms": 268440,
-      "name": "Strandbar",
-      "url": "https://open.spotify.com/track/6reLfBSO38qmFgHgz6kAs0"
+      "duration_ms": 813506,
+      "name": "Moon Jocks n Prog Rocks",
+      "url": "https://open.spotify.com/track/190sUkgX3sm1co7Qkd7SBX"
     },
     {
       "added_at": "2022-09-01 22:00:00",
@@ -199,18 +199,18 @@
     {
       "added_at": "2022-09-01 22:00:00",
       "album": {
-        "name": "Moon Jocks n Prog Rocks",
-        "url": "https://open.spotify.com/album/1mAPYemEY9Bb5K3L0T0nT6"
+        "name": "It's Album Time",
+        "url": "https://open.spotify.com/album/4pefQ21iSk8hdnxw3WSB5Y"
       },
       "artists": [
         {
-          "name": "Mungolian Jetset",
-          "url": "https://open.spotify.com/artist/3we4aZ9sQc0tp8UOyOEtpt"
+          "name": "Todd Terje",
+          "url": "https://open.spotify.com/artist/49gaZqfow2v8EEQmjGyEIw"
         }
       ],
-      "duration_ms": 813506,
-      "name": "Moon Jocks n Prog Rocks",
-      "url": "https://open.spotify.com/track/190sUkgX3sm1co7Qkd7SBX"
+      "duration_ms": 268440,
+      "name": "Strandbar",
+      "url": "https://open.spotify.com/track/6reLfBSO38qmFgHgz6kAs0"
     },
     {
       "added_at": "2022-09-01 22:00:00",
@@ -379,38 +379,6 @@
     {
       "added_at": "2022-09-01 22:00:00",
       "album": {
-        "name": "Transit",
-        "url": "https://open.spotify.com/album/2xGTUrOe1vH974ZuWfGp54"
-      },
-      "artists": [
-        {
-          "name": "Third Attempt",
-          "url": "https://open.spotify.com/artist/1tsNLehJWv67iMipy0WwQR"
-        }
-      ],
-      "duration_ms": 150870,
-      "name": "Transit - Radio Edit",
-      "url": "https://open.spotify.com/track/6xX3DLq6CqH54lcNRzCGnu"
-    },
-    {
-      "added_at": "2022-09-01 22:00:00",
-      "album": {
-        "name": "The Walk",
-        "url": "https://open.spotify.com/album/7m5rLSCixXObpvrZaXIMoG"
-      },
-      "artists": [
-        {
-          "name": "Frede",
-          "url": "https://open.spotify.com/artist/6KSw87A52Tjr4BRotQCn56"
-        }
-      ],
-      "duration_ms": 264269,
-      "name": "The Walk",
-      "url": "https://open.spotify.com/track/0PNpTYNySZMLu8sFbznKiN"
-    },
-    {
-      "added_at": "2022-09-01 22:00:00",
-      "album": {
         "name": "Control",
         "url": "https://open.spotify.com/album/5qRgoyaOBrrscesIipuThi"
       },
@@ -423,6 +391,22 @@
       "duration_ms": 373826,
       "name": "Control",
       "url": "https://open.spotify.com/track/3qQFXz3qhRRa3HEXGeZ0Yl"
+    },
+    {
+      "added_at": "2022-09-01 22:00:00",
+      "album": {
+        "name": "Transit",
+        "url": "https://open.spotify.com/album/2xGTUrOe1vH974ZuWfGp54"
+      },
+      "artists": [
+        {
+          "name": "Third Attempt",
+          "url": "https://open.spotify.com/artist/1tsNLehJWv67iMipy0WwQR"
+        }
+      ],
+      "duration_ms": 150870,
+      "name": "Transit - Radio Edit",
+      "url": "https://open.spotify.com/track/6xX3DLq6CqH54lcNRzCGnu"
     },
     {
       "added_at": "2022-09-01 22:00:00",
@@ -443,6 +427,22 @@
       "duration_ms": 482835,
       "name": "Tyrkisk Pepper - Dolle Jolle Remix",
       "url": "https://open.spotify.com/track/38KKAivesNw1zoh8eshIZX"
+    },
+    {
+      "added_at": "2022-09-01 22:00:00",
+      "album": {
+        "name": "The Walk",
+        "url": "https://open.spotify.com/album/7m5rLSCixXObpvrZaXIMoG"
+      },
+      "artists": [
+        {
+          "name": "Frede",
+          "url": "https://open.spotify.com/artist/6KSw87A52Tjr4BRotQCn56"
+        }
+      ],
+      "duration_ms": 264269,
+      "name": "The Walk",
+      "url": "https://open.spotify.com/track/0PNpTYNySZMLu8sFbznKiN"
     },
     {
       "added_at": "2022-09-01 22:00:00",
@@ -575,26 +575,6 @@
     {
       "added_at": "2022-09-01 22:00:00",
       "album": {
-        "name": "This Time (Lindstr\u00f8m Remix)",
-        "url": "https://open.spotify.com/album/3X6t27Kq0J2aK7nLFUe9bX"
-      },
-      "artists": [
-        {
-          "name": "Nina Kraviz",
-          "url": "https://open.spotify.com/artist/1oZmFNkGAT93yD1xX4vTRE"
-        },
-        {
-          "name": "Lindstr\u00f8m",
-          "url": "https://open.spotify.com/artist/2vTtjIqZ7hW0W15t1ApKTB"
-        }
-      ],
-      "duration_ms": 569159,
-      "name": "This Time - Lindstr\u00f8m Remix",
-      "url": "https://open.spotify.com/track/17i25eEW6w8zuunLzgsKni"
-    },
-    {
-      "added_at": "2022-09-01 22:00:00",
-      "album": {
         "name": "Tea In The Desert",
         "url": "https://open.spotify.com/album/6MuABW95Vkd0xkyuan13lQ"
       },
@@ -623,6 +603,26 @@
       "duration_ms": 342070,
       "name": "Kosmetisk",
       "url": "https://open.spotify.com/track/5Lx3mPW7NV7MCw31OofvV4"
+    },
+    {
+      "added_at": "2022-09-01 22:00:00",
+      "album": {
+        "name": "This Time (Lindstr\u00f8m Remix)",
+        "url": "https://open.spotify.com/album/3X6t27Kq0J2aK7nLFUe9bX"
+      },
+      "artists": [
+        {
+          "name": "Nina Kraviz",
+          "url": "https://open.spotify.com/artist/1oZmFNkGAT93yD1xX4vTRE"
+        },
+        {
+          "name": "Lindstr\u00f8m",
+          "url": "https://open.spotify.com/artist/2vTtjIqZ7hW0W15t1ApKTB"
+        }
+      ],
+      "duration_ms": 569159,
+      "name": "This Time - Lindstr\u00f8m Remix",
+      "url": "https://open.spotify.com/track/17i25eEW6w8zuunLzgsKni"
     },
     {
       "added_at": "2022-09-01 22:00:00",
@@ -779,22 +779,6 @@
     {
       "added_at": "2022-09-01 22:00:00",
       "album": {
-        "name": "The Tower",
-        "url": "https://open.spotify.com/album/4M2fF5bRBP8Gi5Bi2EccFg"
-      },
-      "artists": [
-        {
-          "name": "Jaga Jazzist",
-          "url": "https://open.spotify.com/artist/68HFSFMCZzyRjkkm9bv5Vt"
-        }
-      ],
-      "duration_ms": 477630,
-      "name": "Apex - Live",
-      "url": "https://open.spotify.com/track/5stm0hFXNYDoXKbcKamH95"
-    },
-    {
-      "added_at": "2022-09-01 22:00:00",
-      "album": {
         "name": "Curse of the Cancelled",
         "url": "https://open.spotify.com/album/1BXZScQgEnUdK7ewTC2noW"
       },
@@ -811,22 +795,18 @@
     {
       "added_at": "2022-09-01 22:00:00",
       "album": {
-        "name": "8",
-        "url": "https://open.spotify.com/album/5FN3iPWnfhKqE2HF5L6vYH"
+        "name": "The Tower",
+        "url": "https://open.spotify.com/album/4M2fF5bRBP8Gi5Bi2EccFg"
       },
       "artists": [
         {
-          "name": "Prins Thomas",
-          "url": "https://open.spotify.com/artist/4rsEVNO1tGTY0beCnsnHi6"
-        },
-        {
-          "name": "John Carroll Kirby",
-          "url": "https://open.spotify.com/artist/7FQiZr787umw7P5dO3zqld"
+          "name": "Jaga Jazzist",
+          "url": "https://open.spotify.com/artist/68HFSFMCZzyRjkkm9bv5Vt"
         }
       ],
-      "duration_ms": 311737,
-      "name": "Cool Coronas",
-      "url": "https://open.spotify.com/track/4snjzmsb5MrW6u1kVaSnjH"
+      "duration_ms": 477630,
+      "name": "Apex - Live",
+      "url": "https://open.spotify.com/track/5stm0hFXNYDoXKbcKamH95"
     },
     {
       "added_at": "2022-09-01 22:00:00",
@@ -867,6 +847,22 @@
       "duration_ms": 388272,
       "name": "Motown",
       "url": "https://open.spotify.com/track/78NzFZ6gnIltx8fsH55ZeX"
+    },
+    {
+      "added_at": "2022-09-01 22:00:00",
+      "album": {
+        "name": "Moonie",
+        "url": "https://open.spotify.com/album/5AGH3AW6WZ5faWkogVv4Sk"
+      },
+      "artists": [
+        {
+          "name": "Melkeveien",
+          "url": "https://open.spotify.com/artist/0I22LfGyl3Ro59xmhLQPx8"
+        }
+      ],
+      "duration_ms": 368000,
+      "name": "Moonie",
+      "url": "https://open.spotify.com/track/1sd3ZoOJUUmgnGM6FRnzeh"
     }
   ],
   "unique_name": "Space Disco",

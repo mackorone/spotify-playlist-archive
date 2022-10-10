@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-26",
-  "description": "Lo mejor del rock de aqu\u00ed, como Extremoduro.",
+  "description": "Lo mejor del rock de aqu\u00ed, como Viva Suecia.",
   "name": "Rock Espa\u00f1ol",
   "published_playlist_ids": [
     "4AGuLAzZtz0hNpibnA51bn"
@@ -759,7 +759,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-01",
+      "date_removed": null,
       "duration_ms": 231000,
       "name": "Corazon de Tango",
       "url": "https://open.spotify.com/track/5Hep3JI0YhpNNpbcurrvSS"
@@ -878,6 +878,24 @@
     },
     {
       "album": {
+        "name": "Dime por Qu\u00e9",
+        "url": "https://open.spotify.com/album/1QLorYr3Di0Q16CkBxdDF1"
+      },
+      "artists": [
+        {
+          "name": "Gato Ventura",
+          "url": "https://open.spotify.com/artist/7h2kM4syJ9RjSNu0UMGmTZ"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150973,
+      "name": "Dime por Qu\u00e9",
+      "url": "https://open.spotify.com/track/30hb88AQAdHSvSeZaml0oe"
+    },
+    {
+      "album": {
         "name": "Ese D\u00eda Piensa en M\u00ed (Remastered)",
         "url": "https://open.spotify.com/album/6RkLfsx8IskPcVGZybrd5y"
       },
@@ -893,6 +911,24 @@
       "duration_ms": 309162,
       "name": "Dolores Se Llamaba Lola - Remastered",
       "url": "https://open.spotify.com/track/2R8705oC8pTL8JwvpidmMT"
+    },
+    {
+      "album": {
+        "name": "Dos clavos a mis alas (Versi\u00f3n Molinos)",
+        "url": "https://open.spotify.com/album/36pVtmmtG5MvQoBdyL9T5Q"
+      },
+      "artists": [
+        {
+          "name": "Bunbury",
+          "url": "https://open.spotify.com/artist/4uqzzJg3ww5eH7IgGV7DMT"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285968,
+      "name": "Dos clavos a mis alas - Versi\u00f3n Molinos",
+      "url": "https://open.spotify.com/track/0iPW5ZPxZhqPk9K1Z8VAxk"
     },
     {
       "album": {
@@ -981,6 +1017,24 @@
       "duration_ms": 180000,
       "name": "D\u00edas Fugaces",
       "url": "https://open.spotify.com/track/2GEpNkKjpgu5cdByPKSfYU"
+    },
+    {
+      "album": {
+        "name": "El Bien",
+        "url": "https://open.spotify.com/album/2N4aZQEcXjpkZFfHoQAVA4"
+      },
+      "artists": [
+        {
+          "name": "Viva Suecia",
+          "url": "https://open.spotify.com/artist/57s0ep3eNSg81D7ZxiuHbC"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206226,
+      "name": "El Bien",
+      "url": "https://open.spotify.com/track/2y7b6A4hhl3ysYlU2kztGD"
     },
     {
       "album": {
@@ -1077,7 +1131,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-10",
       "duration_ms": 201865,
       "name": "El Chupacabras",
       "url": "https://open.spotify.com/track/0F6xkPeGifK1JGuRi6HwQH"
@@ -1221,7 +1275,7 @@
       ],
       "date_added": "2022-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-07",
       "duration_ms": 305809,
       "name": "El Tranvia Verde",
       "url": "https://open.spotify.com/track/3Vicw4XozrQPiwQqBDbrTR"
@@ -1731,7 +1785,7 @@
       ],
       "date_added": "2022-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-07",
       "duration_ms": 159947,
       "name": "La incre\u00edble historia entre t\u00fa y yo",
       "url": "https://open.spotify.com/track/1MAbXU7OMsOSEH9RoGT5Rs"
@@ -1753,6 +1807,24 @@
       "duration_ms": 267186,
       "name": "La luna me sabe a poco",
       "url": "https://open.spotify.com/track/16taQAqrrfqCwbkbKFr2OH"
+    },
+    {
+      "album": {
+        "name": "La Pura Admiraci\u00f3n",
+        "url": "https://open.spotify.com/album/6w6n06TSeFU0J9KsEK6wnh"
+      },
+      "artists": [
+        {
+          "name": "Arco",
+          "url": "https://open.spotify.com/artist/3HdW1zs4IHQSFa3gebmlGY"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174943,
+      "name": "La Pura Admiraci\u00f3n",
+      "url": "https://open.spotify.com/track/4EKdWRevsAU4xTtlQOAHe4"
     },
     {
       "album": {
@@ -3211,7 +3283,7 @@
       ],
       "date_added": "2022-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-07",
       "duration_ms": 182169,
       "name": "Trocito de Cielo",
       "url": "https://open.spotify.com/track/4Cr2O3m84McsJNOT1IRclx"
@@ -3319,7 +3391,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-07",
       "duration_ms": 254546,
       "name": "Volando en c\u00edrculos",
       "url": "https://open.spotify.com/track/3DsVJcC0vbrVogSnClLEWp"

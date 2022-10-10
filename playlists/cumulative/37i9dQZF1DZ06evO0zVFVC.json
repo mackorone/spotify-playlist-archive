@@ -23,7 +23,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-07",
       "duration_ms": 240631,
       "name": "A Deathless Song (feat. Jenna McDougall)",
       "url": "https://open.spotify.com/track/6V68CLsCg05KRTX1MgTC2V"
@@ -59,7 +59,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-01",
+      "date_removed": "2022-10-08",
       "duration_ms": 211393,
       "name": "Anasasis (Xenophontis)",
       "url": "https://open.spotify.com/track/7h43QeYBcQIWb2OFcspoPb"
@@ -77,7 +77,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-29",
+      "date_removed": "2022-10-07",
       "duration_ms": 347400,
       "name": "Blue and the Grey",
       "url": "https://open.spotify.com/track/0e30YEyFE4Yv1XJcPqEY3n"
@@ -347,7 +347,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-05",
       "duration_ms": 206374,
       "name": "Devil's Calling",
       "url": "https://open.spotify.com/track/3ysvcWkYJfyA51ieNhiKA8"
@@ -462,6 +462,24 @@
     },
     {
       "album": {
+        "name": "Darker Still",
+        "url": "https://open.spotify.com/album/36McCMdCRYn5j6iSMiqdG4"
+      },
+      "artists": [
+        {
+          "name": "Parkway Drive",
+          "url": "https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo"
+        }
+      ],
+      "date_added": "2022-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261811,
+      "name": "Glitch",
+      "url": "https://open.spotify.com/track/1jKH10ufuA4EzUCdobVxu0"
+    },
+    {
+      "album": {
         "name": "Glitch",
         "url": "https://open.spotify.com/album/6nUaOQGLU8xIAI5MQqHvup"
       },
@@ -473,7 +491,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-05",
       "duration_ms": 261811,
       "name": "Glitch",
       "url": "https://open.spotify.com/track/35i03ZqMFb5Q3O9TAQ7XLB"
@@ -581,7 +599,7 @@
       ],
       "date_added": "2022-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-05",
       "duration_ms": 160516,
       "name": "If a God Can Bleed",
       "url": "https://open.spotify.com/track/2b7yigvDL1fkswGnQv4hqc"
@@ -1017,7 +1035,7 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-01",
+      "date_removed": "2022-10-09",
       "duration_ms": 327013,
       "name": "The River",
       "url": "https://open.spotify.com/track/4yVgz6jQy3rshd2OJoyLuY"
@@ -1107,7 +1125,7 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-30",
+      "date_removed": "2022-10-09",
       "duration_ms": 139473,
       "name": "Unrest",
       "url": "https://open.spotify.com/track/79e7Mpm2SLGmlxpGgjoWKr"

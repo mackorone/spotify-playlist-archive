@@ -1,12 +1,12 @@
 {
   "description": "Dive into the deep end of the tech house spectrum.",
-  "num_followers": 8430,
+  "num_followers": 8896,
   "original_name": "Minimal Tech",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzMwMDgwMCwwMDAwMDAwMGEwZjVkNDVmN2E5ZDZmNTMwYzVkNWUzYjdjZTFjZjJk",
+  "snapshot_id": "MTY2MzMwMDgwMCwwMDAwMDAwMDI3NjkxNjU2NTQ2NTMzNzM0MTgwZDJlMDA2Yzk0NGYy",
   "tracks": [
     {
       "added_at": "2022-07-01 04:01:00",
@@ -49,20 +49,32 @@
       "url": "https://open.spotify.com/track/4J7cSix3jYkSc6n76TgxEJ"
     },
     {
-      "added_at": "2022-08-12 04:02:00",
+      "added_at": "2022-08-15 14:49:47",
       "album": {
-        "name": "Poison",
-        "url": "https://open.spotify.com/album/6WONhOrTC1hMcjVSPuAcr6"
+        "name": "Raw (Tony Romera Remix)",
+        "url": "https://open.spotify.com/album/05RVsgf3zkK6pcTHFmoNkZ"
       },
       "artists": [
         {
-          "name": "Hot Since 82",
-          "url": "https://open.spotify.com/artist/1tRBmMtER4fGrzrt8O9VpS"
+          "name": "Julio Navas",
+          "url": "https://open.spotify.com/artist/1xTuChuImQkqK7A0aGaZqr"
+        },
+        {
+          "name": "Gustavo Bravetti",
+          "url": "https://open.spotify.com/artist/3COgt6jQqmGpT8vM79C7R9"
+        },
+        {
+          "name": "David Amo",
+          "url": "https://open.spotify.com/artist/6hnD17Gw6ohwryCf3D2AwD"
+        },
+        {
+          "name": "Tony Romera",
+          "url": "https://open.spotify.com/artist/7GQsOji7pfixzkLt63awo5"
         }
       ],
-      "duration_ms": 206378,
-      "name": "Poison",
-      "url": "https://open.spotify.com/track/1MeYeeJV7BUmp3Kf0wEmQe"
+      "duration_ms": 217500,
+      "name": "Raw - Tony Romera Remix",
+      "url": "https://open.spotify.com/track/7lxbCUxQXJRkPQ1eErYZd3"
     },
     {
       "added_at": "2022-08-26 04:02:00",
@@ -101,20 +113,20 @@
       "url": "https://open.spotify.com/track/11fsAfyLE6m6j1Zay5hpvF"
     },
     {
-      "added_at": "2022-06-03 18:11:27",
+      "added_at": "2022-08-12 04:02:00",
       "album": {
-        "name": "Roll Play",
-        "url": "https://open.spotify.com/album/20pvV7NCcoCn9kPlCxOB1s"
+        "name": "Poison",
+        "url": "https://open.spotify.com/album/6WONhOrTC1hMcjVSPuAcr6"
       },
       "artists": [
         {
-          "name": "PAWSA",
-          "url": "https://open.spotify.com/artist/4E0HD2PMY8kQJIjlShrLUS"
+          "name": "Hot Since 82",
+          "url": "https://open.spotify.com/artist/1tRBmMtER4fGrzrt8O9VpS"
         }
       ],
-      "duration_ms": 203437,
-      "name": "Roll Play",
-      "url": "https://open.spotify.com/track/4szwPQ7ajXpyqykjtv6RLE"
+      "duration_ms": 206378,
+      "name": "Poison",
+      "url": "https://open.spotify.com/track/1MeYeeJV7BUmp3Kf0wEmQe"
     },
     {
       "added_at": "2022-06-24 04:01:00",
@@ -163,6 +175,22 @@
     {
       "added_at": "2022-06-03 18:11:27",
       "album": {
+        "name": "Roll Play",
+        "url": "https://open.spotify.com/album/20pvV7NCcoCn9kPlCxOB1s"
+      },
+      "artists": [
+        {
+          "name": "PAWSA",
+          "url": "https://open.spotify.com/artist/4E0HD2PMY8kQJIjlShrLUS"
+        }
+      ],
+      "duration_ms": 203437,
+      "name": "Roll Play",
+      "url": "https://open.spotify.com/track/4szwPQ7ajXpyqykjtv6RLE"
+    },
+    {
+      "added_at": "2022-06-03 18:11:27",
+      "album": {
         "name": "The Ciggie",
         "url": "https://open.spotify.com/album/5TijfininJwDUX6P1iSyf7"
       },
@@ -175,34 +203,6 @@
       "duration_ms": 373032,
       "name": "The Ciggie",
       "url": "https://open.spotify.com/track/1r8ZqfggYqW1R2JjiDGBQV"
-    },
-    {
-      "added_at": "2022-08-15 14:49:47",
-      "album": {
-        "name": "Raw (Tony Romera Remix)",
-        "url": "https://open.spotify.com/album/05RVsgf3zkK6pcTHFmoNkZ"
-      },
-      "artists": [
-        {
-          "name": "Julio Navas",
-          "url": "https://open.spotify.com/artist/1xTuChuImQkqK7A0aGaZqr"
-        },
-        {
-          "name": "Gustavo Bravetti",
-          "url": "https://open.spotify.com/artist/3COgt6jQqmGpT8vM79C7R9"
-        },
-        {
-          "name": "David Amo",
-          "url": "https://open.spotify.com/artist/6hnD17Gw6ohwryCf3D2AwD"
-        },
-        {
-          "name": "Tony Romera",
-          "url": "https://open.spotify.com/artist/7GQsOji7pfixzkLt63awo5"
-        }
-      ],
-      "duration_ms": 217500,
-      "name": "Raw - Tony Romera Remix",
-      "url": "https://open.spotify.com/track/7lxbCUxQXJRkPQ1eErYZd3"
     },
     {
       "added_at": "2022-07-15 04:00:00",
@@ -401,58 +401,6 @@
       "url": "https://open.spotify.com/track/7byloGFJ8lO5d7cCxFXOIh"
     },
     {
-      "added_at": "2022-08-19 04:00:00",
-      "album": {
-        "name": "Back To Me",
-        "url": "https://open.spotify.com/album/53jEoBJvKPpNoDrx1wwVfU"
-      },
-      "artists": [
-        {
-          "name": "Low Blow",
-          "url": "https://open.spotify.com/artist/4Jr5ULT8PKTOiBhTUZR9RQ"
-        }
-      ],
-      "duration_ms": 206400,
-      "name": "Back To Me",
-      "url": "https://open.spotify.com/track/5MG3KRa0R0cx25ZQF0JMaf"
-    },
-    {
-      "added_at": "2022-06-03 18:11:27",
-      "album": {
-        "name": "Whispers In The Wind",
-        "url": "https://open.spotify.com/album/6n13FWbhg1ILq1gZmuwT5f"
-      },
-      "artists": [
-        {
-          "name": "Michael Bibi",
-          "url": "https://open.spotify.com/artist/4cvdQRyHmkSQSakUrW2oxv"
-        }
-      ],
-      "duration_ms": 368852,
-      "name": "Whispers In The Wind",
-      "url": "https://open.spotify.com/track/3QUVgi7fLRKQL5j0irl5jd"
-    },
-    {
-      "added_at": "2022-06-03 18:11:27",
-      "album": {
-        "name": "Lovelee Dae",
-        "url": "https://open.spotify.com/album/4GUOfZ9RjMWnOjzRkkTZeg"
-      },
-      "artists": [
-        {
-          "name": "Amine Edge & DANCE",
-          "url": "https://open.spotify.com/artist/7si9pFZZlPdZPeOclH9vgm"
-        },
-        {
-          "name": "Blaze (Kevin Hedge)",
-          "url": "https://open.spotify.com/artist/5ALxJ1yIzIRB3NcmMftPOy"
-        }
-      ],
-      "duration_ms": 382278,
-      "name": "Lovelee Dae",
-      "url": "https://open.spotify.com/track/6rHyMTHlEn0ukuL4XRhG7X"
-    },
-    {
       "added_at": "2022-09-16 04:00:00",
       "album": {
         "name": "Sete (Carlita Remix)",
@@ -483,6 +431,22 @@
     {
       "added_at": "2022-06-03 18:11:27",
       "album": {
+        "name": "Whispers In The Wind",
+        "url": "https://open.spotify.com/album/6n13FWbhg1ILq1gZmuwT5f"
+      },
+      "artists": [
+        {
+          "name": "Michael Bibi",
+          "url": "https://open.spotify.com/artist/4cvdQRyHmkSQSakUrW2oxv"
+        }
+      ],
+      "duration_ms": 368852,
+      "name": "Whispers In The Wind",
+      "url": "https://open.spotify.com/track/3QUVgi7fLRKQL5j0irl5jd"
+    },
+    {
+      "added_at": "2022-06-03 18:11:27",
+      "album": {
         "name": "I Am Somebody",
         "url": "https://open.spotify.com/album/1G3BKcXKXfUaZ3qz8lNsWv"
       },
@@ -495,6 +459,42 @@
       "duration_ms": 417145,
       "name": "I Am Somebody",
       "url": "https://open.spotify.com/track/75EaT3OH1MdJxKT1ZUsNK0"
+    },
+    {
+      "added_at": "2022-06-03 18:11:27",
+      "album": {
+        "name": "Lovelee Dae",
+        "url": "https://open.spotify.com/album/4GUOfZ9RjMWnOjzRkkTZeg"
+      },
+      "artists": [
+        {
+          "name": "Amine Edge & DANCE",
+          "url": "https://open.spotify.com/artist/7si9pFZZlPdZPeOclH9vgm"
+        },
+        {
+          "name": "Blaze (Kevin Hedge)",
+          "url": "https://open.spotify.com/artist/5ALxJ1yIzIRB3NcmMftPOy"
+        }
+      ],
+      "duration_ms": 382278,
+      "name": "Lovelee Dae",
+      "url": "https://open.spotify.com/track/6rHyMTHlEn0ukuL4XRhG7X"
+    },
+    {
+      "added_at": "2022-08-19 04:00:00",
+      "album": {
+        "name": "Back To Me",
+        "url": "https://open.spotify.com/album/53jEoBJvKPpNoDrx1wwVfU"
+      },
+      "artists": [
+        {
+          "name": "Low Blow",
+          "url": "https://open.spotify.com/artist/4Jr5ULT8PKTOiBhTUZR9RQ"
+        }
+      ],
+      "duration_ms": 206400,
+      "name": "Back To Me",
+      "url": "https://open.spotify.com/track/5MG3KRa0R0cx25ZQF0JMaf"
     },
     {
       "added_at": "2022-07-08 17:12:43",
@@ -511,54 +511,6 @@
       "duration_ms": 382439,
       "name": "Femme",
       "url": "https://open.spotify.com/track/3w2wq54qcswAGDr9CgRymT"
-    },
-    {
-      "added_at": "2022-06-24 04:01:00",
-      "album": {
-        "name": "Rudeboi",
-        "url": "https://open.spotify.com/album/3aFcW1f1Deq9F7cwJDkbd5"
-      },
-      "artists": [
-        {
-          "name": "Eli Brown",
-          "url": "https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU"
-        }
-      ],
-      "duration_ms": 181054,
-      "name": "Rudeboi",
-      "url": "https://open.spotify.com/track/3oUkoGYPWVxt3NrohcoMHY"
-    },
-    {
-      "added_at": "2022-06-03 18:11:27",
-      "album": {
-        "name": "Strung Up",
-        "url": "https://open.spotify.com/album/66FblVKMFIsHhvIB6mRt5p"
-      },
-      "artists": [
-        {
-          "name": "Sorley",
-          "url": "https://open.spotify.com/artist/3apneou0OdagGBkXZxmpaj"
-        }
-      ],
-      "duration_ms": 200625,
-      "name": "Strung Up",
-      "url": "https://open.spotify.com/track/6vOr19HgqGzzCMv040ePVq"
-    },
-    {
-      "added_at": "2022-06-03 18:11:27",
-      "album": {
-        "name": "Alley Rave",
-        "url": "https://open.spotify.com/album/1yQU83J37P20ynvBDU31Cc"
-      },
-      "artists": [
-        {
-          "name": "Andrea Oliva",
-          "url": "https://open.spotify.com/artist/6oqv4rbOMlOZNOUoDFgBSp"
-        }
-      ],
-      "duration_ms": 364099,
-      "name": "Alley Rave",
-      "url": "https://open.spotify.com/track/630fy1dTAKtfY1DJXLYyds"
     },
     {
       "added_at": "2022-07-01 04:01:00",
@@ -581,6 +533,54 @@
       "url": "https://open.spotify.com/track/1q4SELBOdUcpYPvJp7iwDC"
     },
     {
+      "added_at": "2022-06-03 18:11:27",
+      "album": {
+        "name": "Strung Up",
+        "url": "https://open.spotify.com/album/66FblVKMFIsHhvIB6mRt5p"
+      },
+      "artists": [
+        {
+          "name": "Sorley",
+          "url": "https://open.spotify.com/artist/3apneou0OdagGBkXZxmpaj"
+        }
+      ],
+      "duration_ms": 200625,
+      "name": "Strung Up",
+      "url": "https://open.spotify.com/track/6vOr19HgqGzzCMv040ePVq"
+    },
+    {
+      "added_at": "2022-06-24 04:01:00",
+      "album": {
+        "name": "Rudeboi",
+        "url": "https://open.spotify.com/album/3aFcW1f1Deq9F7cwJDkbd5"
+      },
+      "artists": [
+        {
+          "name": "Eli Brown",
+          "url": "https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU"
+        }
+      ],
+      "duration_ms": 181054,
+      "name": "Rudeboi",
+      "url": "https://open.spotify.com/track/3oUkoGYPWVxt3NrohcoMHY"
+    },
+    {
+      "added_at": "2022-06-03 18:11:27",
+      "album": {
+        "name": "Alley Rave",
+        "url": "https://open.spotify.com/album/1yQU83J37P20ynvBDU31Cc"
+      },
+      "artists": [
+        {
+          "name": "Andrea Oliva",
+          "url": "https://open.spotify.com/artist/6oqv4rbOMlOZNOUoDFgBSp"
+        }
+      ],
+      "duration_ms": 364099,
+      "name": "Alley Rave",
+      "url": "https://open.spotify.com/track/630fy1dTAKtfY1DJXLYyds"
+    },
+    {
       "added_at": "2022-07-01 04:01:00",
       "album": {
         "name": "YAP EP",
@@ -595,30 +595,6 @@
       "duration_ms": 246474,
       "name": "YAP",
       "url": "https://open.spotify.com/track/13HJKOxoj5k0XsBOAEdqAt"
-    },
-    {
-      "added_at": "2022-07-29 04:01:00",
-      "album": {
-        "name": "Snatch! OFF 071",
-        "url": "https://open.spotify.com/album/1DVCoT2C4LRHfuTJj3qxjg"
-      },
-      "artists": [
-        {
-          "name": "Riva Starr",
-          "url": "https://open.spotify.com/artist/1TRFAJu3Cw64APToZaGk9D"
-        },
-        {
-          "name": "Oliver Dollar",
-          "url": "https://open.spotify.com/artist/38Z7dMMVB0YYbKn4fDYNz3"
-        },
-        {
-          "name": "Mikey V",
-          "url": "https://open.spotify.com/artist/5M6HuH4A69abqbnpT4IjQe"
-        }
-      ],
-      "duration_ms": 186190,
-      "name": "About The Music",
-      "url": "https://open.spotify.com/track/0Ph74XX0SkUkarkGgqJHnw"
     },
     {
       "added_at": "2022-06-03 18:11:27",
@@ -653,22 +629,6 @@
       "url": "https://open.spotify.com/track/7KJwlAWtpbQzTGkJSrBbnk"
     },
     {
-      "added_at": "2022-06-24 04:01:00",
-      "album": {
-        "name": "Tonight EP",
-        "url": "https://open.spotify.com/album/4cxn8FB1FyzCBrZlDeMN1Y"
-      },
-      "artists": [
-        {
-          "name": "Latmun",
-          "url": "https://open.spotify.com/artist/2z9DWWfNONyl2nyy1GNSi0"
-        }
-      ],
-      "duration_ms": 352500,
-      "name": "Tonight",
-      "url": "https://open.spotify.com/track/2THIz1r6q9mdeR9NcwHM6X"
-    },
-    {
       "added_at": "2022-06-17 04:01:00",
       "album": {
         "name": "Take Me Back",
@@ -683,6 +643,46 @@
       "duration_ms": 197502,
       "name": "Take Me Back",
       "url": "https://open.spotify.com/track/2LEO9efWacG85SkV3cah7q"
+    },
+    {
+      "added_at": "2022-07-29 04:01:00",
+      "album": {
+        "name": "Snatch! OFF 071",
+        "url": "https://open.spotify.com/album/1DVCoT2C4LRHfuTJj3qxjg"
+      },
+      "artists": [
+        {
+          "name": "Riva Starr",
+          "url": "https://open.spotify.com/artist/1TRFAJu3Cw64APToZaGk9D"
+        },
+        {
+          "name": "Oliver Dollar",
+          "url": "https://open.spotify.com/artist/38Z7dMMVB0YYbKn4fDYNz3"
+        },
+        {
+          "name": "Mikey V",
+          "url": "https://open.spotify.com/artist/5M6HuH4A69abqbnpT4IjQe"
+        }
+      ],
+      "duration_ms": 186190,
+      "name": "About The Music",
+      "url": "https://open.spotify.com/track/0Ph74XX0SkUkarkGgqJHnw"
+    },
+    {
+      "added_at": "2022-06-24 04:01:00",
+      "album": {
+        "name": "Tonight EP",
+        "url": "https://open.spotify.com/album/4cxn8FB1FyzCBrZlDeMN1Y"
+      },
+      "artists": [
+        {
+          "name": "Latmun",
+          "url": "https://open.spotify.com/artist/2z9DWWfNONyl2nyy1GNSi0"
+        }
+      ],
+      "duration_ms": 352500,
+      "name": "Tonight",
+      "url": "https://open.spotify.com/track/2THIz1r6q9mdeR9NcwHM6X"
     },
     {
       "added_at": "2022-06-10 14:45:01",
@@ -737,36 +737,20 @@
       "url": "https://open.spotify.com/track/1sZw1rvxMeIacX91qTRYzr"
     },
     {
-      "added_at": "2022-07-15 04:00:00",
+      "added_at": "2022-06-03 18:11:27",
       "album": {
-        "name": "Moody Fuse",
-        "url": "https://open.spotify.com/album/7KCjICJnDLfwOvGOLZZRlh"
+        "name": "No Bueno",
+        "url": "https://open.spotify.com/album/5fTUKANhhWrTFBfDmNbLbe"
       },
       "artists": [
         {
-          "name": "Claude VonStroke",
-          "url": "https://open.spotify.com/artist/5CYAFhywQTXdZmppCp0ukd"
+          "name": "Sosa UK",
+          "url": "https://open.spotify.com/artist/3JlN0MeWVJq0vjvsvWCRZ5"
         }
       ],
-      "duration_ms": 411877,
-      "name": "Moody Fuse",
-      "url": "https://open.spotify.com/track/6MDaMEgEVbKk5POEdY3TN5"
-    },
-    {
-      "added_at": "2022-06-17 04:01:00",
-      "album": {
-        "name": "Kill The Soundboy",
-        "url": "https://open.spotify.com/album/19yhnnzXMUkzctGGijNagH"
-      },
-      "artists": [
-        {
-          "name": "Denney",
-          "url": "https://open.spotify.com/artist/7vm3musYjzfqoMloVCEF7v"
-        }
-      ],
-      "duration_ms": 404000,
-      "name": "Kill The Soundboy",
-      "url": "https://open.spotify.com/track/72AMbEMW0SGjL36DpLuYfY"
+      "duration_ms": 350125,
+      "name": "No Bueno",
+      "url": "https://open.spotify.com/track/1BkVnW3EJByz6sbV8csgkL"
     },
     {
       "added_at": "2022-07-29 04:01:00",
@@ -785,38 +769,6 @@
       "url": "https://open.spotify.com/track/3krO0tblKXMBuIsSg5Yijv"
     },
     {
-      "added_at": "2022-07-08 17:12:43",
-      "album": {
-        "name": "Kick It EP",
-        "url": "https://open.spotify.com/album/66aMMGxNQQQqGXO7Bpx6lZ"
-      },
-      "artists": [
-        {
-          "name": "Archie Hamilton",
-          "url": "https://open.spotify.com/artist/0DfYCARYRJ4vlSWlief3jv"
-        }
-      ],
-      "duration_ms": 422250,
-      "name": "Kick It",
-      "url": "https://open.spotify.com/track/5s5RKNozjSH616u91ZiqY7"
-    },
-    {
-      "added_at": "2022-06-03 18:11:27",
-      "album": {
-        "name": "No Bueno",
-        "url": "https://open.spotify.com/album/5fTUKANhhWrTFBfDmNbLbe"
-      },
-      "artists": [
-        {
-          "name": "Sosa UK",
-          "url": "https://open.spotify.com/artist/3JlN0MeWVJq0vjvsvWCRZ5"
-        }
-      ],
-      "duration_ms": 350125,
-      "name": "No Bueno",
-      "url": "https://open.spotify.com/track/1BkVnW3EJByz6sbV8csgkL"
-    },
-    {
       "added_at": "2022-06-03 18:11:27",
       "album": {
         "name": "Jump Ship",
@@ -833,6 +785,38 @@
       "url": "https://open.spotify.com/track/25jHZWxC5NFkaqT5Hb5uKS"
     },
     {
+      "added_at": "2022-07-08 17:12:43",
+      "album": {
+        "name": "Kick It EP",
+        "url": "https://open.spotify.com/album/66aMMGxNQQQqGXO7Bpx6lZ"
+      },
+      "artists": [
+        {
+          "name": "Archie Hamilton",
+          "url": "https://open.spotify.com/artist/0DfYCARYRJ4vlSWlief3jv"
+        }
+      ],
+      "duration_ms": 422250,
+      "name": "Kick It",
+      "url": "https://open.spotify.com/track/5s5RKNozjSH616u91ZiqY7"
+    },
+    {
+      "added_at": "2022-06-17 04:01:00",
+      "album": {
+        "name": "Kill The Soundboy",
+        "url": "https://open.spotify.com/album/19yhnnzXMUkzctGGijNagH"
+      },
+      "artists": [
+        {
+          "name": "Denney",
+          "url": "https://open.spotify.com/artist/7vm3musYjzfqoMloVCEF7v"
+        }
+      ],
+      "duration_ms": 404000,
+      "name": "Kill The Soundboy",
+      "url": "https://open.spotify.com/track/72AMbEMW0SGjL36DpLuYfY"
+    },
+    {
       "added_at": "2022-09-16 04:00:00",
       "album": {
         "name": "Freak With Us",
@@ -847,6 +831,58 @@
       "duration_ms": 197007,
       "name": "Get Ur Freak On",
       "url": "https://open.spotify.com/track/6FSY2EEtEfW8Xj95dqw3UC"
+    },
+    {
+      "added_at": "2022-07-15 04:00:00",
+      "album": {
+        "name": "Moody Fuse",
+        "url": "https://open.spotify.com/album/7KCjICJnDLfwOvGOLZZRlh"
+      },
+      "artists": [
+        {
+          "name": "Claude VonStroke",
+          "url": "https://open.spotify.com/artist/5CYAFhywQTXdZmppCp0ukd"
+        }
+      ],
+      "duration_ms": 411877,
+      "name": "Moody Fuse",
+      "url": "https://open.spotify.com/track/6MDaMEgEVbKk5POEdY3TN5"
+    },
+    {
+      "added_at": "2022-08-26 04:02:00",
+      "album": {
+        "name": "Beeper Blowing Up",
+        "url": "https://open.spotify.com/album/5Jfs0kxETh6SAUNFrliOi0"
+      },
+      "artists": [
+        {
+          "name": "LATE NIITE",
+          "url": "https://open.spotify.com/artist/6zKFmriYB7K8UC54jtYCAS"
+        },
+        {
+          "name": "Thomas Garcia",
+          "url": "https://open.spotify.com/artist/0pOf0CQbzWVo2rgrH9h0Rq"
+        }
+      ],
+      "duration_ms": 218130,
+      "name": "Beeper Blowing Up",
+      "url": "https://open.spotify.com/track/7DpmpRbrwVMrTWsLt3KVvw"
+    },
+    {
+      "added_at": "2022-09-09 04:00:00",
+      "album": {
+        "name": "Nana",
+        "url": "https://open.spotify.com/album/75QMJvIqtyhVSYD3EdnBmt"
+      },
+      "artists": [
+        {
+          "name": "Paskman",
+          "url": "https://open.spotify.com/artist/70s7RdFqr3UEBlooMGUQdO"
+        }
+      ],
+      "duration_ms": 167638,
+      "name": "Nana",
+      "url": "https://open.spotify.com/track/1SBEegsKKBMXyXVTLKa1KJ"
     },
     {
       "added_at": "2022-06-03 18:11:27",
@@ -869,22 +905,6 @@
       "url": "https://open.spotify.com/track/1OTixnhGk8U4HleNJCNUg9"
     },
     {
-      "added_at": "2022-09-09 04:00:00",
-      "album": {
-        "name": "Nana",
-        "url": "https://open.spotify.com/album/75QMJvIqtyhVSYD3EdnBmt"
-      },
-      "artists": [
-        {
-          "name": "Paskman",
-          "url": "https://open.spotify.com/artist/70s7RdFqr3UEBlooMGUQdO"
-        }
-      ],
-      "duration_ms": 167638,
-      "name": "Nana",
-      "url": "https://open.spotify.com/track/1SBEegsKKBMXyXVTLKa1KJ"
-    },
-    {
       "added_at": "2022-08-19 04:00:00",
       "album": {
         "name": "All I Want",
@@ -899,26 +919,6 @@
       "duration_ms": 243809,
       "name": "All I Want - Original Mix",
       "url": "https://open.spotify.com/track/4K7SNSClE8UWzRPpNtOs8M"
-    },
-    {
-      "added_at": "2022-08-26 04:02:00",
-      "album": {
-        "name": "Beeper Blowing Up",
-        "url": "https://open.spotify.com/album/5Jfs0kxETh6SAUNFrliOi0"
-      },
-      "artists": [
-        {
-          "name": "LATE NIITE",
-          "url": "https://open.spotify.com/artist/6zKFmriYB7K8UC54jtYCAS"
-        },
-        {
-          "name": "Thomas Garcia",
-          "url": "https://open.spotify.com/artist/0pOf0CQbzWVo2rgrH9h0Rq"
-        }
-      ],
-      "duration_ms": 218130,
-      "name": "Beeper Blowing Up",
-      "url": "https://open.spotify.com/track/7DpmpRbrwVMrTWsLt3KVvw"
     }
   ],
   "unique_name": "Minimal Tech",

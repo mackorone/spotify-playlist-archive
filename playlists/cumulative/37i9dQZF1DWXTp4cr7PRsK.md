@@ -4,7 +4,7 @@
 
 > Sophisticated palates only\. Curated by: <a href="https://www.instagram.com/ogchaseb/">Chase B</a>
 
-31 songs - 1 hr 38 min - not published yet
+31 songs - 1 hr 38 min - [published](https://open.spotify.com/playlist/4nriynnazBJLab33mMk4Ac)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -1,12 +1,12 @@
 {
   "description": "A new gen of bands gazing at their pedals, while soaring celestially-high. Alvvays on cover!",
-  "num_followers": 20367,
+  "num_followers": 20535,
   "original_name": "Shoegaze Now",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDQ3NTgyNSwwMDAwMDAwMDE0YzBlYTQ3YWNjNjI5MjU2ZDg3N2U4NjFhMjFjOGNj",
+  "snapshot_id": "MTY2NTAxMDA3NSwwMDAwMDAwMDdmZGFmY2QzNjZmMzdhYmJhZTMzNTI3MmM5ZWZjY2E4",
   "tracks": [
     {
       "added_at": "2022-09-29 00:07:21",
@@ -145,6 +145,22 @@
       "url": "https://open.spotify.com/track/7kFgDnOMb1AEKmOnofnylh"
     },
     {
+      "added_at": "2022-10-05 22:47:55",
+      "album": {
+        "name": "Autopilot Paradise",
+        "url": "https://open.spotify.com/album/6txXTab3aLAy2ypXvXtoDu"
+      },
+      "artists": [
+        {
+          "name": "Lemonade Shoelace",
+          "url": "https://open.spotify.com/artist/72gHreLHpaDQdue2ON7snF"
+        }
+      ],
+      "duration_ms": 294000,
+      "name": "Autopilot Paradise",
+      "url": "https://open.spotify.com/track/0dj2Uv200jKLhbukIVVSqn"
+    },
+    {
       "added_at": "2021-10-19 01:47:29",
       "album": {
         "name": "Deathconsciousness",
@@ -177,22 +193,6 @@
       "url": "https://open.spotify.com/track/0dcu28YT8cXZH7JTIraszp"
     },
     {
-      "added_at": "2021-10-19 01:47:29",
-      "album": {
-        "name": "Whirr & Nothing (Split Version)",
-        "url": "https://open.spotify.com/album/2wi2jzTXYzL8ospHR52IVo"
-      },
-      "artists": [
-        {
-          "name": "Whirr",
-          "url": "https://open.spotify.com/artist/1tnjjbgszXYa8BbyTzwM0w"
-        }
-      ],
-      "duration_ms": 206533,
-      "name": "Ease",
-      "url": "https://open.spotify.com/track/0i5zjtoRR0U2715BEgUsdS"
-    },
-    {
       "added_at": "2022-09-21 00:37:05",
       "album": {
         "name": "You Will Never Know Why",
@@ -211,6 +211,22 @@
     {
       "added_at": "2021-10-19 01:47:29",
       "album": {
+        "name": "Whirr & Nothing (Split Version)",
+        "url": "https://open.spotify.com/album/2wi2jzTXYzL8ospHR52IVo"
+      },
+      "artists": [
+        {
+          "name": "Whirr",
+          "url": "https://open.spotify.com/artist/1tnjjbgszXYa8BbyTzwM0w"
+        }
+      ],
+      "duration_ms": 206533,
+      "name": "Ease",
+      "url": "https://open.spotify.com/track/0i5zjtoRR0U2715BEgUsdS"
+    },
+    {
+      "added_at": "2021-10-19 01:47:29",
+      "album": {
         "name": "Bedroom",
         "url": "https://open.spotify.com/album/3Pu648nWwshjvkl96rKxPS"
       },
@@ -223,22 +239,6 @@
       "duration_ms": 226594,
       "name": "Happy",
       "url": "https://open.spotify.com/track/6OIsq9HutnCINDPQqmAjbz"
-    },
-    {
-      "added_at": "2021-10-19 01:47:29",
-      "album": {
-        "name": "Always Then",
-        "url": "https://open.spotify.com/album/6K1bLeeV0TSh37uczoEvFC"
-      },
-      "artists": [
-        {
-          "name": "The KVB",
-          "url": "https://open.spotify.com/artist/0BzJFLqchxKNQyEwswwQ40"
-        }
-      ],
-      "duration_ms": 251376,
-      "name": "Always Then",
-      "url": "https://open.spotify.com/track/4ti3jFBiVjPE4t9WOzKkHW"
     },
     {
       "added_at": "2022-09-29 01:45:12",
@@ -259,18 +259,18 @@
     {
       "added_at": "2021-10-19 01:47:29",
       "album": {
-        "name": "Oshin",
-        "url": "https://open.spotify.com/album/1OgEi1Ss26Aq9S5sK848fh"
+        "name": "Always Then",
+        "url": "https://open.spotify.com/album/6K1bLeeV0TSh37uczoEvFC"
       },
       "artists": [
         {
-          "name": "DIIV",
-          "url": "https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd"
+          "name": "The KVB",
+          "url": "https://open.spotify.com/artist/0BzJFLqchxKNQyEwswwQ40"
         }
       ],
-      "duration_ms": 222973,
-      "name": "Doused",
-      "url": "https://open.spotify.com/track/30uvCVEYqgktyLfDcI76Hx"
+      "duration_ms": 251376,
+      "name": "Always Then",
+      "url": "https://open.spotify.com/track/4ti3jFBiVjPE4t9WOzKkHW"
     },
     {
       "added_at": "2021-10-19 01:47:29",
@@ -291,6 +291,22 @@
     {
       "added_at": "2021-10-19 01:47:29",
       "album": {
+        "name": "Oshin",
+        "url": "https://open.spotify.com/album/1OgEi1Ss26Aq9S5sK848fh"
+      },
+      "artists": [
+        {
+          "name": "DIIV",
+          "url": "https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd"
+        }
+      ],
+      "duration_ms": 222973,
+      "name": "Doused",
+      "url": "https://open.spotify.com/track/30uvCVEYqgktyLfDcI76Hx"
+    },
+    {
+      "added_at": "2021-10-19 01:47:29",
+      "album": {
         "name": "Mercurial World",
         "url": "https://open.spotify.com/album/1ERrUvG31thFCxdwWUoJrY"
       },
@@ -303,22 +319,6 @@
       "duration_ms": 204391,
       "name": "You Lose!",
       "url": "https://open.spotify.com/track/0tP8FKhJsar5y4JcOH4Rjp"
-    },
-    {
-      "added_at": "2021-10-19 01:47:29",
-      "album": {
-        "name": "Blouse",
-        "url": "https://open.spotify.com/album/5413IR4TtBPOyw9vPDY7Lk"
-      },
-      "artists": [
-        {
-          "name": "Blouse",
-          "url": "https://open.spotify.com/artist/58QP6z41dSgPjoiJkIjCcL"
-        }
-      ],
-      "duration_ms": 208237,
-      "name": "Into Black",
-      "url": "https://open.spotify.com/track/0gZziRdBUBIeucaKpRiAYO"
     },
     {
       "added_at": "2022-09-09 02:18:48",
@@ -339,6 +339,22 @@
     {
       "added_at": "2021-10-19 01:47:29",
       "album": {
+        "name": "Blouse",
+        "url": "https://open.spotify.com/album/5413IR4TtBPOyw9vPDY7Lk"
+      },
+      "artists": [
+        {
+          "name": "Blouse",
+          "url": "https://open.spotify.com/artist/58QP6z41dSgPjoiJkIjCcL"
+        }
+      ],
+      "duration_ms": 208237,
+      "name": "Into Black",
+      "url": "https://open.spotify.com/track/0gZziRdBUBIeucaKpRiAYO"
+    },
+    {
+      "added_at": "2021-10-19 01:47:29",
+      "album": {
         "name": "Gemini",
         "url": "https://open.spotify.com/album/3hxVFxpF7uUtjLHzvGIm7W"
       },
@@ -351,70 +367,6 @@
       "duration_ms": 198842,
       "name": "Chinatown",
       "url": "https://open.spotify.com/track/3BRfgsKjcakny2wCYfZrvz"
-    },
-    {
-      "added_at": "2021-10-19 01:47:29",
-      "album": {
-        "name": "The Waves",
-        "url": "https://open.spotify.com/album/2GrLKfN6dTb4o7Eoz6pqSG"
-      },
-      "artists": [
-        {
-          "name": "Tamaryn",
-          "url": "https://open.spotify.com/artist/3TdVTSmMfLh55VrJDUpIQ2"
-        }
-      ],
-      "duration_ms": 220760,
-      "name": "Love Fade",
-      "url": "https://open.spotify.com/track/0p6JvwRK6RqC1SyRVKP6cN"
-    },
-    {
-      "added_at": "2021-10-19 01:47:29",
-      "album": {
-        "name": "Is the Is Are",
-        "url": "https://open.spotify.com/album/3fSqRdxX8lh5nZHjgzEGl1"
-      },
-      "artists": [
-        {
-          "name": "DIIV",
-          "url": "https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd"
-        }
-      ],
-      "duration_ms": 226999,
-      "name": "Under the Sun",
-      "url": "https://open.spotify.com/track/3cp8xX1N5jewfKU2oY2Y08"
-    },
-    {
-      "added_at": "2021-10-19 01:47:29",
-      "album": {
-        "name": "Moveys",
-        "url": "https://open.spotify.com/album/5C66ZV77hQsUlhSIYJYcar"
-      },
-      "artists": [
-        {
-          "name": "Slow Pulp",
-          "url": "https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D"
-        }
-      ],
-      "duration_ms": 123331,
-      "name": "At It Again",
-      "url": "https://open.spotify.com/track/3nC63MCw9qxn2uneBWqP7W"
-    },
-    {
-      "added_at": "2022-09-21 00:43:29",
-      "album": {
-        "name": "The world within our bedrooms",
-        "url": "https://open.spotify.com/album/1b9X8S1gflcRRRfhTHcxs3"
-      },
-      "artists": [
-        {
-          "name": "Drug Store Romeos",
-          "url": "https://open.spotify.com/artist/7MMjkDVrjxW9iObeZeeejh"
-        }
-      ],
-      "duration_ms": 153746,
-      "name": "Frame Of Reference",
-      "url": "https://open.spotify.com/track/1Ob2kl4e6Yb5wd6wpxvtGa"
     },
     {
       "added_at": "2021-10-19 01:47:29",
@@ -435,18 +387,66 @@
     {
       "added_at": "2021-10-19 01:47:29",
       "album": {
-        "name": "Passive Aggressive",
-        "url": "https://open.spotify.com/album/6hPFLCX84m3LzdOJDQlkTZ"
+        "name": "Is the Is Are",
+        "url": "https://open.spotify.com/album/3fSqRdxX8lh5nZHjgzEGl1"
       },
       "artists": [
         {
-          "name": "The Radio Dept.",
-          "url": "https://open.spotify.com/artist/0utS63XytOEVN1EtzWhJpG"
+          "name": "DIIV",
+          "url": "https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd"
         }
       ],
-      "duration_ms": 201066,
-      "name": "Pulling Our Weight",
-      "url": "https://open.spotify.com/track/6HhqiKpkJ37qa98TiuYla3"
+      "duration_ms": 226999,
+      "name": "Under the Sun",
+      "url": "https://open.spotify.com/track/3cp8xX1N5jewfKU2oY2Y08"
+    },
+    {
+      "added_at": "2022-09-21 00:43:29",
+      "album": {
+        "name": "The world within our bedrooms",
+        "url": "https://open.spotify.com/album/1b9X8S1gflcRRRfhTHcxs3"
+      },
+      "artists": [
+        {
+          "name": "Drug Store Romeos",
+          "url": "https://open.spotify.com/artist/7MMjkDVrjxW9iObeZeeejh"
+        }
+      ],
+      "duration_ms": 153746,
+      "name": "Frame Of Reference",
+      "url": "https://open.spotify.com/track/1Ob2kl4e6Yb5wd6wpxvtGa"
+    },
+    {
+      "added_at": "2021-10-19 01:47:29",
+      "album": {
+        "name": "The Waves",
+        "url": "https://open.spotify.com/album/2GrLKfN6dTb4o7Eoz6pqSG"
+      },
+      "artists": [
+        {
+          "name": "Tamaryn",
+          "url": "https://open.spotify.com/artist/3TdVTSmMfLh55VrJDUpIQ2"
+        }
+      ],
+      "duration_ms": 220760,
+      "name": "Love Fade",
+      "url": "https://open.spotify.com/track/0p6JvwRK6RqC1SyRVKP6cN"
+    },
+    {
+      "added_at": "2021-10-19 01:47:29",
+      "album": {
+        "name": "Moveys",
+        "url": "https://open.spotify.com/album/5C66ZV77hQsUlhSIYJYcar"
+      },
+      "artists": [
+        {
+          "name": "Slow Pulp",
+          "url": "https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D"
+        }
+      ],
+      "duration_ms": 123331,
+      "name": "At It Again",
+      "url": "https://open.spotify.com/track/3nC63MCw9qxn2uneBWqP7W"
     },
     {
       "added_at": "2021-10-19 01:47:29",
@@ -467,22 +467,6 @@
     {
       "added_at": "2021-10-19 01:47:29",
       "album": {
-        "name": "The Great Dismal",
-        "url": "https://open.spotify.com/album/0LKwC9p0PLomstKm9Y0nt3"
-      },
-      "artists": [
-        {
-          "name": "Nothing",
-          "url": "https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J"
-        }
-      ],
-      "duration_ms": 250096,
-      "name": "Famine Asylum",
-      "url": "https://open.spotify.com/track/5918U5xYBF6Dx6T36fwxlw"
-    },
-    {
-      "added_at": "2021-10-19 01:47:29",
-      "album": {
         "name": "Sway",
         "url": "https://open.spotify.com/album/28us6d6Q9xD8vTkSUbL6Nu"
       },
@@ -495,6 +479,22 @@
       "duration_ms": 154920,
       "name": "Mumble",
       "url": "https://open.spotify.com/track/2N2vs5kpPy5Lcqnn8PYYdy"
+    },
+    {
+      "added_at": "2021-10-19 01:47:29",
+      "album": {
+        "name": "Tired of Tomorrow (Deluxe Version)",
+        "url": "https://open.spotify.com/album/2655MXRi7PSJTtYqdGKeuH"
+      },
+      "artists": [
+        {
+          "name": "Nothing",
+          "url": "https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J"
+        }
+      ],
+      "duration_ms": 204975,
+      "name": "Vertigo Flowers",
+      "url": "https://open.spotify.com/track/3xvVuLA3YYZPd5mx8NOnN6"
     },
     {
       "added_at": "2021-10-19 01:47:29",
@@ -515,8 +515,8 @@
     {
       "added_at": "2021-10-19 01:47:29",
       "album": {
-        "name": "Happy Songs for Happy Zombies",
-        "url": "https://open.spotify.com/album/3K08yniIAPIIxhJOWyoBUX"
+        "name": "Everything Else Matters",
+        "url": "https://open.spotify.com/album/5i4chaWK0h50pbc3WJNXhL"
       },
       "artists": [
         {
@@ -524,9 +524,9 @@
           "url": "https://open.spotify.com/artist/3pJuDuFyP5uxCHDpXPczf4"
         }
       ],
-      "duration_ms": 204202,
-      "name": "Blaster",
-      "url": "https://open.spotify.com/track/11DryxGvweDB9WRJhdjQe2"
+      "duration_ms": 248744,
+      "name": "Holy Forest",
+      "url": "https://open.spotify.com/track/5740WNrWQZEiXK6yoPp2q4"
     },
     {
       "added_at": "2021-10-19 01:47:29",
@@ -593,38 +593,6 @@
       "url": "https://open.spotify.com/track/2gF3wvkKkkuAXGFzAPUBSa"
     },
     {
-      "added_at": "2021-10-19 01:47:29",
-      "album": {
-        "name": "Tired of Tomorrow (Deluxe Version)",
-        "url": "https://open.spotify.com/album/2655MXRi7PSJTtYqdGKeuH"
-      },
-      "artists": [
-        {
-          "name": "Nothing",
-          "url": "https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J"
-        }
-      ],
-      "duration_ms": 204975,
-      "name": "Vertigo Flowers",
-      "url": "https://open.spotify.com/track/3xvVuLA3YYZPd5mx8NOnN6"
-    },
-    {
-      "added_at": "2021-10-19 01:47:29",
-      "album": {
-        "name": "Distressor",
-        "url": "https://open.spotify.com/album/74ym7Us7V06Eox5Wg5WqkD"
-      },
-      "artists": [
-        {
-          "name": "Whirr",
-          "url": "https://open.spotify.com/artist/1tnjjbgszXYa8BbyTzwM0w"
-        }
-      ],
-      "duration_ms": 253443,
-      "name": "Leave",
-      "url": "https://open.spotify.com/track/0BvpyzCi6f36IqdRHdA5Fp"
-    },
-    {
       "added_at": "2022-08-03 04:20:04",
       "album": {
         "name": "Pastel",
@@ -641,68 +609,20 @@
       "url": "https://open.spotify.com/track/2jAxKLW8lw39joDZ4LtUq3"
     },
     {
-      "added_at": "2022-01-07 19:52:45",
-      "album": {
-        "name": "Strawberry",
-        "url": "https://open.spotify.com/album/5ip1HBRqhN4lzubgPiDNMt"
-      },
-      "artists": [
-        {
-          "name": "Doss",
-          "url": "https://open.spotify.com/artist/7bQLFALIEawxhkyFiiLVhM"
-        }
-      ],
-      "duration_ms": 209708,
-      "name": "Strawberry",
-      "url": "https://open.spotify.com/track/3FeiwCiTMUCh8h8G2T0Gmy"
-    },
-    {
       "added_at": "2021-10-19 01:47:29",
       "album": {
-        "name": "Deceiver",
-        "url": "https://open.spotify.com/album/5FFuado5azIt5lxMLQjCPS"
+        "name": "Distressor",
+        "url": "https://open.spotify.com/album/74ym7Us7V06Eox5Wg5WqkD"
       },
       "artists": [
         {
-          "name": "DIIV",
-          "url": "https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd"
+          "name": "Whirr",
+          "url": "https://open.spotify.com/artist/1tnjjbgszXYa8BbyTzwM0w"
         }
       ],
-      "duration_ms": 236746,
-      "name": "Blankenship",
-      "url": "https://open.spotify.com/track/2ZKkGDjImEoTafrLyZHjlp"
-    },
-    {
-      "added_at": "2021-10-19 01:47:29",
-      "album": {
-        "name": "Everything Else Matters",
-        "url": "https://open.spotify.com/album/5i4chaWK0h50pbc3WJNXhL"
-      },
-      "artists": [
-        {
-          "name": "Pinkshinyultrablast",
-          "url": "https://open.spotify.com/artist/3pJuDuFyP5uxCHDpXPczf4"
-        }
-      ],
-      "duration_ms": 248744,
-      "name": "Holy Forest",
-      "url": "https://open.spotify.com/track/5740WNrWQZEiXK6yoPp2q4"
-    },
-    {
-      "added_at": "2021-10-19 01:47:29",
-      "album": {
-        "name": "Twin Plagues",
-        "url": "https://open.spotify.com/album/00rOqMAZR9zHdtRP5KQ64H"
-      },
-      "artists": [
-        {
-          "name": "Wednesday",
-          "url": "https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe"
-        }
-      ],
-      "duration_ms": 148453,
-      "name": "Handsome Man",
-      "url": "https://open.spotify.com/track/7JCBX2hcQ7f7WpjlG89xGh"
+      "duration_ms": 253443,
+      "name": "Leave",
+      "url": "https://open.spotify.com/track/0BvpyzCi6f36IqdRHdA5Fp"
     },
     {
       "added_at": "2021-10-19 01:47:29",
@@ -723,6 +643,86 @@
     {
       "added_at": "2021-10-19 01:47:29",
       "album": {
+        "name": "The Great Dismal",
+        "url": "https://open.spotify.com/album/0LKwC9p0PLomstKm9Y0nt3"
+      },
+      "artists": [
+        {
+          "name": "Nothing",
+          "url": "https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J"
+        }
+      ],
+      "duration_ms": 250096,
+      "name": "Famine Asylum",
+      "url": "https://open.spotify.com/track/5918U5xYBF6Dx6T36fwxlw"
+    },
+    {
+      "added_at": "2021-10-19 01:47:29",
+      "album": {
+        "name": "Deceiver",
+        "url": "https://open.spotify.com/album/5FFuado5azIt5lxMLQjCPS"
+      },
+      "artists": [
+        {
+          "name": "DIIV",
+          "url": "https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd"
+        }
+      ],
+      "duration_ms": 236746,
+      "name": "Blankenship",
+      "url": "https://open.spotify.com/track/2ZKkGDjImEoTafrLyZHjlp"
+    },
+    {
+      "added_at": "2021-10-19 01:47:29",
+      "album": {
+        "name": "Happy Songs for Happy Zombies",
+        "url": "https://open.spotify.com/album/3K08yniIAPIIxhJOWyoBUX"
+      },
+      "artists": [
+        {
+          "name": "Pinkshinyultrablast",
+          "url": "https://open.spotify.com/artist/3pJuDuFyP5uxCHDpXPczf4"
+        }
+      ],
+      "duration_ms": 204202,
+      "name": "Blaster",
+      "url": "https://open.spotify.com/track/11DryxGvweDB9WRJhdjQe2"
+    },
+    {
+      "added_at": "2021-10-19 01:47:29",
+      "album": {
+        "name": "Twin Plagues",
+        "url": "https://open.spotify.com/album/00rOqMAZR9zHdtRP5KQ64H"
+      },
+      "artists": [
+        {
+          "name": "Wednesday",
+          "url": "https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe"
+        }
+      ],
+      "duration_ms": 148453,
+      "name": "Handsome Man",
+      "url": "https://open.spotify.com/track/7JCBX2hcQ7f7WpjlG89xGh"
+    },
+    {
+      "added_at": "2022-01-07 19:52:45",
+      "album": {
+        "name": "Strawberry",
+        "url": "https://open.spotify.com/album/5ip1HBRqhN4lzubgPiDNMt"
+      },
+      "artists": [
+        {
+          "name": "Doss",
+          "url": "https://open.spotify.com/artist/7bQLFALIEawxhkyFiiLVhM"
+        }
+      ],
+      "duration_ms": 209708,
+      "name": "Strawberry",
+      "url": "https://open.spotify.com/track/3FeiwCiTMUCh8h8G2T0Gmy"
+    },
+    {
+      "added_at": "2021-10-19 01:47:29",
+      "album": {
         "name": "Find Yourself Along The Way",
         "url": "https://open.spotify.com/album/4VHuHYgCnMW1lsLQQZd0Gl"
       },
@@ -739,22 +739,6 @@
     {
       "added_at": "2021-10-19 01:47:29",
       "album": {
-        "name": "Glitter",
-        "url": "https://open.spotify.com/album/3HvASlOR1hZ7IFnvFECDBS"
-      },
-      "artists": [
-        {
-          "name": "Pasteboard",
-          "url": "https://open.spotify.com/artist/46ie4kSykhGZ214qwxJ4y9"
-        }
-      ],
-      "duration_ms": 190000,
-      "name": "Breakbeats",
-      "url": "https://open.spotify.com/track/2FiWMOFiCBX8E7yEXAyA83"
-    },
-    {
-      "added_at": "2021-10-19 01:47:29",
-      "album": {
         "name": "Tired of Tomorrow (Deluxe Version)",
         "url": "https://open.spotify.com/album/2655MXRi7PSJTtYqdGKeuH"
       },
@@ -767,22 +751,6 @@
       "duration_ms": 270281,
       "name": "The Dead Are Dumb",
       "url": "https://open.spotify.com/track/0gtvktvlWNbT8BFgx196ov"
-    },
-    {
-      "added_at": "2021-10-19 01:47:29",
-      "album": {
-        "name": "Songs",
-        "url": "https://open.spotify.com/album/5el9vQQOpGyHpsfv0MXqjs"
-      },
-      "artists": [
-        {
-          "name": "Pinkshinyultrablast",
-          "url": "https://open.spotify.com/artist/3pJuDuFyP5uxCHDpXPczf4"
-        }
-      ],
-      "duration_ms": 950210,
-      "name": "Songs",
-      "url": "https://open.spotify.com/track/0y15BMv8TXeAUsDhWIGQFl"
     },
     {
       "added_at": "2021-12-08 15:59:07",
@@ -803,6 +771,22 @@
     {
       "added_at": "2021-10-19 01:47:29",
       "album": {
+        "name": "Glitter",
+        "url": "https://open.spotify.com/album/3HvASlOR1hZ7IFnvFECDBS"
+      },
+      "artists": [
+        {
+          "name": "Pasteboard",
+          "url": "https://open.spotify.com/artist/46ie4kSykhGZ214qwxJ4y9"
+        }
+      ],
+      "duration_ms": 190000,
+      "name": "Breakbeats",
+      "url": "https://open.spotify.com/track/2FiWMOFiCBX8E7yEXAyA83"
+    },
+    {
+      "added_at": "2021-10-19 01:47:29",
+      "album": {
         "name": "Is the Is Are",
         "url": "https://open.spotify.com/album/3fSqRdxX8lh5nZHjgzEGl1"
       },
@@ -819,18 +803,18 @@
     {
       "added_at": "2021-10-19 01:47:29",
       "album": {
-        "name": "Pure Mood",
-        "url": "https://open.spotify.com/album/6nbPtKlhPst5q52OuVgPhb"
+        "name": "Songs",
+        "url": "https://open.spotify.com/album/5el9vQQOpGyHpsfv0MXqjs"
       },
       "artists": [
         {
-          "name": "Ringo Deathstarr",
-          "url": "https://open.spotify.com/artist/3sWLSYm3MFYosc4AZhwajg"
+          "name": "Pinkshinyultrablast",
+          "url": "https://open.spotify.com/artist/3pJuDuFyP5uxCHDpXPczf4"
         }
       ],
-      "duration_ms": 259957,
-      "name": "Stare at the Sun",
-      "url": "https://open.spotify.com/track/5pvmhSKAEGovYtUQW8xqJp"
+      "duration_ms": 950210,
+      "name": "Songs",
+      "url": "https://open.spotify.com/track/0y15BMv8TXeAUsDhWIGQFl"
     },
     {
       "added_at": "2022-04-12 01:44:39",
@@ -851,18 +835,18 @@
     {
       "added_at": "2021-10-19 01:47:29",
       "album": {
-        "name": "23",
-        "url": "https://open.spotify.com/album/018fr4NxxsR6o5TbVpzsIy"
+        "name": "TRU",
+        "url": "https://open.spotify.com/album/5NBOm2pyKCOqt8iYwgMYnH"
       },
       "artists": [
         {
-          "name": "Blonde Redhead",
-          "url": "https://open.spotify.com/artist/5isqImG0rLfAgBJSPMEVXF"
+          "name": "Ovlov",
+          "url": "https://open.spotify.com/artist/2Iy7tZpp5qQudlg5cbcgH8"
         }
       ],
-      "duration_ms": 318800,
-      "name": "23",
-      "url": "https://open.spotify.com/track/2RaGRh57p4OtzpXtr65Nws"
+      "duration_ms": 202528,
+      "name": "Stick",
+      "url": "https://open.spotify.com/track/1PiA3Z5eT98iz6my4yVpn4"
     },
     {
       "added_at": "2021-10-19 01:47:29",
@@ -883,6 +867,22 @@
     {
       "added_at": "2021-10-19 01:47:29",
       "album": {
+        "name": "23",
+        "url": "https://open.spotify.com/album/018fr4NxxsR6o5TbVpzsIy"
+      },
+      "artists": [
+        {
+          "name": "Blonde Redhead",
+          "url": "https://open.spotify.com/artist/5isqImG0rLfAgBJSPMEVXF"
+        }
+      ],
+      "duration_ms": 318800,
+      "name": "23",
+      "url": "https://open.spotify.com/track/2RaGRh57p4OtzpXtr65Nws"
+    },
+    {
+      "added_at": "2021-10-19 01:47:29",
+      "album": {
         "name": "Deafcult",
         "url": "https://open.spotify.com/album/6dPwwV3dTTa7P4isGGBXvy"
       },
@@ -899,18 +899,18 @@
     {
       "added_at": "2021-10-19 01:47:29",
       "album": {
-        "name": "Almost Reach the Sun",
-        "url": "https://open.spotify.com/album/58kWM6VvTn5gc3iiAVqKNS"
+        "name": "Pure Mood",
+        "url": "https://open.spotify.com/album/6nbPtKlhPst5q52OuVgPhb"
       },
       "artists": [
         {
-          "name": "Trementina",
-          "url": "https://open.spotify.com/artist/0DM3M5xGKVaO7MNFBH3K0X"
+          "name": "Ringo Deathstarr",
+          "url": "https://open.spotify.com/artist/3sWLSYm3MFYosc4AZhwajg"
         }
       ],
-      "duration_ms": 182745,
-      "name": "Hazy Youth",
-      "url": "https://open.spotify.com/track/1HXLeO8G18z1LLxk3FbqWD"
+      "duration_ms": 259957,
+      "name": "Stare at the Sun",
+      "url": "https://open.spotify.com/track/5pvmhSKAEGovYtUQW8xqJp"
     },
     {
       "added_at": "2021-10-19 01:47:29",
@@ -931,34 +931,18 @@
     {
       "added_at": "2021-10-19 01:47:29",
       "album": {
-        "name": "TRU",
-        "url": "https://open.spotify.com/album/5NBOm2pyKCOqt8iYwgMYnH"
+        "name": "Sway",
+        "url": "https://open.spotify.com/album/28us6d6Q9xD8vTkSUbL6Nu"
       },
       "artists": [
         {
-          "name": "Ovlov",
-          "url": "https://open.spotify.com/artist/2Iy7tZpp5qQudlg5cbcgH8"
+          "name": "Whirr",
+          "url": "https://open.spotify.com/artist/1tnjjbgszXYa8BbyTzwM0w"
         }
       ],
-      "duration_ms": 202528,
-      "name": "Stick",
-      "url": "https://open.spotify.com/track/1PiA3Z5eT98iz6my4yVpn4"
-    },
-    {
-      "added_at": "2021-10-19 01:47:29",
-      "album": {
-        "name": "Colour Trip",
-        "url": "https://open.spotify.com/album/4etQkD7AQtkMO1t5nQa1rB"
-      },
-      "artists": [
-        {
-          "name": "Ringo Deathstarr",
-          "url": "https://open.spotify.com/artist/3sWLSYm3MFYosc4AZhwajg"
-        }
-      ],
-      "duration_ms": 125333,
-      "name": "Kaleidoscope",
-      "url": "https://open.spotify.com/track/1naoYMSxRHCpu3zvQM2la5"
+      "duration_ms": 211319,
+      "name": "Press",
+      "url": "https://open.spotify.com/track/0PJtjnEPQamRRHIDVj1cGx"
     },
     {
       "added_at": "2021-10-19 01:47:29",
@@ -979,22 +963,6 @@
     {
       "added_at": "2021-10-19 01:47:29",
       "album": {
-        "name": "Sway",
-        "url": "https://open.spotify.com/album/28us6d6Q9xD8vTkSUbL6Nu"
-      },
-      "artists": [
-        {
-          "name": "Whirr",
-          "url": "https://open.spotify.com/artist/1tnjjbgszXYa8BbyTzwM0w"
-        }
-      ],
-      "duration_ms": 211319,
-      "name": "Press",
-      "url": "https://open.spotify.com/track/0PJtjnEPQamRRHIDVj1cGx"
-    },
-    {
-      "added_at": "2021-10-19 01:47:29",
-      "album": {
         "name": "Love Addict",
         "url": "https://open.spotify.com/album/347K9XD3vWxt7AWhOawXTR"
       },
@@ -1007,6 +975,22 @@
       "duration_ms": 182000,
       "name": "Alone",
       "url": "https://open.spotify.com/track/1W91GlNLLC6y0xXg1RLtie"
+    },
+    {
+      "added_at": "2021-10-19 01:47:29",
+      "album": {
+        "name": "Almost Reach the Sun",
+        "url": "https://open.spotify.com/album/58kWM6VvTn5gc3iiAVqKNS"
+      },
+      "artists": [
+        {
+          "name": "Trementina",
+          "url": "https://open.spotify.com/artist/0DM3M5xGKVaO7MNFBH3K0X"
+        }
+      ],
+      "duration_ms": 182745,
+      "name": "Hazy Youth",
+      "url": "https://open.spotify.com/track/1HXLeO8G18z1LLxk3FbqWD"
     },
     {
       "added_at": "2021-10-19 01:47:29",
@@ -1025,22 +1009,6 @@
       "url": "https://open.spotify.com/track/0EST5xuqr25Vxso8Yr4FHd"
     },
     {
-      "added_at": "2022-04-22 18:11:35",
-      "album": {
-        "name": "Giving The World Away",
-        "url": "https://open.spotify.com/album/2TwATR1G07ckXIDydjPKsw"
-      },
-      "artists": [
-        {
-          "name": "Hatchie",
-          "url": "https://open.spotify.com/artist/3d7MqowTZa2bC5iy1JXLLt"
-        }
-      ],
-      "duration_ms": 270226,
-      "name": "The Rhythm",
-      "url": "https://open.spotify.com/track/1PhR7tMOmCZOEUmr7TdmFN"
-    },
-    {
       "added_at": "2021-10-19 01:47:29",
       "album": {
         "name": "The Great Dismal",
@@ -1055,6 +1023,22 @@
       "duration_ms": 230437,
       "name": "Catch a Fade",
       "url": "https://open.spotify.com/track/1JXi6OWDS68SIsTF6TJ3Ob"
+    },
+    {
+      "added_at": "2022-04-22 18:11:35",
+      "album": {
+        "name": "Giving The World Away",
+        "url": "https://open.spotify.com/album/2TwATR1G07ckXIDydjPKsw"
+      },
+      "artists": [
+        {
+          "name": "Hatchie",
+          "url": "https://open.spotify.com/artist/3d7MqowTZa2bC5iy1JXLLt"
+        }
+      ],
+      "duration_ms": 270226,
+      "name": "The Rhythm",
+      "url": "https://open.spotify.com/track/1PhR7tMOmCZOEUmr7TdmFN"
     },
     {
       "added_at": "2022-05-03 02:08:01",
@@ -1075,34 +1059,18 @@
     {
       "added_at": "2021-10-19 01:47:29",
       "album": {
-        "name": "Nature Heart Software",
-        "url": "https://open.spotify.com/album/25NpVtdgL29klIrre3mion"
+        "name": "Colour Trip",
+        "url": "https://open.spotify.com/album/4etQkD7AQtkMO1t5nQa1rB"
       },
       "artists": [
         {
-          "name": "Pia Fraus",
-          "url": "https://open.spotify.com/artist/15cjYStG6SRmTS9d5wNVxT"
+          "name": "Ringo Deathstarr",
+          "url": "https://open.spotify.com/artist/3sWLSYm3MFYosc4AZhwajg"
         }
       ],
-      "duration_ms": 217728,
-      "name": "Pretend to Be Here",
-      "url": "https://open.spotify.com/track/0yDvw3DK4JVV8VR1S7aQRZ"
-    },
-    {
-      "added_at": "2021-10-19 01:47:29",
-      "album": {
-        "name": "Lesser Matters",
-        "url": "https://open.spotify.com/album/4qkV5iPkYOzXBveXuFIRQC"
-      },
-      "artists": [
-        {
-          "name": "The Radio Dept.",
-          "url": "https://open.spotify.com/artist/0utS63XytOEVN1EtzWhJpG"
-        }
-      ],
-      "duration_ms": 293160,
-      "name": "Keen on Boys",
-      "url": "https://open.spotify.com/track/1SbeUtO3YCeSGccurWHHBP"
+      "duration_ms": 125333,
+      "name": "Kaleidoscope",
+      "url": "https://open.spotify.com/track/1naoYMSxRHCpu3zvQM2la5"
     },
     {
       "added_at": "2021-10-19 01:47:29",
@@ -1119,6 +1087,22 @@
       "duration_ms": 279747,
       "name": "Molten Young Lovers",
       "url": "https://open.spotify.com/track/5m7HN7LZW6r2IzYYTKVyw9"
+    },
+    {
+      "added_at": "2021-10-19 01:47:29",
+      "album": {
+        "name": "The Pains of Being Pure at Heart",
+        "url": "https://open.spotify.com/album/02JZJfj0sLbHBVRNi232XI"
+      },
+      "artists": [
+        {
+          "name": "The Pains Of Being Pure At Heart",
+          "url": "https://open.spotify.com/artist/3zmmBJseZelpVEHj8S6Dek"
+        }
+      ],
+      "duration_ms": 243929,
+      "name": "Young Adult Friction",
+      "url": "https://open.spotify.com/track/6DQdSxAihGualboMJt2vcg"
     },
     {
       "added_at": "2022-08-03 04:10:44",
@@ -1143,18 +1127,34 @@
     {
       "added_at": "2021-10-19 01:47:29",
       "album": {
-        "name": "The Pains of Being Pure at Heart",
-        "url": "https://open.spotify.com/album/02JZJfj0sLbHBVRNi232XI"
+        "name": "Day By Day",
+        "url": "https://open.spotify.com/album/5RvCTlW4viz8e0ysvQCD9n"
       },
       "artists": [
         {
-          "name": "The Pains Of Being Pure At Heart",
-          "url": "https://open.spotify.com/artist/3zmmBJseZelpVEHj8S6Dek"
+          "name": "White Flowers",
+          "url": "https://open.spotify.com/artist/3Rge2zrmllt5FBUahfoX8J"
         }
       ],
-      "duration_ms": 243929,
-      "name": "Young Adult Friction",
-      "url": "https://open.spotify.com/track/6DQdSxAihGualboMJt2vcg"
+      "duration_ms": 297418,
+      "name": "Night Drive",
+      "url": "https://open.spotify.com/track/2SKqIW7fbbWKZ0PmRZKWO6"
+    },
+    {
+      "added_at": "2021-10-19 01:47:29",
+      "album": {
+        "name": "Nature Heart Software",
+        "url": "https://open.spotify.com/album/25NpVtdgL29klIrre3mion"
+      },
+      "artists": [
+        {
+          "name": "Pia Fraus",
+          "url": "https://open.spotify.com/artist/15cjYStG6SRmTS9d5wNVxT"
+        }
+      ],
+      "duration_ms": 217728,
+      "name": "Pretend to Be Here",
+      "url": "https://open.spotify.com/track/0yDvw3DK4JVV8VR1S7aQRZ"
     },
     {
       "added_at": "2021-10-19 01:47:29",
@@ -1171,22 +1171,6 @@
       "duration_ms": 247866,
       "name": "crasher",
       "url": "https://open.spotify.com/track/5lQ5Tnlf8A9uFvTjz8uALp"
-    },
-    {
-      "added_at": "2021-10-19 01:47:29",
-      "album": {
-        "name": "Day By Day",
-        "url": "https://open.spotify.com/album/5RvCTlW4viz8e0ysvQCD9n"
-      },
-      "artists": [
-        {
-          "name": "White Flowers",
-          "url": "https://open.spotify.com/artist/3Rge2zrmllt5FBUahfoX8J"
-        }
-      ],
-      "duration_ms": 297418,
-      "name": "Night Drive",
-      "url": "https://open.spotify.com/track/2SKqIW7fbbWKZ0PmRZKWO6"
     },
     {
       "added_at": "2021-10-19 01:47:29",
@@ -1221,38 +1205,6 @@
       "url": "https://open.spotify.com/track/6msavmTdvB1jthlRJRGuwZ"
     },
     {
-      "added_at": "2022-06-20 23:05:31",
-      "album": {
-        "name": "Otra Vez",
-        "url": "https://open.spotify.com/album/3lnvmhXZWbfxH45nw7MvMp"
-      },
-      "artists": [
-        {
-          "name": "Petite Amie",
-          "url": "https://open.spotify.com/artist/79C3hxvHZM7O041gO8YQmw"
-        }
-      ],
-      "duration_ms": 386604,
-      "name": "Otra Vez",
-      "url": "https://open.spotify.com/track/0vA1RgkV2GqrwpkSiINgKR"
-    },
-    {
-      "added_at": "2021-10-19 01:47:29",
-      "album": {
-        "name": "Winks & Kisses: Crackled",
-        "url": "https://open.spotify.com/album/7vk2rJgOvtYV5GXsU3wdKB"
-      },
-      "artists": [
-        {
-          "name": "Airiel",
-          "url": "https://open.spotify.com/artist/1WOhabhnnH1k6KcD81xGD1"
-        }
-      ],
-      "duration_ms": 396253,
-      "name": "Shirley Temple Tidal Wave",
-      "url": "https://open.spotify.com/track/0Gz3IknZYVtHaZ0w6CyVMl"
-    },
-    {
       "added_at": "2021-10-19 01:47:29",
       "album": {
         "name": "D'arcy",
@@ -1271,66 +1223,34 @@
     {
       "added_at": "2021-10-19 01:47:29",
       "album": {
-        "name": "Always, Sometimes, Seldom, Never",
-        "url": "https://open.spotify.com/album/795uPXiy5JMXIpsHtEYmoV"
+        "name": "Winks & Kisses: Crackled",
+        "url": "https://open.spotify.com/album/7vk2rJgOvtYV5GXsU3wdKB"
       },
       "artists": [
         {
-          "name": "Tears Run Rings",
-          "url": "https://open.spotify.com/artist/0cNUrcNznBuZErkcSdHoxJ"
+          "name": "Airiel",
+          "url": "https://open.spotify.com/artist/1WOhabhnnH1k6KcD81xGD1"
         }
       ],
-      "duration_ms": 293466,
-      "name": "Mind the Wires",
-      "url": "https://open.spotify.com/track/0rEVhkcwdi9CcKANWYV0Ot"
+      "duration_ms": 396253,
+      "name": "Shirley Temple Tidal Wave",
+      "url": "https://open.spotify.com/track/0Gz3IknZYVtHaZ0w6CyVMl"
     },
     {
-      "added_at": "2022-04-22 18:16:47",
+      "added_at": "2022-06-20 23:05:31",
       "album": {
-        "name": "Giving The World Away",
-        "url": "https://open.spotify.com/album/2TwATR1G07ckXIDydjPKsw"
+        "name": "Otra Vez",
+        "url": "https://open.spotify.com/album/3lnvmhXZWbfxH45nw7MvMp"
       },
       "artists": [
         {
-          "name": "Hatchie",
-          "url": "https://open.spotify.com/artist/3d7MqowTZa2bC5iy1JXLLt"
+          "name": "Petite Amie",
+          "url": "https://open.spotify.com/artist/79C3hxvHZM7O041gO8YQmw"
         }
       ],
-      "duration_ms": 254900,
-      "name": "The Key",
-      "url": "https://open.spotify.com/track/2D4GOBkOIrCESyIQ6xCnbV"
-    },
-    {
-      "added_at": "2022-01-21 14:06:58",
-      "album": {
-        "name": "Famously Alive",
-        "url": "https://open.spotify.com/album/7AXXRxTM67OvipZj9iRbhw"
-      },
-      "artists": [
-        {
-          "name": "Guerilla Toss",
-          "url": "https://open.spotify.com/artist/2PlLrStX2yK6CzyRi3TKnO"
-        }
-      ],
-      "duration_ms": 264003,
-      "name": "Cannibal Capital",
-      "url": "https://open.spotify.com/track/5mhpd12wL82CIlXjUqngTA"
-    },
-    {
-      "added_at": "2021-10-19 01:47:29",
-      "album": {
-        "name": "Life Is Not A Lesson",
-        "url": "https://open.spotify.com/album/0VmkbO4piecyKI4FO9xfut"
-      },
-      "artists": [
-        {
-          "name": "Glitterer",
-          "url": "https://open.spotify.com/artist/2bTjArGDYivNxnYFH5jUcj"
-        }
-      ],
-      "duration_ms": 143882,
-      "name": "Try Harder Still",
-      "url": "https://open.spotify.com/track/4qrTk0Ap5AJ04Afy7w93Cm"
+      "duration_ms": 386604,
+      "name": "Otra Vez",
+      "url": "https://open.spotify.com/track/0vA1RgkV2GqrwpkSiINgKR"
     },
     {
       "added_at": "2021-10-19 01:47:29",
@@ -1351,18 +1271,34 @@
     {
       "added_at": "2021-10-19 01:47:29",
       "album": {
-        "name": "Miserable Miracles",
-        "url": "https://open.spotify.com/album/2ZDCgglH89doOQH4UVoM0S"
+        "name": "Life Is Not A Lesson",
+        "url": "https://open.spotify.com/album/0VmkbO4piecyKI4FO9xfut"
       },
       "artists": [
         {
-          "name": "Pinkshinyultrablast",
-          "url": "https://open.spotify.com/artist/3pJuDuFyP5uxCHDpXPczf4"
+          "name": "Glitterer",
+          "url": "https://open.spotify.com/artist/2bTjArGDYivNxnYFH5jUcj"
         }
       ],
-      "duration_ms": 272498,
-      "name": "Dance AM",
-      "url": "https://open.spotify.com/track/0P57tdDD56YOrjkYSpfBKS"
+      "duration_ms": 143882,
+      "name": "Try Harder Still",
+      "url": "https://open.spotify.com/track/4qrTk0Ap5AJ04Afy7w93Cm"
+    },
+    {
+      "added_at": "2021-10-19 01:47:29",
+      "album": {
+        "name": "Always, Sometimes, Seldom, Never",
+        "url": "https://open.spotify.com/album/795uPXiy5JMXIpsHtEYmoV"
+      },
+      "artists": [
+        {
+          "name": "Tears Run Rings",
+          "url": "https://open.spotify.com/artist/0cNUrcNznBuZErkcSdHoxJ"
+        }
+      ],
+      "duration_ms": 293466,
+      "name": "Mind the Wires",
+      "url": "https://open.spotify.com/track/0rEVhkcwdi9CcKANWYV0Ot"
     },
     {
       "added_at": "2021-10-19 01:47:29",
@@ -1379,6 +1315,22 @@
       "duration_ms": 178121,
       "name": "Glass Valley",
       "url": "https://open.spotify.com/track/1r55rKvt0UH8nyEaras6V6"
+    },
+    {
+      "added_at": "2022-04-22 18:16:47",
+      "album": {
+        "name": "Giving The World Away",
+        "url": "https://open.spotify.com/album/2TwATR1G07ckXIDydjPKsw"
+      },
+      "artists": [
+        {
+          "name": "Hatchie",
+          "url": "https://open.spotify.com/artist/3d7MqowTZa2bC5iy1JXLLt"
+        }
+      ],
+      "duration_ms": 254900,
+      "name": "The Key",
+      "url": "https://open.spotify.com/track/2D4GOBkOIrCESyIQ6xCnbV"
     },
     {
       "added_at": "2021-10-19 01:47:29",
@@ -1399,34 +1351,34 @@
     {
       "added_at": "2021-10-19 01:47:29",
       "album": {
-        "name": "Belong",
-        "url": "https://open.spotify.com/album/7Hif0SCVj3oHys2QsTSWiZ"
+        "name": "Miserable Miracles",
+        "url": "https://open.spotify.com/album/2ZDCgglH89doOQH4UVoM0S"
       },
       "artists": [
         {
-          "name": "The Pains Of Being Pure At Heart",
-          "url": "https://open.spotify.com/artist/3zmmBJseZelpVEHj8S6Dek"
+          "name": "Pinkshinyultrablast",
+          "url": "https://open.spotify.com/artist/3pJuDuFyP5uxCHDpXPczf4"
         }
       ],
-      "duration_ms": 225160,
-      "name": "Heart in Your Heartbreak",
-      "url": "https://open.spotify.com/track/5jTEWDfM9CQO7twh9a299R"
+      "duration_ms": 272498,
+      "name": "Dance AM",
+      "url": "https://open.spotify.com/track/0P57tdDD56YOrjkYSpfBKS"
     },
     {
-      "added_at": "2021-10-19 01:47:29",
+      "added_at": "2022-01-21 14:06:58",
       "album": {
-        "name": "Auras",
-        "url": "https://open.spotify.com/album/4UFypkjsIrF88ULS3tezcq"
+        "name": "Famously Alive",
+        "url": "https://open.spotify.com/album/7AXXRxTM67OvipZj9iRbhw"
       },
       "artists": [
         {
-          "name": "Deafcult",
-          "url": "https://open.spotify.com/artist/6AX5hnjYSvcjZd9IyqYPsp"
+          "name": "Guerilla Toss",
+          "url": "https://open.spotify.com/artist/2PlLrStX2yK6CzyRi3TKnO"
         }
       ],
-      "duration_ms": 248186,
-      "name": "Lemonade Beauty",
-      "url": "https://open.spotify.com/track/4TJf8afJCWIvYbaEXNLGNz"
+      "duration_ms": 264003,
+      "name": "Cannibal Capital",
+      "url": "https://open.spotify.com/track/5mhpd12wL82CIlXjUqngTA"
     },
     {
       "added_at": "2021-10-19 01:47:29",
@@ -1447,6 +1399,70 @@
     {
       "added_at": "2021-10-19 01:47:29",
       "album": {
+        "name": "Pica",
+        "url": "https://open.spotify.com/album/0Sc94Sz2dTR9H6kNgle0pr"
+      },
+      "artists": [
+        {
+          "name": "Bloodslide",
+          "url": "https://open.spotify.com/artist/6xMS9dPnwVh8EnGusumqaz"
+        }
+      ],
+      "duration_ms": 311912,
+      "name": "Pica",
+      "url": "https://open.spotify.com/track/3XHF4nwGiYuGufZVpdGjvF"
+    },
+    {
+      "added_at": "2021-10-19 01:47:29",
+      "album": {
+        "name": "Auras",
+        "url": "https://open.spotify.com/album/4UFypkjsIrF88ULS3tezcq"
+      },
+      "artists": [
+        {
+          "name": "Deafcult",
+          "url": "https://open.spotify.com/artist/6AX5hnjYSvcjZd9IyqYPsp"
+        }
+      ],
+      "duration_ms": 248186,
+      "name": "Lemonade Beauty",
+      "url": "https://open.spotify.com/track/4TJf8afJCWIvYbaEXNLGNz"
+    },
+    {
+      "added_at": "2021-10-19 01:47:29",
+      "album": {
+        "name": "Belong",
+        "url": "https://open.spotify.com/album/7Hif0SCVj3oHys2QsTSWiZ"
+      },
+      "artists": [
+        {
+          "name": "The Pains Of Being Pure At Heart",
+          "url": "https://open.spotify.com/artist/3zmmBJseZelpVEHj8S6Dek"
+        }
+      ],
+      "duration_ms": 225160,
+      "name": "Heart in Your Heartbreak",
+      "url": "https://open.spotify.com/track/5jTEWDfM9CQO7twh9a299R"
+    },
+    {
+      "added_at": "2021-10-19 01:47:29",
+      "album": {
+        "name": "Passive Aggressive",
+        "url": "https://open.spotify.com/album/2tKuxquz6D6CEhPP5TLTl4"
+      },
+      "artists": [
+        {
+          "name": "The Radio Dept.",
+          "url": "https://open.spotify.com/artist/0utS63XytOEVN1EtzWhJpG"
+        }
+      ],
+      "duration_ms": 200441,
+      "name": "Pulling Our Weight",
+      "url": "https://open.spotify.com/track/5JfibYpOT2Rtw6a0iWHiNm"
+    },
+    {
+      "added_at": "2021-10-19 01:47:29",
+      "album": {
         "name": "Winks & Kisses: Melted",
         "url": "https://open.spotify.com/album/3WG7osXmDwUsMt3QGNoYll"
       },
@@ -1463,22 +1479,6 @@
       "duration_ms": 385533,
       "name": "Firefly",
       "url": "https://open.spotify.com/track/5Fmk7akgjEpRI4vvu7CQ2m"
-    },
-    {
-      "added_at": "2021-10-19 01:47:29",
-      "album": {
-        "name": "Pica",
-        "url": "https://open.spotify.com/album/0Sc94Sz2dTR9H6kNgle0pr"
-      },
-      "artists": [
-        {
-          "name": "Bloodslide",
-          "url": "https://open.spotify.com/artist/6xMS9dPnwVh8EnGusumqaz"
-        }
-      ],
-      "duration_ms": 311912,
-      "name": "Pica",
-      "url": "https://open.spotify.com/track/3XHF4nwGiYuGufZVpdGjvF"
     },
     {
       "added_at": "2021-10-19 01:47:29",
@@ -1545,20 +1545,20 @@
       "url": "https://open.spotify.com/track/18bMfoScYmenFKMristSDI"
     },
     {
-      "added_at": "2022-08-03 04:09:20",
+      "added_at": "2021-10-19 01:47:29",
       "album": {
-        "name": "Fairy Rust",
-        "url": "https://open.spotify.com/album/0wl8ikp9PHraTsaKP1haF7"
+        "name": "Aurora",
+        "url": "https://open.spotify.com/album/6GSS7qv0QGIdTyvbbd8yZd"
       },
       "artists": [
         {
-          "name": "Wombo",
-          "url": "https://open.spotify.com/artist/67GGyFejJ19UWUjJlLhJq4"
+          "name": "Slow Crush",
+          "url": "https://open.spotify.com/artist/3nOrhUtscermNwmfBQRZZv"
         }
       ],
-      "duration_ms": 233679,
-      "name": "Seven of Cups",
-      "url": "https://open.spotify.com/track/0fk0PlLPH4ko6acyM6ajPY"
+      "duration_ms": 290362,
+      "name": "Aurora",
+      "url": "https://open.spotify.com/track/6ELfcFQ3kRxPfdCoGnNaaj"
     },
     {
       "added_at": "2021-10-19 01:47:29",
@@ -1575,22 +1575,6 @@
       "duration_ms": 216520,
       "name": "Wanting War",
       "url": "https://open.spotify.com/track/1hFjYgyZe58ZTNBK4mX6m1"
-    },
-    {
-      "added_at": "2021-10-19 01:47:29",
-      "album": {
-        "name": "Aurora",
-        "url": "https://open.spotify.com/album/6GSS7qv0QGIdTyvbbd8yZd"
-      },
-      "artists": [
-        {
-          "name": "Slow Crush",
-          "url": "https://open.spotify.com/artist/3nOrhUtscermNwmfBQRZZv"
-        }
-      ],
-      "duration_ms": 290362,
-      "name": "Aurora",
-      "url": "https://open.spotify.com/track/6ELfcFQ3kRxPfdCoGnNaaj"
     },
     {
       "added_at": "2022-01-14 02:28:22",
@@ -1625,52 +1609,20 @@
       "url": "https://open.spotify.com/track/5cTWjmahOp7R6KGy7cAhmM"
     },
     {
-      "added_at": "2021-10-19 01:47:29",
+      "added_at": "2022-08-03 04:09:20",
       "album": {
-        "name": "Crush",
-        "url": "https://open.spotify.com/album/2c2vRr4LRLxzu27kfwatSw"
+        "name": "Fairy Rust",
+        "url": "https://open.spotify.com/album/0wl8ikp9PHraTsaKP1haF7"
       },
       "artists": [
         {
-          "name": "Astrobrite",
-          "url": "https://open.spotify.com/artist/1nerWM6ECWXUcvDgGtBLcJ"
+          "name": "Wombo",
+          "url": "https://open.spotify.com/artist/67GGyFejJ19UWUjJlLhJq4"
         }
       ],
-      "duration_ms": 194720,
-      "name": "bottlerocket",
-      "url": "https://open.spotify.com/track/6meqtPZTfzDzYenqPY9DC8"
-    },
-    {
-      "added_at": "2022-06-08 02:28:33",
-      "album": {
-        "name": "i wanna feel happy",
-        "url": "https://open.spotify.com/album/0w0PikGULYYHYAlAZFyDnn"
-      },
-      "artists": [
-        {
-          "name": "Rosie Carney",
-          "url": "https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9"
-        }
-      ],
-      "duration_ms": 192600,
-      "name": "dad",
-      "url": "https://open.spotify.com/track/5TpE5xJ9mrD5IwaeLHi7bi"
-    },
-    {
-      "added_at": "2021-10-19 01:47:29",
-      "album": {
-        "name": "Fast N All",
-        "url": "https://open.spotify.com/album/7LI9UujQD4ub49YNQCfssN"
-      },
-      "artists": [
-        {
-          "name": "Enumclaw",
-          "url": "https://open.spotify.com/artist/79yETfINxnDl54mTKLZUlb"
-        }
-      ],
-      "duration_ms": 231696,
-      "name": "Fast N All",
-      "url": "https://open.spotify.com/track/0E6A5gwmEulCFPewEGpJIx"
+      "duration_ms": 233679,
+      "name": "Seven of Cups",
+      "url": "https://open.spotify.com/track/0fk0PlLPH4ko6acyM6ajPY"
     },
     {
       "added_at": "2021-10-19 01:47:29",
@@ -1691,34 +1643,34 @@
     {
       "added_at": "2021-10-19 01:47:29",
       "album": {
-        "name": "Love Comes In Waves",
-        "url": "https://open.spotify.com/album/6H1YKdZQvIuOVQkKUpOHtR"
+        "name": "Fast N All",
+        "url": "https://open.spotify.com/album/7LI9UujQD4ub49YNQCfssN"
       },
       "artists": [
         {
-          "name": "Andy Bell",
-          "url": "https://open.spotify.com/artist/0DCLBHSfbqLoGK3ikLGPxc"
+          "name": "Enumclaw",
+          "url": "https://open.spotify.com/artist/79yETfINxnDl54mTKLZUlb"
         }
       ],
-      "duration_ms": 288575,
-      "name": "Love Comes In Waves",
-      "url": "https://open.spotify.com/track/2boEyOYahQ5kYuAQnr05B9"
+      "duration_ms": 231696,
+      "name": "Fast N All",
+      "url": "https://open.spotify.com/track/0E6A5gwmEulCFPewEGpJIx"
     },
     {
-      "added_at": "2022-08-13 01:07:10",
+      "added_at": "2021-10-19 01:47:29",
       "album": {
-        "name": "Tongue",
-        "url": "https://open.spotify.com/album/6ruFK4GEN4Dtu1Ig4KJDho"
+        "name": "Crush",
+        "url": "https://open.spotify.com/album/2c2vRr4LRLxzu27kfwatSw"
       },
       "artists": [
         {
-          "name": "Suave Punk",
-          "url": "https://open.spotify.com/artist/7mHAXsMI3hAj3dUZMR4fnt"
+          "name": "Astrobrite",
+          "url": "https://open.spotify.com/artist/1nerWM6ECWXUcvDgGtBLcJ"
         }
       ],
-      "duration_ms": 214000,
-      "name": "Tongue",
-      "url": "https://open.spotify.com/track/0dOf1BeCB1uL1b0dBtvL39"
+      "duration_ms": 194720,
+      "name": "bottlerocket",
+      "url": "https://open.spotify.com/track/6meqtPZTfzDzYenqPY9DC8"
     },
     {
       "added_at": "2021-10-19 01:47:29",
@@ -1735,6 +1687,54 @@
       "duration_ms": 377760,
       "name": "Sharron Apple",
       "url": "https://open.spotify.com/track/7yuX2OzkFAm6eKOj2AnL1R"
+    },
+    {
+      "added_at": "2021-10-19 01:47:29",
+      "album": {
+        "name": "Love Comes In Waves",
+        "url": "https://open.spotify.com/album/6H1YKdZQvIuOVQkKUpOHtR"
+      },
+      "artists": [
+        {
+          "name": "Andy Bell",
+          "url": "https://open.spotify.com/artist/0DCLBHSfbqLoGK3ikLGPxc"
+        }
+      ],
+      "duration_ms": 288575,
+      "name": "Love Comes In Waves",
+      "url": "https://open.spotify.com/track/2boEyOYahQ5kYuAQnr05B9"
+    },
+    {
+      "added_at": "2022-06-08 02:28:33",
+      "album": {
+        "name": "i wanna feel happy",
+        "url": "https://open.spotify.com/album/0w0PikGULYYHYAlAZFyDnn"
+      },
+      "artists": [
+        {
+          "name": "Rosie Carney",
+          "url": "https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9"
+        }
+      ],
+      "duration_ms": 192600,
+      "name": "dad",
+      "url": "https://open.spotify.com/track/5TpE5xJ9mrD5IwaeLHi7bi"
+    },
+    {
+      "added_at": "2021-10-19 01:47:29",
+      "album": {
+        "name": "Autumn, Again",
+        "url": "https://open.spotify.com/album/2iME9zWaS1jUcztTmzPHSB"
+      },
+      "artists": [
+        {
+          "name": "A Sunny Day In Glasgow",
+          "url": "https://open.spotify.com/artist/6ri0XKbaMvGEQ6r7fSee8g"
+        }
+      ],
+      "duration_ms": 221186,
+      "name": "Calling it love isn't love (Don't fall in love)",
+      "url": "https://open.spotify.com/track/4CQExLcRw5XWiWL1FqwE8J"
     },
     {
       "added_at": "2022-08-03 04:18:25",

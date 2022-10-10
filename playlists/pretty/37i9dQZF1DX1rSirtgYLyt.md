@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1rSirtgYLyt.md) - [plain]
 
 > The best cover versions from the world of Blues\. Taj Mahal on cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,185 likes - 74 songs - 5 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,784 likes - 74 songs - 5 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,7 +71,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1rSirtgYLyt.md) - [plain]
 | 61 | [On The Road Again](https://open.spotify.com/track/6IWxHgVbdKyUMydhVGXRaT) | [Canned Heat](https://open.spotify.com/artist/27a0GiCba9K9lnkKidroFU) | [The Best Of Canned Heat](https://open.spotify.com/album/0TBmLh3U5sk1F8eF0twjwi) | 3:26 |
 | 62 | [Ventilator Blues](https://open.spotify.com/track/1TvWKgvwVEYzmgqlN9NbKa) | [Clarence "Gatemouth" Brown](https://open.spotify.com/artist/4aoS04mCVj1CMam1LiHngo) | [All Blues'd Up: Songs of the Rolling Stones](https://open.spotify.com/album/0Ov999p2Fo5q4ia5m4oT9M) | 6:13 |
 | 63 | [Hound Dog](https://open.spotify.com/track/4zWSge8GdwbqY2aTFX98rR) | [Koko Taylor](https://open.spotify.com/artist/04qIJRFjTmvW5I1DMyGE1R) | [Greatest Blues Covers](https://open.spotify.com/album/16DVtb2ktkxqpkzFsYGnSG) | 5:33 |
-| 64 | [Ain't No Way](https://open.spotify.com/track/3XpmFvsO8U4kMlVmxcc0AH) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ), [Beth Hart](https://open.spotify.com/artist/30TrHDLNCKQVTYWOn9QqOC) | [Don't Explain](https://open.spotify.com/album/2uyORQ080sXcPN0oO5lXvT) | 6:47 |
+| 64 | [Ain't No Way](https://open.spotify.com/track/3XpmFvsO8U4kMlVmxcc0AH) | [Beth Hart, Joe Bonamassa](https://open.spotify.com/artist/5n1XQGBfQhNsALjJs0APL5) | [Don't Explain](https://open.spotify.com/album/2uyORQ080sXcPN0oO5lXvT) | 6:47 |
 | 65 | [\(I Can't Get No\) Satisfaction](https://open.spotify.com/track/4HTF7QhXhZQyuowEaGAiBl) | [Junior Wells](https://open.spotify.com/artist/78CBFzwo7wwNaaTYVP5btK) | [All Blues'd Up: Songs of the Rolling Stones](https://open.spotify.com/album/0Ov999p2Fo5q4ia5m4oT9M) | 5:57 |
 | 66 | [Stop Messin’ Round \- Live](https://open.spotify.com/track/7FD3t0JgZ46k28egOPYfHa) | [Joanne Shaw Taylor](https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7) | [Blues From The Heart Live](https://open.spotify.com/album/3HhP20GmF6tYJWAkbc1Dvp) | 3:49 |
 | 67 | [I'll Play the Blues for You](https://open.spotify.com/track/6mu0vqpaJQJ0qoTMiP64ao) | [Frank Marino](https://open.spotify.com/artist/4N7EfXrDs4KJFXuN2BIuCT) | [L.A\. Blues Authority Vol\. Iv: Fit for a King](https://open.spotify.com/album/3BsSIZf9F8d6dejzNht08w) | 5:30 |
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1rSirtgYLyt.md) - [plain]
 | 73 | [Purple Rain](https://open.spotify.com/track/5WqBaZ1VIieP63wl7l18cY) | [Lucky Peterson](https://open.spotify.com/artist/3OxsMm9KHw2FRJLGHtILl5) | [Move](https://open.spotify.com/album/67G22I1pYApKc9kr3Y5zyq) | 4:18 |
 | 74 | [I Got the Same Old Blues \(feat\. Tom Petty\)](https://open.spotify.com/track/5uIAjyOvC9PjzCpeMRcQo8) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD), [Tom Petty](https://open.spotify.com/artist/2UZMlIwnkgAEDBsw1Rejkn) | [Eric Clapton & Friends \- The Breeze \(An Appreciation of JJ Cale\)](https://open.spotify.com/album/21swqoPE6wszY0IC8sJEYs) | 3:02 |
 
-Snapshot ID: `MTY2MzAwMDY3MSwwMDAwMDAwMDM3ZWQyOGQyODA3YTcwY2ZlYzg5YTcwYTg1N2RjMzE2`
+Snapshot ID: `MTY2NDg4NzMyNSwwMDAwMDAwMGY5N2YxMWUxMTg2MzRmNTQxMjdjYmM3ZGRmNTRiMzE1`

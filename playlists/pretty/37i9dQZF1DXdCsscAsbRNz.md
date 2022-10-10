@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdCsscAsbRNz.md) - [plain]
 
 > Peaceful instrumentals to help you keep calm.
 
-[Spotify](https://open.spotify.com/user/spotify) - 790,157 likes - 242 songs - 11 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 790,258 likes - 242 songs - 11 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -251,4 +251,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdCsscAsbRNz.md) - [plain]
 | 241 | [Phenomena](https://open.spotify.com/track/1Naf16ekAHVTzYhhxoZCnQ) | [Primer Dia](https://open.spotify.com/artist/5kXyMVyXSK2cHnjOja5hRJ) | [Phenomena](https://open.spotify.com/album/1AozXJPuscfZsKrpaxpIhm) | 2:46 |
 | 242 | [Soledad natural](https://open.spotify.com/track/6rNvJRr2yErh0cRjMq7scQ) | [Sonhos de Solidão](https://open.spotify.com/artist/5u54CVdeb9o3uVJjigbrWS) | [Soledad natural \(Ambient version\)](https://open.spotify.com/album/0uWYghjpGDOUZ5kw9jUIZN) | 2:35 |
 
-Snapshot ID: `MTY2NDU2MjQzOCwwMDAwMDAwMGFmMDk5ZGJlMzY4NmRlNjE3ZWJjYzI4ZWY0YTgyN2Uy`
+Snapshot ID: `MTY2NDg4NTI4MCwwMDAwMDAwMGQ5ZDM3NzYyZmY1NzZiZDI5YTVhNDg2YmZlNjRhM2U0`

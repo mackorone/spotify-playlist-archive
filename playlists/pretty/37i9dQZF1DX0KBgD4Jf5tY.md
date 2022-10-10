@@ -2,15 +2,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KBgD4Jf5tY.md) - [plain]
 
 ### [Fresh Finds Italia](https://open.spotify.com/playlist/37i9dQZF1DX0KBgD4Jf5tY)
 
-> Nuove scoperte dalla scena indipendente italiana, senza etichette di genere\. Cover: <a href="spotify:artist:0LD8RSks9BHCIxqeTOdnAh">chenopsia</a>
+> Nuove scoperte dalla scena indipendente italiana, senza etichette di genere\. Cover: <a href="spotify:artist:032syoAKbxdyWFRlyk0PJv">Paride</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,450 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,490 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [pavimento](https://open.spotify.com/track/5Gsts0SjO5pqvCzY8ZCCVM) | [chenopsia](https://open.spotify.com/artist/0LD8RSks9BHCIxqeTOdnAh) | [pavimento](https://open.spotify.com/album/3XMqMlWdbTNUzCiTTyFoal) | 2:52 |
-| 2 | [PALMO](https://open.spotify.com/track/6ufQaCOPaHk7tjjhH0tsX7) | [PARIDE](https://open.spotify.com/artist/032syoAKbxdyWFRlyk0PJv) | [PALMO](https://open.spotify.com/album/7GQy5MFibcCAgfIEIAgqRn) | 2:38 |
-| 3 | [Collane di Rovi](https://open.spotify.com/track/02uNVEJkbLCXoYoz81qKyO) | [Saqqara](https://open.spotify.com/artist/11N2M0Sj5Ndbgndrio0Lht), [Johnma'](https://open.spotify.com/artist/0R7UfZjaL9MprVrNeMN4cu) | [Collane di Rovi](https://open.spotify.com/album/4sIhyQWSOGHO5cvhs6VzEY) | 2:55 |
+| 1 | [PALMO](https://open.spotify.com/track/6ufQaCOPaHk7tjjhH0tsX7) | [PARIDE](https://open.spotify.com/artist/032syoAKbxdyWFRlyk0PJv) | [PALMO](https://open.spotify.com/album/7GQy5MFibcCAgfIEIAgqRn) | 2:38 |
+| 2 | [pavimento](https://open.spotify.com/track/5Gsts0SjO5pqvCzY8ZCCVM) | [chenopsia](https://open.spotify.com/artist/0LD8RSks9BHCIxqeTOdnAh) | [pavimento](https://open.spotify.com/album/3XMqMlWdbTNUzCiTTyFoal) | 2:52 |
+| 3 | [Collane di Rovi](https://open.spotify.com/track/02uNVEJkbLCXoYoz81qKyO) | [Saqqara](https://open.spotify.com/artist/11N2M0Sj5Ndbgndrio0Lht), [Johnma'](https://open.spotify.com/artist/0R7UfZjaL9MprVrNeMN4cu), [BruceBrown](https://open.spotify.com/artist/3ukHv1PGMnzDRPc7MVPvtU) | [Collane di Rovi](https://open.spotify.com/album/4sIhyQWSOGHO5cvhs6VzEY) | 2:55 |
 | 4 | [UMMA \- Arssalendo Remix](https://open.spotify.com/track/6Zdz3j652H8aYnfR4IcYK0) | [BLUEM](https://open.spotify.com/artist/1eFOTBAGM0w0SH7jnTYSd1), [Arssalendo](https://open.spotify.com/artist/54LmkGE6kI6eoaPdd6XiEd) | [UMMA \(Remix\)](https://open.spotify.com/album/2sCXqX8nII3Qk3ms7k4n9F) | 3:17 |
 | 5 | [SBADIGLI \- Rearranged](https://open.spotify.com/track/1Wb1mkRuPT1kmxXEnN87Uh) | [Tanca](https://open.spotify.com/artist/2HDuNOhm4h9glYn2F7rAFP) | [WORDS OF DOGTOWN \(Deluxe\)](https://open.spotify.com/album/1Xsz3QEUeU5lnpyUZZnK0P) | 2:03 |
 | 6 | [Sindrome](https://open.spotify.com/track/7iRtGSmBhhUKjeYJ3QVPsB) | [GARA2](https://open.spotify.com/artist/7LJbgyipJ45jT8NwUWq8sc) | [Sindrome](https://open.spotify.com/album/2fc0QOShOivzFMq3aZCLsZ) | 3:01 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KBgD4Jf5tY.md) - [plain]
 | 49 | [Cantonese](https://open.spotify.com/track/6fOA2rIxr7HEV8a5dyiVl2) | [Stramare](https://open.spotify.com/artist/5oAifDTzCGqpz9YWvTrLOW) | [Cantonese](https://open.spotify.com/album/6oZtBvNPK6ezs0ZL7XOAwb) | 3:40 |
 | 50 | [Le sette e sette](https://open.spotify.com/track/1a3Qif4kPHr3nTUzTPvfw6) | [Klippa Kloppa](https://open.spotify.com/artist/0Ok66I75FSQaKQSy7CAEdK) | [Le sette e sette](https://open.spotify.com/album/3kLLLad5A5Q35oqzNwDli6) | 2:23 |
 
-Snapshot ID: `MTY2NDQ4ODg2MCwwMDAwMDAwMGE1YjRiNzYyZDMxNjQwMzJlNGY3NzM5ZGE2OTAwMjg0`
+Snapshot ID: `MTY2NTI1NTI4NSwwMDAwMDAwMDg2Y2FjYzgyNjdkMzJlNDBjM2NkNjVmOWUwOTk5MWZm`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "V-Pop \u0111\u00e3 \u0111\u01a1m hoa tr\u00ean nh\u1eefng kh\u00fac ca n\u00e0y. \u1ea2nh b\u00eca: \u0110\u1ee9c Ph\u00fac",
+  "description": "V-Pop \u0111\u00e3 \u0111\u01a1m hoa tr\u00ean nh\u1eefng kh\u00fac ca n\u00e0y. \u1ea2nh b\u00eca: MONO",
   "name": "V-Pop Kh\u00f4ng Th\u1ec3 Thi\u1ebfu",
   "published_playlist_ids": [
     "0wzTwcfKaOgiicu3axKIAh"
@@ -381,7 +381,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-06",
       "duration_ms": 156000,
       "name": "Ch\u00ecm S\u00e2u",
       "url": "https://open.spotify.com/track/4ih9noxBfg7euMjCPO0qNH"
@@ -482,6 +482,28 @@
     },
     {
       "album": {
+        "name": "C\u00f3 Ch\u01a1i C\u00f3 Ch\u1ecbu",
+        "url": "https://open.spotify.com/album/4N7qnvyotrQcxAF8fKqO4e"
+      },
+      "artists": [
+        {
+          "name": "Karik",
+          "url": "https://open.spotify.com/artist/2Bwp23pD4UVsSkchHDZw4F"
+        },
+        {
+          "name": "Only C",
+          "url": "https://open.spotify.com/artist/5GBXwBVQufRCmwI1bNRIUo"
+        }
+      ],
+      "date_added": "2022-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223857,
+      "name": "C\u00f3 Ch\u01a1i C\u00f3 Ch\u1ecbu",
+      "url": "https://open.spotify.com/track/2pYFHEy0xp48Le5Bfw5vcX"
+    },
+    {
+      "album": {
         "name": "C\u00f3 em",
         "url": "https://open.spotify.com/album/13En1VmJCW0kI9AMTywYQs"
       },
@@ -559,6 +581,24 @@
       "duration_ms": 215908,
       "name": "C\u00f3 Kh\u00f4ng Gi\u1eef M\u1ea5t \u0110\u1eebng T\u00ecm",
       "url": "https://open.spotify.com/track/04bm7NsIhRfTlLGDoKMEw8"
+    },
+    {
+      "album": {
+        "name": "C\u00f3 \u0110\u00e2u Ai Ng\u1edd",
+        "url": "https://open.spotify.com/album/706NYXSqVRFvEn2L4GFahN"
+      },
+      "artists": [
+        {
+          "name": "C\u1ea7m",
+          "url": "https://open.spotify.com/artist/56vNGG0GJtL6p8ltx7cLvj"
+        }
+      ],
+      "date_added": "2022-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220000,
+      "name": "C\u00f3 \u0110\u00e2u Ai Ng\u1edd",
+      "url": "https://open.spotify.com/track/5OE0IzdS8Bs4UaLvDoTXKD"
     },
     {
       "album": {
@@ -643,7 +683,7 @@
       ],
       "date_added": "2022-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-04",
       "duration_ms": 349793,
       "name": "Di\u1ec5n vi\u00ean t\u1ed3i",
       "url": "https://open.spotify.com/track/3pgwxYRPbYIC6C1J2FPge8"
@@ -869,7 +909,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-06",
       "duration_ms": 238986,
       "name": "hai m\u01b0\u01a1i hai (22)",
       "url": "https://open.spotify.com/track/6K2RhGsliOVLgj7iUaayuD"
@@ -1926,6 +1966,24 @@
     },
     {
       "album": {
+        "name": "T\u1ea1i V\u00ec Sao",
+        "url": "https://open.spotify.com/album/5DZXXrAKNwD0c0Avrs5W9j"
+      },
+      "artists": [
+        {
+          "name": "RPT MCK",
+          "url": "https://open.spotify.com/artist/1zSv9qZANOWB4HRE8sxeTL"
+        }
+      ],
+      "date_added": "2022-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203111,
+      "name": "T\u1ea1i V\u00ec Sao",
+      "url": "https://open.spotify.com/track/5yrPkBvOBvqfSjDhoRzDlO"
+    },
+    {
+      "album": {
         "name": "dreAMEE (acoustic)",
         "url": "https://open.spotify.com/album/6YfaCqg9ImLOCb5sD0Q158"
       },
@@ -1989,6 +2047,24 @@
       "duration_ms": 257000,
       "name": "T\u1ef1 S\u1ef1 - Original Soundtrack from \"Qua B\u1ec3n L\u00e0m Chi\"",
       "url": "https://open.spotify.com/track/5Fx8zxEEaPMkwzM00JFr3N"
+    },
+    {
+      "album": {
+        "name": "T\u1ef1 T\u00ecnh 2",
+        "url": "https://open.spotify.com/album/644Tj4OPFEO8PtpgWhbvug"
+      },
+      "artists": [
+        {
+          "name": "Trung Qu\u00e2n",
+          "url": "https://open.spotify.com/artist/5Cf9nBDNc99UFkq9Yqap7Q"
+        }
+      ],
+      "date_added": "2022-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290976,
+      "name": "T\u1ef1 T\u00ecnh 2",
+      "url": "https://open.spotify.com/track/4AT7ZRCPu3jDxA4Y22IO22"
     },
     {
       "album": {
@@ -2153,7 +2229,7 @@
       ],
       "date_added": "2022-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-06",
       "duration_ms": 200730,
       "name": "\u0110a \u0110oan",
       "url": "https://open.spotify.com/track/3Q5QdILpa7GDF4MvmsU8ZH"

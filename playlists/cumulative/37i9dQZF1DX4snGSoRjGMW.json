@@ -574,6 +574,24 @@
     },
     {
       "album": {
+        "name": "Midnight Blues",
+        "url": "https://open.spotify.com/album/6nYaIvRUVf1dFzCrX5aNAK"
+      },
+      "artists": [
+        {
+          "name": "Crystal Shawanda",
+          "url": "https://open.spotify.com/artist/31X6W8Y4y9E0G78r5Y2rXG"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215803,
+      "name": "I Want My Soul Back",
+      "url": "https://open.spotify.com/track/1b8xcfGtzTNluKLSSDaZdV"
+    },
+    {
+      "album": {
         "name": "Memphisapolis",
         "url": "https://open.spotify.com/album/6TEps2bRTcnlOVvIIhGutL"
       },
@@ -589,7 +607,7 @@
       ],
       "date_added": "2020-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-04",
       "duration_ms": 227800,
       "name": "I Won't Be Lonely",
       "url": "https://open.spotify.com/track/7nRPUUqMMwAt4sDBaoODA2"
@@ -1375,7 +1393,7 @@
       ],
       "date_added": "2020-12-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-11",
+      "date_removed": null,
       "duration_ms": 437360,
       "name": "Whisper Away",
       "url": "https://open.spotify.com/track/3ZUbWKDZxdFuI2HHGH8enX"
@@ -1483,7 +1501,7 @@
       ],
       "date_added": "2020-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-05",
       "duration_ms": 208266,
       "name": "You're Only Good For One Thang Baby",
       "url": "https://open.spotify.com/track/0CLPTSldV2Dp016RKyBUqi"

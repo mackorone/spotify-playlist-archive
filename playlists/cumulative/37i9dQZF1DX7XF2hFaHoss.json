@@ -579,7 +579,7 @@
       ],
       "date_added": "2022-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-06",
       "duration_ms": 167426,
       "name": "eight hours",
       "url": "https://open.spotify.com/track/0EUVAn6PdL49jH8B51c2mv"
@@ -1238,6 +1238,24 @@
     },
     {
       "album": {
+        "name": "Songs to Break Up To (Acoustic)",
+        "url": "https://open.spotify.com/album/0sXJ4r2XZwc0hzDXJsjsuw"
+      },
+      "artists": [
+        {
+          "name": "Wild Rivers",
+          "url": "https://open.spotify.com/artist/59sBwR0jPSTrbMtuTkRPN5"
+        }
+      ],
+      "date_added": "2021-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200072,
+      "name": "Left Off - Acoustic",
+      "url": "https://open.spotify.com/track/5Ev04kROb2YoEVP4QYOHuh"
+    },
+    {
+      "album": {
         "name": "Left Off (Acoustic)",
         "url": "https://open.spotify.com/album/4zAeJbA5nVtlnA23xn4XuV"
       },
@@ -1819,10 +1837,28 @@
       ],
       "date_added": "2022-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-06",
       "duration_ms": 197755,
       "name": "Radiohead",
       "url": "https://open.spotify.com/track/07Br10W8gRXrf0hE3PtJPX"
+    },
+    {
+      "album": {
+        "name": "Radiohead",
+        "url": "https://open.spotify.com/album/40ZbrZkjuFVvTNF0LbijLf"
+      },
+      "artists": [
+        {
+          "name": "Alix Page",
+          "url": "https://open.spotify.com/artist/7hp6PmppZj6iiolLVT4iEZ"
+        }
+      ],
+      "date_added": "2022-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197755,
+      "name": "Radiohead",
+      "url": "https://open.spotify.com/track/5IL0nIQHoYJk4FEYItYnys"
     },
     {
       "album": {

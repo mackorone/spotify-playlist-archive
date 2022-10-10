@@ -4,7 +4,7 @@
 
 > All funk, all live\. Cover: Earth Wind & Fire
 
-54 songs - 5 hr 40 min - [published](https://open.spotify.com/playlist/2v0Q5hgZbBPeZBtRP6q1o6)
+55 songs - 5 hr 45 min - [published](https://open.spotify.com/playlist/2v0Q5hgZbBPeZBtRP6q1o6)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,7 @@
 | [Cosmic Sans \(Syncopate & Motivate Live\)](https://open.spotify.com/track/2ANnYIAJOzJWJWOLvL2Y1y) | [Cory Wong](https://open.spotify.com/artist/6xt9sJmmyYwWkJv8A6ssiU) | [The Syncopate & Motivate Tour \(Set 1\)](https://open.spotify.com/album/4e3jwkTC8elSXhuAItnuLy) | 3:31 | 2021-11-12 |  |
 | [Dance To The Music \- Live at The Woodstock Music & Art Fair, August 17, 1969](https://open.spotify.com/track/1ONoh5Aag3erFA42iiqYO4) | [Sly & The Family Stone](https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD) | [Sly & The Family Stone: The Woodstock Experience](https://open.spotify.com/album/39wxaeY2oFX5TcQcOqLkSV) | 4:28 | 2021-11-12 |  |
 | [Dr\. Funkenstein's Supergroovalisticprosifunkstication Medley \- Live/1977](https://open.spotify.com/track/3ZuK6t3vXaJ0BXZKtG77BZ) | [Parliament](https://open.spotify.com/artist/5SMVzTJyKFJ7TUb46DglcH) | [Live: P Funk Earth Tour](https://open.spotify.com/album/4IXQ7jxYm9gUoGAccnDEAY) | 4:58 | 2021-11-12 |  |
-| [Fast Lane \- Live \(Remastered\)](https://open.spotify.com/track/1PdBabuRpBR8P3QiQf3Oow) | [Gil Scott\-Heron](https://open.spotify.com/artist/0kEfub5RzlZOB2zGomqVSU) | [Hold Onto Your Dreams \[Live \(Remastered\)\]](https://open.spotify.com/album/1vnnqR8Vt3X8ynTC5SIIV1) | 4:51 | 2022-09-09 |  |
+| [Fast Lane \- Live \(Remastered\)](https://open.spotify.com/track/1PdBabuRpBR8P3QiQf3Oow) | [Gil Scott\-Heron](https://open.spotify.com/artist/0kEfub5RzlZOB2zGomqVSU) | [Hold Onto Your Dreams \[Live \(Remastered\)\]](https://open.spotify.com/album/1vnnqR8Vt3X8ynTC5SIIV1) | 4:51 | 2022-09-09 | 2022-10-08 |
 | [Fencewalk](https://open.spotify.com/track/3y2ajMJw4VAsJOzoz5JhYX) | [Mandrill](https://open.spotify.com/artist/6RWnslEkqboHbDg0OUabe5) | [Live At Montreux Jazz Festival \- 2002](https://open.spotify.com/album/2RogfuDuOWjacuVLiIDJjt) | 5:15 | 2021-11-12 |  |
 | [Fight the Power \- Live](https://open.spotify.com/track/2Ypb73l8jpPQsfwsfHNa9y) | [The Isley Brothers](https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp) | [Live!](https://open.spotify.com/album/2mzfhtB3Rd81uxdvOKik76) | 5:14 | 2021-11-12 |  |
 | [Fire On the Bayou \- Live](https://open.spotify.com/track/1bczSibAGPsGL98oOqtLvf) | [The Meters](https://open.spotify.com/artist/2JRvXPGWiINrnJljNJhG5s) | [Uptown Rulers! Live on the Queen Mary](https://open.spotify.com/album/4OFlpfoLF5FRjF8EGNt98T) | 7:09 | 2021-11-12 |  |
@@ -59,6 +59,7 @@
 | [Think \(About It\) \- Live At The Apollo Theater/1972](https://open.spotify.com/track/0cmA7hUiZIYH8VnbPIdkM2) | [Lyn Collins](https://open.spotify.com/artist/6XJPGyxrP66scKvIE9kpPN) | [Get Down With James Brown: Live At The Apollo Vol\. IV](https://open.spotify.com/album/5h8mYFGE2upHNqHRAMoVBA) | 7:25 | 2021-11-12 |  |
 | [Use Me \- Live At The Sahara Tahoe, Stateline, NV/1973](https://open.spotify.com/track/4e8V40rAwpfHwtqCPqUvxg) | [Isaac Hayes](https://open.spotify.com/artist/3IKV7o6WPphDB7cCWXaG3E) | [Live At The Sahara Tahoe](https://open.spotify.com/album/1k5Bv7B73nLsEChdqjXQrl) | 5:41 | 2021-11-12 |  |
 | [Voodoo](https://open.spotify.com/track/0ARTwon56jAPKpR0gnsoSg) | [The Neville Brothers](https://open.spotify.com/artist/3d1olqhURDe8e5HOta1Qxg) | [Live On Planet Earth](https://open.spotify.com/album/2lXmjiAfNZSbMiQriGnboP) | 4:14 | 2021-11-12 |  |
+| [Wake Me \(Live\)](https://open.spotify.com/track/4USchbsYWOLEMPUCIT9EG1) | [Nigel Hall](https://open.spotify.com/artist/04HwdlOSZ8Rnmp4D3vyjI2) | [Wake Me \(Live\)](https://open.spotify.com/album/6XpKCIgD8za1q08PUkpa9n) | 4:57 | 2022-10-07 |  |
 | [We Do This \(feat\. George Clinton\) \- Live from One Nite Alone Tour...The Aftershow](https://open.spotify.com/track/6Ql4aaZJ3xHdFhwWAbyWvM) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j), [The New Power Generation](https://open.spotify.com/artist/1xtGjxE9c1YmEmFPCH6Izp), [George Clinton](https://open.spotify.com/artist/2GVBp7QyHckoOg7rYkLvrA) | [One Nite Alone..\. The Aftershow: It Ain't Over! \(Up Late with Prince & The NPG\) \[Live\]](https://open.spotify.com/album/4cnxxYwMvBQN4LGEq2nKVq) | 4:42 | 2021-11-12 |  |
 | [We Want the Funk \- Live from Metropolis](https://open.spotify.com/track/2ZvgUipjG2wjEp1Ei74Dlf) | [George Clinton](https://open.spotify.com/artist/2GVBp7QyHckoOg7rYkLvrA) | [George Clinton P\-Funk: Live from Metropolis Studios](https://open.spotify.com/album/0FNqj3ZqoIBQartZIg5GkP) | 5:11 | 2021-11-12 |  |
 | [Wind Me Up Chuck / Hoochie Coochie Man \(Live\)](https://open.spotify.com/track/3j0h8GVtHdkb8PMHp6r4pF) | [Chuck Brown](https://open.spotify.com/artist/2ssIfCr0vMmCuesIw9U4eg) | [Your Game‚ Live At the 9: 30 Club, Washington, D.C.](https://open.spotify.com/album/2Emrjdw9u7VQmsuhXn46vR) | 6:21 | 2021-11-12 |  |

@@ -311,7 +311,7 @@
       ],
       "date_added": "2021-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-06",
       "duration_ms": 357703,
       "name": "Amores",
       "url": "https://open.spotify.com/track/3KTkkZvSPmh3leXluyABBs"
@@ -395,7 +395,7 @@
       ],
       "date_added": "2022-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-06",
       "duration_ms": 288000,
       "name": "Antares",
       "url": "https://open.spotify.com/track/1Wtzml7KMFbC3Iq5v1AeUK"
@@ -3090,6 +3090,24 @@
     },
     {
       "album": {
+        "name": "Losing Game",
+        "url": "https://open.spotify.com/album/5QP8mNwbdpxuz9cLG49igL"
+      },
+      "artists": [
+        {
+          "name": "GHEIST",
+          "url": "https://open.spotify.com/artist/60pOigPjgmU7AzmZmWEQZU"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 331457,
+      "name": "Losing Game",
+      "url": "https://open.spotify.com/track/4eSPKciUMc2ZzzCqwBuWNA"
+    },
+    {
+      "album": {
         "name": "Distorted Youth EP",
         "url": "https://open.spotify.com/album/65OPNarZvRrfJM2BDyHAVi"
       },
@@ -4033,6 +4051,36 @@
       "duration_ms": 462608,
       "name": "Olappa",
       "url": "https://open.spotify.com/track/4MaARFislNIGgr6iqejbHC"
+    },
+    {
+      "album": {
+        "name": "On Me (Mal\u00f3ne Remix)",
+        "url": "https://open.spotify.com/album/6y6P7dKg5zEQgScPD1w4I9"
+      },
+      "artists": [
+        {
+          "name": "DJ Chus",
+          "url": "https://open.spotify.com/artist/7kxOVclB0zQamtBR0syCrg"
+        },
+        {
+          "name": "Dean Mickoski",
+          "url": "https://open.spotify.com/artist/51HLurY6ZdJtatIdyeOrBI"
+        },
+        {
+          "name": "Malone",
+          "url": "https://open.spotify.com/artist/7fQMET8UaHL3gpH9LhqINM"
+        },
+        {
+          "name": "Uhura",
+          "url": "https://open.spotify.com/artist/3jngSW5geTKjZ8OjMFuGs6"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205560,
+      "name": "On Me - Mal\u00f3ne Remix",
+      "url": "https://open.spotify.com/track/5Wemnm8Xwz2b2h6BfDsvMi"
     },
     {
       "album": {

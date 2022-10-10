@@ -1,12 +1,12 @@
 {
   "description": "A different shade of the blues. Cover: Ash Grunwald",
-  "num_followers": 22047,
+  "num_followers": 22689,
   "original_name": "Alt-Blue",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTk3NTU4OCwwMDAwMDAwMDU0ZjI2M2Q1MzE5NmVhOWNjNDNlMTFhMjFhOGRhYWZm",
+  "snapshot_id": "MTY2MTk3NTU4OCwwMDAwMDAwMDVlYWE4OWM1ZjBlNDZjY2RlYTExMjQ1MjhiZWIxZGY3",
   "tracks": [
     {
       "added_at": "2022-08-31 19:45:43",
@@ -75,18 +75,18 @@
     {
       "added_at": "2022-08-31 19:45:43",
       "album": {
-        "name": "Satellite Man",
-        "url": "https://open.spotify.com/album/7eyTLA21q56FZbknxquBOO"
+        "name": "A Light That Never Dies",
+        "url": "https://open.spotify.com/album/7LH0Sg7HCq6DRKwjloezQ1"
       },
       "artists": [
         {
-          "name": "Satellite and the Harpoonist",
-          "url": "https://open.spotify.com/artist/5RS142sMxPVrkhPl7CAGyG"
+          "name": "KaiL Baxley",
+          "url": "https://open.spotify.com/artist/3fV14PAU0MWFaj0Kt8MDWx"
         }
       ],
-      "duration_ms": 180432,
-      "name": "Satellite Man",
-      "url": "https://open.spotify.com/track/57vNFNbilns66ZcLkM47Th"
+      "duration_ms": 173366,
+      "name": "The Ballad of Johnny",
+      "url": "https://open.spotify.com/track/2A32JdgX32o5yUloJMq4Q3"
     },
     {
       "added_at": "2022-08-31 19:45:43",
@@ -107,22 +107,6 @@
     {
       "added_at": "2022-08-31 19:45:43",
       "album": {
-        "name": "Holy Ghost Fire",
-        "url": "https://open.spotify.com/album/4VBgT5PAWX8PmnDSvqbdht"
-      },
-      "artists": [
-        {
-          "name": "Larkin Poe",
-          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
-        }
-      ],
-      "duration_ms": 202917,
-      "name": "Holy Ghost Fire",
-      "url": "https://open.spotify.com/track/3VuJi1qJ2gcL7XHjEJZuga"
-    },
-    {
-      "added_at": "2022-08-31 19:45:43",
-      "album": {
         "name": "Stay Wild",
         "url": "https://open.spotify.com/album/2EvSeHfsL1ZgP2U7CTmBRF"
       },
@@ -139,18 +123,34 @@
     {
       "added_at": "2022-08-31 19:45:43",
       "album": {
-        "name": "A Light That Never Dies",
-        "url": "https://open.spotify.com/album/7LH0Sg7HCq6DRKwjloezQ1"
+        "name": "Satellite Man",
+        "url": "https://open.spotify.com/album/7eyTLA21q56FZbknxquBOO"
       },
       "artists": [
         {
-          "name": "KaiL Baxley",
-          "url": "https://open.spotify.com/artist/3fV14PAU0MWFaj0Kt8MDWx"
+          "name": "Satellite and the Harpoonist",
+          "url": "https://open.spotify.com/artist/5RS142sMxPVrkhPl7CAGyG"
         }
       ],
-      "duration_ms": 173366,
-      "name": "The Ballad of Johnny",
-      "url": "https://open.spotify.com/track/2A32JdgX32o5yUloJMq4Q3"
+      "duration_ms": 180432,
+      "name": "Satellite Man",
+      "url": "https://open.spotify.com/track/57vNFNbilns66ZcLkM47Th"
+    },
+    {
+      "added_at": "2022-08-31 19:45:43",
+      "album": {
+        "name": "Holy Ghost Fire",
+        "url": "https://open.spotify.com/album/4VBgT5PAWX8PmnDSvqbdht"
+      },
+      "artists": [
+        {
+          "name": "Larkin Poe",
+          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
+        }
+      ],
+      "duration_ms": 202917,
+      "name": "Holy Ghost Fire",
+      "url": "https://open.spotify.com/track/3VuJi1qJ2gcL7XHjEJZuga"
     },
     {
       "added_at": "2022-08-31 19:45:43",
@@ -295,38 +295,6 @@
     {
       "added_at": "2022-08-31 19:45:43",
       "album": {
-        "name": "Don't Tell Me No Lies",
-        "url": "https://open.spotify.com/album/1rQb95a3OAbZ0fNlm0nFn5"
-      },
-      "artists": [
-        {
-          "name": "The Deadbeat Cousins",
-          "url": "https://open.spotify.com/artist/1NLpUEmI57tHPTH9GSDA40"
-        }
-      ],
-      "duration_ms": 147423,
-      "name": "Don't Tell Me No Lies",
-      "url": "https://open.spotify.com/track/7dpiJiCnguTuTjcKORxfpt"
-    },
-    {
-      "added_at": "2022-08-31 19:45:43",
-      "album": {
-        "name": "Ones to Keep Close",
-        "url": "https://open.spotify.com/album/7v3pyxWeamgw2yhPj40CB0"
-      },
-      "artists": [
-        {
-          "name": "The Bones of J.R. Jones",
-          "url": "https://open.spotify.com/artist/7sMcWECQxLm7EoKdRlSCAn"
-        }
-      ],
-      "duration_ms": 196843,
-      "name": "The Drop",
-      "url": "https://open.spotify.com/track/4QDU4Wr9Jp0CRV2SaslhGv"
-    },
-    {
-      "added_at": "2022-08-31 19:45:43",
-      "album": {
         "name": "Click Click Domino",
         "url": "https://open.spotify.com/album/4jZkftndOfxPCNaUyeUQfq"
       },
@@ -347,18 +315,18 @@
     {
       "added_at": "2022-08-31 19:45:43",
       "album": {
-        "name": "Say the Word",
-        "url": "https://open.spotify.com/album/00aLz8ns1aftpDB3dQFCOb"
+        "name": "Ones to Keep Close",
+        "url": "https://open.spotify.com/album/7v3pyxWeamgw2yhPj40CB0"
       },
       "artists": [
         {
-          "name": "The Allergies",
-          "url": "https://open.spotify.com/artist/2v2cdjqYIpT8ZBpflNTttY"
+          "name": "The Bones of J.R. Jones",
+          "url": "https://open.spotify.com/artist/7sMcWECQxLm7EoKdRlSCAn"
         }
       ],
-      "duration_ms": 180706,
-      "name": "Get Yourself Some",
-      "url": "https://open.spotify.com/track/6UWo6O18TobSRAxVwYI10L"
+      "duration_ms": 196843,
+      "name": "The Drop",
+      "url": "https://open.spotify.com/track/4QDU4Wr9Jp0CRV2SaslhGv"
     },
     {
       "added_at": "2022-08-31 19:45:43",
@@ -379,18 +347,34 @@
     {
       "added_at": "2022-08-31 19:45:43",
       "album": {
-        "name": "Self Made Man",
-        "url": "https://open.spotify.com/album/4jwVtyG5s22UpGqKOZishP"
+        "name": "Say the Word",
+        "url": "https://open.spotify.com/album/00aLz8ns1aftpDB3dQFCOb"
       },
       "artists": [
         {
-          "name": "Larkin Poe",
-          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
+          "name": "The Allergies",
+          "url": "https://open.spotify.com/artist/2v2cdjqYIpT8ZBpflNTttY"
         }
       ],
-      "duration_ms": 192351,
-      "name": "Tears Of Blue To Gold",
-      "url": "https://open.spotify.com/track/1Pcj2cc5mMvIUfZ7HgfHaD"
+      "duration_ms": 180706,
+      "name": "Get Yourself Some",
+      "url": "https://open.spotify.com/track/6UWo6O18TobSRAxVwYI10L"
+    },
+    {
+      "added_at": "2022-08-31 19:45:43",
+      "album": {
+        "name": "Don't Tell Me No Lies",
+        "url": "https://open.spotify.com/album/1rQb95a3OAbZ0fNlm0nFn5"
+      },
+      "artists": [
+        {
+          "name": "The Deadbeat Cousins",
+          "url": "https://open.spotify.com/artist/1NLpUEmI57tHPTH9GSDA40"
+        }
+      ],
+      "duration_ms": 147423,
+      "name": "Don't Tell Me No Lies",
+      "url": "https://open.spotify.com/track/7dpiJiCnguTuTjcKORxfpt"
     },
     {
       "added_at": "2022-08-31 19:45:43",
@@ -411,6 +395,22 @@
     {
       "added_at": "2022-08-31 19:45:43",
       "album": {
+        "name": "Self Made Man",
+        "url": "https://open.spotify.com/album/4jwVtyG5s22UpGqKOZishP"
+      },
+      "artists": [
+        {
+          "name": "Larkin Poe",
+          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
+        }
+      ],
+      "duration_ms": 192351,
+      "name": "Tears Of Blue To Gold",
+      "url": "https://open.spotify.com/track/1Pcj2cc5mMvIUfZ7HgfHaD"
+    },
+    {
+      "added_at": "2022-08-31 19:45:43",
+      "album": {
         "name": "Don't Say Goodbye",
         "url": "https://open.spotify.com/album/4D1EqPba5ZOyIbYkaWqZR2"
       },
@@ -423,22 +423,6 @@
       "duration_ms": 185597,
       "name": "Get Gone",
       "url": "https://open.spotify.com/track/6U4XpiZrqaYTVmKKfens2L"
-    },
-    {
-      "added_at": "2022-08-31 19:45:43",
-      "album": {
-        "name": "Deeper Well",
-        "url": "https://open.spotify.com/album/6NxV2YhPxDRC4BQ55luKzQ"
-      },
-      "artists": [
-        {
-          "name": "Dirtwire",
-          "url": "https://open.spotify.com/artist/0hc2qwaU2xy7LUd0FRjcHK"
-        }
-      ],
-      "duration_ms": 284210,
-      "name": "Deeper Well",
-      "url": "https://open.spotify.com/track/0hAnedWjp1nrPXn4yyqp4u"
     },
     {
       "added_at": "2022-08-31 19:45:43",
@@ -459,18 +443,18 @@
     {
       "added_at": "2022-08-31 19:45:43",
       "album": {
-        "name": "Up and Rolling",
-        "url": "https://open.spotify.com/album/5jEiXH4G09AiHqBkEm2ZMM"
+        "name": "Deeper Well",
+        "url": "https://open.spotify.com/album/6NxV2YhPxDRC4BQ55luKzQ"
       },
       "artists": [
         {
-          "name": "North Mississippi Allstars",
-          "url": "https://open.spotify.com/artist/714osTgzZrkyf3SGjggpfY"
+          "name": "Dirtwire",
+          "url": "https://open.spotify.com/artist/0hc2qwaU2xy7LUd0FRjcHK"
         }
       ],
-      "duration_ms": 191933,
-      "name": "Bump that Mother",
-      "url": "https://open.spotify.com/track/5UOyPqtOZwwwGIyp375MyE"
+      "duration_ms": 284210,
+      "name": "Deeper Well",
+      "url": "https://open.spotify.com/track/0hAnedWjp1nrPXn4yyqp4u"
     },
     {
       "added_at": "2022-08-31 19:45:43",
@@ -491,18 +475,18 @@
     {
       "added_at": "2022-08-31 19:45:43",
       "album": {
-        "name": "Self Made Man",
-        "url": "https://open.spotify.com/album/4jwVtyG5s22UpGqKOZishP"
+        "name": "Up and Rolling",
+        "url": "https://open.spotify.com/album/5jEiXH4G09AiHqBkEm2ZMM"
       },
       "artists": [
         {
-          "name": "Larkin Poe",
-          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
+          "name": "North Mississippi Allstars",
+          "url": "https://open.spotify.com/artist/714osTgzZrkyf3SGjggpfY"
         }
       ],
-      "duration_ms": 193389,
-      "name": "Keep Diggin\u2019",
-      "url": "https://open.spotify.com/track/2wD0XO7uJWtwdp7p3U1YwI"
+      "duration_ms": 191933,
+      "name": "Bump that Mother",
+      "url": "https://open.spotify.com/track/5UOyPqtOZwwwGIyp375MyE"
     },
     {
       "added_at": "2022-08-31 19:45:43",
@@ -523,6 +507,22 @@
     {
       "added_at": "2022-08-31 19:45:43",
       "album": {
+        "name": "Self Made Man",
+        "url": "https://open.spotify.com/album/4jwVtyG5s22UpGqKOZishP"
+      },
+      "artists": [
+        {
+          "name": "Larkin Poe",
+          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
+        }
+      ],
+      "duration_ms": 193389,
+      "name": "Keep Diggin\u2019",
+      "url": "https://open.spotify.com/track/2wD0XO7uJWtwdp7p3U1YwI"
+    },
+    {
+      "added_at": "2022-08-31 19:45:43",
+      "album": {
         "name": "Howlin' Sun",
         "url": "https://open.spotify.com/album/2lWyPYPhVuPEd0fOTRHUwS"
       },
@@ -539,18 +539,18 @@
     {
       "added_at": "2022-08-31 19:45:43",
       "album": {
-        "name": "Ain't Too Worried Yet",
-        "url": "https://open.spotify.com/album/3ifmjG8tSe2MtZzFpmUKg4"
+        "name": "Moonshine Blue",
+        "url": "https://open.spotify.com/album/4w7N0SsMduNWCXAIVUONWw"
       },
       "artists": [
         {
-          "name": "Bad Flamingo",
-          "url": "https://open.spotify.com/artist/3Ht7Wd1qVgmFyW63bl5eKE"
+          "name": "Jack Broadbent",
+          "url": "https://open.spotify.com/artist/2yk5jg6yi5fV6xmUZoBPHU"
         }
       ],
-      "duration_ms": 212903,
-      "name": "Ain't Too Worried Yet",
-      "url": "https://open.spotify.com/track/0jf5lyDBbgIU7kt5ULc1ZF"
+      "duration_ms": 168752,
+      "name": "Wishing Well",
+      "url": "https://open.spotify.com/track/5pzZNwKYPFrI9UidaDcH9J"
     },
     {
       "added_at": "2022-08-31 19:45:43",
@@ -571,18 +571,18 @@
     {
       "added_at": "2022-08-31 19:45:43",
       "album": {
-        "name": "Moonshine Blue",
-        "url": "https://open.spotify.com/album/4w7N0SsMduNWCXAIVUONWw"
+        "name": "Ain't Too Worried Yet",
+        "url": "https://open.spotify.com/album/3ifmjG8tSe2MtZzFpmUKg4"
       },
       "artists": [
         {
-          "name": "Jack Broadbent",
-          "url": "https://open.spotify.com/artist/2yk5jg6yi5fV6xmUZoBPHU"
+          "name": "Bad Flamingo",
+          "url": "https://open.spotify.com/artist/3Ht7Wd1qVgmFyW63bl5eKE"
         }
       ],
-      "duration_ms": 168752,
-      "name": "Wishing Well",
-      "url": "https://open.spotify.com/track/5pzZNwKYPFrI9UidaDcH9J"
+      "duration_ms": 212903,
+      "name": "Ain't Too Worried Yet",
+      "url": "https://open.spotify.com/track/0jf5lyDBbgIU7kt5ULc1ZF"
     },
     {
       "added_at": "2022-08-31 19:45:43",
@@ -639,22 +639,6 @@
     {
       "added_at": "2022-08-31 19:45:43",
       "album": {
-        "name": "Nobody's Wrong",
-        "url": "https://open.spotify.com/album/2nQsviBF5EfSr3V5zGjjTp"
-      },
-      "artists": [
-        {
-          "name": "Gaby Moreno",
-          "url": "https://open.spotify.com/artist/0K9pSmFx0kWESA9jqx8aCW"
-        }
-      ],
-      "duration_ms": 235311,
-      "name": "Nobody's Wrong",
-      "url": "https://open.spotify.com/track/5OPwCl6o8mJUOAti1sz1Ac"
-    },
-    {
-      "added_at": "2022-08-31 19:45:43",
-      "album": {
         "name": "Come On",
         "url": "https://open.spotify.com/album/5UItOyIYBjcLlCESGf9fDX"
       },
@@ -675,6 +659,38 @@
     {
       "added_at": "2022-08-31 19:45:43",
       "album": {
+        "name": "Nobody's Wrong",
+        "url": "https://open.spotify.com/album/2nQsviBF5EfSr3V5zGjjTp"
+      },
+      "artists": [
+        {
+          "name": "Gaby Moreno",
+          "url": "https://open.spotify.com/artist/0K9pSmFx0kWESA9jqx8aCW"
+        }
+      ],
+      "duration_ms": 235311,
+      "name": "Nobody's Wrong",
+      "url": "https://open.spotify.com/track/5OPwCl6o8mJUOAti1sz1Ac"
+    },
+    {
+      "added_at": "2022-08-31 19:45:43",
+      "album": {
+        "name": "Peace of Mind",
+        "url": "https://open.spotify.com/album/1zVOWqWdzJILGp06SBmTel"
+      },
+      "artists": [
+        {
+          "name": "Bhi Bhiman",
+          "url": "https://open.spotify.com/artist/6OukdlNSOR1SoGNF7v0d2C"
+        }
+      ],
+      "duration_ms": 194093,
+      "name": "Can't Nobody Stop Us",
+      "url": "https://open.spotify.com/track/3vYpSRPpjAa6meFbsFyCv1"
+    },
+    {
+      "added_at": "2022-08-31 19:45:43",
+      "album": {
         "name": "Don't Say Goodbye",
         "url": "https://open.spotify.com/album/4D1EqPba5ZOyIbYkaWqZR2"
       },
@@ -687,22 +703,6 @@
       "duration_ms": 191688,
       "name": "Don't Say Goodbye",
       "url": "https://open.spotify.com/track/3vOtFfShTAHO2OMvv7GUxE"
-    },
-    {
-      "added_at": "2022-08-31 19:45:43",
-      "album": {
-        "name": "Sand Castles",
-        "url": "https://open.spotify.com/album/2jxO3hbH29uTJiGWx7BOpr"
-      },
-      "artists": [
-        {
-          "name": "Rehab",
-          "url": "https://open.spotify.com/artist/1qh1aHXy7LRcb7eyriuJTS"
-        }
-      ],
-      "duration_ms": 169000,
-      "name": "Them That Matter Don't Mind",
-      "url": "https://open.spotify.com/track/078Ubk0ej7JTAph4R6NZbJ"
     },
     {
       "added_at": "2022-08-31 19:45:43",
@@ -743,18 +743,18 @@
     {
       "added_at": "2022-08-31 19:45:43",
       "album": {
-        "name": "The Difference Between Me & You",
-        "url": "https://open.spotify.com/album/39vMDQxjFx7HO1O4YdPv5G"
+        "name": "Sand Castles",
+        "url": "https://open.spotify.com/album/2jxO3hbH29uTJiGWx7BOpr"
       },
       "artists": [
         {
-          "name": "Black Joe Lewis & The Honeybears",
-          "url": "https://open.spotify.com/artist/6kbzJ40luXJ5IKnSpWr7SD"
+          "name": "Rehab",
+          "url": "https://open.spotify.com/artist/1qh1aHXy7LRcb7eyriuJTS"
         }
       ],
-      "duration_ms": 241226,
-      "name": "Nothing but a Clich\u00e9",
-      "url": "https://open.spotify.com/track/7a19ONgUWreV4yZykAy7Ub"
+      "duration_ms": 169000,
+      "name": "Them That Matter Don't Mind",
+      "url": "https://open.spotify.com/track/078Ubk0ej7JTAph4R6NZbJ"
     },
     {
       "added_at": "2022-08-31 19:45:43",
@@ -779,34 +779,34 @@
     {
       "added_at": "2022-08-31 19:45:43",
       "album": {
-        "name": "Peace of Mind",
-        "url": "https://open.spotify.com/album/1zVOWqWdzJILGp06SBmTel"
+        "name": "The Difference Between Me & You",
+        "url": "https://open.spotify.com/album/39vMDQxjFx7HO1O4YdPv5G"
       },
       "artists": [
         {
-          "name": "Bhi Bhiman",
-          "url": "https://open.spotify.com/artist/6OukdlNSOR1SoGNF7v0d2C"
+          "name": "Black Joe Lewis & The Honeybears",
+          "url": "https://open.spotify.com/artist/6kbzJ40luXJ5IKnSpWr7SD"
         }
       ],
-      "duration_ms": 194093,
-      "name": "Can't Nobody Stop Us",
-      "url": "https://open.spotify.com/track/3vYpSRPpjAa6meFbsFyCv1"
+      "duration_ms": 241226,
+      "name": "Nothing but a Clich\u00e9",
+      "url": "https://open.spotify.com/track/7a19ONgUWreV4yZykAy7Ub"
     },
     {
       "added_at": "2022-08-31 19:45:43",
       "album": {
-        "name": "Keep On",
-        "url": "https://open.spotify.com/album/50CK5WZHyOwMeZHVYGCDIJ"
+        "name": "Bottom Shelf Gin",
+        "url": "https://open.spotify.com/album/6ItheSwVdlIhOZhXsvjDdC"
       },
       "artists": [
         {
-          "name": "Southern Avenue",
-          "url": "https://open.spotify.com/artist/4HfoncnCuBS7D4xU4VDosQ"
+          "name": "Bad Flamingo",
+          "url": "https://open.spotify.com/artist/3Ht7Wd1qVgmFyW63bl5eKE"
         }
       ],
-      "duration_ms": 147904,
-      "name": "Switchup",
-      "url": "https://open.spotify.com/track/4Pt6kY4Q9wxiFj9QJspC1g"
+      "duration_ms": 182293,
+      "name": "Bottom Shelf Gin",
+      "url": "https://open.spotify.com/track/2d4h1uZMKMe58QlIxlmrPH"
     },
     {
       "added_at": "2022-08-31 19:45:43",
@@ -827,18 +827,18 @@
     {
       "added_at": "2022-08-31 19:45:43",
       "album": {
-        "name": "Chocolate Samurai",
-        "url": "https://open.spotify.com/album/0iAF0Ac7k0qAZ5AkugkgBX"
+        "name": "Keep On",
+        "url": "https://open.spotify.com/album/50CK5WZHyOwMeZHVYGCDIJ"
       },
       "artists": [
         {
-          "name": "Fantastic Negrito",
-          "url": "https://open.spotify.com/artist/5QXLMdpKeByOo5ypH9gT13"
+          "name": "Southern Avenue",
+          "url": "https://open.spotify.com/artist/4HfoncnCuBS7D4xU4VDosQ"
         }
       ],
-      "duration_ms": 295839,
-      "name": "Chocolate Samurai",
-      "url": "https://open.spotify.com/track/4UtHodK1fk12jrvPi2pCcP"
+      "duration_ms": 147904,
+      "name": "Switchup",
+      "url": "https://open.spotify.com/track/4Pt6kY4Q9wxiFj9QJspC1g"
     },
     {
       "added_at": "2022-08-31 19:45:43",

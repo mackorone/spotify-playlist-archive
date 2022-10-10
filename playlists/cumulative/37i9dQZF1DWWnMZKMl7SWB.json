@@ -2771,7 +2771,7 @@
     {
       "album": {
         "name": "Culture",
-        "url": "https://open.spotify.com/album/24BipwyBivjGOMXSJQAJGq"
+        "url": "https://open.spotify.com/album/4GUidWgIFuLfcr8btReanA"
       },
       "artists": [
         {
@@ -2782,6 +2782,24 @@
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 443217,
+      "name": "Nico",
+      "url": "https://open.spotify.com/track/1KiTPYOFaYU5aSIwpvZUHr"
+    },
+    {
+      "album": {
+        "name": "Culture",
+        "url": "https://open.spotify.com/album/24BipwyBivjGOMXSJQAJGq"
+      },
+      "artists": [
+        {
+          "name": "Breach",
+          "url": "https://open.spotify.com/artist/2MMkuQE0f6CDaamJdWXaCC"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-06",
       "duration_ms": 443217,
       "name": "Nico",
       "url": "https://open.spotify.com/track/2VS6CRgA68sO4NQLM1s7IU"

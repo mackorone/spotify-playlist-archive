@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "C\u00f9ng t\u00f4n vinh t\u00e0i n\u0103ng v\u00e0 \u00e2m nh\u1ea1c c\u1ee7a nh\u1eefng n\u1eef ngh\u1ec7 s\u0129 Vi\u1ec7t. \u1ea2nh b\u00eca: Chi Pu",
+  "description": "C\u00f9ng t\u00f4n vinh t\u00e0i n\u0103ng v\u00e0 \u00e2m nh\u1ea1c c\u1ee7a nh\u1eefng n\u1eef ngh\u1ec7 s\u0129 Vi\u1ec7t. \u1ea2nh b\u00eca: \u00c1i Ph\u01b0\u01a1ng",
   "name": "EQUAL Vietnam",
   "published_playlist_ids": [
     "04IRwdQz860iINipt3YtIB"
@@ -269,6 +269,24 @@
       "duration_ms": 187706,
       "name": "C\u00f3 Nh\u1eefng Y\u00eau Th\u01b0\u01a1ng N\u00e0o",
       "url": "https://open.spotify.com/track/3dqeOJby9bSAZ6Bxo12HFh"
+    },
+    {
+      "album": {
+        "name": "C\u00f3 \u0110\u00e2u Ai Ng\u1edd",
+        "url": "https://open.spotify.com/album/706NYXSqVRFvEn2L4GFahN"
+      },
+      "artists": [
+        {
+          "name": "C\u1ea7m",
+          "url": "https://open.spotify.com/artist/56vNGG0GJtL6p8ltx7cLvj"
+        }
+      ],
+      "date_added": "2022-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220000,
+      "name": "C\u00f3 \u0110\u00e2u Ai Ng\u1edd",
+      "url": "https://open.spotify.com/track/5OE0IzdS8Bs4UaLvDoTXKD"
     },
     {
       "album": {
@@ -923,6 +941,24 @@
     {
       "album": {
         "name": "L\u1ed7i \u1ede Y\u00eau Th\u01b0\u01a1ng",
+        "url": "https://open.spotify.com/album/0EBXI8fCIpcocbLG88lDzt"
+      },
+      "artists": [
+        {
+          "name": "Ai Phuong",
+          "url": "https://open.spotify.com/artist/5k5vCzAmH0dcRda22U9Hut"
+        }
+      ],
+      "date_added": "2022-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266815,
+      "name": "L\u1ed7i \u1ede Y\u00eau Th\u01b0\u01a1ng",
+      "url": "https://open.spotify.com/track/1s8AfdYyV8IWMeUAJyKR4S"
+    },
+    {
+      "album": {
+        "name": "L\u1ed7i \u1ede Y\u00eau Th\u01b0\u01a1ng",
         "url": "https://open.spotify.com/album/66GdlFHolfWr4mu6ZYZb2b"
       },
       "artists": [
@@ -1151,7 +1187,7 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-05",
       "duration_ms": 321904,
       "name": "M\u1ed9t Ng\u00e0n N\u1ed7i \u0110au",
       "url": "https://open.spotify.com/track/05X3a0YGmS1rbH50aL8lGF"
@@ -1503,7 +1539,7 @@
       ],
       "date_added": "2022-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-06",
       "duration_ms": 231652,
       "name": "Sashimi",
       "url": "https://open.spotify.com/track/48ogJnwdNJGgHj2aNZhZq6"
@@ -1819,7 +1855,7 @@
       ],
       "date_added": "2022-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-05",
       "duration_ms": 214285,
       "name": "t\u00f3c ng\u1eafn",
       "url": "https://open.spotify.com/track/2wQwox4OOvt9Mr4PtFjs9F"
@@ -2135,6 +2171,24 @@
       "duration_ms": 287359,
       "name": "\u0110\u00fang C\u0169ng Th\u00e0nh Sai",
       "url": "https://open.spotify.com/track/33weHbON0j21ZPUMc0ZKTt"
+    },
+    {
+      "album": {
+        "name": "\u0110\u01b0\u1eddng V\u1ec1 Nh\u00e0",
+        "url": "https://open.spotify.com/album/2L4kKETYA5sbXVqpk3fpk3"
+      },
+      "artists": [
+        {
+          "name": "Ai Phuong",
+          "url": "https://open.spotify.com/artist/5k5vCzAmH0dcRda22U9Hut"
+        }
+      ],
+      "date_added": "2022-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272727,
+      "name": "\u0110\u01b0\u1eddng V\u1ec1 Nh\u00e0",
+      "url": "https://open.spotify.com/track/41xLRF9wYENxgmTNAd2s4Q"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DXbbp0uiGXEBw"

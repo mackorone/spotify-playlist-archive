@@ -4,7 +4,7 @@
 
 > Relax and take it slow today
 
-153 songs - 8 hr 37 min - [published](https://open.spotify.com/playlist/3p1V85d927eyG2kPYAHK5f)
+154 songs - 8 hr 42 min - [published](https://open.spotify.com/playlist/3p1V85d927eyG2kPYAHK5f)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -157,7 +157,8 @@
 | [Won't Let Go](https://open.spotify.com/track/7J2PKevNeTneR2gPdc5EBg) | [Francis Skyes](https://open.spotify.com/artist/0eDNDJ6p75kQRD2dYx6qL5) | [Won't Let Go](https://open.spotify.com/album/4s2LOOskqLO04nW8j4FLW4) | 2:22 | 2022-01-28 |  |
 | [Worry No More \(Acoustic\)](https://open.spotify.com/track/7Hn0D4VbdU9Q6UkytEJNLB) | [Amos Lee](https://open.spotify.com/artist/0QrowybipCKUDnq5y10PD2) | [Worry No More \(Acoustic\)](https://open.spotify.com/album/69EIfIPCXnX3ddxn1nPDZO) | 3:17 | 2021-09-17 |  |
 | [Wrong Side of Goodbye \(Reimagined\)](https://open.spotify.com/track/0uhnVe3CgAhOI4NnSeWxTm) | [Muscadine Bloodline](https://open.spotify.com/artist/0EyZDKtc41e4A3a3v69MxD) | [Wrong Side of Goodbye \(Reimagined\)](https://open.spotify.com/album/7lbcv8zWEcRjWd6XJs2ueK) | 2:17 | 2021-04-19 |  |
-| [You and Me On The Rock \(In The Canyon Haze\)](https://open.spotify.com/track/7tmtdHPAoUZLuJqTnDR7FS) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [You and Me On The Rock \(In The Canyon Haze\)](https://open.spotify.com/album/22EMSIjfksTwA1yizWVXa6) | 4:17 | 2022-09-02 |  |
+| [You and Me On The Rock \(In The Canyon Haze\)](https://open.spotify.com/track/1ydzL5SIoSRCpEIYWhsWE5) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [In These Silent Days \(Deluxe Edition\) In The Canyon Haze](https://open.spotify.com/album/2FOAtTMAfplWnTKf7rl12Q) | 4:17 | 2022-09-02 |  |
+| [You and Me On The Rock \(In The Canyon Haze\)](https://open.spotify.com/track/7tmtdHPAoUZLuJqTnDR7FS) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [You and Me On The Rock \(In The Canyon Haze\)](https://open.spotify.com/album/22EMSIjfksTwA1yizWVXa6) | 4:17 | 2022-09-02 | 2022-10-08 |
 | [You Belong To Somebody Else](https://open.spotify.com/track/20R40KmQrdwKES14PmDwaf) | [PJ Harding](https://open.spotify.com/artist/1RryIbDjpwt00AKkSpCGvP), [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [You Belong To Somebody Else](https://open.spotify.com/album/0KFJcWV5MW76YWSfKS83rW) | 3:19 | 2021-04-19 |  |
 | [You Can't Do Enough](https://open.spotify.com/track/759pX6ms3foc1dxBzPfT1U) | [Colton Venner](https://open.spotify.com/artist/2j8Sh4ZxKM8iqE55xUoR1L) | [Walk Through Fire](https://open.spotify.com/album/1ZNrtxvfN5AqL3KYmlGiQ6) | 3:39 | 2021-04-19 | 2022-09-24 |
 | [You Don't Have to Be Sorry](https://open.spotify.com/track/0lUv6PZaaUxQBZaeTJihGf) | [Ryan Dilmore](https://open.spotify.com/artist/4B8TXOImx4gm4RraBvUZHr) | [You Don't Have to Be Sorry](https://open.spotify.com/album/3HVU2CppIWKtWNvOpxlOd9) | 2:33 | 2021-04-19 |  |

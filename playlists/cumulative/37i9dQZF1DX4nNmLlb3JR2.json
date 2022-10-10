@@ -1360,6 +1360,24 @@
     },
     {
       "album": {
+        "name": "That's the Way It Is",
+        "url": "https://open.spotify.com/album/3JNRLXYVdLBni8VY92Irve"
+      },
+      "artists": [
+        {
+          "name": "Slowzy",
+          "url": "https://open.spotify.com/artist/3DTvvf1uRWl4XzJdpsoERl"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 87187,
+      "name": "That's The Way It Is",
+      "url": "https://open.spotify.com/track/4KlG6TcBmbr56ejToFZZNM"
+    },
+    {
+      "album": {
         "name": "The Girl From Ipanema LOFI",
         "url": "https://open.spotify.com/album/47l9le8szu3caAh0n5Hlz2"
       },
@@ -1523,6 +1541,28 @@
       "duration_ms": 177142,
       "name": "Wish You Were Here",
       "url": "https://open.spotify.com/track/5kr227jZLwUeZCDMU4JT1d"
+    },
+    {
+      "album": {
+        "name": "Jagged Little Chill",
+        "url": "https://open.spotify.com/album/4WcB9SSwOI0DgKp2OJ6oFz"
+      },
+      "artists": [
+        {
+          "name": "Yoga Beats",
+          "url": "https://open.spotify.com/artist/0YgFSc6eJJRhhgDnTdifyt"
+        },
+        {
+          "name": "Cameron Ford",
+          "url": "https://open.spotify.com/artist/2Epdw19iNTn6Wv4YV29h9y"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213250,
+      "name": "You Oughta Know",
+      "url": "https://open.spotify.com/track/1wy11OtTLB78IcBoDrPP9W"
     },
     {
       "album": {

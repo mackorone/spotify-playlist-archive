@@ -2,9 +2,9 @@
 
 ### [Pakistani Indie 101](https://open.spotify.com/playlist/37i9dQZF1DX2E5psOxzjXz)
 
-> Explore Pakistan's thriving independent scene\. Cover: Taha G
+> Explore Pakistan's thriving independent scene\. Discover more in <a href="https://open.spotify.com/playlist/37i9dQZF1DX30DGof92rQX?si=b3603f2de11c43a7">Pakistani Indie Rising</a>
 
-129 songs - 7 hr 27 min - [published](https://open.spotify.com/playlist/5gJNqDWvbp9UkUeEjkgqKV)
+132 songs - 7 hr 38 min - [published](https://open.spotify.com/playlist/5gJNqDWvbp9UkUeEjkgqKV)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,6 +59,7 @@
 | [How](https://open.spotify.com/track/3ELZoXfv1YZzfm7V4saBmi) | [Wooly and the Uke](https://open.spotify.com/artist/1FykDoCf7IfkRKARKdnNV6), [John Mark Nelson](https://open.spotify.com/artist/7JhOzFlNJjcRrFan1wlwYB) | [How](https://open.spotify.com/album/3JTNuOXSNm8Se4JKUrDpA4) | 2:38 | 2022-02-17 | 2022-06-11 |
 | [Hum Kahan](https://open.spotify.com/track/4lU9mJtD01KknelD2W2jX8) | [Taha G](https://open.spotify.com/artist/4sqyi6AnMdNtF5H0UD1Nv5) | [Hum Kahan](https://open.spotify.com/album/6de2uubuc6Oi51s8A7PPkV) | 3:09 | 2022-02-17 |  |
 | [Iltija](https://open.spotify.com/track/2gDJV55SsEtTp1apEe8k0r) | [Jokhay](https://open.spotify.com/artist/0Nl4kTPLk2ucrARvaf55zQ) | [Iltija](https://open.spotify.com/album/5HElAOajKG6Tw39pANxWFi) | 5:17 | 2021-12-06 | 2022-01-29 |
+| [Intezaar](https://open.spotify.com/track/7mtFv7sJst6tUNFEYycB81) | [Farasat Anees](https://open.spotify.com/artist/05miC2ndfE3ZyZ7xCMnZzm), [Kamil Mahmood Kiani](https://open.spotify.com/artist/6KS7D3edmUKtWbWQ99KjY6) | [Intezaar](https://open.spotify.com/album/0iU1spYHEzzdlAW5Pftwdg) | 2:39 | 2022-10-03 |  |
 | [Intezaar](https://open.spotify.com/track/3H4sTrJAYCXvtcBteQn4O7) | [Hassan & Roshaan](https://open.spotify.com/artist/5hjVqhHwLYWW9ZIxuILJF7), [Zahra Paracha](https://open.spotify.com/artist/3g76TAx9tdF5YZpsSwqL0K) | [Intezaar](https://open.spotify.com/album/5ozneiz9CThETspoy1xJiJ) | 4:02 | 2022-09-05 |  |
 | [Iraaday](https://open.spotify.com/track/6qrifdo7QINdPQr80IelGi) | [Rovalio](https://open.spotify.com/artist/01pFDtbY3k5uOmy0Pbg93C), [Abdul Hannan](https://open.spotify.com/artist/5mWQT8CLTa4mAQAJdFjHb1) | [Iraaday](https://open.spotify.com/album/5rrokeOdlkdlyLaGfiixYy) | 2:13 | 2022-04-29 |  |
 | [Jaagay Hain](https://open.spotify.com/track/3vCWWOxmJHHl25fjf38znc) | [Ali Alvi](https://open.spotify.com/artist/07cs9v2qoU2I5sshqk56Fz) | [Saazish](https://open.spotify.com/album/1xZxe1HTPiMJlKZ5NJATpc) | 3:48 | 2021-12-06 | 2022-01-29 |
@@ -80,6 +81,7 @@
 | [Mast](https://open.spotify.com/track/5dHGX2pviaNnlSKk54Stc1) | [Kaifi Khalil](https://open.spotify.com/artist/1n9EM0Y4A89vuRiA93gSS9) | [Mast](https://open.spotify.com/album/3oYoSAIV7hSpYxKkJOU3xW) | 4:00 | 2022-05-20 | 2022-06-11 |
 | [Mein Hoon](https://open.spotify.com/track/2gU0WQqw8sN39k58r9l3cX) | [Shahrukh Sarfraz](https://open.spotify.com/artist/5hKq3AUOAwEIBCic2Jqfsm), [Neha Karim Ullah](https://open.spotify.com/artist/08aOaVi90Pza2qG0i9e9RA) | [Mein Hoon](https://open.spotify.com/album/2e7VmVvCxZhBCHIQVGeO6B) | 2:59 | 2021-12-06 |  |
 | [Mera Dost Pareshan Hai](https://open.spotify.com/track/3wWJNHYxr2UBSWxMYsASa5) | [Mehdi Maloof](https://open.spotify.com/artist/6TL4dC4u5Nb3ZpROsM7DzR), [Ali Hamdani](https://open.spotify.com/artist/5ltaWbvJnjYMicuNZ2m4fL), [Shamsher Rana](https://open.spotify.com/artist/77XstydhnCGfW4wfVm3RRk), [Varqa Faraid](https://open.spotify.com/artist/58Sy8Jc3tHOFT5KLBgr8Xp) | [Mera Dost Pareshan Hai](https://open.spotify.com/album/1JoS8znRKb3Oaxxzr033V8) | 3:49 | 2021-12-06 | 2022-09-06 |
+| [Mera Naam](https://open.spotify.com/track/7wcf94GFZJH4xrG9vs4CLC) | [Soch](https://open.spotify.com/artist/31y8hJ1vq1z54EPBOFdfRJ), [Rabi Ahmed](https://open.spotify.com/artist/7o7GKafH7LeVDLVzl2kTsn), [Adnan Dhool](https://open.spotify.com/artist/4XTiRlcZr4ACFHAXgV34Sc) | [Mera Naam](https://open.spotify.com/album/1ZTq2Q3jHwjch9fWIN3LcB) | 4:01 | 2022-10-03 |  |
 | [Mute](https://open.spotify.com/track/1k4BN3YPqVYhkYSugUH0mK) | [Sameen Qasim](https://open.spotify.com/artist/1TuZ9m2yr7qMmiovlOVS9O), [Shorbanoor](https://open.spotify.com/artist/7DXkuP7zCFpe1beSL1LjjD) | [Mute](https://open.spotify.com/album/6EwgLUXMEaxzRDiqwHKn82) | 3:25 | 2022-03-15 | 2022-06-17 |
 | [Nahin Milta](https://open.spotify.com/track/0cUdmruT6kjxa5KpteSdwc) | [Bayaan](https://open.spotify.com/artist/3atMq790wQ7IqjeSO0HFeP) | [4 Saal](https://open.spotify.com/album/5LiulhSHQrEXkYO63T5Z6Q) | 4:45 | 2021-12-06 |  |
 | [Nakhray](https://open.spotify.com/track/1wsAK9hEisW2JkLeSqVDAz) | [Rovalio](https://open.spotify.com/artist/01pFDtbY3k5uOmy0Pbg93C), [Izzchughtai](https://open.spotify.com/artist/211ei6ZiUeBMIXUZGBaJ4S) | [Nakhray](https://open.spotify.com/album/21WzqW9p3vJnpcKWn8X3gE) | 2:41 | 2022-09-14 |  |
@@ -117,6 +119,7 @@
 | [Slow](https://open.spotify.com/track/1VziWLNDb8KaYjJeb1F3HI) | [Gentle Robot](https://open.spotify.com/artist/4ZDRGSvFQnQUTs3438PIls) | [Breathe](https://open.spotify.com/album/1mLlCvxN1VRoBt3GRB5uMP) | 3:18 | 2021-12-06 |  |
 | [Soul Jamming](https://open.spotify.com/track/3EiKsRlYzkI3IbnojcXeca) | [Waqas](https://open.spotify.com/artist/3bnpn31sQbuTzqdBscYqyL) | [Soul Jamming](https://open.spotify.com/album/3SyF9HHdvEm2jYgk2KvljG) | 2:36 | 2021-12-06 | 2022-06-17 |
 | [Soye Nahi](https://open.spotify.com/track/7Gb2D6V5xP5LAO5h5D9yQZ) | [Natasha Humera Ejaz](https://open.spotify.com/artist/2NTRcxzXvgDtcSJJ2zraxp), [Mirande Shah](https://open.spotify.com/artist/6S0dJ9xk7KnOPgxYRjUycw) | [Bench \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3Sx7jAkfJsvtAnLTjEEGQP) | 3:57 | 2021-12-06 | 2022-03-05 |
+| [Sukoon](https://open.spotify.com/track/4mPZipDmUysKaLxZTDEVsx) | [Hassan & Roshaan](https://open.spotify.com/artist/5hjVqhHwLYWW9ZIxuILJF7), [Shae Gill](https://open.spotify.com/artist/3bWIy9AUrQdiNeS62Bp3OP) | [Sukoon](https://open.spotify.com/album/5T7svmheaHZxJEHTLP6BAB) | 4:15 | 2022-10-03 |  |
 | [Sun Le Na](https://open.spotify.com/track/0tyK2eyMatZvNCVtbdNlmt) | [Hasan Raheem](https://open.spotify.com/artist/6gIqKYKRmltKfkTnxhMv8V), [Abdullah Kasumbi](https://open.spotify.com/artist/0GlE0oxdKhuakcFHkeZ7fR) | [Sun Le Na](https://open.spotify.com/album/1Mltm1wPVWUcp7tg7FnJCk) | 3:29 | 2022-01-18 |  |
 | [surface](https://open.spotify.com/track/47N7k0N1sw26qkG96czqwK) | [Abdullah Siddiqui](https://open.spotify.com/artist/3PbkSdpJnYRF18jau74b7R), [Talha Anjum](https://open.spotify.com/artist/69xcFpmqTOmFNOL08Bxyci) | [surface](https://open.spotify.com/album/014RAFqcrT4Si2Umd68yZy) | 3:56 | 2021-12-06 |  |
 | [SWEETU](https://open.spotify.com/track/7HwkCWwndPqQXozRbGCKYd) | [Talal Qureshi](https://open.spotify.com/artist/0nES9rTgJJV7uJF2cIkJNS), [Hasan Raheem](https://open.spotify.com/artist/6gIqKYKRmltKfkTnxhMv8V), [Maanu](https://open.spotify.com/artist/3scNK8e4mqnP6Rb8a3lwZY) | [SWEETU](https://open.spotify.com/album/0LZoenSRLZreaObBEOpQo7) | 3:10 | 2021-12-06 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4QuJ2DbcTe7R8lzqfNXz7v.md) - [plain]
 
 > The top 100 best love songs of this moment\. Dream away with the best love songs of right now\. ❤️
 
-[Filtr Nederland](https://open.spotify.com/user/sonymusicnl) - 516,204 likes - 100 songs - 6 hr 2 min
+[Filtr Nederland](https://open.spotify.com/user/sonymusicnl) - 516,011 likes - 100 songs - 6 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/4QuJ2DbcTe7R8lzqfNXz7v.md) - [plain]
 | 99 | [Killing Me Softly With His Song](https://open.spotify.com/track/0Q0IVlqMV64kNLlwjPj0Hl) | [Fugees](https://open.spotify.com/artist/2WKdxPFRD7IqZvlIAvhMgY), [Ms\. Lauryn Hill](https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl) | [The Score \(Expanded Edition\)](https://open.spotify.com/album/18XFe4CPBgVezXkxZP6rTb) | 4:58 |
 | 100 | [Half As Good As You \(feat\. Alice Merton\)](https://open.spotify.com/track/13XbTTKabl4zIeqvgwkNaU) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX), [Alice Merton](https://open.spotify.com/artist/7f0OLhGgBMX9fUjm1dcPip) | [Half As Good As You \(feat\. Alice Merton\)](https://open.spotify.com/album/5bXH6L17xho74DMOmbKiSQ) | 3:30 |
 
-Snapshot ID: `NDUzMiw0ZDlhMTNhYjJjZDFhNGY4YmQ3ZTg0YjVjMzQxNDc4MDM0OWVkNTgz`
+Snapshot ID: `NDUzNCxjNjIxNzM5MTc5NWFlMDJkZmVhMGJmMGI4YjkzM2I4NTNlZDkzZGE0`

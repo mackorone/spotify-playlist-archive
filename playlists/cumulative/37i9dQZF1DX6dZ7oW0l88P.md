@@ -4,7 +4,7 @@
 
 > Beautiful and serene harp music for relaxation, meditation and unwinding from the day.
 
-95 songs - 4 hr 45 min - [published](https://open.spotify.com/playlist/4Vkd1lM4f47tYYTnIGCNNj)
+96 songs - 4 hr 48 min - [published](https://open.spotify.com/playlist/4Vkd1lM4f47tYYTnIGCNNj)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,7 +76,8 @@
 | [Reflections](https://open.spotify.com/track/2nSYUTPHzzSQbBLdogb377) | [Sound Haven](https://open.spotify.com/artist/3UjSXLe8R1x6SipIecocL8) | [Reflections](https://open.spotify.com/album/45kRaQsb4lgkQQAx1qk8PY) | 2:05 | 2022-05-11 |  |
 | [Relax Harp](https://open.spotify.com/track/593hwLr6dmt7HkKr9WolF9) | [Prayer Pray](https://open.spotify.com/artist/3XA8ZDL6L44ZdeD9KrnHQD) | [Heavenly Harp Music \(Relaxing Instrumentals\)](https://open.spotify.com/album/4ZAyhGtenHfhLraKj9kYdP) | 3:47 | 2022-05-11 |  |
 | [Relax Me](https://open.spotify.com/track/0Bl3VuqBQMr38qvQe3Ct2c) | [Prayer Pray](https://open.spotify.com/artist/3XA8ZDL6L44ZdeD9KrnHQD) | [Relaxing Harp Music \(Harp Instrumentals\)](https://open.spotify.com/album/6kxlMO6zxMuPaxGvJ8Cdw0) | 3:30 | 2022-05-11 |  |
-| [Relaxing Harp](https://open.spotify.com/track/6BdDlXdELLGgLlSD9fxodd) | [Alan Baratieri](https://open.spotify.com/artist/1FbUxr0wVOPPMFPq9qjv0w), [Músicas Para Relaxar](https://open.spotify.com/artist/1GpHohMWr8ZzO6CkaKOC6G), [Relaxing Musics](https://open.spotify.com/artist/4yfZySvyTem0vYS7RiaGyD) | [The Harp of Heaven Relaxing Healing Harps Musics](https://open.spotify.com/album/1NBsYTU5EvP55o3mqhzbR9) | 2:45 | 2022-05-11 |  |
+| [Relaxing Harp](https://open.spotify.com/track/6BdDlXdELLGgLlSD9fxodd) | [Alan Baratieri](https://open.spotify.com/artist/1FbUxr0wVOPPMFPq9qjv0w), [Músicas Para Relaxar](https://open.spotify.com/artist/1GpHohMWr8ZzO6CkaKOC6G), [Relaxing Musics](https://open.spotify.com/artist/4yfZySvyTem0vYS7RiaGyD) | [The Harp of Heaven Relaxing Healing Harps Musics](https://open.spotify.com/album/1NBsYTU5EvP55o3mqhzbR9) | 2:45 | 2022-05-11 | 2022-10-08 |
+| [Relaxing Harp](https://open.spotify.com/track/3BnRMdI0hOH4SO3YWYCkem) | [Músicas Para Relaxar](https://open.spotify.com/artist/1GpHohMWr8ZzO6CkaKOC6G), [Alan Baratieri](https://open.spotify.com/artist/1FbUxr0wVOPPMFPq9qjv0w) | [The Harp of Heaven Relaxing Healing Harps Musics](https://open.spotify.com/album/1s7dbimo6JmbOmlJNekmV6) | 2:46 | 2022-08-10 |  |
 | [River Flows in You](https://open.spotify.com/track/2gvxgyu4TVOizX3KMrlKmL) | [Moldan Sevoni](https://open.spotify.com/artist/3G8BggMGTr06vVbV3WyBhP) | [Cinematic Harp](https://open.spotify.com/album/7niYLEnTIdgTYILsjaKlJ4) | 2:53 | 2022-05-11 |  |
 | [Saman](https://open.spotify.com/track/0ZZR7yshyNORje3HH1yxUX) | [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia), [Lavinia Meijer](https://open.spotify.com/artist/1QpDFI4PxPwdv2E3iS6pCp) | [Are You Still Somewhere?](https://open.spotify.com/album/36xU7Hq8G8QbsRrl59TyxD) | 2:26 | 2022-05-11 |  |
 | [Scale of Dreams](https://open.spotify.com/track/57q0DJRzvwzW7zjpqi5E0w) | [Jep Ellery](https://open.spotify.com/artist/3XcuCasoz9LagVgPQTWHOh) | [Scale of Dreams](https://open.spotify.com/album/4Fk46UnHpg1qSJMdY7MSZK) | 1:11 | 2022-05-11 |  |

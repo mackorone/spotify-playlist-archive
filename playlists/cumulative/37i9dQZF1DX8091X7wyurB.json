@@ -2,7 +2,9 @@
   "date_first_scraped": "2022-10-01",
   "description": "Uptempo gospel songs from West Africa to get you dancing and praising. ",
   "name": "Praise and Worship",
-  "published_playlist_ids": [],
+  "published_playlist_ids": [
+    "7augvUBLA6t5dcDdUKo5Km"
+  ],
   "tracks": [
     {
       "album": {
@@ -21,7 +23,7 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-04",
       "duration_ms": 216674,
       "name": "Able",
       "url": "https://open.spotify.com/track/4NDtKpWb0IpALyrOdZAeWW"
@@ -87,7 +89,7 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-03",
       "duration_ms": 297250,
       "name": "April Celebrants Special (Live)",
       "url": "https://open.spotify.com/track/6s4JdeAKoimUzDkClTadeg"
@@ -157,6 +159,28 @@
       "duration_ms": 161333,
       "name": "Blessings",
       "url": "https://open.spotify.com/track/4qLj7niX2TDu5XMakOKcYU"
+    },
+    {
+      "album": {
+        "name": "Blessings Follow Me",
+        "url": "https://open.spotify.com/album/2x7GuHDER800C7nHwUTZrm"
+      },
+      "artists": [
+        {
+          "name": "Chidinma",
+          "url": "https://open.spotify.com/artist/3Wu4rnX6UKAMtTlUL2IAj4"
+        },
+        {
+          "name": "KS Bloom",
+          "url": "https://open.spotify.com/artist/5tjO5VGPByZF90lhuAQc6A"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165839,
+      "name": "Blessings Follow Me",
+      "url": "https://open.spotify.com/track/6K2Pm2e6qTqb1vC8qT3INV"
     },
     {
       "album": {
@@ -357,7 +381,7 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-05",
       "duration_ms": 160500,
       "name": "Fire",
       "url": "https://open.spotify.com/track/11t7N3sMt4sMVPxrjRBQzm"
@@ -499,6 +523,28 @@
       "duration_ms": 258893,
       "name": "Green Land",
       "url": "https://open.spotify.com/track/40A974aVBeF7avQm8rvk3D"
+    },
+    {
+      "album": {
+        "name": "Hallelujah",
+        "url": "https://open.spotify.com/album/22Y4oLdS0QPrzMmz8gQE6i"
+      },
+      "artists": [
+        {
+          "name": "Celebrate Africa",
+          "url": "https://open.spotify.com/artist/1DLPgNqNZFWY3n8Vp7Xyh8"
+        },
+        {
+          "name": "Kingdmusic",
+          "url": "https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224203,
+      "name": "Hallelujah",
+      "url": "https://open.spotify.com/track/5jqP4eqHNhIU2IEMy50moc"
     },
     {
       "album": {
@@ -1375,6 +1421,24 @@
       "duration_ms": 222315,
       "name": "Taking Care - Remix",
       "url": "https://open.spotify.com/track/28BKMZMQzetbKzNPkSdIBe"
+    },
+    {
+      "album": {
+        "name": "Tatafo",
+        "url": "https://open.spotify.com/album/2Acy9jIYYJRVUkHc1M18jK"
+      },
+      "artists": [
+        {
+          "name": "Fega Michaels",
+          "url": "https://open.spotify.com/artist/1uWU1q5sI8SbB0R56zTj6I"
+        }
+      ],
+      "date_added": "2022-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155520,
+      "name": "Tatafo",
+      "url": "https://open.spotify.com/track/2FbHSnjLmSF77Uy5IkHjnf"
     },
     {
       "album": {

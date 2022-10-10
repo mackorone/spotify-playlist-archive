@@ -1,12 +1,12 @@
 {
   "description": "Immerse in an imaginary panorama of atmospheric soundscapes.",
-  "num_followers": 287678,
+  "num_followers": 288120,
   "original_name": "Deep Listening",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDUwNTkzNSwwMDAwMDAwMGE3MjMwNzU4MzEwODQ5NDhiODhiYjk1NDYzYzdhMmNi",
+  "snapshot_id": "MTY2NDUwNTkzNSwwMDAwMDAwMDk2MzBiMjc5ZTI5NGQyMDcyZTRmNTI2ZTVlODQ4MTli",
   "tracks": [
     {
       "added_at": "2022-08-03 02:59:28",
@@ -133,7 +133,7 @@
       "url": "https://open.spotify.com/track/2Bc4llhjJBW77I552RgA3L"
     },
     {
-      "added_at": "2022-10-02 01:49:51",
+      "added_at": "2022-10-10 01:49:21",
       "album": {
         "name": "Music for Animals",
         "url": "https://open.spotify.com/album/17zWrjCtsUXh113n1V7T72"
@@ -273,7 +273,7 @@
       "url": "https://open.spotify.com/track/6Xajr512QEGAZ20bqAWkyT"
     },
     {
-      "added_at": "2022-10-02 01:49:51",
+      "added_at": "2022-10-10 01:49:21",
       "album": {
         "name": "Marilene (Somewhere in Texas)",
         "url": "https://open.spotify.com/album/77JuxMNZxYkDmhDzFywvn7"
@@ -289,7 +289,7 @@
       "url": "https://open.spotify.com/track/6jVbgzKpU5TV5Vijk7TD37"
     },
     {
-      "added_at": "2022-10-02 01:49:51",
+      "added_at": "2022-10-10 01:49:21",
       "album": {
         "name": "Fervedouro Dois",
         "url": "https://open.spotify.com/album/0OTWp01TdoAAqh6md5vOYz"
@@ -353,7 +353,7 @@
       "url": "https://open.spotify.com/track/0kxCwUht7SOKdH4lUqvJXO"
     },
     {
-      "added_at": "2022-10-02 01:49:51",
+      "added_at": "2022-10-10 01:49:21",
       "album": {
         "name": "\u307f\u305e\u3046\u3075\u304f",
         "url": "https://open.spotify.com/album/6i7TYq9zinFSMVMHWnri0y"
@@ -495,6 +495,38 @@
     {
       "added_at": "2021-10-06 04:52:47",
       "album": {
+        "name": "Selected Ambient Works Volume II",
+        "url": "https://open.spotify.com/album/17vHPMmoxN5B8cdhCDeMTe"
+      },
+      "artists": [
+        {
+          "name": "Aphex Twin",
+          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+        }
+      ],
+      "duration_ms": 255333,
+      "name": "#20",
+      "url": "https://open.spotify.com/track/5IExVHUiRccCWyJ4imu9qD"
+    },
+    {
+      "added_at": "2022-03-30 05:08:29",
+      "album": {
+        "name": "Lens Flare",
+        "url": "https://open.spotify.com/album/7Jgwg8nxsehAXjIYYsdanE"
+      },
+      "artists": [
+        {
+          "name": "Lloyd Vaan",
+          "url": "https://open.spotify.com/artist/3HFWqhd60hrJB8fpyjrTLu"
+        }
+      ],
+      "duration_ms": 146000,
+      "name": "Present",
+      "url": "https://open.spotify.com/track/6Zrs6gUUaSkM1Z7d0FxOlF"
+    },
+    {
+      "added_at": "2021-10-06 04:52:47",
+      "album": {
         "name": "Shadow Work",
         "url": "https://open.spotify.com/album/62rUr720cpe9cWhfnC3gBc"
       },
@@ -507,22 +539,6 @@
       "duration_ms": 87341,
       "name": "Being Here",
       "url": "https://open.spotify.com/track/5cr7x0cknWAOD9iBcJEFVU"
-    },
-    {
-      "added_at": "2021-10-06 04:52:47",
-      "album": {
-        "name": "Space 1.8",
-        "url": "https://open.spotify.com/album/5Svfamp6qQ2IfLVNVICpVm"
-      },
-      "artists": [
-        {
-          "name": "Nala Sinephro",
-          "url": "https://open.spotify.com/artist/2h5syT5XdsQgKLq8Yn1klO"
-        }
-      ],
-      "duration_ms": 248000,
-      "name": "Space 1",
-      "url": "https://open.spotify.com/track/1WGvKEkU8c3uvqmZpUt5ZL"
     },
     {
       "added_at": "2021-10-06 04:52:47",
@@ -543,18 +559,18 @@
     {
       "added_at": "2021-10-06 04:52:47",
       "album": {
-        "name": "Selected Ambient Works Volume II",
-        "url": "https://open.spotify.com/album/17vHPMmoxN5B8cdhCDeMTe"
+        "name": "Space 1.8",
+        "url": "https://open.spotify.com/album/5Svfamp6qQ2IfLVNVICpVm"
       },
       "artists": [
         {
-          "name": "Aphex Twin",
-          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+          "name": "Nala Sinephro",
+          "url": "https://open.spotify.com/artist/2h5syT5XdsQgKLq8Yn1klO"
         }
       ],
-      "duration_ms": 255333,
-      "name": "#20",
-      "url": "https://open.spotify.com/track/5IExVHUiRccCWyJ4imu9qD"
+      "duration_ms": 248000,
+      "name": "Space 1",
+      "url": "https://open.spotify.com/track/1WGvKEkU8c3uvqmZpUt5ZL"
     },
     {
       "added_at": "2021-10-06 04:52:47",
@@ -587,6 +603,22 @@
       "duration_ms": 208040,
       "name": "Boreal Kiss Pt. 1",
       "url": "https://open.spotify.com/track/1i8MaQec4fQXj1enX8ZWF4"
+    },
+    {
+      "added_at": "2021-10-06 04:52:47",
+      "album": {
+        "name": "Waende",
+        "url": "https://open.spotify.com/album/3w9bvWO480nCjEQuxzwrkc"
+      },
+      "artists": [
+        {
+          "name": "Ceeys",
+          "url": "https://open.spotify.com/artist/6K8BBZapSLE6XGXF4htbIT"
+        }
+      ],
+      "duration_ms": 232742,
+      "name": "Waende",
+      "url": "https://open.spotify.com/track/0jIymbEdH6q5ZgFVwGJehs"
     },
     {
       "added_at": "2022-03-30 05:08:29",
@@ -655,22 +687,6 @@
     {
       "added_at": "2021-10-06 04:52:47",
       "album": {
-        "name": "Waende",
-        "url": "https://open.spotify.com/album/3w9bvWO480nCjEQuxzwrkc"
-      },
-      "artists": [
-        {
-          "name": "Ceeys",
-          "url": "https://open.spotify.com/artist/6K8BBZapSLE6XGXF4htbIT"
-        }
-      ],
-      "duration_ms": 232742,
-      "name": "Waende",
-      "url": "https://open.spotify.com/track/0jIymbEdH6q5ZgFVwGJehs"
-    },
-    {
-      "added_at": "2021-10-06 04:52:47",
-      "album": {
         "name": "Night Owl",
         "url": "https://open.spotify.com/album/0eJCk5W0VKQ4qIuoAhn5ns"
       },
@@ -687,102 +703,6 @@
       "duration_ms": 376082,
       "name": "Night Owl",
       "url": "https://open.spotify.com/track/3i0IiglJ0nzjxlpU3s7wXr"
-    },
-    {
-      "added_at": "2022-08-03 03:05:22",
-      "album": {
-        "name": "Lemon Day",
-        "url": "https://open.spotify.com/album/5kU780ntZsCfCMhEn1DLQE"
-      },
-      "artists": [
-        {
-          "name": "Nils Frahm",
-          "url": "https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp"
-        }
-      ],
-      "duration_ms": 1111999,
-      "name": "Lemon Day",
-      "url": "https://open.spotify.com/track/4G0m7oplySbleIlWeLu3vH"
-    },
-    {
-      "added_at": "2022-03-30 05:08:29",
-      "album": {
-        "name": "Lens Flare",
-        "url": "https://open.spotify.com/album/7Jgwg8nxsehAXjIYYsdanE"
-      },
-      "artists": [
-        {
-          "name": "Lloyd Vaan",
-          "url": "https://open.spotify.com/artist/3HFWqhd60hrJB8fpyjrTLu"
-        }
-      ],
-      "duration_ms": 146000,
-      "name": "Present",
-      "url": "https://open.spotify.com/track/6Zrs6gUUaSkM1Z7d0FxOlF"
-    },
-    {
-      "added_at": "2021-10-06 04:52:47",
-      "album": {
-        "name": "Coconut Mango",
-        "url": "https://open.spotify.com/album/5paYeeVQtrLKO68IaCCtwj"
-      },
-      "artists": [
-        {
-          "name": "Arrangement",
-          "url": "https://open.spotify.com/artist/6RxI3tCP0Olcb9dMar7e9e"
-        }
-      ],
-      "duration_ms": 325489,
-      "name": "Coconut Mango",
-      "url": "https://open.spotify.com/track/6VRgvci0hYokJguaBzGZmj"
-    },
-    {
-      "added_at": "2021-10-06 04:52:47",
-      "album": {
-        "name": "Gallery Love",
-        "url": "https://open.spotify.com/album/449aXZhYMnuXRL877ZFF64"
-      },
-      "artists": [
-        {
-          "name": "oso leone",
-          "url": "https://open.spotify.com/artist/0iViECTHd21gYy1zIEvusi"
-        }
-      ],
-      "duration_ms": 302190,
-      "name": "Virtual U",
-      "url": "https://open.spotify.com/track/39nTI9fKd7tB0AUuQObLf1"
-    },
-    {
-      "added_at": "2021-10-06 04:52:47",
-      "album": {
-        "name": "Broken Hearted Kota",
-        "url": "https://open.spotify.com/album/1Wmrt4ojrx2y7NRHVvuoMv"
-      },
-      "artists": [
-        {
-          "name": "Joseph Shabason",
-          "url": "https://open.spotify.com/artist/7xoTSPGUr9u8FWR4G8AWoS"
-        }
-      ],
-      "duration_ms": 311906,
-      "name": "Broken Hearted Kota",
-      "url": "https://open.spotify.com/track/2nP8BQtLMXpaUWjUGWAwhy"
-    },
-    {
-      "added_at": "2021-10-06 04:52:47",
-      "album": {
-        "name": "Wurlitzer",
-        "url": "https://open.spotify.com/album/0mfitPoE1oWjDfmX48fOl3"
-      },
-      "artists": [
-        {
-          "name": "Leifur James",
-          "url": "https://open.spotify.com/artist/2N1foZRamgP1sfiYXFID9O"
-        }
-      ],
-      "duration_ms": 257692,
-      "name": "Wurlitzer",
-      "url": "https://open.spotify.com/track/4OjcEWInukLib0TUfETqfx"
     },
     {
       "added_at": "2021-10-06 04:52:47",
@@ -803,58 +723,134 @@
     {
       "added_at": "2021-10-06 04:52:47",
       "album": {
-        "name": "Subtle Vertigo",
-        "url": "https://open.spotify.com/album/5Q0m6tA2OUCmhhTYAwZimH"
+        "name": "Coconut Mango",
+        "url": "https://open.spotify.com/album/5paYeeVQtrLKO68IaCCtwj"
       },
       "artists": [
         {
-          "name": "Scott Gilmore",
-          "url": "https://open.spotify.com/artist/4VC1j6E8YdBgmSGCWYWtVN"
+          "name": "Arrangement",
+          "url": "https://open.spotify.com/artist/6RxI3tCP0Olcb9dMar7e9e"
         }
       ],
-      "duration_ms": 162940,
-      "name": "E70 No. 01",
-      "url": "https://open.spotify.com/track/01iglyLhCYZYlCqAxY8Vfz"
-    },
-    {
-      "added_at": "2022-08-24 01:38:50",
-      "album": {
-        "name": "Flux",
-        "url": "https://open.spotify.com/album/47OhENaoLcx2paWK9GgzUR"
-      },
-      "artists": [
-        {
-          "name": "Eusebeia",
-          "url": "https://open.spotify.com/artist/6Vya9cujyDikgMmgOo1DRD"
-        }
-      ],
-      "duration_ms": 101380,
-      "name": "Flux",
-      "url": "https://open.spotify.com/track/1FBZeHlILzJFN2YGKk0yPS"
+      "duration_ms": 325489,
+      "name": "Coconut Mango",
+      "url": "https://open.spotify.com/track/6VRgvci0hYokJguaBzGZmj"
     },
     {
       "added_at": "2021-10-06 04:52:47",
       "album": {
-        "name": "The Undivided Five",
-        "url": "https://open.spotify.com/album/3AuhGsh99iTqA57kn3rzvl"
+        "name": "Broken Hearted Kota",
+        "url": "https://open.spotify.com/album/1Wmrt4ojrx2y7NRHVvuoMv"
       },
       "artists": [
         {
-          "name": "A Winged Victory for the Sullen",
-          "url": "https://open.spotify.com/artist/13CMfEeq8AC6ryGOPODqE1"
-        },
-        {
-          "name": "Adam Bryanbaum Wiltzie",
-          "url": "https://open.spotify.com/artist/3pv7Yo0bBHl6jyOXU1NnWf"
-        },
-        {
-          "name": "Dustin O'Halloran",
-          "url": "https://open.spotify.com/artist/6UEYawMcp2M4JFoXVOtZEq"
+          "name": "Joseph Shabason",
+          "url": "https://open.spotify.com/artist/7xoTSPGUr9u8FWR4G8AWoS"
         }
       ],
-      "duration_ms": 292539,
-      "name": "The Rhythm Of A Dividing Pair",
-      "url": "https://open.spotify.com/track/3c8mNUeqbasEt6BvzYtxNb"
+      "duration_ms": 311906,
+      "name": "Broken Hearted Kota",
+      "url": "https://open.spotify.com/track/2nP8BQtLMXpaUWjUGWAwhy"
+    },
+    {
+      "added_at": "2021-10-06 04:52:47",
+      "album": {
+        "name": "Gallery Love",
+        "url": "https://open.spotify.com/album/449aXZhYMnuXRL877ZFF64"
+      },
+      "artists": [
+        {
+          "name": "oso leone",
+          "url": "https://open.spotify.com/artist/0iViECTHd21gYy1zIEvusi"
+        }
+      ],
+      "duration_ms": 302190,
+      "name": "Virtual U",
+      "url": "https://open.spotify.com/track/39nTI9fKd7tB0AUuQObLf1"
+    },
+    {
+      "added_at": "2021-10-06 04:52:47",
+      "album": {
+        "name": "Wurlitzer",
+        "url": "https://open.spotify.com/album/0mfitPoE1oWjDfmX48fOl3"
+      },
+      "artists": [
+        {
+          "name": "Leifur James",
+          "url": "https://open.spotify.com/artist/2N1foZRamgP1sfiYXFID9O"
+        }
+      ],
+      "duration_ms": 257692,
+      "name": "Wurlitzer",
+      "url": "https://open.spotify.com/track/4OjcEWInukLib0TUfETqfx"
+    },
+    {
+      "added_at": "2021-10-06 04:52:47",
+      "album": {
+        "name": "Crush",
+        "url": "https://open.spotify.com/album/1WwZwdTICfaZI51BIIEN9z"
+      },
+      "artists": [
+        {
+          "name": "Floating Points",
+          "url": "https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L"
+        }
+      ],
+      "duration_ms": 143080,
+      "name": "Requiem for CS70 and Strings",
+      "url": "https://open.spotify.com/track/5tJZSE0l9xTnRrccjBZZXg"
+    },
+    {
+      "added_at": "2021-10-06 04:52:47",
+      "album": {
+        "name": "Clouds",
+        "url": "https://open.spotify.com/album/4FC9qI04vobItNEKVeRh8Q"
+      },
+      "artists": [
+        {
+          "name": "Gaussian Curve",
+          "url": "https://open.spotify.com/artist/2rxgmguaQSynTMnBKZL73G"
+        }
+      ],
+      "duration_ms": 448352,
+      "name": "Impossible Island",
+      "url": "https://open.spotify.com/track/312f1c2NbtQKam65h7Mq39"
+    },
+    {
+      "added_at": "2022-08-31 03:50:36",
+      "album": {
+        "name": "The Truth Is",
+        "url": "https://open.spotify.com/album/6df4g0WHHjokEWvS7LJCp8"
+      },
+      "artists": [
+        {
+          "name": "Cameron Morse",
+          "url": "https://open.spotify.com/artist/5w17BTK3HRhjZoyqe47yIl"
+        }
+      ],
+      "duration_ms": 402356,
+      "name": "The Fifty",
+      "url": "https://open.spotify.com/track/07VqE9HRlrZeWj72Ka4FKA"
+    },
+    {
+      "added_at": "2021-10-06 04:52:47",
+      "album": {
+        "name": "Anicca",
+        "url": "https://open.spotify.com/album/19tj2J1Czpvnd1nNyPBGDU"
+      },
+      "artists": [
+        {
+          "name": "Teebs",
+          "url": "https://open.spotify.com/artist/2L2unNFaPbDxjg3NqzpqhJ"
+        },
+        {
+          "name": "Thomas Stankiewicz",
+          "url": "https://open.spotify.com/artist/6z4bXm4x6pBHdbxdj6gL7G"
+        }
+      ],
+      "duration_ms": 460949,
+      "name": "Atoms Song",
+      "url": "https://open.spotify.com/track/5GkmYAsDo9mWAEBrxfQo5j"
     }
   ],
   "unique_name": "Deep Listening",

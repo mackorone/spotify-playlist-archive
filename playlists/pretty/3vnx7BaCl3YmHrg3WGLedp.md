@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3vnx7BaCl3YmHrg3WGLedp.md) - [plain]
 
 > Harmonicas &amp; slide guitars for the win\. Chill out with some laid back roots &amp; Americana.
 
-[Spotify](https://open.spotify.com/user/spotify) - 939 likes - 95 songs - 6 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 940 likes - 95 songs - 6 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

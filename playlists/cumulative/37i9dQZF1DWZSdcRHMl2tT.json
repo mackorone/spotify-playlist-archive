@@ -98,6 +98,24 @@
     },
     {
       "album": {
+        "name": "Ambiance",
+        "url": "https://open.spotify.com/album/7uUsmnIjwEAV1S0IYXNsCH"
+      },
+      "artists": [
+        {
+          "name": "LUXXURY",
+          "url": "https://open.spotify.com/artist/562q9ntuNSaVyt1bvPa77z"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184710,
+      "name": "Alright - Instrumental",
+      "url": "https://open.spotify.com/track/7vgJUNJWIrKhH2WXdWHaXc"
+    },
+    {
+      "album": {
         "name": "Clandestino",
         "url": "https://open.spotify.com/album/3zvL5VdJfT9ccr6L1aXFgG"
       },
@@ -1028,6 +1046,24 @@
     },
     {
       "album": {
+        "name": "Disparate Vibes",
+        "url": "https://open.spotify.com/album/1SJiT6rCcQKmAPFhP07RZl"
+      },
+      "artists": [
+        {
+          "name": "Malacca",
+          "url": "https://open.spotify.com/artist/3CefIz6qIlfMy80r0vZJxX"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198467,
+      "name": "Disparate Vibes",
+      "url": "https://open.spotify.com/track/5yqk6ppoMmuXWtWrzBNL9t"
+    },
+    {
+      "album": {
         "name": "Diva",
         "url": "https://open.spotify.com/album/3U7JoibCsgn6TygPO1t0wt"
       },
@@ -1151,6 +1187,24 @@
       "duration_ms": 196266,
       "name": "Electric Moon",
       "url": "https://open.spotify.com/track/1vAORWsOWbYpFyxUjWIvRP"
+    },
+    {
+      "album": {
+        "name": "electric sea",
+        "url": "https://open.spotify.com/album/7pQe4O9rXC4PeRMn92dLzA"
+      },
+      "artists": [
+        {
+          "name": "Cosmic Citrine",
+          "url": "https://open.spotify.com/artist/3v9QBUh3xv6Nmh8fc7BGox"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153414,
+      "name": "electric sea",
+      "url": "https://open.spotify.com/track/6OCwm4xb1Yni3mT9uugLB4"
     },
     {
       "album": {
@@ -2019,7 +2073,7 @@
       ],
       "date_added": "2022-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-07",
       "duration_ms": 216047,
       "name": "Horizon Island",
       "url": "https://open.spotify.com/track/3CM4BJe9jzdNLXXt9Ob3su"
@@ -2210,6 +2264,24 @@
     },
     {
       "album": {
+        "name": "Intuitive",
+        "url": "https://open.spotify.com/album/5rrsU6UYKXhP1xr95neXZg"
+      },
+      "artists": [
+        {
+          "name": "PALM ENGELS",
+          "url": "https://open.spotify.com/artist/3z6rmjKj5BfheOkGxSmajN"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126869,
+      "name": "Intuitive",
+      "url": "https://open.spotify.com/track/2Qav8jC8iVrVpQBJwARKl2"
+    },
+    {
+      "album": {
         "name": "It's Sun Time",
         "url": "https://open.spotify.com/album/5ARc55vlt112JrwGiAC57s"
       },
@@ -2354,6 +2426,24 @@
     },
     {
       "album": {
+        "name": "Kushin For the Pushin'",
+        "url": "https://open.spotify.com/album/5AQStC5uGlGAjCu92UJEfp"
+      },
+      "artists": [
+        {
+          "name": "Soundomana",
+          "url": "https://open.spotify.com/artist/2aQFQIHp5PyZHdWN9Ilnyp"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138345,
+      "name": "Kushin For the Pushin'",
+      "url": "https://open.spotify.com/track/3tlbByLft7wKd7HiYKjdgS"
+    },
+    {
+      "album": {
         "name": "Kyoto",
         "url": "https://open.spotify.com/album/0gZioMqEBnE55RyVPeoFrS"
       },
@@ -2387,6 +2477,24 @@
       "duration_ms": 130169,
       "name": "Lacando",
       "url": "https://open.spotify.com/track/7FzrMqCONRlc3twQKA3ldI"
+    },
+    {
+      "album": {
+        "name": "Lakeswim",
+        "url": "https://open.spotify.com/album/5hhSH0phuuah1ZTDnxCdar"
+      },
+      "artists": [
+        {
+          "name": "Konrad Wijk",
+          "url": "https://open.spotify.com/artist/7bGBkxzCyn9FMjY2g1LMp2"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155897,
+      "name": "Lakeswim",
+      "url": "https://open.spotify.com/track/1hAUYakXQGSr6IvJ6uFll1"
     },
     {
       "album": {
@@ -2783,7 +2891,7 @@
       ],
       "date_added": "2022-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-07",
       "duration_ms": 224482,
       "name": "Marbella Sun",
       "url": "https://open.spotify.com/track/4RiHR70ysOr82n2d5cAq8q"
@@ -2809,6 +2917,24 @@
       "duration_ms": 180244,
       "name": "MEL",
       "url": "https://open.spotify.com/track/0OayUuPc2bJsBWtcEn1r76"
+    },
+    {
+      "album": {
+        "name": "melt with you",
+        "url": "https://open.spotify.com/album/16C0uShYSHgzxVKNwdIMR5"
+      },
+      "artists": [
+        {
+          "name": "xThiago",
+          "url": "https://open.spotify.com/artist/7nq1gvw8Yv2vVFlmGJ2fqd"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144428,
+      "name": "melt with you",
+      "url": "https://open.spotify.com/track/2PaAxePigQ3wddWOXakh5y"
     },
     {
       "album": {
@@ -3033,6 +3159,24 @@
       "duration_ms": 227171,
       "name": "New Jade",
       "url": "https://open.spotify.com/track/0aXTlYIS7b7mMDMBUUAtFq"
+    },
+    {
+      "album": {
+        "name": "Nigeria Rhythm",
+        "url": "https://open.spotify.com/album/3gSzRNT9ADgWo5YOmDxaqQ"
+      },
+      "artists": [
+        {
+          "name": "Tropical king",
+          "url": "https://open.spotify.com/artist/1KS0DksrAJXHcQ3kdc90tE"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162983,
+      "name": "Nigeria Rhythm",
+      "url": "https://open.spotify.com/track/6OxqqDfG5smNFoVejgtBLI"
     },
     {
       "album": {
@@ -4255,6 +4399,24 @@
       "duration_ms": 230000,
       "name": "Slow Rain",
       "url": "https://open.spotify.com/track/1edBi0eW1gqWWATbHrLJ0Q"
+    },
+    {
+      "album": {
+        "name": "Snowmen's League",
+        "url": "https://open.spotify.com/album/1U0mKoD2UlOeIz1Kiwn92U"
+      },
+      "artists": [
+        {
+          "name": "Kleo",
+          "url": "https://open.spotify.com/artist/24jRJ4wKE0RC9c8M4CUyuK"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196636,
+      "name": "Snowmen's League",
+      "url": "https://open.spotify.com/track/25dn9ZZrJ6WaaCMT52rmjS"
     },
     {
       "album": {

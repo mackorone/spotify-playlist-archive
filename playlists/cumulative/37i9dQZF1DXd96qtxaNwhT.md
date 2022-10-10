@@ -4,7 +4,7 @@
 
 > Soak up the serenity with these beautiful melodies.
 
-463 songs - 1 day 1 hr 59 min - [published](https://open.spotify.com/playlist/2JotmOf77AlDkIMaQkg9OK)
+464 songs - 1 day 2 hr 1 min - [published](https://open.spotify.com/playlist/2JotmOf77AlDkIMaQkg9OK)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -114,7 +114,8 @@
 | [Evil Spider](https://open.spotify.com/track/3NqoZnyv3qLAM0y3CjB8l2) | [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [Evil Spider](https://open.spotify.com/album/0YKYE7p8xn6nYInpUIkHTp) | 2:33 | 2019-07-29\* | 2019-08-02 |
 | [exception](https://open.spotify.com/track/4Dicd9CnldAenKEzOj6dGp) | [renforshort](https://open.spotify.com/artist/3GYvf7puxwkr51EYoD9E7D) | [exception](https://open.spotify.com/album/38UgB5Zzl3wvuEParM2E59) | 3:04 | 2021-04-16 | 2022-05-13 |
 | [Exist For Love](https://open.spotify.com/track/2DFo342cqI8tJHDmO0p052) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [Exist For Love](https://open.spotify.com/album/2giY2YQ0G9kRGp35FtPikV) | 4:12 | 2020-05-15 | 2020-05-22 |
-| [Fairytale](https://open.spotify.com/track/0o6fLmEBkaTqjH2zm2s79P) | [NOURI](https://open.spotify.com/artist/4b5Sw1n9FPtq0RQetJSzEW) | [Fairytale](https://open.spotify.com/album/59qUkMkvIeP043jMXBVUtX) | 1:58 | 2022-04-28 |  |
+| [Fairytale](https://open.spotify.com/track/0o6fLmEBkaTqjH2zm2s79P) | [NOURI](https://open.spotify.com/artist/4b5Sw1n9FPtq0RQetJSzEW) | [Fairytale](https://open.spotify.com/album/59qUkMkvIeP043jMXBVUtX) | 1:58 | 2022-04-28 | 2022-10-09 |
+| [Fairytale](https://open.spotify.com/track/1E0syS6k7fxeFj8IooFkQr) | [NOURI](https://open.spotify.com/artist/4b5Sw1n9FPtq0RQetJSzEW) | [Fairytale](https://open.spotify.com/album/49PuVlRvhiNAtblShfCeKE) | 1:58 | 2022-09-28 |  |
 | [Falling](https://open.spotify.com/track/1ZMiCix7XSAbfAJlEZWMCp) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Fine Line](https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml) | 4:00 | 2019-12-13 | 2021-04-07 |
 | [Fallingwater](https://open.spotify.com/track/2CPLGREl5ahzA2WPBMkpxh) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Heard It In A Past Life](https://open.spotify.com/album/5AHWNPo3gllDmixgAoFru4) | 4:31 | 2019-07-29\* | 2019-09-27 |
 | [favorite crime](https://open.spotify.com/track/5JCoSi02qi3jJeHdZXMmR8) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [SOUR](https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j) | 2:32 | 2021-07-23 | 2022-07-15 |

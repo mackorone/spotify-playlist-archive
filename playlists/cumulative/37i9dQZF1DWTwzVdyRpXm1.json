@@ -1976,6 +1976,24 @@
     },
     {
       "album": {
+        "name": "Pablo",
+        "url": "https://open.spotify.com/album/09Ddk5RTWLwjAa8L20ygwW"
+      },
+      "artists": [
+        {
+          "name": "King",
+          "url": "https://open.spotify.com/artist/5NHm4TU5Twz7owibYxJfFU"
+        }
+      ],
+      "date_added": "2022-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279120,
+      "name": "Pablo",
+      "url": "https://open.spotify.com/track/1pW5BQT2ltq0NPSlbkev0v"
+    },
+    {
+      "album": {
         "name": "Pal Pal Dil Ke Paas- Title Track (From \"Pal Pal Dil Ke Paas\")",
         "url": "https://open.spotify.com/album/0C9FXcECAeepJhmuvETNe1"
       },

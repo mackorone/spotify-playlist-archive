@@ -2893,7 +2893,7 @@
       ],
       "date_added": "2022-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-05",
       "duration_ms": 207775,
       "name": "I'm Gonna Show You Crazy",
       "url": "https://open.spotify.com/track/3EVooCKm9XbvXsfgjhGDAB"
@@ -3995,7 +3995,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-03",
       "duration_ms": 215737,
       "name": "OMG (with Carly Rae Jepsen)",
       "url": "https://open.spotify.com/track/2j9YmQRxtjuVwb4XN95oT8"
@@ -4822,6 +4822,24 @@
     },
     {
       "album": {
+        "name": "Glory (Deluxe)",
+        "url": "https://open.spotify.com/album/4Dx1H8qhJ2hFkChgfZuqQV"
+      },
+      "artists": [
+        {
+          "name": "Britney Spears",
+          "url": "https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4"
+        }
+      ],
+      "date_added": "2022-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214080,
+      "name": "Slumber Party",
+      "url": "https://open.spotify.com/track/5xohcwt1FZVGBzdfNRMhfp"
+    },
+    {
+      "album": {
         "name": "Glory (Deluxe Version)",
         "url": "https://open.spotify.com/album/7gALIuQHKvpZR8EtbNZ7qK"
       },
@@ -4957,7 +4975,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-01",
+      "date_removed": null,
       "duration_ms": 185920,
       "name": "Sparks",
       "url": "https://open.spotify.com/track/2ipJSuGf1GtxSIt2KvOGxl"
@@ -5029,7 +5047,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-22",
+      "date_removed": "2022-10-08",
       "duration_ms": 250693,
       "name": "Stranger",
       "url": "https://open.spotify.com/track/6MF6ZR5nTWFWii3eBlkS8b"

@@ -410,6 +410,24 @@
     },
     {
       "album": {
+        "name": "Desert Trip (Deluxe)",
+        "url": "https://open.spotify.com/album/0a07hwj21fdVC5CJx9ETkr"
+      },
+      "artists": [
+        {
+          "name": "Steve Hill",
+          "url": "https://open.spotify.com/artist/2f1hLQKsXGmF9rxdrq6Jt4"
+        }
+      ],
+      "date_added": "2022-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235773,
+      "name": "Hellhound on My Trail",
+      "url": "https://open.spotify.com/track/0wHJQJTKS7ZDWSvNgxfkKh"
+    },
+    {
+      "album": {
         "name": "Hellhound on My Trail",
         "url": "https://open.spotify.com/album/299w06wW02Vkg8CPrysuT6"
       },
@@ -421,7 +439,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-06",
       "duration_ms": 235773,
       "name": "Hellhound on My Trail",
       "url": "https://open.spotify.com/track/1OZcmmX0E2SNrzCq7cVpZf"

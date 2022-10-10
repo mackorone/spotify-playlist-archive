@@ -336,6 +336,24 @@
     },
     {
       "album": {
+        "name": "Distant Roads",
+        "url": "https://open.spotify.com/album/3GxH3FW59guYKpYi3ok0y6"
+      },
+      "artists": [
+        {
+          "name": "Light of Sun",
+          "url": "https://open.spotify.com/artist/1G18ferRDAgDuiTaMkoFQf"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167500,
+      "name": "Distant Roads",
+      "url": "https://open.spotify.com/track/6GLI5euDmcPIB19IjyqzDP"
+    },
+    {
+      "album": {
         "name": "Swan",
         "url": "https://open.spotify.com/album/3CcjnNWOPCrrDBKEgUQ3Mk"
       },
@@ -441,6 +459,24 @@
       "duration_ms": 214237,
       "name": "Everything Must Go - Frank Collage",
       "url": "https://open.spotify.com/track/3Zr9l3vUJtVp06y9Fnc0O5"
+    },
+    {
+      "album": {
+        "name": "Fairydust",
+        "url": "https://open.spotify.com/album/1ukCkF4pmtmbHn1gwM7CB2"
+      },
+      "artists": [
+        {
+          "name": "Elementaries",
+          "url": "https://open.spotify.com/artist/1kB8QJP6BXE8ezroP29Z5r"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "Fairydust",
+      "url": "https://open.spotify.com/track/5kxb2HoHMpIb5jrpPNbSfC"
     },
     {
       "album": {

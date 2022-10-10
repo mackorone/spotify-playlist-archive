@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "The best new music by Indian Indie artists, updated every Wednesday. Cover: Anubha Bajaj, Artwork: Isu Kim",
+  "description": "The best new music by Indian Indie artists, updated every Wednesday. Cover: Atul Gupta, Artwork: Isu Kim",
   "name": "Fresh Finds India",
   "published_playlist_ids": [
     "5ZxKEzYK5bckaAr3OIv47F"
@@ -2194,6 +2194,28 @@
     },
     {
       "album": {
+        "name": "Dil",
+        "url": "https://open.spotify.com/album/6v8xUUpEqtSOIRMhq7crTL"
+      },
+      "artists": [
+        {
+          "name": "Hariprasad Mahakali",
+          "url": "https://open.spotify.com/artist/47V4kQltgHGnnF140D4Wv2"
+        },
+        {
+          "name": "Ashwin Nishanth",
+          "url": "https://open.spotify.com/artist/0Hn7uhE9e7320xvEj0nwop"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220800,
+      "name": "Dil",
+      "url": "https://open.spotify.com/track/31TNJUESVv25PwVauicMsK"
+    },
+    {
+      "album": {
         "name": "Dil Ko Teri Adat Hay",
         "url": "https://open.spotify.com/album/5aDOsyB0Vaw1okkIeP7Sl3"
       },
@@ -2313,7 +2335,7 @@
       ],
       "date_added": "2022-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-07",
       "duration_ms": 237713,
       "name": "Dissonance",
       "url": "https://open.spotify.com/track/2LkrEpXrevjKlC6OtQgs4m"
@@ -4097,7 +4119,7 @@
       ],
       "date_added": "2022-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-07",
       "duration_ms": 233071,
       "name": "Ja Teri Yaad",
       "url": "https://open.spotify.com/track/0rLwN4UtrU4wPaZA8mQxl0"
@@ -4950,6 +4972,24 @@
     },
     {
       "album": {
+        "name": "Kehne Do",
+        "url": "https://open.spotify.com/album/5BeVeaLPq6ZKyvIWSCcq61"
+      },
+      "artists": [
+        {
+          "name": "Unnati Shah",
+          "url": "https://open.spotify.com/artist/7k5V4wLBAPJAKgCbLNM1gP"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208269,
+      "name": "Kehne Do",
+      "url": "https://open.spotify.com/track/2hXpu8Y2I772ooXum6sNHb"
+    },
+    {
+      "album": {
         "name": "Keys",
         "url": "https://open.spotify.com/album/3kluR2qiOYN7frIkTiK4Sg"
       },
@@ -4983,7 +5023,7 @@
       ],
       "date_added": "2022-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-07",
       "duration_ms": 193831,
       "name": "Khaali Samay Mein",
       "url": "https://open.spotify.com/track/10s5ZW5fgUElXBHdNFyPQZ"
@@ -6117,7 +6157,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-07",
       "duration_ms": 109153,
       "name": "Make You Mine",
       "url": "https://open.spotify.com/track/2xWRaGSivvJiW6oSucA3Yr"
@@ -6785,7 +6825,7 @@
       ],
       "date_added": "2022-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-07",
       "duration_ms": 232000,
       "name": "Mumkin Nahin",
       "url": "https://open.spotify.com/track/5CyrICnw8h6OdoSXXFJLjD"
@@ -8442,6 +8482,24 @@
     },
     {
       "album": {
+        "name": "Roya",
+        "url": "https://open.spotify.com/album/7kSo44otkIkaUjv4RU2Jm3"
+      },
+      "artists": [
+        {
+          "name": "FIRDAUS",
+          "url": "https://open.spotify.com/artist/7BfH29hEuqsCROoAMld4qj"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145000,
+      "name": "Roya - Unplugged",
+      "url": "https://open.spotify.com/track/7yLB8LVWVl45FVw6UbIgrB"
+    },
+    {
+      "album": {
         "name": "Run",
         "url": "https://open.spotify.com/album/27HoiSk2WkvraY0c3pxKlW"
       },
@@ -8581,6 +8639,24 @@
       "duration_ms": 282391,
       "name": "Saanjh",
       "url": "https://open.spotify.com/track/5nrhIgDiO6TppbdLxUDqHs"
+    },
+    {
+      "album": {
+        "name": "Saath Tum Mere",
+        "url": "https://open.spotify.com/album/0RZmzqkndbl1jiOxfiIXDQ"
+      },
+      "artists": [
+        {
+          "name": "Atul Gupta",
+          "url": "https://open.spotify.com/artist/6oBR9IHSypECG3HX96270k"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170663,
+      "name": "Saath Tum Mere",
+      "url": "https://open.spotify.com/track/15b35KYNZzZW1TAvPrmPXW"
     },
     {
       "album": {
@@ -8857,7 +8933,7 @@
       ],
       "date_added": "2022-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-07",
       "duration_ms": 140000,
       "name": "Sapna Ya Haqeeqat?",
       "url": "https://open.spotify.com/track/5aA7Ue200SJ2P7OTQZF1xd"
@@ -9053,7 +9129,7 @@
       ],
       "date_added": "2022-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-07",
       "duration_ms": 185600,
       "name": "Seventh Heaven",
       "url": "https://open.spotify.com/track/4FTU9sqVDmRe0b1CkrMkp8"
@@ -9129,6 +9205,24 @@
       "duration_ms": 331300,
       "name": "Shayad Mai Hun",
       "url": "https://open.spotify.com/track/4n9jiuV58tlUrZ8hmtxwU9"
+    },
+    {
+      "album": {
+        "name": "Shayar Toh Nahin Main",
+        "url": "https://open.spotify.com/album/2FYqujzKuwissQUV30X3aq"
+      },
+      "artists": [
+        {
+          "name": "Joell",
+          "url": "https://open.spotify.com/artist/68dq9WskDdoAdDfzFAkXPd"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190643,
+      "name": "Shayar Toh Nahin Main",
+      "url": "https://open.spotify.com/track/2wftdWbt2y6kVZJREUhTG9"
     },
     {
       "album": {
@@ -10452,6 +10546,24 @@
     },
     {
       "album": {
+        "name": "Tu Hai Toh",
+        "url": "https://open.spotify.com/album/535GQZgByPr4o4ER7rjzfY"
+      },
+      "artists": [
+        {
+          "name": "Shor",
+          "url": "https://open.spotify.com/artist/3S8X8QIU0sGRzRKYHDiXDX"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139354,
+      "name": "Tu Hai Toh",
+      "url": "https://open.spotify.com/track/3V4qTMmvJE7XUyqTYoZAbn"
+    },
+    {
+      "album": {
         "name": "Tu Hi Nahi",
         "url": "https://open.spotify.com/album/0JnFWRJSNmTG8rXQe8KEDW"
       },
@@ -10485,6 +10597,24 @@
       "duration_ms": 238030,
       "name": "Tu Na Jaane - From \"Gulmohar\"",
       "url": "https://open.spotify.com/track/4w18QmkrEx6IWAawhyqNBO"
+    },
+    {
+      "album": {
+        "name": "Tujhse Kyun",
+        "url": "https://open.spotify.com/album/1zGP2nED5lg4VfgWpdbiCb"
+      },
+      "artists": [
+        {
+          "name": "Hrishi Upadhyay",
+          "url": "https://open.spotify.com/artist/585BzSK8bK1sCDSyb0iumj"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236800,
+      "name": "Tujhse Kyun",
+      "url": "https://open.spotify.com/track/1Zr3VZ3LE1vpiVn1qeb1vv"
     },
     {
       "album": {
@@ -10946,6 +11076,28 @@
     },
     {
       "album": {
+        "name": "Walk of Shame",
+        "url": "https://open.spotify.com/album/1kRLNv8Ny3xZz6q5HLu0Ix"
+      },
+      "artists": [
+        {
+          "name": "that good good",
+          "url": "https://open.spotify.com/artist/14XrkSF1t0kuCbZXjEKwym"
+        },
+        {
+          "name": "YodaDrunk",
+          "url": "https://open.spotify.com/artist/1n1QC4XCxAiLh3pnnwiK7I"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178917,
+      "name": "Walk of Shame",
+      "url": "https://open.spotify.com/track/5zbrOD2rKcIVFLAMW28gHM"
+    },
+    {
+      "album": {
         "name": "Waqt",
         "url": "https://open.spotify.com/album/4d0yolr12CuiiFpBYbgLIa"
       },
@@ -11211,7 +11363,7 @@
       ],
       "date_added": "2022-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-07",
       "duration_ms": 160193,
       "name": "Without You",
       "url": "https://open.spotify.com/track/0AKFG40TBQKtdSLmDBefnd"

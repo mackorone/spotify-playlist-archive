@@ -4,7 +4,7 @@
 
 > The best indie rock vibes — classic and current.
 
-469 songs - 1 day 2 hr 44 min - [published](https://open.spotify.com/playlist/34b8Kse0gQlLcdKWiNlqDt)
+470 songs - 1 day 2 hr 48 min - [published](https://open.spotify.com/playlist/34b8Kse0gQlLcdKWiNlqDt)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,6 +50,7 @@
 | [Australia](https://open.spotify.com/track/1JQiZTI59vPKwXHaU0md7I) | [The Shins](https://open.spotify.com/artist/4LG4Bs1Gadht7TCrMytQUO) | [Wincing The Night Away](https://open.spotify.com/album/7f5IY1tuyC4yEardrzrxwe) | 3:56 | 2022-04-13 | 2022-04-17 |
 | [Average Joe](https://open.spotify.com/track/7HKrIgAJKM57tIg19iLnUC) | [Oscar Scheller](https://open.spotify.com/artist/6BToM88XrzNI6VL5GxazUq) | [Average Joe](https://open.spotify.com/album/0AyCnlXB1BMNOovGDhIzlC) | 3:17 | 2021-05-01 | 2022-04-14 |
 | [Bad Dream Baby](https://open.spotify.com/track/4S7misxIYuUVypO0NwDwuW) | [Hippo Campus](https://open.spotify.com/artist/1btWGBz4Uu1HozTwb2Lm8A) | [Bad Dream Baby](https://open.spotify.com/album/1TBnwPS0Mbn5DsRNeSlvrR) | 2:58 | 2021-06-22 | 2022-07-29 |
+| [Bad Habit](https://open.spotify.com/track/4k6Uh1HXdhtusDW5y8Gbvy) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Gemini Rights](https://open.spotify.com/album/3Ks0eeH0GWpY4AU20D5HPD) | 3:52 | 2022-10-07 |  |
 | [bad idea!](https://open.spotify.com/track/1M4Ud66z18wuIq3oOxqVHa) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [bad idea!](https://open.spotify.com/album/6riOnMD3YhF8kGpAXpxbdj) | 3:39 | 2022-04-13 | 2022-08-13 |
 | [Bad To Worse](https://open.spotify.com/track/4UnkELKTWTBKeuQHiiVdsl) | [Ra Ra Riot](https://open.spotify.com/artist/6FIrstf3kHEg3zBOyLpvxD) | [Bad To Worse](https://open.spotify.com/album/6kKWqN15xZsA4TBNPW6Wb2) | 4:18 | 2021-05-01 | 2022-04-13 |
 | [Balenciaga](https://open.spotify.com/track/7y7ExXQ8gjfE9x2toP7YbJ) | [New West](https://open.spotify.com/artist/69bG9tC62d8oTFC9aTTosn) | [Balenciaga](https://open.spotify.com/album/1a2UoM4rHjI9Q4KvEJeuFk) | 3:28 | 2021-05-01 | 2022-07-29 |
@@ -95,7 +96,7 @@
 | [Cigarette Daydreams](https://open.spotify.com/track/2tznHmp70DxMyr2XhWLOW0) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3) | [Melophobia](https://open.spotify.com/album/4EK8gtQfdVsmDTji7gBFlz) | 3:28 | 2022-04-13 |  |
 | [circle the drain](https://open.spotify.com/track/2drtd6SptpMJ1KylMQ7mrE) | [Soccer Mommy](https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q) | [color theory](https://open.spotify.com/album/2CISL0rSGzbO0MbQMlqBez) | 4:40 | 2022-04-13 | 2022-07-29 |
 | [City Kitty](https://open.spotify.com/track/46tYLLzHq8ipzBq6X7W9YI) | [French Cassettes](https://open.spotify.com/artist/0VcpOwnjkQaqDeEiVa9cu5) | [City Kitty](https://open.spotify.com/album/3dNUFNvSOl0cg9B2FgpGER) | 3:36 | 2021-05-01 | 2022-04-13 |
-| [Cloud 9 \(feat\. Tegan and Sara\)](https://open.spotify.com/track/2pGXCabl4UlMiskwh7evDq) | [Beach Bunny](https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H), [Tegan and Sara](https://open.spotify.com/artist/5e1BZulIiYWPRm8yogwUYH) | [Cloud 9 \(feat\. Tegan and Sara\)](https://open.spotify.com/album/7mtW3i89gUuP9A0dLYZ7BO) | 2:28 | 2021-05-01 | 2022-09-17 |
+| [Cloud 9 \(feat\. Tegan and Sara\)](https://open.spotify.com/track/2pGXCabl4UlMiskwh7evDq) | [Beach Bunny](https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H), [Tegan and Sara](https://open.spotify.com/artist/5e1BZulIiYWPRm8yogwUYH) | [Cloud 9 \(feat\. Tegan and Sara\)](https://open.spotify.com/album/7mtW3i89gUuP9A0dLYZ7BO) | 2:28 | 2021-05-01 |  |
 | [Cold Blood](https://open.spotify.com/track/1ah7QJ4UsxhGedu7QhmX44) | [Junior Varsity](https://open.spotify.com/artist/27tsCOGutD6wmFnv4eKWMp) | [Cold Blood](https://open.spotify.com/album/7lUc1rvCShf2ydND7z6Glk) | 2:44 | 2022-04-13 | 2022-04-21 |
 | [Control](https://open.spotify.com/track/4a4MRG8IkOqik0TSCHjeqY) | [Aaron Taos](https://open.spotify.com/artist/3AcBSoCVhxILXJnfLcJb66) | [Birthday Boy](https://open.spotify.com/album/7sF981dmDpo9bQZhbkDwZi) | 3:04 | 2021-05-01 | 2022-04-13 |
 | [Control](https://open.spotify.com/track/6jKOxnQ1Pdsr4KblSSeA0j) | [Aaron Taos](https://open.spotify.com/artist/3AcBSoCVhxILXJnfLcJb66) | [Birthday Boy](https://open.spotify.com/album/0cyNgrx98dRKCnNLKTl9u1) | 3:04 | 2022-04-13 | 2022-04-21 |
@@ -167,7 +168,7 @@
 | [Get To It](https://open.spotify.com/track/3sj098LIyhJm3nNiZZ45vO) | [Tia Gostelow](https://open.spotify.com/artist/4blt4zG5qMjWCPymNjDNP5) | [Get To It](https://open.spotify.com/album/0d5ipaTysA0XGWNQnUQwOz) | 2:50 | 2021-05-01 | 2022-04-13 |
 | [Ghostride](https://open.spotify.com/track/0R3TWpoxAhT3HDXM7tpRzS) | [Crumb](https://open.spotify.com/artist/4kSGbjWGxTchKpIxXPJv0B) | [Jinx](https://open.spotify.com/album/6DxidEI7EhF8md8ev83iNY) | 2:06 | 2022-04-13 |  |
 | [Give Up Baby Go](https://open.spotify.com/track/6DIMM15oo3kxnCuVypaYGy) | [Peach Pit](https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire) | [From 2 to 3](https://open.spotify.com/album/291A3Ud0sbMSfmG48k6GQY) | 4:17 | 2022-04-13 |  |
-| [Gloom](https://open.spotify.com/track/5AMe0pqbUp4HR6Vi1ngYLW) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [Gloom](https://open.spotify.com/album/4cAwTMcwIYn36iVG2Uz2oz) | 2:00 | 2022-07-29 |  |
+| [Gloom](https://open.spotify.com/track/5AMe0pqbUp4HR6Vi1ngYLW) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [Gloom](https://open.spotify.com/album/4cAwTMcwIYn36iVG2Uz2oz) | 2:00 | 2022-07-29 | 2022-10-09 |
 | [Go Wild](https://open.spotify.com/track/0H39cYgfekuFluOgGPUicR) | [Friedberg](https://open.spotify.com/artist/0lqPfG8vAR30UX3cWDbCEn) | [Go Wild](https://open.spotify.com/album/4W0dYMXgDxAfT9y86EQqw8) | 3:17 | 2021-05-01 | 2022-04-14 |
 | [Going up the Coast](https://open.spotify.com/track/2bTvNKT8bxyyPhzHu4A2Wx) | [Clay and Friends](https://open.spotify.com/artist/0lF1vCOKBjs21HtxkGmWIm) | [Going up the Coast](https://open.spotify.com/album/229OwGf2JaBsr2DFw9ixjy) | 2:54 | 2021-05-01 | 2022-04-20 |
 | [Gold Rush](https://open.spotify.com/track/4QcqzYDzMFvDSf6pyjOzET) | [Moise](https://open.spotify.com/artist/7n5kxcxAuePVFcj5XF3oDA) | [Gold Rush](https://open.spotify.com/album/2bdAXLoO6ESOHzA8O0pFZL) | 2:35 | 2021-05-01 | 2022-04-14 |
@@ -327,7 +328,7 @@
 | [Personal Lies](https://open.spotify.com/track/3BjQX42wrf1Ie1AopSnUGV) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [Twenty Twenty](https://open.spotify.com/album/4v3LUnHL01HzJC6Jol6FCv) | 4:59 | 2021-05-01 |  |
 | [Pity Party](https://open.spotify.com/track/755ZtEcRE6wHKnqWMsDzWK) | [marinelli](https://open.spotify.com/artist/0iqCNJHozJhcjPDoX1EJ6a) | [Pity Party](https://open.spotify.com/album/69Ezb3xqAZREwiNLdm1JFq) | 1:31 | 2022-04-13 | 2022-04-20 |
 | [Poor Boy \(Radio Edit\)](https://open.spotify.com/track/5Z6DxJNKw4jUiSDy95A0fp) | [Belle and Sebastian](https://open.spotify.com/artist/4I2BJf80C0skQpp1sQmA0h) | [Poor Boy \(Radio Edit\)](https://open.spotify.com/album/0QtXSzonmfOkR6jWtle4T5) | 3:25 | 2021-05-01 | 2022-04-14 |
-| [Poor Grammar](https://open.spotify.com/track/1Tdcb66Gwr5sczO5CJhmPc) | [Roar](https://open.spotify.com/artist/7dIpKWlEeAljA20vFJ82RD) | [I'm Not Here to Make Friends](https://open.spotify.com/album/3DjTiR2VRYtZgPeK660iO8) | 2:36 | 2022-04-14 |  |
+| [Poor Grammar](https://open.spotify.com/track/1Tdcb66Gwr5sczO5CJhmPc) | [Roar](https://open.spotify.com/artist/7dIpKWlEeAljA20vFJ82RD) | [I'm Not Here to Make Friends](https://open.spotify.com/album/3DjTiR2VRYtZgPeK660iO8) | 2:36 | 2022-04-14 | 2022-10-08 |
 | [Portal](https://open.spotify.com/track/2jqEkryEQLNykrJXJIqGka) | [Ski Lift](https://open.spotify.com/artist/4jXBrS7K5sOMm70llecORs) | [Portal](https://open.spotify.com/album/0L5oqY8zA9k0ccTNmZV6GP) | 2:03 | 2021-05-01 | 2022-04-13 |
 | [Post Humorous](https://open.spotify.com/track/0yb9DKhu0xA0h0qvKOHVwu) | [Gus Dapperton](https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4) | [Orca](https://open.spotify.com/album/1D8cnABQfjvfQC2Cdk889m) | 4:39 | 2021-05-01 | 2022-07-29 |
 | [Pressure To Party](https://open.spotify.com/track/5Wyy2JHaM8cKEN6YDC6C8O) | [Julia Jacklin](https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g) | [Crushing](https://open.spotify.com/album/4u3aIyQbywYaxgF7TcXuIu) | 3:02 | 2021-07-19 | 2022-07-29 |

@@ -878,6 +878,28 @@
     },
     {
       "album": {
+        "name": "Guava",
+        "url": "https://open.spotify.com/album/1UzJjnrIjP8zghjx2Wq87A"
+      },
+      "artists": [
+        {
+          "name": "Arjuna Oakes",
+          "url": "https://open.spotify.com/artist/724Bei6TsAHJYvnLHGdEAF"
+        },
+        {
+          "name": "Serebii",
+          "url": "https://open.spotify.com/artist/7JKAIlZcxCK8hSIHiSp4ms"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129636,
+      "name": "Guava",
+      "url": "https://open.spotify.com/track/2NKAEjMD5MBrWLArCjMMMd"
+    },
+    {
+      "album": {
         "name": "Let's Turn It Into Sound",
         "url": "https://open.spotify.com/album/6OejvHOkJc24k5Psvw2kS3"
       },
@@ -925,7 +947,7 @@
       ],
       "date_added": "2022-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-06",
       "duration_ms": 145774,
       "name": "I Can't Die as Well",
       "url": "https://open.spotify.com/track/2raPU3XehkE9fu9i7nPm45"

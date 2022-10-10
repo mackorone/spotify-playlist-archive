@@ -4,7 +4,7 @@
 
 > Sophisticated palates only\. Curated by: <a href="https://www.instagram.com/justinlaboy/">Justin LaBoy</a>
 
-50 songs - 2 hr 41 min - not published yet
+50 songs - 2 hr 41 min - [published](https://open.spotify.com/playlist/4o3g5ZTm3KTlClybqDIOUJ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

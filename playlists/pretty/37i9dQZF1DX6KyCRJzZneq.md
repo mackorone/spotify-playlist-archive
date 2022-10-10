@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6KyCRJzZneq.md) - [plain]
 
 > <a href="spotify:genre:0JQ5IMCbQBLzTital6q4J3">Click here to explore more rapid changes, complex progressions and improvisation\.  </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 90,225 likes - 45 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 90,677 likes - 45 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6KyCRJzZneq.md) - [plain]
 | 30 | [Locomotion](https://open.spotify.com/track/4R8sx3JYPAEyOAwpOxnALk) | [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [Blue Train](https://open.spotify.com/album/2Z11cXWEa2qqYQBGkJrCga) | 7:14 |
 | 31 | [Jumpin' At The Woodside \- Live At The Dream Bar, Johnina Hotel/1957](https://open.spotify.com/track/3oaz7cFu1nIEyIJc9rbT2Z) | [Buddy Rich Quartet](https://open.spotify.com/artist/5wD289Vy1vXyXZe7pN33EX) | [The Argo, Verve & Emarcy Small Group Sessions](https://open.spotify.com/album/0IuU7VlAtdKkVNRA803wXN) | 10:13 |
 | 32 | [Little Willie Leaps](https://open.spotify.com/track/4lHGxBpKQx9tsN1ojQtzyX) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4) | [Embraceable](https://open.spotify.com/album/2j5GUDLnu0vbZCK1fgHo7c) | 2:53 |
-| 33 | [Cheryl](https://open.spotify.com/track/1AMqC4GiDjbfwpl40kEWpX) | [Charlie Parker](https://open.spotify.com/artist/4Ww5mwS7BWYjoZTUIrMHfC) | [The Savoy 10\-inch LP Collection](https://open.spotify.com/album/6hwIz13Z6GkWOdhQFgDQJ4) | 3:00 |
+| 33 | [Cheryl](https://open.spotify.com/track/1AMqC4GiDjbfwpl40kEWpX) | [Charlie Parker](https://open.spotify.com/artist/4Ww5mwS7BWYjoZTUIrMHfC), [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4) | [The Savoy 10\-inch LP Collection](https://open.spotify.com/album/6hwIz13Z6GkWOdhQFgDQJ4) | 3:00 |
 | 34 | [Star Eyes](https://open.spotify.com/track/03wsijXCWgrIjGaPHy3sTe) | [Tina Brooks](https://open.spotify.com/artist/4JgvfZeCWGzEPGR6yVaXuX) | [Minor Move \(Expanded Edition\)](https://open.spotify.com/album/5g0JJixBHg3QsqxW9tVJjH) | 8:15 |
 | 35 | [With A Song In My Heart \- Remastered 1998](https://open.spotify.com/track/1f7EWS1kruAco1sc1W614Q) | [Sonny Clark](https://open.spotify.com/artist/1Sc9ykJB728MAZab1Ocwy8), [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [Sonny's Crib](https://open.spotify.com/album/469Y1IVCrttWSp2qQYzioA) | 7:55 |
 | 36 | [Tune\-Up](https://open.spotify.com/track/46XQ3NvJQ3TEYAYgzqlsDZ) | [Max Roach](https://open.spotify.com/artist/6jrlNnS5B830kpi40j3S6g) | [The Max Roach 4 Plays Charlie Parker](https://open.spotify.com/album/1sgD45WkQRONxLPuBbEjPH) | 7:46 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "\u4e00\u8d77\u611f\u53d7\u9999\u6e2f\u88fd\u9020\u7684\u5973\u8072\u529b\u91cf\uff01(cover: Gin Lee)",
+  "description": "\u4e00\u8d77\u611f\u53d7\u9999\u6e2f\u88fd\u9020\u7684\u5973\u8072\u529b\u91cf\uff01(cover: moon tang)",
   "name": "EQUAL Hong Kong",
   "published_playlist_ids": [
     "3fyf9kJjwMb77gM8igxXJz"
@@ -351,6 +351,42 @@
       "duration_ms": 259475,
       "name": "HW1",
       "url": "https://open.spotify.com/track/7CbFYLWp5WI3K9p57d1X9w"
+    },
+    {
+      "album": {
+        "name": "i hate u",
+        "url": "https://open.spotify.com/album/34CBGNvwe29SICNBKEXhzI"
+      },
+      "artists": [
+        {
+          "name": "moon tang",
+          "url": "https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7"
+        }
+      ],
+      "date_added": "2022-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169767,
+      "name": "i hate u",
+      "url": "https://open.spotify.com/track/1SMS6ig5qiNbjYfm3du2rM"
+    },
+    {
+      "album": {
+        "name": "i love u",
+        "url": "https://open.spotify.com/album/4np08DYpAtw26nV2UUX47D"
+      },
+      "artists": [
+        {
+          "name": "moon tang",
+          "url": "https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7"
+        }
+      ],
+      "date_added": "2022-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214003,
+      "name": "i love u",
+      "url": "https://open.spotify.com/track/5y5JrAfwqYDoVrXfv532W4"
     },
     {
       "album": {
@@ -1499,7 +1535,7 @@
       ],
       "date_added": "2022-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-06",
       "duration_ms": 254138,
       "name": "\u5230\u4e86\u90a3\u88cf\u5c31\u5c0d\u5427",
       "url": "https://open.spotify.com/track/21ENVTzs1QqHLn8bNygoGD"
@@ -3465,7 +3501,7 @@
       ],
       "date_added": "2022-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-06",
       "duration_ms": 224405,
       "name": "\u9858\u671b\u4e4b\u7ffc",
       "url": "https://open.spotify.com/track/21Kzm94SbTfBWfnAgcK02E"

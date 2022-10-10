@@ -4,12 +4,13 @@
 
 > 
 
-48 songs - 2 hr 54 min - [published](https://open.spotify.com/playlist/46IFbT9EmHSsUsqaEhrkiL)
+50 songs - 3 hr 1 min - [published](https://open.spotify.com/playlist/46IFbT9EmHSsUsqaEhrkiL)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [2econd 2ight 2eer \(that was fun, goodbye.\)](https://open.spotify.com/track/4jd13hFvWAZKZpomQleZ8L) | [Will Wood](https://open.spotify.com/artist/1VQ8riQ31zVHtlxiCC9EZE) | [The Normal Album](https://open.spotify.com/album/3e4el0X3Rqx0Lms74bUrkJ) | 3:26 | 2022-09-05 |  |
 | [a letter from a notable source](https://open.spotify.com/track/4yRvu06wfiQLznWImi5omX) | [Beetlebug](https://open.spotify.com/artist/1VT3v8pPYq1Y8yeVxRKAyM) | [a letter from a notable source](https://open.spotify.com/album/2W5X6xZBjgWHDMAVTZfnSX) | 3:06 | 2022-09-09 |  |
+| [Avocado, Baby](https://open.spotify.com/track/6zcUwPk6JqBjntBY7sAAF9) | [Los Campesinos!](https://open.spotify.com/artist/6FlOCziOXI157pvUREAh3E) | [No Blues](https://open.spotify.com/album/0Gl5s4REVZwJ74WEZmh7Lp) | 4:36 | 2022-10-03 |  |
 | [Banana Pancakes](https://open.spotify.com/track/451GvHwY99NKV4zdKPRWmv) | [Jack Johnson](https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3) | [In Between Dreams](https://open.spotify.com/album/7tTc46dNdE6GGuiQsssWxo) | 3:11 | 2022-09-09 |  |
 | [Bones](https://open.spotify.com/track/0HqZX76SFLDz2aW8aiqi7G) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Bones](https://open.spotify.com/album/1Q9SnHWPNEjVM0LrBFvJ1q) | 2:45 | 2022-09-09 |  |
 | [Cocoa Hooves](https://open.spotify.com/track/4Qw1VBxYRX2ieU9CADu8Co) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [ZABA](https://open.spotify.com/album/14IOe7ahxQPTwUYUQX3IFi) | 4:31 | 2022-09-09 |  |
@@ -40,6 +41,7 @@
 | [O Sleeper](https://open.spotify.com/track/7zDv9tvJQW1WLRQHTaSzqz) | [The Oh Hellos](https://open.spotify.com/artist/3Fe3pszR2t4TOBVz41B1WR) | [Eurus](https://open.spotify.com/album/3yvSrU3Kb4JVfQJxCPmJAx) | 4:15 | 2022-09-09 |  |
 | [Passerine](https://open.spotify.com/track/5AdK2iCPCaWnHfuoO0FoGw) | [The Oh Hellos](https://open.spotify.com/artist/3Fe3pszR2t4TOBVz41B1WR) | [Eurus](https://open.spotify.com/album/3yvSrU3Kb4JVfQJxCPmJAx) | 3:43 | 2022-09-09 |  |
 | [Rawnald Gregory Erickson the Second](https://open.spotify.com/track/4j4pPKE3xAblPIbhxScC1j) | [STRFKR](https://open.spotify.com/artist/2Tz1DTzVJ5Gyh8ZwVr6ekU) | [Starfucker](https://open.spotify.com/album/4mBSeOEiQ4WgDaCnydb0tZ) | 2:53 | 2022-09-09 |  |
+| [Romance Is Boring](https://open.spotify.com/track/79jQsuUX9NAaVXKTXZ2DLJ) | [Los Campesinos!](https://open.spotify.com/artist/6FlOCziOXI157pvUREAh3E) | [Romance Is Boring](https://open.spotify.com/album/3KYRkyw2dIMm5LS3ufPtNa) | 2:35 | 2022-10-03 |  |
 | [Rule \#21 \- Momento Mori](https://open.spotify.com/track/5DeZowL9q9wS0OBdud4Wy1) | [Fish in a Birdcage](https://open.spotify.com/artist/3AFsnAC0H9hes71BeRypbq) | [Waterfall](https://open.spotify.com/album/4RX7OLRicCMQ4ORUJTQVTm) | 3:09 | 2022-09-05 |  |
 | [Ruler of Everything](https://open.spotify.com/track/3vFZheR74pxUkzxqhXTZ2X) | [Tally Hall](https://open.spotify.com/artist/7lqaPghwYv2mE9baz5XQmL) | [Marvin's Marvelous Mechanical Museum](https://open.spotify.com/album/2TN3NIEBmAOGWmvP96DFs5) | 3:42 | 2022-09-11 |  |
 | [Shona](https://open.spotify.com/track/0JNRE2AVZvGfJdNNabrVIg) | [Jake Chudnow](https://open.spotify.com/artist/0IhZsSjGTFJBXIM5unqzdV) | [Shona](https://open.spotify.com/album/3sKv18MCypZJzh9bEncv5G) | 5:15 | 2022-09-09 |  |

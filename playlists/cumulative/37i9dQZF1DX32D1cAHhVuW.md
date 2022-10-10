@@ -4,7 +4,7 @@
 
 > Sophisticated palates only\. Curated by: <a href="https://www.instagram.com/druski/?hl=en">Druski</a>
 
-50 songs - 2 hr 49 min - not published yet
+50 songs - 2 hr 49 min - [published](https://open.spotify.com/playlist/6YxSRuGV2eErVq3hk77QbQ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

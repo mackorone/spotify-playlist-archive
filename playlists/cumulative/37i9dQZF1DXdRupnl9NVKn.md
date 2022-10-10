@@ -4,7 +4,7 @@
 
 > Neverland, your queens are here!
 
-75 songs - 4 hr 9 min - [published](https://open.spotify.com/playlist/3p3yRo4Iq3n6IVfjNDgnL1)
+76 songs - 4 hr 12 min - [published](https://open.spotify.com/playlist/3p3yRo4Iq3n6IVfjNDgnL1)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,7 +67,8 @@
 | [Saying Hello](https://open.spotify.com/track/0iLX5STkl07zjT4sO8dadX) | [MINNIE](https://open.spotify.com/artist/2pHkxVNynHBwQHhGaoBIXX) | [Link: Eat, Love, Kill \(Original Television Soundtrack\), Pt\. 2](https://open.spotify.com/album/6lkiYHR4LUv13f0yuXSf2D) | 3:59 | 2022-07-04 |  |
 | [Senorita](https://open.spotify.com/track/0q6boCcLaWYPIy2vOsksFg) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [I made](https://open.spotify.com/album/479xGDGrqMXN8YLmJMEoTG) | 3:17 | 2022-05-22 |  |
 | [Show](https://open.spotify.com/track/6D234msXLrSpmESDfOLwZ1) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [Sugar Man 3, EPISODE.8](https://open.spotify.com/album/6oHuFsV4nZcKdUwUCduhim) | 3:11 | 2022-07-04 | 2022-10-01 |
-| [Show](https://open.spotify.com/track/6rUDyzoRnBanKXvaflVLiA) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [Sugar Man 3 투유프로젝트 \- 슈가맨3, EPISODE.8](https://open.spotify.com/album/4hmSr1S0TtDjjHlvE0BREP) | 3:11 | 2022-05-22 |  |
+| [Show](https://open.spotify.com/track/6rUDyzoRnBanKXvaflVLiA) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [Sugar Man 3 투유프로젝트 \- 슈가맨3, EPISODE.8](https://open.spotify.com/album/4hmSr1S0TtDjjHlvE0BREP) | 3:11 | 2022-05-22 | 2022-10-09 |
+| [Show](https://open.spotify.com/track/3hMtT4xgDCXPd7WLPzBZX9) | [여자아이들](https://open.spotify.com/artist/0barWeINEZRJUsZIOr8pjQ) | [투유프로젝트 \- Sugar Man3 Episode.8](https://open.spotify.com/album/7DqwV9yB89XrSAw1SlA3pr) | 3:11 | 2022-07-04 |  |
 | [THE BADDEST](https://open.spotify.com/track/2V4Fx72svQRxrFvNT1eq5f) | [K/DA](https://open.spotify.com/artist/4gOc8TsQed9eqnqJct2c5v), [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx), [Wolftyla](https://open.spotify.com/artist/7qd6KGoABHifvXKeFNe2Yb), [Bea Miller](https://open.spotify.com/artist/1o2NpYGqHiCq7FoiYdyd1x), [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD) | [THE BADDEST](https://open.spotify.com/album/7C8nskYbHG7N0LDrNVvt7x) | 2:42 | 2022-05-22 |  |
 | [Thief \(Feat\. MINNIE of \(G\)I\-DLE\)](https://open.spotify.com/track/7jSs3iUhwTbo03BTuzmdvY) | [HEIZE](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo), [MINNIE](https://open.spotify.com/artist/2pHkxVNynHBwQHhGaoBIXX) | [Undo](https://open.spotify.com/album/2xR7YEyRweqClzs50bbW3J) | 3:33 | 2022-07-04 |  |
 | [TOMBOY](https://open.spotify.com/track/0IGUXY4JbK18bu9oD4mPIm) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [I NEVER DIE](https://open.spotify.com/album/1T2W9vDajFreUuycPDjUXk) | 2:54 | 2022-05-22 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb9WXpUmdSWn.md) - [plain]
 
 > Fresh takes \- from new revisions and iconic covers to unexpected versions and the songwriter's owner covers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,881 likes - 50 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,924 likes - 50 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb9WXpUmdSWn.md) - [plain]
 | 43 | [Kathy's Song](https://open.spotify.com/track/6i6hIiqSXwfzU4B2Tbtw4S) | [The Secret Sisters](https://open.spotify.com/artist/5fIZHCg2de8322HZodBDWL) | [You Don't Own Me Anymore](https://open.spotify.com/album/48oEbT2demuZV5mRLlbaLC) | 3:43 |
 | 44 | [The Only Living Boy in New York \- 2013 Remaster](https://open.spotify.com/track/4wof51y8scLARPRCWlvAs4) | [Everything But The Girl](https://open.spotify.com/artist/13ccXrK7AmXb4TddMkE7jy) | [Worldwide \(Deluxe Edition\)](https://open.spotify.com/album/2nFNWf97kAuw1hgSitgcMk) | 4:13 |
 | 45 | [Scarborough Fair \- Remastered/2003](https://open.spotify.com/track/0s0s823rpcq4YDFwatzdC0) | [Queensrÿche](https://open.spotify.com/artist/2OgUPVlWYgGBGMefZgGvCO) | [Empire \- 20th Anniversary Edition](https://open.spotify.com/album/6jmesEKzKTLAa3oI96jWow) | 3:50 |
-| 46 | [Cecilia](https://open.spotify.com/track/7x5NXd6osgF8sJajvXsPlv) | [Paul Desmond](https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu) | [Bridge Over Troubled Water](https://open.spotify.com/album/1SdiMRASc3tRVgoLPXOHba) | 2:11 |
+| 46 | [Cecilia](https://open.spotify.com/track/0KelVyupuOOwka66PcAmNZ) | [Paul Desmond](https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu) | [Bridge Over Troubled Water](https://open.spotify.com/album/1n2VCXsTJyQ7werjGlib7E) | 2:11 |
 | 47 | [I Am a Rock \- Bonus Track](https://open.spotify.com/track/4XjRpLu18H8aEISzsBzedg) | [Shelter](https://open.spotify.com/artist/4vTTRvwORrfvMOUb3OOUTy) | [When 20 Summers Pass \(20th Anniversary Edition\)](https://open.spotify.com/album/4ABa0D8WnB44fEKCG6BAQM) | 2:22 |
 | 48 | [Graceland](https://open.spotify.com/track/6XXkDYoN7dgRUtZQ5Gtk5n) | [The Tallest Man On Earth](https://open.spotify.com/artist/2BpAc5eK7Rz5GAwSp9UYXa) | [Graceland](https://open.spotify.com/album/6al4yJx2ojRnlqz2BD9q6e) | 2:55 |
 | 49 | [The Boxer](https://open.spotify.com/track/04Dqz6T7vL4APHblHSdR4q) | [Jerry Douglas](https://open.spotify.com/artist/4YgACLaoEjPl4kVZ5WmBN9), [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2), [Paul Simon](https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI) | [Babel \(Deluxe Version\)](https://open.spotify.com/album/4Blt0T4LKGdWreILkYZre3) | 4:05 |
 | 50 | [Diamonds On The Soles Of Her Shoes \- The Voice Performance](https://open.spotify.com/track/0vlV9EHERw2dRYiuhQNPJB) | [Joshua Davis](https://open.spotify.com/artist/6Z3gpcNJMzjr9Lv7UbxQhZ), [Adam Levine](https://open.spotify.com/artist/4bYPcJP5jwMhSivRcqie2n) | [The Complete Season 8 Collection \(The Voice Performance\)](https://open.spotify.com/album/6MppBBhapzHLawPrAnVVxx) | 3:04 |
 
-Snapshot ID: `MTY0Mjc4NDEyMCwwMDAwMDAwMDM5OGNjYjkzMjRmNjU2MDFiYWU2YWQ0N2FjNjE3YzFi`
+Snapshot ID: `MTY0Mjc4NDEyMCwwMDAwMDAwMDVjOGJiOTdhYzJmZjdhMTdhMWExYmI1MThmZGQyMWI3`

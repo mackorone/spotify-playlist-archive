@@ -1,15 +1,127 @@
 {
   "description": "Canciones instrumentales de guitarra.",
-  "num_followers": 105066,
+  "num_followers": 105680,
   "original_name": "Guitarra Tranquila",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Mzg5MTIwMCwwMDAwMDAwMDdlYWE4YjZkNTljNjA0MDIwZTc5NmUyODhhNGZjYzQx",
+  "snapshot_id": "MTY2NTEwMDg2MCwwMDAwMDAwMGY5NmIxN2ZmYWEzMzdhZjNiOWRhYjQyYWJiODU5NjM2",
   "tracks": [
     {
-      "added_at": "2022-09-23 00:00:00",
+      "added_at": "2022-10-07 00:01:00",
+      "album": {
+        "name": "Lusen",
+        "url": "https://open.spotify.com/album/3lDUaFHShfQnRw5QuK1oZe"
+      },
+      "artists": [
+        {
+          "name": "Alex Albright",
+          "url": "https://open.spotify.com/artist/26JRo0347XPbM7ve7owOdj"
+        }
+      ],
+      "duration_ms": 167241,
+      "name": "Lusen",
+      "url": "https://open.spotify.com/track/5nPOD520fGVNUIUVAeOjbY"
+    },
+    {
+      "added_at": "2022-10-07 00:01:00",
+      "album": {
+        "name": "Saint Valentine",
+        "url": "https://open.spotify.com/album/1MbqX2EtuO7SnLnrKzEnkv"
+      },
+      "artists": [
+        {
+          "name": "Vendla",
+          "url": "https://open.spotify.com/artist/4uWu7kqFidRgiqrLM5x1Vu"
+        }
+      ],
+      "duration_ms": 112833,
+      "name": "Saint Valentine",
+      "url": "https://open.spotify.com/track/1rIOkUQTk0LH9UM6tdRlFR"
+    },
+    {
+      "added_at": "2022-10-07 00:01:00",
+      "album": {
+        "name": "Faith Struggle",
+        "url": "https://open.spotify.com/album/1nuRmtxWItculC0bP9doH8"
+      },
+      "artists": [
+        {
+          "name": "Chico Getz",
+          "url": "https://open.spotify.com/artist/2PDfdIdjY7tHMa20yxpBhW"
+        }
+      ],
+      "duration_ms": 176750,
+      "name": "Faith Struggle",
+      "url": "https://open.spotify.com/track/3rI9bQ7ilP4EKFsr7K9Xib"
+    },
+    {
+      "added_at": "2022-10-07 00:01:00",
+      "album": {
+        "name": "De Mano A Mano",
+        "url": "https://open.spotify.com/album/7ilmeRDYvSLSsIgBBjdPIQ"
+      },
+      "artists": [
+        {
+          "name": "Papi\u00f3",
+          "url": "https://open.spotify.com/artist/14ivAwcaq4oDPoupWn8cQU"
+        }
+      ],
+      "duration_ms": 160999,
+      "name": "A Mano",
+      "url": "https://open.spotify.com/track/3I543eAVQG6u3Sm9k4PLAM"
+    },
+    {
+      "added_at": "2022-10-07 00:01:00",
+      "album": {
+        "name": "Rio Segundo",
+        "url": "https://open.spotify.com/album/3gLjkFuD4BrEWG1AbScPaU"
+      },
+      "artists": [
+        {
+          "name": "Serena Mendes",
+          "url": "https://open.spotify.com/artist/6NPbeRsuxTEwa7lMDnZLLz"
+        }
+      ],
+      "duration_ms": 169000,
+      "name": "Rio Segundo",
+      "url": "https://open.spotify.com/track/5jBlWBEf1MI1R2SasOZsuL"
+    },
+    {
+      "added_at": "2022-10-07 00:01:00",
+      "album": {
+        "name": "Southern Wind",
+        "url": "https://open.spotify.com/album/4KOcDV0VAlSROSWy2NZvza"
+      },
+      "artists": [
+        {
+          "name": "Las Tres Abejas",
+          "url": "https://open.spotify.com/artist/4AAGqhXf0H3FXHXkQzgLOi"
+        }
+      ],
+      "duration_ms": 200000,
+      "name": "Southern Wind",
+      "url": "https://open.spotify.com/track/6dFFteAqdSmnJu6Rzb7fWV"
+    },
+    {
+      "added_at": "2022-10-07 00:01:00",
+      "album": {
+        "name": "Viaggio privato",
+        "url": "https://open.spotify.com/album/2GGXn2r1cszqWSkRENLMEq"
+      },
+      "artists": [
+        {
+          "name": "Alexas Lucio",
+          "url": "https://open.spotify.com/artist/5K78fvhC7TVBC8mcpkMGvQ"
+        }
+      ],
+      "duration_ms": 119417,
+      "name": "Viaggio privato",
+      "url": "https://open.spotify.com/track/3wXRDwVyrN8C3xCmwoidua"
+    },
+    {
+      "added_at": "2022-10-07 00:01:00",
       "album": {
         "name": "The Longest Night",
         "url": "https://open.spotify.com/album/4LiHFIquwspZcQoqIfrTgi"
@@ -25,7 +137,7 @@
       "url": "https://open.spotify.com/track/3UW7pLXAXwvGc6cMnnYd0e"
     },
     {
-      "added_at": "2022-09-23 00:00:00",
+      "added_at": "2022-10-07 00:01:00",
       "album": {
         "name": "Frozen Caipirinha",
         "url": "https://open.spotify.com/album/3OXLuVmNEUvts49jtiSqw4"
@@ -41,7 +153,7 @@
       "url": "https://open.spotify.com/track/0rl1WFFKnRVG0tDlrB2vJU"
     },
     {
-      "added_at": "2022-09-23 00:00:00",
+      "added_at": "2022-10-07 00:01:00",
       "album": {
         "name": "Valsa e Vinho",
         "url": "https://open.spotify.com/album/0LNkP579n9idgfPSrTObSV"
@@ -57,7 +169,7 @@
       "url": "https://open.spotify.com/track/4992uwyEYOstUKzPgdPVR3"
     },
     {
-      "added_at": "2022-09-23 00:00:00",
+      "added_at": "2022-10-07 00:01:00",
       "album": {
         "name": "Leaving La Habana",
         "url": "https://open.spotify.com/album/4icca12AyQGQAqLzPTYs6E"
@@ -77,7 +189,7 @@
       "url": "https://open.spotify.com/track/25clc1eJ1cXlUqCk6K9BBL"
     },
     {
-      "added_at": "2022-09-23 00:00:00",
+      "added_at": "2022-10-07 00:01:00",
       "album": {
         "name": "Quite Comfy",
         "url": "https://open.spotify.com/album/3gf4STG2CwjdpqjqSJNKKw"
@@ -93,7 +205,7 @@
       "url": "https://open.spotify.com/track/0oAZ7VXoIgk8Q8Izs0YkhO"
     },
     {
-      "added_at": "2022-09-23 00:00:00",
+      "added_at": "2022-10-07 00:01:00",
       "album": {
         "name": "Isola Bella",
         "url": "https://open.spotify.com/album/1usC9bDEEJ79QAVmg1FoCx"
@@ -109,7 +221,7 @@
       "url": "https://open.spotify.com/track/3JlL4o7hhUC2eWOByAdbk1"
     },
     {
-      "added_at": "2022-09-23 00:00:00",
+      "added_at": "2022-10-07 00:01:00",
       "album": {
         "name": "Path To The Mind",
         "url": "https://open.spotify.com/album/1qCBCQvepLF70Ge8hQJSxF"
@@ -125,7 +237,7 @@
       "url": "https://open.spotify.com/track/14V2T4B8QG4kMZLc7XyYPv"
     },
     {
-      "added_at": "2022-09-23 00:00:00",
+      "added_at": "2022-10-07 00:01:00",
       "album": {
         "name": "Solus",
         "url": "https://open.spotify.com/album/05Vck1mdBEKe5cPczGEmcl"
@@ -141,7 +253,7 @@
       "url": "https://open.spotify.com/track/3T8Q3pKqqpyz7E2U3VKiwn"
     },
     {
-      "added_at": "2022-09-23 00:00:00",
+      "added_at": "2022-10-07 00:01:00",
       "album": {
         "name": "Natural State",
         "url": "https://open.spotify.com/album/5n7ZLyBMJU1UWtpUCAiVwF"
@@ -157,7 +269,7 @@
       "url": "https://open.spotify.com/track/6kvTeQ3FJGVt1UYFcKNPe7"
     },
     {
-      "added_at": "2022-09-23 00:00:00",
+      "added_at": "2022-10-07 00:01:00",
       "album": {
         "name": "De Nieuwe Kerk",
         "url": "https://open.spotify.com/album/1aezKfZ0mXc76tSl9VSCTt"
@@ -173,7 +285,7 @@
       "url": "https://open.spotify.com/track/2DGPgil0GkkDTuLzTtAU6V"
     },
     {
-      "added_at": "2022-09-23 00:00:00",
+      "added_at": "2022-10-07 00:01:00",
       "album": {
         "name": "Tiempo Diferente",
         "url": "https://open.spotify.com/album/7Hop5OQe2ynxNv0CoOUR9g"
@@ -189,7 +301,7 @@
       "url": "https://open.spotify.com/track/2Ydby2f4z6soHFOJ5vwksZ"
     },
     {
-      "added_at": "2022-09-23 00:00:00",
+      "added_at": "2022-10-07 00:01:00",
       "album": {
         "name": "Raphaela",
         "url": "https://open.spotify.com/album/2rHXOxttBdWZ45jSuMKgXv"
@@ -205,7 +317,7 @@
       "url": "https://open.spotify.com/track/09eAG4nD5njEFBEhm2aQy9"
     },
     {
-      "added_at": "2022-09-23 00:00:00",
+      "added_at": "2022-10-07 00:01:00",
       "album": {
         "name": "Waldspaziergang",
         "url": "https://open.spotify.com/album/12zVtMVg3VOEsVZ3nA4BdB"
@@ -221,7 +333,7 @@
       "url": "https://open.spotify.com/track/1GtvNtOFcgyapayFKdEPfn"
     },
     {
-      "added_at": "2022-09-23 00:00:00",
+      "added_at": "2022-10-07 00:01:00",
       "album": {
         "name": "Blessings",
         "url": "https://open.spotify.com/album/2NECkSglWdzCrBHJdLXXT2"
@@ -237,7 +349,7 @@
       "url": "https://open.spotify.com/track/1bUYu4L7LnOuCVM2PBWt3b"
     },
     {
-      "added_at": "2022-09-23 00:00:00",
+      "added_at": "2022-10-07 00:01:00",
       "album": {
         "name": "Montesinho",
         "url": "https://open.spotify.com/album/5DNcFeLsvdr047AGIDtdWA"
@@ -253,7 +365,7 @@
       "url": "https://open.spotify.com/track/5AzYGfl2BlQS2xDy63NcoL"
     },
     {
-      "added_at": "2022-09-23 00:00:00",
+      "added_at": "2022-10-07 00:01:00",
       "album": {
         "name": "Costa del Azahar",
         "url": "https://open.spotify.com/album/6bu11bayfc1ZUlF8fDUhSM"
@@ -273,7 +385,7 @@
       "url": "https://open.spotify.com/track/0vR5LtNZNWdZDoy2qDvZ6Y"
     },
     {
-      "added_at": "2022-09-23 00:00:00",
+      "added_at": "2022-10-07 00:01:00",
       "album": {
         "name": "Chapada Dos Veadeiros",
         "url": "https://open.spotify.com/album/58ZAeVMJOTjxvuVay3JmBK"
@@ -289,7 +401,7 @@
       "url": "https://open.spotify.com/track/7c8pKCt8CzPbCRli2og1bL"
     },
     {
-      "added_at": "2022-09-23 00:00:00",
+      "added_at": "2022-10-07 00:01:00",
       "album": {
         "name": "Coming home to you",
         "url": "https://open.spotify.com/album/5RuJR2nM1Rur7O5cAQxfrk"
@@ -305,7 +417,7 @@
       "url": "https://open.spotify.com/track/3z7zpVaGejh3GBR3DhlHWQ"
     },
     {
-      "added_at": "2022-09-23 00:00:00",
+      "added_at": "2022-10-07 00:01:00",
       "album": {
         "name": "Vorfreude",
         "url": "https://open.spotify.com/album/4NrIq79Bai7tVLP7ccEToG"
@@ -321,23 +433,7 @@
       "url": "https://open.spotify.com/track/098EOJ4n3mTwtlNNbxP2BL"
     },
     {
-      "added_at": "2022-09-23 00:00:00",
-      "album": {
-        "name": "Viaggio privato",
-        "url": "https://open.spotify.com/album/2GGXn2r1cszqWSkRENLMEq"
-      },
-      "artists": [
-        {
-          "name": "Alexas Lucio",
-          "url": "https://open.spotify.com/artist/5K78fvhC7TVBC8mcpkMGvQ"
-        }
-      ],
-      "duration_ms": 119417,
-      "name": "Viaggio privato",
-      "url": "https://open.spotify.com/track/3wXRDwVyrN8C3xCmwoidua"
-    },
-    {
-      "added_at": "2022-09-23 00:00:00",
+      "added_at": "2022-10-07 00:01:00",
       "album": {
         "name": "Whispers At Dawn",
         "url": "https://open.spotify.com/album/2Mbd5VHwehYOKADGeuRFqU"
@@ -353,7 +449,7 @@
       "url": "https://open.spotify.com/track/5WyGvhxqJjNyFUf7TsZ6ra"
     },
     {
-      "added_at": "2022-09-23 00:00:00",
+      "added_at": "2022-10-07 00:01:00",
       "album": {
         "name": "Lemon Butterflies",
         "url": "https://open.spotify.com/album/79atPdOAmjxkB3H4bABUt4"
@@ -369,7 +465,7 @@
       "url": "https://open.spotify.com/track/6LD3GreVtXhePn8SmPDUzm"
     },
     {
-      "added_at": "2022-09-23 00:00:00",
+      "added_at": "2022-10-07 00:01:00",
       "album": {
         "name": "The Acoustic Mind Vol.5",
         "url": "https://open.spotify.com/album/6o7WSuz1KmcL6PtxrvgSqd"
@@ -385,7 +481,7 @@
       "url": "https://open.spotify.com/track/01xJAa5YF3Ffnw7VHXvTWf"
     },
     {
-      "added_at": "2022-09-23 00:00:00",
+      "added_at": "2022-10-07 00:01:00",
       "album": {
         "name": "Mare",
         "url": "https://open.spotify.com/album/5TUcF5QXLj6Ola0lbnCFiy"
@@ -401,7 +497,7 @@
       "url": "https://open.spotify.com/track/3GVWH7adVHhwep2kAtDdc4"
     },
     {
-      "added_at": "2022-09-23 00:00:00",
+      "added_at": "2022-10-07 00:01:00",
       "album": {
         "name": "Learn to Fly",
         "url": "https://open.spotify.com/album/329j1EFas4BUDJaJLz0k5l"
@@ -417,7 +513,7 @@
       "url": "https://open.spotify.com/track/4iAdXL69NTrfKpBO8os3uZ"
     },
     {
-      "added_at": "2022-09-23 00:00:00",
+      "added_at": "2022-10-07 00:01:00",
       "album": {
         "name": "Passing Rain",
         "url": "https://open.spotify.com/album/3JxVyJJEMbFr7XV2SkhyUM"
@@ -433,7 +529,7 @@
       "url": "https://open.spotify.com/track/3DsShklw3Th0y25Xm66L2d"
     },
     {
-      "added_at": "2022-09-23 00:00:00",
+      "added_at": "2022-10-07 00:01:00",
       "album": {
         "name": "A Sign of Solace",
         "url": "https://open.spotify.com/album/2CzXhWYQjtElo9hHjqHh2F"
@@ -449,7 +545,7 @@
       "url": "https://open.spotify.com/track/6IUMwWcgrdKyK58XBFWwGC"
     },
     {
-      "added_at": "2022-09-23 00:00:00",
+      "added_at": "2022-10-07 00:01:00",
       "album": {
         "name": "Quercus",
         "url": "https://open.spotify.com/album/5UOtIQBUnWIYh40uPWNC2e"
@@ -465,7 +561,7 @@
       "url": "https://open.spotify.com/track/3s2DgQijs4kj42NehQZnwG"
     },
     {
-      "added_at": "2022-09-23 00:00:00",
+      "added_at": "2022-10-07 00:01:00",
       "album": {
         "name": "Bonding",
         "url": "https://open.spotify.com/album/2B63zD64Wyonm1HBmsIaTh"
@@ -481,7 +577,7 @@
       "url": "https://open.spotify.com/track/3i8NiwSigTjsWm8ppEIski"
     },
     {
-      "added_at": "2022-09-23 00:00:00",
+      "added_at": "2022-10-07 00:01:00",
       "album": {
         "name": "City Lights",
         "url": "https://open.spotify.com/album/3pB85c4xe6G94NlxPsAALn"
@@ -497,7 +593,7 @@
       "url": "https://open.spotify.com/track/1HysgmozgWjfu83BAbEdtc"
     },
     {
-      "added_at": "2022-09-23 00:00:00",
+      "added_at": "2022-10-07 00:01:00",
       "album": {
         "name": "Cadiz",
         "url": "https://open.spotify.com/album/16WtMA3bkNFXtvTzdL9su3"
@@ -513,7 +609,7 @@
       "url": "https://open.spotify.com/track/7GlGgZVvEI5oCpZGrEWyKN"
     },
     {
-      "added_at": "2022-09-23 00:00:00",
+      "added_at": "2022-10-07 00:01:00",
       "album": {
         "name": "Burgundy",
         "url": "https://open.spotify.com/album/5nnD4FGclPCs3E3r1Kj2CH"
@@ -529,7 +625,7 @@
       "url": "https://open.spotify.com/track/16kc1IAK0IYUvPoolUOOH6"
     },
     {
-      "added_at": "2022-09-23 00:00:00",
+      "added_at": "2022-10-07 00:01:00",
       "album": {
         "name": "Patagonia Wind",
         "url": "https://open.spotify.com/album/2JHhVGRoYytdxgslOztSp4"
@@ -545,23 +641,7 @@
       "url": "https://open.spotify.com/track/1fl6ukQEOZMlVTjncfPXph"
     },
     {
-      "added_at": "2022-09-23 00:00:00",
-      "album": {
-        "name": "Southern Wind",
-        "url": "https://open.spotify.com/album/4KOcDV0VAlSROSWy2NZvza"
-      },
-      "artists": [
-        {
-          "name": "Las Tres Abejas",
-          "url": "https://open.spotify.com/artist/4AAGqhXf0H3FXHXkQzgLOi"
-        }
-      ],
-      "duration_ms": 200000,
-      "name": "Southern Wind",
-      "url": "https://open.spotify.com/track/6dFFteAqdSmnJu6Rzb7fWV"
-    },
-    {
-      "added_at": "2022-09-23 00:00:00",
+      "added_at": "2022-10-07 00:01:00",
       "album": {
         "name": "San Gervasi",
         "url": "https://open.spotify.com/album/27DWEE5aDyLTksMdhueuM8"
@@ -577,23 +657,7 @@
       "url": "https://open.spotify.com/track/6nH1eo4LuuJisJ4m8Blw2h"
     },
     {
-      "added_at": "2022-09-23 00:00:00",
-      "album": {
-        "name": "De Mano A Mano",
-        "url": "https://open.spotify.com/album/7ilmeRDYvSLSsIgBBjdPIQ"
-      },
-      "artists": [
-        {
-          "name": "Papi\u00f3",
-          "url": "https://open.spotify.com/artist/14ivAwcaq4oDPoupWn8cQU"
-        }
-      ],
-      "duration_ms": 160999,
-      "name": "A Mano",
-      "url": "https://open.spotify.com/track/3I543eAVQG6u3Sm9k4PLAM"
-    },
-    {
-      "added_at": "2022-09-23 00:00:00",
+      "added_at": "2022-10-07 00:01:00",
       "album": {
         "name": "Don't Save Me Yet",
         "url": "https://open.spotify.com/album/6CWY13gXDB3SDFjdMt4YLN"
@@ -609,23 +673,7 @@
       "url": "https://open.spotify.com/track/190uB2WD7451d6MIm8ftJd"
     },
     {
-      "added_at": "2022-09-23 00:00:00",
-      "album": {
-        "name": "Rio Segundo",
-        "url": "https://open.spotify.com/album/3gLjkFuD4BrEWG1AbScPaU"
-      },
-      "artists": [
-        {
-          "name": "Serena Mendes",
-          "url": "https://open.spotify.com/artist/6NPbeRsuxTEwa7lMDnZLLz"
-        }
-      ],
-      "duration_ms": 169000,
-      "name": "Rio Segundo",
-      "url": "https://open.spotify.com/track/5jBlWBEf1MI1R2SasOZsuL"
-    },
-    {
-      "added_at": "2022-09-23 00:00:00",
+      "added_at": "2022-10-07 00:01:00",
       "album": {
         "name": "Downhill",
         "url": "https://open.spotify.com/album/6cLUWw3Mmiw58EcRy1NSgX"
@@ -641,7 +689,7 @@
       "url": "https://open.spotify.com/track/06v6Jm0odFC4lb0aSd54Nf"
     },
     {
-      "added_at": "2022-09-23 00:00:00",
+      "added_at": "2022-10-07 00:01:00",
       "album": {
         "name": "Meyehualco",
         "url": "https://open.spotify.com/album/5JO6noENoD4vyFxpfUWWZA"
@@ -657,23 +705,7 @@
       "url": "https://open.spotify.com/track/60TA1wktj8y67xnmyH0ISC"
     },
     {
-      "added_at": "2022-09-23 00:00:00",
-      "album": {
-        "name": "Faith Struggle",
-        "url": "https://open.spotify.com/album/1nuRmtxWItculC0bP9doH8"
-      },
-      "artists": [
-        {
-          "name": "Chico Getz",
-          "url": "https://open.spotify.com/artist/2PDfdIdjY7tHMa20yxpBhW"
-        }
-      ],
-      "duration_ms": 176750,
-      "name": "Faith Struggle",
-      "url": "https://open.spotify.com/track/3rI9bQ7ilP4EKFsr7K9Xib"
-    },
-    {
-      "added_at": "2022-09-23 00:00:00",
+      "added_at": "2022-10-07 00:01:00",
       "album": {
         "name": "Unknown",
         "url": "https://open.spotify.com/album/2bOqx8yL6KpAUcNtv8RhO2"
@@ -689,23 +721,7 @@
       "url": "https://open.spotify.com/track/3GAGou6aIHq6LpVOWat8yl"
     },
     {
-      "added_at": "2022-09-23 00:00:00",
-      "album": {
-        "name": "Saint Valentine",
-        "url": "https://open.spotify.com/album/1MbqX2EtuO7SnLnrKzEnkv"
-      },
-      "artists": [
-        {
-          "name": "Vendla",
-          "url": "https://open.spotify.com/artist/4uWu7kqFidRgiqrLM5x1Vu"
-        }
-      ],
-      "duration_ms": 112833,
-      "name": "Saint Valentine",
-      "url": "https://open.spotify.com/track/1rIOkUQTk0LH9UM6tdRlFR"
-    },
-    {
-      "added_at": "2022-09-23 00:00:00",
+      "added_at": "2022-10-07 00:01:00",
       "album": {
         "name": "Oklahoma",
         "url": "https://open.spotify.com/album/0TkLrVd4OUeTrn1yWXBM3E"
@@ -721,7 +737,7 @@
       "url": "https://open.spotify.com/track/76zbGOyubID2QvyjLrY1AU"
     },
     {
-      "added_at": "2022-09-23 00:00:00",
+      "added_at": "2022-10-07 00:01:00",
       "album": {
         "name": "Zarabanda",
         "url": "https://open.spotify.com/album/1Wyqcq3dYapOndSfkuN1Mq"
@@ -737,7 +753,7 @@
       "url": "https://open.spotify.com/track/5vURbe2Rn3beBOOsDg92TK"
     },
     {
-      "added_at": "2022-09-23 00:00:00",
+      "added_at": "2022-10-07 00:01:00",
       "album": {
         "name": "Chiapas",
         "url": "https://open.spotify.com/album/0mA1yo4p1ZO8t8mvQg63Gl"
@@ -753,7 +769,7 @@
       "url": "https://open.spotify.com/track/6deSg4veAk0NwTNF9bNry8"
     },
     {
-      "added_at": "2022-09-23 00:00:00",
+      "added_at": "2022-10-07 00:01:00",
       "album": {
         "name": "tranquila",
         "url": "https://open.spotify.com/album/2SkyKZ3eE11Hyrg3E1BZZy"
@@ -769,23 +785,7 @@
       "url": "https://open.spotify.com/track/0WfGcbNKdff8Ud2kQVW2nz"
     },
     {
-      "added_at": "2022-09-23 00:00:00",
-      "album": {
-        "name": "Lusen",
-        "url": "https://open.spotify.com/album/3lDUaFHShfQnRw5QuK1oZe"
-      },
-      "artists": [
-        {
-          "name": "Alex Albright",
-          "url": "https://open.spotify.com/artist/26JRo0347XPbM7ve7owOdj"
-        }
-      ],
-      "duration_ms": 167241,
-      "name": "Lusen",
-      "url": "https://open.spotify.com/track/5nPOD520fGVNUIUVAeOjbY"
-    },
-    {
-      "added_at": "2022-09-23 00:00:00",
+      "added_at": "2022-10-07 00:01:00",
       "album": {
         "name": "Beber",
         "url": "https://open.spotify.com/album/3cY2rn8DBLUH2JCI4w15km"
@@ -801,7 +801,7 @@
       "url": "https://open.spotify.com/track/6zdOx3LZzFC2N8sktS9Q9d"
     },
     {
-      "added_at": "2022-09-23 00:00:00",
+      "added_at": "2022-10-07 00:01:00",
       "album": {
         "name": "The Poconos",
         "url": "https://open.spotify.com/album/3A40QGZkO7BxsX5pwDr017"
@@ -817,7 +817,7 @@
       "url": "https://open.spotify.com/track/0ds1reOHuK7CCsu3nIzZXj"
     },
     {
-      "added_at": "2022-09-23 00:00:00",
+      "added_at": "2022-10-07 00:01:00",
       "album": {
         "name": "Rio Panama",
         "url": "https://open.spotify.com/album/6n18Rbe3dJKLS0QbHCPE39"
@@ -833,7 +833,7 @@
       "url": "https://open.spotify.com/track/5nmvzqwFTpY7UvC8t748bK"
     },
     {
-      "added_at": "2022-09-23 00:00:00",
+      "added_at": "2022-10-07 00:01:00",
       "album": {
         "name": "Stockholm Waltz",
         "url": "https://open.spotify.com/album/0Vl8Nl9s21QHz3fSk3U623"
@@ -849,7 +849,7 @@
       "url": "https://open.spotify.com/track/4qH4Otl7cbyUjg7kshFzUr"
     },
     {
-      "added_at": "2022-09-23 00:00:00",
+      "added_at": "2022-10-07 00:01:00",
       "album": {
         "name": "Rome Tivoli",
         "url": "https://open.spotify.com/album/2PqlKRq3A5LJlV7G8NBkom"
@@ -865,7 +865,7 @@
       "url": "https://open.spotify.com/track/5cjoEk6N6psm1BO9Qdd4ML"
     },
     {
-      "added_at": "2022-09-23 00:00:00",
+      "added_at": "2022-10-07 00:01:00",
       "album": {
         "name": "Belgian Park",
         "url": "https://open.spotify.com/album/7ji31sf4p8xRHMoPA7o6mH"
@@ -881,7 +881,7 @@
       "url": "https://open.spotify.com/track/44hRQCCOLtV5OnghKRFjqa"
     },
     {
-      "added_at": "2022-09-23 00:00:00",
+      "added_at": "2022-10-07 00:01:00",
       "album": {
         "name": "Just One Step At A Time",
         "url": "https://open.spotify.com/album/49pNKyGqE0DIc9vF9XVjGp"
@@ -897,7 +897,7 @@
       "url": "https://open.spotify.com/track/7dtIQWNjGxG4s2JoWD0hVD"
     },
     {
-      "added_at": "2022-09-23 00:00:00",
+      "added_at": "2022-10-07 00:01:00",
       "album": {
         "name": "Calisto",
         "url": "https://open.spotify.com/album/6v3xFIkiGK5BtXb6IyILMI"
@@ -913,7 +913,7 @@
       "url": "https://open.spotify.com/track/6J35jqkTjXsJz2SQhu3BVt"
     },
     {
-      "added_at": "2022-09-23 00:00:00",
+      "added_at": "2022-10-07 00:01:00",
       "album": {
         "name": "Catch a Moment in Time",
         "url": "https://open.spotify.com/album/4goQWEdTf595E0WISbjKyT"
@@ -929,7 +929,7 @@
       "url": "https://open.spotify.com/track/5rBdcn0BUdKTMxkYdiAfts"
     },
     {
-      "added_at": "2022-09-23 00:00:00",
+      "added_at": "2022-10-07 00:01:00",
       "album": {
         "name": "Antoni",
         "url": "https://open.spotify.com/album/3lXB92uIKsnBNy9XLFzDqO"
@@ -945,7 +945,7 @@
       "url": "https://open.spotify.com/track/6zklaT8tid33upy12H9Tlk"
     },
     {
-      "added_at": "2022-09-23 00:00:00",
+      "added_at": "2022-10-07 00:01:00",
       "album": {
         "name": "purple dreams",
         "url": "https://open.spotify.com/album/3ofKSAH3DgolDBcU1IaWCs"
@@ -961,7 +961,135 @@
       "url": "https://open.spotify.com/track/5HBOzyGyihD8KEptCOoxxu"
     },
     {
-      "added_at": "2022-09-23 00:00:00",
+      "added_at": "2022-10-07 00:01:00",
+      "album": {
+        "name": "Senderos",
+        "url": "https://open.spotify.com/album/5b2Qf2d0ca4auxwQGQ3icv"
+      },
+      "artists": [
+        {
+          "name": "Julia Quir\u00f3s",
+          "url": "https://open.spotify.com/artist/1WxwRcRO4zK1lfqC5qFsZF"
+        }
+      ],
+      "duration_ms": 129000,
+      "name": "Senderos",
+      "url": "https://open.spotify.com/track/0Tac24wJITYhVNDgN6o5iC"
+    },
+    {
+      "added_at": "2022-10-07 00:01:00",
+      "album": {
+        "name": "The Air Portal",
+        "url": "https://open.spotify.com/album/0QhXjZGYdD92PpGsPBwTGl"
+      },
+      "artists": [
+        {
+          "name": "Atacustico",
+          "url": "https://open.spotify.com/artist/0rvubIwf5v5p5KqyCuVZmk"
+        }
+      ],
+      "duration_ms": 157088,
+      "name": "The Air Portal",
+      "url": "https://open.spotify.com/track/0SAvctlgQPtPS6t3sgelQv"
+    },
+    {
+      "added_at": "2022-10-07 00:01:00",
+      "album": {
+        "name": "Romance Castellano",
+        "url": "https://open.spotify.com/album/3riMPqEcEtegXn7vGQ8KEm"
+      },
+      "artists": [
+        {
+          "name": "Manuel Gal\u00e1n",
+          "url": "https://open.spotify.com/artist/29d8S9wbsggVBbr2YXxjfM"
+        }
+      ],
+      "duration_ms": 135568,
+      "name": "Romance Castellano",
+      "url": "https://open.spotify.com/track/3pW3bF6TRv7bmeH8vw5Lkm"
+    },
+    {
+      "added_at": "2022-10-07 00:01:00",
+      "album": {
+        "name": "Jazz Standards for Acoustic Guitar vol 1",
+        "url": "https://open.spotify.com/album/3re1thxefHKaK6gQPn9SIC"
+      },
+      "artists": [
+        {
+          "name": "Benjamin Wallace",
+          "url": "https://open.spotify.com/artist/4HMISu0fTx7P2ScxS4v9bz"
+        }
+      ],
+      "duration_ms": 104206,
+      "name": "Blue Bossa",
+      "url": "https://open.spotify.com/track/2l9Qw5fzdAjUTlq3jGhuPt"
+    },
+    {
+      "added_at": "2022-10-07 00:01:00",
+      "album": {
+        "name": "Sonidos De La Tarde",
+        "url": "https://open.spotify.com/album/0piCaKv5lgsUxhGI0wgK37"
+      },
+      "artists": [
+        {
+          "name": "Juan Jose Moreno",
+          "url": "https://open.spotify.com/artist/4hQDTsoE4V7uoOvtvxp12P"
+        }
+      ],
+      "duration_ms": 109866,
+      "name": "Sonidos De La Tarde",
+      "url": "https://open.spotify.com/track/3qNkQ9TgNVvHKwc55SFUYf"
+    },
+    {
+      "added_at": "2022-10-07 00:01:00",
+      "album": {
+        "name": "Borealis",
+        "url": "https://open.spotify.com/album/0k1jQLyYEcR3mNhzhusrdd"
+      },
+      "artists": [
+        {
+          "name": "Las Tres Cuerdas",
+          "url": "https://open.spotify.com/artist/6jXpHupMSkU9UO5HNpP30a"
+        }
+      ],
+      "duration_ms": 270000,
+      "name": "Borealis",
+      "url": "https://open.spotify.com/track/2ysFggjX4SCyNJET0h7d7r"
+    },
+    {
+      "added_at": "2022-10-07 00:01:00",
+      "album": {
+        "name": "Treasures",
+        "url": "https://open.spotify.com/album/5Z7o5BPIvdd8tMSHMMObQ7"
+      },
+      "artists": [
+        {
+          "name": "Rafaela Moreno",
+          "url": "https://open.spotify.com/artist/5wJ8AHtbq8pem9cFX6QIeF"
+        }
+      ],
+      "duration_ms": 139874,
+      "name": "Treasures",
+      "url": "https://open.spotify.com/track/1RByCxHaCocuHZtSjItbDl"
+    },
+    {
+      "added_at": "2022-10-07 00:01:00",
+      "album": {
+        "name": "A New Strange Feeling",
+        "url": "https://open.spotify.com/album/2Zr0enscRh1m9sCMubg5Zt"
+      },
+      "artists": [
+        {
+          "name": "Aurelia",
+          "url": "https://open.spotify.com/artist/6tnJc05Vcp2PyNBCgkcAiA"
+        }
+      ],
+      "duration_ms": 199742,
+      "name": "A New Strange Feeling",
+      "url": "https://open.spotify.com/track/4k5gLhElD40OwbYu7M4us1"
+    },
+    {
+      "added_at": "2022-10-07 00:01:00",
       "album": {
         "name": "Iguazu Falls",
         "url": "https://open.spotify.com/album/22IAlT7WhxkkMaNOxuM6V1"
@@ -977,7 +1105,7 @@
       "url": "https://open.spotify.com/track/50e5GkpVaPnZw4JtLvBzyL"
     },
     {
-      "added_at": "2022-09-23 00:00:00",
+      "added_at": "2022-10-07 00:01:00",
       "album": {
         "name": "Die Wanderbiene",
         "url": "https://open.spotify.com/album/2FbEevKy2zwnMLb4d7h1IY"
@@ -993,7 +1121,7 @@
       "url": "https://open.spotify.com/track/45m0JU1iR7C5hJ0kPh86F2"
     },
     {
-      "added_at": "2022-09-23 00:00:00",
+      "added_at": "2022-10-07 00:01:00",
       "album": {
         "name": "Rio De Los Sauces",
         "url": "https://open.spotify.com/album/3rW87wBuoMnxn5CIdesQ7I"
@@ -1009,7 +1137,7 @@
       "url": "https://open.spotify.com/track/693lY3L3XadRUYWEQoYHtb"
     },
     {
-      "added_at": "2022-09-23 00:00:00",
+      "added_at": "2022-10-07 00:01:00",
       "album": {
         "name": "Milano",
         "url": "https://open.spotify.com/album/4da1Z9ZRNMf4SIiYegd94g"
@@ -1025,7 +1153,7 @@
       "url": "https://open.spotify.com/track/09Z0fc2bC2g5X5fhOklDbF"
     },
     {
-      "added_at": "2022-09-23 00:00:00",
+      "added_at": "2022-10-07 00:01:00",
       "album": {
         "name": "Calme et Paisible",
         "url": "https://open.spotify.com/album/2E92OD1lGuIQEla85kYKvY"
@@ -1041,7 +1169,7 @@
       "url": "https://open.spotify.com/track/7yVRPYTBVg3h1TsPdzcr07"
     },
     {
-      "added_at": "2022-09-23 00:00:00",
+      "added_at": "2022-10-07 00:01:00",
       "album": {
         "name": "Silver Castle",
         "url": "https://open.spotify.com/album/60mfbInhL61D5iw97J0nE5"
@@ -1057,7 +1185,7 @@
       "url": "https://open.spotify.com/track/4IN9TQVhu3Mzw1fEwblxGq"
     },
     {
-      "added_at": "2022-09-23 00:00:00",
+      "added_at": "2022-10-07 00:01:00",
       "album": {
         "name": "Ferreyra",
         "url": "https://open.spotify.com/album/6FHQVK0oq7y3Am6U0sYP7U"
@@ -1073,7 +1201,7 @@
       "url": "https://open.spotify.com/track/3NR3svuOAd8gH6ZdJWLJhb"
     },
     {
-      "added_at": "2022-09-23 00:00:00",
+      "added_at": "2022-10-07 00:01:00",
       "album": {
         "name": "Better Days",
         "url": "https://open.spotify.com/album/78Sv1TPZppB1jXVbmc2In3"
@@ -1089,7 +1217,7 @@
       "url": "https://open.spotify.com/track/0BPdtwPaBWWbo2GDUsBCG8"
     },
     {
-      "added_at": "2022-09-23 00:00:00",
+      "added_at": "2022-10-07 00:01:00",
       "album": {
         "name": "Aquarela da Vida",
         "url": "https://open.spotify.com/album/7b0K2VoR8mxJADRbTCxWvz"
@@ -1105,7 +1233,7 @@
       "url": "https://open.spotify.com/track/3W72SrUpDoLiTnxNttOo4B"
     },
     {
-      "added_at": "2022-09-23 00:00:00",
+      "added_at": "2022-10-07 00:01:00",
       "album": {
         "name": "Shape Of My Heart",
         "url": "https://open.spotify.com/album/03v8TGP1Zc77rJhr1rT8ZF"
@@ -1121,7 +1249,7 @@
       "url": "https://open.spotify.com/track/6PHLD9YXtN4GOeDZofs9op"
     },
     {
-      "added_at": "2022-09-23 00:00:00",
+      "added_at": "2022-10-07 00:01:00",
       "album": {
         "name": "Homebound",
         "url": "https://open.spotify.com/album/36VPh59fnClN38LLdlgHnU"
@@ -1137,7 +1265,7 @@
       "url": "https://open.spotify.com/track/3fZolWbWofhjyFDQXWL0T3"
     },
     {
-      "added_at": "2022-09-23 00:00:00",
+      "added_at": "2022-10-07 00:01:00",
       "album": {
         "name": "Eranthis",
         "url": "https://open.spotify.com/album/1AN5NyjT7pUu6rj5yEIWmD"
@@ -1153,7 +1281,7 @@
       "url": "https://open.spotify.com/track/5U1L9QJucR95sSZZUqKOoi"
     },
     {
-      "added_at": "2022-09-23 00:00:00",
+      "added_at": "2022-10-07 00:01:00",
       "album": {
         "name": "Old Friends",
         "url": "https://open.spotify.com/album/4BGT0LqhdGpd8fO1AEUWX0"
@@ -1169,7 +1297,7 @@
       "url": "https://open.spotify.com/track/7iJmWc6nPZrov6yzOPgqb9"
     },
     {
-      "added_at": "2022-09-23 00:00:00",
+      "added_at": "2022-10-07 00:01:00",
       "album": {
         "name": "Tomorrow's A New Day",
         "url": "https://open.spotify.com/album/2VMFaIN01U7xmdVHhZIbkU"
@@ -1185,7 +1313,7 @@
       "url": "https://open.spotify.com/track/0gN7FcU3a5CUzzqEcgHDx1"
     },
     {
-      "added_at": "2022-09-23 00:00:00",
+      "added_at": "2022-10-07 00:01:00",
       "album": {
         "name": "Footsteps In Palermo",
         "url": "https://open.spotify.com/album/2tFW9cguDkRu3OXR4Zbc3V"
@@ -1201,7 +1329,7 @@
       "url": "https://open.spotify.com/track/2fQ3bSiaQNeSn7ZoCHGfNJ"
     },
     {
-      "added_at": "2022-09-23 00:00:00",
+      "added_at": "2022-10-07 00:01:00",
       "album": {
         "name": "Manh\u00e3 de Carnaval",
         "url": "https://open.spotify.com/album/06PgdMpQa7mfoKK5odLA2g"
@@ -1217,7 +1345,7 @@
       "url": "https://open.spotify.com/track/0G4qFYtNPWpYvk9RfGAOs1"
     },
     {
-      "added_at": "2022-09-23 00:00:00",
+      "added_at": "2022-10-07 00:01:00",
       "album": {
         "name": "La Cascata",
         "url": "https://open.spotify.com/album/7tQWWgdBbI5n2K27VmQiMy"
@@ -1233,7 +1361,7 @@
       "url": "https://open.spotify.com/track/1BZLT1iTsTy1IpstmYE6PI"
     },
     {
-      "added_at": "2022-09-23 00:00:00",
+      "added_at": "2022-10-07 00:01:00",
       "album": {
         "name": "Salt Cliffs",
         "url": "https://open.spotify.com/album/0byOZ3iz1KSGHzfXFIgSjO"
@@ -1249,7 +1377,7 @@
       "url": "https://open.spotify.com/track/1CzlEQSK6Pd2MHmt2YjH4u"
     },
     {
-      "added_at": "2022-09-23 00:00:00",
+      "added_at": "2022-10-07 00:01:00",
       "album": {
         "name": "figurati",
         "url": "https://open.spotify.com/album/5CN8B0jAv9Ui2fN1apBrYJ"
@@ -1265,7 +1393,7 @@
       "url": "https://open.spotify.com/track/1YcdyFscXp5SH6yT0pbjO4"
     },
     {
-      "added_at": "2022-09-23 00:00:00",
+      "added_at": "2022-10-07 00:01:00",
       "album": {
         "name": "Manha De Carnaval",
         "url": "https://open.spotify.com/album/2xRj3jkw0xBoLTBdkM8BSK"
@@ -1281,7 +1409,7 @@
       "url": "https://open.spotify.com/track/5D09utzIzyrzSRjeQMrssn"
     },
     {
-      "added_at": "2022-09-23 00:00:00",
+      "added_at": "2022-10-07 00:01:00",
       "album": {
         "name": "La Nostalgia",
         "url": "https://open.spotify.com/album/7qt3oe7jbO84iozNWFpb4e"
@@ -1305,7 +1433,7 @@
       "url": "https://open.spotify.com/track/0LPw0eHj4ZzgFoWBNkKMPM"
     },
     {
-      "added_at": "2022-09-23 00:00:00",
+      "added_at": "2022-10-07 00:01:00",
       "album": {
         "name": "Velvet Morning",
         "url": "https://open.spotify.com/album/6E4YOwkbhPKrMYsFiCPACh"
@@ -1321,7 +1449,7 @@
       "url": "https://open.spotify.com/track/6YNlei2JlZDPL0E0PgEiK1"
     },
     {
-      "added_at": "2022-09-23 00:00:00",
+      "added_at": "2022-10-07 00:01:00",
       "album": {
         "name": "Cartas da Inf\u00e2ncia",
         "url": "https://open.spotify.com/album/0BhYFKgYBJydcaDQG6emhd"
@@ -1337,7 +1465,7 @@
       "url": "https://open.spotify.com/track/6oWxIZMs643Wtw2cuDh2b3"
     },
     {
-      "added_at": "2022-09-23 00:00:00",
+      "added_at": "2022-10-07 00:01:00",
       "album": {
         "name": "Coraz\u00f3n De Piedra",
         "url": "https://open.spotify.com/album/3jTZyRV27S9r7DpMd9WW69"
@@ -1353,7 +1481,7 @@
       "url": "https://open.spotify.com/track/3odjYqGY9KdsTazd5fdwrt"
     },
     {
-      "added_at": "2022-09-23 00:00:00",
+      "added_at": "2022-10-07 00:01:00",
       "album": {
         "name": "Beatriz (Arr. for Guitar by S\u00e9rgio Assad)",
         "url": "https://open.spotify.com/album/0UYrRuHrJcz2il0oww8zeW"
@@ -1369,7 +1497,7 @@
       "url": "https://open.spotify.com/track/17wRtZlmO6TEZqGDpZv673"
     },
     {
-      "added_at": "2022-09-23 00:00:00",
+      "added_at": "2022-10-07 00:01:00",
       "album": {
         "name": "Andromeda Shimmer",
         "url": "https://open.spotify.com/album/4lUIFJ7YZuwxqEYoMwWMQB"
@@ -1385,7 +1513,7 @@
       "url": "https://open.spotify.com/track/6dDWBvom0X1VsTaH6k6Uml"
     },
     {
-      "added_at": "2022-09-23 00:00:00",
+      "added_at": "2022-10-07 00:01:00",
       "album": {
         "name": "Speak Once More",
         "url": "https://open.spotify.com/album/4n0apJdJD2i8Z2xajNujPb"
@@ -1401,7 +1529,7 @@
       "url": "https://open.spotify.com/track/2HUIWdVfSsoLeC20cgX7YB"
     },
     {
-      "added_at": "2022-09-23 00:00:00",
+      "added_at": "2022-10-07 00:01:00",
       "album": {
         "name": "Let Me Reach That Mountain",
         "url": "https://open.spotify.com/album/63QYtDWsFzy2yxYvMPcnCT"
@@ -1417,7 +1545,7 @@
       "url": "https://open.spotify.com/track/11jFSuok2S4g04ziCBd44w"
     },
     {
-      "added_at": "2022-09-23 00:00:00",
+      "added_at": "2022-10-07 00:01:00",
       "album": {
         "name": "back in time",
         "url": "https://open.spotify.com/album/1iZlR1EQhzM6itJ396l41C"
@@ -1433,7 +1561,7 @@
       "url": "https://open.spotify.com/track/76loNX1slkkTetxZZQ183q"
     },
     {
-      "added_at": "2022-09-23 00:00:00",
+      "added_at": "2022-10-07 00:01:00",
       "album": {
         "name": "Morgensonne",
         "url": "https://open.spotify.com/album/1oAeUw1cBcoek76UVXFRer"
@@ -1449,7 +1577,7 @@
       "url": "https://open.spotify.com/track/1DVehVLP2YEOGjFgUl4DE0"
     },
     {
-      "added_at": "2022-09-23 00:00:00",
+      "added_at": "2022-10-07 00:01:00",
       "album": {
         "name": "It Started With A Simple Hello",
         "url": "https://open.spotify.com/album/3mb2nHbWyloy0dzdjlm3Fd"
@@ -1465,7 +1593,7 @@
       "url": "https://open.spotify.com/track/2GFdkqyE2bUWo55W3BxiPe"
     },
     {
-      "added_at": "2022-09-23 00:00:00",
+      "added_at": "2022-10-07 00:01:00",
       "album": {
         "name": "Davinci",
         "url": "https://open.spotify.com/album/1vkIgRJj1wNbkmEyOl9aUa"
@@ -1481,7 +1609,7 @@
       "url": "https://open.spotify.com/track/74xrzR2MKdzp7AT06enGvk"
     },
     {
-      "added_at": "2022-09-23 00:00:00",
+      "added_at": "2022-10-07 00:01:00",
       "album": {
         "name": "Raphaela",
         "url": "https://open.spotify.com/album/2rHXOxttBdWZ45jSuMKgXv"
@@ -1497,7 +1625,7 @@
       "url": "https://open.spotify.com/track/1Y95ZqpRL9fDfPylinDvtS"
     },
     {
-      "added_at": "2022-09-23 00:00:00",
+      "added_at": "2022-10-07 00:01:00",
       "album": {
         "name": "Todo Es Mi Culpa",
         "url": "https://open.spotify.com/album/2i3eS5YpZIAjskFF5mffpd"
@@ -1513,7 +1641,7 @@
       "url": "https://open.spotify.com/track/5YEiLgjWOoWQdmy8ziS42B"
     },
     {
-      "added_at": "2022-09-23 00:00:00",
+      "added_at": "2022-10-07 00:01:00",
       "album": {
         "name": "colored ocean",
         "url": "https://open.spotify.com/album/698szoxtS7pr3ur5Km4CaX"
@@ -1529,7 +1657,7 @@
       "url": "https://open.spotify.com/track/4O13E1iUnn7rHagANfr69q"
     },
     {
-      "added_at": "2022-09-23 00:00:00",
+      "added_at": "2022-10-07 00:01:00",
       "album": {
         "name": "Morgenstund",
         "url": "https://open.spotify.com/album/2ni9DbZXvKnvHyr5UbYAo5"
@@ -1545,7 +1673,7 @@
       "url": "https://open.spotify.com/track/6aChaZyAJMXGE1dv3Hl1Py"
     },
     {
-      "added_at": "2022-09-23 00:00:00",
+      "added_at": "2022-10-07 00:01:00",
       "album": {
         "name": "Viajando Solo",
         "url": "https://open.spotify.com/album/4H7MijgiJFlbsVpP2vd1Ij"
@@ -1561,7 +1689,7 @@
       "url": "https://open.spotify.com/track/6zKkOpnyYB8sFhjK6NQRgX"
     },
     {
-      "added_at": "2022-09-23 00:00:00",
+      "added_at": "2022-10-07 00:01:00",
       "album": {
         "name": "das einsame Waldhaus",
         "url": "https://open.spotify.com/album/6qkwLbJ5GqcOaLRYysZ511"
@@ -1577,7 +1705,7 @@
       "url": "https://open.spotify.com/track/4vZ4qi9FYdMdqKB8g0dzxo"
     },
     {
-      "added_at": "2022-09-23 00:00:00",
+      "added_at": "2022-10-07 00:01:00",
       "album": {
         "name": "Coma Pedrosa",
         "url": "https://open.spotify.com/album/0Eo35G5FqMSC4T1hKVnLw4"
@@ -1593,7 +1721,7 @@
       "url": "https://open.spotify.com/track/51cywj6ZBciJT6xKDm9wyV"
     },
     {
-      "added_at": "2022-09-23 00:00:00",
+      "added_at": "2022-10-07 00:01:00",
       "album": {
         "name": "Come Join Me For A Coffee",
         "url": "https://open.spotify.com/album/4nGG1PsFoQrDM1qR5x0md4"
@@ -1609,7 +1737,7 @@
       "url": "https://open.spotify.com/track/6VnnTqt2OpuS0UtAJnBPcU"
     },
     {
-      "added_at": "2022-09-23 00:00:00",
+      "added_at": "2022-10-07 00:01:00",
       "album": {
         "name": "Albarrac\u00edn",
         "url": "https://open.spotify.com/album/3xlEDW390BcYtfFMesVcv8"
@@ -1625,7 +1753,7 @@
       "url": "https://open.spotify.com/track/1Syf6EfG7o04qESj65mxOv"
     },
     {
-      "added_at": "2022-09-23 00:00:00",
+      "added_at": "2022-10-07 00:01:00",
       "album": {
         "name": "Solitaria",
         "url": "https://open.spotify.com/album/7aqZcpul5wBwHJpJRMLIuF"
@@ -1641,7 +1769,7 @@
       "url": "https://open.spotify.com/track/4i91ILhC9McCVwhJE3spPT"
     },
     {
-      "added_at": "2022-09-23 00:00:00",
+      "added_at": "2022-10-07 00:01:00",
       "album": {
         "name": "Salt of the Earth",
         "url": "https://open.spotify.com/album/2ilAYRZfti1IwkWeoTVNC1"
@@ -1657,7 +1785,7 @@
       "url": "https://open.spotify.com/track/4CqfpazHWTsvO1AiSrtfwl"
     },
     {
-      "added_at": "2022-09-23 00:00:00",
+      "added_at": "2022-10-07 00:01:00",
       "album": {
         "name": "Savoca",
         "url": "https://open.spotify.com/album/2slTVldYU5nAHltkYsEyS0"
@@ -1673,7 +1801,7 @@
       "url": "https://open.spotify.com/track/7EaZOfcQgKj53K2FPKWpIk"
     },
     {
-      "added_at": "2022-09-23 00:00:00",
+      "added_at": "2022-10-07 00:01:00",
       "album": {
         "name": "I Never Really Lost You",
         "url": "https://open.spotify.com/album/5NB6PAUks28HbiKhYl09DI"
@@ -1689,7 +1817,7 @@
       "url": "https://open.spotify.com/track/5ktW8oGQimLO9EE7mPdkrc"
     },
     {
-      "added_at": "2022-09-23 00:00:00",
+      "added_at": "2022-10-07 00:01:00",
       "album": {
         "name": "Serata Silenziosa",
         "url": "https://open.spotify.com/album/1XEY8srIqh18PkbQK84tpc"
@@ -1705,7 +1833,7 @@
       "url": "https://open.spotify.com/track/2xIH2lggFO43v7wPbEtHEY"
     },
     {
-      "added_at": "2022-09-23 00:00:00",
+      "added_at": "2022-10-07 00:01:00",
       "album": {
         "name": "Nachtfalke",
         "url": "https://open.spotify.com/album/665FBCmE1FNe3sycFJ5wCO"
@@ -1721,7 +1849,7 @@
       "url": "https://open.spotify.com/track/1KA3f0hBZfwbcoeDidN91k"
     },
     {
-      "added_at": "2022-09-23 00:00:00",
+      "added_at": "2022-10-07 00:01:00",
       "album": {
         "name": "Deep End",
         "url": "https://open.spotify.com/album/1LvDcTZgsmxYBuuyKFt8ba"
@@ -1737,7 +1865,7 @@
       "url": "https://open.spotify.com/track/4xOX662co6Ryxqez1fgJbY"
     },
     {
-      "added_at": "2022-09-23 00:00:00",
+      "added_at": "2022-10-07 00:01:00",
       "album": {
         "name": "Saffron Hills",
         "url": "https://open.spotify.com/album/6j9zshvn2NhNjUKGRP1NgM"
@@ -1753,7 +1881,7 @@
       "url": "https://open.spotify.com/track/65334YdgENom7CuEpChTCJ"
     },
     {
-      "added_at": "2022-09-23 00:00:00",
+      "added_at": "2022-10-07 00:01:00",
       "album": {
         "name": "Barefoot Again",
         "url": "https://open.spotify.com/album/7bxvPmLbLvLwArNY4bJz3J"
@@ -1769,7 +1897,7 @@
       "url": "https://open.spotify.com/track/6bd8i923aA2lavpzd7YbIu"
     },
     {
-      "added_at": "2022-09-23 00:00:00",
+      "added_at": "2022-10-07 00:01:00",
       "album": {
         "name": "Canci\u00f3n A Solas",
         "url": "https://open.spotify.com/album/4Qb1rsL5QvMtnDVE4fEjTZ"
@@ -1785,7 +1913,7 @@
       "url": "https://open.spotify.com/track/2h4IHvYUMuHSRtP1IN7Mpr"
     },
     {
-      "added_at": "2022-09-23 00:00:00",
+      "added_at": "2022-10-07 00:01:00",
       "album": {
         "name": "Whispering Layers",
         "url": "https://open.spotify.com/album/1Xo3DXwlMHItplKwelQCMT"
@@ -1801,7 +1929,7 @@
       "url": "https://open.spotify.com/track/29HXSiNvjzOadUBozQ1wJC"
     },
     {
-      "added_at": "2022-09-23 00:00:00",
+      "added_at": "2022-10-07 00:01:00",
       "album": {
         "name": "So Close",
         "url": "https://open.spotify.com/album/6Q4SI5mpUxi0dwms50VNzz"
@@ -1817,7 +1945,7 @@
       "url": "https://open.spotify.com/track/3wz1TYEdO1O0Y217x8fkV1"
     },
     {
-      "added_at": "2022-09-23 00:00:00",
+      "added_at": "2022-10-07 00:01:00",
       "album": {
         "name": "Sandrina",
         "url": "https://open.spotify.com/album/6Is2bPoXegoPbnYTzVD7nB"
@@ -1833,7 +1961,7 @@
       "url": "https://open.spotify.com/track/3ozSKHP42w2mYbkmqEnfOq"
     },
     {
-      "added_at": "2022-09-23 00:00:00",
+      "added_at": "2022-10-07 00:01:00",
       "album": {
         "name": "Siena",
         "url": "https://open.spotify.com/album/7uBcvHDsSXkR6m5CSHqCFJ"
@@ -1849,7 +1977,7 @@
       "url": "https://open.spotify.com/track/0bYa0O1LHWVaPRKfdyO2yQ"
     },
     {
-      "added_at": "2022-09-23 00:00:00",
+      "added_at": "2022-10-07 00:01:00",
       "album": {
         "name": "Eu Sei Que Vou Te Amar",
         "url": "https://open.spotify.com/album/5HrmMkMFpMLTKCaQW5XlTQ"
@@ -1865,7 +1993,7 @@
       "url": "https://open.spotify.com/track/4mhtL6cfoChqxjFhI4i8tg"
     },
     {
-      "added_at": "2022-09-23 00:00:00",
+      "added_at": "2022-10-07 00:01:00",
       "album": {
         "name": "Cradle Song",
         "url": "https://open.spotify.com/album/1tWkanvuRkPU6YpZ7zNmZV"
@@ -1885,7 +2013,7 @@
       "url": "https://open.spotify.com/track/6yzAM00PEx3nBUqTsUgkgz"
     },
     {
-      "added_at": "2022-09-23 00:00:00",
+      "added_at": "2022-10-07 00:01:00",
       "album": {
         "name": "Antofagasta",
         "url": "https://open.spotify.com/album/1Vght0beo7Xp1utA81XL2a"
@@ -1901,7 +2029,7 @@
       "url": "https://open.spotify.com/track/5CuV4yJTY9gaMGBlq14afa"
     },
     {
-      "added_at": "2022-09-23 00:00:00",
+      "added_at": "2022-10-07 00:01:00",
       "album": {
         "name": "Vals del Poniente",
         "url": "https://open.spotify.com/album/1LsfF1UWdBt9D0VrNfL6rE"
@@ -1921,39 +2049,7 @@
       "url": "https://open.spotify.com/track/0qV4MeBsY9MvlMVoIGMXi0"
     },
     {
-      "added_at": "2022-09-23 00:00:00",
-      "album": {
-        "name": "Sancy",
-        "url": "https://open.spotify.com/album/4b4azFjmeRxMA0un2h196Z"
-      },
-      "artists": [
-        {
-          "name": "Oli Bloom",
-          "url": "https://open.spotify.com/artist/7vlpBGqjj0b2Vmrf1i4Bpl"
-        }
-      ],
-      "duration_ms": 143464,
-      "name": "Sancy",
-      "url": "https://open.spotify.com/track/7mBtZnqdWLJQbd2vIc3Urz"
-    },
-    {
-      "added_at": "2022-09-23 00:00:00",
-      "album": {
-        "name": "silencia",
-        "url": "https://open.spotify.com/album/2iazTdrsYti6YtHKrsOnjC"
-      },
-      "artists": [
-        {
-          "name": "Markus Morgenstern",
-          "url": "https://open.spotify.com/artist/3wTwKXCFkSdz39edOCrYve"
-        }
-      ],
-      "duration_ms": 196050,
-      "name": "der Olivenbaum",
-      "url": "https://open.spotify.com/track/6YnWik8jXPsHsqQyY9YuUY"
-    },
-    {
-      "added_at": "2022-09-23 00:00:00",
+      "added_at": "2022-10-07 00:01:00",
       "album": {
         "name": "Don't Be Shy",
         "url": "https://open.spotify.com/album/3CbgkGlLHbAvU8I8L9IBcu"
@@ -1969,7 +2065,7 @@
       "url": "https://open.spotify.com/track/5RmX0yhb5eeLI9QUawpnHp"
     },
     {
-      "added_at": "2022-09-23 00:00:00",
+      "added_at": "2022-10-07 00:01:00",
       "album": {
         "name": "Dianthus",
         "url": "https://open.spotify.com/album/7M847xnmEPmIyAIXiXTKJv"
@@ -1985,7 +2081,7 @@
       "url": "https://open.spotify.com/track/5BzjvgbKD4J7qr6Qq3LN0Q"
     },
     {
-      "added_at": "2022-09-23 00:00:00",
+      "added_at": "2022-10-07 00:01:00",
       "album": {
         "name": "Via Venezia",
         "url": "https://open.spotify.com/album/1jJcIOY6MrChG5g8961SfH"
@@ -2001,39 +2097,7 @@
       "url": "https://open.spotify.com/track/2kjjHarIUiN5gKqk7RDUum"
     },
     {
-      "added_at": "2022-09-23 00:00:00",
-      "album": {
-        "name": "Lake Tahoe",
-        "url": "https://open.spotify.com/album/7qDXnV1wkeeCjx3ryDWHyk"
-      },
-      "artists": [
-        {
-          "name": "Mac Lawlor",
-          "url": "https://open.spotify.com/artist/0GaniHLie4Bik5osPQxfM3"
-        }
-      ],
-      "duration_ms": 169192,
-      "name": "Winter Escape",
-      "url": "https://open.spotify.com/track/4E7viEoB5ubmacUw6G8obh"
-    },
-    {
-      "added_at": "2022-09-23 00:00:00",
-      "album": {
-        "name": "Enrejado",
-        "url": "https://open.spotify.com/album/7qlWfiqgc8galnEyU9AFO1"
-      },
-      "artists": [
-        {
-          "name": "Las Penas",
-          "url": "https://open.spotify.com/artist/2v5fDmNadBqRCk7r6u9nFS"
-        }
-      ],
-      "duration_ms": 217674,
-      "name": "Enrejado",
-      "url": "https://open.spotify.com/track/30qtyIShVMKBJ2BzHdHOpz"
-    },
-    {
-      "added_at": "2022-09-23 00:00:00",
+      "added_at": "2022-10-07 00:01:00",
       "album": {
         "name": "Lake District",
         "url": "https://open.spotify.com/album/2D3X3S42HBWPbhWL9nE7YE"
@@ -2049,71 +2113,7 @@
       "url": "https://open.spotify.com/track/2xrNBiMKQ8Waq8Yfk3SILh"
     },
     {
-      "added_at": "2022-09-23 00:00:00",
-      "album": {
-        "name": "Lavender Fields",
-        "url": "https://open.spotify.com/album/5ZWhg4hM263s5Mb21HicFg"
-      },
-      "artists": [
-        {
-          "name": "Josiah Mitchell",
-          "url": "https://open.spotify.com/artist/6ADi5pFQDjbPqV3V1z4iUZ"
-        }
-      ],
-      "duration_ms": 209739,
-      "name": "Lavender Fields",
-      "url": "https://open.spotify.com/track/3ExlWxzIV13ak6afl93XDq"
-    },
-    {
-      "added_at": "2022-09-23 00:00:00",
-      "album": {
-        "name": "Mountain Train",
-        "url": "https://open.spotify.com/album/6WPjFsCNnKId7wQkP9RDlg"
-      },
-      "artists": [
-        {
-          "name": "Valencia Torres",
-          "url": "https://open.spotify.com/artist/1FIDJ9PL61hAFkpZPodejt"
-        }
-      ],
-      "duration_ms": 166369,
-      "name": "Mountain Train",
-      "url": "https://open.spotify.com/track/56PyPh8da7AnBnHkSvICfG"
-    },
-    {
-      "added_at": "2022-09-23 00:00:00",
-      "album": {
-        "name": "Cuerda De Algodon",
-        "url": "https://open.spotify.com/album/459rMVytLNW0fjDKzmOVzU"
-      },
-      "artists": [
-        {
-          "name": "Papi\u00f3",
-          "url": "https://open.spotify.com/artist/14ivAwcaq4oDPoupWn8cQU"
-        }
-      ],
-      "duration_ms": 175816,
-      "name": "Cuerda De Algodon",
-      "url": "https://open.spotify.com/track/6908BOjeinWFsU69fQuQSa"
-    },
-    {
-      "added_at": "2022-09-23 00:00:00",
-      "album": {
-        "name": "Clementia",
-        "url": "https://open.spotify.com/album/4GOIfeNnXb5pOOCYT4cV8G"
-      },
-      "artists": [
-        {
-          "name": "Josep De Le\u00f3n",
-          "url": "https://open.spotify.com/artist/3aymPrB7uRKThm7TCk59Zl"
-        }
-      ],
-      "duration_ms": 183121,
-      "name": "Zirbenwald",
-      "url": "https://open.spotify.com/track/1gdYPWZy8U0ucfHLRLx7HQ"
-    },
-    {
-      "added_at": "2022-09-23 00:00:00",
+      "added_at": "2022-10-07 00:01:00",
       "album": {
         "name": "By Myself but Not Alone",
         "url": "https://open.spotify.com/album/4kBBI0yalDHd0QQ6MW6hb2"
@@ -2127,22 +2127,6 @@
       "duration_ms": 245500,
       "name": "By Myself but Not Alone",
       "url": "https://open.spotify.com/track/3Um3kj4lrIubR86Y81qCWj"
-    },
-    {
-      "added_at": "2022-09-23 00:00:00",
-      "album": {
-        "name": "Rosebuds",
-        "url": "https://open.spotify.com/album/36pUo2ZfESoPVlGVRGrzIK"
-      },
-      "artists": [
-        {
-          "name": "Josephine Forrester",
-          "url": "https://open.spotify.com/artist/3hGRgVdSwQQVheMJ6pizcz"
-        }
-      ],
-      "duration_ms": 138610,
-      "name": "Rosebuds",
-      "url": "https://open.spotify.com/track/0GydsTxQwwzuyVbqpdSgD7"
     }
   ],
   "unique_name": "Guitarra Tranquila",

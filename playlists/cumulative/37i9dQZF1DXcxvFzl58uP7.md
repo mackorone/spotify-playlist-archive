@@ -4,7 +4,7 @@
 
 > Dreamy jams from the best bedroom producers\. Cover: SALES
 
-772 songs - 1 day 16 hr 7 min - [published](https://open.spotify.com/playlist/4p9v5vMC3BNDcXEwon0JiI)
+773 songs - 1 day 16 hr 9 min - [published](https://open.spotify.com/playlist/4p9v5vMC3BNDcXEwon0JiI)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -125,6 +125,7 @@
 | [car freshener aftershave](https://open.spotify.com/track/3WjJsxVGgv338WTJjqMMUo) | [pizzagirl](https://open.spotify.com/artist/0ef7Q5r0NAMicEugmtYxjA) | [car freshener aftershave](https://open.spotify.com/album/4bttNVeiW21axEo78V9n6B) | 4:03 | 2021-03-21 | 2021-08-23 |
 | [Car Window](https://open.spotify.com/track/54oNYGC5Sh6ZkvlsLYjPpC) | [Yeek](https://open.spotify.com/artist/5BhFZpE8kUGZJiKOsYjLQM) | [Car Window](https://open.spotify.com/album/6P6XVOcw28EdxuIqikSOqj) | 2:55 | 2019-07-30\* | 2021-05-28 |
 | [Chandelier](https://open.spotify.com/track/1Go9q6KaCpAsQ0wkZFGzY2) | [Will Paquin](https://open.spotify.com/artist/0oouuXi8tdasgUgk520Jy6) | [Chandelier](https://open.spotify.com/album/2mLsjWM9GyknWYlAXKZcOe) | 2:07 | 2020-12-22 | 2022-09-30 |
+| [Chandelier](https://open.spotify.com/track/1cwqP7Tyxu5z8XDYoPkNte) | [Will Paquin](https://open.spotify.com/artist/0oouuXi8tdasgUgk520Jy6) | [Chandelier](https://open.spotify.com/album/1VC4P7rm1o3aYlYVYFkpGF) | 2:07 | 2022-09-14 |  |
 | [Change Shapes \(feat\. Jesse\)](https://open.spotify.com/track/0pFx0KHtJVFzfjrQQB1FoR) | [Rebounder](https://open.spotify.com/artist/2g2HWripkxzRZDZJ4KTBSB), [Jesse](https://open.spotify.com/artist/4as3khXWaPjfkFdCA0JWMo) | [Change Shapes \(feat\. Jesse\)](https://open.spotify.com/album/5n3pUtUIrPAV5CqujbDGh1) | 3:29 | 2021-06-25 | 2022-07-28 |
 | [Changephobia](https://open.spotify.com/track/7cYSdIfUBqVefOSWcW4p0y) | [Rostam](https://open.spotify.com/artist/04XggbrM51GcFPTxBYtRXT) | [Changephobia](https://open.spotify.com/album/7nDAioCBVXisIee3pdRR10) | 3:50 | 2021-06-04 | 2022-04-20 |
 | [Cherry Pie](https://open.spotify.com/track/5fyBMJubnWJwFaa8heLs9m) | [Love, Sophie](https://open.spotify.com/artist/4B0A42ayBdKYIKFZwI0OV6) | [Cherry Pie](https://open.spotify.com/album/3SDzuphPaAqS1U6iYv231S) | 2:43 | 2020-11-04 | 2021-05-23 |
@@ -400,7 +401,7 @@
 | [lighten my mood](https://open.spotify.com/track/3uCjTYZPhUOATADE08Pyzv) | [Mikayla Geier](https://open.spotify.com/artist/3L7svRFWE5kcIReq1uwC5J) | [lighten my mood](https://open.spotify.com/album/6DT4s3XmzYr5GNAgaFzFIq) | 2:40 | 2021-06-25 | 2022-06-17 |
 | [Like Nobody](https://open.spotify.com/track/5oHSpnSFDwT6tnKzvmnNrx) | [Elise Azkoul](https://open.spotify.com/artist/6KCrTdWDzF11PcWt6uygaE) | [Like Nobody](https://open.spotify.com/album/4ZWpZxP9ZUbQ0vH9zpDnxh) | 2:52 | 2020-11-03 | 2021-05-03 |
 | [like the lonely](https://open.spotify.com/track/1sE9HlH3G9kqHfKora9LHJ) | [Cassidi](https://open.spotify.com/artist/3hHnYAexHQ3wYGYno6LArK) | [like the lonely](https://open.spotify.com/album/4GAlchY0qtOIFJBM874FYY) | 3:30 | 2021-10-08 | 2022-04-20 |
-| [Lil Baby Crush](https://open.spotify.com/track/3ZG4FTdTqdXk1ja9hZap8x) | [Jordan Ward](https://open.spotify.com/artist/3DGlTwdM5Dim9XQipb3jMf) | [Remain Calm](https://open.spotify.com/album/1AGKrfgR7G8C97G7SgETbZ) | 2:21 | 2021-09-10 |  |
+| [Lil Baby Crush](https://open.spotify.com/track/3ZG4FTdTqdXk1ja9hZap8x) | [Jordan Ward](https://open.spotify.com/artist/3DGlTwdM5Dim9XQipb3jMf) | [Remain Calm](https://open.spotify.com/album/1AGKrfgR7G8C97G7SgETbZ) | 2:21 | 2021-09-10 | 2022-10-08 |
 | [Lil Baby Crush](https://open.spotify.com/track/6nXiaXqSZAJuOG6q66mZV1) | [Jordan Ward](https://open.spotify.com/artist/3DGlTwdM5Dim9XQipb3jMf) | [Lil Baby Crush](https://open.spotify.com/album/7xp9foM1WZspt8ypJD3aLf) | 2:21 | 2021-09-10 | 2022-04-18 |
 | [Listen](https://open.spotify.com/track/0CIkEjigreAi3b1YCLBqzW) | [Ambar Lucid](https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G) | [Listen](https://open.spotify.com/album/48XJBOBdPzvV2zIZQsQjn7) | 2:30 | 2019-08-01 | 2021-05-25 |
 | [lived to love](https://open.spotify.com/track/2m9N5pZkg7wkgLadlvWcpj) | [808vic](https://open.spotify.com/artist/0kzNGCruksB28DRbqhEfPM) | [lived to love](https://open.spotify.com/album/0zNnPMSDTJqoOrO75pCIvk) | 4:15 | 2021-10-08 | 2022-07-29 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2aCk0vzzaZQ.md) - [plain]
 
 > When you're a 19th century villain with excellent taste in music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 173,484 likes - 43 songs - 5 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 176,914 likes - 43 songs - 5 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,4 +52,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2aCk0vzzaZQ.md) - [plain]
 | 42 | [Tod und Verklärung, Op\. 24, TrV 158 \(Death and Transfiguration\)](https://open.spotify.com/track/4zivdobcTJyMbQjP719Sph) | [Richard Strauss](https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D), [Pittsburgh Symphony Orchestra](https://open.spotify.com/artist/7oOCHAPJjD7IARb5hrzvw9), [Manfred Honeck](https://open.spotify.com/artist/2P9hqdON5vDIRJOEj0Ls2X) | [R\. Strauss: Don Juan, Op\. 20, Death and Transfiguration, Op\. 24 & Till Eulenspiegel's Merry Pranks, Op\. 28](https://open.spotify.com/album/0VtneIrqn1rbHKGUJ6G8uA) | 26:17 |
 | 43 | [Symphony No\. 6 in D Major, Op\. 60, B\. 112: III\. Scherzo \(Furiant\)](https://open.spotify.com/track/0NFO85vWTMQK6gE9aH3s8C) | [Antonín Dvořák](https://open.spotify.com/artist/6n7nd5iceYpXVwcx8VPpxF), [Luzerner Sinfonieorchester](https://open.spotify.com/artist/3bp9jWcdIJ7mBk8Z8RrKCD), [James Gaffigan](https://open.spotify.com/artist/20mUtIJok6GaE7VOJWo15M) | [Dvořák: Symphony No\. 6; American Suite](https://open.spotify.com/album/0hAD6wHS4zHdKbazgRtp89) | 7:41 |
 
-Snapshot ID: `MTY2NDUxMDQ2MCwwMDAwMDAwMGQzYWFhZGViMTg0Y2ZhOWIyYWQ1OGM3OWEzOTQ1ZTUz`
+Snapshot ID: `MTY2NDc5MjI2MCwwMDAwMDAwMDA2ZDcwMzM1YjNmM2VjNDc3N2JlYjZiNWVhMzExZGZl`

@@ -4,12 +4,13 @@
 
 > Artist, producer and writer behind many of your favourite songs makes his Pride selection for you.
 
-35 songs - 1 hr 51 min - [published](https://open.spotify.com/playlist/7FNb8qMTEz4C5RqBT9VZLB)
+36 songs - 1 hr 55 min - [published](https://open.spotify.com/playlist/7FNb8qMTEz4C5RqBT9VZLB)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [5050](https://open.spotify.com/track/27SoUicSO9DlSUQgeEBnpv) | [RAY BLK](https://open.spotify.com/artist/0CkbPVBpOwwz9NPPglFKyq) | [5050](https://open.spotify.com/album/1Y2yFuzTFDZbFDQjEF3VnF) | 3:15 | 2017-07-03 | 2022-07-29 |
-| [5050](https://open.spotify.com/track/2Lgnw8C0L1EaaENqCx1lAA) | [RAY BLK](https://open.spotify.com/artist/0CkbPVBpOwwz9NPPglFKyq) | [Durt](https://open.spotify.com/album/1P29D0CPo7YeQnUUL13SEh) | 3:15 | 2017-07-03 |  |
+| [5050](https://open.spotify.com/track/2Lgnw8C0L1EaaENqCx1lAA) | [RAY BLK](https://open.spotify.com/artist/0CkbPVBpOwwz9NPPglFKyq) | [Durt](https://open.spotify.com/album/1P29D0CPo7YeQnUUL13SEh) | 3:15 | 2017-07-03 | 2022-10-07 |
+| [5050](https://open.spotify.com/track/4YUyvp6310waHWeOzUst3v) | [RAY BLK](https://open.spotify.com/artist/0CkbPVBpOwwz9NPPglFKyq) | [Durt](https://open.spotify.com/album/2A9YfiOYh4jJ7qsLeUdnDM) | 3:15 | 2017-07-03 |  |
 | [At Night \(I Think About You\)](https://open.spotify.com/track/29gadGnxeyCsHeXeRpEkeG) | [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [At Night \(I Think About You\)](https://open.spotify.com/album/5qEgag05el84wUpg7uZ5VH) | 3:35 | 2017-07-03 | 2022-07-29 |
 | [At Night \(I Think About You\)](https://open.spotify.com/track/4lwthdbsRkAnZhFunjjgrs) | [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [At Night \(I Think About You\)](https://open.spotify.com/album/5v636i01urX364kKa6vtqw) | 3:35 | 2017-07-03 |  |
 | [Back to My Love](https://open.spotify.com/track/47MQM8HnhmsojJcvakgOyb) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK), [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [Back to My Love](https://open.spotify.com/album/6maRYneeORJh2o9Ue0XVmZ) | 3:55 | 2017-07-03 |  |

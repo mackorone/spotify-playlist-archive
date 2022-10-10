@@ -152,6 +152,24 @@
     },
     {
       "album": {
+        "name": "The Lionel Hampton Quintet",
+        "url": "https://open.spotify.com/album/5YNhUFeTfMrXuXRGGobACh"
+      },
+      "artists": [
+        {
+          "name": "Lionel Hampton Quintet",
+          "url": "https://open.spotify.com/artist/6g0oXT50l2WJk1ggy7Hsnd"
+        }
+      ],
+      "date_added": "2022-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 382773,
+      "name": "April In Paris",
+      "url": "https://open.spotify.com/track/2sTwe8pA0AnegYBPETYl54"
+    },
+    {
+      "album": {
         "name": "Today And Tomorrow",
         "url": "https://open.spotify.com/album/6MinQE3GG7Xb9GWrOoAWEz"
       },
@@ -253,7 +271,7 @@
       ],
       "date_added": "2022-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-07",
       "duration_ms": 453506,
       "name": "Blue Thoughts",
       "url": "https://open.spotify.com/track/6A2tYCT1Wcd5RT6DhyCqhm"
@@ -289,7 +307,7 @@
       ],
       "date_added": "2022-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-07",
       "duration_ms": 290466,
       "name": "Body & Soul",
       "url": "https://open.spotify.com/track/12Ykc8GW0kQJURPlxZgyXM"
@@ -369,7 +387,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-07",
       "duration_ms": 356306,
       "name": "Caravan",
       "url": "https://open.spotify.com/track/3VIXUEBg2YkGwBMpTPMBXa"
@@ -435,7 +453,7 @@
       ],
       "date_added": "2022-02-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-30",
+      "date_removed": null,
       "duration_ms": 473089,
       "name": "Come, Gone",
       "url": "https://open.spotify.com/track/78oOWCGWb6TYLZu6BTsaN8"
@@ -609,7 +627,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-07",
       "duration_ms": 282386,
       "name": "Draw Me Nearer",
       "url": "https://open.spotify.com/track/6vZ8PZZy7ljlQEgCPSZTAM"
@@ -681,7 +699,7 @@
       ],
       "date_added": "2022-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-07",
       "duration_ms": 428493,
       "name": "Easy Living",
       "url": "https://open.spotify.com/track/3iK5q2qCdlKEJOYpaNrDXZ"
@@ -743,7 +761,7 @@
       ],
       "date_added": "2022-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-07",
       "duration_ms": 184293,
       "name": "Excerpts From The Blues",
       "url": "https://open.spotify.com/track/4jY2c0mzMwB9PZbGEeCZZn"
@@ -761,7 +779,7 @@
       ],
       "date_added": "2022-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-07",
       "duration_ms": 482440,
       "name": "For All We Know",
       "url": "https://open.spotify.com/track/6Inq57v3xTl6U361EgpXJZ"
@@ -815,7 +833,7 @@
       ],
       "date_added": "2022-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-07",
       "duration_ms": 297773,
       "name": "Gee Baby, Ain't I Good To You",
       "url": "https://open.spotify.com/track/03dcMWuT0HPsx4NJN4dZmg"
@@ -959,7 +977,7 @@
       ],
       "date_added": "2022-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-07",
       "duration_ms": 245906,
       "name": "I Cover The Waterfront",
       "url": "https://open.spotify.com/track/1YNHdhvXBogdk54KI1yd2P"
@@ -1013,7 +1031,7 @@
       ],
       "date_added": "2022-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-07",
       "duration_ms": 407293,
       "name": "I Mean You",
       "url": "https://open.spotify.com/track/1bOLFHXStwdSHAdz412vMG"
@@ -1067,7 +1085,7 @@
       ],
       "date_added": "2022-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-07",
       "duration_ms": 318266,
       "name": "I Thought About You",
       "url": "https://open.spotify.com/track/7w68AfSG7PL0oGcpzEcOiM"
@@ -1195,7 +1213,7 @@
       ],
       "date_added": "2022-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-07",
       "duration_ms": 197893,
       "name": "In A Sentimental Mood",
       "url": "https://open.spotify.com/track/3glQOWRCAQIrCnQhWBEFSL"
@@ -1304,6 +1322,24 @@
     },
     {
       "album": {
+        "name": "Lost Time",
+        "url": "https://open.spotify.com/album/0iB4SR1jdgeSPi4yhS4VFj"
+      },
+      "artists": [
+        {
+          "name": "Matthew Fries",
+          "url": "https://open.spotify.com/artist/0aUW5XnNwhMnYzJOUyiQTV"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 360025,
+      "name": "June Blues",
+      "url": "https://open.spotify.com/track/2GFMF5oDuTxg4X9zVxR6q9"
+    },
+    {
+      "album": {
         "name": "Never Stop II",
         "url": "https://open.spotify.com/album/6BwHi8VM68LWmGSTEGmDCe"
       },
@@ -1333,7 +1369,7 @@
       ],
       "date_added": "2022-02-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-31",
+      "date_removed": "2022-10-10",
       "duration_ms": 423173,
       "name": "La Valse Bleue",
       "url": "https://open.spotify.com/track/0FcUn6IPrPvzNRTaOyWKuu"
@@ -1459,7 +1495,7 @@
       ],
       "date_added": "2022-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-07",
       "duration_ms": 231826,
       "name": "Love For Sale",
       "url": "https://open.spotify.com/track/3dxAt1su013e3GZyBUL9bP"
@@ -1531,7 +1567,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-07",
       "duration_ms": 219280,
       "name": "Make The Man Love Me",
       "url": "https://open.spotify.com/track/5j9C4UvsB9E5do2R0juLHb"
@@ -1607,7 +1643,7 @@
       ],
       "date_added": "2022-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-07",
       "duration_ms": 244373,
       "name": "Midnight Blue",
       "url": "https://open.spotify.com/track/025YhFIfBdUp5CNSXRCLUL"
@@ -1643,7 +1679,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-07",
       "duration_ms": 190066,
       "name": "Moonlight In Vermont - Live At The Pershing, Chicago, 1958",
       "url": "https://open.spotify.com/track/68oYY9hUduyqbKZpOUi4Iq"
@@ -1687,7 +1723,7 @@
       ],
       "date_added": "2022-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-07",
       "duration_ms": 393133,
       "name": "My Ideal",
       "url": "https://open.spotify.com/track/5Bw061eIZfnpaGhcYCp7J6"
@@ -1723,7 +1759,7 @@
       ],
       "date_added": "2022-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-07",
       "duration_ms": 402133,
       "name": "Nearness of You",
       "url": "https://open.spotify.com/track/28hv3qok0P0nu4K7OsmDRG"
@@ -1793,7 +1829,7 @@
       ],
       "date_added": "2022-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-07",
       "duration_ms": 247680,
       "name": "No, No, Nanette: Tea for Two",
       "url": "https://open.spotify.com/track/58GXcqIVvW76uwM7EVOy5X"
@@ -1989,7 +2025,7 @@
       ],
       "date_added": "2022-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-07",
       "duration_ms": 331253,
       "name": "Prophet Jennings - Remastered 1999/Rudy Van Gelder Edition",
       "url": "https://open.spotify.com/track/01a23tagFxN7rI5f3ZSAUd"
@@ -2073,7 +2109,7 @@
       ],
       "date_added": "2022-02-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-13",
+      "date_removed": null,
       "duration_ms": 365304,
       "name": "S.N.C.F.",
       "url": "https://open.spotify.com/track/2QjzDjDawaDWHnN7KkJHhc"
@@ -2117,7 +2153,7 @@
       ],
       "date_added": "2022-06-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-13",
+      "date_removed": null,
       "duration_ms": 287000,
       "name": "Sandino",
       "url": "https://open.spotify.com/track/6RHr4ChhpvM4XKRy31xS5W"
@@ -2197,7 +2233,7 @@
       ],
       "date_added": "2022-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-07",
       "duration_ms": 221933,
       "name": "Smoke Rings",
       "url": "https://open.spotify.com/track/6dAM2fTUmBreL0biKXbBPY"
@@ -2291,7 +2327,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-07",
       "duration_ms": 534786,
       "name": "Solar - Live At The Village Vanguard, NYC; 6/25/1961",
       "url": "https://open.spotify.com/track/2JDGyG1zA8tZ4fJK9SsIRk"
@@ -2327,7 +2363,7 @@
       ],
       "date_added": "2022-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-07",
       "duration_ms": 320920,
       "name": "Sophisticated Lady",
       "url": "https://open.spotify.com/track/5Gd6s2kDdEsHpOFPCNrSuG"
@@ -2345,7 +2381,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-07",
       "duration_ms": 146253,
       "name": "Sophisticated Lady",
       "url": "https://open.spotify.com/track/04bTSazBcvYh3yszQLzOZH"
@@ -2475,7 +2511,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-07",
       "duration_ms": 320800,
       "name": "Tangerine",
       "url": "https://open.spotify.com/track/5EudeHV7lSPc0n0J8C6yhq"
@@ -2537,7 +2573,7 @@
       ],
       "date_added": "2022-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-07",
       "duration_ms": 618107,
       "name": "Tenderly",
       "url": "https://open.spotify.com/track/2zcovmEg4YesrC3F88cpfa"
@@ -2609,7 +2645,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-07",
       "duration_ms": 370200,
       "name": "The Two Lonely People",
       "url": "https://open.spotify.com/track/2Syy6iCju7lcPLesnbEwnV"
@@ -2769,7 +2805,7 @@
       ],
       "date_added": "2022-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-07",
       "duration_ms": 276266,
       "name": "Under A Blanket Of Blue",
       "url": "https://open.spotify.com/track/2WesYvXttArUlbpOGDCwR3"
@@ -2849,7 +2885,7 @@
       ],
       "date_added": "2022-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-07",
       "duration_ms": 317986,
       "name": "Waltz For Debby",
       "url": "https://open.spotify.com/track/3BF3uROPt95X3X7ZixXFRC"
@@ -2943,7 +2979,7 @@
       ],
       "date_added": "2022-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-07",
       "duration_ms": 186560,
       "name": "Willow Weep For Me",
       "url": "https://open.spotify.com/track/4W6g5kfwp0LVBFauBSdx08"

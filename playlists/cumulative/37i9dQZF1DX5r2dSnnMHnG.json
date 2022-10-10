@@ -855,7 +855,7 @@
       },
       "artists": [
         {
-          "name": "Jay chang",
+          "name": "Jay Chang",
           "url": "https://open.spotify.com/artist/7H2xroGGrPmbmHtwBOZyLT"
         }
       ],
@@ -2371,7 +2371,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-10",
       "duration_ms": 215981,
       "name": "Walk",
       "url": "https://open.spotify.com/track/6EJXOBn2gYccEJLMsZXiSw"
@@ -2741,6 +2741,24 @@
       "duration_ms": 215686,
       "name": "\uc608\ubed0",
       "url": "https://open.spotify.com/track/1CCuIPrykG6yC6XTz4S6Rn"
+    },
+    {
+      "album": {
+        "name": "\uc6d0 Wish",
+        "url": "https://open.spotify.com/album/7DagjiIwCFeivyBSZYTsy7"
+      },
+      "artists": [
+        {
+          "name": "WISUE",
+          "url": "https://open.spotify.com/artist/6AtePm872YnH0PPQZpNFry"
+        }
+      ],
+      "date_added": "2022-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192994,
+      "name": "\uc6d0 Wish",
+      "url": "https://open.spotify.com/track/3vvJdhNvwogyNhmgaGONZw"
     },
     {
       "album": {

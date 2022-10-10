@@ -994,6 +994,24 @@
     },
     {
       "album": {
+        "name": "Painful, Angry and Sorry",
+        "url": "https://open.spotify.com/album/6qPARj3DqxMNepmW1cnMLO"
+      },
+      "artists": [
+        {
+          "name": "Baek A Yeon",
+          "url": "https://open.spotify.com/artist/5UKoKVlU7EDN4UgDuVRAbX"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177826,
+      "name": "Painful, Angry and Sorry",
+      "url": "https://open.spotify.com/track/5nYbI8sOHwRGBEGsSLh9bM"
+    },
+    {
+      "album": {
         "name": "Pont Alexandre iii (Nth Romance X KIMMUSEUM)",
         "url": "https://open.spotify.com/album/2LhHwUyIqFp8dlJc6OGxGT"
       },

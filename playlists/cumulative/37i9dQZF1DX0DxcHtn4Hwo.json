@@ -253,7 +253,7 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 68347,
       "name": "ABC Lullaby",
       "url": "https://open.spotify.com/track/1CMkyoCGz83jr1GO3jgWmE"
@@ -746,6 +746,24 @@
     },
     {
       "album": {
+        "name": "Because You're You",
+        "url": "https://open.spotify.com/album/5zlNx9QFGB3d3n9WP29IsZ"
+      },
+      "artists": [
+        {
+          "name": "Kay Lozano",
+          "url": "https://open.spotify.com/artist/4aneGgQXJW7ufSTcjHLXDw"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104627,
+      "name": "Because You're You",
+      "url": "https://open.spotify.com/track/6pHATH756uiHZzvPnUx9Q3"
+    },
+    {
+      "album": {
         "name": "Beddy Byes",
         "url": "https://open.spotify.com/album/3NoF0MkTUrb0ic3suY4x04"
       },
@@ -865,7 +883,7 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 143877,
       "name": "Believe in the Moon",
       "url": "https://open.spotify.com/track/2tzG4LsT6mfDgkcQ3QWpQk"
@@ -1225,7 +1243,7 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 179000,
       "name": "Can I Tell You A Secret?",
       "url": "https://open.spotify.com/track/3rGQCq9JFcEHsYkOExmt5R"
@@ -1423,7 +1441,7 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 160817,
       "name": "Cover Me In Sunshine",
       "url": "https://open.spotify.com/track/2mHrHpt27sgpNUsU99PvyJ"
@@ -1441,7 +1459,7 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 168992,
       "name": "Cozy Under the Blankets",
       "url": "https://open.spotify.com/track/2jnXvgJnEe7me32NitOdHk"
@@ -1549,7 +1567,7 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 75874,
       "name": "Dandelion",
       "url": "https://open.spotify.com/track/14QWQxtZH5y5KDKIRuD9Kj"
@@ -1909,7 +1927,7 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 198765,
       "name": "Dr\u00f8mmeland",
       "url": "https://open.spotify.com/track/0tcySI4bc1AfwkZKn9IEB5"
@@ -2402,6 +2420,24 @@
     },
     {
       "album": {
+        "name": "Friendly Butterflies",
+        "url": "https://open.spotify.com/album/1QxR8Vk2mli52I6LhRH0U0"
+      },
+      "artists": [
+        {
+          "name": "Heloiza Parker",
+          "url": "https://open.spotify.com/artist/4YbX63mGu2M59K9wqtijdy"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 91450,
+      "name": "Friendly Butterflies",
+      "url": "https://open.spotify.com/track/40rMlrU1agJEz6HShxFwm8"
+    },
+    {
+      "album": {
         "name": "From Head to Toe",
         "url": "https://open.spotify.com/album/6ySkCcqM4M8BCqJFSnmIoD"
       },
@@ -2417,6 +2453,24 @@
       "duration_ms": 125913,
       "name": "From Head to Toe",
       "url": "https://open.spotify.com/track/6Qd9yQDg4SSaijJsJYk3dh"
+    },
+    {
+      "album": {
+        "name": "F\u00e4rgerna",
+        "url": "https://open.spotify.com/album/5zoTzQb8v9uX7I9jfZ7TSx"
+      },
+      "artists": [
+        {
+          "name": "Klara S\u00f6derman",
+          "url": "https://open.spotify.com/artist/3M4QRATGYND6tUfBYU0Qyt"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 66753,
+      "name": "F\u00e4rgerna",
+      "url": "https://open.spotify.com/track/0AXPJJ4BYpaKOGjTUk53yk"
     },
     {
       "album": {
@@ -2762,6 +2816,24 @@
     },
     {
       "album": {
+        "name": "Heavenly",
+        "url": "https://open.spotify.com/album/4yJMReOnZTmJq6LbohnaMy"
+      },
+      "artists": [
+        {
+          "name": "Esmund Gunvaldsen",
+          "url": "https://open.spotify.com/artist/763dhn5rNBi22HIzsoDFqJ"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 61658,
+      "name": "Heavenly",
+      "url": "https://open.spotify.com/track/2WEY4VI0zgLGsQLQWdNRC4"
+    },
+    {
+      "album": {
         "name": "Here and Now",
         "url": "https://open.spotify.com/album/0DuLIM02jLW7ZbpKNK6MJU"
       },
@@ -2849,6 +2921,24 @@
       "duration_ms": 108618,
       "name": "Hiding Moon",
       "url": "https://open.spotify.com/track/1xq3MzEebTnmi2f2lWiUFK"
+    },
+    {
+      "album": {
+        "name": "Ho Hey",
+        "url": "https://open.spotify.com/album/6tbOClFwY3XKiGzhD4ugzU"
+      },
+      "artists": [
+        {
+          "name": "Ellie Cox",
+          "url": "https://open.spotify.com/artist/7wOOvJ7BwpFWIoVGa0nhh6"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 96236,
+      "name": "Ho Hey",
+      "url": "https://open.spotify.com/track/6qUJsMw1iHpmoAbaDF0QFh"
     },
     {
       "album": {
@@ -3140,6 +3230,24 @@
     },
     {
       "album": {
+        "name": "I Will Wait",
+        "url": "https://open.spotify.com/album/4dXhT1cSUCwh5zzAG06lj7"
+      },
+      "artists": [
+        {
+          "name": "Nell Watts",
+          "url": "https://open.spotify.com/artist/3eKFzxUit6eaVMkmsfrI5Y"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153838,
+      "name": "I Will Wait",
+      "url": "https://open.spotify.com/track/3EdJmKrXc43qoyCdTQxp6h"
+    },
+    {
+      "album": {
         "name": "I Woke Up One Morning",
         "url": "https://open.spotify.com/album/4zpwLxP04f67RibEtD0lSZ"
       },
@@ -3205,7 +3313,7 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 96000,
       "name": "If I Had A Unicorn",
       "url": "https://open.spotify.com/track/6MRVcmKI6kzfsN2pWfRAxa"
@@ -3349,7 +3457,7 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 117788,
       "name": "It Is Not Yet Morning",
       "url": "https://open.spotify.com/track/0SyY5BDrGJgFuEA4uUxeUm"
@@ -3403,7 +3511,7 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 106066,
       "name": "It's Time To Go To Sleep",
       "url": "https://open.spotify.com/track/77QmgMIy7bCzuHWAB7GEqV"
@@ -3752,6 +3860,24 @@
     },
     {
       "album": {
+        "name": "Lille John Blund",
+        "url": "https://open.spotify.com/album/371KNPti71zncnxsmthy18"
+      },
+      "artists": [
+        {
+          "name": "Mia Sander",
+          "url": "https://open.spotify.com/artist/0LnIcNhu7arRU9zzbCuYA7"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 92093,
+      "name": "Lille John Blund",
+      "url": "https://open.spotify.com/track/0HtS8JRcuYNIllK7q9B6Tx"
+    },
+    {
+      "album": {
         "name": "Lily's Lullaby",
         "url": "https://open.spotify.com/album/3Db7Bl8AXL5Gy5oP5wcG9W"
       },
@@ -3763,7 +3889,7 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 64708,
       "name": "Lily's Lullaby",
       "url": "https://open.spotify.com/track/514iqNsy7WFVUXMfYnpNAU"
@@ -3871,7 +3997,7 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 117124,
       "name": "Little George",
       "url": "https://open.spotify.com/track/2FQzlc7Ce8DRqJJXaoB9Yg"
@@ -4094,6 +4220,24 @@
     },
     {
       "album": {
+        "name": "Majas visa",
+        "url": "https://open.spotify.com/album/7MDXgNepfqxgjuz67cglgj"
+      },
+      "artists": [
+        {
+          "name": "Mila Westman",
+          "url": "https://open.spotify.com/artist/1GGjTmD1eDeKr73r3VMiIJ"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 85458,
+      "name": "Majas visa",
+      "url": "https://open.spotify.com/track/4KJ38cmvLteA1mWURNVXbD"
+    },
+    {
+      "album": {
         "name": "Make A Wish",
         "url": "https://open.spotify.com/album/0uRNCqlnbwPl75hV4F4XyT"
       },
@@ -4235,6 +4379,24 @@
       "duration_ms": 91812,
       "name": "Meu Anjo",
       "url": "https://open.spotify.com/track/75KGgPHDmqduc8ty6GTJoW"
+    },
+    {
+      "album": {
+        "name": "Mi peque\u00f1o amigo",
+        "url": "https://open.spotify.com/album/5uxZJpdj1yVDhXTGxvlvEE"
+      },
+      "artists": [
+        {
+          "name": "Nayara Moore",
+          "url": "https://open.spotify.com/artist/38wuntvVRvph542P6Q08bO"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105883,
+      "name": "Mi peque\u00f1o amigo",
+      "url": "https://open.spotify.com/track/5y1PvdOCHIDqT7OqARvuC1"
     },
     {
       "album": {
@@ -5264,6 +5426,24 @@
     },
     {
       "album": {
+        "name": "Quiet Lullaby",
+        "url": "https://open.spotify.com/album/6lAAAnuhoaOEv8MgnkqJRs"
+      },
+      "artists": [
+        {
+          "name": "Goodwin Hart",
+          "url": "https://open.spotify.com/artist/0ZhiIKLSPHpPBu3760ZI7E"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134125,
+      "name": "Quiet Lullaby",
+      "url": "https://open.spotify.com/track/5GgCotrtjYSJcD11zYGGMc"
+    },
+    {
+      "album": {
         "name": "Quiet Raindrops",
         "url": "https://open.spotify.com/album/6ubXUgE89yHymtc2eXC7kq"
       },
@@ -5275,7 +5455,7 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 198970,
       "name": "Quiet Raindrops",
       "url": "https://open.spotify.com/track/74jmhJrLxKmQPElZ5JuPAW"
@@ -5455,7 +5635,7 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 117330,
       "name": "Rock-A-Bye Baby (Piano Version)",
       "url": "https://open.spotify.com/track/6WuXpEDnevdok1wn7VxiHO"
@@ -5509,7 +5689,7 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 60002,
       "name": "Rub-A-Dub Dub Three Men In A Tub",
       "url": "https://open.spotify.com/track/1gf0Lb3ZFIf4AelxPy76Zh"
@@ -5552,6 +5732,24 @@
     },
     {
       "album": {
+        "name": "Save a Piece of Cake for Me",
+        "url": "https://open.spotify.com/album/0mY3iAPw5caCI6gqJxwdzB"
+      },
+      "artists": [
+        {
+          "name": "Penelope Hart",
+          "url": "https://open.spotify.com/artist/4JMadQY9wcA6kcbvBvti27"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 84247,
+      "name": "Save a Piece of Cake for Me",
+      "url": "https://open.spotify.com/track/0ccGW26pWsP8ic4h2yQdQs"
+    },
+    {
+      "album": {
         "name": "Sawing lumber when I slumber",
         "url": "https://open.spotify.com/album/4ZFwidVASp10qO7TV6veyT"
       },
@@ -5581,7 +5779,7 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 105874,
       "name": "See See My Playmate",
       "url": "https://open.spotify.com/track/3YYusyuLbe5SI3J0adBAFD"
@@ -5743,7 +5941,7 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 93000,
       "name": "Sleep Now",
       "url": "https://open.spotify.com/track/6nh2OYVRlNsvjCvG3dQlAT"
@@ -6200,6 +6398,24 @@
     },
     {
       "album": {
+        "name": "Fiona",
+        "url": "https://open.spotify.com/album/6czBIJIcLC61BRnDb7xApT"
+      },
+      "artists": [
+        {
+          "name": "Andrea Piazzo",
+          "url": "https://open.spotify.com/artist/2Hh5OmjynnsLv3s4HUTAP3"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200759,
+      "name": "Sweet Pea",
+      "url": "https://open.spotify.com/track/0qmuW3sn9B043xf9nMnoSb"
+    },
+    {
+      "album": {
         "name": "Sweet Pete",
         "url": "https://open.spotify.com/album/42ja9SLAHlzb8zLzjOPNv6"
       },
@@ -6215,6 +6431,24 @@
       "duration_ms": 100000,
       "name": "Sweet Pete",
       "url": "https://open.spotify.com/track/63TSd3fxhtG3p8GJkMaxXf"
+    },
+    {
+      "album": {
+        "name": "S\u00f6mniga \u00d6gon",
+        "url": "https://open.spotify.com/album/2nKa6ufE9qHY9f2A1dQpMz"
+      },
+      "artists": [
+        {
+          "name": "Alva Klarstr\u00f6m",
+          "url": "https://open.spotify.com/artist/0db50QsvuxNWYarvI0sNcd"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130269,
+      "name": "S\u00f6mniga \u00d6gon",
+      "url": "https://open.spotify.com/track/6D8blsYLr2kmTvZIJsAzRv"
     },
     {
       "album": {
@@ -6517,7 +6751,7 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 110999,
       "name": "The Little Turtle",
       "url": "https://open.spotify.com/track/5fuPBMslabhXTKuEhU2MFn"
@@ -6571,7 +6805,7 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 163750,
       "name": "The Most Wonderful Dream",
       "url": "https://open.spotify.com/track/5otf2Hr3mDUakyHUyn4J6H"
@@ -6643,7 +6877,7 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 106109,
       "name": "The Softest Teddy Bear",
       "url": "https://open.spotify.com/track/6NjvAvyyRAwHhrqRHKMVcS"
@@ -6769,7 +7003,7 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 139552,
       "name": "Theo's Waltz",
       "url": "https://open.spotify.com/track/3YTsRPNoTHQH4Wr0lFtbfE"

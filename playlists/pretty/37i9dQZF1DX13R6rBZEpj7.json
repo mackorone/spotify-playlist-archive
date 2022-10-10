@@ -1,12 +1,12 @@
 {
   "description": "Turn up the volume for some filthy bassline! ft. Zero",
-  "num_followers": 176472,
+  "num_followers": 177102,
   "original_name": "Bassline Bangers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Mzk0NTM4MywwMDAwMDAwMDU0NThkZTRkZjAyN2ZmMDE0YzYxMzk2NWEyNjBiYTY3",
+  "snapshot_id": "MTY2Mzk0NTM4MywwMDAwMDAwMDg2Mzc4MTA5OTI5ZDBkNzVlZWJiZTUwZWUzMGFmNGMz",
   "tracks": [
     {
       "added_at": "2022-09-23 15:03:03",
@@ -271,22 +271,18 @@
     {
       "added_at": "2022-09-23 15:03:03",
       "album": {
-        "name": "Wrong Answers Only",
-        "url": "https://open.spotify.com/album/1mXBGKqlNCIglHpT3AbhN2"
+        "name": "Who's Got The Bag",
+        "url": "https://open.spotify.com/album/7wqAIus994VXs9LH05VxdZ"
       },
       "artists": [
         {
           "name": "The Streets",
           "url": "https://open.spotify.com/artist/4GvOygVQquMaPm8oAc0vXi"
-        },
-        {
-          "name": "Master Peace",
-          "url": "https://open.spotify.com/artist/4GNHtO2iEJ09r4JNTlqnO9"
         }
       ],
-      "duration_ms": 185615,
-      "name": "Wrong Answers Only",
-      "url": "https://open.spotify.com/track/4aHi701FKuFYj7QSeSEftV"
+      "duration_ms": 165000,
+      "name": "Who's Got The Bag",
+      "url": "https://open.spotify.com/track/0fquu5CejT76HhQejc6q7v"
     },
     {
       "added_at": "2022-09-23 15:03:03",
@@ -339,46 +335,6 @@
     {
       "added_at": "2022-09-23 15:03:03",
       "album": {
-        "name": "Lighter (feat. KSI) [Shapes Remix]",
-        "url": "https://open.spotify.com/album/3qKcrBnDpoJoGGdNUyi7d2"
-      },
-      "artists": [
-        {
-          "name": "Nathan Dawe",
-          "url": "https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p"
-        },
-        {
-          "name": "KSI",
-          "url": "https://open.spotify.com/artist/1nzgtKYFckznkcVMR3Gg4z"
-        },
-        {
-          "name": "Shapes",
-          "url": "https://open.spotify.com/artist/1bZ8OZoO6E3KRtXQrYVNaw"
-        }
-      ],
-      "duration_ms": 204096,
-      "name": "Lighter (feat. KSI) - Shapes Remix",
-      "url": "https://open.spotify.com/track/3SMyy85TGAxfH7NYu65ujO"
-    },
-    {
-      "added_at": "2022-09-23 15:03:03",
-      "album": {
-        "name": "Get Mad",
-        "url": "https://open.spotify.com/album/4OO0IkgyFv0EMMgiB3eD0f"
-      },
-      "artists": [
-        {
-          "name": "Darkzy",
-          "url": "https://open.spotify.com/artist/7Ecng98JLorpsVdazNr0Ry"
-        }
-      ],
-      "duration_ms": 217344,
-      "name": "Get Mad",
-      "url": "https://open.spotify.com/track/3DCBwvEQDnGoYVjdoTa6hI"
-    },
-    {
-      "added_at": "2022-09-23 15:03:03",
-      "album": {
         "name": "Put It On Me (feat. Mila Falls)",
         "url": "https://open.spotify.com/album/23vTWjk8a8kz5XaH9Z2Z2U"
       },
@@ -399,6 +355,46 @@
       "duration_ms": 190348,
       "name": "Put It On Me (feat. Mila Falls)",
       "url": "https://open.spotify.com/track/1VO8LC2PyM13d1LxE6KLSc"
+    },
+    {
+      "added_at": "2022-09-23 15:03:03",
+      "album": {
+        "name": "Get Mad",
+        "url": "https://open.spotify.com/album/4OO0IkgyFv0EMMgiB3eD0f"
+      },
+      "artists": [
+        {
+          "name": "Darkzy",
+          "url": "https://open.spotify.com/artist/7Ecng98JLorpsVdazNr0Ry"
+        }
+      ],
+      "duration_ms": 217344,
+      "name": "Get Mad",
+      "url": "https://open.spotify.com/track/3DCBwvEQDnGoYVjdoTa6hI"
+    },
+    {
+      "added_at": "2022-09-23 15:03:03",
+      "album": {
+        "name": "Lighter (feat. KSI) [Shapes Remix]",
+        "url": "https://open.spotify.com/album/3qKcrBnDpoJoGGdNUyi7d2"
+      },
+      "artists": [
+        {
+          "name": "Nathan Dawe",
+          "url": "https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p"
+        },
+        {
+          "name": "KSI",
+          "url": "https://open.spotify.com/artist/1nzgtKYFckznkcVMR3Gg4z"
+        },
+        {
+          "name": "Shapes",
+          "url": "https://open.spotify.com/artist/1bZ8OZoO6E3KRtXQrYVNaw"
+        }
+      ],
+      "duration_ms": 204096,
+      "name": "Lighter (feat. KSI) - Shapes Remix",
+      "url": "https://open.spotify.com/track/3SMyy85TGAxfH7NYu65ujO"
     },
     {
       "added_at": "2022-09-23 15:03:03",
@@ -443,18 +439,22 @@
     {
       "added_at": "2022-09-23 15:03:03",
       "album": {
-        "name": "Who's Got The Bag",
-        "url": "https://open.spotify.com/album/7wqAIus994VXs9LH05VxdZ"
+        "name": "Secure the Bag",
+        "url": "https://open.spotify.com/album/1r4AXEEkYShSDf7iGTNmuL"
       },
       "artists": [
         {
-          "name": "The Streets",
-          "url": "https://open.spotify.com/artist/4GvOygVQquMaPm8oAc0vXi"
+          "name": "Skepsis",
+          "url": "https://open.spotify.com/artist/6DnQYUjtYusK9QJts9HqSC"
+        },
+        {
+          "name": "Flava D",
+          "url": "https://open.spotify.com/artist/682SntJ7VKoFfssPfDAmDZ"
         }
       ],
-      "duration_ms": 165000,
-      "name": "Who's Got The Bag",
-      "url": "https://open.spotify.com/track/0fquu5CejT76HhQejc6q7v"
+      "duration_ms": 248841,
+      "name": "Secure the Bag",
+      "url": "https://open.spotify.com/track/3cy2jsGqXCDVGyWzVQ9tu0"
     },
     {
       "added_at": "2022-09-23 15:03:03",
@@ -571,38 +571,22 @@
     {
       "added_at": "2022-09-23 15:03:03",
       "album": {
-        "name": "Secure the Bag",
-        "url": "https://open.spotify.com/album/1r4AXEEkYShSDf7iGTNmuL"
+        "name": "Wrong Answers Only",
+        "url": "https://open.spotify.com/album/1mXBGKqlNCIglHpT3AbhN2"
       },
       "artists": [
         {
-          "name": "Skepsis",
-          "url": "https://open.spotify.com/artist/6DnQYUjtYusK9QJts9HqSC"
+          "name": "The Streets",
+          "url": "https://open.spotify.com/artist/4GvOygVQquMaPm8oAc0vXi"
         },
         {
-          "name": "Flava D",
-          "url": "https://open.spotify.com/artist/682SntJ7VKoFfssPfDAmDZ"
+          "name": "Master Peace",
+          "url": "https://open.spotify.com/artist/4GNHtO2iEJ09r4JNTlqnO9"
         }
       ],
-      "duration_ms": 248841,
-      "name": "Secure the Bag",
-      "url": "https://open.spotify.com/track/3cy2jsGqXCDVGyWzVQ9tu0"
-    },
-    {
-      "added_at": "2022-09-23 15:03:03",
-      "album": {
-        "name": "Barrington / Bodies",
-        "url": "https://open.spotify.com/album/5FWII16ZTq6HfCMvdpqCTQ"
-      },
-      "artists": [
-        {
-          "name": "MPH",
-          "url": "https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof"
-        }
-      ],
-      "duration_ms": 221818,
-      "name": "Barrington",
-      "url": "https://open.spotify.com/track/13UkLkxFcO890QCWwaYW9c"
+      "duration_ms": 185615,
+      "name": "Wrong Answers Only",
+      "url": "https://open.spotify.com/track/4aHi701FKuFYj7QSeSEftV"
     },
     {
       "added_at": "2022-09-23 15:03:03",
@@ -619,42 +603,6 @@
       "duration_ms": 310909,
       "name": "Chances",
       "url": "https://open.spotify.com/track/5szLalLSHItSzMOEqagjwn"
-    },
-    {
-      "added_at": "2022-09-23 15:03:03",
-      "album": {
-        "name": "Shutdown",
-        "url": "https://open.spotify.com/album/1uMBr5KbMr7jDxJCrc3iZT"
-      },
-      "artists": [
-        {
-          "name": "Samstone",
-          "url": "https://open.spotify.com/artist/0akEEdGffTxMJpd0CMInhY"
-        }
-      ],
-      "duration_ms": 223725,
-      "name": "Shutdown",
-      "url": "https://open.spotify.com/track/4gIm8QiIZrLb4UAn4JUXdP"
-    },
-    {
-      "added_at": "2022-09-23 15:03:03",
-      "album": {
-        "name": "Never",
-        "url": "https://open.spotify.com/album/7u24MlEFH8OrFG3RI0pMr5"
-      },
-      "artists": [
-        {
-          "name": "Darkzy",
-          "url": "https://open.spotify.com/artist/7Ecng98JLorpsVdazNr0Ry"
-        },
-        {
-          "name": "Aleya Mae",
-          "url": "https://open.spotify.com/artist/2O1Sw6WZ4ZVtIQO5LZIOjb"
-        }
-      ],
-      "duration_ms": 206500,
-      "name": "Never",
-      "url": "https://open.spotify.com/track/43NLj97L6PQUQ05HyZJmQZ"
     },
     {
       "added_at": "2022-09-23 15:03:03",
@@ -683,6 +631,22 @@
     {
       "added_at": "2022-09-23 15:03:03",
       "album": {
+        "name": "Shutdown",
+        "url": "https://open.spotify.com/album/1uMBr5KbMr7jDxJCrc3iZT"
+      },
+      "artists": [
+        {
+          "name": "Samstone",
+          "url": "https://open.spotify.com/artist/0akEEdGffTxMJpd0CMInhY"
+        }
+      ],
+      "duration_ms": 223725,
+      "name": "Shutdown",
+      "url": "https://open.spotify.com/track/4gIm8QiIZrLb4UAn4JUXdP"
+    },
+    {
+      "added_at": "2022-09-23 15:03:03",
+      "album": {
         "name": "Feel So Free",
         "url": "https://open.spotify.com/album/6bxI8Jmu1EPzT2uVdJCog5"
       },
@@ -695,6 +659,58 @@
       "duration_ms": 198882,
       "name": "Feel So Free",
       "url": "https://open.spotify.com/track/2LXv7VRCHmtusc6B9FfkVW"
+    },
+    {
+      "added_at": "2022-09-23 15:03:03",
+      "album": {
+        "name": "Barrington / Bodies",
+        "url": "https://open.spotify.com/album/5FWII16ZTq6HfCMvdpqCTQ"
+      },
+      "artists": [
+        {
+          "name": "MPH",
+          "url": "https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof"
+        }
+      ],
+      "duration_ms": 221818,
+      "name": "Barrington",
+      "url": "https://open.spotify.com/track/13UkLkxFcO890QCWwaYW9c"
+    },
+    {
+      "added_at": "2022-09-23 15:03:03",
+      "album": {
+        "name": "Affiliation",
+        "url": "https://open.spotify.com/album/6viQ5GlaaPHbGLPfIYcEfU"
+      },
+      "artists": [
+        {
+          "name": "Bermal",
+          "url": "https://open.spotify.com/artist/2I50LWeOqOFm3bagM840Nt"
+        }
+      ],
+      "duration_ms": 190437,
+      "name": "Affiliation",
+      "url": "https://open.spotify.com/track/74OHEZCii7GYJqqEIHPYb0"
+    },
+    {
+      "added_at": "2022-09-23 15:03:03",
+      "album": {
+        "name": "Never",
+        "url": "https://open.spotify.com/album/7u24MlEFH8OrFG3RI0pMr5"
+      },
+      "artists": [
+        {
+          "name": "Darkzy",
+          "url": "https://open.spotify.com/artist/7Ecng98JLorpsVdazNr0Ry"
+        },
+        {
+          "name": "Aleya Mae",
+          "url": "https://open.spotify.com/artist/2O1Sw6WZ4ZVtIQO5LZIOjb"
+        }
+      ],
+      "duration_ms": 206500,
+      "name": "Never",
+      "url": "https://open.spotify.com/track/43NLj97L6PQUQ05HyZJmQZ"
     },
     {
       "added_at": "2022-09-23 15:03:03",
@@ -747,38 +763,6 @@
     {
       "added_at": "2022-09-23 15:03:03",
       "album": {
-        "name": "Affiliation",
-        "url": "https://open.spotify.com/album/6viQ5GlaaPHbGLPfIYcEfU"
-      },
-      "artists": [
-        {
-          "name": "Bermal",
-          "url": "https://open.spotify.com/artist/2I50LWeOqOFm3bagM840Nt"
-        }
-      ],
-      "duration_ms": 190437,
-      "name": "Affiliation",
-      "url": "https://open.spotify.com/track/74OHEZCii7GYJqqEIHPYb0"
-    },
-    {
-      "added_at": "2022-09-23 15:03:03",
-      "album": {
-        "name": "Solid Ground",
-        "url": "https://open.spotify.com/album/6bVBjsTZcvTMDr5sjzgVsJ"
-      },
-      "artists": [
-        {
-          "name": "KDYN",
-          "url": "https://open.spotify.com/artist/3LzEsI7g7Siu0bVOBR0OLi"
-        }
-      ],
-      "duration_ms": 241860,
-      "name": "Solid Ground",
-      "url": "https://open.spotify.com/track/5rPEJbUTX6yaznk9V78jQZ"
-    },
-    {
-      "added_at": "2022-09-23 15:03:03",
-      "album": {
         "name": "Skanker",
         "url": "https://open.spotify.com/album/1RCj9Ix2fIuV633QXLzJ48"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 227189,
       "name": "Skanker",
       "url": "https://open.spotify.com/track/6h2bwZae3TtaQPN7H4Nzwr"
+    },
+    {
+      "added_at": "2022-09-23 15:03:03",
+      "album": {
+        "name": "Solid Ground",
+        "url": "https://open.spotify.com/album/6bVBjsTZcvTMDr5sjzgVsJ"
+      },
+      "artists": [
+        {
+          "name": "KDYN",
+          "url": "https://open.spotify.com/artist/3LzEsI7g7Siu0bVOBR0OLi"
+        }
+      ],
+      "duration_ms": 241860,
+      "name": "Solid Ground",
+      "url": "https://open.spotify.com/track/5rPEJbUTX6yaznk9V78jQZ"
     },
     {
       "added_at": "2022-09-23 15:03:03",
@@ -831,26 +831,6 @@
     {
       "added_at": "2022-09-23 15:03:03",
       "album": {
-        "name": "Get Out",
-        "url": "https://open.spotify.com/album/0FQwBMJPZUMZkghS8wJRr2"
-      },
-      "artists": [
-        {
-          "name": "Gecha",
-          "url": "https://open.spotify.com/artist/1hZ5jgkS8PQxUQTf62pubC"
-        },
-        {
-          "name": "3000 Bass",
-          "url": "https://open.spotify.com/artist/6J3C2BgdZTvYCIoCTzybDM"
-        }
-      ],
-      "duration_ms": 268000,
-      "name": "Get Out",
-      "url": "https://open.spotify.com/track/16HM1ygA3tOEQes2HGduhL"
-    },
-    {
-      "added_at": "2022-09-23 15:03:03",
-      "album": {
         "name": "Mock Man (The VIP)",
         "url": "https://open.spotify.com/album/5cv4DHsHnpJtSfVLAQbb6g"
       },
@@ -871,22 +851,6 @@
       "duration_ms": 229639,
       "name": "Mock Man (The VIP)",
       "url": "https://open.spotify.com/track/2WCpgTEYu5cgIIokqQhqzW"
-    },
-    {
-      "added_at": "2022-09-23 15:03:03",
-      "album": {
-        "name": "Hard Baller",
-        "url": "https://open.spotify.com/album/2B51oNisAJxOsYTXhjb9fI"
-      },
-      "artists": [
-        {
-          "name": "Biohzrd",
-          "url": "https://open.spotify.com/artist/7Jhx0C8MWbjdZdcraPbOSc"
-        }
-      ],
-      "duration_ms": 217142,
-      "name": "Hard Baller",
-      "url": "https://open.spotify.com/track/6qjIc90us2mKdFNEr6qdZo"
     },
     {
       "added_at": "2022-09-23 15:03:03",
@@ -947,18 +911,22 @@
     {
       "added_at": "2022-09-23 15:03:03",
       "album": {
-        "name": "U Get Me",
-        "url": "https://open.spotify.com/album/1oFogLvbPx25UIrgLOGdko"
+        "name": "Get Out",
+        "url": "https://open.spotify.com/album/0FQwBMJPZUMZkghS8wJRr2"
       },
       "artists": [
         {
-          "name": "Livsey",
-          "url": "https://open.spotify.com/artist/3NTztqzlD6wmkIMRwvurdL"
+          "name": "Gecha",
+          "url": "https://open.spotify.com/artist/1hZ5jgkS8PQxUQTf62pubC"
+        },
+        {
+          "name": "3000 Bass",
+          "url": "https://open.spotify.com/artist/6J3C2BgdZTvYCIoCTzybDM"
         }
       ],
-      "duration_ms": 322206,
-      "name": "U Get Me",
-      "url": "https://open.spotify.com/track/2FvAuESuB9bAlTiZh9bXvG"
+      "duration_ms": 268000,
+      "name": "Get Out",
+      "url": "https://open.spotify.com/track/16HM1ygA3tOEQes2HGduhL"
     },
     {
       "added_at": "2022-09-23 15:03:03",
@@ -999,6 +967,22 @@
     {
       "added_at": "2022-09-23 15:03:03",
       "album": {
+        "name": "Anything",
+        "url": "https://open.spotify.com/album/6AT2jvuQd9G0qs02hbLpCy"
+      },
+      "artists": [
+        {
+          "name": "Shaun Dean",
+          "url": "https://open.spotify.com/artist/1vmJBUoJ6Z4JqU4mlw1bPC"
+        }
+      ],
+      "duration_ms": 283636,
+      "name": "Anything",
+      "url": "https://open.spotify.com/track/165zMkyh2bVwtu8mAhdTTz"
+    },
+    {
+      "added_at": "2022-09-23 15:03:03",
+      "album": {
         "name": "Take Me as I Am",
         "url": "https://open.spotify.com/album/0ENUjXIwpXUtga0c4P1BHc"
       },
@@ -1023,22 +1007,6 @@
     {
       "added_at": "2022-09-23 15:03:03",
       "album": {
-        "name": "Anything",
-        "url": "https://open.spotify.com/album/6AT2jvuQd9G0qs02hbLpCy"
-      },
-      "artists": [
-        {
-          "name": "Shaun Dean",
-          "url": "https://open.spotify.com/artist/1vmJBUoJ6Z4JqU4mlw1bPC"
-        }
-      ],
-      "duration_ms": 283636,
-      "name": "Anything",
-      "url": "https://open.spotify.com/track/165zMkyh2bVwtu8mAhdTTz"
-    },
-    {
-      "added_at": "2022-09-23 15:03:03",
-      "album": {
         "name": "Knock Knock",
         "url": "https://open.spotify.com/album/1wCezsULBQ87NvJ3u2bTQ2"
       },
@@ -1059,6 +1027,22 @@
     {
       "added_at": "2022-09-23 15:03:03",
       "album": {
+        "name": "Hard Baller",
+        "url": "https://open.spotify.com/album/2B51oNisAJxOsYTXhjb9fI"
+      },
+      "artists": [
+        {
+          "name": "Biohzrd",
+          "url": "https://open.spotify.com/artist/7Jhx0C8MWbjdZdcraPbOSc"
+        }
+      ],
+      "duration_ms": 217142,
+      "name": "Hard Baller",
+      "url": "https://open.spotify.com/track/6qjIc90us2mKdFNEr6qdZo"
+    },
+    {
+      "added_at": "2022-09-23 15:03:03",
+      "album": {
         "name": "In Two Worlds",
         "url": "https://open.spotify.com/album/5oAPopKo0zZwdDdYtzqgu9"
       },
@@ -1075,82 +1059,18 @@
     {
       "added_at": "2022-09-23 15:03:03",
       "album": {
-        "name": "Hard Hitters",
-        "url": "https://open.spotify.com/album/2uKCc6oR55TkMuSGTYJIyK"
+        "name": "U Get Me",
+        "url": "https://open.spotify.com/album/1oFogLvbPx25UIrgLOGdko"
       },
       "artists": [
         {
-          "name": "Tsuki",
-          "url": "https://open.spotify.com/artist/2yJbiseBZFvrCK5GueLnk7"
-        },
-        {
-          "name": "Dread MC",
-          "url": "https://open.spotify.com/artist/2U5JmM5bTJuARrzQYnDAKn"
+          "name": "Livsey",
+          "url": "https://open.spotify.com/artist/3NTztqzlD6wmkIMRwvurdL"
         }
       ],
-      "duration_ms": 232602,
-      "name": "Hard Hitters",
-      "url": "https://open.spotify.com/track/1QVQdgkRXRD4WON1AHvs1k"
-    },
-    {
-      "added_at": "2022-09-23 15:03:03",
-      "album": {
-        "name": "Don't You Know",
-        "url": "https://open.spotify.com/album/5jbbD9G6JTkkRrRhgZ7fJt"
-      },
-      "artists": [
-        {
-          "name": "Birch",
-          "url": "https://open.spotify.com/artist/30XFjY5QiLhaU51gQGAKNv"
-        }
-      ],
-      "duration_ms": 215282,
-      "name": "Don't You Know",
-      "url": "https://open.spotify.com/track/3gArWjWhVzXjHDTDhArTVE"
-    },
-    {
-      "added_at": "2022-09-23 15:03:03",
-      "album": {
-        "name": "Monster",
-        "url": "https://open.spotify.com/album/3nX64Yz5zsL9GfAS7YJmck"
-      },
-      "artists": [
-        {
-          "name": "Jamie Duggan",
-          "url": "https://open.spotify.com/artist/0MOlBnjY7mmwqxQpFuysB8"
-        },
-        {
-          "name": "Booda",
-          "url": "https://open.spotify.com/artist/68jeZ3k9uWo241zpfm4Agn"
-        },
-        {
-          "name": "Mr Traumatik",
-          "url": "https://open.spotify.com/artist/2ZKsAq380W6XWsyWyuKv3Z"
-        }
-      ],
-      "duration_ms": 200000,
-      "name": "Monster",
-      "url": "https://open.spotify.com/track/1UfJuFf3V0DfFigaURj3yJ"
-    },
-    {
-      "added_at": "2022-09-23 15:03:03",
-      "album": {
-        "name": "Lose My Mind",
-        "url": "https://open.spotify.com/album/2QDNm8JYyT7eo6B9EVzrZc"
-      },
-      "artists": [
-        {
-          "name": "Skepsis",
-          "url": "https://open.spotify.com/artist/6DnQYUjtYusK9QJts9HqSC"
-        },
-        {
-          "name": "Window Kid",
-          "url": "https://open.spotify.com/artist/0Gt5eU7AuKfotkBLgjyg9p"
-        }
-      ],
-      "duration_ms": 221024,
-      "name": "Lose My Mind",
-      "url": "https://open.spotify.com/track/1Nv1cCXJoI59N4ep7wZ3mw"
+      "duration_ms": 322206,
+      "name": "U Get Me",
+      "url": "https://open.spotify.com/track/2FvAuESuB9bAlTiZh9bXvG"
     },
     {
       "added_at": "2022-09-23 15:03:03",
@@ -1179,18 +1099,66 @@
     {
       "added_at": "2022-09-23 15:03:03",
       "album": {
-        "name": "Fallout",
-        "url": "https://open.spotify.com/album/40txDk5tPTbOKwKj4HVnt6"
+        "name": "Monster",
+        "url": "https://open.spotify.com/album/3nX64Yz5zsL9GfAS7YJmck"
       },
       "artists": [
         {
-          "name": "NuBass",
-          "url": "https://open.spotify.com/artist/5Nd61ppMOQbbtF1HV13kBO"
+          "name": "Jamie Duggan",
+          "url": "https://open.spotify.com/artist/0MOlBnjY7mmwqxQpFuysB8"
+        },
+        {
+          "name": "Booda",
+          "url": "https://open.spotify.com/artist/68jeZ3k9uWo241zpfm4Agn"
+        },
+        {
+          "name": "Mr Traumatik",
+          "url": "https://open.spotify.com/artist/2ZKsAq380W6XWsyWyuKv3Z"
         }
       ],
-      "duration_ms": 193384,
-      "name": "Fallout",
-      "url": "https://open.spotify.com/track/0HhugGmV2QI2vUTq8lzm2I"
+      "duration_ms": 200000,
+      "name": "Monster",
+      "url": "https://open.spotify.com/track/1UfJuFf3V0DfFigaURj3yJ"
+    },
+    {
+      "added_at": "2022-09-23 15:03:03",
+      "album": {
+        "name": "Hard Hitters",
+        "url": "https://open.spotify.com/album/2uKCc6oR55TkMuSGTYJIyK"
+      },
+      "artists": [
+        {
+          "name": "Tsuki",
+          "url": "https://open.spotify.com/artist/2yJbiseBZFvrCK5GueLnk7"
+        },
+        {
+          "name": "Dread MC",
+          "url": "https://open.spotify.com/artist/2U5JmM5bTJuARrzQYnDAKn"
+        }
+      ],
+      "duration_ms": 232602,
+      "name": "Hard Hitters",
+      "url": "https://open.spotify.com/track/1QVQdgkRXRD4WON1AHvs1k"
+    },
+    {
+      "added_at": "2022-09-23 15:03:03",
+      "album": {
+        "name": "Lose My Mind",
+        "url": "https://open.spotify.com/album/2QDNm8JYyT7eo6B9EVzrZc"
+      },
+      "artists": [
+        {
+          "name": "Skepsis",
+          "url": "https://open.spotify.com/artist/6DnQYUjtYusK9QJts9HqSC"
+        },
+        {
+          "name": "Window Kid",
+          "url": "https://open.spotify.com/artist/0Gt5eU7AuKfotkBLgjyg9p"
+        }
+      ],
+      "duration_ms": 221024,
+      "name": "Lose My Mind",
+      "url": "https://open.spotify.com/track/1Nv1cCXJoI59N4ep7wZ3mw"
     },
     {
       "added_at": "2022-09-23 15:03:03",
@@ -1251,18 +1219,18 @@
     {
       "added_at": "2022-09-23 15:03:03",
       "album": {
-        "name": "Got A Groove",
-        "url": "https://open.spotify.com/album/6IOBv6pqhN8eHLJfKJ1Xcd"
+        "name": "Fallout",
+        "url": "https://open.spotify.com/album/40txDk5tPTbOKwKj4HVnt6"
       },
       "artists": [
         {
-          "name": "Bassboy",
-          "url": "https://open.spotify.com/artist/4wwHbT1V6hoLyOvS4gZVyy"
+          "name": "NuBass",
+          "url": "https://open.spotify.com/artist/5Nd61ppMOQbbtF1HV13kBO"
         }
       ],
-      "duration_ms": 271602,
-      "name": "Got A Groove",
-      "url": "https://open.spotify.com/track/1kbGFz4dZDnjtSyjiZvMHC"
+      "duration_ms": 193384,
+      "name": "Fallout",
+      "url": "https://open.spotify.com/track/0HhugGmV2QI2vUTq8lzm2I"
     },
     {
       "added_at": "2022-09-23 15:03:03",
@@ -1283,18 +1251,18 @@
     {
       "added_at": "2022-09-23 15:03:03",
       "album": {
-        "name": "Live It Up",
-        "url": "https://open.spotify.com/album/23JOrfgEKJvYNrFCdSoTDw"
+        "name": "Don't You Know",
+        "url": "https://open.spotify.com/album/5jbbD9G6JTkkRrRhgZ7fJt"
       },
       "artists": [
         {
-          "name": "A.2.Z",
-          "url": "https://open.spotify.com/artist/4DdL680AJQUH0N9KcewTdQ"
+          "name": "Birch",
+          "url": "https://open.spotify.com/artist/30XFjY5QiLhaU51gQGAKNv"
         }
       ],
-      "duration_ms": 240004,
-      "name": "Live It Up",
-      "url": "https://open.spotify.com/track/5ghFZ07jKDue7T8oPbh9nt"
+      "duration_ms": 215282,
+      "name": "Don't You Know",
+      "url": "https://open.spotify.com/track/3gArWjWhVzXjHDTDhArTVE"
     },
     {
       "added_at": "2022-09-23 15:03:03",
@@ -1323,22 +1291,54 @@
     {
       "added_at": "2022-09-23 15:03:03",
       "album": {
-        "name": "Perfect Crime",
-        "url": "https://open.spotify.com/album/6SKhGRv1ihw34UnldrZIbV"
+        "name": "Got A Groove",
+        "url": "https://open.spotify.com/album/6IOBv6pqhN8eHLJfKJ1Xcd"
       },
       "artists": [
         {
-          "name": "Spence",
-          "url": "https://open.spotify.com/artist/12QXpIHNMNQzZaCfBTVx0L"
-        },
-        {
-          "name": "S-70",
-          "url": "https://open.spotify.com/artist/2ADNw1kE3nu2uXTtEodACQ"
+          "name": "Bassboy",
+          "url": "https://open.spotify.com/artist/4wwHbT1V6hoLyOvS4gZVyy"
         }
       ],
-      "duration_ms": 210001,
-      "name": "Perfect Crime",
-      "url": "https://open.spotify.com/track/3F4LO2MlLyZ5oAJjpsw89J"
+      "duration_ms": 271602,
+      "name": "Got A Groove",
+      "url": "https://open.spotify.com/track/1kbGFz4dZDnjtSyjiZvMHC"
+    },
+    {
+      "added_at": "2022-09-23 15:03:03",
+      "album": {
+        "name": "Emergency",
+        "url": "https://open.spotify.com/album/6amlh9MV3y02Lj1cJtcoHE"
+      },
+      "artists": [
+        {
+          "name": "Jessica Audiffred",
+          "url": "https://open.spotify.com/artist/4odLDriBk6oEZotzLPTSnD"
+        },
+        {
+          "name": "Mila Falls",
+          "url": "https://open.spotify.com/artist/5m1yocXnIqkhC8dyQQd6Ve"
+        }
+      ],
+      "duration_ms": 169846,
+      "name": "Emergency",
+      "url": "https://open.spotify.com/track/1J2vZvRwW6xjIlsZsydkCO"
+    },
+    {
+      "added_at": "2022-09-23 15:03:03",
+      "album": {
+        "name": "Wanna Freak",
+        "url": "https://open.spotify.com/album/2JON2aHyeJoaBSIbbvfXrh"
+      },
+      "artists": [
+        {
+          "name": "Cajama",
+          "url": "https://open.spotify.com/artist/3YiP0AyiXuD61EE5xTaTbY"
+        }
+      ],
+      "duration_ms": 188307,
+      "name": "Wanna Freak",
+      "url": "https://open.spotify.com/track/4ZXkasziPLirl2GCn3bh8Q"
     }
   ],
   "unique_name": "Bassline Bangers",

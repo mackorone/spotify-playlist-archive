@@ -4,7 +4,7 @@
 
 > Grandes hits da música pop pra agitar sua festa com os pequenos!
 
-71 songs - 3 hr 47 min - [published](https://open.spotify.com/playlist/48CdodPiAlOVbdO0QWnV7F)
+72 songs - 3 hr 51 min - [published](https://open.spotify.com/playlist/48CdodPiAlOVbdO0QWnV7F)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,6 +46,7 @@
 | [Mi Gente \(feat\. Beyoncé\)](https://open.spotify.com/track/1DoK3CdipMjplLk5LXUdcp) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Willy William](https://open.spotify.com/artist/4RSyJzf7ef6Iu2rnLdabNq), [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [Mi Gente \(feat\. Beyoncé\)](https://open.spotify.com/album/6n3GgUWQckMKvJbsfSEKAW) | 3:29 | 2020-06-24 | 2022-07-29 |
 | [Moves Like Jagger](https://open.spotify.com/track/1r299qCKBLgUS9XJ9m1kEx) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP), [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Singles](https://open.spotify.com/album/5NdkVAsSvgUfe3cD8LwSTD) | 3:22 | 2020-06-24 | 2022-07-29 |
 | [Moves Like Jagger \- Studio Recording From "The Voice" Performance](https://open.spotify.com/track/7LcfRTgAVTs5pQGEQgUEzN) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP), [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Hands All Over](https://open.spotify.com/album/7strNUlU6xZqlVWBNUdOYv) | 3:21 | 2020-06-24 |  |
+| [Moves Like Jagger \- Studio Recording From "The Voice" Performance](https://open.spotify.com/track/34QFw3Wud1eOHOVtvDkOtd) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP), [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Workout Smash](https://open.spotify.com/album/3pdVbAFT80CR3BjoGDJfI0) | 3:22 | 2020-06-24 | 2022-10-09 |
 | [My Oh My \(feat\. DaBaby\)](https://open.spotify.com/track/3yOlyBJuViE2YSGn3nVE1K) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF), [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [Romance](https://open.spotify.com/album/3Vsbl0diFGw8HNSjG8ue9m) | 2:50 | 2020-06-24 |  |
 | [Never Seen The Rain](https://open.spotify.com/track/0JQ5MbyriK6ruD3t6RZ7ix) | [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY) | [The Kids Are Coming](https://open.spotify.com/album/2pJXQvY0YeDvVJ9gMU9G7j) | 3:20 | 2020-06-24 |  |
 | [Não Paro de Dançar \- Remix](https://open.spotify.com/track/0Z6eb8gpmUAPvchhcWuojg) | [Turma do Menino Sol](https://open.spotify.com/artist/6o4lRoU9vC4ZbKj8l61QK1), [Vitor Kley](https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U), [L2](https://open.spotify.com/artist/2pHxUjbrROg5plhHwgExrK) | [A Festa da Turma do Menino Sol, Vol\. 1 \(Remix\)](https://open.spotify.com/album/0KDyYa2Z25Qlr1KFDiib7K) | 2:09 | 2021-10-01 |  |

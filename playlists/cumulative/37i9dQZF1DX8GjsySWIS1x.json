@@ -5848,6 +5848,24 @@
     },
     {
       "album": {
+        "name": "happy",
+        "url": "https://open.spotify.com/album/7HHWePvIYmj0qGCvfSlzwj"
+      },
+      "artists": [
+        {
+          "name": "LilyPichu",
+          "url": "https://open.spotify.com/artist/6maAVJxVTGW1xA3LokpQm8"
+        }
+      ],
+      "date_added": "2022-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216585,
+      "name": "happy",
+      "url": "https://open.spotify.com/track/0exExEyKJnVIwgF8MyHVNP"
+    },
+    {
+      "album": {
         "name": "NO ADLIB",
         "url": "https://open.spotify.com/album/01JM6u0oehM9D9UOoeYjGo"
       },

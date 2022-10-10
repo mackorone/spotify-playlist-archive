@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-12",
-  "description": "I rapper pi\u00f9 forti del mondo in una sola playlist. Cover: Lil Baby",
+  "description": "I rapper pi\u00f9 forti del mondo in una sola playlist. Quavo e Takeoff in cover.",
   "name": "Rap Internazionale",
   "published_playlist_ids": [
     "7nFpRUHzCdFcv1vSsvGf3y"
@@ -533,7 +533,7 @@
       ],
       "date_added": "2022-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 158223,
       "name": "CELINE 3X",
       "url": "https://open.spotify.com/track/2APwDsIavDeJRJFcz6s8Ow"
@@ -581,6 +581,36 @@
       "duration_ms": 255486,
       "name": "Child of God",
       "url": "https://open.spotify.com/track/0oGl8U34a4tiAZPj5MMI2e"
+    },
+    {
+      "album": {
+        "name": "Only Built For Infinity Links",
+        "url": "https://open.spotify.com/album/59hIIDzaPSH5O3QSz4zX0t"
+      },
+      "artists": [
+        {
+          "name": "Quavo",
+          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
+        },
+        {
+          "name": "Takeoff",
+          "url": "https://open.spotify.com/artist/3EW0kQ1skZiK1NHg3Spt9J"
+        },
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        },
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208372,
+      "name": "Chocolate (feat. Young Thug and Gunna)",
+      "url": "https://open.spotify.com/track/6PvHZ5vVjUhngh0t3pIsPc"
     },
     {
       "album": {
@@ -1249,7 +1279,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 129638,
       "name": "Faster",
       "url": "https://open.spotify.com/track/1dH43IEzvkRIFu6HdXWCha"
@@ -1499,7 +1529,7 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-07",
       "duration_ms": 125142,
       "name": "Glad U Came (feat. ZieZie)",
       "url": "https://open.spotify.com/track/0P88fVbvRQGgRQN1GulQNy"
@@ -1897,7 +1927,7 @@
       ],
       "date_added": "2022-09-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-01",
+      "date_removed": null,
       "duration_ms": 160893,
       "name": "La bandite",
       "url": "https://open.spotify.com/track/0goer5e8B6SJaTV2B51k6f"
@@ -2117,7 +2147,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 250722,
       "name": "LONDON (feat. J. Cole)",
       "url": "https://open.spotify.com/track/5vhrsx08dHh2QcVh1Rsiwt"
@@ -2630,6 +2660,24 @@
     },
     {
       "album": {
+        "name": "L'\u00c9lu",
+        "url": "https://open.spotify.com/album/6UiV6zQxitBwaQ6Kw72W1i"
+      },
+      "artists": [
+        {
+          "name": "Beendo Z",
+          "url": "https://open.spotify.com/artist/7a35Zdc78bDXJv2vYf5hSO"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143525,
+      "name": "Pas b\u00eate",
+      "url": "https://open.spotify.com/track/3TVUW7bJJWDOonkVCZxfLV"
+    },
+    {
+      "album": {
         "name": "Pelele",
         "url": "https://open.spotify.com/album/3nGXy6EtbuxUwgUt1umZtY"
       },
@@ -2775,7 +2823,7 @@
       ],
       "date_added": "2022-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-03",
       "duration_ms": 172933,
       "name": "PUFFIN ON ZOOTIEZ",
       "url": "https://open.spotify.com/track/5qgFgsrrxOjyPmX5YCuK2E"
@@ -3456,6 +3504,24 @@
     },
     {
       "album": {
+        "name": "Stop Breathing",
+        "url": "https://open.spotify.com/album/1nP2b8dTaVUvvAOyRbDoBe"
+      },
+      "artists": [
+        {
+          "name": "Roddy Ricch",
+          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110706,
+      "name": "Stop Breathing",
+      "url": "https://open.spotify.com/track/6mM8gri8d2abYYomjOV4ut"
+    },
+    {
+      "album": {
         "name": "Story Time",
         "url": "https://open.spotify.com/album/6RCSiZ997D80DSuDuHWsUH"
       },
@@ -3920,6 +3986,28 @@
     },
     {
       "album": {
+        "name": "West Connect (feat. Central Cee)",
+        "url": "https://open.spotify.com/album/6IPGU91CypmQcli3TALmpL"
+      },
+      "artists": [
+        {
+          "name": "Luciano",
+          "url": "https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg"
+        },
+        {
+          "name": "Central Cee",
+          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212114,
+      "name": "West Connect (feat. Central Cee)",
+      "url": "https://open.spotify.com/track/4OGb9JY7pPEElDGwulYOBB"
+    },
+    {
+      "album": {
         "name": "Shoot For The Stars Aim For The Moon",
         "url": "https://open.spotify.com/album/7e7t0MCrNDcJZsPwUKjmOc"
       },
@@ -3977,8 +4065,8 @@
           "url": "https://open.spotify.com/artist/4JhbRL6zaItAyzqx4gHTqz"
         },
         {
-          "name": "SPMB Bills",
-          "url": "https://open.spotify.com/artist/1PZWTOZpsAoK6tyNDPziOa"
+          "name": "SPMB BILLS",
+          "url": "https://open.spotify.com/artist/50DbCckCwUGuAvBlktc1VS"
         }
       ],
       "date_added": "2022-08-30",

@@ -2,13 +2,13 @@
 
 ### [Gospel Flow](https://open.spotify.com/playlist/37i9dQZF1DXc6PRIxq2w5v)
 
-> Entre os versos e beats, a palavra do Senhor\. Foto: Samuel Shikoba, SAMUÉU
+> Entre os versos e beats, a palavra do Senhor\. Foto: VICTIN
 
-121 songs - 6 hr 24 min - [published](https://open.spotify.com/playlist/3j1tW8qwWrXfBEybLADTJk)
+122 songs - 6 hr 27 min - [published](https://open.spotify.com/playlist/3j1tW8qwWrXfBEybLADTJk)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [10 Anos](https://open.spotify.com/track/6FN0YpMMkDM3ziaH14MC9m) | [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB) | [10 Anos](https://open.spotify.com/album/5BqkDaAaj07vQuxqNgPx4z) | 3:19 | 2022-03-22 |  |
+| [10 Anos](https://open.spotify.com/track/6FN0YpMMkDM3ziaH14MC9m) | [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB) | [10 Anos](https://open.spotify.com/album/5BqkDaAaj07vQuxqNgPx4z) | 3:19 | 2022-03-22 | 2022-10-08 |
 | [A Luz Se Apaga](https://open.spotify.com/track/17NTdbGeEofDmmiJxLQ2mU) | [Marone Falasha](https://open.spotify.com/artist/7G5ECe50jN1cy6ReJvAz7t), [Pr Rodrigo Luiz](https://open.spotify.com/artist/3VraCMcotmiLcIZJbqhyB0), [Mensageiros da Profecia](https://open.spotify.com/artist/2NfOuREtxIGzcb2ncUy6yI) | [A Luz Se Apaga](https://open.spotify.com/album/1XggPUj8bQPjQ8f7W4cHMH) | 7:06 | 2022-03-22 |  |
 | [A Tua Palavra](https://open.spotify.com/track/4iFW0bjZQ5ZRvm8ny8YDvx) | [Flavio Rufino](https://open.spotify.com/artist/2l2hZgZ0Iju7baPMds2cS5), [Trindade Records](https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9), [Love Funk](https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC) | [A Tua Palavra](https://open.spotify.com/album/4JHsst96lbZNhGmltVN0XO) | 2:05 | 2022-09-30 |  |
 | [A Verdade Liberta](https://open.spotify.com/track/6u2zDBpRjRbxt9uEScDL6K) | [Lucas Dias](https://open.spotify.com/artist/5USBdQSHskaPcny3qnL92S) | [A Verdade Liberta](https://open.spotify.com/album/4fEAswHgT41nIulijzo9WD) | 3:06 | 2022-03-22 | 2022-08-20 |
@@ -90,6 +90,7 @@
 | [O Bem Que Eu Quero Fazer Não Faço](https://open.spotify.com/track/6AzxGlceDX62BM7Obp7JH2) | [Thiagão](https://open.spotify.com/artist/4fcCRuk90UtfkJmTkGxmgw) | [O Bem Que Eu Quero Fazer Não Faço](https://open.spotify.com/album/2RGP9VALNUJ9oWyYwA2k5S) | 3:26 | 2022-03-22 |  |
 | [O Pai Espera Você Voltar](https://open.spotify.com/track/6dlL6wopzZIaF0232y6ZOI) | [Thiagão](https://open.spotify.com/artist/4fcCRuk90UtfkJmTkGxmgw) | [O Pai Espera Você Voltar](https://open.spotify.com/album/4BEKkCNmiA6bFIY7BxgIZN) | 4:17 | 2022-03-22 |  |
 | [O Pecado Te Prometeu](https://open.spotify.com/track/5y7B1Wc64S5ezzFYHEyxAI) | [Thiagão](https://open.spotify.com/artist/4fcCRuk90UtfkJmTkGxmgw) | [O Pecado Te Prometeu](https://open.spotify.com/album/6oQHRTiQNmX1tyS38I3yS1) | 4:42 | 2022-08-19 | 2022-10-01 |
+| [O Preço](https://open.spotify.com/track/75ElCpWWG587b1qVhW4uun) | [C\. Braga](https://open.spotify.com/artist/5vatyKN28NkojtJkfg9fTp), [Trindade Records](https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9), [Love Funk](https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC) | [O Preço](https://open.spotify.com/album/4dpgxFCXibZZsHqZhc07yU) | 3:22 | 2022-10-07 |  |
 | [O Único](https://open.spotify.com/track/0ahTUkq5B6miJJFEAb02uU) | [shiso](https://open.spotify.com/artist/29owXbKlpmPAsVBAAEs3M8) | [O Único](https://open.spotify.com/album/3BjqoK95j0hdBWLludsc2S) | 2:43 | 2022-08-19 | 2022-10-01 |
 | [Oração](https://open.spotify.com/track/27ewarCSYA5W1Su9Fp3o7h) | [P\. Oliveira](https://open.spotify.com/artist/7fqc3O97h2bySMwdI2g9Zd), [Victor Henry](https://open.spotify.com/artist/2BlDMHgN6HfWB0wvGa8DPu) | [Oração](https://open.spotify.com/album/3Cm1d2xUKGUxEoGl6xUPkZ) | 2:19 | 2022-03-22 | 2022-04-09 |
 | [Os Dois Lados](https://open.spotify.com/track/4ss3aaCFZ8s5diIC0IoqTI) | [Thiagão](https://open.spotify.com/artist/4fcCRuk90UtfkJmTkGxmgw) | [Os Dois Lados](https://open.spotify.com/album/0QjZYRn8b829lSy4aZSvQG) | 3:39 | 2022-09-19 |  |
@@ -97,7 +98,7 @@
 | [PLANOS](https://open.spotify.com/track/68qEHvmjxPiOmWxxR1AFDt) | [Asaph](https://open.spotify.com/artist/2L5qzS8AVHdTtphFpjFYjI), [MellowBeatz](https://open.spotify.com/artist/0ubntF0OwcTIoq3DorJqU5) | [ANTES DA TERAPIA](https://open.spotify.com/album/2UcA9JP84upGyFkVmGI5Ie) | 2:36 | 2022-03-22 | 2022-06-11 |
 | [Poder](https://open.spotify.com/track/4SHnNqSXIwT7u2Lnc5guWy) | [Tamires Sabotage](https://open.spotify.com/artist/0eYjKbGoRo60kmsjZlgAAy), [Lito Atalaia](https://open.spotify.com/artist/40VTmb5TDKq5wom2CAnvU3) | [Poder](https://open.spotify.com/album/7HzShhhdEOtWNmXc7g6KrK) | 3:40 | 2022-03-22 |  |
 | [Porto Seguro](https://open.spotify.com/track/5G1bwrm1nYFnrqsN6cafWi) | [Mc vina](https://open.spotify.com/artist/4OAt9mhqj9xi0L1uQirbCS) | [Porto Seguro](https://open.spotify.com/album/7FkHqjz8a39PVsqe3uySIr) | 3:41 | 2022-04-01 | 2022-04-30 |
-| [Possivel É](https://open.spotify.com/track/7Gn9M2Gt4wcjzW9Se0esmO) | [KJ](https://open.spotify.com/artist/2C8xiQfIDWO4nKxfMZoL2c), [Dj Alle mark](https://open.spotify.com/artist/7wik2rNV6wtZP98hHaspHQ) | [Possivel É](https://open.spotify.com/album/0Bz5jyWKCtu3bcQQF3AoBo) | 4:21 | 2022-09-30 |  |
+| [Possivel É](https://open.spotify.com/track/7Gn9M2Gt4wcjzW9Se0esmO) | [KJ](https://open.spotify.com/artist/2C8xiQfIDWO4nKxfMZoL2c), [DJ Alle Mark](https://open.spotify.com/artist/7wik2rNV6wtZP98hHaspHQ) | [Possivel É](https://open.spotify.com/album/0Bz5jyWKCtu3bcQQF3AoBo) | 4:21 | 2022-09-30 |  |
 | [Pra Onde Eu Vou Correr?](https://open.spotify.com/track/2y4dbstDf1CDikfGcrKX96) | [Jessé Alcantara](https://open.spotify.com/artist/5T7DnnHhIPE3aaftSLRJ0X) | [Pra Onde Eu Vou Correr?](https://open.spotify.com/album/02o0tbmuZbBq7Vg03TyWJy) | 3:50 | 2022-08-19 | 2022-09-03 |
 | [Prazer Jesus](https://open.spotify.com/track/2x5SsYLKlvQdlq7ozUdfJn) | [VICTIN](https://open.spotify.com/artist/3brCnZDTt5fHf0BBXvPa6p) | [Prazer Jesus](https://open.spotify.com/album/5gU6lA3GaggUCta2Jottgt) | 2:38 | 2022-03-22 |  |
 | [Predestinado](https://open.spotify.com/track/0IlSLH0ymezHJdmVMIjOsl) | [Samuel Shikoba](https://open.spotify.com/artist/4GODihF5IXcVquZ5qq5S5r), [SAMUÉU](https://open.spotify.com/artist/06UYOp2JUCM93i9iuhNzA7) | [Predestinado](https://open.spotify.com/album/1hrWv8EAx6K8ePi2r5XcP7) | 2:44 | 2022-08-19 |  |

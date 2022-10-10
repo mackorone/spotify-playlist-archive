@@ -4,7 +4,7 @@
 
 > Funky vocoders and talk boxes.
 
-77 songs - 5 hr 41 min - [published](https://open.spotify.com/playlist/7j5PeJeRKR16JZLphjYAJm)
+78 songs - 5 hr 46 min - [published](https://open.spotify.com/playlist/7j5PeJeRKR16JZLphjYAJm)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,7 +79,8 @@
 | [Too Late](https://open.spotify.com/track/463ciDPJsnDzuzEqnsU63c) | [Kazzey](https://open.spotify.com/artist/5wQ8DuXAlRz7HtLTjWnUyY) | [Voyage 1](https://open.spotify.com/album/5bRcZmrU98mH2ii0vbSPqV) | 3:09 | 2022-07-08 |  |
 | [Treasure \- Cover](https://open.spotify.com/track/7e0QtmkcaWUZMKZ1vV2VnS) | [Neighbors Complain](https://open.spotify.com/artist/20bloSpXKTBtyHo7iYcitT) | [Made in Street 2 \(Live Covers\)](https://open.spotify.com/album/31I6U15zlGiCa4OC82JZxe) | 4:23 | 2021-11-26 |  |
 | [We are the Jonzun Crew](https://open.spotify.com/track/6VoHnV1kzoW8CX1UTSgH3e) | [Jonzun Crew](https://open.spotify.com/artist/4NtTiFyP2cLkj3xplWBf59) | [Lost in Space](https://open.spotify.com/album/0Fo7UV7LDuq2h9cpSoiOTH) | 6:23 | 2020-09-18 |  |
-| [What U Do](https://open.spotify.com/track/3rw6Y1CGiJcnQ27QyYpZ6f) | [Moullinex](https://open.spotify.com/artist/1XFbnj1jNNzzyg46ni3dnr), [Lorenz Rhode](https://open.spotify.com/artist/44fZOPBpIQYrr8faORvMiF) | [What U Do](https://open.spotify.com/album/3Ewvl9pL2nfoyKw0pktqoK) | 5:42 | 2020-09-18 |  |
+| [What U Do](https://open.spotify.com/track/3rw6Y1CGiJcnQ27QyYpZ6f) | [Moullinex](https://open.spotify.com/artist/1XFbnj1jNNzzyg46ni3dnr), [Lorenz Rhode](https://open.spotify.com/artist/44fZOPBpIQYrr8faORvMiF) | [What U Do](https://open.spotify.com/album/3Ewvl9pL2nfoyKw0pktqoK) | 5:42 | 2020-09-18 | 2022-10-07 |
+| [What U Do](https://open.spotify.com/track/4Y6D4pNgcDIQ0zeeARUmcd) | [Moullinex](https://open.spotify.com/artist/1XFbnj1jNNzzyg46ni3dnr), [Lorenz Rhode](https://open.spotify.com/artist/44fZOPBpIQYrr8faORvMiF) | [What U Do](https://open.spotify.com/album/1FB09P6gwDqt4iD9iUcXyZ) | 5:42 | 2020-09-18 |  |
 | [When I Hit the Block](https://open.spotify.com/track/4Vy23imXjy2kg8zaaX5D7O) | [Throwback Zack](https://open.spotify.com/artist/75csMNFe2KTbVYOko3sLzv) | [Cloud 9](https://open.spotify.com/album/4gvxF2lP3osUa2MXxq3atT) | 3:46 | 2020-09-18 |  |
 | [Winning](https://open.spotify.com/track/5aoEP8goqbvoI7ITs2SVAo) | [Fingazz](https://open.spotify.com/artist/5r1yBS6lhh7Mo4Egr3k0JT) | [Winning](https://open.spotify.com/album/4UQCFBr4wdsGQmcdXyoVcV) | 3:39 | 2020-09-18 |  |
 | [With the Music](https://open.spotify.com/track/7ADWPWvgegTdPYEqRtQXYe) | [Matt Johnson](https://open.spotify.com/artist/5gFCOJYoKgxTx0KUXISEAS) | [With the Music](https://open.spotify.com/album/57q2lXAoPUWJTBvlSpzy7F) | 6:17 | 2020-09-18 |  |

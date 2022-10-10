@@ -2420,6 +2420,24 @@
     },
     {
       "album": {
+        "name": "Strike Gold",
+        "url": "https://open.spotify.com/album/5M6sqKBlKeBTACwzWexteZ"
+      },
+      "artists": [
+        {
+          "name": "Larkin Poe",
+          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200858,
+      "name": "Strike Gold",
+      "url": "https://open.spotify.com/track/3g3vayoe4Y10leAHdrvTnM"
+    },
+    {
+      "album": {
         "name": "Sunlight Lover (Moonshine Lover)",
         "url": "https://open.spotify.com/album/20qgm11dR7wDnfauXFeuMx"
       },

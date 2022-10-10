@@ -2,9 +2,9 @@
 
 ### [indie pop & chill](https://open.spotify.com/playlist/37i9dQZF1DX5y8xoSWyhcz)
 
-> it's a vibe \(◡ ‿ ◡ ✿\)\.  \~\~\~ <br/>grentperez on the cover.
+> it's a vibe \(◡ ‿ ◡ ✿\)\.  cover: blair lee
 
-959 songs - 2 day 1 hr 13 min - [published](https://open.spotify.com/playlist/4lgMQu4P2ziouf8Qz9MR8Q)
+962 songs - 2 day 1 hr 22 min - [published](https://open.spotify.com/playlist/4lgMQu4P2ziouf8Qz9MR8Q)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -186,7 +186,7 @@
 | [crashing down](https://open.spotify.com/track/120gZpbcyjQZ7KNKJxZXnx) | [Arlie](https://open.spotify.com/artist/6Bllzm0olEwqGwPujaLiuA) | [crashing down](https://open.spotify.com/album/4JHJFHkQfDDimJ8TJamEXf) | 2:19 | 2021-12-17 | 2022-04-09 |
 | [Crossed Wires](https://open.spotify.com/track/3qxhvx0fN9n2qmLOvvSJdB) | [Laur Elle](https://open.spotify.com/artist/5DQPhXyByXuh4DxLjHm7UH) | [Crossed Wires](https://open.spotify.com/album/2HmAD3gWMZieKs02oDodWE) | 3:05 | 2022-02-18 | 2022-05-20 |
 | [cruise control](https://open.spotify.com/track/72uh8sdfHtUQcD1asTVOqf) | [Chakky](https://open.spotify.com/artist/6OVdtD62dqKYHBz10L7h5q) | [cruise control](https://open.spotify.com/album/1CsMgEIO593nWdRmCobzL1) | 3:00 | 2022-02-14 | 2022-06-25 |
-| [Crutches](https://open.spotify.com/track/4MdxHfa5fmIdvPwYXM56gS) | [Deb Never](https://open.spotify.com/artist/55EarwWraRQY9diMo9Oeul) | [Crutches](https://open.spotify.com/album/4U59RIA6eisih8TNjz7CzP) | 2:50 | 2022-02-25 |  |
+| [Crutches](https://open.spotify.com/track/4MdxHfa5fmIdvPwYXM56gS) | [Deb Never](https://open.spotify.com/artist/55EarwWraRQY9diMo9Oeul) | [Crutches](https://open.spotify.com/album/4U59RIA6eisih8TNjz7CzP) | 2:50 | 2022-02-25 | 2022-10-08 |
 | [Cry Over Boys](https://open.spotify.com/track/218q4fCmVERKhXEZDr6g4P) | [Alexander 23](https://open.spotify.com/artist/6sFHvCyqklnJpXC9Nh1aag) | [Cry Over Boys](https://open.spotify.com/album/6hEdISwurRTZlHPsyQhYy6) | 2:50 | 2021-01-30 | 2021-02-27 |
 | [crybaby](https://open.spotify.com/track/4HRf7m1LQyUggiOl1YunVc) | [Krash Krinny](https://open.spotify.com/artist/4QIgLYZfUb6UD5kfWjnnXV) | [Boneyard Blues](https://open.spotify.com/album/2uQc5xDcHbdOxsfgbDKNu6) | 3:02 | 2021-02-20 | 2021-03-14 |
 | [Cuff Your Jeans](https://open.spotify.com/track/0q9v0aM8nBBF045S4lUMJE) | [Claud](https://open.spotify.com/artist/5MaQlvNGOaTj39apHsXVq1) | [Cuff Your Jeans](https://open.spotify.com/album/7Ety4yx03V4LF6xqNiqL1w) | 2:55 | 2021-01-16 | 2021-02-20 |
@@ -295,7 +295,7 @@
 | [Flood](https://open.spotify.com/track/7uHxkxA2hcETeuDp5seg4E) | [sleep.ing](https://open.spotify.com/artist/72qGRng3c6BZNeYJH3C5ct), [Dave Faber](https://open.spotify.com/artist/2eQOHn4qBMuuKTtx7seCz8) | [Flood](https://open.spotify.com/album/3W3WfVjJJiXFZyALqfESLc) | 2:37 | 2022-02-04 | 2022-07-23 |
 | [Flower \(In Full Bloom\)](https://open.spotify.com/track/4MjIJnPOuO83ZiKr244QKk) | [Luna Li](https://open.spotify.com/artist/4ZAk3yVJdtf1CFnTiG08U3), [Dreamer Isioma](https://open.spotify.com/artist/6u6AbTVrbabv27DLcSrF8i) | [Flower \(In Full Bloom\)](https://open.spotify.com/album/0Rxa9TV9eNXcVu4kblPAw0) | 3:51 | 2021-10-02 | 2022-01-29 |
 | [Flowers](https://open.spotify.com/track/6JJgmmfMsoGTzwCe2f2K8u) | [khai dreams](https://open.spotify.com/artist/0lawSNBxNgJFQYJnQzLH8c) | [Flowers](https://open.spotify.com/album/0RPeItB8kHKwmYhKAJ8ceq) | 2:34 | 2021-08-21 | 2021-10-23 |
-| [fly](https://open.spotify.com/track/3jH30PGXQDOx1VP9nL75lU) | [lael](https://open.spotify.com/artist/1znowipTv2C0PgcaulHEA8) | [it didn't know it was a butterfly](https://open.spotify.com/album/4EHYixLT41BFnQrBiBOOzI) | 3:19 | 2022-04-01 |  |
+| [fly](https://open.spotify.com/track/3jH30PGXQDOx1VP9nL75lU) | [lael](https://open.spotify.com/artist/1znowipTv2C0PgcaulHEA8) | [it didn't know it was a butterfly](https://open.spotify.com/album/4EHYixLT41BFnQrBiBOOzI) | 3:19 | 2022-04-01 | 2022-10-08 |
 | [FMRN](https://open.spotify.com/track/08hB2ERJV6A1Ntu3OHgzjh) | [Lilyisthatyou](https://open.spotify.com/artist/4ExEi8SBEd3QRgwbGw2nHC) | [FMRN](https://open.spotify.com/album/4jfJVKmrG63Cp8DPYDOHCD) | 2:02 | 2021-07-04 | 2021-09-11 |
 | [Food for Thought!](https://open.spotify.com/track/7kqND83w6pGMFLJk9FGEKG) | [Graham Maude](https://open.spotify.com/artist/6FVfuomyRl6eTey7gmnWbb) | [Food for Thought!](https://open.spotify.com/album/2I6eaGVOnYptpQYhrtAAoH) | 4:06 | 2021-07-04 | 2021-08-21 |
 | [For The Good](https://open.spotify.com/track/32wNxsULE8I9Fd8aU0o7JW) | [adam brian paul](https://open.spotify.com/artist/3t5QpadlJRUDWaL2OXileh) | [For The Good](https://open.spotify.com/album/0RjCuHSyUalAewW06tJbCH) | 0:53 | 2022-05-27 |  |
@@ -361,6 +361,7 @@
 | [Hate That You Love Me](https://open.spotify.com/track/69btEcSPQvdTiEv2Yb1nek) | [Laur Elle](https://open.spotify.com/artist/5DQPhXyByXuh4DxLjHm7UH) | [Hate That You Love Me](https://open.spotify.com/album/2AoabgykPv3qn4bgyyZgTX) | 3:13 | 2021-10-23 | 2022-02-19 |
 | [Haunt You \(feat\. chloe moriondo\)](https://open.spotify.com/track/3vgf7gtRKDFNqFRJm7nA0m) | [X Lovers](https://open.spotify.com/artist/1Hr5Adjkxh6ihfsoahOY38), [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q) | [Haunt You \(feat\. chloe moriondo\)](https://open.spotify.com/album/2tDuXTNCAmd5VQXh2Bi8Ry) | 2:47 | 2020-10-29\* | 2021-01-30 |
 | [have fun at ur party \(but don't\)](https://open.spotify.com/track/6DKlvwFRcQxWcR2HLcIzhl) | [Marina Lin](https://open.spotify.com/artist/56z9WF9quDfA4U6kcQrfQh) | [have fun at ur party \(but don't\)](https://open.spotify.com/album/1n0xn2hiiWur3aelVZnL9i) | 3:14 | 2021-09-18 | 2021-10-09 |
+| [Have It In You](https://open.spotify.com/track/0sHou6HBAx8c7ipaOnab6r) | [Stefani Kimber](https://open.spotify.com/artist/4ePVAZ2pFMlU0aFbPc3qgF) | [Have It In You](https://open.spotify.com/album/3Xe1osfRtpz1aIlyxv8Zq4) | 3:22 | 2022-10-07 |  |
 | [HEAD OVER HEELS](https://open.spotify.com/track/2KFulyrLZkXBpThxLCtxxY) | [LoveLeo](https://open.spotify.com/artist/0JDVDA5aG4Y2wXylqghzC6) | [LOOK AT THIS MESS IVE MADE EP](https://open.spotify.com/album/1jW5MaPi18cDWKmlwA2ICk) | 2:36 | 2020-10-29\* | 2021-01-27 |
 | [HEADCASE](https://open.spotify.com/track/2QMnichNFAhM0f4gi01Az1) | [young friend](https://open.spotify.com/artist/7cq0a4di5dOeKU8sicemd1) | [HEADCASE](https://open.spotify.com/album/5t4tKq5VpoVRF9KKZU3TwA) | 2:54 | 2021-08-19 | 2021-10-16 |
 | [HEADSTART](https://open.spotify.com/track/4au9zOGq4UoV03sLuXFZZI) | [Ritt Momney](https://open.spotify.com/artist/7MPGCB854Qo4alYMOPkBka) | [Sunny Boy](https://open.spotify.com/album/5m2dVboM31qQtwPVch8pFv) | 3:10 | 2021-10-23 | 2022-03-12 |
@@ -510,6 +511,7 @@
 | [living far away](https://open.spotify.com/track/3LI67DuBMjlhVeg5Z50nHi) | [Internet Girl](https://open.spotify.com/artist/2eVTKG3Z5bbKk2OWMIe3iL), [maxime.](https://open.spotify.com/artist/4jd8Wp3Os5tXFV0NYm1570) | [living far away](https://open.spotify.com/album/0uhIHWuzEYVDrANrfclLzj) | 2:58 | 2021-04-24 | 2021-06-19 |
 | [Liz](https://open.spotify.com/track/5wJ9sSG7NItwu34jMnyxqa) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Liz](https://open.spotify.com/album/38WHZJFOzJY6k5INRXigZC) | 2:55 | 2021-06-05 | 2022-02-05 |
 | [Lonely Bitch](https://open.spotify.com/track/0sAwbGaFnlxrxFgQfNzGJS) | [AVIV](https://open.spotify.com/artist/1EWcnusq6BavKMW5OCsRMo) | [Lonely Bitch](https://open.spotify.com/album/3WANp0KcO1P5kKWdTcYEM8) | 1:50 | 2021-02-13 | 2021-04-10 |
+| [Lonely Hallucinations](https://open.spotify.com/track/4hqIsxoAphbShsRsL0qGmh) | [Alle The Dreamer](https://open.spotify.com/artist/34dP7aH5DomlGUPArhkh0B) | [Lonely Hallucinations](https://open.spotify.com/album/7Gs6HTYS71coBejdMXPrCI) | 3:14 | 2022-10-07 |  |
 | [Losers](https://open.spotify.com/track/1eefRCECiFkeCI7QgcadsC) | [Sipper](https://open.spotify.com/artist/2BjcWnk7C01aHhp59HqUED) | [Losers](https://open.spotify.com/album/07j0qkF5exWt26iXfRcnNf) | 2:57 | 2021-11-27 | 2022-04-23 |
 | [Lost](https://open.spotify.com/track/3GZD6HmiNUhxXYf8Gch723) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [channel ORANGE](https://open.spotify.com/album/392p3shh2jkxUxY2VHvlH8) | 3:54 | 2022-01-21 | 2022-07-02 |
 | [Lost Cause](https://open.spotify.com/track/2xdwCJLfKCkat14mlgR26M) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Lost Cause](https://open.spotify.com/album/0hPbP7ckqqFVftdTPatlED) | 3:32 | 2021-06-05 | 2021-07-31 |
@@ -578,7 +580,7 @@
 | [newbury park](https://open.spotify.com/track/4ZeMEs9lhf7s83QHeqR432) | [Lexi Jayde](https://open.spotify.com/artist/69761NObDw2KwmmFgZmxzC) | [newbury park](https://open.spotify.com/album/5vRetraxEpG9IAvq46a1j1) | 2:54 | 2021-03-14 | 2021-06-05 |
 | [News At 9](https://open.spotify.com/track/2ezY94QlqbDG0aYgKnpy9C) | [Peter McPoland](https://open.spotify.com/artist/23E65IfLBGQv0FBrMwCcG2) | [Slow Down](https://open.spotify.com/album/5DetXihzyXyvc9JDXaQsCU) | 3:13 | 2022-07-22 |  |
 | [News At 9](https://open.spotify.com/track/4ve3XvrdiYbKeDZ1QdeBU7) | [Peter McPoland](https://open.spotify.com/artist/23E65IfLBGQv0FBrMwCcG2) | [News At 9](https://open.spotify.com/album/7xc9xUwYtVKNIA2DEx51ce) | 3:13 | 2022-04-22 | 2022-07-29 |
-| [Next Life](https://open.spotify.com/track/77gpwRWeMlZeIUI9QDoDVZ) | [ROSIE](https://open.spotify.com/artist/2bp65KnFOIsIosBoqPzvNL) | [Next Life](https://open.spotify.com/album/3ADl40rpQzbx905hFyNaW6) | 3:07 | 2022-03-04 |  |
+| [Next Life](https://open.spotify.com/track/77gpwRWeMlZeIUI9QDoDVZ) | [ROSIE](https://open.spotify.com/artist/2bp65KnFOIsIosBoqPzvNL) | [Next Life](https://open.spotify.com/album/3ADl40rpQzbx905hFyNaW6) | 3:07 | 2022-03-04 | 2022-10-08 |
 | [Next Thing \(Loverboy\)](https://open.spotify.com/track/3pKgOC7tlm4W0sCDLWPuPE) | [Surfaces](https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u) | [Next Thing \(Loverboy\)](https://open.spotify.com/album/3KAvR6XKFMYWnOlC7jzevW) | 3:03 | 2021-05-15 | 2021-09-11 |
 | [Next Time](https://open.spotify.com/track/3HQrxN0bBKxWIKRmgjUq06) | [JESSIA](https://open.spotify.com/artist/6DdbeAeBlrYj8bNToZv4TY) | [Next Time](https://open.spotify.com/album/7hgfr4aUdhvtwC1xK5XhJ6) | 3:17 | 2022-03-25 | 2022-08-27 |
 | [nice pup](https://open.spotify.com/track/44ZzrQnqhQt3bAOOJ9iQbE) | [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q) | [puppy luv](https://open.spotify.com/album/24MK23qVssP0WYEeb6lbYq) | 2:43 | 2022-04-08 | 2022-06-04 |
@@ -640,6 +642,7 @@
 | [Paul](https://open.spotify.com/track/2MjzsLWwEBqnJAdXtDlaz1) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [Paul](https://open.spotify.com/album/1OlusNXiorsSM7tYlIG9Cy) | 3:07 | 2021-02-27 | 2021-05-15 |
 | [Peach](https://open.spotify.com/track/3HHcTqXCKDuUYTCH7ue9K8) | [PONY](https://open.spotify.com/artist/31kZNy2FQoUD4V8LUr9exv) | [Peach](https://open.spotify.com/album/6A6oDzTGOLntd7edj7Cwv0) | 3:29 | 2022-08-19 | 2022-08-27 |
 | [Peachi](https://open.spotify.com/track/4ZyxpYxjhjl3Eh0EQ2ssv1) | [Chloe George](https://open.spotify.com/artist/5VZn4mB8pS40aE0kujdX2Y) | [Peachi](https://open.spotify.com/album/0QKRu2MTcmHm3Kkq0WH9MG) | 2:55 | 2021-09-25 | 2021-10-09 |
+| [Peachy World](https://open.spotify.com/track/5FEiAtuQ8ZKTAu9tr6zVcA) | [Blair Lee](https://open.spotify.com/artist/1pYkoc6a3QKymoCVfAWuNc) | [Peachy World](https://open.spotify.com/album/2trCjaC8Q7UP4hfMlGbniC) | 2:31 | 2022-10-07 |  |
 | [Pears](https://open.spotify.com/track/06nKF46jG8p1zwyP4ziAyG) | [Weston Estate](https://open.spotify.com/artist/18CPEToK1OfjJ5B5vDBDKa) | [Pears](https://open.spotify.com/album/4XedVnZRFfk9n7uX601gvb) | 2:21 | 2021-04-24 | 2021-06-19 |
 | [people don't change](https://open.spotify.com/track/4rjxIt48qyNnfrx9jc2q6r) | [mazie](https://open.spotify.com/artist/4adSXA1GDOxNG7Zw89YHyz) | [people don't change](https://open.spotify.com/album/28SL67Dptmy8eOZGurIxRt) | 2:47 | 2022-01-07 | 2022-04-29 |
 | [people think i'm okay, i'm not](https://open.spotify.com/track/4PHuY7WfE3oF9Qhg39MApg) | [yung sum](https://open.spotify.com/artist/2kMfOad7vI5MUraDWi8gUS) | [people think i'm okay, i'm not](https://open.spotify.com/album/1ZTp1DHbUg1HxrGQy2Tz0a) | 2:33 | 2021-07-24 | 2021-08-14 |

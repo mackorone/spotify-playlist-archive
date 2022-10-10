@@ -2,7 +2,7 @@
 
 ### [Housewerk](https://open.spotify.com/playlist/37i9dQZF1DXa8NOEUWPn9W)
 
-> <a href="spotify:genre:house">House</a> music lives here\. United in one house\. Cover: Dom Dolla
+> <a href="spotify:genre:house">House</a> music lives here\. United in one house\. Cover: Mau P
 
 416 songs - 1 day 1 hr 14 min - [published](https://open.spotify.com/playlist/1B1wblzRfDqZJTGVsoUfwr)
 

@@ -26,6 +26,24 @@
     },
     {
       "album": {
+        "name": "Joan Baez",
+        "url": "https://open.spotify.com/album/734AFYo34Q1zRpg9N8E2Ho"
+      },
+      "artists": [
+        {
+          "name": "Joan Baez",
+          "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-08",
+      "duration_ms": 280906,
+      "name": "All My Trials",
+      "url": "https://open.spotify.com/track/3lqxFhPsfNl2DSmqEogdH2"
+    },
+    {
+      "album": {
         "name": "In Concert",
         "url": "https://open.spotify.com/album/0xOIYvDBZVEEQvFEu46Ylg"
       },
@@ -37,10 +55,28 @@
       ],
       "date_added": "2022-09-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-30",
+      "date_removed": null,
       "duration_ms": 192493,
       "name": "Babe, I'm Gonna Leave You",
       "url": "https://open.spotify.com/track/0QeCux4ywDSHREzBQscoGI"
+    },
+    {
+      "album": {
+        "name": "Joan Baez, Vol. Ii",
+        "url": "https://open.spotify.com/album/05okUkdZoQT6MgJsfN7kwg"
+      },
+      "artists": [
+        {
+          "name": "Joan Baez",
+          "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189040,
+      "name": "Banks Of The Ohio",
+      "url": "https://open.spotify.com/track/5baVOcZQr3sulDmGQennee"
     },
     {
       "album": {
@@ -73,7 +109,7 @@
       ],
       "date_added": "2022-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 186160,
       "name": "Blessed Are",
       "url": "https://open.spotify.com/track/4fK3awsA0h8RcyULqw3XMS"
@@ -127,7 +163,7 @@
       ],
       "date_added": "2022-09-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-25",
+      "date_removed": "2022-10-07",
       "duration_ms": 306120,
       "name": "Brothers In Arms",
       "url": "https://open.spotify.com/track/1ByLEl7kTAAmBo68GH6A7I"
@@ -163,7 +199,7 @@
       ],
       "date_added": "2022-09-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-29",
+      "date_removed": "2022-10-07",
       "duration_ms": 139240,
       "name": "Daddy, You Been On My Mind",
       "url": "https://open.spotify.com/track/1M20O2xfTLnrLtURrbZsAM"
@@ -239,7 +275,7 @@
       ],
       "date_added": "2022-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-09",
       "duration_ms": 189800,
       "name": "Don't Think Twice, It's All Right",
       "url": "https://open.spotify.com/track/3ORn0rgu27z7hlnNgvYWse"
@@ -261,6 +297,24 @@
       "duration_ms": 192933,
       "name": "Donna Donna",
       "url": "https://open.spotify.com/track/49uBVeaM3ixGD8VIeqh9KI"
+    },
+    {
+      "album": {
+        "name": "Joan Baez",
+        "url": "https://open.spotify.com/album/734AFYo34Q1zRpg9N8E2Ho"
+      },
+      "artists": [
+        {
+          "name": "Joan Baez",
+          "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-09",
+      "duration_ms": 223733,
+      "name": "East Virginia",
+      "url": "https://open.spotify.com/track/7cOXUx0Q5PYafyNFriFajr"
     },
     {
       "album": {
@@ -549,7 +603,7 @@
       ],
       "date_added": "2022-09-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-02",
+      "date_removed": "2022-10-09",
       "duration_ms": 176360,
       "name": "House Of The Rising Sun",
       "url": "https://open.spotify.com/track/3AuVZyDw1VhjjLfHZR4ba3"
@@ -567,7 +621,7 @@
       ],
       "date_added": "2022-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-03",
       "duration_ms": 226333,
       "name": "I Know You Rider",
       "url": "https://open.spotify.com/track/7vJAglE0Vzjgy1GyeA7Vog"
@@ -819,10 +873,28 @@
       ],
       "date_added": "2022-09-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-30",
+      "date_removed": null,
       "duration_ms": 233266,
       "name": "Love Song To A Stranger",
       "url": "https://open.spotify.com/track/29tEUK8T1WPH0jR5CHC3rf"
+    },
+    {
+      "album": {
+        "name": "Joan Baez",
+        "url": "https://open.spotify.com/album/734AFYo34Q1zRpg9N8E2Ho"
+      },
+      "artists": [
+        {
+          "name": "Joan Baez",
+          "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
+        }
+      ],
+      "date_added": "2022-10-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-05",
+      "duration_ms": 357426,
+      "name": "Mary Hamilton",
+      "url": "https://open.spotify.com/track/7rL6dZzydhWSimA6TouJ6K"
     },
     {
       "album": {
@@ -891,7 +963,7 @@
       ],
       "date_added": "2022-09-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-02",
+      "date_removed": null,
       "duration_ms": 299466,
       "name": "North Country Blues",
       "url": "https://open.spotify.com/track/3eoVxC9JXC79Ess36UJRwL"
@@ -909,7 +981,7 @@
       ],
       "date_added": "2022-09-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-29",
+      "date_removed": "2022-10-09",
       "duration_ms": 190973,
       "name": "Plaisir D' Amour",
       "url": "https://open.spotify.com/track/6sOpRCmFS2tc2sD0PVF9df"
@@ -981,7 +1053,7 @@
       ],
       "date_added": "2022-09-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-02",
+      "date_removed": "2022-10-09",
       "duration_ms": 152066,
       "name": "Silver Dagger",
       "url": "https://open.spotify.com/track/2hulWLdzjBexk2bxQpcUp7"
@@ -1039,7 +1111,7 @@
       ],
       "date_added": "2022-09-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-01",
+      "date_removed": null,
       "duration_ms": 445880,
       "name": "The Boxer",
       "url": "https://open.spotify.com/track/2wdvaWg7mqmLUDVYLOrKVJ"
@@ -1057,7 +1129,7 @@
       ],
       "date_added": "2022-09-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-02",
+      "date_removed": null,
       "duration_ms": 200866,
       "name": "The Lily Of The West",
       "url": "https://open.spotify.com/track/5PLaAHbGpQ8DVfChRG2y2b"
@@ -1147,7 +1219,7 @@
       ],
       "date_added": "2022-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 212226,
       "name": "We Shall Overcome - Live",
       "url": "https://open.spotify.com/track/3lM2es3TbqmWjOGAx35fyh"
@@ -1165,7 +1237,7 @@
       ],
       "date_added": "2022-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-09",
       "duration_ms": 271426,
       "name": "Where Have All The Flower",
       "url": "https://open.spotify.com/track/1cvf2int8YVa9KN5VQFgTL"
@@ -1219,7 +1291,7 @@
       ],
       "date_added": "2022-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-09",
       "duration_ms": 181093,
       "name": "You Ain't Goin' Nowhere",
       "url": "https://open.spotify.com/track/4ymMPQZeWVaDtpjPWC4gdX"

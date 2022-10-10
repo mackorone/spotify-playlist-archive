@@ -2,7 +2,7 @@
 
 ### [AMPLIFIKA](https://open.spotify.com/playlist/37i9dQZF1DX95vhptNy3YE)
 
-> Tz da Coronel e mais hits do momento na cultura preta brasileira, puxando o bonde pra geral ganhar o mundo.
+> Borges e mais hits do momento na cultura preta brasileira, puxando o bonde pra geral ganhar o mundo.
 
 172 songs - 9 hr 27 min - [published](https://open.spotify.com/playlist/1jX5Ne4edsz9wqa3MMSini)
 

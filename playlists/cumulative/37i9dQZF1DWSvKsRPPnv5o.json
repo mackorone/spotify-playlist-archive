@@ -694,6 +694,24 @@
     },
     {
       "album": {
+        "name": "Booty Dancer",
+        "url": "https://open.spotify.com/album/5fG5ECAPTouiAMqHiIjHrP"
+      },
+      "artists": [
+        {
+          "name": "Tyga",
+          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140982,
+      "name": "Booty Dancer",
+      "url": "https://open.spotify.com/track/4qdHoLbbIDaaWytfsBK62p"
+    },
+    {
+      "album": {
         "name": "Divine Timing",
         "url": "https://open.spotify.com/album/6fZkrQzH9f86D5Y0YLuLJu"
       },
@@ -1377,7 +1395,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 297640,
       "name": "Don't Ask, Don't Tell (feat. redveil, Sam Truth & Glen the Saiyan)",
       "url": "https://open.spotify.com/track/1TpqQGpvD1yZVdzuy4WqW8"
@@ -1593,7 +1611,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 172458,
       "name": "Drop Down (feat. KenTheMan)",
       "url": "https://open.spotify.com/track/2ZzhfMgeBjOkjFv5SXdFjz"
@@ -2045,7 +2063,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 105931,
       "name": "Go Get It",
       "url": "https://open.spotify.com/track/0CIusTSIe1WLFrIPg6ekKx"
@@ -2225,6 +2243,24 @@
       "duration_ms": 164000,
       "name": "Half A Bird",
       "url": "https://open.spotify.com/track/7zCgLfeoQqSMcRD1yCy2f2"
+    },
+    {
+      "album": {
+        "name": "Forever Da Gang",
+        "url": "https://open.spotify.com/album/1DWBzaZdbcePhYHTDOfi8p"
+      },
+      "artists": [
+        {
+          "name": "Su'Lan",
+          "url": "https://open.spotify.com/artist/5Z76BEGQXFYvZxbJx9fL4g"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145322,
+      "name": "Hands on the Floor",
+      "url": "https://open.spotify.com/track/0dXjSZ5dX51mZaynbdQeWH"
     },
     {
       "album": {
@@ -2519,10 +2555,32 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 143856,
       "name": "I Know You Feel A Way",
       "url": "https://open.spotify.com/track/46bAMGHpxHp9iHW1WMf3cW"
+    },
+    {
+      "album": {
+        "name": "Steel Alive",
+        "url": "https://open.spotify.com/album/5YhzAL9iIHO6S9gVH3PNPn"
+      },
+      "artists": [
+        {
+          "name": "Steelz",
+          "url": "https://open.spotify.com/artist/0xG8uG9nzLyuwoVIPF0xiM"
+        },
+        {
+          "name": "RJMrLA",
+          "url": "https://open.spotify.com/artist/6kQWPGBItT0oMCHZy3M9DN"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 80662,
+      "name": "I Made It",
+      "url": "https://open.spotify.com/track/2HA3yZkgrzhmUZycAlE8UP"
     },
     {
       "album": {
@@ -3273,7 +3331,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 166787,
       "name": "Maniac",
       "url": "https://open.spotify.com/track/1Ch9ij2JqH3Y9tDEnSrd0n"
@@ -3463,6 +3521,32 @@
       "duration_ms": 244422,
       "name": "Murder Music (feat. Benny The Butcher, Jadakiss, Busta Rhymes)",
       "url": "https://open.spotify.com/track/0UW2IKq84Gn29QkjbT3WNc"
+    },
+    {
+      "album": {
+        "name": "My Friends (feat. Lil Durk)",
+        "url": "https://open.spotify.com/album/2clsCCVAKCSc7PcwJ7uFLW"
+      },
+      "artists": [
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+        },
+        {
+          "name": "Mustard",
+          "url": "https://open.spotify.com/artist/0YinUQ50QDB7ZxSCLyQ40k"
+        },
+        {
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158167,
+      "name": "My Friends (feat. Lil Durk)",
+      "url": "https://open.spotify.com/track/0wTTf3msjDJ8NcZGTmQJQV"
     },
     {
       "album": {
@@ -3680,6 +3764,28 @@
     },
     {
       "album": {
+        "name": "No Hook (feat. Lil Seeto)",
+        "url": "https://open.spotify.com/album/7sLhYTUycJuLH5QnPbAOhp"
+      },
+      "artists": [
+        {
+          "name": "DaBoii",
+          "url": "https://open.spotify.com/artist/1R4jDezcLcFxrJ9PHNrbG0"
+        },
+        {
+          "name": "Lil Seeto",
+          "url": "https://open.spotify.com/artist/6Tcv81NwhshAZnSsoJT0WI"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166060,
+      "name": "No Hook (feat. Lil Seeto)",
+      "url": "https://open.spotify.com/track/4ikk1yL6ZNCCCTITIEV6MC"
+    },
+    {
+      "album": {
         "name": "I GOT ISSUES",
         "url": "https://open.spotify.com/album/4fu0jN1IzoaXgzCfqdjOjJ"
       },
@@ -3691,7 +3797,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 206630,
       "name": "No Love",
       "url": "https://open.spotify.com/track/13UEaHxxvvu7WIVcIfsKaN"
@@ -3957,7 +4063,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 164158,
       "name": "Open Arms",
       "url": "https://open.spotify.com/track/2aKdhAWm1SX4B7KY5QuGB6"
@@ -4159,6 +4265,24 @@
       "duration_ms": 191887,
       "name": "Play 4 Keeps",
       "url": "https://open.spotify.com/track/0YIpHx7S2Y3Xg75aWdtsHf"
+    },
+    {
+      "album": {
+        "name": "Politics",
+        "url": "https://open.spotify.com/album/3GYdWkyO494FsxVOm4D6YC"
+      },
+      "artists": [
+        {
+          "name": "Yhung T.O.",
+          "url": "https://open.spotify.com/artist/1Yss4ClgrS9sIprNlq5O3l"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165781,
+      "name": "Politics",
+      "url": "https://open.spotify.com/track/05qqgspXrDuKexaw0iO0kI"
     },
     {
       "album": {
@@ -4549,7 +4673,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 186122,
       "name": "Say Lady",
       "url": "https://open.spotify.com/track/0DxmOT2FElosMIw0LHerwC"
@@ -4786,6 +4910,32 @@
     },
     {
       "album": {
+        "name": "I GOT ISSUES",
+        "url": "https://open.spotify.com/album/4fu0jN1IzoaXgzCfqdjOjJ"
+      },
+      "artists": [
+        {
+          "name": "YG",
+          "url": "https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY"
+        },
+        {
+          "name": "Roddy Ricch",
+          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
+        },
+        {
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253913,
+      "name": "Sober (feat. Roddy Ricch & Post Malone)",
+      "url": "https://open.spotify.com/track/0AzqJBVMdHP9ijAadQ0T18"
+    },
+    {
+      "album": {
         "name": "Soccer Dad",
         "url": "https://open.spotify.com/album/3ZKzd6YDXHItIxx83IxXIS"
       },
@@ -4979,7 +5129,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 188964,
       "name": "Sunshine",
       "url": "https://open.spotify.com/track/54NBD72JXFXzrodbQBSzWh"
@@ -5075,6 +5225,42 @@
       "duration_ms": 225350,
       "name": "Talk To Me Nice (Feat. Meek Mill, Moneybagg Yo & Blxst)",
       "url": "https://open.spotify.com/track/1FayZGI8Bm3R0sKWNsm1gV"
+    },
+    {
+      "album": {
+        "name": "Impostor Syndrome",
+        "url": "https://open.spotify.com/album/074Nlnf3EYwLgop0k5Lay6"
+      },
+      "artists": [
+        {
+          "name": "AG Club",
+          "url": "https://open.spotify.com/artist/22KyrgRdE2K6aB5wtZls3c"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151400,
+      "name": "Tattoo",
+      "url": "https://open.spotify.com/track/4azcJZucw55aWmad1redPa"
+    },
+    {
+      "album": {
+        "name": "Teach U How To Play",
+        "url": "https://open.spotify.com/album/4R09J6lWN5YfS8gEjHbQeQ"
+      },
+      "artists": [
+        {
+          "name": "Day Sulan",
+          "url": "https://open.spotify.com/artist/5wrJuArO5sOmhl2QJ1Z0sk"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134400,
+      "name": "Teach U How To Play",
+      "url": "https://open.spotify.com/track/4iiwARZ0XDDG70UvL0skme"
     },
     {
       "album": {

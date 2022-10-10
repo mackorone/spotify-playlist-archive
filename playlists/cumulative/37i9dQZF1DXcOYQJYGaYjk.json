@@ -260,6 +260,24 @@
     },
     {
       "album": {
+        "name": "Best at Being the Worst",
+        "url": "https://open.spotify.com/album/7bMF7TAiaTukL81wkGq3QB"
+      },
+      "artists": [
+        {
+          "name": "Unlike Pluto",
+          "url": "https://open.spotify.com/artist/4zjO8Jhi2pciJJzd8Q6rga"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240203,
+      "name": "Best at Being the Worst",
+      "url": "https://open.spotify.com/track/5icnQhZE9x54UqAxBK9po3"
+    },
+    {
+      "album": {
         "name": "Causa",
         "url": "https://open.spotify.com/album/0igZfXDTXbiGovhw9w4mxU"
       },
@@ -2409,10 +2427,28 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-07",
       "duration_ms": 203586,
       "name": "The Dying Song (Time To Sing)",
       "url": "https://open.spotify.com/track/5Lqk8Z6MnfIyeTchmMaPEG"
+    },
+    {
+      "album": {
+        "name": "The End, So Far",
+        "url": "https://open.spotify.com/album/3hWTXO0w02D6YpVRyLRmQz"
+      },
+      "artists": [
+        {
+          "name": "Slipknot",
+          "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
+        }
+      ],
+      "date_added": "2022-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203586,
+      "name": "The Dying Song (Time To Sing)",
+      "url": "https://open.spotify.com/track/6rsoBvxrlxdmqJyGPPciyq"
     },
     {
       "album": {
@@ -2579,7 +2615,7 @@
       ],
       "date_added": "2022-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 242066,
       "name": "The Sinner",
       "url": "https://open.spotify.com/track/4SAeLRKTvdvEKUvpYIoBzT"

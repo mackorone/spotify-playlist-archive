@@ -19,7 +19,7 @@
       ],
       "date_added": "2022-09-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-30",
+      "date_removed": null,
       "duration_ms": 177440,
       "name": "Any Way You Want It",
       "url": "https://open.spotify.com/track/6BHShslmpVCHLvxahvRLf7"
@@ -109,7 +109,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-02",
+      "date_removed": "2022-10-09",
       "duration_ms": 154200,
       "name": "Blind",
       "url": "https://open.spotify.com/track/0hpo6LuKFOGzXYald8qr9m"
@@ -127,7 +127,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-01",
+      "date_removed": null,
       "duration_ms": 246933,
       "name": "Bridges",
       "url": "https://open.spotify.com/track/4NY0rkhWqRGCEnnJdYvZO1"
@@ -217,7 +217,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-07",
       "duration_ms": 224973,
       "name": "Forfeit",
       "url": "https://open.spotify.com/track/2DFmAghYvS0NuF9dpQWQaV"
@@ -440,6 +440,24 @@
     },
     {
       "album": {
+        "name": "The Black Market",
+        "url": "https://open.spotify.com/album/65jmbHYm42IEATHEJCbKgC"
+      },
+      "artists": [
+        {
+          "name": "Rise Against",
+          "url": "https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-09",
+      "duration_ms": 228706,
+      "name": "Methadone",
+      "url": "https://open.spotify.com/track/6fm3OYthTpXiWqmlFGQhUR"
+    },
+    {
+      "album": {
         "name": "The Ghost Note Symphonies, Vol.1",
         "url": "https://open.spotify.com/album/6Q5roPzwOZwZ3mOzOU47Wl"
       },
@@ -635,6 +653,42 @@
       "duration_ms": 242280,
       "name": "Savior",
       "url": "https://open.spotify.com/track/1vcxF91pWs9uNwDROuiCPB"
+    },
+    {
+      "album": {
+        "name": "Nowhere Generation",
+        "url": "https://open.spotify.com/album/4t8eylrNR3Z5kYc7VEENLW"
+      },
+      "artists": [
+        {
+          "name": "Rise Against",
+          "url": "https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-08",
+      "duration_ms": 214053,
+      "name": "Sooner Or later",
+      "url": "https://open.spotify.com/track/34XNNFplrGgjlVUS97EMeI"
+    },
+    {
+      "album": {
+        "name": "Siren Song Of The Counter-Culture",
+        "url": "https://open.spotify.com/album/1vHYkIhnwbpzrC3hGguDN6"
+      },
+      "artists": [
+        {
+          "name": "Rise Against",
+          "url": "https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O"
+        }
+      ],
+      "date_added": "2022-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139133,
+      "name": "State Of The Union",
+      "url": "https://open.spotify.com/track/0WDvAKN1wzjNya2xxjh9nq"
     },
     {
       "album": {
@@ -973,7 +1027,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 278346,
       "name": "Zero Visibility",
       "url": "https://open.spotify.com/track/4JnWKLgb2iCU7XdmKLQr2e"

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-24",
-  "description": "Entre os versos e beats, a palavra do Senhor. Foto: Samuel Shikoba, SAMU\u00c9U",
+  "description": "Entre os versos e beats, a palavra do Senhor. Foto: VICTIN",
   "name": "Gospel Flow",
   "published_playlist_ids": [
     "3j1tW8qwWrXfBEybLADTJk"
@@ -19,7 +19,7 @@
       ],
       "date_added": "2022-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 199338,
       "name": "10 Anos",
       "url": "https://open.spotify.com/track/6FN0YpMMkDM3ziaH14MC9m"
@@ -1760,6 +1760,32 @@
     },
     {
       "album": {
+        "name": "O Pre\u00e7o",
+        "url": "https://open.spotify.com/album/4dpgxFCXibZZsHqZhc07yU"
+      },
+      "artists": [
+        {
+          "name": "C. Braga",
+          "url": "https://open.spotify.com/artist/5vatyKN28NkojtJkfg9fTp"
+        },
+        {
+          "name": "Trindade Records",
+          "url": "https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9"
+        },
+        {
+          "name": "Love Funk",
+          "url": "https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202105,
+      "name": "O Pre\u00e7o",
+      "url": "https://open.spotify.com/track/75ElCpWWG587b1qVhW4uun"
+    },
+    {
+      "album": {
         "name": "O \u00danico",
         "url": "https://open.spotify.com/album/3BjqoK95j0hdBWLludsc2S"
       },
@@ -1911,7 +1937,7 @@
           "url": "https://open.spotify.com/artist/2C8xiQfIDWO4nKxfMZoL2c"
         },
         {
-          "name": "Dj Alle mark",
+          "name": "DJ Alle Mark",
           "url": "https://open.spotify.com/artist/7wik2rNV6wtZP98hHaspHQ"
         }
       ],

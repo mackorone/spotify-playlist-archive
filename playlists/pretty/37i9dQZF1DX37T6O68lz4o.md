@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37T6O68lz4o.md) - [plain]
 
 > New England music breaking waves\. Cover, Stefan Thev
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,127 likes - 50 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,134 likes - 50 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Rey Mysterio](https://open.spotify.com/track/5lMANswgAGvs6C8lUIQHxH) | [Khary](https://open.spotify.com/artist/4489Zgs4RNq2ZtSh3UnOxZ) | [Rey Mysterio](https://open.spotify.com/album/06qkxi5dRtOx8Wtzu0XSc5) | 2:26 |
-| 2 | [FOUL](https://open.spotify.com/track/1vSswbc405HtunKunj9UnM) | [Van Buren Records](https://open.spotify.com/artist/2T6EOVQ5lAQc64poyLnXmj), [Luke Bar$](https://open.spotify.com/artist/6CGyB4PAg5rEyzeGumZrjr), [Meech BOLD](https://open.spotify.com/artist/3kv1DL4qsFPk2cPvfCqxrE), [Jiles](https://open.spotify.com/artist/7pnz0G9l89KK5iC6Beevcx), [FELIX](https://open.spotify.com/artist/6amRmqHeGwQAMZMOT5Xlrs) | [FOUL](https://open.spotify.com/album/2eQtXkKau6EcdDERcC2vPS) | 4:34 |
+| 2 | [FOUL](https://open.spotify.com/track/1vSswbc405HtunKunj9UnM) | [Van Buren Records](https://open.spotify.com/artist/2T6EOVQ5lAQc64poyLnXmj), [Luke Bar$](https://open.spotify.com/artist/6CGyB4PAg5rEyzeGumZrjr), [Meech BOLD](https://open.spotify.com/artist/3kv1DL4qsFPk2cPvfCqxrE), [Jiles](https://open.spotify.com/artist/7pnz0G9l89KK5iC6Beevcx), [FELIX!](https://open.spotify.com/artist/1DN9Pgv4fiAaRSSgiisj5G) | [FOUL](https://open.spotify.com/album/2eQtXkKau6EcdDERcC2vPS) | 4:34 |
 | 3 | [Lord Flow](https://open.spotify.com/track/5me40Wxw2M3Ubpcac1w8Mo) | [King OSF](https://open.spotify.com/artist/5VYWaw1z5luk9NZqMIX2fh) | [Lord Flow](https://open.spotify.com/album/4dAIVG07ZNhZvlt6ToMgWU) | 2:43 |
 | 4 | [Fly Sh!t](https://open.spotify.com/track/3HbMXSKuTdKWChpvMIKhg5) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Fly Sh!t](https://open.spotify.com/album/38tlAzTpYRs5lL14yBjLxj) | 2:15 |
 | 5 | [DELIVER!](https://open.spotify.com/track/6jhTj4vy4vD7n5EIFbuqJv) | [JELEEL!](https://open.spotify.com/artist/1FX1BFU0DbHRYgKP83pA0d) | [DELIVER!](https://open.spotify.com/album/2qHsiqMMKZAHysnRzYfmOn) | 1:49 |
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37T6O68lz4o.md) - [plain]
 | 22 | [ALL FOR NOTHING](https://open.spotify.com/track/2L9SA0p0eO7eBOwhtYHhMh) | [HENNESSY](https://open.spotify.com/artist/0d3nLtBfguQFq20JzWSlIW) | [ALL FOR NOTHING](https://open.spotify.com/album/5rFRG1dYVsZSJv2SRITNZS) | 3:50 |
 | 23 | [Gone](https://open.spotify.com/track/37Deh2p4aLdEtQHXtm7AOE) | [Cousin Stizz](https://open.spotify.com/artist/0KpCz7V5XRkqKuM1JDf56O) | [Just For You](https://open.spotify.com/album/5gl8AaOhNL60AcYk2JLEE3) | 2:35 |
 | 24 | [Shaquille O'Neal](https://open.spotify.com/track/1pn2A373ZsEUyX1FtEccOZ) | [Michael Christmas](https://open.spotify.com/artist/1POk07q5vJ4NcdOgkLyPzp), [Ricky Felix](https://open.spotify.com/artist/6fCDrr1iHSs1lmuJQ7cI6W) | [Christmas in 6](https://open.spotify.com/album/5rDayfk2s1XFr2Em7cnjGY) | 2:08 |
-| 25 | [War Mode](https://open.spotify.com/track/0WsmublUjkN9iSiat5tpUN) | [Van Buren Records](https://open.spotify.com/artist/2T6EOVQ5lAQc64poyLnXmj), [FELIX](https://open.spotify.com/artist/6amRmqHeGwQAMZMOT5Xlrs), [SAINT LYOR](https://open.spotify.com/artist/0pltaFx5l05YFrswlNEafU), [Jiles](https://open.spotify.com/artist/7pnz0G9l89KK5iC6Beevcx) | [DSM](https://open.spotify.com/album/1p94kHVfSZ6nGQdsWJlvol) | 4:19 |
+| 25 | [War Mode](https://open.spotify.com/track/0WsmublUjkN9iSiat5tpUN) | [Van Buren Records](https://open.spotify.com/artist/2T6EOVQ5lAQc64poyLnXmj), [FELIX!](https://open.spotify.com/artist/1DN9Pgv4fiAaRSSgiisj5G), [SAINT LYOR](https://open.spotify.com/artist/0pltaFx5l05YFrswlNEafU), [Jiles](https://open.spotify.com/artist/7pnz0G9l89KK5iC6Beevcx) | [DSM](https://open.spotify.com/album/1p94kHVfSZ6nGQdsWJlvol) | 4:19 |
 | 26 | [Sold A Dream](https://open.spotify.com/track/0N94f0ZsUmtO75CUbZ0JyC) | [JuS CODE](https://open.spotify.com/artist/433OVAzQuqubUN9KFvLTDB) | [CODE Story 2](https://open.spotify.com/album/1eWvDVv6LjaLwB1SDZxtcl) | 2:31 |
 | 27 | [Ye Not Crazy](https://open.spotify.com/track/70jjParnrP2X3mOVkoljGE) | [Joyner Lucas](https://open.spotify.com/artist/6C1ohJrd5VydigQtaGy5Wa) | [Ye Not Crazy](https://open.spotify.com/album/19KpEHCcxkTNQWm0O0aa9w) | 3:46 |
 | 28 | [Come Find Me](https://open.spotify.com/track/01uqWW7DLwj0L7DCq9yX34) | [Olu Vibez](https://open.spotify.com/artist/4gWss5WLhs76gUsFACX7Rz), [Israel Wusu](https://open.spotify.com/artist/7v9HwZnQWL9zfACSgDqz3f) | [Come Find Me](https://open.spotify.com/album/2XQzzUca8vgM20qmAek72T) | 2:31 |

@@ -4,7 +4,7 @@
 
 > Key words: Contemporary pop, legends, country music \- and something in between\. Just good tunes!
 
-103 songs - 6 hr 28 min - [published](https://open.spotify.com/playlist/3T7FuaCHpe9xluTwkrgztG)
+104 songs - 6 hr 32 min - [published](https://open.spotify.com/playlist/3T7FuaCHpe9xluTwkrgztG)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,7 +68,7 @@
 | [Let Me Know](https://open.spotify.com/track/3Yeey7zLzWwpyw83Ypwnlm) | [Winona Oak](https://open.spotify.com/artist/3XC57xz74X3xUi1hv4mge1) | [Let Me Know](https://open.spotify.com/album/4yM1WvRo2WYOeSYKYJdknF) | 2:55 | 2019-11-29 | 2022-07-28 |
 | [Let Me Know](https://open.spotify.com/track/0HT2pC2Wcl2GGyDTcCWpLU) | [Winona Oak](https://open.spotify.com/artist/3XC57xz74X3xUi1hv4mge1) | [CLOSURE](https://open.spotify.com/album/6ujQJTTGKCCPdFjeTI4bIh) | 2:56 | 2019-11-29 |  |
 | [Light On](https://open.spotify.com/track/7oDksGjePXQW8RlGXnfv8Q) | [Lighthouse Family](https://open.spotify.com/artist/6edGSAX5dVpeJVwu1Q0NwJ) | [Light On](https://open.spotify.com/album/6yO3xjbNgtCnJEhoqW438h) | 4:48 | 2019-11-29 | 2022-07-29 |
-| [Loves Missing](https://open.spotify.com/track/78W2JgujSHp98M87UJkcjM) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Free](https://open.spotify.com/album/2aRxolqVA2v2TFeuWPIuEI) | 4:19 | 2019-11-29 |  |
+| [Loves Missing](https://open.spotify.com/track/78W2JgujSHp98M87UJkcjM) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Free](https://open.spotify.com/album/2aRxolqVA2v2TFeuWPIuEI) | 4:19 | 2019-11-29 | 2022-10-08 |
 | [Loves Missing](https://open.spotify.com/track/4ZxEF6c6dHYiRkGQjsZEY5) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Free](https://open.spotify.com/album/7BLKzTgaj5fHkNpSPGwjwh) | 4:19 | 2019-11-29 | 2022-07-29 |
 | [More Than Friends \(feat\. Meghan Trainor\)](https://open.spotify.com/track/2Eowpnfjs5iXP8OLToAOYA) | [Jason Mraz](https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl), [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [More Than Friends \(feat\. Meghan Trainor\)](https://open.spotify.com/album/5E6dG2q42szysfESYn40FL) | 3:01 | 2019-11-29 |  |
 | [My Love Goes On \(feat\. Joss Stone\)](https://open.spotify.com/track/0irDfV3ctQGVN69ograYiK) | [James Morrison](https://open.spotify.com/artist/3LpLGlgRS1IKPPwElnpW35), [Joss Stone](https://open.spotify.com/artist/7bvcQXJHkFiN1ppIN3q4fi) | [My Love Goes On \(feat\. Joss Stone\)](https://open.spotify.com/album/3Cq3SXwDWPgfurTBArted5) | 3:36 | 2019-11-29 |  |
@@ -89,6 +89,7 @@
 | [Sanremo](https://open.spotify.com/track/1tH4JALrku66weg6Bx5fC9) | [MIKA](https://open.spotify.com/artist/5MmVJVhhYKQ86izuGHzJYA) | [My Name Is Michael Holbrook](https://open.spotify.com/album/4bVlbOipapiqrTusSsgvIc) | 3:24 | 2019-11-29 |  |
 | [Shallow \- Radio Edit](https://open.spotify.com/track/6QfS2wq5sSC1xAJCQsTSlj) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Bradley Cooper](https://open.spotify.com/artist/4VIvfOurcf0vuLRxLkGnIG) | [A Star Is Born Soundtrack \(Without Dialogue\)](https://open.spotify.com/album/3edjzMAVB9RYRd4UcZBchx) | 3:37 | 2019-11-29 |  |
 | [Shame](https://open.spotify.com/track/6pvVzR8VcSQol4EbaUrN0e) | [Elle King](https://open.spotify.com/artist/3bhu7P5PfngueRHiB9hjcx) | [Shake The Spirit](https://open.spotify.com/album/0YYboPBsKcVDrXiNfNIi7o) | 2:39 | 2019-11-29 |  |
+| [Shine A Light](https://open.spotify.com/track/3ScCe5tFbRmWdiOdzmaFzr) | [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc) | [Shine A Light](https://open.spotify.com/album/5Y3mOR1wCRhEhUmncrlLOO) | 3:26 | 2019-11-29 |  |
 | [Shine A Light](https://open.spotify.com/track/5PmLbCVmKuwNY2xf1QxC3p) | [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc) | [Shine A Light](https://open.spotify.com/album/2ZSVSk6sRCUdtXuuyKPOYc) | 3:26 | 2019-11-29 | 2022-07-29 |
 | [Slow Lightning](https://open.spotify.com/track/16Ynw2v7a42zj7O11elBw9) | [Sister Hazel](https://open.spotify.com/artist/7m60UAnbgFFNuJbmS6OxTk) | [Earth](https://open.spotify.com/album/6rsqchlgnPXpoaJJTHcu3B) | 3:32 | 2019-11-29 | 2022-07-29 |
 | [Sonali](https://open.spotify.com/track/4X00ADY8fKBjOZxfwRQeIF) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Sonali](https://open.spotify.com/album/3ZZUm7c3lOzRtmWxFf59tX) | 3:30 | 2019-11-29 | 2022-07-28 |

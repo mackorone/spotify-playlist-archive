@@ -2,9 +2,9 @@
 
 ### [Pop Gospel](https://open.spotify.com/playlist/37i9dQZF1DWXia8adWhIq7)
 
-> Ouça as novidades e sucessos do Pop Cristão\. Foto: Leidy Murilho
+> Ouça as novidades e sucessos do Pop Cristão\. Foto: Gabriela Gomes
 
-80 songs - 4 hr 55 min - [published](https://open.spotify.com/playlist/4QDjpH3HmVOxtM4Kgm7yQa)
+81 songs - 4 hr 59 min - [published](https://open.spotify.com/playlist/4QDjpH3HmVOxtM4Kgm7yQa)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [Agora](https://open.spotify.com/track/5EewDYykR42DHWCcRh2wO2) | [Leif Bessa](https://open.spotify.com/artist/7AXkzxHwKWcrSmdAJ5e5WV), [Salomão](https://open.spotify.com/artist/7yIo15qboa9gHCtqK7cOLx), [DD Junior](https://open.spotify.com/artist/27Q8Sho6z3yHCCqwHJull0) | [Agora](https://open.spotify.com/album/4U92cEpwlKPbTOc1lwImMn) | 3:16 | 2022-08-05 |  |
 | [Amado](https://open.spotify.com/track/6fGwm1Qb7MkW9PEy5v4SEV) | [Duo Franco](https://open.spotify.com/artist/0rnMMhoMmFkyFZe4dNY29b), [Marcelo Markes](https://open.spotify.com/artist/6SuvEQMnKI1I4rfErcOdi2) | [Amado](https://open.spotify.com/album/373Qpp1O7HijqwAIMNO8VE) | 4:10 | 2022-08-05 |  |
 | [Amor Leal](https://open.spotify.com/track/6rrbLn49jsw8sdcCqdFgbN) | [Lari Macário](https://open.spotify.com/artist/5AdvNG5bNSx9lKOj7Tj5ck), [Alexandre Magnani](https://open.spotify.com/artist/6mTGdkHV5pKO7VHGMuiKGu), [Dani Aguiar](https://open.spotify.com/artist/774uYXQYFkSEs4TvjM2lZA) | [Amor Leal](https://open.spotify.com/album/2XNWrlxoCDchGediXzLTRd) | 3:02 | 2022-08-05 |  |
+| [Amor Maior](https://open.spotify.com/track/6NaE0m9L89zJ8uO6nfySvx) | [Tamara Pyller](https://open.spotify.com/artist/20vcBBOWdZLyUo297CcBGO) | [Ao Que É Até Meu Último Suspiro](https://open.spotify.com/album/47jB9qef9k3HiK5elsfhQj) | 3:43 | 2022-10-08 |  |
 | [Ao Teu Lado \- Acústico](https://open.spotify.com/track/1uP31TFAG8a4VGwpE7w3yT) | [Esther Marcos](https://open.spotify.com/artist/2japccldZ12nJnpI9eJ7gF) | [Ao Teu Lado \(Acústico\)](https://open.spotify.com/album/0u1E6iC4UA69cVBHFSBkjk) | 3:42 | 2022-08-05 |  |
 | [Apenas Canção](https://open.spotify.com/track/43ZMXD6nz8fDresDGJWcFV) | [Patricia Romania](https://open.spotify.com/artist/0ffURL6H2AXKNqc2yvTN5K), [Delino Marçal](https://open.spotify.com/artist/0MGbmpBm2Gzvy6ENd9D1qv) | [Apenas Canção](https://open.spotify.com/album/7JfcTaZohCXrarbXMox1Cg) | 4:26 | 2022-08-05 |  |
 | [Aprendiz](https://open.spotify.com/track/4RDgS8EhKnfbI1d4LQQT1q) | [Clovis](https://open.spotify.com/artist/703PFYg5UbYSaUKry9NWhF), [Claudia Leitte](https://open.spotify.com/artist/2OjoIDVPQKT9B7loZbPEfp) | [Aprendiz](https://open.spotify.com/album/4WVhaUNsM0PBmdzDOwZDAg) | 3:42 | 2022-08-05 |  |
@@ -82,7 +83,7 @@
 | [Tua Graça](https://open.spotify.com/track/0CzdBHBIMdChN40eKy9fbP) | [Carol Aguiar](https://open.spotify.com/artist/6UWc0mUbFhZyW5VZbY2w4m) | [Tua Graça](https://open.spotify.com/album/3HrKiqGRAM85QQNtH81ywu) | 3:55 | 2022-08-05 |  |
 | [Tudo](https://open.spotify.com/track/5wbSVolmtQA6kodui95x40) | [Gabriela Gomes](https://open.spotify.com/artist/2e84TbIwlMbSgm1CO6chyE) | [SL.27.4](https://open.spotify.com/album/1dRT83wTKwey6FeWv177iy) | 3:57 | 2022-08-05 |  |
 | [Um Novo Lugar](https://open.spotify.com/track/1CFcWP4avTVNTJyS0v1nuC) | [Duo Franco](https://open.spotify.com/artist/0rnMMhoMmFkyFZe4dNY29b) | [Um Novo Lugar](https://open.spotify.com/album/25xop1SdYHlViPxywAyWTP) | 3:01 | 2022-08-05 |  |
-| [Vem Com Teu Espírito](https://open.spotify.com/track/5eLUik7N6bsWvQ2rKPA7xz) | [Tomatti](https://open.spotify.com/artist/6QSaldbCVLPl1QYQFYALrR) | [Vem Com Teu Espírito](https://open.spotify.com/album/2Zci8Uw9pwTctGoaorDbVj) | 2:48 | 2022-08-05 |  |
+| [Vem Com Teu Espírito](https://open.spotify.com/track/5eLUik7N6bsWvQ2rKPA7xz) | [Tomatti](https://open.spotify.com/artist/6QSaldbCVLPl1QYQFYALrR) | [Vem Com Teu Espírito](https://open.spotify.com/album/2Zci8Uw9pwTctGoaorDbVj) | 2:48 | 2022-08-05 | 2022-10-08 |
 | [Vida Leve](https://open.spotify.com/track/3GISbYrRNr8z9nbJRdeX1g) | [Talita Barreto](https://open.spotify.com/artist/6hCE1qcuALXMkltFGrEM6Y) | [Acústico Talita Barreto](https://open.spotify.com/album/4Sz7dZPt2bFoc9V0ujUe1K) | 2:16 | 2022-08-05 |  |
 | [Vida Leve](https://open.spotify.com/track/7jb65juKqmYcQg5qXhJSVw) | [Talita Barreto](https://open.spotify.com/artist/6hCE1qcuALXMkltFGrEM6Y) | [Vida Leve](https://open.spotify.com/album/08ujgEoWflIBTXaf0T5XUl) | 2:56 | 2022-08-05 |  |
 | [Você Acredita?](https://open.spotify.com/track/1HJ0nfxiaOGKewT5banSjb) | [Clovis](https://open.spotify.com/artist/703PFYg5UbYSaUKry9NWhF) | [Você Acredita?](https://open.spotify.com/album/2iYsPUuXs2GPQwUksocbBa) | 3:14 | 2022-08-05 |  |

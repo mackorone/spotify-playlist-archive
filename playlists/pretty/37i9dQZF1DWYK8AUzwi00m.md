@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYK8AUzwi00m.md) - [plain]
 
 > have yourself a chill and lofi xmas
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,541 likes - 112 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,806 likes - 112 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYK8AUzwi00m.md) - [plain]
 | 23 | [Deck the Lofi Halls](https://open.spotify.com/track/1X5Y2ONMvGzfkhHEyeJ4ZU) | [Chillchief](https://open.spotify.com/artist/6rzaAMP3jPVJjfuRUdlpIw) | [A Short Album With Christmas Songs but Lofi](https://open.spotify.com/album/1PQSTaySOgGqHgTHPEeUL8) | 3:03 |
 | 24 | [Winter Wonderland](https://open.spotify.com/track/5doXKZRmtUoMRL1vVEMd55) | [Soft Eyez](https://open.spotify.com/artist/6ojMQVQeJuZ8PGwHoIO4fT) | [Winter Wonderland](https://open.spotify.com/album/3ZE7dFb01zw9k7SuZTNDo8) | 1:52 |
 | 25 | [We Wish You a Merry Christmas](https://open.spotify.com/track/6itPsWk0k1sd6yffGoqR30) | [Timothy Infinite](https://open.spotify.com/artist/4rhZUbGllLmyrhbB9g2ZbX) | [We Wish You a Merry Christmas](https://open.spotify.com/album/4JZcGUYRVwgTXmG5iUVyVU) | 2:13 |
-| 26 | [It's Snowing Outside](https://open.spotify.com/track/1N0GS46qGpwDNohfAsn9wj) | [Pusaloa](https://open.spotify.com/artist/6fCE48c53nH0iHGaXHNNpE) | [A Christmas Tale](https://open.spotify.com/album/3ABLquk4WVfZvo7tdQpBPM) | 2:13 |
+| 26 | [It's Snowing Outside](https://open.spotify.com/track/5oLf8u96mITUpx9Bwxqyww) | [Pusaloa](https://open.spotify.com/artist/6fCE48c53nH0iHGaXHNNpE) | [A Christmas Tale](https://open.spotify.com/album/28akD7EJeH8H29YcvS9fRd) | 2:14 |
 | 27 | [It's Beginning to look a lot like Christmas](https://open.spotify.com/track/4zZ0lH4eRt8cvD2t3h9tcs) | [Iván Rosa](https://open.spotify.com/artist/7i6BoVBVFvAbmIOT7GDvDF) | [Otra Navidad Lo\-Fi en México](https://open.spotify.com/album/15ZmZRWGFgikieNcj2l0Nu) | 2:48 |
 | 28 | [Let It Snow](https://open.spotify.com/track/6E8zwx9pDjufnHaldsBRdl) | [Cruel Buddhist](https://open.spotify.com/artist/54lvPJJ966M1TPYz0ccBdX) | [A Lofi Christmas, Vol\. 2](https://open.spotify.com/album/0ZspmtfSbC2i4PTGtwZRMP) | 2:00 |
 | 29 | [Sad Christmas](https://open.spotify.com/track/29YiYdVtTiELW6UO5Es59x) | [Justnormal](https://open.spotify.com/artist/2YCz7aHoRoAZ435UDLOKOs) | [Not Your Normal Christmas](https://open.spotify.com/album/3qOW1s02oYct01T5zpmyB3) | 2:11 |
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYK8AUzwi00m.md) - [plain]
 | 35 | [Snowfall](https://open.spotify.com/track/5tn0g0j6ksRufhK0RI33r8) | [Idealism](https://open.spotify.com/artist/6YJ4EgQzDfJnIHRbqIHAdD) | [Chillhop Essentials Winter 2016](https://open.spotify.com/album/57bNPwHszlEe7xhSWG2qvJ) | 2:56 |
 | 36 | [Jazz Christmas](https://open.spotify.com/track/2uQqLMwJdzjUm6bfrQSt56) | [Grakch](https://open.spotify.com/artist/0WF4RZFPpsA3ALDjF8qFFw) | [Jazz Christmas](https://open.spotify.com/album/35w5gduX4ljSm2fbKA2g7B) | 1:53 |
 | 37 | [What Christmas Is About](https://open.spotify.com/track/7GpvUiZSf6BvZrxwn3xMcr) | [Linearwave](https://open.spotify.com/artist/2wIeBTEs0AsPb74kYdEcNk) | [A Lofi Christmas](https://open.spotify.com/album/2rKDNlNJ3jYuWY8Sl1yYqx) | 2:08 |
-| 38 | [Cherish Every Moment](https://open.spotify.com/track/0AeqHfQ1WNfTzfLo3b8B6x) | [Hevi](https://open.spotify.com/artist/4vv1FFVqxnHyQFLmWxjizb) | [A Christmas Tale](https://open.spotify.com/album/3ABLquk4WVfZvo7tdQpBPM) | 1:38 |
+| 38 | [Cherish Every Moment](https://open.spotify.com/track/7L7jIuLqLIjvliJv03AAVv) | [Hevi](https://open.spotify.com/artist/4vv1FFVqxnHyQFLmWxjizb) | [A Christmas Tale](https://open.spotify.com/album/28akD7EJeH8H29YcvS9fRd) | 1:38 |
 | 39 | [Reindeer Sweater](https://open.spotify.com/track/2Ba3w0cniTGYIh2sgmyDPm) | [Frook](https://open.spotify.com/artist/2H7d3jFAzn7cP11A1c37en) | [Mistle Bro](https://open.spotify.com/album/5OuHMmDorkpBls82Pyo8rC) | 2:13 |
 | 40 | [Rodolfo el reno](https://open.spotify.com/track/4cO791Mb6k2Oml1sskXP2C) | [Iván Rosa](https://open.spotify.com/artist/7i6BoVBVFvAbmIOT7GDvDF) | [Otra Navidad Lo\-Fi en México](https://open.spotify.com/album/15ZmZRWGFgikieNcj2l0Nu) | 2:32 |
 | 41 | [Have Yourself a Very Lofi Christmas](https://open.spotify.com/track/7su98ziiskUZJIOzXRNMV3) | [Akira The Don](https://open.spotify.com/artist/14ep6TM2JzapH5nk7vaora) | [Lofi Christmas 2](https://open.spotify.com/album/4qxnUYP1NIaeyYY3L758lW) | 4:16 |
@@ -98,7 +98,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYK8AUzwi00m.md) - [plain]
 | 88 | [Sleigh Ride](https://open.spotify.com/track/2gqTbaSkxI9Sf1HJbqIAKG) | [Zzcenic](https://open.spotify.com/artist/0ZEozBSxUxi99LJmOE3qOL) | [Sleigh Ride](https://open.spotify.com/album/1XAEuf6sDw8lR0RmLzUzJL) | 2:35 |
 | 89 | [Hot Chocolate by the Fireplace](https://open.spotify.com/track/6oeDVbf56LkSeqFgNwgqEu) | [Linearwave](https://open.spotify.com/artist/2wIeBTEs0AsPb74kYdEcNk) | [A Lofi Christmas](https://open.spotify.com/album/2rKDNlNJ3jYuWY8Sl1yYqx) | 2:01 |
 | 90 | [Jingle Jawn](https://open.spotify.com/track/17ydJLhjI4Vp2XXj2TkdwH) | [Dylan Sitts](https://open.spotify.com/artist/6quCxsPM8fOxowmqOx5j93) | [Xmas With Me](https://open.spotify.com/album/4VKGf40gN7OI3lrkXFQpCz) | 2:13 |
-| 91 | [Santa Vibe](https://open.spotify.com/track/6sMQOPi6P05lI8RgnczToj) | [JazzyCal](https://open.spotify.com/artist/2xJEE7AyFH4DwefFkWjcPd) | [A Christmas Tale](https://open.spotify.com/album/3ABLquk4WVfZvo7tdQpBPM) | 2:17 |
+| 91 | [Santa Vibe](https://open.spotify.com/track/6naWvP6zAPpNam8GhQrYf1) | [JazzyCal](https://open.spotify.com/artist/2xJEE7AyFH4DwefFkWjcPd) | [A Christmas Tale](https://open.spotify.com/album/28akD7EJeH8H29YcvS9fRd) | 2:17 |
 | 92 | [merry christmas](https://open.spotify.com/track/0b68v7CtjEcjTCHUjOnhmD) | [greenface](https://open.spotify.com/artist/2aTEuIyczpLxQw9I0UiEFL) | [orange blue](https://open.spotify.com/album/3ThHnxWZkHeOUmGNOzPxEW) | 1:36 |
 | 93 | [Cold Outside](https://open.spotify.com/track/7hMhj5g6z8H70PFG78fqWl) | [Gregory David](https://open.spotify.com/artist/3y4uq4TWyejft9xWsofxTp) | [Xmas in \(\(stereo\)\)](https://open.spotify.com/album/2yp2d2MkvZKQkvfRSZy9Rt) | 2:46 |
 | 94 | [Silent night](https://open.spotify.com/track/0JvSuva1K3GR4TbeyjFpvq) | [Iván Rosa](https://open.spotify.com/artist/7i6BoVBVFvAbmIOT7GDvDF) | [Otra Navidad Lo\-Fi en México](https://open.spotify.com/album/15ZmZRWGFgikieNcj2l0Nu) | 2:02 |
@@ -121,4 +121,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYK8AUzwi00m.md) - [plain]
 | 111 | [latenite](https://open.spotify.com/track/4eaNEchs8ADEH5XfhJlk8K) | [Idealism](https://open.spotify.com/artist/6YJ4EgQzDfJnIHRbqIHAdD) | [Chillhop Essentials Winter 2017](https://open.spotify.com/album/0Gec7sa8MPlj5cW9JbqwEl) | 1:58 |
 | 112 | [Cozy Fireplace](https://open.spotify.com/track/6l29buL3HPRKy36vzDuNJp) | [Purrple Cat](https://open.spotify.com/artist/73aKnLT4O8G2pBEfdlQzrE) | [Snowbound](https://open.spotify.com/album/6joo22r88KqXxvOgEORO9R) | 1:52 |
 
-Snapshot ID: `MTY2NDQ5OTYwMCwwMDAwMDAwMDQ3NjU2MGIxMTVjYzE2YjhjM2NkZGUxZWVkNjJlMWM4`
+Snapshot ID: `MTY2NDQ5OTYwMCwwMDAwMDAwMGM4ZWRlMWJhMTUyMTM0MDZhMTU4MDM5YjAzMTg5NDZh`

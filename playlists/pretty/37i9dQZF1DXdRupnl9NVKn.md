@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdRupnl9NVKn.md) - [plain]
 
 > Neverland, your queens are here!
 
-[Spotify](https://open.spotify.com/user/spotify) - 160,981 likes - 70 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 161,954 likes - 70 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,7 +64,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdRupnl9NVKn.md) - [plain]
 | 54 | [What's Your Name](https://open.spotify.com/track/0CFyI2NLMuz35P2yUxHFGX) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [I made](https://open.spotify.com/album/479xGDGrqMXN8YLmJMEoTG) | 3:09 |
 | 55 | [Help Me](https://open.spotify.com/track/7lZqVyqbMtx4O1lrJCvRH0) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [Her Private Life \(Original Television Soundtrack\), Pt\. 1](https://open.spotify.com/album/6xzTGXUxiDgdIH9TZiHKz8) | 3:58 |
 | 56 | [Wow Thing](https://open.spotify.com/track/5MwfxCtqMFGYp9Nc1BkTrS) | [SEULGI](https://open.spotify.com/artist/2QM5S4yO6xHgnNvF0nbZZq), [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y), [SinB](https://open.spotify.com/artist/0tZl5OAXf9jYXFmfRGejs2), [JEON SOYEON](https://open.spotify.com/artist/6Xg22wJOAcnvPUfk5WvODH) | [Wow Thing](https://open.spotify.com/album/3xEPyp7h78uULpDPuKvokH) | 2:51 |
-| 57 | [Show](https://open.spotify.com/track/6rUDyzoRnBanKXvaflVLiA) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [Sugar Man 3 투유프로젝트 \- 슈가맨3, EPISODE.8](https://open.spotify.com/album/4hmSr1S0TtDjjHlvE0BREP) | 3:11 |
+| 57 | [Show](https://open.spotify.com/track/3hMtT4xgDCXPd7WLPzBZX9) | [여자아이들](https://open.spotify.com/artist/0barWeINEZRJUsZIOr8pjQ) | [투유프로젝트 \- Sugar Man3 Episode.8](https://open.spotify.com/album/7DqwV9yB89XrSAw1SlA3pr) | 3:11 |
 | 58 | [Idle song](https://open.spotify.com/track/1P7zwuGNeGWehpKVavukRe) | [JEON SOYEON](https://open.spotify.com/artist/6Xg22wJOAcnvPUfk5WvODH) | [Idle song](https://open.spotify.com/album/6RasD9dt49odO6D3VkhD1z) | 3:08 |
 | 59 | [POP/STARS](https://open.spotify.com/track/5sbooPcNgIE22DwO0VNGUJ) | [K/DA](https://open.spotify.com/artist/4gOc8TsQed9eqnqJct2c5v), [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q), [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx), [Jaira Burns](https://open.spotify.com/artist/0tRFWXqKBBQcu5oFVOgVzX), [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD) | [POP/STARS](https://open.spotify.com/album/0UnBZ8laFgLUq5Ty5vbikQ) | 3:11 |
 | 60 | [$$$](https://open.spotify.com/track/68yUIRmUq0cZN19DnbgKSX) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [I am](https://open.spotify.com/album/1GtPnOiHxCnoZPCiLcKj22) | 3:31 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdRupnl9NVKn.md) - [plain]
 | 69 | [Hear me](https://open.spotify.com/track/2kgjb8aqV3202cAN7jUaNR) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [I am](https://open.spotify.com/album/1GtPnOiHxCnoZPCiLcKj22) | 3:56 |
 | 70 | [Relay](https://open.spotify.com/track/310Qb2mSocNLguFicxzRnD) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [Relay](https://open.spotify.com/album/0k31vrIZQgqit8TjlQePM9) | 3:43 |
 
-Snapshot ID: `MTY1Njk1MDQyMSwwMDAwMDAwMDJkN2U5NjJlYWU5YzFhZTdkMjk2ZmI5MWQ1MjE0NGRm`
+Snapshot ID: `MTY1Njk1MDQyMSwwMDAwMDAwMDY1MDg3YzJiYzJhYjA2Y2VkYjc0NzAyMDQ4ZmZhMzNh`

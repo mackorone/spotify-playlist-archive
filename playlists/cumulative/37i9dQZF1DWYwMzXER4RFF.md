@@ -4,7 +4,7 @@
 
 > New no wave, post\-punk, and anything else\. Cover: Viagra Boys
 
-287 songs - 17 hr 52 min - [published](https://open.spotify.com/playlist/0Kwx2x0cfXxWAWrkYyuEPR)
+288 songs - 17 hr 55 min - [published](https://open.spotify.com/playlist/0Kwx2x0cfXxWAWrkYyuEPR)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,10 +20,10 @@
 | [Almost Had to Start a Fight/In and Out of Patience](https://open.spotify.com/track/0QAEc5JBdaZMdxqU3xL64H) | [Parquet Courts](https://open.spotify.com/artist/23NIwARd4vPbxt3wwNnJ6k) | [Wide Awake!](https://open.spotify.com/album/5uTI2HcpAywDP8Vo1DpJta) | 3:14 | 2021-12-06 | 2022-07-23 |
 | [Almost Had to Start a Fight/In and Out of Patience](https://open.spotify.com/track/7xhZCVsVhDSjhFm41mOX10) | [Parquet Courts](https://open.spotify.com/artist/23NIwARd4vPbxt3wwNnJ6k) | [Wide Awake!](https://open.spotify.com/album/6NTaxSEZsDR5RlGyBzKNmZ) | 3:14 | 2022-06-16 |  |
 | [American Dreaming](https://open.spotify.com/track/6qFP8XKvS3zHq8KwjfEPNT) | [Dead Emerson](https://open.spotify.com/artist/4Qlr4ok7GGJw8tmCWdQOP3) | [American Dreaming](https://open.spotify.com/album/5VnCDYP1xurFM8OyJ1KPJp) | 3:20 | 2022-03-11 | 2022-04-19 |
-| [Ann](https://open.spotify.com/track/0g2kZvRKJ2AZfUmqR6eCGZ) | [Tropical Fuck Storm](https://open.spotify.com/artist/0mL6LBSQ4bHe6hWq90KzHL) | [Ann](https://open.spotify.com/album/1TKU3jbLcpXbTx9OqjGejM) | 4:04 | 2022-08-25 |  |
+| [Ann](https://open.spotify.com/track/0g2kZvRKJ2AZfUmqR6eCGZ) | [Tropical Fuck Storm](https://open.spotify.com/artist/0mL6LBSQ4bHe6hWq90KzHL) | [Ann](https://open.spotify.com/album/1TKU3jbLcpXbTx9OqjGejM) | 4:04 | 2022-08-25 | 2022-10-07 |
 | [Another Night](https://open.spotify.com/track/3x2kMMjAMfZvgV9PacT3Mw) | [The Men](https://open.spotify.com/artist/30XB6UJMhn7v7ZDX2GlIsM) | [Tomorrow's Hits](https://open.spotify.com/album/2TY5pohPtUqu1c5fy7pW0F) | 5:28 | 2021-12-06 | 2022-07-26 |
 | [Avoidarama](https://open.spotify.com/track/1bFz0eOflEU0WOksVBDPA2) | [Drug Church](https://open.spotify.com/artist/6q4AmzK3GzCuEzkurnYuEQ) | [Avoidarama](https://open.spotify.com/album/27NMHPWp3yDUSsrrHQoVRM) | 2:58 | 2021-12-06 | 2022-07-24 |
-| [Avoidarama](https://open.spotify.com/track/1nS6ebZc8rmr9l5d9NpLqJ) | [Drug Church](https://open.spotify.com/artist/6q4AmzK3GzCuEzkurnYuEQ) | [Cheer](https://open.spotify.com/album/2pQ3HNNkj7o2RJTguqfqO2) | 2:58 | 2022-08-25 | 2022-09-26 |
+| [Avoidarama](https://open.spotify.com/track/1nS6ebZc8rmr9l5d9NpLqJ) | [Drug Church](https://open.spotify.com/artist/6q4AmzK3GzCuEzkurnYuEQ) | [Cheer](https://open.spotify.com/album/2pQ3HNNkj7o2RJTguqfqO2) | 2:58 | 2022-08-25 |  |
 | [B Boys Anthem](https://open.spotify.com/track/3vMZ1zERSM8QbPW8aA0t49) | [B Boys](https://open.spotify.com/artist/5q3Rqu9idb7essQqKJ7SOa) | [Dada](https://open.spotify.com/album/2dC0CxwPb1YjjB9Ergw2fG) | 1:23 | 2022-08-25 | 2022-09-29 |
 | [B Boys Anthem](https://open.spotify.com/track/6RCJa37P65U7uCm6oyxY3J) | [B Boys](https://open.spotify.com/artist/5q3Rqu9idb7essQqKJ7SOa) | [Dada](https://open.spotify.com/album/1YLqgmVidQ5seIyuBgaI50) | 1:23 | 2021-12-06 | 2022-07-21 |
 | [Back to The 70s](https://open.spotify.com/track/5nBofBYgz2bipNxjE9uTX0) | [Home Counties](https://open.spotify.com/artist/7L0uKOuMgMCLXHW9RnyB8n) | [In A Middle English Town](https://open.spotify.com/album/0P7Exnbir6GAPvbnyGnuJ5) | 3:34 | 2022-03-11 | 2022-07-22 |
@@ -106,7 +106,7 @@
 | [Girls & Boys](https://open.spotify.com/track/4Xt5Zpuk3AGXfojsWJP23l) | [Viagra Boys](https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg) | [Girls & Boys](https://open.spotify.com/album/5pNrH7vOP95JA6oxRGTEiU) | 4:39 | 2021-12-06 | 2022-07-29 |
 | [Going Soft](https://open.spotify.com/track/4gCWOLLQDJsGS4U5cGA4mi) | [Sports Team](https://open.spotify.com/artist/04JIxSs2P0iteVWtaskfeh) | [Going Soft](https://open.spotify.com/album/6im74GDpv2EQ1isZ2KouqP) | 3:23 | 2021-12-06 | 2022-07-06 |
 | [Golden](https://open.spotify.com/track/2pREI4cfaKpLUlxWnHVTbQ) | [Grandmas House](https://open.spotify.com/artist/6BFppN7DZ1DR7zFyNTj7Nv) | [Golden](https://open.spotify.com/album/7IBBLDTXQm3II4ulNd9oqk) | 2:10 | 2021-12-06 | 2022-04-21 |
-| [Good morning \(red\)](https://open.spotify.com/track/5Hr3cBLE1Qe7zAw6n1iGHW) | [caroline](https://open.spotify.com/artist/0nwTtqff9SoWoTnTFeZ7YA) | [caroline](https://open.spotify.com/album/4X12VfRomM649eKXd1qKMf) | 5:47 | 2022-06-16 |  |
+| [Good morning \(red\)](https://open.spotify.com/track/5Hr3cBLE1Qe7zAw6n1iGHW) | [caroline](https://open.spotify.com/artist/0nwTtqff9SoWoTnTFeZ7YA) | [caroline](https://open.spotify.com/album/4X12VfRomM649eKXd1qKMf) | 5:47 | 2022-06-16 | 2022-10-10 |
 | [Good morning \(red\)](https://open.spotify.com/track/5SQrKo2846AcYSt0YFOTJf) | [caroline](https://open.spotify.com/artist/0nwTtqff9SoWoTnTFeZ7YA) | [Good morning \(red\)](https://open.spotify.com/album/5Eg3oUty6ZMa6vkgb0zolB) | 5:47 | 2022-02-25 | 2022-07-10 |
 | [Good Time Charlie](https://open.spotify.com/track/3YHEUUYqEYLzInHRNfN4bW) | [Priests](https://open.spotify.com/artist/5DT78nxI4rAHYddufPUOBx) | [Good Time Charlie](https://open.spotify.com/album/4S61h0CKciUdMo51bM3SAR) | 2:47 | 2021-12-06 | 2022-07-12 |
 | [Goodnight](https://open.spotify.com/track/4p9oD9628pjRospq8ztiCU) | [Dry Cleaning](https://open.spotify.com/artist/7DlD7rLG9MKuvXtTeACzkO) | [Goodnight](https://open.spotify.com/album/7u57U9Is8dsIBg91dsq5lr) | 2:37 | 2021-12-06 | 2022-07-25 |
@@ -117,6 +117,7 @@
 | [Headroom](https://open.spotify.com/track/3vs2MlII33TgC5hAPZiUiu) | [Skinner](https://open.spotify.com/artist/2Se7imfs8bxem8G6oVNABJ) | [Headroom](https://open.spotify.com/album/0A7myLtAtp9gMhpoI2Zha7) | 3:06 | 2021-12-06 | 2022-07-28 |
 | [Heartbeat](https://open.spotify.com/track/3UtV7WLZvRZCH0oypoI402) | [VLURE](https://open.spotify.com/artist/0Ev1tqYsfzq2eF5qqXhkYm) | [Heartbeat](https://open.spotify.com/album/5e9ByDXq4Q6XaPSbmyq2c0) | 3:27 | 2022-03-11 | 2022-04-13 |
 | [HEY HEY](https://open.spotify.com/track/7FNp8GWvT5Y0fg93c0fgkG) | [Saloon Dion](https://open.spotify.com/artist/5jyDRjrVTg2M6uHOQF5MhU) | [HEY HEY](https://open.spotify.com/album/0ddhsC5Bvt2ifpngs2p24c) | 3:26 | 2022-03-11 | 2022-07-10 |
+| [hollow scene](https://open.spotify.com/track/2hDt5BixP1kCcIbFUXbsjz) | [deep tan](https://open.spotify.com/artist/019NHPyN9SM5PRiEWs4X8D) | [creeping speedwells](https://open.spotify.com/album/3IUJgohelfuoshLviTrYZC) | 3:03 | 2022-08-25 |  |
 | [hollow scene](https://open.spotify.com/track/3yZZhCSCVioLeUVPKs9mLI) | [deep tan](https://open.spotify.com/artist/019NHPyN9SM5PRiEWs4X8D) | [hollow scene](https://open.spotify.com/album/6s5a4fG731JST484ZAsl5m) | 3:03 | 2021-12-06 | 2022-07-28 |
 | [Hollywood](https://open.spotify.com/track/7nhHhAK4luQGM6yxIAZcF4) | [Legss](https://open.spotify.com/artist/6qSC5s99fwbkvyWzRqws4F) | [Hollywood](https://open.spotify.com/album/5HBRejbP2IlsqHNQDQb2oy) | 3:51 | 2021-12-06 | 2022-07-24 |
 | [Holy Smoke](https://open.spotify.com/track/3h1pKCq82AzewJHdJisElO) | [SLAP RASH](https://open.spotify.com/artist/5QHruUgCAsZJ9SfzvcoogM) | [Holy Smoke](https://open.spotify.com/album/1nayzHyYXMdlJFX9bMqnMr) | 3:40 | 2022-03-11 | 2022-04-21 |
@@ -261,7 +262,7 @@
 | [The Cleaner](https://open.spotify.com/track/5JCJRbheraNHacbn9v1UWg) | [Squid](https://open.spotify.com/artist/685XjGzGztyivfR3fAjoxo) | [The Cleaner](https://open.spotify.com/album/0IYwrkF0eNvYRrtUHZO7Bo) | 7:33 | 2022-06-16 |  |
 | [The Dial](https://open.spotify.com/track/55AP1tUevnOiiyffOQYeDB) | [Squid](https://open.spotify.com/artist/685XjGzGztyivfR3fAjoxo) | [The Dial](https://open.spotify.com/album/1qp9czAYoODXQiiXp4Yjbb) | 5:10 | 2021-12-06 | 2022-07-28 |
 | [The Floor](https://open.spotify.com/track/0REgKKAS5YzPopio6hLQTx) | [Johnny Hunter](https://open.spotify.com/artist/4TvM3UVvqDRG51RaUeK5Qo) | [The Floor](https://open.spotify.com/album/6MdGJIND3zgupaPZ135eOc) | 3:16 | 2021-12-06 | 2022-07-22 |
-| [The Hype](https://open.spotify.com/track/0iDXZjWfvP5cq2uPZGMopG) | [Shopping](https://open.spotify.com/artist/1UgRlUUZBwiGwqMFHA4Puf) | [The Official Body](https://open.spotify.com/album/0UGj3rwdNVdSGKtiiquZoa) | 3:55 | 2022-06-16 |  |
+| [The Hype](https://open.spotify.com/track/0iDXZjWfvP5cq2uPZGMopG) | [Shopping](https://open.spotify.com/artist/1UgRlUUZBwiGwqMFHA4Puf) | [The Official Body](https://open.spotify.com/album/0UGj3rwdNVdSGKtiiquZoa) | 3:55 | 2022-06-16 | 2022-10-08 |
 | [The Hype](https://open.spotify.com/track/7zgfVkrjf2B9qWE1CUaXyr) | [Shopping](https://open.spotify.com/artist/1UgRlUUZBwiGwqMFHA4Puf) | [The Official Body](https://open.spotify.com/album/4CEqmpGgLXw879AIY9jBiI) | 3:55 | 2021-12-06 | 2022-07-27 |
 | [The Loser](https://open.spotify.com/track/7uVLrPYrICUJyFHX9vCSal) | [THUMPER](https://open.spotify.com/artist/1iMsLpQB3kldZ9s7pne7gP) | [The Loser](https://open.spotify.com/album/1o8QGaQl90YI8nEBnKzy6N) | 3:24 | 2022-03-11 | 2022-07-14 |
 | [The Spy Who Came In from the Cold](https://open.spotify.com/track/4ZnnSuZ3iZ0YpuSJ7SkSX1) | [Document](https://open.spotify.com/artist/3la0L81ZYVo9BpsOdzUaNc) | [The Spy Who Came In from the Cold](https://open.spotify.com/album/09pwWqBCXIbVof7jzrg9NM) | 4:37 | 2021-12-06 | 2022-07-26 |
@@ -289,7 +290,7 @@
 | [Wharf \(ii\)](https://open.spotify.com/track/6KKtTJAgNLCW7LAtuI9Dwy) | [Horsey](https://open.spotify.com/artist/3ey9OSASkq8HNPh0u7jjfO) | [Debonair](https://open.spotify.com/album/1z6VwFw428tUIrrEqKktEn) | 4:25 | 2021-12-06 |  |
 | [What Do You Stand For](https://open.spotify.com/track/0C2BL4ZwEl2iQmQ55aIhU7) | [Low Island](https://open.spotify.com/artist/5MCl6mca6ZixPR36dHH9Sd) | [If You Could Have It All Again](https://open.spotify.com/album/3RSVfuDghNNc8LKgqnw7h2) | 3:45 | 2021-12-06 | 2022-07-11 |
 | [Wheel of Fortune](https://open.spotify.com/track/7b8yk8Rnqvfxjr8kJmZqjS) | [Protomartyr](https://open.spotify.com/artist/2YFBqMMiIIL4XyiEwqySUQ), [Kelley Deal](https://open.spotify.com/artist/4LjYBgwWwlYIFlpqxVJZ2a) | [Consolation E.P.](https://open.spotify.com/album/5XOHZ0WQFA1ivHjHDfFqoN) | 5:15 | 2021-12-06 | 2022-07-21 |
-| [Who's My Eugene? \- Edit](https://open.spotify.com/track/3VTH9rhnc8jceZAU90hzwt) | [Tropical Fuck Storm](https://open.spotify.com/artist/0mL6LBSQ4bHe6hWq90KzHL) | [Who's My Eugene? \- Edit](https://open.spotify.com/album/6wApvXDrW8JIxCcq5hwHDQ) | 4:08 | 2022-06-16 | 2022-09-30 |
+| [Who's My Eugene? \- Edit](https://open.spotify.com/track/3VTH9rhnc8jceZAU90hzwt) | [Tropical Fuck Storm](https://open.spotify.com/artist/0mL6LBSQ4bHe6hWq90KzHL) | [Who's My Eugene? \- Edit](https://open.spotify.com/album/6wApvXDrW8JIxCcq5hwHDQ) | 4:08 | 2022-06-16 |  |
 | [Who's My Eugene? \- Edit](https://open.spotify.com/track/5JqeO2yMJNmdgk2B7HPy9i) | [Tropical Fuck Storm](https://open.spotify.com/artist/0mL6LBSQ4bHe6hWq90KzHL) | [Who's My Eugene? \- Edit](https://open.spotify.com/album/13p78S0Epiab4voDdM4F2w) | 4:08 | 2021-12-06 | 2022-07-19 |
 | [Who’s Got Time?](https://open.spotify.com/track/6rNIOIuVgJeftM3T0f0AVg) | [Flasher](https://open.spotify.com/artist/1qPMBDzIv4WJoToZqNxb1f) | [Constant Image](https://open.spotify.com/album/6fvUDhvz6hDVck9epHLnf6) | 2:23 | 2021-12-06 | 2022-07-20 |
 | [Wired/Weird](https://open.spotify.com/track/6HpelWP42NVal2WShBobNt) | [Beige Banquet](https://open.spotify.com/artist/1RD0sw23ETXTCQRmDHsmbW) | [Beta](https://open.spotify.com/album/6MzBXj52MbmhKrORPzWY9W) | 3:39 | 2021-12-06 | 2022-07-27 |

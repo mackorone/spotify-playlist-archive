@@ -4,12 +4,13 @@
 
 > Press play and let's dance with the biggest Brazilian DJ!
 
-131 songs - 6 hr 24 min - [published](https://open.spotify.com/playlist/6MZWwqjG4Q8Yhj3nm7gAIo)
+132 songs - 6 hr 27 min - [published](https://open.spotify.com/playlist/6MZWwqjG4Q8Yhj3nm7gAIo)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Alive \(It Feels Like\)](https://open.spotify.com/track/4fB85IhVASxXMWgoke5WVJ) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W) | [Alive \(It Feels Like\)](https://open.spotify.com/album/4pXpgHjsecO9r9f22UB1Rk) | 2:22 | 2022-06-17 |  |
 | [Alive \(It Feels Like\)](https://open.spotify.com/track/4zzHe0vVVQwLwn1mAoKFJq) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W) | [Alive \(It Feels Like\)](https://open.spotify.com/album/1jU9kFRQP9Vf7R5ncpkcCh) | 2:22 | 2021-12-03 | 2022-07-29 |
+| [All By Myself](https://open.spotify.com/track/5Hp4xFihdOE2dmDzxWcBFb) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Sigala](https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN), [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [All By Myself](https://open.spotify.com/album/3lAmnw0gNntYuTltwETnSn) | 2:51 | 2022-10-07 |  |
 | [All I Want](https://open.spotify.com/track/40ydUI6moZMoOd65wbf6oz) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Liu](https://open.spotify.com/artist/3DnNQH13SfSOjZDsVEa0ht), [Stonefox](https://open.spotify.com/artist/3lQvg5w1PYUH7HzcbTBsLu) | [All I Want](https://open.spotify.com/album/09daeFM7AXK0INoZ00lTeD) | 2:39 | 2021-12-03 |  |
 | [All The Lies](https://open.spotify.com/track/6PqUdUGS4h5aGY7YyEGXr8) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG), [The Vamps](https://open.spotify.com/artist/7gAppWoH7pcYmphCVTXkzs) | [All The Lies](https://open.spotify.com/album/4JFyas1xaX9NnAvRP9DhKF) | 2:59 | 2021-12-03 | 2022-07-29 |
 | [All The Lies \(with Felix Jaehn & The Vamps\)](https://open.spotify.com/track/4Cy5f4JsH1yoeGks7FnoHw) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG), [The Vamps](https://open.spotify.com/artist/7gAppWoH7pcYmphCVTXkzs) | [All The Lies \(with Felix Jaehn & The Vamps\)](https://open.spotify.com/album/4fPfnp90F94F1Ab8UANpHL) | 2:59 | 2021-12-03 |  |

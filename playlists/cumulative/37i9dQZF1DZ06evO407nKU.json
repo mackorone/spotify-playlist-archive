@@ -335,7 +335,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-02",
+      "date_removed": null,
       "duration_ms": 218861,
       "name": "Enamorado",
       "url": "https://open.spotify.com/track/65Li8S1PcoLMy7dilqQrYh"
@@ -375,7 +375,7 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-10",
+      "date_removed": "2022-10-09",
       "duration_ms": 202421,
       "name": "Esta Llorando Mi Corazon",
       "url": "https://open.spotify.com/track/36MObYo9fag3mOtQp9EyIU"
@@ -429,7 +429,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-05",
       "duration_ms": 202826,
       "name": "Juro Por Dios - En Vivo",
       "url": "https://open.spotify.com/track/3RT87P7CZdHibJViDNbQ66"
@@ -465,7 +465,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-02",
+      "date_removed": "2022-10-07",
       "duration_ms": 141589,
       "name": "La Hungara - En Vivo",
       "url": "https://open.spotify.com/track/5dwb7j5AzP2w15YIEzEKQ8"
@@ -838,6 +838,24 @@
     },
     {
       "album": {
+        "name": "O Me Voy O Te Vas (En Vivo)",
+        "url": "https://open.spotify.com/album/0nuXdDMOIDHxiddTlmBXGF"
+      },
+      "artists": [
+        {
+          "name": "Perdidos De Sinaloa",
+          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
+        }
+      ],
+      "date_added": "2022-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237013,
+      "name": "O Me Voy O Te Vas (En Vivo)",
+      "url": "https://open.spotify.com/track/2Jz2lb2VQe3wsGE7Q5jGrP"
+    },
+    {
+      "album": {
         "name": "Parrandero (Remix)",
         "url": "https://open.spotify.com/album/6fQZ0ykhEyv1f6miucC5Ey"
       },
@@ -1073,7 +1091,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-23",
+      "date_removed": "2022-10-07",
       "duration_ms": 220917,
       "name": "Sigo de pie",
       "url": "https://open.spotify.com/track/67VgUmWzx04XMSXTf9CZqn"
@@ -1165,7 +1183,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-17",
+      "date_removed": "2022-10-09",
       "duration_ms": 181550,
       "name": "Te Voy a Borrar",
       "url": "https://open.spotify.com/track/14YBw9TqXQLouHQ2Axf4XD"
@@ -1259,7 +1277,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 214915,
       "name": "Un Desengano",
       "url": "https://open.spotify.com/track/0rCIHeL20CCCOWjvyIv2sP"

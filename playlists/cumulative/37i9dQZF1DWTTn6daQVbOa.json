@@ -3228,6 +3228,24 @@
     },
     {
       "album": {
+        "name": "Do You Wanna Go Party",
+        "url": "https://open.spotify.com/album/1VyflnFsIEfcxPj4JgM5QR"
+      },
+      "artists": [
+        {
+          "name": "KC & The Sunshine Band",
+          "url": "https://open.spotify.com/artist/3mQBpAOMWYqAZyxtyeo4Lo"
+        }
+      ],
+      "date_added": "2022-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230533,
+      "name": "Please Don't Go - Single Version",
+      "url": "https://open.spotify.com/track/6dw6BquK0Mv72p6HpusqKN"
+    },
+    {
+      "album": {
         "name": "Portrait Of Donny",
         "url": "https://open.spotify.com/album/6quP8dKzcKp5JON8hWKkeD"
       },
@@ -3455,7 +3473,7 @@
       ],
       "date_added": "2021-04-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-10",
+      "date_removed": "2022-10-04",
       "duration_ms": 209346,
       "name": "Seasons in the Sun",
       "url": "https://open.spotify.com/track/0X3d9gx7UDYgcwwkgTeNLR"
@@ -3527,7 +3545,7 @@
       ],
       "date_added": "2021-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-03",
       "duration_ms": 209133,
       "name": "Sexy Eyes",
       "url": "https://open.spotify.com/track/3i5lBv18B3RBnzjdxh9oFR"

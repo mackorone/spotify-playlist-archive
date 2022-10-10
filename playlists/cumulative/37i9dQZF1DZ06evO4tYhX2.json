@@ -66,6 +66,32 @@
     },
     {
       "album": {
+        "name": "Dios En Casa",
+        "url": "https://open.spotify.com/album/5Zo2mPc7RXI8OgLA63AEDn"
+      },
+      "artists": [
+        {
+          "name": "Miel San Marcos",
+          "url": "https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE"
+        },
+        {
+          "name": "Waleska Morales",
+          "url": "https://open.spotify.com/artist/6C0t2XuoPExvGxcVfo7aHc"
+        },
+        {
+          "name": "Josh Morales",
+          "url": "https://open.spotify.com/artist/4BzluhaYmHa9iCkX7pehgS"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-08",
+      "duration_ms": 595480,
+      "name": "Asombroso",
+      "url": "https://open.spotify.com/track/5rvNR35Xfw420TTfpOEOuW"
+    },
+    {
+      "album": {
         "name": "Pentecost\u00e9s (En Vivo)",
         "url": "https://open.spotify.com/album/7zyFQuz3nZmzpfRstmXZO0"
       },
@@ -125,7 +151,7 @@
       ],
       "date_added": "2022-09-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-02",
+      "date_removed": "2022-10-07",
       "duration_ms": 274161,
       "name": "Canto Danzo Salto",
       "url": "https://open.spotify.com/track/5FXALCzOPuLhX07GRnrooO"
@@ -161,7 +187,7 @@
       ],
       "date_added": "2022-09-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-02",
+      "date_removed": "2022-10-07",
       "duration_ms": 145760,
       "name": "Cuando Pienso (En Vivo)",
       "url": "https://open.spotify.com/track/0FMCuTrcs0ZmPjez4cIc34"
@@ -339,7 +365,7 @@
       ],
       "date_added": "2022-09-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-30",
+      "date_removed": null,
       "duration_ms": 255628,
       "name": "Eres Mi Escudo",
       "url": "https://open.spotify.com/track/0vujY1TZglxCttCtELth5n"
@@ -566,7 +592,7 @@
       "date_added": "2022-10-01",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 350421,
+      "duration_ms": 349280,
       "name": "Jesucristo Basta",
       "url": "https://open.spotify.com/track/3RzpMRn4SAcVkOPgFIr7ai"
     },
@@ -587,7 +613,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 621407,
       "name": "J\u00fabilo",
       "url": "https://open.spotify.com/track/5Pu8Ug7xIQsm6eRSaYC8IC"
@@ -645,7 +671,7 @@
       ],
       "date_added": "2022-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-09",
       "duration_ms": 251826,
       "name": "Lev\u00e1ntate Guate",
       "url": "https://open.spotify.com/track/44jaI2hbNmBHAQXpreResb"
@@ -799,7 +825,7 @@
       ],
       "date_added": "2022-09-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-02",
+      "date_removed": null,
       "duration_ms": 591586,
       "name": "Mi Refugio",
       "url": "https://open.spotify.com/track/7aAWdWYyvNqhKH5cMS8IOh"
@@ -821,7 +847,7 @@
       ],
       "date_added": "2022-09-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-01",
+      "date_removed": "2022-10-07",
       "duration_ms": 305282,
       "name": "Mi Sanador",
       "url": "https://open.spotify.com/track/7n4be2oBGbJXLT9AZ7OdEv"
@@ -946,6 +972,28 @@
     },
     {
       "album": {
+        "name": "Grande y Fiel (En Vivo)",
+        "url": "https://open.spotify.com/album/3OXFYZ0hNUqEhgQMiq1716"
+      },
+      "artists": [
+        {
+          "name": "Gateway Worship Espa\u00f1ol",
+          "url": "https://open.spotify.com/artist/6CyrlDkin8EyehBeKUxcSV"
+        },
+        {
+          "name": "Miel San Marcos",
+          "url": "https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 473742,
+      "name": "Poderoso Dios (Grande y Fiel) - En Vivo",
+      "url": "https://open.spotify.com/track/43kj9K6lV6TgvEbPEMtD87"
+    },
+    {
+      "album": {
         "name": "Tu Habitaci\u00f3n",
         "url": "https://open.spotify.com/album/3EOkmxLamBPxPJLeGPXaNd"
       },
@@ -983,7 +1031,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-09",
       "duration_ms": 344737,
       "name": "Recibo Mi Milagro feat. Josh Morales \"Miel San Marcos\" (En Vivo)",
       "url": "https://open.spotify.com/track/0E3z3U8GjuxRWhLuhHICVg"
@@ -1001,7 +1049,7 @@
       ],
       "date_added": "2022-09-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-01",
+      "date_removed": "2022-10-09",
       "duration_ms": 173450,
       "name": "Regoci\u0301jate Oh Moradora De Sio\u0301n",
       "url": "https://open.spotify.com/track/6aSJ4pf8B5gzAFV5XF6gF2"
@@ -1089,7 +1137,7 @@
       ],
       "date_added": "2022-09-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-02",
+      "date_removed": null,
       "duration_ms": 352941,
       "name": "Te Amo",
       "url": "https://open.spotify.com/track/4b8RrQABoHbJWHCddCeAGp"
@@ -1147,7 +1195,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-09",
       "duration_ms": 307830,
       "name": "Tu Nombre En Alto",
       "url": "https://open.spotify.com/track/0XGSyE6SQxhnUEneW5csyg"
@@ -1293,7 +1341,7 @@
       ],
       "date_added": "2022-09-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-02",
+      "date_removed": "2022-10-07",
       "duration_ms": 468578,
       "name": "Yo Vencer\u00e9",
       "url": "https://open.spotify.com/track/6q8gNL44VMVDo4rx6wF8nC"

@@ -4,7 +4,7 @@
 
 > Disfruta del más fino R&B creado en el continente y España\. Foto: Yoss Bones
 
-154 songs - 8 hr 20 min - [published](https://open.spotify.com/playlist/322xEoodQLUql4qTRvYX7v)
+155 songs - 8 hr 22 min - [published](https://open.spotify.com/playlist/322xEoodQLUql4qTRvYX7v)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -86,7 +86,8 @@
 | [Limo](https://open.spotify.com/track/31V2GmqlWRcbaY3Up9bLYf) | [Jesse Baez](https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3) | [Limo](https://open.spotify.com/album/7EnuItH74MB3aNwab4WTni) | 2:54 | 2021-12-13 | 2022-04-26 |
 | [Loco](https://open.spotify.com/track/6WeJGp7MB7sEEf9InLEvh1) | [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1) | [Loco](https://open.spotify.com/album/32gGR2it3KcYu8geETxC3V) | 3:59 | 2021-12-13 |  |
 | [Loop](https://open.spotify.com/track/3w3aUB2r1gcAeO8OsBTtjN) | [Alex Gracia](https://open.spotify.com/artist/1NigV8ujfzVjZd5PVDjKNX) | [Loop](https://open.spotify.com/album/3yNmliCH10IlyFsMRUk564) | 2:40 | 2021-12-13 | 2022-07-29 |
-| [Loop](https://open.spotify.com/track/5wIplDRMg13vvFOmkLOPwG) | [Alex Gracia](https://open.spotify.com/artist/1NigV8ujfzVjZd5PVDjKNX) | [Memorias](https://open.spotify.com/album/3Qp9rzY87PqpkcYh3ePpCa) | 2:40 | 2022-07-22 |  |
+| [Loop](https://open.spotify.com/track/5wIplDRMg13vvFOmkLOPwG) | [Alex Gracia](https://open.spotify.com/artist/1NigV8ujfzVjZd5PVDjKNX) | [Memorias](https://open.spotify.com/album/3Qp9rzY87PqpkcYh3ePpCa) | 2:40 | 2022-07-22 | 2022-10-10 |
+| [Loop](https://open.spotify.com/track/6miE2oYUpQgUSUOS2jhEWk) | [Alex Gracia](https://open.spotify.com/artist/1NigV8ujfzVjZd5PVDjKNX) | [Memorias](https://open.spotify.com/album/4VEfY61c512LPilKX2W8lw) | 2:40 | 2022-09-23 |  |
 | [Luces De Tokyo](https://open.spotify.com/track/5o9L3Gpg5TZx5pKfKztBLa) | [B.A.M](https://open.spotify.com/artist/1eSpKHplhQCnjokd9wvAlV), [Fano](https://open.spotify.com/artist/3aRfIDlreP9D5POnhqIJI1) | [Luces De Tokyo](https://open.spotify.com/album/2stpbyfmnwBCbxktTLBppi) | 3:38 | 2022-08-01 |  |
 | [Luz de Luna](https://open.spotify.com/track/0iA0fZPjdfsc7cmlL164Qg) | [Desert Niños](https://open.spotify.com/artist/2Ch5zHsrWSpgq7g0WI2UFD), [Castellano](https://open.spotify.com/artist/6UO0OmWRTSoZCTmbpHRf91), [Slim Ans](https://open.spotify.com/artist/4JFse8c35wKHAuzJO9BTqO) | [Fuego](https://open.spotify.com/album/42myA7rDKd1QWWMATQldju) | 4:39 | 2021-12-13 |  |
 | [Makin Money](https://open.spotify.com/track/0nMeCH0qe2CTdA6YDzyFRW) | [Foudeqush](https://open.spotify.com/artist/0XFgM33h3Ls5tj1M9IKUWd) | [Makin Money](https://open.spotify.com/album/5LFrClQQyURQWYOTIIA0vm) | 3:08 | 2022-04-18 |  |

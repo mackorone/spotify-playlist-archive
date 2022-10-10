@@ -2,7 +2,7 @@
 
 ### [Malandro Posturado](https://open.spotify.com/playlist/37i9dQZF1DWUOuypaVNd01)
 
-> De réu a ref \- o filho deles quer viver essa vida\. Foto: Scooby
+> De réu a ref \- o filho deles quer viver essa vida\. Foto: Major RD
 
 99 songs - 4 hr 43 min - [published](https://open.spotify.com/playlist/6DYnkcmoPdSe2U2BMKpXAN)
 

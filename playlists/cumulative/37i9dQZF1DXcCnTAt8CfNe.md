@@ -4,7 +4,7 @@
 
 > Soothe your mind with gentle instrumentals.
 
-230 songs - 10 hr 55 min - [published](https://open.spotify.com/playlist/5E3sU5b9bqkflT96CV3QHp)
+231 songs - 10 hr 58 min - [published](https://open.spotify.com/playlist/5E3sU5b9bqkflT96CV3QHp)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -219,6 +219,7 @@
 | [Timeless](https://open.spotify.com/track/4wDO6MjP0OoVxwHVizSBip) | [Cristoforo Giordano](https://open.spotify.com/artist/5kCSdIBChGo0GjOEuyjb40) | [Hourglass](https://open.spotify.com/album/50By33dGFe0wJ6GiQZKO8T) | 2:58 | 2022-03-08 |  |
 | [Tiny Elephants](https://open.spotify.com/track/0bF7Po3DHoTqcigWwgd2Xi) | [Early Still](https://open.spotify.com/artist/1X8eNRUXvH2xbJmounFJcY) | [Four Thoughts](https://open.spotify.com/album/0lHuEa5WgDqEa6nSyl1Bi4) | 2:46 | 2021-12-09 | 2022-08-16 |
 | [To Me](https://open.spotify.com/track/5R6uVJy58OxgyA0BQbY7Tk) | [Michel Landau](https://open.spotify.com/artist/2k6f9wKcRu84svgHonsR7x) | [You Are A Flower](https://open.spotify.com/album/0cH0rLc0CxNz3MjpKyuptN) | 2:08 | 2021-12-09 |  |
+| [Transparency](https://open.spotify.com/track/1dzuUe9zsLpy2Ly7Zp2dWD) | [Adam Waldau](https://open.spotify.com/artist/1m8n33vsOT7I7sBgn1s4sz) | [Everlasting](https://open.spotify.com/album/1TnUFxpG8VW7GrAJLV7u3Y) | 2:59 | 2022-10-07 |  |
 | [Truce](https://open.spotify.com/track/4ilZS94Ju9fdhWbI6wvbHX) | [Cooper Sams](https://open.spotify.com/artist/5dQtzw5YaP9ZCMv0GWymws) | [Paradise & Truce](https://open.spotify.com/album/58crVNlt3FezfMYSh3gYyU) | 2:54 | 2022-02-18 |  |
 | [Twilight](https://open.spotify.com/track/4tWrqO0LQozZ8fmBN642Z3) | [Estado De Calma](https://open.spotify.com/artist/0E1GrT0XtW2bcQvEuu7ajV) | [Twilight](https://open.spotify.com/album/6DqVZ8vsZhFFBMQ5VY9nMe) | 2:44 | 2022-03-21 |  |
 | [Ujjayi](https://open.spotify.com/track/5O2NkxIBlzW6KaxfcPkroz) | [Zoe Connelly](https://open.spotify.com/artist/1jrYQH3c0RnD9Gcq43NDIO) | [Ujjayi](https://open.spotify.com/album/1DSSFfEypTfcTXnEIqKs9C) | 2:31 | 2021-12-09 |  |

@@ -253,7 +253,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 380531,
       "name": "Ana",
       "url": "https://open.spotify.com/track/6euGcnL8dwzuTdgXvUvM0b"
@@ -415,7 +415,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 152618,
       "name": "Beau",
       "url": "https://open.spotify.com/track/56xQeo2Z64CwjDGLi4OGni"
@@ -433,7 +433,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 123130,
       "name": "Beautiful Mistakes",
       "url": "https://open.spotify.com/track/2OkmV1cbTXlCBQMMnxfs1z"
@@ -577,7 +577,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 223500,
       "name": "Blue Line",
       "url": "https://open.spotify.com/track/5uy948cCYu7VhN8A6mGTPv"
@@ -739,7 +739,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 178952,
       "name": "Cat Street Fight",
       "url": "https://open.spotify.com/track/1xrwba40SrADws8j0nDkgd"
@@ -1171,7 +1171,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 314240,
       "name": "Delphina",
       "url": "https://open.spotify.com/track/4lvD1VH9hxuXLO6ryEaSKI"
@@ -1430,6 +1430,24 @@
     },
     {
       "album": {
+        "name": "Eventide",
+        "url": "https://open.spotify.com/album/2mypqQlLvZUuDCdq8S1mW6"
+      },
+      "artists": [
+        {
+          "name": "Milli V",
+          "url": "https://open.spotify.com/artist/0LFc7WT26EWXfv0wpPvPcT"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188467,
+      "name": "Eventide",
+      "url": "https://open.spotify.com/track/3dZhAToKg4famFWbbqLT1m"
+    },
+    {
+      "album": {
         "name": "Fade Away",
         "url": "https://open.spotify.com/album/0iK59pBranztef9NbvtK1F"
       },
@@ -1603,7 +1621,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 197000,
       "name": "For The First Time",
       "url": "https://open.spotify.com/track/3aIv0tjMJqDzONyBFtUa9g"
@@ -1639,10 +1657,28 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 139108,
       "name": "Free",
       "url": "https://open.spotify.com/track/47DcKTZGe8PKTr8B64bgZM"
+    },
+    {
+      "album": {
+        "name": "Futuristic",
+        "url": "https://open.spotify.com/album/1SRiesxh26igFvJRRELjeB"
+      },
+      "artists": [
+        {
+          "name": "Vivaldi Verdes",
+          "url": "https://open.spotify.com/artist/1sxGUTRysHEjfQ0NKMrwUc"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200357,
+      "name": "Futuristic",
+      "url": "https://open.spotify.com/track/1KH8pNMx5vEFaKBJ3BGrtA"
     },
     {
       "album": {
@@ -1787,7 +1823,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 296874,
       "name": "Gubei",
       "url": "https://open.spotify.com/track/2QYrwIPguH63XwDKU7Zn4j"
@@ -2201,7 +2237,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 154434,
       "name": "Lost Without You",
       "url": "https://open.spotify.com/track/31BXZpthSAv7PE0VnIUUUu"
@@ -2219,7 +2255,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 186782,
       "name": "Lush",
       "url": "https://open.spotify.com/track/6jYbK7o3pOMbNeMT3IuqQL"
@@ -2241,6 +2277,24 @@
       "duration_ms": 137744,
       "name": "Magic Island",
       "url": "https://open.spotify.com/track/62yKRARApFEWm5uvSOK0oH"
+    },
+    {
+      "album": {
+        "name": "Magnolia",
+        "url": "https://open.spotify.com/album/6e93BRGJ8p6Gg7Elwbb5un"
+      },
+      "artists": [
+        {
+          "name": "Chakra Lounge",
+          "url": "https://open.spotify.com/artist/7Biy6OokTAlZOmGAIhx944"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193200,
+      "name": "Magnolia",
+      "url": "https://open.spotify.com/track/1awvT0baqmByEbazQVzm3W"
     },
     {
       "album": {
@@ -2367,6 +2421,24 @@
       "duration_ms": 164000,
       "name": "mirage",
       "url": "https://open.spotify.com/track/56Am5PWznL2ea3NGzyUvLy"
+    },
+    {
+      "album": {
+        "name": "Miss U",
+        "url": "https://open.spotify.com/album/4dDBVWAKOmOd5CY52Nw7Ad"
+      },
+      "artists": [
+        {
+          "name": "Roffe & Friends",
+          "url": "https://open.spotify.com/artist/62m78RjjiHUr7cr0vpvDig"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187368,
+      "name": "Miss U",
+      "url": "https://open.spotify.com/track/4bLjS9vd86lvIddRDQZnSw"
     },
     {
       "album": {
@@ -2532,6 +2604,24 @@
     },
     {
       "album": {
+        "name": "Odd Numbers",
+        "url": "https://open.spotify.com/album/5ZMos83Et2B7PmLU36Phge"
+      },
+      "artists": [
+        {
+          "name": "RaFa Orchestra",
+          "url": "https://open.spotify.com/artist/1Rjd6BlZRbO3RVubcxvips"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196513,
+      "name": "Odd Numbers",
+      "url": "https://open.spotify.com/track/4yh8kzJGue7ONe9rIrNjns"
+    },
+    {
+      "album": {
         "name": "offshore",
         "url": "https://open.spotify.com/album/6BfvXlKoifT1TKN3HbeTys"
       },
@@ -2619,6 +2709,24 @@
       "duration_ms": 116500,
       "name": "On My Way",
       "url": "https://open.spotify.com/track/28H2eFbLiKPfJ44ZvGWPax"
+    },
+    {
+      "album": {
+        "name": "Open Fields",
+        "url": "https://open.spotify.com/album/2fgoswYqbGfQDGQOoS3oWO"
+      },
+      "artists": [
+        {
+          "name": "Toby Tech",
+          "url": "https://open.spotify.com/artist/3AIUmOlOCNpbVbYL9RirIM"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261000,
+      "name": "Open Fields",
+      "url": "https://open.spotify.com/track/6PsPRjRVQpuxltouIiGJfu"
     },
     {
       "album": {
@@ -3119,7 +3227,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 148965,
       "name": "Sapphire",
       "url": "https://open.spotify.com/track/7cghQABsKucvYVeIqUzvNi"
@@ -3278,6 +3386,24 @@
     },
     {
       "album": {
+        "name": "Since I Laid My Eyes on U",
+        "url": "https://open.spotify.com/album/6sRpBU72HY8n0sQXKHf8oZ"
+      },
+      "artists": [
+        {
+          "name": "Young Community",
+          "url": "https://open.spotify.com/artist/1dThUtszO1jevy1BfKlCcR"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201475,
+      "name": "Since I Laid My Eyes on U",
+      "url": "https://open.spotify.com/track/5Ll1fMSA6ns9fO0f72h7OI"
+    },
+    {
+      "album": {
         "name": "Skin Deep",
         "url": "https://open.spotify.com/album/3pejPyeMAWaEasm6SzmURn"
       },
@@ -3361,7 +3487,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 122678,
       "name": "So Solar",
       "url": "https://open.spotify.com/track/1El70dxYc3YFC4QsXkxpbp"
@@ -3415,7 +3541,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 134237,
       "name": "Sommarvind",
       "url": "https://open.spotify.com/track/6ujiFW9V5Q3eRIhA8nYbqf"
@@ -3818,6 +3944,24 @@
     },
     {
       "album": {
+        "name": "Vana / Ocea",
+        "url": "https://open.spotify.com/album/1hOFPN4SzceP1DJD5LTEmU"
+      },
+      "artists": [
+        {
+          "name": "Valante",
+          "url": "https://open.spotify.com/artist/3s1vSYK2eb5fflFHezIbUh"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260509,
+      "name": "Vana",
+      "url": "https://open.spotify.com/track/1X1teXcaWQFH4iOTkCOh9a"
+    },
+    {
+      "album": {
         "name": "Vapor",
         "url": "https://open.spotify.com/album/6qT52SHbsLLy9PmaLvNFOr"
       },
@@ -3833,6 +3977,24 @@
       "duration_ms": 126545,
       "name": "Vapor",
       "url": "https://open.spotify.com/track/2Mt60ByiUEt1CEoMG6vdTo"
+    },
+    {
+      "album": {
+        "name": "Varuna / UP2U",
+        "url": "https://open.spotify.com/album/6Sq4QBMeCu2DrYOW6gRFqO"
+      },
+      "artists": [
+        {
+          "name": "Twelwe",
+          "url": "https://open.spotify.com/artist/0cXv4l0iCzhQrRljsAQyQW"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 314250,
+      "name": "Varuna",
+      "url": "https://open.spotify.com/track/3jxl6mTtkQwGCgzKleyYC5"
     },
     {
       "album": {
@@ -3941,6 +4103,42 @@
       "duration_ms": 163189,
       "name": "Wet Bravado",
       "url": "https://open.spotify.com/track/0ENdomkBjCzYQbHP0ITm6L"
+    },
+    {
+      "album": {
+        "name": "What Was It Like",
+        "url": "https://open.spotify.com/album/5Qgjv6Z2zgtMDtdRQhRDki"
+      },
+      "artists": [
+        {
+          "name": "AK",
+          "url": "https://open.spotify.com/artist/33Cf4O1KAVbtQa00scMi2A"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175522,
+      "name": "What Was It Like",
+      "url": "https://open.spotify.com/track/7rwWQ2lBEQvLzalmgIdEH7"
+    },
+    {
+      "album": {
+        "name": "Why Is This Bird So Jealous?",
+        "url": "https://open.spotify.com/album/39zLbFDfamlVJdVAA27OLt"
+      },
+      "artists": [
+        {
+          "name": "Chelle Ives",
+          "url": "https://open.spotify.com/artist/7birWEa67r8nIby8rV64EJ"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232336,
+      "name": "Why Is This Bird So Jealous?",
+      "url": "https://open.spotify.com/track/05iKKQ1NqXQ3HXW6tPWsAo"
     },
     {
       "album": {

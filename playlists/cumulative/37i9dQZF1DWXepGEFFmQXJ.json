@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "The cream of today's Country crop. Cover: Kelsea Ballerini",
+  "description": "The cream of today's Country crop. Cover: Kaylee Bell",
   "name": "Fresh Country",
   "published_playlist_ids": [
     "4BrfIt5VuvXM9ZKeooO5jX"
@@ -167,7 +167,7 @@
       ],
       "date_added": "2022-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-07",
       "duration_ms": 198746,
       "name": "Ain't Goin' Home",
       "url": "https://open.spotify.com/track/4HpMCEkK2bAYTsIaMnVfsc"
@@ -1834,6 +1834,24 @@
     },
     {
       "album": {
+        "name": "How You Love Someone",
+        "url": "https://open.spotify.com/album/5E3d726Sw4jFs5PPiDe5Du"
+      },
+      "artists": [
+        {
+          "name": "Mickey Guyton",
+          "url": "https://open.spotify.com/artist/6nfN5B7Jmi853SHa9106Hz"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265200,
+      "name": "How You Love Someone",
+      "url": "https://open.spotify.com/track/56XDLBRNjRSnQnwlWTuwKh"
+    },
+    {
+      "album": {
         "name": "Human The Double Album",
         "url": "https://open.spotify.com/album/3og8X1LYiVq3nPdMxpM9Wb"
       },
@@ -2471,6 +2489,24 @@
       "duration_ms": 228186,
       "name": "Minimum Wage",
       "url": "https://open.spotify.com/track/4ijajhHtBsOn91S4dgkhu7"
+    },
+    {
+      "album": {
+        "name": "Mr I Don't Care",
+        "url": "https://open.spotify.com/album/3YGsyzak046vwihQx3zThq"
+      },
+      "artists": [
+        {
+          "name": "Emmagen Rain",
+          "url": "https://open.spotify.com/artist/49eeshhMCwAN2P4HubqQQg"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169589,
+      "name": "Mr I Don't Care",
+      "url": "https://open.spotify.com/track/2C5mtY0lQK9qyX8fJx6rOw"
     },
     {
       "album": {
@@ -3229,6 +3265,24 @@
       "duration_ms": 160950,
       "name": "SMALL TOWN",
       "url": "https://open.spotify.com/track/1NesmjPETOsK9X9jR9qXZR"
+    },
+    {
+      "album": {
+        "name": "Small Town Friday Nights",
+        "url": "https://open.spotify.com/album/1q499514mNBWntSo9j1n5i"
+      },
+      "artists": [
+        {
+          "name": "Kaylee Bell",
+          "url": "https://open.spotify.com/artist/4J3TXBvAMckFbTxqxNYpDj"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183398,
+      "name": "Small Town Friday Nights",
+      "url": "https://open.spotify.com/track/4NkGmYoyhZ8qsJILRd5QSV"
     },
     {
       "album": {
@@ -4335,7 +4389,7 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-07",
       "duration_ms": 196253,
       "name": "You",
       "url": "https://open.spotify.com/track/2xPV95cfbyusygMTxpa3SW"

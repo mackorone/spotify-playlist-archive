@@ -4,7 +4,7 @@
 
 > 
 
-652 songs - 1 day 19 hr 49 min - [published](https://open.spotify.com/playlist/0xvGamaTTFg12gsauZPmmX)
+655 songs - 1 day 20 hr 0 min - [published](https://open.spotify.com/playlist/0xvGamaTTFg12gsauZPmmX)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -154,6 +154,7 @@
 | [Ego Tripping at the Gates of Hell](https://open.spotify.com/track/4xTaOn06UiRHkq2ZUjWIqI) | [The Flaming Lips](https://open.spotify.com/artist/16eRpMNXSQ15wuJoeqguaB) | [Yoshimi Battles the Pink Robots](https://open.spotify.com/album/49LA20VMk65fQyEaIzYdvf) | 4:31 | 2019-10-10 |  |
 | [Eine Symphonie Des Grauens](https://open.spotify.com/track/56GfTAFHN8HMuKEJwUSJnY) | [The Monochrome Set](https://open.spotify.com/artist/6TR7TYiDiS5okigndyMIpK) | [Compendium 75\-95](https://open.spotify.com/album/3eAFv7eJwVV0B1wYCh9tBJ) | 2:21 | 2020-05-18 |  |
 | [El Dorado](https://open.spotify.com/track/2ELlv9YM2qejc3oSHG8Pmo) | [James Wilsey](https://open.spotify.com/artist/7a2quIjWm2Yv9QMdjXNfaG) | [El Dorado](https://open.spotify.com/album/5ylrojCQL0VAtEnKHa05dX) | 3:27 | 2020-01-19 |  |
+| [Embassy Row \- Remastered](https://open.spotify.com/track/49SU8RpuDc3thJiOidCrqr) | [Pavement](https://open.spotify.com/artist/3inCNiUr4R6XQ3W43s9Aqi) | [Quarantine The Past: The Best Of Pavement](https://open.spotify.com/album/1SEcCdWiDHYEtQLjD4o212) | 3:50 | 2022-10-02 |  |
 | [Englishman In New York](https://open.spotify.com/track/4KFM3A5QF2IMcc6nHsu3Wp) | [Sting](https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk) | [...Nothing Like The Sun](https://open.spotify.com/album/3mVCQqgwEvwD7lHy9KHi7R) | 4:27 | 2020-05-07 |  |
 | [Enjoy the Silence \- Single Mix](https://open.spotify.com/track/1YwNlWLf8auhazSQUDQLFU) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX), [Daniel Miller](https://open.spotify.com/artist/4zvLVP1siaenGVnUBDo2nt), [Phil Legg](https://open.spotify.com/artist/7CXlqxbfckEDH2hQMjrGyZ) | [Enjoy the Silence](https://open.spotify.com/album/13OoJ5Y23cdo8CDAiQwznb) | 4:17 | 2020-08-31 |  |
 | [Eno Nothing](https://open.spotify.com/track/3IRSGpUi9NhYHl6EdfQo8D) | [Steelism](https://open.spotify.com/artist/4vsRWAlRRT40g7LjHiUMco) | [Eno Nothing](https://open.spotify.com/album/44VHKnRJRB38QN8pkOUmfp) | 3:36 | 2021-11-08 |  |
@@ -210,6 +211,7 @@
 | [Grass \- Remastered 2001](https://open.spotify.com/track/4GpmzLeUrLirnvzjb1epVy) | [XTC](https://open.spotify.com/artist/2qT62DYO8Ajb276vUJmvhz) | [Skylarking](https://open.spotify.com/album/3FVsJiQMI7dp0RfTBdWtMW) | 3:05 | 2019-02-03 |  |
 | [Grave Architecture](https://open.spotify.com/track/71m8TLglSP4Naj0CVPd9pc) | [Pavement](https://open.spotify.com/artist/3inCNiUr4R6XQ3W43s9Aqi) | [Wowee Zowee](https://open.spotify.com/album/5C1ePFbSzOGHdypuNBIDZh) | 4:16 | 2019-06-05 |  |
 | [Grey Lanes](https://open.spotify.com/track/0bULxvo3EybNcJ2GiEUbUV) | [Jacco Gardner](https://open.spotify.com/artist/5RfKXXQQn2OhZiT5iSggZn) | [Hypnophobia](https://open.spotify.com/album/3PDgKBSnMy41T0IDRqIudq) | 3:06 | 2020-01-13 |  |
+| [Grounded \- Remastered](https://open.spotify.com/track/0RvVB5q8bzBiSuDBtLs8MZ) | [Pavement](https://open.spotify.com/artist/3inCNiUr4R6XQ3W43s9Aqi) | [Quarantine The Past: The Best Of Pavement](https://open.spotify.com/album/1SEcCdWiDHYEtQLjD4o212) | 4:15 | 2022-10-05 |  |
 | [Growin' Up](https://open.spotify.com/track/6XqFS3UxIiDh0s6aNvSpc7) | [GUM](https://open.spotify.com/artist/4Oov8BULUOBiX6UVpP04JW) | [Delorean Highway](https://open.spotify.com/album/2bzz6q23UzitaG2UAdrrNN) | 4:07 | 2018-11-26 |  |
 | [Guess I'm Doing Fine](https://open.spotify.com/track/6Pxqd7tcXE0t4mfK7PGDra) | [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [Sea Change](https://open.spotify.com/album/5ieP11rJQvuYz0Ov3k03cy) | 4:49 | 2021-04-18 |  |
 | [Hand Mouth Dancer](https://open.spotify.com/track/5cvzazmKknWEYWG3taVUys) | [Pond](https://open.spotify.com/artist/4skJp5OKvcc9eKokiuhi2s) | [Tasmania](https://open.spotify.com/album/4K7jmZcYAmNlKdIxqKUbH6) | 4:40 | 2019-03-23 |  |
@@ -339,6 +341,7 @@
 | [Mighty Wings \- From "Top Gun" Original Soundtrack](https://open.spotify.com/track/32SckiFOYb8bwYewY51WA7) | [Cheap Trick](https://open.spotify.com/artist/1LB8qB5BPb3MHQrfkvifXU) | [Top Gun \- Motion Picture Soundtrack \(Special Expanded Edition\)](https://open.spotify.com/album/6K8iDZW8jPaoiqSzFFebJA) | 3:51 | 2022-06-01 |  |
 | [Milk It](https://open.spotify.com/track/4rtZtLpriBscg7zta3TZxp) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [In Utero \- 20th Anniversary Remaster](https://open.spotify.com/album/7wOOA7l306K8HfBKfPoafr) | 3:54 | 2019-05-29 |  |
 | [Mind Games \- Remastered 2010](https://open.spotify.com/track/3QmUhaY5KZiOuaUH8H71LG) | [John Lennon](https://open.spotify.com/artist/4x1nvY2FN8jxqAFA0DA02H) | [Mind Games](https://open.spotify.com/album/2GoiwFkRtErx0CHn6zaFJu) | 4:13 | 2019-08-01 |  |
+| [Mobius Trip](https://open.spotify.com/track/1bgTHTsCYkQVzZEJUks8la) | [H.P\. Lovecraft](https://open.spotify.com/artist/6VF7eMgoQIHyufTkib3Fff) | [H\. P\. Lovecraft II](https://open.spotify.com/album/0O0jxEVJruecYXTCQ8tNNj) | 2:44 | 2022-10-09 |  |
 | [Momentary Bliss \(feat\. slowthai and Slaves\)](https://open.spotify.com/track/5zZWKugaE2ZmnZN77HVfUH) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [slowthai](https://open.spotify.com/artist/3r1XkJ7vCs8kHBSzGvPLdP), [Slaves](https://open.spotify.com/artist/3xByNj8XW17oW0wsJhgzYL) | [Momentary Bliss \(feat\. slowthai and Slaves\)](https://open.spotify.com/album/1QwJwcvJ9wiYfGxwk6YZOy) | 3:41 | 2020-01-31 |  |
 | [Mona Lisas And Mad Hatters](https://open.spotify.com/track/5XY9FK0mB0BS0u8YB2ehN9) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Honky Chateau](https://open.spotify.com/album/2ei2X6ghPnw7YRwQtAH075) | 5:00 | 2020-01-20 |  |
 | [Monkey Gone to Heaven](https://open.spotify.com/track/1lFC3sMgOcDrVzNh8zXRnl) | [Pixies](https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT) | [Doolittle](https://open.spotify.com/album/6ymZBbRSmzAvoSGmwAFoxm) | 2:57 | 2020-10-17 |  |

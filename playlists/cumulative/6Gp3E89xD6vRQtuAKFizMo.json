@@ -23,7 +23,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 170500,
       "name": "1000 (feat. CP)",
       "url": "https://open.spotify.com/track/3CejJ593Dg54c4m8NlSpto"
@@ -826,6 +826,28 @@
     },
     {
       "album": {
+        "name": "Like Me (feat. Hooli)",
+        "url": "https://open.spotify.com/album/0rpyBk3C7Ttr7AyzlSyULH"
+      },
+      "artists": [
+        {
+          "name": "R3LL",
+          "url": "https://open.spotify.com/artist/1oIdLFKLJx0NicqeiEvBj5"
+        },
+        {
+          "name": "Hooli",
+          "url": "https://open.spotify.com/artist/2WyNeweHZJAuEy3Mrtj0iW"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143997,
+      "name": "Like Me (feat. Hooli)",
+      "url": "https://open.spotify.com/track/5NIRCmno5NeeDl8Bu5z0M9"
+    },
+    {
+      "album": {
         "name": "Loco",
         "url": "https://open.spotify.com/album/6mhUBbGECknvUeH5TzmrCi"
       },
@@ -1185,7 +1207,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 150400,
       "name": "On 2 Me",
       "url": "https://open.spotify.com/track/1R0TnAJuVKxFhxug65zOQL"
@@ -1833,6 +1855,28 @@
       "duration_ms": 232800,
       "name": "Under Pressure (feat. Dani King)",
       "url": "https://open.spotify.com/track/317fuhJ0JKXQetp2ArD8L9"
+    },
+    {
+      "album": {
+        "name": "Better Together",
+        "url": "https://open.spotify.com/album/1Ap4fL7irXlphPx9XIMkwq"
+      },
+      "artists": [
+        {
+          "name": "Gammer",
+          "url": "https://open.spotify.com/artist/5nd7jnne7zbsV2J5jBKNOY"
+        },
+        {
+          "name": "Linney",
+          "url": "https://open.spotify.com/artist/0vomb9Zaob10lPzxBcIiNb"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161333,
+      "name": "Underneath (feat. Linney)",
+      "url": "https://open.spotify.com/track/5ENZmalv3TTuZyZpihKyg1"
     },
     {
       "album": {

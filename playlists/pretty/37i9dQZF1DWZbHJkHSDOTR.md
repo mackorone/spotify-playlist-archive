@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZbHJkHSDOTR.md) - [plain]
 
 > Our editorial picks for R&B’s best of 2021 in Canada\. Cover: The Weeknd
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,413 likes - 100 songs - 5 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,440 likes - 100 songs - 5 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,7 +77,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZbHJkHSDOTR.md) - [plain]
 | 67 | [fue mejor \(feat\. SZA\)](https://open.spotify.com/track/4AIiCP2scA6jt6jAKfkvTX) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Sin Miedo \(del Amor y Otros Demonios\) ∞ \[Deluxe Version\]](https://open.spotify.com/album/64SrjXrYNfYvQcccFmYEHu) | 3:50 |
 | 68 | [Alright](https://open.spotify.com/track/6XAkMiZMKibPQdfI3cAAH1) | [Sara Diamond](https://open.spotify.com/artist/4azg4dtpH6PiewGHFzQEj0) | [Alright](https://open.spotify.com/album/3IuFxLLyTjCnGTZUCDb437) | 2:33 |
 | 69 | [Alone In Kenzo](https://open.spotify.com/track/6H5DZBYLOJ8pbmYy6JdTfq) | [Adria Kain](https://open.spotify.com/artist/2egizXtrbzmhjs0SgViG8y) | [When Flowers Bloom](https://open.spotify.com/album/1LjYyb9wGDzAwo1x8RVbUG) | 3:19 |
-| 70 | [Love is a losing game](https://open.spotify.com/track/2oI1Avedp7KK4Wytv2Dx0O) | [THEHONESTGUY](https://open.spotify.com/artist/5Pqfj0BtkBBdvxrAhfOdIt), [Malaika Khadijaa](https://open.spotify.com/artist/6xMconhkZz3GpS44xF6Fd0) | [Love Songs For No One](https://open.spotify.com/album/6o4708T5sd3UIRsvTbyBwe) | 3:00 |
+| 70 | [Love is a losing game](https://open.spotify.com/track/2MHmEsGCpTp3pr9mceaSCp) | [THEHONESTGUY](https://open.spotify.com/artist/5Pqfj0BtkBBdvxrAhfOdIt), [Malaika Khadijaa](https://open.spotify.com/artist/6xMconhkZz3GpS44xF6Fd0) | [Love Songs For No One](https://open.spotify.com/album/62Mw7jxr02ewFa7wZ0sdRl) | 3:00 |
 | 71 | [TIME FOR YOU](https://open.spotify.com/track/1DPLs8cVyL1Trlg5Kayua7) | [FRVRFRIDAY](https://open.spotify.com/artist/2jwmP4TgzTGqjCfcXMDayW) | [TIME FOR YOU](https://open.spotify.com/album/7kdjlaRQdB1u6PhdTSgXMC) | 3:23 |
 | 72 | [Polytics](https://open.spotify.com/track/29DpuCxcRK8igslbq7RSD4) | [Idman](https://open.spotify.com/artist/6N13mUTgkfYEUmW8R2GH0G) | [Polytics](https://open.spotify.com/album/3znffL5bZo1Fkjj5j2xKjj) | 2:35 |
 | 73 | [I CAN HAVE IT ALL \(feat\. Bryson Tiller, H.E.R\. & Meek Mill\)](https://open.spotify.com/track/1WTv76ouGCJZ0Rhz15YkIC) | [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP), [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs), [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc), [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [KHALED KHALED](https://open.spotify.com/album/5kE2OAuUYGBqqzscqgBXXf) | 4:30 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZbHJkHSDOTR.md) - [plain]
 | 99 | [On One](https://open.spotify.com/track/0evKTZ9MpgVcCd5TBvmeD6) | [Joyce Wrice](https://open.spotify.com/artist/24Cf1irKt7kcewb9OOkPum), [Freddie Gibbs](https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb) | [On One](https://open.spotify.com/album/3cxYmtH9abCdqR0XkkGW16) | 3:25 |
 | 100 | [Sugar](https://open.spotify.com/track/5XGTYltLDKyl7MW3MzydnL) | [Notifi](https://open.spotify.com/artist/4d0LzyckWWWn04Jt8amiLY), [Sara Kashani](https://open.spotify.com/artist/6hTX1Ms0YCaadCMGF0ZJeJ) | [Sugar](https://open.spotify.com/album/2sf79K9Sr8UC3FYoAwkmys) | 3:33 |
 
-Snapshot ID: `MTY0MDIxNzYxNCwwMDAwMDAwMGZmMjUwMjQ1NjlmNjllZjhkYzBkNGJmZDQyNzY5NzBl`
+Snapshot ID: `MTY0MDIxNzYxNCwwMDAwMDAwMDUwNDM2MGRiMWZlNzVkMGI4ZTA3NzcyMGM3ODk3MDg4`

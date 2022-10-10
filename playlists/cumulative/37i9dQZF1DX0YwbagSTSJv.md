@@ -4,7 +4,7 @@
 
 > Let it all go.
 
-128 songs - 7 hr 22 min - [published](https://open.spotify.com/playlist/3yPTKwCyOEi0lpqAaQ8E7k)
+131 songs - 7 hr 32 min - [published](https://open.spotify.com/playlist/3yPTKwCyOEi0lpqAaQ8E7k)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,6 +74,7 @@
 | [Liquid Air](https://open.spotify.com/track/0EReYmRKdy1iq1rfuGaEP5) | [Sea of Waves](https://open.spotify.com/artist/4R8zw6rwLPscyd42vMpMmo) | [Liquid Air](https://open.spotify.com/album/70mPe6QZPnJJmQCok7bxBW) | 3:33 | 2021-12-23 |  |
 | [Many Worlds](https://open.spotify.com/track/3ZLa3mv9jM0CzuhKMqsOgE) | [Sureborn](https://open.spotify.com/artist/6pEkJOAdhn8zjYFNH7uZ8g) | [Many Worlds](https://open.spotify.com/album/21AI4N5IBr34kmDihjEiGh) | 4:58 | 2021-12-23 |  |
 | [Matterhorn Mountain](https://open.spotify.com/track/60jmPhNn2QVUPRfpjZZUB4) | [Moments of Clarity](https://open.spotify.com/artist/752MndEnUavC68pPM6NtxB) | [Mindful Sleep](https://open.spotify.com/album/2kFyWqR5s7lvq8uNYGx6mj) | 3:34 | 2021-12-23 |  |
+| [Midnight Relief](https://open.spotify.com/track/3lzrmp1ug1AEu5KQ3AkzO6) | [Astral Wonder](https://open.spotify.com/artist/24JkKS4b8yp9usUXPL0I3G) | [Midnight Relief](https://open.spotify.com/album/5S9SpAQQFbgO5edXpXYd8A) | 3:06 | 2022-10-07 |  |
 | [Neend](https://open.spotify.com/track/2NYZLz3zPsLt5pZlLbN2zQ) | [Asanah](https://open.spotify.com/artist/2DCbSulOeRJeGXct0hQOzR) | [Neend](https://open.spotify.com/album/1JKk0JTE1wSml1uHTYIOBo) | 2:37 | 2021-12-23 | 2022-09-03 |
 | [New Start](https://open.spotify.com/track/1hLLcQHEakwCMj8GJO8r7e) | [Nova Cantabile](https://open.spotify.com/artist/2Y6DHL3HjAYTtjKurRxg1l) | [Clear Voice](https://open.spotify.com/album/74ihRZpF4PUrmjR231bvVV) | 3:06 | 2021-12-23 |  |
 | [Night at Sea](https://open.spotify.com/track/1djlK49yDx6ukfsOlox6MY) | [Golden Slumber](https://open.spotify.com/artist/1x02xJIKGceDvDd4yugtQj) | [Night at Sea](https://open.spotify.com/album/0e1pQgTkxdLvDxIqgWNgaE) | 3:17 | 2022-02-18 |  |
@@ -86,6 +87,7 @@
 | [Overcome \(Alpha Waves\)](https://open.spotify.com/track/66tcVcibuPYWs182LeINwu) | [Leerseite](https://open.spotify.com/artist/7l8dnU5tDk33Zw78dgfwi5) | [The Power of Now \(Alpha Binaural Beats\)](https://open.spotify.com/album/3paWjmhxh5wcMFRumXjtxk) | 3:09 | 2021-12-23 |  |
 | [Pace Of Nature](https://open.spotify.com/track/1sB226w76E26PZRxcSA8Uq) | [Wissal Sakti](https://open.spotify.com/artist/1FiERGNLIiWDYa2nA0TcGD) | [Pace Of Nature](https://open.spotify.com/album/6NJjyT1Kr57k811DYQ7WEA) | 3:06 | 2021-12-23 | 2022-09-24 |
 | [Pacificae](https://open.spotify.com/track/4ZnpF2DTkz3F0RcvI11KFQ) | [Zena Andes](https://open.spotify.com/artist/3QxEMMVln4ehYRy753oUjl) | [Pacificae](https://open.spotify.com/album/7L6L62G7AVzn24bjfNVlUQ) | 3:36 | 2021-12-23 |  |
+| [Peaceful Dreams](https://open.spotify.com/track/4dXeSoH8k8iq8uQz2ZZZSK) | [Menidia](https://open.spotify.com/artist/4scbgnFpSTNWZgSaxcXLS8) | [The Far Distance](https://open.spotify.com/album/4BsjkgUXT2QBtig8ONnvks) | 3:27 | 2022-10-07 |  |
 | [Peaceful Movement](https://open.spotify.com/track/6OQzGwdsy5ny1HRsNzkUth) | [ZIWA](https://open.spotify.com/artist/0b4CwcngfsLbUi3lNZ1WRf) | [Peaceful Movement](https://open.spotify.com/album/6WhbkTG9bSpcHmP01t2P87) | 2:53 | 2022-05-25 | 2022-09-03 |
 | [Peaceful Pond](https://open.spotify.com/track/2CYFC2xg3yXvQPPuH6oIel) | [KLXX](https://open.spotify.com/artist/5Vau7AVtTr4wKVibmML0fP) | [Peaceful Pond](https://open.spotify.com/album/2kjvF7IfjbNtmmhnjZ9ewo) | 3:27 | 2021-12-23 |  |
 | [peaceful year calling](https://open.spotify.com/track/2zyeQDY1Jg7DUHhmZyyUAn) | [our distant worlds](https://open.spotify.com/artist/4fMFhhP8Sqi3WWiaoOm5QT) | [peaceful year calling](https://open.spotify.com/album/0zoMuyHG3z5aMtCFzjeXsf) | 3:08 | 2022-01-06 |  |
@@ -107,6 +109,7 @@
 | [Slumbers](https://open.spotify.com/track/6uqlR64MywWP2zE0Dj5PlA) | [La Torre Infinita](https://open.spotify.com/artist/6DZZrqjeWGzPgM7BTp9YeB) | [La Torre Infinita](https://open.spotify.com/album/5mhZaTQqPkSSjB4iRyvx9Q) | 3:03 | 2021-12-23 |  |
 | [Small Sprites](https://open.spotify.com/track/360PAyaCRAAFVJrOnkBQCe) | [Along We Tumble](https://open.spotify.com/artist/1afeM9wpVryFnkVrmhk8Kz) | [Eigenvalues](https://open.spotify.com/album/7u87pvBz1KLsYvem6j5pa9) | 3:16 | 2021-12-23 | 2022-09-24 |
 | [Sobre las Nubes](https://open.spotify.com/track/6FJXxbDwCd0ufovPFEt5Gl) | [Tormenta Solar](https://open.spotify.com/artist/5ibyrj4IdKuiv4huscZSuY) | [Sobre las Nubes](https://open.spotify.com/album/56tWtRQgQUYB8gJmomGrZS) | 2:57 | 2022-09-23 |  |
+| [Softly Drift](https://open.spotify.com/track/2zUpfJ2ktCYOjprfIaoLGq) | [Tranquil Journeys](https://open.spotify.com/artist/54FHbjddYi2zgSZ1QNgkPn) | [Softly Drift](https://open.spotify.com/album/1Z863c5YVm586N8lv6JREG) | 3:15 | 2022-10-07 |  |
 | [Stability](https://open.spotify.com/track/3TtUdxpTryn7LFH88bCsLS) | [Eight Dimentional](https://open.spotify.com/artist/1yyFV6PGI3TOJ2XLS60ZKV) | [Inner Self](https://open.spotify.com/album/6CJRH9BowxB72eKpVrPtKx) | 2:55 | 2021-12-23 |  |
 | [Stargaze](https://open.spotify.com/track/4lMmoawRGvO419cZgRP9mV) | [Antero Lehto](https://open.spotify.com/artist/7gBBSNhDsDRvI4XfsVNpC8) | [Ascendent](https://open.spotify.com/album/7wnhFQ2b7bGwjyLSiqRyt4) | 2:39 | 2022-06-24 |  |
 | [Stimmung](https://open.spotify.com/track/6mmma8gbZNJcTkG40Nr2vx) | [Leo Baumgart](https://open.spotify.com/artist/0qFeRGzewB33eItfoNqrvd) | [Stimmung](https://open.spotify.com/album/03M9YKu5qpJzxxPKx076fA) | 2:18 | 2021-12-23 |  |

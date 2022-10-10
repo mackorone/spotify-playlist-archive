@@ -1,12 +1,12 @@
 {
   "description": "The wave of Latinos in Hip-Hop in the U.S. Cover: MoneySign Suede",
-  "num_followers": 16321,
+  "num_followers": 16603,
   "original_name": "Our Wave, Nuestro Hip-Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Mzk0NzEyMCwwMDAwMDAwMGI2NTBlMzNiYWFkNmZlNzY2NzQ2NmY2YWNiZWNlNDQw",
+  "snapshot_id": "MTY2Mzk0NzEyMCwwMDAwMDAwMDk3ZTE4ZDI5OTIzOWIzMTdiMDYzZjk0MWUxODNiNmM5",
   "tracks": [
     {
       "added_at": "2022-09-23 15:32:00",
@@ -147,22 +147,6 @@
     {
       "added_at": "2022-09-23 15:32:00",
       "album": {
-        "name": "Up",
-        "url": "https://open.spotify.com/album/2rhZNMom0WgyCfamtuvsKZ"
-      },
-      "artists": [
-        {
-          "name": "OHGEESY",
-          "url": "https://open.spotify.com/artist/3ppQEG71r7jVpI8RudzycF"
-        }
-      ],
-      "duration_ms": 146938,
-      "name": "Up",
-      "url": "https://open.spotify.com/track/7wcmdOAtyLQxIs2d6h08YC"
-    },
-    {
-      "added_at": "2022-09-23 15:32:00",
-      "album": {
         "name": "2 Aliv\u00eb",
         "url": "https://open.spotify.com/album/0d1BFY8z15vye3KjtLvF3u"
       },
@@ -175,6 +159,22 @@
       "duration_ms": 167186,
       "name": "Poppin",
       "url": "https://open.spotify.com/track/3wn8nOygkHLUQ9dlXM1rKW"
+    },
+    {
+      "added_at": "2022-09-23 15:32:00",
+      "album": {
+        "name": "Up",
+        "url": "https://open.spotify.com/album/2rhZNMom0WgyCfamtuvsKZ"
+      },
+      "artists": [
+        {
+          "name": "OHGEESY",
+          "url": "https://open.spotify.com/artist/3ppQEG71r7jVpI8RudzycF"
+        }
+      ],
+      "duration_ms": 146938,
+      "name": "Up",
+      "url": "https://open.spotify.com/track/7wcmdOAtyLQxIs2d6h08YC"
     },
     {
       "added_at": "2022-09-23 15:32:00",
@@ -455,22 +455,6 @@
     {
       "added_at": "2022-09-23 15:32:00",
       "album": {
-        "name": "Risk Taker",
-        "url": "https://open.spotify.com/album/1zkmSFV82BqYQSit5K9fyu"
-      },
-      "artists": [
-        {
-          "name": "CNG",
-          "url": "https://open.spotify.com/artist/4zYi7nhOqLxJ9u2YE8Ysca"
-        }
-      ],
-      "duration_ms": 156792,
-      "name": "Risk Taker",
-      "url": "https://open.spotify.com/track/0NfG30rZJDLi9oO6P8XV3Z"
-    },
-    {
-      "added_at": "2022-09-23 15:32:00",
-      "album": {
         "name": "Toxic",
         "url": "https://open.spotify.com/album/2EMFr4pSI55v5Xm6FgUBvk"
       },
@@ -483,6 +467,22 @@
       "duration_ms": 159101,
       "name": "Toxic",
       "url": "https://open.spotify.com/track/2HzSAg4A7t5yM8Ly3JpaZR"
+    },
+    {
+      "added_at": "2022-09-23 15:32:00",
+      "album": {
+        "name": "Risk Taker",
+        "url": "https://open.spotify.com/album/1zkmSFV82BqYQSit5K9fyu"
+      },
+      "artists": [
+        {
+          "name": "CNG",
+          "url": "https://open.spotify.com/artist/4zYi7nhOqLxJ9u2YE8Ysca"
+        }
+      ],
+      "duration_ms": 156792,
+      "name": "Risk Taker",
+      "url": "https://open.spotify.com/track/0NfG30rZJDLi9oO6P8XV3Z"
     },
     {
       "added_at": "2022-09-23 15:32:00",
@@ -563,22 +563,18 @@
     {
       "added_at": "2022-09-23 15:32:00",
       "album": {
-        "name": "PRO CLUB",
-        "url": "https://open.spotify.com/album/23IDJMWYQ8AFrVkw7x5h61"
+        "name": "I Ain't Gon Lie",
+        "url": "https://open.spotify.com/album/7BaJI830X29OANOUcCCztZ"
       },
       "artists": [
         {
-          "name": "CNG",
-          "url": "https://open.spotify.com/artist/4zYi7nhOqLxJ9u2YE8Ysca"
-        },
-        {
-          "name": "Peysoh",
-          "url": "https://open.spotify.com/artist/27OdVby2oeFjM1C5XvC3hC"
+          "name": "J.I the Prince of N.Y",
+          "url": "https://open.spotify.com/artist/2eqoJbzUGDwys5ENUkbT3h"
         }
       ],
-      "duration_ms": 166974,
-      "name": "PRO CLUB",
-      "url": "https://open.spotify.com/track/4aTOaLYeM0WOhY1kmwS0zz"
+      "duration_ms": 120000,
+      "name": "I Ain't Gon Lie",
+      "url": "https://open.spotify.com/track/7KFaMe479G4CSER4kU5jrf"
     },
     {
       "added_at": "2022-09-23 15:32:00",
@@ -603,6 +599,26 @@
     {
       "added_at": "2022-09-23 15:32:00",
       "album": {
+        "name": "PRO CLUB",
+        "url": "https://open.spotify.com/album/23IDJMWYQ8AFrVkw7x5h61"
+      },
+      "artists": [
+        {
+          "name": "CNG",
+          "url": "https://open.spotify.com/artist/4zYi7nhOqLxJ9u2YE8Ysca"
+        },
+        {
+          "name": "Peysoh",
+          "url": "https://open.spotify.com/artist/27OdVby2oeFjM1C5XvC3hC"
+        }
+      ],
+      "duration_ms": 166974,
+      "name": "PRO CLUB",
+      "url": "https://open.spotify.com/track/4aTOaLYeM0WOhY1kmwS0zz"
+    },
+    {
+      "added_at": "2022-09-23 15:32:00",
+      "album": {
         "name": "Bag Talk",
         "url": "https://open.spotify.com/album/39Js0SBbu12ZEUFaHDGI2v"
       },
@@ -619,22 +635,6 @@
       "duration_ms": 141824,
       "name": "Bag Talk",
       "url": "https://open.spotify.com/track/7zcFDW8HxWlL7abAPMko1d"
-    },
-    {
-      "added_at": "2022-09-23 15:32:00",
-      "album": {
-        "name": "Dead Homies",
-        "url": "https://open.spotify.com/album/5QMWPkHs62CQ0W0zZTpzUY"
-      },
-      "artists": [
-        {
-          "name": "Fenix Flexin",
-          "url": "https://open.spotify.com/artist/63GIj2yhFvX1Bzphb9JgVb"
-        }
-      ],
-      "duration_ms": 172654,
-      "name": "Dead Homies",
-      "url": "https://open.spotify.com/track/0cx4KCYlaHkp9BedyX6mTa"
     },
     {
       "added_at": "2022-09-23 15:32:00",
@@ -659,18 +659,18 @@
     {
       "added_at": "2022-09-23 15:32:00",
       "album": {
-        "name": "I Ain't Gon Lie",
-        "url": "https://open.spotify.com/album/7BaJI830X29OANOUcCCztZ"
+        "name": "Dead Homies",
+        "url": "https://open.spotify.com/album/5QMWPkHs62CQ0W0zZTpzUY"
       },
       "artists": [
         {
-          "name": "J.I the Prince of N.Y",
-          "url": "https://open.spotify.com/artist/2eqoJbzUGDwys5ENUkbT3h"
+          "name": "Fenix Flexin",
+          "url": "https://open.spotify.com/artist/63GIj2yhFvX1Bzphb9JgVb"
         }
       ],
-      "duration_ms": 120000,
-      "name": "I Ain't Gon Lie",
-      "url": "https://open.spotify.com/track/7KFaMe479G4CSER4kU5jrf"
+      "duration_ms": 172654,
+      "name": "Dead Homies",
+      "url": "https://open.spotify.com/track/0cx4KCYlaHkp9BedyX6mTa"
     },
     {
       "added_at": "2022-09-23 15:32:00",
@@ -691,22 +691,6 @@
     {
       "added_at": "2022-09-23 15:32:00",
       "album": {
-        "name": "Millions",
-        "url": "https://open.spotify.com/album/6cBp4U7HfSCtDNsI6pKYEL"
-      },
-      "artists": [
-        {
-          "name": "MoneySign Suede",
-          "url": "https://open.spotify.com/artist/5w61NhDHxboaPUjFZ9r2vh"
-        }
-      ],
-      "duration_ms": 148000,
-      "name": "Millions",
-      "url": "https://open.spotify.com/track/01TeqS09tyiJpwnvBzBzX2"
-    },
-    {
-      "added_at": "2022-09-23 15:32:00",
-      "album": {
         "name": "Ghetto Birds & Thugs",
         "url": "https://open.spotify.com/album/3b3FoQ8WMEt3Dw0E4bS9GL"
       },
@@ -723,38 +707,18 @@
     {
       "added_at": "2022-09-23 15:32:00",
       "album": {
-        "name": "For Me",
-        "url": "https://open.spotify.com/album/6TPdmANSKfAkzYRWHC2WgI"
+        "name": "Millions",
+        "url": "https://open.spotify.com/album/6cBp4U7HfSCtDNsI6pKYEL"
       },
       "artists": [
         {
-          "name": "Lil Maru",
-          "url": "https://open.spotify.com/artist/6tfVJrqicGpxRbz7q6NJ0L"
+          "name": "MoneySign Suede",
+          "url": "https://open.spotify.com/artist/5w61NhDHxboaPUjFZ9r2vh"
         }
       ],
-      "duration_ms": 138725,
-      "name": "For Me",
-      "url": "https://open.spotify.com/track/59wsqc9aVywLF487u24T6a"
-    },
-    {
-      "added_at": "2022-09-23 15:32:00",
-      "album": {
-        "name": "La Mafia Paga",
-        "url": "https://open.spotify.com/album/1svf3BA1GzU6nkUhwupotC"
-      },
-      "artists": [
-        {
-          "name": "Jali$co",
-          "url": "https://open.spotify.com/artist/7Kygh8W8b3jq0rnIQ1Go83"
-        },
-        {
-          "name": "Chito Rana$",
-          "url": "https://open.spotify.com/artist/7GZ4lesJqy9GNDhGORezoz"
-        }
-      ],
-      "duration_ms": 114916,
-      "name": "P's Up",
-      "url": "https://open.spotify.com/track/3qGC7ogRmw21BK7EBvSfVu"
+      "duration_ms": 148000,
+      "name": "Millions",
+      "url": "https://open.spotify.com/track/01TeqS09tyiJpwnvBzBzX2"
     },
     {
       "added_at": "2022-09-23 15:32:00",
@@ -783,6 +747,102 @@
     {
       "added_at": "2022-09-23 15:32:00",
       "album": {
+        "name": "La Mafia Paga",
+        "url": "https://open.spotify.com/album/1svf3BA1GzU6nkUhwupotC"
+      },
+      "artists": [
+        {
+          "name": "Jali$co",
+          "url": "https://open.spotify.com/artist/7Kygh8W8b3jq0rnIQ1Go83"
+        },
+        {
+          "name": "Chito Rana$",
+          "url": "https://open.spotify.com/artist/7GZ4lesJqy9GNDhGORezoz"
+        }
+      ],
+      "duration_ms": 114916,
+      "name": "P's Up",
+      "url": "https://open.spotify.com/track/3qGC7ogRmw21BK7EBvSfVu"
+    },
+    {
+      "added_at": "2022-09-23 15:32:00",
+      "album": {
+        "name": "For Me",
+        "url": "https://open.spotify.com/album/6TPdmANSKfAkzYRWHC2WgI"
+      },
+      "artists": [
+        {
+          "name": "Lil Maru",
+          "url": "https://open.spotify.com/artist/6tfVJrqicGpxRbz7q6NJ0L"
+        }
+      ],
+      "duration_ms": 138725,
+      "name": "For Me",
+      "url": "https://open.spotify.com/track/59wsqc9aVywLF487u24T6a"
+    },
+    {
+      "added_at": "2022-09-23 15:32:00",
+      "album": {
+        "name": "Club Banger (feat. Peysoh)",
+        "url": "https://open.spotify.com/album/40T7UEIyM87Aw6r7EcRhwc"
+      },
+      "artists": [
+        {
+          "name": "Lil Weirdo",
+          "url": "https://open.spotify.com/artist/0ktQyBsFidxvy9e6naHXMo"
+        },
+        {
+          "name": "Peysoh",
+          "url": "https://open.spotify.com/artist/27OdVby2oeFjM1C5XvC3hC"
+        }
+      ],
+      "duration_ms": 146160,
+      "name": "Club Banger (feat. Peysoh)",
+      "url": "https://open.spotify.com/track/3ROrEXzBDWsA6XtXcIs6Ot"
+    },
+    {
+      "added_at": "2022-09-23 15:32:00",
+      "album": {
+        "name": "Down Bad",
+        "url": "https://open.spotify.com/album/64SQ4vk2JrvMd3fL62gPtf"
+      },
+      "artists": [
+        {
+          "name": "Devour",
+          "url": "https://open.spotify.com/artist/1rC6V966tijfNzIIIfATvG"
+        }
+      ],
+      "duration_ms": 153750,
+      "name": "Down Bad",
+      "url": "https://open.spotify.com/track/1OFNP3NY13l8r0VK1eRY1w"
+    },
+    {
+      "added_at": "2022-09-23 15:32:00",
+      "album": {
+        "name": "Grimey Park",
+        "url": "https://open.spotify.com/album/1IhrrkevqxaxKpylbMfSzF"
+      },
+      "artists": [
+        {
+          "name": "Swifty Blue",
+          "url": "https://open.spotify.com/artist/68CRxZTAqk19AznItZInip"
+        },
+        {
+          "name": "Peysoh",
+          "url": "https://open.spotify.com/artist/27OdVby2oeFjM1C5XvC3hC"
+        },
+        {
+          "name": "MoneySign Suede",
+          "url": "https://open.spotify.com/artist/5w61NhDHxboaPUjFZ9r2vh"
+        }
+      ],
+      "duration_ms": 163350,
+      "name": "Grimey Park",
+      "url": "https://open.spotify.com/track/4gfMy1g8KrfSiUTz6AZTYX"
+    },
+    {
+      "added_at": "2022-09-23 15:32:00",
+      "album": {
         "name": "My Light",
         "url": "https://open.spotify.com/album/32KAZuMWyfCY3MkIY5BtK1"
       },
@@ -807,22 +867,6 @@
     {
       "added_at": "2022-09-23 15:32:00",
       "album": {
-        "name": "Down Bad",
-        "url": "https://open.spotify.com/album/64SQ4vk2JrvMd3fL62gPtf"
-      },
-      "artists": [
-        {
-          "name": "Devour",
-          "url": "https://open.spotify.com/artist/1rC6V966tijfNzIIIfATvG"
-        }
-      ],
-      "duration_ms": 153750,
-      "name": "Down Bad",
-      "url": "https://open.spotify.com/track/1OFNP3NY13l8r0VK1eRY1w"
-    },
-    {
-      "added_at": "2022-09-23 15:32:00",
-      "album": {
         "name": "She Gon Choose (feat. Lil Weirdo)",
         "url": "https://open.spotify.com/album/1CwrdpNQXAxGJCn2nzA9Hz"
       },
@@ -839,26 +883,6 @@
       "duration_ms": 156984,
       "name": "She Gon Choose (feat. Lil Weirdo)",
       "url": "https://open.spotify.com/track/2TWmbQKpAPXudKaTZkk544"
-    },
-    {
-      "added_at": "2022-09-23 15:32:00",
-      "album": {
-        "name": "Club Banger (feat. Peysoh)",
-        "url": "https://open.spotify.com/album/40T7UEIyM87Aw6r7EcRhwc"
-      },
-      "artists": [
-        {
-          "name": "Lil Weirdo",
-          "url": "https://open.spotify.com/artist/0ktQyBsFidxvy9e6naHXMo"
-        },
-        {
-          "name": "Peysoh",
-          "url": "https://open.spotify.com/artist/27OdVby2oeFjM1C5XvC3hC"
-        }
-      ],
-      "duration_ms": 146160,
-      "name": "Club Banger (feat. Peysoh)",
-      "url": "https://open.spotify.com/track/3ROrEXzBDWsA6XtXcIs6Ot"
     },
     {
       "added_at": "2022-09-23 15:32:00",
@@ -947,30 +971,6 @@
     {
       "added_at": "2022-09-23 15:32:00",
       "album": {
-        "name": "Grimey Park",
-        "url": "https://open.spotify.com/album/1IhrrkevqxaxKpylbMfSzF"
-      },
-      "artists": [
-        {
-          "name": "Swifty Blue",
-          "url": "https://open.spotify.com/artist/68CRxZTAqk19AznItZInip"
-        },
-        {
-          "name": "Peysoh",
-          "url": "https://open.spotify.com/artist/27OdVby2oeFjM1C5XvC3hC"
-        },
-        {
-          "name": "MoneySign Suede",
-          "url": "https://open.spotify.com/artist/5w61NhDHxboaPUjFZ9r2vh"
-        }
-      ],
-      "duration_ms": 163350,
-      "name": "Grimey Park",
-      "url": "https://open.spotify.com/track/4gfMy1g8KrfSiUTz6AZTYX"
-    },
-    {
-      "added_at": "2022-09-23 15:32:00",
-      "album": {
         "name": "Phases",
         "url": "https://open.spotify.com/album/6SvYsW2oRwF5WcrJT36jbM"
       },
@@ -999,22 +999,6 @@
       "duration_ms": 145520,
       "name": "Tyra Banks",
       "url": "https://open.spotify.com/track/3osnsU7jBfDuscsa1yDEfV"
-    },
-    {
-      "added_at": "2022-09-23 15:32:00",
-      "album": {
-        "name": "Gang Coast",
-        "url": "https://open.spotify.com/album/23HhYyOQQFZfP9Kn8a5YJS"
-      },
-      "artists": [
-        {
-          "name": "Young Drummer Boy",
-          "url": "https://open.spotify.com/artist/29AiXKmv12zkDsiVwzTDng"
-        }
-      ],
-      "duration_ms": 196608,
-      "name": "Am I Wrong",
-      "url": "https://open.spotify.com/track/5yON9SNjj5hajnelP9KoFm"
     },
     {
       "added_at": "2022-09-23 15:32:00",
@@ -1051,6 +1035,22 @@
     {
       "added_at": "2022-09-23 15:32:00",
       "album": {
+        "name": "Gang Coast",
+        "url": "https://open.spotify.com/album/23HhYyOQQFZfP9Kn8a5YJS"
+      },
+      "artists": [
+        {
+          "name": "Young Drummer Boy",
+          "url": "https://open.spotify.com/artist/29AiXKmv12zkDsiVwzTDng"
+        }
+      ],
+      "duration_ms": 196608,
+      "name": "Am I Wrong",
+      "url": "https://open.spotify.com/track/5yON9SNjj5hajnelP9KoFm"
+    },
+    {
+      "added_at": "2022-09-23 15:32:00",
+      "album": {
         "name": "Palm Trees",
         "url": "https://open.spotify.com/album/11JcbcyWhiZ3x8y31cYeun"
       },
@@ -1071,30 +1071,6 @@
       "duration_ms": 250000,
       "name": "Palm Trees",
       "url": "https://open.spotify.com/track/0MQlHtQUOHzof3mDZJ7ApA"
-    },
-    {
-      "added_at": "2022-09-23 15:32:00",
-      "album": {
-        "name": "Badabing",
-        "url": "https://open.spotify.com/album/5no7RSOP6ijBzUQ0F4q2ha"
-      },
-      "artists": [
-        {
-          "name": "Coyote",
-          "url": "https://open.spotify.com/artist/2k3jiPRh7ucbD6OmVTi1BD"
-        },
-        {
-          "name": "Cypress Moreno",
-          "url": "https://open.spotify.com/artist/4jE7aARJBLLaGyKNhEm6jk"
-        },
-        {
-          "name": "Bravo the Bagchaser",
-          "url": "https://open.spotify.com/artist/31t9hT68QYCDPWkkUVrQjY"
-        }
-      ],
-      "duration_ms": 185648,
-      "name": "Badabing",
-      "url": "https://open.spotify.com/track/3qBOFluQ2JvErrNHO8X8fr"
     },
     {
       "added_at": "2022-09-23 15:32:00",
@@ -1131,6 +1107,30 @@
     {
       "added_at": "2022-09-23 15:32:00",
       "album": {
+        "name": "Badabing",
+        "url": "https://open.spotify.com/album/5no7RSOP6ijBzUQ0F4q2ha"
+      },
+      "artists": [
+        {
+          "name": "Coyote",
+          "url": "https://open.spotify.com/artist/2k3jiPRh7ucbD6OmVTi1BD"
+        },
+        {
+          "name": "Cypress Moreno",
+          "url": "https://open.spotify.com/artist/4jE7aARJBLLaGyKNhEm6jk"
+        },
+        {
+          "name": "Bravo the Bagchaser",
+          "url": "https://open.spotify.com/artist/31t9hT68QYCDPWkkUVrQjY"
+        }
+      ],
+      "duration_ms": 185648,
+      "name": "Badabing",
+      "url": "https://open.spotify.com/track/3qBOFluQ2JvErrNHO8X8fr"
+    },
+    {
+      "added_at": "2022-09-23 15:32:00",
+      "album": {
         "name": "El Idolo",
         "url": "https://open.spotify.com/album/5iYKrxXHkXQv4aStyC6qdn"
       },
@@ -1163,18 +1163,18 @@
     {
       "added_at": "2022-09-23 15:32:00",
       "album": {
-        "name": "No Chaser",
-        "url": "https://open.spotify.com/album/5yQQE5vCl9jre6OgS0WTv1"
+        "name": "Vivir...",
+        "url": "https://open.spotify.com/album/4KrXrRKvWfkWHxmZfAKUdM"
       },
       "artists": [
         {
-          "name": "Reverie",
-          "url": "https://open.spotify.com/artist/4K2C6TgREygMW8xo4jymq4"
+          "name": "Bodega Bamz",
+          "url": "https://open.spotify.com/artist/6tIgdyPfc6RVQJKCDd9ep9"
         }
       ],
-      "duration_ms": 171241,
-      "name": "No Chaser",
-      "url": "https://open.spotify.com/track/0W2WjKSYqPVSeIcuQGdzEA"
+      "duration_ms": 135959,
+      "name": "Palo De Santo",
+      "url": "https://open.spotify.com/track/0AjJKyp4VFSU2PFNYdLea6"
     },
     {
       "added_at": "2022-09-23 15:32:00",
@@ -1199,18 +1199,18 @@
     {
       "added_at": "2022-09-23 15:32:00",
       "album": {
-        "name": "Vivir...",
-        "url": "https://open.spotify.com/album/4KrXrRKvWfkWHxmZfAKUdM"
+        "name": "No Chaser",
+        "url": "https://open.spotify.com/album/5yQQE5vCl9jre6OgS0WTv1"
       },
       "artists": [
         {
-          "name": "Bodega Bamz",
-          "url": "https://open.spotify.com/artist/6tIgdyPfc6RVQJKCDd9ep9"
+          "name": "Reverie",
+          "url": "https://open.spotify.com/artist/4K2C6TgREygMW8xo4jymq4"
         }
       ],
-      "duration_ms": 135959,
-      "name": "Palo De Santo",
-      "url": "https://open.spotify.com/track/0AjJKyp4VFSU2PFNYdLea6"
+      "duration_ms": 171241,
+      "name": "No Chaser",
+      "url": "https://open.spotify.com/track/0W2WjKSYqPVSeIcuQGdzEA"
     },
     {
       "added_at": "2022-09-23 15:32:00",
@@ -1227,26 +1227,6 @@
       "duration_ms": 117629,
       "name": "From The Gravel",
       "url": "https://open.spotify.com/track/1EWWs7U6CLe8vjeuat3SZa"
-    },
-    {
-      "added_at": "2022-09-23 15:32:00",
-      "album": {
-        "name": "Street Lights",
-        "url": "https://open.spotify.com/album/7hPnEAEort4kGDrajIjQvl"
-      },
-      "artists": [
-        {
-          "name": "Coyote",
-          "url": "https://open.spotify.com/artist/2k3jiPRh7ucbD6OmVTi1BD"
-        },
-        {
-          "name": "Bino Rideaux",
-          "url": "https://open.spotify.com/artist/3pcerTbRFAPvWWtAfySFWB"
-        }
-      ],
-      "duration_ms": 153934,
-      "name": "Street Lights",
-      "url": "https://open.spotify.com/track/5LS8Lax9czRiYWbkiygVJL"
     },
     {
       "added_at": "2022-09-23 15:32:00",
@@ -1271,26 +1251,6 @@
     {
       "added_at": "2022-09-23 15:32:00",
       "album": {
-        "name": "Hail Mary",
-        "url": "https://open.spotify.com/album/6Kmohibc5dxcxwafFlblLe"
-      },
-      "artists": [
-        {
-          "name": "Reverie",
-          "url": "https://open.spotify.com/artist/4K2C6TgREygMW8xo4jymq4"
-        },
-        {
-          "name": "YeloHill",
-          "url": "https://open.spotify.com/artist/0IgLirgKCxQb13uM8FuQpR"
-        }
-      ],
-      "duration_ms": 159653,
-      "name": "Hail Mary",
-      "url": "https://open.spotify.com/track/6mkKjKPuGaNy2Iuf83R7EB"
-    },
-    {
-      "added_at": "2022-09-23 15:32:00",
-      "album": {
         "name": "Paid in Full",
         "url": "https://open.spotify.com/album/7zbK5ee8Di5uPqqBuRW1hj"
       },
@@ -1307,22 +1267,42 @@
     {
       "added_at": "2022-09-23 15:32:00",
       "album": {
-        "name": "Sometime In The H",
-        "url": "https://open.spotify.com/album/6mklfbk9hBGbOr5AZ3WqOK"
+        "name": "Over",
+        "url": "https://open.spotify.com/album/1tQHY2Lypwqhhfgp1lxA6j"
       },
       "artists": [
         {
-          "name": "GT Garza",
-          "url": "https://open.spotify.com/artist/7tycJ8FDKH2GES20CnUa4D"
+          "name": "Aj Hernz",
+          "url": "https://open.spotify.com/artist/6OkLZPqXXpKNEAGxE2bupm"
         },
         {
-          "name": "Krystall Poppin",
-          "url": "https://open.spotify.com/artist/3DIquQWs6ZlFAKdahiPCwC"
+          "name": "Alexcis",
+          "url": "https://open.spotify.com/artist/2tDA2vvMMRpi5GZL0hzqqj"
         }
       ],
-      "duration_ms": 169795,
-      "name": "7 Days",
-      "url": "https://open.spotify.com/track/3j45prVuGZPxCPwY5jRxMR"
+      "duration_ms": 143622,
+      "name": "Over",
+      "url": "https://open.spotify.com/track/5gKqjYmPYaXn7ebiWBGRDw"
+    },
+    {
+      "added_at": "2022-09-23 15:32:00",
+      "album": {
+        "name": "Street Lights",
+        "url": "https://open.spotify.com/album/7hPnEAEort4kGDrajIjQvl"
+      },
+      "artists": [
+        {
+          "name": "Coyote",
+          "url": "https://open.spotify.com/artist/2k3jiPRh7ucbD6OmVTi1BD"
+        },
+        {
+          "name": "Bino Rideaux",
+          "url": "https://open.spotify.com/artist/3pcerTbRFAPvWWtAfySFWB"
+        }
+      ],
+      "duration_ms": 153934,
+      "name": "Street Lights",
+      "url": "https://open.spotify.com/track/5LS8Lax9czRiYWbkiygVJL"
     },
     {
       "added_at": "2022-09-23 15:32:00",
@@ -1347,22 +1327,62 @@
     {
       "added_at": "2022-09-23 15:32:00",
       "album": {
-        "name": "Over",
-        "url": "https://open.spotify.com/album/1tQHY2Lypwqhhfgp1lxA6j"
+        "name": "Sometime In The H",
+        "url": "https://open.spotify.com/album/6mklfbk9hBGbOr5AZ3WqOK"
       },
       "artists": [
         {
-          "name": "Aj Hernz",
-          "url": "https://open.spotify.com/artist/6OkLZPqXXpKNEAGxE2bupm"
+          "name": "GT Garza",
+          "url": "https://open.spotify.com/artist/7tycJ8FDKH2GES20CnUa4D"
         },
         {
-          "name": "Alexcis",
-          "url": "https://open.spotify.com/artist/2tDA2vvMMRpi5GZL0hzqqj"
+          "name": "Krystall Poppin",
+          "url": "https://open.spotify.com/artist/3DIquQWs6ZlFAKdahiPCwC"
         }
       ],
-      "duration_ms": 143622,
-      "name": "Over",
-      "url": "https://open.spotify.com/track/5gKqjYmPYaXn7ebiWBGRDw"
+      "duration_ms": 169795,
+      "name": "7 Days",
+      "url": "https://open.spotify.com/track/3j45prVuGZPxCPwY5jRxMR"
+    },
+    {
+      "added_at": "2022-09-23 15:32:00",
+      "album": {
+        "name": "Summertime",
+        "url": "https://open.spotify.com/album/53T2GDWLFcSnbZ4SbP4quy"
+      },
+      "artists": [
+        {
+          "name": "Lil Grifo",
+          "url": "https://open.spotify.com/artist/6RRNtl4tqMCz2vXm33vdIk"
+        },
+        {
+          "name": "Lil Rob",
+          "url": "https://open.spotify.com/artist/7B7TGqQe7QTVm2U6q8jzk1"
+        }
+      ],
+      "duration_ms": 209322,
+      "name": "Summertime",
+      "url": "https://open.spotify.com/track/75kw5VOsxjrl2KheLvYGyw"
+    },
+    {
+      "added_at": "2022-09-23 15:32:00",
+      "album": {
+        "name": "Hail Mary",
+        "url": "https://open.spotify.com/album/6Kmohibc5dxcxwafFlblLe"
+      },
+      "artists": [
+        {
+          "name": "Reverie",
+          "url": "https://open.spotify.com/artist/4K2C6TgREygMW8xo4jymq4"
+        },
+        {
+          "name": "YeloHill",
+          "url": "https://open.spotify.com/artist/0IgLirgKCxQb13uM8FuQpR"
+        }
+      ],
+      "duration_ms": 159653,
+      "name": "Hail Mary",
+      "url": "https://open.spotify.com/track/6mkKjKPuGaNy2Iuf83R7EB"
     },
     {
       "added_at": "2022-09-23 15:32:00",
@@ -1399,26 +1419,6 @@
     {
       "added_at": "2022-09-23 15:32:00",
       "album": {
-        "name": "Summertime",
-        "url": "https://open.spotify.com/album/53T2GDWLFcSnbZ4SbP4quy"
-      },
-      "artists": [
-        {
-          "name": "Lil Grifo",
-          "url": "https://open.spotify.com/artist/6RRNtl4tqMCz2vXm33vdIk"
-        },
-        {
-          "name": "Lil Rob",
-          "url": "https://open.spotify.com/artist/7B7TGqQe7QTVm2U6q8jzk1"
-        }
-      ],
-      "duration_ms": 209322,
-      "name": "Summertime",
-      "url": "https://open.spotify.com/track/75kw5VOsxjrl2KheLvYGyw"
-    },
-    {
-      "added_at": "2022-09-23 15:32:00",
-      "album": {
         "name": "It's Whateva",
         "url": "https://open.spotify.com/album/6zbTKRMXn2O523kh4Ka7rA"
       },
@@ -1435,18 +1435,26 @@
     {
       "added_at": "2022-09-23 15:32:00",
       "album": {
-        "name": "Barbacoa",
-        "url": "https://open.spotify.com/album/2ZbpPd2fO8QeEEfnQd6MzS"
+        "name": "Benz",
+        "url": "https://open.spotify.com/album/5QlkfeFanlvkObODAtnBFq"
       },
       "artists": [
         {
-          "name": "Speak",
-          "url": "https://open.spotify.com/artist/6Ka6HfvQhsltXZAFT1bYbQ"
+          "name": "Street Active",
+          "url": "https://open.spotify.com/artist/5C6FNIcIxaMn3s9HERVnl9"
+        },
+        {
+          "name": "Coyote",
+          "url": "https://open.spotify.com/artist/2k3jiPRh7ucbD6OmVTi1BD"
+        },
+        {
+          "name": "Baby Yungin",
+          "url": "https://open.spotify.com/artist/5uVQsd2EJ67pAlpsvmSZgO"
         }
       ],
-      "duration_ms": 114936,
-      "name": "Barbacoa",
-      "url": "https://open.spotify.com/track/0TPhatnTdEG2FVxFHqlEij"
+      "duration_ms": 155402,
+      "name": "Benz",
+      "url": "https://open.spotify.com/track/5CufI2ZsOR2uWVQMPTGvpP"
     }
   ],
   "unique_name": "Our Wave, Nuestro Hip-Hop",

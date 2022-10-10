@@ -440,6 +440,32 @@
     },
     {
       "album": {
+        "name": "Unajifanya",
+        "url": "https://open.spotify.com/album/5Pda2nonQ7mD3T27XtnTYH"
+      },
+      "artists": [
+        {
+          "name": "Mavo On The Beat",
+          "url": "https://open.spotify.com/artist/18FRsej0uytxeNbIbAMkGc"
+        },
+        {
+          "name": "Timmy Tdat",
+          "url": "https://open.spotify.com/artist/0koEwZCEZrRUvVYb5ggPCZ"
+        },
+        {
+          "name": "Rekles",
+          "url": "https://open.spotify.com/artist/4y3qwVKeBqgdlL4Clize3k"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188041,
+      "name": "Bless Me",
+      "url": "https://open.spotify.com/track/4OAjulqlHeSl69KPX1Z9G7"
+    },
+    {
+      "album": {
         "name": "Bonga Bonga",
         "url": "https://open.spotify.com/album/1KpP5H0yDNiBywnjPMGi5Y"
       },
@@ -1813,7 +1839,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-07",
       "duration_ms": 185706,
       "name": "Kikulacho",
       "url": "https://open.spotify.com/track/2ismlyjSFz78fi4mlgIE5W"
@@ -1947,6 +1973,40 @@
       "duration_ms": 223346,
       "name": "Kuna Kichwa",
       "url": "https://open.spotify.com/track/4CxIs3plY39mHG8P8Vzro2"
+    },
+    {
+      "album": {
+        "name": "Kuna Kuna",
+        "url": "https://open.spotify.com/album/6SfLFCTyZ9Os3uYxhZg8iT"
+      },
+      "artists": [
+        {
+          "name": "Vic West",
+          "url": "https://open.spotify.com/artist/6vxLy2Ac6bCYJMz1Y2fKaO"
+        },
+        {
+          "name": "Fathermoh",
+          "url": "https://open.spotify.com/artist/7nzWhKIO0MuVrFR69jQxTA"
+        },
+        {
+          "name": "Savara",
+          "url": "https://open.spotify.com/artist/4FjLrdzDbqrP9E9FzERGap"
+        },
+        {
+          "name": "Brandy Maina",
+          "url": "https://open.spotify.com/artist/7miUm4PxOWQDIPIcqKDfT4"
+        },
+        {
+          "name": "Thee Exit Band",
+          "url": "https://open.spotify.com/artist/5tCS32hMdQWpx8gJJsR673"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212897,
+      "name": "Kuna Kuna",
+      "url": "https://open.spotify.com/track/53vfuY2r8Eg1jRMkjY62QZ"
     },
     {
       "album": {
@@ -3071,7 +3131,7 @@
       ],
       "date_added": "2022-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-07",
       "duration_ms": 119823,
       "name": "PEREMENDE",
       "url": "https://open.spotify.com/track/2s8rHekSbpRPpzTUH6qEOh"

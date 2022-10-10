@@ -2,9 +2,9 @@
 
 ### [EQUAL Hong Kong](https://open.spotify.com/playlist/37i9dQZF1DX6W1YbI0Nbnc)
 
-> 一起感受香港製造的女聲力量！\(cover: Gin Lee\)
+> 一起感受香港製造的女聲力量！\(cover: moon tang\)
 
-193 songs - 12 hr 28 min - [published](https://open.spotify.com/playlist/3fyf9kJjwMb77gM8igxXJz)
+195 songs - 12 hr 35 min - [published](https://open.spotify.com/playlist/3fyf9kJjwMb77gM8igxXJz)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,8 @@
 | [Gotta Go!](https://open.spotify.com/track/3F16iie73VyKgN63z6YyZH) | [COLLAR](https://open.spotify.com/artist/1IlMpBkrZ4Na4S9fOcuN3f) | [Gotta Go!](https://open.spotify.com/album/5QMViZsyLMd5pJJc3l9BEO) | 3:26 | 2022-05-03 | 2022-08-03 |
 | [Grey is the New Blue](https://open.spotify.com/track/4rwBzrDw4KJYCfaxlQaunW) | [Winter Bagels](https://open.spotify.com/artist/5greJ5P16QGOFlMTnDH8F0) | [Grey is the New Blue](https://open.spotify.com/album/0bqRnMd1qwAfb7I1M7upVT) | 5:03 | 2022-04-05 | 2022-05-04 |
 | [HW1](https://open.spotify.com/track/7CbFYLWp5WI3K9p57d1X9w) | [Charmaine Fong](https://open.spotify.com/artist/1DgBVE3lCnC7Osg9zpAt6N) | [HW1](https://open.spotify.com/album/27olYw9kfefaxM2oqtXhbg) | 4:19 | 2022-05-03 |  |
+| [i hate u](https://open.spotify.com/track/1SMS6ig5qiNbjYfm3du2rM) | [moon tang](https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7) | [i hate u](https://open.spotify.com/album/34CBGNvwe29SICNBKEXhzI) | 2:49 | 2022-10-05 |  |
+| [i love u](https://open.spotify.com/track/5y5JrAfwqYDoVrXfv532W4) | [moon tang](https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7) | [i love u](https://open.spotify.com/album/4np08DYpAtw26nV2UUX47D) | 3:34 | 2022-10-05 |  |
 | [I'm Fine, Thx.](https://open.spotify.com/track/2MHibR4RkeGXkSvnVcTj13) | [Serrini](https://open.spotify.com/artist/0u3m5Sy2zsq4Gk0aduH9s7) | [I'm Fine, Thx.](https://open.spotify.com/album/2Hj7d0PyY4gWtmmQG7SMck) | 3:39 | 2022-01-04 | 2022-03-08 |
 | [IDK](https://open.spotify.com/track/4TlU4jNsch6P9hgbFxNK8L) | [Gin Lee](https://open.spotify.com/artist/0UtXMxHMXhwQUI6G6TFDt1) | [IDK](https://open.spotify.com/album/6TA2BHMMBRmW2dGthzsQZV) | 3:22 | 2021-12-07 | 2022-01-05 |
 | [It’s OK To Be Sad](https://open.spotify.com/track/0up477QX11ffSLneXa0xHA) | [Janice Vidal](https://open.spotify.com/artist/68gYAqni9tSrACmLCp4qoM) | [It’s OK To Be Sad](https://open.spotify.com/album/5HJdjpBgRxl4XcMuimvho9) | 3:59 | 2021-12-07 | 2022-03-08 |
@@ -88,7 +90,7 @@
 | [兩種語言](https://open.spotify.com/track/1VKVc6v65Bj1ypg360BLQ3) | [Tang Siu Hau](https://open.spotify.com/artist/01LAw9Av7Zcg01A8McfGYB) | [兩種語言](https://open.spotify.com/album/1AnYIfU0GYmTUcHFDYSO9i) | 4:19 | 2022-03-07 | 2022-05-04 |
 | [凡星 \(天星銀行airstar音樂劇場主題曲\)](https://open.spotify.com/track/7eZJLfMQ5mDtejHitRkzRf) | [Panther Chan](https://open.spotify.com/artist/3jS58yKkLzOd8S8IHyCsEm) | [凡星 \(天星銀行airstar音樂劇場主題曲\)](https://open.spotify.com/album/5f1R2DOR0cLJlUmpO1gtjC) | 4:44 | 2022-08-02 |  |
 | [分手的情書](https://open.spotify.com/track/4USRnfYLlx5NJkvAOnMvtk) | [Stephy Tang](https://open.spotify.com/artist/4ujntV2BGRi7X4UbCmTFX0) | [分手的情書](https://open.spotify.com/album/42yEW5ERscrCNbRswPphzc) | 4:08 | 2022-01-04 | 2022-03-08 |
-| [到了那裏就對吧](https://open.spotify.com/track/21ENVTzs1QqHLn8bNygoGD) | [Cloud 雲浩影](https://open.spotify.com/artist/4LM4l7LiE1ulVQ32zZTtJk) | [到了那裏就對吧](https://open.spotify.com/album/6AIYlSiFW4giKz0GWlLhxE) | 4:14 | 2022-08-02 |  |
+| [到了那裏就對吧](https://open.spotify.com/track/21ENVTzs1QqHLn8bNygoGD) | [Cloud 雲浩影](https://open.spotify.com/artist/4LM4l7LiE1ulVQ32zZTtJk) | [到了那裏就對吧](https://open.spotify.com/album/6AIYlSiFW4giKz0GWlLhxE) | 4:14 | 2022-08-02 | 2022-10-06 |
 | [到時見 \(Acoustic Version\)](https://open.spotify.com/track/23I26HyXJO6i9PH8BJKpQL) | [Sabrina Cheung 張蔓莎](https://open.spotify.com/artist/5EFPewjksQrnI87VOsvFHh) | [到時見 \(Acoustic Version\)](https://open.spotify.com/album/1DnNwfhdTujJLKUSeGU4oY) | 2:27 | 2022-08-02 |  |
 | [剎那的](https://open.spotify.com/track/5fWhLh6uQV0BPTHdL9oKSX) | [Sabrina Cheung 張蔓莎](https://open.spotify.com/artist/5EFPewjksQrnI87VOsvFHh) | [剎那的](https://open.spotify.com/album/3IaNjSRQfoCKfU9Ozorkmf) | 3:00 | 2022-08-02 |  |
 | [剛好](https://open.spotify.com/track/2glEQhYzV4hvVM5tTuKzI2) | [Gin Lee](https://open.spotify.com/artist/0UtXMxHMXhwQUI6G6TFDt1) | [Time & Faith](https://open.spotify.com/album/4kVnFSELfabAHeMobiNSGv) | 3:49 | 2022-09-06 |  |
@@ -197,7 +199,7 @@
 | [雲泥](https://open.spotify.com/track/2R2ZXEmlPITYGNaTxJGDZz) | [SOPHY](https://open.spotify.com/artist/5Hx1PRV6i7vQdc8gAGE8eq), [Alan](https://open.spotify.com/artist/2GMlJtj3SAxdHTfva3u1ms) | [雲泥](https://open.spotify.com/album/3DCOeAAvrPm52PZM4v4lvm) | 3:14 | 2021-12-07 | 2022-01-05 |
 | [零分](https://open.spotify.com/track/1HsWdmLSDdDel2Dl6ctSO2) | [JUDE](https://open.spotify.com/artist/0fs8Z11YQwRDEhdgRXoi4q) | [零分](https://open.spotify.com/album/3zoLfk3WSy0E3PEWb8S7nn) | 4:14 | 2022-08-02 |  |
 | [靜夜歌](https://open.spotify.com/track/7uVPQnJIh2x4J3UOZSELYN) | [Kay Tse](https://open.spotify.com/artist/6XtWdWAC7rNqXwbs8hGqP9) | [靜夜歌](https://open.spotify.com/album/6GZ1SDblzNaLfcMerPxgRJ) | 4:48 | 2021-12-07 |  |
-| [願望之翼](https://open.spotify.com/track/21Kzm94SbTfBWfnAgcK02E) | [Cloud 雲浩影](https://open.spotify.com/artist/4LM4l7LiE1ulVQ32zZTtJk) | [願望之翼](https://open.spotify.com/album/21OfoQE1oqFyCNaccSVAW8) | 3:44 | 2022-08-02 |  |
+| [願望之翼](https://open.spotify.com/track/21Kzm94SbTfBWfnAgcK02E) | [Cloud 雲浩影](https://open.spotify.com/artist/4LM4l7LiE1ulVQ32zZTtJk) | [願望之翼](https://open.spotify.com/album/21OfoQE1oqFyCNaccSVAW8) | 3:44 | 2022-08-02 | 2022-10-06 |
 | [風靡](https://open.spotify.com/track/5sEEhOScgED3KxkF9lzgEd) | [Janice Vidal](https://open.spotify.com/artist/68gYAqni9tSrACmLCp4qoM) | [風靡](https://open.spotify.com/album/20KC0BCuXFmg7XFjkdpAW9) | 3:50 | 2022-05-03 | 2022-08-03 |
 | [黑暗中漫舞 \(音樂永續作品\)](https://open.spotify.com/track/1Wste23dWh4oBK7MDV60EQ) | [Candy Lo](https://open.spotify.com/artist/51ZbCFgOspWvhBjd1DUYEV) | [黑暗中漫舞 \(音樂永續作品\)](https://open.spotify.com/album/7MA3Eu4JGjc9Ho1vee5xvg) | 4:01 | 2022-01-04 | 2022-02-03 |
 | [點點](https://open.spotify.com/track/5O34UglxtH9cKJj729BxlS) | [Yuki Lovey](https://open.spotify.com/artist/4o8jCavg8iCZ7lXJmJ6wGz) | [點點](https://open.spotify.com/album/4MBBUwcHZWBRXY0RGKBImX) | 3:19 | 2022-03-07 | 2022-08-03 |

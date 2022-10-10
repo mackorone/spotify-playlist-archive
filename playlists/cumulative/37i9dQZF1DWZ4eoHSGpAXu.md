@@ -4,7 +4,7 @@
 
 > Get your midweek right with these uplifting songs of praise and worship.
 
-88 songs - 8 hr 1 min - [published](https://open.spotify.com/playlist/5OjtgsIyPBLp3jbeiq7bOe)
+89 songs - 8 hr 5 min - [published](https://open.spotify.com/playlist/5OjtgsIyPBLp3jbeiq7bOe)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,7 +73,8 @@
 | [Rain Your Glory Down \- Live](https://open.spotify.com/track/1Y8Pf62jFt9DxdhfKQOgnD) | [Planetshakers](https://open.spotify.com/artist/5A0SFJQSdSjFHGcndiGT1s) | [Rain Your Glory Down \(Live\)](https://open.spotify.com/album/6yCUxYBIYB8tkAPvE85Ja3) | 9:07 | 2019-11-27 | 2022-07-29 |
 | [Rain Your Glory Down \- Live](https://open.spotify.com/track/6ftibLL1IO1tlGVgYrul0k) | [Planetshakers](https://open.spotify.com/artist/5A0SFJQSdSjFHGcndiGT1s) | [Rain](https://open.spotify.com/album/074R4kqJ2xNe4h8GkGBON8) | 9:07 | 2019-11-27 |  |
 | [Recreate](https://open.spotify.com/track/0EaKDmqkw9TUOzIKTFpD2m) | [Fresh Life Worship](https://open.spotify.com/artist/3lspjc5pri1bNeok8vsG5E) | [Recreate](https://open.spotify.com/album/1p1sgOSauMAq1VQIevGIWU) | 5:47 | 2019-11-27 |  |
-| [Rejoice](https://open.spotify.com/track/6UEX4PS9R0HjfN3iG0mm7G) | [Brad & Rebekah](https://open.spotify.com/artist/1ef7Y06MRVT7HfRdJDHBOG) | [Rejoice](https://open.spotify.com/album/0k5NWjpgHJb4AW22CcE6PP) | 4:03 | 2019-11-27 |  |
+| [Rejoice](https://open.spotify.com/track/2lJnLe5B0RSr8H5DpSktER) | [Brad & Rebekah](https://open.spotify.com/artist/1ef7Y06MRVT7HfRdJDHBOG) | [Life Again](https://open.spotify.com/album/5BI5Wl8TCjrIczfZMQpU0u) | 4:02 | 2019-11-27 |  |
+| [Rejoice](https://open.spotify.com/track/6UEX4PS9R0HjfN3iG0mm7G) | [Brad & Rebekah](https://open.spotify.com/artist/1ef7Y06MRVT7HfRdJDHBOG) | [Rejoice](https://open.spotify.com/album/0k5NWjpgHJb4AW22CcE6PP) | 4:03 | 2019-11-27 | 2022-10-09 |
 | [Remember](https://open.spotify.com/track/32r0t2fUFcrZ63Eg5IVRdz) | [Bryan & Katie Torwalt](https://open.spotify.com/artist/7bvAtcPT3evvSeHDyu2zBC) | [Remember](https://open.spotify.com/album/4nvMojhvDqVwfb0htY8Byf) | 5:12 | 2019-11-27 |  |
 | [See A Victory](https://open.spotify.com/track/3gtqd9P8kZblHf4I7Ybub2) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix) | [See A Victory](https://open.spotify.com/album/3YKyqEwSPz9mjNb4NucFpq) | 6:03 | 2019-11-27 |  |
 | [Sigh No More](https://open.spotify.com/track/4dYeMQIK8fvFscQwqpEXAb) | [Audrey Assad](https://open.spotify.com/artist/1GKYNY4rIPnOuTfC0J1IWw) | [Sigh No More](https://open.spotify.com/album/3um3l6Ctq1A1DyVsm4wZK4) | 3:43 | 2019-11-27 |  |

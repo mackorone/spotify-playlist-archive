@@ -1,12 +1,12 @@
 {
   "description": "Den perfekta mixade spellistan f\u00f6r tr\u00e4ningspasset.",
-  "num_followers": 157126,
+  "num_followers": 157117,
   "original_name": "Tr\u00e4ning",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1Nzg5NDI0NCwwMDAwMDAwMDUyZjE2ZDlmNGNiOWZjNDExMDAxYjkwMmUzZjk4ZTEw",
+  "snapshot_id": "MTY1Nzg5NDI0NCwwMDAwMDAwMGJlOTI3ZDk1MzNlMzRjNjg1ZTU3ZGZmYmFiZDhlNzdh",
   "tracks": [
     {
       "added_at": "2022-07-15 14:10:44",
@@ -227,30 +227,6 @@
     {
       "added_at": "2022-07-15 14:10:44",
       "album": {
-        "name": "Impossible (feat. John Martin)",
-        "url": "https://open.spotify.com/album/7xtz0WQBjOCXv1vgLu9vM6"
-      },
-      "artists": [
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        },
-        {
-          "name": "MORTEN",
-          "url": "https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8"
-        },
-        {
-          "name": "John Martin",
-          "url": "https://open.spotify.com/artist/2auikkNYqigWStoHWK1Grq"
-        }
-      ],
-      "duration_ms": 188437,
-      "name": "Impossible (feat. John Martin)",
-      "url": "https://open.spotify.com/track/7nvaEKdCDWbnQK7uJsCS5y"
-    },
-    {
-      "added_at": "2022-07-15 14:10:44",
-      "album": {
         "name": "Weekend (feat. Emelie Cyr\u00e9us)",
         "url": "https://open.spotify.com/album/3z7i4GvlZ92wwB06ZAGzqm"
       },
@@ -311,6 +287,30 @@
       "duration_ms": 160794,
       "name": "Close Your Eyes",
       "url": "https://open.spotify.com/track/7N06jo3EnV792VFaG8vuW6"
+    },
+    {
+      "added_at": "2022-07-15 14:10:44",
+      "album": {
+        "name": "Impossible (feat. John Martin)",
+        "url": "https://open.spotify.com/album/7xtz0WQBjOCXv1vgLu9vM6"
+      },
+      "artists": [
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "MORTEN",
+          "url": "https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8"
+        },
+        {
+          "name": "John Martin",
+          "url": "https://open.spotify.com/artist/2auikkNYqigWStoHWK1Grq"
+        }
+      ],
+      "duration_ms": 188437,
+      "name": "Impossible (feat. John Martin)",
+      "url": "https://open.spotify.com/track/7nvaEKdCDWbnQK7uJsCS5y"
     },
     {
       "added_at": "2022-07-15 14:10:44",
@@ -487,6 +487,26 @@
     {
       "added_at": "2022-07-15 14:10:44",
       "album": {
+        "name": "Creep (mint Singles)",
+        "url": "https://open.spotify.com/album/31LEjqDdP0TyZgiuse84cf"
+      },
+      "artists": [
+        {
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+        },
+        {
+          "name": "GATT\u00dcSO",
+          "url": "https://open.spotify.com/artist/3PlRvQnVE3XAbtHUNc4nic"
+        }
+      ],
+      "duration_ms": 161190,
+      "name": "Creep - mint Singles",
+      "url": "https://open.spotify.com/track/5LRxdeykOfvKb1aWGrrGyo"
+    },
+    {
+      "added_at": "2022-07-15 14:10:44",
+      "album": {
         "name": "Everywhere (feat. Maya Avedis)",
         "url": "https://open.spotify.com/album/5sPQEXoh1AOhBbzdlN1uT8"
       },
@@ -507,22 +527,22 @@
     {
       "added_at": "2022-07-15 14:10:44",
       "album": {
-        "name": "Creep (mint Singles)",
-        "url": "https://open.spotify.com/album/31LEjqDdP0TyZgiuse84cf"
+        "name": "Bad Habits (Joel Corry Remix)",
+        "url": "https://open.spotify.com/album/6Oj80oIJGFbFwionyBamow"
       },
       "artists": [
         {
-          "name": "R3HAB",
-          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
         },
         {
-          "name": "GATT\u00dcSO",
-          "url": "https://open.spotify.com/artist/3PlRvQnVE3XAbtHUNc4nic"
+          "name": "Joel Corry",
+          "url": "https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp"
         }
       ],
-      "duration_ms": 161190,
-      "name": "Creep - mint Singles",
-      "url": "https://open.spotify.com/track/5LRxdeykOfvKb1aWGrrGyo"
+      "duration_ms": 189577,
+      "name": "Bad Habits - Joel Corry Remix",
+      "url": "https://open.spotify.com/track/5Q9DzNnrUCkJV1t1wWjYIX"
     },
     {
       "added_at": "2022-07-15 14:10:44",
@@ -551,22 +571,22 @@
     {
       "added_at": "2022-07-15 14:10:44",
       "album": {
-        "name": "Bad Habits (Joel Corry Remix)",
-        "url": "https://open.spotify.com/album/6Oj80oIJGFbFwionyBamow"
+        "name": "I Love It (feat. Charli XCX) [I Don\u2019t Care 2022 Re-Edit]",
+        "url": "https://open.spotify.com/album/302yHlLozACyot1XwKb5Oq"
       },
       "artists": [
         {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+          "name": "Icona Pop",
+          "url": "https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw"
         },
         {
-          "name": "Joel Corry",
-          "url": "https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp"
+          "name": "Charli XCX",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
         }
       ],
-      "duration_ms": 189577,
-      "name": "Bad Habits - Joel Corry Remix",
-      "url": "https://open.spotify.com/track/5Q9DzNnrUCkJV1t1wWjYIX"
+      "duration_ms": 152672,
+      "name": "I Love It (feat. Charli XCX) - I Don\u2019t Care 2022 Re-Edit",
+      "url": "https://open.spotify.com/track/1HtZS4fv2nIZaCSfFVlcHc"
     },
     {
       "added_at": "2022-07-15 14:10:44",
@@ -583,6 +603,26 @@
       "duration_ms": 147656,
       "name": "Peru",
       "url": "https://open.spotify.com/track/7t3cEJpYDi8tzNmBtxeHUj"
+    },
+    {
+      "added_at": "2022-07-15 14:10:44",
+      "album": {
+        "name": "Menage A Trois",
+        "url": "https://open.spotify.com/album/4MpNQl6p23pbhKpvrv8EPo"
+      },
+      "artists": [
+        {
+          "name": "LIZOT",
+          "url": "https://open.spotify.com/artist/12A83CWwFiyXy90ScLWPIe"
+        },
+        {
+          "name": "Holy Molly",
+          "url": "https://open.spotify.com/artist/4ljZpmnnnA1ezEdylZuNLK"
+        }
+      ],
+      "duration_ms": 168508,
+      "name": "Menage A Trois",
+      "url": "https://open.spotify.com/track/40vCMTDaDwwpf7DyBlmgEj"
     },
     {
       "added_at": "2022-07-15 14:10:44",
@@ -611,26 +651,6 @@
     {
       "added_at": "2022-07-15 14:10:44",
       "album": {
-        "name": "Menage A Trois",
-        "url": "https://open.spotify.com/album/4MpNQl6p23pbhKpvrv8EPo"
-      },
-      "artists": [
-        {
-          "name": "LIZOT",
-          "url": "https://open.spotify.com/artist/12A83CWwFiyXy90ScLWPIe"
-        },
-        {
-          "name": "Holy Molly",
-          "url": "https://open.spotify.com/artist/4ljZpmnnnA1ezEdylZuNLK"
-        }
-      ],
-      "duration_ms": 168508,
-      "name": "Menage A Trois",
-      "url": "https://open.spotify.com/track/40vCMTDaDwwpf7DyBlmgEj"
-    },
-    {
-      "added_at": "2022-07-15 14:10:44",
-      "album": {
         "name": "2019 Remixed",
         "url": "https://open.spotify.com/album/3z4efVJv1e3GmoR7PybqHR"
       },
@@ -655,26 +675,6 @@
     {
       "added_at": "2022-07-15 14:10:44",
       "album": {
-        "name": "I Love It (feat. Charli XCX) [I Don\u2019t Care 2022 Re-Edit]",
-        "url": "https://open.spotify.com/album/302yHlLozACyot1XwKb5Oq"
-      },
-      "artists": [
-        {
-          "name": "Icona Pop",
-          "url": "https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw"
-        },
-        {
-          "name": "Charli XCX",
-          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
-        }
-      ],
-      "duration_ms": 152672,
-      "name": "I Love It (feat. Charli XCX) - I Don\u2019t Care 2022 Re-Edit",
-      "url": "https://open.spotify.com/track/1HtZS4fv2nIZaCSfFVlcHc"
-    },
-    {
-      "added_at": "2022-07-15 14:10:44",
-      "album": {
         "name": "Fight Dirty",
         "url": "https://open.spotify.com/album/1iws5DmCyPrr5BElY4CPHl"
       },
@@ -687,26 +687,6 @@
       "duration_ms": 180982,
       "name": "Fight Dirty",
       "url": "https://open.spotify.com/track/4VHWqX5JH8GEtQ4ZGyZStN"
-    },
-    {
-      "added_at": "2022-07-15 14:10:44",
-      "album": {
-        "name": "Unbreakable (feat. Clarence Coffee Jr.)",
-        "url": "https://open.spotify.com/album/2VM9EEq8Be4gMvD6Pw57OP"
-      },
-      "artists": [
-        {
-          "name": "BUNT.",
-          "url": "https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j"
-        },
-        {
-          "name": "Clarence Coffee Jr.",
-          "url": "https://open.spotify.com/artist/6dp9lFNgVOFhtteg8tln7J"
-        }
-      ],
-      "duration_ms": 238627,
-      "name": "Unbreakable (feat. Clarence Coffee Jr.)",
-      "url": "https://open.spotify.com/track/0t7F6nflyhy7UR9yzTBAHl"
     },
     {
       "added_at": "2022-07-15 14:10:44",
@@ -731,6 +711,26 @@
       "duration_ms": 172380,
       "name": "Make It To Heaven (with Raye)",
       "url": "https://open.spotify.com/track/5dS2dvXVPe7AR6UwBpnomW"
+    },
+    {
+      "added_at": "2022-07-15 14:10:44",
+      "album": {
+        "name": "Unbreakable (feat. Clarence Coffee Jr.)",
+        "url": "https://open.spotify.com/album/2VM9EEq8Be4gMvD6Pw57OP"
+      },
+      "artists": [
+        {
+          "name": "BUNT.",
+          "url": "https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j"
+        },
+        {
+          "name": "Clarence Coffee Jr.",
+          "url": "https://open.spotify.com/artist/6dp9lFNgVOFhtteg8tln7J"
+        }
+      ],
+      "duration_ms": 238627,
+      "name": "Unbreakable (feat. Clarence Coffee Jr.)",
+      "url": "https://open.spotify.com/track/0t7F6nflyhy7UR9yzTBAHl"
     },
     {
       "added_at": "2022-07-15 14:10:44",
@@ -879,30 +879,6 @@
     {
       "added_at": "2022-07-15 14:10:44",
       "album": {
-        "name": "Taste",
-        "url": "https://open.spotify.com/album/3Lk4vSi2gzzYFXUlrnXF9Y"
-      },
-      "artists": [
-        {
-          "name": "TOOMANYLEFTHANDS",
-          "url": "https://open.spotify.com/artist/5tCPpDoXfTKy5yTongtDAT"
-        },
-        {
-          "name": "Marcus Mollyhus",
-          "url": "https://open.spotify.com/artist/1q5yTNpPItkDPjcpVgvDaE"
-        },
-        {
-          "name": "Conan Mac",
-          "url": "https://open.spotify.com/artist/3KzORfDLMiyfTogPTJcEGz"
-        }
-      ],
-      "duration_ms": 156774,
-      "name": "Taste",
-      "url": "https://open.spotify.com/track/0jcDf2K7yJsRAfa7XQmkIt"
-    },
-    {
-      "added_at": "2022-07-15 14:10:44",
-      "album": {
         "name": "Detroit 3 AM (Radio Edit)",
         "url": "https://open.spotify.com/album/7aMXzM3ZzgHBUYBr7LK9mI"
       },
@@ -923,26 +899,26 @@
     {
       "added_at": "2022-07-15 14:10:44",
       "album": {
-        "name": "Take Me Home",
-        "url": "https://open.spotify.com/album/1BYf5JhXGSUuhj5MX5dhVM"
+        "name": "Taste",
+        "url": "https://open.spotify.com/album/3Lk4vSi2gzzYFXUlrnXF9Y"
       },
       "artists": [
         {
-          "name": "KAAZE",
-          "url": "https://open.spotify.com/artist/6WGE3kO8ULME2ErBcOksSR"
+          "name": "TOOMANYLEFTHANDS",
+          "url": "https://open.spotify.com/artist/5tCPpDoXfTKy5yTongtDAT"
         },
         {
-          "name": "Elle Vee",
-          "url": "https://open.spotify.com/artist/7b1FMiWXZwOBsxi0uWw6wH"
+          "name": "Marcus Mollyhus",
+          "url": "https://open.spotify.com/artist/1q5yTNpPItkDPjcpVgvDaE"
         },
         {
-          "name": "BLK RSE",
-          "url": "https://open.spotify.com/artist/2caQqGZcs7vbmAEE0uAWBz"
+          "name": "Conan Mac",
+          "url": "https://open.spotify.com/artist/3KzORfDLMiyfTogPTJcEGz"
         }
       ],
-      "duration_ms": 174146,
-      "name": "Take Me Home",
-      "url": "https://open.spotify.com/track/4FQRmLtmbTjjGseIqbpBLR"
+      "duration_ms": 156774,
+      "name": "Taste",
+      "url": "https://open.spotify.com/track/0jcDf2K7yJsRAfa7XQmkIt"
     },
     {
       "added_at": "2022-07-15 14:10:44",
@@ -971,6 +947,26 @@
     {
       "added_at": "2022-07-15 14:10:44",
       "album": {
+        "name": "Secrets",
+        "url": "https://open.spotify.com/album/2RXRJ75O6KCXHWgIaM2kov"
+      },
+      "artists": [
+        {
+          "name": "LUM!X",
+          "url": "https://open.spotify.com/artist/0TKFPt9w0AAEnhB9bd0pLy"
+        },
+        {
+          "name": "S\u00d8LO",
+          "url": "https://open.spotify.com/artist/0LegaEKnTucYuEeaanHub7"
+        }
+      ],
+      "duration_ms": 158181,
+      "name": "Secrets",
+      "url": "https://open.spotify.com/track/5xjXfai7bW503D99N7ofqb"
+    },
+    {
+      "added_at": "2022-07-15 14:10:44",
+      "album": {
         "name": "Release Me (feat. Kalhaader)",
         "url": "https://open.spotify.com/album/4hnw0b8xByrv1IuLHmzcDE"
       },
@@ -991,22 +987,26 @@
     {
       "added_at": "2022-07-15 14:10:44",
       "album": {
-        "name": "Secrets",
-        "url": "https://open.spotify.com/album/2RXRJ75O6KCXHWgIaM2kov"
+        "name": "Take Me Home",
+        "url": "https://open.spotify.com/album/1BYf5JhXGSUuhj5MX5dhVM"
       },
       "artists": [
         {
-          "name": "LUM!X",
-          "url": "https://open.spotify.com/artist/0TKFPt9w0AAEnhB9bd0pLy"
+          "name": "KAAZE",
+          "url": "https://open.spotify.com/artist/6WGE3kO8ULME2ErBcOksSR"
         },
         {
-          "name": "S\u00d8LO",
-          "url": "https://open.spotify.com/artist/0LegaEKnTucYuEeaanHub7"
+          "name": "Elle Vee",
+          "url": "https://open.spotify.com/artist/7b1FMiWXZwOBsxi0uWw6wH"
+        },
+        {
+          "name": "BLK RSE",
+          "url": "https://open.spotify.com/artist/2caQqGZcs7vbmAEE0uAWBz"
         }
       ],
-      "duration_ms": 158181,
-      "name": "Secrets",
-      "url": "https://open.spotify.com/track/5xjXfai7bW503D99N7ofqb"
+      "duration_ms": 174146,
+      "name": "Take Me Home",
+      "url": "https://open.spotify.com/track/4FQRmLtmbTjjGseIqbpBLR"
     },
     {
       "added_at": "2022-07-15 14:10:44",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2022-07-15 14:10:44",
       "album": {
-        "name": "In My Head (On My Mind)",
-        "url": "https://open.spotify.com/album/2kHF4Kt6da7GupfAzPcMrA"
-      },
-      "artists": [
-        {
-          "name": "MOTi",
-          "url": "https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W"
-        }
-      ],
-      "duration_ms": 153442,
-      "name": "In My Head (On My Mind)",
-      "url": "https://open.spotify.com/track/6VXRlDvbQbZg8k4TplGW3J"
-    },
-    {
-      "added_at": "2022-07-15 14:10:44",
-      "album": {
         "name": "Have You Never Been Mellow",
         "url": "https://open.spotify.com/album/2ogR1UtExIIzxEfKZekFjg"
       },
@@ -1059,46 +1043,6 @@
       "duration_ms": 147742,
       "name": "Have You Never Been Mellow",
       "url": "https://open.spotify.com/track/6a92Xzgq2rDcISB4St84Bs"
-    },
-    {
-      "added_at": "2022-07-15 14:10:44",
-      "album": {
-        "name": "All Comes Back To You",
-        "url": "https://open.spotify.com/album/5sF8cTLQirqDYQWJwzxq87"
-      },
-      "artists": [
-        {
-          "name": "R3HAB",
-          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
-        }
-      ],
-      "duration_ms": 160312,
-      "name": "All Comes Back To You",
-      "url": "https://open.spotify.com/track/4AkCyd9Nlbt8JprQq9V6o2"
-    },
-    {
-      "added_at": "2022-07-15 14:10:44",
-      "album": {
-        "name": "i miss u (VIZE Remix)",
-        "url": "https://open.spotify.com/album/3zpYj8yX3IY6vyju8Hwkp7"
-      },
-      "artists": [
-        {
-          "name": "Jax Jones",
-          "url": "https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr"
-        },
-        {
-          "name": "Au/Ra",
-          "url": "https://open.spotify.com/artist/1eMmoIprPDWeFdB1FxU6ZV"
-        },
-        {
-          "name": "VIZE",
-          "url": "https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0"
-        }
-      ],
-      "duration_ms": 152109,
-      "name": "i miss u - VIZE Remix",
-      "url": "https://open.spotify.com/track/4zvJFnv4nIwW1rAN4XlhBc"
     },
     {
       "added_at": "2022-07-15 14:10:44",
@@ -1119,6 +1063,22 @@
       "duration_ms": 186180,
       "name": "No One Dies From Love (220 KID Remix)",
       "url": "https://open.spotify.com/track/0FDYLzgHnQ0LUUm1n6kUft"
+    },
+    {
+      "added_at": "2022-07-15 14:10:44",
+      "album": {
+        "name": "All Comes Back To You",
+        "url": "https://open.spotify.com/album/5sF8cTLQirqDYQWJwzxq87"
+      },
+      "artists": [
+        {
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+        }
+      ],
+      "duration_ms": 160312,
+      "name": "All Comes Back To You",
+      "url": "https://open.spotify.com/track/4AkCyd9Nlbt8JprQq9V6o2"
     },
     {
       "added_at": "2022-07-15 14:10:44",
@@ -1167,6 +1127,46 @@
     {
       "added_at": "2022-07-15 14:10:44",
       "album": {
+        "name": "In My Head (On My Mind)",
+        "url": "https://open.spotify.com/album/2kHF4Kt6da7GupfAzPcMrA"
+      },
+      "artists": [
+        {
+          "name": "MOTi",
+          "url": "https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W"
+        }
+      ],
+      "duration_ms": 153442,
+      "name": "In My Head (On My Mind)",
+      "url": "https://open.spotify.com/track/6VXRlDvbQbZg8k4TplGW3J"
+    },
+    {
+      "added_at": "2022-07-15 14:10:44",
+      "album": {
+        "name": "i miss u (VIZE Remix)",
+        "url": "https://open.spotify.com/album/3zpYj8yX3IY6vyju8Hwkp7"
+      },
+      "artists": [
+        {
+          "name": "Jax Jones",
+          "url": "https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr"
+        },
+        {
+          "name": "Au/Ra",
+          "url": "https://open.spotify.com/artist/1eMmoIprPDWeFdB1FxU6ZV"
+        },
+        {
+          "name": "VIZE",
+          "url": "https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0"
+        }
+      ],
+      "duration_ms": 152109,
+      "name": "i miss u - VIZE Remix",
+      "url": "https://open.spotify.com/track/4zvJFnv4nIwW1rAN4XlhBc"
+    },
+    {
+      "added_at": "2022-07-15 14:10:44",
+      "album": {
         "name": "Bass Goes Down",
         "url": "https://open.spotify.com/album/2JgIfDQUhkptCzJZkhPiY0"
       },
@@ -1183,30 +1183,6 @@
       "duration_ms": 144449,
       "name": "Bass Goes Down",
       "url": "https://open.spotify.com/track/0HfNmWE8fohKdQCXbR1CwS"
-    },
-    {
-      "added_at": "2022-07-15 14:10:44",
-      "album": {
-        "name": "Monkey Mind",
-        "url": "https://open.spotify.com/album/3hLeZkaUdjiEc3jo0Mb9U1"
-      },
-      "artists": [
-        {
-          "name": "LIZOT",
-          "url": "https://open.spotify.com/artist/12A83CWwFiyXy90ScLWPIe"
-        },
-        {
-          "name": "Paradigm",
-          "url": "https://open.spotify.com/artist/6WamMeXO2jN9tUYxSBUclQ"
-        },
-        {
-          "name": "AMELY",
-          "url": "https://open.spotify.com/artist/1hZHcJTY2MYNhTqlrfgobM"
-        }
-      ],
-      "duration_ms": 126511,
-      "name": "Monkey Mind",
-      "url": "https://open.spotify.com/track/2PltG4dbyC0pxwjmWBFixT"
     },
     {
       "added_at": "2022-07-15 14:10:44",
@@ -1255,6 +1231,30 @@
       "duration_ms": 189140,
       "name": "Mockingbirds - VIZE Remix",
       "url": "https://open.spotify.com/track/33hTKRPELdX0F7JNJOYali"
+    },
+    {
+      "added_at": "2022-07-15 14:10:44",
+      "album": {
+        "name": "Monkey Mind",
+        "url": "https://open.spotify.com/album/3hLeZkaUdjiEc3jo0Mb9U1"
+      },
+      "artists": [
+        {
+          "name": "LIZOT",
+          "url": "https://open.spotify.com/artist/12A83CWwFiyXy90ScLWPIe"
+        },
+        {
+          "name": "Paradigm",
+          "url": "https://open.spotify.com/artist/6WamMeXO2jN9tUYxSBUclQ"
+        },
+        {
+          "name": "AMELY",
+          "url": "https://open.spotify.com/artist/1hZHcJTY2MYNhTqlrfgobM"
+        }
+      ],
+      "duration_ms": 126511,
+      "name": "Monkey Mind",
+      "url": "https://open.spotify.com/track/2PltG4dbyC0pxwjmWBFixT"
     },
     {
       "added_at": "2022-07-15 14:10:44",
@@ -1475,6 +1475,22 @@
     {
       "added_at": "2022-07-15 14:10:44",
       "album": {
+        "name": "Fighter",
+        "url": "https://open.spotify.com/album/2XjDpISRYzFI7okmx0YZPS"
+      },
+      "artists": [
+        {
+          "name": "Klaas",
+          "url": "https://open.spotify.com/artist/25sJFKMqDENdsTF7zRXoif"
+        }
+      ],
+      "duration_ms": 164160,
+      "name": "Fighter",
+      "url": "https://open.spotify.com/track/4rBjP3PrWdWEdFdTt33H9X"
+    },
+    {
+      "added_at": "2022-07-15 14:10:44",
+      "album": {
         "name": "Sweet Harmony",
         "url": "https://open.spotify.com/album/3e8s6snmelYIyW36UjyKfK"
       },
@@ -1491,22 +1507,6 @@
       "duration_ms": 136190,
       "name": "Sweet Harmony",
       "url": "https://open.spotify.com/track/6kZBa2wVfTaGAdoLa3dVAP"
-    },
-    {
-      "added_at": "2022-07-15 14:10:44",
-      "album": {
-        "name": "Fighter",
-        "url": "https://open.spotify.com/album/2XjDpISRYzFI7okmx0YZPS"
-      },
-      "artists": [
-        {
-          "name": "Klaas",
-          "url": "https://open.spotify.com/artist/25sJFKMqDENdsTF7zRXoif"
-        }
-      ],
-      "duration_ms": 164160,
-      "name": "Fighter",
-      "url": "https://open.spotify.com/track/4rBjP3PrWdWEdFdTt33H9X"
     },
     {
       "added_at": "2022-07-15 14:10:44",
@@ -1551,6 +1551,26 @@
     {
       "added_at": "2022-07-15 14:10:44",
       "album": {
+        "name": "Raindrops",
+        "url": "https://open.spotify.com/album/0sOqBTPwD7ev0X9k0RLqyf"
+      },
+      "artists": [
+        {
+          "name": "Helion",
+          "url": "https://open.spotify.com/artist/05GSra7vTwr8o54Brzp2nA"
+        },
+        {
+          "name": "Violet Days",
+          "url": "https://open.spotify.com/artist/4uNv6RD2YXwoaKgHfJZkkL"
+        }
+      ],
+      "duration_ms": 151832,
+      "name": "Raindrops",
+      "url": "https://open.spotify.com/track/14DkH5iDM1ZaA3hMfJeRuM"
+    },
+    {
+      "added_at": "2022-07-15 14:10:44",
+      "album": {
         "name": "Always Feels Like (MOTi Remix)",
         "url": "https://open.spotify.com/album/1rNT0ro2pjgC2UYiWtIWLa"
       },
@@ -1575,26 +1595,6 @@
     {
       "added_at": "2022-07-15 14:10:44",
       "album": {
-        "name": "Tell Me I'm Pretty (Icona Pop Remix)",
-        "url": "https://open.spotify.com/album/79eKu1DKlIwvr2HPakP3tI"
-      },
-      "artists": [
-        {
-          "name": "Brynn Elliott",
-          "url": "https://open.spotify.com/artist/43AN9FNovCCWxPX4talyzz"
-        },
-        {
-          "name": "Icona Pop",
-          "url": "https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw"
-        }
-      ],
-      "duration_ms": 159425,
-      "name": "Tell Me I'm Pretty - Icona Pop Remix",
-      "url": "https://open.spotify.com/track/1mvIcYU3FXLiXIHyX0QqP5"
-    },
-    {
-      "added_at": "2022-07-15 14:10:44",
-      "album": {
         "name": "Fingers Crossed",
         "url": "https://open.spotify.com/album/7tHNPG8gM6Hg1rqrZh8JIU"
       },
@@ -1615,22 +1615,22 @@
     {
       "added_at": "2022-07-15 14:10:44",
       "album": {
-        "name": "Raindrops",
-        "url": "https://open.spotify.com/album/0sOqBTPwD7ev0X9k0RLqyf"
+        "name": "Tell Me I'm Pretty (Icona Pop Remix)",
+        "url": "https://open.spotify.com/album/79eKu1DKlIwvr2HPakP3tI"
       },
       "artists": [
         {
-          "name": "Helion",
-          "url": "https://open.spotify.com/artist/05GSra7vTwr8o54Brzp2nA"
+          "name": "Brynn Elliott",
+          "url": "https://open.spotify.com/artist/43AN9FNovCCWxPX4talyzz"
         },
         {
-          "name": "Violet Days",
-          "url": "https://open.spotify.com/artist/4uNv6RD2YXwoaKgHfJZkkL"
+          "name": "Icona Pop",
+          "url": "https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw"
         }
       ],
-      "duration_ms": 151832,
-      "name": "Raindrops",
-      "url": "https://open.spotify.com/track/14DkH5iDM1ZaA3hMfJeRuM"
+      "duration_ms": 159425,
+      "name": "Tell Me I'm Pretty - Icona Pop Remix",
+      "url": "https://open.spotify.com/track/1mvIcYU3FXLiXIHyX0QqP5"
     },
     {
       "added_at": "2022-07-15 14:10:44",
@@ -1727,26 +1727,6 @@
     {
       "added_at": "2022-07-15 14:10:44",
       "album": {
-        "name": "Million Ways (Remixes)",
-        "url": "https://open.spotify.com/album/6RKJnTD9NaJBQN4Bb9t33s"
-      },
-      "artists": [
-        {
-          "name": "HRVY",
-          "url": "https://open.spotify.com/artist/28y6CyJNkGNjJQKrlx4AmN"
-        },
-        {
-          "name": "Steve Void",
-          "url": "https://open.spotify.com/artist/3WSK3JppX3N41XHVwQp7Gt"
-        }
-      ],
-      "duration_ms": 142120,
-      "name": "Million Ways - Steve Void Remix",
-      "url": "https://open.spotify.com/track/7Jp1D99U01dG9Wwoa4el7j"
-    },
-    {
-      "added_at": "2022-07-15 14:10:44",
-      "album": {
         "name": "Something Like That",
         "url": "https://open.spotify.com/album/6ffcpnaUecLcpNj6Nx56jw"
       },
@@ -1807,6 +1787,26 @@
       "duration_ms": 171427,
       "name": "I'm Just Feelin' (Du Du Du) - MOTi Remix",
       "url": "https://open.spotify.com/track/2Pgm12sMZieZZHw7G3MU9H"
+    },
+    {
+      "added_at": "2022-07-15 14:10:44",
+      "album": {
+        "name": "Million Ways (Remixes)",
+        "url": "https://open.spotify.com/album/6RKJnTD9NaJBQN4Bb9t33s"
+      },
+      "artists": [
+        {
+          "name": "HRVY",
+          "url": "https://open.spotify.com/artist/28y6CyJNkGNjJQKrlx4AmN"
+        },
+        {
+          "name": "Steve Void",
+          "url": "https://open.spotify.com/artist/3WSK3JppX3N41XHVwQp7Gt"
+        }
+      ],
+      "duration_ms": 142120,
+      "name": "Million Ways - Steve Void Remix",
+      "url": "https://open.spotify.com/track/7Jp1D99U01dG9Wwoa4el7j"
     },
     {
       "added_at": "2022-07-15 14:10:44",
@@ -1939,26 +1939,6 @@
     {
       "added_at": "2022-07-15 14:10:44",
       "album": {
-        "name": "Can't Get Over You",
-        "url": "https://open.spotify.com/album/0AfivxxYsD8r0S8fiO4mZR"
-      },
-      "artists": [
-        {
-          "name": "Nick Strand",
-          "url": "https://open.spotify.com/artist/5nFFSwxKDNlZyHEYl48YTd"
-        },
-        {
-          "name": "Mio",
-          "url": "https://open.spotify.com/artist/11wkY41Tv6H5BbPopqUoCr"
-        }
-      ],
-      "duration_ms": 123870,
-      "name": "Can't Get Over You",
-      "url": "https://open.spotify.com/track/4fcckOQKfQRyTGUXOtDCge"
-    },
-    {
-      "added_at": "2022-07-15 14:10:44",
-      "album": {
         "name": "Bad Trip (feat. \u00d8ZMA)",
         "url": "https://open.spotify.com/album/3rBKAB5nPTdETBLpoFq3fr"
       },
@@ -1995,6 +1975,26 @@
       "duration_ms": 144761,
       "name": "Party To Survive",
       "url": "https://open.spotify.com/track/4WJhrzxISwyXPCozZTWsrI"
+    },
+    {
+      "added_at": "2022-07-15 14:10:44",
+      "album": {
+        "name": "Can't Get Over You",
+        "url": "https://open.spotify.com/album/0AfivxxYsD8r0S8fiO4mZR"
+      },
+      "artists": [
+        {
+          "name": "Nick Strand",
+          "url": "https://open.spotify.com/artist/5nFFSwxKDNlZyHEYl48YTd"
+        },
+        {
+          "name": "Mio",
+          "url": "https://open.spotify.com/artist/11wkY41Tv6H5BbPopqUoCr"
+        }
+      ],
+      "duration_ms": 123870,
+      "name": "Can't Get Over You",
+      "url": "https://open.spotify.com/track/4fcckOQKfQRyTGUXOtDCge"
     },
     {
       "added_at": "2022-07-15 14:10:44",
@@ -2103,22 +2103,30 @@
     {
       "added_at": "2022-07-15 14:10:44",
       "album": {
-        "name": "Magic",
-        "url": "https://open.spotify.com/album/78qCT4QKVUaXZwJGtPfAb1"
+        "name": "Wherever You Go (feat. John Martin) [Bhaskar & Kohen Remix]",
+        "url": "https://open.spotify.com/album/79asdi3oW71KmnjzoKQL7z"
       },
       "artists": [
         {
-          "name": "Zookeepers",
-          "url": "https://open.spotify.com/artist/1frSJ3BwjRHE9jgMRQV5wC"
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
         },
         {
-          "name": "TOOMANYLEFTHANDS",
-          "url": "https://open.spotify.com/artist/5tCPpDoXfTKy5yTongtDAT"
+          "name": "John Martin",
+          "url": "https://open.spotify.com/artist/2auikkNYqigWStoHWK1Grq"
+        },
+        {
+          "name": "Bhaskar",
+          "url": "https://open.spotify.com/artist/6kT18gnkVrCz8xJQcrib7L"
+        },
+        {
+          "name": "Kohen",
+          "url": "https://open.spotify.com/artist/3Dkul6nShja7zaggvl66rB"
         }
       ],
-      "duration_ms": 194220,
-      "name": "Magic",
-      "url": "https://open.spotify.com/track/5qLK7mVhmrqZ1KV0Wn1tU5"
+      "duration_ms": 226451,
+      "name": "Wherever You Go (feat. John Martin) [Bhaskar & Kohen Remix]",
+      "url": "https://open.spotify.com/track/0mfTTKtgwz9QvGz5i1IG5r"
     }
   ],
   "unique_name": "Tr\u00e4ning",

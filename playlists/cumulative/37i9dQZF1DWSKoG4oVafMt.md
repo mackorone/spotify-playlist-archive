@@ -4,7 +4,7 @@
 
 > The very best of Punjabi romance featuring Jas
 
-568 songs - 1 day 6 hr 44 min - [published](https://open.spotify.com/playlist/1Lit2yy2NvWAzmiWbYvMKp)
+571 songs - 1 day 6 hr 54 min - [published](https://open.spotify.com/playlist/1Lit2yy2NvWAzmiWbYvMKp)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,7 @@
 | [Addiction](https://open.spotify.com/track/0DnFtj3aBIRyDix0Y3lg9v) | [Jass Manak](https://open.spotify.com/artist/2P9JaCtpbQSuZOgvtPrUJ8) | [Love Thunder](https://open.spotify.com/album/2hQRREeWIvPqNtJCOuFCy1) | 2:55 | 2022-09-20 |  |
 | [Adhi Raat \- From "Love Thunder"](https://open.spotify.com/track/1aSnOIDf1IxVuSDNWmDkff) | [Jass Manak](https://open.spotify.com/artist/2P9JaCtpbQSuZOgvtPrUJ8) | [Adhi Raat \(From "Love Thunder"\)](https://open.spotify.com/album/47vOI472akK6HkuR3Odtn5) | 3:33 | 2022-09-16 |  |
 | [Adore You](https://open.spotify.com/track/6O0tJTjpI99TQD8bvtM6HM) | [Kulwinder Billa](https://open.spotify.com/artist/0CP2yDO5i5Q2G1fRj6C8JV) | [Adore You](https://open.spotify.com/album/3XgsHoifkQL6F6K3kMwnYJ) | 2:59 | 2022-05-20 | 2022-07-06 |
-| [Adore You \- 1 Min Music](https://open.spotify.com/track/1pFOGFtQyqdlFgzmSVJ2fz) | [Prabh Gill](https://open.spotify.com/artist/4F5ZNBJDep3GTrMip2tpI4) | [Adore You \- 1 Min Music](https://open.spotify.com/album/52P5TmTNdXKwmOhy18cmrZ) | 1:00 | 2022-07-16 |  |
+| [Adore You](https://open.spotify.com/track/1pFOGFtQyqdlFgzmSVJ2fz) | [Prabh Gill](https://open.spotify.com/artist/4F5ZNBJDep3GTrMip2tpI4) | [Adore You](https://open.spotify.com/album/52P5TmTNdXKwmOhy18cmrZ) | 1:00 | 2022-07-16 |  |
 | [Aj Kal Ve](https://open.spotify.com/track/0TYsZbl0ryJSUvyQeeLBRG) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ) | [Snitches Get Stitches](https://open.spotify.com/album/4lGKsta6BzDVgzKfcSCC7E) | 3:23 | 2021-12-02 |  |
 | [Akh Da Taara](https://open.spotify.com/track/737HezI1JaYiBNKGnPiVas) | [Kaash](https://open.spotify.com/artist/1yfbFvnTbmTbLOkw8sMUKv), [Gur Sidhu](https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5) | [Akh Da Taara](https://open.spotify.com/album/40mp2aMcrURy4hrsE3w6LE) | 4:03 | 2022-07-18 | 2022-08-18 |
 | [Akh Kashni](https://open.spotify.com/track/6XGSNHEcQyz9sBYT0Fo532) | [Ashu](https://open.spotify.com/artist/2d597pUuGdL3bcn0jhZuww), [Spade](https://open.spotify.com/artist/3LHmBcvmWp7KyQnJuoDxA9) | [Akh Kashni](https://open.spotify.com/album/7IOT37dqjUmqiCqcoxCgPf) | 2:58 | 2022-09-05 | 2022-09-23 |
@@ -142,6 +142,7 @@
 | [Faraar](https://open.spotify.com/track/3QDL9HK2SdbQK600Uoz6St) | [Akull](https://open.spotify.com/artist/1dqPqXbxxYtCtLbKeAN2Ss) | [Faraar](https://open.spotify.com/album/2nz8h9fxrMfl5ZLtWBLFzF) | 3:12 | 2021-12-02 | 2022-04-06 |
 | [Feel Safe](https://open.spotify.com/track/4m268S7e5ttPQQbFRM8Ah0) | [Garry Sandhu](https://open.spotify.com/artist/7M3xY5iHSzEtoL3FpqOD75) | [Feel Safe](https://open.spotify.com/album/6ZR6Il83UooDKFMUqR7QnT) | 2:41 | 2022-08-19 |  |
 | [Feelinga](https://open.spotify.com/track/3Z3LWu6W9E64D1PuyNqlWD) | [Akaal](https://open.spotify.com/artist/5EXjpk29ZE4OI3VSdkjZjn), [Kamal Longwal](https://open.spotify.com/artist/3oZRmK1lNVPMjKck5cdOgR) | [Feelinga](https://open.spotify.com/album/1Dg0h9qaMvlQd9CrWqOhve) | 2:30 | 2022-07-15 | 2022-09-23 |
+| [Ferozi Koka](https://open.spotify.com/track/3nBT3djv8UdFtlM7hqfnit) | [Ranjit Bawa](https://open.spotify.com/artist/6pU5oz09VUYtnFTd4P1Mxn) | [Ferozi Koka](https://open.spotify.com/album/58CBHd8bAudqjM2ySjMaqt) | 2:52 | 2022-10-06 |  |
 | [Firozi](https://open.spotify.com/track/3C1CI7A7stRCh6gpBWCEQS) | [Nimrat Khaira](https://open.spotify.com/artist/0ea0y5ZxnN5TbEDzNtx5Fk) | [Nimmo](https://open.spotify.com/album/3F2cjyTEus264GbYrXgrnc) | 3:36 | 2022-02-02 | 2022-04-06 |
 | [Five Flower](https://open.spotify.com/track/74wcCZYO6yofhiahlJqkKk) | [Ranjit Bawa](https://open.spotify.com/artist/6pU5oz09VUYtnFTd4P1Mxn) | [Five Flower](https://open.spotify.com/album/463xWGyBZ2PjYCLIVAIxU5) | 2:38 | 2022-09-09 |  |
 | [Flat](https://open.spotify.com/track/2yeklSP8NLY1INR6GOzVgd) | [Mani Moudgill](https://open.spotify.com/artist/3MGTi8Rfb4d7hprj5R2BEC) | [Flat](https://open.spotify.com/album/0VPaB19nfI80AE71iO22zN) | 2:33 | 2022-07-21 | 2022-07-29 |
@@ -248,6 +249,7 @@
 | [Khyaal Rakhya Kar](https://open.spotify.com/track/2RKGtM8v2JM72Gyo1wLmgg) | [Neha Kakkar](https://open.spotify.com/artist/5f4QpKfy7ptCHwTqspnSJI) | [Khyaal Rakhya Kar](https://open.spotify.com/album/6Ghe7DUVuvs6hCzCdz3prE) | 3:10 | 2021-12-02 | 2022-02-01 |
 | [Ki Kar Gaiyaan](https://open.spotify.com/track/5o0zH8goJNlBBgfZhmQL6k) | [Akriti Kakkar](https://open.spotify.com/artist/0le3G5nxaIL8ecHpBA6LPW), [Deep Kalsi](https://open.spotify.com/artist/23S2w22FCwFjDBBn7qdB2I) | [Ki Kar Gaiyaan](https://open.spotify.com/album/4q1rMKC7XSD07kNcTo9gcl) | 3:43 | 2022-01-28 | 2022-02-12 |
 | [Ki Karde Je](https://open.spotify.com/track/5DnZcwhgXYlUxGOMk348Sz) | [Nimrat Khaira](https://open.spotify.com/artist/0ea0y5ZxnN5TbEDzNtx5Fk), [Arjan Dhillon](https://open.spotify.com/artist/64DvMieEUCdrYKmEIhDt8G) | [Nimmo](https://open.spotify.com/album/3F2cjyTEus264GbYrXgrnc) | 3:35 | 2022-02-03 | 2022-07-12 |
+| [Ki Likha](https://open.spotify.com/track/45FqDbFJkcg3jDqhqnvvmL) | [Kaka](https://open.spotify.com/artist/1Oh5bPXjw5jreVFhKc4jux) | [Ki Likha](https://open.spotify.com/album/51OFYw4DkH77r7GvldQjAq) | 4:26 | 2022-10-07 |  |
 | [Kill Kure](https://open.spotify.com/track/5Y6pohDxlWqRH69bDv5er4) | [Deep Jandu](https://open.spotify.com/artist/2RJawMqX9ESxws2KMtHyP3), [Manna Music](https://open.spotify.com/artist/7JuTOJ6xkgM1RScWRrbCOT) | [Kill Kure](https://open.spotify.com/album/0PHp8FjClTq3VQNPbUpAXo) | 4:34 | 2022-01-17 | 2022-02-01 |
 | [King Queen](https://open.spotify.com/track/7idV9Nalvb7FbEcN5Qbtou) | [KB Bhangu](https://open.spotify.com/artist/1ckQY8GQZNvJBr1y9HP74r), [Sumirat Kaur](https://open.spotify.com/artist/0hAxNB52FTz62jLDbtG6eK) | [King Queen](https://open.spotify.com/album/43gOBtn2vMaDyPEQ1e08l0) | 3:20 | 2022-02-04 | 2022-02-12 |
 | [Kinne Sohne Lagde](https://open.spotify.com/track/1vuMd5EqT1CZhK8we8ENLJ) | [Devenderpal Singh](https://open.spotify.com/artist/1jN2Fv5V6wFOU6wRNEod4T), [Ruhi Sethi](https://open.spotify.com/artist/6VqAlXwwoDxGZTUgG0Sx2y) | [Kinne Sohne Lagde](https://open.spotify.com/album/4jWS2jTivJTZdfA2y90V3W) | 3:24 | 2022-05-31 | 2022-07-06 |
@@ -261,6 +263,7 @@
 | [Kujh Pal](https://open.spotify.com/track/1e6aFVm5degTzEej18pCWQ) | [Gurshabad](https://open.spotify.com/artist/557gXmWZK1P5T3yNLjvLXP), [Mitika Kanwar](https://open.spotify.com/artist/4sjw8DSxhdPiJkGbtAobEg) | [Kujh Pal](https://open.spotify.com/album/4wtsHIBHrcDslzhQty25nX) | 2:59 | 2022-07-13 | 2022-08-18 |
 | [Kuwait Wala Koka](https://open.spotify.com/track/6rqCGWzwW10e370MIA4lWW) | [Gurman Sandhu](https://open.spotify.com/artist/5ugj60Brzgzl1h08AjGlKN), [Baani Sandhu](https://open.spotify.com/artist/3tDW6dCyLHiuOq5eKnHCW3) | [Kuwait Wala Koka](https://open.spotify.com/album/5Gst6VK89e4LeTHOT0CvAQ) | 2:49 | 2022-05-09 | 2022-05-20 |
 | [Kya Baat Ay](https://open.spotify.com/track/1ZaeaGLhFSckG8sv1y7AWk) | [Harrdy Sandhu](https://open.spotify.com/artist/4ITkqBlf5eoVCOFwsJCnqo) | [Kya Baat Ay](https://open.spotify.com/album/6dGrLyjo05QYx1djXmioIk) | 2:59 | 2021-12-02 | 2022-02-01 |
+| [Kya Ne Baatan](https://open.spotify.com/track/2wMijO0F9GGHDx1Ka1nDvW) | [Kaur B](https://open.spotify.com/artist/43iOhUGMAnS6QbPEUYqkpg) | [Kya Ne Baatan](https://open.spotify.com/album/7CCtSr52USEN9jLCGFh5hA) | 2:48 | 2022-10-06 |  |
 | [LA](https://open.spotify.com/track/27G0kb3K0M6wTcRFEtAp8H) | [Nirvair Pannu](https://open.spotify.com/artist/4vIsAZx8AolYa6paJphDGY) | [LA](https://open.spotify.com/album/4YDpYD0bKAcFD8t6BQS0rA) | 2:59 | 2022-04-20 | 2022-05-20 |
 | [La La La](https://open.spotify.com/track/6dMm31vV30QYSLwpcTPznv) | [Neha Kakkar](https://open.spotify.com/artist/5f4QpKfy7ptCHwTqspnSJI), [Rohanpreet Singh](https://open.spotify.com/artist/0oZUBBe32WUJY1WjGzYEG8) | [La La La](https://open.spotify.com/album/4HLctn0Rgefl2sMIYF0XUU) | 2:41 | 2022-05-07 | 2022-07-06 |
 | [Laare](https://open.spotify.com/track/2lKfpNZeNDQ1AsR8btddjH) | [Puran Sidhu](https://open.spotify.com/artist/6TC5PtzelDA6UDZYK5XO72) | [Laare](https://open.spotify.com/album/3AGYl1b5NqxVtrcM3ikyk2) | 3:05 | 2022-07-21 | 2022-08-18 |

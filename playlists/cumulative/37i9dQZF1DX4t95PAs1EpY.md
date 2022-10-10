@@ -4,7 +4,7 @@
 
 > beats + birds = <3
 
-279 songs - 10 hr 36 min - [published](https://open.spotify.com/playlist/6QwEG0lxiO8QjBCn34RATR)
+283 songs - 10 hr 46 min - [published](https://open.spotify.com/playlist/6QwEG0lxiO8QjBCn34RATR)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,6 +49,7 @@
 | [Cigar](https://open.spotify.com/track/7yD9xepeRrBa6bO3li14Gu) | [Aphrodiciaq](https://open.spotify.com/artist/1YlacHeO7Vj237OMKD8hxh) | [Cigar](https://open.spotify.com/album/2BARicBFCobZspePy6WvhJ) | 2:31 | 2022-09-30 |  |
 | [City Park](https://open.spotify.com/track/4lqEtgytnO3H4tDwLV3Tj3) | [Fleet Francis](https://open.spotify.com/artist/0USAl4ZgyskdW7gADLZkdn) | [City Park](https://open.spotify.com/album/6f5JLzj6RhOYa15xlLAlFX) | 2:30 | 2021-12-07 | 2022-05-27 |
 | [Clear Skies](https://open.spotify.com/track/1N5L6TGOYl4udaEk2UxRu2) | [sftspkn](https://open.spotify.com/artist/2RTHRVmtTiMDjDCZIOO9wq) | [Clear Skies](https://open.spotify.com/album/6i2OcCQDNlpywA5dVDE9UA) | 2:00 | 2022-09-16 |  |
+| [Closure](https://open.spotify.com/track/5AoRaygf1Gqd5nk0wWZSMl) | [Nick Wolf](https://open.spotify.com/artist/4j60yxoFJVWkQNs6uaoJms), [azayaka](https://open.spotify.com/artist/6NlDyXtng5iheiZRAzt4NF), [Roadetrix](https://open.spotify.com/artist/7Md5xGlvby3sPI2NLkbYlv) | [Closure](https://open.spotify.com/album/0WIibN3WgfTnFPY1isNNv3) | 2:07 | 2022-10-07 |  |
 | [Cognac](https://open.spotify.com/track/3ULY7sln0jffsuZhVlSnB8) | [Grill Hensler](https://open.spotify.com/artist/0jdnj1iJ03t0r3VM4SIgYc) | [Cognac](https://open.spotify.com/album/3nUgwqbeVV4ZPckOwVrivL) | 2:16 | 2021-12-07 |  |
 | [colors of a night](https://open.spotify.com/track/1ygF2oxp5bjMQctM7c3kxS) | [Antennaah](https://open.spotify.com/artist/6KiVH2JCfM9KczjORaXjGj) | [colors of a night](https://open.spotify.com/album/0pk3a6XFh1WiuhXwCphASp) | 1:56 | 2021-12-07 |  |
 | [Come The Money](https://open.spotify.com/track/5yO3E2n5bHBeRir4URHOtG) | [Chuck Morrison](https://open.spotify.com/artist/6m3viXMwlZLZFKL8EQsDnB) | [Come The Money](https://open.spotify.com/album/2BhirANPh4QcvnH0F98mPT) | 2:12 | 2021-12-07 |  |
@@ -61,12 +62,14 @@
 | [Days End](https://open.spotify.com/track/72fw7BBXK1IWsoNJCFcSFr) | [Charlee Nguyen](https://open.spotify.com/artist/5ffORofXMmNRRtwIeQsyW3), [Manocchs](https://open.spotify.com/artist/7nuSdpLse2KEipMvQ1hWEc) | [Days End](https://open.spotify.com/album/293Ituc1s1BgexGopqrP72) | 1:56 | 2022-09-02 |  |
 | [dead reckoning](https://open.spotify.com/track/1HPRFECUZyvqlTsVcnVQqL) | [exogon](https://open.spotify.com/artist/2IJJALo5Ey8JvuJYzKnzvO) | [abstract mapping](https://open.spotify.com/album/3wnY9D1Dl69OohA8MtkU2z) | 1:48 | 2021-12-07 |  |
 | [Don Lemon](https://open.spotify.com/track/3MZM6vRRO8f459kxgEULg8) | [Sátyr](https://open.spotify.com/artist/5D6V4Z6oPz4waooiuBaWIf), [FLKS](https://open.spotify.com/artist/0su9f9WdmaeYFON6XEaXb0) | [Don Lemon](https://open.spotify.com/album/2Mcpr3klMbn0OOC5sslBUc) | 1:44 | 2022-05-27 |  |
+| [Dream Tunnel](https://open.spotify.com/track/0gyDK00aAkv2Cj5MiDdRDV) | [Alpacca](https://open.spotify.com/artist/6I1hzKZBbWpAwZjGXBI9uA), [Cassidy Godwin](https://open.spotify.com/artist/2fCuEFatpJymbazPkYYVi8) | [Dream Tunnel](https://open.spotify.com/album/1em9TDR3pNUlMSG7VixHbC) | 2:30 | 2022-10-07 |  |
 | [Dreaming](https://open.spotify.com/track/2sAueBql5AeZv5lbgIoCmw) | [SwuM](https://open.spotify.com/artist/2Fc1UZXKRmPpWWx1sxcb9m), [Idealism](https://open.spotify.com/artist/6YJ4EgQzDfJnIHRbqIHAdD) | [Dreaming](https://open.spotify.com/album/0OFCOApz7zlibihMfLmnyf) | 2:31 | 2021-12-07 | 2022-05-20 |
 | [Early Bird](https://open.spotify.com/track/2V8arCg99hy14snVEtZNoR) | [buggy beats](https://open.spotify.com/artist/20sIKWsBpGJNPLbWNeSrT7) | [Early Bird](https://open.spotify.com/album/0AmDeNtx6ksfIj0vzFdw6I) | 2:38 | 2022-09-23 |  |
 | [Eden Garden](https://open.spotify.com/track/3DWCpXGvN3HdNdyl6pidSO) | [Dilai](https://open.spotify.com/artist/5vczEix1wnWLZ3FeFA6uX4) | [Eden Garden](https://open.spotify.com/album/1ISWQe58Is94DhLVmRZtJG) | 3:48 | 2022-05-20 | 2022-06-03 |
 | [Eden Summer](https://open.spotify.com/track/4ovCrCSU40yOKrvEeEoIL1) | [Oscar Hollis](https://open.spotify.com/artist/15ZZypdx99YQ2lPB7o5wka) | [Eden Summer](https://open.spotify.com/album/5T5tIzfq1WUKbNfZNq45fr) | 2:48 | 2022-07-15 |  |
 | [efímero](https://open.spotify.com/track/5SRg6ipwt6uYyAur2HARPe) | [tres islas](https://open.spotify.com/artist/7CRBLbMHIR0QIrBGhj4mc8) | [efímero](https://open.spotify.com/album/4nZISHOozkmb87YDkpe5eO) | 3:18 | 2021-12-07 |  |
 | [Electro Lofi](https://open.spotify.com/track/6fZgKfjI7TSVrjm3LPYnWB) | [´Goule](https://open.spotify.com/artist/2phpbwxQb0xbtDKXYP5VDu) | [Electro Lofi](https://open.spotify.com/album/2aq1w0HlCGB8hMf3nr2sPG) | 1:55 | 2022-04-15 |  |
+| [Elongation](https://open.spotify.com/track/5ZbBjMlIJzgrxauaIQMInm) | [L O F I L U V](https://open.spotify.com/artist/4yhcsS8fEAHnMszuWUU37O), [Tokoname](https://open.spotify.com/artist/6zROBwkwrwFefHWv6M4kGG) | [Elongation](https://open.spotify.com/album/5O8oEgJio4pyCbS9qVIpjE) | 2:34 | 2022-10-07 |  |
 | [Ender](https://open.spotify.com/track/0mE3vnX3Jl8lPrw616n3qY) | [1ga](https://open.spotify.com/artist/34NTA1C1HZCG5v0szAB5Fu) | [Goblin](https://open.spotify.com/album/5HuYg16CS7wK0qDa6Y1K7V) | 2:44 | 2021-12-07 | 2022-05-20 |
 | [Engines](https://open.spotify.com/track/4zj7KEYf0YhhTFbrzK7TkI) | [iasilma](https://open.spotify.com/artist/3pDdMkuOaBgEfSrzpFmWcu) | [Engines](https://open.spotify.com/album/00GKYTcoOE8YZ7KqVngw48) | 2:20 | 2022-09-09 |  |
 | [equator](https://open.spotify.com/track/4132t2oYuNlgzSmsp1E9Tm) | [Howtodie](https://open.spotify.com/artist/4XVDSQtpwsFt4UdTIcBW11) | [equator](https://open.spotify.com/album/5UAdjfXZRTmtuEQdOtHUyc) | 1:16 | 2022-04-15 |  |
@@ -100,6 +103,7 @@
 | [Ginger Tea](https://open.spotify.com/track/6sY2SpvPiOP3Y94bLjryYY) | [Au\-Gustí](https://open.spotify.com/artist/3ji2V5xxzUdLIdss19kBp7) | [Ginger Tea](https://open.spotify.com/album/4KX8xx1dbg34gK9gcwlkgL) | 2:32 | 2022-07-22 | 2022-09-30 |
 | [Golden Flower](https://open.spotify.com/track/2zYCpdqRYEqZdL4kPhGGvS) | [Pearldiver](https://open.spotify.com/artist/4e9BBDC8gDwj2WVADiqyVQ) | [Golden Flower](https://open.spotify.com/album/5joQcQJNvVauhEOkPpf1sc) | 2:27 | 2022-05-13 |  |
 | [Golden Hour](https://open.spotify.com/track/403bR4J4rNTf9H03KDMzFZ) | [don C](https://open.spotify.com/artist/1ueK3bCiPFFvYV3v06jvYU) | [Golden Hour](https://open.spotify.com/album/6t0KrvmFn3cRW6wL68CnVS) | 2:08 | 2022-07-08 |  |
+| [Golden Hours](https://open.spotify.com/track/6DIZ0c6Dwp8B5ErJU0pxwO) | [yoranda](https://open.spotify.com/artist/6RASfL9QFAOiqYdKetXooz) | [Golden Hours](https://open.spotify.com/album/5zuC3hPXpGaSD9zLit89Hq) | 2:47 | 2022-10-07 |  |
 | [Good Things Coming](https://open.spotify.com/track/0BZiMl6Z2kEtSByrJM8pCF) | [SamuW](https://open.spotify.com/artist/2tqQ33SdGO1LqNg8DQDCio), [Mendeville](https://open.spotify.com/artist/3oul9NF2i2QuhpMzxEWoHD), [KaspaHauser](https://open.spotify.com/artist/2zIhBOpUm3gKL6MOcuc657) | [Good Things Coming](https://open.spotify.com/album/6BQEOgTe5bo6XNfGYgyolp) | 2:36 | 2022-05-13 | 2022-09-09 |
 | [Goodbye](https://open.spotify.com/track/1oyrVPtes5mIqt3RNIOcGp) | [maeshima soshi](https://open.spotify.com/artist/4O49GHbECmNppFvzK0WZXf) | [Goodbye](https://open.spotify.com/album/1zEzeSY7dRs8tkKfDg5lQ0) | 3:15 | 2022-09-16 |  |
 | [Grapefruit Park](https://open.spotify.com/track/3yEYawa3IMccZnBfvsAvp3) | [Mujo](https://open.spotify.com/artist/0vg08N1z9G9LrGLkG1nNDS), [Hakone](https://open.spotify.com/artist/7CWzXEtz9IgGotcYUQuixF) | [Grapefruit Garden](https://open.spotify.com/album/7cGS9vNywltuBBmpKdcf55) | 1:39 | 2022-09-23 |  |

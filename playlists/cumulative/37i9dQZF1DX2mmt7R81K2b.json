@@ -660,6 +660,28 @@
     },
     {
       "album": {
+        "name": "Suite for the Seagulls",
+        "url": "https://open.spotify.com/album/07hSCP97K2GDfblHzWZxNZ"
+      },
+      "artists": [
+        {
+          "name": "Norchestra",
+          "url": "https://open.spotify.com/artist/61H25MWaKudq3tHlQQU7WX"
+        },
+        {
+          "name": "Gnu Quartet",
+          "url": "https://open.spotify.com/artist/6CIHRcHRO6dsAvDMnsYSuF"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268000,
+      "name": "I - The Creation",
+      "url": "https://open.spotify.com/track/7GterxMQBBkkaoyJ1w9w9y"
+    },
+    {
+      "album": {
         "name": "The Bandwagon",
         "url": "https://open.spotify.com/album/5XxvFw1K9lYu78ipjF8gpG"
       },

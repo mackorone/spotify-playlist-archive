@@ -185,7 +185,7 @@
     {
       "album": {
         "name": "Anyone Else But You",
-        "url": "https://open.spotify.com/album/1d2tQ6FEL3ZYGLZQTOYVXM"
+        "url": "https://open.spotify.com/album/4qT57u3gSvIXaWGtInIp60"
       },
       "artists": [
         {
@@ -200,6 +200,28 @@
       "date_added": "2022-07-12",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 169050,
+      "name": "Anyone Else But You",
+      "url": "https://open.spotify.com/track/4IBsj7ouiYgkKhaJnBCTXE"
+    },
+    {
+      "album": {
+        "name": "Anyone Else But You",
+        "url": "https://open.spotify.com/album/1d2tQ6FEL3ZYGLZQTOYVXM"
+      },
+      "artists": [
+        {
+          "name": "Anthony de la Torre",
+          "url": "https://open.spotify.com/artist/6dxbsVBLykNgOpP0DxjMR4"
+        },
+        {
+          "name": "Lana Condor",
+          "url": "https://open.spotify.com/artist/4KdW7TLVWFkxlsCBQ0VTRc"
+        }
+      ],
+      "date_added": "2022-07-12",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-06",
       "duration_ms": 169050,
       "name": "Anyone Else But You",
       "url": "https://open.spotify.com/track/7dYof5SM0zM3MnraaF53qj"

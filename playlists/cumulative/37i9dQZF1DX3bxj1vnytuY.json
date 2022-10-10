@@ -643,7 +643,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 402800,
       "name": "Desert Hill",
       "url": "https://open.spotify.com/track/5CQv5iDiACr1xa8TQ1FsI8"
@@ -2195,6 +2195,24 @@
       "duration_ms": 336000,
       "name": "Sunny Street",
       "url": "https://open.spotify.com/track/7FSxMDMfkL58IKUHvDKRxk"
+    },
+    {
+      "album": {
+        "name": "Sunsets in Marrakech",
+        "url": "https://open.spotify.com/album/7swsGEp5WBVi8B4whrKwnd"
+      },
+      "artists": [
+        {
+          "name": "BluePaper",
+          "url": "https://open.spotify.com/artist/6nlIMudcLyn65DpF3jsUOB"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 378392,
+      "name": "Sunsets in Marrakech",
+      "url": "https://open.spotify.com/track/3X9tSrJQbdWH2lwGyyv1cn"
     },
     {
       "album": {

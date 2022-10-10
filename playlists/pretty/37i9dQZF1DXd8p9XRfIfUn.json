@@ -1,12 +1,12 @@
 {
   "description": "Lo mejor de la nueva. Foto: Alu Mix, Yoss Bones",
-  "num_followers": 59012,
+  "num_followers": 59159,
   "original_name": "Academia Reggaet\u00f3n",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDUwNjgwMCwwMDAwMDAwMGFiOWRhNWFhNTUyZGZiMTExMzM5MGQ3Njk4YWRkMDRm",
+  "snapshot_id": "MTY2NDUwNjgwMCwwMDAwMDAwMGJlYzkwZDUyN2FiZWEwNGI4NWQ4NWI2ODNlMDFjOGU3",
   "tracks": [
     {
       "added_at": "2022-09-30 03:00:00",
@@ -491,6 +491,22 @@
     {
       "added_at": "2022-09-30 03:00:00",
       "album": {
+        "name": "Uy K Raro",
+        "url": "https://open.spotify.com/album/5FqitTSr4aw1i56OFbbbhn"
+      },
+      "artists": [
+        {
+          "name": "Mont",
+          "url": "https://open.spotify.com/artist/41gFAk6ZyYdt7Q1Ir4cbH0"
+        }
+      ],
+      "duration_ms": 127264,
+      "name": "Uy K Raro",
+      "url": "https://open.spotify.com/track/526lL7I17vKOuiD9Wd2vMt"
+    },
+    {
+      "added_at": "2022-09-30 03:00:00",
+      "album": {
         "name": "Q-Lito",
         "url": "https://open.spotify.com/album/7vy05msyjhqtzv6wgemce7"
       },
@@ -511,22 +527,6 @@
     {
       "added_at": "2022-09-30 03:00:00",
       "album": {
-        "name": "Uy K Raro",
-        "url": "https://open.spotify.com/album/5FqitTSr4aw1i56OFbbbhn"
-      },
-      "artists": [
-        {
-          "name": "Mont",
-          "url": "https://open.spotify.com/artist/41gFAk6ZyYdt7Q1Ir4cbH0"
-        }
-      ],
-      "duration_ms": 127264,
-      "name": "Uy K Raro",
-      "url": "https://open.spotify.com/track/526lL7I17vKOuiD9Wd2vMt"
-    },
-    {
-      "added_at": "2022-09-30 03:00:00",
-      "album": {
         "name": "Palmas",
         "url": "https://open.spotify.com/album/1hfUzj7KZvo7XrwdiFdSVl"
       },
@@ -543,26 +543,6 @@
       "duration_ms": 171089,
       "name": "Palmas",
       "url": "https://open.spotify.com/track/3aEev62BGtfMvqUf2zbHCd"
-    },
-    {
-      "added_at": "2022-09-30 03:00:00",
-      "album": {
-        "name": "Un Poquito",
-        "url": "https://open.spotify.com/album/3T42E1jOeHGlo19lBSSZCO"
-      },
-      "artists": [
-        {
-          "name": "Alejo",
-          "url": "https://open.spotify.com/artist/50sIhX3HytFEwQXZJLUZQE"
-        },
-        {
-          "name": "Young Miko",
-          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
-        }
-      ],
-      "duration_ms": 166050,
-      "name": "Un Poquito",
-      "url": "https://open.spotify.com/track/1nU4sOQqqhFUqS0TiRlD0V"
     },
     {
       "added_at": "2022-09-30 03:00:00",
@@ -591,6 +571,26 @@
       "duration_ms": 192000,
       "name": "Combi Nueva",
       "url": "https://open.spotify.com/track/5hqAc7ZD21UREu9mNKuLhr"
+    },
+    {
+      "added_at": "2022-09-30 03:00:00",
+      "album": {
+        "name": "Un Poquito",
+        "url": "https://open.spotify.com/album/3T42E1jOeHGlo19lBSSZCO"
+      },
+      "artists": [
+        {
+          "name": "Alejo",
+          "url": "https://open.spotify.com/artist/50sIhX3HytFEwQXZJLUZQE"
+        },
+        {
+          "name": "Young Miko",
+          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
+        }
+      ],
+      "duration_ms": 166050,
+      "name": "Un Poquito",
+      "url": "https://open.spotify.com/track/1nU4sOQqqhFUqS0TiRlD0V"
     },
     {
       "added_at": "2022-09-30 03:00:00",
@@ -763,6 +763,30 @@
     {
       "added_at": "2022-09-30 03:00:00",
       "album": {
+        "name": "Mi Fanatica",
+        "url": "https://open.spotify.com/album/5w21QO36y3jDzjy0QkhduY"
+      },
+      "artists": [
+        {
+          "name": "Jere Klein",
+          "url": "https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9"
+        },
+        {
+          "name": "Bayriton",
+          "url": "https://open.spotify.com/artist/29fcEFHRcOhfTYXvS8POPV"
+        },
+        {
+          "name": "Jairo Vera",
+          "url": "https://open.spotify.com/artist/5CAruGjgds3QlF5ICtEnnc"
+        }
+      ],
+      "duration_ms": 223283,
+      "name": "Mi Fanatica",
+      "url": "https://open.spotify.com/track/4M3UPGNere257tK0Qguga2"
+    },
+    {
+      "added_at": "2022-09-30 03:00:00",
+      "album": {
         "name": "Bendici\u00f3n",
         "url": "https://open.spotify.com/album/1ngKwKbpwwd5twNds3LN8N"
       },
@@ -807,46 +831,6 @@
     {
       "added_at": "2022-09-30 03:00:00",
       "album": {
-        "name": "Me Juquie",
-        "url": "https://open.spotify.com/album/7uHa5H6yYjxgh0ek8Tc2Yk"
-      },
-      "artists": [
-        {
-          "name": "Omar Courtz",
-          "url": "https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc"
-        }
-      ],
-      "duration_ms": 158000,
-      "name": "Me Juquie",
-      "url": "https://open.spotify.com/track/7jIcZC9pSpkAuokhCZOtLn"
-    },
-    {
-      "added_at": "2022-09-30 03:00:00",
-      "album": {
-        "name": "Mi Fanatica",
-        "url": "https://open.spotify.com/album/5w21QO36y3jDzjy0QkhduY"
-      },
-      "artists": [
-        {
-          "name": "Jere Klein",
-          "url": "https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9"
-        },
-        {
-          "name": "Bayriton",
-          "url": "https://open.spotify.com/artist/29fcEFHRcOhfTYXvS8POPV"
-        },
-        {
-          "name": "Jairo Vera",
-          "url": "https://open.spotify.com/artist/5CAruGjgds3QlF5ICtEnnc"
-        }
-      ],
-      "duration_ms": 223283,
-      "name": "Mi Fanatica",
-      "url": "https://open.spotify.com/track/4M3UPGNere257tK0Qguga2"
-    },
-    {
-      "added_at": "2022-09-30 03:00:00",
-      "album": {
         "name": "Cu\u00e1ndo Ser\u00e1",
         "url": "https://open.spotify.com/album/5qK4dDtESjgrbN98KbHsl2"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 176000,
       "name": "Cu\u00e1ndo Ser\u00e1",
       "url": "https://open.spotify.com/track/68Oy57uVLa2uZdWcYNi6M4"
+    },
+    {
+      "added_at": "2022-09-30 03:00:00",
+      "album": {
+        "name": "Me Juquie",
+        "url": "https://open.spotify.com/album/7uHa5H6yYjxgh0ek8Tc2Yk"
+      },
+      "artists": [
+        {
+          "name": "Omar Courtz",
+          "url": "https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc"
+        }
+      ],
+      "duration_ms": 158000,
+      "name": "Me Juquie",
+      "url": "https://open.spotify.com/track/7jIcZC9pSpkAuokhCZOtLn"
     },
     {
       "added_at": "2022-09-30 03:00:00",
@@ -903,18 +903,22 @@
     {
       "added_at": "2022-09-30 03:00:00",
       "album": {
-        "name": "Qu\u00e9 Rico Repetirlo",
-        "url": "https://open.spotify.com/album/20yLO5duZcBzRnMnWmVZBI"
+        "name": "Que a Pasao",
+        "url": "https://open.spotify.com/album/00LnZnMQqMsYFIhnTjGAEo"
       },
       "artists": [
         {
-          "name": "Andy Rivera",
-          "url": "https://open.spotify.com/artist/7hIqJfRYGBWWT1Qxu6Cpd2"
+          "name": "Big Apple",
+          "url": "https://open.spotify.com/artist/5suUyNwJ1hw1M45oqdw8zE"
+        },
+        {
+          "name": "Omar Varela",
+          "url": "https://open.spotify.com/artist/5xIOUIBQhGFX7HIj8lhdyU"
         }
       ],
-      "duration_ms": 186840,
-      "name": "Qu\u00e9 Rico Repetirlo",
-      "url": "https://open.spotify.com/track/63tc67n05008BFsuVhGgNb"
+      "duration_ms": 125923,
+      "name": "Que a Pasao",
+      "url": "https://open.spotify.com/track/5s2SRpPmDiYFf0Qu17r9Uk"
     },
     {
       "added_at": "2022-09-30 03:00:00",
@@ -955,22 +959,34 @@
     {
       "added_at": "2022-09-30 03:00:00",
       "album": {
-        "name": "Que a Pasao",
-        "url": "https://open.spotify.com/album/00LnZnMQqMsYFIhnTjGAEo"
+        "name": "Qu\u00e9 Rico Repetirlo",
+        "url": "https://open.spotify.com/album/20yLO5duZcBzRnMnWmVZBI"
       },
       "artists": [
         {
-          "name": "Big Apple",
-          "url": "https://open.spotify.com/artist/5suUyNwJ1hw1M45oqdw8zE"
-        },
-        {
-          "name": "Omar Varela",
-          "url": "https://open.spotify.com/artist/5xIOUIBQhGFX7HIj8lhdyU"
+          "name": "Andy Rivera",
+          "url": "https://open.spotify.com/artist/7hIqJfRYGBWWT1Qxu6Cpd2"
         }
       ],
-      "duration_ms": 125923,
-      "name": "Que a Pasao",
-      "url": "https://open.spotify.com/track/5s2SRpPmDiYFf0Qu17r9Uk"
+      "duration_ms": 186840,
+      "name": "Qu\u00e9 Rico Repetirlo",
+      "url": "https://open.spotify.com/track/63tc67n05008BFsuVhGgNb"
+    },
+    {
+      "added_at": "2022-09-30 03:00:00",
+      "album": {
+        "name": "Animal",
+        "url": "https://open.spotify.com/album/0nzHhpOd7pV1ABo9P4mQfY"
+      },
+      "artists": [
+        {
+          "name": "Montano",
+          "url": "https://open.spotify.com/artist/3LlWsXsjIJmaKmPaB9GIyH"
+        }
+      ],
+      "duration_ms": 195135,
+      "name": "Animal",
+      "url": "https://open.spotify.com/track/35ccLhqnXTaoA5kk8IPQdH"
     },
     {
       "added_at": "2022-09-30 03:00:00",
@@ -999,22 +1015,6 @@
       "duration_ms": 156096,
       "name": "Full Pioli (feat. Best)",
       "url": "https://open.spotify.com/track/2buMcKUAP01a72VC28jdIZ"
-    },
-    {
-      "added_at": "2022-09-30 03:00:00",
-      "album": {
-        "name": "Animal",
-        "url": "https://open.spotify.com/album/0nzHhpOd7pV1ABo9P4mQfY"
-      },
-      "artists": [
-        {
-          "name": "Montano",
-          "url": "https://open.spotify.com/artist/3LlWsXsjIJmaKmPaB9GIyH"
-        }
-      ],
-      "duration_ms": 195135,
-      "name": "Animal",
-      "url": "https://open.spotify.com/track/35ccLhqnXTaoA5kk8IPQdH"
     },
     {
       "added_at": "2022-09-30 03:00:00",
@@ -1071,18 +1071,26 @@
     {
       "added_at": "2022-09-30 03:00:00",
       "album": {
-        "name": "Qu\u00e9 Te Est\u00e1 Pasando",
-        "url": "https://open.spotify.com/album/6CA7uNSTzKFzzmwyqvBdW5"
+        "name": "HOR\u00d3SCOPO",
+        "url": "https://open.spotify.com/album/3P7WHmEMptKZ1mD7vQ9cGS"
       },
       "artists": [
         {
-          "name": "FMK",
-          "url": "https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf"
+          "name": "Javiielo",
+          "url": "https://open.spotify.com/artist/3HH6yOn1yJNZo3RY5zEfy5"
+        },
+        {
+          "name": "Blessd",
+          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
+        },
+        {
+          "name": "DEKKO",
+          "url": "https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE"
         }
       ],
-      "duration_ms": 220284,
-      "name": "Qu\u00e9 Te Est\u00e1 Pasando",
-      "url": "https://open.spotify.com/track/1R4GtCpgZ9T0GQyHPsJVEW"
+      "duration_ms": 248659,
+      "name": "HOR\u00d3SCOPO",
+      "url": "https://open.spotify.com/track/39hGDe9XmX4EN11F6TFl8x"
     },
     {
       "added_at": "2022-09-30 03:00:00",
@@ -1123,18 +1131,26 @@
     {
       "added_at": "2022-09-30 03:00:00",
       "album": {
-        "name": "In\u00e9dito",
-        "url": "https://open.spotify.com/album/7nyUwMd9qCW90BtiNGxGfJ"
+        "name": "Te Juro",
+        "url": "https://open.spotify.com/album/1rwYQzE9zwJfz8gkqeRVVY"
       },
       "artists": [
         {
-          "name": "Fran Rozzano",
-          "url": "https://open.spotify.com/artist/0izyCDkDQ10PWDNNB2i5nA"
+          "name": "Dejota2021",
+          "url": "https://open.spotify.com/artist/5NpCde9H57MxIZqbmfkElY"
+        },
+        {
+          "name": "Juan Duque",
+          "url": "https://open.spotify.com/artist/49ggXUsjVHl7BwwaiPUCn6"
+        },
+        {
+          "name": "Cobuz & Bustta",
+          "url": "https://open.spotify.com/artist/3IpCt5oIfvR2qlkuoCoGYU"
         }
       ],
-      "duration_ms": 162901,
-      "name": "In\u00e9dito",
-      "url": "https://open.spotify.com/track/0vaPZCDqKhX09VwFruiRVl"
+      "duration_ms": 149326,
+      "name": "Te Juro",
+      "url": "https://open.spotify.com/track/0JElJmnJDGum8BGOE4yNsU"
     },
     {
       "added_at": "2022-09-30 03:00:00",
@@ -1159,38 +1175,6 @@
     {
       "added_at": "2022-09-30 03:00:00",
       "album": {
-        "name": "Guilla",
-        "url": "https://open.spotify.com/album/2wvlZcsnGAzbRx6C1wUYtw"
-      },
-      "artists": [
-        {
-          "name": "Loyaltty",
-          "url": "https://open.spotify.com/artist/5DDpDYLDv4xasIBS6kp2wf"
-        }
-      ],
-      "duration_ms": 139428,
-      "name": "Guilla",
-      "url": "https://open.spotify.com/track/4xTZL1wNVCtCrqJQUHqHdc"
-    },
-    {
-      "added_at": "2022-09-30 03:00:00",
-      "album": {
-        "name": "Manzana",
-        "url": "https://open.spotify.com/album/0LozjoHXdTejrX64kaMb70"
-      },
-      "artists": [
-        {
-          "name": "Leon Leiden",
-          "url": "https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW"
-        }
-      ],
-      "duration_ms": 173936,
-      "name": "Manzana",
-      "url": "https://open.spotify.com/track/1BMoI40IIeE8hUtjSy8jQz"
-    },
-    {
-      "added_at": "2022-09-30 03:00:00",
-      "album": {
         "name": "Verificada",
         "url": "https://open.spotify.com/album/4tIqAcRBIsjOU4kTHQZqwL"
       },
@@ -1203,6 +1187,38 @@
       "duration_ms": 158546,
       "name": "Verificada",
       "url": "https://open.spotify.com/track/4DuyqxuT3sGiGlZJi5dpn4"
+    },
+    {
+      "added_at": "2022-09-30 03:00:00",
+      "album": {
+        "name": "Qu\u00e9 Te Est\u00e1 Pasando",
+        "url": "https://open.spotify.com/album/6CA7uNSTzKFzzmwyqvBdW5"
+      },
+      "artists": [
+        {
+          "name": "FMK",
+          "url": "https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf"
+        }
+      ],
+      "duration_ms": 220284,
+      "name": "Qu\u00e9 Te Est\u00e1 Pasando",
+      "url": "https://open.spotify.com/track/1R4GtCpgZ9T0GQyHPsJVEW"
+    },
+    {
+      "added_at": "2022-09-30 03:00:00",
+      "album": {
+        "name": "In\u00e9dito",
+        "url": "https://open.spotify.com/album/7nyUwMd9qCW90BtiNGxGfJ"
+      },
+      "artists": [
+        {
+          "name": "Fran Rozzano",
+          "url": "https://open.spotify.com/artist/0izyCDkDQ10PWDNNB2i5nA"
+        }
+      ],
+      "duration_ms": 162901,
+      "name": "In\u00e9dito",
+      "url": "https://open.spotify.com/track/0vaPZCDqKhX09VwFruiRVl"
     },
     {
       "added_at": "2022-09-30 03:00:00",

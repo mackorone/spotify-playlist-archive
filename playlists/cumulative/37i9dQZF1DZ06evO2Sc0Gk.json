@@ -293,7 +293,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-02",
+      "date_removed": null,
       "duration_ms": 151510,
       "name": "Cake",
       "url": "https://open.spotify.com/track/2qYWZcBmUQDDwMHnfNIXC4"
@@ -865,7 +865,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-09",
       "duration_ms": 159230,
       "name": "I Wanna Run Away",
       "url": "https://open.spotify.com/track/6QHKcbL8vrX0Ra3kKpNTVs"
@@ -939,7 +939,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-01",
+      "date_removed": null,
       "duration_ms": 215822,
       "name": "In the Morning",
       "url": "https://open.spotify.com/track/7LKNnb2aRFAK6WcvB0nCp7"
@@ -1191,10 +1191,36 @@
       ],
       "date_added": "2022-09-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-30",
+      "date_removed": "2022-10-09",
       "duration_ms": 209841,
       "name": "Marry",
       "url": "https://open.spotify.com/track/6jIFjFLu7OtUJeo6B92r4D"
+    },
+    {
+      "album": {
+        "name": "Greatness",
+        "url": "https://open.spotify.com/album/2RSJZNCDSrp8LclefaUIir"
+      },
+      "artists": [
+        {
+          "name": "DJ Neptune",
+          "url": "https://open.spotify.com/artist/3L4ZO0ZaSe1qeucpQK8tBR"
+        },
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        },
+        {
+          "name": "C4 Pedro",
+          "url": "https://open.spotify.com/artist/5IccCciXwIjKPROLcD1Qao"
+        }
+      ],
+      "date_added": "2022-10-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-07",
+      "duration_ms": 169487,
+      "name": "Mia Mia (Bonus Track)",
+      "url": "https://open.spotify.com/track/1EATNOrIqIVFZqO7j6fngt"
     },
     {
       "album": {
@@ -1561,7 +1587,7 @@
       ],
       "date_added": "2021-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 145920,
       "name": "Pilolo",
       "url": "https://open.spotify.com/track/4eQjrzsmjd9T8zmcK4Kmnv"

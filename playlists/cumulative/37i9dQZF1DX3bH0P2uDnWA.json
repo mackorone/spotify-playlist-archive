@@ -289,7 +289,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-09",
       "duration_ms": 227127,
       "name": "Big Blue Swing",
       "url": "https://open.spotify.com/track/1jbN3Eslcy8gec7nLuTs9P"
@@ -745,7 +745,7 @@
       ],
       "date_added": "2020-10-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-26",
+      "date_removed": null,
       "duration_ms": 247500,
       "name": "Day & Night",
       "url": "https://open.spotify.com/track/4zCxvn6qHK3CosaM3Azaii"
@@ -2125,7 +2125,7 @@
       ],
       "date_added": "2020-10-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-30",
+      "date_removed": "2022-10-07",
       "duration_ms": 186000,
       "name": "My 20s Woman",
       "url": "https://open.spotify.com/track/7bLY55RMYIyFLVwSUXgwW7"
@@ -3236,6 +3236,24 @@
     },
     {
       "album": {
+        "name": "The Good Old Days",
+        "url": "https://open.spotify.com/album/0g4RooAJphJMSLPVHcD4BY"
+      },
+      "artists": [
+        {
+          "name": "Moonlight Breakfast",
+          "url": "https://open.spotify.com/artist/1lfKZ5QsMaOjo5UbVmNaqp"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "The Good Old Days",
+      "url": "https://open.spotify.com/track/5Rt5BHMHFhGko7v8JObIID"
+    },
+    {
+      "album": {
         "name": "Bongo Chic",
         "url": "https://open.spotify.com/album/3eumsvF7CLVIS3YgYVv052"
       },
@@ -3363,7 +3381,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-07",
       "duration_ms": 233027,
       "name": "Trainwreck of Electro Swing (from \"A Hat In Time\")",
       "url": "https://open.spotify.com/track/6p8pkvMqOcS3UGVIPsSdhu"

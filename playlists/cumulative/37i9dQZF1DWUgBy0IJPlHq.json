@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "A new shade of Country. Cover: Tyler Childers",
+  "description": "A new shade of Country. Cover: Warren Zeiders",
   "name": "Indigo",
   "published_playlist_ids": [
     "3YetB26RqGyFH6Ypx3VTr9"
@@ -1127,7 +1127,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 157080,
       "name": "Colorado Blues",
       "url": "https://open.spotify.com/track/2uug7N1S3J0IXW8LaytlDO"
@@ -1529,7 +1529,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 265500,
       "name": "Don't Do It In Texas",
       "url": "https://open.spotify.com/track/0fCzJ0moRAJyt03FFbdZT3"
@@ -3354,6 +3354,24 @@
     },
     {
       "album": {
+        "name": "Long Journey Home / Life To Go",
+        "url": "https://open.spotify.com/album/5d7E0CoRDHwdPE0i3JW53C"
+      },
+      "artists": [
+        {
+          "name": "Billy Strings",
+          "url": "https://open.spotify.com/artist/1ZN1c1qWEGZNX1pGeKCPpf"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177453,
+      "name": "Long Journey Home",
+      "url": "https://open.spotify.com/track/1LSTsFWHtku4E76HlIAOYm"
+    },
+    {
+      "album": {
         "name": "Long, Long Year",
         "url": "https://open.spotify.com/album/3vkg2n1PUlk9V4Q6jBRze8"
       },
@@ -3811,6 +3829,24 @@
       "duration_ms": 211739,
       "name": "Oklahoma Smokeshow",
       "url": "https://open.spotify.com/track/0OWhKvvsHptt6vnnNUSM9a"
+    },
+    {
+      "album": {
+        "name": "Old Before My Time",
+        "url": "https://open.spotify.com/album/2x9OgHhWx59NIU7JV8iTd4"
+      },
+      "artists": [
+        {
+          "name": "Alex Williams",
+          "url": "https://open.spotify.com/artist/5cbi8Etv86wgoqJW2jfSyl"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216480,
+      "name": "Old Before My Time",
+      "url": "https://open.spotify.com/track/1QaFCynmvTvyipCwY8d2s0"
     },
     {
       "album": {

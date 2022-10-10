@@ -4,7 +4,7 @@
 
 > Home is where you park it.
 
-256 songs - 15 hr 59 min - [published](https://open.spotify.com/playlist/1n8FqySwgwOGGatHnOOUda)
+257 songs - 16 hr 3 min - [published](https://open.spotify.com/playlist/1n8FqySwgwOGGatHnOOUda)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,6 +35,7 @@
 | [Bedrock](https://open.spotify.com/track/5gzS0JyrF7IHZzMH4rNpoK) | [Wild Rivers](https://open.spotify.com/artist/59sBwR0jPSTrbMtuTkRPN5) | [Sidelines](https://open.spotify.com/album/4R09OvFyz47HfjecIjoEtP) | 3:30 | 2022-07-21 |  |
 | [Belo Horizonte](https://open.spotify.com/track/4FuEQNopUQZZuSWhBjIBVM) | [Cari Cari](https://open.spotify.com/artist/0ey6crPk5fXQWkq21iPTMV) | [Belo Horizonte](https://open.spotify.com/album/7gHg2zQPQc0IgQT6tx5dVI) | 3:44 | 2021-12-09 | 2022-07-29 |
 | [Belo Horizonte](https://open.spotify.com/track/5v3eLbjMTRPyJk0gDnjCXN) | [Cari Cari](https://open.spotify.com/artist/0ey6crPk5fXQWkq21iPTMV) | [Belo Horizonte](https://open.spotify.com/album/0GGi7u94hGWeEmiB1e7Wjn) | 3:44 | 2022-07-21 | 2022-09-20 |
+| [Belo Horizonte](https://open.spotify.com/track/2F09YSqsNCGLBGvrvUWvZp) | [Cari Cari](https://open.spotify.com/artist/0ey6crPk5fXQWkq21iPTMV) | [Welcome To Kookoo Island](https://open.spotify.com/album/2O9fmLV4Ces4cMW5NySLWT) | 3:46 | 2022-09-30 |  |
 | [Berlin](https://open.spotify.com/track/7tbR2WSnuTUOGgkUQiAupD) | [Fenne Lily](https://open.spotify.com/artist/7iPH2BRBF9wKa6ljxvdext) | [BREACH](https://open.spotify.com/album/0KsNopmZLaB71o6i2nw95I) | 3:39 | 2021-12-09 | 2022-05-26 |
 | [Bicycle Day](https://open.spotify.com/track/0wC6uIBKnc4vTwA3WMb9cN) | [Markus Nikolaus](https://open.spotify.com/artist/4ZjrEAWRBDsm5PRwCzKCds) | [Bicycle Day](https://open.spotify.com/album/0FR0jouBzwrB9Rbd2lGwcH) | 3:34 | 2022-09-30 |  |
 | [Blinking](https://open.spotify.com/track/41z41ChUI6twSJj07WGe5T) | [The Slow Show](https://open.spotify.com/artist/696uMzB97pg2uqfzmK3MvO) | [Blinking](https://open.spotify.com/album/79OGQ3TYv55TqTSCqSDZ7q) | 3:40 | 2021-12-09 | 2022-07-29 |
@@ -152,7 +153,7 @@
 | [Moonchild \- Lost Version](https://open.spotify.com/track/2hvHPRS8O8BLwuXFZvREdn) | [Jules Ahoi](https://open.spotify.com/artist/2l1xTBTIBaAiJhekoLM8mk) | [Echoes \(Deluxe\)](https://open.spotify.com/album/0wzihCju1b7syskmhqZaeW) | 4:04 | 2022-01-21 | 2022-05-27 |
 | [Moonlight](https://open.spotify.com/track/3RGdTJbr4eWMS0upJntQAn) | [Future Islands](https://open.spotify.com/artist/1WvvwcQx0tj6NdDhZZ2zZz) | [As Long As You Are](https://open.spotify.com/album/0Xb7fY98lbfsGdo9OdbC9W) | 3:38 | 2022-07-21 |  |
 | [Moonlight](https://open.spotify.com/track/1qyKIq8hw9yWkuPJ9ZjuvK) | [Future Islands](https://open.spotify.com/artist/1WvvwcQx0tj6NdDhZZ2zZz) | [Moonlight](https://open.spotify.com/album/76zQ1pqBzrcTsmYAnLgxiE) | 3:38 | 2021-12-09 | 2022-07-29 |
-| [Mountain](https://open.spotify.com/track/4TFTlwrYFCLqmJtIgxRVUT) | [M\. Byrd](https://open.spotify.com/artist/2AzGGPCjkv7D9o7KkpxJYi) | [Mountain](https://open.spotify.com/album/5lLrspzGxZevZkbByj9zwd) | 3:02 | 2021-12-09 |  |
+| [Mountain](https://open.spotify.com/track/4TFTlwrYFCLqmJtIgxRVUT) | [M\. Byrd](https://open.spotify.com/artist/2AzGGPCjkv7D9o7KkpxJYi) | [Mountain](https://open.spotify.com/album/5lLrspzGxZevZkbByj9zwd) | 3:02 | 2021-12-09 | 2022-10-06 |
 | [My Guitar is too Loud](https://open.spotify.com/track/0E5eQCAkdX7Mt3sQh2tShz) | [Black Sea Dahu](https://open.spotify.com/artist/5JrIBQLdYU5SkSdu0zrO70) | [My Guitar is too Loud](https://open.spotify.com/album/7Cf52mLBhP6NdPp1Fj6KBy) | 3:22 | 2022-07-21 |  |
 | [No Goodbye](https://open.spotify.com/track/3hSWPdtI58IANIOhulRR7v) | [Hania Rani](https://open.spotify.com/artist/14YzutUdMwS9yTnI0IFBaD), [Fejká](https://open.spotify.com/artist/0VWvUvjaHaW1OeXtcVISu9) | [No Goodbye](https://open.spotify.com/album/1w0QlUchdZEiY6NYIrmJf2) | 4:12 | 2021-12-09 |  |
 | [No Love Go](https://open.spotify.com/track/5zwTjQSmkOURaeY0h1d19x) | [Jesse Mac Cormack](https://open.spotify.com/artist/2H8M8TXbgq7ZF676K4Zm2C) | [No Love Go](https://open.spotify.com/album/34cE1S1Sccl6KXtCmL5Z57) | 4:02 | 2022-04-14 | 2022-04-21 |

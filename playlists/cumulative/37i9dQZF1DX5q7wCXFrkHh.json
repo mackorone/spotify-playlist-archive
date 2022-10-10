@@ -37,7 +37,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 374093,
       "name": "A Blue Time",
       "url": "https://open.spotify.com/track/17LII4B6V1AhONoueVwoJU"
@@ -127,7 +127,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 496773,
       "name": "All Of You",
       "url": "https://open.spotify.com/track/6TsSD4XihR6FnpirhXRgEC"
@@ -517,7 +517,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 244386,
       "name": "Bewitched, Bothered and Bewildered",
       "url": "https://open.spotify.com/track/1rzdYFSYmNeEcUjX3EybHY"
@@ -535,7 +535,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 246573,
       "name": "Billie's Bounce - Live At The Hickory House,1956",
       "url": "https://open.spotify.com/track/760sdz9zpT4GRLvcWi6Z5B"
@@ -553,7 +553,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 494213,
       "name": "Blackbird",
       "url": "https://open.spotify.com/track/3uVWwYNJMuhQ464tfH0a7f"
@@ -571,7 +571,7 @@
       ],
       "date_added": "2022-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 310133,
       "name": "Bleeker Street Team",
       "url": "https://open.spotify.com/track/1BhMeMxTWZaNVqFooipCnr"
@@ -661,7 +661,7 @@
       ],
       "date_added": "2022-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 238840,
       "name": "Blue Note Boogie",
       "url": "https://open.spotify.com/track/0EM6XvukQPiXdUY724xVyE"
@@ -787,7 +787,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 398826,
       "name": "Chris Craft",
       "url": "https://open.spotify.com/track/5f9yD0656qEugBZTsxirA6"
@@ -809,7 +809,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 449160,
       "name": "Come Rain Or Come Shine - Remastered 1998",
       "url": "https://open.spotify.com/track/60sUnEBfXTFQJ25htHi8ty"
@@ -857,7 +857,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 403493,
       "name": "Crazeology - Instrumental",
       "url": "https://open.spotify.com/track/1FLjsjhpD17IauZ39JOj7v"
@@ -933,6 +933,24 @@
       "duration_ms": 160133,
       "name": "Days Of Wine And Roses",
       "url": "https://open.spotify.com/track/521qezMfJ71NGibQanQvvN"
+    },
+    {
+      "album": {
+        "name": "Oscar Peterson: Hits & Rarities",
+        "url": "https://open.spotify.com/album/1STwUIMVbwDRey6aEYvXec"
+      },
+      "artists": [
+        {
+          "name": "Oscar Peterson Trio",
+          "url": "https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A"
+        }
+      ],
+      "date_added": "2022-09-21",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-08",
+      "duration_ms": 162717,
+      "name": "Days Of Wine And Roses",
+      "url": "https://open.spotify.com/track/4gsNHQt1OiVlGHDarFocYP"
     },
     {
       "album": {
@@ -1019,7 +1037,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 404666,
       "name": "Dream",
       "url": "https://open.spotify.com/track/0psSSpJgJIkaAY4a8jND1V"
@@ -1037,7 +1055,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 273640,
       "name": "East Thirty-Second",
       "url": "https://open.spotify.com/track/6IHdeINRZhdblIGk2kGJzx"
@@ -1109,7 +1127,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 372266,
       "name": "Empty Pockets - Remastered",
       "url": "https://open.spotify.com/track/4Cq9NtjeUASIkunQeXajCX"
@@ -1127,7 +1145,7 @@
       ],
       "date_added": "2022-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-07",
       "duration_ms": 184333,
       "name": "Evidence",
       "url": "https://open.spotify.com/track/18rSigz79Wd8Rd90TspNwB"
@@ -1199,7 +1217,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 151946,
       "name": "Frankie and Johnnie",
       "url": "https://open.spotify.com/track/10ugsW7VNz3ePFqX4nsLHP"
@@ -1475,7 +1493,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 355760,
       "name": "How Long Has This Been Going On? - Instrumental",
       "url": "https://open.spotify.com/track/1pRlbZOrK4SzYLqOKxvgZY"
@@ -1649,7 +1667,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 292333,
       "name": "I'm Glad There Is You",
       "url": "https://open.spotify.com/track/0JCipYWmZT7sYHkunRqoRi"
@@ -1707,7 +1725,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 238800,
       "name": "I'm Your Pal",
       "url": "https://open.spotify.com/track/7FDhbzHunmwye3bx0VHDY5"
@@ -1815,7 +1833,7 @@
       ],
       "date_added": "2022-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 348013,
       "name": "Land Of Nod - Remastered 2003/Rudy Van Gelder Edition",
       "url": "https://open.spotify.com/track/4G3vHzWABQCvoQKYGoYo1Q"
@@ -1833,7 +1851,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 210786,
       "name": "Laura",
       "url": "https://open.spotify.com/track/4yYSwKdCIOmzxbTRLfTjjY"
@@ -1953,7 +1971,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 170306,
       "name": "Love Is Here To Stay",
       "url": "https://open.spotify.com/track/1VNPjGAzBm9BYAiOmHYtv0"
@@ -2015,7 +2033,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 323000,
       "name": "Memories Of Paris",
       "url": "https://open.spotify.com/track/1zZyI2a3e4cvK8ZUSXrTQQ"
@@ -2051,7 +2069,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 253053,
       "name": "Milestones",
       "url": "https://open.spotify.com/track/4Tk0z4I2oZgtn74XfAm8Du"
@@ -2157,7 +2175,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 261760,
       "name": "Moe's Bluff",
       "url": "https://open.spotify.com/track/11HZwPdVwZ7GLvPX8BGKpO"
@@ -2209,7 +2227,7 @@
       ],
       "date_added": "2022-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 475933,
       "name": "Monk's Dream",
       "url": "https://open.spotify.com/track/5ggOnkmMBSDEL3Ux15ZH2T"
@@ -2299,7 +2317,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 190680,
       "name": "My Blue Heaven",
       "url": "https://open.spotify.com/track/6TkNbkFSdxJXm0AoHAgGDd"
@@ -2317,7 +2335,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 297560,
       "name": "My foolish heart",
       "url": "https://open.spotify.com/track/5dhgrt2is9rFBuEKtwBPdU"
@@ -2437,7 +2455,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 423440,
       "name": "Now He Sings, Now He Sobs",
       "url": "https://open.spotify.com/track/0k1RNOBLz27hIvNaRHqI4D"
@@ -2463,7 +2481,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 541000,
       "name": "Off Minor",
       "url": "https://open.spotify.com/track/3N3Hy7eQ5GboaKQYeJcFaX"
@@ -2517,7 +2535,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 262093,
       "name": "Out Front",
       "url": "https://open.spotify.com/track/5eehOYxHPuNMxTGc8bTWCw"
@@ -2651,7 +2669,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 370133,
       "name": "Pound For Pound",
       "url": "https://open.spotify.com/track/5CSlvf7HVrqXSxsJx2LhQj"
@@ -2821,7 +2839,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 258586,
       "name": "Satellite",
       "url": "https://open.spotify.com/track/6i8d3Y3pCUsnxrEwmFpJWI"
@@ -2865,7 +2883,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 163061,
       "name": "Solar",
       "url": "https://open.spotify.com/track/4PW7q2LZSr4WNjBew2QbXh"
@@ -2919,7 +2937,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 183500,
       "name": "Someday My Prince Will Come - Take 5",
       "url": "https://open.spotify.com/track/4he1BZuN1pDPDjPqyuNOoS"
@@ -3045,7 +3063,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 224040,
       "name": "Stepp, Min Stepp",
       "url": "https://open.spotify.com/track/27644CIf71ELYPmxzSz1W9"
@@ -3211,7 +3229,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 233066,
       "name": "The Lady's In Love With You",
       "url": "https://open.spotify.com/track/3RwiIrxjJwfzYOltz5kZq6"
@@ -3229,7 +3247,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 222946,
       "name": "The Long Night",
       "url": "https://open.spotify.com/track/7yvSDNeA9oXkmlbfU1Ph3G"
@@ -3301,7 +3319,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 214493,
       "name": "The Shining One",
       "url": "https://open.spotify.com/track/1tPpBHFa6CzX3fCLX85h5x"
@@ -3363,7 +3381,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 752960,
       "name": "The Way You Look Tonight - Live",
       "url": "https://open.spotify.com/track/2azWTz31bxJMv1g53NVfPd"
@@ -3393,7 +3411,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 502866,
       "name": "The Windup",
       "url": "https://open.spotify.com/track/78zX3x0pFjsz6qSzNc7gA3"
@@ -3411,7 +3429,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 147333,
       "name": "Theme From \"Mr. Broadway\"",
       "url": "https://open.spotify.com/track/0XV5KWGsFVYsZTjK9Jsj5N"
@@ -3429,7 +3447,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 274560,
       "name": "They Can't Take That Away From Me",
       "url": "https://open.spotify.com/track/0RWX4MAHKUvnnF2gGbMNtp"
@@ -3473,7 +3491,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 262533,
       "name": "Think Of One",
       "url": "https://open.spotify.com/track/6UnHzezGYuXsuWeRRmruUL"
@@ -3545,7 +3563,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 225186,
       "name": "Two Bass Hit - Remastered",
       "url": "https://open.spotify.com/track/5d0hDDVxMASjFroKwSsOZe"
@@ -3661,7 +3679,7 @@
       ],
       "date_added": "2022-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 251293,
       "name": "Way 'Cross Town",
       "url": "https://open.spotify.com/track/0uLLduarBCzzZx5Zp5IpXh"
@@ -3737,7 +3755,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 358426,
       "name": "Wigglin' - Remastered",
       "url": "https://open.spotify.com/track/4N4bT7cB4Nu0BGIzaflIHM"
@@ -3791,7 +3809,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 205373,
       "name": "Wolverine Blues",
       "url": "https://open.spotify.com/track/46MgOcI4ynxtWCWatdu5b2"
@@ -3809,7 +3827,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 374493,
       "name": "Work",
       "url": "https://open.spotify.com/track/7voids93Sff8r9hXYHJyI5"
@@ -3889,7 +3907,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 612893,
       "name": "You Took Advantage Of Me - Live",
       "url": "https://open.spotify.com/track/3BUMqtDQfXIg2YPHmDj0j0"
@@ -3911,7 +3929,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 278640,
       "name": "\u00datviklingssang",
       "url": "https://open.spotify.com/track/4B7XL3W2m7KUCV1KEK0CLD"

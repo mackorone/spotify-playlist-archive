@@ -4,7 +4,7 @@
 
 > Gentle instrumental tunes.
 
-142 songs - 8 hr 50 min - [published](https://open.spotify.com/playlist/08O5oJuSceMQ8gK9L0DkGT)
+143 songs - 8 hr 53 min - [published](https://open.spotify.com/playlist/08O5oJuSceMQ8gK9L0DkGT)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -99,7 +99,8 @@
 | [PAN](https://open.spotify.com/track/05j4VSG0fxZHI7MB3mMyVO) | [Martin Kohlstedt](https://open.spotify.com/artist/5odNYb0R6MGVmindrMrYyk) | [FLUR](https://open.spotify.com/album/7hUcD3suokju68vYLXdVM8) | 3:51 | 2022-05-11 |  |
 | [PAN](https://open.spotify.com/track/7DnSEP7pBGcnxtkfRjv5m4) | [Martin Kohlstedt](https://open.spotify.com/artist/5odNYb0R6MGVmindrMrYyk) | [PAN](https://open.spotify.com/album/4tDuGhCG6m5RD38bv14D5a) | 3:51 | 2021-11-19 | 2022-07-29 |
 | [Papillon \- Solo Piano Version](https://open.spotify.com/track/1gbI7NTfAbYIqEkOdjI3Yo) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Papillon \(Solo Piano Version\)](https://open.spotify.com/album/1ABCgTKvrHDqtaQJoVL8LB) | 2:56 | 2022-09-19 | 2022-09-23 |
-| [Papillon \- Solo Piano Version](https://open.spotify.com/track/45qdRXOrVR0S49RWWsoJLS) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Broken Sunsets \(Solo Piano Version\)](https://open.spotify.com/album/7yHAslL1t5N3qvhq9rmZp3) | 2:56 | 2022-09-19 |  |
+| [Papillon \- Solo Piano Version](https://open.spotify.com/track/45qdRXOrVR0S49RWWsoJLS) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Broken Sunsets \(Solo Piano Version\)](https://open.spotify.com/album/7yHAslL1t5N3qvhq9rmZp3) | 2:56 | 2022-09-19 | 2022-10-07 |
+| [Papillon \- Solo Piano Version](https://open.spotify.com/track/6RE1WhhdI1wvCOar6z2AdW) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Colours \(Solo Piano Version\)](https://open.spotify.com/album/7obnUblJ3L4u0Ch4kyjfCK) | 2:56 | 2022-09-19 |  |
 | [Papillon \- Solo Piano Version](https://open.spotify.com/track/6rrjDzYFuGQjpUk4hwfRJn) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Evermore \(Solo Piano Version\)](https://open.spotify.com/album/1h1ZsE5v8PlJhtbXODCYCS) | 2:56 | 2022-09-19 | 2022-09-30 |
 | [Pavane, Op\. 50 \(Version for Piano\)](https://open.spotify.com/track/2mNQl3DEWtkrwKllwYpxi0) | [Gabriel Fauré](https://open.spotify.com/artist/2gClsBep1tt1rv1CN210SO), [Jorge Federico Osorio](https://open.spotify.com/artist/1Tt4CRnh4VCWn6UymYP057) | [The French Album](https://open.spotify.com/album/4QYFeRjBgVCv8Vrb3cK7wI) | 5:59 | 2021-11-19 |  |
 | [perceptions](https://open.spotify.com/track/0ew9S7tvZPx57vVN9Dhz8v) | [Teodor Wolgers](https://open.spotify.com/artist/150sLjaVg4A3g4M0Pvs4Qr) | [nocturnes](https://open.spotify.com/album/2j2NwlIlBlZVID0DtzUmA4) | 3:38 | 2021-11-19 |  |

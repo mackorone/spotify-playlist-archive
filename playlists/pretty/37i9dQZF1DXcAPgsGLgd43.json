@@ -1,12 +1,12 @@
 {
   "description": "Introducing Alma \u2014 a soul born from Latin and house music.",
-  "num_followers": 1812,
+  "num_followers": 1871,
   "original_name": "Alma",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MTU4OTc5NCwwMDAwMDAwMDFiMzc2OTQxYTZiMTE5N2QxN2FjNjQ4ZDgwNGEwYTcw",
+  "snapshot_id": "MTY1MTU4OTc5NCwwMDAwMDAwMGFkYWRmNzZhYTMzZTNmMDE3NTdjZjNkMmVjNWFhNDZk",
   "tracks": [
     {
       "added_at": "2022-02-11 17:33:41",
@@ -175,26 +175,6 @@
     {
       "added_at": "2021-10-08 15:53:55",
       "album": {
-        "name": "Venezuela",
-        "url": "https://open.spotify.com/album/3acHknTBxqObDuCc4IMbu9"
-      },
-      "artists": [
-        {
-          "name": "Tom Budin",
-          "url": "https://open.spotify.com/artist/1kwRrQDCpXpVliMDntpxCt"
-        },
-        {
-          "name": "Rave Radio",
-          "url": "https://open.spotify.com/artist/7JrHNXd3zMD7xTFFhvnoyN"
-        }
-      ],
-      "duration_ms": 156272,
-      "name": "Venezuela",
-      "url": "https://open.spotify.com/track/0ZnMzSoVfqDRzXgagCOlKZ"
-    },
-    {
-      "added_at": "2021-10-08 15:53:55",
-      "album": {
         "name": "Sway (Mucho Mambo)",
         "url": "https://open.spotify.com/album/7ngZbEyU4cyL01MU6O0VIr"
       },
@@ -211,6 +191,26 @@
       "duration_ms": 159360,
       "name": "Sway (Mucho Mambo)",
       "url": "https://open.spotify.com/track/5Un9adXHRrNedbZt9QLC2C"
+    },
+    {
+      "added_at": "2021-10-08 15:53:55",
+      "album": {
+        "name": "Venezuela",
+        "url": "https://open.spotify.com/album/3acHknTBxqObDuCc4IMbu9"
+      },
+      "artists": [
+        {
+          "name": "Tom Budin",
+          "url": "https://open.spotify.com/artist/1kwRrQDCpXpVliMDntpxCt"
+        },
+        {
+          "name": "Rave Radio",
+          "url": "https://open.spotify.com/artist/7JrHNXd3zMD7xTFFhvnoyN"
+        }
+      ],
+      "duration_ms": 156272,
+      "name": "Venezuela",
+      "url": "https://open.spotify.com/track/0ZnMzSoVfqDRzXgagCOlKZ"
     },
     {
       "added_at": "2021-10-08 15:53:55",
@@ -267,6 +267,30 @@
       "duration_ms": 190987,
       "name": "Tuyo",
       "url": "https://open.spotify.com/track/0FrP64eh0yTC3uDVsq0wG4"
+    },
+    {
+      "added_at": "2021-10-08 15:53:55",
+      "album": {
+        "name": "Magalenha (feat. Sergio Mendes)",
+        "url": "https://open.spotify.com/album/3wO3DaZVQkYIQYUFZww9x4"
+      },
+      "artists": [
+        {
+          "name": "Simon Fava",
+          "url": "https://open.spotify.com/artist/3tVEEXCoTAVMHyZqQ5kTyc"
+        },
+        {
+          "name": "Gregor Salto",
+          "url": "https://open.spotify.com/artist/0l59CBSPDfKBXlyHya0pew"
+        },
+        {
+          "name": "S\u00e9rgio Mendes",
+          "url": "https://open.spotify.com/artist/65c5si0ePAwkOCn4M35Ho7"
+        }
+      ],
+      "duration_ms": 209551,
+      "name": "Magalenha (feat. Sergio Mendes)",
+      "url": "https://open.spotify.com/track/0cIadtlc6acyPFeWcSJlDg"
     },
     {
       "added_at": "2021-10-08 15:53:55",
@@ -343,30 +367,6 @@
     {
       "added_at": "2021-10-08 15:53:55",
       "album": {
-        "name": "Magalenha (feat. Sergio Mendes)",
-        "url": "https://open.spotify.com/album/3wO3DaZVQkYIQYUFZww9x4"
-      },
-      "artists": [
-        {
-          "name": "Simon Fava",
-          "url": "https://open.spotify.com/artist/3tVEEXCoTAVMHyZqQ5kTyc"
-        },
-        {
-          "name": "Gregor Salto",
-          "url": "https://open.spotify.com/artist/0l59CBSPDfKBXlyHya0pew"
-        },
-        {
-          "name": "S\u00e9rgio Mendes",
-          "url": "https://open.spotify.com/artist/65c5si0ePAwkOCn4M35Ho7"
-        }
-      ],
-      "duration_ms": 209551,
-      "name": "Magalenha (feat. Sergio Mendes)",
-      "url": "https://open.spotify.com/track/0cIadtlc6acyPFeWcSJlDg"
-    },
-    {
-      "added_at": "2021-10-08 15:53:55",
-      "album": {
         "name": "Witch Doctor",
         "url": "https://open.spotify.com/album/7etpucnkFPkpi89M5CCdu4"
       },
@@ -403,22 +403,6 @@
     {
       "added_at": "2021-10-08 15:53:55",
       "album": {
-        "name": "Dirty Spanish",
-        "url": "https://open.spotify.com/album/3H8M3pxnpGqjf1faPwowEf"
-      },
-      "artists": [
-        {
-          "name": "Sam Blans",
-          "url": "https://open.spotify.com/artist/3aqsqogSTXrUJdcnFySUMi"
-        }
-      ],
-      "duration_ms": 274833,
-      "name": "Dirty Spanish",
-      "url": "https://open.spotify.com/track/102vO4p4OoHWe7JO2OAzQw"
-    },
-    {
-      "added_at": "2021-10-08 15:53:55",
-      "album": {
         "name": "Si Tu Sabe",
         "url": "https://open.spotify.com/album/03V2IM59Iri9BtuHB1Vlll"
       },
@@ -435,6 +419,22 @@
       "duration_ms": 205440,
       "name": "Si Tu Sabe",
       "url": "https://open.spotify.com/track/5gx7iehGnlJZbogyzw7RI6"
+    },
+    {
+      "added_at": "2021-10-08 15:53:55",
+      "album": {
+        "name": "Dirty Spanish",
+        "url": "https://open.spotify.com/album/3H8M3pxnpGqjf1faPwowEf"
+      },
+      "artists": [
+        {
+          "name": "Sam Blans",
+          "url": "https://open.spotify.com/artist/3aqsqogSTXrUJdcnFySUMi"
+        }
+      ],
+      "duration_ms": 274833,
+      "name": "Dirty Spanish",
+      "url": "https://open.spotify.com/track/102vO4p4OoHWe7JO2OAzQw"
     },
     {
       "added_at": "2021-10-08 15:53:55",
@@ -553,26 +553,6 @@
       "url": "https://open.spotify.com/track/0MlIalMAtTaIhOjmSFmCgW"
     },
     {
-      "added_at": "2021-11-26 07:27:00",
-      "album": {
-        "name": "Diamonds",
-        "url": "https://open.spotify.com/album/1swFMuQMyNIKrR3ywxQYVk"
-      },
-      "artists": [
-        {
-          "name": "Sam Blans",
-          "url": "https://open.spotify.com/artist/3aqsqogSTXrUJdcnFySUMi"
-        },
-        {
-          "name": "Jayson Alanzo",
-          "url": "https://open.spotify.com/artist/6RpWxHyYKaMf59DRdgbCg5"
-        }
-      ],
-      "duration_ms": 175252,
-      "name": "Diamonds",
-      "url": "https://open.spotify.com/track/7k7dPK1j1yRW4qW3WfwoZy"
-    },
-    {
       "added_at": "2021-10-08 15:53:55",
       "album": {
         "name": "Libre",
@@ -587,26 +567,6 @@
       "duration_ms": 201720,
       "name": "Libre",
       "url": "https://open.spotify.com/track/6mCu7S5fBIlaF81L17ZDoM"
-    },
-    {
-      "added_at": "2021-10-08 15:53:55",
-      "album": {
-        "name": "Vagabundos",
-        "url": "https://open.spotify.com/album/3MRvGXMfy0mVQ4hzvhzr9j"
-      },
-      "artists": [
-        {
-          "name": "Simon Fava",
-          "url": "https://open.spotify.com/artist/3tVEEXCoTAVMHyZqQ5kTyc"
-        },
-        {
-          "name": "Yvvan Back",
-          "url": "https://open.spotify.com/artist/68fI3XKiTlRMJBYuxKJFU3"
-        }
-      ],
-      "duration_ms": 157530,
-      "name": "Vagabundos",
-      "url": "https://open.spotify.com/track/0DYJ1yBwVhiuppTmBd8ZLy"
     },
     {
       "added_at": "2021-10-08 15:53:55",
@@ -627,6 +587,26 @@
       "duration_ms": 196500,
       "name": "Brisas Del Mar",
       "url": "https://open.spotify.com/track/3KYgsHPXp1pOywoYkUmh6k"
+    },
+    {
+      "added_at": "2021-11-26 07:27:00",
+      "album": {
+        "name": "Diamonds",
+        "url": "https://open.spotify.com/album/1swFMuQMyNIKrR3ywxQYVk"
+      },
+      "artists": [
+        {
+          "name": "Sam Blans",
+          "url": "https://open.spotify.com/artist/3aqsqogSTXrUJdcnFySUMi"
+        },
+        {
+          "name": "Jayson Alanzo",
+          "url": "https://open.spotify.com/artist/6RpWxHyYKaMf59DRdgbCg5"
+        }
+      ],
+      "duration_ms": 175252,
+      "name": "Diamonds",
+      "url": "https://open.spotify.com/track/7k7dPK1j1yRW4qW3WfwoZy"
     },
     {
       "added_at": "2021-10-08 15:53:55",
@@ -655,18 +635,22 @@
     {
       "added_at": "2021-10-08 15:53:55",
       "album": {
-        "name": "Di Nobo / Shonuff",
-        "url": "https://open.spotify.com/album/7kmo0jxMyOnX35nBMaEuzB"
+        "name": "Vagabundos",
+        "url": "https://open.spotify.com/album/3MRvGXMfy0mVQ4hzvhzr9j"
       },
       "artists": [
         {
-          "name": "Shermanology",
-          "url": "https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI"
+          "name": "Simon Fava",
+          "url": "https://open.spotify.com/artist/3tVEEXCoTAVMHyZqQ5kTyc"
+        },
+        {
+          "name": "Yvvan Back",
+          "url": "https://open.spotify.com/artist/68fI3XKiTlRMJBYuxKJFU3"
         }
       ],
-      "duration_ms": 195000,
-      "name": "Di Nobo",
-      "url": "https://open.spotify.com/track/7dWz63Qt1CFhg8nnlCMwk8"
+      "duration_ms": 157530,
+      "name": "Vagabundos",
+      "url": "https://open.spotify.com/track/0DYJ1yBwVhiuppTmBd8ZLy"
     },
     {
       "added_at": "2021-10-08 15:53:55",
@@ -691,6 +675,22 @@
       "duration_ms": 172258,
       "name": "La Remontada (feat. Tot\u00f3 La Momposina)",
       "url": "https://open.spotify.com/track/1hllxtk5yhDY9PJF42iYGn"
+    },
+    {
+      "added_at": "2021-10-08 15:53:55",
+      "album": {
+        "name": "Di Nobo / Shonuff",
+        "url": "https://open.spotify.com/album/7kmo0jxMyOnX35nBMaEuzB"
+      },
+      "artists": [
+        {
+          "name": "Shermanology",
+          "url": "https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI"
+        }
+      ],
+      "duration_ms": 195000,
+      "name": "Di Nobo",
+      "url": "https://open.spotify.com/track/7dWz63Qt1CFhg8nnlCMwk8"
     },
     {
       "added_at": "2021-10-08 15:53:55",
@@ -741,6 +741,22 @@
       "url": "https://open.spotify.com/track/1Z11FDEfDhpGnDSmeASq1J"
     },
     {
+      "added_at": "2021-10-08 15:53:55",
+      "album": {
+        "name": "Umoja",
+        "url": "https://open.spotify.com/album/6NHWlnkX6Z8vfpP4kvrbOK"
+      },
+      "artists": [
+        {
+          "name": "EDX",
+          "url": "https://open.spotify.com/artist/7GMot9WvBYqhhJz92vhBp6"
+        }
+      ],
+      "duration_ms": 188732,
+      "name": "Umoja",
+      "url": "https://open.spotify.com/track/0FfzWykvVPkB3f8ZcCoWVH"
+    },
+    {
       "added_at": "2021-11-05 06:05:00",
       "album": {
         "name": "Quem\u00e1",
@@ -763,22 +779,6 @@
       "duration_ms": 149250,
       "name": "Quem\u00e1",
       "url": "https://open.spotify.com/track/0jyHpmD0quGHjILUqMftHa"
-    },
-    {
-      "added_at": "2021-10-08 15:53:55",
-      "album": {
-        "name": "Umoja",
-        "url": "https://open.spotify.com/album/6NHWlnkX6Z8vfpP4kvrbOK"
-      },
-      "artists": [
-        {
-          "name": "EDX",
-          "url": "https://open.spotify.com/artist/7GMot9WvBYqhhJz92vhBp6"
-        }
-      ],
-      "duration_ms": 188732,
-      "name": "Umoja",
-      "url": "https://open.spotify.com/track/0FfzWykvVPkB3f8ZcCoWVH"
     },
     {
       "added_at": "2021-10-08 15:53:55",
@@ -833,22 +833,6 @@
       "url": "https://open.spotify.com/track/0KXcutfBJQKPaIumj3IMZf"
     },
     {
-      "added_at": "2021-10-15 05:57:00",
-      "album": {
-        "name": "La Vida",
-        "url": "https://open.spotify.com/album/6KVnHWdc7C1ucY4kMVcmIg"
-      },
-      "artists": [
-        {
-          "name": "Dot N Life",
-          "url": "https://open.spotify.com/artist/38aKknRSzI7luo0LJWDwDS"
-        }
-      ],
-      "duration_ms": 195000,
-      "name": "La Vida",
-      "url": "https://open.spotify.com/track/3zxC1jnND5QZ6adtUb7GP8"
-    },
-    {
       "added_at": "2021-10-08 15:53:55",
       "album": {
         "name": "La Fiesta",
@@ -863,6 +847,22 @@
       "duration_ms": 266666,
       "name": "La Fiesta",
       "url": "https://open.spotify.com/track/53xMyPShokgna72KTlwsXO"
+    },
+    {
+      "added_at": "2021-10-15 05:57:00",
+      "album": {
+        "name": "La Vida",
+        "url": "https://open.spotify.com/album/6KVnHWdc7C1ucY4kMVcmIg"
+      },
+      "artists": [
+        {
+          "name": "Dot N Life",
+          "url": "https://open.spotify.com/artist/38aKknRSzI7luo0LJWDwDS"
+        }
+      ],
+      "duration_ms": 195000,
+      "name": "La Vida",
+      "url": "https://open.spotify.com/track/3zxC1jnND5QZ6adtUb7GP8"
     },
     {
       "added_at": "2021-10-08 15:53:55",
@@ -887,22 +887,6 @@
     {
       "added_at": "2021-10-08 15:53:55",
       "album": {
-        "name": "Can't Have It",
-        "url": "https://open.spotify.com/album/65EAWbqxyp9658YllENyER"
-      },
-      "artists": [
-        {
-          "name": "SWAYL\u00d3",
-          "url": "https://open.spotify.com/artist/6UrFs6kJkQTO9k2rKzfqEv"
-        }
-      ],
-      "duration_ms": 230322,
-      "name": "Can't Have It",
-      "url": "https://open.spotify.com/track/1TwJ9U24E9WtfUngEpadMf"
-    },
-    {
-      "added_at": "2021-10-08 15:53:55",
-      "album": {
         "name": "Ay Papi",
         "url": "https://open.spotify.com/album/1JcwtK5OXj8916nJVIdoES"
       },
@@ -915,6 +899,22 @@
       "duration_ms": 205161,
       "name": "Ay Papi",
       "url": "https://open.spotify.com/track/6cc30Sq9sWfhlsIL8DC0jw"
+    },
+    {
+      "added_at": "2021-10-08 15:53:55",
+      "album": {
+        "name": "Can't Have It",
+        "url": "https://open.spotify.com/album/65EAWbqxyp9658YllENyER"
+      },
+      "artists": [
+        {
+          "name": "SWAYL\u00d3",
+          "url": "https://open.spotify.com/artist/6UrFs6kJkQTO9k2rKzfqEv"
+        }
+      ],
+      "duration_ms": 230322,
+      "name": "Can't Have It",
+      "url": "https://open.spotify.com/track/1TwJ9U24E9WtfUngEpadMf"
     },
     {
       "added_at": "2021-10-29 16:47:33",

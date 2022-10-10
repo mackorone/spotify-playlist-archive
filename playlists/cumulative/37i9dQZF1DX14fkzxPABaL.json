@@ -1,11 +1,29 @@
 {
   "date_first_scraped": "2022-01-21",
-  "description": "La m\u00fasica que te acompa\u00f1a en el amor. Foto: Abel Pintos",
+  "description": "La m\u00fasica que te acompa\u00f1a en el amor. Foto: Alejandro Lerner + Mau y Ricky",
   "name": "Enamor\u00e1ndose",
   "published_playlist_ids": [
     "1AAjF0AYqsSQNvAOQluejC"
   ],
   "tracks": [
+    {
+      "album": {
+        "name": "24/7 (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/0F4ycnrXgLpBeXW3rHDaUR"
+      },
+      "artists": [
+        {
+          "name": "Le\u00f3n Cordero",
+          "url": "https://open.spotify.com/artist/6qVPuVTRw9e4lqnAttpTBh"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128076,
+      "name": "24/7 - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/0qf57jvmIzs9Bam4f3b4t0"
+    },
     {
       "album": {
         "name": "A Veces Bien Y A Veces Mal",
@@ -1294,6 +1312,28 @@
     },
     {
       "album": {
+        "name": "La Culpa",
+        "url": "https://open.spotify.com/album/5VriqoVJikkeVk9mfZfeQT"
+      },
+      "artists": [
+        {
+          "name": "Marc Segu\u00ed",
+          "url": "https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF"
+        },
+        {
+          "name": "Micro TDH",
+          "url": "https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200062,
+      "name": "La Culpa",
+      "url": "https://open.spotify.com/track/5VUhMAjIfD0NHRckqsE4e3"
+    },
+    {
+      "album": {
         "name": "EL \u00daLTIMO TOUR DEL MUNDO",
         "url": "https://open.spotify.com/album/2d9BCZeAAhiZWPpbX9aPCW"
       },
@@ -1375,7 +1415,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 228783,
       "name": "Llueve sobre mojado",
       "url": "https://open.spotify.com/track/3z4XtoZVf8AOoR18Lnp7e1"
@@ -1445,6 +1485,28 @@
       "duration_ms": 176197,
       "name": "Lo Que Har\u00e1 Mi Boca",
       "url": "https://open.spotify.com/track/4p4r9gmGyvxbfsso3TCvCo"
+    },
+    {
+      "album": {
+        "name": "Los Domingos No Se Toman Decisiones",
+        "url": "https://open.spotify.com/album/1pSEM9UPQSvPjrD8YR6WlA"
+      },
+      "artists": [
+        {
+          "name": "Pole.",
+          "url": "https://open.spotify.com/artist/7D62OQfwvslnxJn9DkZm2F"
+        },
+        {
+          "name": "Pablo Albor\u00e1n",
+          "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200892,
+      "name": "Los Domingos No Se Toman Decisiones",
+      "url": "https://open.spotify.com/track/2Dl25j4QfSCpyXy7VvnTcz"
     },
     {
       "album": {
@@ -1660,6 +1722,24 @@
     },
     {
       "album": {
+        "name": "Muy lejos de mi",
+        "url": "https://open.spotify.com/album/6MaeCEK3zDlWHrhrOb3zUd"
+      },
+      "artists": [
+        {
+          "name": "Beruti",
+          "url": "https://open.spotify.com/artist/4Ozcco9RkNmJtg7qkCy8zI"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195984,
+      "name": "Muy lejos de mi",
+      "url": "https://open.spotify.com/track/2Im5YevActjkNb19FgcGkE"
+    },
+    {
+      "album": {
         "name": "M\u00e1s De Lo Que Apost\u00e9",
         "url": "https://open.spotify.com/album/4DAiwXZWP397meKmAG7xaS"
       },
@@ -1755,10 +1835,32 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 180866,
       "name": "No Bailes Sola",
       "url": "https://open.spotify.com/track/1GNSWpe2SB30zYGbNTD96b"
+    },
+    {
+      "album": {
+        "name": "No Hace Falta Que Lo Digas",
+        "url": "https://open.spotify.com/album/3EOsQvKcZSYJtkAz6jXHEQ"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Lerner",
+          "url": "https://open.spotify.com/artist/6ESkuwldylZr39AIAPC63J"
+        },
+        {
+          "name": "Mau y Ricky",
+          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218562,
+      "name": "No Hace Falta Que Lo Digas",
+      "url": "https://open.spotify.com/track/6gpj9k6a2SdPNDidycPQUB"
     },
     {
       "album": {
@@ -1809,7 +1911,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 251794,
       "name": "Nos perderemos en Marte",
       "url": "https://open.spotify.com/track/53SfTp0FV9j9GiJ1xP0vrZ"
@@ -2409,7 +2511,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 211998,
       "name": "Tan Bonita",
       "url": "https://open.spotify.com/track/6mm3K0yWp6uzfOMuipM9Zh"
@@ -2521,7 +2623,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 252561,
       "name": "Te Quiero",
       "url": "https://open.spotify.com/track/67Rux9WNh2bIIK0Ub1prft"

@@ -167,7 +167,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-09",
       "duration_ms": 217640,
       "name": "Apoco No",
       "url": "https://open.spotify.com/track/3K0XV1sdVnPf6z9NO4q8U5"
@@ -185,7 +185,7 @@
       ],
       "date_added": "2022-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 171080,
       "name": "Aprend\u00ed Contigo",
       "url": "https://open.spotify.com/track/3tWK9kNFdeeK5Q4vZ6M932"
@@ -351,7 +351,7 @@
       ],
       "date_added": "2022-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-23",
+      "date_removed": "2022-10-06",
       "duration_ms": 185760,
       "name": "Corazon Viejo",
       "url": "https://open.spotify.com/track/4Fhyw5yQh0AFOLz8JTGZvy"
@@ -369,7 +369,7 @@
       ],
       "date_added": "2022-09-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-01",
+      "date_removed": null,
       "duration_ms": 162613,
       "name": "Coraz\u00f3n Vaci\u00f3",
       "url": "https://open.spotify.com/track/1xb1n8lg8FkLkt8mxcRuVX"
@@ -423,7 +423,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-02",
+      "date_removed": null,
       "duration_ms": 164866,
       "name": "El Amor De Los Dos",
       "url": "https://open.spotify.com/track/04gMdv7itWIMljOIAUNLwP"
@@ -441,7 +441,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-17",
+      "date_removed": null,
       "duration_ms": 175946,
       "name": "El Beso De Judas",
       "url": "https://open.spotify.com/track/41u6boHB1VeoyQltaHgu7D"
@@ -517,7 +517,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-06",
       "duration_ms": 223000,
       "name": "El Corrido De Los P\u00e9rez",
       "url": "https://open.spotify.com/track/2Gu9iF9fQs4gtsG4ly1F8H"
@@ -553,7 +553,7 @@
       ],
       "date_added": "2022-09-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-30",
+      "date_removed": "2022-10-09",
       "duration_ms": 188973,
       "name": "El Loco",
       "url": "https://open.spotify.com/track/7AVGGhvVFm5QQ9HoMhePKX"
@@ -661,7 +661,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-17",
+      "date_removed": "2022-10-06",
       "duration_ms": 165666,
       "name": "Fracaso",
       "url": "https://open.spotify.com/track/45k71bk9yCZioceJ3umVzC"
@@ -1075,7 +1075,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-05",
       "duration_ms": 210720,
       "name": "Por Motivos de Salud",
       "url": "https://open.spotify.com/track/21fwsNalbCexxQKxgTY4eR"
@@ -1111,7 +1111,7 @@
       ],
       "date_added": "2022-09-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-02",
+      "date_removed": null,
       "duration_ms": 166693,
       "name": "Quiero Besarte A La Noche",
       "url": "https://open.spotify.com/track/5OmsB03J9ZRlKdL9EReRuz"
@@ -1226,6 +1226,24 @@
     },
     {
       "album": {
+        "name": "Apartamento Tres",
+        "url": "https://open.spotify.com/album/1axHtpxjBiwMIxjm6AyzRR"
+      },
+      "artists": [
+        {
+          "name": "Los Traileros Del Norte",
+          "url": "https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149386,
+      "name": "Soy Yo",
+      "url": "https://open.spotify.com/track/3oPJCw88AtWLFRtFoEsoza"
+    },
+    {
+      "album": {
         "name": "Abeja Reina (Cl\u00e1sicos Digitalizados)",
         "url": "https://open.spotify.com/album/6BnRsg4J1Y3HQsJlcrwEZi"
       },
@@ -1263,7 +1281,7 @@
       ],
       "date_added": "2022-08-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-09",
+      "date_removed": "2022-10-08",
       "duration_ms": 184000,
       "name": "Tres Por Una",
       "url": "https://open.spotify.com/track/7961JijxsrpZXUzWkquseT"
@@ -1333,9 +1351,27 @@
           "url": "https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37"
         }
       ],
+      "date_added": "2022-10-04",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-06",
+      "duration_ms": 176533,
+      "name": "Ultimo Amor, Ultimo Due\u00f1o",
+      "url": "https://open.spotify.com/track/3SHa4OakRheSWty5ENe5AI"
+    },
+    {
+      "album": {
+        "name": "Amor De Los Dos",
+        "url": "https://open.spotify.com/album/3GQXdspUXYELLuh9lRPFN4"
+      },
+      "artists": [
+        {
+          "name": "Los Traileros Del Norte",
+          "url": "https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37"
+        }
+      ],
       "date_added": "2022-09-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-15",
+      "date_removed": "2022-10-08",
       "duration_ms": 166373,
       "name": "Una Noche No",
       "url": "https://open.spotify.com/track/2lDBDJRUX5OdpzFG0jSmUu"
@@ -1389,7 +1425,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-09",
       "duration_ms": 153720,
       "name": "Victimas",
       "url": "https://open.spotify.com/track/4p7OPAspRVLXd9mmGFYqyM"
@@ -1425,7 +1461,7 @@
       ],
       "date_added": "2022-08-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-26",
+      "date_removed": "2022-10-07",
       "duration_ms": 154933,
       "name": "Voy A Tratar De Olvidarte",
       "url": "https://open.spotify.com/track/47nUD9V3Hlbt3HEAO5rcdQ"

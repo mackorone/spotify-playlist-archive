@@ -2,9 +2,9 @@
 
 ### [Stoner Rock](https://open.spotify.com/playlist/37i9dQZF1DXdpVGstUksUC)
 
-> You can practically taste the desert dirt in your mouth while listening to these riff\-heavy, fuzzed out numbers\. Celebrating 20 years of Songs For The Deaf
+> You can practically taste the desert dirt in your mouth while listening to these riff\-heavy, fuzzed out numbers\. Cover: Queens of the Stone Age
 
-257 songs - 23 hr 57 min - [published](https://open.spotify.com/playlist/4fA1HCPR2kNiiFJNe513No)
+258 songs - 1 day 0 hr 2 min - [published](https://open.spotify.com/playlist/4fA1HCPR2kNiiFJNe513No)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,7 +44,7 @@
 | [Burning Planet](https://open.spotify.com/track/1q7nVW28Sj9UzLbsQ8moCp) | [Lord Vapour](https://open.spotify.com/artist/4k2Remoagbeqqoh5C5MDuz) | [Semuta](https://open.spotify.com/album/2dJ5HeNcfd7Xgl98EWYnaP) | 5:49 | 2022-01-14 | 2022-02-19 |
 | [Cactus](https://open.spotify.com/track/33E8wWq7EO0wKObVxgv2DW) | [Skraeckoedlan](https://open.spotify.com/artist/5ujmjNmUSBQleVXLTmPqkb) | [Äppelträdet](https://open.spotify.com/album/4GzKoHmSWH8d9QmAW679es) | 5:49 | 2021-11-30 | 2022-07-29 |
 | [Cactus](https://open.spotify.com/track/5HTeNKljvMX7tzpbQIGeDn) | [Skraeckoedlan](https://open.spotify.com/artist/5ujmjNmUSBQleVXLTmPqkb) | [Äppelträdet](https://open.spotify.com/album/6ieK2rr1yYl1l7H9O3uH4I) | 5:49 | 2022-08-26 |  |
-| [Calm Before the Storm](https://open.spotify.com/track/4oZZ50a7sFUJdMhywCtAdA) | [Truckfighters](https://open.spotify.com/artist/5X1eZAEqHcO5lYy7tgjw5h) | [V](https://open.spotify.com/album/2st5WC99waH8DaN3naNq32) | 8:15 | 2021-11-30 |  |
+| [Calm Before the Storm](https://open.spotify.com/track/4oZZ50a7sFUJdMhywCtAdA) | [Truckfighters](https://open.spotify.com/artist/5X1eZAEqHcO5lYy7tgjw5h) | [V](https://open.spotify.com/album/2st5WC99waH8DaN3naNq32) | 8:15 | 2021-11-30 | 2022-10-10 |
 | [Centurion](https://open.spotify.com/track/6rIh2ETnPnBxkFYjQb83SV) | [King Buffalo](https://open.spotify.com/artist/06D0YfeNZgBA7XWQ79Y42R) | [Repeater](https://open.spotify.com/album/5G71TdzImVKCnUNVMimPok) | 5:56 | 2021-11-30 |  |
 | [Chocolatize](https://open.spotify.com/track/3D2r5tK7FLa35ustREymTd) | [Brant Bjork](https://open.spotify.com/artist/538ZIoOw6wW1xdjuIaQHOS) | [Mankind Woman](https://open.spotify.com/album/6ho3UoTbxC0DnYV7BAx7Q4) | 2:34 | 2021-11-30 | 2022-02-15 |
 | [Collector](https://open.spotify.com/track/6H7uuB5wY5dLNApvEj35d3) | [Mars Red Sky](https://open.spotify.com/artist/1vrCjYU0zXNXvLobueUTvQ) | [Collector](https://open.spotify.com/album/5WvED9laSYAilXO7zB4WPP) | 4:13 | 2021-11-30 | 2022-07-29 |
@@ -190,6 +190,7 @@
 | [Rollercoaster](https://open.spotify.com/track/6cJhk7H8SQj4rzZmRVnK0A) | [Black Mountain](https://open.spotify.com/artist/00sAr10UTV1JZtHqxsLVn4) | [Wilderness Heart](https://open.spotify.com/album/7HiIz7nui3LtGVY62ORP3b) | 5:15 | 2021-11-30 | 2022-07-29 |
 | [Rooster \(2022 Remaster\)](https://open.spotify.com/track/0wvIGFIgbyz4JNwQhZgTv2) | [Alice In Chains](https://open.spotify.com/artist/64tNsm6TnZe2zpcMVMOoHL) | [Dirt \(2022 Remaster\)](https://open.spotify.com/album/58NXIEYqmq5dQHg9nV9duM) | 6:14 | 2021-11-30 |  |
 | [Rooster Booster](https://open.spotify.com/track/0v7RT360hYbz6LhNRKaEaJ) | [Brain Police](https://open.spotify.com/artist/3u8Bmkzs6rer0AirAa87iR) | [Beyond the Wasteland](https://open.spotify.com/album/6uRSnF16GbMeK0Lt4TmUqr) | 4:26 | 2021-11-30 | 2022-07-29 |
+| [Rooster Booster](https://open.spotify.com/track/1pi2KguwgnD90fmAvwZp9B) | [Brain Police](https://open.spotify.com/artist/3u8Bmkzs6rer0AirAa87iR) | [Beyond the Wasteland](https://open.spotify.com/album/6OZQwyKEtA3BiKWsccW7Im) | 4:26 | 2022-10-03 |  |
 | [Rust](https://open.spotify.com/track/6lFJiZ4aiGxobbu3ronF9O) | [Monolord](https://open.spotify.com/artist/3X0a18Q9nluwuFYv5hB5cm) | [Rust](https://open.spotify.com/album/5NGeKmbgxv6GHky0EtaIZx) | 5:39 | 2021-11-30 |  |
 | [Satan](https://open.spotify.com/track/6REn6PCS3uBTAqdSXJwN3R) | [Ufomammut](https://open.spotify.com/artist/105vC0oJ985P5G3g36EosL) | [Godlike Snake](https://open.spotify.com/album/0pTqPU7QFeAJlua2L1j0jG) | 3:26 | 2022-01-14 | 2022-01-26 |
 | [Seer](https://open.spotify.com/track/2elF1O0Cz9SfXgkj96cUZE) | [Witch](https://open.spotify.com/artist/6uNOBEATMcW8SSunnKy9a3) | [Witch](https://open.spotify.com/album/37VVHGym3PMktFuWewZVf9) | 7:57 | 2021-11-30 | 2022-07-29 |

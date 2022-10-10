@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYcDQ1hSjOpY.md) - [plain]
 
 > Soothing, minimalist ambient for deep sleep.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,643,604 likes - 298 songs - 14 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,649,712 likes - 298 songs - 14 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -307,4 +307,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYcDQ1hSjOpY.md) - [plain]
 | 297 | [Liven](https://open.spotify.com/track/1C5muG3s6lQuIExxm1jItV) | [LiKKma](https://open.spotify.com/artist/01q7ajYufxitw2xk6V6Sju) | [LiKKma](https://open.spotify.com/album/5SNYbkLmRHm1LnLqxq302d) | 3:42 |
 | 298 | [Magnetic View](https://open.spotify.com/track/6ZF8463e4x5adudYv6VPMp) | [Polyphonic Grain](https://open.spotify.com/artist/78E2eTF9jgp4w9XyfL44RB) | [Delta Dreams](https://open.spotify.com/album/7FNZSjLNWtEFWfv7FJkaQf) | 3:37 |
 
-Snapshot ID: `MTY2NDU2MTI5NSwwMDAwMDAwMDFkNWQ0ZTNlYjdiOWRhNDE3ZTg2ZWJmMjIyY2VmMTFk`
+Snapshot ID: `MTY2NDg3OTAzMiwwMDAwMDAwMGFhMTZmYTNiMmM5NjY5MjI5MDczODYwMTM1ZWYxYzYw`

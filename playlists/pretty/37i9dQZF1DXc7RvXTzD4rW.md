@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc7RvXTzD4rW.md) - [plain]
 
 > A collection of music from voice actors/ actresses in Japan./ 様々な感情を自在に表現し、登場人物に命を吹き込む声優たち。声のプロフェッショナルである彼らが紡ぐ歌の世界。Cover: 鬼頭明里
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,156 likes - 50 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,225 likes - 50 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc7RvXTzD4rW.md) - [plain]
 | 12 | [インフィニット](https://open.spotify.com/track/0atXJP0z2gQb5ugEeUbard) | [Miho Okasaki](https://open.spotify.com/artist/0GORgBglHGw3bMnj3wYpRm) | [BLOOMING](https://open.spotify.com/album/3VKwasBzLGIlOWoBVAhtQD) | 4:13 |
 | 13 | [THE SHAPE OF](https://open.spotify.com/track/6yLpHWOoiT3lWPnZIXk1la) | [安月名莉子](https://open.spotify.com/artist/7ChJuYuw9pM8MqaZOAmvHX) | [OPENING THEME FROM TV SERIES MADE IN ABYSS ”THE GOLDEN CITY OF THE SCORCHING SUN” THE SHAPE OF](https://open.spotify.com/album/0tbPNaXiTK7G5V4LaZIjBQ) | 3:32 |
 | 14 | [Fuwa Fuwa Time \- From CrosSing](https://open.spotify.com/track/2VkhXYlEEx0753IjeQCeof) | [Onishi Aguri](https://open.spotify.com/artist/3hp538apqv8zWeIa31uKe7) | [Fuwa Fuwa Time \- From CrosSing](https://open.spotify.com/album/2umPEmciHjUCfqziD1B7zG) | 3:58 |
-| 15 | [Touch of Hope](https://open.spotify.com/track/2JCFV6qfvsOtUdHIuevDSW) | [Yui Makino](https://open.spotify.com/artist/6EtarAFCJoZ2AvMuleZw0G) | [Touch of Hope](https://open.spotify.com/album/5UDEytA8WSVNBJ15tjSkUJ) | 4:29 |
+| 15 | [Touch of Hope](https://open.spotify.com/track/4GYQiYQkU4cDiA8NLRqLi4) | [Yui Makino](https://open.spotify.com/artist/6EtarAFCJoZ2AvMuleZw0G) | [Anata to Watashi wo Tsunagumono](https://open.spotify.com/album/5TL5jmTLrfk3KAplSZ4Uph) | 4:31 |
 | 16 | [ICHIBANBOSHI SONORITY](https://open.spotify.com/track/4ogyl3j9wSTM0YLiXrkC5t) | [Yuka Iguchi](https://open.spotify.com/artist/2pEoqcvCSXliNrd8peAUiP) | [ENDING THEME FROM TV SERIES ”UNCLE FROM ANOTHER WORLD”](https://open.spotify.com/album/2ur6B0p344bM6CHn7PNJu0) | 4:14 |
 | 17 | [海のエンドロール](https://open.spotify.com/track/1ZkTHbCmQKj6xYKla18Rct) | [梶原岳人](https://open.spotify.com/artist/1ZSbJqrZp4HiQlhPPScaKG) | [海のエンドロール](https://open.spotify.com/album/7gByOSWU12BeYLiLPDXxAq) | 4:04 |
 | 18 | [夜あそびしようぜ](https://open.spotify.com/track/23yohx1mmUMUw8OFFpfUCp) | [森久保祥太郎](https://open.spotify.com/artist/2mPe0SBYUwudL5iXPmMbwR), [仲村宗悟](https://open.spotify.com/artist/3Vz8LkrUXNRdZmaVtLXOMp) | [夜あそびしようぜ](https://open.spotify.com/album/2TpBF2EYiNsEKyHwVua0e3) | 4:54 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc7RvXTzD4rW.md) - [plain]
 | 49 | [Yakusoku no Overture \- Rearranged ver.](https://open.spotify.com/track/3zNFyq66zJofERP33LK5Qt) | [土岐隼一](https://open.spotify.com/artist/0qDE2zIQMn6bSgEPUsWGsi) | [Good For](https://open.spotify.com/album/09MqHzTC2kqcsNP362mi7v) | 4:18 |
 | 50 | [カウンターブロウ](https://open.spotify.com/track/2VRG7h2Tmcbnx7yZtSkCuR) | [浪川大輔](https://open.spotify.com/artist/5mchqa3eKySQx0LcrovrJg) | [鼓動](https://open.spotify.com/album/2pOWAQB0Q70R1X5C93aPII) | 3:56 |
 
-Snapshot ID: `MTY2MzgzODM1NywwMDAwMDAwMDEzZDliODM2YzMxNWE0NzhhZWVlNGZlZTFiYzdkZGQ1`
+Snapshot ID: `MTY2MzgzODM1NywwMDAwMDAwMGFlZjhiOTM3NzFlMmFlZmFiMTc4NjkwYmRiMTNmNDg0`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZyQUsU1vj4x.md) - [plain]
 
 > Indie folk ventures into the cinematic West.
 
-[Spotify](https://open.spotify.com/user/spotify) - 122,902 likes - 95 songs - 5 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 123,436 likes - 95 songs - 5 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZyQUsU1vj4x.md) - [plain]
 | 23 | [King of California](https://open.spotify.com/track/07VsDDvIaWzbJkpWKk38h4) | [Renn](https://open.spotify.com/artist/4TOkHwfvErnRSxmlJ7XfOJ) | [Heartache and a Song](https://open.spotify.com/album/0igk4dP4LSssQP6to1GKDF) | 4:40 |
 | 24 | [Can’t Get It Right](https://open.spotify.com/track/4qlR1xTUd2VoM8UwKZkQqy) | [Matthew Perryman Jones](https://open.spotify.com/artist/68524z8sd176IRenNb1Fjy) | [Cold Answer](https://open.spotify.com/album/1if3qTYxQNBzVVN9wjDl2r) | 3:14 |
 | 25 | [The Night My Piano Upped and Died](https://open.spotify.com/track/1dKHaN7ycK4Pw9nNKsDfR4) | [Johnny Flynn](https://open.spotify.com/artist/1UQRtt7eHW6Bt4INNTUtb3) | [Sillion](https://open.spotify.com/album/6EvICOHQtGcwoIF3bQR53d) | 3:55 |
-| 26 | [Let This Remain](https://open.spotify.com/track/168Vc6GtKTO6CxypymkDxo) | [Alana Henderson](https://open.spotify.com/artist/6P6SqdQjXIzTWKj5QBWliY) | [Let This Remain](https://open.spotify.com/album/60V5m75Zb1n2EXTilxL946) | 3:22 |
+| 26 | [Let This Remain](https://open.spotify.com/track/7cCOmB2QOuW04afSmTbDGL) | [Alana Henderson](https://open.spotify.com/artist/6P6SqdQjXIzTWKj5QBWliY) | [Let This Remain](https://open.spotify.com/album/4mndZQ8LpNLxYh54oVnhH2) | 3:22 |
 | 27 | [Ain't No Easy Way](https://open.spotify.com/track/2fUUIfU0WurkHNLoUJwGnH) | [Black Rebel Motorcycle Club](https://open.spotify.com/artist/1tpXaFf2F55E7kVJON4j4G) | [Howl](https://open.spotify.com/album/5yTFClS2dEGZD5IjM9dfrT) | 2:36 |
 | 28 | [Oak Tree](https://open.spotify.com/track/0H9gWRPB92lrwtjtQtdrwD) | [Mirel Wagner](https://open.spotify.com/artist/599W9qxs3LzkiiEmkoK6Kx) | [When the Cellar Children See the Light of Day](https://open.spotify.com/album/4RP8ZcEWH1tPoEdkaPf8KK) | 3:00 |
 | 29 | [Phoenix \(feat\. Fleet Foxes & Anaïs Mitchell\)](https://open.spotify.com/track/4Vs2i8GdP5s7vd8vfSRcDk) | [Big Red Machine](https://open.spotify.com/artist/7gXy60xRcwYujBFoYHnR2O), [Fleet Foxes](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb), [Anaïs Mitchell](https://open.spotify.com/artist/7K5Lm5dxoEwEpOS0Fc3l3s) | [How Long Do You Think It's Gonna Last?](https://open.spotify.com/album/3YbMxdapL6mvSQjosFkc0T) | 4:15 |
@@ -104,4 +104,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZyQUsU1vj4x.md) - [plain]
 | 94 | [A Church In Ruins \- From The HBO Series True Detective](https://open.spotify.com/track/1nOX0ALAjpYGys5keet5JJ) | [Lera Lynn](https://open.spotify.com/artist/2iul6etLF5hjjpxo43rzz7) | [A Church In Ruins \(From The HBO Series True Detective\)](https://open.spotify.com/album/1QHLQdd9J4JcJ8FomKvz1v) | 2:52 |
 | 95 | [Sunrise](https://open.spotify.com/track/6Zg0Vuj81fvyCwn7SlUMYV) | [Isobel Campbell](https://open.spotify.com/artist/55dlp5I9jyc4UjzlrcKMnq), [Mark Lanegan](https://open.spotify.com/artist/1fpXM23IoNckJ7NDAm8YJQ) | [Hawk](https://open.spotify.com/album/4vPZUSwLbvknOOo9UJZQVs) | 2:31 |
 
-Snapshot ID: `MTY0MzI5MzYwMSwwMDAwMDAwMGJhNTU0YTk1ODM3OTRhOTY4NjY2Y2U0N2EzNDBmNzE5`
+Snapshot ID: `MTY0MzI5MzYwMSwwMDAwMDAwMGQ2NDQ5YTJkNjdiNWNmNWQxN2UyNzQ5YTZjNWUwZTJl`

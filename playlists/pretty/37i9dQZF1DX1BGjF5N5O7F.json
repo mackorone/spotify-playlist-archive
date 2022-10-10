@@ -1,12 +1,12 @@
 {
   "description": "sensual roots & indie folk.",
-  "num_followers": 522120,
+  "num_followers": 522571,
   "original_name": "Sexy As Folk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYxNjEyNjUyMCwwMDAwMDAwMDAwMmUyYmM4MzJkM2NkMTNlZTI0NzZlNjc4NGRlOTg2",
+  "snapshot_id": "MTYxNjEyNjUyMCwwMDAwMDAwMDhlYWU1YzJhOTAyMzE4OWY0ZjcyNTgyMGYyMWM2MDRm",
   "tracks": [
     {
       "added_at": "2021-03-19 04:02:00",
@@ -315,6 +315,22 @@
     {
       "added_at": "2021-03-19 04:02:00",
       "album": {
+        "name": "Hozier (Expanded Edition)",
+        "url": "https://open.spotify.com/album/4Pv7m8D82A1Xun7xNCKZjJ"
+      },
+      "artists": [
+        {
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+        }
+      ],
+      "duration_ms": 277653,
+      "name": "It Will Come Back",
+      "url": "https://open.spotify.com/track/1iugFsBigGHtRwvFVDG9oo"
+    },
+    {
+      "added_at": "2021-03-19 04:02:00",
+      "album": {
         "name": "Black Pumas",
         "url": "https://open.spotify.com/album/4KJGypBUe7ANibtri1msUe"
       },
@@ -359,22 +375,6 @@
       "duration_ms": 218332,
       "name": "By Night",
       "url": "https://open.spotify.com/track/2HiVLVR0RrcjQagWwuiwob"
-    },
-    {
-      "added_at": "2021-03-19 04:02:00",
-      "album": {
-        "name": "Hozier (Expanded Edition)",
-        "url": "https://open.spotify.com/album/4Pv7m8D82A1Xun7xNCKZjJ"
-      },
-      "artists": [
-        {
-          "name": "Hozier",
-          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
-        }
-      ],
-      "duration_ms": 277653,
-      "name": "It Will Come Back",
-      "url": "https://open.spotify.com/track/1iugFsBigGHtRwvFVDG9oo"
     },
     {
       "added_at": "2021-03-19 04:02:00",
@@ -479,22 +479,6 @@
     {
       "added_at": "2021-03-19 04:02:00",
       "album": {
-        "name": "Parallels, Vol. I",
-        "url": "https://open.spotify.com/album/08u46C6UbLfQYhk1lMWmkf"
-      },
-      "artists": [
-        {
-          "name": "The Woodlands",
-          "url": "https://open.spotify.com/artist/3uitNL8cJAFwhKlDO762Gx"
-        }
-      ],
-      "duration_ms": 238373,
-      "name": "Making Love on the Mountain - Sexy Mix",
-      "url": "https://open.spotify.com/track/7aFHFN6cvjgKEUGF1SMA8I"
-    },
-    {
-      "added_at": "2021-03-19 04:02:00",
-      "album": {
         "name": "TRUE",
         "url": "https://open.spotify.com/album/2sw2jwyFml3Ola4RO3by8v"
       },
@@ -527,6 +511,22 @@
     {
       "added_at": "2021-03-19 04:02:00",
       "album": {
+        "name": "Parallels, Vol. I",
+        "url": "https://open.spotify.com/album/08u46C6UbLfQYhk1lMWmkf"
+      },
+      "artists": [
+        {
+          "name": "The Woodlands",
+          "url": "https://open.spotify.com/artist/3uitNL8cJAFwhKlDO762Gx"
+        }
+      ],
+      "duration_ms": 238373,
+      "name": "Making Love on the Mountain - Sexy Mix",
+      "url": "https://open.spotify.com/track/7aFHFN6cvjgKEUGF1SMA8I"
+    },
+    {
+      "added_at": "2021-03-19 04:02:00",
+      "album": {
         "name": "Salt",
         "url": "https://open.spotify.com/album/2ALvcYeRWEyQ5CMh0OtMcY"
       },
@@ -543,22 +543,6 @@
     {
       "added_at": "2021-03-19 04:02:00",
       "album": {
-        "name": "My Love is a Hurricane",
-        "url": "https://open.spotify.com/album/1Lq5LGBs2UXG7TN337lJnJ"
-      },
-      "artists": [
-        {
-          "name": "David Ramirez",
-          "url": "https://open.spotify.com/artist/4MBIFx8pthemIVuEJSgAxb"
-        }
-      ],
-      "duration_ms": 202040,
-      "name": "Lover, Will You Lead Me?",
-      "url": "https://open.spotify.com/track/4be0nVpVfrtteirTMjUMxG"
-    },
-    {
-      "added_at": "2021-03-19 04:02:00",
-      "album": {
         "name": "Trouble",
         "url": "https://open.spotify.com/album/2DQHgaOMVOs2OKLaksiMx9"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 171640,
       "name": "Burn",
       "url": "https://open.spotify.com/track/3ESjXFvI5GUNFoCCg30u5s"
+    },
+    {
+      "added_at": "2021-03-19 04:02:00",
+      "album": {
+        "name": "My Love is a Hurricane",
+        "url": "https://open.spotify.com/album/1Lq5LGBs2UXG7TN337lJnJ"
+      },
+      "artists": [
+        {
+          "name": "David Ramirez",
+          "url": "https://open.spotify.com/artist/4MBIFx8pthemIVuEJSgAxb"
+        }
+      ],
+      "duration_ms": 202040,
+      "name": "Lover, Will You Lead Me?",
+      "url": "https://open.spotify.com/track/4be0nVpVfrtteirTMjUMxG"
     },
     {
       "added_at": "2021-03-19 04:02:00",
@@ -687,22 +687,6 @@
     {
       "added_at": "2021-03-19 04:02:00",
       "album": {
-        "name": "Chaos And The Calm (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1wKwGLPJl68zYLaA0Od0vc"
-      },
-      "artists": [
-        {
-          "name": "James Bay",
-          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
-        }
-      ],
-      "duration_ms": 285066,
-      "name": "Move Together - The Dark Of The Morning Version",
-      "url": "https://open.spotify.com/track/3K2YwQn30cfQBWM39XcrXV"
-    },
-    {
-      "added_at": "2021-03-19 04:02:00",
-      "album": {
         "name": "A Mouthful",
         "url": "https://open.spotify.com/album/3L2s5VsbuOKnIdkfz8vE7J"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 144400,
       "name": "Song for lovers",
       "url": "https://open.spotify.com/track/6MS1VErb239jImgEbtIMgs"
+    },
+    {
+      "added_at": "2021-03-19 04:02:00",
+      "album": {
+        "name": "Chaos And The Calm (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1wKwGLPJl68zYLaA0Od0vc"
+      },
+      "artists": [
+        {
+          "name": "James Bay",
+          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
+        }
+      ],
+      "duration_ms": 285066,
+      "name": "Move Together - The Dark Of The Morning Version",
+      "url": "https://open.spotify.com/track/3K2YwQn30cfQBWM39XcrXV"
     },
     {
       "added_at": "2021-03-19 04:02:00",
@@ -767,22 +767,6 @@
     {
       "added_at": "2021-03-19 04:02:00",
       "album": {
-        "name": "Sometimes Why",
-        "url": "https://open.spotify.com/album/1q5M6eQC435yDlj5WQlD5Q"
-      },
-      "artists": [
-        {
-          "name": "Sometymes Why",
-          "url": "https://open.spotify.com/artist/3fV5kUgVNIf2EvxVYo9QlU"
-        }
-      ],
-      "duration_ms": 357773,
-      "name": "Too Repressed - Explicit",
-      "url": "https://open.spotify.com/track/1AWEQLm9bwhEMj2sxpeSJx"
-    },
-    {
-      "added_at": "2021-03-19 04:02:00",
-      "album": {
         "name": "That Iron Taste",
         "url": "https://open.spotify.com/album/1HBTigeKszgy2KJPna3hND"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 174426,
       "name": "You Come Down",
       "url": "https://open.spotify.com/track/7EdwWyPnHkbi9KuG4wyKmc"
+    },
+    {
+      "added_at": "2021-03-19 04:02:00",
+      "album": {
+        "name": "Sometimes Why",
+        "url": "https://open.spotify.com/album/1q5M6eQC435yDlj5WQlD5Q"
+      },
+      "artists": [
+        {
+          "name": "Sometymes Why",
+          "url": "https://open.spotify.com/artist/3fV5kUgVNIf2EvxVYo9QlU"
+        }
+      ],
+      "duration_ms": 357773,
+      "name": "Too Repressed - Explicit",
+      "url": "https://open.spotify.com/track/1AWEQLm9bwhEMj2sxpeSJx"
     },
     {
       "added_at": "2021-03-19 04:02:00",

@@ -4,7 +4,7 @@
 
 > Le tracce italiane più romantiche di sempre.
 
-180 songs - 11 hr 42 min - [published](https://open.spotify.com/playlist/4xbXrPn6qPTl8i2Ptaki7A)
+181 songs - 11 hr 46 min - [published](https://open.spotify.com/playlist/4xbXrPn6qPTl8i2Ptaki7A)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,6 +43,7 @@
 | [Cosa mi manchi a fare](https://open.spotify.com/track/7L8cIUKXToCr6PV9hFoX3Q) | [Calcutta ](https://open.spotify.com/artist/582KhTHEVOONNQLmQ5612r) | [Mainstream \(Deluxe Edition\)](https://open.spotify.com/album/11dh7pT3FRrGkI3TXl0e4k) | 2:49 | 2021-09-26 |  |
 | [D'improvviso](https://open.spotify.com/track/4ykkHvzEE45AlcUq6vkVW6) | [Lorenzo Fragola](https://open.spotify.com/artist/0tTS475qIqv3KXYZMXjsYy) | [Zero Gravity](https://open.spotify.com/album/0FxEbIEYdmAZ7u2oDB0Z4P) | 3:29 | 2021-09-26 |  |
 | [Dedicato A Te](https://open.spotify.com/track/4DxU9yKktJVQXhcLxjh67j) | [Le Vibrazioni](https://open.spotify.com/artist/3J3PdLj6v1uAs1mWKpzZbX) | [Le Vibrazioni](https://open.spotify.com/album/0aKZ5rJLPjbCBolkFrWEy5) | 3:28 | 2021-09-26 | 2022-07-27 |
+| [Del verde](https://open.spotify.com/track/5jT6gl92pmDlKy9689oZSX) | [Calcutta ](https://open.spotify.com/artist/582KhTHEVOONNQLmQ5612r) | [Mainstream \(Deluxe Edition\)](https://open.spotify.com/album/11dh7pT3FRrGkI3TXl0e4k) | 3:48 | 2021-09-26 |  |
 | [Destri](https://open.spotify.com/track/0WBg2If3H9nN9RFl2xO2SZ) | [Gazzelle](https://open.spotify.com/artist/7KFOc3T4Xo8DVZt4PWw2qN) | [Destri](https://open.spotify.com/album/6xIlY5dzwgDm4dVeTteILC) | 3:05 | 2021-09-26 |  |
 | [Domenica](https://open.spotify.com/track/2tVNMtgZ2CQpTx7vgcuTkL) | [Coez](https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4) | [È sempre bello](https://open.spotify.com/album/10qyDIB3pverR0MvhOFDVy) | 3:21 | 2021-09-26 | 2022-07-12 |
 | [Dove e quando](https://open.spotify.com/track/5XM7tx8ovQ9UrYqUowW1AK) | [Benji & Fede](https://open.spotify.com/artist/2nftqfbLohpDYzY8VUlvbm) | [Good Vibes](https://open.spotify.com/album/77QYi88mcI4qXClwTAwxjg) | 3:10 | 2021-09-26 |  |
@@ -83,7 +84,7 @@
 | [L'amore conta](https://open.spotify.com/track/1ms3QC6CO8vN4100SgrG70) | [Ligabue](https://open.spotify.com/artist/7H8ZC8uHJMPZGLMApRRNIz) | [Nome e cognome \[Remastered Version\]](https://open.spotify.com/album/4ykRF2gZsuZmUVBeVMFnnT) | 4:23 | 2021-09-26 | 2022-07-23 |
 | [L'amore è](https://open.spotify.com/track/0iOHkI1AyDXfDeoXEFaP2e) | [Enrico Nigiotti](https://open.spotify.com/artist/4Umo1uO9VemTgnkjeUhx8c) | [L'amore è](https://open.spotify.com/album/38KfDURRSexb9tA6Ll5ZT1) | 3:44 | 2021-09-26 | 2022-06-01 |
 | [L'Emozione Non Ha voce \(Io Non So Parlar D'Amore\)](https://open.spotify.com/track/39efIaQFmERjt8U71FrJzs) | [Adriano Celentano](https://open.spotify.com/artist/1yq9UuPp5DIb5w6eswGbKV) | [Io Non So Parlar D'Amore](https://open.spotify.com/album/5fv7zCf5fRBzmVqnrJ0UJO) | 4:07 | 2021-09-26 | 2022-07-29 |
-| [L'Immenso](https://open.spotify.com/track/7bof4i0U5eYSJ6yhgtddK9) | [Negramaro](https://open.spotify.com/artist/1X9iZlQXfAAx4Vvmlqeao7) | [La Finestra \(Deluxe Edition\)](https://open.spotify.com/album/0NQDyYJyaZWGAuKo8PngX2) | 3:34 | 2021-09-26 |  |
+| [L'Immenso](https://open.spotify.com/track/7bof4i0U5eYSJ6yhgtddK9) | [Negramaro](https://open.spotify.com/artist/1X9iZlQXfAAx4Vvmlqeao7) | [La Finestra \(Deluxe Edition\)](https://open.spotify.com/album/0NQDyYJyaZWGAuKo8PngX2) | 3:34 | 2021-09-26 | 2022-10-09 |
 | [L'immenso](https://open.spotify.com/track/3NNJzRvSDVuXgJ36TOE3QO) | [Negramaro](https://open.spotify.com/artist/1X9iZlQXfAAx4Vvmlqeao7) | [Una storia semplice \(Deluxe Edition\)](https://open.spotify.com/album/36FHxTwirWpSCwuXJqaaBo) | 3:37 | 2021-09-26 | 2022-07-29 |
 | [L'odore del caffè](https://open.spotify.com/track/5HF1iln0igvRCNulsEYvTL) | [Francesco Renga](https://open.spotify.com/artist/3TAYxk5QBcHunmb0qkeTn2) | [L'altra metà](https://open.spotify.com/album/7lsDANKgIEPsTjsFy4XliR) | 3:52 | 2021-09-26 | 2022-07-13 |
 | [La Cura](https://open.spotify.com/track/3sc9YIcDSPCXsQ0zzX3JLW) | [Franco Battiato](https://open.spotify.com/artist/4lianjyuR1tqf6oUX8kjrZ) | [L'Imboscata](https://open.spotify.com/album/6Ws5YQCEOfwmpTK01EALgv) | 4:03 | 2021-09-26 |  |
@@ -131,7 +132,7 @@
 | [Piccola anima \(feat\. Elisa\)](https://open.spotify.com/track/0vJ1F4W4FZ9lNGxGwyJZZp) | [Ermal Meta](https://open.spotify.com/artist/4XWTdNlsP8jqo5BDn5hgmd), [Elisa](https://open.spotify.com/artist/2ARH58Hit3yC6ziGdhma23) | [Vietato morire](https://open.spotify.com/album/4s4nkQg1wtDcwz7Tuvycpv) | 3:41 | 2021-09-26 | 2022-07-27 |
 | [Piccola Stella](https://open.spotify.com/track/6sLBJkMyZIkGevtpYgeotT) | [Ultimo](https://open.spotify.com/artist/3hN3iJMbbBmqBSAMx5veDa) | [Colpa Delle Favole](https://open.spotify.com/album/7ynNnkdYfFsjMxvfecxAWy) | 3:52 | 2021-09-26 |  |
 | [Poetica](https://open.spotify.com/track/07qo9gnLM488CUr0EtgIA1) | [Cesare Cremonini](https://open.spotify.com/artist/396Jr76018oUMR6QBnqT8T) | [Possibili Scenari](https://open.spotify.com/album/1tcX4ysSZEeMMshVVbkkDa) | 4:53 | 2021-09-26 |  |
-| [Posso \(feat\. Max Gazzé\)](https://open.spotify.com/track/5N0nmOmc0MqPZTYKw4fVV6) | [Carl Brave](https://open.spotify.com/artist/29nrwultxQ8jENVmXoyMqK), [Max Gazzè](https://open.spotify.com/artist/1h5O32I1o0VOnpLmKXLfRa) | [Notti Brave \(After\)](https://open.spotify.com/album/5igFxzbfH6oTb3vRFvNK5w) | 3:58 | 2021-09-26 |  |
+| [Posso \(feat\. Max Gazzé\)](https://open.spotify.com/track/5N0nmOmc0MqPZTYKw4fVV6) | [Carl Brave](https://open.spotify.com/artist/29nrwultxQ8jENVmXoyMqK), [Max Gazzè](https://open.spotify.com/artist/1h5O32I1o0VOnpLmKXLfRa) | [Notti Brave \(After\)](https://open.spotify.com/album/5igFxzbfH6oTb3vRFvNK5w) | 3:58 | 2021-09-26 | 2022-10-04 |
 | [Quando nasce un amore](https://open.spotify.com/track/42QwfNehRxZzLhQCh7Jfkr) | [Anna Oxa](https://open.spotify.com/artist/6iuybPv0Mii8x21mztjaUN) | [I Grandi Successi](https://open.spotify.com/album/6WilIF4woo3IMNzZRecDoA) | 3:59 | 2021-09-26 | 2022-07-29 |
 | [Quel posto che non c'è](https://open.spotify.com/track/2k2EIHQn1xrJU85BLNqnBC) | [Negramaro](https://open.spotify.com/artist/1X9iZlQXfAAx4Vvmlqeao7) | [Una storia semplice \(Deluxe Edition\)](https://open.spotify.com/album/36FHxTwirWpSCwuXJqaaBo) | 3:37 | 2021-09-26 | 2022-07-29 |
 | [Quel sorriso in volto](https://open.spotify.com/track/6oDAlwyZAHxi47aAJ6Kvw7) | [Modà](https://open.spotify.com/artist/3ALm6zJLaJMWV0r89kuYtu) | [Quel sorriso in volto](https://open.spotify.com/album/0QCJbFcLkD9QgyNfivDkQX) | 4:01 | 2021-09-26 | 2022-07-27 |
@@ -167,7 +168,7 @@
 | [Superclassico](https://open.spotify.com/track/6Ahg1hncxUdK0ICqU03BCu) | [Ernia](https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm) | [Gemelli](https://open.spotify.com/album/3LXvt5r3boBy4sQQpxmsi9) | 2:52 | 2021-09-26 |  |
 | [Svegliarsi la mattina](https://open.spotify.com/track/0FhpzL0BoqEYsT6k2Wb9AV) | [Zero Assoluto](https://open.spotify.com/artist/3bf7Y2it29DeOjXpIibCOe) | [Appena prima di partire](https://open.spotify.com/album/76c8rMt8AHuavJA1pQfWLB) | 3:43 | 2021-09-26 | 2022-05-14 |
 | [Ti dedico il silenzio](https://open.spotify.com/track/6GLmGfALwjzCaOiHwgfU7g) | [Ultimo](https://open.spotify.com/artist/3hN3iJMbbBmqBSAMx5veDa) | [Peter Pan](https://open.spotify.com/album/7E0zdJM8KYDRa5lQeAfEYi) | 3:54 | 2021-09-26 |  |
-| [Ti ho voluto bene veramente](https://open.spotify.com/track/3z5eL4hQXaBWxSWZUTwI4e) | [Marco Mengoni](https://open.spotify.com/artist/3xGlLcG9CUrs5MvFkSLOS5) | [Le cose che non ho](https://open.spotify.com/album/6471E1sHbiORDuwJkNL3JG) | 2:49 | 2021-09-26 | 2022-07-26 |
+| [Ti ho voluto bene veramente](https://open.spotify.com/track/3z5eL4hQXaBWxSWZUTwI4e) | [Marco Mengoni](https://open.spotify.com/artist/3xGlLcG9CUrs5MvFkSLOS5) | [Le cose che non ho](https://open.spotify.com/album/6471E1sHbiORDuwJkNL3JG) | 2:49 | 2021-09-26 |  |
 | [Ti porto a cena con me](https://open.spotify.com/track/4q5gpE90NNbtuVLczJmKfu) | [Giusy Ferreri](https://open.spotify.com/artist/0dwEXtB6gceh7EO7tCsxhD) | [L'attesa](https://open.spotify.com/album/0loxSv6A3y8bGG4V3KXlUo) | 3:54 | 2021-09-26 | 2022-06-04 |
 | [Ti sposerò perché](https://open.spotify.com/track/0Jp3BOdSROQLzAnfUGl8ce) | [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX) | [Musica è](https://open.spotify.com/album/0OCZyh2eM52kiVJYBZZ3fJ) | 4:01 | 2021-09-26 | 2022-07-27 |
 | [Ti vorrei sollevare \- With Giuliano Sangiorgi](https://open.spotify.com/track/26DAbhgVoOIPBCfDxyP7xN) | [Elisa](https://open.spotify.com/artist/2ARH58Hit3yC6ziGdhma23), [Giuliano Sangiorgi](https://open.spotify.com/artist/4nVlr3WO33XWrBFDwtUlW4) | [Heart \(Deluxe Edition\)](https://open.spotify.com/album/2XiF0XJOfyOtD5m3QgBDBH) | 4:27 | 2021-09-26 | 2022-07-29 |

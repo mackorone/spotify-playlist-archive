@@ -8,6 +8,24 @@
   "tracks": [
     {
       "album": {
+        "name": "16 Borders",
+        "url": "https://open.spotify.com/album/0d6N2DAD0mEsYSGjd3ZrTw"
+      },
+      "artists": [
+        {
+          "name": "Jim and Sasha Allen",
+          "url": "https://open.spotify.com/artist/1YgJ0l3zuGxjZMqzZiU5d4"
+        }
+      ],
+      "date_added": "2022-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168560,
+      "name": "16 Borders",
+      "url": "https://open.spotify.com/track/5U59q0ojvHM6ou8J3Sz0ZB"
+    },
+    {
+      "album": {
         "name": "17 Letters",
         "url": "https://open.spotify.com/album/3ez1nfVoF4yOEPPHnKZ033"
       },
@@ -23,6 +41,24 @@
       "duration_ms": 323807,
       "name": "17 Letters",
       "url": "https://open.spotify.com/track/7txmlNXVd6DSPh613anyau"
+    },
+    {
+      "album": {
+        "name": "9 Lives",
+        "url": "https://open.spotify.com/album/68pSC05yKzQLLNDngR1uyI"
+      },
+      "artists": [
+        {
+          "name": "Dawn Riding",
+          "url": "https://open.spotify.com/artist/4FuVYvoejNH1WG7NGWzVi7"
+        }
+      ],
+      "date_added": "2022-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259933,
+      "name": "9 Lives",
+      "url": "https://open.spotify.com/track/53M93oh2JcbwkafFmnZ0fD"
     },
     {
       "album": {
@@ -422,6 +458,24 @@
     },
     {
       "album": {
+        "name": "Guard Dog",
+        "url": "https://open.spotify.com/album/4Y7xxhWtydlfjYiaGolr58"
+      },
+      "artists": [
+        {
+          "name": "Searows",
+          "url": "https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It"
+        }
+      ],
+      "date_added": "2022-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 378531,
+      "name": "Coming Clean",
+      "url": "https://open.spotify.com/track/7G7czV2zDj9A5wDnNa0uYU"
+    },
+    {
+      "album": {
         "name": "Coolshit Bullshit",
         "url": "https://open.spotify.com/album/3NleO73TVi5PyyyENBZ69U"
       },
@@ -693,7 +747,7 @@
       ],
       "date_added": "2022-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-06",
       "duration_ms": 216229,
       "name": "Dog Days in LA",
       "url": "https://open.spotify.com/track/0MxqSOINLqZOwAFsGAMMux"
@@ -1303,7 +1357,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-06",
       "duration_ms": 244189,
       "name": "Golden Spoon",
       "url": "https://open.spotify.com/track/5TtUQ2fh1JzntGcB3mA54l"
@@ -1863,6 +1917,24 @@
       "duration_ms": 253399,
       "name": "I'd Be Your Man",
       "url": "https://open.spotify.com/track/7yCHkU5t8If3EBPsiTCh3N"
+    },
+    {
+      "album": {
+        "name": "i'm not in love with you",
+        "url": "https://open.spotify.com/album/3RLCeOizCulBLG6kMaSLFK"
+      },
+      "artists": [
+        {
+          "name": "Lydia Kaseta",
+          "url": "https://open.spotify.com/artist/0raB78RFxZwDhT8LQFtahl"
+        }
+      ],
+      "date_added": "2022-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184413,
+      "name": "i'm not in love with you",
+      "url": "https://open.spotify.com/track/7sEo83XvIrCgBB3qhluluV"
     },
     {
       "album": {
@@ -2731,7 +2803,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-06",
       "duration_ms": 278250,
       "name": "Orion",
       "url": "https://open.spotify.com/track/4ofjRp95kHz8RBHu4iX4Hd"
@@ -2803,7 +2875,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-06",
       "duration_ms": 186159,
       "name": "Praying for July - Spotify Singles",
       "url": "https://open.spotify.com/track/7wXPl3wCGlHDXXaDyr9rPq"
@@ -2875,7 +2947,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-06",
       "duration_ms": 315294,
       "name": "quite alright",
       "url": "https://open.spotify.com/track/3ac7wRpO4zkSxzDDa5kado"
@@ -3099,6 +3171,24 @@
       "duration_ms": 246306,
       "name": "Shine",
       "url": "https://open.spotify.com/track/6IzFGv9kIlHlOamtyDsGW4"
+    },
+    {
+      "album": {
+        "name": "Lost/Shivers",
+        "url": "https://open.spotify.com/album/36FTMh71SyfTkV0aKDUnNG"
+      },
+      "artists": [
+        {
+          "name": "Folk Bitch Trio",
+          "url": "https://open.spotify.com/artist/26jdbJyBkpr6LivDYvKp2r"
+        }
+      ],
+      "date_added": "2022-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241116,
+      "name": "Shivers",
+      "url": "https://open.spotify.com/track/5fpUXYQutrpetRePIXmHU4"
     },
     {
       "album": {
@@ -3409,7 +3499,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-06",
       "duration_ms": 214173,
       "name": "Thanks",
       "url": "https://open.spotify.com/track/05kamsQjIKeVWMWDThZkFZ"
@@ -3431,6 +3521,24 @@
       "duration_ms": 187047,
       "name": "That So",
       "url": "https://open.spotify.com/track/39CGQf63kR3hgVbzPAyhRo"
+    },
+    {
+      "album": {
+        "name": "The Case of Bucky Briar",
+        "url": "https://open.spotify.com/album/46TyuPwKIlBpe5Y5563DcL"
+      },
+      "artists": [
+        {
+          "name": "Jack Van Cleaf",
+          "url": "https://open.spotify.com/artist/7nW46aJfNHxK9Y3M5Dhadk"
+        }
+      ],
+      "date_added": "2022-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267331,
+      "name": "The Case of Bucky Briar",
+      "url": "https://open.spotify.com/track/2O7QpyQxRDANQCH8I7rB4r"
     },
     {
       "album": {
@@ -3517,7 +3625,7 @@
       ],
       "date_added": "2022-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-04",
       "duration_ms": 215462,
       "name": "The Rain",
       "url": "https://open.spotify.com/track/0JLRbovJSwvjqh7wUyzPtc"
@@ -3535,7 +3643,7 @@
       ],
       "date_added": "2022-09-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-02",
+      "date_removed": null,
       "duration_ms": 215462,
       "name": "The Rain",
       "url": "https://open.spotify.com/track/3KVxxn1MoYkjAzDeRHYZo4"
@@ -3740,6 +3848,24 @@
     },
     {
       "album": {
+        "name": "Watchdog",
+        "url": "https://open.spotify.com/album/5wyUmj6Dd2DkR2B6Rn88pp"
+      },
+      "artists": [
+        {
+          "name": "Gemma Laurence",
+          "url": "https://open.spotify.com/artist/2sNPTD3BelCCJaH18PmeKm"
+        }
+      ],
+      "date_added": "2022-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185720,
+      "name": "Watchdog",
+      "url": "https://open.spotify.com/track/4UV5nXpxWvX4wBwxHYCIf1"
+    },
+    {
+      "album": {
         "name": "Weather",
         "url": "https://open.spotify.com/album/4XYbWli1gplWMqKJLMaWaj"
       },
@@ -3823,7 +3949,7 @@
       ],
       "date_added": "2022-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-06",
       "duration_ms": 246593,
       "name": "Wildfire",
       "url": "https://open.spotify.com/track/5W9cJdvPtkuPaVtJAIylbM"

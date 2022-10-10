@@ -4,7 +4,7 @@
 
 > A classic playlist full of favorites of the 80s!
 
-67 songs - 4 hr 37 min - [published](https://open.spotify.com/playlist/3bzZIvwpqlDHx5QrRZ6uGM)
+69 songs - 4 hr 45 min - [published](https://open.spotify.com/playlist/3bzZIvwpqlDHx5QrRZ6uGM)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [Always Something There To Remind Me](https://open.spotify.com/track/5L7zWiRiXDPNvTLLoXvIja) | [Naked Eyes](https://open.spotify.com/artist/3C6chBmZ9wzisBhoh8G2nK) | [Love To Love](https://open.spotify.com/album/6AbPhbIJmobHvCx7yH8YM9) | 3:43 | 2022-05-18 |  |
 | [Another One Bites The Dust \- Remastered 2011](https://open.spotify.com/track/57JVGBtBLCfHw2muk5416J) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [The Game \(Deluxe Remastered Version\)](https://open.spotify.com/album/6wPXUmYJ9mOWrKlLzZ5cCa) | 3:34 | 2022-05-18 |  |
 | [Bette Davis Eyes](https://open.spotify.com/track/0odIT9B9BvOCnXfS0e4lB5) | [Kim Carnes](https://open.spotify.com/artist/5PN2aHIvLEM98XIorsPMhE) | [Mistaken Identity](https://open.spotify.com/album/3iMwQk5yE0UDDKbLCdcxZA) | 3:48 | 2022-05-18 |  |
+| [Breakthru \- Remastered 2011](https://open.spotify.com/track/7kWFbgUpy1UvEQVhJA7GsK) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [The Platinum Collection \(Greatest Hits I II & III \- 2011 Remaster\)](https://open.spotify.com/album/60Yx1xATvlWpAMzsBMMTSE) | 4:09 | 2022-10-02 |  |
 | [Call Me](https://open.spotify.com/track/7HKxTNVlkHsfMLhigmhC0I) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Call Me](https://open.spotify.com/album/18fOLsMG8Msf1DEaW0E71K) | 3:32 | 2022-05-18 |  |
 | [Centerfold](https://open.spotify.com/track/1ynmMEK1fkyiZ6Z6F3ThEt) | [The J\. Geils Band](https://open.spotify.com/artist/69Mj3u4FTUrpyeGNSIaU6F) | [Freeze Frame](https://open.spotify.com/album/48joW5905AMbTFLvy8ZWch) | 3:36 | 2022-05-18 |  |
 | [Come On Eileen](https://open.spotify.com/track/0EMmVUYs9ZZRHtlADB88uz) | [Dexys Midnight Runners](https://open.spotify.com/artist/4QTVePrFu1xuGM9K0kNXkk) | [Too Rye Ay](https://open.spotify.com/album/0QNluXFRHFyRVDiBHXmstK) | 4:47 | 2022-05-18 |  |
@@ -63,6 +64,7 @@
 | [Sweet Child O' Mine](https://open.spotify.com/track/4MhTFsyqIJnjsOweVcU8ug) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [Appetite For Destruction](https://open.spotify.com/album/5JKFiC2WVi9HtvJEm8CUB8) | 5:56 | 2022-05-18 |  |
 | [Tainted Love](https://open.spotify.com/track/44hOGg1uFg1XJZGZYNwYmM) | [Soft Cell](https://open.spotify.com/artist/6aq8T2RcspxVOGgMrTzjWc) | [The Singles](https://open.spotify.com/album/0CPZNmZvoI8YguX1zx9TCv) | 2:42 | 2022-05-18 |  |
 | [The Heat Is On \- From "Beverly Hills Cop" Soundtrack](https://open.spotify.com/track/0Ohb2OGQiYWNVPSMprmBtM) | [Glenn Frey](https://open.spotify.com/artist/3vMWY1bUrmYoSoEWLiQWOZ) | [Solo Collection](https://open.spotify.com/album/1YHw7JrXxh3pt6NBVEOuof) | 3:45 | 2022-05-18 |  |
+| [The Invisible Man](https://open.spotify.com/track/0kf46oObVRf3L51fHIojEm) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [The Miracle](https://open.spotify.com/album/1v5l2sZRE5Rweew5PoNFP9) | 3:55 | 2022-10-02 |  |
 | [The Look Of Love, Pt.1](https://open.spotify.com/track/6HvUtPLqkP0t6zd6YNdWby) | [ABC](https://open.spotify.com/artist/2s79xe5F6eUQkjwjww27Fh) | [The Lexicon Of Love](https://open.spotify.com/album/1vkql5n4Vb9j5XG3yxOU66) | 3:29 | 2022-05-18 |  |
 | [The Stroke](https://open.spotify.com/track/2H5BRl8I6IveJ6BgC7FpqQ) | [Billy Squier](https://open.spotify.com/artist/3Fz2GbraVXhcpXnoi2Oe1r) | [Don't Say No](https://open.spotify.com/album/5FATFw46kqvlhayx9QCxLd) | 3:38 | 2022-05-18 |  |
 | [Things Can Only Get Better](https://open.spotify.com/track/1RbOObDFn7GOseR1w529Zj) | [Howard Jones](https://open.spotify.com/artist/6loBF9iQdE11WSX29fNKqY) | [Dream Into Action](https://open.spotify.com/album/1V8qUSg1WAHf3dCrVYdJ5Z) | 3:55 | 2022-05-18 |  |

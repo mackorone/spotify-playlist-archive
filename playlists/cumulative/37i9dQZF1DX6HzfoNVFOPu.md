@@ -4,7 +4,7 @@
 
 > Any songs you forgot existed? Let's go deep into 2000s rock!  Cover: The White Stripes.
 
-505 songs - 1 day 8 hr 49 min - [published](https://open.spotify.com/playlist/5hcw9b05MXjlbJWhFDxard)
+506 songs - 1 day 8 hr 54 min - [published](https://open.spotify.com/playlist/5hcw9b05MXjlbJWhFDxard)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,7 +25,7 @@
 | [All over You](https://open.spotify.com/track/4b9jRNwMUvABxTD1amyfA6) | [The Spill Canvas](https://open.spotify.com/artist/4W8SeWrRZUburGZyp5JwYj) | [No Really, I'm Fine \(Standard Version\)](https://open.spotify.com/album/5H8tKeqYgYZsMX99hGSHoj) | 3:22 | 2022-01-05 | 2022-05-25 |
 | [All The Same](https://open.spotify.com/track/3vIw7vxgUTPtppVwMfhcwo) | [Sick Puppies](https://open.spotify.com/artist/7qAcXJgt1PWnxwUgxMdyuk) | [Dressed Up As Life](https://open.spotify.com/album/7zEvxcdeNWrFZCnWUnpDOC) | 4:18 | 2022-01-05 | 2022-09-15 |
 | [All These Things I Hate \(Revolve Around Me\)](https://open.spotify.com/track/6XimI1O15wpfwUdrCnlrxo) | [Bullet For My Valentine](https://open.spotify.com/artist/7iWiAD5LLKyiox2grgfmUT) | [The Poison](https://open.spotify.com/album/58TQcPpRD9XcXhUDWF5P27) | 3:45 | 2022-01-05 | 2022-05-25 |
-| [Almost](https://open.spotify.com/track/6TclVCUxDQm9s3Bey6Ao8H) | [Bowling For Soup](https://open.spotify.com/artist/5ND0mGcL9SKSjWIjPd0xIb) | [A Hangover You Don't Deserve](https://open.spotify.com/album/43jBR9MNJk5AUuB56M0pRF) | 3:26 | 2022-01-05 |  |
+| [Almost](https://open.spotify.com/track/6TclVCUxDQm9s3Bey6Ao8H) | [Bowling For Soup](https://open.spotify.com/artist/5ND0mGcL9SKSjWIjPd0xIb) | [A Hangover You Don't Deserve](https://open.spotify.com/album/43jBR9MNJk5AUuB56M0pRF) | 3:26 | 2022-01-05 | 2022-10-10 |
 | [Almost Over](https://open.spotify.com/track/043Re81uRxCx2Nw6LfAheU) | [Limp Bizkit](https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb) | [Results May Vary](https://open.spotify.com/album/3oUoQ0UH7Rv06x1kpSjS36) | 4:38 | 2022-01-05 | 2022-07-19 |
 | [Always Love](https://open.spotify.com/track/4jDWJBcWIGgfzjqy8XRB2n) | [Nada Surf](https://open.spotify.com/artist/11zHPjHnZN0ACA50rSnTcy) | [The Weight Is a Gift](https://open.spotify.com/album/4qbTmFzYCMdVcHXRURJmwC) | 3:19 | 2022-01-05 | 2022-07-28 |
 | [Always Where I Need To Be](https://open.spotify.com/track/6gGSSrKMiV2yec1DrqGhhy) | [The Kooks](https://open.spotify.com/artist/1GLtl8uqKmnyCWxHmw9tL4) | [Konk](https://open.spotify.com/album/37he52Ye10gETvnot9bC2t) | 2:41 | 2022-01-05 |  |
@@ -288,6 +288,7 @@
 | [Many Shades of Black](https://open.spotify.com/track/1nX4VLG50VzERLthNEXWtY) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY), [The Raconteurs](https://open.spotify.com/artist/4wo1267SJuUfHgasdlfNfc) | [19](https://open.spotify.com/album/2YO1F9DHVEzXPriA1JHoOQ) | 4:28 | 2022-01-05 | 2022-05-25 |
 | [Maybe](https://open.spotify.com/track/61EWvc5vPvrj1Ir9aeVHEK) | [Sick Puppies](https://open.spotify.com/artist/7qAcXJgt1PWnxwUgxMdyuk) | [Tri\-Polar \(International Version\)](https://open.spotify.com/album/1lzHraZnbTovp0SL4aZD4R) | 3:25 | 2022-01-05 | 2022-05-25 |
 | [Meds](https://open.spotify.com/track/5fVTi3rIiLvsEVYp0cRvaI) | [Placebo](https://open.spotify.com/artist/6RZUqkomCmb8zCRqc9eznB), [Alison Mosshart](https://open.spotify.com/artist/5rexG906fVLfq8H9m8J9P9) | [Meds](https://open.spotify.com/album/7cfTTszDP3KgMjtxhE8Re7) | 2:55 | 2022-01-05 | 2022-07-28 |
+| [Mein Teil](https://open.spotify.com/track/2OQRceDfxBfmwTEmNOSpFq) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Reise, Reise](https://open.spotify.com/album/09qHS2BgOLqi3SMkbauxdJ) | 4:32 | 2022-01-05 |  |
 | [Mein Teil](https://open.spotify.com/track/39RKlCfLoqb8o2aXfpVfjW) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Reise, Reise](https://open.spotify.com/album/74ydDCcXTco741y42ceRJ5) | 4:32 | 2022-01-05 | 2022-07-27 |
 | [Memory](https://open.spotify.com/track/0ChpoNjXfJPjMvCIN6so6J) | [Sugarcult](https://open.spotify.com/artist/04RtvnUz0XrUbUZzOA8ZoW) | [Palm Trees and Power Lines](https://open.spotify.com/album/5pCXe1ZrHEUZeYhMCe0pLX) | 3:46 | 2022-01-05 |  |
 | [Mohammed](https://open.spotify.com/track/2R71wdmz1tdbioNwPOrOK5) | [The Dandy Warhols](https://open.spotify.com/artist/7siPLyFwRFYQkKgWKJ5Sod) | [Thirteen Tales From Urban Bohemia](https://open.spotify.com/album/0vdIT4p5OlKOcEzYKSsqn4) | 5:20 | 2022-01-05 | 2022-07-27 |
@@ -330,7 +331,7 @@
 | [Out Of Control](https://open.spotify.com/track/6mjHiGwrRGE8LVCXVc5QDU) | [Hoobastank](https://open.spotify.com/artist/2MqhkhX4npxDZ62ObR5ELO) | [The Reason \(15th Anniversary Deluxe\)](https://open.spotify.com/album/2zE1YKY7Okj10Tjl09jjth) | 2:42 | 2022-01-05 |  |
 | [Over My Head \(Better Off Dead\)](https://open.spotify.com/track/40sl0jG01g4FZkCrBzQhZX) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [Does This Look Infected?](https://open.spotify.com/album/2iOJEUCKJaYseov1qA8ot8) | 2:29 | 2022-01-05 | 2022-07-28 |
 | [Overcome](https://open.spotify.com/track/25TQBBKOrtTfnH6QBM9He1) | [Creed](https://open.spotify.com/artist/43sZBwHjahUvgbx1WNIkIz) | [Full Circle](https://open.spotify.com/album/63a1DgGeNsC197MCiV0X0i) | 3:46 | 2022-01-05 | 2022-07-13 |
-| [Oxford Comma](https://open.spotify.com/track/0ful4PHfTIxzXiZSZsXQ0H) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Vampire Weekend](https://open.spotify.com/album/7n8NJkGKAl2np1bXiRn0CY) | 3:15 | 2022-01-05 |  |
+| [Oxford Comma](https://open.spotify.com/track/0ful4PHfTIxzXiZSZsXQ0H) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Vampire Weekend](https://open.spotify.com/album/7n8NJkGKAl2np1bXiRn0CY) | 3:15 | 2022-01-05 | 2022-10-07 |
 | [Oxford Comma](https://open.spotify.com/track/5nHRIKsXDwUpse9gzrAxLR) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Vampire Weekend](https://open.spotify.com/album/5oXBmKbyJeQftWMo87cQ9F) | 3:15 | 2022-01-05 | 2022-07-29 |
 | [Pace Is The Trick](https://open.spotify.com/track/0ApmjZoepjrODi61nnDjCt) | [Interpol](https://open.spotify.com/artist/3WaJSfKnzc65VDgmj2zU8B) | [Our Love To Admire](https://open.spotify.com/album/46sLq54Ug5NbSxJg7wvqqK) | 4:37 | 2022-01-05 | 2022-07-29 |
 | [Pain](https://open.spotify.com/track/0SUClY63fA1awioMFtMYeE) | [Jimmy Eat World](https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s) | [Futures](https://open.spotify.com/album/2EDsu3fuAiflZczcFZTr4y) | 3:01 | 2022-01-05 | 2022-07-29 |
@@ -485,7 +486,7 @@
 | [Wasteland](https://open.spotify.com/track/3pO37BXsjMC2wApALxGbuB) | [10 Years](https://open.spotify.com/artist/0REMf7H0VP6DwfZ9MbuWph) | [The Autumn Effect](https://open.spotify.com/album/1VlMcoG1aI4E4kBIVoH5cp) | 3:49 | 2022-01-05 |  |
 | [Wasteland](https://open.spotify.com/track/0nTiC2fGkM4q8bGlBKGrGx) | [10 Years](https://open.spotify.com/artist/0REMf7H0VP6DwfZ9MbuWph) | [The Autumn Effect](https://open.spotify.com/album/44IoacfwUkvviGnihTUv1X) | 3:49 | 2022-01-05 | 2022-05-25 |
 | [Watch Over You](https://open.spotify.com/track/7kxfWvj6u9oWQ5C36kMtGb) | [Alter Bridge](https://open.spotify.com/artist/4DWX7u8BV0vZIQSpJQQDWU) | [Blackbird](https://open.spotify.com/album/21lOBQT94kjWSiYQbpm3RG) | 4:19 | 2022-01-05 |  |
-| [Way Away](https://open.spotify.com/track/63IIUzd6eJBfCGIcF8MFnJ) | [Yellowcard](https://open.spotify.com/artist/3zxKH0qp3nBCuPZCZT5Vaf) | [Ocean Avenue](https://open.spotify.com/album/24IBCzEJlHBI0ioxlSuSPA) | 3:22 | 2022-01-05 | 2022-07-21 |
+| [Way Away](https://open.spotify.com/track/63IIUzd6eJBfCGIcF8MFnJ) | [Yellowcard](https://open.spotify.com/artist/3zxKH0qp3nBCuPZCZT5Vaf) | [Ocean Avenue](https://open.spotify.com/album/24IBCzEJlHBI0ioxlSuSPA) | 3:22 | 2022-01-05 |  |
 | [We're Going to Be Friends](https://open.spotify.com/track/13lZDbwonGhOflQLQIfdtZ) | [The White Stripes](https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70) | [White Blood Cells](https://open.spotify.com/album/6Xvc1TfpVEhDeHhmTQEtp0) | 2:20 | 2022-01-05 |  |
 | [We're Going to Be Friends](https://open.spotify.com/track/4YSUtdZtwDRKTFeWfCBoeY) | [The White Stripes](https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70) | [White Blood Cells](https://open.spotify.com/album/5JyPtQWQrZ9csShZNUyXrO) | 2:22 | 2022-01-05 | 2022-07-29 |
 | [Weak And Powerless](https://open.spotify.com/track/7gDVjl5fEw2OPAtjbW4LzR) | [A Perfect Circle](https://open.spotify.com/artist/4DFhHyjvGYa9wxdHUjtDkc) | [Thirteenth Step](https://open.spotify.com/album/49K6hYDEr5M3GxIBBxlPf9) | 3:15 | 2022-01-05 |  |

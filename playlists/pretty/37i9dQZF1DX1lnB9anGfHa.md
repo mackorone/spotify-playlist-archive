@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lnB9anGfHa.md) - [plain]
 
 > A journey into the unknown, dark, and experimental.
 
-[Spotify](https://open.spotify.com/user/spotify) - 162,997 likes - 106 songs - 7 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 164,174 likes - 106 songs - 7 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,7 +86,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lnB9anGfHa.md) - [plain]
 | 76 | [Rich Bitch Juice](https://open.spotify.com/track/23QNeWdV1uiLA8OyZ60mee) | [Alice Longyu Gao](https://open.spotify.com/artist/5HvKzBgj4yphQfBJjBJrhL) | [Rich Bitch Juice](https://open.spotify.com/album/6ngx8qruRt2McKmWzpywRq) | 2:00 |
 | 77 | [выжженные поля](https://open.spotify.com/track/0qCSVXlSql2UkFJupliZon) | [тише воды](https://open.spotify.com/artist/7sGURNRYCWDBglrCckFIP9) | [выжженные поля](https://open.spotify.com/album/0ZmB2xyQ2r53QIIsziTUO6) | 3:53 |
 | 78 | [Kinko's field trip 2006](https://open.spotify.com/track/0HPNtkVFdg7vB5fKXSABfn) | [underscores](https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7) | [Kinko's field trip 2006](https://open.spotify.com/album/7nnmPQgX7VcKpCA0M5cMD8) | 2:31 |
-| 79 | [Bets Off](https://open.spotify.com/track/3grduFleX4OkOqlqchI0Kp) | [alexmaax](https://open.spotify.com/artist/5LDGjPfMzjhKcWoXL9Jbhi) | [Constant Touch](https://open.spotify.com/album/5gKZjibxq7ZMjXnFiT73YL) | 4:16 |
+| 79 | [Bets Off](https://open.spotify.com/track/4mJ7vJWINGfoLI4oZcdWbf) | [alexmaax](https://open.spotify.com/artist/5LDGjPfMzjhKcWoXL9Jbhi) | [Constant Touch](https://open.spotify.com/album/5YlZX8GaOXmqyEaVGbktX2) | 4:16 |
 | 80 | [NOBODY](https://open.spotify.com/track/3YoXksESEwIkPsH1gZBq4r) | [COUCOU CHLOE](https://open.spotify.com/artist/5xmw3tD4MbvhA1ay1U0HEC) | [NOBODY](https://open.spotify.com/album/0QkYU5KB8lMH9XOj5kUiRe) | 1:56 |
 | 81 | [HATE](https://open.spotify.com/track/7BCnH6TnAy4bpO21NcqEHe) | [Alina Pash](https://open.spotify.com/artist/2rC7t19zOtFIcJvmi6lH1i) | [Amerikraine Dream](https://open.spotify.com/album/0q2WCwd8k4rSiuvha8aap5) | 3:32 |
 | 82 | [AS Too Wrong](https://open.spotify.com/track/74wUpuW4tRQJJGiucm4JfJ) | [Amnesia Scanner](https://open.spotify.com/artist/2J3LwjEkmryU6BSAubwbMF) | [Another Life](https://open.spotify.com/album/0H6yPrBlXON15blsgmA4Aq) | 4:14 |
@@ -115,4 +115,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lnB9anGfHa.md) - [plain]
 | 105 | [Exit to Enter](https://open.spotify.com/track/1XOHLjNzLVbQUgNBk23hRp) | [The Lazy Jesus](https://open.spotify.com/artist/5lZF9dixBp7VJ1EHUBod9h) | [Original Fighter](https://open.spotify.com/album/4EOxbxXfaGo5LGkCR1Sfdo) | 2:58 |
 | 106 | [I Was Wrong](https://open.spotify.com/track/0CeY5CPaFPvl3BBx7rlkYX) | [w\. baer](https://open.spotify.com/artist/4ke7r9NNRe8Wg7ouwg7xOO) | [De Dust2](https://open.spotify.com/album/4lyXEmxTF8EMIwr8hbDmo5) | 3:24 |
 
-Snapshot ID: `MTY2NDUwOTg2MiwwMDAwMDAwMDFkMTk0Y2Q2NWY1MzJmNWQ1MjExNmQ4MjhiMmEwMzMy`
+Snapshot ID: `MTY2NDUwOTg2MiwwMDAwMDAwMDk4MzY1MzM5NDE5NDZiYmVkNmMxZTEzNTcyNWM3Nzhk`

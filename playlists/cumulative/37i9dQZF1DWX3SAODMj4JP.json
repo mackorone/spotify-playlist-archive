@@ -449,7 +449,7 @@
           "url": "https://open.spotify.com/artist/54IDWdM8TrNpxWiQAL1U3z"
         }
       ],
-      "date_added": "2022-10-01",
+      "date_added": "2022-09-30",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 211416,
@@ -1097,7 +1097,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 202875,
       "name": "Sintonia",
       "url": "https://open.spotify.com/track/5briZxbAVxPib5DQbpmlLd"
@@ -1271,6 +1271,28 @@
       "duration_ms": 211386,
       "name": "Todos Um",
       "url": "https://open.spotify.com/track/4Zkub4jUIwCyZItpcykvh8"
+    },
+    {
+      "album": {
+        "name": "Tributo A Iehovah (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4d6pzEk3gFbP4tJJFKrS62"
+      },
+      "artists": [
+        {
+          "name": "Eli Soares",
+          "url": "https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V"
+        },
+        {
+          "name": "Adhemar De Campos",
+          "url": "https://open.spotify.com/artist/03TpTPLRclj2iknzWXAXjP"
+        }
+      ],
+      "date_added": "2022-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 367530,
+      "name": "Tributo A Iehovah - Ao Vivo",
+      "url": "https://open.spotify.com/track/5cLo2Ovt9oCWq8mucuHfDi"
     },
     {
       "album": {

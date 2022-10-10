@@ -168,6 +168,32 @@
     },
     {
       "album": {
+        "name": "Silent Nights - Die sch\u00f6nsten Melodien f\u00fcr eine entspannte Weihnachtszeit",
+        "url": "https://open.spotify.com/album/1mjRsFJ7thLFUuZtoZQeSS"
+      },
+      "artists": [
+        {
+          "name": "Traditional",
+          "url": "https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf"
+        },
+        {
+          "name": "Nigel Hess",
+          "url": "https://open.spotify.com/artist/6Yfm54ap3yAaipvsCodUbx"
+        },
+        {
+          "name": "Royal Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269706,
+      "name": "Ding Dong, Merrily On High",
+      "url": "https://open.spotify.com/track/44KfRf2QBhyChudtmInTXX"
+    },
+    {
+      "album": {
         "name": "Together At Last",
         "url": "https://open.spotify.com/album/0XWsqCngjp9vAcDzr8dp9T"
       },
@@ -552,6 +578,28 @@
     },
     {
       "album": {
+        "name": "Christmas Time (3 New Carols For 2014)",
+        "url": "https://open.spotify.com/album/5FAWryvmzBlzJOwrte0xIN"
+      },
+      "artists": [
+        {
+          "name": "Traditional",
+          "url": "https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf"
+        },
+        {
+          "name": "Craig Ogden",
+          "url": "https://open.spotify.com/artist/07pZelCNTBK93CD474588Q"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139120,
+      "name": "O Little Town Of Bethlehem",
+      "url": "https://open.spotify.com/track/7ocAJ3CVIMc4AJJRdxGe7U"
+    },
+    {
+      "album": {
         "name": "Traditional: O Tannenbaum, du tr\u00e4gst ein\u2019 gr\u00fcnen Zweig (Arr. Hoffmann & Grabe for Harp) [Musical Moments]",
         "url": "https://open.spotify.com/album/1Fpts6LEM50PmN9UV1Dc5S"
       },
@@ -725,10 +773,28 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 158000,
       "name": "Somewhere in my memory (arr. L Lucero)",
       "url": "https://open.spotify.com/track/2823E8fmJUEw1j47EUXlfo"
+    },
+    {
+      "album": {
+        "name": "Somewhere In My Memory (from 'Home Alone')",
+        "url": "https://open.spotify.com/album/7JQDeQraMoELsWOxzd81HV"
+      },
+      "artists": [
+        {
+          "name": "Elliott Jacqu\u00e9s",
+          "url": "https://open.spotify.com/artist/22WxwAyT9U9wWsKA7ToO7K"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184333,
+      "name": "Somewhere In My Memory - from 'Home Alone'",
+      "url": "https://open.spotify.com/track/6GHpGH1c670vptD19Mvi7A"
     },
     {
       "album": {

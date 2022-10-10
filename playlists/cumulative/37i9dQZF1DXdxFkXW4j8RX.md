@@ -4,7 +4,7 @@
 
 > La casa de lxs MC's\. Foto: Liricistas & Utopiko.
 
-129 songs - 7 hr 24 min - [published](https://open.spotify.com/playlist/3f2UzVfRrTk3AGf7wEehR9)
+130 songs - 7 hr 29 min - [published](https://open.spotify.com/playlist/3f2UzVfRrTk3AGf7wEehR9)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -124,6 +124,7 @@
 | [Tétricx$](https://open.spotify.com/track/0teOgWoByMLd6hZwUr4EtP) | [Benour](https://open.spotify.com/artist/3fXjWSQMP1Uq1zHyq9wBHV), [E6 Mc](https://open.spotify.com/artist/5rbR9zSXbg31hTNHb7I8kp) | [Tétricx$](https://open.spotify.com/album/15vS7d9j9eJti9DWvWNm5C) | 2:50 | 2022-07-15 |  |
 | [Tétricx$](https://open.spotify.com/track/2hOfCpQPsQJ20xsX0txEZH) | [Benour](https://open.spotify.com/artist/3fXjWSQMP1Uq1zHyq9wBHV), [E6 Mc](https://open.spotify.com/artist/5rbR9zSXbg31hTNHb7I8kp) | [Tétricx$](https://open.spotify.com/album/4mnOv0cWYeGDaHS4MqwOjn) | 2:55 | 2022-01-06 | 2022-07-29 |
 | [Un Día a la Vez](https://open.spotify.com/track/6XIc1J8ydiUWsanMCdC7EM) | [Dania Neko](https://open.spotify.com/artist/6ehVh5kPMBixAL8VovNYeE) | [Coraje](https://open.spotify.com/album/5FCMuepQRC1ekDqoSt2yqQ) | 3:08 | 2022-03-04 | 2022-07-16 |
+| [Uzumaki](https://open.spotify.com/track/5eO9DgpkoSm2k9eOkI14Xg) | [Chystemc](https://open.spotify.com/artist/12wTrvRwxmsbUxkLffkPfv), [Gudspella](https://open.spotify.com/artist/2xjF5imhTEr6WDS0EAqMtw) | [Uzumaki](https://open.spotify.com/album/7nJWw7EXntcF4EjsWsFMJJ) | 4:55 | 2022-10-06 |  |
 | [Vacío Lleno](https://open.spotify.com/track/72ty3sF82GJ31A4SP1w4Nc) | [Gran Rah](https://open.spotify.com/artist/6JjrF0EnCW3Ylj9gj3FXWZ), [Flor De Rap](https://open.spotify.com/artist/3ZIZqvSbTL7mIEyXmbbXs7) | [Vacío Lleno](https://open.spotify.com/album/7ziZZTHfjYW3TmvTQTXK4P) | 3:54 | 2022-01-06 |  |
 | [Verte Cerquita](https://open.spotify.com/track/6eTCWWKBtnJI9Ui9OlLEyO) | [Movimiento Original](https://open.spotify.com/artist/50u2mXgysmTttY0BizYWAo), [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Verte Cerquita](https://open.spotify.com/album/77Q12SIPTgFOPBZ2qRR1Kv) | 3:52 | 2022-01-06 |  |
 | [Viaje Sin Rumbo \- Cover](https://open.spotify.com/track/7BigUklT2tNB1lR8g8WjqQ) | [EnSecreto](https://open.spotify.com/artist/1wxZSwi9v3v9grm87HCqju) | [Viaje Sin Rumbo \(Cover\)](https://open.spotify.com/album/4X5bcqRjxb2S5eSoLVjGWJ) | 3:35 | 2022-01-06 |  |

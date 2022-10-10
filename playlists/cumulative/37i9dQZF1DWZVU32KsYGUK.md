@@ -4,7 +4,7 @@
 
 > Restaurant style, elegant music for your fancy dinner
 
-264 songs - 11 hr 25 min - [published](https://open.spotify.com/playlist/0gUlOOOztUGwj972hi8oyP)
+269 songs - 11 hr 35 min - [published](https://open.spotify.com/playlist/0gUlOOOztUGwj972hi8oyP)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [An Autumn Waltz](https://open.spotify.com/track/0PWS0IcWdSMbQnjvZ1zlIm) | [Jef Martens](https://open.spotify.com/artist/7t8PD6GvlbqByM0g7ysSHH) | [An Autumn Waltz](https://open.spotify.com/album/53h6w8SlgCw3TpJrNUWdpa) | 2:20 | 2022-09-12 |  |
 | [And it Starts to Rain](https://open.spotify.com/track/5DtE1VkhyWxvqUNRbdVZ1y) | [Javi Lobe](https://open.spotify.com/artist/5HofhLeuf1dGJVLDdQ6DLT) | [And it Starts to Rain](https://open.spotify.com/album/00ilvHLWNO3SaC4uXl8J3L) | 2:50 | 2022-04-27 | 2022-06-07 |
 | [Anticipation](https://open.spotify.com/track/4TlbUWl0xAEzahCwTFLyDS) | [Sacha Hoedemaker](https://open.spotify.com/artist/5oDhs7W0MVUoMDfIhwAzJM) | [Anticipation](https://open.spotify.com/album/7lEEv2hwrCanO1SduHSI2T) | 2:33 | 2022-08-03 |  |
+| [Ascension](https://open.spotify.com/track/38bF841d5zbq8rnvXyqQZk) | [Alicia West](https://open.spotify.com/artist/4rY1r047Kp9NhePRYln96V) | [Ascension](https://open.spotify.com/album/2ZLdQ0sdq6lbY5bPSUJnL3) | 1:36 | 2022-10-04 |  |
 | [Auriga](https://open.spotify.com/track/0r8M4zqlJeV0XPtCxyQ6fn) | [Odin Sørlie](https://open.spotify.com/artist/5El7zD8iCQu87fDwPBlPbN) | [Auriga](https://open.spotify.com/album/69FM0NepvcgTA81ItYe8HI) | 2:14 | 2022-04-27 | 2022-05-21 |
 | [Autumn Leaf](https://open.spotify.com/track/79q3lBKpjZLlfgfybAIRaO) | [Esperanza](https://open.spotify.com/artist/24T5i2cT1QSUxliOi5KeJa) | [Autumn Leaf](https://open.spotify.com/album/7bvRmwCxFVH5AntdH5j6H7) | 2:27 | 2022-04-27 | 2022-07-08 |
 | [Avalanche](https://open.spotify.com/track/1kQFxgqG3KcKErQlvH66lz) | [Lucién](https://open.spotify.com/artist/76OnsMFi0V8EsscskTGEch) | [Avalanche](https://open.spotify.com/album/0VG2I88bspS6L3rgcTC3Dm) | 2:16 | 2022-04-27 |  |
@@ -29,6 +30,7 @@
 | [Ática](https://open.spotify.com/track/07g8nWc95mnGgPfRlRq075) | [Emilia Branco](https://open.spotify.com/artist/6TjvSnmtFpeJvto4Ihzozz) | [Ática](https://open.spotify.com/album/2UEDt340ibuHflO6Hd2ZEs) | 2:29 | 2022-04-27 |  |
 | [Ballerina Light](https://open.spotify.com/track/5Eq3qZckwqaLZq2yEsUAvU) | [Ingemar Aberg](https://open.spotify.com/artist/7qA4SXXE0nQFNPN2qLmT4H) | [Ballerina Light](https://open.spotify.com/album/1E1NYgXEpG8vZWzJl7Y3Mh) | 2:41 | 2022-04-27 | 2022-05-21 |
 | [Bartram's Garden](https://open.spotify.com/track/0E97LEEOz5rk6wAJr6rNI3) | [Zachary Patel](https://open.spotify.com/artist/5BTQ9QBT1Le61VYLVtRBCB) | [Bartram's Garden](https://open.spotify.com/album/1SRli8CCpxMiaYuPgfR8qa) | 2:23 | 2022-04-27 | 2022-05-28 |
+| [Before Dawn](https://open.spotify.com/track/5ws3WqORaKbIIikvTnWmPX) | [Aydin Ryan](https://open.spotify.com/artist/1FGLK97H3rJCpG266luzYs) | [Before Dawn](https://open.spotify.com/album/4F2iV0Ugy9rpnhh8ubOXRG) | 1:32 | 2022-10-04 |  |
 | [Before your eyes](https://open.spotify.com/track/4xugZez7zpHFNTgkf0DLV1) | [Mirta da Silva](https://open.spotify.com/artist/0lQPyV27qv4l2vBbFJsImj) | [Before your eyes](https://open.spotify.com/album/0o9d8yy6sU4pkrwu06Y84t) | 3:00 | 2022-04-27 |  |
 | [Belle Chose](https://open.spotify.com/track/1xvQ1dL7KqGKWxqR0dkSeY) | [Moldoveanu](https://open.spotify.com/artist/4eyw3Zvban1yje7bF3ha4O) | [Belle Chose](https://open.spotify.com/album/7j9Fxq6fK1UyldqGnnY1TX) | 2:40 | 2022-04-27 |  |
 | [Bibliothèque](https://open.spotify.com/track/02q15OnIA9bH90KYqbyBvI) | [Nadav Amir\-Himmel](https://open.spotify.com/artist/1gLEDK37zrK7KasVpnQZsZ), [Hazel Dumoulin](https://open.spotify.com/artist/4ddvhBOBwHziZBPGwJPTjd) | [Bibliothèque](https://open.spotify.com/album/2AgUYEnDRtr6a7B8eMj530) | 2:54 | 2022-05-04 |  |
@@ -171,6 +173,7 @@
 | [Ozoner](https://open.spotify.com/track/18a9jkAzxb1ooVOCfiBxoZ) | [Solemn Whisper](https://open.spotify.com/artist/0gAUfRBZD1mQlq6QaaJnPq) | [Ozoner](https://open.spotify.com/album/6BKP1295jcSDfcRnlvqIyk) | 3:04 | 2022-04-27 |  |
 | [Papillon](https://open.spotify.com/track/4etRflD5pUsnz108tx1xAc) | [Solène Garnier](https://open.spotify.com/artist/2MJrIZl36H74AdDZyKA5Y1) | [Papillon](https://open.spotify.com/album/5YAT2Vz0oQPx9NhKRnASNF) | 3:01 | 2022-04-27 |  |
 | [Passacaglia](https://open.spotify.com/track/1uO8v8SqOHLw1XGAPZBq9q) | [Martin Bloch](https://open.spotify.com/artist/2WJ5Jh2DxFhkyA3xRoq77z) | [Passacaglia](https://open.spotify.com/album/6BGRc8IdJ7LnmfVUR5gCbP) | 2:43 | 2022-08-09 |  |
+| [Passing By](https://open.spotify.com/track/0HRMy4dYhy40Ws3GIqpFAk) | [Anna Sofia Nord](https://open.spotify.com/artist/1LMH92wmd895KpE0pdRSek) | [Passing By](https://open.spotify.com/album/5RoRpy3WX5ytEw1p8Lf5qg) | 2:02 | 2022-10-04 |  |
 | [Passing By](https://open.spotify.com/track/4cKIi7twv61qQ0z0Apuoxu) | [Mikayo Koide](https://open.spotify.com/artist/32D46op6s0swxNHe7MCxLv) | [Passing By](https://open.spotify.com/album/7L0eqs9WBSnYhfhFQr2cko) | 2:19 | 2022-04-27 | 2022-05-21 |
 | [Peaceful Reflections](https://open.spotify.com/track/5qob7OKrAv9Sld67bNg3au) | [Nelson Haynes](https://open.spotify.com/artist/1rOFIl5TolohZGyTxJni75) | [Madrigal](https://open.spotify.com/album/3T4PBqvtzGDoVuD6wXmzu8) | 2:20 | 2022-04-27 |  |
 | [Pensierino](https://open.spotify.com/track/2r4aYjCB1TuQXVgRIPb3Oe) | [Maura Bellucci](https://open.spotify.com/artist/7EJf6TnQIBHlzkCmMx6oFW) | [Pensierino](https://open.spotify.com/album/4EpQQNXnD33xDH6Oaw6T8q) | 2:29 | 2022-04-27 |  |
@@ -222,6 +225,7 @@
 | [Spring Time Ballet](https://open.spotify.com/track/1tVqsgTUBOIsN8We0UtdqJ) | [Listening Wind](https://open.spotify.com/artist/1kgG3gkwM4b5riMk7GVKSz) | [Spring Time Ballet](https://open.spotify.com/album/341LYFQqln5ycveU2A0F7L) | 2:28 | 2022-05-04 |  |
 | [Stundom](https://open.spotify.com/track/1OJmKyPXayT4TID0XE2uxt) | [Jacob David](https://open.spotify.com/artist/2ClAWj3iKUlyddnvR6faUP), [Elliott Jacqués](https://open.spotify.com/artist/22WxwAyT9U9wWsKA7ToO7K) | [Stundom](https://open.spotify.com/album/5WYK03J5fXQzuSx67C1Npu) | 2:28 | 2022-04-27 | 2022-06-07 |
 | [Sun Prelude](https://open.spotify.com/track/07RjQvhbiROEpMtNyNE08U) | [Ola Gjeilo](https://open.spotify.com/artist/29lbSb4ujaVH5pHnQjFT0G) | [Gjeilo: Sun Prelude](https://open.spotify.com/album/2j5otpbzoJX9uB9pD7jdzK) | 2:34 | 2022-08-09 |  |
+| [Sun Rays](https://open.spotify.com/track/1zYeaGszUkDyQd0Rk2jUX1) | [Aiden Kelly](https://open.spotify.com/artist/6OMjw6yGi38GTbrktNfxu3) | [Sun Rays](https://open.spotify.com/album/4HOCxe4I0644Rcm9AQZ9BD) | 1:40 | 2022-10-04 |  |
 | [Sunset Aglow](https://open.spotify.com/track/2xfXbJK08v7gZb9YvPr0UZ) | [Edgar De Vries](https://open.spotify.com/artist/5ccEcnSCa82fIfFgwpVyrD) | [Quiet Cove](https://open.spotify.com/album/5GsMGDSeQKNXLZsujzhCTL) | 2:42 | 2022-04-27 |  |
 | [Swamp](https://open.spotify.com/track/1s8esXu1jTNJ49RwotQLSc) | [Hiroko Murakami](https://open.spotify.com/artist/2FPMZBH13ARkDrd37sIp13), [Hiroco.M](https://open.spotify.com/artist/723sN2rn2hMtdiMbzAZ3Of) | [Swamp](https://open.spotify.com/album/6JWJL7LDHzUVknPtZIxv71) | 2:01 | 2022-04-27 | 2022-06-07 |
 | [System Next Door](https://open.spotify.com/track/6GmG5vN2CxjMZ9Hjxr0P0D) | [Aurelius Conner](https://open.spotify.com/artist/1UwYRIlQBtCysDN5bbXhlh) | [Ohio Fair](https://open.spotify.com/album/608MQ2CpVoBzLUN4cwgjrZ) | 2:54 | 2022-05-20 | 2022-08-04 |
@@ -251,6 +255,7 @@
 | [Verses](https://open.spotify.com/track/6t1T3fMWfv5svT4ZTsBnBY) | [Ever So Blue](https://open.spotify.com/artist/6LwcYWG1molG0KW2xwnPd2) | [Verses](https://open.spotify.com/album/0oEfniLgEookbXSSQSpIqE) | 3:15 | 2022-04-27 |  |
 | [verträumt](https://open.spotify.com/track/2VrSJrGv8MBnQY5M6OkeeB) | [Friedrich Hauser](https://open.spotify.com/artist/3Y8frXJquHsEiB2pg3oVUy) | [schlaflos](https://open.spotify.com/album/7IaFRUsh4JDjZg0AsRg1BQ) | 2:55 | 2022-04-27 |  |
 | [Vicino Al Mare](https://open.spotify.com/track/0evg2YZZKEKnKkjraD4LGQ) | [Leila Milki](https://open.spotify.com/artist/4DXSD40PBK0g20FwbdMUON) | [Springtime Improvisations](https://open.spotify.com/album/5ezMUY3NhgxPsufHezSG7D) | 2:08 | 2022-05-04 |  |
+| [Vierzylinder](https://open.spotify.com/track/3QI14HQnAH2BB5CffziKaF) | [Agnes Klein](https://open.spotify.com/artist/5ZxksGDvjeNLxyy7t4NSpV) | [Vierzylinder](https://open.spotify.com/album/5qYXPblYOuRH9V3d7MoJBg) | 2:49 | 2022-10-04 |  |
 | [Virgil's Keep](https://open.spotify.com/track/0XwIXwm8GgFI3IlSB7eKNE) | [Aglisia](https://open.spotify.com/artist/1wkWfJO2iWD4TL4tCag8Sh) | [Virgil's Keep](https://open.spotify.com/album/0H0intbJCcPJKpvailkeTb) | 3:08 | 2022-09-12 |  |
 | [Vitrales](https://open.spotify.com/track/2SPkUtdw39pnYWZr01opD9) | [Emilia Branco](https://open.spotify.com/artist/6TjvSnmtFpeJvto4Ihzozz) | [Vitrales](https://open.spotify.com/album/6NfvuPPYduPE9MIQviXENF) | 2:40 | 2022-04-27 | 2022-08-30 |
 | [Waltz in C Minor](https://open.spotify.com/track/4o86gIkaHCVK1oYIMK5vaO) | [Taichi Chishaki](https://open.spotify.com/artist/1JNnDWgUDZJvOO6wAqfIUJ) | [Waltz in C Minor](https://open.spotify.com/album/3buukblHjCzRQfK0qYKBra) | 2:20 | 2022-09-12 |  |

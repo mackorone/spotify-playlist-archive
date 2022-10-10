@@ -4,12 +4,13 @@
 
 > Si la salsa se cruza con la chamba..\. ¡súbele a la bocina y ponle sabor a tus labores!
 
-152 songs - 12 hr 14 min - [published](https://open.spotify.com/playlist/0gmGoKj3osvWK7STuxpUvj)
+154 songs - 12 hr 24 min - [published](https://open.spotify.com/playlist/0gmGoKj3osvWK7STuxpUvj)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A Donde Va el Amor](https://open.spotify.com/track/5FkApfk8iM4K2P7QSq8fYr) | [Octava Dimensión](https://open.spotify.com/artist/4JUDKDD17O3mcDHAGuMgOr) | [Sólo Tú](https://open.spotify.com/album/0WrM9OH9RrcpNxAzK7SLUk) | 4:56 | 2022-08-02 |  |
-| [A Pesar del Tiempo](https://open.spotify.com/track/4hAL5hEovJ29cHPAN1r1Yy) | [Mickey Taveras](https://open.spotify.com/artist/1iVpMZKqpnZWfCXO2vIozm) | [Latino! Grandes Éxitos \- Juan Luis Guerra / Karen Records](https://open.spotify.com/album/2zjk3XQqUgGB8Mh7pkcP49) | 4:55 | 2022-08-02 |  |
+| [A Pesar del Tiempo](https://open.spotify.com/track/1UAnqYmOWtyVXNOA8cPQ8r) | [Mickey Taveras](https://open.spotify.com/artist/1iVpMZKqpnZWfCXO2vIozm) | [Lucharé](https://open.spotify.com/album/2TLAq5snR8KdndLMVCzHC4) | 4:55 | 2022-08-02 |  |
+| [A Pesar del Tiempo](https://open.spotify.com/track/4hAL5hEovJ29cHPAN1r1Yy) | [Mickey Taveras](https://open.spotify.com/artist/1iVpMZKqpnZWfCXO2vIozm) | [Latino! Grandes Éxitos \- Juan Luis Guerra / Karen Records](https://open.spotify.com/album/2zjk3XQqUgGB8Mh7pkcP49) | 4:55 | 2022-08-02 | 2022-10-06 |
 | [A Pesar Del Tiempo](https://open.spotify.com/track/694UEye58A0IZCIluDQNRv) | [Mickey Taveras](https://open.spotify.com/artist/1iVpMZKqpnZWfCXO2vIozm) | [A Pesar Del Tiempo](https://open.spotify.com/album/2w7deBpcUwnDDk2pIEhzd3) | 4:57 | 2022-08-02 | 2022-09-25 |
 | [Ahora Entregate](https://open.spotify.com/track/1PX148jfoix6o4reLZbplc) | [Adolescent's Orquesta](https://open.spotify.com/artist/70nxnxEqDQIEWneRjg2Q4O) | [Ahora Entregate](https://open.spotify.com/album/4E6qUXYKMpabevZvHDYYxS) | 4:30 | 2022-08-02 |  |
 | [Ahora Quien \- Salsa Version](https://open.spotify.com/track/5A32KQZznC2HSqr9qzTl2N) | [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [Valio La Pena](https://open.spotify.com/album/4O3yvEN5II2yKWKBPtDLD7) | 5:09 | 2022-08-02 |  |
@@ -154,7 +155,8 @@
 | [Vete Ya](https://open.spotify.com/track/0eYLUCx6MYnuc1DcmKT2kB) | [Danny Daniel](https://open.spotify.com/artist/35T96HTcA2Htb7z45hXfQB), [Prix 06](https://open.spotify.com/artist/6im4HqwEQxtiO57W6M8oDX) | [Hechizando](https://open.spotify.com/album/5aYFFREW8bBjbh0yV886bq) | 4:53 | 2022-08-02 |  |
 | [Virgen](https://open.spotify.com/track/6srBp90EwADKAF7PorGiUC) | [Adolescent's Orquesta](https://open.spotify.com/artist/70nxnxEqDQIEWneRjg2Q4O) | [Ahora Más Que Nunca](https://open.spotify.com/album/23TxGN2lFbBkvSIL1yVDKk) | 4:31 | 2022-08-02 |  |
 | [Y Qué Me Pasa](https://open.spotify.com/track/3h00Mu0HcUdCNaxxNoWB3B) | [Mickey Taveras](https://open.spotify.com/artist/1iVpMZKqpnZWfCXO2vIozm) | [Y Qué Me Pasa](https://open.spotify.com/album/7y91WmADTOR396FZe5KJGn) | 5:05 | 2022-08-02 | 2022-09-25 |
-| [Y Qué Me Pasa \- Salsa](https://open.spotify.com/track/3OXeVpFbzJVZpOtXItrTyN) | [Mickey Taveras](https://open.spotify.com/artist/1iVpMZKqpnZWfCXO2vIozm) | [Lucharé](https://open.spotify.com/album/6D1EQ3P1Rma06b68UPZCNe) | 5:03 | 2022-08-02 |  |
+| [Y Qué Me Pasa \- Salsa](https://open.spotify.com/track/3OXeVpFbzJVZpOtXItrTyN) | [Mickey Taveras](https://open.spotify.com/artist/1iVpMZKqpnZWfCXO2vIozm) | [Lucharé](https://open.spotify.com/album/6D1EQ3P1Rma06b68UPZCNe) | 5:03 | 2022-08-02 | 2022-10-04 |
+| [Y Qué Me Pasa \- Salsa](https://open.spotify.com/track/7E6LWDOm7duh7iXF3is22H) | [Mickey Taveras](https://open.spotify.com/artist/1iVpMZKqpnZWfCXO2vIozm) | [Lucharé](https://open.spotify.com/album/2TLAq5snR8KdndLMVCzHC4) | 5:03 | 2022-08-02 |  |
 | [Ya No Te Puedo Amar](https://open.spotify.com/track/0SpeO0AlcVWQVcAZV3RUjZ) | [Grupo Galé](https://open.spotify.com/artist/4152ZUds7gXsqYQexUonDP) | [Sin Apariencias](https://open.spotify.com/album/5ZHCO172wRxkcOAx9RbHmO) | 5:05 | 2022-08-02 |  |
 | [Ya No Te Puedo Amar](https://open.spotify.com/track/6XTAzYRfBqlkhbxaNMO8H3) | [Grupo Galé](https://open.spotify.com/artist/4152ZUds7gXsqYQexUonDP) | [Dos Decadas de Oro](https://open.spotify.com/album/5USvOUEgQWWhZ7CTEpfWsA) | 5:05 | 2022-08-02 |  |
 | [Yo No Soy Guapo](https://open.spotify.com/track/5xg8xey3cg0LvsY72ssgeI) | [Eddie Palmieri](https://open.spotify.com/artist/2VviFtXYreO6Zn9n8Ibk6C) | [Solito](https://open.spotify.com/album/6AY69nRRUOsqIoQauepZM2) | 5:07 | 2022-08-02 |  |
